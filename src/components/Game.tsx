@@ -20,9 +20,11 @@ import DrillShaft from "./DrillShaft";
 import Summary from "./Summary";
 import RevealList from "./RevealList";
 import HowToPlay from "./HowToPlay";
+import SpaceStage from "./SpaceStage";
+import { APPROACH_MS, LAUNCH_MS } from "@/lib/journey";
 import s from "./Game.module.css";
 
-type Phase = "loading" | "error" | "briefing" | "countdown" | "drilling" | "settling" | "reveal" | "summary";
+type Phase = "loading" | "error" | "briefing" | "launch" | "approach" | "countdown" | "drilling" | "settling" | "reveal" | "summary";
 
 interface Feedback {
   id: number;
@@ -110,11 +112,37 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
 
   const round = day?.rounds[roundIdx];
 
-  const startCountdown = () => {
+  const reducedMotion = () =>
+    typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  const liftOff = () => {
+    setPhase("launch");
+    sfx.launch();
+  };
+
+  const flyToAsteroid = useCallback(() => {
+    setPhase("approach");
+    sfx.warp();
+  }, []);
+
+  const startCountdown = useCallback(() => {
     setCount(3);
     setPhase("countdown");
     sfx.count();
+  }, []);
+
+  // Launch, then warp to the asteroid, then count down. Tapping skips ahead.
+  const skipScene = () => {
+    if (phase === "launch") flyToAsteroid();
+    else if (phase === "approach") startCountdown();
   };
+
+  useEffect(() => {
+    if (phase !== "launch" && phase !== "approach") return;
+    const ms = reducedMotion() ? 700 : phase === "launch" ? LAUNCH_MS : APPROACH_MS;
+    const t = setTimeout(phase === "launch" ? flyToAsteroid : startCountdown, ms);
+    return () => clearTimeout(t);
+  }, [phase, flyToAsteroid, startCountdown]);
 
   const beginDrilling = useCallback(() => {
     const now = Date.now();
@@ -246,7 +274,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       setPhase("summary");
     } else {
       setRoundIdx((i) => i + 1);
-      startCountdown();
+      flyToAsteroid();
     }
   };
 
@@ -285,8 +313,8 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
           Three asteroids. <span className={s.accent}>Thirty seconds each.</span>
         </h1>
 
-        <button className={s.startBtn} onClick={startCountdown}>
-          {doneRounds === 0 ? "Start drilling" : `Drill asteroid ${roundIdx + 1}`}
+        <button className={s.startBtn} onClick={liftOff}>
+          {doneRounds === 0 ? "Lift off" : `Fly to asteroid ${roundIdx + 1}`}
         </button>
         {doneRounds > 0 && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}
 
@@ -304,15 +332,25 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
     );
   }
 
+  if (phase === "launch" || phase === "approach") {
+    return (
+      <section aria-live="polite">
+        <SpaceStage scene={phase} round={roundIdx} onSkip={skipScene} />
+      </section>
+    );
+  }
+
   if (phase === "countdown" && round) {
     return (
-      <section className={s.countdown} aria-live="assertive">
-        <p className={s.rockCode}>{round.designation}</p>
-        <h2 className={s.countTitle}>{round.title}</h2>
-        <p className={s.countPrompt}>{round.prompt}</p>
-        <div key={count} className={s.countNum}>
-          {count}
-        </div>
+      <section aria-live="assertive">
+        <SpaceStage scene="arrived" round={roundIdx}>
+          <p className={s.rockCode}>{round.designation}</p>
+          <h2 className={s.countTitle}>{round.title}</h2>
+          <p className={s.countPrompt}>{round.prompt}</p>
+          <div key={count} className={s.countNum}>
+            {count}
+          </div>
+        </SpaceStage>
       </section>
     );
   }

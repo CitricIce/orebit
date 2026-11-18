@@ -192,15 +192,6 @@
 }
 
 /* Countdown */
-.countdown {
-  min-height: 60vh;
-  display: grid;
-  place-content: center;
-  justify-items: center;
-  text-align: center;
-  gap: 10px;
-}
-
 .countTitle {
   font-size: clamp(40px, 8vw, 72px);
   letter-spacing: -0.03em;

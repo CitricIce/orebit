@@ -64,6 +64,16 @@ export const sfx = {
   count() {
     tone(660, 0, 0.08, "square", 0.04);
   },
+  launch() {
+    // Low rumble that climbs as the rocket clears the pad.
+    tone(55, 0, 2.6, "sawtooth", 0.07, 140);
+    tone(82, 0.05, 2.4, "square", 0.025, 220);
+    tone(300, 1.2, 1.6, "sine", 0.03, 900);
+  },
+  warp() {
+    tone(180, 0, 1.4, "sine", 0.05, 1400);
+    tone(90, 0.1, 1.8, "triangle", 0.04, 600);
+  },
   end() {
     tone(500, 0, 0.5, "sawtooth", 0.05, 120);
   },
