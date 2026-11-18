@@ -1,0 +1,50 @@
+"use client";
+
+import Link from "next/link";
+import { useMemo } from "react";
+import { addDays, dayNumber, formatShortDate, LAUNCH_DATE, localToday } from "@/lib/dates";
+import { formatMeters, rankFor } from "@/lib/tiers";
+import { loadAllDays, totalDepth, type DayRecord } from "@/lib/client/storage";
+import { useMounted } from "@/lib/client/useMounted";
+import s from "./Pages.module.css";
+
+export default function ArchiveList() {
+  const mounted = useMounted();
+  const days = useMemo<Record<string, DayRecord>>(() => (mounted ? loadAllDays() : {}), [mounted]);
+  if (!mounted) return null;
+  const today = localToday();
+
+  const dates: string[] = [];
+  for (let d = today; d >= LAUNCH_DATE; d = addDays(d, -1)) dates.push(d);
+  const played = dates.filter((d) => days[d]?.completed).length;
+
+  return (
+    <section>
+      <p className={s.kicker}>Survey archive</p>
+      <h1 className={s.h1}>Every asteroid, every day.</h1>
+      <p className={s.lede}>
+        Missed a day? Replay any past survey. Archive runs count toward your stats, not your streak.
+        {dates.length > 0 && ` You've finished ${played} of ${dates.length}.`}
+      </p>
+      <ul className={s.archive}>
+        {dates.map((d) => {
+          const rec = days[d];
+          const done = rec?.completed;
+          const started = rec && !done && rec.rounds.some(Boolean);
+          const depth = rec ? totalDepth(rec) : 0;
+          return (
+            <li key={d}>
+              <Link href={d === today ? "/" : `/archive/${d}`} className={s.archiveCard} data-done={!!done}>
+                <span className={s.archiveNum}>#{dayNumber(d)}</span>
+                <span className={s.archiveDate}>{d === today ? "Today" : formatShortDate(d)}</span>
+                <span className={s.archiveState}>
+                  {done ? `${formatMeters(depth)} · ${rankFor(depth).title}` : started ? "In progress" : "Not played"}
+                </span>
+              </Link>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  );
+}

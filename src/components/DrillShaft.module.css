@@ -1,0 +1,169 @@
+.shaft {
+  --offset: 0px;
+  --heat: 0;
+  position: relative;
+  overflow: hidden;
+  border-radius: 18px;
+  border: 1px solid var(--line);
+  background: #120d1c;
+  min-height: 420px;
+  isolation: isolate;
+}
+
+.strata {
+  position: absolute;
+  inset: -2000px 0 0 0;
+  background-image:
+    radial-gradient(circle at 20% 30%, rgb(255 255 255 / 0.05) 0 2px, transparent 3px),
+    radial-gradient(circle at 70% 60%, rgb(0 0 0 / 0.35) 0 3px, transparent 4px),
+    radial-gradient(circle at 40% 85%, rgb(255 200 140 / 0.06) 0 2px, transparent 3px),
+    repeating-linear-gradient(
+      172deg,
+      #2a2132 0 34px,
+      #33283c 34px 62px,
+      #241c2c 62px 110px,
+      #3a2c3a 110px 128px,
+      #2c2234 128px 190px,
+      #1f1827 190px 230px
+    );
+  background-size: 90px 70px, 120px 110px, 70px 90px, 100% 460px;
+  background-position-y: var(--offset);
+  transition: background-position-y 0.55s cubic-bezier(0.2, 0.9, 0.2, 1);
+}
+
+.shaft::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgb(7 6 13 / 0.85), transparent 18%, transparent 75%, rgb(7 6 13 / 0.9));
+  pointer-events: none;
+  z-index: 2;
+}
+
+.marks {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 46%;
+  z-index: 1;
+}
+
+.mark {
+  position: absolute;
+  left: 8px;
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.04em;
+  color: rgb(255 255 255 / 0.35);
+  transition: transform 0.55s cubic-bezier(0.2, 0.9, 0.2, 1);
+  padding-top: 2px;
+  border-top: 1px dashed rgb(255 255 255 / 0.18);
+  width: calc(100% - 16px);
+}
+
+.bore {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  height: 46%;
+  width: 26px;
+  transform: translateX(-50%);
+  background: linear-gradient(90deg, #0a0710, #17111f 40%, #0a0710);
+  box-shadow: inset 0 0 12px rgb(0 0 0 / 0.8);
+  z-index: 1;
+}
+
+.rig {
+  position: absolute;
+  left: 50%;
+  top: calc(46% - 82px);
+  transform: translateX(-50%);
+  z-index: 3;
+}
+
+.drill {
+  width: 34px;
+  height: 82px;
+  display: block;
+  filter: drop-shadow(0 0 calc(var(--heat) * 14px) rgb(255 120 40 / 0.8));
+}
+
+.hot {
+  opacity: calc(0.15 + var(--heat) * 0.85);
+}
+
+.shaft[data-drilling="true"] .drill {
+  animation: shake 0.09s linear infinite;
+}
+
+.shaft[data-drilling="true"] .threads {
+  animation: spin 0.25s linear infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(0, 0); }
+  25% { transform: translate(-0.6px, 0.4px); }
+  50% { transform: translate(0.6px, -0.3px); }
+  75% { transform: translate(-0.4px, -0.4px); }
+}
+
+@keyframes spin {
+  from { transform: translateY(0); }
+  to { transform: translateY(10px); }
+}
+
+.sparks {
+  position: absolute;
+  left: 50%;
+  top: 78px;
+}
+
+.spark {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  margin: -3px;
+  border-radius: 1px;
+  background: var(--c);
+  box-shadow: 0 0 8px var(--c);
+  opacity: 0;
+  animation: burst 0.7s ease-out forwards;
+}
+
+@keyframes burst {
+  0% { opacity: 1; transform: translate(0, 0) scale(1) rotate(0deg); }
+  100% { opacity: 0; transform: translate(var(--x), var(--y)) scale(0.3) rotate(160deg); }
+}
+
+@media (max-width: 720px) {
+  .shaft {
+    min-height: 0;
+    height: 100%;
+    border-radius: 14px;
+  }
+  .mark {
+    font-size: 0;
+    left: 4px;
+  }
+  .drill {
+    width: 24px;
+    height: 58px;
+  }
+  .rig {
+    top: calc(46% - 58px);
+  }
+  .sparks {
+    top: 56px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .strata,
+  .mark {
+    transition: none;
+  }
+  .shaft[data-drilling="true"] .drill,
+  .shaft[data-drilling="true"] .threads {
+    animation: none;
+  }
+}

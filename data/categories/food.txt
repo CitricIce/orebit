@@ -1,0 +1,488 @@
+=== fruits
+title: Fruits
+prompt: Name as many fruits as you can
+starcore: Rambutan
+---
+Apple
+Banana
+Orange
+Grape
+Strawberry
+Blueberry
+Raspberry
+Blackberry
+Cherry
+Peach
+Pear
+Plum
+Mango
+Pineapple
+Watermelon
+Cantaloupe
+Honeydew
+Melon
+Kiwi | kiwifruit
+Lemon
+Lime
+Grapefruit
+Tangerine
+Clementine
+Mandarin
+Apricot
+Nectarine
+Pomegranate
+Papaya
+Coconut
+Avocado
+Fig @2
+Date @2
+Cranberry
+Gooseberry
+Currant | blackcurrant | redcurrant
+Elderberry
+Mulberry
+Boysenberry
+Huckleberry
+Lingonberry
+Cloudberry
+Passion Fruit @3
+Guava
+Lychee | litchi
+Dragon Fruit | pitaya
+Star Fruit | carambola @3
+Persimmon
+Quince
+Kumquat
+Tomato
+Olive
+Jackfruit
+Durian
+Rambutan
+Mangosteen
+Longan
+Loquat
+Plantain
+Soursop | guanabana
+Cherimoya | custard apple
+Feijoa
+Tamarind
+Yuzu
+Pomelo
+Ugli Fruit
+Blood Orange @3
+Medlar
+Salak | snake fruit
+Ackee
+Breadfruit
+Jabuticaba
+Physalis | ground cherry | cape gooseberry
+Acai
+Goji Berry | goji
+Rhubarb
+Cucumber
+Pumpkin @2
+Sapodilla
+Miracle Fruit
+Marionberry
+Sloe
+Damson
+Bilberry
+Prickly Pear
+Horned Melon | kiwano
+
+=== vegetables
+title: Vegetables
+prompt: Name as many vegetables as you can
+starcore: Romanesco
+---
+Carrot
+Potato
+Onion
+Garlic
+Tomato
+Lettuce
+Spinach
+Broccoli
+Cauliflower
+Cabbage
+Celery
+Cucumber
+Pepper | bell pepper | capsicum
+Corn | maize | sweetcorn
+Peas | pea
+Green Beans | beans | string beans
+Zucchini | courgette
+Eggplant | aubergine
+Pumpkin @2
+Squash | butternut squash
+Sweet Potato
+Yam
+Radish
+Beet | beetroot
+Turnip
+Parsnip
+Rutabaga | swede
+Kale
+Brussels Sprouts | brussel sprouts | sprouts
+Asparagus
+Artichoke
+Leek
+Shallot
+Scallion | green onion | spring onion
+Mushroom
+Okra
+Bok Choy | pak choi
+Chard | swiss chard
+Collard Greens | collards
+Arugula | rocket
+Watercress
+Endive
+Radicchio
+Fennel
+Kohlrabi
+Celeriac
+Jicama
+Daikon
+Ginger
+Horseradish
+Jerusalem Artichoke | sunchoke
+Taro
+Cassava | yuca | manioc
+Lotus Root
+Bamboo Shoots
+Water Chestnut
+Edamame
+Snow Peas | mangetout
+Chickpeas | garbanzo
+Lentils
+Jalapeño | jalapeno
+Chili | chili pepper
+Romanesco
+Salsify
+Mustard Greens
+Dandelion Greens
+Fiddlehead
+Tomatillo
+Chayote
+Bitter Melon
+Kabocha
+Sorrel
+Broccolini
+Rapini | broccoli rabe
+
+=== cheeses
+title: Cheeses
+prompt: Name as many cheeses as you can
+starcore: Casu Marzu
+---
+Cheddar
+Mozzarella
+Parmesan | parmigiano reggiano | parmigiano
+Swiss
+Brie
+Camembert
+Gouda
+Feta
+Blue Cheese | bleu cheese
+Gorgonzola
+Roquefort
+Stilton
+Ricotta
+Cream Cheese
+Cottage Cheese
+Provolone
+Monterey Jack | jack
+Pepper Jack
+Colby
+Havarti
+Edam
+Emmental | emmentaler
+Gruyère | gruyere
+Manchego
+Halloumi
+Paneer
+Mascarpone
+Burrata
+Pecorino | pecorino romano
+Asiago
+Fontina
+Taleggio
+Muenster | munster
+Limburger
+Raclette
+Comté | comte
+Reblochon
+Époisses | epoisses
+Pont-l'Évêque | pont leveque
+Boursin
+Chèvre | chevre | goat cheese
+Wensleydale
+Red Leicester
+Double Gloucester
+Caerphilly
+Lancashire
+Jarlsberg
+Gjetost | brunost
+Queso Fresco
+Cotija
+Oaxaca
+Paneer
+Labneh
+Mimolette
+Port Salut
+Saint Agur
+Cambozola
+Leerdammer
+American Cheese | american
+Velveeta
+String Cheese
+Burgos
+Idiazabal
+Casu Marzu
+Stracciatella
+Scamorza
+Caciocavallo
+Grana Padano
+Wagasi
+
+=== pasta
+title: Pasta shapes
+prompt: Name as many pasta shapes as you can
+starcore: Strozzapreti
+---
+Spaghetti
+Penne
+Fusilli
+Macaroni | elbow macaroni
+Linguine
+Fettuccine
+Lasagna | lasagne
+Ravioli
+Tortellini
+Rigatoni
+Farfalle | bow tie | bowtie
+Rotini
+Orzo
+Gnocchi
+Tagliatelle
+Pappardelle
+Ziti
+Cannelloni
+Manicotti
+Angel Hair | capellini
+Vermicelli
+Bucatini
+Orecchiette
+Conchiglie | shells
+Cavatappi
+Ditalini
+Rotelle | wagon wheels
+Gemelli
+Campanelle
+Radiatori
+Paccheri
+Tortelloni
+Agnolotti
+Cappelletti
+Mafaldine
+Trofie
+Strozzapreti
+Casarecce
+Cavatelli
+Fregola
+Stelline
+Anelli
+Acini di Pepe
+Bigoli
+Pici
+Garganelli
+Lumache
+Mezzelune
+Sedanini
+Tubetti
+Ziti Rigati
+Pastina
+Alphabet Pasta | alphabets
+Fideo
+Pizzoccheri
+Malloreddus
+Corzetti
+Scialatielli
+Spaghettini
+Tagliolini
+Calamarata
+
+=== herbs-spices
+title: Herbs and spices
+prompt: Name as many herbs and spices as you can
+starcore: Asafoetida
+---
+Salt
+Pepper | black pepper
+Cinnamon
+Nutmeg
+Ginger
+Garlic
+Turmeric
+Cumin
+Paprika
+Oregano
+Basil
+Thyme
+Rosemary
+Sage
+Parsley
+Mint
+Dill
+Cilantro | coriander
+Chives
+Bay Leaf | bay
+Cloves | clove
+Cardamom
+Saffron
+Vanilla
+Allspice
+Cayenne
+Chili Powder
+Mustard Seed | mustard
+Fennel Seed | fennel
+Anise | aniseed
+Star Anise
+Caraway
+Fenugreek
+Sumac
+Za'atar | zaatar
+Marjoram
+Tarragon
+Lemongrass
+Lavender
+Chervil
+Lovage
+Savory
+Sorrel
+Horseradish
+Wasabi
+Sesame
+Poppy Seed
+Celery Seed
+Juniper
+Mace
+Galangal
+Kaffir Lime Leaves | makrut lime
+Curry Leaves
+Curry Powder
+Garam Masala
+Five Spice
+Asafoetida | hing
+Nigella | kalonji
+Ajwain
+Annatto
+Grains of Paradise
+Sichuan Pepper | szechuan pepper
+Long Pepper
+Pink Peppercorn
+Epazote
+Shiso
+Borage
+Hyssop
+Licorice Root | liquorice
+Smoked Paprika
+Onion Powder
+Garlic Powder
+Msg
+
+=== desserts
+title: Desserts
+prompt: Name as many desserts as you can
+starcore: Pavlova
+---
+Cake
+Pie
+Ice Cream
+Cookie | cookies
+Brownie
+Cupcake
+Cheesecake
+Pudding
+Donut | doughnut
+Muffin
+Tiramisu
+Crème Brûlée | creme brulee
+Mousse | chocolate mousse
+Pavlova
+Macaron | macarons
+Eclair
+Profiterole | cream puff
+Cannoli
+Baklava
+Churro | churros
+Flan
+Custard
+Trifle
+Sorbet
+Gelato
+Frozen Yogurt | froyo
+Sundae
+Banana Split
+Milkshake
+Apple Pie
+Pumpkin Pie
+Pecan Pie
+Key Lime Pie
+Lemon Meringue Pie | lemon meringue
+Cobbler
+Crumble
+Crisp
+Shortcake | strawberry shortcake
+Fudge
+Toffee
+Brittle
+Meringue
+Soufflé | souffle
+Panna Cotta
+Gulab Jamun
+Mochi
+Baklava
+Strudel | apple strudel
+Black Forest Cake | black forest
+Red Velvet Cake | red velvet
+Carrot Cake
+Angel Food Cake
+Pound Cake
+Bundt Cake
+Lava Cake
+Tres Leches
+Mille-feuille | napoleon
+Sticky Toffee Pudding
+Bread Pudding
+Rice Pudding
+Jelly | jello | gelatin
+Popsicle | ice pop
+S'mores | smores
+Rocky Road
+Scone
+Waffle
+Pancake
+Crepe | crêpe
+Beignet
+Funnel Cake
+Kulfi
+Halva
+Knafeh | kunafa
+Basbousa
+Alfajor
+Brigadeiro
+Sachertorte
+Linzer Torte
+Kouign-amann
+Clafoutis
+Tarte Tatin
+Semifreddo
+Zabaglione
+Affogato
+Bingsu
+Halo-halo
+Dango
+Galaktoboureko
+Kheer
+Rasgulla

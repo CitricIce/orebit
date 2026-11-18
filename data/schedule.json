@@ -1,0 +1,4 @@
+{
+  "_comment": "Hand-pick categories for specific dates here. Any date not listed uses the automatic rotation. Example: \"2026-12-25\": [\"desserts\", \"trees\", \"colors\"]",
+  "days": {}
+}

@@ -1,0 +1,402 @@
+=== elements
+title: Chemical elements
+prompt: Name as many elements of the periodic table as you can
+starcore: Oganesson
+---
+Hydrogen
+Helium
+Lithium
+Beryllium
+Boron
+Carbon
+Nitrogen
+Oxygen
+Fluorine
+Neon
+Sodium
+Magnesium
+Aluminium | aluminum
+Silicon
+Phosphorus
+Sulfur | sulphur
+Chlorine
+Argon
+Potassium
+Calcium
+Scandium
+Titanium
+Vanadium
+Chromium
+Manganese
+Iron
+Cobalt
+Nickel
+Copper
+Zinc
+Gallium
+Germanium
+Arsenic
+Selenium
+Bromine
+Krypton
+Rubidium
+Strontium
+Yttrium
+Zirconium
+Niobium
+Molybdenum
+Technetium
+Ruthenium
+Rhodium
+Palladium
+Silver
+Cadmium
+Indium
+Tin
+Antimony
+Tellurium
+Iodine
+Xenon
+Caesium | cesium
+Barium
+Lanthanum
+Cerium
+Praseodymium
+Neodymium
+Promethium
+Samarium
+Europium
+Gadolinium
+Terbium
+Dysprosium
+Holmium
+Erbium
+Thulium
+Ytterbium
+Lutetium
+Hafnium
+Tantalum
+Tungsten | wolfram
+Rhenium
+Osmium
+Iridium
+Platinum
+Gold
+Mercury
+Thallium
+Lead
+Bismuth
+Polonium
+Astatine
+Radon
+Francium
+Radium
+Actinium
+Thorium
+Protactinium
+Uranium
+Neptunium
+Plutonium
+Americium
+Curium
+Berkelium
+Californium
+Einsteinium
+Fermium
+Mendelevium
+Nobelium
+Lawrencium
+Rutherfordium
+Dubnium
+Seaborgium
+Bohrium
+Hassium
+Meitnerium
+Darmstadtium
+Roentgenium
+Copernicium
+Nihonium
+Flerovium
+Moscovium
+Livermorium
+Tennessine
+Oganesson
+
+=== gemstones
+title: Gemstones and minerals
+prompt: Name as many gemstones and minerals as you can
+starcore: Painite
+---
+Diamond
+Ruby
+Emerald
+Sapphire
+Amethyst
+Topaz
+Opal
+Pearl
+Jade
+Garnet
+Turquoise
+Aquamarine
+Quartz
+Rose Quartz
+Citrine
+Onyx
+Agate
+Jasper
+Obsidian
+Amber
+Peridot
+Tanzanite
+Tourmaline
+Zircon
+Moonstone
+Lapis Lazuli | lapis
+Malachite
+Coral
+Jet
+Bloodstone
+Carnelian
+Tiger's Eye | tigers eye
+Alexandrite
+Spinel
+Morganite
+Kunzite
+Iolite
+Labradorite
+Sunstone
+Chrysoberyl
+Beryl
+Corundum
+Feldspar
+Mica
+Calcite
+Fluorite
+Pyrite | fool's gold
+Hematite
+Magnetite
+Galena
+Gypsum
+Talc
+Halite
+Graphite
+Mica
+Olivine
+Serpentine
+Azurite
+Rhodochrosite
+Rhodonite
+Chrysocolla
+Sodalite
+Amazonite
+Aventurine
+Chalcedony
+Sardonyx
+Howlite
+Apatite
+Kyanite
+Tektite
+Moldavite
+Benitoite
+Painite
+Grandidierite
+Taaffeite
+Red Beryl | bixbite
+Jadeite
+Nephrite
+Charoite
+Larimar
+Ammolite
+Smoky Quartz
+Ametrine
+Andalusite
+Sphalerite
+Bauxite
+Cinnabar
+
+=== constellations
+title: Constellations
+prompt: Name as many constellations as you can
+starcore: Camelopardalis
+---
+Orion
+Ursa Major | big dipper | great bear
+Ursa Minor | little dipper | little bear
+Cassiopeia
+Andromeda
+Perseus
+Pegasus
+Cygnus
+Lyra
+Aquila
+Draco
+Hercules
+Scorpius | scorpio
+Sagittarius
+Capricornus | capricorn
+Aquarius
+Pisces
+Aries
+Taurus
+Gemini
+Cancer
+Leo
+Virgo
+Libra
+Ophiuchus
+Canis Major
+Canis Minor
+Centaurus
+Crux | southern cross
+Cepheus
+Auriga
+Boötes | bootes
+Corona Borealis
+Corona Australis
+Lepus
+Monoceros
+Hydra
+Corvus
+Crater
+Sextans
+Leo Minor
+Lynx
+Camelopardalis
+Lacerta
+Vulpecula
+Sagitta
+Delphinus
+Equuleus
+Triangulum
+Cetus
+Eridanus
+Fornax
+Sculptor
+Phoenix
+Grus
+Tucana
+Pavo
+Indus
+Ara
+Lupus
+Norma
+Circinus
+Musca
+Chamaeleon
+Volans
+Carina
+Puppis
+Vela
+Pyxis
+Antlia
+Columba
+Caelum
+Pictor
+Dorado
+Reticulum
+Horologium
+Hydrus
+Mensa
+Octans
+Apus
+Telescopium
+Microscopium
+Piscis Austrinus
+Scutum
+Serpens
+Canes Venatici
+Coma Berenices
+Triangulum Australe
+
+=== programming-languages
+title: Programming languages
+prompt: Name as many programming languages as you can
+starcore: Brainfuck
+---
+Python
+JavaScript | js
+Java
+C
+C++ | cpp
+C# | c sharp | csharp
+TypeScript | ts
+Ruby
+PHP
+Swift
+Kotlin
+Go | golang
+Rust
+SQL
+HTML
+CSS
+R
+MATLAB
+Perl
+Scala
+Haskell
+Lua
+Dart
+Objective-C | objective c
+Visual Basic | vb | vba
+Assembly | asm
+Fortran
+COBOL
+Pascal
+Delphi
+Lisp
+Clojure
+Scheme
+Racket
+Erlang
+Elixir
+F# | f sharp
+OCaml
+Julia
+Groovy
+Shell | bash
+PowerShell
+Prolog
+Smalltalk
+Ada
+Zig
+Nim
+Crystal
+Elm
+Solidity
+Scratch
+Logo
+BASIC
+Apex
+ABAP
+Hack
+Haxe
+Vala
+D
+Tcl
+AWK
+Sed
+Forth
+APL
+Simula
+ALGOL
+Modula-2
+Eiffel
+Brainfuck
+Whitespace
+COBOL
+Mojo
+Gleam
+Carbon
+WebAssembly | wasm
+GLSL
+HLSL
+Verilog
+VHDL
+LabVIEW
+Q
+Kdb
+PureScript
+ReasonML | reason
+CoffeeScript
+Ballerina

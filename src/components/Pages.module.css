@@ -1,0 +1,341 @@
+.kicker {
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0;
+}
+
+.h1 {
+  font-size: clamp(32px, 5.5vw, 50px);
+  letter-spacing: -0.025em;
+  line-height: 1.05;
+  margin: 10px 0 0;
+}
+
+.h2 {
+  font-size: 20px;
+  letter-spacing: -0.01em;
+  margin: 0 0 14px;
+}
+
+.lede {
+  color: var(--muted);
+  font-size: 17px;
+  line-height: 1.55;
+  max-width: 600px;
+  margin: 14px 0 0;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.note {
+  color: var(--muted);
+  font-size: 14px;
+  margin: 12px 0 0;
+}
+
+.cta {
+  display: inline-flex;
+  margin-top: 28px;
+  padding: 14px 24px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 650;
+  background: linear-gradient(180deg, #ffc768, #ff9a3c);
+  color: #1d1006;
+}
+
+/* Archive */
+.archive {
+  list-style: none;
+  padding: 0;
+  margin: 28px 0 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 10px;
+}
+
+.archiveCard {
+  display: grid;
+  gap: 4px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.archiveCard:hover {
+  border-color: var(--line-strong);
+  transform: translateY(-1px);
+}
+
+.archiveCard[data-done="true"] {
+  border-color: rgb(255 181 71 / 0.3);
+}
+
+.archiveNum {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--accent);
+}
+
+.archiveDate {
+  font-weight: 650;
+  font-size: 17px;
+}
+
+.archiveState {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+/* Stats */
+.statGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 26px;
+}
+
+.stat {
+  display: grid;
+  gap: 2px;
+  padding: 16px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+}
+
+.statValue {
+  font-family: var(--mono);
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.statLabel {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.statSub {
+  color: var(--faint);
+  font-size: 12px;
+  font-family: var(--mono);
+}
+
+.panels {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.panel {
+  padding: 18px;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+}
+
+.bars {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.bars li {
+  display: grid;
+  grid-template-columns: 76px 1fr 36px;
+  align-items: center;
+  gap: 10px;
+}
+
+.barLabel {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--c);
+}
+
+.barTrack {
+  height: 10px;
+  border-radius: 99px;
+  background: rgb(255 255 255 / 0.05);
+  overflow: hidden;
+}
+
+.barFill {
+  display: block;
+  height: 100%;
+  border-radius: 99px;
+  background: var(--c);
+}
+
+.barNum {
+  font-family: var(--mono);
+  font-size: 13px;
+  text-align: right;
+}
+
+.spark {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  height: 140px;
+}
+
+.sparkCol {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 4px;
+  max-width: 34px;
+}
+
+.sparkBar {
+  width: 100%;
+  border-radius: 6px 6px 2px 2px;
+  background: linear-gradient(180deg, #ffd38a, #ff8a3c);
+}
+
+.sparkLabel {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--faint);
+}
+
+.starcores {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.starcores li {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.starGem {
+  composes: gem from "./Gem.module.css";
+}
+
+.starGem {
+  background: conic-gradient(from 0deg, #ff5fd2, #ffd36e, #6ff3e6, #8f7bff, #ff5fd2);
+  box-shadow: 0 0 10px #ff5fd2;
+}
+
+/* How to play */
+.prose {
+  max-width: 760px;
+}
+
+.prose .h2 {
+  margin-top: 40px;
+}
+
+.steps {
+  margin: 24px 0 0;
+  padding-left: 22px;
+  display: grid;
+  gap: 12px;
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--muted);
+}
+
+.steps strong {
+  color: var(--ink);
+}
+
+.tierTable,
+.rankList {
+  display: grid;
+  gap: 6px;
+}
+
+.tierRow {
+  display: grid;
+  grid-template-columns: 16px 90px 1fr auto;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+}
+
+.tierGem {
+  composes: gem from "./Gem.module.css";
+}
+
+.tierName {
+  font-weight: 650;
+  color: var(--c);
+}
+
+.tierBlurb {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.tierDepth {
+  font-family: var(--mono);
+  font-size: 14px;
+}
+
+.rankRow {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 16px;
+  border-radius: 10px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  font-size: 15px;
+}
+
+.faq {
+  margin: 0;
+  display: grid;
+  gap: 18px;
+}
+
+.faq dt {
+  font-weight: 650;
+  font-size: 16px;
+}
+
+.faq dd {
+  margin: 4px 0 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+@media (max-width: 720px) {
+  .statGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .panels {
+    grid-template-columns: 1fr;
+  }
+  .tierRow {
+    grid-template-columns: 16px 1fr auto;
+  }
+  .tierBlurb {
+    grid-column: 2 / -1;
+    grid-row: 2;
+  }
+}

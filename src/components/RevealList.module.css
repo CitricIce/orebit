@@ -1,0 +1,85 @@
+.wrap {
+  display: grid;
+  gap: 14px;
+  margin-top: 24px;
+}
+
+.loading {
+  margin-top: 24px;
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 14px;
+}
+
+.group {
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--c);
+  border-radius: 14px;
+  padding: 14px 16px;
+  background: var(--panel);
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 10px;
+  font-size: 15px;
+  font-weight: 650;
+  color: var(--c);
+}
+
+.count {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  font-size: 13px;
+  padding: 4px 9px;
+  border-radius: 999px;
+  color: var(--faint);
+  border: 1px solid var(--line);
+}
+
+.item[data-found="true"] {
+  color: var(--ink);
+  border-color: var(--c);
+  background: color-mix(in srgb, var(--c) 18%, transparent);
+  font-weight: 600;
+}
+
+.more {
+  font-size: 13px;
+  padding: 4px 6px;
+  color: var(--muted);
+}
+
+.toggle {
+  justify-self: start;
+  background: none;
+  border: 0;
+  color: var(--accent);
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 4px 0;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.gem {
+  composes: gem from "./Gem.module.css";
+}

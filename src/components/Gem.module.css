@@ -1,0 +1,36 @@
+/* A small diamond-shaped ore marker. Color comes from --c on a parent. */
+.gem {
+  display: inline-block;
+  flex: none;
+  width: 10px;
+  height: 10px;
+  transform: rotate(45deg);
+  border-radius: 2px;
+  background: var(--c);
+}
+
+.gem[data-tier="1"] {
+  border-radius: 50%;
+  transform: none;
+}
+
+.gem[data-tier="5"] {
+  box-shadow: 0 0 8px var(--c);
+}
+
+.gem[data-tier="6"] {
+  background: conic-gradient(from 0deg, #ff5fd2, #ffd36e, #6ff3e6, #8f7bff, #ff5fd2);
+  box-shadow: 0 0 10px #ff5fd2;
+  animation: glint 2.4s linear infinite;
+}
+
+@keyframes glint {
+  from { filter: hue-rotate(0deg); }
+  to { filter: hue-rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .gem[data-tier="6"] {
+    animation: none;
+  }
+}

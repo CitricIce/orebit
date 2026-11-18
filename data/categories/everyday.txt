@@ -1,0 +1,469 @@
+=== colors
+title: Colors
+prompt: Name as many colors as you can
+starcore: Vermilion
+---
+Red
+Blue
+Green
+Yellow
+Orange
+Purple
+Pink
+Black
+White
+Gray | grey
+Brown
+Violet
+Indigo
+Cyan
+Magenta
+Turquoise
+Teal
+Navy
+Maroon
+Beige
+Tan
+Gold
+Silver
+Bronze
+Lavender
+Lilac
+Mauve
+Plum
+Burgundy
+Crimson
+Scarlet
+Vermilion
+Coral
+Salmon
+Peach
+Apricot
+Amber
+Mustard
+Lemon
+Lime
+Olive
+Khaki
+Mint
+Emerald
+Jade
+Sage
+Forest Green
+Chartreuse
+Aquamarine
+Azure
+Cobalt
+Cerulean
+Sapphire
+Ultramarine
+Periwinkle
+Royal Blue
+Sky Blue
+Baby Blue
+Fuchsia
+Rose
+Ruby
+Cherry
+Raspberry
+Blush
+Cream
+Ivory
+Eggshell
+Off-white
+Charcoal
+Slate
+Taupe
+Sepia
+Umber
+Ochre
+Sienna
+Rust
+Copper
+Mahogany
+Chocolate
+Caramel
+Champagne
+Puce
+Celadon
+Viridian
+Gamboge
+Cinnabar
+Heliotrope
+Wenge
+Glaucous
+Zaffre
+Falu Red
+Xanadu
+
+=== car-brands
+title: Car brands
+prompt: Name as many car brands as you can
+starcore: Koenigsegg
+---
+Toyota
+Honda
+Ford
+Chevrolet | chevy
+BMW
+Mercedes-Benz | mercedes
+Audi
+Volkswagen | vw
+Nissan
+Hyundai
+Kia
+Mazda
+Subaru
+Mitsubishi
+Lexus
+Acura
+Infiniti
+Tesla
+Jeep
+Dodge
+Ram
+Chrysler
+Cadillac
+Buick
+GMC
+Lincoln
+Porsche
+Ferrari
+Lamborghini
+Maserati
+Alfa Romeo
+Fiat
+Lancia
+Bugatti
+McLaren
+Aston Martin
+Bentley
+Rolls-Royce | rolls royce
+Jaguar
+Land Rover | range rover
+Mini
+Lotus
+Volvo
+Saab
+Peugeot
+Renault
+Citroën | citroen
+Opel
+Vauxhall
+Skoda
+Seat
+Cupra
+Dacia
+Suzuki
+Isuzu
+Daihatsu
+Genesis
+Polestar
+Rivian
+Lucid
+Fisker
+BYD
+Geely
+Nio
+Xpeng
+Great Wall
+Chery
+Tata
+Mahindra
+Proton
+Perodua
+Lada
+Koenigsegg
+Pagani
+Rimac
+Pontiac
+Oldsmobile
+Plymouth
+Saturn
+Hummer
+Mercury
+DeLorean
+Datsun
+Smart
+Maybach
+Alpine
+Spyker
+Noble
+Morgan
+TVR
+Hennessey
+SSC
+De Tomaso
+
+=== trees
+title: Trees
+prompt: Name as many kinds of trees as you can
+starcore: Baobab
+---
+Oak
+Maple
+Pine
+Birch
+Willow
+Elm
+Ash
+Beech
+Cedar
+Spruce
+Fir
+Redwood
+Sequoia
+Palm
+Cherry
+Apple
+Pear
+Plum
+Walnut
+Chestnut
+Hickory
+Poplar
+Aspen
+Cottonwood
+Sycamore
+Magnolia
+Dogwood
+Cypress
+Juniper
+Yew
+Hemlock
+Larch
+Holly
+Hawthorn
+Rowan | mountain ash
+Alder
+Hazel
+Linden | lime tree
+Eucalyptus
+Acacia
+Baobab
+Banyan
+Mahogany
+Teak
+Ebony
+Balsa
+Bamboo
+Olive
+Fig
+Mango
+Orange
+Lemon
+Avocado
+Coconut
+Date Palm
+Ginkgo
+Jacaranda
+Mimosa
+Catalpa
+Tulip Tree
+Sweetgum
+Sassafras
+Locust | black locust
+Mulberry
+Persimmon
+Hornbeam
+Boxwood
+Laurel
+Bay
+Cork Oak
+Sandalwood
+Rosewood
+Kapok
+Dragon Tree
+Joshua Tree
+Monkey Puzzle
+Wollemi Pine
+Bristlecone Pine
+Rubber Tree
+Cinnamon
+Neem
+Tamarind
+Jackfruit
+Sumac
+Buckeye | horse chestnut
+Pecan
+Almond
+Peach
+Apricot
+Quaking Aspen
+
+=== insects
+title: Insects
+prompt: Name as many insects as you can
+starcore: Mantisfly
+---
+Ant
+Bee
+Wasp
+Hornet
+Fly | housefly
+Mosquito
+Butterfly
+Moth
+Beetle
+Ladybug | ladybird
+Grasshopper
+Cricket
+Cockroach | roach
+Termite
+Dragonfly
+Damselfly
+Firefly | lightning bug
+Flea
+Louse | lice
+Bedbug | bed bug
+Mantis | praying mantis
+Stick Insect | walking stick
+Cicada
+Aphid
+Weevil
+Earwig
+Silverfish
+Gnat
+Midge
+Horsefly
+Fruit Fly
+Bumblebee
+Honeybee
+Yellowjacket
+Locust
+Katydid
+Scarab
+Stag Beetle
+Dung Beetle
+Rhinoceros Beetle
+Boll Weevil
+Mayfly
+Caddisfly
+Stonefly
+Lacewing
+Leafhopper
+Planthopper
+Treehopper
+Water Strider
+Water Boatman
+Backswimmer
+Thrips
+Scale Insect
+Mealybug
+Whitefly
+Sawfly
+Ichneumon Wasp
+Tsetse Fly
+Botfly
+Crane Fly
+Hoverfly
+Firebrat
+Springtail
+Antlion
+Dobsonfly
+Mantisfly
+Snakefly
+Scorpionfly
+Cochineal
+Hercules Beetle
+Goliath Beetle
+Atlas Moth
+Luna Moth
+Monarch
+Swallowtail
+Leafcutter Ant
+Bullet Ant
+Army Ant
+Carpenter Bee
+Mud Dauber
+Tarantula Hawk
+Velvet Ant
+Cicada Killer
+Silkworm
+Mealworm
+Glowworm
+
+=== dances
+title: Dances
+prompt: Name as many dances or dance styles as you can
+starcore: Bharatanatyam
+---
+Ballet
+Tango
+Salsa
+Waltz
+Hip Hop
+Tap | tap dance
+Jazz
+Swing
+Foxtrot
+Cha-cha | cha cha
+Rumba
+Samba
+Mambo
+Merengue
+Bachata
+Quickstep
+Paso Doble
+Jive
+Lindy Hop
+Charleston
+Jitterbug
+Polka
+Flamenco
+Belly Dance
+Breakdance | breaking | breakdancing
+Moonwalk
+Twist
+Macarena
+Conga
+Limbo
+Hula
+Line Dance | line dancing
+Square Dance
+Contra Dance
+Clogging
+Irish Dance | riverdance
+Highland Dance
+Morris Dance
+Can-can | can can
+Bolero
+Fandango
+Lambada
+Zumba
+Kizomba
+Zouk
+Krump
+Popping
+Locking
+Voguing | vogue
+Twerk | twerking
+Electric Slide
+Cumbia
+Pole Dance
+Contemporary
+Modern Dance
+Lyrical
+Stepping | step
+Haka
+Kathak
+Bharatanatyam
+Odissi
+Bhangra
+Garba
+Kabuki
+Capoeira
+Hora
+Sirtaki
+Tarantella
+Mazurka
+Polonaise
+Gavotte
+Minuet
+Quadrille
+Reel
+Jig
+Hornpipe
+Shuffle
+Dabke
+Cossack | hopak

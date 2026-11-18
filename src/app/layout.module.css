@@ -1,0 +1,28 @@
+.main {
+  width: 100%;
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 28px 24px 64px;
+}
+
+.footer {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--faint);
+  border-top: 1px solid var(--line);
+}
+
+@media (max-width: 720px) {
+  .main {
+    padding: 16px 16px 48px;
+  }
+  .footer {
+    padding: 20px 16px;
+  }
+}

@@ -1,0 +1,450 @@
+=== instruments
+title: Musical instruments
+prompt: Name as many musical instruments as you can
+starcore: Theremin
+---
+Piano
+Guitar
+Violin
+Drums | drum | drum kit
+Flute
+Trumpet
+Saxophone | sax
+Clarinet
+Cello
+Bass | bass guitar | double bass
+Harp
+Trombone
+Tuba
+French Horn | horn @2
+Oboe
+Bassoon
+Viola
+Ukulele
+Banjo
+Mandolin
+Harmonica
+Accordion
+Organ
+Keyboard
+Synthesizer | synth
+Xylophone
+Marimba
+Vibraphone
+Glockenspiel
+Tambourine
+Triangle @2
+Cymbal
+Gong
+Bongos | bongo
+Congas | conga
+Timpani
+Snare Drum | snare
+Maracas
+Castanets
+Recorder @2
+Piccolo
+Bagpipes
+Sitar
+Tabla
+Didgeridoo
+Kazoo
+Ocarina
+Pan Flute | pan pipes
+Lute
+Lyre
+Zither
+Dulcimer
+Harpsichord
+Clavichord
+Celesta
+Euphonium
+Cornet
+Flugelhorn
+Sousaphone
+Bugle
+Cowbell
+Steel Drum | steelpan
+Djembe
+Cajón | cajon
+Kalimba | thumb piano
+Shamisen
+Koto
+Erhu
+Guzheng
+Pipa
+Shakuhachi
+Balalaika
+Bouzouki
+Oud
+Theremin
+Hurdy-gurdy
+Melodica
+Bagpipe
+Contrabassoon
+English Horn | cor anglais @4
+Hang Drum | handpan
+Tin Whistle | penny whistle
+Washboard @4
+Spoons
+Autoharp
+Mbira
+Charango
+Duduk
+Sarod
+Santoor
+Veena
+Bodhrán | bodhran
+Concertina
+Glass Harmonica @5
+
+=== sports
+title: Sports
+prompt: Name as many sports as you can
+starcore: Sepak Takraw
+---
+Soccer | football
+American Football
+Basketball
+Baseball
+Tennis
+Golf
+Hockey | ice hockey
+Volleyball
+Cricket
+Rugby
+Boxing
+Swimming
+Running | track
+Cycling
+Skiing
+Snowboarding
+Surfing
+Skateboarding
+Wrestling
+Gymnastics
+Badminton
+Table Tennis | ping pong
+Softball
+Lacrosse
+Field Hockey
+Water Polo
+Handball
+Bowling
+Archery
+Fencing
+Judo
+Karate
+Taekwondo
+Mixed Martial Arts | mma
+Rowing
+Canoeing | kayaking
+Sailing
+Diving
+Polo
+Equestrian | horse riding
+Horse Racing
+Auto Racing | car racing | formula one | f1
+Motocross
+Triathlon
+Marathon
+Decathlon
+Pole Vault
+High Jump
+Long Jump
+Shot Put
+Javelin
+Discus
+Hurdles
+Weightlifting
+Powerlifting
+Bodybuilding
+Climbing | rock climbing
+Bouldering
+Curling
+Bobsled | bobsleigh
+Luge
+Skeleton
+Biathlon
+Figure Skating
+Speed Skating
+Snooker
+Billiards | pool
+Darts
+Squash
+Racquetball
+Pickleball
+Padel
+Ultimate Frisbee | ultimate
+Disc Golf
+Dodgeball
+Kickball
+Netball
+Hurling
+Gaelic Football
+Australian Rules Football | aussie rules | afl
+Kabaddi
+Sepak Takraw
+Jai Alai
+Sumo
+Kendo
+Capoeira
+Muay Thai
+Kickboxing
+Orienteering
+Paragliding
+Skydiving
+Bungee Jumping
+Wakeboarding
+Kitesurfing
+Windsurfing
+Croquet
+Bocce
+Pétanque | petanque
+Korfball
+Bandy
+Floorball
+Chess Boxing
+Quidditch
+
+=== gods
+title: Greek and Roman gods
+prompt: Name as many Greek or Roman gods and goddesses as you can
+starcore: Nyx
+---
+Zeus
+Jupiter
+Hera
+Juno
+Poseidon
+Neptune
+Hades
+Pluto
+Athena
+Minerva
+Apollo
+Artemis
+Diana
+Ares
+Mars
+Aphrodite
+Venus
+Hermes
+Mercury
+Hephaestus
+Vulcan
+Demeter
+Ceres
+Dionysus
+Bacchus
+Hestia
+Vesta
+Persephone
+Proserpina
+Eros
+Cupid
+Gaia | gaea
+Uranus | ouranos
+Cronus | kronos
+Saturn
+Rhea
+Helios
+Sol
+Selene
+Luna
+Eos
+Aurora
+Nike
+Victoria
+Hecate
+Pan
+Faunus
+Nemesis
+Tyche
+Fortuna
+Janus
+Iris
+Hypnos
+Somnus
+Thanatos
+Nyx
+Erebus
+Chaos
+Atlas
+Prometheus
+Hyperion
+Themis
+Mnemosyne
+Oceanus
+Tethys
+Asclepius
+Hebe
+Morpheus
+Triton
+Amphitrite
+Eris
+Discordia
+Bellona
+Enyo
+Priapus
+Aeolus
+Boreas
+Zephyrus
+Quirinus
+Terminus
+Flora
+Pomona
+Bona Dea
+Harpocrates
+
+=== shakespeare
+title: Shakespeare plays
+prompt: Name as many Shakespeare plays as you can
+starcore: Timon of Athens
+---
+Hamlet
+Macbeth
+Romeo and Juliet
+Othello
+King Lear | lear
+A Midsummer Night's Dream | midsummer nights dream | midsummer
+The Tempest | tempest
+Twelfth Night
+Much Ado About Nothing
+The Merchant of Venice | merchant of venice
+Julius Caesar
+As You Like It
+The Taming of the Shrew | taming of the shrew
+Antony and Cleopatra
+Richard III | richard the third
+Richard II | richard the second
+Henry V | henry the fifth
+Henry IV Part 1 | henry iv | henry the fourth
+Henry IV Part 2
+Henry VI Part 1 | henry vi | henry the sixth
+Henry VI Part 2
+Henry VI Part 3
+Henry VIII | henry the eighth
+King John
+The Comedy of Errors | comedy of errors
+The Winter's Tale | winters tale
+Coriolanus
+Titus Andronicus
+Timon of Athens
+Troilus and Cressida
+Measure for Measure
+All's Well That Ends Well | alls well that ends well
+The Merry Wives of Windsor | merry wives of windsor
+Love's Labour's Lost | loves labours lost
+The Two Gentlemen of Verona | two gentlemen of verona
+Cymbeline
+Pericles
+The Two Noble Kinsmen | two noble kinsmen
+
+=== languages
+title: Languages
+prompt: Name as many spoken languages as you can
+starcore: Basque
+---
+English
+Spanish
+French
+German
+Italian
+Portuguese
+Russian
+Chinese | mandarin
+Cantonese
+Japanese
+Korean
+Arabic
+Hindi
+Urdu
+Bengali
+Punjabi
+Tamil
+Telugu
+Marathi
+Gujarati
+Kannada
+Malayalam
+Persian | farsi
+Turkish
+Greek
+Hebrew
+Dutch
+Swedish
+Norwegian
+Danish
+Finnish
+Icelandic
+Polish
+Czech
+Slovak
+Hungarian
+Romanian
+Bulgarian
+Serbian
+Croatian
+Bosnian
+Slovenian
+Ukrainian
+Belarusian
+Lithuanian
+Latvian
+Estonian
+Albanian
+Armenian
+Georgian
+Azerbaijani
+Kazakh
+Uzbek
+Mongolian
+Tibetan
+Nepali
+Sinhala
+Burmese
+Thai
+Lao
+Khmer
+Vietnamese
+Malay
+Indonesian
+Tagalog | filipino
+Javanese
+Swahili
+Amharic
+Somali
+Yoruba
+Igbo
+Hausa
+Zulu
+Xhosa
+Afrikaans
+Shona
+Malagasy
+Hawaiian
+Maori
+Samoan
+Tongan
+Irish | irish gaelic
+Scottish Gaelic | gaelic
+Welsh
+Breton
+Basque
+Catalan
+Galician
+Maltese
+Latin
+Esperanto
+Yiddish
+Quechua
+Guarani
+Navajo
+Cherokee
+Inuktitut
+Kurdish
+Pashto
+Tigrinya
+Wolof
+Sanskrit
