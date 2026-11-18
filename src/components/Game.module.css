@@ -139,7 +139,8 @@
 
 .howTo {
   margin-top: 32px;
-  max-width: 460px;
+  width: 100%;
+  max-width: 720px;
   color: var(--muted);
 }
 
@@ -161,10 +162,26 @@
   color: var(--ink);
 }
 
-.howTo p {
-  margin: 12px 0 0;
-  font-size: 16px;
+.howToBody {
+  margin-top: 20px;
+  padding: 24px;
+  text-align: left;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--panel);
+}
+
+.howToIntro {
+  margin: 0;
+  font-size: 17px;
   line-height: 1.55;
+  color: var(--ink);
+}
+
+@media (max-width: 720px) {
+  .howToBody {
+    padding: 18px 16px;
+  }
 }
 
 .runSoFar {

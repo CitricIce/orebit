@@ -19,6 +19,7 @@ import { normalize } from "@/lib/match";
 import DrillShaft from "./DrillShaft";
 import Summary from "./Summary";
 import RevealList from "./RevealList";
+import HowToPlay from "./HowToPlay";
 import s from "./Game.module.css";
 
 type Phase = "loading" | "error" | "briefing" | "countdown" | "drilling" | "settling" | "reveal" | "summary";
@@ -290,11 +291,14 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
         {doneRounds > 0 && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}
 
         <details className={s.howTo}>
-          <summary>How it works</summary>
-          <p>
-            Each rock is a category. Name as many answers as you can before your drill overheats. Common answers
-            are surface dust. Obscure ones are buried deep and worth far more.
-          </p>
+          <summary>How to play</summary>
+          <div className={s.howToBody}>
+            <p className={s.howToIntro}>
+              Each rock is a category. Name as many answers as you can before your drill overheats. Common answers
+              are surface dust. Obscure ones are buried deep and worth far more.
+            </p>
+            <HowToPlay />
+          </div>
         </details>
       </section>
     );

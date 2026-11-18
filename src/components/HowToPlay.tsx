@@ -1,9 +1,5 @@
-import type { Metadata } from "next";
-import Link from "next/link";
 import { RANKS, ROUND_SECONDS, ROUNDS_PER_DAY, TIER_LIST } from "@/lib/tiers";
-import s from "@/components/Pages.module.css";
-
-export const metadata: Metadata = { title: "How to play" };
+import s from "./Pages.module.css";
 
 const FAQ = [
   {
@@ -36,11 +32,10 @@ const FAQ = [
   },
 ];
 
+/** The full rules, tiers, ranks and FAQ. Shown inside "How to play" on the start screen. */
 export default function HowToPlay() {
   return (
-    <section className={s.prose}>
-      <p className={s.kicker}>Field manual</p>
-      <h1 className={s.h1}>How to play</h1>
+    <div className={s.guide}>
       <ol className={s.steps}>
         <li>
           <strong>
@@ -62,7 +57,7 @@ export default function HowToPlay() {
         </li>
       </ol>
 
-      <h2 className={s.h2}>Ore tiers</h2>
+      <h3 className={s.h2}>Ore tiers</h3>
       <div className={s.tierTable}>
         {TIER_LIST.map((t) => (
           <div key={t.id} className={s.tierRow} style={{ "--c": t.color } as React.CSSProperties}>
@@ -74,7 +69,7 @@ export default function HowToPlay() {
         ))}
       </div>
 
-      <h2 className={s.h2}>Ranks</h2>
+      <h3 className={s.h2}>Ranks</h3>
       <div className={s.rankList}>
         {RANKS.map((r) => (
           <div key={r.title} className={s.rankRow}>
@@ -84,7 +79,7 @@ export default function HowToPlay() {
         ))}
       </div>
 
-      <h2 className={s.h2}>Questions</h2>
+      <h3 className={s.h2}>Questions</h3>
       <dl className={s.faq}>
         {FAQ.map((f) => (
           <div key={f.q}>
@@ -94,9 +89,6 @@ export default function HowToPlay() {
         ))}
       </dl>
 
-      <Link href="/" className={s.cta}>
-        Start today&apos;s survey
-      </Link>
-    </section>
+    </div>
   );
 }

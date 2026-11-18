@@ -11,7 +11,6 @@ const LINKS = [
   { href: "/", label: "Today" },
   { href: "/archive", label: "Archive" },
   { href: "/stats", label: "Stats" },
-  { href: "/how-to-play", label: "How to play" },
 ];
 
 export function Logo() {
@@ -62,15 +61,8 @@ function HeaderBody({ path }: { path: string }) {
         {LINKS.map((l) => {
           const active = l.href === "/" ? path === "/" : path.startsWith(l.href);
           return (
-            <Link key={l.href} href={l.href} className={s.link} data-active={active} data-short={l.href === "/how-to-play"}>
-              {l.href === "/how-to-play" ? (
-                <>
-                  <span className={s.long}>How to play</span>
-                  <span className={s.shortLabel}>Help</span>
-                </>
-              ) : (
-                l.label
-              )}
+            <Link key={l.href} href={l.href} className={s.link} data-active={active}>
+              {l.label}
             </Link>
           );
         })}

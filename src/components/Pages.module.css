@@ -239,12 +239,12 @@
 }
 
 /* How to play */
-.prose {
-  max-width: 760px;
+.guide .h2 {
+  margin-top: 32px;
 }
 
-.prose .h2 {
-  margin-top: 40px;
+.guide .steps {
+  margin-top: 20px;
 }
 
 .steps {

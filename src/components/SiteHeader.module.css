@@ -53,10 +53,6 @@
   background: var(--panel-hover);
 }
 
-.shortLabel {
-  display: none;
-}
-
 .sound {
   display: grid;
   place-items: center;
@@ -90,12 +86,6 @@
   .link {
     padding: 7px 8px;
     font-size: 13px;
-  }
-  .long {
-    display: none;
-  }
-  .shortLabel {
-    display: inline;
   }
   .sound {
     width: 32px;
