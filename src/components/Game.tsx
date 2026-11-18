@@ -3,8 +3,8 @@
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { DayResponse, GuessResponse, RevealResponse } from "@/lib/api-types";
-import { formatLongDate, localToday } from "@/lib/dates";
-import { formatMeters, ores, rankFor, ROUND_SECONDS, TIER_LIST, TIERS, type TierId } from "@/lib/tiers";
+import { localToday } from "@/lib/dates";
+import { formatMeters, rankFor, ROUND_SECONDS, TIERS, type TierId } from "@/lib/tiers";
 import {
   depthOf,
   loadDay,
@@ -279,49 +279,23 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   if (phase === "briefing") {
     return (
       <section className={s.briefing}>
-        <p className={s.kicker}>
-          {mode === "daily" ? "Daily survey" : "Archive survey"} #{day.number} · {formatLongDate(date)}
-        </p>
-        <h1 className={s.title}>
-          Three asteroids.
-          <br />
-          <span className={s.accent}>Thirty seconds each.</span>
+        <p className={s.kicker}>Survey #{day.number}</p>
+        <h1 className={s.briefTitle}>
+          Three asteroids. <span className={s.accent}>Thirty seconds each.</span>
         </h1>
-        <p className={s.lede}>
-          Each rock is a category. Name as many answers as you can before your drill overheats. Common answers
-          are surface dust. Obscure ones are buried deep and worth far more.
-        </p>
 
-        <ol className={s.rocks}>
-          {day.rounds.map((r, i) => {
-            const res = record.rounds[i];
-            const current = i === roundIdx;
-            return (
-              <li key={r.id} className={s.rock} data-state={res ? "done" : current ? "next" : "locked"}>
-                <span className={s.rockCode}>{r.designation}</span>
-                <span className={s.rockTitle}>{res ? r.title : current ? "Signal acquired" : "Unscanned"}</span>
-                <span className={s.rockMeta}>
-                  {res ? `${ores(res.found.length)} · ${formatMeters(res.depth)}` : `${r.total} known deposits`}
-                </span>
-              </li>
-            );
-          })}
-        </ol>
-
-        <div className={s.legend} aria-label="Ore tiers">
-          {TIER_LIST.map((t) => (
-            <div key={t.id} className={s.legendItem} style={{ "--c": t.color } as React.CSSProperties}>
-              <span className={s.gem} data-tier={t.id} />
-              <span className={s.legendName}>{t.name}</span>
-              <span className={s.legendDepth}>{t.depth} m</span>
-            </div>
-          ))}
-        </div>
-
-        <button className={s.primaryBtn} onClick={startCountdown}>
+        <button className={s.startBtn} onClick={startCountdown}>
           {doneRounds === 0 ? "Start drilling" : `Drill asteroid ${roundIdx + 1}`}
         </button>
         {doneRounds > 0 && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}
+
+        <details className={s.howTo}>
+          <summary>How it works</summary>
+          <p>
+            Each rock is a category. Name as many answers as you can before your drill overheats. Common answers
+            are surface dust. Obscure ones are buried deep and worth far more.
+          </p>
+        </details>
       </section>
     );
   }

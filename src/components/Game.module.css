@@ -50,14 +50,6 @@
   color: var(--accent);
 }
 
-.lede {
-  color: var(--muted);
-  font-size: 17px;
-  line-height: 1.55;
-  max-width: 560px;
-  margin: 18px 0 0;
-}
-
 /* Buttons */
 .primaryBtn,
 .secondaryBtn {
@@ -104,103 +96,75 @@
 
 /* Briefing */
 .briefing {
-  max-width: 760px;
+  min-height: calc(100dvh - 220px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 0;
 }
 
-.briefing .primaryBtn {
-  margin-top: 28px;
-  min-width: 220px;
-}
-
-.rocks {
-  list-style: none;
-  padding: 0;
-  margin: 32px 0 0;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 12px;
-}
-
-.rock {
-  display: grid;
-  gap: 6px;
-  padding: 16px;
-  border-radius: 16px;
-  border: 1px solid var(--line);
-  background:
-    radial-gradient(120% 90% at 100% 0%, rgb(255 181 71 / 0.07), transparent 60%),
-    var(--panel);
-  position: relative;
-  overflow: hidden;
-}
-
-.rock::before {
-  content: "";
-  position: absolute;
-  right: -26px;
-  bottom: -30px;
-  width: 92px;
-  height: 92px;
-  border-radius: 46% 54% 50% 48%;
-  background: radial-gradient(circle at 35% 35%, #4b3d55, #241b2d 70%);
-  box-shadow: inset -6px -8px 0 rgb(0 0 0 / 0.25);
-  opacity: 0.8;
-}
-
-.rock[data-state="next"] {
-  border-color: rgb(255 181 71 / 0.55);
-  box-shadow: 0 0 0 1px rgb(255 181 71 / 0.2), 0 12px 40px -18px rgb(255 181 71 / 0.6);
-}
-
-.rock[data-state="locked"] {
-  opacity: 0.55;
-}
-
-.rockTitle {
-  font-weight: 650;
-  font-size: 17px;
-  position: relative;
-}
-
-.rockMeta {
-  font-family: var(--mono);
-  font-size: 12px;
-  color: var(--muted);
-  position: relative;
-}
-
-.legend {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 8px;
-  margin-top: 20px;
-}
-
-.legendItem {
-  display: grid;
-  justify-items: center;
-  gap: 6px;
-  padding: 12px 6px;
-  border-radius: 12px;
-  border: 1px solid var(--line);
-  background: var(--panel);
-}
-
-.legendItem .gem {
-  width: 12px;
-  height: 12px;
-}
-
-.legendName {
-  font-size: 13px;
+.briefTitle {
+  font-size: clamp(20px, 3vw, 26px);
   font-weight: 600;
-  color: var(--c);
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+  margin: 10px 0 0;
 }
 
-.legendDepth {
-  font-family: var(--mono);
-  font-size: 11px;
+.startBtn {
+  composes: primaryBtn;
+  margin-top: 40px;
+  width: min(100%, 440px);
+  padding: 30px 40px;
+  font-size: clamp(26px, 4.5vw, 34px);
+  font-weight: 750;
+  letter-spacing: -0.01em;
+  border-radius: 24px;
+  animation: beckon 2.2s ease-in-out infinite;
+}
+
+@keyframes beckon {
+  0%,
+  100% {
+    box-shadow: 0 8px 30px -6px rgb(255 154 60 / 0.55), 0 0 0 0 rgb(255 181 71 / 0.35),
+      inset 0 1px 0 rgb(255 255 255 / 0.5);
+  }
+  50% {
+    box-shadow: 0 12px 44px -6px rgb(255 154 60 / 0.8), 0 0 0 14px rgb(255 181 71 / 0),
+      inset 0 1px 0 rgb(255 255 255 / 0.5);
+  }
+}
+
+.howTo {
+  margin-top: 32px;
+  max-width: 460px;
   color: var(--muted);
+}
+
+.howTo summary {
+  cursor: pointer;
+  font-size: 15px;
+  color: var(--muted);
+  list-style: none;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-color: var(--line-strong);
+}
+
+.howTo summary::-webkit-details-marker {
+  display: none;
+}
+
+.howTo summary:hover {
+  color: var(--ink);
+}
+
+.howTo p {
+  margin: 12px 0 0;
+  font-size: 16px;
+  line-height: 1.55;
 }
 
 .runSoFar {
@@ -663,10 +627,6 @@
 }
 
 @media (max-width: 720px) {
-  .rocks {
-    grid-template-columns: 1fr;
-  }
-  .legend,
   .tally {
     grid-template-columns: repeat(3, 1fr);
   }
@@ -697,13 +657,11 @@
   .metaLinks {
     margin-left: 0;
   }
-  .briefing .primaryBtn {
-    width: 100%;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {
   .countNum,
+  .startBtn,
   .ore,
   .feedback,
   .timer[data-urgent="true"] .timerFill {
