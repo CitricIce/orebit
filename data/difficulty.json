@@ -81,7 +81,14 @@
     "music-genres",
     "singers",
     "sports",
-    "sports-equipment"
+    "sports-equipment",
+    "childhood-games",
+    "fairy-tales",
+    "holidays",
+    "mythical-creatures",
+    "superpowers",
+    "toys",
+    "weapons"
   ],
   "medium": [
     "birds-of-prey",
@@ -140,6 +147,7 @@
     "shoes",
     "actresses",
     "athletes",
-    "bands"
+    "bands",
+    "nursery-rhymes"
   ]
 }

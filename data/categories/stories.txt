@@ -1,0 +1,1104 @@
+# Stories, childhood and fantasy. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== fairy-tales
+title: Fairy tales
+prompt: Name as many fairy tales as you can
+--- 1
+Cinderella
+Snow White | snow white and the seven dwarfs
+Sleeping Beauty
+Little Red Riding Hood | red riding hood
+Hansel and Gretel
+Rapunzel
+Jack and the Beanstalk
+Goldilocks and the Three Bears | goldilocks | three bears
+The Three Little Pigs | three little pigs
+--- 2
+Beauty and the Beast
+The Little Mermaid | little mermaid
+The Ugly Duckling | ugly duckling
+Rumpelstiltskin
+The Frog Prince | frog prince
+Pinocchio
+The Gingerbread Man | gingerbread man
+Thumbelina
+The Princess and the Pea | princess and the pea
+The Emperor's New Clothes | emperor's new clothes
+Puss in Boots
+The Snow Queen | snow queen
+Aladdin
+Ali Baba and the Forty Thieves | ali baba
+Peter Pan
+Alice in Wonderland
+The Elves and the Shoemaker | elves and the shoemaker
+The Little Match Girl | little match girl
+The Pied Piper of Hamelin | pied piper
+Jack the Giant Killer
+Tom Thumb
+Chicken Little | henny penny
+The Boy Who Cried Wolf | boy who cried wolf
+The Tortoise and the Hare | tortoise and the hare
+The Three Billy Goats Gruff | billy goats gruff
+The Little Red Hen | little red hen
+Bluebeard
+Sinbad
+Dick Whittington
+The Golden Goose | golden goose
+The Steadfast Tin Soldier | tin soldier
+The Twelve Dancing Princesses | twelve dancing princesses
+The Wizard of Oz | wizard of oz
+Mulan
+The Nutcracker | nutcracker
+Robin Hood
+King Arthur
+The Velveteen Rabbit
+The Owl and the Pussycat
+The Fox and the Grapes
+The Ant and the Grasshopper
+The Lion and the Mouse
+The Goose That Laid the Golden Eggs
+--- 3
+The Brave Little Tailor | brave little tailor
+The Bremen Town Musicians | town musicians of bremen
+Snow-White and Rose-Red | snow white and rose red
+The Six Swans
+The Wild Swans
+The Juniper Tree
+The Goose Girl
+The Fisherman and His Wife
+Mother Holle
+The Water of Life
+The Golden Bird
+The Valiant Little Tailor
+Hans in Luck
+Little Briar Rose
+Donkeyskin
+Diamonds and Toads
+Tattercoats
+Cap o' Rushes
+Molly Whuppie
+East of the Sun and West of the Moon
+The Firebird
+Vasilisa the Beautiful
+Baba Yaga
+The Twelve Brothers
+The Seven Ravens
+The Red Shoes
+The Nightingale
+The Fir Tree
+The Snow Maiden
+Momotaro | peach boy
+Urashima Taro
+The Crane Wife
+Issun-bōshi
+The Tale of the Bamboo Cutter
+Kaguya-hime
+Mother Goose
+Tom Tit Tot
+The Magic Porridge Pot
+The Enormous Turnip
+Stone Soup
+The Elephant's Child
+How the Leopard Got His Spots
+The Selfish Giant
+The Happy Prince
+Hop-o'-My-Thumb
+Griselda
+Patient Griselda
+Princess Mononoke @5
+
+=== mythical-creatures
+title: Mythical creatures
+prompt: Name as many mythical or legendary creatures as you can
+--- 1
+Dragon
+Unicorn
+Mermaid
+Phoenix
+Vampire
+Werewolf
+Ghost
+Fairy
+Zombie
+Bigfoot | sasquatch
+--- 2
+Griffin | gryphon
+Centaur
+Minotaur
+Pegasus
+Medusa
+Gorgon
+Cyclops
+Hydra
+Kraken
+Loch Ness Monster | nessie
+Yeti | abominable snowman
+Troll
+Goblin
+Elf | elves
+Dwarf | dwarves
+Gnome
+Ogre
+Giant
+Pixie
+Leprechaun
+Banshee
+Genie | djinn | jinn
+Sphinx
+Siren
+Mummy
+Witch
+Wizard
+Chimera
+Basilisk
+Hobbit
+Orc
+Wendigo
+Chupacabra
+Mothman
+Satyr
+Faun
+Nymph
+Harpy
+Golem
+Imp
+Demon
+Angel
+Cherub
+Sea serpent
+Hippogriff
+Thunderbird
+Kitsune
+Tengu
+Kappa
+Oni
+Valkyrie
+Bogeyman
+Grim Reaper
+Headless Horseman
+Frankenstein's monster | frankenstein
+--- 3
+Manticore
+Cerberus
+Scylla
+Charybdis
+Typhon
+Echidna
+Ladon
+Python
+Lamia
+Empusa
+Furies | erinyes
+Fates
+Muses
+Dryad
+Naiad
+Nereid
+Oread
+Selkie
+Kelpie
+Each-uisge
+Bean nighe
+Dullahan
+Púca | pooka
+Changeling
+Brownie
+Hobgoblin
+Boggart
+Redcap
+Will-o'-the-wisp
+Black Shuck
+Barghest
+Wyvern
+Wyrm
+Lindworm
+Cockatrice
+Amphisbaena
+Salamander
+Roc
+Simurgh
+Ziz
+Behemoth
+Leviathan
+Bahamut
+Jörmungandr
+Fenrir
+Sleipnir
+Nidhogg
+Draugr
+Huldra
+Nisse
+Tomte
+Krampus
+Baba Yaga
+Firebird
+Rusalka
+Domovoi
+Leshy
+Strigoi
+Nosferatu
+Ghoul
+Wraith
+Lich
+Revenant
+Poltergeist
+Doppelgänger | doppelganger
+Succubus
+Incubus
+Jiangshi
+Qilin
+Nian
+Fenghuang
+Baku
+Yuki-onna
+Tanuki
+Nue
+Rakshasa
+Naga
+Garuda
+Makara
+Vetala
+Anzu
+Lamassu
+Ammit
+Bennu
+Serpopard
+Ahuizotl
+Cipactli
+Bunyip
+Yowie
+Taniwha
+Jersey Devil
+Skinwalker
+Jackalope
+Ogopogo
+Mokele-mbembe
+
+=== holidays
+title: Holidays and celebrations
+prompt: Name as many holidays and celebrations as you can
+--- 1
+Christmas
+Easter
+Halloween
+Thanksgiving
+New Year's Eve | new year | new year's day
+Valentine's Day | valentines
+Birthday
+Hanukkah | chanukah
+--- 2
+Diwali
+Eid | eid al-fitr | eid al-adha
+Ramadan
+Passover
+Rosh Hashanah
+Yom Kippur
+Chinese New Year | lunar new year | spring festival
+St. Patrick's Day | st patrick's day | saint patrick's day
+Mother's Day
+Father's Day
+Independence Day | fourth of july | 4th of july
+Memorial Day
+Labor Day | labour day
+Veterans Day
+Martin Luther King Jr. Day | mlk day
+Presidents' Day
+Columbus Day
+Juneteenth
+Groundhog Day
+April Fools' Day | april fools
+Mardi Gras | fat tuesday
+Pancake Day | shrove tuesday
+Good Friday
+Ash Wednesday
+Palm Sunday
+Lent
+Christmas Eve
+Boxing Day
+Kwanzaa
+Day of the Dead | día de los muertos | dia de los muertos
+Cinco de Mayo
+Bonfire Night | guy fawkes night
+Burns Night
+Remembrance Day | armistice day
+Anzac Day
+Canada Day
+Bastille Day
+Oktoberfest
+Holi
+Carnival
+Wedding
+Anniversary
+Graduation
+Baby shower
+Hen party | bachelorette party
+Stag party | bachelor party
+Baptism | christening
+Bar mitzvah
+Bat mitzvah
+Quinceañera | quinceanera
+Earth Day
+Black Friday
+Cyber Monday
+Super Bowl Sunday
+Halloween
+Epiphany
+Advent
+Whit Sunday | pentecost
+Ascension Day
+Solstice | winter solstice | summer solstice
+--- 3
+Purim
+Sukkot
+Shavuot
+Tu BiShvat
+Lag BaOmer
+Simchat Torah
+Mawlid
+Ashura
+Laylat al-Qadr
+Nowruz
+Vesak
+Songkran
+Loy Krathong
+Navratri
+Dussehra
+Raksha Bandhan
+Ganesh Chaturthi
+Janmashtami
+Onam
+Pongal
+Baisakhi | vaisakhi
+Durga Puja
+Mid-Autumn Festival | moon festival
+Dragon Boat Festival
+Lantern Festival
+Qingming
+Obon
+Hanami
+Tanabata
+Shichi-Go-San
+Chuseok
+Seollal
+Tết | tet
+Waitangi Day
+Australia Day
+St. George's Day
+St. Andrew's Day
+St. David's Day
+Hogmanay
+Twelfth Night
+Candlemas
+Michaelmas
+Lammas
+Beltane
+Samhain
+Imbolc
+Yule
+Walpurgis Night
+Midsummer
+St. Lucia's Day
+Kings' Day
+Carnaval
+Fastnacht
+Krampusnacht
+St. Nicholas Day
+Feast of the Seven Fishes
+Las Posadas
+Día de Reyes
+Festivus
+Pi Day
+Star Wars Day
+Talk Like a Pirate Day
+Leap Day
+Arbor Day
+Flag Day
+Patriots' Day
+Pioneer Day
+Mardi Gras
+Bloomsday
+
+=== childhood-games
+title: Playground and party games
+prompt: Name as many playground or party games as you can
+--- 1
+Tag | tig | it
+Hide and seek | hide-and-seek
+Hopscotch
+Simon says
+Musical chairs
+Duck duck goose
+Tic-tac-toe | noughts and crosses
+Jump rope | skipping
+Red light, green light | red light green light | grandmother's footsteps
+Rock paper scissors
+--- 2
+Freeze tag
+Capture the flag
+Red rover
+Marbles
+Hot potato
+Pin the tail on the donkey
+Musical statues
+Musical bumps
+Pass the parcel
+Sardines
+Charades
+Twister
+I spy
+Truth or dare
+Spin the bottle
+Hangman
+Cat's cradle
+Thumb war
+Leapfrog
+Piggyback race
+Sack race
+Egg and spoon race
+Three-legged race
+Wheelbarrow race
+Tug of war
+Dodgeball
+Kickball
+Four square
+Tetherball
+Hula hoop
+Hacky sack
+Jacks
+Hopscotch
+Clapping games | pat-a-cake
+Ring around the rosie | ring a ring o' roses
+London Bridge
+Mother may I
+What's the time, Mr. Wolf | what's the time mr wolf
+Cops and robbers
+Hide the thimble
+Treasure hunt | scavenger hunt
+Bobbing for apples | apple bobbing
+Piñata | pinata
+Limbo
+Telephone | chinese whispers
+Never have I ever
+Would you rather
+Twenty questions | 20 questions
+Wink murder
+Mafia | werewolf
+Bingo
+Bulldog | british bulldog
+Stuck in the mud
+Kiss chase
+Conkers
+Paper airplanes
+Water balloon fight
+Snowball fight
+Sleeping lions
+Heads up seven up | heads down thumbs up
+--- 3
+Kick the can
+Ghost in the graveyard
+Sharks and minnows
+Octopus tag
+Blind man's buff | blind man's bluff
+Marco Polo
+Chicken fight
+Splash
+Shadow tag
+TV tag
+Off-ground tag
+Cops and robbers
+Kerby
+Knock down ginger | ding dong ditch
+Peep behind the curtain
+Oranges and lemons
+The farmer's in his den
+In and out the dusty bluebells
+Ring-a-levio
+Kick the bucket
+Statues
+Sleeping bunnies
+Corners
+Splat
+Tunnel ball
+Stoop ball
+Stickball
+Skully
+Jacks
+Pick-up sticks
+Paper fortune teller | cootie catcher
+Mash
+Rock paper scissors lizard spock
+Consequences
+Fortunately unfortunately
+Categories
+Sausage
+Wink murder
+Murder in the dark
+Pass the orange
+Hot seat
+Charades
+Pictionary
+Celebrity
+Heads up
+Mafia
+Ninja
+Zip zap boing
+Splat
+Hoops
+Elastics | chinese jump rope
+Double dutch
+Yo-yo
+Kendama
+Spinning top
+Diabolo
+Tops
+Pogs
+Stretch Armstrong
+
+=== toys
+title: Toys
+prompt: Name as many toys as you can
+--- 1
+Doll | dolls
+Teddy bear | teddy
+Lego
+Ball
+Barbie
+Yo-yo | yoyo
+Kite
+Action figure
+Puzzle | jigsaw | jigsaw puzzle
+Toy car | toy cars
+--- 2
+Rubik's Cube | rubiks cube
+Play-Doh | playdough | plasticine
+Slinky
+Frisbee
+Hula hoop
+Jump rope | skipping rope
+Spinning top
+Marbles
+Jack-in-the-box
+Rocking horse
+Hot Wheels
+Matchbox cars
+Nerf gun | nerf
+Water gun | water pistol | super soaker
+Scooter
+Skateboard
+Tricycle | trike
+Bike
+Train set | toy train
+Dollhouse | doll's house
+Building blocks | blocks
+Stuffed animal | plush | soft toy | cuddly toy
+Etch A Sketch
+Magic 8 Ball
+Mr. Potato Head | potato head
+Furby
+Tamagotchi
+Beanie Babies
+Cabbage Patch Kids
+My Little Pony
+Polly Pocket
+Transformers
+G.I. Joe | action man
+Star Wars figures
+Fidget spinner
+Pop It
+Squishmallow | squishmallows
+LOL Surprise
+Hatchimals
+Bratz
+Care Bears
+Troll doll | trolls
+Rubber duck
+Bubbles
+Chalk
+Crayons
+Etch-a-sketch
+Rocking chair
+Swing
+Slide
+Sandbox
+Trampoline
+Remote control car | rc car
+Drone
+Robot
+Toy soldier | toy soldiers
+Puppet
+Marionette
+Board game
+Cards | playing cards
+Dominoes
+Kaleidoscope
+View-Master
+Lite-Brite
+Spirograph
+Silly Putty
+Slime
+Lego Duplo | duplo
+K'Nex
+Meccano
+Lincoln Logs
+Tinkertoys
+Playmobil
+Sylvanian Families | calico critters
+--- 3
+Speak & Spell
+Simon
+Bop It
+Tickle Me Elmo
+Teddy Ruxpin
+Stretch Armstrong
+Weebles
+Fisher-Price
+See 'n Say
+Little Tikes
+Cozy Coupe
+Big Wheel
+Pogo stick
+Space hopper
+Clackers
+Gyroscope
+Jacks
+Pick-up sticks
+Paddle ball
+Cup and ball
+Kendama
+Diabolo
+Whirligig
+Pinwheel
+Zoetrope
+Spinning tops
+Tin soldier
+Rag doll
+Russian doll | matryoshka
+Paper doll
+Kewpie doll
+Baby Born
+American Girl
+Monster High
+Shopkins
+Pogs
+Tazos
+Beyblade
+Yu-Gi-Oh cards
+Pokémon cards
+Top trumps
+Trading cards
+Water beads
+Kinetic sand
+Moon sand
+Magna-Tiles
+Rainbow loom
+Shrinky Dinks
+Easy-Bake Oven
+Operation
+Mouse Trap
+Hungry Hungry Hippos
+Kerplunk
+Jenga
+Buckaroo
+Ker-Plunk
+Thunderbirds
+Scalextric
+Hornby
+Airfix
+Sindy
+Tiny Tears
+Pound Puppies
+Glo Worm
+Popples
+Strawberry Shortcake
+Rainbow Brite
+Polly Pocket
+Micro Machines
+Tonka trucks | tonka
+Erector set
+Gak
+Floam
+Water wigglies
+Sea-Monkeys
+
+=== nursery-rhymes
+title: Nursery rhymes
+prompt: Name as many nursery rhymes as you can
+--- 1
+Twinkle Twinkle Little Star | twinkle twinkle
+Humpty Dumpty
+Jack and Jill
+Baa Baa Black Sheep
+Mary Had a Little Lamb
+Old MacDonald Had a Farm | old macdonald
+Itsy Bitsy Spider | incy wincy spider | eensy weensy spider
+Row Row Row Your Boat | row your boat
+Hickory Dickory Dock
+London Bridge Is Falling Down | london bridge
+--- 2
+Ring Around the Rosie | ring a ring o' roses
+Hey Diddle Diddle
+Little Miss Muffet
+Three Blind Mice
+Little Bo Peep
+Little Boy Blue
+Jack Be Nimble
+Pop Goes the Weasel
+The Wheels on the Bus | wheels on the bus
+Head, Shoulders, Knees and Toes | head shoulders knees and toes
+If You're Happy and You Know It
+Five Little Monkeys
+Five Little Ducks
+The Grand Old Duke of York
+Hot Cross Buns
+Pat-a-Cake | pat a cake
+This Little Piggy | this little piggy went to market
+Rock-a-bye Baby | rock a bye baby
+Mary, Mary, Quite Contrary | mary mary quite contrary
+Old Mother Hubbard
+Georgie Porgie
+Little Jack Horner
+Sing a Song of Sixpence
+Ding Dong Bell
+Polly Put the Kettle On
+I'm a Little Teapot
+The Itsy Bitsy Spider
+Oranges and Lemons
+Pease Porridge Hot
+Diddle Diddle Dumpling
+Wee Willie Winkie
+Old King Cole
+Peter Piper
+Peter Peter Pumpkin Eater
+Simple Simon
+Tom Tom the Piper's Son
+Rain Rain Go Away
+Ten in the Bed
+Bingo
+The Farmer in the Dell
+Here We Go Round the Mulberry Bush
+Lavender's Blue
+Little Bunny Foo Foo
+Teddy Bear, Teddy Bear
+Miss Polly Had a Dolly
+There Was an Old Woman Who Lived in a Shoe
+Ladybird, Ladybird
+Hush Little Baby
+Frère Jacques | are you sleeping
+Alphabet Song | abc song
+Baby Shark
+--- 3
+Goosey Goosey Gander
+Doctor Foster
+Sing a Song of Sixpence
+Solomon Grundy
+Monday's Child
+Little Tommy Tucker
+Curly Locks
+Jack Sprat
+Tweedledum and Tweedledee
+The Queen of Hearts
+Lucy Locket
+Hark Hark the Dogs Do Bark
+I Had a Little Nut Tree
+Bobby Shafto
+Ride a Cock Horse
+Horsey Horsey
+To Market, To Market
+Pussy Cat, Pussy Cat
+Cock a Doodle Doo
+One, Two, Buckle My Shoe
+One Two Three Four Five
+Five Little Speckled Frogs
+Five Currant Buns
+Ten Green Bottles
+There Was an Old Lady Who Swallowed a Fly
+The Muffin Man
+Mulberry Bush
+Round and Round the Garden
+Sleeping Bunnies
+Wind the Bobbin Up
+Two Little Dicky Birds
+Little Robin Redbreast
+The Lion and the Unicorn
+There Was a Crooked Man
+Three Little Kittens
+Hey Ho, Nobody Home
+Old Roger Is Dead
+Oats and Beans and Barley Grow
+Here Is the Church
+Down by the Station
+Skip to My Lou
+She'll Be Coming Round the Mountain
+Kookaburra
+Oh Where Has My Little Dog Gone
+Twinkle Twinkle Little Bat
+
+=== superpowers
+title: Superpowers
+prompt: Name as many superpowers as you can
+--- 1
+Flying | flight | fly
+Invisibility | invisible
+Super strength | strength
+Super speed | speed
+Teleportation | teleport
+Telepathy | mind reading
+Time travel
+X-ray vision
+Shapeshifting | shape shifting
+Healing | regeneration | healing factor
+--- 2
+Telekinesis
+Mind control
+Immortality
+Laser eyes | heat vision
+Freeze breath | ice breath
+Fire | pyrokinesis | fire powers
+Ice | cryokinesis | ice powers
+Weather control
+Super hearing
+Night vision
+Precognition | seeing the future
+Time freezing | stopping time
+Invulnerability
+Elasticity | stretching
+Shrinking
+Growing | giant size
+Intangibility | phasing | walking through walls
+Web slinging | webs
+Wall crawling | wall climbing
+Spider sense
+Wings
+Breathing underwater | water breathing
+Talking to animals
+Animal transformation
+Electricity | electrokinesis
+Magnetism | magnetic powers
+Force field
+Super jump
+Super intelligence | genius
+Super agility
+Duplication | cloning
+Mimicry | copying powers
+Power absorption
+Invisibility cloak
+Energy blasts
+Sonic scream
+Hypnosis
+Illusions
+Levitation
+Teleporting others
+Portal creation
+Plant control
+Water control | hydrokinesis
+Earth control | geokinesis
+Air control | wind control
+Light manipulation
+Darkness | shadow powers
+Luck
+Super senses
+Gravity control
+Reality warping
+Resurrection
+Time manipulation
+Dream walking
+Astral projection
+--- 3
+Omniscience
+Omnipotence
+Probability manipulation
+Technopathy
+Cyberkinesis
+Empathy
+Emotion control
+Memory manipulation
+Astral projection
+Biokinesis
+Blood control
+Bone generation
+Claws
+Echolocation
+Camouflage
+Density control
+Molecular manipulation
+Matter transmutation
+Nuclear powers
+Radiation
+Sound manipulation
+Vibration
+Lightning
+Solar energy
+Cosmic awareness
+Dimensional travel
+Precognitive dreams
+Retrocognition
+Psychometry
+Clairvoyance
+Clairaudience
+Mediumship
+Necromancy
+Summoning
+Spellcasting
+Enchantment
+Curse
+Possession
+Body swapping
+Size shifting
+Age manipulation
+Immortal youth
+Self-destruct
+Explosion
+Sticky hands
+Prehensile hair
+Tentacles
+Extra limbs
+Multiple arms
+Gills
+Venom
+Poison immunity
+Super stamina
+Super reflexes
+Danger sense
+Tracking
+Infinite stomach
+Pocket dimension
+Glow in the dark
+
+=== weapons
+title: Weapons
+prompt: Name as many weapons as you can
+--- 1
+Sword
+Gun
+Knife
+Bow and arrow | bow | arrow
+Spear
+Axe | ax
+Bomb
+Cannon
+Rifle
+Pistol | handgun
+--- 2
+Shotgun
+Machine gun
+Grenade
+Missile
+Rocket launcher | bazooka
+Tank
+Crossbow
+Dagger
+Club
+Mace
+Hammer | war hammer
+Slingshot
+Catapult
+Trebuchet
+Lance
+Pike
+Halberd
+Trident
+Scythe
+Sickle
+Machete
+Katana
+Nunchucks | nunchaku
+Throwing star | shuriken
+Boomerang
+Whip
+Sling
+Blowgun | blowpipe
+Spear gun | speargun
+Harpoon
+Flamethrower
+Landmine | mine
+Torpedo
+Nuclear bomb | nuke | atomic bomb
+Tear gas
+Taser
+Pepper spray
+Baseball bat
+Brass knuckles | knuckle dusters
+Revolver
+Musket
+Sniper rifle
+AK-47
+Uzi
+Assault rifle
+Flail
+Battle axe
+Broadsword
+Longsword
+Rapier
+Sabre | saber
+Cutlass
+Scimitar
+Bayonet
+Lightsaber @5
+Grenade launcher
+Drone
+--- 3
+Claymore
+Zweihänder
+Falchion
+Gladius
+Khopesh
+Kukri
+Bowie knife
+Stiletto
+Dirk
+Kris | keris
+Tanto
+Wakizashi
+Naginata
+Glaive
+Bardiche
+Poleaxe
+Partisan
+Ranseur
+Morning star
+War pick
+Quarterstaff
+Bo staff
+Sai
+Tonfa
+Kama
+Kusarigama
+Chakram
+Atlatl
+Bolas
+Throwing axe
+Tomahawk
+Francisca
+Javelin
+Pilum
+Longbow
+Composite bow
+Arbalest
+Ballista
+Mangonel
+Onager
+Battering ram
+Siege tower
+Greek fire
+Arquebus
+Blunderbuss
+Flintlock
+Derringer
+Gatling gun
+Maxim gun
+Tommy gun
+Bren gun
+Sten gun
+Luger
+Colt 45
+Glock
+Desert Eagle
+M16
+Mortar
+Howitzer
+Railgun
+Ray gun
+Phaser
+Cluster bomb
+Napalm
+Molotov cocktail
