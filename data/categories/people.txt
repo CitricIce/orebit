@@ -1,0 +1,1790 @@
+# People, clothes and everyday words. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== clothing
+title: Clothing
+prompt: Name as many items of clothing as you can
+--- 1
+Shirt | t-shirt | tshirt | tee
+Pants | trousers
+Jeans
+Dress
+Skirt
+Jacket
+Coat
+Sweater | jumper | pullover
+Socks | sock
+Shorts
+--- 2
+Hoodie
+Sweatshirt
+Blouse
+Suit
+Tie | necktie
+Vest | waistcoat
+Cardigan
+Scarf
+Gloves | glove
+Mittens
+Hat
+Cap | baseball cap
+Beanie
+Underwear | knickers | boxers | briefs
+Bra
+Pajamas | pyjamas | pjs
+Nightgown | nightie
+Robe | dressing gown | bathrobe
+Swimsuit | swimming costume | bathing suit
+Bikini
+Leggings
+Tights
+Stockings
+Tracksuit
+Sweatpants | joggers | trackies
+Overalls | dungarees
+Jumpsuit
+Romper | playsuit
+Raincoat | mac
+Parka
+Blazer
+Polo shirt | polo
+Tank top | vest top
+Crop top
+Belt
+Shoes
+Boots
+Sandals
+Trainers | sneakers
+Uniform
+Apron
+Kilt
+Poncho
+Onesie
+Gown
+Tuxedo | tux
+Bow tie
+Camisole
+Thermal
+Fleece
+Windbreaker
+Puffer jacket | puffer
+Trench coat
+Leather jacket
+Denim jacket
+Cargo pants | cargos
+Chinos
+Slacks
+--- 3
+Kimono
+Sari
+Sarong
+Kaftan
+Tunic
+Toga
+Cape
+Cloak
+Shawl
+Pashmina
+Stole
+Bolero
+Corset
+Bodice
+Petticoat
+Slip
+Negligee
+Teddy
+Bodysuit
+Leotard
+Unitard
+Wetsuit
+Rash guard
+Boardshorts
+Trunks
+Speedo
+Culottes
+Palazzo pants
+Capri pants
+Pedal pushers
+Bermuda shorts
+Hot pants
+Knickerbockers
+Breeches
+Jodhpurs
+Lederhosen
+Dirndl
+Cheongsam | qipao
+Hanbok
+Dashiki
+Djellaba
+Thobe
+Abaya
+Burqa
+Hijab
+Turban
+Fez
+Beret
+Fedora
+Balaclava
+Snood
+Earmuffs
+Legwarmers
+Spats
+Garter
+Suspenders | braces
+Cummerbund
+Cravat
+Ascot
+Morning suit
+Tailcoat
+Dinner jacket
+Smoking jacket
+Anorak
+Cagoule
+Gilet
+Duffel coat
+Pea coat
+Overcoat
+Mackintosh
+Housecoat
+Smock
+Pinafore
+Gymslip
+Sundress
+Maxi dress
+Mini skirt
+Pencil skirt
+Tutu
+
+=== shoes
+title: Shoes
+prompt: Name as many kinds of shoes as you can
+--- 1
+Sneakers | trainers | running shoes
+Boots
+Sandals
+High heels | heels
+Slippers
+Flip-flops | flip flops | thongs
+Loafers
+Flats | ballet flats
+--- 2
+Wellies | wellington boots | rain boots | gumboots
+Cowboy boots
+Hiking boots
+Ankle boots
+Chelsea boots
+Combat boots
+Ugg boots | uggs
+Snow boots
+Knee-high boots
+Thigh-high boots
+Stilettos | stiletto
+Wedges
+Platforms | platform shoes
+Pumps | court shoes
+Mules
+Clogs
+Crocs
+Brogues
+Oxfords
+Derbies
+Moccasins
+Boat shoes | deck shoes
+Espadrilles
+Slip-ons
+Mary Janes
+Converse | chucks
+Vans
+Cleats | football boots | studs
+Ballet shoes | ballet slippers
+Tap shoes
+Ice skates | skates
+Roller skates
+Ski boots
+Golf shoes
+Water shoes
+Dress shoes
+Work boots | steel toe boots
+Doc Martens | dr martens | docs
+Timberlands
+Birkenstocks
+Slides | sliders
+Kitten heels
+Peep toes
+Gladiator sandals
+Jelly shoes | jellies
+Plimsolls
+Tennis shoes
+Basketball shoes
+High-tops | hi-tops
+--- 3
+Monk straps
+Wingtips
+Chukka boots
+Desert boots
+Jodhpur boots
+Riding boots
+Wellingtons
+Galoshes
+Overshoes
+Waders
+Mukluks
+Moon boots
+Go-go boots
+Winklepickers
+Creepers
+Brothel creepers
+Spats
+Pointe shoes
+Jazz shoes
+Character shoes
+Bowling shoes
+Climbing shoes
+Cycling shoes
+Track spikes
+Rugby boots
+Sabots
+Geta
+Zori
+Tabi
+Jutti
+Kolhapuri
+Huaraches
+Alpargatas
+Opanci
+Klompen
+Pattens
+Chopines
+Slingbacks
+D'Orsay
+Ankle straps
+T-bar
+Brogue boots
+Loafer mules
+Penny loafers
+Tassel loafers
+Driving shoes
+Barefoot shoes
+Toe shoes
+Orthopedic shoes
+Hush Puppies
+
+=== accessories
+title: Accessories and jewelry
+prompt: Name as many accessories or pieces of jewelry as you can
+--- 1
+Necklace
+Ring
+Bracelet
+Earrings | earring
+Watch
+Sunglasses
+Belt
+Hat
+Scarf
+Handbag | purse | bag
+--- 2
+Glasses | spectacles
+Tie
+Bow tie
+Gloves
+Wallet
+Backpack
+Umbrella
+Cufflinks
+Brooch
+Pendant
+Locket
+Anklet
+Choker
+Chain
+Tiara
+Crown
+Headband
+Hair clip | barrette | hair slide
+Scrunchie
+Hair tie | hair band | bobble
+Bandana
+Cap
+Beanie
+Earmuffs
+Mittens
+Keychain | keyring
+Phone case
+Tote bag | tote
+Clutch
+Suitcase
+Briefcase
+Fanny pack | bum bag
+Lanyard
+Badge
+Pin
+Charm bracelet
+Bangle
+Engagement ring
+Wedding ring | wedding band
+Nose ring
+Piercing
+Body jewelry
+Toe ring
+Smartwatch
+Fitness tracker
+Hairpin
+Bobby pin | kirby grip
+Sash
+Suspenders | braces
+Veil
+Fascinator
+--- 3
+Tie clip | tie bar
+Tie pin
+Pocket square
+Cravat
+Ascot
+Monocle
+Pince-nez
+Lorgnette
+Cameo
+Signet ring
+Class ring
+Mood ring
+Eternity ring
+Cocktail ring
+Stud
+Hoop earrings | hoops
+Drop earrings
+Ear cuff
+Septum ring
+Belly button ring
+Lip ring
+Gauge
+Circlet
+Diadem
+Coronet
+Torc
+Amulet
+Talisman
+Rosary
+Prayer beads
+Medallion
+Dog tags
+ID bracelet
+Friendship bracelet
+Ankle bracelet
+Armlet
+Arm band
+Cuff
+Collar
+Hatpin
+Hat band
+Snood
+Turban
+Headscarf
+Hijab
+Shawl
+Stole
+Boa
+Muff
+Parasol
+Walking stick | cane
+Fan
+Reticule
+Satchel
+Messenger bag
+Duffel bag
+Money clip
+Card holder
+Pocket watch
+Fob
+Sweatband
+Wristband
+
+=== clothing-brands
+title: Clothing and fashion brands
+prompt: Name as many clothing or fashion brands as you can
+--- 1
+Nike
+Adidas
+Gucci
+Zara
+H&M | h and m
+Gap
+Levi's | levis
+Puma
+Chanel
+Louis Vuitton | lv
+--- 2
+Under Armour
+Reebok
+New Balance
+Converse
+Vans
+Prada
+Versace
+Dior | christian dior
+Armani | giorgio armani
+Burberry
+Ralph Lauren | polo ralph lauren
+Tommy Hilfiger | tommy
+Calvin Klein | ck
+Hugo Boss | boss
+Lacoste
+Fendi
+Hermès | hermes
+Balenciaga
+Givenchy
+Yves Saint Laurent | ysl | saint laurent
+Valentino
+Dolce & Gabbana | dolce and gabbana | d&g
+Michael Kors
+Coach
+Kate Spade
+Uniqlo
+Primark
+Forever 21
+Old Navy
+Banana Republic
+Abercrombie & Fitch | abercrombie
+Hollister
+American Eagle
+Urban Outfitters
+Topshop
+Mango
+Shein
+Victoria's Secret
+The North Face | north face
+Patagonia
+Columbia
+Lululemon
+Champion
+Fila
+Supreme
+Off-White
+Stone Island
+Moncler
+Canada Goose
+Timberland
+Dr. Martens
+UGG
+Skechers
+Crocs
+Asics
+Hoka
+Wrangler
+Lee
+Diesel
+Superdry
+Fred Perry
+Ted Baker
+Next
+Marks & Spencer | m&s
+J.Crew
+Express
+Nautica
+Guess
+Tom Ford
+--- 3
+Alexander McQueen
+Stella McCartney
+Vivienne Westwood
+Paul Smith
+Mulberry
+Jimmy Choo
+Manolo Blahnik
+Christian Louboutin | louboutin
+Salvatore Ferragamo | ferragamo
+Bottega Veneta
+Celine
+Loewe
+Miu Miu
+Moschino
+Kenzo
+Jacquemus
+Acne Studios
+Rick Owens
+Comme des Garçons
+Issey Miyake
+Yohji Yamamoto
+Maison Margiela
+Balmain
+Chloé
+Marc Jacobs
+Tory Burch
+Diane von Furstenberg
+Oscar de la Renta
+Carolina Herrera
+Vera Wang
+Donna Karan | dkny
+Anna Sui
+Thom Browne
+Brooks Brothers
+Barbour
+Hunter
+Hackett
+Jack Wills
+Joules
+Boden
+Whistles
+Reiss
+AllSaints
+COS
+& Other Stories
+Arket
+Bershka
+Pull&Bear
+Stradivarius
+Massimo Dutti
+Benetton
+Esprit
+Quiksilver
+Billabong
+Rip Curl
+O'Neill
+Volcom
+Carhartt
+Dickies
+Stüssy
+Palace
+Bape | a bathing ape
+Kith
+Fear of God
+Arc'teryx
+Salomon
+Mammut
+Rab
+Jack Wolfskin
+Helly Hansen
+
+=== body-parts
+title: Body parts
+prompt: Name as many parts of the human body as you can
+--- 1
+Head
+Arm
+Leg
+Hand
+Foot | feet
+Eye | eyes
+Nose
+Mouth
+Ear | ears
+Hair
+--- 2
+Finger | fingers
+Toe | toes
+Thumb
+Knee
+Elbow
+Shoulder
+Neck
+Chest
+Back
+Stomach | belly | tummy
+Hip | hips
+Waist
+Wrist
+Ankle
+Heel
+Chin
+Cheek | cheeks
+Forehead
+Lips | lip
+Teeth | tooth
+Tongue
+Eyebrow | eyebrows
+Eyelash | eyelashes
+Eyelid
+Nail | nails | fingernail | toenail
+Skin
+Brain
+Heart
+Lungs | lung
+Liver
+Kidney | kidneys
+Bones | bone
+Muscle | muscles
+Blood
+Throat
+Jaw
+Skull
+Spine
+Ribs | rib
+Bum | butt | buttocks | bottom
+Thigh
+Calf
+Shin
+Palm
+Knuckle | knuckles
+Navel | belly button
+Armpit
+Torso
+Scalp
+Temple
+Nostril
+Gums
+Pupil
+Iris
+Hamstring
+Bicep | biceps
+Tricep | triceps
+Abs
+Pelvis
+Intestines | guts
+Bladder
+Veins
+Arteries
+--- 3
+Sole
+Instep
+Arch
+Achilles tendon | achilles
+Kneecap | patella
+Collarbone | clavicle
+Shoulder blade | scapula
+Sternum | breastbone
+Femur
+Tibia
+Fibula
+Humerus
+Radius
+Ulna
+Pancreas
+Spleen
+Gallbladder
+Appendix
+Thyroid
+Tonsils
+Adenoids
+Uvula
+Larynx | voice box
+Windpipe | trachea
+Oesophagus | esophagus
+Diaphragm
+Colon
+Rectum
+Cornea
+Retina
+Eardrum
+Cochlea
+Septum
+Philtrum
+Dimple
+Earlobe
+Cuticle
+Pinky | little finger
+Index finger
+Ring finger
+Middle finger
+Big toe
+Groin
+Lower back
+Love handles
+Hamstrings
+Quads | quadriceps
+Glutes
+Pecs
+Lats
+Delts
+Trapezius | traps
+Forearm
+Upper arm
+Nape
+Crown
+Sideburns
+Cartilage
+Ligament
+Tendon
+Nerves
+Spinal cord
+
+=== family-members
+title: Family members
+prompt: Name as many family members or relatives as you can
+--- 1
+Mother | mom | mum | mommy | mummy | mama
+Father | dad | daddy | papa
+Brother
+Sister
+Grandmother | grandma | granny | nana | nan
+Grandfather | grandpa | grandad | granddad | gramps
+Aunt | auntie
+Uncle
+Cousin
+Son
+Daughter
+--- 2
+Niece
+Nephew
+Husband
+Wife
+Spouse
+Grandson
+Granddaughter
+Grandchild | grandkids | grandchildren
+Grandparent | grandparents
+Parent | parents
+Sibling | siblings
+Twin | twins
+Stepmother | stepmom | stepmum
+Stepfather | stepdad
+Stepbrother
+Stepsister
+Stepson
+Stepdaughter
+Half-brother | half brother
+Half-sister | half sister
+Mother-in-law
+Father-in-law
+Brother-in-law
+Sister-in-law
+Son-in-law
+Daughter-in-law
+In-laws
+Great-grandmother | great grandma
+Great-grandfather | great grandpa
+Great-aunt | great aunt
+Great-uncle | great uncle
+Godmother
+Godfather
+Godparent
+Godson
+Goddaughter
+Godchild
+Fiancé | fiance | fiancee
+Partner
+Boyfriend
+Girlfriend
+Baby
+Child | kids | children
+Ancestor | ancestors
+Descendant
+Relative
+Second cousin
+--- 3
+First cousin
+Cousin once removed
+Great-grandson
+Great-granddaughter
+Great-grandchild
+Great-great-grandmother
+Great-great-grandfather
+Great-niece
+Great-nephew
+Grandniece
+Grandnephew
+Foster parent
+Foster child
+Adoptive parent
+Adopted child
+Birth mother
+Birth father
+Surrogate
+Widow
+Widower
+Ex-wife
+Ex-husband
+Matriarch
+Patriarch
+Firstborn
+Only child
+Triplets
+Quadruplets
+Heir
+Offspring
+Progeny
+Kin
+Kinsman
+Clan
+Tribe
+Household
+Co-parent
+Co-mother-in-law
+Stepgrandmother
+Stepgrandfather
+Step-sibling
+Half-sibling
+Brother from another mother
+Bonus mom
+Ward
+Guardian
+Uncle-in-law
+Aunt-in-law
+Nephew-in-law
+Niece-in-law
+Cousin-in-law
+
+=== jobs
+title: Jobs
+prompt: Name as many jobs or occupations as you can
+--- 1
+Doctor
+Teacher
+Nurse
+Police officer | policeman | policewoman | cop
+Firefighter | fireman
+Lawyer
+Chef | cook
+Engineer
+Dentist
+Farmer
+Pilot
+--- 2
+Accountant
+Architect
+Artist
+Actor
+Actress
+Singer
+Musician
+Writer | author
+Journalist | reporter
+Photographer
+Scientist
+Programmer | software engineer | developer | coder
+Electrician
+Plumber
+Carpenter
+Mechanic
+Builder
+Painter
+Baker
+Butcher
+Waiter | waitress | server
+Bartender
+Cashier
+Shop assistant | sales assistant
+Receptionist
+Secretary
+Librarian
+Postman | mail carrier | mailman
+Bus driver
+Taxi driver | cab driver
+Truck driver | lorry driver
+Soldier
+Sailor
+Astronaut
+Vet | veterinarian
+Pharmacist
+Surgeon
+Paramedic
+Psychologist
+Therapist
+Judge
+Banker
+Cleaner | janitor
+Hairdresser | hairstylist
+Barber
+Tailor
+Gardener
+Plumber
+Professor
+Principal | headteacher
+Manager
+CEO
+Salesperson
+Designer
+Model
+Dancer
+Athlete
+Coach
+Detective
+Security guard
+Lifeguard
+Flight attendant | air hostess | stewardess
+Politician
+President
+Priest
+Nanny
+Babysitter
+Social worker
+Translator | interpreter
+Fisherman
+Miner
+Construction worker
+--- 3
+Optician | optometrist
+Physiotherapist | physical therapist
+Radiographer
+Midwife
+Anesthesiologist
+Pediatrician
+Dermatologist
+Cardiologist
+Neurologist
+Psychiatrist
+Chiropractor
+Dietitian | nutritionist
+Pharmacist
+Actuary
+Auditor
+Economist
+Statistician
+Data scientist
+Mathematician
+Physicist
+Chemist
+Biologist
+Geologist
+Archaeologist
+Historian
+Anthropologist
+Astronomer
+Meteorologist
+Zoologist
+Botanist
+Surveyor
+Draughtsman | drafter
+Welder
+Bricklayer
+Roofer
+Plasterer
+Glazier
+Locksmith
+Upholsterer
+Cobbler
+Blacksmith
+Jeweller | jeweler
+Watchmaker
+Florist
+Undertaker | mortician
+Embalmer
+Coroner
+Paralegal
+Solicitor
+Barrister
+Notary
+Bailiff
+Diplomat
+Ambassador
+Mayor
+Senator
+Clerk
+Courier
+Stockbroker
+Real estate agent | estate agent | realtor
+Insurance agent
+Travel agent
+Tour guide
+Concierge
+Butler
+Housekeeper
+Chauffeur
+Usher
+Sommelier
+Barista
+Zookeeper
+Park ranger
+Forester
+Stuntman
+Magician
+Clown
+Comedian
+Influencer
+YouTuber
+
+=== emotions
+title: Emotions and feelings
+prompt: Name as many emotions or feelings as you can
+--- 1
+Happy | happiness
+Sad | sadness
+Angry | anger
+Scared | fear | afraid
+Excited | excitement
+Nervous
+Love
+Bored | boredom
+Tired
+Surprised | surprise
+--- 2
+Joy
+Jealous | jealousy
+Envy | envious
+Embarrassed | embarrassment
+Anxious | anxiety
+Worried | worry
+Lonely | loneliness
+Confused | confusion
+Proud | pride
+Ashamed | shame
+Guilty | guilt
+Grateful | gratitude
+Hopeful | hope
+Calm
+Relaxed
+Stressed | stress
+Frustrated | frustration
+Annoyed | annoyance
+Disgusted | disgust
+Hate | hatred
+Content | contentment
+Curious | curiosity
+Shy | shyness
+Confident | confidence
+Disappointed | disappointment
+Grief
+Regret
+Relief | relieved
+Hurt
+Upset
+Furious | fury
+Terrified | terror
+Panic
+Cheerful
+Delighted
+Thrilled
+Glad
+Miserable
+Depressed
+Hopeless
+Overwhelmed
+Satisfied
+Peaceful
+Amused
+Sympathy
+Empathy
+Compassion
+Affection
+Lust
+Desire
+Awe
+Nostalgia | nostalgic
+Homesick
+Insecure
+Grumpy
+Irritated
+Hungry @4
+Sleepy @4
+--- 3
+Elated
+Ecstatic
+Euphoric
+Blissful
+Serene
+Tranquil
+Melancholy
+Sorrow
+Despair
+Anguish
+Dread
+Apprehensive
+Uneasy
+Restless
+Agitated
+Indignant
+Resentful
+Bitter
+Spiteful
+Contempt
+Scorn
+Loathing
+Revulsion
+Humiliated
+Mortified
+Remorse
+Contrite
+Smug
+Triumphant
+Vindicated
+Exhilarated
+Giddy
+Bashful
+Sheepish
+Wistful
+Pensive
+Ambivalent
+Indifferent
+Apathetic
+Jaded
+Weary
+Exasperated
+Flustered
+Perplexed
+Bewildered
+Astonished
+Amazed
+Startled
+Shocked
+Horrified
+Petrified
+Paranoid
+Vulnerable
+Heartbroken
+Lovesick
+Infatuated
+Adoration
+Tenderness
+Longing
+Yearning
+Schadenfreude
+Ennui
+Hangry
+Fomo
+
+=== hobbies
+title: Hobbies
+prompt: Name as many hobbies as you can
+--- 1
+Reading
+Painting
+Drawing
+Cooking
+Gardening
+Fishing
+Dancing
+Singing
+Hiking
+Photography
+Gaming | video games
+--- 2
+Knitting
+Sewing
+Crochet
+Baking
+Writing
+Swimming
+Running | jogging
+Cycling | biking
+Camping
+Yoga
+Playing music | playing an instrument
+Playing guitar | guitar
+Playing piano | piano
+Chess
+Puzzles | jigsaw puzzles
+Crosswords | sudoku
+Board games
+Collecting
+Stamp collecting
+Coin collecting
+Bird watching | birdwatching
+Woodworking
+Pottery
+Scrapbooking
+Journaling
+Blogging
+Traveling | travel
+Shopping
+Watching movies | movies
+Watching TV
+Listening to music
+Skateboarding
+Surfing
+Skiing
+Snowboarding
+Rock climbing | climbing
+Martial arts
+Boxing
+Golf
+Tennis
+Football | soccer
+Basketball
+Horse riding
+Sailing
+Kayaking
+Scuba diving | diving
+Volunteering
+Meditation
+Gym | working out | exercise | fitness
+Origami
+Calligraphy
+Embroidery
+Quilting
+Candle making
+Model building | model making
+Lego
+Magic tricks | magic
+Juggling
+Karaoke
+Acting | theatre
+Podcasting
+Coding | programming
+Cosplay
+Anime
+Bowling
+Darts
+Pool | billiards
+Poker
+--- 3
+Geocaching
+Metal detecting
+Beekeeping
+Brewing | homebrewing
+Wine tasting
+Foraging
+Mushroom hunting
+Astronomy | stargazing
+Trainspotting
+Plane spotting
+Genealogy | family history
+Calligraphy
+Lettering
+Bullet journaling
+Soap making
+Jewelry making
+Leatherworking
+Glassblowing
+Stained glass
+Whittling
+Wood carving
+Sculpting
+Macrame
+Weaving
+Spinning
+Felting
+Cross-stitch
+Needlepoint
+Tatting
+Lace making
+Bonsai
+Terrariums
+Aquariums | fishkeeping
+Ham radio
+Lock picking
+Drone flying
+Kite flying
+Model trains | model railways
+RC cars
+Rubik's cube
+Speedcubing
+Larping
+Dungeons & Dragons | d&d
+Tabletop gaming
+Warhammer
+Card collecting
+Pokémon cards
+Comic collecting
+Vinyl collecting | record collecting
+Antiquing
+Upcycling
+Furniture restoration
+Car restoration
+Parkour
+Slacklining
+Archery
+Fencing
+Falconry
+Paragliding
+Skydiving
+Bungee jumping
+Caving | spelunking
+Orienteering
+Triathlon
+Ultramarathons
+Pickleball
+Disc golf
+Ultimate frisbee
+Bouldering
+Calisthenics
+Pilates
+Tai chi
+Ballroom dancing
+Salsa dancing
+Pole dancing
+Stand-up comedy
+Improv
+Puppetry
+Ventriloquism
+Bonsai
+
+=== colors
+title: Colors
+prompt: Name as many colors as you can
+--- 1
+Red
+Blue
+Green
+Yellow
+Orange
+Purple
+Pink
+Black
+White
+Brown
+Grey | gray
+--- 2
+Navy | navy blue
+Turquoise
+Teal
+Maroon
+Burgundy
+Beige
+Cream
+Gold
+Silver
+Violet
+Indigo
+Lavender
+Lilac
+Magenta
+Cyan
+Lime | lime green
+Olive | olive green
+Mint | mint green
+Peach
+Coral
+Salmon
+Crimson
+Scarlet
+Cherry red
+Tan
+Khaki
+Ivory
+Charcoal
+Aqua
+Sky blue
+Baby blue
+Royal blue
+Cobalt
+Sapphire
+Emerald
+Jade
+Forest green
+Mustard
+Lemon
+Amber
+Bronze
+Copper
+Rust
+Chocolate
+Caramel
+Plum
+Mauve
+Fuchsia
+Rose
+Hot pink
+Blush
+Taupe
+Off-white
+Neon
+Ruby
+--- 3
+Vermilion
+Cerise
+Carmine
+Cardinal
+Oxblood
+Claret
+Puce
+Periwinkle
+Cerulean
+Azure
+Ultramarine
+Prussian blue
+Powder blue
+Duck egg blue
+Steel blue
+Midnight blue
+Denim
+Chartreuse
+Sage
+Moss
+Pistachio
+Seafoam
+Celadon
+Viridian
+Hunter green
+Bottle green
+Ochre
+Sienna
+Umber
+Sepia
+Mahogany
+Chestnut
+Auburn
+Ginger
+Saffron
+Marigold
+Canary yellow
+Goldenrod
+Buff
+Ecru
+Champagne
+Eggshell
+Alabaster
+Pearl
+Platinum
+Pewter
+Slate
+Gunmetal
+Ebony
+Onyx
+Jet
+Magnolia
+Heliotrope
+Orchid
+Amethyst
+Aubergine | eggplant
+Wine
+Raspberry
+Watermelon
+Tangerine
+Apricot
+Terracotta
+Burnt orange
+
+=== shapes
+title: Shapes
+prompt: Name as many shapes as you can
+--- 1
+Circle
+Square
+Triangle
+Rectangle
+Star
+Heart
+Oval
+Diamond
+Pentagon
+Hexagon
+--- 2
+Octagon
+Heptagon
+Nonagon
+Decagon
+Rhombus
+Trapezoid | trapezium
+Parallelogram
+Kite
+Crescent
+Semicircle
+Ellipse
+Sphere
+Cube
+Cone
+Cylinder
+Pyramid
+Prism
+Cuboid
+Arrow
+Cross
+Spiral
+Quadrilateral
+Polygon
+Right triangle | right-angled triangle
+Equilateral triangle
+Isosceles triangle
+Scalene triangle
+Octahedron
+Tetrahedron
+Dodecahedron
+Icosahedron
+Torus | donut
+Hemisphere
+Ring
+Line
+Point
+Zigzag
+Wave
+--- 3
+Hendecagon
+Dodecagon
+Tridecagon
+Icosagon
+Pentagram
+Hexagram | star of david
+Octagram
+Trefoil
+Quatrefoil
+Lune
+Annulus
+Sector
+Segment
+Chord
+Arc
+Lens
+Vesica piscis
+Teardrop
+Squircle
+Reuleaux triangle
+Deltoid
+Astroid
+Cardioid
+Lemniscate | infinity
+Parabola
+Hyperbola
+Helix
+Möbius strip | mobius strip
+Klein bottle
+Frustum
+Ellipsoid
+Paraboloid
+Hyperboloid
+Spheroid
+Rhombohedron
+Parallelepiped
+Polyhedron
+Platonic solid
+Tesseract
+Fractal
+Koch snowflake
+Sierpinski triangle
+Golden spiral
+Chevron
+Shield
+Lozenge
+Cloud
+Lightning bolt
+Moon
+
+=== school-subjects
+title: School subjects
+prompt: Name as many school subjects as you can
+--- 1
+Math | maths | mathematics
+English
+Science
+History
+Geography
+Art
+Music
+PE | physical education | gym
+Biology
+Chemistry
+Physics
+--- 2
+French
+Spanish
+German
+Latin
+Chinese | mandarin
+Japanese
+Italian
+Computer science | computing | ict | it
+Drama | theatre
+Religious education | re | religious studies | religion
+Economics
+Business studies | business
+Psychology
+Sociology
+Philosophy
+Politics | government | civics
+Literature | english literature
+Algebra
+Geometry
+Calculus
+Statistics
+Health
+Home economics | home ec
+Cooking | food technology
+Design and technology | dt | design
+Woodwork | shop
+Social studies
+Media studies
+Photography
+Dance
+Sex education | sex ed
+Citizenship
+Law
+Accounting
+Astronomy
+Earth science
+Environmental science
+Engineering
+Robotics
+Coding
+Typing
+Debate
+Band
+Choir
+Orchestra
+Study hall
+Reading
+Spelling
+Writing
+Phonics
+--- 3
+Trigonometry
+Pre-calculus
+Further maths
+Classics
+Ancient Greek
+Classical civilisation
+Anthropology
+Archaeology
+Criminology
+Film studies
+Textiles
+Graphics
+Product design
+Electronics
+Metalwork
+Horticulture
+Agriculture
+Marine biology
+Zoology
+Botany
+Anatomy
+Forensic science
+Ethics
+Theology
+Logic
+Rhetoric
+Journalism
+Creative writing
+Public speaking
+Personal finance
+Life skills
+PSHE
+Global studies
+World history
+American history
+European history
+Art history
+Music theory
+Sign language
+Welsh
+Irish
+Gaelic
+Russian
+Arabic
+Korean
+Portuguese
+Esperanto
+Shorthand
+Ceramics
+Sculpture
+Yearbook
+Homeroom
+Recess @5
+Lunch @5
+
+=== units
+title: Units of measurement
+prompt: Name as many units of measurement as you can
+--- 1
+Inch | inches
+Foot | feet
+Mile | miles
+Meter | metre | meters
+Centimeter | centimetre | cm
+Kilometer | kilometre | km
+Gram | grams | g
+Kilogram | kilo | kg
+Pound | lb | lbs
+Liter | litre | liters
+Second | seconds
+Minute | minutes
+Hour | hours
+--- 2
+Yard | yards
+Millimeter | millimetre | mm
+Ounce | oz
+Ton | tonne
+Stone
+Gallon
+Pint
+Quart
+Cup
+Teaspoon | tsp
+Tablespoon | tbsp
+Milliliter | millilitre | ml
+Fluid ounce
+Degree | degrees
+Celsius | centigrade
+Fahrenheit
+Kelvin
+Day
+Week
+Month
+Year
+Decade
+Century
+Millennium
+Acre
+Hectare
+Watt
+Kilowatt
+Volt
+Amp | ampere
+Calorie
+Joule
+Newton
+Pascal
+Decibel
+Hertz
+Byte
+Kilobyte
+Megabyte
+Gigabyte
+Terabyte
+Bit
+Knot
+Light year | light-year
+Horsepower
+Mile per hour | mph
+Kilometre per hour | kph
+Percent
+Dozen
+Millisecond
+Nanometer
+Micrometer | micron
+Milligram
+Carat
+--- 3
+Furlong
+Chain
+League
+Nautical mile
+Fathom
+Cubit
+Hand
+Rod
+Perch
+Pole
+Link
+Angstrom
+Parsec
+Astronomical unit | au
+Picometer
+Femtometer
+Hundredweight
+Grain
+Dram
+Troy ounce
+Pennyweight
+Bushel
+Peck
+Barrel
+Hogshead
+Gill
+Minim
+Cord
+Board foot
+Square foot
+Cubic meter
+Are
+Township
+Mole
+Candela
+Lumen
+Lux
+Ohm
+Coulomb
+Farad
+Henry
+Tesla
+Weber
+Siemens
+Becquerel
+Gray
+Sievert
+Rem
+Rad
+Radian
+Steradian
+Gradian
+BTU
+Therm
+Erg
+Electronvolt
+Dyne
+Bar
+Atmosphere
+Torr
+Psi
+Fortnight
+Nanosecond
+Jiffy
+Petabyte
+Exabyte
+Smoot

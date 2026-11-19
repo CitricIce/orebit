@@ -1,0 +1,922 @@
+# Home and everyday things. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== furniture
+title: Furniture
+prompt: Name as many pieces of furniture as you can
+--- 1
+Chair
+Table
+Bed
+Sofa | couch
+Desk
+Wardrobe | closet
+Bookshelf | bookcase | shelf
+Dresser | chest of drawers
+--- 2
+Armchair
+Stool
+Bench
+Cabinet
+Cupboard
+Nightstand | bedside table
+Coffee table
+Dining table
+Recliner
+Futon
+Bunk bed
+Crib | cot
+Ottoman | footstool
+Rocking chair
+Sideboard
+Hutch
+TV stand
+Bean bag
+Hammock
+Lamp
+Mirror
+Rug
+Vanity
+Headboard
+Loveseat
+Sofa bed
+Wardrobe
+Filing cabinet
+High chair
+Office chair
+Bar stool
+Chaise longue | chaise
+Display cabinet
+Shoe rack
+Coat rack | coat stand
+Chest | blanket chest | toy chest
+Trunk
+Console table
+End table | side table
+Desk chair
+Mattress
+Bed frame
+Cradle
+--- 3
+Divan
+Settee
+Chesterfield
+Davenport
+Credenza
+Armoire
+Bureau
+Secretary desk
+Tallboy
+Lowboy
+Highboy
+Chiffonier
+Étagère
+Whatnot
+Canterbury
+Hall tree
+Hatstand
+Daybed
+Four-poster bed | four poster
+Canopy bed
+Murphy bed
+Trundle bed
+Sleigh bed
+Water bed
+Chaise lounge
+Sectional
+Pouf
+Hassock
+Settle
+Pew
+Throne
+Barcalounger
+Papasan chair
+Egg chair
+Wingback chair
+Windsor chair
+Bergère
+Fainting couch
+Tea trolley
+Bar cart
+Lazy Susan
+Room divider | folding screen
+Hope chest
+Wine rack
+Plant stand
+Nesting tables
+Gateleg table
+Drop-leaf table
+Trestle table
+Kitchen island
+
+=== rooms
+title: Rooms and places in a house
+prompt: Name as many rooms or parts of a house as you can
+--- 1
+Kitchen
+Bedroom
+Bathroom
+Living room | lounge
+Dining room
+Garage
+Attic | loft
+Basement | cellar
+--- 2
+Hallway | hall
+Office | study | home office
+Closet | walk-in closet
+Laundry room | utility room
+Porch
+Garden | yard | backyard
+Pantry
+Playroom
+Nursery
+Guest room | spare room
+Den
+Family room
+Conservatory | sunroom
+Balcony
+Patio
+Deck
+Staircase | stairs
+Landing
+Toilet | restroom | loo | wc
+Shower room
+Ensuite | en suite
+Master bedroom
+Game room | games room
+Home gym | gym
+Home theater | cinema room
+Mudroom
+Foyer | entryway | entrance hall
+Driveway
+Shed
+Roof
+Kitchenette
+Library
+Wine cellar
+Utility
+--- 3
+Parlor | parlour
+Drawing room
+Sitting room
+Front room
+Reception room
+Snug
+Box room
+Scullery
+Larder
+Boot room
+Cloakroom
+Powder room
+Half bath
+Breakfast nook | nook
+Butler's pantry
+Solarium
+Atrium
+Gallery
+Mezzanine
+Crawl space
+Panic room
+Safe room
+Bomb shelter
+Workshop
+Studio
+Craft room
+Sewing room
+Music room
+Billiard room
+Ballroom
+Servants' quarters
+Granny flat | annex
+Guest house
+Pool house
+Carport
+Veranda
+Terrace
+Lanai
+Gazebo
+Greenhouse
+Treehouse
+Rumpus room
+Man cave
+She shed
+Boiler room
+Furnace room
+Vestibule
+Antechamber
+
+=== kitchen-tools
+title: Kitchen utensils
+prompt: Name as many kitchen utensils and gadgets as you can
+--- 1
+Knife
+Fork
+Spoon
+Spatula
+Whisk
+Ladle
+Tongs
+Pan | frying pan
+Pot | saucepan
+--- 2
+Peeler
+Grater
+Colander
+Sieve | strainer
+Rolling pin
+Can opener | tin opener
+Bottle opener
+Corkscrew
+Cutting board | chopping board
+Measuring cup | measuring cups
+Measuring spoons
+Mixing bowl | bowl
+Wooden spoon
+Slotted spoon
+Potato masher | masher
+Garlic press
+Pizza cutter
+Kitchen scissors | scissors
+Oven mitt | oven glove
+Baking tray | baking sheet
+Muffin tin
+Cake tin | cake pan
+Casserole dish
+Wok
+Skillet
+Dutch oven
+Stockpot
+Lid
+Pastry brush
+Ice cream scoop
+Salad spinner
+Funnel
+Thermometer
+Timer
+Scale | kitchen scale
+Juicer
+Zester
+Mandoline
+Mortar and pestle
+Rolling board
+Chopsticks
+Teapot
+Kettle
+Cafetière | french press
+Sharpener | knife sharpener
+Cleaver
+Bread knife
+Paring knife
+Chef's knife
+Steak knife
+Apron
+Tea towel | dish towel
+Sponge
+Plate
+Cup
+Mug
+Glass
+--- 3
+Baster
+Piping bag
+Cookie cutter
+Melon baller
+Egg slicer
+Apple corer
+Cherry pitter
+Nutcracker
+Meat tenderizer | meat mallet
+Kitchen twine
+Skewers
+Ramekin
+Springform pan
+Bundt pan
+Loaf tin
+Pie dish
+Tart tin
+Sifter
+Dough scraper | bench scraper
+Pastry cutter
+Spider
+Splatter guard
+Trivet
+Spoon rest
+Butter dish
+Gravy boat
+Carafe
+Decanter
+Cocktail shaker
+Jigger
+Muddler
+Citrus reamer
+Pepper mill | pepper grinder
+Salt shaker
+Spice rack
+Tortilla press
+Rice paddle
+Bamboo steamer
+Sushi mat
+Fish slice
+Turner
+Microplane
+Pestle
+Ricer
+Food mill
+Poultry shears
+Cheese grater
+Cheese slicer
+Fondue set
+Pizza stone
+Pizza peel
+Griddle
+Grill pan
+Roasting tin
+Saute pan
+Double boiler
+Bain-marie
+
+=== appliances
+title: Household appliances
+prompt: Name as many household appliances as you can
+--- 1
+Fridge | refrigerator
+Oven
+Microwave
+Toaster
+Washing machine | washer
+Dishwasher
+Kettle
+Freezer
+--- 2
+Dryer | tumble dryer
+Stove | cooker | hob
+Blender
+Coffee maker | coffee machine
+Vacuum cleaner | vacuum | hoover
+Iron
+Air conditioner | ac | air con
+Heater | space heater
+Fan
+Television | tv
+Hair dryer | hairdryer
+Food processor
+Mixer | stand mixer
+Slow cooker | crockpot
+Air fryer
+Toaster oven
+Rice cooker
+Pressure cooker | instant pot
+Juicer
+Espresso machine
+Water heater | boiler
+Dehumidifier
+Humidifier
+Air purifier
+Robot vacuum | roomba
+Electric toothbrush
+Hair straightener | straighteners
+Curling iron | curling tongs
+Electric razor | shaver
+Sewing machine
+Bread maker | bread machine
+Waffle maker | waffle iron
+Sandwich maker | sandwich toaster
+Deep fryer
+Ice maker
+Water dispenser
+Extractor fan | range hood
+Garbage disposal
+Trash compactor
+Grill
+Smoke detector
+Lamp
+Clock
+Radio
+Speaker
+Computer
+--- 3
+Steam mop
+Carpet cleaner
+Pressure washer
+Leaf blower
+Lawn mower
+Hedge trimmer
+Chainsaw
+Snow blower
+Generator
+Dehydrator
+Sous vide
+Popcorn maker
+Ice cream maker
+Yogurt maker
+Pasta maker
+Soda maker | sodastream
+Milk frother
+Electric grill
+Panini press
+Hot plate
+Induction hob
+Range
+Wine fridge | wine cooler
+Chest freezer
+Mini fridge
+Electric blanket
+Heated towel rail
+Steam iron
+Clothes steamer
+Trouser press
+Spin dryer
+Twin tub
+Water softener
+Water filter
+Sump pump
+Heat pump
+Radiator
+Thermostat
+Doorbell
+Garage door opener
+Smart speaker
+Kettle
+Coffee grinder
+Electric whisk | hand mixer
+Immersion blender | stick blender
+Spiralizer
+Egg cooker
+Hot water dispenser
+Bottle warmer
+Sterilizer
+Baby monitor
+
+=== tools
+title: Tools
+prompt: Name as many tools as you can
+--- 1
+Hammer
+Screwdriver
+Wrench | spanner
+Saw
+Drill
+Pliers
+Tape measure | measuring tape
+Ladder
+--- 2
+Axe | ax
+Shovel | spade
+Rake
+Level | spirit level
+Chisel
+Sandpaper
+File
+Clamp
+Vise | vice
+Crowbar
+Mallet
+Sledgehammer
+Hacksaw
+Chainsaw
+Jigsaw
+Circular saw
+Nail gun
+Staple gun
+Glue gun
+Utility knife | box cutter | stanley knife
+Wire cutters
+Allen key | allen wrench | hex key
+Socket wrench | ratchet
+Adjustable wrench
+Pipe wrench
+Paintbrush
+Paint roller
+Trowel
+Hoe
+Pitchfork
+Wheelbarrow
+Shears
+Pruners | secateurs
+Lawn mower
+Toolbox
+Nail
+Screw
+Bolt
+Nut
+Stud finder
+Soldering iron
+Blowtorch
+Multimeter
+Flashlight | torch
+Pocket knife | swiss army knife
+Multitool
+Tweezers
+Scissors
+Sander
+Router
+Lathe
+Plane
+Anvil
+--- 3
+Awl
+Bradawl
+Gimlet
+Auger
+Brace
+Spokeshave
+Drawknife
+Adze
+Hatchet
+Machete
+Pickaxe
+Mattock
+Bolt cutters
+Tin snips
+Needle-nose pliers
+Locking pliers | vise grips
+Torque wrench
+Impact driver
+Angle grinder
+Belt sander
+Orbital sander
+Band saw
+Table saw
+Miter saw | mitre saw
+Coping saw
+Fret saw
+Bow saw
+Pruning saw
+Reciprocating saw
+Oscillating tool
+Heat gun
+Caulking gun
+Grease gun
+Pipe cutter
+Tile cutter
+Plumb bob
+Chalk line
+Square | try square
+Bevel
+Calipers
+Micrometer
+Feeler gauge
+Punch
+Center punch
+Nail set
+Countersink
+Tap and die
+Rivet gun
+Pry bar
+Putty knife
+Scraper
+Wire brush
+Jack
+Hoist
+Winch
+Pulley
+Wedge
+Level
+
+=== bathroom-items
+title: Things in a bathroom
+prompt: Name as many things you'd find in a bathroom as you can
+--- 1
+Toilet
+Sink
+Shower
+Bath | bathtub | tub
+Toothbrush
+Toothpaste
+Soap
+Towel
+Mirror
+Shampoo
+--- 2
+Conditioner
+Toilet paper | toilet roll | loo roll
+Hairbrush | brush
+Comb
+Razor
+Shaving cream | shaving foam
+Deodorant
+Body wash | shower gel
+Bath mat
+Shower curtain
+Toilet brush
+Plunger
+Hair dryer
+Floss | dental floss
+Mouthwash
+Cotton buds | q-tips | cotton swabs
+Cotton balls | cotton wool
+Tissues
+Hand towel
+Washcloth | flannel | face cloth
+Loofah | sponge
+Bath bomb
+Bubble bath
+Lotion | moisturizer
+Sunscreen
+Perfume | cologne
+Makeup
+Nail clippers
+Tweezers
+Scale | bathroom scale | scales
+Medicine cabinet
+Towel rail | towel rack
+Tap | faucet
+Drain
+Rubber duck
+Laundry basket | hamper
+Bin | trash can
+Air freshener
+Bleach
+Toilet cleaner
+Plug
+Showerhead
+Bath salts
+Face wash
+Hair gel
+Hairspray
+Lip balm
+Contact lenses
+Electric toothbrush
+Nail file
+Bath toys
+--- 3
+Bidet
+Urinal
+Cistern
+Toilet seat
+Grab bar
+Shower caddy
+Soap dish
+Soap dispenser
+Toothbrush holder
+Shaving brush
+Aftershave
+Styptic pencil
+Exfoliator
+Face mask
+Toner
+Serum
+Retinol
+Pumice stone
+Foot file
+Callus remover
+Epsom salt
+Bath oil
+Dry shampoo
+Leave-in conditioner
+Hair mask
+Curling iron
+Straighteners
+Heated rollers
+Shower cap
+Bathrobe
+Slippers
+Extractor fan
+Heated floor
+Towel warmer
+Vanity unit
+Mirror cabinet
+Shaving mirror
+Night light
+Plunger
+Toilet roll holder
+Magazine rack
+Candle
+Potpourri
+Diffuser
+Reed diffuser
+Pregnancy test
+First aid kit
+Plasters | band-aids
+Thermometer
+Vitamins
+Painkillers
+
+=== chores
+title: Household chores
+prompt: Name as many household chores as you can
+--- 1
+Washing the dishes | dishes | washing up | doing the dishes
+Laundry | doing laundry | washing clothes
+Vacuuming | hoovering
+Cooking
+Cleaning
+Dusting
+Mopping
+Ironing
+Making the bed
+Taking out the trash | taking out the bins | trash | bins
+--- 2
+Sweeping
+Folding clothes | folding laundry
+Cleaning the bathroom
+Cleaning the toilet
+Cleaning windows | washing windows
+Mowing the lawn | mowing
+Gardening
+Weeding
+Raking leaves
+Grocery shopping | shopping | food shopping
+Washing the car
+Walking the dog
+Feeding the pets | feeding the cat | feeding the dog
+Watering plants | watering the plants
+Tidying | tidying up
+Changing the sheets | changing the bed
+Loading the dishwasher
+Unloading the dishwasher
+Emptying the dishwasher
+Wiping the counters | wiping surfaces
+Cleaning the oven
+Cleaning the fridge
+Defrosting the freezer
+Recycling
+Polishing
+Scrubbing
+Decluttering
+Organizing | organising
+Babysitting | childcare
+Paying bills
+Meal prep | meal planning
+Setting the table
+Clearing the table
+Drying dishes
+Putting away dishes
+Hanging laundry
+Putting away laundry
+Cleaning the litter box | litter box
+Shoveling snow | shovelling snow
+Cleaning gutters
+Painting
+Fixing things | repairs
+Washing the floor
+Bathing the dog
+--- 3
+Descaling the kettle
+Cleaning the grout
+Unclogging the drain
+Changing light bulbs
+Replacing batteries
+Changing the filter
+Washing curtains
+Beating rugs
+Flipping the mattress
+Turning the mattress
+Polishing silver
+Polishing shoes
+Darning
+Mending clothes
+Sewing buttons
+Hemming
+Sorting mail
+Filing paperwork
+Cleaning the car
+Hoovering the car
+Pressure washing
+Trimming hedges
+Pruning
+Composting
+Edging the lawn
+Clearing out the garage
+Cleaning the shed
+Washing the dog
+Cleaning the fish tank
+Cleaning the hamster cage
+Changing nappies | changing diapers
+Bathing the kids
+School run
+Making packed lunches | packing lunches
+Ironing shirts
+Cleaning mirrors
+Cleaning baseboards | cleaning skirting boards
+Dusting blinds
+Cleaning ceiling fans
+Cleaning light switches
+Disinfecting
+Spring cleaning
+Deep cleaning
+Wiping down appliances
+Cleaning the microwave
+Cleaning the stove
+Cleaning the extractor fan
+Cleaning the barbecue
+Sharpening knives
+
+=== office-supplies
+title: School and office supplies
+prompt: Name as many school or office supplies as you can
+--- 1
+Pen
+Pencil
+Paper
+Eraser | rubber
+Ruler
+Scissors
+Stapler
+Notebook
+Glue | glue stick
+Calculator
+--- 2
+Highlighter
+Marker | felt tip
+Sharpener | pencil sharpener
+Paper clip | paperclip
+Staples
+Sticky notes | post-it | post-it notes
+Tape | sellotape | scotch tape
+Folder
+Binder | ring binder
+Backpack | school bag | bag
+Pencil case
+Crayons | crayon
+Colored pencils | coloured pencils
+Hole punch
+Envelope
+Clipboard
+Whiteboard
+Dry-erase marker | whiteboard marker
+Chalk
+Protractor
+Compass
+Index cards
+Rubber band | elastic band
+Thumbtack | drawing pin | push pin
+Notepad
+Diary | planner
+Calendar
+Printer
+Ink
+Toner
+Laptop
+Computer
+Mouse
+Keyboard
+Desk
+Lamp
+Stamp
+Labels
+Correction fluid | tippex | white-out
+Fountain pen
+Ballpoint pen
+Mechanical pencil
+Sketchbook
+Lunchbox
+Water bottle
+Textbook
+Dictionary
+Graph paper
+Lined paper
+--- 3
+Set square
+Pencil grip
+Paint
+Paintbrush
+Easel
+Modelling clay | play-doh
+Pipe cleaners
+Glitter
+Construction paper
+Card stock
+Laminator
+Shredder
+Paper tray
+Letter opener
+Rubber stamp
+Ink pad
+Bulldog clip
+Binder clip
+Treasury tag
+Staple remover
+Tape dispenser
+Desk organizer
+Magazine file
+Box file
+Lever arch file
+Expanding file
+Plastic wallet | sheet protector
+Dividers
+Ring reinforcements
+Badge
+Lanyard
+Name tag
+Webcam
+Headphones
+Monitor
+USB stick | flash drive
+Projector
+Corkboard | noticeboard
+Flip chart
+Easel pad
+Whiteboard eraser
+Chalkboard
+Abacus
+Globe
+Atlas
+Slide rule
+Fineliner
+Gel pen
+Brush pen
+Calligraphy pen
+Inkwell
+Quill
+Blotter

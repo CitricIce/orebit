@@ -55,7 +55,26 @@
     "disney-pixar-movies",
     "superheroes",
     "video-games",
-    "villains"
+    "villains",
+    "accessories",
+    "appliances",
+    "bathroom-items",
+    "body-parts",
+    "chores",
+    "clothing",
+    "colors",
+    "emotions",
+    "family-members",
+    "furniture",
+    "hobbies",
+    "jobs",
+    "kitchen-tools",
+    "office-supplies",
+    "rooms",
+    "school-subjects",
+    "shapes",
+    "tools",
+    "units"
   ],
   "medium": [
     "birds-of-prey",
@@ -109,6 +128,8 @@
     "polar-animals",
     "potato-dishes",
     "game-consoles",
-    "sitcoms"
+    "sitcoms",
+    "clothing-brands",
+    "shoes"
   ]
 }
