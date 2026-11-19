@@ -1,0 +1,1617 @@
+# More food and drink. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== ice-cream-flavors
+title: Ice cream flavors
+prompt: Name as many ice cream flavors as you can
+starcore: Rum Raisin
+--- 1
+Vanilla
+Chocolate
+Strawberry
+Mint Chocolate Chip | mint chip | mint choc chip
+Cookies and Cream | cookies n cream
+Cookie Dough | chocolate chip cookie dough
+--- 2
+Rocky Road
+Neapolitan
+Butter Pecan
+Pistachio
+Coffee
+Chocolate Chip
+Salted Caramel
+Caramel
+Mint
+Moose Tracks
+Birthday Cake | cake batter
+Cherry Garcia | cherry
+Mango
+Coconut
+Peanut Butter
+Peanut Butter Cup
+Banana
+Black Raspberry
+Raspberry
+Lemon
+Orange Sherbet | sherbet
+Rainbow Sherbet
+Matcha | green tea
+Cotton Candy
+Bubblegum
+Peach
+French Vanilla
+Chocolate Fudge Brownie | brownie
+Phish Food
+Cookie Monster
+Superman
+Blue Moon
+Spumoni
+Tutti Frutti
+Dulce de Leche
+Toffee
+Butterscotch
+Strawberry Cheesecake | cheesecake
+Pumpkin
+Eggnog
+Peppermint
+--- 3
+Rum Raisin
+Black Cherry
+Cherry Vanilla
+Maple Walnut
+Butter Brickle
+Praline
+Pralines and Cream
+Chunky Monkey
+Half Baked
+Americone Dream
+Tonight Dough
+Mocha
+Espresso
+Tiramisu
+Stracciatella
+Fior di Latte
+Gianduja | gianduia
+Hazelnut
+Nutella
+Honey Lavender
+Lavender
+Rose
+Cardamom
+Saffron
+Ginger
+Black Sesame
+Taro
+Ube
+Red Bean | azuki
+Lychee
+Passion Fruit
+Guava
+Durian
+Avocado
+Sweet Corn
+Cinnamon
+Horchata
+Churro
+Tres Leches
+Key Lime Pie | key lime
+Apple Pie
+Blueberry
+Blackberry
+Lemon Sorbet
+Raspberry Ripple
+Mint Oreo
+Coffee Toffee
+Chocolate Peanut Butter
+Triple Chocolate
+White Chocolate
+Dark Chocolate
+Marshmallow
+S'mores | smores
+Cookie Butter | biscoff
+Brown Butter Pecan
+Banana Split
+Fudge Ripple
+Caramel Swirl
+Cinnamon Roll
+Coffee Heath Bar Crunch
+Chubby Hubby
+Mint Julep
+Pistachio Almond
+Almond
+Malted Milk | malted
+Root Beer Float | root beer
+Grape
+Watermelon
+Cantaloupe
+Kulfi
+Mango Lassi
+--- 4
+Olive Oil
+Goat Cheese
+Blue Cheese
+Bacon
+Jalapeño | jalapeno
+Chili Chocolate | mexican chocolate
+Earl Grey
+Chai
+Thai Tea
+Hojicha
+Yuzu
+Calamansi
+Sour Cherry
+Blood Orange
+Fig
+Plum
+Rhubarb
+Elderflower
+Basil
+Rosemary
+Sweet Potato
+Purple Yam
+Pandan
+Kaya
+Coconut Pandan
+Grass Jelly
+Milo
+Ovaltine
+Stout | guinness
+Bourbon
+Whiskey
+Amaretto
+Baileys
+Limoncello
+Champagne
+Rosewater
+Mastic
+Salep | sahlab
+Dondurma
+Halva
+Turkish Delight
+Cassata
+Zabaione
+Bacio
+Amarena
+Malaga
+Crema
+Nocciola
+--- 5
+Avocado Toast
+Black Licorice | licorice
+Garlic
+Squid Ink
+Wasabi
+Corn and Cheese
+Pickle
+Earl Grey Lavender
+Brown Bread
+Grape Nut
+Teaberry
+Huckleberry
+Pawpaw
+Moxie
+Cotton Candy Grape
+
+=== pizza-toppings
+title: Pizza toppings
+prompt: Name as many pizza toppings as you can
+starcore: Anchovies
+--- 1
+Pepperoni
+Cheese | mozzarella
+Mushrooms
+Sausage
+Onions
+Pineapple
+Olives | black olives
+--- 2
+Ham
+Bacon
+Green Peppers | bell peppers | peppers
+Jalapeños | jalapenos
+Chicken
+Spinach
+Tomatoes | sliced tomatoes
+Basil
+Ground Beef | beef
+Meatballs
+Anchovies
+Garlic
+Red Onion
+Banana Peppers
+Green Olives
+Feta
+Parmesan
+Ricotta
+Extra Cheese
+BBQ Chicken
+Buffalo Chicken
+Canadian Bacon
+Salami
+Prosciutto
+Arugula | rocket
+Artichokes | artichoke hearts
+Sun-dried Tomatoes
+Roasted Red Peppers
+Hot Honey
+Pesto
+--- 3
+Capers
+Goat Cheese
+Gorgonzola
+Burrata
+Fresh Mozzarella
+Provolone
+Cheddar
+Pepper Jack
+Fontina
+Smoked Gouda
+Soppressata
+Capicola | capocollo | gabagool
+Pancetta
+Chorizo
+Nduja | 'nduja
+Italian Beef
+Pulled Pork
+Steak
+Philly Cheesesteak
+Shrimp
+Clams
+Tuna
+Smoked Salmon
+Egg
+Corn
+Broccoli
+Zucchini
+Eggplant
+Kale
+Cherry Tomatoes
+Caramelized Onions
+Roasted Garlic
+Scallions | green onions
+Cilantro
+Oregano
+Chili Flakes | red pepper flakes
+Pepperoncini
+Cherry Peppers
+Hot Peppers
+Truffle | truffle oil
+Figs
+Pears
+Apple
+Ranch
+White Sauce | alfredo
+Hummus
+Potato
+Sweet Potato
+Avocado
+Pickles
+Mac and Cheese
+Hot Dog
+Taco Meat
+Kalamata Olives
+Calabrese Salami
+Bresaola
+Speck
+Mortadella
+Lardons
+Guanciale
+--- 4
+Squash Blossoms
+Fennel
+Fennel Sausage
+Radicchio
+Brussels Sprouts
+Asparagus
+Leeks
+Shallots
+Butternut Squash
+Pumpkin
+Mascarpone
+Taleggio
+Stracciatella
+Pecorino
+Robiola
+Scamorza
+Brie
+Camembert
+Blue Cheese
+Halloumi
+Paneer
+Tandoori Chicken
+Tikka Masala
+Kimchi
+Bulgogi
+Teriyaki Chicken
+Peking Duck
+Duck
+Lamb
+Gyro Meat
+Merguez
+Crab
+Lobster
+Mussels
+Calamari
+Octopus
+Sardines
+Bottarga
+Caviar
+Egg Yolk
+Quail Egg
+Pistachios
+Pine Nuts
+Walnuts
+Honey
+Balsamic Glaze
+Hot Sauce
+Sriracha
+Chili Crisp
+Za'atar
+Dates
+Prunes
+Grapes
+Mango
+Peaches
+Cranberries
+Jalapeño Poppers
+Tater Tots
+French Fries
+Corn Dog
+Doritos
+Mashed Potatoes
+Mac n Cheese Bites
+Chicken Nuggets
+--- 5
+Bananas
+Curry
+Mayonnaise
+Kebab
+Döner | doner
+Garlic Butter
+Bone Marrow
+Foie Gras
+Uni
+Ikura
+Natto
+Seaweed
+Lotus Root
+Durian
+Chocolate
+Nutella
+Marshmallows
+Sprinkles
+Haggis
+Black Pudding
+Reindeer
+Kangaroo
+Alligator
+Crickets
+Mealworms
+
+=== sandwiches
+title: Sandwiches
+prompt: Name as many kinds of sandwich as you can
+starcore: Francesinha
+--- 1
+Grilled Cheese
+BLT
+Peanut Butter and Jelly | pbj | pb&j | pb and j
+Club Sandwich | club
+Hamburger | burger
+Hot Dog
+--- 2
+Reuben
+Philly Cheesesteak | cheesesteak
+Ham and Cheese
+Turkey Sandwich | turkey
+Tuna Melt
+Tuna Sandwich | tuna salad sandwich
+Egg Salad
+Chicken Salad Sandwich
+Meatball Sub
+Italian Sub | italian hoagie
+Sub | submarine | hoagie | hero | grinder
+Panini
+Cuban | cubano | cuban sandwich
+Po' Boy | po boy | poboy
+Monte Cristo
+Croque Monsieur
+Croque Madame
+Gyro
+Falafel
+Shawarma
+Banh Mi | bánh mì
+Patty Melt
+French Dip
+Sloppy Joe
+Pulled Pork Sandwich
+Fried Chicken Sandwich | chicken sandwich
+Fish Sandwich | fish fillet
+Muffuletta
+Cheeseburger
+Breakfast Sandwich
+Egg McMuffin
+Bacon Egg and Cheese | bec
+Lobster Roll
+Wrap
+Burrito
+Quesadilla
+Taco
+Pita
+Sub Sandwich
+Toastie
+Roast Beef Sandwich | roast beef
+Pastrami on Rye | pastrami
+Corned Beef Sandwich
+Chicken Parm Sub | chicken parmesan sandwich
+Caprese Sandwich | caprese
+Veggie Sandwich
+Open-faced Sandwich | open sandwich
+Cucumber Sandwich
+Tea Sandwich | finger sandwich
+Fluffernutter
+Jam Sandwich
+Butty
+--- 3
+Torta
+Pambazo
+Cemita
+Bocadillo
+Montadito
+Tramezzino
+Piadina
+Smørrebrød | smorrebrod
+Katsu Sando
+Tamago Sando
+Fruit Sando
+Arepa
+Choripán | choripan
+Chivito
+Lomito
+Bauru
+Misto Quente
+Prego
+Bifana
+Francesinha
+Croque Hawaii
+Jambon-beurre | jambon beurre
+Pan Bagnat
+Merguez Sandwich
+Döner Kebab | doner kebab | doner
+Vada Pav
+Bombay Sandwich
+Kati Roll
+Frankie
+Roti John
+Sabich
+Mitraillette
+Zapiekanka
+Chip Butty
+Bacon Butty
+Fish Finger Sandwich
+Ploughman's | ploughmans
+Coronation Chicken Sandwich
+Toast Hawaii
+Fischbrötchen | fischbrotchen
+Leberkäse Semmel | leberkase
+Schnitzel Sandwich
+Medianoche
+Elena Ruz
+Frita
+Pan con Lechón
+Beef on Weck
+Garbage Plate
+Horseshoe
+Hot Brown
+Loose Meat | maid-rite
+Pork Tenderloin Sandwich | tenderloin
+Spiedie
+Cudighi
+Pasty
+Chopped Cheese
+Bodega Sandwich
+Cheese Steak Hoagie
+Roast Pork Italian | roast pork sandwich
+Chicken Cutlet Sandwich
+Beef and Cheddar
+Italian Beef
+Barbecue Sandwich
+Brisket Sandwich
+Fried Bologna Sandwich | bologna sandwich
+Pimento Cheese Sandwich | pimento cheese
+Tomato Sandwich
+Mother-in-law
+Gatsby
+Bunny Chow
+Smoked Meat Sandwich | montreal smoked meat
+Donair
+Trancheuse
+--- 4
+Mollete
+Guajolota
+Pepito
+Barros Luco
+Barros Jarpa
+Completo
+Chacarero
+Churrasco
+Lomito Completo
+Sanduíche de Mortadela | mortadela sandwich
+X-Burger | x burger
+Bauru Sandwich
+Pan con Tomate
+Serranito
+Pepito de Ternera
+Bocata de Calamares | calamari sandwich
+Panuozzo
+Lampredotto
+Porchetta Sandwich | porchetta
+Pane ca Meusa
+Cotoletta Sandwich
+Mufaletta
+Broodje Kroket | kroket sandwich
+Uitsmijter
+Smørbrød
+Smörgåstårta | sandwich cake
+Kanapki
+Butterbrot
+Bierwurst Sandwich
+Pljeskavica
+Ćevapi | cevapi
+Gözleme | gozleme
+Balık Ekmek | balik ekmek | fish bread
+Tombik
+Hummus Sandwich
+Arayes
+Manakish
+Kubaneh
+Kaya Toast
+Roti Bakar
+Pan de Sal Sandwich
+Bánh Mì Thịt | banh mi thit
+Ham Katsu
+Wanpaku Sando
+Sando
+Gua Bao | gua bao | bao
+Rou Jia Mo | roujiamo | chinese hamburger
+Jianbing
+--- 5
+Spaghetti Sandwich
+Crisp Sandwich
+Pickle Sandwich
+Mayonnaise Sandwich
+Sugar Sandwich
+Butter Sandwich
+Ketchup Sandwich
+Onion Sandwich
+Peanut Butter and Banana | elvis
+Peanut Butter and Pickle
+Pickle Back
+Luther Burger
+Doughnut Burger
+Ramen Burger
+Rice Burger
+Sushi Burrito
+Dagwood
+Sailor Sandwich
+Primanti
+Fat Sandwich
+Grilled Cheese Donut
+Hot Chicken Sandwich
+Nashville Hot
+Mosbacher
+
+=== coffee-drinks
+title: Coffee drinks
+prompt: Name as many coffee drinks as you can
+starcore: Café de Olla
+--- 1
+Espresso
+Latte
+Cappuccino
+Americano
+Mocha | caffe mocha
+Iced Coffee
+--- 2
+Macchiato | caffe macchiato
+Latte Macchiato
+Flat White
+Cold Brew
+Frappuccino | frappe
+Cortado
+Affogato
+Irish Coffee
+Ristretto
+Lungo
+Doppio
+Red Eye
+Black Eye
+Café au Lait | cafe au lait
+Vienna Coffee | viennese coffee
+Turkish Coffee
+Vietnamese Coffee | ca phe sua da | vietnamese iced coffee
+Pumpkin Spice Latte | psl
+Caramel Macchiato
+Chai Latte | dirty chai
+Nitro Cold Brew | nitro
+Drip Coffee | filter coffee
+Pour Over
+French Press
+Decaf
+Iced Latte
+Breve | caffe breve
+Cafe Cubano | cuban coffee | cafecito
+Dalgona | dalgona coffee | whipped coffee
+Espresso Martini
+Shot in the Dark
+--- 3
+Café Bombón | cafe bombon
+Café con Leche | cafe con leche
+Cortadito
+Café de Olla | cafe de olla
+Carajillo
+Café Corretto | caffe corretto
+Marocchino
+Bicerin
+Caffè Shakerato | shakerato
+Caffè Freddo
+Espresso Romano
+Espresso Tonic
+Espresso con Panna
+Galão | galao
+Mazagran
+Greek Frappé | frappe greek
+Freddo Espresso
+Freddo Cappuccino
+Kopi | kopi tubruk
+Kopi Luwak
+Egg Coffee | ca phe trung
+Yuanyang
+Hong Kong Milk Tea
+Einspänner | einspanner
+Melange | wiener melange
+Kaffee Verkehrt
+Pharisäer | pharisaer
+Lagrimita
+Pingado
+Café Touba
+Qahwa | arabic coffee
+Kahve
+Cafezinho
+Long Black
+Piccolo
+Magic
+Babyccino
+Gibraltar
+Cafe Miel | café miel
+Mocha Breve
+White Mocha | white chocolate mocha
+Cinnamon Dolce
+Honey Oat Latte
+Oat Milk Latte | oat latte
+Matcha Latte
+London Fog
+Caffe Misto | cafe misto
+Iced Shaken Espresso | shaken espresso
+Bulletproof Coffee | butter coffee
+Mushroom Coffee
+Cold Foam
+Cortado Condensada
+Bombón
+--- 4
+Café Liégeois | cafe liegeois
+Kaffeost
+Bica
+Café Cortado Leche y Leche | leche y leche
+Barraquito
+Café del Tiempo
+Rüdesheimer Kaffee
+Pharisäer Kaffee
+Kopi Joss
+Kopi Susu
+Kopi O
+Kopi C
+Kopi Peng
+Cà Phê Muối | salt coffee
+Cà Phê Cốt Dừa | coconut coffee
+Kape Barako
+Kafe
+Buna
+Jebena Buna
+Qishr
+Mazagran Coffee
+Brazilian Cafezinho
+Sweden Egg Coffee | scandinavian egg coffee
+Fika
+Kaffe Latte
+Caffè d'Orzo | orzo coffee
+Ginseng Coffee | caffe al ginseng
+Moka | moka pot
+Cuban Colada | colada
+Café Pelé
+Cafe Rápido
+Siphon Coffee | vacuum coffee
+Aeropress
+Chemex
+V60
+Kyoto Drip | dutch coffee
+Cowboy Coffee
+Percolator
+Turkish Sand Coffee
+--- 5
+Yirgacheffe
+Kona
+Blue Mountain
+Geisha | gesha
+Sumatra
+Robusta
+Arabica
+Liberica
+Excelsa
+Peaberry
+
+=== teas
+title: Teas
+prompt: Name as many teas as you can
+starcore: Lapsang Souchong
+--- 1
+Green Tea
+Black Tea
+Chamomile
+Earl Grey
+Peppermint | mint tea
+Iced Tea
+--- 2
+Chai | masala chai
+English Breakfast
+Oolong
+White Tea
+Matcha
+Jasmine
+Rooibos | red bush
+Hibiscus
+Ginger Tea | ginger
+Lemon Tea
+Herbal Tea
+Bubble Tea | boba | boba tea | milk tea
+Darjeeling
+Assam
+Ceylon
+Irish Breakfast
+Lady Grey
+Lemon Ginger
+Thai Tea | thai iced tea
+Arnold Palmer
+Kombucha
+Yerba Mate | mate
+Sweet Tea
+Chai Latte
+Lemon Balm
+Lavender Tea
+Fruit Tea
+Spearmint
+Turmeric Tea | golden milk
+Decaf Tea
+Barley Tea | mugicha
+--- 3
+Sencha
+Gyokuro
+Genmaicha
+Hojicha
+Bancha
+Kukicha
+Gunpowder
+Dragon Well | longjing
+Pu-erh | pu erh | puer
+Lapsang Souchong
+Keemun
+Yunnan | dian hong
+Tieguanyin | iron goddess
+Da Hong Pao
+Silver Needle
+White Peony | bai mu dan
+Nilgiri
+Kenyan Tea
+Russian Caravan
+Builder's Tea | builders tea
+Yorkshire Tea
+Rose Tea
+Chrysanthemum
+Osmanthus
+Butterfly Pea | blue tea
+Moroccan Mint | maghrebi mint tea
+Sweet Mint Tea
+Sage Tea
+Nettle Tea
+Dandelion Tea
+Fennel Tea
+Licorice Tea
+Lemongrass Tea
+Lemon Verbena
+Echinacea
+Elderflower
+Rosehip | rose hip
+Linden | tilia
+Honeybush
+Guayusa
+Tulsi | holy basil
+Ginseng Tea
+Yuzu Tea | yuja tea
+Corn Tea | oksusu cha
+Butter Tea | po cha
+Teh Tarik
+Hong Kong Milk Tea
+Cheese Tea
+Brown Sugar Milk Tea
+Taro Milk Tea
+Matcha Latte
+Hojicha Latte
+Dirty Chai
+London Fog
+Shai | sulaimani
+Karak
+Noon Chai | kashmiri chai | pink tea
+Kahwa
+Sun Tea
+Fruit Infusion
+Cold Brew Tea
+--- 4
+Bai Hao Oolong | oriental beauty
+Dong Ding
+Ali Shan
+Jin Xuan | milk oolong
+Wuyi Rock Tea
+Shui Xian
+Rou Gui
+Phoenix Dancong | dancong
+Huangshan Maofeng
+Bi Luo Chun
+Lu An Gua Pian
+Taiping Houkui
+Junshan Yinzhen
+Huang Ya
+Shou Mei
+Gong Mei
+Jin Jun Mei
+Bai Lin Gongfu
+Golden Monkey
+Qimen | keemun hao ya
+Darjeeling First Flush
+Second Flush
+Kangra
+Uva
+Dimbula
+Ruhuna
+Kandy
+Nuwara Eliya
+Matcha Usucha
+Koicha
+Tencha
+Kabusecha
+Shincha
+Fukamushi
+Konacha
+Tamaryokucha
+Sobacha
+Kombucha Scoby
+Jun
+Kvass Tea
+Kusmi
+Mariage Frères
+--- 5
+Bohea
+Congou
+Souchong
+Pekoe
+Orange Pekoe
+Flowery Pekoe
+Fannings
+Dust
+CTC
+Kukicha Karigane
+
+=== nuts-seeds
+title: Nuts and seeds
+prompt: Name as many nuts and edible seeds as you can
+starcore: Macadamia
+--- 1
+Peanut | peanuts
+Almond | almonds
+Cashew | cashews
+Walnut | walnuts
+Pistachio | pistachios
+--- 2
+Pecan | pecans
+Hazelnut | hazelnuts | filbert
+Macadamia | macadamias
+Brazil Nut | brazil nuts
+Pine Nut | pine nuts | pignoli
+Chestnut | chestnuts
+Coconut
+Sunflower Seeds | sunflower
+Pumpkin Seeds | pepitas | pumpkin
+Sesame Seeds | sesame
+Chia Seeds | chia
+Flax Seeds | flaxseed | flax | linseed
+Poppy Seeds | poppy
+Hemp Seeds | hemp hearts | hemp
+Acorn | acorns
+Beechnut
+Hickory Nut
+Butternut
+Black Walnut
+Peanut Butter
+--- 3
+Tiger Nut | tigernut
+Kola Nut | kola
+Betel Nut | areca
+Candlenut
+Pili Nut
+Baru Nut
+Marcona Almond
+Ginkgo Nut
+Lotus Seed
+Watermelon Seeds
+Quinoa
+Amaranth
+Buckwheat
+Millet
+Mustard Seed
+Caraway Seed
+Fennel Seed
+Cumin Seed
+Coriander Seed
+Nigella Seed | black seed
+Sacha Inchi
+Breadnut
+Bunya Nut
+Mongongo
+Shea Nut
+Cocoa Bean
+Coffee Bean
+Jackfruit Seed
+Lupin | lupini
+Chickpea
+Soybean | soy nut
+Water Chestnut
+Horse Chestnut | conker
+Monkey Puzzle Seed
+Heartnut
+Japanese Walnut
+English Walnut
+Butternut Squash Seed
+Basil Seed | sabja
+Psyllium
+Perilla Seed
+Pistachio Kernel
+--- 4
+Gevuina | chilean hazelnut
+Paradise Nut
+Sapucaia
+Cashew Apple
+Malabar Chestnut
+Java Almond
+Indian Almond
+Tropical Almond
+Yeheb
+Marula
+Mongongo Nut
+Kluwak
+Kepayang
+Pequi
+Babassu
+Cohune
+Ogbono
+Egusi
+Bambara Groundnut
+Kerstings Groundnut
+African Walnut
+Dika Nut
+Ackee Seed
+Moringa Seed
+Neem Seed
+Sal Seed
+Chironji | charoli
+Makhana | fox nut
+Water Caltrop
+Lotus Nut
+Chinese Chestnut
+Japanese Chestnut
+Chinquapin
+Beech Mast
+Hazel Mast
+Cobnut
+Kentish Cob
+
+=== mushrooms
+title: Edible mushrooms
+prompt: Name as many edible mushrooms as you can
+starcore: Lion's Mane
+--- 1
+Button Mushroom | button | white mushroom
+Portobello | portabella
+Shiitake
+Truffle | truffles
+Cremini | crimini | baby bella
+--- 2
+Oyster Mushroom | oyster
+Enoki
+Chanterelle
+Morel
+Porcini | cep | king bolete
+Black Truffle
+White Truffle
+Maitake | hen of the woods
+King Oyster | king trumpet | eryngii
+Lion's Mane | lions mane
+Reishi
+Chaga
+Cordyceps
+Wood Ear | black fungus | cloud ear
+Straw Mushroom
+Beech Mushroom | shimeji
+Puffball
+Chicken of the Woods
+Field Mushroom
+Agaricus
+--- 3
+Matsutake
+Nameko
+Turkey Tail
+Hedgehog Mushroom | hedgehog
+Black Trumpet | horn of plenty
+Lobster Mushroom
+Honey Mushroom | honey fungus
+Shaggy Mane | shaggy ink cap
+Blewit
+Wood Blewit
+Saffron Milk Cap
+Bay Bolete
+Slippery Jack
+Birch Bolete
+Parasol Mushroom | parasol
+St George's Mushroom
+Velvet Shank
+Enokitake
+Snow Fungus | tremella
+Jelly Ear
+Cauliflower Fungus
+Beefsteak Fungus
+Pioppino
+Cinnamon Cap
+Wine Cap
+Pink Oyster
+Golden Oyster
+Blue Oyster
+Phoenix Oyster
+Abalone Mushroom
+Huitlacoche | corn smut
+Caesar's Mushroom | amanita caesarea
+Summer Truffle
+Perigord Truffle
+Burgundy Truffle
+Desert Truffle
+Milk Cap
+Candy Cap
+Black Morel
+Yellow Morel
+False Morel
+Trumpet Chanterelle | yellowfoot
+Golden Chanterelle
+Horse Mushroom
+Meadow Mushroom
+Almond Mushroom
+--- 4
+Fairy Ring Champignon
+Charcoal Burner
+Russula
+Amethyst Deceiver
+Scarlet Elf Cup
+Orange Peel Fungus
+Jew's Ear
+Dryad's Saddle | pheasant back
+Sulphur Shelf
+Oyster Leaf
+Hericium
+Bear's Head
+Coral Tooth
+Sweet Tooth
+Pig's Ear
+Saffron Ring
+Cauliflower Mushroom
+Wood Hedgehog
+Black Chanterelle
+Velvet Pioppino
+Shrimp Russula
+Indigo Milk Cap
+Red Pine Mushroom
+Hon Shimeji
+Bunashimeji
+Bunapi
+Kikurage
+Sparassis
+Hiratake
+Eringi
+Mushroom Ketchup
+--- 5
+Amanita Muscaria | fly agaric
+Death Cap
+Destroying Angel
+Galerina
+Deadly Webcap
+Conocybe
+Psilocybe
+Liberty Cap
+
+=== sauces
+title: Sauces and condiments
+prompt: Name as many sauces and condiments as you can
+starcore: Chimichurri
+--- 1
+Ketchup | catsup
+Mustard
+Mayonnaise | mayo
+Barbecue Sauce | bbq sauce | bbq
+Hot Sauce
+Soy Sauce
+Ranch
+Salsa
+--- 2
+Sriracha
+Tabasco
+Honey Mustard
+Dijon
+Relish
+Tartar Sauce
+Cocktail Sauce
+Teriyaki
+Hoisin
+Oyster Sauce
+Fish Sauce
+Worcestershire
+Buffalo Sauce
+Alfredo
+Marinara
+Pesto
+Gravy
+Hollandaise
+Béarnaise | bearnaise
+Aioli
+Tzatziki
+Hummus
+Guacamole
+Chimichurri
+Sweet Chili | sweet chili sauce
+Sweet and Sour
+Thousand Island
+Blue Cheese Dressing | blue cheese
+Caesar Dressing
+Vinaigrette
+Balsamic | balsamic vinegar
+Horseradish
+Wasabi
+Ponzu
+Peanut Sauce | satay sauce
+Curry Sauce
+Cheese Sauce
+Bechamel | béchamel
+Brown Sauce | hp sauce
+Mint Sauce
+Cranberry Sauce
+Apple Sauce
+Chutney
+Salsa Verde
+Enchilada Sauce
+Hot Honey
+Maple Syrup
+Chocolate Sauce
+Caramel Sauce
+Butterscotch
+--- 3
+Harissa
+Gochujang
+Sambal | sambal oelek
+Chili Crisp | chili oil
+XO Sauce
+Black Bean Sauce
+Plum Sauce
+Duck Sauce
+Char Siu Sauce
+Kecap Manis
+Tamari
+Miso
+Tahini
+Toum
+Muhammara
+Zhug | zhoug
+Tkemali
+Adjika
+Ajvar
+Romesco
+Salsa Brava | bravas sauce
+Mojo
+Pico de Gallo
+Mole
+Salsa Roja
+Valentina
+Cholula
+Tapatío | tapatio
+Frank's RedHot | franks
+Louisiana Hot Sauce
+Piri Piri | peri peri
+Nando's
+Yum Yum Sauce
+Comeback Sauce
+Mumbo Sauce
+Fry Sauce
+Special Sauce | big mac sauce
+Remoulade
+Gribiche
+Ravigote
+Beurre Blanc
+Velouté | veloute
+Espagnole
+Demi-glace | demi glace
+Bordelaise
+Mornay
+Soubise
+Sauce Robert
+Chasseur
+Diane Sauce
+Peppercorn Sauce
+Bread Sauce
+Cumberland Sauce
+Salad Cream
+Branston Pickle
+Piccalilli
+Marmite
+Vegemite
+Bovril
+Mango Chutney
+Tamarind Chutney
+Mint Chutney
+Raita
+Achaar | indian pickle
+Nam Pla
+Nam Prik
+Nuoc Cham | nước chấm
+Sweet Soy
+Tonkatsu Sauce
+Okonomi Sauce
+Kewpie
+Yuzu Kosho
+Furikake
+Gomadare
+Unagi Sauce
+Ssamjang
+Doenjang
+Chojang
+Sweet Bean Sauce
+Doubanjiang
+Lao Gan Ma
+--- 4
+Sauce Vierge
+Sauce Choron
+Sauce Paloise
+Sauce Foyot
+Sauce Maltaise
+Sauce Mousseline
+Sauce Nantua
+Sauce Suprême
+Sauce Allemande
+Sauce Bigarade
+Sauce Périgueux
+Sauce Normande
+Sauce Américaine
+Rouille
+Pistou
+Persillade
+Agrodolce
+Bagna Cauda
+Salsa Peverada
+Pearà
+Mostarda
+Tonnato
+Garum
+Colatura
+Skordalia
+Taramasalata
+Ladolemono
+Avgolemono
+Tarator
+Amba
+Schug
+Shatta
+Dakos Sauce
+Agristada
+Mojo Picón | mojo picon
+Mojo Verde
+Salmorejo
+Allioli
+Sofrito
+Recaito
+Ají | aji
+Ají Amarillo
+Huancaína | huancaina
+Ocopa
+Uchucuta
+Llajua
+Pebre
+Hogao
+Chirmol
+Pique
+Sauce Chien
+Colombo
+Shito
+Suya Spice
+Berbere Paste
+Awaze
+Mitmita
+Ndole
+Peri-Peri Oil
+Chakalaka
+Monkey Gland Sauce
+Blatjang
+--- 5
+Sauce Grand Veneur
+Sauce Gribiche Verte
+Sauce Smitane
+Sauce Charcutière
+Sauce Lyonnaise
+Sauce Poivrade
+Sauce Bercy
+Sauce Albufera
+Sauce Cardinal
+Sauce Aurore
+Sauce Joinville
+Sauce Riche
+Sauce Venitienne
+Sauce Cambridge
+Sauce Bâtarde
+Sauce Beurre Noisette
+Mayonnaise Collée
+
+=== soups
+title: Soups
+prompt: Name as many soups as you can
+starcore: Bouillabaisse
+--- 1
+Chicken Noodle | chicken noodle soup
+Tomato Soup | tomato
+Clam Chowder
+Ramen
+Pho | phở
+--- 2
+Minestrone
+French Onion | french onion soup | onion soup
+Miso Soup | miso
+Gazpacho
+Chili
+Gumbo
+Lentil Soup | lentil
+Split Pea | pea soup
+Potato Leek | leek and potato
+Broccoli Cheddar
+Butternut Squash Soup | butternut squash
+Mushroom Soup | cream of mushroom
+Beef Stew | stew
+Chicken Soup
+Matzo Ball | matzo ball soup
+Wonton Soup | wonton
+Hot and Sour | hot and sour soup
+Egg Drop | egg drop soup
+Tom Yum
+Tom Kha
+Borscht
+Goulash
+Bouillabaisse
+Vichyssoise
+Bisque
+Pozole
+Menudo
+Tortilla Soup
+Udon
+Laksa
+Chowder
+Corn Chowder
+Black Bean Soup
+Vegetable Soup
+Bone Broth
+Consommé | consomme
+Mulligatawny
+Cock-a-leekie
+Scotch Broth
+Oxtail Soup
+Italian Wedding Soup | wedding soup
+Pasta e Fagioli
+Ribollita
+Cioppino
+Bean Soup
+Cabbage Soup
+--- 3
+Avgolemono
+Harira
+Shorba
+Fasolada
+Caldo Verde
+Caldo de Res
+Caldo de Pollo
+Sopa de Lima
+Ajiaco
+Sancocho
+Locro
+Chupe
+Mondongo
+Callaloo
+Pepperpot
+Egusi Soup
+Groundnut Soup
+Pepper Soup
+Ogbono
+Okra Soup
+Solyanka
+Shchi
+Ukha
+Okroshka
+Rassolnik
+Kharcho
+Zurek | żurek
+Barszcz
+Rosół | rosol
+Kapuśniak
+Sauerkraut Soup
+Frittatensuppe
+Leberknödelsuppe
+Gulaschsuppe
+Erbsensuppe
+Kartoffelsuppe
+Fischsuppe
+Halászlé | fisherman's soup
+Ciorbă | ciorba
+Tarhana
+Mercimek | mercimek çorbası
+Ezogelin
+Yayla
+İşkembe | iskembe
+Dashi
+Tonjiru
+Kenchinjiru
+Suimono
+Ochazuke
+Doenjang Jjigae
+Kimchi Jjigae
+Sundubu Jjigae | sundubu
+Samgyetang
+Galbitang
+Seolleongtang
+Miyeok-guk | seaweed soup
+Tteokguk
+Budae Jjigae | army stew
+Bun Bo Hue | bún bò huế
+Canh Chua
+Hu Tieu
+Sinigang
+Tinola
+Bulalo
+Sotanghon
+Soto
+Sop Buntut
+Bakso
+Rasam
+Sambar
+Dal
+Thukpa
+Mohinga
+Khao Soi
+Kuy Teav
+Bak Kut Teh
+Cream of Chicken
+Cream of Celery
+Cream of Asparagus
+Cream of Tomato
+Lobster Bisque
+Crab Bisque
+Shrimp Bisque
+She-crab Soup
+Clam Chowder Manhattan | manhattan clam chowder
+New England Clam Chowder
+Seafood Chowder
+Cullen Skink
+Partan Bree
+Brown Windsor Soup
+Mock Turtle Soup
+Turtle Soup
+Bird's Nest Soup
+Shark Fin Soup
+Winter Melon Soup
+Hot Pot
+Congee
+Jook
+Zuppa Toscana
+Stracciatella Soup
+Acquacotta
+Pappa al Pomodoro
+Pancotto
+Zuppa Pavese
+Garmugia
+Brodo
+Tortellini en Brodo | tortellini in brodo
+Potage
+Garbure
+Soupe au Pistou | pistou
+Pot-au-feu | pot au feu
+Pho Ga
+--- 4
+Waterzooi
+Erwtensoep | snert
+Hutspot Soup
+Kakavia
+Magiritsa
+Trahana
+Fakes
+Tarator Soup
+Shkembe Chorba
+Bob Chorba
+Jota
+Maneštra
+Ajoblanco
+Salmorejo
+Sopa de Ajo | garlic soup
+Fabada
+Caldo Gallego
+Porrusalda
+Marmitako
+Sopa Castellana
+Sopa de Mariscos
+Sopa de Caracol
+Sopa de Mondongo
+Sopa Paraguaya
+Chairo
+Fanesca
+Encebollado
+Chupe de Camarones
+Parihuela
+Aguadito
+Cazuela
+Pira Caldo
+Sopa de Pata
+Mazamorra
+Sopa de Fideo
+Caldo Tlalpeño
+Sopa Tarasca
+Sopa Azteca
+Chilpachole
+Caldo de Piedra
+Mole de Olla
+Erwtensoep Snert
+Fiskesuppe
+Lohikeitto
+Hernekeitto
+Kjötsúpa
+Sodd
+Ärtsoppa
+Nässelsoppa
+Blåbärssoppa | blueberry soup
+Kesäkeitto
+Bramboračka
+Kulajda
+Česnečka
+Fazolová
+Gulyásleves
+Jókai Bableves
+Meggyleves | cold cherry soup
+Borș
+Ciorbă de Burtă
+Ciorbă de Perișoare
+Juha
+Čorba
+Begova Čorba
+--- 5
+Cawl
+Bree
+Powsowdie
+Hairst Bree
+Skink
+Stovies
+Brotchan Roy
+Kale Brose
+Feather Fowlie
