@@ -641,7 +641,8 @@
   width: 100%;
   height: 100%;
   display: block;
-  filter: drop-shadow(0 -6px 40px rgb(0 0 0 / 0.5));
+  filter: drop-shadow(0 -6px 40px rgb(0 0 0 / 0.5))
+    drop-shadow(0 0 22px color-mix(in srgb, var(--ore, #fff) 22%, transparent));
 }
 
 /* The surface at the landing spot sits 2px below 74vh, so the rocket's feet

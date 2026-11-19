@@ -570,7 +570,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
               </div>
               <div>
                 <span className={s.bigNum}>{res?.found.length ?? 0}</span>
-                <span className={s.statLabel}>of {rv.total} ores</span>
+                <span className={s.statLabel}>{res?.found.length === 1 ? "ore" : "ores"}</span>
               </div>
             </div>
             <button className={s.primaryBtn} onClick={next} autoFocus>
@@ -600,7 +600,6 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
             ) : (
               <p className={s.hint}>Nothing this time. The next rock might be kinder.</p>
             )}
-            <p className={s.hint}>Every answer is revealed in the mission report after the last asteroid.</p>
           </div>
           {isLast && (
             <p className={s.runSoFar}>

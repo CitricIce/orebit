@@ -205,50 +205,128 @@ function RingedPlanet() {
   );
 }
 
+/** Surface heights (y in the 200-unit drawing) where crystal clusters sit,
+ * for each outline: [left x, left y, right x, right y]. Measured from paths. */
+const CRYSTAL_SPOTS: [number, number, number, number][] = [
+  [72, 18.2, 146, 21.4],
+  [72, 23.4, 146, 19.2],
+  [72, 16.9, 146, 23.7],
+];
+
+/** Craters: [cx, cy, r]. Kept away from the landing spot at the top center. */
+const CRATERS: [number, number, number][] = [
+  [62, 46, 10],
+  [138, 44, 7],
+  [156, 74, 12],
+  [48, 88, 8],
+  [100, 66, 5],
+  [124, 104, 15],
+  [72, 128, 11],
+  [146, 140, 8],
+  [96, 160, 9],
+  [40, 124, 6],
+];
+
+function seededDots(seed: number, n: number): [number, number, number, boolean][] {
+  let x = seed * 9301 + 49297;
+  const r = () => ((x = (x * 9301 + 49297) % 233280) / 233280);
+  return Array.from({ length: n }, () => [20 + r() * 160, 20 + r() * 160, 0.5 + r() * 1.3, r() > 0.5]);
+}
+
+/** A crystal cluster growing out of the surface at (x, y). */
+function Crystals({ x, y, ore, flip, glow }: { x: number; y: number; ore: string; flip?: boolean; glow: string }) {
+  return (
+    <g transform={`translate(${x} ${y + 1}) scale(${flip ? -0.65 : 0.65} 0.65)`}>
+      <ellipse cx="0" cy="-3" rx="11" ry="7" fill={ore} opacity="0.45" filter={glow} />
+      <path d="M-6 0 L-4 -13 L-1 0 Z" fill={ore} />
+      <path d="M-4 -13 L-1 0 L-3 0 Z" fill="#fff" opacity="0.45" />
+      <path d="M-1 0 L2 -19 L6 0 Z" fill={ore} />
+      <path d="M2 -19 L6 0 L3.5 0 Z" fill="#fff" opacity="0.5" />
+      <path d="M5 0 L9 -9 L11 0 Z" fill={ore} opacity="0.85" />
+    </g>
+  );
+}
+
 function Asteroid({ i }: { i: number }) {
   const u = useSvgIds();
-  const [light, mid, dark] = STOPS[i].rock;
-  const id = u(`sw-rock-${i}`);
+  const stop = STOPS[i];
+  const [light, mid, dark] = stop.rock;
+  const ore = stop.ore;
+  const shape = i % ROCK_PATHS.length;
+  const path = ROCK_PATHS[shape];
+  const [lx, ly, rx, ry] = CRYSTAL_SPOTS[shape];
+  const dots = useMemo(() => seededDots(i + 3, 70), [i]);
   return (
-    <svg className={s.rockSvg} viewBox="0 0 200 200">
+    <svg className={s.rockSvg} viewBox="0 0 200 200" style={{ "--ore": ore } as React.CSSProperties}>
       <defs>
-        <radialGradient id={id} cx="0.35" cy="0.3" r="0.8">
+        <radialGradient id={u("base")} cx="0.64" cy="0.26" r="0.95">
           <stop offset="0" stopColor={light} />
-          <stop offset="0.55" stopColor={mid} />
+          <stop offset="0.5" stopColor={mid} />
           <stop offset="1" stopColor={dark} />
         </radialGradient>
+        {/* Shadow side, away from the sun at the upper right. */}
+        <linearGradient id={u("shade")} x1="1" y1="0" x2="0" y2="1">
+          <stop offset="0" stopColor="#000" stopOpacity="0" />
+          <stop offset="0.5" stopColor="#000" stopOpacity="0" />
+          <stop offset="1" stopColor="#000" stopOpacity="0.6" />
+        </linearGradient>
+        <linearGradient id={u("rim")} x1="0" y1="1" x2="1" y2="0">
+          <stop offset="0" stopColor={light} stopOpacity="0" />
+          <stop offset="0.55" stopColor={light} stopOpacity="0.15" />
+          <stop offset="1" stopColor="#fffaf0" stopOpacity="0.95" />
+        </linearGradient>
+        <radialGradient id={u("crater")} cx="0.38" cy="0.35" r="0.7">
+          <stop offset="0" stopColor={dark} stopOpacity="0.95" />
+          <stop offset="1" stopColor={dark} stopOpacity="0.45" />
+        </radialGradient>
+        <clipPath id={u("body")}>
+          <path d={path} />
+        </clipPath>
+        <filter id={u("glow")} x="-60%" y="-60%" width="220%" height="220%">
+          <feGaussianBlur stdDeviation="2.4" />
+        </filter>
       </defs>
-      <path d={ROCK_PATHS[i % ROCK_PATHS.length]} fill={`url(#${id})`} stroke={light} strokeWidth="1.2" strokeOpacity="0.55" />
-      {/* Surface detail along the top, where the rocket lands */}
-      <g fill={dark} opacity="0.5">
-        <ellipse cx="70" cy="30" rx="8" ry="2.6" />
-        <ellipse cx="132" cy="27" rx="6" ry="2" />
-        <ellipse cx="152" cy="42" rx="10" ry="3.4" />
-        <ellipse cx="50" cy="46" rx="7" ry="2.6" />
-        <ellipse cx="96" cy="36" rx="4" ry="1.4" />
-        <ellipse cx="118" cy="48" rx="5" ry="1.8" />
+
+      <path d={path} fill={`url(#${u("base")})`} />
+      <g clipPath={`url(#${u("body")})`}>
+        {/* Speckle texture */}
+        {dots.map(([x, y, r, lit], k) => (
+          <circle key={k} cx={x} cy={y} r={r} fill={lit ? light : dark} opacity={lit ? 0.22 : 0.3} />
+        ))}
+        {/* Cracks */}
+        <g stroke={dark} strokeWidth="1.2" fill="none" opacity="0.4" strokeLinecap="round">
+          <path d="M30 70 Q48 76 58 92 T70 110" />
+          <path d="M150 100 Q160 116 176 120" />
+          <path d="M110 150 Q120 160 118 176" />
+        </g>
+        {/* Glowing ore veins */}
+        <g fill="none" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M28 104 L44 98 L52 108 L68 102" stroke={ore} strokeWidth="5" opacity="0.35" filter={`url(#${u("glow")})`} />
+          <path d="M28 104 L44 98 L52 108 L68 102" stroke={ore} strokeWidth="1.6" />
+          <path d="M134 150 L146 158 L160 152 L170 160" stroke={ore} strokeWidth="5" opacity="0.35" filter={`url(#${u("glow")})`} />
+          <path d="M134 150 L146 158 L160 152 L170 160" stroke={ore} strokeWidth="1.6" />
+          <path d="M112 84 L120 90 L132 86" stroke={ore} strokeWidth="4" opacity="0.3" filter={`url(#${u("glow")})`} />
+          <path d="M112 84 L120 90 L132 86" stroke={ore} strokeWidth="1.3" />
+        </g>
+        {/* Craters: dark bowl, shadowed far wall, sunlit near rim */}
+        {CRATERS.map(([cx, cy, r], k) => (
+          <g key={k}>
+            <ellipse cx={cx} cy={cy} rx={r} ry={r * 0.82} fill={`url(#${u("crater")})`} />
+            <path
+              d={`M${cx - r * 0.95} ${cy + r * 0.2} A${r} ${r * 0.82} 0 0 0 ${cx + r * 0.85} ${cy + r * 0.45}`}
+              stroke={light}
+              strokeWidth={Math.max(0.8, r * 0.14)}
+              fill="none"
+              opacity="0.55"
+            />
+          </g>
+        ))}
+        <rect width="200" height="200" fill={`url(#${u("shade")})`} />
       </g>
-      <g fill={light} opacity="0.45">
-        <ellipse cx="70" cy="28.6" rx="7" ry="1" />
-        <ellipse cx="152" cy="40.4" rx="9" ry="1.2" />
-      </g>
-      <g fill={mid}>
-        <path d="M80 15 l3 -2.5 l3 1 l1 2.5 z" />
-        <path d="M122 14 l2.5 -2 l3 0.8 l0.8 2 z" />
-        <path d="M60 22 l2 -1.6 l2.4 0.6 l0.6 1.6 z" />
-      </g>
-      <g fill={dark} opacity="0.55">
-        <ellipse cx="72" cy="70" rx="16" ry="13" />
-        <ellipse cx="128" cy="118" rx="22" ry="17" />
-        <ellipse cx="62" cy="138" rx="10" ry="8" />
-        <ellipse cx="140" cy="58" rx="9" ry="7" />
-        <ellipse cx="104" cy="160" rx="7" ry="5" />
-      </g>
-      <g stroke={light} strokeWidth="3" fill="none" opacity="0.35">
-        <path d="M66 62 a16 13 0 0 1 20 4" />
-        <path d="M118 108 a22 17 0 0 1 26 6" />
-      </g>
-      <path d="M150 150 l6 -6 l6 6 l-6 6 z" fill="#6ff3e6" className={s.glint} />
+      {/* Sunlit rim along the upper-right edge */}
+      <path d={path} fill="none" stroke={`url(#${u("rim")})`} strokeWidth="2.4" />
+      <Crystals x={lx} y={ly} ore={ore} glow={`url(#${u("glow")})`} />
+      <Crystals x={rx} y={ry} ore={ore} flip glow={`url(#${u("glow")})`} />
     </svg>
   );
 }
