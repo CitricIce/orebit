@@ -1,0 +1,1908 @@
+[
+{
+"name": "Orcinus orca",
+"aliases": [
+"dwarf killer whale",
+"killer whale",
+"orca",
+"Orca gladiator",
+"orca whale"
+],
+"links": 116
+},
+{
+"name": "Balaenoptera musculus",
+"aliases": [
+"blue whale",
+"Pygmy Blue Whale",
+"Sibbold’s Rorqual,",
+"Sulphur-bottom whale"
+],
+"links": 111
+},
+{
+"name": "sperm whale",
+"aliases": [
+"cachalot",
+"Physeter macrocephalus",
+"spermaceti whale"
+],
+"links": 97
+},
+{
+"name": "narwhal",
+"aliases": [
+"Monodon monoceros",
+"narwhale"
+],
+"links": 87
+},
+{
+"name": "humpback whale",
+"aliases": [
+"Megaptera novaeangliae"
+],
+"links": 86
+},
+{
+"name": "beluga whale",
+"aliases": [
+"beluga",
+"Delphinapterus leucas",
+"melonhead",
+"sea canary",
+"white wahle",
+"white whale"
+],
+"links": 85
+},
+{
+"name": "common bottlenose dolphin",
+"aliases": [
+"Atlantic bottlenose dolphin",
+"Bottle-Nosed Dolphin",
+"Bottlenose dolphin",
+"bottlenose dolphin",
+"Tursiops truncatus"
+],
+"links": 73
+},
+{
+"name": "fin whale",
+"aliases": [
+"Balaenoptera physalus",
+"common rorqual",
+"finback whale",
+"herring whale",
+"razorback"
+],
+"links": 71
+},
+{
+"name": "bowhead whale",
+"aliases": [
+"Arctic whale",
+"Balaena mysticetus",
+"Greenland right whale"
+],
+"links": 68
+},
+{
+"name": "baiji",
+"aliases": [
+"Chinese river dolphin",
+"Lipotes vexillifer",
+"pai-chi",
+"Whitefin dolphin",
+"Yangtze dolphin",
+"Yangtze river dolphin"
+],
+"links": 66
+},
+{
+"name": "Ganges river dolphin",
+"aliases": [
+"Platanista gangetica",
+"South Asian river dolphin"
+],
+"links": 66
+},
+{
+"name": "Short-beaked Common Dolphin",
+"aliases": [
+"Delphinus delphis"
+],
+"links": 64
+},
+{
+"name": "gray whale",
+"aliases": [
+"Agaphelus glaucus",
+"Atlantic gray whale",
+"Balaena gibbosa",
+"California gray whale",
+"devil fish",
+"Eschrichtius gibbosus",
+"Eschrichtius glaucus",
+"Eschrichtius robustus",
+"Gray back whale",
+"grey whale",
+"Pacific gray whale",
+"Rhachianectes glaucus"
+],
+"links": 63
+},
+{
+"name": "Balaenoptera borealis",
+"aliases": [
+"sei whale"
+],
+"links": 62
+},
+{
+"name": "Phocoena phocoena",
+"aliases": [
+"Harbor porpoise",
+"Harbour porpoise"
+],
+"links": 61
+},
+{
+"name": "Amazon river dolphin",
+"aliases": [
+"boto",
+"Inia geoffrensis",
+"pink river dolphin"
+],
+"links": 60
+},
+{
+"name": "minke whale",
+"aliases": [
+"Balaenoptera acutorostrata",
+"Common minke whale"
+],
+"links": 60
+},
+{
+"name": "Irrawaddy dolphin",
+"aliases": [
+"Orcaella brevirostris"
+],
+"links": 58
+},
+{
+"name": "Risso's Dolphin",
+"aliases": [
+"Grampus griseus"
+],
+"links": 58
+},
+{
+"name": "Bryde's Whale",
+"aliases": [
+"Balaenoptera brydei"
+],
+"links": 53
+},
+{
+"name": "North Atlantic right whale",
+"aliases": [
+"Eubalaena glacialis"
+],
+"links": 53
+},
+{
+"name": "Stenella coeruleoalba",
+"aliases": [
+"Striped Dolphin"
+],
+"links": 53
+},
+{
+"name": "false killer whale",
+"aliases": [
+"Phocaena crassidens",
+"Pseudorca crassidens"
+],
+"links": 52
+},
+{
+"name": "southern right whale",
+"aliases": [
+"Eubalaena australis"
+],
+"links": 52
+},
+{
+"name": "Cuvier's Beaked Whale",
+"aliases": [
+"Cuvier’s beaked whale",
+"goose-beaked whale",
+"Ziphius cavirostris"
+],
+"links": 50
+},
+{
+"name": "pygmy right whale",
+"aliases": [
+"Caperea marginata"
+],
+"links": 49
+},
+{
+"name": "White-beaked dolphin",
+"aliases": [
+"Lagenorhynchus albirostris"
+],
+"links": 49
+},
+{
+"name": "long-finned pilot whale",
+"aliases": [
+"Blackfish",
+"Globicephala melas",
+"Northern Pilot Whale"
+],
+"links": 48
+},
+{
+"name": "Mesoplodon bidens",
+"aliases": [
+"Sowerby’s beaked whale"
+],
+"links": 48
+},
+{
+"name": "Vaquita",
+"aliases": [
+"Desert porpoise",
+"Gulf of California porpoise",
+"Gulf porpoise",
+"Phocoena sinus",
+"Vaquita porpoise"
+],
+"links": 48
+},
+{
+"name": "North Pacific right whale",
+"aliases": [
+"Eubalaena japonica"
+],
+"links": 47
+},
+{
+"name": "northern bottlenose whale",
+"aliases": [
+"Hyperoodon ampullatus"
+],
+"links": 47
+},
+{
+"name": "Stenella longirostris",
+"aliases": [
+"spinner dolphin",
+"Spinner dolphin"
+],
+"links": 47
+},
+{
+"name": "Hector's dolphin",
+"aliases": [
+"Cephalorhynchus hectori"
+],
+"links": 46
+},
+{
+"name": "Atlantic white-sided dolphin",
+"aliases": [
+"Lagenorhynchus acutus"
+],
+"links": 45
+},
+{
+"name": "Commerson's dolphin",
+"aliases": [
+"Cephalorhynchus commersonii",
+"Commerson’s dolphin"
+],
+"links": 45
+},
+{
+"name": "Pantropical spotted dolphin",
+"aliases": [
+"Stenella attenuata"
+],
+"links": 45
+},
+{
+"name": "pygmy killer whale",
+"aliases": [
+"Feresa attenuata"
+],
+"links": 45
+},
+{
+"name": "finless porpoise",
+"aliases": [
+"Indo-Pacific finless porpoise",
+"Neophocaena phocaenoides"
+],
+"links": 44
+},
+{
+"name": "Fraser's dolphin",
+"aliases": [
+"Fraser’s dolphin",
+"Lagenodelphis hosei"
+],
+"links": 44
+},
+{
+"name": "Rough-toothed dolphin",
+"aliases": [
+"Steno bredanensis"
+],
+"links": 44
+},
+{
+"name": "La Plata dolphin",
+"aliases": [
+"Franciscana",
+"Pontoporia blainvillei"
+],
+"links": 43
+},
+{
+"name": "Omura's whale",
+"aliases": [
+"Balaenoptera omurai"
+],
+"links": 43
+},
+{
+"name": "Tucuxi",
+"aliases": [
+"Sotalia fluviatilis",
+"Tucuxi dolphin"
+],
+"links": 43
+},
+{
+"name": "pygmy sperm whale",
+"aliases": [
+"Kogia breviceps"
+],
+"links": 42
+},
+{
+"name": "short-finned pilot whale",
+"aliases": [
+"Globicephala macrorhynchus"
+],
+"links": 42
+},
+{
+"name": "Blainville's beaked whale",
+"aliases": [
+"Blainville’s beaked whale",
+"Mesoplodon densirostris"
+],
+"links": 41
+},
+{
+"name": "Chinese white dolphin",
+"aliases": [
+"Indo-Pacific humpback dolphin",
+"Indo-Pacific humpbacked dolphin",
+"Sousa chinensis",
+"Sousa chinensis chinensis"
+],
+"links": 41
+},
+{
+"name": "dwarf sperm whale",
+"aliases": [
+"Kogia sima"
+],
+"links": 41
+},
+{
+"name": "Haviside's dolphin",
+"aliases": [
+"Cephalorhynchus heavisidii",
+"Heaviside’s dolphin"
+],
+"links": 41
+},
+{
+"name": "Indo-Pacific bottlenose dolphin",
+"aliases": [
+"Indian Ocean bottlenose dolphin",
+"Tursiops aduncus"
+],
+"links": 41
+},
+{
+"name": "melon-headed whale",
+"aliases": [
+"electra dolphin",
+"little killer whale",
+"many-toothed blackfish",
+"Peponocephala electra"
+],
+"links": 41
+},
+{
+"name": "Antarctic minke whale",
+"aliases": [
+"Balaenoptera bonaerensis"
+],
+"links": 40
+},
+{
+"name": "Dusky dolphin",
+"aliases": [
+"Lagenorhynchus obscurus"
+],
+"links": 40
+},
+{
+"name": "Atlantic spotted dolphin",
+"aliases": [
+"Stenella frontalis"
+],
+"links": 39
+},
+{
+"name": "Chilean dolphin",
+"aliases": [
+"Cephalorhynchus eutropia"
+],
+"links": 39
+},
+{
+"name": "Hourglass dolphin",
+"aliases": [
+"Lagenorhynchus cruciger"
+],
+"links": 39
+},
+{
+"name": "Pacific white-sided dolphin",
+"aliases": [
+"Lagenorhynchus obliquidens"
+],
+"links": 39
+},
+{
+"name": "spade-toothed whale",
+"aliases": [
+"Mesoplodon traversii"
+],
+"links": 38
+},
+{
+"name": "Burmeister's porpoise",
+"aliases": [
+"Phocoena spinipinnis"
+],
+"links": 37
+},
+{
+"name": "Clymene dolphin",
+"aliases": [
+"Stenella clymene"
+],
+"links": 37
+},
+{
+"name": "Gervais' beaked whale",
+"aliases": [
+"Gervais’ beaked whale",
+"Mesoplodon europaeus"
+],
+"links": 37
+},
+{
+"name": "Mesoplodon ginkgodens",
+"aliases": [
+"Ginkgo-toothed beaked whale"
+],
+"links": 37
+},
+{
+"name": "Peale's dolphin",
+"aliases": [
+"Lagenorhynchus australis",
+"Peale’s dolphin"
+],
+"links": 37
+},
+{
+"name": "spectacled porpoise",
+"aliases": [
+"Phocoena dioptrica"
+],
+"links": 37
+},
+{
+"name": "Dall's porpoise",
+"aliases": [
+"Dall’s porpoise",
+"Phocoenoides dalli"
+],
+"links": 36
+},
+{
+"name": "Gray's beaked whale",
+"aliases": [
+"Gray’s beaked whale",
+"Mesoplodon grayi"
+],
+"links": 36
+},
+{
+"name": "Platanista minor",
+"aliases": [
+"Indus river dolphin"
+],
+"links": 36
+},
+{
+"name": "Southern bottlenose whale",
+"aliases": [
+"Hyperoodon planifrons"
+],
+"links": 36
+},
+{
+"name": "Andrews' beaked whale",
+"aliases": [
+"Mesoplodon bowdoini"
+],
+"links": 35
+},
+{
+"name": "Delphinus capensis",
+"aliases": [
+"Long-beaked common dolphin"
+],
+"links": 35
+},
+{
+"name": "Pygmy beaked whale",
+"aliases": [
+"Mesoplodon peruvianus"
+],
+"links": 35
+},
+{
+"name": "Sousa teuszii",
+"aliases": [
+"Atlantic humpbacked dolphin"
+],
+"links": 35
+},
+{
+"name": "Stejneger's beaked whale",
+"aliases": [
+"Mesoplodon stejnegeri",
+"Stejneger’s beaked whale"
+],
+"links": 35
+},
+{
+"name": "True's beaked whale",
+"aliases": [
+"Mesoplodon mirus",
+"True’s beaked whale"
+],
+"links": 35
+},
+{
+"name": "Australian snubfin dolphin",
+"aliases": [
+"Orcaella heinsohni"
+],
+"links": 34
+},
+{
+"name": "Berardius arnuxii",
+"aliases": [
+"Arnoux's beaked whale",
+"Arnoux’s beaked whale"
+],
+"links": 34
+},
+{
+"name": "Hubbs' beaked whale",
+"aliases": [
+"Mesoplodon carlhubbsi"
+],
+"links": 34
+},
+{
+"name": "Northern right whale dolphin",
+"aliases": [
+"Lissodelphis borealis"
+],
+"links": 34
+},
+{
+"name": "Shepherd's beaked whale",
+"aliases": [
+"Tasmacetus shepherdi"
+],
+"links": 34
+},
+{
+"name": "Southern right whale dolphin",
+"aliases": [
+"Lissodelphis peronii"
+],
+"links": 34
+},
+{
+"name": "strap-toothed whale",
+"aliases": [
+"Layard's beaked whale",
+"Mesoplodon layardii"
+],
+"links": 34
+},
+{
+"name": "Hector's beaked whale",
+"aliases": [
+"Mesoplodon hectori"
+],
+"links": 33
+},
+{
+"name": "Berardius bairdii",
+"aliases": [
+"Baird's beaked whale",
+"Baird’s beaked whale"
+],
+"links": 32
+},
+{
+"name": "Guiana dolphin",
+"aliases": [
+"Sotalia guianensis"
+],
+"links": 32
+},
+{
+"name": "Indopacetus pacificus",
+"aliases": [
+"Tropical bottlenose whale"
+],
+"links": 32
+},
+{
+"name": "Indian Ocean humpback dolphin",
+"aliases": [
+"Sousa plumbea"
+],
+"links": 29
+},
+{
+"name": "Inia araguaiaensis",
+"aliases": [
+"Araguaian river dolphin"
+],
+"links": 29
+},
+{
+"name": "Perrin's beaked whale",
+"aliases": [
+"Mesoplodon perrini"
+],
+"links": 28
+},
+{
+"name": "Rice's whale",
+"aliases": [
+"B. ricei",
+"Balaenoptera ricei",
+"Gulf of Mexico Bryde's whale",
+"Gulf of Mexico whale"
+],
+"links": 26
+},
+{
+"name": "Burrunan dolphin",
+"aliases": [
+"southern Australian bottlenose dolphin",
+"Tursiops aduncus australis",
+"Tursiops australis"
+],
+"links": 25
+},
+{
+"name": "Australian humpback dolphin",
+"aliases": [
+"Sousa sahulensis"
+],
+"links": 21
+},
+{
+"name": "Balaenoptera edeni",
+"aliases": [
+"Bryde's whale",
+"Eden's whale",
+"Sittang whale"
+],
+"links": 21
+},
+{
+"name": "Narrow-ridged finless porpoise",
+"aliases": [
+"Neophocaena asiaeorientalis",
+"Neophocaena asiaorientalis"
+],
+"links": 18
+},
+{
+"name": "Wholphin",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Himalayacetus subathuensis",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Mesoplodon hotaula",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Berardius minimus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Orcinus citoniensis",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Perucetus colossus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Zygophyseter varolai",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Neophocaena sunameri",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ramari's beaked whale",
+"aliases": [
+"Mesoplodon eueu"
+],
+"links": 11
+},
+{
+"name": "Ambulocetus natans",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Attockicetus praecursor",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Denebola brachycephala",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Livyatan melvillei",
+"aliases": [
+"L. melvillei",
+"Leviathan melvillei"
+],
+"links": 9
+},
+{
+"name": "Janjucetus hunderi",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Akishima whale",
+"aliases": [
+"Eschrichtius akishimaensis"
+],
+"links": 7
+},
+{
+"name": "Arktocara yakataga",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kogia pusilla",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tursiops erebennus",
+"aliases": [
+"Tamanend's bottlenose dolphin"
+],
+"links": 7
+},
+{
+"name": "Ancalecetus simonsi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Australodelphis mirus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eobalaenoptera harrisoni",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Isthminia panamensis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Amphiptera pacifica",
+"aliases": [
+"Giglioli's Whale"
+],
+"links": 5
+},
+{
+"name": "Diaphorocetus poucheti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ferecetotherium kelloggi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kutchicetus minimus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Llanocetus denticrenatus",
+"aliases": [
+"Llano's whale"
+],
+"links": 5
+},
+{
+"name": "Protocetus atavus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Aegyptocetus tarfa",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Berardius kobayashii",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Delphinus tropicalis",
+"aliases": [
+"Delphinus capensis tropicalis"
+],
+"links": 4
+},
+{
+"name": "Ichthyolestes pinfoldi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kekenodon onamata",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Marzanoptera bertae",
+"aliases": [
+"Balaenoptera bertae"
+],
+"links": 4
+},
+{
+"name": "Nalacetus ratimitus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Orcinus meyeri",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Orcinus paleorca",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Placoziphius duboisii",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Protororqualus cuvieri",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Albicetus oxymycterus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Archaebalaenoptera castriarquati",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Arimidelphis sorbinii",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Basiloterus hussaini",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Casatia thermophila",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Dalanistes ahmedi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Delphinus bairdii",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Maiacetus inuus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Marzanoptera tersillae",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Norrisanima miocaena",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Orcinus rectipinnus",
+"aliases": [
+"Bigg's killer whale",
+"Bigg's orca",
+"transient killer whale",
+"transient orca"
+],
+"links": 3
+},
+{
+"name": "Pakicetus inachus",
+"aliases": [
+"P. inachus"
+],
+"links": 3
+},
+{
+"name": "Pseudorca yokoyamai",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pseudorca yuanliensis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sulakocetus dagestanicus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Balaenella brachyrhynus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Balaenoptera ryani",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Balaenoptera siberi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Balaenoptera taiwanica",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Balaenotus insignis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Balaenula astensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Balaenula balaenopsis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Basilosaurus isis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bohaskaia monodontoides",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cotylocara macei",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Diorocetus chichibuensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Diorocetus shobarensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dorudon atrox",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Eomysticetus whitmorei",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Globicephala etruriae",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Indocetus ramani",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Izikoziphius rossi",
+"aliases": [
+"I. rossi"
+],
+"links": 2
+},
+{
+"name": "Joumocetus shimizui",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kogia danomurai",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Makaracetus bidens",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Megabalaena sapporoensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mesocetus agrami",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Narluga",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nenga meganasalis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Norisdelphis annakaensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ocucajea picklingi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Odobenocetops peruvianus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Papahu taitapu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pebanista yacuruna",
+"aliases": [
+"P. yacuruna"
+],
+"links": 2
+},
+{
+"name": "Rhaphicetus valenciae",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Semirostrum ceruttii",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Septemtriocetus bosselaersi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Simocetus rayi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Supayacetus muizoni",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Titanocetus sammarinensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Togocetus traversei",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Africanacetus ceratopsis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Aglaocetus moreni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Agorophius pygmaeus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Albireo savagei",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Albireo whistleri",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Allodelphis pratti",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Andrewsiphius sloani",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Antwerpibalaena liberatlas",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Aprixokogia kelloggi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Archaebalaenoptera liesselensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Archaeobalaena dosanko",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Archaeophocaena teshioensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Archaeoziphius microglenoideus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Archaeschrichtius ruggieroi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Artiocetus clavis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ashleycetus planicapitis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Aulophyseter morricei",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Auroracetus bakerae",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Austrosqualodon trirhizodonta",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Awadelphis hirayamai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Balaena biscayensis",
+"aliases": [
+"Biscay Whale"
+],
+"links": 1
+},
+{
+"name": "Balaena pampaea",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Balaenoptera sibbaldina",
+"aliases": [
+"Balaenoptera definata subsp. sibbaldina"
+],
+"links": 1
+},
+{
+"name": "Basilosaurus cetoides",
+"aliases": [
+"B. cetoides"
+],
+"links": 1
+},
+{
+"name": "Blunt-snouted dolphin",
+"aliases": [
+"Platalearostrum hoekmani"
+],
+"links": 1
+},
+{
+"name": "Brujadelphis ankylorostris",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Caviziphius altirostris",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cetotherium riabinini",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Chrysocetus healyorum",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cozzuoliphyseter rionegrensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Diaphorocetus ortegai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Diorocetus hiatus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Echovenator sandersi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Eodelphinus kabatensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Eomysticetus carolinensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Eschrichtioides gastaldii",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Eschrichtius mysticetoides",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Etruridelphis giulii",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Eubalaena ianitrix",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Eubalaena shinshuensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Eudelphis mortezelensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gaviacetus razai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Globicetus hiberus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Goedertius oregonensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Graamocetus longicollis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Haborodelphis japonicus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Haborophocoena minutus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Haborophocoena toyoshimai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Herpetocetus morrowi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Heterodelphis croatica",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Hibacetus hirosei",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Idiocetus guicciardinii",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Idiocetus tsugarensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ihlengesi saldanhae",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Imocetus piscatus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Inermorostrum xenops",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Inticetus vertizi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Isanacetus laticephalus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ischyrorhynchus vanbenedeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Izikoziphius angustus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kentriodon hobetsu",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kentriodon nakajimai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kentriodon pernix",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kentriodon sugawarai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Khoikhoicetus agulhasis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lagenorhynchus harmatuki",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Macrodelphinus kelloggi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Medocinia tetragorhina",
+"aliases": [
+"Champsodelphis tetragorhinus",
+"Delphinus tetragorhinus"
+],
+"links": 1
+},
+{
+"name": "Meherrinia isoni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mesoplodon slangkopi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Messapicetus longirostris",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Microberardius africanus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Miocaperea pulchra",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Miodelphinus miensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Miophocaena nishinoi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mirocetus riabinini",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mongitore's Monstrous Fish",
+"aliases": [
+"Oxypterus mongitori"
+],
+"links": 1
+},
+{
+"name": "Nannocetus eremus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ninjadelphis ujiharai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ninoziphius platyrostris",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Notiocetus platensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Notiocetus romerianus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Numataphocoena yamashitai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Odobenocetops leptodon",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Orcinus ater",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Otekaikea marplesi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Parabalaenoptera baulinensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Parapontoporia wilsoni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Parietobalaena palmeri",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Parietobalaena yamaokai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Piscolithax longirostris",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Piscolithax tedfordi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pliokogia apenninica",
+"aliases": [
+"P. apenninica"
+],
+"links": 1
+},
+{
+"name": "Pomatodelphis inequalis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pomatodelphis stenorhynchus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Praekogia cedrosensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pterocetus benguelae",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pterophocaena nishinoi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Qaisracetus arifi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Quasibalaena portisantuerpiae",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Remingtonocetus domandaensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Remingtonocetus harudiensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rodhocetus balochistanensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rodhocetus kasrani",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rododelphis stamatiadisi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Samaydelphis chacaltanae",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Saurocetes argentinus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Saurocetes obliquus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Scaldiporia vandokkumi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Septidelphis morii",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sinanodelphis izumidaensis",
+"aliases": [
+"Shinano Dolphin"
+],
+"links": 1
+},
+{
+"name": "Squalodelphis fabianii",
+"aliases": [
+"S. fabianii"
+],
+"links": 1
+},
+{
+"name": "Squalodon calvertensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Squalodon grateloupii",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Squalodon whitmorei",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Stenella lomatiae",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Stenella rayi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Stromerius nidensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Takracetus simus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tangaroasaurus kakanuiensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tohoraata raekohao",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tohoraonepu nihokaiwaiu",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Toipahautea",
+"aliases": [
+"Toipahautea waitaki"
+],
+"links": 1
+},
+{
+"name": "Tursiops maugeanus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tusciziphius atlanticus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tusciziphius crispus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Uranocetus gramensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vanbreenia trigonia",
+"aliases": [
+"V. trigonia"
+],
+"links": 1
+},
+{
+"name": "Waipatia maerewhenua",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Wimahl chinookensis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Xhosacetus hendeysi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Yamatocetus canaliculatus",
+"aliases": [],
+"links": 1
+}
+]

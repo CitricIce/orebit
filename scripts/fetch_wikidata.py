@@ -87,7 +87,15 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
         (inst("Q3559"), 6),
     ],
     "sharks": [(taxa("Q7372"), 1)],
-    "snakes": [(taxa("Q2102"), 2)],
+    # Wikidata's "snake" item is the everyday concept, so go through the families.
+    "snakes": [
+        (
+            '?fam wdt:P225 ?fn . VALUES ?fn { "Colubridae" "Viperidae" "Elapidae" "Pythonidae" "Boidae" '
+            '"Natricidae" "Lamprophiidae" "Typhlopidae" "Leptotyphlopidae" "Homalopsidae" "Dipsadidae" } '
+            "?item wdt:P171+ ?fam ; wdt:P105 wd:Q7432 .",
+            2,
+        )
+    ],
     "primates": [(taxa("Q7380"), 2)],
     "cetaceans": [(taxa("Q160"), 1)],
     "birds-of-prey": [

@@ -1,0 +1,5205 @@
+[
+{
+"name": "Neanderthal",
+"aliases": [
+"Homo neanderthalensis",
+"Neanderthals"
+],
+"links": 122
+},
+{
+"name": "Homo erectus",
+"aliases": [],
+"links": 101
+},
+{
+"name": "Bonobo",
+"aliases": [
+"dwarf chimpanzee",
+"gracile chimpanzee",
+"Pan paniscus",
+"pygmy chimpanzee"
+],
+"links": 99
+},
+{
+"name": "chimpanzee",
+"aliases": [
+"chimp",
+"common chimpanzee",
+"Pan troglodytes",
+"robust chimpanzee"
+],
+"links": 99
+},
+{
+"name": "Homo habilis",
+"aliases": [
+"H. habilis"
+],
+"links": 87
+},
+{
+"name": "rhesus macaque",
+"aliases": [
+"M. mulatta",
+"Macaca mulatta",
+"rhesus",
+"rhesus monkey"
+],
+"links": 77
+},
+{
+"name": "aye-aye",
+"aliases": [
+"Daubentonia madagascariensis"
+],
+"links": 72
+},
+{
+"name": "ring-tailed lemur",
+"aliases": [
+"Lemur catta",
+"ringtailed lemur"
+],
+"links": 72
+},
+{
+"name": "Homo heidelbergensis",
+"aliases": [
+"H. heidelbergensis"
+],
+"links": 70
+},
+{
+"name": "Macaca sylvanus",
+"aliases": [
+"Barbary ape",
+"Barbary macaque",
+"Barbary monkey",
+"magot",
+"rock ape",
+"rock monkey"
+],
+"links": 67
+},
+{
+"name": "mandrill",
+"aliases": [
+"Mandrillus sphinx"
+],
+"links": 67
+},
+{
+"name": "Nasalis larvatus",
+"aliases": [
+"kahau",
+"kahau nosatý",
+"long-nosed monkey",
+"proboscis monkey"
+],
+"links": 67
+},
+{
+"name": "Denisovan",
+"aliases": [
+"Homo longi"
+],
+"links": 66
+},
+{
+"name": "Homo ergaster",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Homo floresiensis",
+"aliases": [
+"Flores Man"
+],
+"links": 66
+},
+{
+"name": "hamadryas baboon",
+"aliases": [
+"Papio hamadryas"
+],
+"links": 63
+},
+{
+"name": "Macaca fuscata",
+"aliases": [
+"Japanese macaque",
+"snow monkey"
+],
+"links": 63
+},
+{
+"name": "olive baboon",
+"aliases": [
+"Papio anubis"
+],
+"links": 61
+},
+{
+"name": "Siamang",
+"aliases": [
+"Hylobates syndactylus",
+"Symphalangus syndactylus"
+],
+"links": 61
+},
+{
+"name": "Gorilla gorilla",
+"aliases": [
+"western gorilla"
+],
+"links": 59
+},
+{
+"name": "Bornean orangutan",
+"aliases": [
+"Pongo pygmaeus"
+],
+"links": 58
+},
+{
+"name": "Gelada",
+"aliases": [
+"Theropithecus gelada"
+],
+"links": 58
+},
+{
+"name": "Indri indri",
+"aliases": [
+"indri"
+],
+"links": 58
+},
+{
+"name": "crab-eating macaque",
+"aliases": [
+"Cynomolgus irus",
+"cynomolgus monkey",
+"long-tailed macaque",
+"Macaca fascicularis",
+"Macaca irus"
+],
+"links": 56
+},
+{
+"name": "Homo naledi",
+"aliases": [
+"H. naledi"
+],
+"links": 56
+},
+{
+"name": "Australopithecus afarensis cumio",
+"aliases": [
+"A. afarensis",
+"Australopithecus afarensis"
+],
+"links": 55
+},
+{
+"name": "Homo antecessor",
+"aliases": [],
+"links": 55
+},
+{
+"name": "drill",
+"aliases": [
+"Mandrillus leucophaeus"
+],
+"links": 53
+},
+{
+"name": "Sumatran orangutan",
+"aliases": [
+"Pongo abelii"
+],
+"links": 53
+},
+{
+"name": "yellow baboon",
+"aliases": [
+"Papio cynocephalus"
+],
+"links": 53
+},
+{
+"name": "Lar Gibbon",
+"aliases": [
+"H. lar",
+"Hylobates lar",
+"White-handed gibbon",
+"White-Handed Gibbon"
+],
+"links": 52
+},
+{
+"name": "Australopithecus africanus",
+"aliases": [
+"A. africanus"
+],
+"links": 51
+},
+{
+"name": "Lion-tailed Macaque",
+"aliases": [
+"Macaca silenus",
+"wanderoo"
+],
+"links": 50
+},
+{
+"name": "Pygmy marmoset",
+"aliases": [
+"Callithrix pygmaea",
+"dwarf marmoset"
+],
+"links": 50
+},
+{
+"name": "Macaca nigra",
+"aliases": [
+"celebes crested macaque",
+"crested black macaque"
+],
+"links": 49
+},
+{
+"name": "eastern gorilla",
+"aliases": [
+"Gorilla beringei"
+],
+"links": 48
+},
+{
+"name": "Homo rudolfensis",
+"aliases": [
+"H. rudolfensis"
+],
+"links": 48
+},
+{
+"name": "patas monkey",
+"aliases": [
+"common patas monkey",
+"Erythrocebus patas",
+"hussar monkey",
+"wadi monkey"
+],
+"links": 48
+},
+{
+"name": "golden lion tamarin",
+"aliases": [
+"golden marmoset",
+"Leontopithecus rosalia"
+],
+"links": 47
+},
+{
+"name": "Mantled guereza",
+"aliases": [
+"Colobus guereza",
+"Guereza"
+],
+"links": 47
+},
+{
+"name": "Tapanuli orangutan",
+"aliases": [
+"Pongo tapanuliensis"
+],
+"links": 46
+},
+{
+"name": "Sahelanthropus tchadensis",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Australopithecus anamensis",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Australopithecus sediba",
+"aliases": [],
+"links": 44
+},
+{
+"name": "black-and-white ruffed lemur",
+"aliases": [
+"Varecia variegata",
+"Varecia variegata variegata"
+],
+"links": 44
+},
+{
+"name": "cotton-top tamarin",
+"aliases": [
+"cotton-headed tamarin",
+"cottontop tamarin",
+"Saguinus oedipus"
+],
+"links": 44
+},
+{
+"name": "Geoffroy's spider monkey",
+"aliases": [
+"Ateles geoffroyi",
+"black-handed spider monkey",
+"Central American spider monkey",
+"Geoffroy’s spider monkey"
+],
+"links": 44
+},
+{
+"name": "Homo georgicus",
+"aliases": [
+"Homo erectus georgicus"
+],
+"links": 44
+},
+{
+"name": "Orrorin tugenensis",
+"aliases": [
+"O. tugenensis"
+],
+"links": 44
+},
+{
+"name": "Philippine tarsier",
+"aliases": [
+"Carlito syrichta"
+],
+"links": 44
+},
+{
+"name": "White-headed capuchin",
+"aliases": [
+"Cebus capucinus",
+"Colombian white-faced capuchin",
+"White-faced capuchin",
+"White-throated capuchin"
+],
+"links": 44
+},
+{
+"name": "Lesula",
+"aliases": [
+"Cercopithecus lomamiensis"
+],
+"links": 43
+},
+{
+"name": "southern pig-tailed macaque",
+"aliases": [
+"Macaca nemestrina",
+"Sunda pig-tailed macaque"
+],
+"links": 43
+},
+{
+"name": "stump-tailed macaque",
+"aliases": [
+"bear macaque",
+"Macaca arctoides",
+"stumptail macaque"
+],
+"links": 43
+},
+{
+"name": "Sunda slow loris",
+"aliases": [
+"greater slow loris",
+"Nycticebus coucang"
+],
+"links": 43
+},
+{
+"name": "Assam macaque",
+"aliases": [
+"Macaca assamensis"
+],
+"links": 42
+},
+{
+"name": "Australopithecus garhi",
+"aliases": [
+"A. garhi"
+],
+"links": 42
+},
+{
+"name": "Australopithecus robustus",
+"aliases": [
+"P. robustus",
+"Paranthropus robustus"
+],
+"links": 42
+},
+{
+"name": "emperor tamarin",
+"aliases": [
+"Saguinus imperator"
+],
+"links": 42
+},
+{
+"name": "golden snub-nosed monkey",
+"aliases": [
+"golden snub nosed monkey",
+"Rhinopithecus roxellana"
+],
+"links": 42
+},
+{
+"name": "grivet",
+"aliases": [
+"Chlorocebus aethiops",
+"grivet monkey"
+],
+"links": 42
+},
+{
+"name": "Homo rhodesiensis",
+"aliases": [
+"H. rhodesiensis"
+],
+"links": 42
+},
+{
+"name": "Papio papio",
+"aliases": [
+"Guinea baboon"
+],
+"links": 42
+},
+{
+"name": "Papio ursinus",
+"aliases": [
+"Cape baboon",
+"chacma baboon",
+"Chacma baboon"
+],
+"links": 42
+},
+{
+"name": "West African potto",
+"aliases": [
+"Bosman's potto",
+"Perodicticus potto"
+],
+"links": 42
+},
+{
+"name": "Australopithecus bahrelghazali",
+"aliases": [
+"A. bahrelghazali"
+],
+"links": 41
+},
+{
+"name": "Paranthropus boisei",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Saimiri sciureus",
+"aliases": [
+"Common squirrel monkey",
+"South American squirrel monkey"
+],
+"links": 41
+},
+{
+"name": "Ateles paniscus",
+"aliases": [
+"Black spider monkey",
+"Coaita",
+"Red-faced spider monkey"
+],
+"links": 40
+},
+{
+"name": "Cacajao calvus",
+"aliases": [
+"Bald-headed uakari"
+],
+"links": 40
+},
+{
+"name": "collared mangabey",
+"aliases": [
+"Cercocebus torquatus",
+"red-capped mangabey",
+"red-crowned mangabey",
+"white-collared mangabey"
+],
+"links": 40
+},
+{
+"name": "Diademed sifaka",
+"aliases": [
+"Propithecus diadema"
+],
+"links": 40
+},
+{
+"name": "Eulemur macaco",
+"aliases": [
+"black lemur",
+"common black lemur"
+],
+"links": 40
+},
+{
+"name": "Golden langur",
+"aliases": [
+"Gee's golden langur",
+"Trachypithecus geei"
+],
+"links": 40
+},
+{
+"name": "Horsfield's tarsier",
+"aliases": [
+"Cephalopachus bancanus"
+],
+"links": 40
+},
+{
+"name": "Paranthropus aethiopicus",
+"aliases": [
+"P. aethiopicus"
+],
+"links": 40
+},
+{
+"name": "Sapajus apella",
+"aliases": [],
+"links": 40
+},
+{
+"name": "silvery gibbon",
+"aliases": [
+"H. moloch",
+"Hylobates moloch",
+"Javan gibbon"
+],
+"links": 40
+},
+{
+"name": "Toque macaque",
+"aliases": [
+"Macaca sinica",
+"Macaco sinica"
+],
+"links": 40
+},
+{
+"name": "Venezuelan red howler",
+"aliases": [
+"Alouatta seniculus",
+"Colombian red howler monkey",
+"Red howler Monkey"
+],
+"links": 40
+},
+{
+"name": "blue monkey",
+"aliases": [
+"Cercopithecus mitis"
+],
+"links": 39
+},
+{
+"name": "common marmoset",
+"aliases": [
+"Callithrix jacchus"
+],
+"links": 39
+},
+{
+"name": "Diana monkey",
+"aliases": [
+"Cercopithecus diana",
+"Diana guenon"
+],
+"links": 39
+},
+{
+"name": "Goeldi's marmoset",
+"aliases": [
+"Callimico goeldii",
+"Goeldi's monkey",
+"Goeldi’s monkey"
+],
+"links": 39
+},
+{
+"name": "red ruffed lemur",
+"aliases": [
+"red-ruffed lemur",
+"Varecia rubra",
+"Varecia variegata rubra"
+],
+"links": 39
+},
+{
+"name": "Tibetan macaque",
+"aliases": [
+"Macaca thibetana"
+],
+"links": 39
+},
+{
+"name": "Allen's swamp monkey",
+"aliases": [
+"Allenopithecus nigroviridis"
+],
+"links": 38
+},
+{
+"name": "brown greater galago",
+"aliases": [
+"large-eared greater galago",
+"Otolemur crassicaudatus",
+"Thick-tailed greater galago"
+],
+"links": 38
+},
+{
+"name": "Formosan rock macaque",
+"aliases": [
+"Macaca cyclopis",
+"Taiwan rock macaque"
+],
+"links": 38
+},
+{
+"name": "golden bamboo lemur",
+"aliases": [
+"Hapalemur aureus"
+],
+"links": 38
+},
+{
+"name": "Greater bamboo lemur",
+"aliases": [
+"Prolemur simus"
+],
+"links": 38
+},
+{
+"name": "red slender loris",
+"aliases": [
+"Loris tardigradus",
+"Slender loris"
+],
+"links": 38
+},
+{
+"name": "Senegal bushbaby",
+"aliases": [
+"Galago senegalensis",
+"Northern lesser galago"
+],
+"links": 38
+},
+{
+"name": "Southern muriqui",
+"aliases": [
+"Brachyteles arachnoides"
+],
+"links": 38
+},
+{
+"name": "Verreaux's sifaka",
+"aliases": [
+"Propithecus verreauxi"
+],
+"links": 38
+},
+{
+"name": "black howler",
+"aliases": [
+"Alouatta caraya",
+"Black howler monkey",
+"black howler monkey",
+"black-and-gold howler",
+"Black-and-gold Howler Monkey"
+],
+"links": 37
+},
+{
+"name": "bonnet macaque",
+"aliases": [
+"Macaca radiata"
+],
+"links": 37
+},
+{
+"name": "De Brazza's monkey",
+"aliases": [
+"Cercopithecus neglectus",
+"De Brazza’s monkey"
+],
+"links": 37
+},
+{
+"name": "Homo cepranensis",
+"aliases": [
+"Argil",
+"Ceprano Calvarium",
+"Ceprano Man"
+],
+"links": 37
+},
+{
+"name": "Mohol bushbaby",
+"aliases": [
+"Galago moholi",
+"Southern lesser galago"
+],
+"links": 37
+},
+{
+"name": "Müller's Bornean gibbon",
+"aliases": [
+"Bornean gibbon",
+"H. muelleri",
+"Hylobates muelleri",
+"Müller's gibbon",
+"southern grey gibbon"
+],
+"links": 37
+},
+{
+"name": "Northern pig-tailed macaque",
+"aliases": [
+"Macaca leonina",
+"Northern pigtail macaque"
+],
+"links": 37
+},
+{
+"name": "Pagai Island macaque",
+"aliases": [
+"Macaca pagensis",
+"Mentawai macaque"
+],
+"links": 37
+},
+{
+"name": "Pileated Gibbon",
+"aliases": [
+"H. pileatus",
+"Hylobates pileatus"
+],
+"links": 37
+},
+{
+"name": "Agile Gibbon",
+"aliases": [
+"black-handed gibbon",
+"H. agilis",
+"Hylobates agilis"
+],
+"links": 36
+},
+{
+"name": "Ateles fusciceps",
+"aliases": [
+"Black-headed spider monkey",
+"Brown-headed spider monkey"
+],
+"links": 36
+},
+{
+"name": "Ateles hybridus",
+"aliases": [
+"brown spider monkey",
+"Variegated spider monkey"
+],
+"links": 36
+},
+{
+"name": "Black crested gibbon",
+"aliases": [
+"Black-crested gibbon",
+"N. concolor",
+"Nomascus concolor"
+],
+"links": 36
+},
+{
+"name": "Eulemur fulvus",
+"aliases": [
+"brown lemur",
+"Brown lemur",
+"common brown lemur"
+],
+"links": 36
+},
+{
+"name": "Eulemur mongoz",
+"aliases": [
+"mongoose lemur"
+],
+"links": 36
+},
+{
+"name": "golden-headed lion tamarin",
+"aliases": [
+"gold and black lion tamarin",
+"Leontopithecus chrysomelas"
+],
+"links": 36
+},
+{
+"name": "Homo luzonensis",
+"aliases": [
+"Callao Man",
+"H. luzonensis"
+],
+"links": 36
+},
+{
+"name": "Humboldt's Night Monkey",
+"aliases": [
+"Aotus trivirgatus",
+"Northern Night Monkey",
+"Northern night monkey",
+"Northern owl monkey",
+"Northern Owl Monkey",
+"Three-Striped Night Monkey",
+"Three-striped Night Monkey"
+],
+"links": 36
+},
+{
+"name": "Mona monkey",
+"aliases": [
+"Cercopithecus mona"
+],
+"links": 36
+},
+{
+"name": "pied tamarin",
+"aliases": [
+"Brazilian bare-faced tamarin",
+"Saguinus bicolor"
+],
+"links": 36
+},
+{
+"name": "Pithecia pithecia",
+"aliases": [
+"Golden-faced saki",
+"golden-faced saki",
+"Guianan saki",
+"white-faced saki"
+],
+"links": 36
+},
+{
+"name": "Red-handed tamarin",
+"aliases": [
+"Golden-handed tamarin",
+"Saguinus midas"
+],
+"links": 36
+},
+{
+"name": "Red-shanked douc",
+"aliases": [
+"Pygathrix nemaeus"
+],
+"links": 36
+},
+{
+"name": "Semnopithecus entellus",
+"aliases": [
+"Bengal hanuman langur",
+"Bengal sacred langur",
+"common langur",
+"gray langur",
+"grey langur",
+"Hanuman langur",
+"northern plains gray langur",
+"northern plains grey langur",
+"sacred langur"
+],
+"links": 36
+},
+{
+"name": "Alouatta pigra",
+"aliases": [
+"Black howler monkey",
+"Guatemalan black howler",
+"Yucatán black howler"
+],
+"links": 35
+},
+{
+"name": "Ateles belzebuth",
+"aliases": [
+"Marimonda",
+"White-bellied spider monkey",
+"White-fronted spider monkey"
+],
+"links": 35
+},
+{
+"name": "Bengal slow loris",
+"aliases": [
+"Northern slow loris",
+"Nycticebus bengalensis"
+],
+"links": 35
+},
+{
+"name": "gray mouse lemur",
+"aliases": [
+"Grey mouse-lemur",
+"Microcebus murinus"
+],
+"links": 35
+},
+{
+"name": "Hapalemur griseus",
+"aliases": [
+"Beanamalao bamboo lemur",
+"eastern Gray Bamboo lemur",
+"Eastern Lesser Bamboo lemur",
+"eastern lesser bamboo lemur",
+"Gilbert's Bamboo lemur",
+"Gilbert's gentle lemur",
+"gray bamboo lemur",
+"gray gentle lemur",
+"Ranomafana bamboo lemur",
+"Ranomafana gentle lemur"
+],
+"links": 35
+},
+{
+"name": "Homo gautengensis",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Lagothrix lagothricha",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Mico argentatus",
+"aliases": [
+"Silvery marmoset"
+],
+"links": 35
+},
+{
+"name": "Olive colobus",
+"aliases": [
+"Procolobus verus"
+],
+"links": 35
+},
+{
+"name": "red-tailed monkey",
+"aliases": [
+"black-cheeked white-nosed monkey",
+"Cercopithecus ascanius",
+"red-tailed guenon",
+"Red-tailed guenon",
+"redtail monkey",
+"Schmidt's guenon"
+],
+"links": 35
+},
+{
+"name": "Simias concolor",
+"aliases": [
+"Pig-tailed langur",
+"simakobu monkey"
+],
+"links": 35
+},
+{
+"name": "vervet monkey",
+"aliases": [
+"Chlorocebus pygerythrus",
+"vervet"
+],
+"links": 35
+},
+{
+"name": "Angola colobus",
+"aliases": [
+"Colobus angolensis"
+],
+"links": 34
+},
+{
+"name": "Eulemur coronatus",
+"aliases": [
+"crowned lemur"
+],
+"links": 34
+},
+{
+"name": "fat-tailed dwarf lemur",
+"aliases": [
+"Cheirogaleus medius",
+"lesser dwarf lemur",
+"spiny forest dwarf lemur",
+"Western fat-tailed dwarf lemur",
+"western fat-tailed dwarf lemur"
+],
+"links": 34
+},
+{
+"name": "Kenyanthropus platyops",
+"aliases": [],
+"links": 34
+},
+{
+"name": "kipunji",
+"aliases": [
+"Rungwecebus kipunji"
+],
+"links": 34
+},
+{
+"name": "Kloss's gibbon",
+"aliases": [
+"Bilou",
+"H. klossii",
+"Hylobates klossii",
+"Kloss’s gibbon",
+"Mentawai gibbon"
+],
+"links": 34
+},
+{
+"name": "northern white-cheeked gibbon",
+"aliases": [
+"N. leucogenys",
+"Nomascus leucogenys"
+],
+"links": 34
+},
+{
+"name": "Xanthonycticebus pygmaeus",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Zanzibar red colobus",
+"aliases": [
+"Piliocolobus kirkii"
+],
+"links": 34
+},
+{
+"name": "Angolan talapoin",
+"aliases": [
+"Miopithecus talapoin"
+],
+"links": 33
+},
+{
+"name": "Arunachal macaque",
+"aliases": [
+"Macaca munzala"
+],
+"links": 33
+},
+{
+"name": "Black Lion Tamarin",
+"aliases": [
+"Leontopithecus chrysopygus"
+],
+"links": 33
+},
+{
+"name": "Capped langur",
+"aliases": [
+"Trachypithecus pileatus"
+],
+"links": 33
+},
+{
+"name": "Eastern woolly lemur",
+"aliases": [
+"Avahi laniger",
+"Eastern Avahi",
+"Gmelin's Woolly Lemur"
+],
+"links": 33
+},
+{
+"name": "Eulemur rubriventer",
+"aliases": [
+"red-bellied lemur"
+],
+"links": 33
+},
+{
+"name": "Eulemur rufus",
+"aliases": [
+"Red lemur",
+"Red-fronted brown lemur"
+],
+"links": 33
+},
+{
+"name": "François' langur",
+"aliases": [
+"Francois’s langur",
+"Trachypithecus francoisi"
+],
+"links": 33
+},
+{
+"name": "grey-cheeked mangabey",
+"aliases": [
+"gray-cheeked mangabey",
+"grey-cheeked crested mangabey",
+"Lophocebus albigena"
+],
+"links": 33
+},
+{
+"name": "Hairy-eared dwarf lemur",
+"aliases": [
+"Allocebus trichotis"
+],
+"links": 33
+},
+{
+"name": "Hoolock hoolock",
+"aliases": [
+"H. hoolock",
+"hoolock gibbon",
+"western hoolock",
+"western hoolock gibbon"
+],
+"links": 33
+},
+{
+"name": "King colobus",
+"aliases": [
+"Colobus polykomos"
+],
+"links": 33
+},
+{
+"name": "L'Hoest's monkey",
+"aliases": [
+"Allochrocebus lhoesti",
+"L’Hoest’s monkey"
+],
+"links": 33
+},
+{
+"name": "Madame Berthe's mouse lemur",
+"aliases": [
+"Madame Berthe’s mouse lemur",
+"Microcebus berthae"
+],
+"links": 33
+},
+{
+"name": "Mantled howler",
+"aliases": [
+"Alouatta palliata",
+"Mantled howler monkey"
+],
+"links": 33
+},
+{
+"name": "Mentawai langur",
+"aliases": [
+"Presbytis potenziani"
+],
+"links": 33
+},
+{
+"name": "Northern muriqui",
+"aliases": [
+"Brachyteles hypoxanthus"
+],
+"links": 33
+},
+{
+"name": "Phayre's leaf monkey",
+"aliases": [
+"Phayre’s langur",
+"Trachypithecus phayrei"
+],
+"links": 33
+},
+{
+"name": "Rhinopithecus avunculus",
+"aliases": [
+"Dollman's snub-nosed monkey",
+"Tonkin snub-nosed monkey"
+],
+"links": 33
+},
+{
+"name": "Roloway monkey",
+"aliases": [
+"Cercopithecus roloway"
+],
+"links": 33
+},
+{
+"name": "Silky sifaka",
+"aliases": [
+"Propithecus candidus"
+],
+"links": 33
+},
+{
+"name": "Spectral tarsier",
+"aliases": [
+"Tarsius spectrum",
+"Tarsius tarsier"
+],
+"links": 33
+},
+{
+"name": "Superagui lion tamarin",
+"aliases": [
+"Black-faced lion tamarin",
+"Leontopithecus caissara"
+],
+"links": 33
+},
+{
+"name": "Western red colobus",
+"aliases": [
+"Piliocolobus badius"
+],
+"links": 33
+},
+{
+"name": "yellow-cheeked gibbon",
+"aliases": [
+"buffed-cheeked gibbon",
+"Gabriella's crested gibbon",
+"golden-cheeked crested gibbon",
+"golden-cheeked gibbon",
+"N. gabriellae",
+"Nomascus gabriellae",
+"red-cheeked gibbon",
+"yellow-cheeked crested gibbon"
+],
+"links": 33
+},
+{
+"name": "Ardipithecus ramidus",
+"aliases": [
+"A. ramidus"
+],
+"links": 32
+},
+{
+"name": "Crested mona monkey",
+"aliases": [
+"Cercopithecus pogonias",
+"Crowned guenon"
+],
+"links": 32
+},
+{
+"name": "Dusky leaf monkey",
+"aliases": [
+"Trachypithecus obscurus"
+],
+"links": 32
+},
+{
+"name": "Eulemur collaris",
+"aliases": [
+"collared brown lemur",
+"Eulemur fulvus collaris",
+"red-collared brown lemur",
+"red-collared lemur"
+],
+"links": 32
+},
+{
+"name": "Golden-crowned sifaka",
+"aliases": [
+"Propithecus tattersalli"
+],
+"links": 32
+},
+{
+"name": "Green Monkey",
+"aliases": [
+"Chlorocebus sabaeus"
+],
+"links": 32
+},
+{
+"name": "Javan lutung",
+"aliases": [
+"Javan langur",
+"Trachypithecus auratus"
+],
+"links": 32
+},
+{
+"name": "Moor macaque",
+"aliases": [
+"Celebes macaque",
+"Macaca maura"
+],
+"links": 32
+},
+{
+"name": "Pygmy mouse lemur",
+"aliases": [
+"Microcebus myoxinus"
+],
+"links": 32
+},
+{
+"name": "Black colobus",
+"aliases": [
+"Colobus satanas"
+],
+"links": 31
+},
+{
+"name": "black-capped squirrel monkey",
+"aliases": [
+"Bolivian squirrel monkey",
+"Peruvian squirrel monkey",
+"Saimiri boliviensis"
+],
+"links": 31
+},
+{
+"name": "Black-headed uakari",
+"aliases": [
+"Cacajao melanocephalus",
+"Golden-backed black uakari"
+],
+"links": 31
+},
+{
+"name": "Buffy-headed marmoset",
+"aliases": [
+"Callithrix flaviceps"
+],
+"links": 31
+},
+{
+"name": "Calabar angwantibo",
+"aliases": [
+"Arctocebus calabarensis",
+"Golden potto"
+],
+"links": 31
+},
+{
+"name": "Campbell's mona monkey",
+"aliases": [
+"Campbell's guenon",
+"Campbell's monkey",
+"Cercopithecus campbelli"
+],
+"links": 31
+},
+{
+"name": "Cercocebus atys",
+"aliases": [
+"Sooty mangabey"
+],
+"links": 31
+},
+{
+"name": "Eulemur flavifrons",
+"aliases": [
+"blue-eyed black lemur",
+"Sclater's lemur"
+],
+"links": 31
+},
+{
+"name": "Greater spot-nosed monkey",
+"aliases": [
+"Cercopithecus nictitans",
+"Greater spot-nosed guenon"
+],
+"links": 31
+},
+{
+"name": "Javan slow loris",
+"aliases": [
+"Nycticebus javanicus"
+],
+"links": 31
+},
+{
+"name": "Moustached guenon",
+"aliases": [
+"Cercopithecus cephus"
+],
+"links": 31
+},
+{
+"name": "Rhinopithecus bieti",
+"aliases": [
+"Black snub-nosed monkey",
+"Yunnan snub-nosed monkey"
+],
+"links": 31
+},
+{
+"name": "Tana River mangabey",
+"aliases": [
+"Cercocebus galeritus"
+],
+"links": 31
+},
+{
+"name": "Tonkean macaque",
+"aliases": [
+"Macaca tonkeana"
+],
+"links": 31
+},
+{
+"name": "Ursine colobus",
+"aliases": [
+"Colobus vellerosus",
+"Geoffroy’s black-and-white colobus"
+],
+"links": 31
+},
+{
+"name": "White-headed Marmoset",
+"aliases": [
+"Callithrix geoffroyi",
+"Geoffrey's marmoset",
+"Geoffroy's marmoset",
+"Geoffroy’s marmoset",
+"saguim",
+"sagüi",
+"tufted-ear marmoset"
+],
+"links": 31
+},
+{
+"name": "White-lipped tamarin",
+"aliases": [
+"Saguinus labiatus"
+],
+"links": 31
+},
+{
+"name": "Agile mangabey",
+"aliases": [
+"Cercocebus agilis"
+],
+"links": 30
+},
+{
+"name": "Ateles chamek",
+"aliases": [
+"Black-faced black spider monkey",
+"Black-faced spider monkey",
+"Peruvian spider monkey"
+],
+"links": 30
+},
+{
+"name": "Ateles marginatus",
+"aliases": [
+"white-cheeked spider monkey",
+"White-whiskered spider monkey"
+],
+"links": 30
+},
+{
+"name": "banded surili",
+"aliases": [
+"banded langur",
+"Presbytis femoralis",
+"Raffles' banded langur"
+],
+"links": 30
+},
+{
+"name": "Black-tufted marmoset",
+"aliases": [
+"Callithrix penicillata"
+],
+"links": 30
+},
+{
+"name": "Booted macaque",
+"aliases": [
+"Macaca ochreata"
+],
+"links": 30
+},
+{
+"name": "Brown howler",
+"aliases": [
+"Alouatta guariba",
+"Brown howling monkey"
+],
+"links": 30
+},
+{
+"name": "Chiropotes satanas",
+"aliases": [
+"black bearded saki"
+],
+"links": 30
+},
+{
+"name": "Coquerel's sifaka",
+"aliases": [
+"Coquerel’s sifaka",
+"Propithecus coquereli"
+],
+"links": 30
+},
+{
+"name": "Gabon talapoin",
+"aliases": [
+"Miopithecus ogouensis"
+],
+"links": 30
+},
+{
+"name": "Geoffroy's tamarin",
+"aliases": [
+"Saguinus geoffroyi"
+],
+"links": 30
+},
+{
+"name": "Golden-bellied mangabey",
+"aliases": [
+"Cercocebus chrysogaster"
+],
+"links": 30
+},
+{
+"name": "Gorontalo macaque",
+"aliases": [
+"Macaca nigrescens",
+"Macaca nigriscens"
+],
+"links": 30
+},
+{
+"name": "Hainan black crested gibbon",
+"aliases": [
+"Hainan gibbon",
+"N. hainanus",
+"Nomascus hainanus"
+],
+"links": 30
+},
+{
+"name": "Hamlyn's monkey",
+"aliases": [
+"Cercopithecus hamlyni",
+"Owl-faced guenon"
+],
+"links": 30
+},
+{
+"name": "Hapalemur alaotrensis",
+"aliases": [
+"Alaotran gentle lemur",
+"Lac Alaotra bamboo lemur"
+],
+"links": 30
+},
+{
+"name": "Heck's macaque",
+"aliases": [
+"Heck’s macaque",
+"Macaca hecki"
+],
+"links": 30
+},
+{
+"name": "moustached tamarin",
+"aliases": [
+"Saguinus mystax"
+],
+"links": 30
+},
+{
+"name": "Perrier's sifaka",
+"aliases": [
+"Perrier’s sifaka",
+"Propithecus perrieri"
+],
+"links": 30
+},
+{
+"name": "Silvery lutung",
+"aliases": [
+"Mono de hoja plateada",
+"Trachypithecus cristatus"
+],
+"links": 30
+},
+{
+"name": "White-footed tamarin",
+"aliases": [
+"Saguinus leucopus",
+"Silvery-brown bare-face tamarin"
+],
+"links": 30
+},
+{
+"name": "black crested mangabey",
+"aliases": [
+"Lophocebus aterrimus",
+"northern black-crested mangabey"
+],
+"links": 29
+},
+{
+"name": "Black-mantled tamarin",
+"aliases": [
+"Leontocebus nigricollis"
+],
+"links": 29
+},
+{
+"name": "Brown mouse lemur",
+"aliases": [
+"Microcebus rufus",
+"Rufous mouse lemur"
+],
+"links": 29
+},
+{
+"name": "Buffy-tufted marmoset",
+"aliases": [
+"Buffy-tufted-ear marmoset",
+"Callithrix aurita"
+],
+"links": 29
+},
+{
+"name": "Dryas monkey",
+"aliases": [
+"Chlorocebus dryas",
+"Dryas Guenon"
+],
+"links": 29
+},
+{
+"name": "Eulemur albifrons",
+"aliases": [
+"White-fronted brown lemur",
+"white-fronted brown lemur",
+"white-fronted lemur",
+"white-headed brown lemur",
+"white-headed lemur"
+],
+"links": 29
+},
+{
+"name": "Eulemur cinereiceps",
+"aliases": [
+"Gray-headed lemur",
+"White-collared brown lemur"
+],
+"links": 29
+},
+{
+"name": "Galagoides demidoff",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Greater dwarf lemur",
+"aliases": [
+"Cheirogaleus major",
+"Geoffroy's dwarf lemur"
+],
+"links": 29
+},
+{
+"name": "Hose's langur",
+"aliases": [
+"Hose’s langur",
+"Presbytis hosei"
+],
+"links": 29
+},
+{
+"name": "Lesser spot-nosed monkey",
+"aliases": [
+"Cercopithecus petaurista"
+],
+"links": 29
+},
+{
+"name": "Mico emiliae",
+"aliases": [
+"Emilia's marmoset"
+],
+"links": 29
+},
+{
+"name": "Red-eared guenon",
+"aliases": [
+"Cercopithecus erythrotis"
+],
+"links": 29
+},
+{
+"name": "Red-handed howler",
+"aliases": [
+"Alouatta belzebul",
+"Red-handed howler monkey"
+],
+"links": 29
+},
+{
+"name": "Siberut macaque",
+"aliases": [
+"Macaca siberu"
+],
+"links": 29
+},
+{
+"name": "Sun-tailed monkey",
+"aliases": [
+"Allochrocebus solatus"
+],
+"links": 29
+},
+{
+"name": "Tarsius pumilus",
+"aliases": [
+"lesser spectral tarsier",
+"pygmy tarsier"
+],
+"links": 29
+},
+{
+"name": "White-headed langur",
+"aliases": [
+"Trachypithecus poliocephalus"
+],
+"links": 29
+},
+{
+"name": "White-throated guenon",
+"aliases": [
+"Cercopithecus erythrogaster",
+"Red-bellied guenon",
+"Red-bellied monkey"
+],
+"links": 29
+},
+{
+"name": "Azara's night monkey",
+"aliases": [
+"Aotus azarae"
+],
+"links": 28
+},
+{
+"name": "Bolivian red howler",
+"aliases": [
+"Alouatta sara"
+],
+"links": 28
+},
+{
+"name": "Bornean white-bearded gibbon",
+"aliases": [
+"Hylobates albibarbis"
+],
+"links": 28
+},
+{
+"name": "Central American squirrel monkey",
+"aliases": [
+"Red-backed squirrel monkey",
+"Saimiri oerstedii"
+],
+"links": 28
+},
+{
+"name": "Delacour's langur",
+"aliases": [
+"Delacour’s langur",
+"Trachypithecus delacouri"
+],
+"links": 28
+},
+{
+"name": "Golden-mantled tamarin",
+"aliases": [
+"Leontocebus tripartitus"
+],
+"links": 28
+},
+{
+"name": "Gray-bellied night monkey",
+"aliases": [
+"Aotus lemurinus",
+"Colombian night monkey"
+],
+"links": 28
+},
+{
+"name": "Gray-shanked douc",
+"aliases": [
+"Grey-shanked douc",
+"Pygathrix cinerea"
+],
+"links": 28
+},
+{
+"name": "Humboldt's white-fronted capuchin",
+"aliases": [
+"Cebus albifrons"
+],
+"links": 28
+},
+{
+"name": "Milne-Edwards' sifaka",
+"aliases": [
+"Propithecus edwardsi"
+],
+"links": 28
+},
+{
+"name": "Myanmar snub-nosed monkey",
+"aliases": [
+"Rhinopithecus strykeri"
+],
+"links": 28
+},
+{
+"name": "Pithecia monachus",
+"aliases": [
+"Monk saki"
+],
+"links": 28
+},
+{
+"name": "Plecturocebus moloch",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Preuss's monkey",
+"aliases": [
+"Allochrocebus preussi",
+"Preuss’s guenon"
+],
+"links": 28
+},
+{
+"name": "Sapajus xanthosternos",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Sciurocheirus alleni",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Semnopithecus ajax",
+"aliases": [
+"Kashmir gray langur"
+],
+"links": 28
+},
+{
+"name": "Semnopithecus vetulus",
+"aliases": [
+"Purple-faced Langur",
+"Purple-faced Leaf Monkey"
+],
+"links": 28
+},
+{
+"name": "Sumatran surili",
+"aliases": [
+"Mitred leaf monkey",
+"Presbytis melalophos"
+],
+"links": 28
+},
+{
+"name": "Thomas's langur",
+"aliases": [
+"North Sumatran Leaf Monkey",
+"Northern Sumatran leaf monkey",
+"Presbytis thomasi",
+"Thomas Leaf Monkey",
+"Thomas's Leaf Monkey"
+],
+"links": 28
+},
+{
+"name": "Von der Decken's sifaka",
+"aliases": [
+"Decken’s sifaka",
+"Propithecus deckenii"
+],
+"links": 28
+},
+{
+"name": "Wolf's mona monkey",
+"aliases": [
+"Cercopithecus wolfi",
+"Wolf's guenon",
+"Wolf's monkey"
+],
+"links": 28
+},
+{
+"name": "Amazon black howler",
+"aliases": [
+"Alouatta nigerrima"
+],
+"links": 27
+},
+{
+"name": "Atlantic titi",
+"aliases": [
+"Callicebus personatus",
+"Masked titi"
+],
+"links": 27
+},
+{
+"name": "Black tamarin",
+"aliases": [
+"Saguinus niger"
+],
+"links": 27
+},
+{
+"name": "Black-shanked douc",
+"aliases": [
+"Pygathrix nigripes"
+],
+"links": 27
+},
+{
+"name": "Blond capuchin",
+"aliases": [
+"Sapajus flavius"
+],
+"links": 27
+},
+{
+"name": "Eastern black crested gibbon",
+"aliases": [
+"Cao-vit crested gibbon",
+"N. nasutus",
+"Nomascus nasutus"
+],
+"links": 27
+},
+{
+"name": "Eulemur sanfordi",
+"aliases": [
+"Sanford's brown lemur",
+"Sanford's lemur",
+"Sanford’s brown lemur"
+],
+"links": 27
+},
+{
+"name": "Guyanan red howler",
+"aliases": [
+"Alouatta macconnelli"
+],
+"links": 27
+},
+{
+"name": "Lepilemur septentrionalis",
+"aliases": [
+"Northern sportive lemur"
+],
+"links": 27
+},
+{
+"name": "Loris lydekkerianus",
+"aliases": [
+"Gray slender loris"
+],
+"links": 27
+},
+{
+"name": "Malbrouck",
+"aliases": [
+"Chlorocebus cynosuros",
+"Malbrouck monkey"
+],
+"links": 27
+},
+{
+"name": "Maroon leaf monkey",
+"aliases": [
+"maroon langur",
+"P. rubicunda",
+"Presbytis rubicunda",
+"red langur"
+],
+"links": 27
+},
+{
+"name": "Mico chrysoleucos",
+"aliases": [
+"gold-and-white marmoset"
+],
+"links": 27
+},
+{
+"name": "Nakalipithecus nakayamai",
+"aliases": [
+"Ν. nakayamai"
+],
+"links": 27
+},
+{
+"name": "Nancy Ma's night monkey",
+"aliases": [
+"Aotus nancymaae"
+],
+"links": 27
+},
+{
+"name": "Northern greater galago",
+"aliases": [
+"Garnett's bushbaby",
+"Otolemur garnettii",
+"Small-eared greater galago"
+],
+"links": 27
+},
+{
+"name": "Plecturocebus cupreus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Plecturocebus donacophilus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Semnopithecus schistaceus",
+"aliases": [
+"Himalayan gray langur"
+],
+"links": 27
+},
+{
+"name": "Southern white-cheeked gibbon",
+"aliases": [
+"Nomascus siki"
+],
+"links": 27
+},
+{
+"name": "Tana River red colobus",
+"aliases": [
+"eastern red colobus",
+"Piliocolobus rufomitratus"
+],
+"links": 27
+},
+{
+"name": "Wedge-Capped Capuchin",
+"aliases": [
+"Cebus olivaceus",
+"Weeper capuchin"
+],
+"links": 27
+},
+{
+"name": "Wied's marmoset",
+"aliases": [
+"Callithrix kuhlii",
+"Wied’s black-tufted-ear marmoset"
+],
+"links": 27
+},
+{
+"name": "Cheracebus torquatus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Chiropotes albinasus",
+"aliases": [
+"White-nosed saki"
+],
+"links": 26
+},
+{
+"name": "Crowned sifaka",
+"aliases": [
+"Propithecus coronatus"
+],
+"links": 26
+},
+{
+"name": "Eulemur rufifrons",
+"aliases": [
+"red-fronted brown lemur",
+"red-fronted lemur",
+"southern red-fronted brown lemur"
+],
+"links": 26
+},
+{
+"name": "Hoolock leuconedys",
+"aliases": [
+"Eastern hoolock gibbon",
+"H. leuconedys"
+],
+"links": 26
+},
+{
+"name": "Lowe's mona monkey",
+"aliases": [
+"Cercopithecus lowei"
+],
+"links": 26
+},
+{
+"name": "Microcebus gerpi",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Pennant's colobus",
+"aliases": [
+"Piliocolobus pennantii"
+],
+"links": 26
+},
+{
+"name": "Plecturocebus brunneus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Plecturocebus ornatus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Prince Bernhard's titi monkey",
+"aliases": [
+"Plecturocebus bernhardi"
+],
+"links": 26
+},
+{
+"name": "Sanje mangabey",
+"aliases": [
+"Cercocebus sanjei"
+],
+"links": 26
+},
+{
+"name": "Sapajus libidinosus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Sclater's guenon",
+"aliases": [
+"Cercopithecus sclateri",
+"Nigerian monkey",
+"Sclater's monkey"
+],
+"links": 26
+},
+{
+"name": "Semnopithecus hypoleucos",
+"aliases": [
+"Black-footed gray langur"
+],
+"links": 26
+},
+{
+"name": "Southern needle-clawed bushbaby",
+"aliases": [
+"Euoticus elegantulus"
+],
+"links": 26
+},
+{
+"name": "Udzungwa red colobus",
+"aliases": [
+"Piliocolobus gordonorum"
+],
+"links": 26
+},
+{
+"name": "Western woolly lemur",
+"aliases": [
+"Avahi occidentalis",
+"Lorenz Von Liburnau's Woolly Lemur"
+],
+"links": 26
+},
+{
+"name": "Ardipithecus kadabba",
+"aliases": [
+"A. kadabba"
+],
+"links": 25
+},
+{
+"name": "Bemaraha woolly lemur",
+"aliases": [
+"Avahi cleesei"
+],
+"links": 25
+},
+{
+"name": "Black-headed night monkey",
+"aliases": [
+"Aotus nigriceps"
+],
+"links": 25
+},
+{
+"name": "Coiba Island howler",
+"aliases": [
+"Alouatta coibensis"
+],
+"links": 25
+},
+{
+"name": "Javan surili",
+"aliases": [
+"Grizzled leaf monkey",
+"Presbytis comata"
+],
+"links": 25
+},
+{
+"name": "Kaapori capuchin",
+"aliases": [
+"Cebus kaapori",
+"Ka’apor capuchin"
+],
+"links": 25
+},
+{
+"name": "Lepilemur mustelinus",
+"aliases": [
+"Weasel sportive lemur"
+],
+"links": 25
+},
+{
+"name": "Lepilemur ruficaudatus",
+"aliases": [
+"Lesser weasel lemur",
+"Red-tailed sportive lemur"
+],
+"links": 25
+},
+{
+"name": "Lepilemur sahamalazensis",
+"aliases": [
+"Sahamalaza sportive lemur"
+],
+"links": 25
+},
+{
+"name": "Martins's tamarin",
+"aliases": [
+"Saguinus martinsi"
+],
+"links": 25
+},
+{
+"name": "Masoala fork-marked lemur",
+"aliases": [
+"Phaner furcifer"
+],
+"links": 25
+},
+{
+"name": "Mico humeralifer",
+"aliases": [
+"Black and white tassel-ear marmoset",
+"Santarem marmoset"
+],
+"links": 25
+},
+{
+"name": "Mico leucippe",
+"aliases": [
+"White marmoset"
+],
+"links": 25
+},
+{
+"name": "Peruvian night monkey",
+"aliases": [
+"Andean night monkey",
+"Aotus miconax"
+],
+"links": 25
+},
+{
+"name": "Pithecia albicans",
+"aliases": [
+"Buffy saki",
+"White-footed saki"
+],
+"links": 25
+},
+{
+"name": "Plecturocebus caquetensis",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Plecturocebus olallae",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Preuss's red colobus",
+"aliases": [
+"Piliocolobus preussi"
+],
+"links": 25
+},
+{
+"name": "Sambirano woolly lemur",
+"aliases": [
+"Avahi unicolor",
+"Sambirano avahi",
+"Unicolor woolly lemur"
+],
+"links": 25
+},
+{
+"name": "Sapajus nigritus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Semnopithecus dussumieri",
+"aliases": [
+"Southern plains gray langur"
+],
+"links": 25
+},
+{
+"name": "Semnopithecus priam",
+"aliases": [
+"Tufted gray langur"
+],
+"links": 25
+},
+{
+"name": "Tantalus monkey",
+"aliases": [
+"Chlorocebus tantalus"
+],
+"links": 25
+},
+{
+"name": "Tarsius pelengensis",
+"aliases": [
+"Lakasinding",
+"Peleng tarsier",
+"Siling"
+],
+"links": 25
+},
+{
+"name": "White-fronted surili",
+"aliases": [
+"Presbytis frontata"
+],
+"links": 25
+},
+{
+"name": "Aracá uakari",
+"aliases": [
+"Araca uakari",
+"Ayres black uakari",
+"Cacajao ayresi"
+],
+"links": 24
+},
+{
+"name": "Bale Mountains vervet",
+"aliases": [
+"Chlorocebus djamdjamensis"
+],
+"links": 24
+},
+{
+"name": "Bare-eared squirrel monkey",
+"aliases": [
+"Saimiri ustus"
+],
+"links": 24
+},
+{
+"name": "Betsileo woolly lemur",
+"aliases": [
+"Avahi betsileo"
+],
+"links": 24
+},
+{
+"name": "Black squirrel monkey",
+"aliases": [
+"blackish squirrel monkey",
+"Saimiri vanzolinii"
+],
+"links": 24
+},
+{
+"name": "Black-fronted titi",
+"aliases": [
+"Black-fronted titi monkey",
+"Callicebus nigrifrons"
+],
+"links": 24
+},
+{
+"name": "Cheracebus lucifer",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Coastal black-handed titi",
+"aliases": [
+"Callicebus melanochir"
+],
+"links": 24
+},
+{
+"name": "Coimbra Filho's titi",
+"aliases": [
+"Callicebus coimbrai",
+"Coimbra's titi"
+],
+"links": 24
+},
+{
+"name": "Dent's mona monkey",
+"aliases": [
+"Cercopithecus denti",
+"Old World monkey"
+],
+"links": 24
+},
+{
+"name": "Furry-eared dwarf lemur",
+"aliases": [
+"Cheirogaleus crossleyi",
+"Crossley's Dwarf Lemur"
+],
+"links": 24
+},
+{
+"name": "Golden angwantibo",
+"aliases": [
+"Arctocebus aureus"
+],
+"links": 24
+},
+{
+"name": "Goodman's mouse lemur",
+"aliases": [
+"Goodman’s mouse lemur",
+"Microcebus lehilahytsara"
+],
+"links": 24
+},
+{
+"name": "Hapalemur occidentalis",
+"aliases": [
+"Sambirano lesser bamboo lemur",
+"Western lesser bamboo lemur"
+],
+"links": 24
+},
+{
+"name": "Indochinese lutung",
+"aliases": [
+"Germain's langur",
+"Trachypithecus germaini"
+],
+"links": 24
+},
+{
+"name": "Lepilemur leucopus",
+"aliases": [
+"White-footed sportive lemur"
+],
+"links": 24
+},
+{
+"name": "Lepilemur microdon",
+"aliases": [
+"Small-toothed sportive lemur",
+"small-toothed weasel lemur"
+],
+"links": 24
+},
+{
+"name": "Mico intermedius",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mico mauesi",
+"aliases": [
+"Maués Marmoset"
+],
+"links": 24
+},
+{
+"name": "Mico melanurus",
+"aliases": [
+"Black-tailed marmoset"
+],
+"links": 24
+},
+{
+"name": "Mico nigriceps",
+"aliases": [
+"Black-headed marmoset"
+],
+"links": 24
+},
+{
+"name": "Mico saterei",
+"aliases": [
+"Satéré marmoset"
+],
+"links": 24
+},
+{
+"name": "Mottle-faced tamarin",
+"aliases": [
+"Mottle-face tamarin",
+"Saguinus inustus"
+],
+"links": 24
+},
+{
+"name": "Neblina uakari",
+"aliases": [
+"Black-headed uakari",
+"Cacajao hosomi"
+],
+"links": 24
+},
+{
+"name": "Northern needle-clawed bushbaby",
+"aliases": [
+"Euoticus pallidus"
+],
+"links": 24
+},
+{
+"name": "Plecturocebus oenanthe",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Plecturocebus pallescens",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Plecturocebus stephennashi",
+"aliases": [],
+"links": 24
+},
+{
+"name": "reddish-gray mouse lemur",
+"aliases": [
+"Grey-brown mouse lemur",
+"Microcebus griseorufus"
+],
+"links": 24
+},
+{
+"name": "Rhinopithecus brelichi",
+"aliases": [
+"Gray snub-nosed monkey",
+"Grey snub-nosed monkey",
+"Guizhou snub-nosed monkey"
+],
+"links": 24
+},
+{
+"name": "Sambirano mouse lemur",
+"aliases": [
+"Microcebus sambiranensis"
+],
+"links": 24
+},
+{
+"name": "Semnopithecus hector",
+"aliases": [
+"Gray langur",
+"Tarai gray langur"
+],
+"links": 24
+},
+{
+"name": "Spix's night monkey",
+"aliases": [
+"Aotus vociferans",
+"Night monkey"
+],
+"links": 24
+},
+{
+"name": "Tarsius dentatus",
+"aliases": [
+"Dian’s tarsier"
+],
+"links": 24
+},
+{
+"name": "Tenasserim lutung",
+"aliases": [
+"Trachypithecus barbei"
+],
+"links": 24
+},
+{
+"name": "Barbara Brown's titi",
+"aliases": [
+"Blond titi monkey",
+"Callicebus barbarabrownae"
+],
+"links": 23
+},
+{
+"name": "Bongolava mouse lemur",
+"aliases": [
+"Microcebus bongolavensis"
+],
+"links": 23
+},
+{
+"name": "Cheracebus lugens",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Chiropotes utahickae",
+"aliases": [
+"Chiropotes utahicki",
+"Uta Hick's bearded saki",
+"Uta Hick’s bearded saki"
+],
+"links": 23
+},
+{
+"name": "Coquerel's giant mouse lemur",
+"aliases": [
+"Coquerel’s mouse lemur",
+"Microcebus coquereli",
+"Mirza coquereli"
+],
+"links": 23
+},
+{
+"name": "Danfoss's mouse lemur",
+"aliases": [
+"Danfoss' mouse lemur",
+"Microcebus danfossi"
+],
+"links": 23
+},
+{
+"name": "Galagoides thomasi",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Gray-handed night monkey",
+"aliases": [
+"Aotus griseimembra",
+"Grey-legged night monkey"
+],
+"links": 23
+},
+{
+"name": "Laotian langur",
+"aliases": [
+"Trachypithecus laotum"
+],
+"links": 23
+},
+{
+"name": "Mico acariensis",
+"aliases": [
+"Rio Acari marmoset"
+],
+"links": 23
+},
+{
+"name": "Mico humilis",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Mico marcai",
+"aliases": [
+"Marca's marmoset"
+],
+"links": 23
+},
+{
+"name": "Moore's woolly lemur",
+"aliases": [
+"Avahi mooreorum"
+],
+"links": 23
+},
+{
+"name": "Nilgiri langur",
+"aliases": [
+"Semnopithecus johnii",
+"Trachypithecus johnii"
+],
+"links": 23
+},
+{
+"name": "Northern rufous mouse lemur",
+"aliases": [
+"Microcebus tavaratra"
+],
+"links": 23
+},
+{
+"name": "Panamanian night monkey",
+"aliases": [
+"Aotus zonalis"
+],
+"links": 23
+},
+{
+"name": "Paragalago rondoensis",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Peyrieras' woolly lemur",
+"aliases": [
+"Avahi peyrierasi"
+],
+"links": 23
+},
+{
+"name": "Piliocolobus foai",
+"aliases": [
+"Central African red colobus",
+"Foa's red colobus"
+],
+"links": 23
+},
+{
+"name": "Pithecia aequatorialis",
+"aliases": [
+"Equatorial saki"
+],
+"links": 23
+},
+{
+"name": "Pithecia irrorata",
+"aliases": [
+"Gray monkey saki",
+"Rio Tapajos saki",
+"Rio Tapajós saki"
+],
+"links": 23
+},
+{
+"name": "Plecturocebus caligatus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Plecturocebus cinerascens",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Plecturocebus dubius",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Sarawak surili",
+"aliases": [
+"Presbytis chrysomelas"
+],
+"links": 23
+},
+{
+"name": "Shortridge's langur",
+"aliases": [
+"Trachypithecus shortridgei"
+],
+"links": 23
+},
+{
+"name": "Somali bushbaby",
+"aliases": [
+"Galago gallarum",
+"Somali lesser galago"
+],
+"links": 23
+},
+{
+"name": "Tarsius sangirensis",
+"aliases": [
+"Sangihe tarsier"
+],
+"links": 23
+},
+{
+"name": "Ugandan red colobus",
+"aliases": [
+"Ashy red colobus",
+"Piliocolobus tephrosceles"
+],
+"links": 23
+},
+{
+"name": "Ursine howler",
+"aliases": [
+"Alouatta arctoidea"
+],
+"links": 23
+},
+{
+"name": "White-mantled tamarin",
+"aliases": [
+"Saguinus melanoleucus"
+],
+"links": 23
+},
+{
+"name": "Baptista Lake titi monkey",
+"aliases": [
+"Plecturocebus baptista"
+],
+"links": 22
+},
+{
+"name": "Brumback's night monkey",
+"aliases": [
+"Aotus brumbacki"
+],
+"links": 22
+},
+{
+"name": "Cheracebus regulus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Chiropotes chiropotes",
+"aliases": [
+"Bearded saki",
+"Red-backed bearded saki"
+],
+"links": 22
+},
+{
+"name": "Claire's mouse lemur",
+"aliases": [
+"Microcebus mamiratra"
+],
+"links": 22
+},
+{
+"name": "Dusky bushbaby",
+"aliases": [
+"Galago matschiei"
+],
+"links": 22
+},
+{
+"name": "Fleurete's sportive lemur",
+"aliases": [
+"Lepilemur fleuretae"
+],
+"links": 22
+},
+{
+"name": "Golden-brown mouse lemur",
+"aliases": [
+"Microcebus ravelobensis"
+],
+"links": 22
+},
+{
+"name": "Hatinh langur",
+"aliases": [
+"Ha Tinh langur",
+"Trachypithecus hatinhensis"
+],
+"links": 22
+},
+{
+"name": "Jolly's mouse lemur",
+"aliases": [
+"Microcebus jollyae"
+],
+"links": 22
+},
+{
+"name": "Lepilemur dorsalis",
+"aliases": [
+"Gray-backed sportive lemur",
+"Grey-backed sportive lemur"
+],
+"links": 22
+},
+{
+"name": "Maranhão red-handed howler",
+"aliases": [
+"Alouatta ululata"
+],
+"links": 22
+},
+{
+"name": "Mittermeier's mouse lemur",
+"aliases": [
+"Microcebus mittermeieri"
+],
+"links": 22
+},
+{
+"name": "Plecturocebus discolor",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Plecturocebus hoffmannsi",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Plecturocebus modestus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Rondon's marmoset",
+"aliases": [
+"Mico rondoni"
+],
+"links": 22
+},
+{
+"name": "Sibree's dwarf lemur",
+"aliases": [
+"Cheirogaleus sibreei",
+"Sibree’s dwarf lemur"
+],
+"links": 22
+},
+{
+"name": "Spix's red-handed howler",
+"aliases": [
+"Alouatta discolor"
+],
+"links": 22
+},
+{
+"name": "Sykes' monkey",
+"aliases": [
+"Cercopithecus albogularis"
+],
+"links": 22
+},
+{
+"name": "Wallace's tarsier",
+"aliases": [
+"Tarsius wallacei",
+"Wallace’s tarsier"
+],
+"links": 22
+},
+{
+"name": "Australopithecus deyiremeda",
+"aliases": [
+"A. deyiremeda"
+],
+"links": 21
+},
+{
+"name": "Bornean Slow Loris",
+"aliases": [
+"Nycticebus borneanus"
+],
+"links": 21
+},
+{
+"name": "Crested capuchin",
+"aliases": [
+"Sapajus robustus"
+],
+"links": 21
+},
+{
+"name": "Lepilemur edwardsi",
+"aliases": [
+"Milne Edwards’s sportive lemur",
+"Milne-Edwards' sportive lemur"
+],
+"links": 21
+},
+{
+"name": "Lepilemur jamesorum",
+"aliases": [
+"James' sportive lemur",
+"Lepilemur jamesi"
+],
+"links": 21
+},
+{
+"name": "Lepilemur milanoii",
+"aliases": [
+"Daraina sportive lemur"
+],
+"links": 21
+},
+{
+"name": "Lepilemur randrianasoloi",
+"aliases": [
+"Lepilemur randrianasoli",
+"Randrianasolo's sportive lemur"
+],
+"links": 21
+},
+{
+"name": "Lesser iron-gray dwarf lemur",
+"aliases": [
+"Cheirogaleus minusculus"
+],
+"links": 21
+},
+{
+"name": "MacArthur's mouse lemur",
+"aliases": [
+"Anjiahely mouse lemur",
+"Microcebus macarthurii"
+],
+"links": 21
+},
+{
+"name": "Oreonax flavicauda",
+"aliases": [
+"Peruvian yellow-tailed woolly monkey",
+"Yellow-tailed woolly monkey"
+],
+"links": 21
+},
+{
+"name": "Paragalago zanzibaricus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Siau Island tarsier",
+"aliases": [
+"Tarsius tumpara"
+],
+"links": 21
+},
+{
+"name": "Southern woolly lemur",
+"aliases": [
+"Avahi meridionalis"
+],
+"links": 21
+},
+{
+"name": "White-thighed surili",
+"aliases": [
+"Presbytis siamensis"
+],
+"links": 21
+},
+{
+"name": "Aegyptopithecus zeuxis",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Arnhold's mouse lemur",
+"aliases": [
+"Microcebus arnholdi"
+],
+"links": 20
+},
+{
+"name": "Cheracebus medemi",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Hapalemur meridionalis",
+"aliases": [
+"Southern lesser bamboo lemur"
+],
+"links": 20
+},
+{
+"name": "Hernández-Camacho's night monkey",
+"aliases": [
+"Aotus jorgehernandezi"
+],
+"links": 20
+},
+{
+"name": "Hoolock tianxing",
+"aliases": [
+"Gaoligong hoolock gibbon",
+"Skywalker hoolock gibbon"
+],
+"links": 20
+},
+{
+"name": "Kayan Slow Loris",
+"aliases": [
+"Nycticebus kayan"
+],
+"links": 20
+},
+{
+"name": "Lepilemur aeeclis",
+"aliases": [
+"AEECL's sportive lemur",
+"Antafia sportive lemur"
+],
+"links": 20
+},
+{
+"name": "Lepilemur grewcockorum",
+"aliases": [
+"Grewcock's sportive lemur",
+"Grewcock’s sportive lemur",
+"Lepilemur grewcocki"
+],
+"links": 20
+},
+{
+"name": "Manicore marmoset",
+"aliases": [
+"Callithrix manicorensis"
+],
+"links": 20
+},
+{
+"name": "Natuna Island surili",
+"aliases": [
+"Presbytis natunae"
+],
+"links": 20
+},
+{
+"name": "Nilgiri langur",
+"aliases": [
+"Semnopithecus johnii"
+],
+"links": 20
+},
+{
+"name": "Northern buffed-cheeked gibbon",
+"aliases": [
+"N. annamensis",
+"Nomascus annamensis"
+],
+"links": 20
+},
+{
+"name": "Northern giant mouse lemur",
+"aliases": [
+"Mirza zaza"
+],
+"links": 20
+},
+{
+"name": "Paragalago granti",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Paragalago orinus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Phillipine Slow Loris",
+"aliases": [
+"Nycticebus menagensis"
+],
+"links": 20
+},
+{
+"name": "Ramanantsoavana's woolly lemur",
+"aliases": [
+"Avahi ramanantsoavanai",
+"Avahi ramanantsoavani",
+"Manombo woolly lemur",
+"Ramanantsoavana's avahi",
+"Ramantsoavana’s southern woolly lemur"
+],
+"links": 20
+},
+{
+"name": "Red-capped tamarin",
+"aliases": [
+"Saguinus mystax ssp. pileatus",
+"Saguinus pileatus"
+],
+"links": 20
+},
+{
+"name": "Tarsius lariang",
+"aliases": [
+"Lariang tarsier"
+],
+"links": 20
+},
+{
+"name": "Thollon's red colobus",
+"aliases": [
+"Piliocolobus tholloni"
+],
+"links": 20
+},
+{
+"name": "Vieira's titi",
+"aliases": [
+"Plecturocebus vieirai"
+],
+"links": 20
+},
+{
+"name": "Chiropotes israelita",
+"aliases": [
+"Brown-backed bearded saki"
+],
+"links": 19
+},
+{
+"name": "Homo helmei",
+"aliases": [
+"Florisbad Skull"
+],
+"links": 19
+},
+{
+"name": "Indochinese black langur",
+"aliases": [
+"Trachypithecus ebenus"
+],
+"links": 19
+},
+{
+"name": "Lepilemur ankaranensis",
+"aliases": [
+"Ankarana sportive lemur"
+],
+"links": 19
+},
+{
+"name": "Lepilemur betsileo",
+"aliases": [
+"Betsileo sportive lemur"
+],
+"links": 19
+},
+{
+"name": "Lepilemur hollandorum",
+"aliases": [
+"Holland's sportive lemur"
+],
+"links": 19
+},
+{
+"name": "Lepilemur hubbardorum",
+"aliases": [
+"Hubbard's sportive lemur",
+"Hubbard’s sportive lemur"
+],
+"links": 19
+},
+{
+"name": "Lepilemur tymerlachsoni",
+"aliases": [
+"Hawks' sportive lemur",
+"Lepilemur tymerlachsonorum"
+],
+"links": 19
+},
+{
+"name": "Macaca leucogenys",
+"aliases": [
+"White-cheeked macaque"
+],
+"links": 19
+},
+{
+"name": "Margot Marsh's mouse lemur",
+"aliases": [
+"Microcebus margotmarshae"
+],
+"links": 19
+},
+{
+"name": "Pale fork-marked lemur",
+"aliases": [
+"Phaner pallescens"
+],
+"links": 19
+},
+{
+"name": "Panama capuchin monkey",
+"aliases": [
+"Cebus imitator",
+"Panamanian white-faced capuchin"
+],
+"links": 19
+},
+{
+"name": "Rio Purus titi",
+"aliases": [
+"Callicebus purinus"
+],
+"links": 19
+},
+{
+"name": "Silvery greater galago",
+"aliases": [
+"Otolemur monteiri"
+],
+"links": 19
+},
+{
+"name": "Simmons' mouse lemur",
+"aliases": [
+"Microcebus simmonsi"
+],
+"links": 19
+},
+{
+"name": "Trachypithecus popa",
+"aliases": [
+"Popa langur"
+],
+"links": 19
+},
+{
+"name": "Afropithecus turkanensis",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Amber Mountain fork-marked lemur",
+"aliases": [
+"Phaner electromontis"
+],
+"links": 18
+},
+{
+"name": "Azara's capuchin",
+"aliases": [
+"Hooded Capuchin",
+"Sapajus cay"
+],
+"links": 18
+},
+{
+"name": "Juruá red howler",
+"aliases": [
+"Alouatta juara",
+"Jurua red howler"
+],
+"links": 18
+},
+{
+"name": "Lepilemur ahmansonorum",
+"aliases": [
+"Ahmanson's sportive lemur"
+],
+"links": 18
+},
+{
+"name": "Lepilemur petteri",
+"aliases": [
+"Petter's sportive lemur",
+"Petter’s sportive lemur"
+],
+"links": 18
+},
+{
+"name": "Lepilemur scottorum",
+"aliases": [
+"Scott's sportive lemur"
+],
+"links": 18
+},
+{
+"name": "Lepilemur seali",
+"aliases": [
+"Seal's sportive lemur"
+],
+"links": 18
+},
+{
+"name": "Lepilemur wrighti",
+"aliases": [
+"Wright's sportive lemur"
+],
+"links": 18
+},
+{
+"name": "Niger Delta red colobus",
+"aliases": [
+"Piliocolobus epieni",
+"Procolobus epieni"
+],
+"links": 18
+},
+{
+"name": "Opdenbosch's mangabey",
+"aliases": [
+"Lophocebus opdenboschi"
+],
+"links": 18
+},
+{
+"name": "Pariente's fork-marked lemur",
+"aliases": [
+"Phaner parienti"
+],
+"links": 18
+},
+{
+"name": "Sapajus macrocephalus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Uganda mangabey",
+"aliases": [
+"Lophocebus ugandae"
+],
+"links": 18
+},
+{
+"name": "Callicebus aureipalatii",
+"aliases": [
+"golden palace monkey",
+"GoldenPalace.com monkey",
+"Madidi titi monkey"
+],
+"links": 17
+},
+{
+"name": "Danuvius guggenmosi",
+"aliases": [
+"D. guggenmosi"
+],
+"links": 17
+},
+{
+"name": "Lavasoa dwarf lemur",
+"aliases": [
+"Cheirogaleus lavasoensis"
+],
+"links": 17
+},
+{
+"name": "Lepilemur otto",
+"aliases": [
+"Otto's sportive lemur"
+],
+"links": 17
+},
+{
+"name": "Papio kindae",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Plecturocebus aureipalatii",
+"aliases": [
+"golden palace monkey",
+"GoldenPalace.com monkey",
+"Madidi titi",
+"Madidi titi monkey"
+],
+"links": 17
+},
+{
+"name": "Purus red howler",
+"aliases": [
+"Alouatta puruensis",
+"Purús Red Howler Monkey"
+],
+"links": 17
+},
+{
+"name": "Trachypithecus crepusculus",
+"aliases": [
+"Indochinese Gray Langur"
+],
+"links": 17
+},
+{
+"name": "Anoiapithecus brevirostris",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Cross River bushbaby",
+"aliases": [
+"Galago cameronensis"
+],
+"links": 16
+},
+{
+"name": "False potto",
+"aliases": [
+"Pseudopotto martini"
+],
+"links": 16
+},
+{
+"name": "Leontocebus fuscicollis",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lepilemur mittermeieri",
+"aliases": [
+"Mittermeier's sportive lemur"
+],
+"links": 16
+},
+{
+"name": "Oreopithecus bambolii",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Tarsius fuscus",
+"aliases": [
+"Balao Cengke"
+],
+"links": 16
+},
+{
+"name": "Trachypithecus leucocephalus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bangka Slow Loris",
+"aliases": [
+"Nycticebus bancanus"
+],
+"links": 15
+},
+{
+"name": "Chororapithecus abyssinicus",
+"aliases": [
+"C. abyssinicus"
+],
+"links": 15
+},
+{
+"name": "Giant aye-aye",
+"aliases": [
+"Daubentonia robusta"
+],
+"links": 15
+},
+{
+"name": "Malawi bushbaby",
+"aliases": [
+"Galago nyasae"
+],
+"links": 15
+},
+{
+"name": "Marohita mouse lemur",
+"aliases": [
+"Microcebus marohita"
+],
+"links": 15
+},
+{
+"name": "Penghu 1",
+"aliases": [
+"Homo tsaichangensis"
+],
+"links": 15
+},
+{
+"name": "Pithecia vanzolinii",
+"aliases": [
+"Vanzolini's bald-faced saki"
+],
+"links": 15
+},
+{
+"name": "saddleback tamarin",
+"aliases": [
+"Saguinus fuscicollis"
+],
+"links": 15
+},
+{
+"name": "Saimiri cassiquiarensis",
+"aliases": [
+"Humboldt's squirrel monkey"
+],
+"links": 15
+},
+{
+"name": "Sciurocheirus gabonensis",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Cebuella niveiventris",
+"aliases": [
+"eastern pygmy marmoset"
+],
+"links": 14
+},
+{
+"name": "Cebus cuscinus",
+"aliases": [
+"Shock-headed capuchin"
+],
+"links": 14
+},
+{
+"name": "Cercocebus lunulatus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Homo bodoensis",
+"aliases": [
+"H. bodoensis"
+],
+"links": 14
+},
+{
+"name": "Hylobates funereus",
+"aliases": [
+"East Bornean Gray Gibbon",
+"Eastern grey gibbon",
+"northern grey gibbon"
+],
+"links": 14
+},
+{
+"name": "Johnston's mangabey",
+"aliases": [
+"Lophocebus albigena johnstoni",
+"Lophocebus johnstoni"
+],
+"links": 14
+},
+{
+"name": "Milton's titi",
+"aliases": [
+"Plecturocebus miltoni"
+],
+"links": 14
+},
+{
+"name": "Osman Hill's mangabey",
+"aliases": [
+"Lophocebus osmani"
+],
+"links": 14
+},
+{
+"name": "Paragalago cocos",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Pithecia hirsuta",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Plecturocebus grovesi",
+"aliases": [
+"Alta Floresta titi",
+"Groves's titi monkey"
+],
+"links": 14
+},
+{
+"name": "Plecturocebus urubambensis",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Río Cesar white-fronted capuchin",
+"aliases": [
+"Cebus cesarae"
+],
+"links": 14
+},
+{
+"name": "Tarsius spectrumgurskyae",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Trachypithecus margarita",
+"aliases": [
+"Annamese Langur"
+],
+"links": 14
+},
+{
+"name": "Varied white-fronted capuchin",
+"aliases": [
+"Cebus versicolor"
+],
+"links": 14
+},
+{
+"name": "Abbot's Gray Gibbon",
+"aliases": [
+"H. abbotti",
+"Hylobates abbotti",
+"western grey gibbon"
+],
+"links": 13
+},
+{
+"name": "Ameranthropoides loysi",
+"aliases": [
+"Ateles loysi",
+"De Loys' Ape"
+],
+"links": 13
+},
+{
+"name": "black Sumatran langur",
+"aliases": [
+"Presbytis sumatrana"
+],
+"links": 13
+},
+{
+"name": "Cebus brunneus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cebus malitiosus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cebus yuracus",
+"aliases": [
+"Marañón white-fronted capuchin"
+],
+"links": 13
+},
+{
+"name": "Dali Man",
+"aliases": [
+"Homo daliensis"
+],
+"links": 13
+},
+{
+"name": "East African potto",
+"aliases": [
+"Perodicticus ibeanus"
+],
+"links": 13
+},
+{
+"name": "Jamaican monkey",
+"aliases": [
+"Xenothrix mcgregori"
+],
+"links": 13
+},
+{
+"name": "Miller's langur",
+"aliases": [
+"Presbytis canicrus"
+],
+"links": 13
+},
+{
+"name": "Perodicticus edwardsi",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Piliocolobus oustaleti",
+"aliases": [
+"Oubangui red colobus",
+"Oustalet's red colobus"
+],
+"links": 13
+},
+{
+"name": "Pithecia isabela",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pithecia napensis",
+"aliases": [
+"Napo saki"
+],
+"links": 13
+},
+{
+"name": "Presbytis robinsoni",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Schneider’s marmoset",
+"aliases": [
+"Mico schneideri"
+],
+"links": 13
+},
+{
+"name": "Spix's white-fronted capuchin",
+"aliases": [
+"Cebus unicolor"
+],
+"links": 13
+},
+{
+"name": "Trachypithecus selangorensis",
+"aliases": [
+"Selangor silver langur"
+],
+"links": 13
+},
+{
+"name": "Anosy mouse lemur",
+"aliases": [
+"Microcebus tanosi"
+],
+"links": 12
+},
+{
+"name": "Black-and-white langur",
+"aliases": [
+"Presbytis bicolor"
+],
+"links": 12
+},
+{
+"name": "Bouvier's red colobus",
+"aliases": [
+"Piliocolobus bouvieri"
+],
+"links": 12
+},
+{
+"name": "Cebus leucocephalus",
+"aliases": [
+"Sierra de Perijá white-fronted capuchin"
+],
+"links": 12
+},
+{
+"name": "Cheirogaleus ravus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Darwinius masillae",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Jatna's tarsier",
+"aliases": [
+"Mimito",
+"Tarsius supriatnai"
+],
+"links": 12
+},
+{
+"name": "Munduruku marmoset",
+"aliases": [
+"Mico munduruku"
+],
+"links": 12
+},
+{
+"name": "Pierolapithecus catalaunicus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Piliocolobus parmentieri",
+"aliases": [
+"Lomami red colobus"
+],
+"links": 12
+},
+{
+"name": "Pithecia cazuzai",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Pithecia chrysocephala",
+"aliases": [
+"Golden-faced saki"
+],
+"links": 12
+},
+{
+"name": "Pithecia inusta",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Pithecia mittermeieri",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Saimiri collinsi",
+"aliases": [
+"Collins squirrel monkey",
+"Collins' squirrel monkey"
+],
+"links": 12
+},
+{
+"name": "Trachypithecus mauritius",
+"aliases": [
+"West Javan langur"
+],
+"links": 12
+},
+{
+"name": "Blue Nile patas monkey",
+"aliases": [
+"Erythrocebus poliophaeus"
+],
+"links": 11
+},
+{
+"name": "Chiropotes sagulatus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ecuadorian capuchin",
+"aliases": [
+"Cebus aequatorialis"
+],
+"links": 11
+},
+{
+"name": "Ganzhorn's mouse lemur",
+"aliases": [
+"Microcebus ganzhorni"
+],
+"links": 11
+},
+{
+"name": "Hispaniola monkey",
+"aliases": [
+"Antillothrix bernensis"
+],
+"links": 11
+},
+{
+"name": "Junzi imperialis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Lagothrix flavicauda",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Microcebus manitatra",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Montagne d'Ambre dwarf lemur",
+"aliases": [
+"Cheirogaleus andysabini"
+],
+"links": 11
+},
+{
+"name": "Ouranopithecus macedoniensis",
+"aliases": [
+"O. macedoniensis"
+],
+"links": 11
+},
+{
+"name": "Piliocolobus semlikiensis",
+"aliases": [
+"Semliki red colobus"
+],
+"links": 11
+},
+{
+"name": "Pithecia milleri",
+"aliases": [
+"Miller's saki"
+],
+"links": 11
+},
+{
+"name": "Pithecia rylandsi",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Presbytis mitrata",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Proconsul africanus",
+"aliases": [
+"dryopithecus africanus"
+],
+"links": 11
+},
+{
+"name": "Saimiri macrodon",
+"aliases": [
+"Ecuadorian Squirrel Monkey"
+],
+"links": 11
+},
+{
+"name": "Sciurocheirus makandensis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Siberut langur",
+"aliases": [
+"Presbytis siberu"
+],
+"links": 11
+},
+{
+"name": "Tarsius niemitzi",
+"aliases": [
+"Niemitz's tarsier"
+],
+"links": 11
+},
+{
+"name": "Toppin's titi monkey",
+"aliases": [
+"Plecturocebus toppini"
+],
+"links": 11
+},
+{
+"name": "Angolan dwarf galago",
+"aliases": [
+"Galagoides kumbirensis"
+],
+"links": 10
+},
+{
+"name": "Boraha mouse lemur",
+"aliases": [
+"Microcebus boraha"
+],
+"links": 10
+},
+{
+"name": "Cheirogaleus adipicaudatus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cruz Lima's saddle-back tamarin",
+"aliases": [
+"Leontocebus cruzlimai"
+],
+"links": 10
+},
+{
+"name": "East Sumatran banded langur",
+"aliases": [
+"Presbytis percura"
+],
+"links": 10
+},
+{
+"name": "Gigantopithecus blacki",
+"aliases": [
+"G. blacki"
+],
+"links": 10
+},
+{
+"name": "Groves' dwarf lemur",
+"aliases": [
+"Cheirogaleus grovesi"
+],
+"links": 10
+},
+{
+"name": "Microcebus jonahi",
+"aliases": [
+"Jonah's mouse lemur"
+],
+"links": 10
+},
+{
+"name": "Piliocolobus langi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pithecia pissinattii",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pliobates cataloniae",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pongo hooijeri",
+"aliases": [
+"P. hooijeri"
+],
+"links": 10
+},
+{
+"name": "Saban grizzled langur",
+"aliases": [
+"Presbytis sabana"
+],
+"links": 10
+},
+{
+"name": "Trachypithecus melamera",
+"aliases": [
+"Shan State langur"
+],
+"links": 10
+},
+{
+"name": "Ankarana dwarf lemur",
+"aliases": [
+"Cheirogaleus shethi"
+],
+"links": 9
+},
+{
+"name": "Aotus hershkovitzi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Archaeoindris fontoynonti",
+"aliases": [
+"Archaeoindris fontoynontii"
+],
+"links": 9
+},
+{
+"name": "Cebus castaneus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Cheirogaleus thomasi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Homo njarasensis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Leontocebus fuscus",
+"aliases": [
+"Lesson's saddle-back tamarin"
+],
+"links": 9
+},
+{
+"name": "Leontocebus illigeri",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Leontocebus nigrifrons",
+"aliases": [
+"Geoffroy's saddle-back tamarin"
+],
+"links": 9
+},
+{
+"name": "Paralouatta varonai",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Saguinus ursula",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Theropithecus oswaldi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ankarapithecus meteai",
+"aliases": [
+"A. meteai",
+"S. meteai",
+"Sivapithecus meteai"
+],
+"links": 8
+},
+{
+"name": "Archicebus achilles",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Equatorius africanus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kulinas’ tamarin",
+"aliases": [
+"Saguinus kulina"
+],
+"links": 8
+},
+{
+"name": "Leontocebus weddelli",
+"aliases": [
+"Weddell's saddle-back tamarin"
+],
+"links": 8
+},
+{
+"name": "Macaca selai",
+"aliases": [
+"Sela Macaque"
+],
+"links": 8
+},
+{
+"name": "Nycticebus hilleri",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Piliocolobus lulindicus",
+"aliases": [
+"Ulindi River Red Colobus"
+],
+"links": 8
+},
+{
+"name": "Plecturocebus parecis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Saadanius hijazensis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Acrecebus fraileyi",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Andean saddle-back tamarin",
+"aliases": [
+"Leontocebus leucogenys"
+],
+"links": 7
+},
+{
+"name": "Bunopithecus sericus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cacajao amuna",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Chilecebus carrascoensis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Homo juluensis",
+"aliases": [
+"H. juluensis"
+],
+"links": 7
+},
+{
+"name": "Kamoyapithecus hamiltoni",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Leontocebus lagonotus",
+"aliases": [
+"red-mantled saddle-back tamarin"
+],
+"links": 7
+},
+{
+"name": "Oligopithecus savagei",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ouranopithecus turkae",
+"aliases": [
+"O. turkae"
+],
+"links": 7
+},
+{
+"name": "Piliocolobus temminckii",
+"aliases": [
+"Piliocolobus badius temminckii",
+"Temminck's red colobus"
+],
+"links": 7
+},
+{
+"name": "Saguinus subgrisescens",
+"aliases": [
+"Bearded emperor tamarin"
+],
+"links": 7
+},
+{
+"name": "Tremacebus harringtoni",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Aotus infulatus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Babakotia radofilai",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cacajao novaesi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cacajao rubicundus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cacajao ucayalii",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Carpolestes simpsoni",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cebus trinitatis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cheracebus aquinoi",
+"aliases": [
+"Aquino stump-tailed monkey"
+],
+"links": 6
+},
+{
+"name": "Dolichocebus gaimanensis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ekembo nyanzae",
+"aliases": [
+"Proconsul nyanzae"
+],
+"links": 6
+},
+{
+"name": "Griphopithecus suessi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Indopithecus giganteus",
+"aliases": [
+"I. giganteus"
+],
+"links": 6
+},
+{
+"name": "Morotopithecus bishopi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Notharctus tenebrosus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Nycticebus linglom",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Proconsul major",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Turkanapithecus kalakolensis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Victoriapithecus macinnesi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Afrasia djijidae",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Akashi Man",
+"aliases": [
+"Nipponanthropus akashiensis"
+],
+"links": 5
+},
+{
+"name": "Bugtilemur mathesoni",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Caipora bambuiorum",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dryopithecus fontani",
+"aliases": [
+"D. fontani"
+],
+"links": 5
+},
+{
+"name": "Eosimias sinensis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Erythrocebus baumstarki",
+"aliases": [
+"Southern patas monkey"
+],
+"links": 5
+},
+{
+"name": "Gabon bushbaby",
+"aliases": [
+"Galago gabonensis"
+],
+"links": 5
+},
+{
+"name": "Insulacebus toussaintiana",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kapi ramnagarensis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Khoratpithecus piriyai",
+"aliases": [
+"K. piriyai"
+],
+"links": 5
+},
+{
+"name": "Macaca brunnescens",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Macaca majori",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mesopithecus pentelicus",
+"aliases": [
+"Mesopithecus pentelici"
+],
+"links": 5
+},
+{
+"name": "Nosmips aenigmaticus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nyanzapithecus pickfordi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pongo weidenreichi",
+"aliases": [
+"Chinese orangutan",
+"P. weidenreichi"
+],
+"links": 5
+},
+{
+"name": "Solimoea acrensis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Theropithecus brumpti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Theropithecus darti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Alouatta mauroi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cercopithecus lhoesti",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cercopithecus preussi",
+"aliases": [
+"Preuss’s guenon"
+],
+"links": 4
+},
+{
+"name": "Epipliopithecus vindobonensis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Eulemur albocollaris",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gigantopithecus bilaspurensis",
+"aliases": [
+"G. bilaspurensis"
+],
+"links": 4
+},
+{
+"name": "Griphopithecus alpani",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hapalemur gilberti",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hesperolemur actius",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Homunculus patagonicus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kenyapithecus wickeri",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Khoratpithecus ayeyarwadyensis",
+"aliases": [
+"K. ayeyarwadyensis"
+],
+"links": 4
+},
+{
+"name": "Lufengpithecus lufengensis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Macaca anderssoni",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Macaca libyca",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Microcebus lokobensis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Otavipithecus namibiensis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Palaeopropithecus ingens",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Patasola magdalenae",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Plecturocebus leucometopus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Siamoadapis maemohensis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sivapithecus indicus",
+"aliases": [
+"S. indicus"
+],
+"links": 4
+},
+{
+"name": "Tchadanthropus uxoris",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Teilhardina magnoliana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "'Anchomomys' milleri",
+"aliases": [
+"Anchomomys milleri"
+],
+"links": 3
+},
+{
+"name": "Archaeolemur edwardsi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cacajao calvus ucayalii",
+"aliases": [
+"Cacajao ucayalii"
+],
+"links": 3
+},
+{
+"name": "Callithrix nigriceps",
+"aliases": [
+"Black-headed marmoset"
+],
+"links": 3
+},
+{
+"name": "Cantius frugivorus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cercopithecus solatus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Djebelemur martinezi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gigantopithecus giganteus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Griphopithecus africanus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hispanopithecus crusafonti",
+"aliases": [
+"D. crusafonti",
+"Dryopithecus crusafonti",
+"H. crusafonti"
+],
+"links": 3
+},
+{
+"name": "Hispanopithecus laietanus",
+"aliases": [
+"D. laietanus",
+"Dryopithecus laietanus",
+"H. laietanus"
+],
+"links": 3
+},
+{
+"name": "Khoratpithecus chiangmuanensis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Killikaike blakei",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Libypithecus markgrafi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Loris malabaricus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lufengpithecus keiyuanensis",
+"aliases": [
+"L. keiyuanensis"
+],
+"links": 3
+},
+{
+"name": "Macaca florentina",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Megaladapis edwardsi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nacholapithecus kerioi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nyanzapithecus alesi",
+"aliases": [
+"N. alesi"
+],
+"links": 3
+},
+{
+"name": "Piliocolobus waldroni",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rooneyia viejaensis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Samburupithecus kiptalami",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Telanthropus capensis",
+"aliases": [
+"T. capensis"
+],
+"links": 3
+},
+{
+"name": "Xanthonycticebus intermedius",
+"aliases": [
+"Northern Pygmy Loris"
+],
+"links": 3
+},
+{
+"name": "Anadoluvius turkae",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Aotus boliviensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Aotus dindensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Australopithecus prometheus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Black titi",
+"aliases": [
+"Callicebus lugens"
+],
+"links": 2
+},
+{
+"name": "Branisella boliviana",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cacajao ouakary",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Category:Alouatta iroi",
+"aliases": [
+"Alouatta iroi"
+],
+"links": 2
+},
+{
+"name": "Chiropotes utahicki",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dinopithecus ingens",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dryopithecus wuduensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Europolemur klatti",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ganlea megacanina",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gorgopithecus major",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hadropithecus stenognathus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Homo orientalis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kohatius coppensi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Laventiana annectens",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lepilemur manasamody",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lomorupithecus harrisoni",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lufengpithecus hudienensis",
+"aliases": [
+"Lufengpithexus hudienensis"
+],
+"links": 2
+},
+{
+"name": "Macaca jiangchuanensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mesopithecus monspessulanus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nyanzapithecus harrisoni",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nyanzapithecus vancouveringorum",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Paralouatta marianae",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Paranthropus capensis",
+"aliases": [
+"P. capensis"
+],
+"links": 2
+},
+{
+"name": "Pithecus naias",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pliopithecus canmatensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Proconsul heseloni",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Prohylobates simonsi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Prohylobates tandyi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Purgatorius unio",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pygmy marmoset",
+"aliases": [
+"Cebuella pygmaea",
+"dwarf marmoset"
+],
+"links": 2
+},
+{
+"name": "Rangwapithecus gordoni",
+"aliases": [],
+"links": 2
+},
+{
+"name": "red-bellied titi",
+"aliases": [
+"Callicebus moloch",
+"dusky titi"
+],
+"links": 2
+},
+{
+"name": "Rudapithecus hungaricus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sivapithecus alpani",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sivapithecus parvada",
+"aliases": [
+"S. parvada"
+],
+"links": 2
+},
+{
+"name": "Sivapithecus sivalensis",
+"aliases": [
+"S. sivalensis"
+],
+"links": 2
+},
+{
+"name": "Tarsius bancanus",
+"aliases": [
+"Horsfield's tarsier",
+"Horsfield’s tarsier"
+],
+"links": 2
+},
+{
+"name": "Tarsius dianae",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tarsius sirindhornae",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Teilhardina asiatica",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Udabnopithecus garedziensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ugandapithecus major",
+"aliases": [],
+"links": 2
+}
+]
