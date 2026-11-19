@@ -1,0 +1,1326 @@
+# Movies, TV, games and characters. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== disney-pixar-movies
+title: Disney and Pixar movies
+prompt: Name as many Disney or Pixar animated movies as you can
+--- 1
+The Lion King | lion king
+Frozen
+Toy Story
+Aladdin
+Finding Nemo
+The Little Mermaid | little mermaid
+Beauty and the Beast
+Cinderella
+--- 2
+Snow White | snow white and the seven dwarfs
+Sleeping Beauty
+Moana
+Tangled
+Mulan
+Pocahontas
+Bambi
+Dumbo
+Pinocchio
+Peter Pan
+Alice in Wonderland
+The Jungle Book | jungle book
+101 Dalmatians | one hundred and one dalmatians
+Lady and the Tramp
+The Aristocats | aristocats
+Robin Hood
+Hercules
+Tarzan
+Lilo & Stitch | lilo and stitch
+Zootopia | zootropolis
+Encanto
+Big Hero 6
+Wreck-It Ralph | wreck it ralph
+Frozen II | frozen 2
+Up
+Cars
+Monsters, Inc. | monsters inc
+The Incredibles | incredibles
+Ratatouille
+WALL-E | wall e | walle
+Inside Out
+Coco
+Brave
+Finding Dory
+A Bug's Life | bugs life
+Toy Story 2
+Toy Story 3
+Toy Story 4
+Monsters University
+Luca
+Soul
+Onward
+Elemental
+Turning Red
+Lightyear
+Inside Out 2
+Moana 2
+Wish
+Raya and the Last Dragon | raya
+The Princess and the Frog | princess and the frog
+Fantasia
+The Fox and the Hound | fox and the hound
+The Good Dinosaur | good dinosaur
+Bolt
+--- 3
+The Hunchback of Notre Dame | hunchback of notre dame | hunchback
+The Emperor's New Groove | emperor's new groove
+Atlantis: The Lost Empire | atlantis
+Treasure Planet
+Brother Bear
+Home on the Range
+Chicken Little
+Meet the Robinsons
+Winnie the Pooh | many adventures of winnie the pooh
+The Rescuers | rescuers
+The Rescuers Down Under
+The Great Mouse Detective
+Oliver & Company | oliver and company
+The Black Cauldron
+The Sword in the Stone | sword in the stone
+The Three Caballeros
+Saludos Amigos
+Fun and Fancy Free
+Melody Time
+Make Mine Music
+Fantasia 2000
+Dinosaur
+Strange World
+Cars 2
+Cars 3
+Incredibles 2
+Elio
+Zootopia 2
+Planes
+Tinker Bell
+Bedknobs and Broomsticks
+Mary Poppins
+Enchanted
+Pete's Dragon
+Song of the South
+The Nightmare Before Christmas | nightmare before christmas
+James and the Giant Peach
+A Goofy Movie | goofy movie
+Ducktales the Movie
+Return to Never Land
+Lady and the Tramp II
+The Lion King 2 | simba's pride
+Mulan II
+Tarzan II
+Cinderella II
+
+=== animated-movies
+title: Animated movies (not Disney)
+prompt: Name as many animated movies as you can that aren't from Disney or Pixar
+--- 1
+Shrek
+Despicable Me
+Minions
+Kung Fu Panda
+Madagascar
+Ice Age
+--- 2
+How to Train Your Dragon
+Spirited Away
+My Neighbor Totoro | totoro
+Howl's Moving Castle
+Princess Mononoke
+Spider-Man: Into the Spider-Verse | into the spider-verse | spider-verse
+The Lego Movie | lego movie
+Shrek 2
+Puss in Boots
+The Secret Life of Pets | secret life of pets
+Sing
+The Super Mario Bros. Movie | mario movie | super mario movie
+Trolls
+Rio
+Hotel Transylvania
+Cloudy with a Chance of Meatballs
+Megamind
+Monsters vs. Aliens
+Bee Movie
+Chicken Run
+Wallace & Gromit | wallace and gromit | curse of the were-rabbit
+Shaun the Sheep
+The Iron Giant | iron giant
+Anastasia
+The Prince of Egypt | prince of egypt
+The Road to El Dorado | road to el dorado
+Spirit
+Shark Tale
+Over the Hedge
+Flushed Away
+Bolt
+Happy Feet
+Surf's Up
+Open Season
+Coraline
+Corpse Bride
+Fantastic Mr. Fox | fantastic mr fox
+The Land Before Time | land before time
+An American Tail
+All Dogs Go to Heaven
+The Polar Express | polar express
+Rango
+Turbo
+Boss Baby
+The Croods | croods
+Storks
+Ferdinand
+Klaus
+The Mitchells vs. the Machines
+Nimona
+Wish Dragon
+Kiki's Delivery Service
+Ponyo
+The Wild Robot | wild robot
+Kpop Demon Hunters
+Teenage Mutant Ninja Turtles: Mutant Mayhem | mutant mayhem
+Paddington @5
+Space Jam
+Who Framed Roger Rabbit
+The Simpsons Movie | simpsons movie
+South Park
+SpongeBob SquarePants Movie | spongebob movie
+--- 3
+Akira
+Your Name
+Grave of the Fireflies
+Castle in the Sky
+Nausicaä
+Porco Rosso
+The Wind Rises
+The Boy and the Heron
+Weathering with You
+Suzume
+A Silent Voice
+Perfect Blue
+Paprika
+Ghost in the Shell
+Persepolis
+The Triplets of Belleville
+Song of the Sea
+Wolfwalkers
+The Secret of Kells
+Ernest & Celestine
+My Life as a Zucchini
+Mary and Max
+Fantastic Planet
+Watership Down
+The Last Unicorn
+The Secret of NIMH
+The Brave Little Toaster
+The Swan Princess
+Thumbelina
+Rock-a-Doodle
+FernGully
+Balto
+Quest for Camelot
+The King and I
+Titan A.E.
+Osmosis Jones
+Jimmy Neutron
+Hoodwinked
+Arthur Christmas
+Rise of the Guardians
+Epic
+Abominable
+The Bad Guys
+Leo
+Wolfwalkers
+Isle of Dogs
+Kubo and the Two Strings
+ParaNorman
+The Boxtrolls
+Missing Link
+Anomalisa
+Flow
+Robot Dreams
+Chicken Run: Dawn of the Nugget
+
+=== superheroes
+title: Superheroes
+prompt: Name as many superheroes as you can
+--- 1
+Superman
+Batman
+Spider-Man | spiderman
+Wonder Woman
+Iron Man
+Captain America
+Hulk | the hulk | incredible hulk
+Thor
+--- 2
+Black Panther
+Black Widow
+Hawkeye
+Captain Marvel
+Doctor Strange
+Ant-Man | ant man
+Wasp
+Scarlet Witch
+Vision
+Falcon
+Winter Soldier
+Star-Lord | star lord
+Groot
+Rocket | rocket raccoon
+Gamora
+Drax
+Deadpool
+Wolverine
+Storm
+Cyclops
+Jean Grey | phoenix
+Professor X | charles xavier
+Beast
+Rogue
+Gambit
+Nightcrawler
+Iceman
+Daredevil
+Punisher
+Ghost Rider
+Silver Surfer
+Mister Fantastic | mr fantastic | reed richards
+Invisible Woman
+Human Torch
+The Thing | thing
+Flash | the flash
+Green Lantern
+Aquaman
+Cyborg
+Green Arrow
+Supergirl
+Batgirl
+Robin
+Nightwing
+Catwoman
+Shazam
+Martian Manhunter
+Hawkgirl
+Blue Beetle
+Captain Planet
+Teenage Mutant Ninja Turtles | ninja turtles | tmnt
+Power Rangers
+Incredibles | mr incredible
+Elastigirl
+Frozone
+Miles Morales
+Spider-Gwen | ghost-spider
+Ms. Marvel | kamala khan
+She-Hulk
+Moon Knight
+Shang-Chi
+Blade
+Luke Cage
+Jessica Jones
+Iron Fist
+--- 3
+Black Canary
+Zatanna
+Constantine
+Swamp Thing
+Plastic Man
+Booster Gold
+The Atom
+Firestorm
+Hawkman
+Starfire
+Raven
+Beast Boy
+Static Shock | static
+Vixen
+Red Hood
+Batwoman
+Huntress
+Oracle
+Captain Atom
+Doctor Fate
+Spectre
+Sandman
+Wildcat
+Mister Miracle
+Big Barda
+Orion
+Kid Flash
+Wally West
+Impulse
+Superboy
+Power Girl
+Stargirl
+Spawn
+Hellboy
+The Tick
+Invincible
+Omni-Man
+Homelander
+Starlight
+Hit-Girl
+Kick-Ass
+Rorschach
+Doctor Manhattan
+Nite Owl
+Silk Spectre
+Cable
+Bishop
+Colossus
+Kitty Pryde | shadowcat
+Psylocke
+Jubilee
+Emma Frost
+Havok
+Polaris
+Domino
+Nova
+Adam Warlock
+Quasar
+Sentry
+Squirrel Girl
+Spider-Woman
+War Machine
+Echo
+America Chavez
+Kate Bishop
+Yelena Belova
+Hercules
+Namor
+Black Bolt
+Medusa
+Mantis
+Nebula
+Yondu
+Captain Britain
+Northstar
+Sunfire
+
+=== villains
+title: Villains
+prompt: Name as many villains from movies, books, comics or games as you can
+--- 1
+Joker | the joker
+Darth Vader | vader
+Voldemort | lord voldemort | he who must not be named
+Thanos
+Dracula
+Bowser
+Scar
+--- 2
+Lex Luthor | luthor
+Magneto
+Loki
+Green Goblin
+Doctor Octopus | doc ock
+Venom
+Doctor Doom
+Ultron
+Red Skull
+Catwoman
+Penguin
+Riddler
+Two-Face | two face
+Harley Quinn
+Poison Ivy
+Bane
+Scarecrow
+Mr. Freeze
+Hannibal Lecter | hannibal
+Freddy Krueger | freddy
+Jason Voorhees | jason
+Michael Myers
+Pennywise | it
+Chucky
+Ghostface
+Jigsaw
+Leatherface
+Norman Bates
+Frankenstein | frankenstein's monster
+Emperor Palpatine | palpatine | darth sidious
+Darth Maul
+Kylo Ren
+Boba Fett
+Jabba the Hutt | jabba
+Sauron
+Saruman
+Gollum
+Smaug
+Ursula
+Jafar
+Maleficent
+Cruella de Vil | cruella
+Captain Hook | hook
+Gaston
+Hades
+Evil Queen
+Shere Khan
+Mother Gothel
+Hans
+Dr. Facilier
+Sid
+Syndrome
+Lotso
+Agent Smith
+Terminator
+HAL 9000 | hal
+Darth Vader
+Professor Moriarty | moriarty
+Count Olaf
+Dolores Umbridge | umbridge
+Bellatrix Lestrange | bellatrix
+Draco Malfoy | malfoy
+Lord Farquaad | farquaad
+Plankton
+Dr. Robotnik | eggman | robotnik
+Ganon | ganondorf
+Wario
+King K. Rool
+Dr. Evil
+Gru
+Megamind
+Dr. Doofenshmirtz | doofenshmirtz
+Skeletor
+Megatron
+Shredder
+Cobra Commander
+Mumm-Ra
+Ming the Merciless
+Khan
+Hans Gruber
+The Wicked Witch of the West | wicked witch
+Big Bad Wolf
+Grinch
+Scrooge
+Sheriff of Nottingham
+Captain Ahab
+Mr. Hyde
+Cthulhu
+--- 3
+Anton Chigurh
+Nurse Ratched
+Annie Wilkes
+Patrick Bateman
+Amy Dunne
+Hans Landa
+Bill the Butcher
+Gordon Gekko
+Tony Montana
+Alex DeLarge
+Jack Torrance
+Pinhead
+Candyman
+Samara
+Pazuzu
+Damien
+Norman Osborn
+Kingpin
+Kraven
+Mysterio
+Sandman
+Electro
+Vulture
+Rhino
+Lizard
+Carnage
+Galactus
+Apocalypse
+Mystique
+Sabretooth
+Juggernaut
+Kang
+Hela
+Dormammu
+Mephisto
+Killmonger
+Ronan
+Zemo
+Taskmaster
+Darkseid
+Brainiac
+General Zod
+Doomsday
+Sinestro
+Deathstroke
+Ra's al Ghul
+Black Manta
+Cheetah
+Reverse-Flash
+Gorilla Grodd
+Captain Cold
+Hush
+Mr. Burns
+Sideshow Bob
+Stewie
+Eric Cartman
+Mojo Jojo
+Him
+Aku
+Vilgax
+Zim
+Dr. Drakken
+Shego
+Azula
+Fire Lord Ozai
+Zed
+Sephiroth
+Kefka
+GLaDOS
+Handsome Jack
+Vaas
+Andrew Ryan
+Ridley
+Mother Brain
+Dr. Wily
+M. Bison
+Shao Kahn
+Wesker
+Nemesis
+Pyramid Head
+Arthas
+Illidan
+Diablo
+Lord Shen
+Tai Lung
+Kai
+Rothbart
+Jadis | white witch
+Sauron
+Morgoth
+Ramsay Bolton
+Joffrey
+Cersei
+Night King
+Walter White @4
+Negan
+The Governor
+Homelander
+Thanos
+
+=== cartoon-characters
+title: Cartoon characters
+prompt: Name as many cartoon characters as you can
+--- 1
+Mickey Mouse | mickey
+Bugs Bunny
+SpongeBob | spongebob squarepants
+Homer Simpson | homer
+Scooby-Doo | scooby doo | scooby
+Tom and Jerry | tom | jerry
+Donald Duck
+--- 2
+Minnie Mouse | minnie
+Goofy
+Pluto
+Daisy Duck
+Bart Simpson | bart
+Lisa Simpson | lisa
+Marge Simpson | marge
+Maggie Simpson | maggie
+Patrick Star | patrick
+Squidward
+Mr. Krabs
+Sandy Cheeks | sandy
+Plankton
+Daffy Duck
+Porky Pig
+Tweety | tweety bird
+Sylvester
+Road Runner
+Wile E. Coyote | wile e coyote | coyote
+Elmer Fudd
+Taz | tasmanian devil
+Speedy Gonzales
+Pepé Le Pew
+Yosemite Sam
+Foghorn Leghorn
+Shaggy
+Fred Flintstone | fred
+Barney Rubble | barney
+Wilma
+Yogi Bear
+Boo Boo
+Popeye
+Olive Oyl
+Garfield
+Snoopy
+Charlie Brown
+Woody Woodpecker
+Pink Panther
+Peter Griffin
+Stewie Griffin | stewie
+Brian Griffin
+Cartman | eric cartman
+Kenny
+Stan
+Kyle
+Rick | rick sanchez
+Morty
+Bob Belcher
+Dora | dora the explorer
+Peppa Pig | peppa
+Bluey
+Bingo
+Paw Patrol | chase | marshall
+Pikachu
+Ash Ketchum | ash
+Goku
+Naruto
+Sailor Moon
+Powerpuff Girls | blossom | bubbles | buttercup
+Dexter
+Johnny Bravo
+Courage | courage the cowardly dog
+Ed, Edd n Eddy | ed
+Scrappy-Doo
+Velma
+Daphne
+Fred Jones
+Finn
+Jake the Dog | jake
+Steven Universe
+Gumball
+Phineas
+Ferb
+Perry the Platypus | perry
+Kim Possible
+Danny Phantom
+Jimmy Neutron
+Timmy Turner
+Arthur
+Caillou
+Winnie the Pooh | pooh
+Tigger
+Eeyore
+Piglet
+Shrek
+Donkey
+Simba
+Woody
+Buzz Lightyear | buzz
+Nemo
+Dory
+Elsa
+Olaf
+Stitch
+Aang
+Zuko
+Sonic
+Mario
+--- 3
+Betty Boop
+Felix the Cat
+Casper
+Richie Rich
+Underdog
+Mighty Mouse
+Huckleberry Hound
+Quick Draw McGraw
+Top Cat
+Snagglepuss
+Magilla Gorilla
+Hong Kong Phooey
+Jonny Quest
+George Jetson
+Astro
+Dick Dastardly
+Muttley
+Penelope Pitstop
+Rocky and Bullwinkle | rocky | bullwinkle
+Boris and Natasha
+Dudley Do-Right
+Mr. Magoo
+Heathcliff
+Inspector Gadget
+Penny
+Dr. Claw
+He-Man
+She-Ra
+Skeletor
+Optimus Prime
+Leonardo
+Raphael
+Donatello
+Michelangelo
+Splinter
+April O'Neil
+Darkwing Duck
+Scrooge McDuck
+Huey, Dewey and Louie | huey | dewey | louie
+Launchpad
+Chip and Dale | chip | dale
+Baloo
+Kit Cloudkicker
+Doug Funnie
+Patti Mayonnaise
+Tommy Pickles
+Chuckie
+Angelica
+Reptar
+Hey Arnold | arnold
+Helga
+Rocko
+Heffer
+CatDog
+Ren
+Stimpy
+Beavis
+Butt-Head
+Daria
+Hank Hill
+Bobby Hill
+Archer
+BoJack Horseman
+Princess Carolyn
+Tina Belcher
+Louise Belcher
+Gene Belcher
+Bender
+Fry
+Leela
+Zoidberg
+Professor Farnsworth
+Mr. Burns
+Ned Flanders
+Krusty the Clown
+Milhouse
+Ralph Wiggum
+Apu
+Moe
+Barney Gumble
+Lord Shen
+Marceline
+Princess Bubblegum
+Ice King
+Mordecai
+Rigby
+Grim
+Billy
+Mandy
+Numbuh One
+Samurai Jack
+Aku
+Ben 10 | ben tennyson
+Kim Possible
+Ron Stoppable
+Rufus
+Lilo
+Korra
+Toph
+Katara
+Sokka
+Iroh
+Appa
+Momo
+
+=== video-games
+title: Video games
+prompt: Name as many video games as you can
+--- 1
+Minecraft
+Fortnite
+Super Mario Bros. | super mario | mario
+Tetris
+Pac-Man | pacman
+Call of Duty
+Grand Theft Auto | gta
+Pokémon | pokemon
+--- 2
+The Legend of Zelda | zelda | legend of zelda
+Mario Kart
+Roblox
+FIFA | ea sports fc
+Madden
+NBA 2K
+Halo
+The Sims | sims
+Animal Crossing
+Among Us
+Candy Crush | candy crush saga
+Angry Birds
+Sonic the Hedgehog | sonic
+Street Fighter
+Mortal Kombat
+Super Smash Bros. | smash bros | smash
+Donkey Kong
+Space Invaders
+Pong
+Asteroids
+Galaga
+Frogger
+Doom
+Wolfenstein
+Half-Life
+Portal
+Counter-Strike | csgo | cs2
+Overwatch
+League of Legends | lol
+Dota | dota 2
+World of Warcraft | warcraft | wow
+StarCraft
+Diablo
+Skyrim | elder scrolls
+Fallout
+The Witcher | witcher
+Red Dead Redemption | red dead
+Assassin's Creed
+Uncharted
+The Last of Us | last of us
+God of War
+Spider-Man
+Batman: Arkham | arkham
+Resident Evil
+Silent Hill
+Metal Gear Solid | metal gear
+Final Fantasy
+Kingdom Hearts
+Dark Souls
+Elden Ring
+Bloodborne
+Sekiro
+Destiny
+Apex Legends
+Valorant
+PUBG
+Rocket League
+Fall Guys
+Stardew Valley
+Terraria
+Hollow Knight
+Celeste
+Cuphead
+Undertale
+Hades
+Baldur's Gate
+Cyberpunk 2077 | cyberpunk
+BioShock
+Mass Effect
+Tomb Raider
+Crash Bandicoot
+Spyro
+Rayman
+Banjo-Kazooie
+Kirby
+Metroid
+Star Fox
+Splatoon
+Pikmin
+Wii Sports
+Guitar Hero
+Rock Band
+Just Dance
+Tekken
+Need for Speed
+Gran Turismo
+Forza
+Battlefield
+Gears of War
+Sims
+SimCity
+Civilization
+Age of Empires
+Rainbow Six
+Ghost of Tsushima
+Horizon Zero Dawn | horizon
+Genshin Impact
+Clash of Clans
+Clash Royale
+Subway Surfers
+Temple Run
+Fruit Ninja
+Flappy Bird
+Plants vs. Zombies | plants vs zombies
+Five Nights at Freddy's | fnaf
+Untitled Goose Game
+It Takes Two
+Lethal Company
+Palworld
+Helldivers
+--- 3
+Pitfall
+Centipede
+Dig Dug
+Q*bert
+Defender
+Joust
+Missile Command
+Contra
+Castlevania
+Mega Man
+Ninja Gaiden
+Double Dragon
+Punch-Out!!
+Duck Hunt
+Excitebike
+EarthBound
+Chrono Trigger
+Secret of Mana
+Golden Sun
+Fire Emblem
+Xenoblade
+Okami
+Shadow of the Colossus
+Ico
+Journey
+Limbo
+Inside
+Braid
+Fez
+Bastion
+Transistor
+Ori and the Blind Forest | ori
+Dead Cells
+Slay the Spire
+Into the Breach
+FTL
+Factorio
+RimWorld
+Dwarf Fortress
+Disco Elysium
+Outer Wilds
+Return of the Obra Dinn
+Papers, Please
+Spelunky
+The Binding of Isaac
+Super Meat Boy
+Shovel Knight
+Katamari Damacy
+Psychonauts
+Grim Fandango
+Monkey Island
+Myst
+Riven
+Deus Ex
+System Shock
+Thief
+Dishonored
+Prey
+Quake
+Unreal Tournament
+Team Fortress 2
+Left 4 Dead
+Borderlands
+Far Cry
+Watch Dogs
+Saints Row
+Mafia
+Max Payne
+Alan Wake
+Control
+Death Stranding
+Persona
+Yakuza | like a dragon
+Nier: Automata | nier
+Devil May Cry
+Bayonetta
+Monster Hunter
+Dragon Quest
+Pokémon Go
+Paper Mario
+Luigi's Mansion
+Animal Crossing: New Horizons
+Tears of the Kingdom
+Breath of the Wild
+Ocarina of Time
+Majora's Mask
+GoldenEye 007 | goldeneye
+Perfect Dark
+Conker's Bad Fur Day
+Jak and Daxter
+Ratchet & Clank
+Sly Cooper
+Twisted Metal
+Tony Hawk's Pro Skater | tony hawk
+SSX
+Burnout
+Crazy Taxi
+Jet Set Radio
+Sega Rally
+Daytona USA
+OutRun
+After Burner
+Space Harrier
+Virtua Fighter
+Soulcalibur
+Guilty Gear
+King of Fighters
+Darkstalkers
+Marvel vs. Capcom
+
+=== game-consoles
+title: Video game consoles
+prompt: Name as many video game consoles and handhelds as you can
+--- 1
+PlayStation | ps1 | playstation 1
+Xbox
+Nintendo Switch | switch
+Wii | nintendo wii
+Game Boy | gameboy
+PlayStation 2 | ps2
+--- 2
+PlayStation 3 | ps3
+PlayStation 4 | ps4
+PlayStation 5 | ps5
+PlayStation Portable | psp
+PlayStation Vita | ps vita | vita
+Xbox 360
+Xbox One
+Xbox Series X | series x
+Xbox Series S | series s
+Nintendo Entertainment System | nes | nintendo
+Super Nintendo | snes | super nes
+Nintendo 64 | n64
+GameCube | gamecube | nintendo gamecube
+Wii U
+Nintendo DS | ds
+Nintendo 3DS | 3ds
+Game Boy Color | gameboy color
+Game Boy Advance | gba
+Switch 2 | nintendo switch 2
+Sega Genesis | genesis | mega drive
+Sega Dreamcast | dreamcast
+Sega Saturn | saturn
+Sega Master System | master system
+Game Gear
+Atari 2600 | atari
+Steam Deck
+Virtual Boy
+Switch Lite
+Switch OLED
+Oculus Quest | meta quest | quest
+Apple Vision Pro
+--- 3
+Atari 5200
+Atari 7800
+Atari Jaguar | jaguar
+Atari Lynx | lynx
+ColecoVision
+Intellivision
+Magnavox Odyssey | odyssey
+Vectrex
+Neo Geo
+TurboGrafx-16 | turbografx | pc engine
+3DO
+Philips CD-i | cd-i
+Sega CD
+Sega 32X | 32x
+Sega Pipin
+Nokia N-Gage | n-gage
+Game.com
+WonderSwan
+Neo Geo Pocket
+Ouya
+Amazon Luna
+Google Stadia | stadia
+Nvidia Shield
+Commodore 64
+Amiga
+ZX Spectrum
+Amstrad CPC
+MSX
+Pippin
+PlayStation Classic
+SNES Classic
+NES Classic
+Evercade
+Analogue Pocket
+Playdate
+ROG Ally
+Legion Go
+Game & Watch
+Tamagotchi @5
+Xbox One X
+Xbox One S
+PS4 Pro
+PS5 Pro
+DSi
+New 3DS
+2DS
+
+=== sitcoms
+title: Sitcoms
+prompt: Name as many TV sitcoms as you can
+--- 1
+Friends
+Seinfeld
+The Office | office
+The Simpsons | simpsons
+The Big Bang Theory | big bang theory
+How I Met Your Mother | himym
+Modern Family
+--- 2
+Parks and Recreation | parks and rec
+Brooklyn Nine-Nine | brooklyn 99
+Family Guy
+South Park
+Two and a Half Men
+Frasier
+Cheers
+Fresh Prince of Bel-Air | fresh prince
+That '70s Show | that 70s show
+Scrubs
+Arrested Development
+It's Always Sunny in Philadelphia | always sunny
+30 Rock
+Community
+New Girl
+The Good Place | good place
+Schitt's Creek
+Ted Lasso
+Abbott Elementary
+Curb Your Enthusiasm | curb
+Everybody Loves Raymond
+Malcolm in the Middle
+Full House
+Fuller House
+Saved by the Bell
+Home Improvement
+Married... with Children | married with children
+Roseanne
+The Golden Girls | golden girls
+I Love Lucy
+M*A*S*H | mash
+Happy Days
+Taxi
+The Jeffersons
+All in the Family
+Three's Company
+The Brady Bunch | brady bunch
+Gilligan's Island
+Bewitched
+I Dream of Jeannie
+The Addams Family
+The Munsters
+The Honeymooners
+Will & Grace | will and grace
+Sex and the City
+The Nanny
+Mr. Bean
+Fawlty Towers
+Only Fools and Horses
+Blackadder
+The Vicar of Dibley
+Absolutely Fabulous | ab fab
+Gavin & Stacey | gavin and stacey
+The Inbetweeners | inbetweeners
+Peep Show
+The IT Crowd | it crowd
+Young Sheldon
+Mom
+The Middle
+Black-ish
+Superstore
+What We Do in the Shadows
+Veep
+Silicon Valley
+Bob's Burgers
+King of the Hill
+Futurama
+Rick and Morty
+Brooklyn 99
+Ghosts
+Wednesday @5
+--- 3
+Spaced
+Father Ted
+Black Books
+Red Dwarf
+The Young Ones
+Porridge
+Dad's Army
+Are You Being Served?
+Keeping Up Appearances
+Last of the Summer Wine
+One Foot in the Grave
+Men Behaving Badly
+Phoenix Nights
+Alan Partridge
+The Thick of It
+Extras
+Toast of London
+Detectorists
+Derry Girls
+Fleabag
+Catastrophe
+Motherland
+This Country
+Stath Lets Flats
+Kim's Convenience
+Letterkenny
+Corner Gas
+Trailer Park Boys
+Workin' Moms
+Still Game
+Rab C. Nesbitt
+Mrs. Brown's Boys
+Benidorm
+Plebs
+Ugly Betty
+Jane the Virgin
+Crazy Ex-Girlfriend
+Unbreakable Kimmy Schmidt
+Insecure
+Atlanta
+Master of None
+Broad City
+Girls
+Louie
+Barry
+The Bear
+Reservation Dogs
+Shrinking
+Only Murders in the Building
+Hacks
+The Marvelous Mrs. Maisel
+Dead to Me
+Grace and Frankie
+Cobra Kai
+Community
+Happy Endings
+Don't Trust the B
+Cougar Town
+Suburgatory
+The Goldbergs
+Fresh Off the Boat
+Speechless
+Last Man Standing
+Mike & Molly
+2 Broke Girls
+Rules of Engagement
+Better Off Ted
+Wings
+NewsRadio
+Night Court
+Murphy Brown
+Coach
+Mad About You
+Becker
+Spin City
+Just Shoot Me
+King of Queens
+Yes, Dear
+According to Jim
+Reba
+Sister, Sister
+Family Matters
+Step by Step
+Boy Meets World
+Martin
+Living Single
+A Different World
+The Cosby Show
+Diff'rent Strokes
+Good Times
+Sanford and Son
+Barney Miller
+WKRP in Cincinnati
+Mork & Mindy
+Laverne & Shirley
+Get Smart
+Green Acres
+The Andy Griffith Show
+The Dick Van Dyke Show
+Leave It to Beaver
