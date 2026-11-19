@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 """Generate narrow categories from Wikidata, for a calendar that never repeats.
 
-Each family below is one Wikidata query that returns items together with a
-grouping (country, artist, director, award...). Every group with enough
-answers becomes its own category: "Cheeses from France", "Songs by ABBA",
-"Films directed by Akira Kurosawa", "Cities in Brazil". Results are saved to
-data/generated/<family>.json and committed, so builds stay offline.
+Builds "famous list" categories from Wikidata: award winners (Best Actress
+Oscar winners, Ballon d'Or), office holders (Roman emperors, UK prime
+ministers), league teams (NBA, NFL), studio films (Pixar, Studio Ghibli) and
+one-off lists (Pokemon, volcanoes, fast food chains). Each needs enough
+answers, including enough well-known ones, to be playable. Results are saved
+to data/generated/<family>.json and committed, so builds stay offline.
+
+Narrower splits (songs by one artist, cheeses from one country, cities in one
+country) were tried and dropped: too specific for a daily game.
 
 Run with:  npm run generate:categories              (all families)
            npm run generate:categories -- songs      (one family)
@@ -38,39 +42,6 @@ def tree(q: str) -> str:
 def values(*qids: str) -> str:
     return "VALUES ?group { " + " ".join(f"wd:{q}" for q in qids) + " }"
 
-
-# Grouped families: (pattern binding ?item and ?group, min item sitelinks,
-# title template, prompt template). {g} is the group's English name.
-GROUPED: dict[str, tuple[str, int, str, str]] = {
-    "cheeses-from": (tree("Q10943") + " ?item wdt:P495 ?group .", 1, "Cheeses from {g}", "Name cheeses from {g}"),
-    "dishes": (tree("Q746549") + " ?item wdt:P2012 ?group .", 2, "{g} dishes", "Name {g} dishes"),
-    "dog-breeds-from": ("?item wdt:P31 wd:Q39367 ; wdt:P495 ?group .", 1, "Dog breeds from {g}", "Name dog breeds from {g}"),
-    "horse-breeds-from": ("?item wdt:P31 wd:Q1160573 ; wdt:P495 ?group .", 1, "Horse breeds from {g}", "Name horse breeds from {g}"),
-    "breads-from": (tree("Q7802") + " ?item wdt:P495 ?group .", 1, "Breads from {g}", "Name breads from {g}"),
-    "songs-by": (
-        "{ ?item wdt:P31 wd:Q7366 } UNION { ?item wdt:P31 wd:Q134556 } ?item wdt:P175 ?group .",
-        3,
-        "Songs by {g}",
-        "Name songs by {g}",
-    ),
-    "albums-by": (
-        "?item wdt:P31 ?t . VALUES ?t { wd:Q482994 wd:Q208569 } ?item wdt:P175 ?group .",
-        4,
-        "Albums by {g}",
-        "Name albums by {g}",
-    ),
-    "films-by": ("?item wdt:P31 wd:Q11424 ; wdt:P57 ?group .", 6, "Films directed by {g}", "Name films directed by {g}"),
-    "books-by": (
-        "?item wdt:P31 ?t . VALUES ?t { wd:Q7725634 wd:Q8261 wd:Q47461344 wd:Q571 } ?item wdt:P50 ?group .",
-        4,
-        "Books by {g}",
-        "Name books by {g}",
-    ),
-    "cities-in": ("?item wdt:P31 wd:Q515 ; wdt:P17 ?group .", 12, "Cities in {g}", "Name cities in {g}"),
-    "islands-of": ("?item wdt:P31 wd:Q23442 ; wdt:P17 ?group .", 8, "Islands of {g}", "Name islands of {g}"),
-    "rivers-in": ("?item wdt:P31 wd:Q4022 ; wdt:P17 ?group .", 15, "Rivers in {g}", "Name rivers in {g}"),
-    "car-models": ("?item wdt:P31 wd:Q3231690 ; wdt:P176 ?group .", 4, "{g} car models", "Name car models made by {g}"),
-}
 
 # Named groups: a fixed list of groups with hand-written titles.
 NAMED: dict[str, tuple[str, int, dict[str, tuple[str, str]]]] = {
@@ -134,36 +105,6 @@ NAMED: dict[str, tuple[str, int, dict[str, tuple[str, str]]]] = {
             "Q182950": ("Studio Ghibli films", "Name Studio Ghibli films"),
         },
     ),
-}
-
-# Animal groups: scientific name -> (title, prompt). Species with English
-# common names only, so answers are things people could actually type.
-ANIMALS: dict[str, tuple[str, str]] = {
-    "Strigiformes": ("Owls", "Name kinds of owl"),
-    "Psittaciformes": ("Parrots", "Name kinds of parrot"),
-    "Spheniscidae": ("Penguins", "Name kinds of penguin"),
-    "Trochilidae": ("Hummingbirds", "Name kinds of hummingbird"),
-    "Anatidae": ("Ducks, geese and swans", "Name kinds of duck, goose or swan"),
-    "Felidae": ("Wild cats", "Name species of wild cat"),
-    "Ursidae": ("Bears", "Name kinds of bear"),
-    "Cervidae": ("Deer", "Name kinds of deer"),
-    "Testudines": ("Turtles and tortoises", "Name kinds of turtle or tortoise"),
-    "Crocodilia": ("Crocodiles and alligators", "Name crocodiles, alligators and their relatives"),
-    "Picidae": ("Woodpeckers", "Name kinds of woodpecker"),
-    "Canidae": ("Wolves, foxes and wild dogs", "Name wild members of the dog family"),
-    "Mustelidae": ("Weasels, otters and badgers", "Name members of the weasel family"),
-    "Bovidae": ("Antelopes, goats and wild cattle", "Name antelopes, goats, sheep and wild cattle"),
-    "Columbidae": ("Pigeons and doves", "Name kinds of pigeon or dove"),
-    "Corvidae": ("Crows, jays and magpies", "Name members of the crow family"),
-    "Falconidae": ("Falcons", "Name kinds of falcon"),
-    "Chiroptera": ("Bats", "Name kinds of bat"),
-    "Macropodidae": ("Kangaroos and wallabies", "Name kangaroos, wallabies and their relatives"),
-    "Octopoda": ("Octopuses", "Name kinds of octopus"),
-    "Anura": ("Frogs and toads", "Name kinds of frog or toad"),
-    "Salmonidae": ("Salmon and trout", "Name salmon, trout and their relatives"),
-    "Papilionoidea": ("Butterflies", "Name kinds of butterfly"),
-    "Rodentia": ("Rodents", "Name kinds of rodent"),
-    "Accipitridae": ("Hawks, eagles and kites", "Name hawks, eagles, kites and vultures"),
 }
 
 # One-off lists: id -> (pattern, min sitelinks, title, prompt).
@@ -257,19 +198,7 @@ def to_category(cid: str, title: str, prompt: str, items: dict[str, dict]) -> di
 
 def generate(family: str) -> list[dict]:
     cats: list[dict] = []
-    if family in GROUPED:
-        pattern, minimum, title, prompt = GROUPED[family]
-        groups = collect(run(GROUP_QUERY.format(pattern=pattern, minimum=minimum)))
-        for gq, g in groups.items():
-            name = g["label"]
-            title_text = title.format(g=name)
-            if title_text.startswith("the "):
-                title_text = title_text[0].upper() + title_text[1:]
-            cat = to_category(f"{family}-{slug(name)}", title_text, prompt.format(g=name), g["items"])
-            if cat:
-                cat["group"] = gq
-                cats.append(cat)
-    elif family in NAMED:
+    if family in NAMED:
         pattern, minimum, titles = NAMED[family]
         query = GROUP_QUERY.format(pattern=values(*titles) + " " + pattern, minimum=minimum)
         groups = collect(run(query))
@@ -278,22 +207,6 @@ def generate(family: str) -> list[dict]:
                 cat = to_category(slug(title), title, prompt, groups[gq]["items"])
                 if cat:
                     cats.append(cat)
-    elif family == "animals":
-        for sci, (title, prompt) in ANIMALS.items():
-            pattern = (
-                f'?group wdt:P225 "{sci}" . ?item wdt:P171+ ?group ; wdt:P105 wd:Q7432 .'
-            )
-            try:
-                groups = collect(run(GROUP_QUERY.format(pattern=pattern, minimum=2)), require_common_name=True)
-            except Exception as err:  # noqa: BLE001
-                print(f"    {title}: FAILED ({err})", flush=True)
-                continue
-            items = {k: v for g in groups.values() for k, v in g["items"].items()}
-            cat = to_category(slug(title), title, prompt, items)
-            print(f"    {title}: {len(items)} species{'' if cat else ' (too few, skipped)'}", flush=True)
-            if cat:
-                cats.append(cat)
-            time.sleep(1)
     elif family == "lists":
         for cid, (pattern, minimum, title, prompt) in LISTS.items():
             query = GROUP_QUERY.format(pattern=pattern + " BIND(wd:Q35120 AS ?group)", minimum=minimum)
@@ -311,7 +224,7 @@ def generate(family: str) -> list[dict]:
     return sorted(cats, key=lambda c: -sum(a["links"] for a in c["answers"][:20]))
 
 
-FAMILIES = [*GROUPED, *NAMED, "animals", "lists"]
+FAMILIES = [*NAMED, "lists"]
 
 
 def main() -> None:
