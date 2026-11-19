@@ -24,7 +24,7 @@ const FAQ = [
   },
   {
     q: "Is everyone playing the same rocks?",
-    a: "Yes. Everyone gets the same three categories each day. A new survey opens at midnight in your time zone.",
+    a: "Yes. Everyone gets the same five categories each day. A new survey opens at midnight in your time zone.",
   },
   {
     q: "Where are my stats saved?",
@@ -52,7 +52,7 @@ export default function HowToPlay() {
           knowledge both pay off.
         </li>
         <li>
-          <strong>Share your depth.</strong> Your three rocks add up to one total. Compare with friends without spoiling
+          <strong>Share your depth.</strong> Your five rocks add up to one total. Compare with friends without spoiling
           answers.
         </li>
       </ol>

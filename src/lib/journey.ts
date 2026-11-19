@@ -1,8 +1,8 @@
-/** Where each of the day's asteroids sits. Round 1 is closest to the Sun. */
+/** Where each of the day's asteroids sits, heading outward from the Sun. */
 export interface Stop {
   region: string;
   detail: string;
-  planet: "mars" | "jupiter" | "neptune";
+  planet: "mars" | "jupiter" | "saturn" | "neptune" | "pluto";
   /** Asteroid surface colors: light, mid, dark. */
   rock: [string, string, string];
 }
@@ -21,10 +21,22 @@ export const STOPS: Stop[] = [
     rock: ["#8a8290", "#4d4654", "#221e27"],
   },
   {
+    region: "Centaurs",
+    detail: "Between Saturn and Uranus · 14 AU from the Sun",
+    planet: "saturn",
+    rock: ["#b07a62", "#64403a", "#2a1a18"],
+  },
+  {
     region: "Kuiper belt",
     detail: "Out past Neptune · 42 AU from the Sun",
     planet: "neptune",
     rock: ["#b9d3e6", "#6d8aa3", "#2a3a4b"],
+  },
+  {
+    region: "Scattered disc",
+    detail: "Far beyond Pluto · 90 AU from the Sun",
+    planet: "pluto",
+    rock: ["#d8d0ea", "#8a80a8", "#332c48"],
   },
 ];
 

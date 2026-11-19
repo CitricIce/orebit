@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import { buildIndex, findAnswer, normalize } from "./match";
 import { categoriesFor } from "./schedule";
 import { addDays, LAUNCH_DATE } from "./dates";
+import { ROUNDS_PER_DAY } from "./tiers";
 
 const answers = [
   { name: "Labrador Retriever", aliases: ["labrador", "lab"] },
@@ -61,9 +62,10 @@ test("schedule is stable and never repeats a category within a day", () => {
   for (let i = 0; i < 400; i++) {
     const d = addDays(LAUNCH_DATE, i);
     const a = categoriesFor(d, ids);
-    assert.equal(a.length, 3);
-    assert.equal(new Set(a).size, 3);
+    assert.equal(a.length, ROUNDS_PER_DAY);
+    assert.equal(new Set(a).size, ROUNDS_PER_DAY);
     assert.deepEqual(a, categoriesFor(d, [...ids].reverse()));
   }
-  assert.deepEqual(categoriesFor("2027-01-01", ids, { "2027-01-01": ["cat-1", "cat-2", "cat-3"] }), ["cat-1", "cat-2", "cat-3"]);
+  const picked = ["cat-1", "cat-2", "cat-3", "cat-4", "cat-5"];
+  assert.deepEqual(categoriesFor("2027-01-01", ids, { "2027-01-01": picked }), picked);
 });

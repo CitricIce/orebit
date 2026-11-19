@@ -359,7 +359,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
             <p className={s.briefSub}>
               <span className={s.kicker}>Survey #{day.number}</span>
               <span>
-                Three asteroids. <span className={s.accent}>Thirty seconds each.</span>
+                Five asteroids. <span className={s.accent}>Thirty seconds each.</span>
               </span>
             </p>
             {!first && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}

@@ -251,6 +251,13 @@
   bottom: calc(26vh - 28px);
 }
 
+/* Coasting behind the mission report: the rocket fades so it doesn't
+   compete with the results. */
+.world[data-world="space"] .rocket {
+  opacity: 0;
+  transition: bottom 1.8s ease, opacity 1s ease 0.4s;
+}
+
 .rocket[data-s="descent"] {
   transition: bottom 2.1s cubic-bezier(0.3, 0, 0.25, 1);
 }
@@ -529,6 +536,41 @@
   box-shadow: 0 0 50px rgb(80 140 255 / 0.3);
 }
 
+.planet[data-planet="saturn"] {
+  width: 130px;
+  height: 130px;
+  left: 9vw;
+  top: 18vh;
+  background:
+    radial-gradient(circle at 70% 70%, transparent 50%, rgb(0 0 0 / 0.5) 75%),
+    repeating-linear-gradient(170deg, #f0dcae 0 12px, #d9b47c 12px 22px, #f5e6c4 22px 30px);
+  box-shadow: 0 0 50px rgb(240 210 150 / 0.2);
+}
+
+.planet[data-planet="saturn"]::before {
+  content: "";
+  position: absolute;
+  left: -55%;
+  top: 38%;
+  width: 210%;
+  height: 24%;
+  border-radius: 50%;
+  border: 7px solid rgb(240 220 180 / 0.75);
+  border-top-color: rgb(240 220 180 / 0.25);
+  transform: rotate(-14deg);
+}
+
+.planet[data-planet="pluto"] {
+  width: 64px;
+  height: 64px;
+  right: 12vw;
+  top: 20vh;
+  background:
+    radial-gradient(30% 26% at 58% 60%, #f6efe6, transparent 70%),
+    radial-gradient(circle at 35% 30%, #e0c8b0, #9c7a66 55%, #3a2a26);
+  box-shadow: 0 0 30px rgb(220 200 180 / 0.2);
+}
+
 /* Planets drift down past the window as the rocket climbs toward them. */
 .planet[data-s="visible"] {
   transform: none;
@@ -617,6 +659,8 @@
   .planet[data-planet="mars"] { width: 64px; height: 64px; left: 5vw; top: 50vh; }
   .planet[data-planet="jupiter"] { width: 230px; height: 230px; right: -130px; top: 46vh; }
   .planet[data-planet="neptune"] { width: 84px; height: 84px; left: 4vw; top: 52vh; }
+  .planet[data-planet="saturn"] { width: 80px; height: 80px; left: 8vw; top: 48vh; }
+  .planet[data-planet="pluto"] { width: 44px; height: 44px; right: 8vw; top: 52vh; }
   .rocket {
     width: 52px;
     height: 130px;

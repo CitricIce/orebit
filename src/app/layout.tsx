@@ -13,10 +13,10 @@ export const metadata: Metadata = {
     template: "%s · Orebit",
   },
   description:
-    "Three asteroids a day, thirty seconds each. Name as many answers as you can. Common ones are surface dust. Rare ones are buried treasure.",
+    "Five asteroids a day, thirty seconds each. Name as many answers as you can. Common ones are surface dust. Rare ones are buried treasure.",
   openGraph: {
     title: "Orebit · the daily asteroid dig",
-    description: "Three asteroids. Thirty seconds each. How deep can you drill?",
+    description: "Five asteroids. Thirty seconds each. How deep can you drill?",
     siteName: "Orebit",
     type: "website",
   },

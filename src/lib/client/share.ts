@@ -96,29 +96,33 @@ export async function shareImage(d: ShareData): Promise<Blob | null> {
   g.font = `500 36px ${sans}`;
   g.fillText(rankFor(d.total).title, 64, 266);
 
+  const rowH = Math.min(82, 290 / Math.max(1, d.rounds.length));
+  const roomy = rowH >= 70;
   d.rounds.forEach((r, i) => {
-    const y = 350 + i * 82;
+    const y = 322 + i * rowH + (roomy ? 28 : 20);
     g.fillStyle = "#f3eefc";
-    g.font = `600 32px ${sans}`;
+    g.font = `600 ${roomy ? 32 : 24}px ${sans}`;
     g.fillText(r.title, 64, y);
     g.fillStyle = "#b9b0cc";
-    g.font = `500 26px ${mono}`;
-    g.fillText(`${ores(r.found.length)} · ${r.depth} m`, 64, y + 36);
+    g.font = `500 ${roomy ? 26 : 19}px ${mono}`;
+    g.fillText(`${ores(r.found.length)} · ${r.depth} m`, 64, y + (roomy ? 36 : 25));
     // Ore pips, sorted rarest first.
-    const pips = [...r.found].sort((a, b) => b.tier - a.tier).slice(0, 22);
+    const size = roomy ? 10 : 8;
+    const pips = [...r.found].sort((a, b) => b.tier - a.tier).slice(0, 24);
     pips.forEach((o, j) => {
       g.fillStyle = COLORS[o.tier];
-      const x = 520 + j * 26;
+      const x = 520 + j * (size * 2.6);
+      const cy = y - size;
       if (o.tier === 6) {
         g.save();
         g.shadowColor = COLORS[6];
         g.shadowBlur = 18;
       }
       g.beginPath();
-      g.moveTo(x, y - 22);
-      g.lineTo(x + 10, y - 10);
-      g.lineTo(x, y + 2);
-      g.lineTo(x - 10, y - 10);
+      g.moveTo(x, cy - size * 1.2);
+      g.lineTo(x + size, cy);
+      g.lineTo(x, cy + size * 1.2);
+      g.lineTo(x - size, cy);
       g.closePath();
       g.fill();
       if (o.tier === 6) g.restore();

@@ -23,7 +23,7 @@ export const TIERS: Record<TierId, Tier> = {
 export const TIER_LIST: Tier[] = [1, 2, 3, 4, 5, 6].map((id) => TIERS[id as TierId]);
 
 export const ROUND_SECONDS = 30;
-export const ROUNDS_PER_DAY = 3;
+export const ROUNDS_PER_DAY = 5;
 
 export interface Rank {
   min: number;
@@ -33,11 +33,10 @@ export interface Rank {
 /** Daily ranks by total meters drilled across all rounds. */
 export const RANKS: Rank[] = [
   { min: 0, title: "Surface Scraper" },
-  { min: 250, title: "Prospector" },
-  { min: 600, title: "Driller" },
-  { min: 1000, title: "Deep Driller" },
-  { min: 1500, title: "Core Breaker" },
-  { min: 2200, title: "Starcore Hunter" },
+  { min: 400, title: "Prospector" },
+  { min: 700, title: "Driller" },
+  { min: 1100, title: "Core Breaker" },
+  { min: 1500, title: "Starcore Hunter" },
 ];
 
 export function rankFor(depth: number): Rank {

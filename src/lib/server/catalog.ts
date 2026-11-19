@@ -50,7 +50,7 @@ export function matchGuess(cat: Category, guess: string): Answer | null {
 
 /** Short code for an asteroid, like "AST-0042-C". Pure flavor. */
 export function designation(date: string, round: number): string {
-  return `AST-${String(dayNumber(date)).padStart(4, "0")}-${"ABC"[round] ?? round}`;
+  return `AST-${String(dayNumber(date)).padStart(4, "0")}-${"ABCDE"[round] ?? round}`;
 }
 
 export function tierCounts(cat: Category): Record<TierId, number> {
