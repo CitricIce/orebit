@@ -1,68 +1,152 @@
 {
- "start": "2026-11-18",
+ "start": "2026-11-19",
  "days": [
   [
-   "teas",
-   "martial-arts",
-   "painters",
-   "solar-system",
-   "birds-of-prey"
-  ],
-  [
-   "candy",
    "string-instruments",
-   "soups",
-   "asian-countries",
-   "constellations"
-  ],
-  [
-   "bones",
-   "us-state-capitals",
-   "breads",
-   "sauces",
+   "chinese-foods",
+   "cocktails",
+   "rodents",
    "emperors"
   ],
   [
-   "mexican-foods",
-   "sandwiches",
-   "world-capitals",
+   "asian-countries",
    "us-presidents",
+   "sharks",
+   "superheroes",
+   "spanish-foods"
+  ],
+  [
+   "desserts",
+   "disney-pixar-movies",
+   "meats",
+   "dog-breeds",
+   "constellations"
+  ],
+  [
+   "game-consoles",
+   "landmarks",
+   "french-foods",
+   "flowers",
    "composers"
   ],
   [
-   "cat-breeds",
    "japanese-foods",
-   "card-games",
-   "gemstones",
-   "americas-countries"
+   "snakes",
+   "villains",
+   "programming-languages",
+   "lakes"
   ],
   [
-   "dinosaurs",
-   "herbs-spices",
-   "european-countries",
+   "pizza-toppings",
+   "indian-foods",
+   "vegetables",
    "elements",
-   "programming-languages"
+   "birds-of-prey"
   ],
   [
-   "ice-cream-flavors",
+   "cat-breeds",
+   "cooking-methods",
+   "beans-legumes",
+   "animated-movies",
+   "rivers"
+  ],
+  [
+   "nuts-seeds",
+   "americas-countries",
+   "cartoon-characters",
+   "card-games",
+   "thai-foods"
+  ],
+  [
+   "cakes",
+   "dinosaurs",
+   "asian-cities",
+   "us-state-capitals",
+   "mountains"
+  ],
+  [
+   "gemstones",
+   "salads",
+   "cheeses",
+   "african-countries",
+   "german-foods"
+  ],
+  [
+   "potato-dishes",
+   "italian-foods",
+   "us-cities",
+   "rice-noodle-dishes",
+   "sitcoms"
+  ],
+  [
+   "weather",
+   "gods",
+   "bones",
+   "polar-animals",
+   "martial-arts"
+  ],
+  [
+   "grains",
+   "sandwiches",
+   "big-cats",
+   "board-games",
+   "languages"
+  ],
+  [
+   "pies-pastries",
+   "islands",
+   "egg-dishes",
+   "video-games",
+   "cetaceans"
+  ],
+  [
+   "herbs-spices",
+   "painters",
+   "primates",
+   "pets",
+   "world-capitals"
+  ],
+  [
+   "european-cities",
+   "spirits",
+   "british-foods",
+   "mexican-foods",
+   "trees"
+  ],
+  [
+   "solar-system",
+   "oceans-seas",
+   "fruits",
    "pasta",
-   "car-brands",
-   "sharks",
    "us-states"
   ],
   [
-   "snakes",
-   "coffee-drinks",
-   "cocktails",
-   "african-countries",
-   "board-games"
+   "metals",
+   "middle-eastern-foods",
+   "soups",
+   "cookies",
+   "breakfast-foods"
   ],
   [
-   "cetaceans",
-   "primates",
-   "gods",
-   "cheeses",
-   "nuts-seeds"
+   "soft-drinks",
+   "american-foods",
+   "ice-cream-flavors",
+   "european-countries",
+   "natural-disasters"
+  ],
+  [
+   "farm-animals",
+   "seafood",
+   "car-brands",
+   "candy",
+   "sauces"
+  ],
+  [
+   "australian-animals",
+   "teas",
+   "breads",
+   "currencies",
+   "coffee-drinks"
   ]
  ]
 }

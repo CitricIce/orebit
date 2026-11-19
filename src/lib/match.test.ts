@@ -105,3 +105,8 @@ test("each day has at most one medium category and no question repeats", () => {
     }
   }
 });
+
+test("the calendar starts on launch day", async () => {
+  const { LAUNCH_DATE } = await import("./dates");
+  assert.equal(calendar.start, LAUNCH_DATE);
+});

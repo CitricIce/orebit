@@ -1,5 +1,5 @@
 /** Day 1 of Orebit. Change this before launch. */
-export const LAUNCH_DATE = "2026-11-18";
+export const LAUNCH_DATE = "2026-11-19";
 
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
 const DAY_MS = 86_400_000;
