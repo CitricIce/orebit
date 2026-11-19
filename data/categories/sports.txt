@@ -1,0 +1,1750 @@
+# Sport and fitness. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== sports
+title: Sports
+prompt: Name as many sports as you can
+--- 1
+Football | soccer
+Basketball
+Tennis
+Baseball
+Golf
+Swimming
+Boxing
+Cricket
+Rugby
+Volleyball
+Hockey | ice hockey
+American football | gridiron
+--- 2
+Badminton
+Table tennis | ping pong
+Squash
+Cycling
+Running | athletics | track and field
+Gymnastics
+Wrestling
+Skiing
+Snowboarding
+Surfing
+Skateboarding
+Diving
+Rowing
+Sailing
+Canoeing | kayaking
+Archery
+Fencing
+Bowling
+Darts
+Snooker
+Pool | billiards
+Handball
+Water polo
+Lacrosse
+Softball
+Field hockey
+Netball
+Polo
+Horse racing
+Equestrian | show jumping | horse riding
+Motor racing | formula 1 | f1
+NASCAR
+Judo
+Karate
+Taekwondo
+MMA | mixed martial arts | ufc
+Weightlifting
+Triathlon
+Marathon
+Climbing | rock climbing
+Figure skating | ice skating
+Speed skating
+Curling
+Bobsleigh | bobsled
+Luge
+Skeleton
+Biathlon
+Pickleball
+Dodgeball
+Ultimate frisbee | frisbee
+Kickboxing
+Sumo
+Esports
+Cheerleading
+Rodeo
+Bull riding
+--- 3
+Hurling
+Gaelic football
+Shinty
+Aussie rules | australian football | afl
+Rugby league
+Rugby union
+Kabaddi
+Sepak takraw
+Jai alai
+Pelota
+Bandy
+Floorball
+Korfball
+Sambo
+Capoeira
+Muay Thai
+Jiu-jitsu | bjj
+Kendo
+Sumo wrestling
+Pentathlon
+Decathlon
+Heptathlon
+Steeplechase
+Pole vault
+Javelin
+Shot put
+Discus
+Hammer throw
+High jump
+Long jump
+Triple jump
+Hurdles
+Sprinting
+Race walking
+Orienteering
+Rogaining
+Canyoning
+Paragliding
+Hang gliding
+Skydiving
+BMX
+Mountain biking
+Motocross
+Rallying
+Drag racing
+Powerboat racing
+Windsurfing
+Kitesurfing
+Wakeboarding
+Water skiing
+Bodyboarding
+Paddleboarding | sup
+Synchronized swimming | artistic swimming
+Trampolining
+Parkour
+Croquet
+Bocce
+Pétanque | boules
+Shuffleboard
+Quidditch @5
+Tug of war
+Chess boxing
+Cornhole
+Teqball
+Padel
+Racquetball
+Real tennis
+Fives
+Rounders
+Stoolball
+Kho kho
+
+=== sports-equipment
+title: Sports equipment
+prompt: Name as many pieces of sports equipment as you can
+--- 1
+Ball
+Bat
+Racket | racquet
+Helmet
+Net
+Goal
+Gloves
+Skis | ski
+Skateboard
+Bike | bicycle
+--- 2
+Football
+Basketball
+Tennis ball
+Golf ball
+Golf club | club | clubs
+Hockey stick | stick
+Puck
+Baseball glove | mitt
+Baseball bat
+Cricket bat
+Shin pads | shin guards
+Knee pads
+Elbow pads
+Mouthguard
+Boxing gloves
+Punching bag | punch bag
+Skipping rope | jump rope
+Dumbbell | dumbbells
+Barbell
+Kettlebell
+Weights
+Treadmill
+Yoga mat | mat
+Surfboard
+Snowboard
+Ice skates | skates
+Roller skates
+Rollerblades
+Goggles
+Swim cap
+Flippers | fins
+Snorkel
+Life jacket
+Paddle
+Oar
+Canoe
+Kayak
+Bow
+Arrow
+Target
+Dartboard
+Darts
+Cue | pool cue
+Shuttlecock | birdie
+Frisbee
+Hoop | basketball hoop
+Backboard
+Whistle
+Stopwatch
+Cones
+Hurdles
+Javelin
+Discus
+Shot
+Pole
+Trampoline
+Balance beam | beam
+Rings
+Vault
+Pommel horse
+Parallel bars
+Stumps
+Bails
+Wicket
+Tee
+Caddy
+Saddle
+Stirrups
+Reins
+Sled | sledge
+Toboggan
+--- 3
+Scrum cap
+Gumshield
+Jockstrap | cup
+Chest protector
+Catcher's mask
+Batting gloves
+Batting helmet
+Bat grip
+Pine tar
+Chalk
+Hand wrap
+Speed bag
+Medicine ball
+Resistance band
+Foam roller
+Exercise bike
+Rowing machine
+Cross trainer | elliptical
+Bench press
+Squat rack
+Pull-up bar
+Ab wheel
+Stability ball | swiss ball
+Balance board
+Climbing rope
+Harness
+Carabiner
+Crampons
+Ice axe
+Belay device
+Climbing shoes
+Wetsuit
+Rash guard
+Bodyboard
+Paddleboard
+Kiteboard
+Windsurf board
+Wakeboard
+Water skis
+Ski poles
+Ski boots
+Bindings
+Bobsled
+Curling stone
+Broom
+Épée
+Foil
+Sabre
+Fencing mask
+Lacrosse stick
+Hurley
+Sliotar
+Shinty stick
+Polo mallet
+Croquet mallet
+Bowling ball
+Bowling pin | skittle
+Jack
+Boules
+Starting block
+Baton
+Pole vault pole
+Hammer
+Discus cage
+Trophy
+Medal
+Scoreboard
+
+=== athletes
+title: Famous athletes
+prompt: Name as many famous athletes as you can, from any sport (last names count)
+--- 1
+Lionel Messi | messi
+Cristiano Ronaldo | ronaldo | cr7
+Michael Jordan | jordan
+LeBron James | lebron
+Serena Williams | serena
+Usain Bolt | bolt
+Tiger Woods | tiger
+Muhammad Ali | ali
+Roger Federer | federer
+Michael Phelps | phelps
+Tom Brady | brady
+--- 2
+Kobe Bryant | kobe
+Shaquille O'Neal | shaq
+Stephen Curry | steph curry | curry
+Kevin Durant | durant
+Magic Johnson
+Larry Bird
+Wayne Gretzky | gretzky
+Babe Ruth
+Pelé | pele
+Diego Maradona | maradona
+Zinedine Zidane | zidane
+David Beckham | beckham
+Neymar
+Kylian Mbappé | mbappe | mbappé
+Erling Haaland | haaland
+Mohamed Salah | salah
+Wayne Rooney | rooney
+Thierry Henry | henry
+Ronaldinho
+Rafael Nadal | nadal
+Novak Djokovic | djokovic
+Venus Williams | venus
+Andy Murray | murray
+Maria Sharapova | sharapova
+Simone Biles | biles
+Mike Tyson | tyson
+Floyd Mayweather | mayweather
+Manny Pacquiao | pacquiao
+Conor McGregor | mcgregor
+Lewis Hamilton | hamilton
+Michael Schumacher | schumacher
+Max Verstappen | verstappen
+Ayrton Senna | senna
+Jack Nicklaus | nicklaus
+Arnold Palmer
+Rory McIlroy | mcilroy
+Peyton Manning
+Patrick Mahomes | mahomes
+Jerry Rice
+Joe Montana
+Derek Jeter | jeter
+Shohei Ohtani | ohtani
+Sachin Tendulkar | tendulkar
+Virat Kohli | kohli
+Lance Armstrong
+Tony Hawk
+Shaun White
+Carl Lewis
+Jesse Owens | owens
+Mo Farah
+Eliud Kipchoge | kipchoge
+Sidney Crosby | crosby
+Alex Ovechkin | ovechkin
+Dennis Rodman | rodman
+Kareem Abdul-Jabbar | kareem
+Wilt Chamberlain
+Tim Duncan
+Giannis Antetokounmpo | giannis
+Luka Dončić | luka doncic | luka
+Caitlin Clark
+Megan Rapinoe | rapinoe
+Alex Morgan
+Mia Hamm
+Naomi Osaka | osaka
+Coco Gauff | gauff
+Carlos Alcaraz | alcaraz
+Jannik Sinner | sinner
+--- 3
+Steffi Graf
+Martina Navratilova
+Billie Jean King
+Chris Evert
+Pete Sampras
+Andre Agassi
+John McEnroe
+Björn Borg | borg
+Bobby Fischer
+Garry Kasparov
+Magnus Carlsen
+Nadia Comăneci | nadia comaneci
+Mark Spitz
+Ian Thorpe
+Katie Ledecky
+Florence Griffith Joyner | flo jo
+Jackie Joyner-Kersee
+Edwin Moses
+Sergey Bubka
+Paavo Nurmi
+Emil Zátopek
+Haile Gebrselassie
+Paula Radcliffe
+Jessica Ennis-Hill
+Kelly Holmes
+Sebastian Coe
+Steve Redgrave
+Chris Hoy
+Bradley Wiggins
+Eddy Merckx
+Chris Froome
+Tadej Pogačar
+Valentino Rossi
+Marc Márquez
+Sebastian Vettel
+Fernando Alonso
+Niki Lauda
+Juan Manuel Fangio
+Jim Clark
+Dale Earnhardt
+Jeff Gordon
+Jimmie Johnson
+Sugar Ray Leonard
+Joe Louis
+Rocky Marciano
+George Foreman
+Joe Frazier
+Evander Holyfield
+Lennox Lewis
+Tyson Fury
+Anthony Joshua
+Canelo Álvarez | canelo
+Ronda Rousey
+Jon Jones
+Georges St-Pierre
+Khabib Nurmagomedov | khabib
+Hulk Hogan @4
+Dwayne Johnson @5
+Don Bradman
+Shane Warne
+Brian Lara
+Ian Botham
+Jim Laker
+Muttiah Muralitharan
+Imran Khan
+Kapil Dev
+MS Dhoni | dhoni
+Gareth Bale
+Steven Gerrard
+Frank Lampard
+Paul Scholes
+Ryan Giggs
+Bobby Charlton
+George Best
+Johan Cruyff
+Franz Beckenbauer
+Gerd Müller
+Eusébio
+Alfredo Di Stéfano
+Ferenc Puskás
+Lev Yashin
+Gianluigi Buffon
+Paolo Maldini
+Andrea Pirlo
+Francesco Totti
+Ronaldo Nazário
+Kaká
+Luka Modrić
+Andrés Iniesta
+Xavi
+Sergio Ramos
+Robert Lewandowski
+Harry Kane
+Kevin De Bruyne
+Jude Bellingham
+Vinícius Júnior | vinicius
+Lamine Yamal
+Hank Aaron
+Willie Mays
+Mickey Mantle
+Jackie Robinson
+Lou Gehrig
+Ted Williams
+Barry Bonds
+Mark McGwire
+Sammy Sosa
+Ken Griffey Jr.
+Aaron Judge
+Mike Trout
+Jim Brown
+Walter Payton
+Barry Sanders
+Emmitt Smith
+Lawrence Taylor
+Dan Marino
+John Elway
+Brett Favre
+Aaron Rodgers
+Travis Kelce
+Bo Jackson
+Deion Sanders
+Mario Lemieux
+Bobby Orr
+Gordie Howe
+Connor McDavid
+Bill Russell
+Oscar Robertson
+Hakeem Olajuwon
+Allen Iverson
+Dirk Nowitzki
+Kevin Garnett
+Dwyane Wade
+Chris Paul
+Kawhi Leonard
+Nikola Jokić | jokic
+Victor Wembanyama | wemby
+
+=== exercises
+title: Gym exercises
+prompt: Name as many exercises or workout moves as you can
+--- 1
+Push-ups | push ups | press-ups | pushup
+Sit-ups | sit ups | situp
+Squats | squat
+Lunges | lunge
+Plank | planks
+Pull-ups | pull ups | pullup
+Jumping jacks | star jumps
+Burpees | burpee
+Crunches | crunch
+Deadlift | deadlifts
+Bench press
+--- 2
+Chin-ups | chin ups
+Dips | tricep dips
+Bicep curls | curls
+Shoulder press | overhead press | military press
+Lat pulldown | pulldown
+Rows | bent over row | row
+Leg press
+Leg curls
+Leg extensions
+Calf raises
+Mountain climbers
+High knees
+Skipping | jump rope
+Running
+Sprints
+Jogging
+Cycling | spinning
+Rowing
+Box jumps
+Step-ups | step ups
+Glute bridges | glute bridge | hip thrust
+Russian twists
+Leg raises
+Flutter kicks
+Bicycle crunches
+Side plank
+Wall sit
+Superman
+Bear crawl
+Kettlebell swings | kettlebell swing
+Thrusters
+Clean and jerk
+Snatch
+Clean
+Lateral raises
+Front raises
+Tricep extensions
+Skull crushers
+Hammer curls
+Chest fly | flyes
+Cable crossover
+Face pulls
+Shrugs
+Good mornings
+Romanian deadlift | rdl
+Sumo deadlift
+Goblet squat
+Front squat
+Bulgarian split squat | split squat
+Pistol squat
+Donkey kicks
+Fire hydrants
+Stretching
+Yoga
+Pilates
+--- 3
+Turkish get-up
+Farmer's walk | farmers carry
+Sled push
+Battle ropes
+Tire flip
+Wall balls
+Muscle-up
+Toes to bar
+Hanging leg raise
+Dragon flag
+L-sit
+Handstand push-up
+Handstand
+Planche
+Front lever
+Back lever
+Human flag
+Archer push-up
+Diamond push-up
+Pike push-up
+Decline push-up
+Incline push-up
+Clap push-up
+Spiderman push-up
+Hollow hold
+Dead bug
+Bird dog
+Pallof press
+Woodchoppers
+Ab rollout
+V-ups
+Windshield wipers
+Hyperextensions | back extensions
+Reverse fly
+Arnold press
+Upright row
+Pendlay row
+Seal row
+T-bar row
+Meadows row
+Preacher curl
+Concentration curl
+Zottman curl
+Cable curl
+Close-grip bench
+Incline bench
+Decline bench
+Floor press
+Pec deck
+Hack squat
+Zercher squat
+Overhead squat
+Box squat
+Jefferson curl
+Nordic curls
+Copenhagen plank
+Sissy squat
+Skater jumps
+Tuck jumps
+Broad jumps
+Inchworms
+Frog jumps
+Crab walk
+
+=== music-genres
+title: Music genres
+prompt: Name as many music genres as you can
+--- 1
+Rock
+Pop
+Jazz
+Hip hop | hip-hop
+Rap
+Country
+Classical
+Blues
+Metal | heavy metal
+Reggae
+R&B | rnb | rhythm and blues
+--- 2
+Punk
+Folk
+Soul
+Funk
+Disco
+Gospel
+Techno
+House
+Dance | edm | electronic
+Trance
+Dubstep
+Drum and bass | dnb
+Grunge
+Indie
+Alternative
+Emo
+Ska
+Reggaeton
+Salsa
+Latin
+K-pop | kpop
+J-pop
+Opera
+Swing
+Big band
+Bluegrass
+Rockabilly
+Rock and roll | rock n roll
+Motown
+Garage
+Grime
+Trap
+Drill
+Lo-fi
+Ambient
+Hard rock
+Punk rock
+Pop punk
+Death metal
+Black metal
+Thrash metal
+Glam rock
+Psychedelic rock
+Progressive rock | prog
+Soft rock
+Synth-pop | synthpop
+New wave
+Christmas music
+Show tunes
+Musical theatre
+Afrobeats
+Dancehall
+Calypso
+Samba
+Bossa nova
+Flamenco
+Tango
+Mariachi
+Polka
+Celtic
+Barbershop
+A cappella
+Choral
+Baroque
+Chamber music
+Orchestral
+Soundtrack | film score
+--- 3
+Shoegaze
+Post-rock
+Math rock
+Krautrock
+Stoner rock
+Doom metal
+Sludge metal
+Nu metal
+Metalcore
+Deathcore
+Djent
+Hardcore
+Post-punk
+Darkwave
+Goth
+Industrial
+EBM
+IDM
+Breakbeat
+Jungle
+UK garage
+Two-step
+Bassline
+Footwork
+Juke
+Vaporwave
+Chillwave
+Synthwave
+Hyperpop
+Bedroom pop
+Dream pop
+Trip hop
+Acid jazz
+Bebop
+Cool jazz
+Free jazz
+Smooth jazz
+Jazz fusion
+Ragtime
+Dixieland
+Zydeco
+Cajun
+Tejano
+Norteño
+Cumbia
+Merengue
+Bachata
+Kizomba
+Fado
+Rebetiko
+Klezmer
+Qawwali
+Bhangra
+Highlife
+Juju
+Mbalax
+Soukous
+Gqom
+Amapiano
+Kwaito
+Enka
+City pop
+Cantopop
+Mandopop
+Shibuya-kei
+Gamelan
+Throat singing
+Yodeling
+Sea shanty
+Skiffle
+Doo-wop
+Northern soul
+Neo-soul
+Quiet storm
+Crunk
+Hyphy
+G-funk
+Boom bap
+Horrorcore
+Phonk
+Plugg
+Cloud rap
+Emo rap
+
+=== instruments
+title: Musical instruments
+prompt: Name as many musical instruments as you can
+--- 1
+Piano
+Guitar
+Drums | drum
+Violin
+Flute
+Trumpet
+Saxophone | sax
+Cello
+Harp
+Clarinet
+--- 2
+Bass | bass guitar
+Electric guitar
+Keyboard
+Organ
+Ukulele
+Banjo
+Mandolin
+Viola
+Double bass
+Trombone
+Tuba
+French horn | horn
+Oboe
+Bassoon
+Piccolo
+Recorder
+Harmonica
+Accordion
+Bagpipes
+Xylophone
+Glockenspiel
+Triangle
+Tambourine
+Cymbals | cymbal
+Maracas
+Bongos
+Congas
+Snare drum
+Bass drum
+Timpani | kettle drum
+Gong
+Cowbell
+Castanets
+Synthesizer | synth
+Sitar
+Harpsichord
+Lute
+Lyre
+Tabla
+Steel drum | steel pan
+Didgeridoo
+Kazoo
+Bugle
+Cornet
+Sousaphone
+Euphonium
+Pan pipes | panpipes | pan flute
+Ocarina
+Tin whistle | penny whistle
+Marimba
+Vibraphone
+Bells | handbells
+Chimes | wind chimes
+Keytar
+Theremin
+Djembe
+Cajon
+--- 3
+Celesta
+Clavichord
+Spinet
+Harmonium
+Melodica
+Concertina
+Bandoneon
+Hurdy-gurdy
+Zither
+Dulcimer
+Hammered dulcimer
+Autoharp
+Balalaika
+Bouzouki
+Oud
+Koto
+Shamisen
+Erhu
+Guzheng
+Pipa
+Shakuhachi
+Taiko
+Sarod
+Veena
+Santoor
+Shehnai
+Bansuri
+Mridangam
+Dhol
+Kalimba | thumb piano
+Mbira
+Kora
+Talking drum
+Berimbau
+Charango
+Cuatro
+Bodhrán
+Uilleann pipes
+Fiddle
+Nyckelharpa
+Hardanger fiddle
+Kantele
+Jaw harp
+Washboard
+Spoons
+Musical saw
+Glass harmonica
+Hang drum | handpan
+Contrabassoon
+Cor anglais | english horn
+Bass clarinet
+Contrabass
+Flugelhorn
+Mellophone
+Alphorn
+Shofar
+Conch
+Vuvuzela
+Slide whistle
+Ratchet
+Whip
+Anvil
+Wood block
+Claves
+Guiro
+Cabasa
+Shekere
+Agogo
+Timbales
+Tam-tam
+
+=== singers
+title: Pop stars and singers
+prompt: Name as many famous singers as you can
+--- 1
+Taylor Swift
+Beyoncé | beyonce
+Rihanna
+Adele
+Michael Jackson
+Elvis Presley | elvis
+Madonna
+Lady Gaga
+Justin Bieber | bieber
+Ed Sheeran
+Ariana Grande
+Drake
+--- 2
+Billie Eilish
+Dua Lipa
+Katy Perry
+Bruno Mars
+The Weeknd | weeknd
+Harry Styles
+Shakira
+Jennifer Lopez | j.lo | jlo
+Britney Spears | britney
+Christina Aguilera
+Mariah Carey
+Whitney Houston
+Celine Dion
+Frank Sinatra | sinatra
+Elton John
+Freddie Mercury
+David Bowie | bowie
+Prince
+Stevie Wonder
+Aretha Franklin
+Tina Turner
+Cher
+Dolly Parton
+Johnny Cash
+Bob Dylan
+Bob Marley
+John Lennon
+Paul McCartney
+Mick Jagger
+Bruce Springsteen
+Bon Jovi
+Sting
+Phil Collins
+George Michael
+Robbie Williams
+Kylie Minogue
+Miley Cyrus
+Selena Gomez
+Demi Lovato
+Olivia Rodrigo
+Sabrina Carpenter
+Chappell Roan
+SZA
+Doja Cat
+Nicki Minaj
+Cardi B
+Lizzo
+Sia
+Pink | p!nk
+Kelly Clarkson
+Shawn Mendes
+Charlie Puth
+Sam Smith
+Lewis Capaldi
+Post Malone
+Justin Timberlake
+Usher
+Chris Brown
+Alicia Keys
+John Legend
+Lana Del Rey
+Lorde
+Halsey
+Camila Cabello
+Kesha
+Avril Lavigne
+Gwen Stefani
+Amy Winehouse
+Bad Bunny
+Michael Bublé | buble
+Andrea Bocelli
+Luciano Pavarotti | pavarotti
+Eminem
+Kanye West | kanye | ye
+Jay-Z
+Snoop Dogg
+Tupac
+Kendrick Lamar
+Travis Scott
+--- 3
+Ella Fitzgerald
+Billie Holiday
+Nina Simone
+Etta James
+Ray Charles
+Sam Cooke
+Otis Redding
+Marvin Gaye
+James Brown
+Little Richard
+Chuck Berry
+Buddy Holly
+Jerry Lee Lewis
+Roy Orbison
+Dean Martin
+Bing Crosby
+Nat King Cole
+Tony Bennett
+Barbra Streisand
+Judy Garland
+Liza Minnelli
+Diana Ross
+Janet Jackson
+Lionel Richie
+Luther Vandross
+Patti LaBelle
+Gladys Knight
+Donna Summer
+Gloria Gaynor
+Cyndi Lauper
+Pat Benatar
+Joan Jett
+Stevie Nicks
+Fleetwood Mac
+Joni Mitchell
+Carole King
+Carly Simon
+Linda Ronstadt
+Janis Joplin
+Jimi Hendrix
+Jim Morrison
+Kurt Cobain
+Chris Cornell
+Eddie Vedder
+Axl Rose
+Ozzy Osbourne
+Bono
+Billy Joel
+Neil Diamond
+Rod Stewart
+Tom Jones
+Engelbert Humperdinck
+Shirley Bassey
+Dusty Springfield
+Lulu
+Petula Clark
+Annie Lennox
+Kate Bush
+Björk
+Sinéad O'Connor
+Enya
+Florence Welch
+Ellie Goulding
+Jessie J
+Rita Ora
+Anne-Marie
+Raye
+Little Simz
+Stormzy
+Dave
+Central Cee
+Rosalía
+Karol G
+Anitta
+J Balvin
+Maluma
+Daddy Yankee
+Ricky Martin
+Enrique Iglesias
+Marc Anthony
+Gloria Estefan
+Selena
+Jungkook
+Lisa
+Jennie
+Rosé
+Peso Pluma
+Tyla
+Burna Boy
+Wizkid
+Tems
+
+=== bands
+title: Bands
+prompt: Name as many bands or music groups as you can
+--- 1
+The Beatles | beatles
+Queen
+The Rolling Stones | rolling stones | stones
+Coldplay
+ABBA
+Nirvana
+U2
+Metallica
+BTS
+One Direction | 1d
+--- 2
+Led Zeppelin
+Pink Floyd
+AC/DC | acdc
+Guns N' Roses | guns n roses
+Aerosmith
+Bon Jovi
+Red Hot Chili Peppers | rhcp
+Foo Fighters
+Green Day
+Linkin Park
+Imagine Dragons
+Maroon 5
+The Killers | killers
+Arctic Monkeys
+Oasis
+Blur
+Radiohead
+Muse
+The Who | who
+The Doors | doors
+The Beach Boys | beach boys
+Fleetwood Mac
+Eagles | the eagles
+Bee Gees
+The Jackson 5 | jackson 5
+Destiny's Child
+Spice Girls
+Backstreet Boys
+NSYNC | *nsync | n sync
+Take That
+Westlife
+Boyzone
+Little Mix
+Girls Aloud
+Sugababes
+Blackpink
+Black Eyed Peas
+Fall Out Boy
+Paramore
+My Chemical Romance
+Panic! at the Disco | panic at the disco
+Blink-182 | blink 182
+Weezer
+The Strokes
+Kings of Leon
+OneRepublic
+The Chainsmokers
+Twenty One Pilots
+Pearl Jam
+Soundgarden
+Foo Fighters
+R.E.M. | rem
+The Police | police
+Duran Duran
+Depeche Mode
+The Cure | cure
+The Smiths | smiths
+Joy Division
+New Order
+Kiss
+Van Halen
+Def Leppard
+Journey
+Iron Maiden
+Black Sabbath
+Slipknot
+System of a Down
+Rage Against the Machine
+Daft Punk
+Gorillaz
+The Clash | clash
+Sex Pistols
+Ramones
+Talking Heads
+Blondie
+Jonas Brothers
+Haim
+Mumford & Sons
+Florence + the Machine
+The 1975
+Måneskin | maneskin
+--- 3
+The Velvet Underground
+The Kinks
+The Byrds
+Cream
+The Yardbirds
+The Animals
+The Zombies
+Creedence Clearwater Revival | ccr
+Lynyrd Skynyrd
+ZZ Top
+Steely Dan
+Toto
+Chicago
+Earth, Wind & Fire
+Kool & the Gang
+Chic
+Sly and the Family Stone
+Parliament
+Funkadelic
+The Temptations
+The Supremes
+The Four Tops
+The Commodores
+Boyz II Men
+TLC
+En Vogue
+Salt-N-Pepa
+Run-DMC
+Public Enemy
+Beastie Boys
+N.W.A
+Wu-Tang Clan
+A Tribe Called Quest
+OutKast
+The Roots
+The Fugees | fugees
+Massive Attack
+Portishead
+Prodigy
+Chemical Brothers
+Underworld
+Orbital
+Pet Shop Boys
+Eurythmics
+Tears for Fears
+Spandau Ballet
+Culture Club
+Wham!
+a-ha
+Simple Minds
+Pulp
+Suede
+Elastica
+Supergrass
+Stereophonics
+Manic Street Preachers
+Travis
+Snow Patrol
+Keane
+Kasabian
+Franz Ferdinand
+Bloc Party
+The Libertines
+Editors
+Elbow
+Vampire Weekend
+Arcade Fire
+The National
+Bon Iver
+Fleet Foxes
+MGMT
+Tame Impala
+Foster the People
+Glass Animals
+Alt-J
+The xx
+Bastille
+Wolf Alice
+Fontaines D.C.
+IDLES
+Sleaford Mods
+Bring Me the Horizon
+Deftones
+Korn
+Limp Bizkit
+Tool
+Megadeth
+Slayer
+Anthrax
+Pantera
+Motörhead
+Judas Priest
+Rush
+Yes
+Genesis
+King Crimson
+Jethro Tull
+Dire Straits
+Status Quo
+Thin Lizzy
+The Pogues
+The Cranberries
+The Corrs
+Stray Kids
+Twice
+EXO
+NewJeans
+Seventeen
+Big Bang
+
+=== actors
+title: Famous actors
+prompt: Name as many famous male actors as you can
+--- 1
+Tom Hanks | hanks
+Brad Pitt | pitt
+Leonardo DiCaprio | dicaprio | leo
+Tom Cruise | cruise
+Will Smith
+Johnny Depp | depp
+Denzel Washington | denzel
+Morgan Freeman
+Robert De Niro | de niro
+Al Pacino | pacino
+Dwayne Johnson | the rock
+--- 2
+George Clooney | clooney
+Matt Damon | damon
+Ben Affleck | affleck
+Keanu Reeves | keanu
+Robert Downey Jr. | robert downey jr | rdj | downey
+Chris Hemsworth | hemsworth
+Chris Evans
+Chris Pratt | pratt
+Ryan Reynolds | reynolds
+Ryan Gosling | gosling
+Hugh Jackman | jackman
+Christian Bale | bale
+Samuel L. Jackson | samuel l jackson
+Harrison Ford
+Arnold Schwarzenegger | arnold | schwarzenegger
+Sylvester Stallone | stallone | sly
+Bruce Willis
+Jim Carrey | carrey
+Adam Sandler | sandler
+Eddie Murphy
+Will Ferrell | ferrell
+Jack Nicholson | nicholson
+Anthony Hopkins | hopkins
+Daniel Craig
+Pierce Brosnan
+Sean Connery | connery
+Jason Statham | statham
+Vin Diesel
+Mark Wahlberg | wahlberg
+Jake Gyllenhaal | gyllenhaal
+Timothée Chalamet | timothee chalamet | chalamet
+Tom Holland
+Michael Caine
+Ian McKellen
+Patrick Stewart
+Daniel Radcliffe | radcliffe
+Benedict Cumberbatch | cumberbatch
+Idris Elba
+Hugh Grant
+Colin Firth
+Orlando Bloom
+Ewan McGregor
+Liam Neeson | neeson
+Russell Crowe
+Mel Gibson
+Kevin Costner
+Kevin Hart
+Jackie Chan
+Bruce Lee
+Marlon Brando | brando
+James Dean
+Clint Eastwood | eastwood
+Paul Newman
+Robert Redford
+Charlie Chaplin | chaplin
+Cary Grant
+Humphrey Bogart | bogart
+John Wayne
+Steve Carell | carell
+Paul Rudd
+Owen Wilson
+Ben Stiller
+Seth Rogen
+Jonah Hill
+Michael B. Jordan
+Chadwick Boseman
+Cillian Murphy
+Pedro Pascal
+Austin Butler
+Joaquin Phoenix
+Heath Ledger
+Robin Williams
+Matthew McConaughey | mcconaughey
+Jeff Bridges
+Gary Oldman
+Tom Hardy
+Henry Cavill
+Jared Leto
+Andrew Garfield
+Tobey Maguire
+Robert Pattinson
+Daniel Day-Lewis
+--- 3
+Gene Hackman
+Dustin Hoffman
+Jon Voight
+Christopher Walken
+Willem Dafoe
+Javier Bardem
+Antonio Banderas
+Mads Mikkelsen
+Christoph Waltz
+Benicio del Toro
+Viggo Mortensen
+Edward Norton
+Kevin Spacey
+Philip Seymour Hoffman
+Sean Penn
+Tim Robbins
+Forest Whitaker
+Jamie Foxx
+Don Cheadle
+Mahershala Ali
+Sterling K. Brown
+Daniel Kaluuya
+John Boyega
+Dev Patel
+Riz Ahmed
+Oscar Isaac
+Adam Driver
+Jesse Eisenberg
+Andrew Scott
+Paul Mescal
+Barry Keoghan
+Jacob Elordi
+Jeremy Allen White
+Glen Powell
+Miles Teller
+Bradley Cooper
+Channing Tatum
+Zac Efron
+Shia LaBeouf
+Michael Fassbender
+James McAvoy
+Tom Hiddleston
+Eddie Redmayne
+Jude Law
+Ralph Fiennes
+Kenneth Branagh
+Laurence Olivier
+Alec Guinness
+Peter O'Toole
+Richard Burton
+Michael Gambon
+Alan Rickman
+Gary Cooper
+James Stewart
+Gregory Peck
+Henry Fonda
+Spencer Tracy
+Fred Astaire
+Gene Kelly
+Kirk Douglas
+Burt Lancaster
+Steve McQueen
+Sidney Poitier
+Charlton Heston
+Yul Brynner
+Omar Sharif
+Toshiro Mifune
+Chow Yun-fat
+Tony Leung
+Jet Li
+Donnie Yen
+Ken Watanabe
+Shah Rukh Khan
+Amitabh Bachchan
+Aamir Khan
+Salman Khan
+Hrithik Roshan
+Rowan Atkinson
+John Cleese
+Simon Pegg
+Nick Frost
+Martin Freeman
+Steve Martin
+Bill Murray
+Dan Aykroyd
+Chevy Chase
+John Candy
+Danny DeVito
+Michael Keaton
+Jeff Goldblum
+Woody Harrelson
+Nicolas Cage
+John Travolta
+Patrick Swayze
+Rob Lowe
+Tom Selleck
+Burt Reynolds
+Chuck Norris
+Jean-Claude Van Damme
+Steven Seagal
+Dolph Lundgren
+
+=== actresses
+title: Famous actresses
+prompt: Name as many famous actresses as you can
+--- 1
+Meryl Streep | streep
+Julia Roberts
+Angelina Jolie | jolie
+Jennifer Aniston | aniston
+Scarlett Johansson | johansson
+Jennifer Lawrence
+Marilyn Monroe | marilyn
+Emma Watson
+Sandra Bullock | bullock
+Nicole Kidman | kidman
+Margot Robbie | robbie
+--- 2
+Audrey Hepburn
+Natalie Portman | portman
+Anne Hathaway | hathaway
+Emma Stone
+Zendaya
+Kate Winslet | winslet
+Cameron Diaz
+Halle Berry
+Charlize Theron | theron
+Reese Witherspoon | witherspoon
+Gwyneth Paltrow | paltrow
+Keira Knightley | knightley
+Jennifer Lopez | jlo
+Drew Barrymore
+Kristen Stewart
+Mila Kunis
+Jessica Alba
+Megan Fox
+Gal Gadot
+Florence Pugh
+Sydney Sweeney
+Anya Taylor-Joy
+Saoirse Ronan
+Viola Davis
+Octavia Spencer
+Lupita Nyong'o
+Whoopi Goldberg
+Oprah Winfrey | oprah
+Helen Mirren
+Judi Dench
+Maggie Smith
+Emma Thompson
+Cate Blanchett
+Naomi Watts
+Amy Adams
+Jessica Chastain
+Rachel McAdams
+Michelle Pfeiffer
+Sigourney Weaver
+Jodie Foster
+Susan Sarandon
+Sharon Stone
+Demi Moore
+Goldie Hawn
+Kate Hudson
+Diane Keaton
+Sally Field
+Glenn Close
+Kathy Bates
+Melissa McCarthy
+Tina Fey
+Amy Poehler
+Kristen Wiig
+Rebel Wilson
+Sofia Vergara
+Penélope Cruz | penelope cruz
+Salma Hayek
+Eva Longoria
+Eva Mendes
+Elizabeth Taylor
+Grace Kelly
+Judy Garland
+Julie Andrews
+Bette Davis
+Katharine Hepburn
+Ingrid Bergman
+Sophia Loren
+Brigitte Bardot
+Olivia Newton-John
+Millie Bobby Brown
+Hailee Steinfeld
+Jenna Ortega
+Selena Gomez
+Elle Fanning
+Dakota Johnson
+Jennifer Garner
+Blake Lively
+Mindy Kaling
+Lucy Liu
+Michelle Yeoh
+--- 3
+Frances McDormand
+Tilda Swinton
+Isabelle Huppert
+Juliette Binoche
+Marion Cotillard
+Léa Seydoux
+Audrey Tautou
+Catherine Deneuve
+Monica Bellucci
+Isabella Rossellini
+Rachel Weisz
+Olivia Colman
+Carey Mulligan
+Emily Blunt
+Vanessa Kirby
+Rosamund Pike
+Helena Bonham Carter
+Kate Beckinsale
+Thandiwe Newton
+Naomie Harris
+Gugu Mbatha-Raw
+Cynthia Erivo
+Taraji P. Henson
+Angela Bassett
+Regina King
+Kerry Washington
+Gabrielle Union
+Jada Pinkett Smith
+Queen Latifah
+Zoe Saldaña
+Tessa Thompson
+Issa Rae
+Awkwafina
+Constance Wu
+Ming-Na Wen
+Gong Li
+Zhang Ziyi
+Priyanka Chopra
+Deepika Padukone
+Aishwarya Rai
+Gemma Arterton
+Lily James
+Lily Collins
+Margaret Qualley
+Jenna Coleman
+Claire Foy
+Elisabeth Moss
+Laura Dern
+Holly Hunter
+Julianne Moore
+Annette Bening
+Jessica Lange
+Geena Davis
+Winona Ryder
+Uma Thurman
+Gwyneth
+Liv Tyler
+Mia Farrow
+Faye Dunaway
+Jane Fonda
+Shirley MacLaine
+Debbie Reynolds
+Doris Day
+Lauren Bacall
+Rita Hayworth
+Greta Garbo
+Vivien Leigh
+Joan Crawford
+Ava Gardner
+Lana Turner
+Natalie Wood
+Raquel Welch
+Jamie Lee Curtis
+Lindsay Lohan
+Amanda Seyfried
+Anna Kendrick
+Brie Larson
+Elizabeth Olsen
+Karen Gillan
+Zoe Kravitz
+Hunter Schafer
+Jennifer Coolidge
+Allison Janney
+Toni Collette

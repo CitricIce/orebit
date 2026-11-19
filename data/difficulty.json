@@ -74,7 +74,14 @@
     "school-subjects",
     "shapes",
     "tools",
-    "units"
+    "units",
+    "actors",
+    "exercises",
+    "instruments",
+    "music-genres",
+    "singers",
+    "sports",
+    "sports-equipment"
   ],
   "medium": [
     "birds-of-prey",
@@ -130,6 +137,9 @@
     "game-consoles",
     "sitcoms",
     "clothing-brands",
-    "shoes"
+    "shoes",
+    "actresses",
+    "athletes",
+    "bands"
   ]
 }
