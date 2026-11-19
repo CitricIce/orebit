@@ -17,7 +17,7 @@ export const TIERS: Record<TierId, Tier> = {
   3: { id: 3, name: "Cobalt", depth: 35, blurb: "You know your stuff.", color: "var(--t3)" },
   4: { id: 4, name: "Gold", depth: 55, blurb: "A real find.", color: "var(--t4)" },
   5: { id: 5, name: "Crystal", depth: 90, blurb: "Deep cut. Few reach it.", color: "var(--t5)" },
-  6: { id: 6, name: "Starcore", depth: 250, blurb: "One per asteroid. Legendary.", color: "var(--t6)" },
+  6: { id: 6, name: "Starcore", depth: 200, blurb: "One per asteroid. Legendary.", color: "var(--t6)" },
 };
 
 export const TIER_LIST: Tier[] = [1, 2, 3, 4, 5, 6].map((id) => TIERS[id as TierId]);

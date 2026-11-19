@@ -11,7 +11,7 @@ A daily category game set on an asteroid. Every day you get five asteroids, each
 | Cobalt | 35 m | You know your stuff |
 | Gold | 55 m | Enthusiast level |
 | Crystal | 90 m | Deep cuts |
-| Starcore | 250 m | One legendary answer per category |
+| Starcore | 200 m | One legendary answer per category |
 
 ## How the answer data works
 
