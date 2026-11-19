@@ -11,4 +11,7 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 ## Categories
 
 Every category must pass one test: could most people name about 5 answers in
-45 seconds? If not, don't add it. Full rules in `data/categories/README.md`.
+45 seconds? If not, don't add it. Rate each one in `data/difficulty.json`:
+easy only if nearly anyone can name 10 or more, otherwise medium. Any argument
+for medium means medium. Each day has at most 1 medium. Full rules in
+`data/categories/README.md`.

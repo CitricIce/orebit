@@ -1,5 +1,5 @@
 {
-  "_comment": "How hard each category is. easy: almost anyone names 10 or more in 45 seconds. medium: most people name about 5. Each day gets 4 easy and 1 medium, played last. When unsure, pick medium. Every category needs a level here before it can be scheduled.",
+  "_comment": "How hard each category is. easy: nearly anyone names 10 or more in 45 seconds. medium: most people name about 5. If there is any argument that a category is medium, it is medium. Each day gets 4 easy and exactly 1 medium (never more), played last. Every category needs a level here before it can be scheduled.",
   "easy": [
     "asian-countries",
     "european-countries",
