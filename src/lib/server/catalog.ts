@@ -1,8 +1,7 @@
 import "server-only";
 import data from "@/data/categories.json";
-import overrides from "../../../data/schedule.json";
+import calendar from "../../../data/calendar.json";
 import { buildIndex, findAnswer, type AnswerIndex } from "../match";
-import { categoriesFor } from "../schedule";
 import { dayNumber } from "../dates";
 import type { TierId } from "../tiers";
 
@@ -39,10 +38,24 @@ function indexFor(cat: Category): AnswerIndex<Answer> {
   return idx;
 }
 
-export function categoriesForDate(date: string): Category[] {
-  const scheduled = (overrides as { days?: Record<string, string[]> }).days ?? {};
-  return categoriesFor(date, allCategoryIds, scheduled).map((id) => byId.get(id)!);
+const days = (calendar as { start: string; days: string[][] }).days;
+
+/** The last date the calendar covers. Later dates have no survey yet. */
+export const lastScheduledDay = days.length;
+
+/**
+ * The categories for a date, from data/calendar.json, where every category
+ * is used on exactly one day. Returns null for a date the calendar doesn't
+ * reach yet.
+ */
+export function categoriesForDate(date: string): Category[] | null {
+  const ids = days[dayNumber(date) - 1];
+  if (!ids) return null;
+  const cats = ids.map((id) => byId.get(id));
+  return cats.every(Boolean) ? (cats as Category[]) : null;
 }
+
+export const NOT_SCHEDULED = "New surveys are on the way. Check back soon.";
 
 export function matchGuess(cat: Category, guess: string): Answer | null {
   return findAnswer(indexFor(cat), guess);

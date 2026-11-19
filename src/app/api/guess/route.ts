@@ -23,7 +23,7 @@ export async function POST(req: Request) {
   if (!isPlayable(date)) {
     return Response.json({ error: "That day isn't open." }, { status: 404 });
   }
-  const cat = categoriesForDate(date)[round];
+  const cat = categoriesForDate(date)?.[round];
   if (!cat) {
     return Response.json({ error: "No such round." }, { status: 404 });
   }

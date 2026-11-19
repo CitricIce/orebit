@@ -67,7 +67,16 @@
   color: var(--muted);
 }
 
+/* An opened tier can hold thousands of answers, so it scrolls in place. */
+.list[data-expanded="true"] {
+  max-height: 340px;
+  overflow-y: auto;
+  padding-right: 4px;
+  overscroll-behavior: contain;
+}
+
 .toggle {
+  margin-top: 10px;
   justify-self: start;
   background: none;
   border: 0;

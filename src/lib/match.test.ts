@@ -1,8 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { buildIndex, findAnswer, normalize } from "./match";
-import { categoriesFor } from "./schedule";
-import { addDays, LAUNCH_DATE } from "./dates";
+import calendar from "../../data/calendar.json";
 import { ROUNDS_PER_DAY } from "./tiers";
 
 const answers = [
@@ -78,15 +77,13 @@ test("short words need to be exact, and ties are rejected", () => {
   assert.equal(find(""), null);
 });
 
-test("schedule is stable and never repeats a category within a day", () => {
-  const ids = Array.from({ length: 28 }, (_, i) => `cat-${i}`);
-  for (let i = 0; i < 400; i++) {
-    const d = addDays(LAUNCH_DATE, i);
-    const a = categoriesFor(d, ids);
-    assert.equal(a.length, ROUNDS_PER_DAY);
-    assert.equal(new Set(a).size, ROUNDS_PER_DAY);
-    assert.deepEqual(a, categoriesFor(d, [...ids].reverse()));
+test("the calendar never repeats a category", () => {
+  const seen = new Set<string>();
+  for (const day of calendar.days) {
+    assert.equal(day.length, ROUNDS_PER_DAY);
+    for (const id of day) {
+      assert.ok(!seen.has(id), `${id} appears twice`);
+      seen.add(id);
+    }
   }
-  const picked = ["cat-1", "cat-2", "cat-3", "cat-4", "cat-5"];
-  assert.deepEqual(categoriesFor("2027-01-01", ids, { "2027-01-01": picked }), picked);
 });

@@ -13,7 +13,8 @@ export default function RevealList({
   answers: { name: string; tier: TierId }[] | null;
   found: FoundOre[];
 }) {
-  const [showAll, setShowAll] = useState(false);
+  // One tier can be opened at a time to see every answer in it.
+  const [open, setOpen] = useState<TierId | null>(null);
   if (!answers) return <div className={s.loading}>Analyzing core sample…</div>;
 
   const mine = new Set(found.map((o) => o.name));
@@ -27,7 +28,9 @@ export default function RevealList({
       {groups.map(({ tier, items }) => {
         if (!items.length) return null;
         const got = items.filter((a) => mine.has(a.name)).length;
-        const limit = showAll ? items.length : tier.id === 1 ? 18 : 24;
+        const expanded = open === tier.id;
+        const preview = tier.id === 1 ? 18 : 24;
+        const limit = expanded ? items.length : preview;
         return (
           <section
             key={tier.id}
@@ -41,7 +44,7 @@ export default function RevealList({
                 {got}/{items.length} · {tier.depth} m each
               </span>
             </h3>
-            <ul className={s.list}>
+            <ul className={s.list} data-expanded={expanded}>
               {items
                 .slice()
                 .sort((a, b) => Number(mine.has(b.name)) - Number(mine.has(a.name)))
@@ -51,14 +54,20 @@ export default function RevealList({
                     {a.name}
                   </li>
                 ))}
-              {items.length > limit && <li className={s.more}>+{items.length - limit} more</li>}
             </ul>
+            {items.length > preview && (
+              <button
+                type="button"
+                className={s.toggle}
+                aria-expanded={expanded}
+                onClick={() => setOpen(expanded ? null : tier.id)}
+              >
+                {expanded ? `Show fewer` : `Show all ${items.length.toLocaleString("en-US")} ${tier.name}`}
+              </button>
+            )}
           </section>
         );
       })}
-      <button className={s.toggle} onClick={() => setShowAll((v) => !v)}>
-        {showAll ? "Show fewer" : "Show every deposit"}
-      </button>
     </div>
   );
 }

@@ -9,7 +9,7 @@ export async function GET(_req: NextRequest, ctx: RouteContext<"/api/reveal/[dat
   if (!isPlayable(date) || !Number.isInteger(r)) {
     return Response.json({ error: "That day isn't open." }, { status: 404 });
   }
-  const cat = categoriesForDate(date)[r];
+  const cat = categoriesForDate(date)?.[r];
   if (!cat) {
     return Response.json({ error: "No such round." }, { status: 404 });
   }

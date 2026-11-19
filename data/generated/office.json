@@ -1,0 +1,6595 @@
+{
+"family": "office",
+"categories": [
+{
+"id": "u-s-vice-presidents",
+"title": "U.S. vice presidents",
+"prompt": "Name vice presidents of the United States",
+"answers": [
+{
+"name": "Joe Biden",
+"aliases": [
+"Joseph Robinette Biden Jr."
+],
+"links": 278
+},
+{
+"name": "Thomas Jefferson",
+"aliases": [
+"President Jefferson",
+"T. Jefferson"
+],
+"links": 225
+},
+{
+"name": "Harry S. Truman",
+"aliases": [
+"H. S. Truman",
+"H. Truman",
+"Harry S Truman",
+"Harry Truman",
+"President Truman",
+"Truman"
+],
+"links": 200
+},
+{
+"name": "George H. W. Bush",
+"aliases": [
+"Bush 41",
+"Bush I",
+"Bush Senior",
+"Bush Sr.",
+"G H W Bush",
+"G. H. W. Bush",
+"G.H.W. Bush",
+"George Bush Senior",
+"George Bush Snr.",
+"George Bush Sr",
+"George Bush Sr.",
+"George Bush, Sr.",
+"George H Bush",
+"George H W",
+"George H W Bush",
+"George H. W",
+"George H. W.",
+"George H.W.",
+"George Herbert Bush",
+"George W. Bush Senior",
+"GHW Bush",
+"GHWB",
+"H W Bush",
+"H. W. Bush",
+"H.W. Bush",
+"Herbert Walker Bush",
+"President Bush",
+"President George H. W. Bush",
+"President George H.W. Bush",
+"Vice President Bush"
+],
+"links": 198
+},
+{
+"name": "Theodore Roosevelt",
+"aliases": [
+"T. Roosevelt",
+"T. Roosevelt, Jr.",
+"Teddy Roosevelt",
+"Theodore Roosevelt, Jr."
+],
+"links": 196
+},
+{
+"name": "Richard Nixon",
+"aliases": [
+"Dick Nixon",
+"Nixon",
+"President Nixon",
+"President Richard Nixon",
+"R. M. Nixon",
+"R. Nixon",
+"Richard M. Nixon",
+"Richard Milhous Nixon",
+"Tricky Dick"
+],
+"links": 193
+},
+{
+"name": "John Adams",
+"aliases": [
+"J. Adams"
+],
+"links": 187
+},
+{
+"name": "Lyndon B. Johnson",
+"aliases": [
+"L. B. Johnson",
+"LBJ",
+"Lyndon Baines Johnson",
+"Lyndon Johnson",
+"President Johnson"
+],
+"links": 176
+},
+{
+"name": "Gerald Ford",
+"aliases": [
+"Ford",
+"G. R. Ford",
+"Gerald Ford Jr.",
+"Gerald R. Ford",
+"Gerald R. Ford Jr.",
+"Gerald R. Ford, Jr.",
+"Gerald Rudolph Ford Jr.",
+"Leslie King",
+"Leslie Lynch King",
+"Leslie Lynch King Jr.",
+"President Ford"
+],
+"links": 175
+},
+{
+"name": "Calvin Coolidge",
+"aliases": [
+"C. Coolidge",
+"J. C. Coolidge",
+"John Calvin Coolidge",
+"John Calvin Coolidge Jr.",
+"President Coolidge",
+"Silent Cal",
+"Silent Cal Coolidge"
+],
+"links": 161
+},
+{
+"name": "Martin Van Buren",
+"aliases": [
+"Buren",
+"M. van Buren",
+"Martin van Ruin",
+"Old Kinderhook",
+"President Martin Van Buren",
+"President van Buren",
+"President Van Buren",
+"The Mistletoe Politician",
+"The Red Fox of Kinderhook",
+"Van Buren"
+],
+"links": 146
+},
+{
+"name": "Andrew Johnson",
+"aliases": [
+"President Andrew Johnson",
+"President Johnson"
+],
+"links": 145
+},
+{
+"name": "John Tyler",
+"aliases": [
+"J. Tyler",
+"John Tyler Jr",
+"John Tyler Jr.",
+"John Tyler, Jr",
+"John Tyler, Jr.",
+"President Tyler"
+],
+"links": 143
+},
+{
+"name": "Millard Fillmore",
+"aliases": [
+"M. Fillmore",
+"President Fillmore"
+],
+"links": 141
+},
+{
+"name": "Al Gore",
+"aliases": [
+"Al Gore Jr.",
+"Albert Arnold Gore",
+"Albert Arnold Gore Jr.",
+"Albert Arnold Gore, Jr.",
+"Albert Gore",
+"Albert Gore Jr.",
+"Gore"
+],
+"links": 136
+},
+{
+"name": "Chester A. Arthur",
+"aliases": [
+"C. A. Arthur",
+"C. Arthur",
+"Chester Arthur",
+"President Arthur"
+],
+"links": 133
+},
+{
+"name": "Mike Pence",
+"aliases": [
+"Congressman Mike Pence",
+"Governor Mike Pence",
+"Governor Pence",
+"Michael Pence",
+"Rep. Mike Pence",
+"VPOTUS"
+],
+"links": 119
+},
+{
+"name": "JD Vance",
+"aliases": [
+"J. D. Hamel",
+"J. D. Vance",
+"J.D. Vance",
+"James David Aikins",
+"James David Hamel",
+"James David Vance",
+"James Donald Bowman"
+],
+"links": 113
+},
+{
+"name": "Dan Quayle",
+"aliases": [
+"J. Danforth Quayle",
+"James Danforth Quayle"
+],
+"links": 94
+},
+{
+"name": "Walter Mondale",
+"aliases": [
+"Fritz Mondale",
+"Walter Frederick Mondale"
+],
+"links": 80
+},
+{
+"name": "Aaron Burr",
+"aliases": [
+"Aaron Burr, Jr.",
+"Vice-President Aaron Burr"
+],
+"links": 76
+},
+{
+"name": "Charles G. Dawes",
+"aliases": [
+"C. G. Dawes",
+"Charles Dawes",
+"Charles Gates Dawes",
+"Chas. G. Dawes"
+],
+"links": 75
+},
+{
+"name": "Hubert Humphrey",
+"aliases": [
+"HHH",
+"Hubert H. Humphrey, Jr.",
+"Hubert Humphrey Jr.",
+"Hubert Humphrey, Jr."
+],
+"links": 75
+},
+{
+"name": "John C. Calhoun",
+"aliases": [
+"John Caldwell Calhoun",
+"John Calhoun"
+],
+"links": 74
+},
+{
+"name": "Nelson Rockefeller",
+"aliases": [
+"Nelson A. Rockefeller",
+"Nelson Aldrich Rockefeller"
+],
+"links": 74
+},
+{
+"name": "Spiro Agnew",
+"aliases": [],
+"links": 73
+},
+{
+"name": "Henry A. Wallace",
+"aliases": [
+"Henry Agard Wallace",
+"Henry Wallace",
+"Vice President Henry Wallace",
+"Vice President Wallace"
+],
+"links": 72
+},
+{
+"name": "Alben W. Barkley",
+"aliases": [
+"Alben Barkley",
+"Alben William Barkley"
+],
+"links": 64
+},
+{
+"name": "John Nance Garner",
+"aliases": [
+"John Garner",
+"John N. Garner",
+"John Nance Garner III",
+"John Nance Garner IV"
+],
+"links": 63
+},
+{
+"name": "Elbridge Gerry",
+"aliases": [
+"Elbridge Thomas Gerry"
+],
+"links": 59
+},
+{
+"name": "Charles Curtis",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Daniel D. Tompkins",
+"aliases": [
+"Daniel Tompkins",
+"Vice President Tompkins"
+],
+"links": 58
+},
+{
+"name": "George Clinton",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Hannibal Hamlin",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Thomas R. Marshall",
+"aliases": [
+"Thomas Marshall",
+"Thomas Riley Marshall"
+],
+"links": 58
+},
+{
+"name": "William R. King",
+"aliases": [
+"William Rufus de Vane King",
+"William Rufus DeVane King"
+],
+"links": 56
+},
+{
+"name": "Henry Wilson",
+"aliases": [
+"Jeremiah Jones Colbath"
+],
+"links": 55
+},
+{
+"name": "John C. Breckinridge",
+"aliases": [
+"J. C. Breckinridge",
+"John Breckinridge",
+"John Cabell Breckinridge"
+],
+"links": 55
+},
+{
+"name": "Richard Mentor Johnson",
+"aliases": [
+"Richard Johnson",
+"Richard M. Johnson"
+],
+"links": 55
+},
+{
+"name": "Charles W. Fairbanks",
+"aliases": [
+"Charles Fairbanks",
+"Charles Warren Fairbanks"
+],
+"links": 54
+},
+{
+"name": "George M. Dallas",
+"aliases": [
+"George Dallas",
+"George Miffin Dallas",
+"George Mifflin Dallas"
+],
+"links": 54
+},
+{
+"name": "Garret Hobart",
+"aliases": [
+"Garret A. Hobart",
+"Garret Augustus Hobart"
+],
+"links": 53
+},
+{
+"name": "Levi P. Morton",
+"aliases": [
+"Levi Morton",
+"Levi Parsons Morton"
+],
+"links": 53
+},
+{
+"name": "William A. Wheeler",
+"aliases": [
+"William Almon Wheeler",
+"William Wheeler"
+],
+"links": 53
+},
+{
+"name": "Schuyler Colfax",
+"aliases": [
+"Schuyler Colfax Jr.",
+"Schuyler Colfax, Jr."
+],
+"links": 52
+},
+{
+"name": "Thomas A. Hendricks",
+"aliases": [
+"Thomas Andrews Hendricks",
+"Thomas Hendricks"
+],
+"links": 52
+},
+{
+"name": "Adlai Stevenson I",
+"aliases": [
+"Adlai E. Stevenson",
+"Adlai E. Stevenson I",
+"Adlai Ewing Stevenson",
+"Adlai Ewing Stevenson I",
+"Adlai Stevenson"
+],
+"links": 51
+},
+{
+"name": "James S. Sherman",
+"aliases": [
+"James Schoolcraft Sherman",
+"James Sherman"
+],
+"links": 50
+},
+{
+"name": "Jack Ryan",
+"aliases": [
+"John Patrick Ryan, Sr."
+],
+"links": 20
+},
+{
+"name": "Frank Underwood",
+"aliases": [
+"Francis J. Underwood"
+],
+"links": 17
+},
+{
+"name": "Claire Underwood",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Charles Logan",
+"aliases": [],
+"links": 10
+},
+{
+"name": "John Hoynes",
+"aliases": [
+"Senator John Hoynes",
+"Vice President John Hoynes"
+],
+"links": 3
+},
+{
+"name": "Selina Meyer",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hal Gardner",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bob Russell",
+"aliases": [
+"Vice President Bob Russell"
+],
+"links": 1
+},
+{
+"name": "Joe Biden",
+"aliases": [
+"Diamond Joe",
+"The Onion's Joe Biden",
+"Uncle Joe"
+],
+"links": 1
+}
+]
+},
+{
+"id": "popes",
+"title": "Popes",
+"prompt": "Name popes",
+"answers": [
+{
+"name": "Pope Francis",
+"aliases": [
+"Francis",
+"Francisco",
+"Franciscus I",
+"François Bergoglio",
+"Pope Francesco",
+"Pope Francis I",
+"Pope Francisco",
+"Pope Franciscus"
+],
+"links": 240
+},
+{
+"name": "John Paul II",
+"aliases": [
+"Andrzej Jawień",
+"Eoin Pól",
+"Gioan Phaolô",
+"Giovanni Paolo",
+"Hovnannēs-Poghos",
+"Ioan Paul",
+"Ioann Pavel",
+"Ioannes Paulus",
+"Ivan Pavao",
+"Ivan Pavlo",
+"Jan Paweł",
+"Janez Pavel",
+"Jean Paul",
+"Joannes Paulus",
+"Johannes Paul",
+"Jonas Paulius",
+"João Paulo",
+"JP II",
+"JPII",
+"Juan Pablo",
+"János Pál",
+"Jānis Pāvils",
+"Jōṇ Pōḷ",
+"Karolis Voityla",
+"Karols Vojtila",
+"Lolek Wojtyla",
+"Pope John Paul II",
+"Pope Saint John Paul II the Great",
+"Saint John Paul II",
+"Stanisław Gruda",
+"Vojtyla",
+"Yohan Paoro",
+"Yohanes Paulus",
+"Yoḥanan Paʼulus",
+"Yūḥannā Būlus",
+"Ĭoan Pavel",
+"Ḳarol Ṿoiṭilah"
+],
+"links": 210
+},
+{
+"name": "Benedict XVI",
+"aliases": [
+"Benedetto XVI",
+"Pope Benedict XVI",
+"Pope Benedictus XVI",
+"Pope Emeritus Benedict XVI"
+],
+"links": 200
+},
+{
+"name": "Leo XIV",
+"aliases": [
+"Cardinal Prevost",
+"Cardinal Robert Francis Prevost",
+"Cardinal Robert Prevost",
+"Pope Leo XIV"
+],
+"links": 177
+},
+{
+"name": "Saint Peter",
+"aliases": [
+"Apostle Peter",
+"Cephas",
+"Kipa",
+"Peter",
+"Peter the Apostle",
+"Peter, the Apostle, Saint",
+"Petrus",
+"Pope Peter",
+"Saint Peter the Apostle",
+"Shimon",
+"Shimoun Bar Younah",
+"Simeon",
+"Simon",
+"St Peter",
+"St. Peter"
+],
+"links": 155
+},
+{
+"name": "John XXIII",
+"aliases": [
+"Andzhelo Dzhuzepe Ronkali",
+"Angelo Giuseppe Roncalli",
+"Angelo Josef Roncalli",
+"Pope John XXIII",
+"Pope Saint John XXIII",
+"Saint John XXIII"
+],
+"links": 137
+},
+{
+"name": "John Paul I",
+"aliases": [
+"Blessed John Paul I",
+"Iohannes Paulus PP. I",
+"Johannes Paulus",
+"John Paul",
+"JP I",
+"JPI",
+"papa Giovanni Paolo I",
+"Pope Giovanni Paolo I",
+"Pope John Paul I"
+],
+"links": 127
+},
+{
+"name": "Paul VI",
+"aliases": [
+"Jan Baptist Montini",
+"Paulus VI",
+"Pope Paul VI",
+"Saint Paul VI"
+],
+"links": 125
+},
+{
+"name": "Pius XII",
+"aliases": [
+"Eugenio Marìa Giuseppe Giovanni Pacelli",
+"Pius PP. XII",
+"Pope Pio XII",
+"Pope Pius XII",
+"Venerable Pius XII"
+],
+"links": 122
+},
+{
+"name": "Pius XI",
+"aliases": [
+"A. Ratti",
+"Ambrogio Ratti",
+"papa Pio XI",
+"Papa Pío XI",
+"pape Pie XI",
+"paus Pius XI",
+"Pius PP. XI",
+"Pius XI. Papst",
+"Pope Pio XI"
+],
+"links": 121
+},
+{
+"name": "Pius X",
+"aliases": [
+"Pius PP. X",
+"Pope Saint Pius X",
+"Saint Pius X"
+],
+"links": 118
+},
+{
+"name": "Leo XIII",
+"aliases": [
+"Gioacchino Vincenzo Pecci",
+"Leo PP. XIII"
+],
+"links": 115
+},
+{
+"name": "Benedict XV",
+"aliases": [
+"Giacomo Giambattista della Chiesa",
+"Pope Benedict XV"
+],
+"links": 113
+},
+{
+"name": "Gregory I",
+"aliases": [
+"Gregorius Anicius",
+"Gregorius Magnus",
+"Gregory",
+"Gregory the Great",
+"Gregory The Great",
+"Pope Gregory the Great",
+"Pope Saint Gregory I",
+"Pope Saint Gregory I the Great",
+"Pope St. Gregory I",
+"Saint Gregorius Magnus",
+"Saint Gregory",
+"Saint Gregory I",
+"Saint Gregory the Dialogist",
+"Saint Gregory the Great",
+"St Gregory",
+"St Gregory I",
+"St Gregory the Great",
+"St. Gregory the Dialogist",
+"St. Gregory the Great"
+],
+"links": 112
+},
+{
+"name": "Clement",
+"aliases": [
+"Clemens",
+"Clemens I",
+"Clemens Romanus",
+"Clemens the Bishop",
+"Clement of Rome",
+"Clement the Bishop",
+"Flavius Clemens",
+"Iklīmindis al-Rūmānī",
+"Kelemen",
+"Klemens",
+"Kliment",
+"Klyment",
+"Klymentiĭ",
+"Klēmēs",
+"Pope Clement I",
+"Pope Kelemen I",
+"Pope Klemens I",
+"Pope Klyment I",
+"Pope Saint Clement I",
+"Saint Clemens",
+"Saint Clement",
+"Saint Clement I",
+"San Clemente",
+"St. Clemens",
+"St. Clement"
+],
+"links": 110
+},
+{
+"name": "Pius IX",
+"aliases": [
+"Pope Pio IX"
+],
+"links": 110
+},
+{
+"name": "Alexander VI",
+"aliases": [
+"Alexander Sixth",
+"Alexander VI.",
+"Pope Alexander VI.",
+"Roderic Llançol i de Borja",
+"Rodrigo Lanzol y de Borja"
+],
+"links": 104
+},
+{
+"name": "Gregory XVI",
+"aliases": [
+"Bartolommeo Alberto Cappellari",
+"Gregor XVI. Papst",
+"Gregorius PP. XVI",
+"papa Gregorio XVI",
+"Papa Gregorio XVI",
+"pape Gregoire XVI",
+"pape Grégoire XVI",
+"Pope Gregory XVI"
+],
+"links": 98
+},
+{
+"name": "Linus",
+"aliases": [
+"Linu",
+"Paus Linus",
+"Pope Linus",
+"Pope Saint Linus",
+"Saint Linus"
+],
+"links": 98
+},
+{
+"name": "Gregory XIII",
+"aliases": [
+"Gregor XIII. Papst",
+"Gregorius PP. XIII",
+"papa Gregorio XIII",
+"pape Gregoire XIII",
+"pape Grégoire XIII",
+"Pope Gregorius XIII",
+"Pope Gregory XIII",
+"Ugo Boncompani"
+],
+"links": 97
+},
+{
+"name": "Julius II",
+"aliases": [
+"Giuliano Della Rovere",
+"Iulius II",
+"Julien de La Rovere",
+"Julien de La Rovère",
+"Julien de, Cardinal La Rovère",
+"Julius II. Papst",
+"Papa Julio II",
+"pape Jules II",
+"Pope Julius II",
+"The Fearsome Pope",
+"The Warrior Pope"
+],
+"links": 97
+},
+{
+"name": "Pius VII",
+"aliases": [
+"Barnaba Niccolo Maria Luigi Chiaramonti",
+"Father Gregory",
+"Gregorio Chiaramonti",
+"Luigi Barnaba Gregorio Chiaramonti",
+"papa Pio VII",
+"Papa Pío VII",
+"pape Pie VII",
+"paus Pius VII",
+"Pius PP. VII",
+"Pius VII. Papst",
+"Pope Pie VII",
+"Pope Pio VII",
+"Pope Pius VII",
+"Pope Pío VII",
+"Servant of God Pius VII"
+],
+"links": 97
+},
+{
+"name": "Urban II",
+"aliases": [
+"Pope Blessed Urban II"
+],
+"links": 97
+},
+{
+"name": "Innocent III",
+"aliases": [
+"Innocentius PP. III",
+"Innozenz III. Papst",
+"Lotario dei Conti di Segni",
+"Lotario dei conti di Segni",
+"Lotario di Segni",
+"Lothair of Segni",
+"Lothar of Segni",
+"papa Innocenzo III",
+"pape Innocent III",
+"Pope Innocentius III",
+"Pope Innocenz III",
+"Pope Innocenzo III",
+"Pope Innozenz III"
+],
+"links": 96
+},
+{
+"name": "Leo I",
+"aliases": [
+"Leo the Great",
+"Pope Leo I"
+],
+"links": 95
+},
+{
+"name": "Leo X",
+"aliases": [
+"Giovanni De' Medici",
+"Leo PP. X",
+"Leo X. Papst",
+"Papa Leon X",
+"Papa León X",
+"Pope Leo X",
+"Pope Leone X"
+],
+"links": 93
+},
+{
+"name": "Paul III",
+"aliases": [
+"Paulus III",
+"Paulus PP. III",
+"Pope Paul III"
+],
+"links": 93
+},
+{
+"name": "Anacletus",
+"aliases": [
+"Cletus",
+"Pope Anacletus"
+],
+"links": 92
+},
+{
+"name": "Leo XII",
+"aliases": [
+"Leo PP. XII",
+"Pope Leo XII"
+],
+"links": 92
+},
+{
+"name": "Benedict XIV",
+"aliases": [
+"Benedictus PP. XIV",
+"Benedictus XIV",
+"Benedikt XIV. Papst",
+"Pope Benedict XIV"
+],
+"links": 91
+},
+{
+"name": "Gregory VII",
+"aliases": [
+"Hildebrand",
+"Hildebrand of Sovana",
+"Ildebrando da Soana",
+"Pope Gregory VII",
+"Pope Saint Gregory VII"
+],
+"links": 91
+},
+{
+"name": "Pius V",
+"aliases": [
+"Pope Pius V",
+"Pope Saint Pius V",
+"Pope St. Pius V",
+"Saint Pius V"
+],
+"links": 91
+},
+{
+"name": "Pius II",
+"aliases": [
+"Aeneas Silvius Piccolomini",
+"Aeneas Sylvius Piccolominus",
+"Enea Silvio Bartolomeo Piccolomini",
+"Eneas Silvius Piccolomini",
+"papa Pio II",
+"Papa Pío II",
+"pape Pie II",
+"Pius II. Papst",
+"Pius PP. II",
+"Pope Pius II",
+"Silvio Piccolomini",
+"Æneas Silvius"
+],
+"links": 90
+},
+{
+"name": "Pius VI",
+"aliases": [
+"Count Giovanni Angelo Braschi",
+"Giannangelo Braschi",
+"Papa Pius VI",
+"Pope Pius VI"
+],
+"links": 90
+},
+{
+"name": "Pius VIII",
+"aliases": [
+"Pope Pius VIII"
+],
+"links": 90
+},
+{
+"name": "Urban VIII",
+"aliases": [
+"Pope Urban VIII",
+"Urbanus VIII"
+],
+"links": 90
+},
+{
+"name": "Sylvester I",
+"aliases": [
+"Papa Silvester / Sylvester I",
+"Pope Sylvester I",
+"Saint Sylvester",
+"Silvester I",
+"St Sylvester",
+"St. Sylvester"
+],
+"links": 89
+},
+{
+"name": "Paul V",
+"aliases": [
+"Camille Borghèse",
+"Camillo Borghèse",
+"papa Paolo V",
+"pape Paul V",
+"Paul V. Papst",
+"Paulus PP. V",
+"Paulus V",
+"Pope Paul V",
+"Pope Paulus V"
+],
+"links": 88
+},
+{
+"name": "Adrian VI",
+"aliases": [
+"Hadrianus VI",
+"Pope Adrian VI"
+],
+"links": 87
+},
+{
+"name": "Alexander I",
+"aliases": [
+"Alexander",
+"Pope Alexander I"
+],
+"links": 87
+},
+{
+"name": "Alexander III",
+"aliases": [
+"Pope Alexander III",
+"Roland of Siena"
+],
+"links": 87
+},
+{
+"name": "Boniface VIII",
+"aliases": [
+"Benedetto Gaetani",
+"Benedetto Gaetano",
+"Benedict Caetani",
+"Benedictus Caetani",
+"Bonifacio VIII",
+"Bonifacius PP. VIII",
+"Bonifatius VIII. Papa",
+"pape Boniface VIII",
+"Pope Boniface VIII"
+],
+"links": 87
+},
+{
+"name": "Evaristus",
+"aliases": [
+"Aristus",
+"Pope Evaristus"
+],
+"links": 87
+},
+{
+"name": "Callixtus III",
+"aliases": [
+"Alfonso de Borja y Cabanilles",
+"Pope Callixtus III"
+],
+"links": 86
+},
+{
+"name": "Clement XII",
+"aliases": [
+"Clemens PP. XII",
+"Klemens XII. Papst",
+"papa Clemente XII",
+"pape Clement XII",
+"pape Clément XII",
+"Pope Benedict XII",
+"Pope Clement XII",
+"Pope Clemente XII"
+],
+"links": 86
+},
+{
+"name": "Gregory II",
+"aliases": [
+"Gregorius II. Papa",
+"Gregorius Sabellus",
+"Pope Gregory II",
+"Pope St. Gregory II",
+"Pope, Saint Gregory II",
+"Saint Gregory II"
+],
+"links": 86
+},
+{
+"name": "Gregory IX",
+"aliases": [
+"Bishop of Ostia Ugolino",
+"Di Segni Ugolino",
+"Gregor IX",
+"Gregorius PP. IX",
+"Hugo of Segni",
+"Hugo ze Segni",
+"Hugolin de' Conti de Segni",
+"Hugolin di Segna",
+"Hugolino of Segni",
+"Hugolinus di Segna",
+"Hugues di Segna",
+"Pope Gregory IX",
+"Ugo of Segni",
+"Ugolino d' Ostia",
+"Ugolino de Segni",
+"Ugolino de' Conti di Segni",
+"Ugolino dei conti di Segni",
+"Ugolino di Segni",
+"Ugolino Di Segni",
+"Ugolino DiSegni",
+"Ugolino of Segni",
+"Ugolino Ostia",
+"Ugolino von Segni",
+"Ugolino ze Segni",
+"Ugolino, Bishop of Ostia",
+"Ugolino, Bishop of Ostia and Velletri"
+],
+"links": 86
+},
+{
+"name": "Leo III",
+"aliases": [
+"Pope Leo III"
+],
+"links": 86
+},
+{
+"name": "Pius IV",
+"aliases": [
+"Gian Angelo de' Medici",
+"Giovanni Angelo de' Medici",
+"Pope Pius IV"
+],
+"links": 86
+},
+{
+"name": "Sixtus I",
+"aliases": [
+"Pope Sixtus I",
+"Sextus",
+"Xystus I"
+],
+"links": 86
+},
+{
+"name": "Eugene IV",
+"aliases": [
+"Eugenius IV",
+"Gabriele Condulmaro",
+"pape Eugene IV",
+"pape Eugène IV",
+"Pope Eugene IV"
+],
+"links": 85
+},
+{
+"name": "Innocent XI",
+"aliases": [
+"Pope Innocent XI"
+],
+"links": 85
+},
+{
+"name": "Leo XI",
+"aliases": [
+"Leo PP. XI",
+"Leo XI. Papst",
+"Leon XI pape",
+"Léon XI pape",
+"papa Leone XI",
+"Pope Leo XI"
+],
+"links": 85
+},
+{
+"name": "Nicholas V",
+"aliases": [
+"Nicolaus PP. V",
+"Nikolaus V. Papst",
+"papa Niccolò V",
+"pape Nicolas V",
+"Pope Nicholas V",
+"Pope Nikolaus V"
+],
+"links": 85
+},
+{
+"name": "Clement VII",
+"aliases": [
+"Clemens PP. VII",
+"Giulio de’ Medici",
+"Giulio di Giuliano de Medici",
+"Julius de Medicis",
+"Pope Clement VII"
+],
+"links": 84
+},
+{
+"name": "Clement VIII",
+"aliases": [
+"Clemens PP. VIII",
+"Clemens VIII",
+"Klemens VIII. Papst",
+"papa Clemens VIII",
+"pape Clement VIII",
+"pape Clément VIII",
+"Pope Clemens VIII",
+"Pope Clement VIII"
+],
+"links": 84
+},
+{
+"name": "Damasus I",
+"aliases": [
+"Damasus",
+"Pope Damasus I"
+],
+"links": 84
+},
+{
+"name": "Eleuterus",
+"aliases": [
+"Eleuterio",
+"Eleuther",
+"Eleutherus",
+"Papst Eleutherus",
+"Pope Eleuterus",
+"Pope Eleutherius",
+"Pope St. Eleutherius",
+"Pope St. Eleutheros",
+"Pseudo-Eleutherius",
+"Saint Eleutherius"
+],
+"links": 84
+},
+{
+"name": "Gelasius I",
+"aliases": [
+"Gelasius I. Papst",
+"Pope Gelasio I",
+"Pope Gelasius I",
+"Pope St. Gelasius I",
+"Saint Gelasius I"
+],
+"links": 84
+},
+{
+"name": "Gregory III",
+"aliases": [
+"Pope Gregory III"
+],
+"links": 84
+},
+{
+"name": "Gregory XV",
+"aliases": [
+"Alessandro Ludovisio",
+"Pope Gregory XV"
+],
+"links": 84
+},
+{
+"name": "Sixtus IV",
+"aliases": [
+"Pope Sixtus IV"
+],
+"links": 84
+},
+{
+"name": "Urban I",
+"aliases": [
+"Pope Urban I",
+"Urban",
+"Urbanus I"
+],
+"links": 84
+},
+{
+"name": "Adrian I",
+"aliases": [
+"Adrian",
+"Hadrianus I",
+"Pope Adrian",
+"Pope Adrian I"
+],
+"links": 83
+},
+{
+"name": "Adrian IV",
+"aliases": [
+"Hadrianus IV",
+"Nicolas Breakspear",
+"Pope Adrian IV"
+],
+"links": 83
+},
+{
+"name": "Honorius I",
+"aliases": [
+"Honorius",
+"Pope Honorius",
+"Pope Honorius I"
+],
+"links": 83
+},
+{
+"name": "Hyginus",
+"aliases": [
+"Hyginus Papa",
+"Pope Hyginus"
+],
+"links": 83
+},
+{
+"name": "Innocent VIII",
+"aliases": [
+"Innocentius PP. VIII",
+"Innocentius VIII",
+"papa Innocenzo VIII",
+"pape Innocent VIII",
+"Pope Innocent VIII"
+],
+"links": 83
+},
+{
+"name": "Julius I",
+"aliases": [
+"Iulius I",
+"Ivlivs",
+"Julius",
+"Pope Julius I",
+"St. Julius I"
+],
+"links": 83
+},
+{
+"name": "Julius III",
+"aliases": [
+"Pope Julius III"
+],
+"links": 83
+},
+{
+"name": "Pius I",
+"aliases": [
+"Pius",
+"Pope Pius I"
+],
+"links": 83
+},
+{
+"name": "Sixtus II",
+"aliases": [
+"Pope Sixtus II",
+"Xystus II"
+],
+"links": 83
+},
+{
+"name": "Sixtus V",
+"aliases": [
+"Felice Peretti di Montalto",
+"papa Sisto V",
+"Papa Sixto V",
+"pape Sixte V",
+"Pope Sisto V",
+"Pope Sixte-Quint",
+"Pope Sixtus V",
+"Sixtus PP. V",
+"Sixtus V. Papst"
+],
+"links": 83
+},
+{
+"name": "Telesphorus",
+"aliases": [
+"Pope Telesphorus"
+],
+"links": 83
+},
+{
+"name": "Clement XIII",
+"aliases": [
+"Carlo Rezzonico",
+"Clemens PP. XIII",
+"Clemens XIII",
+"papa Clemente XIII",
+"pape Clement XIII",
+"pape Clément XIII",
+"Pope Clemens XIII",
+"Pope Clement XIII"
+],
+"links": 82
+},
+{
+"name": "Dionysius",
+"aliases": [
+"Pope Dionysius"
+],
+"links": 82
+},
+{
+"name": "Gregory IV",
+"aliases": [
+"Gregorius",
+"Pope Gregory IV"
+],
+"links": 82
+},
+{
+"name": "Innocent IV",
+"aliases": [
+"Sinibaldo de' Fieschi",
+"Sinibaldo Fieschi dei conti di Lavagna"
+],
+"links": 82
+},
+{
+"name": "Innocent X",
+"aliases": [
+"Giambattista Pamphili",
+"Innocentius PP. X",
+"Innocentius X",
+"Innozenz X. Papst",
+"papa Innocenzo X",
+"Papa Inocencio X",
+"pape Innocent X",
+"Pope Innocent X"
+],
+"links": 82
+},
+{
+"name": "John VIII",
+"aliases": [
+"Ioannes VIII",
+"Pope John VIII"
+],
+"links": 82
+},
+{
+"name": "John XII",
+"aliases": [
+"Ioannes XII",
+"Ottaviano",
+"Pope John XII"
+],
+"links": 82
+},
+{
+"name": "Paul II",
+"aliases": [
+"papa Paolo II",
+"pape Paul II",
+"Paulus II",
+"Paulus PP. II",
+"Pope Paul II"
+],
+"links": 82
+},
+{
+"name": "Paul IV",
+"aliases": [
+"Paulus IV",
+"Pope Paul IV"
+],
+"links": 82
+},
+{
+"name": "Sylvester II",
+"aliases": [
+"Pope Sylvester II"
+],
+"links": 82
+},
+{
+"name": "Urban VII",
+"aliases": [
+"Papa Urbanus VII",
+"Pope Urban VII"
+],
+"links": 82
+},
+{
+"name": "Victor I",
+"aliases": [
+"Pope Victor I",
+"Victor"
+],
+"links": 82
+},
+{
+"name": "Anicetus",
+"aliases": [
+"Pope Anicetus"
+],
+"links": 81
+},
+{
+"name": "Benedict II",
+"aliases": [
+"Benedictus Sabellus",
+"Pope Benedict II"
+],
+"links": 81
+},
+{
+"name": "Benedict V",
+"aliases": [
+"Benedetto",
+"Benedictus V",
+"Pope Benedict V"
+],
+"links": 81
+},
+{
+"name": "Benedict XIII",
+"aliases": [
+"Benedictus PP. XIII",
+"Benedictus XIII",
+"Benedikt XIII. Papst",
+"Pierfrancesco Orsini",
+"Pietro Francesco Orsini de Gravina",
+"Pope Benedict XIII",
+"Vincenzo Maria",
+"Vincenzo Maria Orsini"
+],
+"links": 81
+},
+{
+"name": "Callixtus I",
+"aliases": [
+"Callistus I",
+"Callixtus",
+"Pope Callixtus I"
+],
+"links": 81
+},
+{
+"name": "Celestine V",
+"aliases": [
+"Celestine",
+"Coelestinus",
+"Peter of Morrone",
+"Petrus de Murrone",
+"Pier Celestino",
+"Pietro Angeleri",
+"Pietro Angelerio",
+"Pietro Celestino",
+"Pietro da Morrone",
+"Pietro del Morrone",
+"Pope Celestine V",
+"Saint Celestine V",
+"Saint Peter Celestine"
+],
+"links": 81
+},
+{
+"name": "Hormisdas",
+"aliases": [
+"Pope Hormisdas",
+"Saint Pope Hormisdas"
+],
+"links": 81
+},
+{
+"name": "Innocent XIII",
+"aliases": [
+"Innocentius PP. XIII",
+"Innozenz XIII. Papst",
+"Michelangelo Conti di Poli",
+"Michelangiolo dei Conti",
+"papa Innocenzo XIII",
+"pape Innocent XIII",
+"Pope Innocent XIII",
+"Pope Innocentius XIII"
+],
+"links": 81
+},
+{
+"name": "Martin V",
+"aliases": [
+"Odo Colonna",
+"Pope Martin V"
+],
+"links": 81
+},
+{
+"name": "Paul I",
+"aliases": [
+"Paul",
+"Paulus I",
+"Pope Paul",
+"Pope Paul I"
+],
+"links": 81
+},
+{
+"name": "Pius III",
+"aliases": [
+"Pope Pius III"
+],
+"links": 81
+},
+{
+"name": "Adrian II",
+"aliases": [
+"Pope Adrian II"
+],
+"links": 80
+},
+{
+"name": "Adrian III",
+"aliases": [
+"Pope Adrian III"
+],
+"links": 80
+},
+{
+"name": "Alexander VII",
+"aliases": [
+"Alexander VII. Papst",
+"papa Alessandro VII",
+"pape Alexandre VII",
+"Philomathus",
+"Pope Alexander VII"
+],
+"links": 80
+},
+{
+"name": "Alexander VIII",
+"aliases": [
+"Alessandro VIII",
+"Alexander VIII. Papst",
+"pape Alexandre VIII",
+"Petrus Otthobonus",
+"Pietro Ottoboni",
+"Pope Alexander VIII"
+],
+"links": 80
+},
+{
+"name": "Clement IX",
+"aliases": [
+"Clemens PP. IX",
+"Pope Clemens IX",
+"Pope Clement IX"
+],
+"links": 80
+},
+{
+"name": "Clement X",
+"aliases": [
+"Clemens PP. X",
+"Clemens X",
+"Klemens X. Papst",
+"Pope Clement X"
+],
+"links": 80
+},
+{
+"name": "Clement XI",
+"aliases": [
+"Clemens PP. XI",
+"Clemens XI",
+"Giovanni Albani",
+"Klemens XI. Papst",
+"papa Clemente XI",
+"pape Clement XI",
+"pape Clément XI",
+"Pope Clement XI"
+],
+"links": 80
+},
+{
+"name": "Cornelius",
+"aliases": [
+"Pope Cornelius"
+],
+"links": 80
+},
+{
+"name": "Fabian",
+"aliases": [
+"Fabius Fabianus",
+"Fabius Flavianus",
+"Flavianus",
+"St. Fabian"
+],
+"links": 80
+},
+{
+"name": "Gregory VIII",
+"aliases": [
+"Albert de Mora",
+"Albertus de Morra",
+"Gregorius VIII. Papa",
+"Pope Gregory VIII"
+],
+"links": 80
+},
+{
+"name": "Gregory XIV",
+"aliases": [
+"Niccolo Sfondrati",
+"Nicolaus Sfondrati",
+"Nicolaus Sfondratus",
+"pape Gregoire XIV",
+"pape Grégoire XIV",
+"Papst Gregor XIV",
+"Pope Gregorius XIV",
+"Pope Gregory XIV"
+],
+"links": 80
+},
+{
+"name": "Innocent XII",
+"aliases": [
+"Innocentius PP. XII",
+"Innozenz XII. Papst",
+"papa Innocenzo XII",
+"pape Innocent XII",
+"Pope Innocent XII"
+],
+"links": 80
+},
+{
+"name": "John I",
+"aliases": [
+"Ioannes I",
+"John",
+"Pope John",
+"Pope John I"
+],
+"links": 80
+},
+{
+"name": "Liberius",
+"aliases": [
+"Pope Liberius"
+],
+"links": 80
+},
+{
+"name": "Lucius I",
+"aliases": [
+"Lucius",
+"Pope Lucius I"
+],
+"links": 80
+},
+{
+"name": "Pelagius II",
+"aliases": [
+"Pope Pelagius II"
+],
+"links": 80
+},
+{
+"name": "Pontian",
+"aliases": [
+"Pontianus",
+"Pope Pontian"
+],
+"links": 80
+},
+{
+"name": "Soter",
+"aliases": [
+"Pope Soter",
+"Soterius"
+],
+"links": 80
+},
+{
+"name": "Zephyrinus",
+"aliases": [
+"Pope Zephyrinus"
+],
+"links": 80
+},
+{
+"name": "Boniface II",
+"aliases": [
+"Pope Boniface II"
+],
+"links": 79
+},
+{
+"name": "Boniface V",
+"aliases": [
+"Pope Boniface V"
+],
+"links": 79
+},
+{
+"name": "Celestine I",
+"aliases": [
+"Caelestinus I",
+"Pope Celestine I",
+"Saint Celestine"
+],
+"links": 79
+},
+{
+"name": "Clement XIV",
+"aliases": [
+"Clemens PP. XIV",
+"Clemens XIV",
+"Fra Lorenzo",
+"Klemens XIV. Papst",
+"Lorenzo Giovanni Vincenzo Antonio Ganganelli",
+"papa Clemente XIV",
+"Pope Clement XIV"
+],
+"links": 79
+},
+{
+"name": "Felix IV",
+"aliases": [
+"Pope Felix IV",
+"Saint Felix IV"
+],
+"links": 79
+},
+{
+"name": "Formosus",
+"aliases": [
+"Pope Formosus"
+],
+"links": 79
+},
+{
+"name": "Gregory V",
+"aliases": [
+"Bruno of Carinthia",
+"Pope Gregory V"
+],
+"links": 79
+},
+{
+"name": "Innocent I",
+"aliases": [
+"Innocent",
+"Innocentius I",
+"Pope Innocent I",
+"Saint Innocent I"
+],
+"links": 79
+},
+{
+"name": "John II",
+"aliases": [
+"Ioannes II",
+"Iohannes PP. II",
+"Johannes II. Papa",
+"Mercurius",
+"Pope John II"
+],
+"links": 79
+},
+{
+"name": "John III",
+"aliases": [
+"Catelinus",
+"Ioannes III",
+"Iohannes PP. III",
+"Johannes III. Papa",
+"Pope John III"
+],
+"links": 79
+},
+{
+"name": "John XXII",
+"aliases": [
+"Ioannes XXII",
+"Iohannes PP. XXII",
+"Jacques d'Euse",
+"Jacques Duese",
+"Jacques Dueze",
+"Jacques D’euze",
+"Johannes XXII. Papst",
+"papa Giovanni XXII",
+"papa Iohannes XXII",
+"pape Jean XXII",
+"Pope John XXII"
+],
+"links": 79
+},
+{
+"name": "Leo IV",
+"aliases": [
+"Pope Leo IV",
+"Pope Saint Leo IV"
+],
+"links": 79
+},
+{
+"name": "Mark",
+"aliases": [
+"Marcus",
+"Papa Marcus",
+"Pope Marcus",
+"Pope Mark"
+],
+"links": 79
+},
+{
+"name": "Stephen I",
+"aliases": [
+"Pope Stephen I",
+"Stephanus I",
+"Stephen"
+],
+"links": 79
+},
+{
+"name": "Urban III",
+"aliases": [
+"Pope Urban III",
+"Uberto Crivelli"
+],
+"links": 79
+},
+{
+"name": "Urban V",
+"aliases": [
+"Blessed Pope Urban V",
+"Blessed Urban V",
+"Pope Urban V",
+"William de Grimoard"
+],
+"links": 79
+},
+{
+"name": "Anastasius II",
+"aliases": [
+"Pope Anastasius II"
+],
+"links": 78
+},
+{
+"name": "Anterus",
+"aliases": [
+"Pope Anterus"
+],
+"links": 78
+},
+{
+"name": "Benedict I",
+"aliases": [
+"Benedict",
+"Pope Benedict",
+"Pope Benedict I"
+],
+"links": 78
+},
+{
+"name": "Clement V",
+"aliases": [
+"Bernard de Got",
+"Bertrand de Goth",
+"Bertrand de Guoth",
+"Bertrand du Got",
+"Clemens PP. V",
+"papa Clemens V",
+"pape Clement V",
+"pape Clément V",
+"Pope Clement V",
+"Raymond Bertrand de Got"
+],
+"links": 78
+},
+{
+"name": "Eutychian",
+"aliases": [
+"Eutychianos",
+"Eutychianus",
+"Eutychien",
+"Pope Eutychian",
+"Pope Eutychianus",
+"Saint Eutychian"
+],
+"links": 78
+},
+{
+"name": "Gregory XI",
+"aliases": [
+"Gregorius PP. XI",
+"Gregorius XI. Papa",
+"papa Gregorio XI",
+"Papa Gregorius XI",
+"pape Gregoire XI",
+"pape Grégoire XI",
+"Pope Gregoire XI",
+"Pope Gregorius",
+"Pope Gregorius XI",
+"Pope Gregory XI",
+"Pope Grégoire XI"
+],
+"links": 78
+},
+{
+"name": "Honorius III",
+"aliases": [
+"pape Honorius III",
+"Pope Honorius III"
+],
+"links": 78
+},
+{
+"name": "Leo II",
+"aliases": [
+"Leo Maneius",
+"Pope Leo II",
+"Pope Saint Leo II",
+"St. Leo II"
+],
+"links": 78
+},
+{
+"name": "Leo V",
+"aliases": [
+"Pope Leo V"
+],
+"links": 78
+},
+{
+"name": "Leo VI",
+"aliases": [
+"Leo Sanguini",
+"Papa Leo VI",
+"Pope Leo VI"
+],
+"links": 78
+},
+{
+"name": "Leo VIII",
+"aliases": [
+"Pope Leo VIII"
+],
+"links": 78
+},
+{
+"name": "Marcellinus",
+"aliases": [
+"Papa MARCELLINUS",
+"Pope Marcellinus",
+"Pope Saint Marcellinus",
+"Pope St. Marselinus"
+],
+"links": 78
+},
+{
+"name": "Marinus I",
+"aliases": [
+"Marinus",
+"Martin II",
+"Pope Marinus",
+"Pope Marinus I",
+"Pope Martin II"
+],
+"links": 78
+},
+{
+"name": "Martin I",
+"aliases": [
+"Pope Martin",
+"Pope Martin I",
+"St. Martin I"
+],
+"links": 78
+},
+{
+"name": "Paschal I",
+"aliases": [
+"Pascale Massimi",
+"Paschal",
+"Pope Paschal",
+"Pope Paschal I",
+"St Paschal I"
+],
+"links": 78
+},
+{
+"name": "Pelagius I",
+"aliases": [
+"Pelagius",
+"Pope Pelagius",
+"Pope Pelagius I"
+],
+"links": 78
+},
+{
+"name": "Sergius III",
+"aliases": [
+"Pope Sergius III"
+],
+"links": 78
+},
+{
+"name": "Sixtus III",
+"aliases": [
+"Pope Sixtus III",
+"Xystus III"
+],
+"links": 78
+},
+{
+"name": "Stephen VI",
+"aliases": [
+"Pope Stephen VI",
+"Pope Stephen VII",
+"Stephanus VII"
+],
+"links": 78
+},
+{
+"name": "Zosimus",
+"aliases": [
+"Pope Zosimus"
+],
+"links": 78
+},
+{
+"name": "Adeodatus II",
+"aliases": [
+"Pope Adeodatus II"
+],
+"links": 77
+},
+{
+"name": "Alexander II",
+"aliases": [
+"Pope Alexander II"
+],
+"links": 77
+},
+{
+"name": "Benedict III",
+"aliases": [
+"Pope Benedict III"
+],
+"links": 77
+},
+{
+"name": "Benedict IX",
+"aliases": [
+"Benedictus IX",
+"Pope Benedict IX",
+"Theophylactus of Tusculum"
+],
+"links": 77
+},
+{
+"name": "Benedict XII",
+"aliases": [
+"Benedictus PP XII",
+"Benedictus XII",
+"Giacomo Fournier",
+"papa Benedetto XII",
+"pape Benoit XII",
+"pape Benoît XII",
+"Pope Benedict XII"
+],
+"links": 77
+},
+{
+"name": "Boniface I",
+"aliases": [
+"Boniface",
+"Bonifacius I",
+"Pope Boniface I"
+],
+"links": 77
+},
+{
+"name": "Boniface VI",
+"aliases": [
+"Pope Boniface VI"
+],
+"links": 77
+},
+{
+"name": "Callixtus II",
+"aliases": [
+"Guy de Bourgogne",
+"Guy de Burgundy",
+"Guy de Vienne",
+"Pope Callixtus II"
+],
+"links": 77
+},
+{
+"name": "Eugene II",
+"aliases": [
+"Pope Eugene II"
+],
+"links": 77
+},
+{
+"name": "Eugene III",
+"aliases": [
+"Bernard de Pise",
+"Bernard Paginelli",
+"Bernardo da Pisa",
+"Bernardo dei Paganelli",
+"Bernardo di Montemagno",
+"Bernardo Paganelli",
+"Bernardo Paganelli di Montemagno",
+"Bernardus Paginelli",
+"Bernardus Sancti Anastasii ad Aquas Salvias",
+"Bernhard aus Pisa",
+"Blessed Eugene III Pope",
+"Eigenius III",
+"Eugen III",
+"Eugenio III",
+"Eugenius III",
+"Eugenius PP. III",
+"Pope Blessed Eugene III",
+"Pope Eugene III",
+"Pope Eugenius III"
+],
+"links": 77
+},
+{
+"name": "Felix I",
+"aliases": [
+"Felix",
+"Pope Felix I",
+"St. Felix I"
+],
+"links": 77
+},
+{
+"name": "Innocent VI",
+"aliases": [
+"Etienne Aubert",
+"Innocens VI",
+"Innocentius PP. VI",
+"papa Innocenzo VI",
+"pape Innocent VI",
+"Pope Innocent VI",
+"Stephen Aubert"
+],
+"links": 77
+},
+{
+"name": "John IV",
+"aliases": [
+"Ioannes IV",
+"Iohannes PP. IV",
+"Pope Giovanni IV",
+"Pope John IV"
+],
+"links": 77
+},
+{
+"name": "John IX",
+"aliases": [
+"Ioannes IX",
+"Iohannes PP. XIV",
+"papa Joan XIV",
+"Pope John IX"
+],
+"links": 77
+},
+{
+"name": "John VII",
+"aliases": [
+"Ioannes VII",
+"Pope John VII"
+],
+"links": 77
+},
+{
+"name": "John X",
+"aliases": [
+"Giovanni da Tossignano",
+"Ioannes X",
+"Pope John X"
+],
+"links": 77
+},
+{
+"name": "Leo IX",
+"aliases": [
+"Bruno of Egisheim-Dagsburg",
+"Pope Leo IX",
+"Pope Saint Leo IX",
+"St. Leo IX"
+],
+"links": 77
+},
+{
+"name": "Leo VII",
+"aliases": [
+"Pope Leo VII"
+],
+"links": 77
+},
+{
+"name": "Sergius I",
+"aliases": [
+"Pope Sergius",
+"Pope Sergius I",
+"Sergius"
+],
+"links": 77
+},
+{
+"name": "Silverius",
+"aliases": [
+"Pope Silverius"
+],
+"links": 77
+},
+{
+"name": "Simplicius",
+"aliases": [
+"Pope Simplicius"
+],
+"links": 77
+},
+{
+"name": "Siricius",
+"aliases": [
+"Cyriacus",
+"Pope Cyriacus",
+"Pope Siricius"
+],
+"links": 77
+},
+{
+"name": "Stephen III",
+"aliases": [
+"Pope Stephanus III",
+"Pope Stephen III",
+"Stephanus III",
+"Stephanus IV"
+],
+"links": 77
+},
+{
+"name": "Stephen V",
+"aliases": [
+"Pope Stephen V",
+"Pope Stephen VI",
+"Stephanus VI"
+],
+"links": 77
+},
+{
+"name": "Symmachus",
+"aliases": [
+"Pope Symmachus"
+],
+"links": 77
+},
+{
+"name": "Adeodatus I",
+"aliases": [
+"Adeodatus",
+"Deodatus",
+"Deodatus I",
+"Deusdedit I",
+"Deusdedit, son of Stephen",
+"Pope Adeodatus",
+"Pope Adeodatus I",
+"Pope Deodatus",
+"Pope Deodatus I",
+"Pope Deusdedit",
+"Pope Deusdedit I"
+],
+"links": 76
+},
+{
+"name": "Agapetus I",
+"aliases": [
+"Agapetus",
+"Pope Agapetus",
+"Pope Agapetus I",
+"Pope Saint Agapetus I"
+],
+"links": 76
+},
+{
+"name": "Agatho",
+"aliases": [
+"Pope Agatho",
+"St. Agathon"
+],
+"links": 76
+},
+{
+"name": "Anastasius I",
+"aliases": [
+"Anastasius",
+"Pope Anastasius I"
+],
+"links": 76
+},
+{
+"name": "Celestine III",
+"aliases": [
+"Giacinto Bobo-Orsini",
+"Pope Celestine III"
+],
+"links": 76
+},
+{
+"name": "Clement VI",
+"aliases": [
+"Clemente VI",
+"Pierre Roger de Beuamont",
+"Pope Clement VI"
+],
+"links": 76
+},
+{
+"name": "Felix III",
+"aliases": [
+"Pope Felix III",
+"Pope St. Felix III",
+"Saint Felix III"
+],
+"links": 76
+},
+{
+"name": "Gregory X",
+"aliases": [
+"Pope Blessed Gregory X",
+"Pope Gregory X"
+],
+"links": 76
+},
+{
+"name": "Gregory XII",
+"aliases": [
+"Angelo Corraro",
+"Pope Gregory XII"
+],
+"links": 76
+},
+{
+"name": "John VI",
+"aliases": [
+"Ioannes VI",
+"Pope John VI"
+],
+"links": 76
+},
+{
+"name": "Lando",
+"aliases": [
+"Pope Lando"
+],
+"links": 76
+},
+{
+"name": "Marcellus II",
+"aliases": [
+"Marcellus II. Papst",
+"Marcellus PP. II",
+"papa Marcello II",
+"pape Marcel II",
+"Pope Marcellus II"
+],
+"links": 76
+},
+{
+"name": "Nicholas I",
+"aliases": [
+"Nicholas",
+"Pope Nicholas",
+"Pope Nicholas I",
+"Pope Saint Nicholas",
+"Pope St. Nicholas",
+"Saint Nicholas the Great",
+"St. Nicholas I",
+"St. Nicholas the Great"
+],
+"links": 76
+},
+{
+"name": "Stephen II",
+"aliases": [
+"Pope Stephen II"
+],
+"links": 76
+},
+{
+"name": "Urban IV",
+"aliases": [
+"Jacques Pantaleon",
+"Pope Urban IV"
+],
+"links": 76
+},
+{
+"name": "Urban VI",
+"aliases": [
+"Pope Urban VI"
+],
+"links": 76
+},
+{
+"name": "Vigilius",
+"aliases": [
+"Pope Vigilius",
+"Pope Vigilius I",
+"Vigilius I"
+],
+"links": 76
+},
+{
+"name": "Zachary",
+"aliases": [
+"Pope Zacharias",
+"Pope Zachary",
+"Zacharias"
+],
+"links": 76
+},
+{
+"name": "Alexander IV",
+"aliases": [
+"Pope Alexander IV",
+"Rinaldo di Jenne"
+],
+"links": 75
+},
+{
+"name": "Anastasius III",
+"aliases": [
+"Pope Anastasius III"
+],
+"links": 75
+},
+{
+"name": "Benedict IV",
+"aliases": [
+"Pope Benedict IV"
+],
+"links": 75
+},
+{
+"name": "Benedict VIII",
+"aliases": [
+"Benedictus VIII",
+"Pope Benedict VIII",
+"Theophylactus"
+],
+"links": 75
+},
+{
+"name": "Caius",
+"aliases": [
+"C. C.f.",
+"Caius I",
+"Pope Caius"
+],
+"links": 75
+},
+{
+"name": "Innocent IX",
+"aliases": [
+"Innocentius PP. IX",
+"Innozenz IX. Papst",
+"papa, Innocenzo IX",
+"Pope Innocent IX"
+],
+"links": 75
+},
+{
+"name": "John V",
+"aliases": [
+"Ioannes V",
+"Pope John V"
+],
+"links": 75
+},
+{
+"name": "John XIV",
+"aliases": [
+"Ioannes XIV",
+"Pope John XIV"
+],
+"links": 75
+},
+{
+"name": "Romanus",
+"aliases": [
+"Pope Romanus"
+],
+"links": 75
+},
+{
+"name": "Sergius II",
+"aliases": [
+"Pope Sergius II"
+],
+"links": 75
+},
+{
+"name": "Stephen IV",
+"aliases": [
+"Pope Stephen IV",
+"Stephanus V"
+],
+"links": 75
+},
+{
+"name": "Theodore I",
+"aliases": [
+"Pope Theodore",
+"Pope Theodore I",
+"Theodore"
+],
+"links": 75
+},
+{
+"name": "Vitalian",
+"aliases": [
+"Pope Vitalian"
+],
+"links": 75
+},
+{
+"name": "Benedict VI",
+"aliases": [
+"Benedictus",
+"Benedictus VI",
+"Pope Benedict VI"
+],
+"links": 74
+},
+{
+"name": "Benedict XI",
+"aliases": [
+"Blessed Benedict XI",
+"Nicola Boccasini",
+"Pope Benedict XI"
+],
+"links": 74
+},
+{
+"name": "Boniface IV",
+"aliases": [
+"Pope Boniface IV"
+],
+"links": 74
+},
+{
+"name": "Clement II",
+"aliases": [
+"Bischof zu Bamberg Suidger",
+"Clemens II",
+"Pope Clement II",
+"Suidger",
+"Suidger von Mayendorff",
+"Suidger von Morsleben"
+],
+"links": 74
+},
+{
+"name": "Clement III",
+"aliases": [
+"Clemens III. Papa",
+"Clemens PP. III",
+"papa Clemente III",
+"pape Clement III",
+"pape Clément III",
+"Paulino Scolari",
+"Pope Clement III"
+],
+"links": 74
+},
+{
+"name": "Eusebius",
+"aliases": [
+"Pope Eusebius",
+"Saint Eusebius"
+],
+"links": 74
+},
+{
+"name": "Gregory VI",
+"aliases": [
+"Giovanni Graziano",
+"Gregorius VI",
+"Johannes Gratianus",
+"John de Gratiano",
+"John Gratian",
+"Pope Gregory VI"
+],
+"links": 74
+},
+{
+"name": "Innocent VII",
+"aliases": [
+"Pope Innocent VII"
+],
+"links": 74
+},
+{
+"name": "John XI",
+"aliases": [
+"Ioannes XI",
+"Pope John XI"
+],
+"links": 74
+},
+{
+"name": "Lucius III",
+"aliases": [
+"Pope Lucius III"
+],
+"links": 74
+},
+{
+"name": "Marcellus I",
+"aliases": [
+"Marcellus",
+"Pope Marcel I",
+"Pope Marcellus I"
+],
+"links": 74
+},
+{
+"name": "Paschal II",
+"aliases": [
+"Pope Paschal II",
+"Ranierius",
+"Ranierius Raineri of Bleda"
+],
+"links": 74
+},
+{
+"name": "Sisinnius",
+"aliases": [
+"Pope Sisinnius"
+],
+"links": 74
+},
+{
+"name": "Valentine",
+"aliases": [
+"Pope Valentine"
+],
+"links": 74
+},
+{
+"name": "Boniface IX",
+"aliases": [
+"Pope Boniface IX"
+],
+"links": 73
+},
+{
+"name": "Celestine IV",
+"aliases": [
+"Caelestinus IV",
+"Coelestinus IV. Papa",
+"Goffredo Castiglione",
+"Goffredo da Castiglione",
+"Gofredo Castiglione",
+"Pope Celestine IV"
+],
+"links": 73
+},
+{
+"name": "Clement IV",
+"aliases": [
+"Gui Foucois",
+"Guy de Foulques",
+"Guy Folqueis",
+"Guy Foulques",
+"Guy le Gros",
+"Guy le Gros de Foulques",
+"Guy the Fat",
+"Pope Clemens",
+"Pope Clement",
+"Pope Clement IV"
+],
+"links": 73
+},
+{
+"name": "Conon",
+"aliases": [
+"Pope Conon"
+],
+"links": 73
+},
+{
+"name": "Innocent II",
+"aliases": [
+"Pope Innocent II"
+],
+"links": 73
+},
+{
+"name": "Innocent V",
+"aliases": [
+"Blessed Innocent V",
+"Peter of Tarentaise",
+"Petrus de Tarantasia",
+"Pope Innocent V",
+"Pope Innocentius V"
+],
+"links": 73
+},
+{
+"name": "John XIII",
+"aliases": [
+"Giovanni Crescentius",
+"Ioannes XIII",
+"Pope John XIII"
+],
+"links": 73
+},
+{
+"name": "John XV",
+"aliases": [
+"Ioannes XV",
+"John",
+"Pope John XV"
+],
+"links": 73
+},
+{
+"name": "Miltiades",
+"aliases": [
+"Melchiades",
+"Melchiades the African",
+"Pope Miltiades"
+],
+"links": 73
+},
+{
+"name": "Nicholas II",
+"aliases": [
+"Gerard de Bourgogne",
+"Gérard de Bourgogne",
+"Pope Nicholas II"
+],
+"links": 73
+},
+{
+"name": "Nicholas III",
+"aliases": [
+"Nicolaus III",
+"Pope Nicholas III"
+],
+"links": 73
+},
+{
+"name": "Stephen VII",
+"aliases": [
+"Pope Stephen VII",
+"Pope Stephen VIII",
+"Stephanus de Gabrielli",
+"Stephanus VIII",
+"Stephen VIII"
+],
+"links": 73
+},
+{
+"name": "Theodore II",
+"aliases": [
+"Pope Theodore II"
+],
+"links": 73
+},
+{
+"name": "Anastasius IV",
+"aliases": [
+"Corrado Demetri della Suburra",
+"Pope Anastasius IV"
+],
+"links": 72
+},
+{
+"name": "Boniface III",
+"aliases": [
+"Pope Boniface III"
+],
+"links": 72
+},
+{
+"name": "Constantine",
+"aliases": [
+"Pope Constantine"
+],
+"links": 72
+},
+{
+"name": "Damasus II",
+"aliases": [
+"Boppo",
+"Pope Damasus II",
+"Poppo"
+],
+"links": 72
+},
+{
+"name": "Donus",
+"aliases": [
+"Papa Donus",
+"Pope Domnus",
+"Pope Donus"
+],
+"links": 72
+},
+{
+"name": "Hilarius",
+"aliases": [
+"Hilarus",
+"Hilarus Papst",
+"Pope Hilarius",
+"Pope Hilary",
+"Pope Saint Hilarus",
+"Pope, Saint Hilary",
+"Saint Hilary"
+],
+"links": 72
+},
+{
+"name": "John XIX",
+"aliases": [
+"Ioannes XIX",
+"Pope John XIX",
+"Romanus"
+],
+"links": 72
+},
+{
+"name": "Lucius II",
+"aliases": [
+"Gherardo Caccianemici dal Orso",
+"Pope Lucius II"
+],
+"links": 72
+},
+{
+"name": "Marinus II",
+"aliases": [
+"Martin III",
+"Pope Marinus II",
+"Pope Martin III"
+],
+"links": 72
+},
+{
+"name": "Nicholas IV",
+"aliases": [
+"Girolamo d' Ascoli",
+"Girolamo' Masci",
+"Jerome of Ascoli",
+"Nicolas IV pape",
+"Nicolaus PP. IV",
+"Nikolaus IV. Papst",
+"papa Niccolò IV",
+"Pope Niccolo IV",
+"Pope Niccolò IV",
+"Pope Nicholas IV",
+"Pope Nicolaus IV"
+],
+"links": 72
+},
+{
+"name": "Sabinian",
+"aliases": [
+"Pope Sabinian"
+],
+"links": 72
+},
+{
+"name": "Severinus",
+"aliases": [
+"Pope Severinus"
+],
+"links": 72
+},
+{
+"name": "Benedict VII",
+"aliases": [
+"Benedictus VII",
+"Pope Benedict VII"
+],
+"links": 71
+},
+{
+"name": "Celestine II",
+"aliases": [
+"Guido da Città del Castello",
+"Guido De Castellis",
+"Guido de Castellis",
+"Guido de Castello",
+"Guido De Castello",
+"Guido Del Castello",
+"Guido del Castello",
+"Guido di Città di Castello",
+"Pope Celestine II"
+],
+"links": 71
+},
+{
+"name": "Eugene I",
+"aliases": [
+"Eugene",
+"Pope Eugene",
+"Pope Eugene I",
+"St. Eugene"
+],
+"links": 71
+},
+{
+"name": "John XVII",
+"aliases": [
+"Ioannes XVII",
+"John Sicco",
+"Pope John XVII"
+],
+"links": 71
+},
+{
+"name": "John XVIII",
+"aliases": [
+"Fasanius of Rapagnano",
+"Fasano",
+"Giovanni Fasano",
+"Ioannes XVIII",
+"Iohannes PP. XVIII",
+"Joannes Fasanus",
+"Johannes XVIII. Papa",
+"John XIX",
+"papa Giovanni XVIII",
+"Pope John XVIII"
+],
+"links": 71
+},
+{
+"name": "John XXI",
+"aliases": [
+"Ioannes XXI",
+"Peter Juliani",
+"Pope John XXI"
+],
+"links": 71
+},
+{
+"name": "Sergius IV",
+"aliases": [
+"Pietro Martino Buccaporci",
+"Pope Sergius IV"
+],
+"links": 71
+},
+{
+"name": "Victor II",
+"aliases": [
+"Pope Victor II"
+],
+"links": 71
+},
+{
+"name": "Adrian V",
+"aliases": [
+"Ottobuono de' Fieschi",
+"Pope Adrian V"
+],
+"links": 70
+},
+{
+"name": "Agapetus II",
+"aliases": [
+"Pope Agapetus II"
+],
+"links": 70
+},
+{
+"name": "Gelasius II",
+"aliases": [
+"Giovanni Caetani",
+"Pope Gelasius II"
+],
+"links": 70
+},
+{
+"name": "Honorius II",
+"aliases": [
+"Lamberto Scannabecch",
+"Pope Honorius II"
+],
+"links": 70
+},
+{
+"name": "Martin IV",
+"aliases": [
+"Pope Martin IV"
+],
+"links": 70
+},
+{
+"name": "Stephen IX",
+"aliases": [
+"Frederick of Lorraine",
+"Pope Stephen IX",
+"Pope Stephen X",
+"Stephanus X"
+],
+"links": 70
+},
+{
+"name": "Victor III",
+"aliases": [
+"Daufer",
+"Desiderius",
+"Papa Victor III",
+"Pope Blessed Victor III",
+"Pope Victor III"
+],
+"links": 70
+},
+{
+"name": "Stephen VIII",
+"aliases": [
+"Pope Stephen IX",
+"Pope Stephen VIII",
+"Stephanus IX"
+],
+"links": 69
+},
+{
+"name": "Honorius IV",
+"aliases": [
+"Honorius PP. IV",
+"Jacobus Savelli",
+"papa Onorio IV",
+"pape Honorius IV",
+"Pope Honorius IV",
+"Pope Honorius V"
+],
+"links": 68
+},
+{
+"name": "Sylvester III",
+"aliases": [
+"Giovanni dei Crescenzi–Ottaviani",
+"Pope Sylvester III",
+"Silvester III"
+],
+"links": 68
+},
+{
+"name": "Pope-elect Stephen",
+"aliases": [
+"Pope Stephen II",
+"Stephanus II"
+],
+"links": 59
+},
+{
+"name": "Jewish pope Andreas",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cardinal Lamberto",
+"aliases": [
+"John Paul I"
+],
+"links": 5
+}
+]
+},
+{
+"id": "prime-ministers-of-the-uk",
+"title": "Prime ministers of the UK",
+"prompt": "Name British prime ministers",
+"answers": [
+{
+"name": "Winston Churchill",
+"aliases": [
+"Charles Maurin",
+"Colonel Warden",
+"David Winter",
+"Mr Green",
+"Sir Leonard Spencer",
+"The Honourable Sir Winston Spencer Churchill",
+"The Right Honourable Sir Winston Churchill",
+"Winston Spencer Churchill"
+],
+"links": 266
+},
+{
+"name": "Margaret Thatcher",
+"aliases": [],
+"links": 211
+},
+{
+"name": "Tony Blair",
+"aliases": [
+"Anthony Blair",
+"Anthony Charles Lynton Blair",
+"Rt. Hon. Anthony Charles Lynton Blair",
+"Rt. Hon. Tony Blair",
+"Sir Anthony Charles Lynton Blair",
+"Sir Tony Blair"
+],
+"links": 156
+},
+{
+"name": "David Cameron",
+"aliases": [],
+"links": 153
+},
+{
+"name": "Boris Johnson",
+"aliases": [
+"Alexander Boris de Pfeffel Johnson",
+"Bo Jo",
+"Bo-Jo",
+"BoJo",
+"Boris",
+"Johnson"
+],
+"links": 151
+},
+{
+"name": "Theresa May",
+"aliases": [
+"Baroness May of Maidenhead",
+"PM May",
+"PM Theresa Mary May",
+"PM Theresa May",
+"Prime Minister May",
+"Prime Minister Theresa Mary May",
+"Prime Minister Theresa May",
+"Theresa Brasier",
+"Theresa Mary Brasier"
+],
+"links": 148
+},
+{
+"name": "Benjamin Disraeli",
+"aliases": [
+"1st Earl of Beaconsfield Benjamin Disraeli",
+"Benjamin Disraeli, Earl of Beaconsfield",
+"Benjamin, Earl of Beaconsfield Disraeli",
+"Dizzy",
+"Lord Beaconsfield"
+],
+"links": 138
+},
+{
+"name": "Keir Starmer",
+"aliases": [],
+"links": 125
+},
+{
+"name": "Liz Truss",
+"aliases": [],
+"links": 122
+},
+{
+"name": "Neville Chamberlain",
+"aliases": [
+"Arthur Neville Chamberlain",
+"Rt. Hon. Arthur Neville Chamberlain"
+],
+"links": 120
+},
+{
+"name": "David Lloyd George",
+"aliases": [
+"Earl Lloyd-George",
+"George David Lloyd",
+"George Lloyd",
+"Lord Lloyd-George"
+],
+"links": 110
+},
+{
+"name": "Clement Attlee",
+"aliases": [
+"Clement Richard Lord Attlee",
+"Earl Attlee",
+"Lord Attlee",
+"Viscount Prestwood"
+],
+"links": 107
+},
+{
+"name": "John Major",
+"aliases": [
+"John Roy Major",
+"Rt. Hon. Sir John Major",
+"Sir John Major"
+],
+"links": 105
+},
+{
+"name": "Arthur Wellesley, 1st Duke of Wellington",
+"aliases": [
+"1st Duke of Wellington",
+"1st Duke of Wellington Arthur Wellesley",
+"Arthur Wellesley Wellington 1st Duke of",
+"Arthur Wellesley, Duke of Wellington",
+"Arthur Wesley, Duke of Wellington",
+"Arthur, Duke of Wellington Wellesley",
+"Duke of Wellington",
+"Duke of Wellington Arthur Wellesley",
+"Great Duke",
+"His Grace the Duker of Wellington",
+"Iron Duke",
+"Nosey",
+"The Duke of Wellington",
+"Wellington"
+],
+"links": 103
+},
+{
+"name": "William Ewart Gladstone",
+"aliases": [
+"Gladstone",
+"Gladstone, W. E.",
+"The Rt Hon William Ewart Gladstone",
+"W. E. Gladstone",
+"William Gladstone"
+],
+"links": 100
+},
+{
+"name": "Anthony Eden",
+"aliases": [
+"Earl of Avon",
+"Lord Avon",
+"Robert Anthony Eden, 1st Earl of Avon",
+"Sir Anthony Eden"
+],
+"links": 97
+},
+{
+"name": "Harold Macmillan",
+"aliases": [
+"1st Earl of Stockton",
+"Earl of Stockton",
+"Lord Stockton",
+"Maurice Harold Macmillan",
+"Supermac"
+],
+"links": 96
+},
+{
+"name": "Harold Wilson",
+"aliases": [
+"James Harold Wilson",
+"James Harold Wilson, Baron Wilson of Rievaulx"
+],
+"links": 94
+},
+{
+"name": "James Callaghan",
+"aliases": [
+"James Callaghan, Baron Callaghan",
+"James, Baron Callaghan",
+"Jim Callaghan",
+"Leonard James Callaghan",
+"Leonard James, Baron Callaghan",
+"Lord Callaghan",
+"Lord Callaghan of Cardiff"
+],
+"links": 93
+},
+{
+"name": "Arthur Balfour",
+"aliases": [
+"1st Earl of Balfour",
+"A. J. Balfour",
+"Arthur James Balfour",
+"Arthur James, Earl of Balfour",
+"first earl of Balfour",
+"Viscount Traprain of Whittingehame"
+],
+"links": 90
+},
+{
+"name": "Robert Walpole",
+"aliases": [
+"Bob Lynn",
+"Robert Orford",
+"Robert Walpole, 1st Earl of Orford",
+"Robert Walpole, Earl of Orford",
+"Sir Robert Walpole",
+"Sir Robert Walpole, 1st Earl of Orford"
+],
+"links": 90
+},
+{
+"name": "Andy Burnham",
+"aliases": [],
+"links": 88
+},
+{
+"name": "William Pitt the Younger",
+"aliases": [
+"Pitt the Younger"
+],
+"links": 83
+},
+{
+"name": "Edward Heath",
+"aliases": [
+"Sir Edward Richard George Heath",
+"Ted Heath",
+"Teddy"
+],
+"links": 82
+},
+{
+"name": "H. H. Asquith",
+"aliases": [
+"Herbert Asquith"
+],
+"links": 80
+},
+{
+"name": "Stanley Baldwin",
+"aliases": [
+"Lord Baldwin",
+"Sir Stanley Baldwin",
+"Stanley Baldwin, 1st Earl Baldwin",
+"Stanley Baldwin, 1st Earl Baldwin of Bewdley"
+],
+"links": 78
+},
+{
+"name": "Ramsay MacDonald",
+"aliases": [
+"J. R. M.",
+"J. Ramsay MacDonald",
+"J. Ramsay McDonald",
+"James Ramsay MacDonald"
+],
+"links": 77
+},
+{
+"name": "Robert Peel",
+"aliases": [
+"2nd Bart. Sir Robert Peel",
+"Robert, 2nd Baronet Peel",
+"Robert, Sir Peel",
+"Robert, Sir, 2nd Bart. Peel",
+"Sir Robert Peel",
+"Sir Robert Peel, 2nd Baronet",
+"Sir Robert Peel, 2nd Bt"
+],
+"links": 77
+},
+{
+"name": "Alec Douglas-Home",
+"aliases": [
+"Alec Douglas-Home, 14th Earl of Home",
+"Alec Douglas-Home, Baron Home of the Hirsel",
+"Alec Douglas-Home, Lord Dunglass",
+"Alec Douglas-Home, Lord Home of the Hirsel",
+"Alec Dunglass",
+"Alec Home",
+"Alexander Douglas-Home, 14th Earl of Home",
+"Alexander Douglas-Home, Baron Home of the Hirsel",
+"Alexander Douglas-Home, Lord Dunglass",
+"Alexander Douglas-Home, Lord Home of the Hirsel",
+"Alexander Dunglass",
+"Alexander Frederick Douglas-Home",
+"Alexander Frederick Douglas-Home, Lord Dunglass",
+"Alexander Home",
+"Home of the Hirsel",
+"Home of the Hirsel, Alec Douglas-Home Baron",
+"Lord Home",
+"Sir Alec Douglas-Home"
+],
+"links": 76
+},
+{
+"name": "Henry Temple, 3rd Viscount Palmerston",
+"aliases": [
+"Henry John Temple, Viscount Palmerston"
+],
+"links": 70
+},
+{
+"name": "George Canning",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",
+"aliases": [
+"Robert Arthur Talbot Gascoyne-Cecil",
+"Robert Gascoyne-Cecil"
+],
+"links": 69
+},
+{
+"name": "Bonar Law",
+"aliases": [
+"Andrew Bonar Law"
+],
+"links": 67
+},
+{
+"name": "William Pitt, 1st Earl of Chatham",
+"aliases": [
+"Great Commoner",
+"Pitt the Elder",
+"The Great Commoner",
+"William Chatham",
+"William Pitt Earl of Chatham",
+"William Pitt the Elder",
+"William Pitt, Earl of Chatham",
+"William, 1st Earl of Chatham Pitt",
+"William, the Celebrated Commoner Pitt",
+"William, the Elder Pitt"
+],
+"links": 67
+},
+{
+"name": "John Russell, 1st Earl Russell",
+"aliases": [
+"Finality John",
+"John Russell, Earl Russell",
+"John, Earl Russell",
+"Lord John Russell"
+],
+"links": 62
+},
+{
+"name": "George Hamilton-Gordon, 4th Earl of Aberdeen",
+"aliases": [
+"4th Earl of Aberdeen",
+"Aberdeen, George Hamilton-Gordon, 4th Earl of",
+"Earl of Aberdeen",
+"George Aberdeen",
+"George Gordon",
+"George Hamilton Gordon",
+"George Hamilton Gordon Aberdeen",
+"George Hamilton Gordon, 4th Earl of Aberdeen"
+],
+"links": 57
+},
+{
+"name": "Henry Campbell-Bannerman",
+"aliases": [
+"Sir Henry Campbell-Bannerman"
+],
+"links": 57
+},
+{
+"name": "Henry Pelham",
+"aliases": [
+"Rt. Hon. Henry Pelham"
+],
+"links": 55
+},
+{
+"name": "Spencer Perceval",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Edward Smith-Stanley, 14th Earl of Derby",
+"aliases": [
+"Edward George Geoffrey Smith Stanley",
+"Edward Stanley, 14th Earl of Derby"
+],
+"links": 54
+},
+{
+"name": "Spencer Compton, 1st Earl of Wilmington",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Charles Grey, 2nd Earl Grey",
+"aliases": [
+"The Earl Grey",
+"Viscount Howick"
+],
+"links": 52
+},
+{
+"name": "George Grenville",
+"aliases": [
+"Gentle Shepherd"
+],
+"links": 52
+},
+{
+"name": "John Stuart, 3rd Earl of Bute",
+"aliases": [
+"3rd Earl of Bute John",
+"3rd Earl of Bute John Stuart",
+"Earl of Bute",
+"Earl of Bute John",
+"Earl of Bute John Stuart",
+"Earl of John Stuart Bute",
+"John Stuart",
+"John Stuart Bute",
+"John Stuart Bute 3rd Earl of",
+"John Stuart, 3d Earl of Bute",
+"John Stuart, Earl of Bute",
+"John, Earl of Bute Stuart",
+"Lord Bute",
+"Stuart"
+],
+"links": 52
+},
+{
+"name": "Archibald Primrose, 5th Earl of Rosebery",
+"aliases": [
+"5th Earl of Rosebery",
+"Archibald",
+"Archibald Philip Primrose",
+"Archibald Philip Primrose, Earl of Rosebery",
+"Earl Midlothian",
+"fifth earl of Rosebery",
+"first earl of Midlothian",
+"Lord Dalmeny"
+],
+"links": 51
+},
+{
+"name": "William Lamb, 2nd Viscount Melbourne",
+"aliases": [
+"Lord Melbourne",
+"William Lamb, Viscount Melbourne"
+],
+"links": 51
+},
+{
+"name": "Robert Jenkinson, 2nd Earl of Liverpool",
+"aliases": [
+"Lord Liverpool",
+"Robert Jenkinson, Earl of Liverpool"
+],
+"links": 50
+},
+{
+"name": "Henry Addington, 1st Viscount Sidmouth",
+"aliases": [
+"Henry Addington",
+"Henry Addington, Viscount Sidmouth"
+],
+"links": 49
+},
+{
+"name": "William Cavendish, 4th Duke of Devonshire",
+"aliases": [
+"4th Duke of Devonshire William",
+"Duke of Devonshire William Cavendish",
+"William Cavendish, Duke of Devonshire",
+"William Devonshire",
+"William, 4th Duke of Devonshire",
+"William, 4th Duke of Devonshire Cavendish"
+],
+"links": 48
+},
+{
+"name": "Frederick North, 2nd Earl of Guilford",
+"aliases": [
+"Frederick North",
+"Frederick North, Lord North",
+"Frederick, Lord North",
+"Lord North"
+],
+"links": 47
+},
+{
+"name": "William Cavendish-Bentinck, 3rd Duke of Portland",
+"aliases": [
+"William Bentinck, Marquess of Titchfield",
+"William Henry Bentinck, 3rd Duke of Portland",
+"William Henry Bentinck, Marquess of Titchfield",
+"William Portland",
+"William Titchfield"
+],
+"links": 47
+},
+{
+"name": "William Petty, 2nd Earl of Shelburne",
+"aliases": [
+"The Earl of Sherburne",
+"William FitzMaurice-Petty",
+"William Petty, Earl of Shelburne",
+"William Petty, Marquis of Lansdowne"
+],
+"links": 47
+},
+{
+"name": "Augustus FitzRoy, 3rd Duke of Grafton",
+"aliases": [
+"Augustus FitzRoy",
+"Augustus Henry Fitzroy",
+"Augustus Henry Fitzroy, Duke of Grafton"
+],
+"links": 44
+},
+{
+"name": "William Wyndham Grenville, 1st Baron Grenville",
+"aliases": [
+"Lord Grenville",
+"William Grenville",
+"William Grenville, 1st Baron Grenville",
+"William Wyndham Grenville",
+"William Wyndham Grenville, Baron Grenville",
+"William Wyndham, Lord Grenville"
+],
+"links": 44
+},
+{
+"name": "F. J. Robinson, 1st Viscount Goderich",
+"aliases": [
+"Frederick John Robinson, 1st Earl of Ripon",
+"Frederick John Robinson, 1st Viscount Goderich",
+"Frederick John Robinson, Earl of Ripon",
+"Frederick Robinson, 1st Viscount Goderich",
+"Lord Goderich",
+"Viscount Goderich"
+],
+"links": 42
+},
+{
+"name": "Francis Urquhart",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Basil Feilding, 6th Earl of Denbigh",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Harriet Jones",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jim Hacker",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Judge McGruder",
+"aliases": [],
+"links": 1
+}
+]
+},
+{
+"id": "roman-emperors",
+"title": "Roman emperors",
+"prompt": "Name Roman emperors",
+"answers": [
+{
+"name": "Augustus",
+"aliases": [
+"Augustus Caesar",
+"Caesar Octavianus",
+"Caius Julius Cæsar Octavianus",
+"Caius Octavius",
+"Caius Octavius Thurinus",
+"Gaius Caesar",
+"Gaius Julius Caesar",
+"Gaius Julius Caesar Augustus",
+"Gaius Julius Caesar Octavianus",
+"Gaius Julius Caesar Octavianus Augustus",
+"Gaius Octavian",
+"Gaius Octavius Caepias",
+"Gaius Octavius Thurinus",
+"Octavian",
+"Octavianus",
+"Octavius Caesar"
+],
+"links": 248
+},
+{
+"name": "Marcus Aurelius",
+"aliases": [
+"Antoninus",
+"Caesar Marcus Aurelius Antoninus Augustus",
+"Marcus Annius Verus",
+"Marcus Aurelius Verus",
+"Marcus Catilius Severus Annius Verus",
+"Verissimus"
+],
+"links": 178
+},
+{
+"name": "Constantine the Great",
+"aliases": [
+"Constantine",
+"Constantine I",
+"Constantinus I",
+"Flavius Constantinus",
+"Flavius Valerius Aurelius Constantinus",
+"Flavius Valerius Aurelius Constantinus Augustus",
+"Flavius Valerius Constantinus",
+"Gaius Flavius Valerius Aurelius Constantinus",
+"Gaius Flavius Valerius Constantinus",
+"Lucius Flavius Valerius Constantinus",
+"Marcus Flavius Valerius Constantinus",
+"Saint Constantine",
+"Trachala"
+],
+"links": 159
+},
+{
+"name": "Nero",
+"aliases": [
+"Emperor of Rome Nero",
+"Nero Claudius Caesar Augustus Germanicus",
+"Nero Claudius Caesar Drusus Germanicus",
+"Nero Claudius Drusus Germanicus",
+"Nero Claudius Drusus Germanicus Caesar"
+],
+"links": 137
+},
+{
+"name": "Caligula",
+"aliases": [
+"Emperor of Rome Caligula",
+"Emperor of Rome Gaius",
+"Emperor of Rome Gaius Caesar Germanicus",
+"Gaius",
+"Gaius Caesar",
+"Gaius Caesar Germanicus",
+"Gaius Iulius Caesar Germanicus Caligula",
+"Gaius Julius Caesar Augustus Germanicus",
+"Gaius Julius Caesar Germanicus",
+"Gaius Julius Caesar Germanicus Minor",
+"Julius Caesar Germanicus, Emperor of Rome Gaius"
+],
+"links": 132
+},
+{
+"name": "Tiberius",
+"aliases": [
+"Caesar Tiberius",
+"Emperor of Rome Tiberius",
+"Emperor of Rome Tiberius Claudius Nero",
+"Emperor Tiberius",
+"Imperator Caesar Divi filius Augustus",
+"Marcus Gallius Claudianus",
+"Tibeius Gallius Claudianus",
+"Tiberius Caesar",
+"Tiberius Caesar Augustus",
+"Tiberius Julius Caesar",
+"Tiberius Julius Caesar Augustus"
+],
+"links": 120
+},
+{
+"name": "Trajan",
+"aliases": [
+"Caesar Nerva Traianus Germanicus",
+"Marcus Ulpius Trajan",
+"Optimus Princeps",
+"Traianus",
+"Ulpius Crinitus Traianus"
+],
+"links": 116
+},
+{
+"name": "Hadrian",
+"aliases": [
+"Adrian",
+"Caesar Traianus Hadrianus Augustus",
+"Emperor Hadrian",
+"Emperor of Rome Adrian",
+"Emperor of Rome Hadrian",
+"Emperor Publius Aelius Hadrianus",
+"Hadrianus",
+"Publius Aelius Hadrianus Buccellanus",
+"Publius Aelius Traianus Hadrianus Augustus"
+],
+"links": 113
+},
+{
+"name": "Vespasian",
+"aliases": [
+"Caesar Vespasianus Augustus",
+"Emperor Vespasian",
+"Mulio"
+],
+"links": 113
+},
+{
+"name": "Claudius",
+"aliases": [
+"Claudius Caesar",
+"Claudius I",
+"Tiberius Claudius Caesar Augustus Germanicus",
+"Tiberius Claudius Drusus Germanicus",
+"Tiberius Claudius Drusus Nero Germanicus",
+"Tiberius Claudius Nero",
+"Tiberius Claudius Nero Caesar Drusus",
+"Tiberius Claudius Nero Drusus Germanicus",
+"Tiberius Claudius Nero Germanicus"
+],
+"links": 110
+},
+{
+"name": "Titus",
+"aliases": [
+"Flavius Vespasianus Titus",
+"Titus Caesar Vespasianus",
+"Titus Flavius Sabinus Vespasianus",
+"Titus Flavius Vespasianus",
+"Titus Vespasianus Augustus"
+],
+"links": 103
+},
+{
+"name": "Domitian",
+"aliases": [
+"Caesar Domitianus Augustus",
+"Domitianus"
+],
+"links": 99
+},
+{
+"name": "Diocletian",
+"aliases": [
+"Caius Aurelius Valerius Diocletianus",
+"Diocletianus",
+"Gaius Aurelius Valerius Diocletianus",
+"Jovius",
+"Marcus Aurelius Gaius Valerius Diocletianus"
+],
+"links": 97
+},
+{
+"name": "Antoninus Pius",
+"aliases": [
+"Antoninus",
+"Caesar Aelius Hadrianus Antoninus Augustus Pius",
+"Titus Aurelius Fulvius Boionius Arrius Antoninus",
+"Titus Aurelius Fulvus Boionius Arrius Antoninus"
+],
+"links": 94
+},
+{
+"name": "Julian",
+"aliases": [
+"Flavius Claudius Iulianus",
+"Flavius Claudius Julianus",
+"Julian II",
+"Julian III",
+"Julian the Apostate",
+"Julianus II",
+"Julianus III"
+],
+"links": 94
+},
+{
+"name": "Theodosius I",
+"aliases": [
+"Dominus Noster Flavius Theodosius Augustus",
+"Emperor of Rome Theodosius I",
+"Flavius Theodosius Augustus",
+"Theodosios I",
+"Theodosios I the Great",
+"Theodosius I, the Great"
+],
+"links": 94
+},
+{
+"name": "Septimius Severus",
+"aliases": [
+"L. Septimius Severus",
+"Lucius Septimius Severus Emperor of Rome",
+"Lucius Septimius Severus Pertinax",
+"Lucius Septimius, Emperor of Rome Severus",
+"Septimius, Emperor of Rome Severus",
+"Severus"
+],
+"links": 93
+},
+{
+"name": "Galba",
+"aliases": [
+"Lucius Livius Ocella Sulpicius Galba",
+"Servius Galba Caesar Augustus",
+"Servius Sulpicius Galba",
+"Servius Sulpicius Galba Caesar",
+"Servius Sulpicius Galba Caesar Augustus"
+],
+"links": 92
+},
+{
+"name": "Caracalla",
+"aliases": [
+"Antoninus Caracallus",
+"Caracallus",
+"Divus Antoninus Magnus",
+"Marcus Aurelius Antoninus",
+"Marcus Aurelius Antoninus Caracallus",
+"Tarautas"
+],
+"links": 89
+},
+{
+"name": "Otho",
+"aliases": [
+"Marcus Otho Caesar Augustus",
+"Nero Otho"
+],
+"links": 87
+},
+{
+"name": "Aurelian",
+"aliases": [
+"Aurelianus",
+"Lucius Domiticus Aurelianus",
+"Lucius Domitius Aurelianus"
+],
+"links": 86
+},
+{
+"name": "Commodus",
+"aliases": [
+"Lucius Aelius Aurelius Gaius Augustus",
+"Lucius Aurelius Commodus Antoninus",
+"Marcus Aurelius Gaius Antoninus"
+],
+"links": 85
+},
+{
+"name": "Elagabalus",
+"aliases": [
+"Heliogabalus",
+"Marcus Aurelius Antoninus Augustus",
+"Marcus Aurelius Antoninus Heliogabalus",
+"Sextus Varius Avitus Bassianus",
+"Tiberinus",
+"Varius Avitus",
+"Varius Avitus Bassianus"
+],
+"links": 85
+},
+{
+"name": "Vitellius",
+"aliases": [
+"Aulus Vitellius Germanicus"
+],
+"links": 85
+},
+{
+"name": "Nerva",
+"aliases": [],
+"links": 84
+},
+{
+"name": "Severus Alexander",
+"aliases": [
+"Alexander Mammaeae",
+"Alexander of Mammaea",
+"Alexander Severus",
+"Alexianus",
+"Alexianus Bassianus",
+"Marcus Aurelius Severus Alexander",
+"Marcus Aurelius Severus Alexianus"
+],
+"links": 81
+},
+{
+"name": "Decius",
+"aliases": [
+"Gaius Messius Quintus Decius",
+"Gaius Messius Quintus Traianus Decius",
+"Gaius Messius Quintus Trajanus Decius",
+"Trajan Decius"
+],
+"links": 79
+},
+{
+"name": "Didius Julianus",
+"aliases": [
+"Julian I",
+"Julianus I",
+"Marcus Didius Iulianus",
+"Marcus Didius Severus Iulianus",
+"Marcus Didius Severus Julianus"
+],
+"links": 79
+},
+{
+"name": "Macrinus",
+"aliases": [
+"Marcus Opellius Severus Macrinus Augustus"
+],
+"links": 79
+},
+{
+"name": "Pertinax",
+"aliases": [
+"Helvius Pertinax",
+"Publius Helvius Pertinax"
+],
+"links": 78
+},
+{
+"name": "Constantius Chlorus",
+"aliases": [
+"Chlorus",
+"Flavius Constantius",
+"Flavius Valerius Constantius",
+"Gaius Flavius Valerius Constantius",
+"Herculius",
+"Marcus Flavius Valerius Constantius"
+],
+"links": 76
+},
+{
+"name": "Constantius II",
+"aliases": [
+"Constantius II of Rome",
+"Constantius the Apostate",
+"Fl. Iulius Constantius",
+"Fl. Julius Constantius",
+"Flavius Iulius Constantius",
+"Flavius Julius Constantius",
+"Flavius Julius Constantius Augustus"
+],
+"links": 76
+},
+{
+"name": "Philip the Arab",
+"aliases": [
+"Marcus Julius Philippus Arabs",
+"Philip",
+"Philip I",
+"Philippus Arabs"
+],
+"links": 76
+},
+{
+"name": "Lucius Verus",
+"aliases": [
+"Lucius Aurelius Verus",
+"Lucius Ceionius Commodus Verus Armeniacus"
+],
+"links": 75
+},
+{
+"name": "Theodosius II",
+"aliases": [
+"Emperor of Rome Theodosius II",
+"Flavius Theodosius Junior Augustus",
+"Theodosius Flavius Secundus",
+"Theodosius the Calligrapher",
+"Theodosius the Younger"
+],
+"links": 75
+},
+{
+"name": "Valentinian I",
+"aliases": [
+"Imperator Caesar Flavius Valentinianus Augustus",
+"Valentinianus I"
+],
+"links": 74
+},
+{
+"name": "Valerian",
+"aliases": [
+"Colobius",
+"Lucinius Valerianus",
+"Publius Licinius Valerianus",
+"Valerianus"
+],
+"links": 74
+},
+{
+"name": "Maximinus Thrax",
+"aliases": [
+"C. Iulius Verus Maximinus",
+"C. Julius Verus Maximinus",
+"Gaius Iulius Verus Maximinus",
+"Gaius Julius Verus Maximinus",
+"Maximinus I"
+],
+"links": 73
+},
+{
+"name": "Valens",
+"aliases": [
+"Flavius Valens",
+"Valens II"
+],
+"links": 71
+},
+{
+"name": "Claudius Gothicus",
+"aliases": [
+"Claudius II",
+"Claudius II Gothicus",
+"Emperor Claudius II Gothicus of Rome",
+"Emperor of Rome Claudius II",
+"Emperor of Rome Claudius II Gothicus",
+"Gothicus",
+"Marcus Aurelius Claudius",
+"Marcus Aurelius Claudius Gothicus",
+"Marcus Aurelius Valerius Claudius Augustus"
+],
+"links": 70
+},
+{
+"name": "Gordian I",
+"aliases": [
+"Emperor of Rome Gordian I",
+"Gordianus I",
+"Marcus Antonius Gordianus Sempronianus Romanus"
+],
+"links": 69
+},
+{
+"name": "Gordian III",
+"aliases": [
+"Gordianus III",
+"Marcus Antonius Gordianus",
+"Marcus Antonius Gordianus Pius"
+],
+"links": 69
+},
+{
+"name": "Licinius",
+"aliases": [
+"Valerius Licinianus Licinius"
+],
+"links": 69
+},
+{
+"name": "Constantine II",
+"aliases": [
+"Caesar Constantinus Alamannicus",
+"Constantine",
+"Constantine II of Rome",
+"Constantine Junior",
+"Constantine the Younger",
+"Constantinus",
+"Constantinus II",
+"Constantinus Iunior",
+"Constantinus the Younger",
+"Emperor Constantine",
+"Emperor Constantine II",
+"Emperor Constantinus",
+"Emperor Constantinus II",
+"Fl. Claudius Constantinus",
+"Flavius Claudius Constantinus",
+"Flavius Claudius Constantinus Augustus"
+],
+"links": 68
+},
+{
+"name": "Gallienus",
+"aliases": [
+"Publius Licinius Egnatius Gallienus"
+],
+"links": 68
+},
+{
+"name": "Maurice",
+"aliases": [
+"Flavius Mauricius Tiberius Augustus",
+"Mauricius",
+"Mauricius Tiberius",
+"Maurikios",
+"Mauritius"
+],
+"links": 68
+},
+{
+"name": "Geta",
+"aliases": [
+"Geta Lucius Septimius",
+"Geta Publius Septimius",
+"L. Sept. Geta",
+"L. Septimius Geta",
+"Lucius Septimius Bassianus",
+"P. Sept. Geta",
+"P. Septimius Geta",
+"Publius Septimius Bassianus Geta",
+"Publius Septimius Geta",
+"Publius Septimius Geta Bassianus"
+],
+"links": 67
+},
+{
+"name": "Maximian",
+"aliases": [
+"Herculius",
+"Marcus Aurelius Valerius Maximianus",
+"Maximianus"
+],
+"links": 66
+},
+{
+"name": "Aemilian",
+"aliases": [
+"Marcus Aemilius Aemilianus"
+],
+"links": 65
+},
+{
+"name": "Galerius",
+"aliases": [
+"Armentarius",
+"Caius Gaius Galerius Valerius Maximianus Caesar",
+"Emperor of Rome Galerios",
+"Emperor of Rome Galerius",
+"Gaius Galerius Valerius Maximianus",
+"Galerius Maximinus",
+"Herculianus",
+"Iovius",
+"Jovius",
+"Maximianus",
+"Maximinus",
+"Valerius Maximus Galerius"
+],
+"links": 65
+},
+{
+"name": "Probus",
+"aliases": [
+"Equitius",
+"Imperator Caesar M. Aurelius Probus Augustus",
+"Marcus Aurelius Probus",
+"Marcus Aurelius Valerius Probus"
+],
+"links": 65
+},
+{
+"name": "Pupienus",
+"aliases": [
+"Marcus Clodius Pupienus Maximus",
+"Pupienus Maximus"
+],
+"links": 65
+},
+{
+"name": "Balbinus",
+"aliases": [
+"Decimus Caelius Calvinus Balbinus"
+],
+"links": 64
+},
+{
+"name": "Jovian",
+"aliases": [
+"Flavius Claudius Iovianus",
+"Flavius Claudius Jovianus",
+"Flavius Jovianus",
+"Iovianus"
+],
+"links": 64
+},
+{
+"name": "Maxentius",
+"aliases": [
+"Emperor of Rome Maxentius",
+"Marcus Aurelius Valerius Maxentius"
+],
+"links": 64
+},
+{
+"name": "Quintillus",
+"aliases": [
+"M. Aurelius Claudius Quintillus",
+"Marcus Aurelius Claudius Quintillus"
+],
+"links": 64
+},
+{
+"name": "Tacitus",
+"aliases": [
+"Claudius Tacitus",
+"Gothicus Maximus",
+"Marcus Claudius Tacitus",
+"Marcus Claudius Tacitus Gothicus Maximus",
+"Marcus Claudius Tacitus Pius Felix Augustus"
+],
+"links": 64
+},
+{
+"name": "Trebonianus Gallus",
+"aliases": [
+"Gaius Vibius Trebonianus Gallus"
+],
+"links": 64
+},
+{
+"name": "Gordian II",
+"aliases": [
+"Emperor of Rome Gordian II"
+],
+"links": 63
+},
+{
+"name": "Gratian",
+"aliases": [
+"Augustus Gratianus",
+"Emperor of Rome Flavius Gratian",
+"Emperor of Rome Flavius Gratianus",
+"Emperor of Rome Flavius Gratianus Augustus",
+"Emperor of Rome Gratian",
+"Emperor of Rome Gratianus",
+"Flavius Gratianus Augustus",
+"Gratianus"
+],
+"links": 61
+},
+{
+"name": "Carus",
+"aliases": [
+"Marcus Aurelius Carus",
+"Marcus Aurelius Numerius Carus",
+"Marcus Numerius Aurelius Carus",
+"Marcus Numerius Carus"
+],
+"links": 60
+},
+{
+"name": "Diadumenian",
+"aliases": [
+"Antoninus Diadumenus",
+"Diadematus",
+"Diadumenianus",
+"Diadumenius",
+"Diadumenus",
+"Marcus Opellius Antoninus Diadumenianus",
+"Marcus Opellius Diadumenianus",
+"Marcus Opellius Diadumenus"
+],
+"links": 60
+},
+{
+"name": "Florian",
+"aliases": [
+"Emperor of Rome Florianus",
+"Florianus",
+"Marcus Annius Florianus",
+"Marcus Annius Florianus Augustus"
+],
+"links": 59
+},
+{
+"name": "Carinus",
+"aliases": [
+"Marcus Aurelius Carinus",
+"Marcus Aurelius Numerius Carinus",
+"Marcus Numerius Aurelius Carinus",
+"Marcus Numerius Carinus"
+],
+"links": 58
+},
+{
+"name": "Constans",
+"aliases": [
+"Constans I",
+"Flavius Julius Constans",
+"Flavius Julius Constans Augustus"
+],
+"links": 58
+},
+{
+"name": "Severus",
+"aliases": [
+"Flavius Valerius Severus",
+"Severus II"
+],
+"links": 58
+},
+{
+"name": "Hostilian",
+"aliases": [
+"Gaius Valens Hostilianus Messius Quintus",
+"Gaius Valentius Hostilianus Messius Quintus",
+"Hostilianus",
+"Hostilianus Perpenna",
+"Valens Hostilianus"
+],
+"links": 57
+},
+{
+"name": "Maximinus Daza",
+"aliases": [
+"Daza",
+"Gaius Valerius Daza",
+"Gaius Valerius Galerius Maximinus",
+"Galerius Valerius Maximinus Daza",
+"Maximinus Daia",
+"Maximinus II"
+],
+"links": 57
+},
+{
+"name": "Valentinian II",
+"aliases": [
+"Flavius Valentinianus Iunior",
+"Valentinianus II"
+],
+"links": 56
+},
+{
+"name": "Numerian",
+"aliases": [
+"M. Aurelius Numerius Numerianus",
+"Marcus Aurelius Numerius Numerianus",
+"Numerianus"
+],
+"links": 55
+},
+{
+"name": "Volusian",
+"aliases": [
+"Gaius Vibius Volusianus",
+"Volusianus"
+],
+"links": 55
+},
+{
+"name": "Herennius Etruscus",
+"aliases": [
+"Quintus Herennius Etruscus Messius Decius"
+],
+"links": 51
+},
+{
+"name": "Magnus Maximus",
+"aliases": [
+"Macsen Wledig",
+"Maximianus"
+],
+"links": 50
+},
+{
+"name": "Saloninus",
+"aliases": [
+"Publius Licinius Cornelius Saloninus",
+"Publius Licinius Cornelius Saloninus Valerianus"
+],
+"links": 47
+},
+{
+"name": "Martinianus",
+"aliases": [
+"Mar Martinianus",
+"Mar... Martinianus",
+"Marcius Martinianus",
+"Marinus Martinianus",
+"Martinus Martinianus",
+"S Mar Martinianus",
+"Sextus Marcius Martinianus",
+"Sextus Martinianus"
+],
+"links": 42
+},
+{
+"name": "Vetranio",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Valerius Valens",
+"aliases": [
+"Aurelius Valerius Valens",
+"Valens I"
+],
+"links": 39
+},
+{
+"name": "Regalianus",
+"aliases": [
+"P C Regalianus",
+"P. C. Regalianus",
+"P.C. Regalianus",
+"Pius Caesar Regalianus",
+"Publius Caesar Regalianus",
+"Publius Cassius Regalianus",
+"Publius Claudius Regalianus",
+"Publius Cornelius Regalianus",
+"Publius Gaius Regalianus",
+"Regilianus",
+"Regillianus",
+"Religianus",
+"Religilianus",
+"Trebellianus"
+],
+"links": 31
+},
+{
+"name": "Constans II",
+"aliases": [
+"Constans"
+],
+"links": 29
+},
+{
+"name": "Procopius",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Ingenuus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Flavius Victor",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Pacatian",
+"aliases": [
+"Pacatianus",
+"Tiberius Claudius Marinus Pacatianus"
+],
+"links": 27
+},
+{
+"name": "Macrianus Major",
+"aliases": [
+"Titus Fulvius Macrianus"
+],
+"links": 25
+},
+{
+"name": "Jotapianus",
+"aliases": [
+"Iopatian",
+"Iopatianus",
+"M. Fulvius Rufus Iotapianus",
+"M. Fulvius Rufus Jotapianus",
+"Marcus Fulvius Ru. Jotapianus",
+"Marcus Fulvius Rufus Iotapianus",
+"Marcus Fulvius Rufus Jotapianus"
+],
+"links": 24
+},
+{
+"name": "Sabinian",
+"aliases": [
+"Marcus Asinius Sabinianus",
+"Sabinianus"
+],
+"links": 24
+},
+{
+"name": "Silbannacus",
+"aliases": [
+"Imperator Mar. Silbannacus Augustus",
+"Mar. Silbannacus Augustus",
+"Marcius Silbannacus Augustus",
+"Marcus Silbannacus Augustus",
+"Marinus Silbannacus",
+"Marius Silbannacus Augustus"
+],
+"links": 24
+},
+{
+"name": "Valerian II",
+"aliases": [
+"Publius Licinius Cornelius Valerianus",
+"Valerianus"
+],
+"links": 24
+},
+{
+"name": "Bonosus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Sponsianus",
+"aliases": [
+"Imperator Sponsianus",
+"Severus Sponsianus",
+"Sponsian",
+"Sponsiani",
+"Sponsianvs"
+],
+"links": 23
+},
+{
+"name": "Julius Saturninus",
+"aliases": [
+"Saturninus",
+"Sextus",
+"Sextus Julius Saturninus",
+"Sextus Saturninus"
+],
+"links": 22
+},
+{
+"name": "Silvanus",
+"aliases": [
+"Claudius Silvanus"
+],
+"links": 22
+},
+{
+"name": "Marcus",
+"aliases": [
+"Flavius Marcus"
+],
+"links": 21
+},
+{
+"name": "Maximus of Hispania",
+"aliases": [
+"Maximus"
+],
+"links": 21
+},
+{
+"name": "Uranius",
+"aliases": [
+"Uranius Antoninus"
+],
+"links": 21
+},
+{
+"name": "Gaius Julius Verus Maximus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Sabinus Iulianus",
+"aliases": [
+"Julian II",
+"Julian of Pannonia",
+"Juliusnus II",
+"Marcus Aurelius Iulianus"
+],
+"links": 18
+},
+{
+"name": "Sebastianus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Gratian",
+"aliases": [
+"Gratianus"
+],
+"links": 17
+},
+{
+"name": "Marcus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Firmus",
+"aliases": [
+"Marcus Firmus"
+],
+"links": 16
+},
+{
+"name": "Septimius",
+"aliases": [
+"Septiminus",
+"Septimius II"
+],
+"links": 16
+},
+{
+"name": "Flavius Severianus",
+"aliases": [
+"Severianus"
+],
+"links": 12
+},
+{
+"name": "Marcellus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Victorinus Junior",
+"aliases": [
+"Victorinus Minor"
+],
+"links": 10
+},
+{
+"name": "Desiderius",
+"aliases": [],
+"links": 3
+}
+]
+},
+{
+"id": "u-s-secretaries-of-state",
+"title": "U.S. secretaries of state",
+"prompt": "Name U.S. secretaries of state",
+"answers": [
+{
+"name": "Thomas Jefferson",
+"aliases": [
+"President Jefferson",
+"T. Jefferson"
+],
+"links": 225
+},
+{
+"name": "James Madison",
+"aliases": [
+"James Madison Jr.",
+"James Madison, Jr.",
+"President James Madison",
+"President Madison"
+],
+"links": 177
+},
+{
+"name": "John Quincy Adams",
+"aliases": [
+"J. Adams",
+"J. Q. Adams",
+"John Adams",
+"John Q. Adams"
+],
+"links": 166
+},
+{
+"name": "James Monroe",
+"aliases": [
+"J. Monroe",
+"President Monroe"
+],
+"links": 159
+},
+{
+"name": "Martin Van Buren",
+"aliases": [
+"Buren",
+"M. van Buren",
+"Martin van Ruin",
+"Old Kinderhook",
+"President Martin Van Buren",
+"President van Buren",
+"President Van Buren",
+"The Mistletoe Politician",
+"The Red Fox of Kinderhook",
+"Van Buren"
+],
+"links": 146
+},
+{
+"name": "Henry Kissinger",
+"aliases": [
+"Heinz Alfred Kissinger",
+"Heinz Kissinger",
+"Henry A. Kissinger",
+"Henry Alfred Kissinger",
+"Kissinger"
+],
+"links": 144
+},
+{
+"name": "James Buchanan",
+"aliases": [
+"J. Buchanan",
+"J. Buchanan, Jr.",
+"James Buchanan, Jr.",
+"President Buchanan"
+],
+"links": 144
+},
+{
+"name": "Condoleezza Rice",
+"aliases": [
+"Condi Rice",
+"Condoleezza Condi Rice"
+],
+"links": 114
+},
+{
+"name": "Madeleine Albright",
+"aliases": [
+"Madeleine Korbelová Albright",
+"Marie Jana Korbelova"
+],
+"links": 110
+},
+{
+"name": "John Kerry",
+"aliases": [
+"John F. Kerry",
+"Kerry"
+],
+"links": 108
+},
+{
+"name": "George Marshall",
+"aliases": [
+"George Catlett Marshall, Jr."
+],
+"links": 105
+},
+{
+"name": "Colin Powell",
+"aliases": [
+"Colin L. Powell"
+],
+"links": 88
+},
+{
+"name": "Marco Rubio",
+"aliases": [
+"Marco A. Rubio",
+"Marco Antonio Rubio",
+"Sec. Marco Rubio",
+"Sec. Rubio",
+"Secretary Marco Rubio",
+"Secretary Rubio",
+"Sen. Marco Rubio",
+"Sen. Rubio",
+"Senator Marco Rubio",
+"Senator Rubio"
+],
+"links": 87
+},
+{
+"name": "Antony Blinken",
+"aliases": [
+"ABlinken",
+"Antony J. Blinken",
+"Antony John Blinken",
+"Tony Blinken"
+],
+"links": 85
+},
+{
+"name": "Mike Pompeo",
+"aliases": [
+"Michael Pompeo",
+"Michael R. Pompeo",
+"Michael Richard Pompeo",
+"Pompeo"
+],
+"links": 81
+},
+{
+"name": "John C. Calhoun",
+"aliases": [
+"John Caldwell Calhoun",
+"John Calhoun"
+],
+"links": 74
+},
+{
+"name": "Cordell Hull",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Rex Tillerson",
+"aliases": [
+"Rex W. Tillerson"
+],
+"links": 64
+},
+{
+"name": "William H. Seward",
+"aliases": [
+"William Henry Seward",
+"William Seward"
+],
+"links": 60
+},
+{
+"name": "Elihu Root",
+"aliases": [
+"Hon. Elihu Root"
+],
+"links": 59
+},
+{
+"name": "Frank B. Kellogg",
+"aliases": [
+"Frank Billings Kellogg",
+"Frank Kellogg"
+],
+"links": 58
+},
+{
+"name": "John Jay",
+"aliases": [],
+"links": 57
+},
+{
+"name": "John Foster Dulles",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Dean Acheson",
+"aliases": [
+"Dean Gooderham Acheson"
+],
+"links": 54
+},
+{
+"name": "James Baker",
+"aliases": [
+"James A. Baker III",
+"James Addison Baker",
+"James Addison Baker III"
+],
+"links": 53
+},
+{
+"name": "John Marshall",
+"aliases": [],
+"links": 53
+},
+{
+"name": "William Jennings Bryan",
+"aliases": [
+"W. J. Bryan",
+"William Bryan",
+"William J. Bryan"
+],
+"links": 52
+},
+{
+"name": "George Shultz",
+"aliases": [
+"George P. Shultz",
+"George Pratt Shultz",
+"George Schultz"
+],
+"links": 51
+},
+{
+"name": "Daniel Webster",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Warren Christopher",
+"aliases": [
+"Warren Minor Christopher"
+],
+"links": 48
+},
+{
+"name": "Henry Clay",
+"aliases": [
+"Henry Clay Sr.",
+"Henry Clay, Sr."
+],
+"links": 46
+},
+{
+"name": "Alexander Haig",
+"aliases": [
+"Alexander Meigs Haig, Jr."
+],
+"links": 45
+},
+{
+"name": "Henry L. Stimson",
+"aliases": [
+"Henry Lewis Stimson"
+],
+"links": 45
+},
+{
+"name": "Charles Evans Hughes",
+"aliases": [
+"Charles E. Hughes",
+"Charles Evans Hughes Sr.",
+"Charles Hughes",
+"Chas. E. Hughes",
+"Governor Hughes"
+],
+"links": 44
+},
+{
+"name": "Cyrus Vance",
+"aliases": [
+"Cyrus R. Vance",
+"Cyrus Roberts Vance"
+],
+"links": 43
+},
+{
+"name": "James F. Byrnes",
+"aliases": [
+"James Byrnes",
+"James Francis Byrnes"
+],
+"links": 43
+},
+{
+"name": "Dean Rusk",
+"aliases": [
+"David Dean Rusk"
+],
+"links": 42
+},
+{
+"name": "Lawrence Eagleburger",
+"aliases": [
+"Lawrence Sidney Eagleburger"
+],
+"links": 42
+},
+{
+"name": "Edmund Muskie",
+"aliases": [
+"Ed Muskie",
+"Edmund Sixtus Muskie"
+],
+"links": 39
+},
+{
+"name": "James G. Blaine",
+"aliases": [
+"James Blaine",
+"James Gillespie Blaine"
+],
+"links": 39
+},
+{
+"name": "John Hay",
+"aliases": [
+"John Milton Hay"
+],
+"links": 38
+},
+{
+"name": "Robert Lansing",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Edmund Randolph",
+"aliases": [
+"Edmund Jennings Randolph"
+],
+"links": 35
+},
+{
+"name": "William J. Burns",
+"aliases": [
+"Bill Burns",
+"William Joseph Burns"
+],
+"links": 35
+},
+{
+"name": "Edward Everett",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Christian Herter",
+"aliases": [
+"Christian A. Herter",
+"Christian Archibald Herter"
+],
+"links": 33
+},
+{
+"name": "John Sherman",
+"aliases": [],
+"links": 33
+},
+{
+"name": "William P. Rogers",
+"aliases": [
+"William Pierce Rogers",
+"William Rogers"
+],
+"links": 33
+},
+{
+"name": "Edward Reilly Stettinius, Jr.",
+"aliases": [
+"Edward R. Stettinius"
+],
+"links": 32
+},
+{
+"name": "Timothy Pickering",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Lewis Cass",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Hamilton Fish",
+"aliases": [
+"Hamilton Fish I"
+],
+"links": 29
+},
+{
+"name": "William L. Marcy",
+"aliases": [
+"William Learned Marcy"
+],
+"links": 29
+},
+{
+"name": "Edward Livingston",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Bainbridge Colby",
+"aliases": [],
+"links": 27
+},
+{
+"name": "John Watson Foster",
+"aliases": [
+"John Foster",
+"John W. Foster"
+],
+"links": 27
+},
+{
+"name": "Louis McLane",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Thomas F. Bayard",
+"aliases": [
+"Thomas Francis Bayard"
+],
+"links": 27
+},
+{
+"name": "Walter Quintin Gresham",
+"aliases": [
+"Walter Q. Gresham"
+],
+"links": 27
+},
+{
+"name": "William M. Evarts",
+"aliases": [
+"William Maxwell Evarts"
+],
+"links": 27
+},
+{
+"name": "William R. Day",
+"aliases": [
+"William Day",
+"William Rufus Day"
+],
+"links": 27
+},
+{
+"name": "Elihu B. Washburne",
+"aliases": [
+"Elihu Benjamin Washburne"
+],
+"links": 26
+},
+{
+"name": "John Forsyth",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Robert Smith",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Abel P. Upshur",
+"aliases": [
+"Abel Paker Upshur",
+"Abel Parker Upshur",
+"Abel Upshur"
+],
+"links": 25
+},
+{
+"name": "Frederick T. Frelinghuysen",
+"aliases": [
+"Frederick Frelinghuysen",
+"Frederick Theodore Frelinghuysen",
+"Hon. Frederick Frelinghuysen",
+"Honorable Frederick Frelinghuysen",
+"Honorable Frelinghuysen"
+],
+"links": 25
+},
+{
+"name": "John J. Sullivan",
+"aliases": [
+"John Joseph Sullivan"
+],
+"links": 25
+},
+{
+"name": "John M. Clayton",
+"aliases": [
+"John Middleton Clayton"
+],
+"links": 25
+},
+{
+"name": "Philander C. Knox",
+"aliases": [
+"Philander Chase Knox"
+],
+"links": 25
+},
+{
+"name": "Richard Olney",
+"aliases": [
+"R. E. Olney",
+"Richard E. Olney"
+],
+"links": 25
+},
+{
+"name": "Robert Bacon",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Jeremiah S. Black",
+"aliases": [
+"Jeremiah Black",
+"Jeremiah Sullivan Black"
+],
+"links": 24
+},
+{
+"name": "Charles Lee",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Joseph Grew",
+"aliases": [
+"Joseph C. Grew",
+"Joseph Clark Grew"
+],
+"links": 22
+},
+{
+"name": "Richard Rush",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Levi Lincoln Sr.",
+"aliases": [
+"Levi Lincoln",
+"Levi Lincoln, Sr."
+],
+"links": 20
+},
+{
+"name": "Philip Habib",
+"aliases": [
+"Philip Charles Habib"
+],
+"links": 17
+},
+{
+"name": "Thomas A. Shannon, Jr.",
+"aliases": [
+"Thomas A. Shannon Jr.",
+"Thomas Alfred Shannon Jr.",
+"Thomas Shannon"
+],
+"links": 16
+},
+{
+"name": "Charles E. Bohlen",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Charles Magill Conrad",
+"aliases": [],
+"links": 15
+},
+{
+"name": "John Nelson",
+"aliases": [
+"John Nelson, 17th U.S. Attorney General"
+],
+"links": 15
+},
+{
+"name": "Hugh S. Legaré",
+"aliases": [
+"Hugh Legaré",
+"Hugh S. Legare",
+"Hugh Swinton Legaré",
+"Legaré, Hugh"
+],
+"links": 13
+},
+{
+"name": "Dan Smith",
+"aliases": [
+"Daniel B. Smith",
+"Daniel Bennett Smith"
+],
+"links": 10
+},
+{
+"name": "Frank Polk",
+"aliases": [
+"Francis Lyon Polk",
+"Francis Polk",
+"Frank L. Polk",
+"Frank Lyon Polk"
+],
+"links": 10
+},
+{
+"name": "Kenneth Rush",
+"aliases": [
+"David Kenneth Rush"
+],
+"links": 10
+},
+{
+"name": "Frank G. Wisner",
+"aliases": [
+"Frank G Wisner, Jr.",
+"Frank George Wisner II"
+],
+"links": 9
+},
+{
+"name": "Alvey A. Adee",
+"aliases": [
+"A. A. Adee",
+"A. Augustus Adee",
+"Alvey Augustus Adee"
+],
+"links": 8
+},
+{
+"name": "David D. Newsom",
+"aliases": [
+"David Dunlop Newsom",
+"David Newsom"
+],
+"links": 8
+},
+{
+"name": "John Graham",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Michael Armacost",
+"aliases": [
+"Michael Hayden Armacost"
+],
+"links": 8
+},
+{
+"name": "Livingston T. Merchant",
+"aliases": [
+"Livingston Merchant",
+"Livingston Tallmadge Merchant"
+],
+"links": 7
+},
+{
+"name": "Daniel Brent",
+"aliases": [
+"Daniel Carroll Brent"
+],
+"links": 6
+},
+{
+"name": "Francis Butler Loomis",
+"aliases": [
+"Francis B. Loomis",
+"Francis Loomis"
+],
+"links": 6
+},
+{
+"name": "James Alexander Hamilton",
+"aliases": [
+"James A. Hamilton",
+"James Hamilton"
+],
+"links": 6
+},
+{
+"name": "Richard N. Cooper",
+"aliases": [
+"Richard Newell Cooper"
+],
+"links": 6
+},
+{
+"name": "Walter John Stoessel",
+"aliases": [
+"Walter J. Stoessel Jr.",
+"Walter J. Stoessel, Jr.",
+"Walter John Stoessel Jr.",
+"Walter John Stoessel, Jr.",
+"Walter Stoessel"
+],
+"links": 6
+},
+{
+"name": "H. Freeman Matthews",
+"aliases": [
+"Harrison Freeman Matthews"
+],
+"links": 5
+},
+{
+"name": "William S. Derrick",
+"aliases": [
+"William Sharples Derrick"
+],
+"links": 5
+},
+{
+"name": "Edwin F. Uhl",
+"aliases": [
+"Edwin Fuller Uhl"
+],
+"links": 4
+},
+{
+"name": "William F. Wharton",
+"aliases": [
+"W. F. Wharton",
+"William Fisher Wharton",
+"William Wharton"
+],
+"links": 4
+},
+{
+"name": "William Hunter",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Jacob L. Martin",
+"aliases": [
+"Jacob Martin"
+],
+"links": 3
+},
+{
+"name": "Arnold Vinick",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Elizabeth McCord",
+"aliases": [],
+"links": 2
+}
+]
+},
+{
+"id": "presidents-of-france",
+"title": "Presidents of France",
+"prompt": "Name presidents of France",
+"answers": [
+{
+"name": "Charles de Gaulle",
+"aliases": [
+"Charles Andre Joseph Marie de Gaulle",
+"Charles André Joseph Marie de Gaulle",
+"General Charles de Gaulle"
+],
+"links": 223
+},
+{
+"name": "François Hollande",
+"aliases": [
+"Francois Gerard Georges Nicolas Hollande",
+"Francois Hollande",
+"François Gérard Georges Nicolas Hollande"
+],
+"links": 217
+},
+{
+"name": "Emmanuel Macron",
+"aliases": [],
+"links": 204
+},
+{
+"name": "Nicolas Sarkozy",
+"aliases": [
+"Nicolas Sarközy",
+"Sarko",
+"Sarkozy"
+],
+"links": 193
+},
+{
+"name": "Georges Pompidou",
+"aliases": [],
+"links": 143
+},
+{
+"name": "François Mitterrand",
+"aliases": [
+"Francois Marie Adrien Maurice Mitterrand",
+"Francois Mitterrand",
+"François Marie Adrien Maurice Mitterrand"
+],
+"links": 135
+},
+{
+"name": "Napoleon III",
+"aliases": [
+"Louis Napoleon",
+"Louis-Napoleon Bonaparte",
+"Louis-Napoléan, Emperor of the French Bonaparte",
+"Louis-Napoléon Bonaparte"
+],
+"links": 128
+},
+{
+"name": "Valéry Giscard d'Estaing",
+"aliases": [
+"Giscard",
+"Giscard d'Estaing",
+"Valery Giscard d'Estaing",
+"Valery Rene Marie Georges Giscard d'Estaing",
+"Valéry René Marie Georges Giscard d'Estaing",
+"VGE"
+],
+"links": 116
+},
+{
+"name": "Adolphe Thiers",
+"aliases": [
+"Louis-Adolphe Thiers"
+],
+"links": 85
+},
+{
+"name": "Raymond Poincaré",
+"aliases": [
+"Raymond Nicolas Landry Poincaré"
+],
+"links": 79
+},
+{
+"name": "Patrice de MacMahon",
+"aliases": [
+"Maurice de MacMahon, 1st Duc de Magenta"
+],
+"links": 78
+},
+{
+"name": "Albert Lebrun",
+"aliases": [
+"Albert François Lebrun"
+],
+"links": 66
+},
+{
+"name": "Alexandre Millerand",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Vincent Auriol",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Armand Fallières",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Paul Doumer",
+"aliases": [
+"Joseph Athanase Doumer",
+"Joseph Athanase Gaston Paul Doumer"
+],
+"links": 61
+},
+{
+"name": "Gaston Doumergue",
+"aliases": [
+"Pierre-Paul-Henri-Gaston Doumer"
+],
+"links": 60
+},
+{
+"name": "Jules Grévy",
+"aliases": [
+"François Paul Jules Grévy"
+],
+"links": 60
+},
+{
+"name": "Sadi Carnot",
+"aliases": [
+"Marie François Carnot"
+],
+"links": 60
+},
+{
+"name": "René Coty",
+"aliases": [
+"Rene Jules Gustave Coty"
+],
+"links": 59
+},
+{
+"name": "Félix Faure",
+"aliases": [
+"François Felix Faure"
+],
+"links": 57
+},
+{
+"name": "Émile Loubet",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Jean Casimir-Perier",
+"aliases": [
+"Casimir-Perier",
+"Jean Casimir Perier"
+],
+"links": 55
+},
+{
+"name": "Paul Deschanel",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Alain Poher",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Georges Bidault",
+"aliases": [
+"Georges-Augustin Bidault"
+],
+"links": 44
+},
+{
+"name": "Louis-Eugène Cavaignac",
+"aliases": [
+"Eugène Cavaignac",
+"General Cavaignac",
+"Louis Eugene Cavaignac",
+"Louis Eugène Cavaignac",
+"Louis-Eugene Cavaignac"
+],
+"links": 42
+},
+{
+"name": "Louis Jules Trochu",
+"aliases": [
+"Louis-Jules Trochu"
+],
+"links": 39
+},
+{
+"name": "Charles Dupuy",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Frédéric François-Marsal",
+"aliases": [],
+"links": 25
+}
+]
+},
+{
+"id": "prime-ministers-of-japan",
+"title": "Prime ministers of Japan",
+"prompt": "Name prime ministers of Japan",
+"answers": [
+{
+"name": "Shinzō Abe",
+"aliases": [
+"Abe Shinzo",
+"Abe Shinzou",
+"Abe Shinzō",
+"Shinzo Abe",
+"Shinzou Abe"
+],
+"links": 164
+},
+{
+"name": "Yoshihide Suga",
+"aliases": [],
+"links": 109
+},
+{
+"name": "Sanae Takaichi",
+"aliases": [
+"Sanae Yamamoto",
+"Takaichi Sanae",
+"Yamamoto Sanae"
+],
+"links": 97
+},
+{
+"name": "Naoto Kan",
+"aliases": [
+"Kan Naoto"
+],
+"links": 94
+},
+{
+"name": "Hideki Tojo",
+"aliases": [],
+"links": 88
+},
+{
+"name": "Junichiro Koizumi",
+"aliases": [
+"Jun'ichirō Koizumi",
+"Junichirō Koizumi",
+"Koizumi Jun'ichirō"
+],
+"links": 88
+},
+{
+"name": "Tarō Asō",
+"aliases": [
+"Aso Taro",
+"Asou Tarou",
+"Asō Tarō",
+"Taro Aso",
+"Tarou Asou"
+],
+"links": 88
+},
+{
+"name": "Eisaku Satō",
+"aliases": [
+"Eisaku Satou"
+],
+"links": 84
+},
+{
+"name": "Yukio Hatoyama",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Yasuo Fukuda",
+"aliases": [],
+"links": 79
+},
+{
+"name": "Yoshihiko Noda",
+"aliases": [],
+"links": 79
+},
+{
+"name": "Itō Hirobumi",
+"aliases": [
+"Hayashi Risuke",
+"Shunpo",
+"Shunsuke",
+"Sōrōkakushujin"
+],
+"links": 73
+},
+{
+"name": "Yasuhiro Nakasone",
+"aliases": [
+"Nakasone Yasuhiro"
+],
+"links": 72
+},
+{
+"name": "Shigeru Ishiba",
+"aliases": [
+"Ishiba Shigeru"
+],
+"links": 68
+},
+{
+"name": "Yoshirō Mori",
+"aliases": [
+"Yoshiro Mori"
+],
+"links": 59
+},
+{
+"name": "Tomiichi Murayama",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Kakuei Tanaka",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Shigeru Yoshida",
+"aliases": [
+"Yoshida Shigeru"
+],
+"links": 54
+},
+{
+"name": "Tsutomu Hata",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Ōkuma Shigenobu",
+"aliases": [
+"Count Okuma",
+"Okuma Shigenobu",
+"Shigenobu Okuma",
+"Shigenobu Ōkuma"
+],
+"links": 54
+},
+{
+"name": "Kiichi Miyazawa",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Nobusuke Kishi",
+"aliases": [
+"Apparition of Shōwa",
+"Kishi Nobusuke",
+"Kishi Nosobuke",
+"Kisi Nobusuke",
+"Monster of the Shōwa era",
+"Nobusuke Kiishi"
+],
+"links": 53
+},
+{
+"name": "Toshiki Kaifu",
+"aliases": [
+"Kaifu Toshiki"
+],
+"links": 53
+},
+{
+"name": "Katsura Tarō",
+"aliases": [
+"Katsura Taro",
+"Katsura Tarou"
+],
+"links": 52
+},
+{
+"name": "Ryutaro Hashimoto",
+"aliases": [
+"Hashimoto Ryutaro",
+"Hashimoto Ryūtarō"
+],
+"links": 52
+},
+{
+"name": "Keizō Obuchi",
+"aliases": [
+"Keizo Obuchi",
+"Keizou Obuchi"
+],
+"links": 51
+},
+{
+"name": "Fumimaro Konoe",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Hayato Ikeda",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Noboru Takeshita",
+"aliases": [
+"Takeshita Noboru"
+],
+"links": 50
+},
+{
+"name": "Takeo Fukuda",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Ichirō Hatoyama",
+"aliases": [
+"Ichiro Hatoyama",
+"Ichirou Hatoyama"
+],
+"links": 48
+},
+{
+"name": "Morihiro Hosokawa",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Yamagata Aritomo",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Hara Takashi",
+"aliases": [
+"Hara Kei"
+],
+"links": 47
+},
+{
+"name": "Inukai Tsuyoshi",
+"aliases": [
+"Inukai Bokudō"
+],
+"links": 47
+},
+{
+"name": "Matsukata Masayoshi",
+"aliases": [
+"Prince Masayoshi Matsukata"
+],
+"links": 47
+},
+{
+"name": "Terauchi Masatake",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Zenkō Suzuki",
+"aliases": [
+"Zenko Suzuki",
+"Zenkou Suzuki"
+],
+"links": 47
+},
+{
+"name": "Masayoshi Ōhira",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Sōsuke Uno",
+"aliases": [
+"Sosuke Uno",
+"Sousuke Uno"
+],
+"links": 45
+},
+{
+"name": "Takeo Miki",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Kijūrō Shidehara",
+"aliases": [
+"Kijuro Shidehara",
+"Kijuurou Shidehara"
+],
+"links": 44
+},
+{
+"name": "Kuniaki Koiso",
+"aliases": [
+"The Tiger of Korea"
+],
+"links": 44
+},
+{
+"name": "Kuroda Kiyotaka",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Saionji Kinmochi",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Naruhiko Higashikuni",
+"aliases": [
+"Naruhiko Higashikuninomiya",
+"Prince Naruhiko Higashikuni"
+],
+"links": 41
+},
+{
+"name": "Nobuyuki Abe",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Tanaka Giichi",
+"aliases": [
+"Giichi Tanaka"
+],
+"links": 41
+},
+{
+"name": "Tanzan Ishibashi",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Tetsu Katayama",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Yamamoto Gonnohyōe",
+"aliases": [
+"Yamamoto Gonbei",
+"Yamamoto Gonnohyoe",
+"Yamamoto Gonnohyoue"
+],
+"links": 41
+},
+{
+"name": "Hitoshi Ashida",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Kantarō Suzuki",
+"aliases": [
+"Kantaro Suzuki",
+"Kantarou Suzuki"
+],
+"links": 40
+},
+{
+"name": "Katō Takaaki",
+"aliases": [
+"Kato Takaaki",
+"Katou Takaaki"
+],
+"links": 40
+},
+{
+"name": "Saitō Makoto",
+"aliases": [
+"Makoto Saito",
+"Saito Makoto"
+],
+"links": 40
+},
+{
+"name": "Takahashi Korekiyo",
+"aliases": [
+"Viscount Takahashi"
+],
+"links": 39
+},
+{
+"name": "Kōki Hirota",
+"aliases": [
+"Koki Hirota",
+"Kouki Hirota"
+],
+"links": 38
+},
+{
+"name": "Hiranuma Kiichirō",
+"aliases": [
+"Hiranuma Kiichiro",
+"Hiranuma Kiichirou"
+],
+"links": 36
+},
+{
+"name": "Katō Tomosaburō",
+"aliases": [
+"Admiral Kato",
+"Admiral Katō",
+"Kato Tomosaburo",
+"Katou Tomosaburou"
+],
+"links": 36
+},
+{
+"name": "Keisuke Okada",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Mitsumasa Yonai",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Senjūrō Hayashi",
+"aliases": [
+"Senjuro Hayashi",
+"Senjuurou Hayashi"
+],
+"links": 36
+},
+{
+"name": "Kiyoura Keigo",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Wakatsuki Reijirō",
+"aliases": [
+"Reijiro Wakatsuki",
+"Reijirou Wakatsuki",
+"Reijirō Wakatsuki",
+"Wakatsuki Reijiro",
+"Wakatsuki Reijirou"
+],
+"links": 35
+},
+{
+"name": "Hamaguchi Osachi",
+"aliases": [
+"Osachi Hamaguchi"
+],
+"links": 34
+},
+{
+"name": "Sanjō Sanetomi",
+"aliases": [
+"Sanjo Sanetomi",
+"Sanjou Sanetomi"
+],
+"links": 30
+},
+{
+"name": "Masayoshi Ito",
+"aliases": [],
+"links": 26
+}
+]
+},
+{
+"id": "prime-ministers-of-australia",
+"title": "Prime ministers of Australia",
+"prompt": "Name prime ministers of Australia",
+"answers": [
+{
+"name": "Julia Gillard",
+"aliases": [
+"Julia Eileen Gillard",
+"Prime Minister Gillard",
+"The Honourable Julia Gillard MP"
+],
+"links": 115
+},
+{
+"name": "Kevin Rudd",
+"aliases": [
+"Kevin Michael Rudd",
+"Lu Kewen",
+"The Honorable Kevin Rudd",
+"The Honorable Kevin Rudd AC"
+],
+"links": 95
+},
+{
+"name": "Scott Morrison",
+"aliases": [
+"Scomo",
+"ScoMo",
+"Scott John Morrison"
+],
+"links": 94
+},
+{
+"name": "Anthony Albanese",
+"aliases": [
+"Albo",
+"Anthony Norman Albanese"
+],
+"links": 88
+},
+{
+"name": "Tony Abbott",
+"aliases": [
+"Anthony John Abbott"
+],
+"links": 85
+},
+{
+"name": "John Howard",
+"aliases": [
+"John Winston Howard",
+"The Honourable John Howard"
+],
+"links": 83
+},
+{
+"name": "Malcolm Turnbull",
+"aliases": [
+"Malcolm Bligh Turnbull"
+],
+"links": 77
+},
+{
+"name": "Gough Whitlam",
+"aliases": [
+"E. G. Whitlam",
+"Edward Gough Whitlam"
+],
+"links": 61
+},
+{
+"name": "Edmund Barton",
+"aliases": [
+"Sir Edmund Barton",
+"Toby Barton"
+],
+"links": 59
+},
+{
+"name": "Bob Hawke",
+"aliases": [
+"Robert James Lee Hawke",
+"The Honourable Bob Hawke"
+],
+"links": 58
+},
+{
+"name": "Alfred Deakin",
+"aliases": [
+"The Honourable Alfred Deakin"
+],
+"links": 57
+},
+{
+"name": "Paul Keating",
+"aliases": [
+"Paul John Keating",
+"The Honourable Paul Keating"
+],
+"links": 57
+},
+{
+"name": "Malcolm Fraser",
+"aliases": [
+"John Malcolm Fraser",
+"The Right Honourable Malcolm Fraser"
+],
+"links": 51
+},
+{
+"name": "Billy Hughes",
+"aliases": [
+"The Right Honourable William Hughes",
+"W.M. Hughes",
+"William Hughes",
+"William Morris Hughes"
+],
+"links": 50
+},
+{
+"name": "Harold Holt",
+"aliases": [
+"Harold Edward Holt",
+"The Right Honourable Harold Holt"
+],
+"links": 50
+},
+{
+"name": "Chris Watson",
+"aliases": [
+"John Christian Tanck",
+"John Christian Watson",
+"The Honourable John Christian Watson"
+],
+"links": 48
+},
+{
+"name": "Robert Menzies",
+"aliases": [
+"Robert Gordon Menzies",
+"Sir Robert Gordon Menzies",
+"Sir Robert Menzies",
+"The Right Honourable Sir Robert Menzies"
+],
+"links": 48
+},
+{
+"name": "Andrew Fisher",
+"aliases": [
+"The Right Honourable Andrew Fisher"
+],
+"links": 47
+},
+{
+"name": "John Curtin",
+"aliases": [
+"John Joseph Curtin",
+"The Right Honourable John Curtin"
+],
+"links": 45
+},
+{
+"name": "Earle Page",
+"aliases": [
+"Sir Earle Christmas Grafton Page",
+"Sir Earle Page",
+"The Right Honourable Sir Earle Page"
+],
+"links": 42
+},
+{
+"name": "George Reid",
+"aliases": [
+"George Houstoun Reid",
+"Right Hon. G. H. Reid",
+"Sir George Houston Reid",
+"Sir George Houstoun Reid",
+"Sir George Reid",
+"The Right Honourable Sir George Reid"
+],
+"links": 42
+},
+{
+"name": "William McMahon",
+"aliases": [
+"Billy McMahon",
+"Sir William McMahon",
+"The Right Honourable Sir William McMahon"
+],
+"links": 42
+},
+{
+"name": "John Gorton",
+"aliases": [
+"Sir John Gorton",
+"Sir John Grey Gorton",
+"The Right Honourable Sir John Gorton"
+],
+"links": 41
+},
+{
+"name": "S. M. Bruce",
+"aliases": [
+"Stanley Bruce",
+"Stanley Melbourne Bruce",
+"Viscount Bruce of Melbourne"
+],
+"links": 41
+},
+{
+"name": "Joseph Cook",
+"aliases": [
+"Sir Joseph Cook",
+"The Right Honourable Sir Joseph Cook"
+],
+"links": 40
+},
+{
+"name": "Arthur Fadden",
+"aliases": [
+"Sir Arthur William Fadden",
+"Sir William Fadden",
+"The Right Honourable Sir Arthur Fadden"
+],
+"links": 39
+},
+{
+"name": "Ben Chifley",
+"aliases": [
+"Joseph Benedict Chifley",
+"The Right Honourable Ben Chifley"
+],
+"links": 39
+},
+{
+"name": "James Scullin",
+"aliases": [
+"James Henry Scullin",
+"The Right Honourable James Scullin"
+],
+"links": 39
+},
+{
+"name": "Joseph Lyons",
+"aliases": [
+"Joe Lyons",
+"Joseph Aloysius Lyons",
+"The Right Honourable Joseph Lyons"
+],
+"links": 39
+},
+{
+"name": "Frank Forde",
+"aliases": [
+"Francis Michael Forde",
+"The Right Honourable Frank Forde"
+],
+"links": 35
+},
+{
+"name": "John McEwen",
+"aliases": [
+"Sir John McEwen",
+"The Right Honourable Sir John McEwen"
+],
+"links": 32
+}
+]
+}
+]
+}

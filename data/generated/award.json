@@ -1,0 +1,9347 @@
+{
+"family": "award",
+"categories": [
+{
+"id": "nobel-peace-prize-winners",
+"title": "Nobel Peace Prize winners",
+"prompt": "Name winners of the Nobel Peace Prize",
+"answers": [
+{
+"name": "Barack Obama",
+"aliases": [],
+"links": 342
+},
+{
+"name": "United Nations",
+"aliases": [
+"the U.N.",
+"the UN",
+"UN",
+"United Nations Organisation",
+"United Nations Organization"
+],
+"links": 337
+},
+{
+"name": "Nelson Mandela",
+"aliases": [
+"Father of the Nation"
+],
+"links": 297
+},
+{
+"name": "European Union",
+"aliases": [],
+"links": 292
+},
+{
+"name": "Martin Luther King Jr.",
+"aliases": [],
+"links": 252
+},
+{
+"name": "Mikhail Gorbachev",
+"aliases": [
+"Gorbachev",
+"Gorbi",
+"Gorby",
+"M. Gorbachev",
+"M.S. Gorbachev",
+"Mikhail Gorbachyov",
+"Mikhail Sergeevich Gorbachev",
+"Mikhail Sergeyevich Gorbachyov"
+],
+"links": 203
+},
+{
+"name": "Mother Teresa",
+"aliases": [
+"Agnes Gonxha Bojaxhiu",
+"Blessed Teresa of Calcutta",
+"Mary Teresa Bojaxhiu",
+"Saint Teresa of Calcutta"
+],
+"links": 201
+},
+{
+"name": "Jimmy Carter",
+"aliases": [
+"39th President of the United States",
+"James E. Carter, Jr."
+],
+"links": 200
+},
+{
+"name": "Theodore Roosevelt",
+"aliases": [
+"T. Roosevelt",
+"T. Roosevelt, Jr.",
+"Teddy Roosevelt",
+"Theodore Roosevelt, Jr."
+],
+"links": 196
+},
+{
+"name": "Woodrow Wilson",
+"aliases": [
+"President Wilson",
+"T. W. Wilson",
+"T. Wilson",
+"T. Woodrow Wilson",
+"Thomas W. Wilson",
+"Thomas Woodrow Wilson"
+],
+"links": 191
+},
+{
+"name": "Kofi Annan",
+"aliases": [
+"Annan",
+"Busumuru Kofi Atta Annan",
+"Kofi A. Annan",
+"Kofi Atta Annan"
+],
+"links": 178
+},
+{
+"name": "Lech Wałęsa",
+"aliases": [],
+"links": 176
+},
+{
+"name": "Aung San Suu Kyi",
+"aliases": [
+"Amay Suu",
+"aung hcan: cu. krany",
+"Aung San Su Kyi",
+"Daw Aung San Su Kyi",
+"Daw Aung San Suu Kyi",
+"Daw Suu",
+"Dr. Suu Kyi",
+"Miss Suu Kyi",
+"Ms. Suu Kyi",
+"The lady"
+],
+"links": 172
+},
+{
+"name": "Tenzin Gyatso",
+"aliases": [
+"Dalai Lama",
+"Gongsachok",
+"Gyalwa Rinpoche",
+"Lhamo Dhondup",
+"Lhamo Dondrub",
+"Lhamo Tönzhub",
+"Tendzin Gyatso"
+],
+"links": 170
+},
+{
+"name": "Malala Yousafzai",
+"aliases": [],
+"links": 158
+},
+{
+"name": "Yasser Arafat",
+"aliases": [
+"Abu Ammar",
+"Muhammad Yassur Abd ar-Raouf Arafat al-Qudwa",
+"Yaser Arafat",
+"Yasir Arafat",
+"Yassir Arafat"
+],
+"links": 155
+},
+{
+"name": "Henry Kissinger",
+"aliases": [
+"Heinz Alfred Kissinger",
+"Heinz Kissinger",
+"Henry A. Kissinger",
+"Henry Alfred Kissinger",
+"Kissinger"
+],
+"links": 144
+},
+{
+"name": "Al Gore",
+"aliases": [
+"Al Gore Jr.",
+"Albert Arnold Gore",
+"Albert Arnold Gore Jr.",
+"Albert Arnold Gore, Jr.",
+"Albert Gore",
+"Albert Gore Jr.",
+"Gore"
+],
+"links": 136
+},
+{
+"name": "Ellen Johnson Sirleaf",
+"aliases": [
+"Ellen Eugenia Johnson Sirleaf",
+"Ellen Johnson-Sirleaf"
+],
+"links": 130
+},
+{
+"name": "Wangari Muta Maathai",
+"aliases": [
+"Maathai",
+"Wangari Maathai",
+"Wangari Maathaï",
+"WangariMaathai"
+],
+"links": 130
+},
+{
+"name": "Shimon Peres",
+"aliases": [
+"Szymon Perski"
+],
+"links": 128
+},
+{
+"name": "Anwar Sadat",
+"aliases": [
+"Mohamed Anwar El Sadat",
+"Muhammad Anwar el-Sadat",
+"Muhammad Anwar es-Sadat"
+],
+"links": 127
+},
+{
+"name": "Dag Hammarskjöld",
+"aliases": [
+"tenia cancer en el seno"
+],
+"links": 124
+},
+{
+"name": "Willy Brandt",
+"aliases": [],
+"links": 124
+},
+{
+"name": "Albert Schweitzer",
+"aliases": [],
+"links": 122
+},
+{
+"name": "Muhammad Yunus",
+"aliases": [
+"Muhammad Iunus",
+"Professor Muhammad Yunus"
+],
+"links": 122
+},
+{
+"name": "Desmond Tutu",
+"aliases": [
+"Archbisphop Desmond Tutu"
+],
+"links": 121
+},
+{
+"name": "UNICEF",
+"aliases": [
+"ICEF International Children's Emergency Fund",
+"International Children's Emergency Fund",
+"United Nations Children's Fund"
+],
+"links": 118
+},
+{
+"name": "Liu Xiaobo",
+"aliases": [
+"Liu Xiao Bo",
+"Liú Xiǎobō",
+"Xiaobo Liu"
+],
+"links": 117
+},
+{
+"name": "Andrei Sakharov",
+"aliases": [
+"AndAndrei D. Sakharovrei Dmitrievich Sakharov"
+],
+"links": 114
+},
+{
+"name": "Shirin Ebadi",
+"aliases": [
+"Cyrine Abadi"
+],
+"links": 114
+},
+{
+"name": "Yitzhak Rabin",
+"aliases": [
+"Itshak Rabin"
+],
+"links": 114
+},
+{
+"name": "Fridtjof Nansen",
+"aliases": [
+"Fridtjof Wedel-Jarlsberg Nansen"
+],
+"links": 113
+},
+{
+"name": "Linus Pauling",
+"aliases": [
+"Linus C. Pauling",
+"Linus Carl Pauling"
+],
+"links": 112
+},
+{
+"name": "International Atomic Energy Agency",
+"aliases": [
+"IAEA",
+"iaea.org",
+"International Atomic Energy Agency，IAEA",
+"Nuclear Explained"
+],
+"links": 110
+},
+{
+"name": "Amnesty International",
+"aliases": [
+"AI",
+"Amnesty International European Association"
+],
+"links": 108
+},
+{
+"name": "Bertha von Suttner",
+"aliases": [
+"B. Oulot",
+"B. Oulot, Jemand",
+"Baroness Bertha Sophie von Suttner",
+"Bertha Kinsky von Wchinitz und Tettau",
+"Bertha Sophia Felicita Freifrau von Suttner",
+"Bertha Sophia Felicita von Suttner",
+"Countess Kinsky",
+"Gräfin Kinsky von Wchinitz und Tettau",
+"Jemand"
+],
+"links": 107
+},
+{
+"name": "Henry Dunant",
+"aliases": [
+"Anrī Dyunan",
+"Errikos D̲ynan",
+"Henri Dunant",
+"J. Henry Dunant",
+"Jean Henri Dunant",
+"Jean Henry Dunant",
+"Jean-Henri Dunant",
+"Sodabeh Dunant"
+],
+"links": 107
+},
+{
+"name": "Elie Wiesel",
+"aliases": [
+"A-7713",
+"Élie Wiesel"
+],
+"links": 106
+},
+{
+"name": "George Marshall",
+"aliases": [
+"George Catlett Marshall, Jr."
+],
+"links": 105
+},
+{
+"name": "Nadia Murad",
+"aliases": [
+"Murad Basee Taha",
+"Nadia Murad Basee"
+],
+"links": 104
+},
+{
+"name": "Martti Ahtisaari",
+"aliases": [
+"Martti Oiva Kalevi Ahtisaari"
+],
+"links": 103
+},
+{
+"name": "Juan Manuel Santos",
+"aliases": [
+"Juan Manuel Santos Calderón"
+],
+"links": 102
+},
+{
+"name": "Jane Addams",
+"aliases": [
+"Jane Laura Addams",
+"Laura Jane Addams"
+],
+"links": 100
+},
+{
+"name": "Menachem Begin",
+"aliases": [
+"Menachem Volfovich Begin",
+"Menahem Begin"
+],
+"links": 98
+},
+{
+"name": "International Labour Organization",
+"aliases": [
+"ILO",
+"International Labor Organization",
+"International Labour Organisation",
+"Iyu"
+],
+"links": 96
+},
+{
+"name": "Rigoberta Menchú",
+"aliases": [
+"Rigoberta Menchú Tum"
+],
+"links": 96
+},
+{
+"name": "Tawakkol Karman",
+"aliases": [
+"Tawakkol Abdel-Salam Khalid Karman"
+],
+"links": 95
+},
+{
+"name": "Kim Dae-jung",
+"aliases": [
+"Kim Daecanq"
+],
+"links": 94
+},
+{
+"name": "Leymah Gbowee",
+"aliases": [
+"Leymah Roberta Gbowee"
+],
+"links": 94
+},
+{
+"name": "María Corina Machado",
+"aliases": [
+"Corina Machado",
+"MCM"
+],
+"links": 93
+},
+{
+"name": "Abiy Ahmed",
+"aliases": [
+"A. Ahmed",
+"Abiy Ahmed Ali",
+"Abiyot Ahmed Ali",
+"Abiyyii Ahimad Alii",
+"Dr. Abiyyi Ahimad Alii"
+],
+"links": 92
+},
+{
+"name": "Narges Mohammadi",
+"aliases": [
+"Nargess Muhammadi",
+"Nargis Muhammadi",
+"Narjis Muhammadi",
+"Narjiss Muhammadi"
+],
+"links": 92
+},
+{
+"name": "F. W. de Klerk",
+"aliases": [
+"F W de Klerk",
+"Frederick De Klerk",
+"Frederick W. De Klerk",
+"Frederik Willem de Klerk",
+"FW de Klerk"
+],
+"links": 91
+},
+{
+"name": "Médecins Sans Frontières",
+"aliases": [
+"Doctors Without Borders International",
+"Medecins Sans Frontieres"
+],
+"links": 88
+},
+{
+"name": "Mohamed ElBaradei",
+"aliases": [
+"Mohamed El Baradei",
+"Mohamed M. ElBaradei",
+"Mohamed Mostafa ElBaradei",
+"Mohamed Mustafa ElBaradei"
+],
+"links": 86
+},
+{
+"name": "Gustav Stresemann",
+"aliases": [
+"Gustav Ernst Stresemann",
+"Stresemann, Gustav"
+],
+"links": 85
+},
+{
+"name": "Eisaku Satō",
+"aliases": [
+"Eisaku Satou"
+],
+"links": 84
+},
+{
+"name": "World Food Programme",
+"aliases": [
+"United Nations World Food Program",
+"United Nations World Food Programme",
+"WFP",
+"World Food Program"
+],
+"links": 83
+},
+{
+"name": "Emily Greene Balch",
+"aliases": [
+"Emily Balch",
+"Emily G. Balch"
+],
+"links": 82
+},
+{
+"name": "Human Rights Watch",
+"aliases": [
+"HRW"
+],
+"links": 82
+},
+{
+"name": "Intergovernmental Panel on Climate Change",
+"aliases": [
+"IPCC"
+],
+"links": 82
+},
+{
+"name": "Kailash Satyarthi",
+"aliases": [
+"Kailash Sharma"
+],
+"links": 82
+},
+{
+"name": "Mairead Maguire",
+"aliases": [
+"Mairead Corrigan Maguire"
+],
+"links": 82
+},
+{
+"name": "Norman Borlaug",
+"aliases": [
+"Norman E. Borlaug"
+],
+"links": 82
+},
+{
+"name": "Jody Williams",
+"aliases": [],
+"links": 81
+},
+{
+"name": "Navanethem Pillay",
+"aliases": [
+"Navanethem Naidoo",
+"Navi Naidoo",
+"Navi Pillay"
+],
+"links": 81
+},
+{
+"name": "Lester B. Pearson",
+"aliases": [
+"Lester Bowles Pearson",
+"Lester Pearson",
+"Mike Pearson"
+],
+"links": 80
+},
+{
+"name": "Denis Mukwege",
+"aliases": [
+"Denis M Mukwege",
+"Denis M. Mukwege",
+"Denis Mukeng MM MKKMOere Mukwege",
+"Denis Mukengere Mukwege"
+],
+"links": 79
+},
+{
+"name": "International Committee of the Red Cross",
+"aliases": [
+"CICR",
+"Comite international Geneve",
+"ICRC",
+"icrc.org"
+],
+"links": 79
+},
+{
+"name": "Betty Williams",
+"aliases": [
+"Elisabeth Smyth",
+"Elizabeth Williams"
+],
+"links": 77
+},
+{
+"name": "Maria Ressa",
+"aliases": [
+"Maria A. Ressa",
+"Maria Angelita Aycardo Ressa",
+"Maria Angelita Ressa"
+],
+"links": 77
+},
+{
+"name": "Óscar Arias Sánchez",
+"aliases": [
+"Oscar Arias Sanchez"
+],
+"links": 77
+},
+{
+"name": "Frédéric Passy",
+"aliases": [
+"Frederic Passy"
+],
+"links": 76
+},
+{
+"name": "José Ramos-Horta",
+"aliases": [
+"Jose Ramos-Horta",
+"José Manuel Ramos Horta"
+],
+"links": 76
+},
+{
+"name": "Alva Myrdal",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Aristide Briand",
+"aliases": [
+"Aristide Pierre Henri Briand"
+],
+"links": 75
+},
+{
+"name": "Charles G. Dawes",
+"aliases": [
+"C. G. Dawes",
+"Charles Dawes",
+"Charles Gates Dawes",
+"Chas. G. Dawes"
+],
+"links": 75
+},
+{
+"name": "Charles Albert Gobat",
+"aliases": [
+"Charles A. Gobat"
+],
+"links": 71
+},
+{
+"name": "Élie Ducommun",
+"aliases": [
+"Elie Ducommun"
+],
+"links": 70
+},
+{
+"name": "Austen Chamberlain",
+"aliases": [
+"Sir Joseph Austen Chamberlain"
+],
+"links": 69
+},
+{
+"name": "Carl von Ossietzky",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Dmitri Muratov",
+"aliases": [
+"Dmitrij Muratow",
+"Dmitriy Muratov",
+"Dmitry Andreyevich Muratov",
+"Dmitry Muratov",
+"Muratov, Dmitry",
+"Muratow, Dmitrij"
+],
+"links": 68
+},
+{
+"name": "Ralph Bunche",
+"aliases": [
+"Ralph J. Bunche",
+"Ralph Johnson Bunche"
+],
+"links": 67
+},
+{
+"name": "Cordell Hull",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Hjalmar Branting",
+"aliases": [
+"Karl Hjalmar Branting"
+],
+"links": 65
+},
+{
+"name": "Randal Cremer",
+"aliases": [
+"Sir William Randal Cremer",
+"William Cremer",
+"William Randal Cremer"
+],
+"links": 65
+},
+{
+"name": "Carlos Filipe Ximenes Belo",
+"aliases": [],
+"links": 64
+},
+{
+"name": "David Trimble",
+"aliases": [
+"Baron Trimble",
+"Lord Trimble",
+"William David Trimble",
+"William David Trimble, Baron Trimble"
+],
+"links": 64
+},
+{
+"name": "Ernesto Teodoro Moneta",
+"aliases": [
+"E. T. Moneta"
+],
+"links": 64
+},
+{
+"name": "Fredrik Bajer",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Klas Pontus Arnoldson",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Albert John Mvumbi Luthuli",
+"aliases": [
+"Albert John Luthuli",
+"Albert John Lutuli",
+"Albert John Mvumbi Lutuli",
+"Albert Luthuli",
+"Mvumbi Luthuli",
+"Mvumbi Lutuli"
+],
+"links": 63
+},
+{
+"name": "John Hume",
+"aliases": [],
+"links": 63
+},
+{
+"name": "United Nations peacekeeping",
+"aliases": [
+"UN peacekeepers",
+"UN peacekeeping",
+"United Nations peacekeepers",
+"United Nations Peacekeeping Force",
+"United Nations Peacekeeping Operations"
+],
+"links": 63
+},
+{
+"name": "Adolfo Pérez Esquivel",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Ales Bialiatski",
+"aliases": [
+"Ales Viktaravich Bialiatski"
+],
+"links": 62
+},
+{
+"name": "Norman Angell",
+"aliases": [
+"Ralph Norman Angell",
+"Sir Ralph Norman Angell",
+"Sir Ralph Norman Angell Lane"
+],
+"links": 62
+},
+{
+"name": "Joseph Rotblat",
+"aliases": [
+"Sir Joseph Rotblat"
+],
+"links": 61
+},
+{
+"name": "Le Duc Tho",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Léon Bourgeois",
+"aliases": [
+"Leon Bourgeois",
+"Leon Victor Auguste Bourgeois",
+"Léon Victor Auguste Bourgeois"
+],
+"links": 61
+},
+{
+"name": "Tunisian National Dialogue Quartet",
+"aliases": [
+"National Dialogue Quartet",
+"Quartet du dialogue national"
+],
+"links": 61
+},
+{
+"name": "Auguste Beernaert",
+"aliases": [
+"Auguste Marie François Beernaert",
+"Auguste-Marie-François Beernaert"
+],
+"links": 60
+},
+{
+"name": "Elihu Root",
+"aliases": [
+"Hon. Elihu Root"
+],
+"links": 59
+},
+{
+"name": "Philip Noel-Baker, Baron Noel-Baker",
+"aliases": [
+"Baron Noel-Baker",
+"Philip Baker",
+"Philip John Baker",
+"Philip John Noel-Baker",
+"Philip Noel-Baker",
+"Philipp John Noel-Baker"
+],
+"links": 59
+},
+{
+"name": "Frank B. Kellogg",
+"aliases": [
+"Frank Billings Kellogg",
+"Frank Kellogg"
+],
+"links": 58
+},
+{
+"name": "Grameen Bank",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Henri La Fontaine",
+"aliases": [
+"Henri Marie La Fontaine"
+],
+"links": 58
+},
+{
+"name": "Memorial",
+"aliases": [
+"Memorial Human Rights Centre",
+"Memorial International"
+],
+"links": 58
+},
+{
+"name": "Robert Cecil",
+"aliases": [
+"Edgar Algernon Robert Cecil",
+"Edgar Algernon Robert Gascoyne-Cecil",
+"Lord Robert Cecil",
+"Robert Cecil, 1st Viscount Cecil of Chelwood"
+],
+"links": 58
+},
+{
+"name": "Alfred Hermann Fried",
+"aliases": [
+"Alfred Fried"
+],
+"links": 57
+},
+{
+"name": "Tobias Asser",
+"aliases": [
+"T.M.C. Asser",
+"Tobias Michael Carel Asser"
+],
+"links": 57
+},
+{
+"name": "Alfonso García Robles",
+"aliases": [
+"Alfonso Garcia Robles"
+],
+"links": 56
+},
+{
+"name": "Carlos Saavedra Lamas",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Christian Lous Lange",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Nathan Söderblom",
+"aliases": [
+"Lars Olof Jonathan Söderblom",
+"Nathan Soderblom"
+],
+"links": 56
+},
+{
+"name": "Arthur Henderson",
+"aliases": [
+"Rt. Hon. Arthur Henderson"
+],
+"links": 55
+},
+{
+"name": "Dominique Pire",
+"aliases": [
+"Georges Charles Clement Ghislain Pire",
+"Pere Dominique Pire",
+"Père Dominique Pire"
+],
+"links": 55
+},
+{
+"name": "Nicholas Murray Butler",
+"aliases": [
+"Nicholas Butler",
+"Nicholas M. Butler"
+],
+"links": 55
+},
+{
+"name": "Ferdinand Buisson",
+"aliases": [
+"Ferdinand Edouard Buisson"
+],
+"links": 54
+},
+{
+"name": "International Peace Bureau",
+"aliases": [
+"ILCOP",
+"IPB",
+"Permanent International Peace Bureau"
+],
+"links": 54
+},
+{
+"name": "John Mott",
+"aliases": [
+"John Raleigh Mott"
+],
+"links": 54
+},
+{
+"name": "Paul-Henri-Benjamin d'Estournelles de Constant",
+"aliases": [
+"Paul Henri Balluet d'Estournelles de Constant",
+"Paul Henri de Constant d'Estourelles"
+],
+"links": 54
+},
+{
+"name": "Seán MacBride",
+"aliases": [
+"Sean MacBride"
+],
+"links": 54
+},
+{
+"name": "Ludwig Quidde",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Institut de Droit International",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Léon Jouhaux",
+"aliases": [
+"Léon Henri Jouhaux"
+],
+"links": 52
+},
+{
+"name": "Pugwash Conferences on Science and World Affairs",
+"aliases": [
+"Pugwash Movement"
+],
+"links": 52
+},
+{
+"name": "John Boyd Orr",
+"aliases": [
+"John Boyd Orr, 1st Baron Boyd-Orr",
+"Lord Boyd Orr of Brechin"
+],
+"links": 51
+},
+{
+"name": "Center for Civil Liberties",
+"aliases": [
+"Centre for Civil Liberties",
+"The Center for Civil Liberties",
+"The Centre for Civil Liberties"
+],
+"links": 48
+},
+{
+"name": "International Campaign to Ban Landmines",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Nansen International Office for Refugees",
+"aliases": [],
+"links": 44
+},
+{
+"name": "American Friends Service Committee",
+"aliases": [
+"AFSC"
+],
+"links": 32
+},
+{
+"name": "Quaker Peace and Social Witness",
+"aliases": [
+"Friends Service Council",
+"Quaker Peace and Service"
+],
+"links": 31
+}
+]
+},
+{
+"id": "nobel-prize-in-literature-winners",
+"title": "Nobel Prize in Literature winners",
+"prompt": "Name winners of the Nobel Prize in Literature",
+"answers": [
+{
+"name": "Winston Churchill",
+"aliases": [
+"Charles Maurin",
+"Colonel Warden",
+"David Winter",
+"Mr Green",
+"Sir Leonard Spencer",
+"The Honourable Sir Winston Spencer Churchill",
+"The Right Honourable Sir Winston Churchill",
+"Winston Spencer Churchill"
+],
+"links": 266
+},
+{
+"name": "Rabindranath Tagore",
+"aliases": [
+"Bhanu Singha Thakur",
+"Bishwakabi",
+"Biswakabi",
+"Gurudev",
+"Kabiguru",
+"Nyi Wang Gönpo",
+"R. Tagore",
+"Rabindranat Tagor",
+"Rabīndranātha Thākur",
+"Ravindranath Thakur",
+"Tagore",
+"Tagore, rabindranath"
+],
+"links": 249
+},
+{
+"name": "Ernest Hemingway",
+"aliases": [
+"E. Hemingway",
+"E. Hemmingway",
+"Ernest M. Hemingway",
+"Ernest Miller Hemmingway",
+"Papa"
+],
+"links": 210
+},
+{
+"name": "Gabriel García Márquez",
+"aliases": [],
+"links": 209
+},
+{
+"name": "Albert Camus",
+"aliases": [
+"Camus"
+],
+"links": 205
+},
+{
+"name": "Jean-Paul Sartre",
+"aliases": [],
+"links": 203
+},
+{
+"name": "Bertrand Russell",
+"aliases": [
+"Bertrand Russell, 3rd Earl Russell",
+"Bertrand Russell, Earl Russell"
+],
+"links": 187
+},
+{
+"name": "George Bernard Shaw",
+"aliases": [
+"G. Bernard Shaw",
+"G.B. Shaw"
+],
+"links": 187
+},
+{
+"name": "Bob Dylan",
+"aliases": [
+"Blind Boy Grunt",
+"Bob Landy",
+"Boo Wilbury",
+"Dylan",
+"Elston Gunn",
+"Jack Frost",
+"Lucky Wilbury",
+"Robert Dylan",
+"Robert Dylan né Robert Allen Zimmerman",
+"Robert Milkwood Thomas",
+"Robert Zimmerman",
+"Sergei Petrov",
+"Shabtai Zisl ben Avraham",
+"Tedham Porterhouse"
+],
+"links": 185
+},
+{
+"name": "Naguib Mahfouz",
+"aliases": [
+"Naguib Mahfouz Abdelaziz Ibrahim Ahmed Al-Basha"
+],
+"links": 173
+},
+{
+"name": "Pablo Neruda",
+"aliases": [
+"Bāblū Nīrūdā",
+"Neftali Reyes Basoalto",
+"Neftali Reyes Basualto",
+"Neftali Ricardo Reyes",
+"Neftali Ricardo Reyes Basoalto",
+"Neftalí Reyes Basualto",
+"Neftalí Reyespeneto",
+"Neftalí Ricardo Reyes",
+"Nieh-lu-ta",
+"Nieluda",
+"Pamplo Nerouda",
+"Pāplō Nerūda"
+],
+"links": 168
+},
+{
+"name": "Thomas Mann",
+"aliases": [],
+"links": 167
+},
+{
+"name": "Hermann Hesse",
+"aliases": [
+"Hermann Karl Hesse",
+"Hh. Hesse"
+],
+"links": 164
+},
+{
+"name": "Anatole France",
+"aliases": [
+"Anatole Thibault",
+"Jacques François-Anatole Thibault"
+],
+"links": 161
+},
+{
+"name": "Aleksandr Solzhenitsyn",
+"aliases": [
+"Aleksander Solzhenitsyn",
+"Aleksandr Isayevich Solzhenitsyn",
+"Alexander Isayevich Solzhenitsyn",
+"Alexander Solzhenitsyn"
+],
+"links": 160
+},
+{
+"name": "T. S. Eliot",
+"aliases": [
+"Eliot",
+"T S Eliot",
+"Thomas Eliot"
+],
+"links": 160
+},
+{
+"name": "Selma Lagerlöf",
+"aliases": [
+"Selma Ottilia Lovisa Lagerlöf"
+],
+"links": 155
+},
+{
+"name": "William Butler Yeats",
+"aliases": [
+"WBY"
+],
+"links": 154
+},
+{
+"name": "John Steinbeck",
+"aliases": [
+"John Ernest Steinbeck",
+"John Ernst Steinbeck",
+"John Ernst Steinbeck Jr",
+"John Ernst Steinbeck, Jr.",
+"Steinbeck"
+],
+"links": 150
+},
+{
+"name": "William Faulkner",
+"aliases": [],
+"links": 149
+},
+{
+"name": "André Gide",
+"aliases": [],
+"links": 145
+},
+{
+"name": "Boris Pasternak",
+"aliases": [
+"Boris Leonidovich Pasternak"
+],
+"links": 144
+},
+{
+"name": "Pearl S. Buck",
+"aliases": [
+"Bīrl Bak",
+"Chen-chu Sai",
+"John Sedges",
+"Parla Baka",
+"Pearl Buck",
+"Pearl Comfort Sydenstricker",
+"Pearl Comfort Sydenstricker Buck",
+"Pearl Sydenstricker",
+"Pearl Sydenstricker Buck",
+"Pearl Sydenstricker Buck Walsh",
+"Perl Bak",
+"Pirl Bak",
+"Pērl Es. Pak",
+"Pērla Bak",
+"Pērla S. Baka",
+"Pŭrl Bŭk",
+"Pʻŏl S. Bŏk",
+"Sai Zhenzhu",
+"Zhenzhu Sai"
+],
+"links": 144
+},
+{
+"name": "Romain Rolland",
+"aliases": [
+"R.Rolland"
+],
+"links": 141
+},
+{
+"name": "Henryk Sienkiewicz",
+"aliases": [],
+"links": 140
+},
+{
+"name": "Samuel Beckett",
+"aliases": [
+"Andrew Belis",
+"Sa-miao-erh Pei-kʻo-tʻe",
+"Sam Beckett",
+"Samuel Beḳeṭ"
+],
+"links": 140
+},
+{
+"name": "Henri Bergson",
+"aliases": [
+"Berxon",
+"H. Bergson",
+"Henri Louis Bergson",
+"Henry Bergson"
+],
+"links": 139
+},
+{
+"name": "Orhan Pamuk",
+"aliases": [
+"Ferit Orhan Pamuk",
+"Pamuk"
+],
+"links": 138
+},
+{
+"name": "Günter Grass",
+"aliases": [
+"Gunter Grass",
+"Günter Graß",
+"Günter Wilhelm Graß"
+],
+"links": 137
+},
+{
+"name": "José Saramago",
+"aliases": [],
+"links": 136
+},
+{
+"name": "Knut Hamsun",
+"aliases": [
+"Hamsun",
+"Knut Pedersen Hamsun"
+],
+"links": 135
+},
+{
+"name": "Luigi Pirandello",
+"aliases": [
+"Luidzhi Pirandello",
+"Luwiji Pirandélo"
+],
+"links": 135
+},
+{
+"name": "Toni Morrison",
+"aliases": [
+"Chloe Anthony Wofford",
+"Chloe Anthony Wofford Morrison",
+"Chloe Anthony Wofford-Morrison",
+"Chloe Ardelia Wofford"
+],
+"links": 135
+},
+{
+"name": "Doris Lessing",
+"aliases": [
+"Doris May Lessing",
+"Doris May Tayler",
+"Jane Somers"
+],
+"links": 134
+},
+{
+"name": "Maurice Maeterlinck",
+"aliases": [],
+"links": 132
+},
+{
+"name": "Mario Vargas Llosa",
+"aliases": [
+"1st Marquess of Vargas Llosa"
+],
+"links": 131
+},
+{
+"name": "Alice Munro",
+"aliases": [
+"Alice Ann Laidlaw Munro",
+"Alice Ann Munro",
+"Alice Anne Munro",
+"Alice Laidlaw"
+],
+"links": 128
+},
+{
+"name": "Elfriede Jelinek",
+"aliases": [],
+"links": 128
+},
+{
+"name": "Nadine Gordimer",
+"aliases": [],
+"links": 128
+},
+{
+"name": "Herta Müller",
+"aliases": [
+"H. Mueller",
+"H. Muller",
+"H. Müller",
+"Herta Muller"
+],
+"links": 127
+},
+{
+"name": "Ivan Bunin",
+"aliases": [
+"Ivan Alekseyevich Bunin"
+],
+"links": 127
+},
+{
+"name": "Bjørnstjerne Bjørnson",
+"aliases": [
+"Björnsen",
+"Björnstjerne Björnson",
+"Bjørnstjerne Martinius Bjørnson"
+],
+"links": 126
+},
+{
+"name": "Gabriela Mistral",
+"aliases": [],
+"links": 126
+},
+{
+"name": "Joseph Brodsky",
+"aliases": [
+"Iosif Aleksandrovich Brodsky"
+],
+"links": 126
+},
+{
+"name": "Theodor Mommsen",
+"aliases": [
+"Christian Mommsen",
+"T. Mommsen",
+"Theodore Mommsen"
+],
+"links": 126
+},
+{
+"name": "Yasunari Kawabata",
+"aliases": [],
+"links": 126
+},
+{
+"name": "Frédéric Mistral",
+"aliases": [
+"Frederi Mistral",
+"Frederic Mistral",
+"Frederick Mistral",
+"Joseph Étienne Frédéric Mistral"
+],
+"links": 124
+},
+{
+"name": "Sully Prudhomme",
+"aliases": [
+"Rene-Francois Armand Prudhomme Sully-Prudhomme",
+"Rene-Francois Armand Sully-Prudhomme",
+"René François Armand Prudhomme",
+"René-François Sully-Prudhomme",
+"Sully-Prudhomme"
+],
+"links": 124
+},
+{
+"name": "Czesław Miłosz",
+"aliases": [
+"Czeslaw Milosz"
+],
+"links": 123
+},
+{
+"name": "Gerhart Hauptmann",
+"aliases": [
+"Gerhart Johann Robert Hauptmann"
+],
+"links": 123
+},
+{
+"name": "Giosuè Carducci",
+"aliases": [
+"Enotrio Romano",
+"Giosue Alessandro Giuseppe Carducci",
+"Giosue Carducci",
+"Giosuè Alessandro Giuseppe Carducci"
+],
+"links": 123
+},
+{
+"name": "Svetlana Alexievich",
+"aliases": [
+"Svetlana Aleksievich",
+"Svetlana Aleksievič",
+"Svetlana Aleksiyevich",
+"Svetlana Alexandrovna Alexievich",
+"Sviatlana Aleksievich",
+"Svyatlana Alyaksandrawna Alyeksiyevich",
+"Svyatlana Alyeksiyevich"
+],
+"links": 123
+},
+{
+"name": "Octavio Paz",
+"aliases": [
+"Octavio Paz Lozano"
+],
+"links": 122
+},
+{
+"name": "Wisława Szymborska",
+"aliases": [
+"Maria Wisława Anna Szymborska",
+"Szymborska",
+"Wislawa Szymborska"
+],
+"links": 122
+},
+{
+"name": "Grazia Deledda",
+"aliases": [
+"Ilia di Saint-Ismael"
+],
+"links": 121
+},
+{
+"name": "John Galsworthy",
+"aliases": [
+"John Sinjohn"
+],
+"links": 121
+},
+{
+"name": "Saul Bellow",
+"aliases": [],
+"links": 121
+},
+{
+"name": "Heinrich Böll",
+"aliases": [
+"Heinrich Boll",
+"Heinrich Theodor Boll",
+"Heinrich Theodor Böll"
+],
+"links": 120
+},
+{
+"name": "Ivo Andrić",
+"aliases": [
+"ivo andric",
+"Ivo Andric"
+],
+"links": 120
+},
+{
+"name": "Sinclair Lewis",
+"aliases": [],
+"links": 120
+},
+{
+"name": "Kazuo Ishiguro",
+"aliases": [
+"Ishiguro Kazuo",
+"Sir Kazuo Ishiguro"
+],
+"links": 119
+},
+{
+"name": "William Golding",
+"aliases": [
+"Willy Gold"
+],
+"links": 119
+},
+{
+"name": "François Mauriac",
+"aliases": [
+"Francois Charles Mauriac",
+"Francois Mauriac",
+"Fransua Moris",
+"François Charles Mauriac"
+],
+"links": 118
+},
+{
+"name": "Mikhail Sholokhov",
+"aliases": [
+"Michail Sholokhov",
+"Mijaíl Sholojov",
+"Mikhail Aleksandrovich Sholokhov"
+],
+"links": 118
+},
+{
+"name": "Sigrid Undset",
+"aliases": [],
+"links": 118
+},
+{
+"name": "J. M. Coetzee",
+"aliases": [
+"J.M. Coetzee",
+"John Coetzee",
+"John Maxwell Coetzee"
+],
+"links": 117
+},
+{
+"name": "Harold Pinter",
+"aliases": [],
+"links": 114
+},
+{
+"name": "Isaac Bashevis Singer",
+"aliases": [
+"I. B. Singer",
+"Isaac Bashevis",
+"Isaac Bashevis-Singer",
+"Isaac Singer",
+"Itzhak Bashevis Singer",
+"Yitsḥaḳ Basheṿis",
+"Yitsḥaḳ Basheṿis- Zinger",
+"Yitsḥaḳ Basheṿis-Zinger",
+"Yitsḥoḳ Bashevis- Zinger",
+"Yitsḥoḳ Bashevis-Zinger",
+"Yitsḥoḳ Basheṿis"
+],
+"links": 114
+},
+{
+"name": "Wole Soyinka",
+"aliases": [
+"Akinwande Oluwole Soyinka"
+],
+"links": 114
+},
+{
+"name": "Elias Canetti",
+"aliases": [],
+"links": 112
+},
+{
+"name": "Mo Yan",
+"aliases": [
+"Guan Moye",
+"Yan Mo"
+],
+"links": 111
+},
+{
+"name": "V. S. Naipaul",
+"aliases": [
+"Sir Vidiadhar Surajprasad Naipaul",
+"V.S. Naipaul",
+"Vidiadhar Surajprasad Naipaul"
+],
+"links": 110
+},
+{
+"name": "Dario Fo",
+"aliases": [],
+"links": 109
+},
+{
+"name": "Kenzaburō Ōe",
+"aliases": [
+"Kenzaburo Oe",
+"Kenzaburou Oue",
+"Oe Kenzaburo",
+"Ōe Kenzaburō"
+],
+"links": 108
+},
+{
+"name": "Nelly Sachs",
+"aliases": [
+"Leonie Sachs"
+],
+"links": 108
+},
+{
+"name": "Władysław Reymont",
+"aliases": [
+"Ladislas Reymont",
+"Wladyslaw Reymont"
+],
+"links": 108
+},
+{
+"name": "Eugene O'Neill",
+"aliases": [
+"Eugene Gladstone O’Neill",
+"Eugene O’Neill"
+],
+"links": 107
+},
+{
+"name": "Gao Xingjian",
+"aliases": [
+"Hsing-chien Kao",
+"Hành Kiện Cao",
+"Xingjian Gao"
+],
+"links": 106
+},
+{
+"name": "Seamus Heaney",
+"aliases": [
+"Seamus Justin Heaney"
+],
+"links": 106
+},
+{
+"name": "Paul Heyse",
+"aliases": [
+"Paul Johann Heyse",
+"Paul Johann Ludwig von Heyse"
+],
+"links": 105
+},
+{
+"name": "Tomas Tranströmer",
+"aliases": [
+"Tomas Gösta Tranströmer"
+],
+"links": 105
+},
+{
+"name": "Imre Kertész",
+"aliases": [
+"I. K.",
+"I. Kertes",
+"I. Kertesz",
+"I. Kertész",
+"Imne K'erŭt'esŭ",
+"Imra Kirtīs",
+"Imre Kertes",
+"Imre Kertesz",
+"Imrje Kjertijes",
+"Imure Kerutēsu",
+"K'erŭt'esŭ, Imne",
+"Kertes, Imre",
+"Kertesz, Imre",
+"Kertész, Imre"
+],
+"links": 104
+},
+{
+"name": "Juan Ramón Jiménez",
+"aliases": [
+"Huẏāna Rāmona Himenetha",
+"J. R. Jiménez",
+"J.R.J.",
+"Juan Ramon Jimenez Mantecon",
+"Juvān̲ Ramōn̲ Jimen̲es",
+"Juwān Rāmūn Khīminīz",
+"Khuan Ramon Khimenes",
+"Ḥuan Ramon Ḥimenez"
+],
+"links": 104
+},
+{
+"name": "Jean-Marie Gustave Le Clézio",
+"aliases": [
+"J. M. G. Le Clezio",
+"J. M. G. Le Clézio",
+"Jean-Marie Gustave Le Clezio"
+],
+"links": 103
+},
+{
+"name": "Louise Glück",
+"aliases": [
+"Louise Elisabeth Glück",
+"Louise Gluck"
+],
+"links": 103
+},
+{
+"name": "Miguel Ángel Asturias",
+"aliases": [
+"Miguel Ángel Asturias Rosales pachan"
+],
+"links": 103
+},
+{
+"name": "Halldór Laxness",
+"aliases": [
+"Halldor Kiljan Laxness",
+"Halldor Laxness",
+"Halldór Kiljan Laxness"
+],
+"links": 102
+},
+{
+"name": "Olga Tokarczuk",
+"aliases": [],
+"links": 102
+},
+{
+"name": "Rudolf Christoph Eucken",
+"aliases": [
+"Rudolf Eucken"
+],
+"links": 102
+},
+{
+"name": "Jacinto Benavente",
+"aliases": [],
+"links": 101
+},
+{
+"name": "Patrick Modiano",
+"aliases": [
+"Jean Patrick Modiano"
+],
+"links": 101
+},
+{
+"name": "Roger Martin du Gard",
+"aliases": [
+"Roger Martin Gard"
+],
+"links": 101
+},
+{
+"name": "Han Kang",
+"aliases": [
+"Han Gang"
+],
+"links": 100
+},
+{
+"name": "Camilo José Cela",
+"aliases": [
+"Camilo-José Cela Trulock"
+],
+"links": 98
+},
+{
+"name": "Shmuel Yosef Agnon",
+"aliases": [
+"Samuel Josef Agnon",
+"Samuel Joseph Agnon"
+],
+"links": 97
+},
+{
+"name": "Carl Spitteler",
+"aliases": [
+"Carl Friedrich Georg Spitteler"
+],
+"links": 96
+},
+{
+"name": "Derek Walcott",
+"aliases": [
+"Derek Alton Walcott",
+"Sir Derek Alton Walcott"
+],
+"links": 96
+},
+{
+"name": "Salvatore Quasimodo",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Giorgos Seferis",
+"aliases": [
+"George Seferiadis",
+"George Seferis",
+"Giorgos Seferiadis"
+],
+"links": 95
+},
+{
+"name": "Jaroslav Seifert",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Pär Lagerkvist",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Verner von Heidenstam",
+"aliases": [
+"Carl Gustaf Verner von Heidenstam"
+],
+"links": 95
+},
+{
+"name": "Annie Ernaux",
+"aliases": [
+"Annie Duchesne"
+],
+"links": 94
+},
+{
+"name": "Eugenio Montale",
+"aliases": [],
+"links": 94
+},
+{
+"name": "Saint-John Perse",
+"aliases": [
+"Alexis Léger"
+],
+"links": 93
+},
+{
+"name": "Patrick White",
+"aliases": [
+"Alex Xenophon Demirjian Gray"
+],
+"links": 92
+},
+{
+"name": "Claude Simon",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Karl Adolph Gjellerup",
+"aliases": [
+"Karl Adolf Gjellerup",
+"Karl Gjellerup"
+],
+"links": 91
+},
+{
+"name": "Abdulrazak Gurnah",
+"aliases": [
+"Abd al-Razzaq Journa",
+"Abdul Razzaq Gurnah",
+"Abdulrazak S. Gurnah",
+"Gurnah"
+],
+"links": 90
+},
+{
+"name": "Henrik Pontoppidan",
+"aliases": [],
+"links": 90
+},
+{
+"name": "Johannes V. Jensen",
+"aliases": [
+"Johannes Jensen"
+],
+"links": 90
+},
+{
+"name": "José Echegaray",
+"aliases": [
+"Jose Echegaray",
+"Jose Echegaray y Eizaguirre",
+"José Echegaray y Eizaguirre"
+],
+"links": 89
+},
+{
+"name": "Erik Axel Karlfeldt",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Eyvind Johnson",
+"aliases": [],
+"links": 86
+},
+{
+"name": "Odysseas Elytis",
+"aliases": [
+"Odisseas Elitis",
+"Odysseas Elytes"
+],
+"links": 86
+},
+{
+"name": "Vicente Aleixandre",
+"aliases": [
+"Vicente Pio Marcelino Cirilo Aleixandre y Merlo"
+],
+"links": 86
+},
+{
+"name": "Frans Eemil Sillanpää",
+"aliases": [
+"Frans Sillanpää"
+],
+"links": 85
+},
+{
+"name": "Harry Martinson",
+"aliases": [],
+"links": 84
+},
+{
+"name": "Anne Carson",
+"aliases": [
+"Anne Patricia Carson"
+],
+"links": 79
+},
+{
+"name": "Jon Fosse",
+"aliases": [],
+"links": 77
+},
+{
+"name": "László Krasznahorkai",
+"aliases": [],
+"links": 72
+}
+]
+},
+{
+"id": "best-actress-oscar-winners",
+"title": "Best Actress Oscar winners",
+"prompt": "Name actresses who won the Academy Award for Best Actress",
+"answers": [
+{
+"name": "Audrey Hepburn",
+"aliases": [
+"Audrey Kathleen Ruston",
+"Edda Kathleen Ruston",
+"Edda van Heemstra"
+],
+"links": 154
+},
+{
+"name": "Elizabeth Taylor",
+"aliases": [
+"Dame Elizabeth Rosemond Taylor",
+"Dame Elizabeth Taylor",
+"Elizabeth Rosemond Taylor",
+"Liz Taylor"
+],
+"links": 147
+},
+{
+"name": "Natalie Portman",
+"aliases": [
+"Nat",
+"Natalie Herschlag",
+"Natalie Hershlag",
+"Neta-Lee Herschlag"
+],
+"links": 138
+},
+{
+"name": "Cate Blanchett",
+"aliases": [
+"Catherine Blanchett",
+"Catherine Élise Blanchett"
+],
+"links": 134
+},
+{
+"name": "Kate Winslet",
+"aliases": [],
+"links": 134
+},
+{
+"name": "Nicole Kidman",
+"aliases": [
+"Hōkūlani",
+"Nicole Mary Kidman"
+],
+"links": 134
+},
+{
+"name": "Julia Roberts",
+"aliases": [
+"Julia Fiona Roberts"
+],
+"links": 133
+},
+{
+"name": "Sophia Loren",
+"aliases": [
+"Sofia Costanza Brigida Villani Scicolon",
+"Sofia Loren",
+"Sofia Scicolone",
+"Sofia Villani Scicolone",
+"Sophia Villani Scicolone"
+],
+"links": 133
+},
+{
+"name": "Gwyneth Paltrow",
+"aliases": [
+"Gwyneth Kate Paltrow",
+"Gwyneth Kate Paltrow Falchuk",
+"Gwyneth Kate Paltrow Martin",
+"Gwyneth Paltrow Falchuk",
+"Gwyneth Paltrow Martin"
+],
+"links": 132
+},
+{
+"name": "Katharine Hepburn",
+"aliases": [
+"Kate Hepburn",
+"Katharine Houghton Hepburn"
+],
+"links": 132
+},
+{
+"name": "Sandra Bullock",
+"aliases": [
+"Sandra Annette Bullock"
+],
+"links": 129
+},
+{
+"name": "Ingrid Bergman",
+"aliases": [],
+"links": 126
+},
+{
+"name": "Jane Fonda",
+"aliases": [],
+"links": 123
+},
+{
+"name": "Jennifer Lawrence",
+"aliases": [
+"Jennifer Lawrence Maroney",
+"JLaw"
+],
+"links": 122
+},
+{
+"name": "Halle Berry",
+"aliases": [
+"Halle Maria Berry",
+"Maria Halle Berry"
+],
+"links": 121
+},
+{
+"name": "Cher",
+"aliases": [
+"Bonnie Jo Mason",
+"Cher Allman",
+"Cher Bono",
+"Cherilyn Sarkisian",
+"Cherilyn Sarkisian LaPiere",
+"Cheryl Sarkisian",
+"Chér"
+],
+"links": 120
+},
+{
+"name": "Grace Kelly",
+"aliases": [
+"Grace Grimaldi",
+"Grace of Monaco",
+"Grace, Princess of Monaco",
+"Princess Grace of Monaco"
+],
+"links": 120
+},
+{
+"name": "Charlize Theron",
+"aliases": [],
+"links": 119
+},
+{
+"name": "Jodie Foster",
+"aliases": [
+"Alicia Christian Foster"
+],
+"links": 118
+},
+{
+"name": "Barbra Streisand",
+"aliases": [
+"Babs",
+"Barbara Streisand"
+],
+"links": 110
+},
+{
+"name": "Bette Davis",
+"aliases": [
+"Ruth Davis"
+],
+"links": 110
+},
+{
+"name": "Vivien Leigh",
+"aliases": [
+"Lady Olivier",
+"Leigh",
+"Vivien Leigh, Lady Olivier"
+],
+"links": 109
+},
+{
+"name": "Julianne Moore",
+"aliases": [
+"Julianne Anne Smith",
+"Julie Anne Moore Smith",
+"Julie Anne Smith"
+],
+"links": 107
+},
+{
+"name": "Joan Crawford",
+"aliases": [
+"Lucille Fay LeSueur",
+"Lucille Le Sear",
+"Lucille LeSueur"
+],
+"links": 104
+},
+{
+"name": "Reese Witherspoon",
+"aliases": [
+"Laura Jeanne Reese Witherspoon"
+],
+"links": 104
+},
+{
+"name": "Susan Sarandon",
+"aliases": [
+"Susan Tomalin"
+],
+"links": 104
+},
+{
+"name": "Helen Mirren",
+"aliases": [
+"Helen Lydia Mironoff",
+"Illiana Lydia Petrovna Mironova"
+],
+"links": 103
+},
+{
+"name": "The Silence of the Lambs",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Mary Pickford",
+"aliases": [
+"Gladys Louise Smith",
+"Gladys Marie Smith",
+"Gladys Mary Moore",
+"Gladys Moore",
+"Gladys Smith"
+],
+"links": 102
+},
+{
+"name": "Diane Keaton",
+"aliases": [
+"Diane Hall Keaton"
+],
+"links": 100
+},
+{
+"name": "Julie Andrews",
+"aliases": [
+"Dame Julie Elizabeth Andrews",
+"Julie Elizabeth Andrews"
+],
+"links": 98
+},
+{
+"name": "Liza Minnelli",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Shirley MacLaine",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Hilary Swank",
+"aliases": [
+"Hilary Ann Swank"
+],
+"links": 94
+},
+{
+"name": "Marion Cotillard",
+"aliases": [],
+"links": 94
+},
+{
+"name": "Renée Zellweger",
+"aliases": [
+"Renee Kathleen Zellweger",
+"Renée Kathleen Zellweiger"
+],
+"links": 94
+},
+{
+"name": "Brie Larson",
+"aliases": [
+"Brianne Desaulniers",
+"Brianne Larson"
+],
+"links": 91
+},
+{
+"name": "Sally Field",
+"aliases": [
+"Sally Margaret Field Mahoney"
+],
+"links": 91
+},
+{
+"name": "Jessica Lange",
+"aliases": [],
+"links": 90
+},
+{
+"name": "Emma Thompson",
+"aliases": [
+"Dame Emma Thompson"
+],
+"links": 89
+},
+{
+"name": "Claudette Colbert",
+"aliases": [
+"Lily Chauchoin"
+],
+"links": 87
+},
+{
+"name": "Glenda Jackson",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Kathy Bates",
+"aliases": [
+"Bobo Bates"
+],
+"links": 86
+},
+{
+"name": "Olivia de Havilland",
+"aliases": [
+"Dame Olivia Mary de Havilland",
+"Olivia Mary de Havilland"
+],
+"links": 86
+},
+{
+"name": "Anne Bancroft",
+"aliases": [
+"Anna Maria Louise Italiano"
+],
+"links": 84
+},
+{
+"name": "Frances McDormand",
+"aliases": [
+"Cynthia Ann Smith"
+],
+"links": 83
+},
+{
+"name": "Ginger Rogers",
+"aliases": [],
+"links": 81
+},
+{
+"name": "Jessica Chastain",
+"aliases": [
+"Jessica Michelle Howard"
+],
+"links": 80
+},
+{
+"name": "Michelle Yeoh",
+"aliases": [
+"Michelle Khan",
+"Michelle Yeoh Choo Kheng",
+"Michelle Yeoh Choo-Kheng",
+"Michelle Yeoh Chu-Kheng",
+"Tan Sri Michelle Yeoh",
+"Yang Ziqiong",
+"Yeoh"
+],
+"links": 80
+},
+{
+"name": "Joan Fontaine",
+"aliases": [
+"Joan de Beauvoir de Havilland"
+],
+"links": 78
+},
+{
+"name": "Faye Dunaway",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Helen Hunt",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Julie Christie",
+"aliases": [
+"Julie Frances Christie"
+],
+"links": 76
+},
+{
+"name": "Simone Signoret",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Anna Magnani",
+"aliases": [
+"Anna Maria Magnani"
+],
+"links": 75
+},
+{
+"name": "Holly Hunter",
+"aliases": [
+"Holly Patricia Hunter"
+],
+"links": 75
+},
+{
+"name": "Black Swan",
+"aliases": [],
+"links": 74
+},
+{
+"name": "Ellen Burstyn",
+"aliases": [
+"Edna Rae Gillooly"
+],
+"links": 72
+},
+{
+"name": "Helen Hayes",
+"aliases": [
+"Helen Hayes Brown",
+"Helen Hayes MacArthur"
+],
+"links": 72
+},
+{
+"name": "Joanne Woodward",
+"aliases": [
+"Joanne Gignilliat Trimmier Woodward"
+],
+"links": 70
+},
+{
+"name": "Marlee Matlin",
+"aliases": [
+"Marlee Beth Matlin"
+],
+"links": 70
+},
+{
+"name": "Olivia Colman",
+"aliases": [
+"Sarah Caroline Olivia Sinclair-Colman"
+],
+"links": 70
+},
+{
+"name": "Patricia Neal",
+"aliases": [
+"Patsy Louise Neal"
+],
+"links": 70
+},
+{
+"name": "Roman Holiday",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Jane Wyman",
+"aliases": [
+"Sarah Jane Fulks",
+"Sarah Jane Mayfield"
+],
+"links": 69
+},
+{
+"name": "Sissy Spacek",
+"aliases": [
+"Rainbo"
+],
+"links": 69
+},
+{
+"name": "Janet Gaynor",
+"aliases": [
+"Laura Gainor"
+],
+"links": 68
+},
+{
+"name": "Loretta Young",
+"aliases": [
+"Gretchen Young"
+],
+"links": 68
+},
+{
+"name": "Louise Fletcher",
+"aliases": [
+"Estelle Louise Fletcher"
+],
+"links": 68
+},
+{
+"name": "Luise Rainer",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Norma Shearer",
+"aliases": [
+"Edith Norma Shearer"
+],
+"links": 67
+},
+{
+"name": "Jennifer Jones",
+"aliases": [
+"Jennifer Jones Simon",
+"Phylis Lee Isley"
+],
+"links": 66
+},
+{
+"name": "Mikey Madison",
+"aliases": [
+"Mikaela Madison",
+"Mikaela Madison Rosberg"
+],
+"links": 65
+},
+{
+"name": "Jessica Tandy",
+"aliases": [
+"Jessie Alice Tandy"
+],
+"links": 63
+},
+{
+"name": "Shirley Booth",
+"aliases": [
+"Marjory Ford"
+],
+"links": 61
+},
+{
+"name": "Susan Hayward",
+"aliases": [],
+"links": 61
+},
+{
+"name": "As Good as It Gets",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Greer Garson",
+"aliases": [
+"Eileen Evelyn Greer Garson",
+"Eileen Garson",
+"Greer Garson Fogelson"
+],
+"links": 60
+},
+{
+"name": "It Happened One Night",
+"aliases": [
+"Night Bus"
+],
+"links": 59
+},
+{
+"name": "The Reader",
+"aliases": [
+"Reader"
+],
+"links": 59
+},
+{
+"name": "Geraldine Page",
+"aliases": [
+"Geraldine Sue Page"
+],
+"links": 58
+},
+{
+"name": "Judy Holliday",
+"aliases": [],
+"links": 58
+},
+{
+"name": "The Hours",
+"aliases": [
+"Hours"
+],
+"links": 57
+},
+{
+"name": "Marie Dressler",
+"aliases": [
+"Leila Marie Koerber"
+],
+"links": 56
+},
+{
+"name": "Room",
+"aliases": [],
+"links": 54
+},
+{
+"name": "A Streetcar Named Desire",
+"aliases": [
+"Streetcar Named Desire"
+],
+"links": 53
+},
+{
+"name": "Jessie Buckley",
+"aliases": [],
+"links": 53
+},
+{
+"name": "The Piano",
+"aliases": [
+"Piano"
+],
+"links": 53
+},
+{
+"name": "Mrs. Miniver",
+"aliases": [],
+"links": 52
+},
+{
+"name": "The Blind Side",
+"aliases": [
+"Blind Side"
+],
+"links": 51
+},
+{
+"name": "The Iron Lady",
+"aliases": [
+"Iron Lady"
+],
+"links": 51
+},
+{
+"name": "La Vie en Rose",
+"aliases": [
+"La môme",
+"Vie en Rose"
+],
+"links": 50
+},
+{
+"name": "Misery",
+"aliases": [],
+"links": 50
+},
+{
+"name": "The Great Ziegfeld",
+"aliases": [
+"Great Ziegfeld"
+],
+"links": 50
+},
+{
+"name": "Blue Jasmine",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Cabaret",
+"aliases": [],
+"links": 49
+},
+{
+"name": "The Favourite",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Two Women",
+"aliases": [
+"La ciociara"
+],
+"links": 49
+},
+{
+"name": "Monster",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Network",
+"aliases": [
+"Union Broadcasting System"
+],
+"links": 48
+},
+{
+"name": "Walk the Line",
+"aliases": [],
+"links": 48
+},
+{
+"name": "The Lion in Winter",
+"aliases": [
+"Lion in Winter"
+],
+"links": 47
+},
+{
+"name": "Gaslight",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Guess Who's Coming to Dinner",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Sunrise: A Song of Two Humans",
+"aliases": [
+"Sunrise"
+],
+"links": 46
+},
+{
+"name": "The Queen",
+"aliases": [
+"Queen"
+],
+"links": 46
+},
+{
+"name": "Dead Man Walking",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Sophie's Choice",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Mildred Pierce",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Suspicion",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Born Yesterday",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Still Alice",
+"aliases": [],
+"links": 41
+},
+{
+"name": "On Golden Pond",
+"aliases": [],
+"links": 40
+},
+{
+"name": "The Accused",
+"aliases": [
+"Accused"
+],
+"links": 40
+},
+{
+"name": "The Song of Bernadette",
+"aliases": [
+"Song of Bernadette"
+],
+"links": 40
+},
+{
+"name": "Funny Girl",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Jezebel",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Seventh Heaven",
+"aliases": [
+"7th Heaven"
+],
+"links": 39
+},
+{
+"name": "Children of a Lesser God",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Moonstruck",
+"aliases": [],
+"links": 38
+},
+{
+"name": "The Heiress",
+"aliases": [
+"Heiress"
+],
+"links": 38
+},
+{
+"name": "Monster's Ball",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Coming Home",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Howards End",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Hud",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Klute",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Room at the Top",
+"aliases": [],
+"links": 33
+},
+{
+"name": "The Miracle Worker",
+"aliases": [
+"Miracle Worker"
+],
+"links": 33
+},
+{
+"name": "Anastasia",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Norma Rae",
+"aliases": [],
+"links": 32
+},
+{
+"name": "The Country Girl",
+"aliases": [
+"Country Girl"
+],
+"links": 32
+},
+{
+"name": "Darling",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Places in the Heart",
+"aliases": [],
+"links": 31
+},
+{
+"name": "The Rose Tattoo",
+"aliases": [
+"Rose Tattoo"
+],
+"links": 31
+},
+{
+"name": "Johnny Belinda",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Judy",
+"aliases": [],
+"links": 30
+},
+{
+"name": "The Good Earth",
+"aliases": [
+"Good Earth"
+],
+"links": 30
+},
+{
+"name": "Dangerous",
+"aliases": [],
+"links": 29
+},
+{
+"name": "I Want to Live!",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Kitty Foyle",
+"aliases": [
+"The natural history of a woman"
+],
+"links": 29
+},
+{
+"name": "The Divorcee",
+"aliases": [
+"Divorcee"
+],
+"links": 29
+},
+{
+"name": "Women in Love",
+"aliases": [],
+"links": 29
+},
+{
+"name": "A Touch of Class",
+"aliases": [
+"Touch of Class"
+],
+"links": 28
+},
+{
+"name": "Blue Sky",
+"aliases": [],
+"links": 28
+},
+{
+"name": "BUtterfield 8",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Morning Glory",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Street Angel",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Coal Miner's Daughter",
+"aliases": [],
+"links": 27
+},
+{
+"name": "To Each His Own",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Come Back, Little Sheba",
+"aliases": [],
+"links": 26
+},
+{
+"name": "The Three Faces of Eve",
+"aliases": [
+"Three Faces of Eve"
+],
+"links": 26
+},
+{
+"name": "Min and Bill",
+"aliases": [],
+"links": 25
+},
+{
+"name": "The Prime of Miss Jean Brodie",
+"aliases": [
+"Prime of Miss Jean Brodie"
+],
+"links": 25
+},
+{
+"name": "Coquette",
+"aliases": [],
+"links": 23
+},
+{
+"name": "The Farmer's Daughter",
+"aliases": [
+"Farmer's Daughter"
+],
+"links": 23
+},
+{
+"name": "The Sin of Madelon Claudet",
+"aliases": [
+"Sin of Madelon Claudet"
+],
+"links": 22
+},
+{
+"name": "The Trip to Bountiful",
+"aliases": [
+"Trip to Bountiful"
+],
+"links": 22
+},
+{
+"name": "Sonia Mbele",
+"aliases": [
+"Ntombi Khumalo"
+],
+"links": 3
+}
+]
+},
+{
+"id": "grammy-album-of-the-year-winners",
+"title": "Grammy Album of the Year winners",
+"prompt": "Name albums or artists that won Album of the Year",
+"answers": [
+{
+"name": "Michael Jackson",
+"aliases": [],
+"links": 324
+},
+{
+"name": "The Beatles",
+"aliases": [
+"Beatals",
+"John, Paul, George, and Ringo",
+"The Beetles",
+"The Lads from Liverpool",
+"The Silver Beatles",
+"The Silver Beetles"
+],
+"links": 246
+},
+{
+"name": "Bob Dylan",
+"aliases": [
+"Blind Boy Grunt",
+"Bob Landy",
+"Boo Wilbury",
+"Dylan",
+"Elston Gunn",
+"Jack Frost",
+"Lucky Wilbury",
+"Robert Dylan",
+"Robert Dylan né Robert Allen Zimmerman",
+"Robert Milkwood Thomas",
+"Robert Zimmerman",
+"Sergei Petrov",
+"Shabtai Zisl ben Avraham",
+"Tedham Porterhouse"
+],
+"links": 185
+},
+{
+"name": "Taylor Swift",
+"aliases": [],
+"links": 180
+},
+{
+"name": "Céline Dion",
+"aliases": [
+"Celine Dion",
+"Celine Marie Claudette Dion",
+"Céline Marie Claudette Dion"
+],
+"links": 163
+},
+{
+"name": "Judy Garland",
+"aliases": [
+"Frances Ethel Gumm",
+"Frances Gumm"
+],
+"links": 153
+},
+{
+"name": "Frank Sinatra",
+"aliases": [
+"Francis Albert Sinatra",
+"Ol' Blue Eyes",
+"Old Blue Eyes",
+"Sinatra"
+],
+"links": 141
+},
+{
+"name": "Adele",
+"aliases": [
+"Adele Adkins",
+"Adele Laurie Blue Adkins"
+],
+"links": 137
+},
+{
+"name": "Leonard Cohen",
+"aliases": [],
+"links": 131
+},
+{
+"name": "Tina Turner",
+"aliases": [
+"Martha Nell Bullock",
+"Tina Turner-Bullock"
+],
+"links": 114
+},
+{
+"name": "Yoko Ono",
+"aliases": [
+"Ono",
+"Ono Yoko",
+"Ono Yōko",
+"Yoko Ono Lennon",
+"Yōko Ono",
+"Ĭoko Ono"
+],
+"links": 98
+},
+{
+"name": "Ravi Shankar",
+"aliases": [
+"Pandit Ravi Shankar",
+"Robindro Shaunkor Chowdhury"
+],
+"links": 96
+},
+{
+"name": "Alanis Morissette",
+"aliases": [
+"Alanis Nadine Morissette"
+],
+"links": 83
+},
+{
+"name": "Sgt. Pepper's Lonely Hearts Club Band",
+"aliases": [
+"Sgt. Pepper's"
+],
+"links": 81
+},
+{
+"name": "Norah Jones",
+"aliases": [
+"Geetali Norah Jones Shankar"
+],
+"links": 77
+},
+{
+"name": "Joni Mitchell",
+"aliases": [
+"Roberta Joan Anderson"
+],
+"links": 75
+},
+{
+"name": "Lionel Richie",
+"aliases": [
+"Lionel Brockman Richie",
+"Lionel Brockman Richie Jr.",
+"Lionel Brockman Richie, Jr.",
+"Lionel Richie, Jr."
+],
+"links": 72
+},
+{
+"name": "Daft Punk",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Billy Joel",
+"aliases": [
+"BJ",
+"The Piano Man",
+"William M. Joel"
+],
+"links": 69
+},
+{
+"name": "Bad Bunny",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Fleetwood Mac",
+"aliases": [
+"Peter Green's Fleetwood Mac"
+],
+"links": 67
+},
+{
+"name": "Tony Bennett",
+"aliases": [
+"Anthony Benedetto",
+"Anthony Dominick Benedetto"
+],
+"links": 67
+},
+{
+"name": "Thriller",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Herbie Hancock",
+"aliases": [
+"Herbert Hancock",
+"Herbert Jeffrey Hancock"
+],
+"links": 60
+},
+{
+"name": "Vladimir Horowitz",
+"aliases": [
+"Vladimir Samoilovich Horowitz",
+"Vladimir Samoylovich Horowitz"
+],
+"links": 60
+},
+{
+"name": "Henry Mancini",
+"aliases": [
+"Enrico Nicola Mancini",
+"Henry Nicola Mancini"
+],
+"links": 58
+},
+{
+"name": "João Gilberto",
+"aliases": [
+"João Gilberto Prado Pereira de Oliveira"
+],
+"links": 55
+},
+{
+"name": "Beck",
+"aliases": [
+"Beck David Hansen",
+"Beck Hansen",
+"Bek David Campbell"
+],
+"links": 54
+},
+{
+"name": "George Martin",
+"aliases": [
+"Sir George Henry Martin",
+"Sir George Martin"
+],
+"links": 53
+},
+{
+"name": "Giorgio Moroder",
+"aliases": [
+"Giovanni Giorgio Moroder",
+"Hansjörg Moroder"
+],
+"links": 51
+},
+{
+"name": "Stan Getz",
+"aliases": [
+"Stanley Gayetski",
+"Stanley Getz"
+],
+"links": 50
+},
+{
+"name": "Bonnie Raitt",
+"aliases": [
+"Bonnie Lynn Raitt"
+],
+"links": 45
+},
+{
+"name": "Glen Campbell",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Mumford & Sons",
+"aliases": [
+"Mumford and Sons"
+],
+"links": 44
+},
+{
+"name": "Santana",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Ryan Tedder",
+"aliases": [
+"Ryan Benjamin Tedder"
+],
+"links": 42
+},
+{
+"name": "Sérgio Mendes",
+"aliases": [
+"Sergio Mendes"
+],
+"links": 42
+},
+{
+"name": "David Foster",
+"aliases": [
+"David W. Foster",
+"David Walter Foster"
+],
+"links": 41
+},
+{
+"name": "Folklore",
+"aliases": [
+"Woodvale"
+],
+"links": 41
+},
+{
+"name": "Kacey Musgraves",
+"aliases": [
+"Kacey Lee Musgraves"
+],
+"links": 41
+},
+{
+"name": "The Joshua Tree",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Blood, Sweat & Tears",
+"aliases": [
+"Blood Sweat and Tears",
+"Blood, Sweat And Tears",
+"BS&T"
+],
+"links": 34
+},
+{
+"name": "How to Dismantle an Atomic Bomb",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Christopher Cross",
+"aliases": [
+"Christopher C. Geppert",
+"Christopher Geppert",
+"Christopher Geppert Cross"
+],
+"links": 33
+},
+{
+"name": "Leon Russell",
+"aliases": [
+"C. R. Bridges",
+"Claude Bridges",
+"Claude Russell Bridges",
+"Hank Wilson",
+"Phil 'Harmonious' Plonk",
+"Russell Bridges",
+"The Master Of Space And Time"
+],
+"links": 31
+},
+{
+"name": "Clive Davis",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Daniel Lanois",
+"aliases": [],
+"links": 25
+},
+{
+"name": "KC and the Sunshine Band",
+"aliases": [
+"KC & the Sunshine Band"
+],
+"links": 25
+},
+{
+"name": "Phil Ramone",
+"aliases": [
+"Philip Rabinowitz",
+"Philip Ramone"
+],
+"links": 25
+},
+{
+"name": "Guy-Manuel de Homem-Christo",
+"aliases": [
+"Guillaume Emmanuel de Homem-Christo"
+],
+"links": 24
+},
+{
+"name": "Supernatural",
+"aliases": [],
+"links": 23
+},
+{
+"name": "24K Magic",
+"aliases": [
+"XXIVK Magic"
+],
+"links": 20
+},
+{
+"name": "Graceland",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Innervisions",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Fulfillingness' First Finale",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Getz/Gilberto",
+"aliases": [
+"Getz / Gilberto"
+],
+"links": 17
+},
+{
+"name": "Dan Hill",
+"aliases": [
+"Daniel Grafton Hill IV"
+],
+"links": 16
+},
+{
+"name": "Lew Soloff",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Christopher Stewart",
+"aliases": [],
+"links": 15
+},
+{
+"name": "The Concert for Bangla Desh",
+"aliases": [
+"Concert for Bangladesh",
+"The Concert for Bangladesh"
+],
+"links": 14
+},
+{
+"name": "Taking the Long Way",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Christopher Cross",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Morning Phase",
+"aliases": [],
+"links": 12
+},
+{
+"name": "The Barbra Streisand Album",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Come Dance with Me!",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Humberto Gatico",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Michael Omartian",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Jorge Pardo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Judy at Carnegie Hall",
+"aliases": [
+"SWBO 1569",
+"WBO 1569"
+],
+"links": 8
+},
+{
+"name": "September of My Years",
+"aliases": [],
+"links": 8
+},
+{
+"name": "David Cole",
+"aliases": [
+"David B. Cole",
+"David Byron Cole"
+],
+"links": 7
+},
+{
+"name": "Albhy Galuten",
+"aliases": [
+"Alan Bruce Galuten"
+],
+"links": 6
+},
+{
+"name": "A Man and His Music",
+"aliases": [],
+"links": 5
+},
+{
+"name": "The Music from Peter Gunn",
+"aliases": [],
+"links": 5
+},
+{
+"name": "The First Family",
+"aliases": [],
+"links": 4
+},
+{
+"name": "The Button-Down Mind of Bob Newhart",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jahaan Sweet",
+"aliases": [],
+"links": 2
+},
+{
+"name": "By the Time I Get to Phoenix",
+"aliases": [],
+"links": 1
+}
+]
+},
+{
+"id": "best-actor-oscar-winners",
+"title": "Best Actor Oscar winners",
+"prompt": "Name actors who won the Academy Award for Best Actor",
+"answers": [
+{
+"name": "Marlon Brando",
+"aliases": [],
+"links": 159
+},
+{
+"name": "Leonardo DiCaprio",
+"aliases": [
+"Leonardo Wilhelm DiCaprio"
+],
+"links": 150
+},
+{
+"name": "Robert De Niro",
+"aliases": [
+"De Niro",
+"Robert Anthony De Niro"
+],
+"links": 141
+},
+{
+"name": "Tom Hanks",
+"aliases": [
+"Thomas Hanks",
+"Thomas Jeffrey Hanks"
+],
+"links": 137
+},
+{
+"name": "Will Smith",
+"aliases": [
+"Willard Smith"
+],
+"links": 137
+},
+{
+"name": "Al Pacino",
+"aliases": [
+"Alfred James Pacino",
+"Alfred Pacino",
+"Alfredo James Pacino",
+"Alfredo Pacino"
+],
+"links": 135
+},
+{
+"name": "Jack Nicholson",
+"aliases": [
+"John Nicholson"
+],
+"links": 130
+},
+{
+"name": "Russell Crowe",
+"aliases": [],
+"links": 125
+},
+{
+"name": "Bing Crosby",
+"aliases": [
+"Harry Crosby",
+"Harry Crosby Jr.",
+"Harry Lillis Crosby",
+"Harry Lillis Crosby Jr."
+],
+"links": 123
+},
+{
+"name": "Anthony Hopkins",
+"aliases": [
+"Sir Anthony Philip Hopkins"
+],
+"links": 122
+},
+{
+"name": "John Wayne",
+"aliases": [
+"Duke",
+"The Duke"
+],
+"links": 122
+},
+{
+"name": "Nicolas Cage",
+"aliases": [
+"Nicolas Kim Coppola"
+],
+"links": 121
+},
+{
+"name": "Humphrey Bogart",
+"aliases": [
+"Bogie"
+],
+"links": 119
+},
+{
+"name": "Paul Newman",
+"aliases": [],
+"links": 109
+},
+{
+"name": "Clark Gable",
+"aliases": [
+"The King of Hollywood",
+"William Clark Gable",
+"William Gable"
+],
+"links": 108
+},
+{
+"name": "Daniel Day-Lewis",
+"aliases": [
+"Daniel Michael Blake Day-Lewis",
+"Sir Daniel Michael Blake Day-Lewis"
+],
+"links": 104
+},
+{
+"name": "Gary Oldman",
+"aliases": [
+"Gary Leonard Oldman"
+],
+"links": 103
+},
+{
+"name": "The Silence of the Lambs",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Jon Voight",
+"aliases": [
+"John Vincent Voight",
+"John Voight",
+"Jon Vincent Voight",
+"Jonathan Voight"
+],
+"links": 101
+},
+{
+"name": "Sidney Poitier",
+"aliases": [
+"Sidney L. Poitier",
+"Sir Sidney Poitier"
+],
+"links": 101
+},
+{
+"name": "Henry Fonda",
+"aliases": [],
+"links": 100
+},
+{
+"name": "Sean Penn",
+"aliases": [],
+"links": 100
+},
+{
+"name": "Gregory Peck",
+"aliases": [
+"Eldred Peck"
+],
+"links": 99
+},
+{
+"name": "Michael Douglas",
+"aliases": [
+"Michael Kirk Douglas"
+],
+"links": 99
+},
+{
+"name": "James Stewart",
+"aliases": [
+"James Maitland Stewart",
+"Jimmy Stewart"
+],
+"links": 98
+},
+{
+"name": "Gary Cooper",
+"aliases": [
+"Frank Cooper",
+"Frank James Cooper"
+],
+"links": 97
+},
+{
+"name": "Laurence Olivier",
+"aliases": [
+"Baron Olivier of Brighton",
+"Sir Laurence Olivier",
+"The Lord Olivier"
+],
+"links": 95
+},
+{
+"name": "Charlton Heston",
+"aliases": [
+"Charlton Carter",
+"Charlton John Carter",
+"John Carter",
+"John Heston"
+],
+"links": 93
+},
+{
+"name": "Matthew McConaughey",
+"aliases": [],
+"links": 93
+},
+{
+"name": "Robert Duvall",
+"aliases": [],
+"links": 93
+},
+{
+"name": "James Cagney",
+"aliases": [
+"James Francis Cagney",
+"James Francis Cagney, Jr.",
+"Jimmy Cagney"
+],
+"links": 92
+},
+{
+"name": "Joaquin Phoenix",
+"aliases": [
+"Joaquin Bottom",
+"Leaf Rafael Phoenix"
+],
+"links": 92
+},
+{
+"name": "Philip Seymour Hoffman",
+"aliases": [
+"Phil Hoffman",
+"Philip Hoffman"
+],
+"links": 92
+},
+{
+"name": "Kevin Spacey",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Cillian Murphy",
+"aliases": [],
+"links": 89
+},
+{
+"name": "Ben Kingsley",
+"aliases": [],
+"links": 88
+},
+{
+"name": "Jeremy Irons",
+"aliases": [],
+"links": 88
+},
+{
+"name": "Roberto Benigni",
+"aliases": [],
+"links": 88
+},
+{
+"name": "Spencer Tracy",
+"aliases": [
+"Spencer Bonaventure Tracy"
+],
+"links": 88
+},
+{
+"name": "Gene Hackman",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Colin Firth",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Jeff Bridges",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Brendan Fraser",
+"aliases": [
+"Brendan James Fraser"
+],
+"links": 84
+},
+{
+"name": "Burt Lancaster",
+"aliases": [
+"Burton Lancaster"
+],
+"links": 84
+},
+{
+"name": "Jamie Foxx",
+"aliases": [
+"Eric Bishop"
+],
+"links": 83
+},
+{
+"name": "Alec Guinness",
+"aliases": [
+"Alec Guinness de Cuffe",
+"Sir Alec Guinness"
+],
+"links": 82
+},
+{
+"name": "Forest Whitaker",
+"aliases": [
+"Forest Steven Whitaker"
+],
+"links": 81
+},
+{
+"name": "Rami Malek",
+"aliases": [
+"Rami Said Malek"
+],
+"links": 81
+},
+{
+"name": "Jack Lemmon",
+"aliases": [
+"John Lemmon",
+"John Uhler Lemmon"
+],
+"links": 80
+},
+{
+"name": "Life Is Beautiful",
+"aliases": [
+"La vita e bella",
+"La vita è bella"
+],
+"links": 80
+},
+{
+"name": "Eddie Redmayne",
+"aliases": [
+"Edward John David Redmayne"
+],
+"links": 79
+},
+{
+"name": "Adrien Brody",
+"aliases": [
+"Adrien Nicholas Brody"
+],
+"links": 78
+},
+{
+"name": "Geoffrey Rush",
+"aliases": [],
+"links": 78
+},
+{
+"name": "The Pianist",
+"aliases": [
+"Le Pianiste",
+"Pianist"
+],
+"links": 78
+},
+{
+"name": "Ernest Borgnine",
+"aliases": [
+"Ermes Borgnino"
+],
+"links": 77
+},
+{
+"name": "Joker",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Maximilian Schell",
+"aliases": [],
+"links": 77
+},
+{
+"name": "William Hurt",
+"aliases": [
+"William McChord Hurt"
+],
+"links": 74
+},
+{
+"name": "William Holden",
+"aliases": [
+"William Beedle",
+"William Beedle Jr.",
+"William Franklin Beedle",
+"William Franklin Holden"
+],
+"links": 73
+},
+{
+"name": "Yul Brynner",
+"aliases": [
+"Taidje Khan",
+"Youl Bryner",
+"Yuliy Borisovich Briner",
+"Yuliy Borisovich Bryner"
+],
+"links": 73
+},
+{
+"name": "The Bridge on the River Kwai",
+"aliases": [
+"Bridge on the River Kwai"
+],
+"links": 72
+},
+{
+"name": "Jean Dujardin",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Casey Affleck",
+"aliases": [
+"Caleb Casey Affleck",
+"Caleb Casey McGuire Affleck-Boldt"
+],
+"links": 69
+},
+{
+"name": "David Niven",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Richard Dreyfuss",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Lee Marvin",
+"aliases": [
+"Lamont Marvin",
+"Lamont Marvin Jr.",
+"Lamont Waltman Marvin",
+"Lamont Waltman Marvin Jr."
+],
+"links": 67
+},
+{
+"name": "Charles Laughton",
+"aliases": [],
+"links": 66
+},
+{
+"name": "F. Murray Abraham",
+"aliases": [],
+"links": 66
+},
+{
+"name": "The Theory of Everything",
+"aliases": [
+"Theory of Everything"
+],
+"links": 65
+},
+{
+"name": "Bohemian Rhapsody",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Kramer vs. Kramer",
+"aliases": [],
+"links": 63
+},
+{
+"name": "On the Waterfront",
+"aliases": [],
+"links": 63
+},
+{
+"name": "George C. Scott",
+"aliases": [
+"George Campbell Scott",
+"George Scott"
+],
+"links": 62
+},
+{
+"name": "My Fair Lady",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Michael B. Jordan",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Rod Steiger",
+"aliases": [
+"Rodney Stephen Steiger"
+],
+"links": 61
+},
+{
+"name": "As Good as It Gets",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Emil Jannings",
+"aliases": [
+"Theodor Friedrich Emil Janenz"
+],
+"links": 60
+},
+{
+"name": "It Happened One Night",
+"aliases": [
+"Night Bus"
+],
+"links": 59
+},
+{
+"name": "Fredric March",
+"aliases": [
+"Ernest Frederick McIntyre Bickel"
+],
+"links": 58
+},
+{
+"name": "Lionel Barrymore",
+"aliases": [
+"Lionel Herbert Blythe"
+],
+"links": 58
+},
+{
+"name": "Rex Harrison",
+"aliases": [
+"Reginald Carey Harrison",
+"Reginald Harrison",
+"Sir Reginald Carey Harrison",
+"Sir Reginald Harrison",
+"Sir Rex Harrison"
+],
+"links": 58
+},
+{
+"name": "Paul Muni",
+"aliases": [
+"Meshilem Meier Weisenfreund",
+"Muni Weisenfreund"
+],
+"links": 57
+},
+{
+"name": "Peter Finch",
+"aliases": [
+"Frederick George Peter Ingle Finch",
+"Frederick Ingle Finch",
+"Frederick Ingle-Finch"
+],
+"links": 57
+},
+{
+"name": "The French Connection",
+"aliases": [
+"French Connection"
+],
+"links": 57
+},
+{
+"name": "Art Carney",
+"aliases": [
+"Arthur Carney",
+"Arthur William Matthew Carney"
+],
+"links": 56
+},
+{
+"name": "In the Heat of the Night",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Philadelphia",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Ray Milland",
+"aliases": [
+"Alfred Jones",
+"Alfred Reginald Jones",
+"Reginald Alfred John Truscott-Jones",
+"Reginald Jones",
+"Reginald Truscott-Jones"
+],
+"links": 56
+},
+{
+"name": "Broderick Crawford",
+"aliases": [
+"Brod Crawford",
+"William Broderick Crawford"
+],
+"links": 55
+},
+{
+"name": "Cliff Robertson",
+"aliases": [
+"Clifford Parker Robertson III",
+"Clifford Robertson III"
+],
+"links": 55
+},
+{
+"name": "High Noon",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Paul Scofield",
+"aliases": [
+"David Paul Scofield",
+"David Scofield"
+],
+"links": 55
+},
+{
+"name": "A Man for All Seasons",
+"aliases": [
+"Man for All Seasons"
+],
+"links": 53
+},
+{
+"name": "George Arliss",
+"aliases": [
+"George Augustus Andrews"
+],
+"links": 53
+},
+{
+"name": "José Ferrer",
+"aliases": [
+"Jose Ferrer",
+"Jose Vicente Ferrer",
+"Jose Vicente Ferrer de Otero y Cintron",
+"José Vicente Ferrer",
+"José Vicente Ferrer de Otero y Cintrón"
+],
+"links": 53
+},
+{
+"name": "The African Queen",
+"aliases": [
+"African Queen"
+],
+"links": 53
+},
+{
+"name": "The Best Years of Our Lives",
+"aliases": [
+"Best Years of Our Lives"
+],
+"links": 53
+},
+{
+"name": "The Lost Weekend",
+"aliases": [
+"Lost Weekend"
+],
+"links": 53
+},
+{
+"name": "Warner Baxter",
+"aliases": [
+"Warner Leroy Baxter"
+],
+"links": 53
+},
+{
+"name": "Robert Donat",
+"aliases": [
+"Frederick Robert Donat",
+"Friedrich Robert Donat"
+],
+"links": 52
+},
+{
+"name": "Ronald Colman",
+"aliases": [
+"Ronald Charles Colman"
+],
+"links": 52
+},
+{
+"name": "Training Day",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Wall Street",
+"aliases": [],
+"links": 52
+},
+{
+"name": "All the King's Men",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Darkest Hour",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Going My Way",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Paul Lukas",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Wallace Beery",
+"aliases": [
+"Wallace Fitzgerald Beery"
+],
+"links": 50
+},
+{
+"name": "Marty",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Victor McLaglen",
+"aliases": [
+"Victor Andrew de Bier Everleigh McLaglen"
+],
+"links": 49
+},
+{
+"name": "Network",
+"aliases": [
+"Union Broadcasting System"
+],
+"links": 48
+},
+{
+"name": "My Left Foot",
+"aliases": [
+"My Left Foot: The Story of Christy Brown"
+],
+"links": 47
+},
+{
+"name": "Sinners",
+"aliases": [],
+"links": 47
+},
+{
+"name": "The Father",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Hamlet",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Manchester by the Sea",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Judgment at Nuremberg",
+"aliases": [],
+"links": 45
+},
+{
+"name": "The Philadelphia Story",
+"aliases": [
+"Philadelphia Story"
+],
+"links": 45
+},
+{
+"name": "Ray",
+"aliases": [],
+"links": 44
+},
+{
+"name": "The Brutalist",
+"aliases": [
+"Brutalist"
+],
+"links": 43
+},
+{
+"name": "The Whale",
+"aliases": [],
+"links": 42
+},
+{
+"name": "On Golden Pond",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Yankee Doodle Dandy",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Shine",
+"aliases": [],
+"links": 38
+},
+{
+"name": "True Grit",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Dr. Jekyll and Mr. Hyde",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Coming Home",
+"aliases": [],
+"links": 36
+},
+{
+"name": "The King and I",
+"aliases": [
+"King and I"
+],
+"links": 36
+},
+{
+"name": "The Goodbye Girl",
+"aliases": [],
+"links": 35
+},
+{
+"name": "The Last Command",
+"aliases": [
+"Last Command"
+],
+"links": 35
+},
+{
+"name": "Captains Courageous",
+"aliases": [
+"'' Captains Courageous ''"
+],
+"links": 34
+},
+{
+"name": "Goodbye, Mr. Chips",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Sergeant York",
+"aliases": [],
+"links": 34
+},
+{
+"name": "The Informer",
+"aliases": [
+"Informer"
+],
+"links": 34
+},
+{
+"name": "Cat Ballou",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Elmer Gantry",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Separate Tables",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Stalag 17",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Crazy Heart",
+"aliases": [],
+"links": 32
+},
+{
+"name": "In Old Arizona",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Lilies of the Field",
+"aliases": [],
+"links": 32
+},
+{
+"name": "A Free Soul",
+"aliases": [
+"Free Soul"
+],
+"links": 30
+},
+{
+"name": "Boys Town",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Reversal of Fortune",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Tender Mercies",
+"aliases": [],
+"links": 30
+},
+{
+"name": "The Private Life of Henry VIII",
+"aliases": [
+"Private Life of Henry VIII"
+],
+"links": 29
+},
+{
+"name": "Cyrano de Bergerac",
+"aliases": [],
+"links": 28
+},
+{
+"name": "The Story of Louis Pasteur",
+"aliases": [
+"Story of Louis Pasteur"
+],
+"links": 28
+},
+{
+"name": "A Double Life",
+"aliases": [
+"Double Life"
+],
+"links": 27
+},
+{
+"name": "Watch on the Rhine",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Charly",
+"aliases": [
+"CHAЯLY",
+"Flowers For Algernon"
+],
+"links": 26
+},
+{
+"name": "Harry and Tonto",
+"aliases": [],
+"links": 26
+},
+{
+"name": "The Way of All Flesh",
+"aliases": [
+"Way of All Flesh"
+],
+"links": 26
+},
+{
+"name": "Save the Tiger",
+"aliases": [],
+"links": 25
+},
+{
+"name": "The Champ",
+"aliases": [
+"Champ"
+],
+"links": 24
+},
+{
+"name": "Disraeli",
+"aliases": [],
+"links": 23
+}
+]
+},
+{
+"id": "ballon-d-or-winners",
+"title": "Ballon d'Or winners",
+"prompt": "Name footballers who won the Ballon d'Or",
+"answers": [
+{
+"name": "Lionel Messi",
+"aliases": [],
+"links": 228
+},
+{
+"name": "Cristiano Ronaldo",
+"aliases": [
+"CR7",
+"Cristiano Ronaldo dos Santos Aveiro"
+],
+"links": 215
+},
+{
+"name": "Zinedine Zidane",
+"aliases": [
+"Zinedine Yazid Zidane"
+],
+"links": 147
+},
+{
+"name": "Johan Cruyff",
+"aliases": [
+"Hendrik Johannes Cruijff"
+],
+"links": 128
+},
+{
+"name": "Ronaldo",
+"aliases": [
+"R9",
+"Ronaldo Nazário"
+],
+"links": 125
+},
+{
+"name": "Franz Beckenbauer",
+"aliases": [
+"Der Kaiser"
+],
+"links": 116
+},
+{
+"name": "Ronaldinho",
+"aliases": [
+"Ronaldinho Gaucho",
+"Ronaldinho Gaúcho",
+"ronaldinho:Touch of Gold",
+"Ronaldo de Assis Moreira"
+],
+"links": 115
+},
+{
+"name": "Luka Modrić",
+"aliases": [
+"Luka Modric"
+],
+"links": 113
+},
+{
+"name": "Karim Benzema",
+"aliases": [
+"Karim Mostafa Benzema"
+],
+"links": 108
+},
+{
+"name": "Michel Platini",
+"aliases": [
+"Michel Francois Platini"
+],
+"links": 104
+},
+{
+"name": "Kaká",
+"aliases": [
+"Ricardo Kaká"
+],
+"links": 100
+},
+{
+"name": "Harry Kane",
+"aliases": [
+"Harry Edward Kane"
+],
+"links": 98
+},
+{
+"name": "Eusébio",
+"aliases": [
+"Eusebio",
+"Eusebueno",
+"Euséddbio da Silva Ferreira"
+],
+"links": 95
+},
+{
+"name": "George Weah",
+"aliases": [
+"George Manneh Oppong Weah"
+],
+"links": 94
+},
+{
+"name": "Gerd Müller",
+"aliases": [
+"Gerd Mueller",
+"Gerd Muller",
+"Gerhard Mueller",
+"Gerhard Muller",
+"Gerhard Müller"
+],
+"links": 91
+},
+{
+"name": "Roberto Baggio",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Alfredo Di Stéfano",
+"aliases": [
+"Alfredo Di Stefano",
+"Alfredo Stefano di Stefano Laulhe"
+],
+"links": 90
+},
+{
+"name": "Marco van Basten",
+"aliases": [
+"Marcel van Basten"
+],
+"links": 89
+},
+{
+"name": "Andriy Shevchenko",
+"aliases": [
+"Andriy Mykolayovych Shevchenko"
+],
+"links": 88
+},
+{
+"name": "George Best",
+"aliases": [
+"Georgie Best"
+],
+"links": 88
+},
+{
+"name": "Lev Yashin",
+"aliases": [
+"Lev Ivanovich Yashin"
+],
+"links": 88
+},
+{
+"name": "Ousmane Dembélé",
+"aliases": [
+"Masour Ousmane Dembele",
+"Masour Ousmane Dembélé",
+"Ousmane Dembele"
+],
+"links": 86
+},
+{
+"name": "Lothar Matthäus",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Fabio Cannavaro",
+"aliases": [
+"Il muro de Berlino"
+],
+"links": 84
+},
+{
+"name": "Bobby Charlton",
+"aliases": [
+"Robert Charlton",
+"Sir Bobby Charlton",
+"Sir Robert Charlton"
+],
+"links": 83
+},
+{
+"name": "Luís Figo",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Michael Owen",
+"aliases": [
+"Michael James Owen"
+],
+"links": 80
+},
+{
+"name": "Rivaldo",
+"aliases": [
+"Rivaldo Vítor Borba Ferreira"
+],
+"links": 79
+},
+{
+"name": "Ruud Gullit",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Rodri",
+"aliases": [],
+"links": 74
+},
+{
+"name": "Kevin Keegan",
+"aliases": [
+"Joseph Kevin Keegan"
+],
+"links": 73
+},
+{
+"name": "Hristo Stoichkov",
+"aliases": [
+"Christo Stoičkov",
+"Hristo Stoichkov Stoichkov",
+"Hristo Stoitchkov",
+"Xristo Stoiçkov"
+],
+"links": 71
+},
+{
+"name": "Paolo Rossi",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Oleh Blokhin",
+"aliases": [
+"Oleg Blokhin"
+],
+"links": 66
+},
+{
+"name": "Karl-Heinz Rummenigge",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Pavel Nedvěd",
+"aliases": [
+"Pavel Nedved"
+],
+"links": 65
+},
+{
+"name": "Stanley Matthews",
+"aliases": [
+"Sir Stanley Matthews"
+],
+"links": 58
+},
+{
+"name": "Jean-Pierre Papin",
+"aliases": [
+"Jean-Pierre Roger Guillaume Papin"
+],
+"links": 57
+},
+{
+"name": "Omar Sívori",
+"aliases": [
+"Enrique Sivori"
+],
+"links": 57
+},
+{
+"name": "Raymond Kopa",
+"aliases": [
+"Raymond Kopaszewski"
+],
+"links": 57
+},
+{
+"name": "Aitana Bonmatí",
+"aliases": [
+"Aitana Bonmatí Conca",
+"Aitana Bonmatí Guidonet"
+],
+"links": 56
+},
+{
+"name": "Denis Law",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Gianni Rivera",
+"aliases": [
+"Giovanni Rivera"
+],
+"links": 55
+},
+{
+"name": "Flórián Albert",
+"aliases": [
+"Florian Albert"
+],
+"links": 54
+},
+{
+"name": "Matthias Sammer",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Allan Simonsen",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Josef Masopust",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Igor Belanov",
+"aliases": [],
+"links": 46
+}
+]
+},
+{
+"id": "best-director-oscar-winners",
+"title": "Best Director Oscar winners",
+"prompt": "Name winners of the Academy Award for Best Director",
+"answers": [
+{
+"name": "Steven Spielberg",
+"aliases": [
+"Spielberg",
+"Steven Allan Spielberg"
+],
+"links": 171
+},
+{
+"name": "Woody Allen",
+"aliases": [],
+"links": 158
+},
+{
+"name": "Clint Eastwood",
+"aliases": [
+"Clinton Eastwood",
+"Clinton Eastwood Jr.",
+"Clinton Eastwood, Jr."
+],
+"links": 137
+},
+{
+"name": "James Cameron",
+"aliases": [],
+"links": 120
+},
+{
+"name": "Mel Gibson",
+"aliases": [],
+"links": 119
+},
+{
+"name": "Martin Scorsese",
+"aliases": [],
+"links": 114
+},
+{
+"name": "Roman Polanski",
+"aliases": [
+"Polanski",
+"Rajmund Roman Thierry Polański",
+"Raymond Roman Thierry Liebling",
+"Raymond Roman Thierry Polański"
+],
+"links": 111
+},
+{
+"name": "Kevin Costner",
+"aliases": [],
+"links": 110
+},
+{
+"name": "Casablanca",
+"aliases": [],
+"links": 107
+},
+{
+"name": "Francis Ford Coppola",
+"aliases": [
+"Francis Coppola"
+],
+"links": 103
+},
+{
+"name": "The Silence of the Lambs",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Schindler's List",
+"aliases": [],
+"links": 102
+},
+{
+"name": "Peter Jackson",
+"aliases": [
+"Sir Peter Jackson"
+],
+"links": 101
+},
+{
+"name": "Robert Redford",
+"aliases": [
+"Charles Redford",
+"Charles Redford Jr.",
+"Charles Robert Redford",
+"The Legend of Hollywood"
+],
+"links": 98
+},
+{
+"name": "John Ford",
+"aliases": [
+"Jack Feeney",
+"Jack Ford",
+"John Feeney",
+"John Martin Feeney",
+"Sean Aloysius",
+"Sean Aloysius O'Feeney"
+],
+"links": 90
+},
+{
+"name": "Miloš Forman",
+"aliases": [
+"Milos Forman"
+],
+"links": 88
+},
+{
+"name": "Bernardo Bertolucci",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Oliver Stone",
+"aliases": [
+"William Oliver Stone"
+],
+"links": 87
+},
+{
+"name": "Saving Private Ryan",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Brokeback Mountain",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Frank Capra",
+"aliases": [
+"Francesco Capra",
+"Francesco Rosario Capra",
+"Frank Robert Capra",
+"Frank Russell Capra"
+],
+"links": 85
+},
+{
+"name": "Ang Lee",
+"aliases": [
+"Lee Ang"
+],
+"links": 84
+},
+{
+"name": "Robert Zemeckis",
+"aliases": [
+"Robert L. Zemeckis",
+"Robert Lee Zemeckis"
+],
+"links": 83
+},
+{
+"name": "Billy Wilder",
+"aliases": [
+"Samuel Wilder"
+],
+"links": 82
+},
+{
+"name": "Elia Kazan",
+"aliases": [
+"Elia Kazanjoglou",
+"Elias Kazantzoglou"
+],
+"links": 82
+},
+{
+"name": "Parasite",
+"aliases": [
+"Gisaengchung"
+],
+"links": 81
+},
+{
+"name": "Steven Soderbergh",
+"aliases": [
+"Mary Ann Bernard",
+"Peter Andrews",
+"Steven Andrew Soderbergh"
+],
+"links": 80
+},
+{
+"name": "Sydney Pollack",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Richard Attenborough",
+"aliases": [
+"Baron Attenborough",
+"Dickie Attenborough",
+"Richard Samuel Attenborough",
+"Richard Samuel Attenborough, Baron Attenborough",
+"The Lord Attenborough"
+],
+"links": 79
+},
+{
+"name": "Danny Boyle",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Lawrence of Arabia",
+"aliases": [],
+"links": 78
+},
+{
+"name": "The Pianist",
+"aliases": [
+"Le Pianiste",
+"Pianist"
+],
+"links": 78
+},
+{
+"name": "Guillermo del Toro",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Warren Beatty",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Alejandro González Iñárritu",
+"aliases": [
+"Alejandro G. Iñárritu",
+"Iñárritu"
+],
+"links": 73
+},
+{
+"name": "Kathryn Bigelow",
+"aliases": [
+"Kathryn Ann Bigelow"
+],
+"links": 73
+},
+{
+"name": "The Bridge on the River Kwai",
+"aliases": [
+"Bridge on the River Kwai"
+],
+"links": 72
+},
+{
+"name": "William Wyler",
+"aliases": [
+"Willi Wyler"
+],
+"links": 72
+},
+{
+"name": "John Huston",
+"aliases": [],
+"links": 71
+},
+{
+"name": "The Sound of Music",
+"aliases": [
+"Sound of Music"
+],
+"links": 71
+},
+{
+"name": "Alfonso Cuarón",
+"aliases": [
+"Alfonso Cuaron Orozco"
+],
+"links": 70
+},
+{
+"name": "Ron Howard",
+"aliases": [],
+"links": 70
+},
+{
+"name": "All About Eve",
+"aliases": [],
+"links": 68
+},
+{
+"name": "George Cukor",
+"aliases": [
+"George Dewey Cukor"
+],
+"links": 67
+},
+{
+"name": "Bong Joon-ho",
+"aliases": [
+"Bong Joon Ho",
+"Bong Jun-ho"
+],
+"links": 66
+},
+{
+"name": "Jonathan Demme",
+"aliases": [
+"Robert Jonathan Demme"
+],
+"links": 66
+},
+{
+"name": "The Last Emperor",
+"aliases": [
+"L'ultimo imperatore",
+"Last Emperor",
+"Le dernier empereur"
+],
+"links": 66
+},
+{
+"name": "Chloé Zhao",
+"aliases": [
+"Zhao Ting"
+],
+"links": 64
+},
+{
+"name": "David Lean",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Joseph L. Mankiewicz",
+"aliases": [
+"Joseph Leo Mankiewicz",
+"Joseph Mankiewicz"
+],
+"links": 64
+},
+{
+"name": "Kramer vs. Kramer",
+"aliases": [],
+"links": 63
+},
+{
+"name": "On the Waterfront",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Sam Mendes",
+"aliases": [
+"Sir Samuel Alexander Mendes"
+],
+"links": 63
+},
+{
+"name": "All Quiet on the Western Front",
+"aliases": [
+"À l'Ouest, rien de nouveau"
+],
+"links": 62
+},
+{
+"name": "My Fair Lady",
+"aliases": [],
+"links": 62
+},
+{
+"name": "From Here to Eternity",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Mike Nichols",
+"aliases": [
+"Mikhail Igor Peschkowsky"
+],
+"links": 61
+},
+{
+"name": "Bob Fosse",
+"aliases": [
+"Robert Fosse",
+"Robert Louis Fosse"
+],
+"links": 60
+},
+{
+"name": "Michel Hazanavicius",
+"aliases": [
+"Michel Hazanavičius"
+],
+"links": 60
+},
+{
+"name": "It Happened One Night",
+"aliases": [
+"Night Bus"
+],
+"links": 59
+},
+{
+"name": "Midnight Cowboy",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Fred Zinnemann",
+"aliases": [
+"Alfred Zinnemann"
+],
+"links": 58
+},
+{
+"name": "Paul Thomas Anderson",
+"aliases": [
+"P. T. Anderson",
+"Paul Anderson",
+"PTA"
+],
+"links": 58
+},
+{
+"name": "Robert Wise",
+"aliases": [
+"Robert Earl Wise"
+],
+"links": 58
+},
+{
+"name": "The Apartment",
+"aliases": [
+"Apartment"
+],
+"links": 58
+},
+{
+"name": "The Graduate",
+"aliases": [],
+"links": 58
+},
+{
+"name": "How Green Was My Valley",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Jane Campion",
+"aliases": [
+"Dame Elizabeth Jane Campion",
+"Dame Jane Campion"
+],
+"links": 57
+},
+{
+"name": "The French Connection",
+"aliases": [
+"French Connection"
+],
+"links": 57
+},
+{
+"name": "West Side Story",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Anthony Minghella",
+"aliases": [
+"Anthony Mingella"
+],
+"links": 56
+},
+{
+"name": "Victor Fleming",
+"aliases": [
+"Victor Lonzo Fleming"
+],
+"links": 56
+},
+{
+"name": "Barry Levinson",
+"aliases": [
+"Barry Lee Levinson"
+],
+"links": 54
+},
+{
+"name": "Frank Lloyd",
+"aliases": [
+"Frank William George Lloyd"
+],
+"links": 54
+},
+{
+"name": "Tom Hooper",
+"aliases": [],
+"links": 54
+},
+{
+"name": "A Man for All Seasons",
+"aliases": [
+"Man for All Seasons"
+],
+"links": 53
+},
+{
+"name": "Damien Chazelle",
+"aliases": [
+"Damien Sayre Chazelle"
+],
+"links": 53
+},
+{
+"name": "Frank Borzage",
+"aliases": [
+"Lew Borzage"
+],
+"links": 53
+},
+{
+"name": "Michael Curtiz",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Roma",
+"aliases": [],
+"links": 53
+},
+{
+"name": "The Best Years of Our Lives",
+"aliases": [
+"Best Years of Our Lives"
+],
+"links": 53
+},
+{
+"name": "The Lost Weekend",
+"aliases": [
+"Lost Weekend"
+],
+"links": 53
+},
+{
+"name": "Vincente Minnelli",
+"aliases": [
+"Lester Anthony Minnelli",
+"Vincent Minnelli"
+],
+"links": 53
+},
+{
+"name": "Lewis Milestone",
+"aliases": [
+"Leib Milstein"
+],
+"links": 52
+},
+{
+"name": "Mrs. Miniver",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Going My Way",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Cabaret",
+"aliases": [],
+"links": 49
+},
+{
+"name": "George Stevens",
+"aliases": [
+"George C. Stevens",
+"George Cooper Stevens"
+],
+"links": 49
+},
+{
+"name": "James L. Brooks",
+"aliases": [
+"James Brooks",
+"James Lawrence Brooks"
+],
+"links": 49
+},
+{
+"name": "Marty",
+"aliases": [],
+"links": 49
+},
+{
+"name": "The Quiet Man",
+"aliases": [
+"Quiet Man"
+],
+"links": 49
+},
+{
+"name": "Cavalcade",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Jerome Robbins",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Leo McCarey",
+"aliases": [
+"Leo Mac Carey"
+],
+"links": 48
+},
+{
+"name": "Michael Cimino",
+"aliases": [],
+"links": 48
+},
+{
+"name": "The Grapes of Wrath",
+"aliases": [
+"Grapes of Wrath"
+],
+"links": 48
+},
+{
+"name": "Tony Richardson",
+"aliases": [
+"Cecil Antonio Richardson",
+"Cecil Richardson"
+],
+"links": 48
+},
+{
+"name": "William Friedkin",
+"aliases": [
+"Billy Friedkin",
+"William David Friedkin"
+],
+"links": 48
+},
+{
+"name": "You Can't Take It With You",
+"aliases": [],
+"links": 48
+},
+{
+"name": "A Place in the Sun",
+"aliases": [
+"Place in the Sun"
+],
+"links": 47
+},
+{
+"name": "Born on the Fourth of July",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Carol Reed",
+"aliases": [],
+"links": 47
+},
+{
+"name": "John Schlesinger",
+"aliases": [
+"John Richard Schlesinger"
+],
+"links": 47
+},
+{
+"name": "Tom Jones",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Gentleman's Agreement",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Gigi",
+"aliases": [],
+"links": 46
+},
+{
+"name": "The Treasure of the Sierra Madre",
+"aliases": [
+"Treasure of the Sierra Madre"
+],
+"links": 46
+},
+{
+"name": "George Roy Hill",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Giant",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Oliver!",
+"aliases": [],
+"links": 45
+},
+{
+"name": "John G. Avildsen",
+"aliases": [
+"Danny Mulroon",
+"John Avildsen"
+],
+"links": 44
+},
+{
+"name": "Robert Benton",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Norman Taurog",
+"aliases": [
+"Norman Rae Taurog"
+],
+"links": 43
+},
+{
+"name": "Sean Baker",
+"aliases": [
+"Sean S. Baker"
+],
+"links": 43
+},
+{
+"name": "Franklin J. Schaffner",
+"aliases": [
+"Franklin James Schaffner"
+],
+"links": 42
+},
+{
+"name": "Reds",
+"aliases": [
+"'' Reds ''"
+],
+"links": 41
+},
+{
+"name": "Mr. Deeds Goes to Town",
+"aliases": [],
+"links": 39
+},
+{
+"name": "The Awful Truth",
+"aliases": [
+"Awful Truth"
+],
+"links": 39
+},
+{
+"name": "Delbert Mann",
+"aliases": [
+"Delbert Martin Mann, Jr."
+],
+"links": 37
+},
+{
+"name": "The Informer",
+"aliases": [
+"Informer"
+],
+"links": 34
+},
+{
+"name": "A Letter to Three Wives",
+"aliases": [
+"Letter to Three Wives"
+],
+"links": 33
+},
+{
+"name": "Daniels",
+"aliases": [
+"The Daniels"
+],
+"links": 30
+},
+{
+"name": "The Divine Lady",
+"aliases": [
+"Divine Lady"
+],
+"links": 30
+},
+{
+"name": "Skippy",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Bad Girl",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Ethan Coen",
+"aliases": [
+"Ethan J. Coen",
+"Ethan Jesse Coen"
+],
+"links": 15
+},
+{
+"name": "Joel Coen",
+"aliases": [
+"Joel Cohen",
+"Joel D. Coen",
+"Joel Daniel Coen"
+],
+"links": 15
+},
+{
+"name": "Dan Kwan",
+"aliases": [
+"Daniel Kwan"
+],
+"links": 12
+},
+{
+"name": "Daniel Scheinert",
+"aliases": [],
+"links": 10
+}
+]
+},
+{
+"id": "best-picture-winners",
+"title": "Best Picture winners",
+"prompt": "Name films that won the Academy Award for Best Picture",
+"answers": [
+{
+"name": "Steven Spielberg",
+"aliases": [
+"Spielberg",
+"Steven Allan Spielberg"
+],
+"links": 171
+},
+{
+"name": "Brad Pitt",
+"aliases": [],
+"links": 148
+},
+{
+"name": "Clint Eastwood",
+"aliases": [
+"Clinton Eastwood",
+"Clinton Eastwood Jr.",
+"Clinton Eastwood, Jr."
+],
+"links": 137
+},
+{
+"name": "George Clooney",
+"aliases": [
+"George Timothy Clooney"
+],
+"links": 128
+},
+{
+"name": "James Cameron",
+"aliases": [],
+"links": 120
+},
+{
+"name": "Mel Gibson",
+"aliases": [],
+"links": 119
+},
+{
+"name": "Kevin Costner",
+"aliases": [],
+"links": 110
+},
+{
+"name": "Casablanca",
+"aliases": [],
+"links": 107
+},
+{
+"name": "Francis Ford Coppola",
+"aliases": [
+"Francis Coppola"
+],
+"links": 103
+},
+{
+"name": "The Silence of the Lambs",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Schindler's List",
+"aliases": [],
+"links": 102
+},
+{
+"name": "Peter Jackson",
+"aliases": [
+"Sir Peter Jackson"
+],
+"links": 101
+},
+{
+"name": "Michael Douglas",
+"aliases": [
+"Michael Kirk Douglas"
+],
+"links": 99
+},
+{
+"name": "Frances McDormand",
+"aliases": [
+"Cynthia Ann Smith"
+],
+"links": 83
+},
+{
+"name": "Billy Wilder",
+"aliases": [
+"Samuel Wilder"
+],
+"links": 82
+},
+{
+"name": "Parasite",
+"aliases": [
+"Gisaengchung"
+],
+"links": 81
+},
+{
+"name": "Sydney Pollack",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Richard Attenborough",
+"aliases": [
+"Baron Attenborough",
+"Dickie Attenborough",
+"Richard Samuel Attenborough",
+"Richard Samuel Attenborough, Baron Attenborough",
+"The Lord Attenborough"
+],
+"links": 79
+},
+{
+"name": "Lawrence of Arabia",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Guillermo del Toro",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Alejandro González Iñárritu",
+"aliases": [
+"Alejandro G. Iñárritu",
+"Iñárritu"
+],
+"links": 73
+},
+{
+"name": "Kathryn Bigelow",
+"aliases": [
+"Kathryn Ann Bigelow"
+],
+"links": 73
+},
+{
+"name": "The Bridge on the River Kwai",
+"aliases": [
+"Bridge on the River Kwai"
+],
+"links": 72
+},
+{
+"name": "The Sound of Music",
+"aliases": [
+"Sound of Music"
+],
+"links": 71
+},
+{
+"name": "Ron Howard",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Cecil B. DeMille",
+"aliases": [
+"Cecil B DeMille",
+"Cecil B. de Mille",
+"Cecil B. De Mille",
+"Cecil Blount DeMille",
+"Cecil De Mille"
+],
+"links": 69
+},
+{
+"name": "All About Eve",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Bong Joon-ho",
+"aliases": [
+"Bong Joon Ho",
+"Bong Jun-ho"
+],
+"links": 66
+},
+{
+"name": "The Last Emperor",
+"aliases": [
+"L'ultimo imperatore",
+"Last Emperor",
+"Le dernier empereur"
+],
+"links": 66
+},
+{
+"name": "Chloé Zhao",
+"aliases": [
+"Zhao Ting"
+],
+"links": 64
+},
+{
+"name": "Kramer vs. Kramer",
+"aliases": [],
+"links": 63
+},
+{
+"name": "On the Waterfront",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Rebecca",
+"aliases": [],
+"links": 63
+},
+{
+"name": "All Quiet on the Western Front",
+"aliases": [
+"À l'Ouest, rien de nouveau"
+],
+"links": 62
+},
+{
+"name": "My Fair Lady",
+"aliases": [],
+"links": 62
+},
+{
+"name": "From Here to Eternity",
+"aliases": [],
+"links": 61
+},
+{
+"name": "An American in Paris",
+"aliases": [
+"American in Paris"
+],
+"links": 60
+},
+{
+"name": "Everything Everywhere All at Once",
+"aliases": [],
+"links": 60
+},
+{
+"name": "It Happened One Night",
+"aliases": [
+"Night Bus"
+],
+"links": 59
+},
+{
+"name": "Midnight Cowboy",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Harvey Weinstein",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Robert Wise",
+"aliases": [
+"Robert Earl Wise"
+],
+"links": 58
+},
+{
+"name": "The Apartment",
+"aliases": [
+"Apartment"
+],
+"links": 58
+},
+{
+"name": "How Green Was My Valley",
+"aliases": [],
+"links": 57
+},
+{
+"name": "The French Connection",
+"aliases": [
+"French Connection"
+],
+"links": 57
+},
+{
+"name": "West Side Story",
+"aliases": [],
+"links": 57
+},
+{
+"name": "In the Heat of the Night",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Wings",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Mutiny on the Bounty",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Grand Hotel",
+"aliases": [],
+"links": 54
+},
+{
+"name": "The Broadway Melody",
+"aliases": [
+"Broadway Melody"
+],
+"links": 54
+},
+{
+"name": "A Man for All Seasons",
+"aliases": [
+"Man for All Seasons"
+],
+"links": 53
+},
+{
+"name": "The Best Years of Our Lives",
+"aliases": [
+"Best Years of Our Lives"
+],
+"links": 53
+},
+{
+"name": "The Lost Weekend",
+"aliases": [
+"Lost Weekend"
+],
+"links": 53
+},
+{
+"name": "Mrs. Miniver",
+"aliases": [],
+"links": 52
+},
+{
+"name": "All the King's Men",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Around the World in 80 Days",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Cimarron",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Going My Way",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Steve McQueen",
+"aliases": [
+"Sir Steve Rodney McQueen"
+],
+"links": 50
+},
+{
+"name": "The Great Ziegfeld",
+"aliases": [
+"Great Ziegfeld"
+],
+"links": 50
+},
+{
+"name": "The Greatest Show on Earth",
+"aliases": [
+"Greatest Show on Earth"
+],
+"links": 50
+},
+{
+"name": "James L. Brooks",
+"aliases": [
+"James Brooks",
+"James Lawrence Brooks"
+],
+"links": 49
+},
+{
+"name": "Marty",
+"aliases": [],
+"links": 49
+},
+{
+"name": "The Life of Emile Zola",
+"aliases": [
+"Life of Emile Zola"
+],
+"links": 49
+},
+{
+"name": "Cavalcade",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Michael Cimino",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Tony Richardson",
+"aliases": [
+"Cecil Antonio Richardson",
+"Cecil Richardson"
+],
+"links": 48
+},
+{
+"name": "You Can't Take It With You",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Tom Jones",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Gentleman's Agreement",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Gigi",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Hamlet",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Oliver!",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Sean Baker",
+"aliases": [
+"Sean S. Baker"
+],
+"links": 43
+},
+{
+"name": "Emma Thomas",
+"aliases": [
+"Dame Emma Thomas",
+"Dame Emma Thomas Nolan",
+"Dame Emma Thomas, Lady Nolan",
+"Emma Thomas Nolan",
+"Lady Nolan"
+],
+"links": 42
+},
+{
+"name": "Edward Zwick",
+"aliases": [
+"Edward M. Zwick"
+],
+"links": 41
+},
+{
+"name": "Jon Landau",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Paul Haggis",
+"aliases": [
+"Paul Edward Haggis"
+],
+"links": 36
+},
+{
+"name": "Jack Warner",
+"aliases": [
+"J. L. Warner",
+"Jack L. Warner",
+"Jack Leonard Warner",
+"Jacob Warner"
+],
+"links": 34
+},
+{
+"name": "Scott Rudin",
+"aliases": [
+"Scott Rudin Productions"
+],
+"links": 33
+},
+{
+"name": "Branko Lustig",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Fran Walsh",
+"aliases": [
+"Dame Fran Walsh",
+"Dame Frances Rosemary Walsh",
+"Dame Frances Walsh",
+"Frances Rosemary Walsh"
+],
+"links": 31
+},
+{
+"name": "Peter Farrelly",
+"aliases": [
+"Peter John Farrelly"
+],
+"links": 31
+},
+{
+"name": "Daniels",
+"aliases": [
+"The Daniels"
+],
+"links": 30
+},
+{
+"name": "Grant Heslov",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Saul Zaentz",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Mark Boal",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Brian Grazer",
+"aliases": [
+"El Grazer"
+],
+"links": 27
+},
+{
+"name": "Charles Roven",
+"aliases": [
+"Chuck Roven"
+],
+"links": 25
+},
+{
+"name": "Arthur Freed",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Richard D. Zanuck",
+"aliases": [
+"Richard Darryl Zanuck",
+"Richard Zanuck"
+],
+"links": 24
+},
+{
+"name": "Dede Gardner",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Mike Todd",
+"aliases": [
+"Avrom Hirsch Goldbogen",
+"Michael Todd"
+],
+"links": 22
+},
+{
+"name": "Julia Phillips",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Thomas Langmann",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Barrie M. Osborne",
+"aliases": [
+"Barrie Mitchell Osborne"
+],
+"links": 20
+},
+{
+"name": "Gerald R. Molen",
+"aliases": [
+"Gerald Robert Molen",
+"Jerry Molen"
+],
+"links": 20
+},
+{
+"name": "Irwin Winkler",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tony Bill",
+"aliases": [
+"Gerard Anthony Bill"
+],
+"links": 20
+},
+{
+"name": "Sam Spiegel",
+"aliases": [
+"Samuel P. Spiegel"
+],
+"links": 19
+},
+{
+"name": "Walter Mirisch",
+"aliases": [
+"Walter Mortimer Mirisch"
+],
+"links": 19
+},
+{
+"name": "Arnold Kopelson",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Bruce Cohen",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Christian Colson",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Jeremy Kleiner",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Albert S. Ruddy",
+"aliases": [
+"Albert Stotland Ruddy"
+],
+"links": 17
+},
+{
+"name": "Buddy Adler",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Graham King",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jeremy Thomas",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sam Zimbalist",
+"aliases": [],
+"links": 17
+},
+{
+"name": "David Puttnam",
+"aliases": [
+"David Terence Puttnam, Baron Puttnam",
+"Lord Puttnam"
+],
+"links": 16
+},
+{
+"name": "Donna Gigliotti",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Robert Chartoff",
+"aliases": [
+"Robert Irwin Chartoff"
+],
+"links": 16
+},
+{
+"name": "Adele Romanski",
+"aliases": [],
+"links": 15
+},
+{
+"name": "David Franzoni",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ethan Coen",
+"aliases": [
+"Ethan J. Coen",
+"Ethan Jesse Coen"
+],
+"links": 15
+},
+{
+"name": "Iain Canning",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Joel Coen",
+"aliases": [
+"Joel Cohen",
+"Joel D. Coen",
+"Joel Daniel Coen"
+],
+"links": 15
+},
+{
+"name": "Marc Norman",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Steve Golin",
+"aliases": [
+"Steven Aaron Golin"
+],
+"links": 15
+},
+{
+"name": "Mark Johnson",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Douglas Wick",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Emile Sherman",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Steve Tisch",
+"aliases": [
+"Steven Elliot Tisch"
+],
+"links": 13
+},
+{
+"name": "Anthony Katagas",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Charles H. Joffe",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dan Kwan",
+"aliases": [
+"Daniel Kwan"
+],
+"links": 12
+},
+{
+"name": "Jerome Hellman",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Nick Vallelonga",
+"aliases": [
+"Nicholas Vallelonga"
+],
+"links": 12
+},
+{
+"name": "Peter Spears",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Stanley R. Jaffe",
+"aliases": [
+"Stanley Richard Jaffe"
+],
+"links": 12
+},
+{
+"name": "Wendy Finerman",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Alan Ladd Jr.",
+"aliases": [
+"Alan Ladd, Jr."
+],
+"links": 11
+},
+{
+"name": "Michael Deeley",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Daniel Scheinert",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Fred Roos",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Michael Sugar",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Nicolas Chartier",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tom Rosenberg",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Blye Pagon Faust",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gareth Unwin",
+"aliases": [
+"Gareth Ellis-Unwin"
+],
+"links": 9
+},
+{
+"name": "Harold Hecht",
+"aliases": [
+"Harold Adolph Hecht",
+"Harold Adolphe Hecht"
+],
+"links": 9
+},
+{
+"name": "Jim Burke",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Kenneth Utt",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Martin Richards",
+"aliases": [
+"Marty Richards"
+],
+"links": 9
+},
+{
+"name": "Philip D'Antoni",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Steve Starkey",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Barry Spikings",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bruce Davey",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Dan Jinks",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Edward Saxon",
+"aliases": [
+"Edward Bradley Saxon"
+],
+"links": 8
+},
+{
+"name": "Gray Frederickson",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Jim Wilson",
+"aliases": [],
+"links": 8
+},
+{
+"name": "John Lesher",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kwak Sin-ae",
+"aliases": [
+"Kwak Sin Ae"
+],
+"links": 8
+},
+{
+"name": "Lili Fini Zanuck",
+"aliases": [
+"Lili Fini",
+"Lili Zanuck"
+],
+"links": 8
+},
+{
+"name": "Michael Phillips",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Charles B. Wessler",
+"aliases": [],
+"links": 7
+},
+{
+"name": "David Parfitt",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Greg Shapiro",
+"aliases": [
+"Gregory Brian Shapiro"
+],
+"links": 7
+},
+{
+"name": "James W. Skotchdopole",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Jonathan Wang",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Nicole Rocklin",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ronald L. Schwary",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Brian Currie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Frank McCarthy",
+"aliases": [],
+"links": 6
+},
+{
+"name": "John Peverall",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cathy Schulman",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mollye Asher",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ron Bozman",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dan Janvey",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Patrick Wachsberger",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fabrice Gianfermi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "John Woolf",
+"aliases": [],
+"links": 1
+}
+]
+},
+{
+"id": "palme-d-or-winners",
+"title": "Palme d'Or winners",
+"prompt": "Name films that won the Palme d'Or",
+"answers": [
+{
+"name": "Akira Kurosawa",
+"aliases": [
+"Kurosawa",
+"Kurosawa Akira"
+],
+"links": 177
+},
+{
+"name": "Federico Fellini",
+"aliases": [
+"Federico",
+"Fellas",
+"Frederico Fellini"
+],
+"links": 163
+},
+{
+"name": "Quentin Tarantino",
+"aliases": [],
+"links": 124
+},
+{
+"name": "Cher",
+"aliases": [
+"Bonnie Jo Mason",
+"Cher Allman",
+"Cher Bono",
+"Cherilyn Sarkisian",
+"Cherilyn Sarkisian LaPiere",
+"Cheryl Sarkisian",
+"Chér"
+],
+"links": 120
+},
+{
+"name": "Martin Scorsese",
+"aliases": [],
+"links": 114
+},
+{
+"name": "Orson Welles",
+"aliases": [
+"George Welles"
+],
+"links": 114
+},
+{
+"name": "David Lynch",
+"aliases": [
+"Judas Booth"
+],
+"links": 106
+},
+{
+"name": "Francis Ford Coppola",
+"aliases": [
+"Francis Coppola"
+],
+"links": 103
+},
+{
+"name": "Jean-Luc Godard",
+"aliases": [
+"Jean Luc Godard"
+],
+"links": 99
+},
+{
+"name": "Luis Buñuel",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Lars von Trier",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Vittorio De Sica",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Billy Wilder",
+"aliases": [
+"Samuel Wilder"
+],
+"links": 82
+},
+{
+"name": "Emir Kusturica",
+"aliases": [
+"Emir Nemanja Kusturica",
+"Nemanja Kusturica"
+],
+"links": 82
+},
+{
+"name": "Michelangelo Antonioni",
+"aliases": [],
+"links": 81
+},
+{
+"name": "Parasite",
+"aliases": [
+"Gisaengchung"
+],
+"links": 81
+},
+{
+"name": "Andrzej Wajda",
+"aliases": [
+"Andrzej Witold Wajda"
+],
+"links": 80
+},
+{
+"name": "Steven Soderbergh",
+"aliases": [
+"Mary Ann Bernard",
+"Peter Andrews",
+"Steven Andrew Soderbergh"
+],
+"links": 80
+},
+{
+"name": "Wim Wenders",
+"aliases": [
+"Ernst Wilhelm Wenders",
+"Vimu Vendasu",
+"Vimu Vendâsu"
+],
+"links": 80
+},
+{
+"name": "The Pianist",
+"aliases": [
+"Le Pianiste",
+"Pianist"
+],
+"links": 78
+},
+{
+"name": "Michael Moore",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Abbas Kiarostami",
+"aliases": [],
+"links": 73
+},
+{
+"name": "Luchino Visconti",
+"aliases": [
+"Luchino Visconti, conte di Modorone"
+],
+"links": 73
+},
+{
+"name": "William Wyler",
+"aliases": [
+"Willi Wyler"
+],
+"links": 72
+},
+{
+"name": "Roberto Rossellini",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Bong Joon-ho",
+"aliases": [
+"Bong Joon Ho",
+"Bong Jun-ho"
+],
+"links": 66
+},
+{
+"name": "Jafar Panahi",
+"aliases": [
+"Ja'far Panahi"
+],
+"links": 63
+},
+{
+"name": "La Dolce Vita",
+"aliases": [
+"Dolce Vita"
+],
+"links": 62
+},
+{
+"name": "Gus Van Sant",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Terrence Malick",
+"aliases": [
+"David Whitney",
+"Terrence Frederick Malick",
+"Terrence Terry Malick",
+"Terry Malick"
+],
+"links": 59
+},
+{
+"name": "Claude Lelouch",
+"aliases": [
+"Claude Barruck Joseph Lelouch"
+],
+"links": 57
+},
+{
+"name": "Jane Campion",
+"aliases": [
+"Dame Elizabeth Jane Campion",
+"Dame Jane Campion"
+],
+"links": 57
+},
+{
+"name": "Ken Loach",
+"aliases": [
+"Kenneth Charles Loach",
+"Kenneth Loach"
+],
+"links": 56
+},
+{
+"name": "Louis Malle",
+"aliases": [
+"Louis Marie Malle"
+],
+"links": 54
+},
+{
+"name": "The Mission",
+"aliases": [
+"Mission"
+],
+"links": 53
+},
+{
+"name": "The Piano",
+"aliases": [
+"Piano"
+],
+"links": 53
+},
+{
+"name": "Thodoros Angelopoulos",
+"aliases": [
+"Theodoros Aggelopoulos",
+"Theodoros Angelopoulos"
+],
+"links": 53
+},
+{
+"name": "Amour",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Costa-Gavras",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Blue Is the Warmest Colour",
+"aliases": [
+"Blue is the Warmest Color",
+"La Vie d'Adèle",
+"La Vie d'Adèle – Chapitres 1 et 2",
+"Vie d'Adèle"
+],
+"links": 51
+},
+{
+"name": "The Leopard",
+"aliases": [
+"Le Guepard",
+"Le Guépard",
+"Leopard"
+],
+"links": 50
+},
+{
+"name": "Dancer in the Dark",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Francesco Rosi",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Jacques Demy",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Marty",
+"aliases": [],
+"links": 49
+},
+{
+"name": "The Conversation",
+"aliases": [
+"Conversation"
+],
+"links": 49
+},
+{
+"name": "A Man and a Woman",
+"aliases": [
+"Man and a Woman",
+"Un homme et une femme"
+],
+"links": 47
+},
+{
+"name": "Cristian Mungiu",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Henri-Georges Clouzot",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Blowup",
+"aliases": [
+"Blow-Up"
+],
+"links": 46
+},
+{
+"name": "MASH",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Nuri Bilge Ceylan",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Anatomy of a Fall",
+"aliases": [
+"Anatomie d'une chute"
+],
+"links": 45
+},
+{
+"name": "4 Months, 3 Weeks and 2 Days",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Abdellatif Kechiche",
+"aliases": [
+"Abdel Kechiche",
+"Abdelatif Kechiche"
+],
+"links": 44
+},
+{
+"name": "Black Orpheus",
+"aliases": [
+"Orphee Noire",
+"Orphée Noire"
+],
+"links": 44
+},
+{
+"name": "Hirokazu Kore-eda",
+"aliases": [
+"Kore-Eda",
+"Koreeda"
+],
+"links": 44
+},
+{
+"name": "The Wages of Fear",
+"aliases": [
+"Le Salaire de la peur",
+"Wages of Fear"
+],
+"links": 44
+},
+{
+"name": "The White Ribbon",
+"aliases": [
+"White Ribbon"
+],
+"links": 44
+},
+{
+"name": "Wild at Heart",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Paris, Texas",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Ruben Östlund",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Sean Baker",
+"aliases": [
+"Sean S. Baker"
+],
+"links": 43
+},
+{
+"name": "The Umbrellas of Cherbourg",
+"aliases": [
+"Les Parapluies de Cherbourg",
+"Umbrellas of Cherbourg"
+],
+"links": 43
+},
+{
+"name": "Underground",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Winter Sleep",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Volker Schlöndorff",
+"aliases": [],
+"links": 42
+},
+{
+"name": "All That Jazz",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Taste of Cherry",
+"aliases": [
+"Tame gilas"
+],
+"links": 41
+},
+{
+"name": "The Cranes Are Flying",
+"aliases": [
+"Cranes Are Flying"
+],
+"links": 41
+},
+{
+"name": "The Square",
+"aliases": [
+"Square"
+],
+"links": 41
+},
+{
+"name": "Chen Kaige",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Shohei Imamura",
+"aliases": [
+"Imamura Shohei",
+"Shôhei Imamura"
+],
+"links": 40
+},
+{
+"name": "The Tin Drum",
+"aliases": [
+"Tin Drum"
+],
+"links": 40
+},
+{
+"name": "Viridiana",
+"aliases": [],
+"links": 40
+},
+{
+"name": "When Father Was Away on Business",
+"aliases": [
+"Otac na službenom putu"
+],
+"links": 40
+},
+{
+"name": "Yılmaz Güney",
+"aliases": [],
+"links": 40
+},
+{
+"name": "I, Daniel Blake",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Kagemusha",
+"aliases": [
+"Shadow Warrior"
+],
+"links": 39
+},
+{
+"name": "Lindsay Anderson",
+"aliases": [
+"Lindsay Gordon Anderson"
+],
+"links": 39
+},
+{
+"name": "Pietro Germi",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Sex, Lies, and Videotape",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Shoplifters",
+"aliases": [
+"Manbiki Kazoku",
+"Shoplifting Family"
+],
+"links": 39
+},
+{
+"name": "Dheepan",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Ermanno Olmi",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Mikhail Kalatozov",
+"aliases": [
+"Mikhail Konstantinovich Kalatozov",
+"Mikheil Kalatozishvili"
+],
+"links": 38
+},
+{
+"name": "Padre Padrone",
+"aliases": [
+"Father and master"
+],
+"links": 38
+},
+{
+"name": "Paolo and Vittorio Taviani",
+"aliases": [
+"fratelli Taviani"
+],
+"links": 38
+},
+{
+"name": "The Wind That Shakes the Barley",
+"aliases": [
+"Wind That Shakes the Barley"
+],
+"links": 38
+},
+{
+"name": "Farewell My Concubine",
+"aliases": [],
+"links": 36
+},
+{
+"name": "It Was Just an Accident",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Joseph Losey",
+"aliases": [
+"Joseph Walton Losey",
+"Joseph Walton Losey III"
+],
+"links": 36
+},
+{
+"name": "Maurice Pialat",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Missing",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Titane",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Bille August",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Julia Ducournau",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Man of Iron",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Pelle the Conqueror",
+"aliases": [
+"Pelle Erobreren",
+"Pelle erövraren"
+],
+"links": 35
+},
+{
+"name": "The Class",
+"aliases": [
+"Class",
+"Entre les murs"
+],
+"links": 35
+},
+{
+"name": "The Tree of Wooden Clogs",
+"aliases": [
+"L'albero degli zoccoli",
+"Tree of Wooden Clogs"
+],
+"links": 35
+},
+{
+"name": "Dardenne brothers",
+"aliases": [
+"Jean-Pierre and Luc Dardenne",
+"Luc and Jean-Pierre Dardenne"
+],
+"links": 34
+},
+{
+"name": "Laurent Cantet",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Richard Lester",
+"aliases": [
+"Richard Lester Liebman"
+],
+"links": 34
+},
+{
+"name": "Elio Petri",
+"aliases": [
+"Eraclio Petri"
+],
+"links": 33
+},
+{
+"name": "Scarecrow",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Secrets & Lies",
+"aliases": [
+"Secrets and Lies"
+],
+"links": 33
+},
+{
+"name": "Yol",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Eternity and a Day",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Friendly Persuasion",
+"aliases": [],
+"links": 30
+},
+{
+"name": "If....",
+"aliases": [
+"If..."
+],
+"links": 30
+},
+{
+"name": "Uncle Boonmee Who Can Recall His Past Lives",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Alf Sjöberg",
+"aliases": [
+"Sven Erik Alf Sjöberg"
+],
+"links": 28
+},
+{
+"name": "Fjord",
+"aliases": [],
+"links": 28
+},
+{
+"name": "The Son's Room",
+"aliases": [
+"La stanza del figlio",
+"Son's Room"
+],
+"links": 28
+},
+{
+"name": "Chronicle of the Years of Fire",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Renato Castellani",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Rosetta",
+"aliases": [],
+"links": 27
+},
+{
+"name": "The Ballad of Narayama",
+"aliases": [
+"Ballad of Narayama"
+],
+"links": 27
+},
+{
+"name": "The Child",
+"aliases": [
+"Child",
+"L'Enfant",
+"L’Enfant"
+],
+"links": 27
+},
+{
+"name": "The Go-Between",
+"aliases": [
+"Go-Between"
+],
+"links": 26
+},
+{
+"name": "The Eel",
+"aliases": [
+"Eel",
+"The Eal"
+],
+"links": 25
+},
+{
+"name": "Under the Sun of Satan",
+"aliases": [
+"Sous le soleil de Satan",
+"Under Satan's Sun"
+],
+"links": 25
+},
+{
+"name": "Şerif Gören",
+"aliases": [],
+"links": 25
+},
+{
+"name": "O Pagador de Promessas",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Othello",
+"aliases": [],
+"links": 24
+},
+{
+"name": "The Silent World",
+"aliases": [
+"Le Monde du silence",
+"Silent World"
+],
+"links": 24
+},
+{
+"name": "The Working Class Goes to Heaven",
+"aliases": [
+"Working Class Goes to Heaven"
+],
+"links": 24
+},
+{
+"name": "The Birds, the Bees and the Italians",
+"aliases": [
+"Birds, the Bees and the Italians",
+"Signore & signori",
+"Signore & Signori,"
+],
+"links": 23
+},
+{
+"name": "Henri Colpi",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Miss Julie",
+"aliases": [],
+"links": 22
+},
+{
+"name": "The Long Absence",
+"aliases": [
+"Long Absence",
+"Une aussi longue absence"
+],
+"links": 22
+},
+{
+"name": "The Mattei Affair",
+"aliases": [
+"Il Caso Mattei",
+"Il caso Mattei",
+"Mattei Affair"
+],
+"links": 22
+},
+{
+"name": "Chetan Anand",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Two Cents Worth of Hope",
+"aliases": [
+"Due soldi di speranza"
+],
+"links": 21
+},
+{
+"name": "Leopold Lindtberg",
+"aliases": [
+"Leopold Lamberger",
+"Leopold Lemberger",
+"Leopold Lintberg"
+],
+"links": 20
+},
+{
+"name": "The Best Intentions",
+"aliases": [
+"Best Intentions"
+],
+"links": 20
+},
+{
+"name": "François Bégaudeau",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Neecha Nagar",
+"aliases": [],
+"links": 17
+},
+{
+"name": "The Hireling",
+"aliases": [
+"Hireling"
+],
+"links": 16
+},
+{
+"name": "Ethan Coen",
+"aliases": [
+"Ethan J. Coen",
+"Ethan Jesse Coen"
+],
+"links": 15
+},
+{
+"name": "Joel Coen",
+"aliases": [
+"Joel Cohen",
+"Joel D. Coen",
+"Joel Daniel Coen"
+],
+"links": 15
+},
+{
+"name": "Nasser Taghvai",
+"aliases": [
+"Naser Taghvai",
+"Nāṣir Taqwāyī"
+],
+"links": 14
+},
+{
+"name": "Harold Hecht",
+"aliases": [
+"Harold Adolph Hecht",
+"Harold Adolphe Hecht"
+],
+"links": 9
+},
+{
+"name": "Dmitry Lesnevsky",
+"aliases": [
+"Dmitry Anatolyevich Lesnevskiy",
+"Dmitry Anatolyevich Lesnevsky"
+],
+"links": 4
+},
+{
+"name": "Lucília Simões",
+"aliases": [],
+"links": 3
+}
+]
+},
+{
+"id": "pulitzer-prize-for-fiction-winners",
+"title": "Pulitzer Prize for Fiction winners",
+"prompt": "Name winners of the Pulitzer Prize for Fiction",
+"answers": [
+{
+"name": "Ernest Hemingway",
+"aliases": [
+"E. Hemingway",
+"E. Hemmingway",
+"Ernest M. Hemingway",
+"Ernest Miller Hemmingway",
+"Papa"
+],
+"links": 210
+},
+{
+"name": "William Faulkner",
+"aliases": [],
+"links": 149
+},
+{
+"name": "Toni Morrison",
+"aliases": [
+"Chloe Anthony Wofford",
+"Chloe Anthony Wofford Morrison",
+"Chloe Anthony Wofford-Morrison",
+"Chloe Ardelia Wofford"
+],
+"links": 135
+},
+{
+"name": "Saul Bellow",
+"aliases": [],
+"links": 121
+},
+{
+"name": "Harper Lee",
+"aliases": [
+"Nelle Harper Lee"
+],
+"links": 109
+},
+{
+"name": "Alice Walker",
+"aliases": [
+"Alice Malsenior Tallulah-Kate Walker",
+"Alice Malsenior Walker",
+"Alice Walker Leventhal"
+],
+"links": 96
+},
+{
+"name": "John Updike",
+"aliases": [
+"John Hoyer Updike"
+],
+"links": 92
+},
+{
+"name": "Philip Roth",
+"aliases": [
+"Philip Milton Roth"
+],
+"links": 92
+},
+{
+"name": "The Old Man and the Sea",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Norman Mailer",
+"aliases": [
+"Andreas Wilson",
+"Norman Kingsley Mailer"
+],
+"links": 87
+},
+{
+"name": "Cormac McCarthy",
+"aliases": [
+"Charles Joseph McCarthy",
+"Charles McCarthy"
+],
+"links": 73
+},
+{
+"name": "Jhumpa Lahiri",
+"aliases": [
+"Jhumba Lahiri",
+"Jūmpā Lāhīrī",
+"Nilanjana Sudeshna Lahiri",
+"Nilanjana Svadeshna Lahiri"
+],
+"links": 72
+},
+{
+"name": "To Kill a Mockingbird",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Donna Tartt",
+"aliases": [
+"Donna Louise Tartt"
+],
+"links": 61
+},
+{
+"name": "Annie Proulx",
+"aliases": [
+"E. Annie Proulx",
+"E.A. Proulx",
+"Edna Ann Proulx",
+"Edna Annie Proulx"
+],
+"links": 52
+},
+{
+"name": "William Styron",
+"aliases": [
+"William Clark Styron, Jr."
+],
+"links": 52
+},
+{
+"name": "James A. Michener",
+"aliases": [
+"James Albert Michener",
+"James Michener"
+],
+"links": 50
+},
+{
+"name": "Katherine Anne Porter",
+"aliases": [
+"Callie Russell Porter"
+],
+"links": 49
+},
+{
+"name": "Anne Tyler",
+"aliases": [],
+"links": 48
+},
+{
+"name": "James Agee",
+"aliases": [
+"Rufus Agee"
+],
+"links": 48
+},
+{
+"name": "Michael Chabon",
+"aliases": [
+"August Van Zorn",
+"Leon Chaim Bach",
+"Malachi B. Cohen"
+],
+"links": 48
+},
+{
+"name": "Barbara Kingsolver",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Eudora Welty",
+"aliases": [
+"Eudora Alice Welty"
+],
+"links": 47
+},
+{
+"name": "John Cheever",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Bernard Malamud",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Herman Wouk",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Marilynne Robinson",
+"aliases": [
+"Marilynne S. Robinson",
+"Marilynne Summers Robinson"
+],
+"links": 46
+},
+{
+"name": "Michael Cunningham",
+"aliases": [],
+"links": 46
+},
+{
+"name": "John Kennedy Toole",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Junot Díaz",
+"aliases": [
+"Junot Diaz"
+],
+"links": 41
+},
+{
+"name": "Colson Whitehead",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Elizabeth Strout",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Louise Erdrich",
+"aliases": [],
+"links": 40
+},
+{
+"name": "The Road",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Jeffrey Kent Eugenides",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Anthony Doerr",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Jennifer Egan",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Richard Ford",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Geraldine Brooks",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Richard Powers",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Larry McMurtry",
+"aliases": [
+"Larry Jeff McMurtry"
+],
+"links": 32
+},
+{
+"name": "Wallace Stegner",
+"aliases": [
+"Wallace E. Stegner",
+"Wallace Earle Stegner"
+],
+"links": 32
+},
+{
+"name": "Carol Shields",
+"aliases": [
+"Carol Ann Shields",
+"Carol Ann Warner",
+"Carol Warner"
+],
+"links": 31
+},
+{
+"name": "N. Scott Momaday",
+"aliases": [
+"Navarre Scott Mammedaty",
+"Navarre Scott Momaday",
+"Rock Tree Boy",
+"Tsoai-talee"
+],
+"links": 29
+},
+{
+"name": "Beloved",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Oscar Hijuelos",
+"aliases": [
+"Oscar Jerome Hijuelos"
+],
+"links": 26
+},
+{
+"name": "The Color Purple",
+"aliases": [
+"Color Purple"
+],
+"links": 25
+},
+{
+"name": "The Goldfinch",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Adam Johnson",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Andrew Sean Greer",
+"aliases": [
+"Andrew Greer"
+],
+"links": 22
+},
+{
+"name": "Shirley Ann Grau",
+"aliases": [],
+"links": 22
+},
+{
+"name": "William Kennedy",
+"aliases": [
+"William J. Kennedy",
+"William Joseph Kennedy"
+],
+"links": 22
+},
+{
+"name": "A Confederacy of Dunces",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Edward P. Jones",
+"aliases": [
+"Edward Paul Jones"
+],
+"links": 21
+},
+{
+"name": "Jean Stafford",
+"aliases": [],
+"links": 21
+},
+{
+"name": "MacKinlay Kantor",
+"aliases": [
+"Benjamin McKinlay Kantor"
+],
+"links": 21
+},
+{
+"name": "All the Light We Cannot See",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Percival Everett",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Middlesex",
+"aliases": [],
+"links": 19
+},
+{
+"name": "American Pastoral",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Edwin O'Connor",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Steven Millhauser",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Allen Drury",
+"aliases": [],
+"links": 17
+},
+{
+"name": "The Hours",
+"aliases": [],
+"links": 17
+},
+{
+"name": "James Alan McPherson",
+"aliases": [
+"James A. McPherson",
+"James McPherson"
+],
+"links": 15
+},
+{
+"name": "The Sympathizer",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Joshua Cohen",
+"aliases": [
+"Joshua Aaron Cohen"
+],
+"links": 14
+},
+{
+"name": "Robert Lewis Taylor",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Peter Matthew Hillsman Taylor",
+"aliases": [
+"Peter Hillsman Taylor",
+"Peter M. H. Taylor",
+"Peter Taylor"
+],
+"links": 13
+},
+{
+"name": "The Underground Railroad",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Hernán Díaz",
+"aliases": [
+"Hernan Diaz"
+],
+"links": 11
+},
+{
+"name": "The Amazing Adventures of Kavalier & Clay",
+"aliases": [],
+"links": 11
+},
+{
+"name": "The Brief Wondrous Life of Oscar Wao",
+"aliases": [],
+"links": 11
+},
+{
+"name": "The Fixer",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Interpreter of Maladies",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Jayne Anne Phillips",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Lonesome Dove",
+"aliases": [],
+"links": 10
+},
+{
+"name": "A Fable",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Daniel Kraus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Demon Copperhead",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gilead",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Olive Kitteridge",
+"aliases": [],
+"links": 9
+},
+{
+"name": "The Caine Mutiny",
+"aliases": [
+"Caine Mutiny"
+],
+"links": 9
+},
+{
+"name": "The Confessions of Nat Turner",
+"aliases": [],
+"links": 9
+},
+{
+"name": "The Executioner's Song",
+"aliases": [],
+"links": 9
+},
+{
+"name": "A Visit from the Goon Squad",
+"aliases": [],
+"links": 8
+},
+{
+"name": "The Orphan Master's Son",
+"aliases": [],
+"links": 8
+},
+{
+"name": "The Reivers",
+"aliases": [],
+"links": 8
+},
+{
+"name": "The Shipping News",
+"aliases": [
+"Shipping News"
+],
+"links": 8
+},
+{
+"name": "Empire Falls",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Humboldt's Gift",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Rabbit Is Rich",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The Netanyahus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Independence Day",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Less",
+"aliases": [],
+"links": 6
+},
+{
+"name": "The Nickel Boys",
+"aliases": [],
+"links": 6
+},
+{
+"name": "The Overstory",
+"aliases": [],
+"links": 6
+},
+{
+"name": "A Thousand Acres",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Advise and Consent",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rabbit at Rest",
+"aliases": [],
+"links": 5
+},
+{
+"name": "The Night Watchman",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Breathing Lessons",
+"aliases": [],
+"links": 4
+},
+{
+"name": "House Made of Dawn",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ironweed",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tales of the South Pacific",
+"aliases": [],
+"links": 4
+},
+{
+"name": "The Killer Angels",
+"aliases": [],
+"links": 4
+},
+{
+"name": "The Known World",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tinkers",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Trust",
+"aliases": [],
+"links": 4
+},
+{
+"name": "A Death in the Family",
+"aliases": [
+"Death in the Family"
+],
+"links": 3
+},
+{
+"name": "Martin Dressler",
+"aliases": [],
+"links": 3
+},
+{
+"name": "The Optimist's Daughter",
+"aliases": [],
+"links": 3
+},
+{
+"name": "The Stone Diaries",
+"aliases": [],
+"links": 3
+},
+{
+"name": "The Way West",
+"aliases": [],
+"links": 3
+},
+{
+"name": "A Bell for Adano",
+"aliases": [],
+"links": 2
+},
+{
+"name": "A Good Scent from a Strange Mountain",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Andersonville",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Angle of Repose",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Foreign Affairs",
+"aliases": [],
+"links": 2
+},
+{
+"name": "March",
+"aliases": [],
+"links": 2
+},
+{
+"name": "The Edge of Sadness",
+"aliases": [],
+"links": 2
+},
+{
+"name": "The Mambo Kings Play Songs of Love",
+"aliases": [],
+"links": 2
+},
+{
+"name": "The Stories of John Cheever",
+"aliases": [],
+"links": 2
+},
+{
+"name": "A Summons to Memphis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Elbow Room",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Guard of Honor",
+"aliases": [],
+"links": 1
+},
+{
+"name": "The Collected Stories of Jean Stafford",
+"aliases": [],
+"links": 1
+},
+{
+"name": "The Collected Stories of Katherine Anne Porter",
+"aliases": [],
+"links": 1
+},
+{
+"name": "The Keepers of the House",
+"aliases": [],
+"links": 1
+},
+{
+"name": "The Town",
+"aliases": [],
+"links": 1
+},
+{
+"name": "The Travels of Jaimie McPheeters",
+"aliases": [],
+"links": 1
+}
+]
+},
+{
+"id": "booker-prize-winners",
+"title": "Booker Prize winners",
+"prompt": "Name winners of the Booker Prize",
+"answers": [
+{
+"name": "Nadine Gordimer",
+"aliases": [],
+"links": 128
+},
+{
+"name": "Kazuo Ishiguro",
+"aliases": [
+"Ishiguro Kazuo",
+"Sir Kazuo Ishiguro"
+],
+"links": 119
+},
+{
+"name": "William Golding",
+"aliases": [
+"Willy Gold"
+],
+"links": 119
+},
+{
+"name": "J. M. Coetzee",
+"aliases": [
+"J.M. Coetzee",
+"John Coetzee",
+"John Maxwell Coetzee"
+],
+"links": 117
+},
+{
+"name": "Margaret Atwood",
+"aliases": [
+"Margaret Eleanor Atwood",
+"Marqaret Etvud"
+],
+"links": 110
+},
+{
+"name": "V. S. Naipaul",
+"aliases": [
+"Sir Vidiadhar Surajprasad Naipaul",
+"V.S. Naipaul",
+"Vidiadhar Surajprasad Naipaul"
+],
+"links": 110
+},
+{
+"name": "Arundhati Roy",
+"aliases": [
+"Suzanna Arundhati Roy"
+],
+"links": 97
+},
+{
+"name": "Iris Murdoch",
+"aliases": [
+"Dame Iris Murdoch",
+"Jean Iris Murdoch"
+],
+"links": 78
+},
+{
+"name": "Ian McEwan",
+"aliases": [
+"Ian Russell McEwan"
+],
+"links": 64
+},
+{
+"name": "Julian Barnes",
+"aliases": [
+"Dan Kavanagh",
+"Edward Pygge",
+"J Barnes",
+"J. Barnes",
+"Julian Patrick Barnes"
+],
+"links": 63
+},
+{
+"name": "Kiran Desai",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Kingsley Amis",
+"aliases": [
+"Kingsley William Amis",
+"Sir Kingsley William Amis"
+],
+"links": 60
+},
+{
+"name": "Yann Martel",
+"aliases": [],
+"links": 60
+},
+{
+"name": "A. S. Byatt",
+"aliases": [
+"Antonia Susan Duffy",
+"Dame Antonia Byatt",
+"Dame Antonia Duffy",
+"Dame Antonia Susan Duffy"
+],
+"links": 58
+},
+{
+"name": "Hilary Mantel",
+"aliases": [
+"Dame Hilary Mary Mantel"
+],
+"links": 57
+},
+{
+"name": "Aravind Adiga",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Michael Ondaatje",
+"aliases": [
+"Ondaatje",
+"Philip Michael Ondaatje"
+],
+"links": 51
+},
+{
+"name": "Ruth Prawer Jhabvala",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Ben Okri",
+"aliases": [],
+"links": 49
+},
+{
+"name": "John Banville",
+"aliases": [],
+"links": 49
+},
+{
+"name": "John Berger",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Life of Pi",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Thomas Keneally",
+"aliases": [
+"Bernard Coyle",
+"Mick Keneally",
+"T. Keneally",
+"Thomas Michael Keneally",
+"Tom Keneally",
+"William Coyle"
+],
+"links": 48
+},
+{
+"name": "Midnight's Children",
+"aliases": [
+"''Midnight's Children''"
+],
+"links": 47
+},
+{
+"name": "Anne Enright",
+"aliases": [
+"Anne Teresa Enright"
+],
+"links": 46
+},
+{
+"name": "Anita Brookner",
+"aliases": [],
+"links": 45
+},
+{
+"name": "George Saunders",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Penelope Fitzgerald",
+"aliases": [
+"Penelope Knox",
+"Penelope Mary Fitzgerald",
+"Penelope Mary Knox"
+],
+"links": 41
+},
+{
+"name": "Peter Carey",
+"aliases": [],
+"links": 41
+},
+{
+"name": "The Remains of the Day",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Eleanor Catton",
+"aliases": [
+"E. Catton"
+],
+"links": 39
+},
+{
+"name": "Bernardine Evaristo",
+"aliases": [
+"Bernardine Anne Mobolaji Evaristo"
+],
+"links": 38
+},
+{
+"name": "Howard Jacobson",
+"aliases": [
+"Howard Eric Jacobson"
+],
+"links": 38
+},
+{
+"name": "Pat Barker",
+"aliases": [
+"Patricia Mary W. Barker"
+],
+"links": 38
+},
+{
+"name": "The God of Small Things",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Damon Galgut",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Graham Swift",
+"aliases": [
+"Graham Colin Swift FRSL"
+],
+"links": 35
+},
+{
+"name": "Richard Flanagan",
+"aliases": [
+"Richard Miller Flanagan"
+],
+"links": 35
+},
+{
+"name": "Roddy Doyle",
+"aliases": [
+"Ruaidhri O Duill",
+"Ruaidhrí Ó Dúill"
+],
+"links": 35
+},
+{
+"name": "Penelope Lively",
+"aliases": [
+"Dame Penelope Margaret Lively",
+"Penelope Low"
+],
+"links": 33
+},
+{
+"name": "Alan Hollinghurst",
+"aliases": [
+"Alan James Hollinghurst"
+],
+"links": 32
+},
+{
+"name": "DBC Pierre",
+"aliases": [
+"D. B. C. Pierre"
+],
+"links": 32
+},
+{
+"name": "David Storey",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Anna Burns",
+"aliases": [],
+"links": 29
+},
+{
+"name": "The English Patient",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Keri Hulme",
+"aliases": [
+"Kai Tainui",
+"Keri Ann Ruhi Hulme"
+],
+"links": 28
+},
+{
+"name": "Marlon James",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Paul Beatty",
+"aliases": [],
+"links": 28
+},
+{
+"name": "J. G. Farrell",
+"aliases": [],
+"links": 27
+},
+{
+"name": "M. John Harrison",
+"aliases": [
+"Gabriel King",
+"John Harrison",
+"Joyce Churchill",
+"Michael John Harrison"
+],
+"links": 27
+},
+{
+"name": "David Szalay",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Bernice Rubens",
+"aliases": [
+"Bernice Ruth Rubens"
+],
+"links": 24
+},
+{
+"name": "Paul Scott",
+"aliases": [
+"Paul Mark Scott"
+],
+"links": 24
+},
+{
+"name": "Shehan Karunatilaka",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Disgrace",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Douglas Stuart",
+"aliases": [],
+"links": 23
+},
+{
+"name": "James Kelman",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Samantha Harvey",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Schindler's Ark",
+"aliases": [
+"Schindler's List"
+],
+"links": 23
+},
+{
+"name": "The Sense of an Ending",
+"aliases": [
+"Sense of an Ending"
+],
+"links": 21
+},
+{
+"name": "Barry Unsworth",
+"aliases": [
+"Barry Forster Unsworth"
+],
+"links": 20
+},
+{
+"name": "P. H. Newby",
+"aliases": [
+"Percy Howard Newby"
+],
+"links": 20
+},
+{
+"name": "Life & Times of Michael K",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Stanley Middleton",
+"aliases": [],
+"links": 19
+},
+{
+"name": "The Testaments",
+"aliases": [],
+"links": 19
+},
+{
+"name": "The White Tiger",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Wolf Hall",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Amsterdam",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Paul Lynch",
+"aliases": [],
+"links": 18
+},
+{
+"name": "The Line of Beauty",
+"aliases": [
+"Line of Beauty"
+],
+"links": 16
+},
+{
+"name": "The Blind Assassin",
+"aliases": [],
+"links": 15
+},
+{
+"name": "A Brief History of Seven Killings",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Orbital",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Shuggie Bain",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Girl, Woman, Other",
+"aliases": [],
+"links": 13
+},
+{
+"name": "The Sea",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Milkman",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Possession",
+"aliases": [
+"Possession: A Romance"
+],
+"links": 12
+},
+{
+"name": "Prophet Song",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Vernon God Little",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Bring Up the Bodies",
+"aliases": [],
+"links": 11
+},
+{
+"name": "The Seven Moons of Maali Almeida",
+"aliases": [],
+"links": 11
+},
+{
+"name": "How Late It Was, How Late",
+"aliases": [],
+"links": 10
+},
+{
+"name": "The Inheritance of Loss",
+"aliases": [],
+"links": 10
+},
+{
+"name": "The Luminaries",
+"aliases": [],
+"links": 10
+},
+{
+"name": "The Sea, the Sea",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Last Orders",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lincoln in the Bardo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Oscar and Lucinda",
+"aliases": [],
+"links": 9
+},
+{
+"name": "The Bone People",
+"aliases": [],
+"links": 9
+},
+{
+"name": "The Narrow Road to the Deep North",
+"aliases": [],
+"links": 9
+},
+{
+"name": "The Sellout",
+"aliases": [],
+"links": 9
+},
+{
+"name": "True History of the Kelly Gang",
+"aliases": [],
+"links": 9
+},
+{
+"name": "The Famished Road",
+"aliases": [],
+"links": 8
+},
+{
+"name": "The Finkler Question",
+"aliases": [],
+"links": 8
+},
+{
+"name": "The Promise",
+"aliases": [],
+"links": 8
+},
+{
+"name": "The Conservationist",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The Elected Member",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The End of Everything",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The Ghost Road",
+"aliases": [],
+"links": 7
+},
+{
+"name": "G.",
+"aliases": [
+"G"
+],
+"links": 6
+},
+{
+"name": "Holiday",
+"aliases": [],
+"links": 6
+},
+{
+"name": "In a Free State",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Moon Tiger",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Saville",
+"aliases": [],
+"links": 6
+},
+{
+"name": "The Siege of Krishnapur",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Troubles",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Heat and Dust",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hotel du Lac",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Offshore",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Something to Answer For",
+"aliases": [],
+"links": 5
+},
+{
+"name": "The Gathering",
+"aliases": [],
+"links": 5
+},
+{
+"name": "The Old Devils",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Paddy Clarke Ha Ha Ha",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rites of Passage",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sacred Hunger",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Staying On",
+"aliases": [],
+"links": 3
+}
+]
+}
+]
+}

@@ -1,0 +1,6537 @@
+{
+"family": "dishes",
+"categories": [
+{
+"id": "dishes-russian",
+"title": "Russian dishes",
+"prompt": "Name Russian dishes",
+"answers": [
+{
+"name": "borscht",
+"aliases": [
+"barsciai",
+"barszcz",
+"barszcz czerwony",
+"barščiai",
+"beetroot soup",
+"borsch",
+"borshch",
+"borshsh",
+"borsht",
+"borszcz",
+"bortsch",
+"chlodnik",
+"chłodnik",
+"ciorba de sfecla",
+"ciorbă de sfeclă",
+"cold beet soup",
+"cold borscht",
+"hot borscht",
+"saltibarsciai",
+"Šaltibarščiai"
+],
+"links": 94
+},
+{
+"name": "goulash",
+"aliases": [
+"Hungarian goulash"
+],
+"links": 74
+},
+{
+"name": "pancake",
+"aliases": [
+"flapjack",
+"griddlecake",
+"hotcake",
+"serguio massa"
+],
+"links": 67
+},
+{
+"name": "Olivier salad",
+"aliases": [
+"American salad",
+"Party Salad",
+"Russian salad",
+"vegetable salad"
+],
+"links": 66
+},
+{
+"name": "pie",
+"aliases": [],
+"links": 65
+},
+{
+"name": "pelmeni",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Caesar salad",
+"aliases": [],
+"links": 57
+},
+{
+"name": "pâté",
+"aliases": [
+"pate"
+],
+"links": 56
+},
+{
+"name": "potato pancake",
+"aliases": [
+"pan-fried potato pancakes"
+],
+"links": 50
+},
+{
+"name": "aspic",
+"aliases": [
+"kholodets"
+],
+"links": 48
+},
+{
+"name": "Beef Stroganoff",
+"aliases": [
+"Beef Stroganov"
+],
+"links": 48
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "blini",
+"aliases": [
+"blin",
+"blinis",
+"blins",
+"bliny",
+"blynai"
+],
+"links": 45
+},
+{
+"name": "okroshka",
+"aliases": [],
+"links": 45
+},
+{
+"name": "shchi",
+"aliases": [],
+"links": 44
+},
+{
+"name": "chicken Kiev",
+"aliases": [
+"chicken Kyiv",
+"cotelette de volaille",
+"côtelette de volaille",
+"supreme de volaille a la Kyiv",
+"suprême de volaille à la Kyiv"
+],
+"links": 43
+},
+{
+"name": "Gugelhupf",
+"aliases": [],
+"links": 38
+},
+{
+"name": "solyanka",
+"aliases": [],
+"links": 38
+},
+{
+"name": "pirozhki",
+"aliases": [
+"piroshki",
+"pirozhok"
+],
+"links": 34
+},
+{
+"name": "Syrniki",
+"aliases": [
+"Syrnyky"
+],
+"links": 33
+},
+{
+"name": "Karelian pasty",
+"aliases": [
+"Karelian pie"
+],
+"links": 31
+},
+{
+"name": "sorrel soup",
+"aliases": [
+"green borscht",
+"green shchi",
+"green soup",
+"schav",
+"shav",
+"shchav",
+"shtshav"
+],
+"links": 30
+},
+{
+"name": "cabbage soup",
+"aliases": [],
+"links": 29
+},
+{
+"name": "kasha",
+"aliases": [],
+"links": 29
+},
+{
+"name": "paska",
+"aliases": [
+"Pască"
+],
+"links": 29
+},
+{
+"name": "Vinegret",
+"aliases": [
+"Vinaigrette"
+],
+"links": 29
+},
+{
+"name": "rassolnik",
+"aliases": [],
+"links": 27
+},
+{
+"name": "babka",
+"aliases": [
+"baba",
+"babka cake",
+"boba",
+"bobka",
+"Easter babka"
+],
+"links": 26
+},
+{
+"name": "uszka",
+"aliases": [
+"mini pierogies"
+],
+"links": 25
+},
+{
+"name": "Vatrushka",
+"aliases": [],
+"links": 24
+},
+{
+"name": "dressed herring",
+"aliases": [
+"Selyodka pod shuboy",
+"Shuba"
+],
+"links": 21
+},
+{
+"name": "kalach",
+"aliases": [
+"kalács"
+],
+"links": 21
+},
+{
+"name": "vegetable soup",
+"aliases": [],
+"links": 20
+},
+{
+"name": "zrazy",
+"aliases": [],
+"links": 19
+},
+{
+"name": "forshmak",
+"aliases": [
+"vorschmack"
+],
+"links": 18
+},
+{
+"name": "kringle",
+"aliases": [],
+"links": 17
+},
+{
+"name": "mimosa salad",
+"aliases": [
+"Mimosa"
+],
+"links": 17
+},
+{
+"name": "buckwheat porridge",
+"aliases": [
+"buckwheat kasha",
+"grechka"
+],
+"links": 15
+},
+{
+"name": "Salzgurke",
+"aliases": [
+"Kovászos uborka",
+"sour pickles"
+],
+"links": 15
+},
+{
+"name": "Pozharsky cutlet",
+"aliases": [],
+"links": 12
+},
+{
+"name": "cabbage stew a la Székely",
+"aliases": [],
+"links": 10
+},
+{
+"name": "khrenovina",
+"aliases": [],
+"links": 9
+},
+{
+"name": "kulish",
+"aliases": [
+"kuliš"
+],
+"links": 9
+},
+{
+"name": "Polonaise",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Salamata",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tefteli",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kalya",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shanga",
+"aliases": [],
+"links": 6
+},
+{
+"name": "half sour pickle",
+"aliases": [
+"malossol cucumber"
+],
+"links": 4
+},
+{
+"name": "nalisniki",
+"aliases": [
+"nalistniki",
+"nalysnyky"
+],
+"links": 4
+},
+{
+"name": "sochnik",
+"aliases": [],
+"links": 4
+},
+{
+"name": "yurma",
+"aliases": [],
+"links": 4
+},
+{
+"name": "cold borscht",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nesselrode pudding",
+"aliases": [
+"pouding Nesselrode"
+],
+"links": 3
+},
+{
+"name": "tel'noe",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tetyorki cookies",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Beef Stroganoff",
+"aliases": [],
+"links": 2
+},
+{
+"name": "rybnik",
+"aliases": [],
+"links": 2
+},
+{
+"name": "zrazy à la Nelson",
+"aliases": [],
+"links": 2
+}
+],
+"group": "Q12505"
+},
+{
+"id": "dishes-french",
+"title": "French dishes",
+"prompt": "Name French dishes",
+"answers": [
+{
+"name": "omelette",
+"aliases": [
+"omelet"
+],
+"links": 94
+},
+{
+"name": "ratatouille",
+"aliases": [],
+"links": 76
+},
+{
+"name": "pancake",
+"aliases": [
+"flapjack",
+"griddlecake",
+"hotcake",
+"serguio massa"
+],
+"links": 67
+},
+{
+"name": "foie gras",
+"aliases": [],
+"links": 57
+},
+{
+"name": "meringue",
+"aliases": [],
+"links": 57
+},
+{
+"name": "pâté",
+"aliases": [
+"pate"
+],
+"links": 56
+},
+{
+"name": "aspic",
+"aliases": [
+"kholodets"
+],
+"links": 48
+},
+{
+"name": "Beef Stroganoff",
+"aliases": [
+"Beef Stroganov"
+],
+"links": 48
+},
+{
+"name": "brioche",
+"aliases": [],
+"links": 48
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "steak tartare",
+"aliases": [],
+"links": 48
+},
+{
+"name": "quiche",
+"aliases": [],
+"links": 46
+},
+{
+"name": "blini",
+"aliases": [
+"blin",
+"blinis",
+"blins",
+"bliny",
+"blynai"
+],
+"links": 45
+},
+{
+"name": "bouillabaisse",
+"aliases": [],
+"links": 43
+},
+{
+"name": "mille-feuille",
+"aliases": [
+"cream slice",
+"custard slice",
+"milfey",
+"vanilla slice"
+],
+"links": 42
+},
+{
+"name": "poached egg",
+"aliases": [],
+"links": 41
+},
+{
+"name": "French onion soup",
+"aliases": [
+"onion soup"
+],
+"links": 40
+},
+{
+"name": "Gugelhupf",
+"aliases": [],
+"links": 38
+},
+{
+"name": "profiterole",
+"aliases": [
+"cream puff"
+],
+"links": 38
+},
+{
+"name": "tarte Tatin",
+"aliases": [],
+"links": 35
+},
+{
+"name": "fricassee",
+"aliases": [],
+"links": 34
+},
+{
+"name": "pot-au-feu",
+"aliases": [],
+"links": 34
+},
+{
+"name": "tarte flambée",
+"aliases": [
+"tarte flambee"
+],
+"links": 33
+},
+{
+"name": "bisque",
+"aliases": [],
+"links": 31
+},
+{
+"name": "canapé",
+"aliases": [
+"canape",
+"open sandwich"
+],
+"links": 31
+},
+{
+"name": "Peach Melba",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Crêpe Suzette",
+"aliases": [
+"Crepe Suzette"
+],
+"links": 27
+},
+{
+"name": "croquembouche",
+"aliases": [],
+"links": 25
+},
+{
+"name": "duxelles",
+"aliases": [],
+"links": 21
+},
+{
+"name": "vegetable soup",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Calisson",
+"aliases": [
+"Calissons"
+],
+"links": 19
+},
+{
+"name": "Mont Blanc",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Piperade",
+"aliases": [
+"Piperrada"
+],
+"links": 19
+},
+{
+"name": "potage",
+"aliases": [
+"pottage",
+"Pottage"
+],
+"links": 19
+},
+{
+"name": "Blanquette de veau",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lobster Thermidor",
+"aliases": [],
+"links": 18
+},
+{
+"name": "gâteau Basque",
+"aliases": [
+"Gateau Basque"
+],
+"links": 17
+},
+{
+"name": "crudités",
+"aliases": [
+"crudites"
+],
+"links": 16
+},
+{
+"name": "Garbure",
+"aliases": [],
+"links": 16
+},
+{
+"name": "pastéis de Bacalhau",
+"aliases": [
+"pasteis de Bacalhau"
+],
+"links": 16
+},
+{
+"name": "stuffed tomatoes",
+"aliases": [
+"stuffed tomato"
+],
+"links": 16
+},
+{
+"name": "pithivier",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bourride",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pommes Anna",
+"aliases": [],
+"links": 13
+},
+{
+"name": "pommes dauphine",
+"aliases": [
+"dauphine potatoes"
+],
+"links": 13
+},
+{
+"name": "Bayonne ham",
+"aliases": [
+"Basque country ham",
+"cured ham"
+],
+"links": 12
+},
+{
+"name": "Kig ha farz",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Lyonnaise potatoes",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cervelle de canut",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Daube",
+"aliases": [],
+"links": 9
+},
+{
+"name": "oeufs en meurette",
+"aliases": [
+"œufs en meurette"
+],
+"links": 9
+},
+{
+"name": "Crozets de Savoie",
+"aliases": [],
+"links": 8
+},
+{
+"name": "matelote",
+"aliases": [
+"fisherman's coq au vin"
+],
+"links": 8
+},
+{
+"name": "Fraisier",
+"aliases": [],
+"links": 7
+},
+{
+"name": "stuffed mushrooms",
+"aliases": [],
+"links": 7
+},
+{
+"name": "orelletes",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Petit Salé",
+"aliases": [
+"Petit Sale"
+],
+"links": 5
+},
+{
+"name": "vegetable stock",
+"aliases": [
+"clear vegetable broth",
+"vegetable broth"
+],
+"links": 5
+},
+{
+"name": "Cromesquis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "cream of sorrel soup",
+"aliases": [
+"potage crème d'oseille"
+],
+"links": 2
+}
+],
+"group": "Q6661"
+},
+{
+"id": "dishes-italian",
+"title": "Italian dishes",
+"prompt": "Name Italian dishes",
+"answers": [
+{
+"name": "pizza",
+"aliases": [
+"pie",
+"pizza pie"
+],
+"links": 168
+},
+{
+"name": "spaghetti",
+"aliases": [
+"spaghetti noodle"
+],
+"links": 94
+},
+{
+"name": "tiramisu",
+"aliases": [],
+"links": 83
+},
+{
+"name": "lasagna",
+"aliases": [
+"lasagne"
+],
+"links": 81
+},
+{
+"name": "carbonara",
+"aliases": [
+"pasta alla carbonara",
+"spaghetti alla carbonara",
+"spaghetti carbonara"
+],
+"links": 58
+},
+{
+"name": "Caesar salad",
+"aliases": [],
+"links": 57
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "carpaccio",
+"aliases": [],
+"links": 45
+},
+{
+"name": "ciabatta",
+"aliases": [],
+"links": 42
+},
+{
+"name": "tagliatelle",
+"aliases": [],
+"links": 40
+},
+{
+"name": "frittata",
+"aliases": [],
+"links": 39
+},
+{
+"name": "cannelloni",
+"aliases": [],
+"links": 37
+},
+{
+"name": "panini",
+"aliases": [
+"grilled sandwich",
+"Italian sandwich",
+"panini sandwich"
+],
+"links": 37
+},
+{
+"name": "Saltimbocca",
+"aliases": [
+"Saltinbocca"
+],
+"links": 33
+},
+{
+"name": "antipasto",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Piadina",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Biscotti",
+"aliases": [
+"Cantuccio"
+],
+"links": 25
+},
+{
+"name": "Marinara sauce",
+"aliases": [],
+"links": 25
+},
+{
+"name": "sfogliatelle",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Stracciatella",
+"aliases": [
+"stracciatella gelato",
+"stracciatella ice cream"
+],
+"links": 22
+},
+{
+"name": "capellini",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Torta caprese",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Acquacotta",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Agliata",
+"aliases": [],
+"links": 19
+},
+{
+"name": "agnolotti",
+"aliases": [
+"Agnelot",
+"agnolotto"
+],
+"links": 19
+},
+{
+"name": "Milanesa",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Cioppino",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Crostata",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lampredotto",
+"aliases": [],
+"links": 17
+},
+{
+"name": "stuffed squash",
+"aliases": [
+"Kousa Mahshi",
+"Punjene tikvice",
+"stuffed zucchinis"
+],
+"links": 17
+},
+{
+"name": "Supplì",
+"aliases": [
+"Suppli"
+],
+"links": 17
+},
+{
+"name": "bombolone",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Colomba di Pasqua",
+"aliases": [
+"Colomba pasquale",
+"Easter dove"
+],
+"links": 16
+},
+{
+"name": "pastéis de Bacalhau",
+"aliases": [
+"pasteis de Bacalhau"
+],
+"links": 16
+},
+{
+"name": "stuffed tomatoes",
+"aliases": [
+"stuffed tomato"
+],
+"links": 16
+},
+{
+"name": "Cassoeula",
+"aliases": [],
+"links": 15
+},
+{
+"name": "stracciatella",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Passatelli",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Spumoni",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Cassatella di Sant'Agata",
+"aliases": [],
+"links": 11
+},
+{
+"name": "wedding soup",
+"aliases": [
+"Italian wedding soup"
+],
+"links": 11
+},
+{
+"name": "paccheri",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Coda alla vaccinara",
+"aliases": [],
+"links": 9
+},
+{
+"name": "spaghetti alla Nerano",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Torta setteveli",
+"aliases": [],
+"links": 9
+},
+{
+"name": "walnut soup",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Rafanata",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mondeghili",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pizza dolce di Beridde",
+"aliases": [
+"diamanti romani",
+"pizza ebraica"
+],
+"links": 7
+},
+{
+"name": "Torta pasqualina",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Zuppa pavese",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cotoletta alla bolognese",
+"aliases": [],
+"links": 6
+},
+{
+"name": "pizza pugliese",
+"aliases": [],
+"links": 6
+},
+{
+"name": "torta della nonna",
+"aliases": [
+"grandma's cake"
+],
+"links": 6
+},
+{
+"name": "sugo alla puttanesca",
+"aliases": [
+"puttanesca"
+],
+"links": 4
+},
+{
+"name": "sformato",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Conti roll",
+"aliases": [
+"continental roll"
+],
+"links": 2
+},
+{
+"name": "Pangiallo",
+"aliases": [
+"yellow bread"
+],
+"links": 2
+},
+{
+"name": "pizza with salami",
+"aliases": [],
+"links": 2
+}
+],
+"group": "Q192786"
+},
+{
+"id": "dishes-japanese",
+"title": "Japanese dishes",
+"prompt": "Name Japanese dishes",
+"answers": [
+{
+"name": "sushi",
+"aliases": [],
+"links": 133
+},
+{
+"name": "tofu",
+"aliases": [
+"awara",
+"bean curd",
+"beancurd",
+"doufu",
+"dubu",
+"dòufu",
+"silken tofu",
+"soy bean curd",
+"soya curd",
+"soybean curd",
+"soybeans"
+],
+"links": 98
+},
+{
+"name": "ramen",
+"aliases": [],
+"links": 81
+},
+{
+"name": "soy sauce",
+"aliases": [
+"ganjang",
+"jiangyou",
+"shoyu",
+"soy",
+"soya sauce"
+],
+"links": 72
+},
+{
+"name": "sashimi",
+"aliases": [],
+"links": 60
+},
+{
+"name": "tempura",
+"aliases": [
+"tenpura"
+],
+"links": 59
+},
+{
+"name": "miso",
+"aliases": [
+"Soya paste",
+"Soybean paste"
+],
+"links": 53
+},
+{
+"name": "miso soup",
+"aliases": [
+"miso shiru"
+],
+"links": 53
+},
+{
+"name": "onigiri",
+"aliases": [
+"Japanese rice ball",
+"nigirimeshi",
+"omusubi"
+],
+"links": 53
+},
+{
+"name": "takoyaki",
+"aliases": [],
+"links": 45
+},
+{
+"name": "oden",
+"aliases": [],
+"links": 34
+},
+{
+"name": "wagashi",
+"aliases": [
+"collon",
+"Tang Guozi"
+],
+"links": 34
+},
+{
+"name": "donburi",
+"aliases": [
+"Japanese rice bowl",
+"rice bowl"
+],
+"links": 31
+},
+{
+"name": "teppanyaki",
+"aliases": [
+"hibachi"
+],
+"links": 30
+},
+{
+"name": "osechi",
+"aliases": [
+"osechi ryōri"
+],
+"links": 29
+},
+{
+"name": "kamaboko",
+"aliases": [],
+"links": 28
+},
+{
+"name": "nikujaga",
+"aliases": [
+"niku-jaga"
+],
+"links": 27
+},
+{
+"name": "oyakodon",
+"aliases": [
+"chicken and egg bowl"
+],
+"links": 26
+},
+{
+"name": "Chikuwa",
+"aliases": [],
+"links": 23
+},
+{
+"name": "kushikatsu",
+"aliases": [],
+"links": 22
+},
+{
+"name": "makizushi",
+"aliases": [
+"maki",
+"Maki sushi",
+"Makimono"
+],
+"links": 21
+},
+{
+"name": "curry bread",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Jingisukan",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Kusa mochi",
+"aliases": [
+"Yomogi mochi"
+],
+"links": 18
+},
+{
+"name": "monjayaki",
+"aliases": [
+"monja",
+"monja-yaki"
+],
+"links": 18
+},
+{
+"name": "Tsukudani",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Light cheese cake",
+"aliases": [
+"Cheesecake",
+"Japanese style cheesecake"
+],
+"links": 15
+},
+{
+"name": "nimono",
+"aliases": [],
+"links": 11
+},
+{
+"name": "horumonyaki",
+"aliases": [
+"horumon-yaki"
+],
+"links": 10
+},
+{
+"name": "gunkanmaki",
+"aliases": [
+"gunkan-maki",
+"warship roll"
+],
+"links": 9
+},
+{
+"name": "hitsumabushi",
+"aliases": [
+"Hitsumamushi"
+],
+"links": 8
+},
+{
+"name": "Iekei Ramen",
+"aliases": [],
+"links": 8
+},
+{
+"name": "kaki fry",
+"aliases": [
+"kaki furai"
+],
+"links": 7
+},
+{
+"name": "inago no tsukudani",
+"aliases": [
+"inago tsukudani"
+],
+"links": 6
+},
+{
+"name": "Rainbow roll",
+"aliases": [],
+"links": 5
+},
+{
+"name": "shirumono",
+"aliases": [],
+"links": 4
+},
+{
+"name": "hot roll",
+"aliases": [],
+"links": 3
+},
+{
+"name": "tanindon",
+"aliases": [],
+"links": 3
+},
+{
+"name": "tanukijiru",
+"aliases": [
+"raccoon-dog soup",
+"tanuki soup",
+"tanuki-jiru"
+],
+"links": 3
+},
+{
+"name": "Imomochi",
+"aliases": [
+"potato mochi"
+],
+"links": 2
+},
+{
+"name": "Shizuoka oden",
+"aliases": [
+"Shizōka oden"
+],
+"links": 2
+},
+{
+"name": "Surinagashi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "taimeshi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tuna mayonnaise",
+"aliases": [
+"tuna mayo"
+],
+"links": 2
+}
+],
+"group": "Q234138"
+},
+{
+"id": "dishes-cuisine-of-the-united-states",
+"title": "cuisine of the United States dishes",
+"prompt": "Name cuisine of the United States dishes",
+"answers": [
+{
+"name": "hamburger",
+"aliases": [
+"beef hamburger",
+"burger",
+"hamburger sandwich",
+"Hamburgh ſauſage"
+],
+"links": 118
+},
+{
+"name": "hot dog",
+"aliases": [
+"coney",
+"frankfurter",
+"glizzy",
+"hotdog",
+"wiener"
+],
+"links": 90
+},
+{
+"name": "taco",
+"aliases": [
+"chicken tacos",
+"fish tacos",
+"ground beef tacos",
+"shrimp tacos",
+"Tacos",
+"tacos al pastor",
+"tacos carne asada",
+"tacos de chorizo"
+],
+"links": 73
+},
+{
+"name": "fish and chips",
+"aliases": [
+"fish supper"
+],
+"links": 66
+},
+{
+"name": "carbonara",
+"aliases": [
+"pasta alla carbonara",
+"spaghetti alla carbonara",
+"spaghetti carbonara"
+],
+"links": 58
+},
+{
+"name": "Caesar salad",
+"aliases": [],
+"links": 57
+},
+{
+"name": "banana bread",
+"aliases": [],
+"links": 50
+},
+{
+"name": "chili",
+"aliases": [
+"chili con carne"
+],
+"links": 50
+},
+{
+"name": "steak tartare",
+"aliases": [],
+"links": 48
+},
+{
+"name": "blini",
+"aliases": [
+"blin",
+"blinis",
+"blins",
+"bliny",
+"blynai"
+],
+"links": 45
+},
+{
+"name": "chicken nugget",
+"aliases": [
+"chicken nuggers",
+"nuggies"
+],
+"links": 42
+},
+{
+"name": "gumbo",
+"aliases": [],
+"links": 37
+},
+{
+"name": "macaroni and cheese",
+"aliases": [
+"mac & cheese",
+"mac and cheese",
+"macaroni cheese",
+"macaroni pie"
+],
+"links": 37
+},
+{
+"name": "Buffalo wings",
+"aliases": [
+"chicken wings",
+"hot wings",
+"wings"
+],
+"links": 33
+},
+{
+"name": "pumpkin pie",
+"aliases": [],
+"links": 31
+},
+{
+"name": "club sandwich",
+"aliases": [
+"clubhouse sandwich"
+],
+"links": 29
+},
+{
+"name": "chowder",
+"aliases": [],
+"links": 27
+},
+{
+"name": "angel food cake",
+"aliases": [
+"angel cake"
+],
+"links": 26
+},
+{
+"name": "stuffed peppers",
+"aliases": [
+"Ardei umpluţi"
+],
+"links": 26
+},
+{
+"name": "jelly bean",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Chicago-style pizza",
+"aliases": [
+"Chicago style pizza"
+],
+"links": 24
+},
+{
+"name": "chimichanga",
+"aliases": [
+"bufriedo",
+"chivichanga",
+"deep-fried burrito"
+],
+"links": 24
+},
+{
+"name": "clam chowder",
+"aliases": [],
+"links": 24
+},
+{
+"name": "mince pie",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Cobb salad",
+"aliases": [],
+"links": 23
+},
+{
+"name": "cheesesteak",
+"aliases": [
+"cheese steak",
+"cheesesteak sandwich",
+"Philadelphia cheesesteak",
+"Philly cheesesteak",
+"steak and cheese"
+],
+"links": 22
+},
+{
+"name": "chiffon cake",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hamburg steak",
+"aliases": [
+"beef patty"
+],
+"links": 20
+},
+{
+"name": "pulled pork",
+"aliases": [],
+"links": 20
+},
+{
+"name": "banana pudding",
+"aliases": [],
+"links": 19
+},
+{
+"name": "butter cake",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Reuben sandwich",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Cioppino",
+"aliases": [],
+"links": 18
+},
+{
+"name": "cobbler",
+"aliases": [],
+"links": 18
+},
+{
+"name": "crab cake",
+"aliases": [
+"crab cakes",
+"crabcake"
+],
+"links": 18
+},
+{
+"name": "grits",
+"aliases": [
+"hominy grits"
+],
+"links": 18
+},
+{
+"name": "Lobster Thermidor",
+"aliases": [],
+"links": 18
+},
+{
+"name": "submarine sandwich",
+"aliases": [
+"filled roll",
+"grinder",
+"hero",
+"hero sandwich",
+"hoagie",
+"poorboy",
+"po’boy",
+"spukie",
+"sub",
+"sub sandwich",
+"wedge"
+],
+"links": 18
+},
+{
+"name": "fritter",
+"aliases": [
+"gorengan"
+],
+"links": 17
+},
+{
+"name": "hushpuppy",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Salzgurke",
+"aliases": [
+"Kovászos uborka",
+"sour pickles"
+],
+"links": 15
+},
+{
+"name": "mozzarella stick",
+"aliases": [
+"mozzarella sticks"
+],
+"links": 14
+},
+{
+"name": "caramel apple",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Dagwood sandwich",
+"aliases": [
+"Dagwood"
+],
+"links": 12
+},
+{
+"name": "egg in the basket",
+"aliases": [
+"bullseye eggs",
+"egg in a hole",
+"eggs in a frame",
+"eggs in a nest",
+"frog in a pond",
+"gashouse eggs",
+"gashouse special",
+"gasthaus eggs",
+"hole in one",
+"one-eyed Jack",
+"one-eyed Pete",
+"one-eyed Sam",
+"pirate's eye",
+"popeye",
+"toad in the hole"
+],
+"links": 12
+},
+{
+"name": "meatball sandwich",
+"aliases": [
+"meatball sub"
+],
+"links": 11
+},
+{
+"name": "beer cake",
+"aliases": [],
+"links": 9
+},
+{
+"name": "clam dip",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Johnny Marzetti",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Brunswick stew",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Chicago-style hot dog",
+"aliases": [
+"Chicago Dog",
+"Chicago hot dog",
+"Red Hot"
+],
+"links": 8
+},
+{
+"name": "Dirty rice",
+"aliases": [
+"Rice dressing"
+],
+"links": 8
+},
+{
+"name": "jibarito",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Donut hole",
+"aliases": [
+"donut hole treat",
+"donut hole treats",
+"doughnut hole"
+],
+"links": 7
+},
+{
+"name": "Strawberry Delight",
+"aliases": [],
+"links": 7
+},
+{
+"name": "chow-chow",
+"aliases": [
+"chow chow",
+"chowchow"
+],
+"links": 6
+},
+{
+"name": "croffle",
+"aliases": [],
+"links": 6
+},
+{
+"name": "icebox cake",
+"aliases": [
+"chocolate ripple cake",
+"log"
+],
+"links": 6
+},
+{
+"name": "pizza in the United States",
+"aliases": [
+"pizza in the U. S.",
+"pizza in the U.S.",
+"pizza in the US",
+"pizza in the USA"
+],
+"links": 6
+},
+{
+"name": "Brown Betty",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Desperation pie",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lady Baltimore cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hamburger Helper",
+"aliases": [
+"Chicken Helper",
+"Tuna Helper"
+],
+"links": 4
+},
+{
+"name": "loaded fries",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Latiya",
+"aliases": [],
+"links": 3
+},
+{
+"name": "grasshopper pie",
+"aliases": [],
+"links": 2
+},
+{
+"name": "pie in American cuisine",
+"aliases": [
+"American pies",
+"pies in American cuisine",
+"pies in the United States"
+],
+"links": 2
+}
+],
+"group": "Q40578"
+},
+{
+"id": "dishes-ukrainian",
+"title": "Ukrainian dishes",
+"prompt": "Name Ukrainian dishes",
+"answers": [
+{
+"name": "borscht",
+"aliases": [
+"barsciai",
+"barszcz",
+"barszcz czerwony",
+"barščiai",
+"beetroot soup",
+"borsch",
+"borshch",
+"borshsh",
+"borsht",
+"borszcz",
+"bortsch",
+"chlodnik",
+"chłodnik",
+"ciorba de sfecla",
+"ciorbă de sfeclă",
+"cold beet soup",
+"cold borscht",
+"hot borscht",
+"saltibarsciai",
+"Šaltibarščiai"
+],
+"links": 94
+},
+{
+"name": "candy",
+"aliases": [
+"bonbon",
+"sweetie"
+],
+"links": 93
+},
+{
+"name": "pie",
+"aliases": [],
+"links": 65
+},
+{
+"name": "potato pancake",
+"aliases": [
+"pan-fried potato pancakes"
+],
+"links": 50
+},
+{
+"name": "aspic",
+"aliases": [
+"kholodets"
+],
+"links": 48
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "custard",
+"aliases": [],
+"links": 48
+},
+{
+"name": "steak tartare",
+"aliases": [],
+"links": 48
+},
+{
+"name": "blini",
+"aliases": [
+"blin",
+"blinis",
+"blins",
+"bliny",
+"blynai"
+],
+"links": 45
+},
+{
+"name": "varenyky",
+"aliases": [
+"pyrohy"
+],
+"links": 40
+},
+{
+"name": "Gugelhupf",
+"aliases": [],
+"links": 38
+},
+{
+"name": "solyanka",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Angel wings",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Syrniki",
+"aliases": [
+"Syrnyky"
+],
+"links": 33
+},
+{
+"name": "halušky",
+"aliases": [],
+"links": 32
+},
+{
+"name": "pampushka",
+"aliases": [],
+"links": 31
+},
+{
+"name": "sorrel soup",
+"aliases": [
+"green borscht",
+"green shchi",
+"green soup",
+"schav",
+"shav",
+"shchav",
+"shtshav"
+],
+"links": 30
+},
+{
+"name": "cabbage soup",
+"aliases": [],
+"links": 29
+},
+{
+"name": "kasha",
+"aliases": [],
+"links": 29
+},
+{
+"name": "paska",
+"aliases": [
+"Pască"
+],
+"links": 29
+},
+{
+"name": "Vinegret",
+"aliases": [
+"Vinaigrette"
+],
+"links": 29
+},
+{
+"name": "babka",
+"aliases": [
+"baba",
+"babka cake",
+"boba",
+"bobka",
+"Easter babka"
+],
+"links": 26
+},
+{
+"name": "cold borscht",
+"aliases": [
+"cold borsch"
+],
+"links": 26
+},
+{
+"name": "uszka",
+"aliases": [
+"mini pierogies"
+],
+"links": 25
+},
+{
+"name": "Vatrushka",
+"aliases": [],
+"links": 24
+},
+{
+"name": "palianytsia",
+"aliases": [
+"palianitsa",
+"palyanitsa",
+"palyanytsya"
+],
+"links": 23
+},
+{
+"name": "kalach",
+"aliases": [
+"kalács"
+],
+"links": 21
+},
+{
+"name": "Plăcintă",
+"aliases": [],
+"links": 20
+},
+{
+"name": "zrazy",
+"aliases": [],
+"links": 19
+},
+{
+"name": "mimosa salad",
+"aliases": [
+"Mimosa"
+],
+"links": 17
+},
+{
+"name": "Banusz",
+"aliases": [],
+"links": 16
+},
+{
+"name": "buckwheat porridge",
+"aliases": [
+"buckwheat kasha",
+"grechka"
+],
+"links": 15
+},
+{
+"name": "Salzgurke",
+"aliases": [
+"Kovászos uborka",
+"sour pickles"
+],
+"links": 15
+},
+{
+"name": "kibinai",
+"aliases": [],
+"links": 14
+},
+{
+"name": "krupnik",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ćwikła",
+"aliases": [],
+"links": 10
+},
+{
+"name": "kulish",
+"aliases": [
+"kuliš"
+],
+"links": 9
+},
+{
+"name": "Rakott krumpli",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tefteli",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Gombovtsi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "half sour pickle",
+"aliases": [
+"malossol cucumber"
+],
+"links": 4
+},
+{
+"name": "Kartoplyanyky",
+"aliases": [],
+"links": 4
+},
+{
+"name": "nalisniki",
+"aliases": [
+"nalistniki",
+"nalysnyky"
+],
+"links": 4
+},
+{
+"name": "cold borscht",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sichenyky",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Slastions",
+"aliases": [
+"Slastiony",
+"Slastyons",
+"Slastyony"
+],
+"links": 3
+},
+{
+"name": "Priazhenia",
+"aliases": [
+"Pryazhenya"
+],
+"links": 2
+}
+],
+"group": "Q1503789"
+},
+{
+"id": "dishes-polish",
+"title": "Polish dishes",
+"prompt": "Name Polish dishes",
+"answers": [
+{
+"name": "borscht",
+"aliases": [
+"barsciai",
+"barszcz",
+"barszcz czerwony",
+"barščiai",
+"beetroot soup",
+"borsch",
+"borshch",
+"borshsh",
+"borsht",
+"borszcz",
+"bortsch",
+"chlodnik",
+"chłodnik",
+"ciorba de sfecla",
+"ciorbă de sfeclă",
+"cold beet soup",
+"cold borscht",
+"hot borscht",
+"saltibarsciai",
+"Šaltibarščiai"
+],
+"links": 94
+},
+{
+"name": "pancake",
+"aliases": [
+"flapjack",
+"griddlecake",
+"hotcake",
+"serguio massa"
+],
+"links": 67
+},
+{
+"name": "pie",
+"aliases": [],
+"links": 65
+},
+{
+"name": "bagel",
+"aliases": [
+"bagels",
+"beigel",
+"beigels"
+],
+"links": 53
+},
+{
+"name": "potato pancake",
+"aliases": [
+"pan-fried potato pancakes"
+],
+"links": 50
+},
+{
+"name": "potato salad",
+"aliases": [],
+"links": 50
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "steak tartare",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Gugelhupf",
+"aliases": [],
+"links": 38
+},
+{
+"name": "zapiekanka",
+"aliases": [],
+"links": 34
+},
+{
+"name": "sorrel soup",
+"aliases": [
+"green borscht",
+"green shchi",
+"green soup",
+"schav",
+"shav",
+"shchav",
+"shtshav"
+],
+"links": 30
+},
+{
+"name": "cabbage soup",
+"aliases": [],
+"links": 29
+},
+{
+"name": "kasha",
+"aliases": [],
+"links": 29
+},
+{
+"name": "šakotis",
+"aliases": [
+"raguolis"
+],
+"links": 28
+},
+{
+"name": "babka",
+"aliases": [
+"baba",
+"babka cake",
+"boba",
+"bobka",
+"Easter babka"
+],
+"links": 26
+},
+{
+"name": "cold borscht",
+"aliases": [
+"cold borsch"
+],
+"links": 26
+},
+{
+"name": "uszka",
+"aliases": [
+"mini pierogies"
+],
+"links": 25
+},
+{
+"name": "zupa ogórkowa",
+"aliases": [
+"cucumber soup"
+],
+"links": 24
+},
+{
+"name": "kalach",
+"aliases": [
+"kalács"
+],
+"links": 21
+},
+{
+"name": "zrazy",
+"aliases": [],
+"links": 19
+},
+{
+"name": "streuselkuchen",
+"aliases": [
+"crumb cake"
+],
+"links": 18
+},
+{
+"name": "buckwheat porridge",
+"aliases": [
+"buckwheat kasha",
+"grechka"
+],
+"links": 15
+},
+{
+"name": "Salzgurke",
+"aliases": [
+"Kovászos uborka",
+"sour pickles"
+],
+"links": 15
+},
+{
+"name": "faworki",
+"aliases": [],
+"links": 14
+},
+{
+"name": "gołąbki",
+"aliases": [],
+"links": 14
+},
+{
+"name": "kibinai",
+"aliases": [],
+"links": 14
+},
+{
+"name": "krupnik",
+"aliases": [],
+"links": 14
+},
+{
+"name": "kotlet schabowy",
+"aliases": [
+"schabowy"
+],
+"links": 12
+},
+{
+"name": "Rosół",
+"aliases": [],
+"links": 12
+},
+{
+"name": "racuchy",
+"aliases": [
+"racuszki"
+],
+"links": 11
+},
+{
+"name": "cabbage stew a la Székely",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Ćwikła",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Salceson",
+"aliases": [],
+"links": 9
+},
+{
+"name": "herring salad",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pease pudding",
+"aliases": [
+"pease porridge"
+],
+"links": 5
+},
+{
+"name": "half sour pickle",
+"aliases": [
+"malossol cucumber"
+],
+"links": 4
+},
+{
+"name": "nalisniki",
+"aliases": [
+"nalistniki",
+"nalysnyky"
+],
+"links": 4
+},
+{
+"name": "Ruthenian pierogi",
+"aliases": [
+"Ruthenian dumplings"
+],
+"links": 3
+},
+{
+"name": "budyń",
+"aliases": [
+"pudding",
+"steamed pudding"
+],
+"links": 2
+},
+{
+"name": "Polish croquette",
+"aliases": [
+"croquette",
+"croquettes",
+"krokiet",
+"krokiety",
+"Polish croquettes"
+],
+"links": 2
+},
+{
+"name": "zrazy à la Nelson",
+"aliases": [],
+"links": 2
+}
+],
+"group": "Q756020"
+},
+{
+"id": "dishes-chinese",
+"title": "Chinese dishes",
+"prompt": "Name Chinese dishes",
+"answers": [
+{
+"name": "tofu",
+"aliases": [
+"awara",
+"bean curd",
+"beancurd",
+"doufu",
+"dubu",
+"dòufu",
+"silken tofu",
+"soy bean curd",
+"soya curd",
+"soybean curd",
+"soybeans"
+],
+"links": 98
+},
+{
+"name": "pilaf",
+"aliases": [
+"Oshi Palav",
+"paloo",
+"pilau",
+"pilav",
+"polao",
+"pulao",
+"pulav"
+],
+"links": 93
+},
+{
+"name": "soy sauce",
+"aliases": [
+"ganjang",
+"jiangyou",
+"shoyu",
+"soy",
+"soya sauce"
+],
+"links": 72
+},
+{
+"name": "fish sauce",
+"aliases": [
+"yúlù"
+],
+"links": 54
+},
+{
+"name": "miso soup",
+"aliases": [
+"miso shiru"
+],
+"links": 53
+},
+{
+"name": "century egg",
+"aliases": [
+"hundred-year egg",
+"millennium egg",
+"pidan",
+"preserved egg",
+"thousand-year egg",
+"thousand-year-old egg"
+],
+"links": 47
+},
+{
+"name": "baozi",
+"aliases": [
+"bao",
+"pao"
+],
+"links": 40
+},
+{
+"name": "jiaozi",
+"aliases": [
+"gaau ji",
+"giyose",
+"guotie",
+"jiǎo",
+"jiǎozi",
+"potstickers"
+],
+"links": 39
+},
+{
+"name": "Kung Pao chicken",
+"aliases": [
+"Gong Bao chicken",
+"Kung Po chicken"
+],
+"links": 35
+},
+{
+"name": "hot pot",
+"aliases": [
+"huo guo",
+"huoguo",
+"steamboat"
+],
+"links": 33
+},
+{
+"name": "Shark Fin Soup",
+"aliases": [],
+"links": 32
+},
+{
+"name": "mapo doufu",
+"aliases": [
+"ma po tofu",
+"mapo tofu"
+],
+"links": 31
+},
+{
+"name": "youtiao",
+"aliases": [
+"Yau Char Kwai"
+],
+"links": 26
+},
+{
+"name": "Hainanese chicken rice",
+"aliases": [],
+"links": 25
+},
+{
+"name": "xiaolongbao",
+"aliases": [],
+"links": 25
+},
+{
+"name": "cha siu bao",
+"aliases": [
+"char siu bao",
+"roast pork bun"
+],
+"links": 21
+},
+{
+"name": "Dongpo pork",
+"aliases": [],
+"links": 21
+},
+{
+"name": "hongshao rou",
+"aliases": [
+"hong shao rou",
+"red braised pork belly"
+],
+"links": 19
+},
+{
+"name": "tea egg",
+"aliases": [],
+"links": 18
+},
+{
+"name": "dandan noodles",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lo mai chi",
+"aliases": [
+"glutinous rice ball",
+"glutinous rice dumpling",
+"Nuomici"
+],
+"links": 17
+},
+{
+"name": "pickled egg",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Yangzhou fried rice",
+"aliases": [
+"Cantonese rice",
+"house fried rice",
+"special fried rice",
+"Yangchow fried rice",
+"Yeung Chow fried rice"
+],
+"links": 15
+},
+{
+"name": "hong dou tang",
+"aliases": [
+"hong dou sha",
+"red bean soup"
+],
+"links": 14
+},
+{
+"name": "doujiang",
+"aliases": [
+"Chinese soy milk",
+"dòujiāng",
+"fresh soy milk"
+],
+"links": 12
+},
+{
+"name": "Lanzhou beef noodle soup",
+"aliases": [],
+"links": 12
+},
+{
+"name": "almond biscuit",
+"aliases": [
+"almond cookie"
+],
+"links": 11
+},
+{
+"name": "Dapanji",
+"aliases": [
+"chong texse toxu qorumisi"
+],
+"links": 11
+},
+{
+"name": "donkey burger",
+"aliases": [
+"donkey sandwich",
+"lurou huoshao",
+"lvrou huoshao",
+"lyurou huoshao",
+"lǘròu huǒshāo"
+],
+"links": 11
+},
+{
+"name": "drunken shrimp",
+"aliases": [],
+"links": 11
+},
+{
+"name": "shengjian mantou",
+"aliases": [
+"pan-fried cabbage and pork bun",
+"Shengjianbao"
+],
+"links": 11
+},
+{
+"name": "Banana roll",
+"aliases": [],
+"links": 10
+},
+{
+"name": "fuqi feipian",
+"aliases": [],
+"links": 10
+},
+{
+"name": "walnut soup",
+"aliases": [],
+"links": 9
+},
+{
+"name": "braised pork slices",
+"aliases": [
+"kou rou"
+],
+"links": 8
+},
+{
+"name": "gaifan",
+"aliases": [
+"gai fan"
+],
+"links": 8
+},
+{
+"name": "Black sesame roll",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mianwo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Shuizhu roupian",
+"aliases": [],
+"links": 7
+},
+{
+"name": "imitation shark's fin soup",
+"aliases": [
+"street's shark's fin soup",
+"vegetarian shark fin soup"
+],
+"links": 6
+},
+{
+"name": "orange cuttlefish",
+"aliases": [
+"orange squid"
+],
+"links": 6
+},
+{
+"name": "Osmanthus cake",
+"aliases": [
+"Osmanthus jelly"
+],
+"links": 5
+},
+{
+"name": "Suzhou-style noodles",
+"aliases": [
+"Su-style noodles"
+],
+"links": 5
+},
+{
+"name": "Xiaorou",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dong'an chicken",
+"aliases": [],
+"links": 4
+},
+{
+"name": "steamed fish head with diced hot red peppers",
+"aliases": [
+"Duojiao yutou"
+],
+"links": 4
+},
+{
+"name": "braised chicken",
+"aliases": [
+"Braised Chicken Rice"
+],
+"links": 3
+},
+{
+"name": "pork ribs rice",
+"aliases": [],
+"links": 3
+},
+{
+"name": "imitation chicken",
+"aliases": [
+"vegan chicken"
+],
+"links": 2
+},
+{
+"name": "Pianerchuan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "pidong",
+"aliases": [
+"Pi Dong",
+"skin jelly"
+],
+"links": 2
+},
+{
+"name": "Rugao ham",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tshài-bué-thng",
+"aliases": [
+"Leftovers Soup"
+],
+"links": 2
+}
+],
+"group": "Q10876842"
+},
+{
+"id": "dishes-belarusian",
+"title": "Belarusian dishes",
+"prompt": "Name Belarusian dishes",
+"answers": [
+{
+"name": "borscht",
+"aliases": [
+"barsciai",
+"barszcz",
+"barszcz czerwony",
+"barščiai",
+"beetroot soup",
+"borsch",
+"borshch",
+"borshsh",
+"borsht",
+"borszcz",
+"bortsch",
+"chlodnik",
+"chłodnik",
+"ciorba de sfecla",
+"ciorbă de sfeclă",
+"cold beet soup",
+"cold borscht",
+"hot borscht",
+"saltibarsciai",
+"Šaltibarščiai"
+],
+"links": 94
+},
+{
+"name": "potato pancake",
+"aliases": [
+"pan-fried potato pancakes"
+],
+"links": 50
+},
+{
+"name": "aspic",
+"aliases": [
+"kholodets"
+],
+"links": 48
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "Gugelhupf",
+"aliases": [],
+"links": 38
+},
+{
+"name": "solyanka",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Angel wings",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Syrniki",
+"aliases": [
+"Syrnyky"
+],
+"links": 33
+},
+{
+"name": "sorrel soup",
+"aliases": [
+"green borscht",
+"green shchi",
+"green soup",
+"schav",
+"shav",
+"shchav",
+"shtshav"
+],
+"links": 30
+},
+{
+"name": "kasha",
+"aliases": [],
+"links": 29
+},
+{
+"name": "paska",
+"aliases": [
+"Pască"
+],
+"links": 29
+},
+{
+"name": "šakotis",
+"aliases": [
+"raguolis"
+],
+"links": 28
+},
+{
+"name": "babka",
+"aliases": [
+"baba",
+"babka cake",
+"boba",
+"bobka",
+"Easter babka"
+],
+"links": 26
+},
+{
+"name": "cold borscht",
+"aliases": [
+"cold borsch"
+],
+"links": 26
+},
+{
+"name": "zrazy",
+"aliases": [],
+"links": 19
+},
+{
+"name": "mimosa salad",
+"aliases": [
+"Mimosa"
+],
+"links": 17
+},
+{
+"name": "Kalduny",
+"aliases": [],
+"links": 16
+},
+{
+"name": "buckwheat porridge",
+"aliases": [
+"buckwheat kasha",
+"grechka"
+],
+"links": 15
+},
+{
+"name": "Salzgurke",
+"aliases": [
+"Kovászos uborka",
+"sour pickles"
+],
+"links": 15
+},
+{
+"name": "krupnik",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Zatiruha",
+"aliases": [],
+"links": 10
+},
+{
+"name": "kulish",
+"aliases": [
+"kuliš"
+],
+"links": 9
+},
+{
+"name": "Salceson",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tefteli",
+"aliases": [],
+"links": 7
+},
+{
+"name": "half sour pickle",
+"aliases": [
+"malossol cucumber"
+],
+"links": 4
+},
+{
+"name": "nalisniki",
+"aliases": [
+"nalistniki",
+"nalysnyky"
+],
+"links": 4
+},
+{
+"name": "lamaniets",
+"aliases": [
+"lamantsy"
+],
+"links": 3
+},
+{
+"name": "tsybryki",
+"aliases": [
+"cybryki"
+],
+"links": 2
+}
+],
+"group": "Q1850480"
+},
+{
+"id": "dishes-german",
+"title": "German dishes",
+"prompt": "Name German dishes",
+"answers": [
+{
+"name": "strudel",
+"aliases": [],
+"links": 54
+},
+{
+"name": "potato pancake",
+"aliases": [
+"pan-fried potato pancakes"
+],
+"links": 50
+},
+{
+"name": "potato salad",
+"aliases": [],
+"links": 50
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "Gugelhupf",
+"aliases": [],
+"links": 38
+},
+{
+"name": "stollen",
+"aliases": [
+"christstollen",
+"kerststol",
+"paasstol",
+"stol"
+],
+"links": 38
+},
+{
+"name": "Baumkuchen",
+"aliases": [],
+"links": 34
+},
+{
+"name": "tarte flambée",
+"aliases": [
+"tarte flambee"
+],
+"links": 33
+},
+{
+"name": "Buchteln",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Labskaus",
+"aliases": [
+"Lapskaus",
+"Lobscouse"
+],
+"links": 26
+},
+{
+"name": "Dampfnudel",
+"aliases": [
+"Dampfnudeln"
+],
+"links": 24
+},
+{
+"name": "rødgrød",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Eintopf",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Spaghettieis",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Leberkäse",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hamburg steak",
+"aliases": [
+"beef patty"
+],
+"links": 20
+},
+{
+"name": "Hedgehog slice",
+"aliases": [
+"Arretjescake",
+"batik cake",
+"Kek Batik"
+],
+"links": 19
+},
+{
+"name": "streuselkuchen",
+"aliases": [
+"crumb cake"
+],
+"links": 18
+},
+{
+"name": "Zopf",
+"aliases": [],
+"links": 18
+},
+{
+"name": "kringle",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Mett",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Salzgurke",
+"aliases": [
+"Kovászos uborka",
+"sour pickles"
+],
+"links": 15
+},
+{
+"name": "mock turtle soup",
+"aliases": [],
+"links": 13
+},
+{
+"name": "steckerlfisch",
+"aliases": [],
+"links": 10
+},
+{
+"name": "mutzbraten",
+"aliases": [],
+"links": 8
+},
+{
+"name": "eel soup",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Spundekäs",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cooked pig's head",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Speckkuchen",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mohrenkopf",
+"aliases": [],
+"links": 4
+},
+{
+"name": "LPG cake",
+"aliases": [
+"LPG-Kuchen"
+],
+"links": 3
+}
+],
+"group": "Q47629"
+},
+{
+"id": "dishes-turkish",
+"title": "Turkish dishes",
+"prompt": "Name Turkish dishes",
+"answers": [
+{
+"name": "pilaf",
+"aliases": [
+"Oshi Palav",
+"paloo",
+"pilau",
+"pilav",
+"polao",
+"pulao",
+"pulav"
+],
+"links": 93
+},
+{
+"name": "doner kebab",
+"aliases": [
+"donner",
+"döner kebab",
+"döner kebab sandwich",
+"döner kebap",
+"döner sandwich",
+"kebab"
+],
+"links": 51
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "baba ghanoush",
+"aliases": [
+"baba ganoush",
+"baba ghanouj"
+],
+"links": 45
+},
+{
+"name": "baursak",
+"aliases": [
+"Boortsog"
+],
+"links": 36
+},
+{
+"name": "Imam Bayıldı",
+"aliases": [
+"Imambayıldı"
+],
+"links": 36
+},
+{
+"name": "Tarama",
+"aliases": [
+"taramosalata"
+],
+"links": 29
+},
+{
+"name": "keşkek",
+"aliases": [
+"Ceremonial Keşkek tradition"
+],
+"links": 27
+},
+{
+"name": "sarma",
+"aliases": [
+"Koupepia",
+"Leaf roll",
+"Stuffed cabbage leaves",
+"Stuffed grape leaves",
+"Stuffed vine leaves"
+],
+"links": 27
+},
+{
+"name": "stuffed peppers",
+"aliases": [
+"Ardei umpluţi"
+],
+"links": 26
+},
+{
+"name": "İskender kebap",
+"aliases": [
+"Bursa kebab",
+"Bursa kebap",
+"Iskender kebap",
+"Uludağ kebap"
+],
+"links": 24
+},
+{
+"name": "Kattama",
+"aliases": [
+"gambir",
+"katlama",
+"katmer",
+"qatlama"
+],
+"links": 22
+},
+{
+"name": "vine leaf roll",
+"aliases": [
+"stuffed vine leaves"
+],
+"links": 22
+},
+{
+"name": "Adana kebabı",
+"aliases": [
+"Adana kebab",
+"Adana kebap",
+"Kıyma kebabı"
+],
+"links": 21
+},
+{
+"name": "çiğ köfte",
+"aliases": [
+"chi kofte",
+"cig kofte",
+"raw meatballs",
+"Tchi Kofte"
+],
+"links": 21
+},
+{
+"name": "stuffed squash",
+"aliases": [
+"Kousa Mahshi",
+"Punjene tikvice",
+"stuffed zucchinis"
+],
+"links": 17
+},
+{
+"name": "stuffed tomatoes",
+"aliases": [
+"stuffed tomato"
+],
+"links": 16
+},
+{
+"name": "tripe chorba",
+"aliases": [
+"Cookbook:Tripe Soup",
+"ishkembe chorba",
+"işkembe çorbası",
+"shkembe chorba",
+"škembe čorba"
+],
+"links": 15
+},
+{
+"name": "kavurma",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Piyaz",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Mesir macunu",
+"aliases": [
+"Mesir"
+],
+"links": 12
+},
+{
+"name": "pide",
+"aliases": [],
+"links": 12
+},
+{
+"name": "yayla çorbası",
+"aliases": [
+"yayla soup",
+"yoğurt çorbası"
+],
+"links": 12
+},
+{
+"name": "kuru fasulye",
+"aliases": [
+"Turkish dry beans"
+],
+"links": 10
+},
+{
+"name": "bici bici",
+"aliases": [
+"Bici bici dessert"
+],
+"links": 9
+},
+{
+"name": "Ezme",
+"aliases": [
+"Acılı ezme"
+],
+"links": 7
+},
+{
+"name": "düğün çorbası",
+"aliases": [
+"Turkish wedding soup",
+"Wedding soup"
+],
+"links": 6
+},
+{
+"name": "Çökertme",
+"aliases": [
+"Çökertme kebab"
+],
+"links": 5
+},
+{
+"name": "Şıllık",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nevzine dessert",
+"aliases": [],
+"links": 4
+}
+],
+"group": "Q654493"
+},
+{
+"id": "dishes-indonesian",
+"title": "Indonesian dishes",
+"prompt": "Name Indonesian dishes",
+"answers": [
+{
+"name": "Tempeh",
+"aliases": [
+"tempe"
+],
+"links": 51
+},
+{
+"name": "nasi goreng",
+"aliases": [],
+"links": 48
+},
+{
+"name": "rendang",
+"aliases": [
+"randang",
+"Randang minang"
+],
+"links": 42
+},
+{
+"name": "gado-gado",
+"aliases": [],
+"links": 40
+},
+{
+"name": "laksa",
+"aliases": [
+"laksa noodles"
+],
+"links": 39
+},
+{
+"name": "thali",
+"aliases": [],
+"links": 36
+},
+{
+"name": "ketupat",
+"aliases": [
+"kupat"
+],
+"links": 34
+},
+{
+"name": "rojak",
+"aliases": [
+"rujak"
+],
+"links": 31
+},
+{
+"name": "Cendol",
+"aliases": [
+"Cendoi"
+],
+"links": 28
+},
+{
+"name": "lemang",
+"aliases": [
+"Lamang"
+],
+"links": 28
+},
+{
+"name": "Jin deui",
+"aliases": [
+"benne ball",
+"sesame seed ball",
+"sesame seed laddu",
+"Zin Deoi"
+],
+"links": 26
+},
+{
+"name": "rawon",
+"aliases": [],
+"links": 25
+},
+{
+"name": "gulai",
+"aliases": [
+"gule"
+],
+"links": 20
+},
+{
+"name": "tumpeng",
+"aliases": [],
+"links": 20
+},
+{
+"name": "asam pedas",
+"aliases": [
+"asam padeh"
+],
+"links": 19
+},
+{
+"name": "nasi uduk",
+"aliases": [],
+"links": 19
+},
+{
+"name": "pecel",
+"aliases": [],
+"links": 19
+},
+{
+"name": "gudeg",
+"aliases": [],
+"links": 18
+},
+{
+"name": "kerak telor",
+"aliases": [],
+"links": 18
+},
+{
+"name": "nagasari",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Onde-onde",
+"aliases": [
+"Buah melaka",
+"Kalalapon",
+"Klepon",
+"Kuih pancit",
+"Ondeh-ondeh"
+],
+"links": 18
+},
+{
+"name": "soto ayam",
+"aliases": [
+"soto"
+],
+"links": 18
+},
+{
+"name": "bakpia",
+"aliases": [
+"hopia"
+],
+"links": 17
+},
+{
+"name": "nasi kuning",
+"aliases": [
+"nasi kunyit"
+],
+"links": 17
+},
+{
+"name": "Ayam goreng",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ketoprak",
+"aliases": [
+"ketoprakJakarta"
+],
+"links": 16
+},
+{
+"name": "otak-otak",
+"aliases": [
+"Origin from Muar"
+],
+"links": 16
+},
+{
+"name": "Serundeng",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bika Ambon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dadiah",
+"aliases": [
+"yogurt"
+],
+"links": 15
+},
+{
+"name": "Nasi Campur",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Papeda",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Pempek",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Serabi",
+"aliases": [
+"Chwee kueh"
+],
+"links": 15
+},
+{
+"name": "Teh Talua",
+"aliases": [
+"Teh Telur"
+],
+"links": 15
+},
+{
+"name": "bubur kacang hijau",
+"aliases": [],
+"links": 14
+},
+{
+"name": "kolak",
+"aliases": [],
+"links": 14
+},
+{
+"name": "bakwan",
+"aliases": [
+"bakwan sayur",
+"bala bala",
+"bala-bala",
+"ote ote",
+"ote-ote"
+],
+"links": 13
+},
+{
+"name": "coto makassar",
+"aliases": [
+"coto Mangkasara"
+],
+"links": 13
+},
+{
+"name": "Nasi padang",
+"aliases": [],
+"links": 13
+},
+{
+"name": "plecing kangkung",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Roti buaya",
+"aliases": [],
+"links": 13
+},
+{
+"name": "wajik",
+"aliases": [
+"Wajit"
+],
+"links": 13
+},
+{
+"name": "ayam Taliwang",
+"aliases": [],
+"links": 12
+},
+{
+"name": "bir pletok",
+"aliases": [],
+"links": 12
+},
+{
+"name": "brem",
+"aliases": [],
+"links": 12
+},
+{
+"name": "lupis",
+"aliases": [
+"Kuih lopes"
+],
+"links": 12
+},
+{
+"name": "mie aceh",
+"aliases": [
+"mi aceh"
+],
+"links": 12
+},
+{
+"name": "oncom",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Sangsang",
+"aliases": [
+"Saksang"
+],
+"links": 12
+},
+{
+"name": "soto mie",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tempoyak",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Arem-Arem",
+"aliases": [],
+"links": 11
+},
+{
+"name": "karedok",
+"aliases": [],
+"links": 11
+},
+{
+"name": "lawar",
+"aliases": [],
+"links": 11
+},
+{
+"name": "lemper",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Siomay",
+"aliases": [],
+"links": 11
+},
+{
+"name": "tinutuan porridge",
+"aliases": [],
+"links": 11
+},
+{
+"name": "tongseng",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Buntil",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cilok",
+"aliases": [
+"Cilok Goreng"
+],
+"links": 10
+},
+{
+"name": "klappertaart",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Krecek",
+"aliases": [],
+"links": 10
+},
+{
+"name": "mie ayam",
+"aliases": [],
+"links": 10
+},
+{
+"name": "nasi kucing",
+"aliases": [
+"Sega kucing"
+],
+"links": 10
+},
+{
+"name": "Nasi ulam",
+"aliases": [],
+"links": 10
+},
+{
+"name": "neera",
+"aliases": [
+"palm nectar"
+],
+"links": 10
+},
+{
+"name": "rice lengko",
+"aliases": [],
+"links": 10
+},
+{
+"name": "sale pisang",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Arsik",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bubur ketan hitam",
+"aliases": [],
+"links": 9
+},
+{
+"name": "dadar gulung",
+"aliases": [
+"kue dadar gulung"
+],
+"links": 9
+},
+{
+"name": "Mi Kocok",
+"aliases": [
+"shaken noodle"
+],
+"links": 9
+},
+{
+"name": "Nasi bakar",
+"aliases": [],
+"links": 9
+},
+{
+"name": "nasi kebuli",
+"aliases": [],
+"links": 9
+},
+{
+"name": "padang satay",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pekasam",
+"aliases": [],
+"links": 9
+},
+{
+"name": "pepes",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pindang",
+"aliases": [],
+"links": 9
+},
+{
+"name": "rempeyek",
+"aliases": [],
+"links": 9
+},
+{
+"name": "rengginang",
+"aliases": [],
+"links": 9
+},
+{
+"name": "rujak cingur",
+"aliases": [],
+"links": 9
+},
+{
+"name": "sate kambing",
+"aliases": [
+"goat satay",
+"lamb satay"
+],
+"links": 9
+},
+{
+"name": "sate lilit",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tekwan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bolu kukus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Burgo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Dawet Ayu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "empal gentong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "empal gepuk",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Konro Soup",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kue talam",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lotek",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mie celor",
+"aliases": [],
+"links": 8
+},
+{
+"name": "nasi bogana",
+"aliases": [
+"bogana",
+"sega bogana",
+"sego bogana"
+],
+"links": 8
+},
+{
+"name": "nasi minyak",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Putri salju cake",
+"aliases": [],
+"links": 8
+},
+{
+"name": "spicy porridge",
+"aliases": [
+"bubur sambas"
+],
+"links": 8
+},
+{
+"name": "tahu campur",
+"aliases": [],
+"links": 8
+},
+{
+"name": "uih sepit",
+"aliases": [],
+"links": 8
+},
+{
+"name": "bandeng satay",
+"aliases": [],
+"links": 7
+},
+{
+"name": "betutu",
+"aliases": [],
+"links": 7
+},
+{
+"name": "botok",
+"aliases": [
+"bothok"
+],
+"links": 7
+},
+{
+"name": "corn fritter",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kemplang",
+"aliases": [],
+"links": 7
+},
+{
+"name": "kue ape",
+"aliases": [],
+"links": 7
+},
+{
+"name": "kue rangi",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kuluban",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Leker Cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "mendoan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Nasi gandul",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Nasi liwet",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pukis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "rica-rica",
+"aliases": [
+"rica"
+],
+"links": 7
+},
+{
+"name": "Rice Jamblang",
+"aliases": [],
+"links": 7
+},
+{
+"name": "roti gambang",
+"aliases": [],
+"links": 7
+},
+{
+"name": "sate madura",
+"aliases": [
+"Madura satay"
+],
+"links": 7
+},
+{
+"name": "ayam goreng Kalasan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Babi panggang karo",
+"aliases": [
+"BPK"
+],
+"links": 6
+},
+{
+"name": "binte biluhuta",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cenil",
+"aliases": [
+"Cênil",
+"Cêthil"
+],
+"links": 6
+},
+{
+"name": "Cireng",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Colenak",
+"aliases": [
+"grilled tapai"
+],
+"links": 6
+},
+{
+"name": "Cookbook:Awug",
+"aliases": [],
+"links": 6
+},
+{
+"name": "es doger",
+"aliases": [],
+"links": 6
+},
+{
+"name": "es goyobod",
+"aliases": [],
+"links": 6
+},
+{
+"name": "keumamah",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kue gapit",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kue satu",
+"aliases": [],
+"links": 6
+},
+{
+"name": "maranggi satay",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mi Gomak",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Nasi krawu",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pallubasa",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pepes Mlanding Teri",
+"aliases": [],
+"links": 6
+},
+{
+"name": "soto Banjar",
+"aliases": [
+"soto"
+],
+"links": 6
+},
+{
+"name": "Soto Betawi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "timphan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ulam",
+"aliases": [
+"Ulam-ulaman"
+],
+"links": 6
+},
+{
+"name": "ayam tangkap",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Caluk noodles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "candied carica",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cilung",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cimpa",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Combro",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dengke Mas Naniura",
+"aliases": [
+"Dengke Naniura"
+],
+"links": 5
+},
+{
+"name": "Dodol betawi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Egyptian martabak",
+"aliases": [],
+"links": 5
+},
+{
+"name": "es buah",
+"aliases": [],
+"links": 5
+},
+{
+"name": "geplak",
+"aliases": [],
+"links": 5
+},
+{
+"name": "jalangkote",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Katemak",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Klatak Satay",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Madumongso",
+"aliases": [],
+"links": 5
+},
+{
+"name": "memek",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Meuseukat",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mie Bangladesh",
+"aliases": [],
+"links": 5
+},
+{
+"name": "molen banana",
+"aliases": [],
+"links": 5
+},
+{
+"name": "nasi tempong",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ongol-ongol",
+"aliases": [],
+"links": 5
+},
+{
+"name": "petis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "roti bolen",
+"aliases": [],
+"links": 5
+},
+{
+"name": "sambal shrimp",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Selat Solo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Skin Crackers",
+"aliases": [
+"Rambak"
+],
+"links": 5
+},
+{
+"name": "Sop saudara",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Soto Kudus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Soto Medan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "swikee",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tiwul",
+"aliases": [
+"nasi tiwul",
+"sêga thiwul",
+"sêgo thiwul"
+],
+"links": 5
+},
+{
+"name": "barongko pisang",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bolu kojo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "bubur kampiun",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chicken tuturuga",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cimol",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Doclang",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Getuk Goreng",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Itak Gurgur",
+"aliases": [],
+"links": 4
+},
+{
+"name": "jipang",
+"aliases": [
+"bipang",
+"gipang"
+],
+"links": 4
+},
+{
+"name": "kacimuih",
+"aliases": [],
+"links": 4
+},
+{
+"name": "kanji rumbi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kapurung",
+"aliases": [],
+"links": 4
+},
+{
+"name": "lampet",
+"aliases": [
+"lappet"
+],
+"links": 4
+},
+{
+"name": "Lompong Sagu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "lontong dekem",
+"aliases": [],
+"links": 4
+},
+{
+"name": "lumpia Semarang",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Manuk Napinadar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "nopia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ombus ombus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sambal tuktuk",
+"aliases": [
+"Tuktuk sauce"
+],
+"links": 4
+},
+{
+"name": "seruit",
+"aliases": [],
+"links": 4
+},
+{
+"name": "soto krendegan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "stir-fry green bean",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sweet Peanut sticky rice",
+"aliases": [],
+"links": 4
+},
+{
+"name": "tambunsu curry",
+"aliases": [
+"gulai tambusu",
+"gule tambunsu",
+"tambunsu",
+"tambusu"
+],
+"links": 4
+},
+{
+"name": "tengkleng",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Acehnese Murtabak",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ambal satay",
+"aliases": [
+"ambalese satay",
+"ambalian satay"
+],
+"links": 3
+},
+{
+"name": "ampyang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Angsle",
+"aliases": [],
+"links": 3
+},
+{
+"name": "anyang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ayam panggang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bakakak hayam",
+"aliases": [],
+"links": 3
+},
+{
+"name": "boh puniaram",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bolang-baling",
+"aliases": [],
+"links": 3
+},
+{
+"name": "bulayak satay",
+"aliases": [],
+"links": 3
+},
+{
+"name": "cingkaruk",
+"aliases": [],
+"links": 3
+},
+{
+"name": "cipera",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Es Pisang Ijo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gatot",
+"aliases": [
+"gathot"
+],
+"links": 3
+},
+{
+"name": "grilled oci fish",
+"aliases": [],
+"links": 3
+},
+{
+"name": "I know",
+"aliases": [],
+"links": 3
+},
+{
+"name": "kakicak",
+"aliases": [
+"gegicak",
+"kakicak bahinti",
+"kakicak hijau bahinti",
+"kekicak",
+"kicak",
+"kikicak"
+],
+"links": 3
+},
+{
+"name": "Karupuak jariang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Keukarah",
+"aliases": [],
+"links": 3
+},
+{
+"name": "kue lumpur",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kue srikaya",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kuwah Pliëk U",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lema",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Menjes",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Model",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Padamaran",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pagit-pagit",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Palai Bada",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Panada",
+"aliases": [],
+"links": 3
+},
+{
+"name": "perkedel nike",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pohulpohul",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rendang lokan",
+"aliases": [
+"Randang Lokan"
+],
+"links": 3
+},
+{
+"name": "rujak soto",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sambal rica iris",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sie reuboh",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sinonggi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Soto Madura",
+"aliases": [],
+"links": 3
+},
+{
+"name": "suwar-suwir",
+"aliases": [],
+"links": 3
+},
+{
+"name": "taichan satay",
+"aliases": [],
+"links": 3
+},
+{
+"name": "tanggo-tanggo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "tapai singkong",
+"aliases": [
+"tapai"
+],
+"links": 3
+},
+{
+"name": "Tegal satay",
+"aliases": [
+"Tegal goat satay"
+],
+"links": 3
+},
+{
+"name": "timlo",
+"aliases": [
+"kimlo"
+],
+"links": 3
+},
+{
+"name": "Tipatipa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "asem satay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "asinan Bogor",
+"aliases": [],
+"links": 2
+},
+{
+"name": "babungku",
+"aliases": [
+"babongko",
+"bubungku"
+],
+"links": 2
+},
+{
+"name": "Bada reuteuk",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Beef tendon curry",
+"aliases": [],
+"links": 2
+},
+{
+"name": "bekasang",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bingka Barandam",
+"aliases": [],
+"links": 2
+},
+{
+"name": "buah keluak",
+"aliases": [
+"buah kepayang",
+"football fruit"
+],
+"links": 2
+},
+{
+"name": "Bubur ase",
+"aliases": [
+"Ase porridge"
+],
+"links": 2
+},
+{
+"name": "Cakalang santang",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cakalang sous",
+"aliases": [],
+"links": 2
+},
+{
+"name": "citruk",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Es brenebon",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gabus pucung",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Garang Asem",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Getas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "gohu ikan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Horok-horok",
+"aliases": [],
+"links": 2
+},
+{
+"name": "janda berenang",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Javanese fried rice",
+"aliases": [],
+"links": 2
+},
+{
+"name": "jenang kudus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jepara beef satay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "karupuak jangek",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kasuami",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kelan Antep",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ketupat gulai kapau",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kikil satay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Klenyem",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Koyabu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kuah asam",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kuah beulangong",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kuwah eungkôt yèe",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kuwah itek",
+"aliases": [],
+"links": 2
+},
+{
+"name": "lalat satay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "lentho",
+"aliases": [],
+"links": 2
+},
+{
+"name": "masam keueueng",
+"aliases": [],
+"links": 2
+},
+{
+"name": "matang satay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "milk beef satay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mustofa Potatoes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nasi Brongkos",
+"aliases": [
+"sêga brongkos",
+"sêgo brongkos"
+],
+"links": 2
+},
+{
+"name": "nasi langgi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Natinombur",
+"aliases": [
+"Dengke Natinombur"
+],
+"links": 2
+},
+{
+"name": "onion stick",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pallumara Ikan Sunu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Papari",
+"aliases": [
+"Papare",
+"Pepare"
+],
+"links": 2
+},
+{
+"name": "Pecel Pitik",
+"aliases": [],
+"links": 2
+},
+{
+"name": "pelleng",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pempek Kapal Selam",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pempek Lenjer",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pindang Serani",
+"aliases": [
+"pindang sêrani"
+],
+"links": 2
+},
+{
+"name": "Pulut kuning",
+"aliases": [],
+"links": 2
+},
+{
+"name": "punten",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rendang Itiak",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rendang Talua",
+"aliases": [],
+"links": 2
+},
+{
+"name": "renteng satay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "rujak kuah pindang",
+"aliases": [],
+"links": 2
+},
+{
+"name": "sambal asam udueng",
+"aliases": [],
+"links": 2
+},
+{
+"name": "sate danguang-danguang",
+"aliases": [],
+"links": 2
+},
+{
+"name": "sayur besan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "sengkulun",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shrimp kletek",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Snail satay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "sop senerek",
+"aliases": [
+"senerek soup"
+],
+"links": 2
+},
+{
+"name": "Soto Jepara",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Soto Tangkar",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sweet Potato Cupcake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tahu bakso",
+"aliases": [],
+"links": 2
+}
+],
+"group": "Q787497"
+},
+{
+"id": "dishes-spanish",
+"title": "Spanish dishes",
+"prompt": "Name Spanish dishes",
+"answers": [
+{
+"name": "gazpacho",
+"aliases": [
+"gaspacho"
+],
+"links": 68
+},
+{
+"name": "churro",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Spanish omelette",
+"aliases": [
+"tortilla Española"
+],
+"links": 46
+},
+{
+"name": "tapas",
+"aliases": [
+"Pinchos",
+"Pintxos"
+],
+"links": 45
+},
+{
+"name": "turrón",
+"aliases": [
+"torrone",
+"torró",
+"turron"
+],
+"links": 31
+},
+{
+"name": "stuffed peppers",
+"aliases": [
+"Ardei umpluţi"
+],
+"links": 26
+},
+{
+"name": "buñuelo",
+"aliases": [
+"birmuelo",
+"bolinho",
+"bonuelo"
+],
+"links": 25
+},
+{
+"name": "Patatas bravas",
+"aliases": [],
+"links": 25
+},
+{
+"name": "pincho",
+"aliases": [
+"Pintxo"
+],
+"links": 24
+},
+{
+"name": "salmorejo",
+"aliases": [
+"ardoria",
+"ardorío",
+"gazpacho con pan"
+],
+"links": 24
+},
+{
+"name": "cocido",
+"aliases": [
+"cozido"
+],
+"links": 20
+},
+{
+"name": "Migas",
+"aliases": [],
+"links": 19
+},
+{
+"name": "potage",
+"aliases": [
+"pottage",
+"Pottage"
+],
+"links": 19
+},
+{
+"name": "Cuajada",
+"aliases": [],
+"links": 18
+},
+{
+"name": "jamón",
+"aliases": [
+"Spanish dry-cured ham",
+"Spanish raw ham"
+],
+"links": 17
+},
+{
+"name": "pastéis de Bacalhau",
+"aliases": [
+"pasteis de Bacalhau"
+],
+"links": 16
+},
+{
+"name": "Chistorra",
+"aliases": [
+"txistorra"
+],
+"links": 14
+},
+{
+"name": "Caldo galego",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Andrajos",
+"aliases": [],
+"links": 8
+},
+{
+"name": "hojuela",
+"aliases": [],
+"links": 6
+},
+{
+"name": "patatas a lo pobre",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Soldaditos de Pavía",
+"aliases": [],
+"links": 6
+},
+{
+"name": "picatostes",
+"aliases": [
+"picatoste"
+],
+"links": 5
+},
+{
+"name": "Sopa de Gato",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Atascaburras",
+"aliases": [],
+"links": 3
+},
+{
+"name": "cochinillo de Segovia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "mint soup",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bartolillos",
+"aliases": [],
+"links": 2
+},
+{
+"name": "nân-e panjere",
+"aliases": [
+"khâtun-e panjere",
+"shirini-e panjere"
+],
+"links": 2
+}
+],
+"group": "Q622512"
+},
+{
+"id": "dishes-british",
+"title": "British dishes",
+"prompt": "Name British dishes",
+"answers": [
+{
+"name": "pie",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Christmas pudding",
+"aliases": [
+"plum pudding"
+],
+"links": 39
+},
+{
+"name": "Scotch egg",
+"aliases": [],
+"links": 29
+},
+{
+"name": "shepherd's pie",
+"aliases": [
+"Cottage pie"
+],
+"links": 29
+},
+{
+"name": "Battenberg cake",
+"aliases": [],
+"links": 27
+},
+{
+"name": "English muffin",
+"aliases": [],
+"links": 27
+},
+{
+"name": "mince pie",
+"aliases": [],
+"links": 24
+},
+{
+"name": "crumble",
+"aliases": [],
+"links": 23
+},
+{
+"name": "spotted dick",
+"aliases": [],
+"links": 22
+},
+{
+"name": "digestive biscuit",
+"aliases": [
+"sweet-meal biscuit"
+],
+"links": 21
+},
+{
+"name": "hot cross bun",
+"aliases": [],
+"links": 21
+},
+{
+"name": "crumpet",
+"aliases": [],
+"links": 19
+},
+{
+"name": "cobbler",
+"aliases": [],
+"links": 18
+},
+{
+"name": "fritter",
+"aliases": [
+"gorengan"
+],
+"links": 17
+},
+{
+"name": "pickled egg",
+"aliases": [],
+"links": 15
+},
+{
+"name": "sausage roll",
+"aliases": [
+"sausage rolls"
+],
+"links": 15
+},
+{
+"name": "Banbury cake",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Chelsea bun",
+"aliases": [],
+"links": 12
+},
+{
+"name": "flummery",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Melba toast",
+"aliases": [],
+"links": 12
+},
+{
+"name": "ploughman's lunch",
+"aliases": [],
+"links": 12
+},
+{
+"name": "tea sandwich",
+"aliases": [
+"finger sandwich"
+],
+"links": 11
+},
+{
+"name": "Dundee cake",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Garibaldi biscuit",
+"aliases": [],
+"links": 9
+},
+{
+"name": "rich tea",
+"aliases": [
+"Rich Tea Biscuit"
+],
+"links": 8
+},
+{
+"name": "Jammie Dodgers",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Carpetbag steak",
+"aliases": [],
+"links": 5
+},
+{
+"name": "curry in the United Kingdom",
+"aliases": [],
+"links": 5
+},
+{
+"name": "phall",
+"aliases": [
+"faal",
+"fahl",
+"phaal"
+],
+"links": 5
+},
+{
+"name": "Flies graveyard",
+"aliases": [],
+"links": 4
+},
+{
+"name": "potted shrimps",
+"aliases": [],
+"links": 3
+}
+],
+"group": "Q918277"
+},
+{
+"id": "dishes-hungarian",
+"title": "Hungarian dishes",
+"prompt": "Name Hungarian dishes",
+"answers": [
+{
+"name": "goulash",
+"aliases": [
+"Hungarian goulash"
+],
+"links": 74
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "Liptauer",
+"aliases": [
+"Liptauer cheese spread",
+"Liptauer spread"
+],
+"links": 28
+},
+{
+"name": "lecsó",
+"aliases": [
+"lecso"
+],
+"links": 27
+},
+{
+"name": "trdelník",
+"aliases": [
+"trdelaich",
+"trdelnik"
+],
+"links": 25
+},
+{
+"name": "pörkölt",
+"aliases": [
+"Perkelt"
+],
+"links": 24
+},
+{
+"name": "kürtőskalács",
+"aliases": [
+"chimney cake",
+"kurtosh kalach",
+"stovepipe cake"
+],
+"links": 23
+},
+{
+"name": "chicken paprikash",
+"aliases": [
+"paprika chicken"
+],
+"links": 22
+},
+{
+"name": "egg barley",
+"aliases": [
+"egg drops",
+"tarhonya",
+"tarhoňa"
+],
+"links": 22
+},
+{
+"name": "Esterházy torte",
+"aliases": [
+"Esterhazy torte"
+],
+"links": 22
+},
+{
+"name": "paprikash",
+"aliases": [
+"paprikás"
+],
+"links": 16
+},
+{
+"name": "sour cherry soup",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Aranygaluska",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Zwetschkenknödel",
+"aliases": [
+"gomboți cu prune",
+"găluște cu prune",
+"găluștele cu prune",
+"knedle ze śliwkami",
+"Plum dumplings",
+"slivkové knedle",
+"slivovi cmoki",
+"szilvás gombóc",
+"szilvásgombóc",
+"Zwetschgenknöd",
+"švestkové knedlíky"
+],
+"links": 14
+},
+{
+"name": "Rigó Jancsi",
+"aliases": [],
+"links": 12
+},
+{
+"name": "gulyásleves",
+"aliases": [
+"goulash soup"
+],
+"links": 11
+},
+{
+"name": "cabbage stew a la Székely",
+"aliases": [],
+"links": 10
+},
+{
+"name": "kulish",
+"aliases": [
+"kuliš"
+],
+"links": 9
+},
+{
+"name": "Jókai Bean Soup",
+"aliases": [
+"Jokai Bean Soup"
+],
+"links": 8
+},
+{
+"name": "Rakott krumpli",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Palóc soup",
+"aliases": [],
+"links": 7
+},
+{
+"name": "paprikás krumpli",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Speckkuchen",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Grenadiermarsch",
+"aliases": [],
+"links": 5
+},
+{
+"name": "túrógombóc",
+"aliases": [],
+"links": 4
+}
+],
+"group": "Q264327"
+},
+{
+"id": "dishes-swedish",
+"title": "Swedish dishes",
+"prompt": "Name Swedish dishes",
+"answers": [
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "surströmming",
+"aliases": [
+"hapansilakka",
+"hapusilk"
+],
+"links": 42
+},
+{
+"name": "lutefisk",
+"aliases": [
+"ludefisk",
+"ludfisk",
+"lutfisk"
+],
+"links": 34
+},
+{
+"name": "glogg",
+"aliases": [
+"glögg",
+"Glögi",
+"Gløgg"
+],
+"links": 30
+},
+{
+"name": "semla",
+"aliases": [
+"Laskiaispulla"
+],
+"links": 30
+},
+{
+"name": "rødgrød",
+"aliases": [],
+"links": 24
+},
+{
+"name": "choklate ball",
+"aliases": [],
+"links": 22
+},
+{
+"name": "ostkaka",
+"aliases": [
+"Swedish cheesecake"
+],
+"links": 22
+},
+{
+"name": "Swedish meatballs",
+"aliases": [
+"IKEA meatballs",
+"Köttbullar"
+],
+"links": 22
+},
+{
+"name": "Smörgåstårta",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Flying Jacob",
+"aliases": [],
+"links": 18
+},
+{
+"name": "kroppkaka",
+"aliases": [
+"kroppkakor"
+],
+"links": 18
+},
+{
+"name": "Hasselback potatoes",
+"aliases": [],
+"links": 16
+},
+{
+"name": "blåbärssoppa",
+"aliases": [
+"bilberry soup",
+"blueberry soup"
+],
+"links": 15
+},
+{
+"name": "Limpa bread",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Biff à la Lindström",
+"aliases": [],
+"links": 10
+},
+{
+"name": "kebab pizza",
+"aliases": [],
+"links": 10
+},
+{
+"name": "blodpalt",
+"aliases": [],
+"links": 9
+},
+{
+"name": "isterband",
+"aliases": [],
+"links": 9
+},
+{
+"name": "fruktsoppa",
+"aliases": [
+"Swedish fruit soup"
+],
+"links": 8
+},
+{
+"name": "sausage stroganoff",
+"aliases": [
+"korv Stroganoff",
+"korvstroganoff"
+],
+"links": 5
+},
+{
+"name": "blodpudding",
+"aliases": [
+"blood pudding"
+],
+"links": 4
+},
+{
+"name": "ölsupa",
+"aliases": [
+"ale soup",
+"beer soup"
+],
+"links": 3
+},
+{
+"name": "pizza salad",
+"aliases": [],
+"links": 2
+},
+{
+"name": "äggost",
+"aliases": [
+"Bohuslänsk äggost"
+],
+"links": 2
+}
+],
+"group": "Q35623"
+},
+{
+"id": "dishes-portuguese",
+"title": "Portuguese dishes",
+"prompt": "Name Portuguese dishes",
+"answers": [
+{
+"name": "gazpacho",
+"aliases": [
+"gaspacho"
+],
+"links": 68
+},
+{
+"name": "feijoada",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Francesinha",
+"aliases": [],
+"links": 25
+},
+{
+"name": "cocido",
+"aliases": [
+"cozido"
+],
+"links": 20
+},
+{
+"name": "fios de ovos",
+"aliases": [
+"angel hair"
+],
+"links": 17
+},
+{
+"name": "Bacalhau à Brás",
+"aliases": [
+"Bacalhau a Bras",
+"Bacalhau à la Brás"
+],
+"links": 16
+},
+{
+"name": "pastéis de Bacalhau",
+"aliases": [
+"pasteis de Bacalhau"
+],
+"links": 16
+},
+{
+"name": "Alheira",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Serradura",
+"aliases": [
+"Pudín de Macao",
+"Pudín de serrín"
+],
+"links": 12
+},
+{
+"name": "Tocino de cielo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Fartura",
+"aliases": [],
+"links": 10
+},
+{
+"name": "arroz de marisco",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bacalhau à Zé do Pipo",
+"aliases": [
+"Bacalhau a Zé do Pipo",
+"Bacalhau à la Zé do Pipo"
+],
+"links": 7
+},
+{
+"name": "Pão de Ló",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bacalhau à Gomes de Sá",
+"aliases": [
+"Bacalhau a Gomes de Sa",
+"Bacalhau à la Gomes de Sá"
+],
+"links": 6
+},
+{
+"name": "Bacalhau à minhota",
+"aliases": [
+"Bacalhau a minhota",
+"Bacalhau à la minhota"
+],
+"links": 6
+},
+{
+"name": "Canja de galinha",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Molotof",
+"aliases": [],
+"links": 6
+},
+{
+"name": "pudim abade de priscos",
+"aliases": [
+"Abbot of Priscos pudding",
+"Bacon Pudding",
+"Portuguese bacon pudding"
+],
+"links": 6
+},
+{
+"name": "Bacalhau com natas",
+"aliases": [
+"Cod with cream",
+"Cod with double cream"
+],
+"links": 5
+},
+{
+"name": "Pataniscas",
+"aliases": [
+"Pataniscas de bacalhau"
+],
+"links": 5
+},
+{
+"name": "Amêijoas à Bulhão Pato",
+"aliases": [
+"Bulhão Pato clams",
+"Clams à la Bulhão Pato"
+],
+"links": 4
+},
+{
+"name": "Bolo de bolacha",
+"aliases": [
+"biscuit cake"
+],
+"links": 4
+},
+{
+"name": "Polvo à lagareiro",
+"aliases": [
+"octopus Lagareiro style",
+"octopus à Lagareiro"
+],
+"links": 4
+},
+{
+"name": "sericaia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bacalhau à Narcisa",
+"aliases": [
+"Bacalhau à Braga",
+"Bacalhau à la Narcisa",
+"Bacalhau à Minhota"
+],
+"links": 3
+},
+{
+"name": "Batatas a murro",
+"aliases": [
+"Batata a murro",
+"Batatas ao murro",
+"Portuguese smashed potatoes",
+"Punched potatoes"
+],
+"links": 3
+},
+{
+"name": "prego",
+"aliases": [
+"prego no prato",
+"prego no pão"
+],
+"links": 3
+},
+{
+"name": "Alentejano bread",
+"aliases": [
+"Alentejo bread",
+"pão alentejano"
+],
+"links": 2
+},
+{
+"name": "Encharcada",
+"aliases": [],
+"links": 2
+}
+],
+"group": "Q180817"
+},
+{
+"id": "dishes-taiwanese",
+"title": "Taiwanese dishes",
+"prompt": "Name Taiwanese dishes",
+"answers": [
+{
+"name": "pineapple cake",
+"aliases": [
+"Fengli Su",
+"Ong Lai Soo",
+"pineapple pastry",
+"pineapple shortcake",
+"ông-lâi-soo"
+],
+"links": 25
+},
+{
+"name": "xiaolongbao",
+"aliases": [],
+"links": 25
+},
+{
+"name": "tea egg",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ba-wan",
+"aliases": [
+"Bah-huê",
+"Bah-oân",
+"Bah-uan",
+"Bah-uân",
+"Bah-înn",
+"Jou-yuan",
+"meatball mochi",
+"Rou-Yuan"
+],
+"links": 14
+},
+{
+"name": "Ló͘-bah-pn̄g",
+"aliases": [
+"Bah-so-png",
+"Bah-sò-pn̄g",
+"Lo-bah-png",
+"Lu-jou-fan",
+"Lu-rou-fan",
+"minced pork rice",
+"Rou-zao-fan"
+],
+"links": 14
+},
+{
+"name": "Small sausage in large sausage",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ta-a noodles",
+"aliases": [
+"daami",
+"Dan-zai noodles",
+"Ta-a mi",
+"Tan-tsai noodles",
+"Tann-a noodles",
+"Tu-hsiao-yue Tan-tsai noodles",
+"Tōo-sió-gue̍h Ta-a noodles"
+],
+"links": 13
+},
+{
+"name": "doujiang",
+"aliases": [
+"Chinese soy milk",
+"dòujiāng",
+"fresh soy milk"
+],
+"links": 12
+},
+{
+"name": "iron egg",
+"aliases": [
+"Iron eggs",
+"thih-nn̄g",
+"tiědàn"
+],
+"links": 12
+},
+{
+"name": "pork ball",
+"aliases": [
+"Gong-wan",
+"Kong-oan",
+"Kong-wan",
+"Kòng-uan"
+],
+"links": 12
+},
+{
+"name": "khong bah png",
+"aliases": [
+"braised pork rice",
+"khong ngiuk fan",
+"Kong Rou Fan",
+"Kuang Rou Fan"
+],
+"links": 11
+},
+{
+"name": "a-gei",
+"aliases": [
+"ageh",
+"agei",
+"Tamsui ageh"
+],
+"links": 10
+},
+{
+"name": "Mongolian barbecue",
+"aliases": [
+"Mongolian Barbeque"
+],
+"links": 10
+},
+{
+"name": "Pig's blood cake",
+"aliases": [
+"Blood rice cake",
+"mi-hoeh",
+"mi-hueh",
+"mi-xie-gao",
+"Ti-hoeh-koé",
+"Ti-hueh-kué",
+"zhu-xie-gao"
+],
+"links": 10
+},
+{
+"name": "Taiwan fried chicken",
+"aliases": [
+"Taiwanese fried chicken"
+],
+"links": 10
+},
+{
+"name": "jipai",
+"aliases": [
+"chicken steak",
+"fried chicken steak",
+"ke-pâi",
+"Taiwanese fried chicken cutlet"
+],
+"links": 8
+},
+{
+"name": "Taiwanese beef noodles",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Shuangbaotai",
+"aliases": [],
+"links": 7
+},
+{
+"name": "egg yolk pastry",
+"aliases": [
+"dànhuángsū",
+"nn̄g-jîn-soo"
+],
+"links": 6
+},
+{
+"name": "Savory rice pudding",
+"aliases": [
+"Uánn-kué",
+"Wan Guo",
+"Wan Kuo",
+"Óaⁿ-kóe"
+],
+"links": 6
+},
+{
+"name": "tube rice pudding",
+"aliases": [
+"Tâng-á-bí-ko"
+],
+"links": 6
+},
+{
+"name": "Apple Bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cong zhua bing",
+"aliases": [
+"cong jhua bing",
+"Taiwanese Scallion Pancake",
+"tsung chua ping"
+],
+"links": 4
+},
+{
+"name": "Mutton hot pot",
+"aliases": [],
+"links": 4
+},
+{
+"name": "salty biscuit",
+"aliases": [
+"kiâm-piánn",
+"Penghu salty biscuit"
+],
+"links": 4
+},
+{
+"name": "Alivongvong",
+"aliases": [
+"Alibongbong",
+"Alifongfong"
+],
+"links": 3
+},
+{
+"name": "cinavu",
+"aliases": [
+"abai",
+"abay",
+"alifongfong",
+"avay",
+"binariyaw",
+"cinabu",
+"cinabuane",
+"inavu",
+"inavuy",
+"millet cinavu",
+"pinalepuk",
+"pinariyaw",
+"qavai",
+"qavay",
+"tinulre'eva",
+"tinulreva",
+"yinafei"
+],
+"links": 3
+},
+{
+"name": "Fried oysters",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ke-kńg",
+"aliases": [
+"koe-kńg"
+],
+"links": 3
+},
+{
+"name": "xian doujiang",
+"aliases": [
+"salty soy milk",
+"savory soy milk soup",
+"soy milk soup",
+"Xián dòujiāng"
+],
+"links": 3
+},
+{
+"name": "Pineapple shrimp balls",
+"aliases": [
+"Pineapple shrimp ball"
+],
+"links": 2
+},
+{
+"name": "Tāi-khe tāu-koa",
+"aliases": [
+"Daxi Dried Tofu",
+"Tāi-khe Dried Tofu"
+],
+"links": 2
+}
+],
+"group": "Q707908"
+}
+]
+}

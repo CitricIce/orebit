@@ -1,0 +1,1336 @@
+{
+"family": "breads-from",
+"categories": [
+{
+"id": "breads-from-italy",
+"title": "Breads from Italy",
+"prompt": "Name breads from Italy",
+"answers": [
+{
+"name": "panettone",
+"aliases": [],
+"links": 52
+},
+{
+"name": "focaccia",
+"aliases": [
+"stuffed focaccia"
+],
+"links": 49
+},
+{
+"name": "bread roll",
+"aliases": [],
+"links": 43
+},
+{
+"name": "ciabatta",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Pandoro",
+"aliases": [],
+"links": 37
+},
+{
+"name": "garlic bread",
+"aliases": [
+"garlic bread roll"
+],
+"links": 35
+},
+{
+"name": "Piadina",
+"aliases": [],
+"links": 27
+},
+{
+"name": "farinata",
+"aliases": [
+"socca"
+],
+"links": 22
+},
+{
+"name": "Frittelle",
+"aliases": [
+"fritole",
+"Frittole",
+"fritule"
+],
+"links": 19
+},
+{
+"name": "wafer cookie",
+"aliases": [
+"galletas suizas",
+"oblaten",
+"oblatne",
+"oblea"
+],
+"links": 19
+},
+{
+"name": "bombolone",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Colomba di Pasqua",
+"aliases": [
+"Colomba pasquale",
+"Easter dove"
+],
+"links": 16
+},
+{
+"name": "Pane carasau",
+"aliases": [],
+"links": 16
+},
+{
+"name": "cornetto",
+"aliases": [],
+"links": 13
+},
+{
+"name": "pan loaf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "gnocco fritto",
+"aliases": [
+"crescentina"
+],
+"links": 11
+},
+{
+"name": "michetta",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Coppia Ferrarese PGI",
+"aliases": [],
+"links": 10
+},
+{
+"name": "pizza di Pasqua",
+"aliases": [],
+"links": 9
+},
+{
+"name": "maritozzo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pane di Altamura PDO",
+"aliases": [],
+"links": 8
+},
+{
+"name": "pinsa",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sgabeo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Focaccia di Recco col formaggio PGI",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Olive bread",
+"aliases": [
+"olivenbrot"
+],
+"links": 7
+},
+{
+"name": "Pizza bagel",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pizza dolce di Beridde",
+"aliases": [
+"diamanti romani",
+"pizza ebraica"
+],
+"links": 7
+},
+{
+"name": "Vastedda",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Borlengo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sardenaira",
+"aliases": [
+"piscialandrea",
+"pissadella",
+"pissalandrea",
+"pizza all'Andrea",
+"pizzalandrea"
+],
+"links": 6
+},
+{
+"name": "Bisciola PAT",
+"aliases": [
+"pan di fich",
+"panettone Valtellinese"
+],
+"links": 5
+},
+{
+"name": "Sfinci di San Giuseppe",
+"aliases": [
+"Sicilian doughnut",
+"St Joseph doughnut"
+],
+"links": 5
+},
+{
+"name": "veneziana",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Vinschgauer",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Buccellato di Lucca",
+"aliases": [
+"Buccellato"
+],
+"links": 4
+},
+{
+"name": "Panbrioche",
+"aliases": [],
+"links": 4
+},
+{
+"name": "panigaccio",
+"aliases": [
+"panigacci, panigazzo, panigazzi"
+],
+"links": 4
+},
+{
+"name": "Tiella",
+"aliases": [],
+"links": 4
+},
+{
+"name": "brioscia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cuccalar",
+"aliases": [],
+"links": 3
+},
+{
+"name": "focaccia barese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Focaccia novese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "friselle",
+"aliases": [
+"fresella",
+"frisa",
+"frise",
+"frisedda",
+"friseddha",
+"friseddhre"
+],
+"links": 3
+},
+{
+"name": "Genovese foccacia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pan di ramerino",
+"aliases": [
+"pane di ramerino",
+"rosemary bread"
+],
+"links": 3
+},
+{
+"name": "Pane di Matera PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pane nero di Castelvetrano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Panfocaccia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Penia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Schuettelbrot",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Anello di Monaco",
+"aliases": [],
+"links": 2
+},
+{
+"name": "civraxiu",
+"aliases": [
+"civràxu",
+"civàrxu"
+],
+"links": 2
+},
+{
+"name": "Fugassa veneta PAT",
+"aliases": [
+"fugassa veneta",
+"fugassin",
+"Venetian focaccia"
+],
+"links": 2
+},
+{
+"name": "Pagnotta del Dittaino",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pizza PAT",
+"aliases": [
+"bianca",
+"con farina di mais",
+"con gli sfrizzoli",
+"per terra",
+"rossa",
+"sfogliata",
+"somma",
+"sotto la brace"
+],
+"links": 2
+},
+{
+"name": "Rundìtt",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Scali bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tiella of Gaeta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "5 e 5",
+"aliases": [],
+"links": 1
+},
+{
+"name": "chisciöi",
+"aliases": [
+"chisciöi di Tirano"
+],
+"links": 1
+},
+{
+"name": "ciriola",
+"aliases": [
+"ciriola romana"
+],
+"links": 1
+},
+{
+"name": "Filone",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Montasù PAT",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Palabirabrot",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pan de sòrc PAT",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pane casareccio di Genzano PGI",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pane di Montecalvo PAT",
+"aliases": [
+"Montecalvo bread",
+"Montecalvo Irpino bread"
+],
+"links": 1
+},
+{
+"name": "pitilla",
+"aliases": [
+"brocula",
+"frizzulu",
+"pirilla",
+"simeddhra"
+],
+"links": 1
+},
+{
+"name": "Schizzotto PAT",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vinschgauer struzn PAT",
+"aliases": [],
+"links": 1
+}
+],
+"group": "Q38"
+},
+{
+"id": "breads-from-france",
+"title": "Breads from France",
+"prompt": "Name breads from France",
+"answers": [
+{
+"name": "croissant",
+"aliases": [
+"butter croissant",
+"croissants"
+],
+"links": 75
+},
+{
+"name": "French toast",
+"aliases": [
+"eggy bread",
+"fried bread",
+"gypsy toast",
+"omelette bread"
+],
+"links": 72
+},
+{
+"name": "brioche",
+"aliases": [],
+"links": 48
+},
+{
+"name": "pain au chocolat",
+"aliases": [
+"chocolate bread",
+"chocolate pastry",
+"chocolatine"
+],
+"links": 33
+},
+{
+"name": "fougasse",
+"aliases": [],
+"links": 25
+},
+{
+"name": "farinata",
+"aliases": [
+"socca"
+],
+"links": 22
+},
+{
+"name": "galette",
+"aliases": [],
+"links": 22
+},
+{
+"name": "viennoiserie",
+"aliases": [],
+"links": 19
+},
+{
+"name": "pain aux raisins",
+"aliases": [
+"bread pastry",
+"French pastry",
+"sweet roll"
+],
+"links": 15
+},
+{
+"name": "pain d'épices",
+"aliases": [
+"pain d'épice"
+],
+"links": 13
+},
+{
+"name": "pan loaf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "pain de campagne",
+"aliases": [
+"campagne bread",
+"pains de campagne",
+"rustic bread",
+"rustic loaf"
+],
+"links": 11
+},
+{
+"name": "talo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "boule",
+"aliases": [],
+"links": 10
+},
+{
+"name": "chouquette",
+"aliases": [],
+"links": 10
+},
+{
+"name": "pain de mie",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Faluche",
+"aliases": [
+"North Bread",
+"Pain du Nord"
+],
+"links": 9
+},
+{
+"name": "Kaletez",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pain brié",
+"aliases": [
+"pain brie"
+],
+"links": 7
+},
+{
+"name": "gâche vendéenne",
+"aliases": [],
+"links": 6
+},
+{
+"name": "galette-saucisse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "almond croissant",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fallue",
+"aliases": [
+"falue"
+],
+"links": 3
+},
+{
+"name": "Gochtial",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pompe à l'huile",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Praluline",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Africain",
+"aliases": [],
+"links": 1
+},
+{
+"name": "bostock",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Méture",
+"aliases": [],
+"links": 1
+}
+],
+"group": "Q142"
+},
+{
+"id": "breads-from-the-united-states",
+"title": "Breads from the United States",
+"prompt": "Name breads from the United States",
+"answers": [
+{
+"name": "pancake",
+"aliases": [
+"flapjack",
+"griddlecake",
+"hotcake",
+"serguio massa"
+],
+"links": 67
+},
+{
+"name": "muffin",
+"aliases": [
+"Muffins"
+],
+"links": 53
+},
+{
+"name": "banana bread",
+"aliases": [],
+"links": 50
+},
+{
+"name": "cornbread",
+"aliases": [],
+"links": 32
+},
+{
+"name": "frybread",
+"aliases": [
+"fry bread"
+],
+"links": 21
+},
+{
+"name": "Cronut",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Dutch baby pancake",
+"aliases": [
+"Dutch baby"
+],
+"links": 15
+},
+{
+"name": "Graham bread",
+"aliases": [],
+"links": 15
+},
+{
+"name": "monkey bread",
+"aliases": [],
+"links": 14
+},
+{
+"name": "biscuit",
+"aliases": [
+"baking powder biscuit"
+],
+"links": 13
+},
+{
+"name": "pan loaf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Cuban bread",
+"aliases": [],
+"links": 11
+},
+{
+"name": "garlic knot",
+"aliases": [],
+"links": 11
+},
+{
+"name": "hot dog bun",
+"aliases": [
+"Frankfurt roll",
+"frankfurter bun",
+"frankfurter roll",
+"hot dog roll"
+],
+"links": 10
+},
+{
+"name": "Johnnycake",
+"aliases": [
+"johnny bread",
+"Jonnycake",
+"journey cake",
+"Shawnee cake"
+],
+"links": 10
+},
+{
+"name": "quick bread",
+"aliases": [
+"aerated bread"
+],
+"links": 10
+},
+{
+"name": "potato doughnut",
+"aliases": [
+"potato donut",
+"spudnut"
+],
+"links": 9
+},
+{
+"name": "Boston cream doughnut",
+"aliases": [],
+"links": 7
+},
+{
+"name": "sausage bread",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Texas Toast",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Amish Friendship Bread",
+"aliases": [
+"Amish cinnamon bread"
+],
+"links": 6
+},
+{
+"name": "Piki",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Anadama bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cider doughnut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "honey bun",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Maple bacon donut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Onion roll",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Adobe bread",
+"aliases": [
+"oven bread"
+],
+"links": 4
+},
+{
+"name": "Brown Bobby",
+"aliases": [],
+"links": 4
+},
+{
+"name": "everything bagel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Parker House roll",
+"aliases": [],
+"links": 4
+},
+{
+"name": "crackling bread",
+"aliases": [
+"cornbread"
+],
+"links": 3
+},
+{
+"name": "New York-style bagel",
+"aliases": [
+"New York bagel",
+"New York style bagel"
+],
+"links": 3
+},
+{
+"name": "Wonder Bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Boston brown bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bulkie roll",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cornell bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nutribun",
+"aliases": [
+"Nutri-bun",
+"Nutriban"
+],
+"links": 2
+},
+{
+"name": "Scali bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Holsum Bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "New England-style hot dog bun",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rold Gold",
+"aliases": [],
+"links": 1
+},
+{
+"name": "sealed crustless sandwich",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sloosh",
+"aliases": [],
+"links": 1
+}
+],
+"group": "Q30"
+},
+{
+"id": "breads-from-japan",
+"title": "Breads from Japan",
+"prompt": "Name breads from Japan",
+"answers": [
+{
+"name": "okonomiyaki",
+"aliases": [],
+"links": 49
+},
+{
+"name": "dorayaki",
+"aliases": [],
+"links": 36
+},
+{
+"name": "anpan",
+"aliases": [],
+"links": 33
+},
+{
+"name": "melonpan",
+"aliases": [
+"melon bread",
+"meronpan"
+],
+"links": 28
+},
+{
+"name": "curry bread",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Japanese milk bread",
+"aliases": [
+"Hokkaido milk bread",
+"Milk bread",
+"Shokupan"
+],
+"links": 14
+},
+{
+"name": "panko",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ogura toast",
+"aliases": [],
+"links": 8
+},
+{
+"name": "honey toast",
+"aliases": [],
+"links": 7
+},
+{
+"name": "hirayachi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pon de Ring",
+"aliases": [
+"Mochi donuts"
+],
+"links": 6
+},
+{
+"name": "An-doughnut",
+"aliases": [
+"an-donatsu"
+],
+"links": 5
+},
+{
+"name": "koppe pan",
+"aliases": [
+"koppepan"
+],
+"links": 3
+},
+{
+"name": "pizza toast",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cream Box",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kakioko",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mentai-france",
+"aliases": [
+"Mentai france",
+"Mentaiko france",
+"Mentaiko-france"
+],
+"links": 2
+},
+{
+"name": "munini-imo",
+"aliases": [
+"potce-imo",
+"potceimo"
+],
+"links": 2
+},
+{
+"name": "negiyaki",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Potechi pan",
+"aliases": [
+"potechi-pan"
+],
+"links": 2
+},
+{
+"name": "Agepan",
+"aliases": [
+"Age pan",
+"Age-pan"
+],
+"links": 1
+},
+{
+"name": "Ganzuki",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mametama",
+"aliases": [
+"Mamedama",
+"Mamedama yaki",
+"Mametama yaki"
+],
+"links": 1
+},
+{
+"name": "Tsukisamu anpan",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Uguisu pan",
+"aliases": [],
+"links": 1
+},
+{
+"name": "young donuts",
+"aliases": [],
+"links": 1
+}
+],
+"group": "Q17"
+},
+{
+"id": "breads-from-spain",
+"title": "Breads from Spain",
+"prompt": "Name breads from Spain",
+"answers": [
+{
+"name": "king cake",
+"aliases": [
+"Bolo-rei",
+"bolo-rei",
+"galette des rois",
+"king cakes",
+"king's cake",
+"king's cakes",
+"kingcake",
+"kingcakes",
+"kings' cake",
+"kings' cakes",
+"Portuguese king cake",
+"three kings' cake"
+],
+"links": 35
+},
+{
+"name": "wafer cookie",
+"aliases": [
+"galletas suizas",
+"oblaten",
+"oblatne",
+"oblea"
+],
+"links": 19
+},
+{
+"name": "Mona de Pascua",
+"aliases": [],
+"links": 11
+},
+{
+"name": "pestiños",
+"aliases": [],
+"links": 11
+},
+{
+"name": "roscón de reyes",
+"aliases": [
+"rosca de reyes"
+],
+"links": 11
+},
+{
+"name": "Rosca",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tortell",
+"aliases": [
+"Catalan king cake",
+"Occitan king cake",
+"Provence king cake"
+],
+"links": 7
+},
+{
+"name": "Galician bread",
+"aliases": [
+"IGP Pan Gallego",
+"Pan galego",
+"PGI Галицький хліб"
+],
+"links": 6
+},
+{
+"name": "hornazo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "picatostes",
+"aliases": [
+"picatoste"
+],
+"links": 5
+},
+{
+"name": "Bollo sevillano",
+"aliases": [
+"Bollo"
+],
+"links": 4
+},
+{
+"name": "Llonguet",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pan de cañada",
+"aliases": [
+"Cañada bread"
+],
+"links": 4
+},
+{
+"name": "Sabre St. Simon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bread of Cea",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mollete of Antequera",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Saint George bread",
+"aliases": [
+"pa de Sant Jordi",
+"pan de San Jorge"
+],
+"links": 3
+},
+{
+"name": "Boba",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cemita",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cinta bread",
+"aliases": [
+"Pan de cinta"
+],
+"links": 2
+},
+{
+"name": "Crystal bread",
+"aliases": [
+"pa de vidre",
+"pan de vidrio"
+],
+"links": 2
+},
+{
+"name": "Dalí bread",
+"aliases": [
+"Pa de crostons",
+"Pa de tres cantons",
+"Pa de tres crostons",
+"Pan Dalí"
+],
+"links": 2
+},
+{
+"name": "Flama bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ousá bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "regañao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Torta de cañamones",
+"aliases": [
+"hemp seed torta"
+],
+"links": 2
+},
+{
+"name": "Zopako",
+"aliases": [
+"sopako"
+],
+"links": 2
+},
+{
+"name": "Bazo bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cantos bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Fabiola",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Jallulla",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lechuguino",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Libreta bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ochío",
+"aliases": [
+"Ochio"
+],
+"links": 1
+},
+{
+"name": "Pan cateto",
+"aliases": [
+"yokel bread"
+],
+"links": 1
+},
+{
+"name": "Pan de codos",
+"aliases": [
+"pa de colzes"
+],
+"links": 1
+},
+{
+"name": "Pintera bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Piña",
+"aliases": [
+"cortaíto",
+"picadito",
+"picaíllo",
+"picaíto"
+],
+"links": 1
+},
+{
+"name": "roscón",
+"aliases": [
+"Roscon"
+],
+"links": 1
+},
+{
+"name": "Spanish Madeleine",
+"aliases": [
+"Madeleine"
+],
+"links": 1
+}
+],
+"group": "Q29"
+}
+]
+}

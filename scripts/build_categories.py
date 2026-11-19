@@ -363,8 +363,121 @@ def build_category(raw: dict) -> dict:
         "id": cid,
         "title": raw["meta"]["title"],
         "prompt": raw["meta"]["prompt"],
+        "source": "hand",
+        "family": Path(raw["file"]).stem,
         "answers": answers,
     }
+
+
+GENERATED_DIR = ROOT / "data" / "generated"
+# Share of a generated category's answers per tier, most famous first.
+GENERATED_SHARES = [0.08, 0.17, 0.25, 0.25, 0.25]
+GENERATED_PEOPLE = {"award", "office"}
+GEN_MAX_WORDS = 7
+GEN_MAX_CHARS = 48
+
+
+def build_generated(gen: dict, family: str) -> dict | None:
+    """Turn one generated category into the same shape as a hand-made one.
+
+    Tiers come from fame: answers are ranked by how many Wikipedia language
+    editions cover them, then split by GENERATED_SHARES. The Starcore is the
+    most famous answer in the Gold tier: deep, but findable.
+    """
+    rows: list[dict] = []
+    owner: dict[str, int] = {}
+    generic = {strip_plural(w) for w in normalize_words(gen["title"])}
+    for item in gen["answers"]:
+        names = []
+        for n in [item["name"], *item["aliases"]]:
+            for part in re.split(r"\s+/\s+", n):
+                part = ORIGIN_LABELS.sub("", part).strip()
+                if part and not part.lower().startswith(("category:", "list of", "template:")):
+                    names.append(part)
+        if not names:
+            continue
+        name = names[0][0].upper() + names[0][1:]
+        if len(name.split()) > GEN_MAX_WORDS or len(name) > GEN_MAX_CHARS:
+            continue
+        k = strip_plural(normalize(name))
+        if len(k) < 2 or k in owner or k in generic:
+            continue
+        idx = len(rows)
+        row = {"name": name, "aliases": [], "links": item["links"]}
+        owner[k] = idx
+        for n in names[1:]:
+            ak = strip_plural(normalize(n))
+            if len(ak) >= 3 and ak not in owner and ak not in generic:
+                row["aliases"].append(n)
+                owner[ak] = idx
+        if family in GENERATED_PEOPLE and len(name.split()) >= 2:
+            surname = name.split()[-1]
+            sk = strip_plural(normalize(surname))
+            if len(sk) >= 4 and sk not in owner:
+                row["aliases"].append(surname)
+                owner[sk] = idx
+        rows.append(row)
+    if len(rows) < 25:
+        return None
+    add_head_noun_aliases(rows)
+
+    ranked = sorted(rows, key=lambda r: (-r["links"], len(r["name"])))
+    n = len(ranked)
+    bounds, acc = [], 0.0
+    for share in GENERATED_SHARES:
+        acc += share
+        bounds.append(acc)
+    tiers = []
+    for i in range(n):
+        pct = (i + 0.5) / n
+        tiers.append(next(t for t, b in enumerate(bounds, 1) if pct <= b + 1e-9))
+    gold = [i for i, t in enumerate(tiers) if t == 4]
+    if gold:
+        tiers[gold[0]] = STARCORE_TIER
+    answers = [
+        {"name": r["name"], "aliases": r["aliases"], "tier": t, "familiarity": r["links"]}
+        for r, t in zip(ranked, tiers)
+    ]
+    return {
+        "id": gen["id"],
+        "title": gen["title"],
+        "prompt": gen["prompt"],
+        "source": "generated",
+        "family": family,
+        "answers": answers,
+    }
+
+
+def load_generated(taken: set[str]) -> list[dict]:
+    cats: list[dict] = []
+    for path in sorted(GENERATED_DIR.glob("*.json")):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        for gen in data["categories"]:
+            cat = build_generated(gen, data["family"])
+            if not cat:
+                continue
+            if cat["id"] in taken:
+                cat["id"] = f"{cat['id']}-g"
+            if cat["id"] in taken:
+                continue
+            taken.add(cat["id"])
+            cats.append(cat)
+    return cats
+
+
+CALENDAR_FILE = ROOT / "data" / "calendar.json"
+
+
+def check_calendar(ids: set[str]) -> None:
+    """Every category the calendar has already scheduled must still exist."""
+    if not CALENDAR_FILE.exists():
+        print("  note: no calendar yet. Run npm run plan:calendar")
+        return
+    days = json.loads(CALENDAR_FILE.read_text(encoding="utf-8"))["days"]
+    missing = sorted({cid for day in days for cid in day if cid not in ids})
+    if missing:
+        sys.exit(f"Calendar uses categories that no longer exist: {missing[:10]}")
+    print(f"  calendar: {len(days)} days scheduled")
 
 
 def main() -> None:
@@ -377,17 +490,24 @@ def main() -> None:
     if dupes:
         sys.exit(f"Duplicate category ids: {sorted(dupes)}")
 
-    cats = [build_category(r) for r in sorted(raws, key=lambda r: r["id"])]
+    hand = [build_category(r) for r in sorted(raws, key=lambda r: r["id"])]
+    generated = load_generated({c["id"] for c in hand})
+    cats = hand + generated
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUT_FILE.write_text(
-        json.dumps({"version": 1, "categories": cats}, ensure_ascii=False, indent=1) + "\n",
+        json.dumps({"version": 2, "categories": cats}, ensure_ascii=False, separators=(",", ":")) + "\n",
         encoding="utf-8",
     )
     total = sum(len(c["answers"]) for c in cats)
-    print(f"Built {len(cats)} categories with {total} answers -> {OUT_FILE.relative_to(ROOT)}")
-    for c in cats:
-        star = next(a["name"] for a in c["answers"] if a["tier"] == STARCORE_TIER)
-        print(f"  {c['id']:<22} {len(c['answers']):>4} answers   starcore: {star}")
+    print(
+        f"Built {len(cats)} categories ({len(hand)} hand-made, {len(generated)} generated) "
+        f"with {total} answers -> {OUT_FILE.relative_to(ROOT)}"
+    )
+    if "-v" in sys.argv:
+        for c in cats:
+            star = next(a["name"] for a in c["answers"] if a["tier"] == STARCORE_TIER)
+            print(f"  {c['id']:<40} {len(c['answers']):>5} answers   starcore: {star}")
+    check_calendar({c["id"] for c in cats})
 
 
 if __name__ == "__main__":

@@ -1,0 +1,1147 @@
+{
+"family": "horse-breeds-from",
+"categories": [
+{
+"id": "horse-breeds-from-the-united-states",
+"title": "Horse breeds from the United States",
+"prompt": "Name horse breeds from the United States",
+"answers": [
+{
+"name": "mustang",
+"aliases": [
+"mustangs"
+],
+"links": 56
+},
+{
+"name": "Appaloosa",
+"aliases": [],
+"links": 45
+},
+{
+"name": "American Quarter Horse",
+"aliases": [
+"Quarter horse"
+],
+"links": 37
+},
+{
+"name": "Standardbred",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Morgan horse",
+"aliases": [],
+"links": 32
+},
+{
+"name": "American Saddlebred",
+"aliases": [],
+"links": 20
+},
+{
+"name": "American Paint Horse",
+"aliases": [],
+"links": 19
+},
+{
+"name": "American Cream Draft",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Banker horse",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Rocky Mountain Horse",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Missouri Fox Trotter",
+"aliases": [],
+"links": 13
+},
+{
+"name": "American Bashkir Curly",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Nokota horse",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Pony of the Americas",
+"aliases": [],
+"links": 11
+},
+{
+"name": "American Shetland Pony",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chincoteague pony",
+"aliases": [
+"Assateague",
+"Assateague horse",
+"Assateague pony",
+"Chincoteague",
+"Chincoteague horse",
+"wild pony"
+],
+"links": 10
+},
+{
+"name": "American Walking Pony",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Morab",
+"aliases": [],
+"links": 9
+},
+{
+"name": "American Miniature Horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Colorado Ranger",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Florida Cracker Horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kentucky Mountain Saddle Horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pintabian",
+"aliases": [],
+"links": 8
+},
+{
+"name": "American creme and white horse registry",
+"aliases": [],
+"links": 7
+},
+{
+"name": "AraAppaloosa",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kiger Mustang",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Quarab",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Spotted Saddle horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "American Indian horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Camarillo White Horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cayuse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Quarter pony",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Spanish Jennet Horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Spanish Mustang",
+"aliases": [],
+"links": 6
+},
+{
+"name": "American Warmblood",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Blazer horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Carolina Marsh Tacky",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Choctaw Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cumberland Island horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Friesian Sporthorse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "National Show Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nez Perce Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "NorthAmerican Sportpony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Racking horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Spanish-Norman horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Virginia Highlander",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Welara",
+"aliases": [],
+"links": 5
+},
+{
+"name": "American Drum Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Georgian Grande Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mountain Pleasure Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Narragansett Pacer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tiger horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "American Belgian Draft",
+"aliases": [
+"Belgian",
+"Belgian Draft",
+"Belgian Heavy Draft"
+],
+"links": 3
+},
+{
+"name": "Cerbat Mustang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hegardt Horse",
+"aliases": [
+"Stroebel Horse"
+],
+"links": 3
+},
+{
+"name": "Moyle horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "North American Single-Footing Horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pryor Mountain Mustang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Walkaloosa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Abstang",
+"aliases": [],
+"links": 2
+},
+{
+"name": "American Sugarbush Harlequin Draft",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Conestoga Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lippitt Morgan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Montana Traveler",
+"aliases": [
+"Montana Travler"
+],
+"links": 2
+},
+{
+"name": "Morocco Spotted Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "American Paint Pony Registry",
+"aliases": [],
+"links": 1
+},
+{
+"name": "American spotted paso",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Appaloosa Sport Horse",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cherokee",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Clay Trotting Horses",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Golden American Saddlebred",
+"aliases": [],
+"links": 1
+},
+{
+"name": "McCurdy Plantation Horse",
+"aliases": [
+"McCurdy Walker"
+],
+"links": 1
+},
+{
+"name": "North American Spotted Draft Horse",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sulphur",
+"aliases": [],
+"links": 1
+}
+],
+"group": "Q30"
+},
+{
+"id": "horse-breeds-from-france",
+"title": "Horse breeds from France",
+"prompt": "Name horse breeds from France",
+"answers": [
+{
+"name": "Percheron",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Ardennes horse",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Camargue horse",
+"aliases": [
+"Camarguais"
+],
+"links": 23
+},
+{
+"name": "Selle Français",
+"aliases": [
+"Selle Francais"
+],
+"links": 18
+},
+{
+"name": "Boulonnais",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Pottok",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Breton horse",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Mérens horse",
+"aliases": [
+"Merens horse"
+],
+"links": 13
+},
+{
+"name": "Poitevin horse",
+"aliases": [],
+"links": 12
+},
+{
+"name": "French Trotter",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Trait du Nord",
+"aliases": [
+"Ardennais du Nord"
+],
+"links": 10
+},
+{
+"name": "Auxois",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Landais pony",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Norman Cob",
+"aliases": [
+"Cob Normand"
+],
+"links": 9
+},
+{
+"name": "Anglo-Norman horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Comtois horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Corsican horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "French Saddle Pony",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Henson horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "French Anglo Arab",
+"aliases": [],
+"links": 6
+},
+{
+"name": "AQPS",
+"aliases": [
+"Autre Que Pur Sang",
+"French chaser"
+],
+"links": 5
+},
+{
+"name": "Auvergne horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Castillonnais",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Charolais horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Barraquand horse",
+"aliases": [
+"Vercors horse"
+],
+"links": 4
+},
+{
+"name": "Bidet breton",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cheval du Morvan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cheval lorrain",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Half-bred horses of Dombes",
+"aliases": [],
+"links": 4
+},
+{
+"name": "La Hague horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Limousin horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Miquelon horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Navarrin horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Angevin horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Berrichon horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cauchois horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Charentais horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cheval des Marquises",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Corlay horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Maine",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Merlerault horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nivernais horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Augeron horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Brennou horse",
+"aliases": [
+"Brandin horse"
+],
+"links": 2
+},
+{
+"name": "Carrossier noir du Cotentin",
+"aliases": [],
+"links": 2
+}
+],
+"group": "Q142"
+},
+{
+"id": "horse-breeds-from-russia",
+"title": "Horse breeds from Russia",
+"prompt": "Name horse breeds from Russia",
+"answers": [
+{
+"name": "Bashkir horse",
+"aliases": [
+"Bashkir",
+"Bashkir pony"
+],
+"links": 27
+},
+{
+"name": "Russian Don",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Orlov Trotter",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kabarda horse",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Budyonny horse",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Vladimir Heavy Draft",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Altai horse",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Russian Trotter",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Tersk horse",
+"aliases": [
+"Tersky"
+],
+"links": 13
+},
+{
+"name": "Soviet Heavy Draft",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Vyatka horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Karachay horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Russian Heavy Draft",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Chara",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ob pony",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kalmyk horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Voronej",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Anglo-Kabarda",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mezen horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Narym Pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Orlov-Rostopchin Sport Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Amurski horse",
+"aliases": [
+"Manchurian pony"
+],
+"links": 4
+},
+{
+"name": "Karelian horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kuznet",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chernomor",
+"aliases": [
+"Black Sea Horse",
+"Cherkassky"
+],
+"links": 3
+},
+{
+"name": "Zabaikal",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chumysh",
+"aliases": [],
+"links": 1
+}
+],
+"group": "Q159"
+},
+{
+"id": "horse-breeds-from-germany",
+"title": "Horse breeds from Germany",
+"prompt": "Name horse breeds from Germany",
+"answers": [
+{
+"name": "Holsteiner horse",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Hanoverian horse",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Oldenburg horse",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Heck horse",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Aegidienberger",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Black Forest Horse",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dülmener",
+"aliases": [
+"Dülmen Pony"
+],
+"links": 12
+},
+{
+"name": "Rhenish-German Cold-Blood",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Schleswig horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Westphalian horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Ostfriesen and Alt-Oldenburger",
+"aliases": [],
+"links": 9
+},
+{
+"name": "German Riding Pony",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rhinelander horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bavarian Warmblood",
+"aliases": [
+"Bayrisches Warmblut"
+],
+"links": 7
+},
+{
+"name": "Brandenburger",
+"aliases": [],
+"links": 7
+},
+{
+"name": "German Classic Pony",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mecklenburger",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Senner",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Württemberger",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Zweibrücker",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Arenberg-Nordkirchen",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Araber-Haflinger",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hessisches Warmblut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Palatinate-Ardennes",
+"aliases": [
+"Palatine Ardennes",
+"Pfalz-Ardenner"
+],
+"links": 5
+},
+{
+"name": "Rottaler",
+"aliases": [
+"Rottaler Pferd",
+"Rottaler Warmblut"
+],
+"links": 5
+},
+{
+"name": "Altwürttemberger",
+"aliases": [],
+"links": 4
+},
+{
+"name": "German Warmblood",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Liebenthaler",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Oberlander horse",
+"aliases": [
+"South German Coldblood"
+],
+"links": 4
+},
+{
+"name": "Beberbecker",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Edelbluthaflinger",
+"aliases": [],
+"links": 3
+},
+{
+"name": "German Part-bred Shetland Pony",
+"aliases": [],
+"links": 2
+},
+{
+"name": "German Trotter",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sachsen-Anhaltiner Warmblut",
+"aliases": [],
+"links": 2
+}
+],
+"group": "Q183"
+},
+{
+"id": "horse-breeds-from-italy",
+"title": "Horse breeds from Italy",
+"prompt": "Name horse breeds from Italy",
+"answers": [
+{
+"name": "Haflinger",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Bardigiano",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Maremmano",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Murgese",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Giara horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Italian Heavy Draft",
+"aliases": [
+"TPR"
+],
+"links": 9
+},
+{
+"name": "Neapolitan horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Salerno horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sardinian Anglo-Arab",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Monterufolino",
+"aliases": [],
+"links": 7
+},
+{
+"name": "San Fratello horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Catria horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Persano horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sarcidano horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Calabrese horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Esperia Pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Italian Trotter",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Purosangue Orientale",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sella Italiano",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Siciliano indigeno",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tolfetano",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cavallo Appenninico",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cavallo Romano della Maremma Laziale",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Samolaco horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Avelignese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cavallo del Delta",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pentro horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ventasso horse",
+"aliases": [],
+"links": 3
+}
+],
+"group": "Q38"
+}
+]
+}
