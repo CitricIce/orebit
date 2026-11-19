@@ -20,6 +20,10 @@ export type World = "ground" | "launch" | "cruise" | "descent" | "orbit" | "work
 type RockState = "ahead" | "near" | "work" | "passed";
 type PlanetState = "ahead" | "visible" | "passed";
 
+/** Where each rock's surface is at its center (the landing spot), as a share
+ * of the image height. Measured from the paths below. */
+const ROCK_SURFACE = [0.06, 0.0726, 0.0489];
+
 const ROCK_PATHS = [
   "M104 12 C140 10 172 34 184 70 C196 106 186 146 156 170 C128 192 84 194 52 176 C22 160 8 124 14 90 C20 54 46 28 74 18 C84 14 94 12 104 12 Z",
   "M96 16 C132 6 176 26 188 64 C198 98 180 120 182 146 C184 172 150 192 112 188 C76 186 40 182 22 150 C6 122 14 92 24 66 C36 38 66 24 96 16 Z",
@@ -312,7 +316,12 @@ export default function SpaceWorld({
       </div>
 
       {STOPS.map((_, i) => (
-        <div key={i} className={s.rock} data-s={rockState(i, world, target)}>
+        <div
+          key={i}
+          className={s.rock}
+          data-s={rockState(i, world, target)}
+          style={{ "--surface": ROCK_SURFACE[i % ROCK_SURFACE.length] } as React.CSSProperties}
+        >
           <Asteroid i={i} />
         </div>
       ))}

@@ -851,26 +851,103 @@
   outline: none;
 }
 
-.launchCaption {
-  position: absolute;
+/* Letterbox bars: the cue that this is a cutscene to watch, not read. */
+.barTop,
+.barBottom {
+  position: fixed;
   left: 0;
   right: 0;
-  top: calc(17vh - 72px);
-  margin: 0;
-  text-align: center;
+  height: max(64px, 11vh);
+  background: #030207;
+  display: flex;
+  align-items: center;
+  padding: 0 max(16px, 4vw);
+  gap: 16px;
+}
+
+.barTop {
+  top: 0;
+  align-items: flex-end;
+  padding-bottom: 10px;
+  animation: bar-down 0.7s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+.barBottom {
+  bottom: 0;
+  justify-content: space-between;
+  animation: bar-up 0.7s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+@keyframes bar-down {
+  from { transform: translateY(-100%); }
+}
+
+@keyframes bar-up {
+  from { transform: translateY(100%); }
+}
+
+.autopilot {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   font-family: var(--mono);
-  font-size: clamp(16px, 2.6vw, 22px);
-  letter-spacing: 0.3em;
+  font-size: 11px;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: #fff;
-  text-shadow: 0 2px 16px rgb(0 0 0 / 0.6);
+  color: rgb(255 255 255 / 0.45);
+}
+
+.autopilotDot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #ff4b5c;
+  animation: rec 1.2s steps(1) infinite;
+}
+
+@keyframes rec {
+  50% { opacity: 0.2; }
+}
+
+/* The flight log: small, quiet and italic, like a film subtitle. */
+.subtitle {
+  margin: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  min-width: 0;
+  font-size: 15px;
+  font-style: italic;
+  color: rgb(255 255 255 / 0.68);
+  animation: cap-rise 0.8s ease 0.5s both;
+}
+
+.logTag {
+  flex: none;
+  font-family: var(--mono);
+  font-style: normal;
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: rgb(255 181 71 / 0.75);
+}
+
+.logDetail {
+  color: rgb(255 255 255 / 0.4);
+}
+
+.captionSwap {
+  position: relative;
+  display: inline-block;
+  min-width: 300px;
+  height: 1.3em;
 }
 
 .captionA,
 .captionB {
   position: absolute;
   left: 0;
-  right: 0;
+  white-space: nowrap;
 }
 
 .captionA {
@@ -879,71 +956,39 @@
 
 .captionB {
   opacity: 0;
-  color: var(--accent);
   animation: cap-b 3.2s ease forwards;
 }
 
 @keyframes cap-a {
-  0% { opacity: 0; transform: translateY(8px); }
-  12%, 42% { opacity: 1; transform: none; }
-  54%, 100% { opacity: 0; transform: translateY(-8px); }
+  0% { opacity: 0; }
+  12%, 42% { opacity: 1; }
+  54%, 100% { opacity: 0; }
 }
 
 @keyframes cap-b {
-  0%, 52% { opacity: 0; transform: translateY(8px); }
-  66%, 100% { opacity: 1; transform: none; }
-}
-
-.location {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: calc(13vh - 72px);
-  margin: 0;
-  padding: 0 16px;
-  display: grid;
-  gap: 6px;
-  justify-items: center;
-  text-align: center;
-  animation: cap-rise 0.8s ease 0.6s both;
-}
-
-.locationKicker {
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: rgb(255 255 255 / 0.55);
-}
-
-.locationRegion {
-  font-size: clamp(26px, 4.5vw, 40px);
-  font-weight: 700;
-  letter-spacing: -0.015em;
-  text-shadow: 0 2px 18px rgb(0 0 0 / 0.7);
-}
-
-.locationDetail {
-  font-family: var(--mono);
-  font-size: clamp(11px, 1.6vw, 13px);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--accent);
+  0%, 52% { opacity: 0; }
+  66%, 100% { opacity: 1; }
 }
 
 @keyframes cap-rise {
-  from { opacity: 0; transform: translateY(12px); }
+  from { opacity: 0; transform: translateY(8px); }
 }
 
-.skipHint {
-  position: absolute;
-  right: 20px;
-  top: 10px;
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: rgb(255 255 255 / 0.4);
+.skipBtn {
+  flex: none;
+  padding: 7px 14px;
+  border-radius: 999px;
+  border: 1px solid rgb(255 255 255 / 0.25);
+  font-size: 13px;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(255 255 255 / 0.8);
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.sceneLayer:hover .skipBtn {
+  background: rgb(255 255 255 / 0.08);
+  border-color: rgb(255 255 255 / 0.5);
 }
 
 /* ---------- countdown over the parked asteroid ---------- */
@@ -971,7 +1016,9 @@
 }
 
 .layer[data-leaving="true"] .captionB,
-.layer[data-leaving="true"] .location,
+.layer[data-leaving="true"] .subtitle,
+.layer[data-leaving="true"] .barTop,
+.layer[data-leaving="true"] .barBottom,
 .layer[data-leaving="true"] .countNum {
   animation: none;
   opacity: 1;
@@ -981,8 +1028,16 @@
   .sceneLayer {
     inset: 60px 0 0 0;
   }
-  .location {
-    top: calc(12vh - 60px);
+  .subtitle {
+    flex-direction: column;
+    gap: 4px;
+    font-size: 13px;
+  }
+  .logDetail {
+    display: none;
+  }
+  .captionSwap {
+    min-width: 240px;
   }
 }
 
@@ -992,7 +1047,9 @@
   .layer > div,
   .captionA,
   .captionB,
-  .location {
+  .barTop,
+  .barBottom,
+  .subtitle {
     animation-duration: 1ms !important;
     animation-delay: 0ms !important;
   }

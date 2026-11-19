@@ -280,9 +280,10 @@
   transition: bottom 1.8s cubic-bezier(0.45, 0, 0.25, 1);
 }
 
+/* Feet sit 32px above the element's bottom, so this puts them at 74vh. */
 .rocket[data-s="descent"],
 .rocket[data-s="landed"] {
-  bottom: calc(26vh - 28px);
+  bottom: calc(26vh - 32px);
 }
 
 /* Coasting behind the mission report: the rocket fades so it doesn't
@@ -293,7 +294,7 @@
 }
 
 .rocket[data-s="descent"] {
-  transition: bottom 2.1s cubic-bezier(0.3, 0, 0.25, 1);
+  transition: bottom 2.6s cubic-bezier(0.3, 0, 0.25, 1);
 }
 
 .rocketSvg {
@@ -440,7 +441,7 @@
 /* Touchdown kicks up dust just as the legs meet the ground. */
 .rocket[data-s="descent"] .dust span {
   animation: dust 1.3s ease-out both;
-  animation-delay: calc(1.75s + var(--i) * 40ms);
+  animation-delay: calc(2.25s + var(--i) * 40ms);
 }
 
 @keyframes puff {
@@ -643,13 +644,15 @@
   filter: drop-shadow(0 -6px 40px rgb(0 0 0 / 0.5));
 }
 
+/* The surface at the landing spot sits 2px below 74vh, so the rocket's feet
+   (at exactly 74vh) press slightly into the ground instead of hovering. */
 .rock[data-s="near"],
 .rock[data-s="work"] {
-  transform: translate(-50%, calc(74vh - var(--w) * 0.05));
+  transform: translate(-50%, calc(74vh + 2px - var(--w) * var(--surface, 0.06)));
 }
 
 .rock[data-s="near"] {
-  transition: transform 2.1s cubic-bezier(0.2, 0.7, 0.25, 1);
+  transition: transform 2.6s cubic-bezier(0.2, 0.7, 0.25, 1);
 }
 
 .rock[data-s="work"] {
@@ -704,7 +707,7 @@
   }
   .rocket[data-s="descent"],
   .rocket[data-s="landed"] {
-    bottom: calc(26vh - 22px);
+    bottom: calc(26vh - 26px);
   }
   .smoke,
   .dust,

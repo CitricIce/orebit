@@ -424,21 +424,35 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
             if (e.key === "Enter" || e.key === " ") skipScene();
           }}
         >
-          {p === "launch" ? (
-            <p className={s.launchCaption} aria-live="polite">
-              <span className={s.captionA}>Lift off</span>
-              <span className={s.captionB}>Leaving Earth</span>
-            </p>
-          ) : (
-            <p className={s.location} aria-live="polite">
-              <span className={s.locationKicker}>
-                Next stop · {day.rounds[roundIdx]?.designation}
-              </span>
-              <span className={s.locationRegion}>{stop.region}</span>
-              <span className={s.locationDetail}>{stop.detail}</span>
-            </p>
-          )}
-          <span className={s.skipHint}>Tap to skip</span>
+          {/* Letterbox bars mark this as a cutscene. The text is flavor, so it
+              sits small in the bottom bar like a subtitle. */}
+          <div className={s.barTop}>
+            <span className={s.autopilot}>
+              <span className={s.autopilotDot} />
+              Autopilot
+            </span>
+          </div>
+          <div className={s.barBottom}>
+            {p === "launch" ? (
+              <p className={s.subtitle} aria-live="polite">
+                <span className={s.logTag}>Flight log</span>
+                <span className={s.captionSwap}>
+                  <span className={s.captionA}>Engines lit. Clearing the launch tower.</span>
+                  <span className={s.captionB}>Leaving the atmosphere behind.</span>
+                </span>
+              </p>
+            ) : (
+              <p className={s.subtitle} aria-live="polite">
+                <span className={s.logTag}>Flight log</span>
+                <span>
+                  {arriving ? "Touching down: " : "Next stop: "}
+                  {stop.region}
+                  <span className={s.logDetail}> · {stop.detail}</span>
+                </span>
+              </p>
+            )}
+            <span className={s.skipBtn}>Skip ›</span>
+          </div>
         </div>
       );
     }
