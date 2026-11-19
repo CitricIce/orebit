@@ -1,0 +1,147 @@
+/*
+ * Layer heights and the ground line matter: the launch pad sits on the flat
+ * middle of the ground band, 11.6vh from the bottom (y=14 of 130 in the
+ * ground SVG, which stretches to fill 13vh). The rocket in SpaceWorld is
+ * placed to match.
+ */
+
+.land {
+  position: absolute;
+  inset: 0;
+}
+
+.far,
+.mid,
+.near,
+.ground {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  transition: transform 1.4s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 1.2s ease;
+}
+
+.far {
+  bottom: 9vh;
+  height: 34vh;
+}
+
+.mid {
+  bottom: 7vh;
+  height: 22vh;
+}
+
+.near {
+  bottom: 9vh;
+  height: 13vh;
+}
+
+.ground {
+  bottom: 0;
+  height: 13vh;
+}
+
+.groundSvg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Lift off: nearer layers fall away faster. */
+.land[data-s="falling"] .far {
+  transform: translateY(28vh);
+  transition: transform 3.1s cubic-bezier(0.55, 0, 0.6, 1) 0.45s;
+}
+
+.land[data-s="falling"] .mid {
+  transform: translateY(45vh);
+  transition: transform 3s cubic-bezier(0.55, 0, 0.6, 1) 0.45s;
+}
+
+.land[data-s="falling"] .near {
+  transform: translateY(70vh);
+  transition: transform 2.9s cubic-bezier(0.55, 0, 0.6, 1) 0.45s;
+}
+
+.land[data-s="falling"] .ground {
+  transform: translateY(100vh);
+  transition: transform 2.8s cubic-bezier(0.55, 0, 0.6, 1) 0.45s;
+}
+
+.land[data-s="gone"] .far,
+.land[data-s="gone"] .mid,
+.land[data-s="gone"] .near,
+.land[data-s="gone"] .ground {
+  transform: translateY(110vh);
+  opacity: 0;
+  transition: transform 1.4s ease-in, opacity 1s ease-in;
+}
+
+.forePlant {
+  position: absolute;
+  bottom: calc(11.6vh - 6px);
+  margin-left: -20px;
+  overflow: visible;
+  transform-origin: bottom center;
+  animation: sway 5s ease-in-out infinite alternate;
+}
+
+.forePlant:nth-of-type(even) {
+  animation-duration: 6.5s;
+}
+
+@keyframes sway {
+  from { rotate: -2deg; }
+  to { rotate: 2deg; }
+}
+
+.moss {
+  animation: moss 3.5s ease-in-out infinite alternate;
+}
+
+@keyframes moss {
+  from { opacity: 0.55; }
+  to { opacity: 1; }
+}
+
+.pad {
+  position: absolute;
+  left: 50%;
+  bottom: calc(11.6vh - 8px);
+  width: 160px;
+  height: 120px;
+  margin-left: -80px;
+  overflow: visible;
+}
+
+.beacon {
+  animation: blink 1.4s steps(1) infinite;
+}
+
+.light {
+  animation: blink 1.2s ease-in-out infinite alternate;
+}
+
+@keyframes blink {
+  0%, 60% { opacity: 1; }
+  61%, 100% { opacity: 0.25; }
+}
+
+@media (max-width: 720px) {
+  .far {
+    height: 28vh;
+  }
+  .forePlant:nth-of-type(4),
+  .forePlant:nth-of-type(5) {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .forePlant,
+  .moss,
+  .beacon,
+  .light {
+    animation: none;
+  }
+}
