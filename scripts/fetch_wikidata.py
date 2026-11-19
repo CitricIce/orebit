@@ -84,8 +84,7 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "solar-system": [
         (inst("Q2537"), 2),
         (inst("Q2199"), 1),
-        (f"?item wdt:P31/wdt:P279* wd:Q3559 .", 6),
-        (inst("Q3863"), 15),
+        (inst("Q3559"), 6),
     ],
     "sharks": [(taxa("Q7372"), 1)],
     "snakes": [(taxa("Q2102"), 2)],
@@ -176,13 +175,21 @@ def fetch(cid: str) -> list[dict]:
 def main() -> None:
     wanted = sys.argv[1:] or list(SOURCES)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    failed = []
     for cid in wanted:
         if cid not in SOURCES:
             sys.exit(f"Unknown category: {cid}")
         print(f"  {cid} ...", flush=True)
-        items = fetch(cid)
+        try:
+            items = fetch(cid)
+        except Exception as err:  # noqa: BLE001 - keep going, report at the end
+            print(f"  {cid}: FAILED ({err}). The previous file, if any, is kept.", flush=True)
+            failed.append(cid)
+            continue
         (OUT_DIR / f"{cid}.json").write_text(json.dumps(items, ensure_ascii=False, indent=0) + "\n", encoding="utf-8")
-        print(f"  {cid}: {len(items)} items")
+        print(f"  {cid}: {len(items)} items", flush=True)
+    if failed:
+        sys.exit(f"Failed: {', '.join(failed)}. Run again for just those.")
 
 
 if __name__ == "__main__":
