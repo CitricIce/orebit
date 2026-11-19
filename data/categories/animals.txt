@@ -459,12 +459,12 @@ title: Cat breeds
 prompt: Name as many cat breeds as you can
 starcore: Turkish Van
 --- 1
+Ragdoll
 Persian
 Siamese
 Maine Coon
 Sphynx | sphinx | hairless cat
 --- 2
-Ragdoll
 Bengal
 British Shorthair
 Scottish Fold

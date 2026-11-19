@@ -5,13 +5,13 @@ title: Classical composers
 prompt: Name as many classical composers as you can (last names count)
 starcore: Hildegard of Bingen
 --- 1
+Antonio Vivaldi | vivaldi
 Wolfgang Amadeus Mozart | mozart
 Ludwig van Beethoven | beethoven
 Johann Sebastian Bach | bach | js bach
 Frédéric Chopin | chopin
 --- 2
 Pyotr Ilyich Tchaikovsky | tchaikovsky
-Antonio Vivaldi | vivaldi
 George Frideric Handel | handel
 Joseph Haydn | haydn
 Franz Schubert | schubert

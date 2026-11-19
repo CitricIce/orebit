@@ -375,6 +375,23 @@ def build_category(raw: dict) -> dict:
     }
 
 
+# The bar every category must clear: most people can name about 5 answers in
+# 45 seconds. The build can't ask people, so it checks the hand-sorted
+# version: at least this many answers in the Stone tier, the ones almost
+# everyone thinks of. See data/categories/README.md.
+MIN_STONE = 5
+
+
+def check_easy_enough(cats: list[dict]) -> None:
+    short = {c["id"]: n for c in cats if (n := sum(1 for a in c["answers"] if a["tier"] == 1)) < MIN_STONE}
+    if short:
+        sys.exit(
+            f"Too hard: these categories have fewer than {MIN_STONE} Stone answers {short}. "
+            "Most players must be able to name about 5. Promote obvious answers to --- 1, "
+            "or drop the category."
+        )
+
+
 CALENDAR_FILE = ROOT / "data" / "calendar.json"
 
 
@@ -401,6 +418,7 @@ def main() -> None:
         sys.exit(f"Duplicate category ids: {sorted(dupes)}")
 
     cats = [build_category(r) for r in sorted(raws, key=lambda r: r["id"])]
+    check_easy_enough(cats)
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUT_FILE.write_text(
         json.dumps({"version": 2, "categories": cats}, ensure_ascii=False, separators=(",", ":")) + "\n",

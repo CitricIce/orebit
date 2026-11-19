@@ -4,6 +4,20 @@ Each `.txt` file holds one or more categories. `scripts/build_categories.py`
 reads them, merges duplicates, assigns tiers and writes
 `src/data/categories.json`.
 
+## The rule for every category
+
+Most people must be able to name about 5 answers in 45 seconds without
+thinking hard. "Pizza toppings" passes. "Booker Prize winners" doesn't. Ask
+"could a random person name 5?" before adding anything. Too narrow (songs by
+one artist) and too broad (mammals) are both out.
+
+Accept the casual guesses people actually type: "Big Dipper" for Ursa Major,
+"tabby" for cat breeds, "Caesar" for emperors.
+
+The build enforces part of this: every category needs at least 5 answers in
+the Stone tier (`--- 1`), the ones almost everyone thinks of. If an honest
+Stone tier has fewer than 5, the category is too hard. Drop it.
+
 ## Format
 
 ```

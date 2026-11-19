@@ -230,6 +230,8 @@ title: Constellations
 prompt: Name as many constellations as you can
 starcore: Camelopardalis
 --- 1
+Leo
+Scorpius | scorpio
 Orion
 Ursa Major | big dipper | great bear
 Ursa Minor | little dipper | little bear
@@ -240,8 +242,6 @@ Pegasus
 Perseus
 Draco
 Hercules
-Scorpius | scorpio
-Leo
 Taurus
 Gemini
 Aries
