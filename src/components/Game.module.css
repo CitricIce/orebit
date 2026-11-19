@@ -227,7 +227,7 @@
   display: grid;
   grid-template-columns: 150px 1fr;
   gap: 18px;
-  min-height: min(640px, calc(100dvh - 140px));
+  min-height: min(640px, calc(100dvh - 200px));
 }
 
 .console {
@@ -642,7 +642,7 @@
   .play {
     grid-template-columns: 54px 1fr;
     gap: 10px;
-    min-height: calc(100dvh - 120px);
+    min-height: calc(100dvh - 140px);
   }
   .hud {
     align-items: flex-start;
@@ -682,7 +682,7 @@
 
 .stack {
   display: grid;
-  min-height: calc(100dvh - 190px);
+  min-height: calc(100dvh - 200px);
 }
 
 .layer {

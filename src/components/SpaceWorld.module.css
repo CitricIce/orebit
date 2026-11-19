@@ -77,10 +77,23 @@
 
 /* ---------- sky and Earth ---------- */
 
+/* Dusk: deep blue overhead fading through violet to a warm horizon. */
 .sky {
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, #0b1633 0%, #1d4583 55%, #6fa6e0 100%);
+  background:
+    radial-gradient(60% 40% at 78% 82%, rgb(255 190 120 / 0.55), transparent 70%),
+    radial-gradient(90% 50% at 20% 90%, rgb(255 120 150 / 0.25), transparent 70%),
+    linear-gradient(
+      180deg,
+      #070a24 0%,
+      #16184a 22%,
+      #3a2a72 42%,
+      #7a3f8c 58%,
+      #d26a86 72%,
+      #ff9d6e 84%,
+      #ffd194 100%
+    );
   opacity: 0;
   transition: opacity 1.4s ease;
 }
@@ -94,6 +107,116 @@
   transition: opacity 2.4s ease-in 0.5s;
 }
 
+/* The sun and moon fade out ahead of the sky so they don't go gray. */
+.sky[data-s="falling"] .sun,
+.sky[data-s="falling"] .moon,
+.sky[data-s="gone"] .sun,
+.sky[data-s="gone"] .moon {
+  opacity: 0;
+}
+
+.sun,
+.moon {
+  transition: opacity 0.9s ease 0.4s;
+}
+
+/* The first stars, only in the darker upper sky. */
+.skyStars {
+  position: absolute;
+  inset: 0 0 45% 0;
+  background-image:
+    radial-gradient(1.4px 1.4px at 12% 20%, #fff, transparent 70%),
+    radial-gradient(1px 1px at 28% 8%, #fff, transparent 70%),
+    radial-gradient(1.2px 1.2px at 47% 30%, #fff, transparent 70%),
+    radial-gradient(1px 1px at 66% 14%, #fff, transparent 70%),
+    radial-gradient(1.6px 1.6px at 84% 26%, #fff, transparent 70%),
+    radial-gradient(1px 1px at 93% 6%, #fff, transparent 70%);
+  background-size: 360px 220px;
+  mask-image: linear-gradient(180deg, #000 30%, transparent);
+  animation: twinkle 4s ease-in-out infinite alternate;
+}
+
+@keyframes twinkle {
+  from { opacity: 0.5; }
+  to { opacity: 1; }
+}
+
+.moon {
+  position: absolute;
+  left: 12vw;
+  top: 13vh;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  box-shadow: inset -12px 6px 0 0 #fdf3d8;
+  filter: drop-shadow(0 0 12px rgb(253 243 216 / 0.45));
+  transform: rotate(-20deg);
+}
+
+.sun {
+  position: absolute;
+  right: 18vw;
+  top: 68vh;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #fff6dc 0 30%, #ffd08a 45%, rgb(255 170 100 / 0) 70%);
+  filter: blur(1px);
+  animation: sun-pulse 6s ease-in-out infinite alternate;
+}
+
+@keyframes sun-pulse {
+  from { transform: scale(1); }
+  to { transform: scale(1.08); }
+}
+
+/* Soft clouds drifting across the low sky. They drop away on launch. */
+.clouds {
+  position: absolute;
+  inset: 0;
+  transition: transform 1.4s ease, opacity 1.4s ease;
+}
+
+.clouds[data-s="falling"] {
+  transform: translateY(70vh);
+  opacity: 0;
+  transition: transform 2.2s cubic-bezier(0.55, 0, 0.6, 1) 0.6s, opacity 1.6s ease-in 0.9s;
+}
+
+.clouds[data-s="gone"] {
+  transform: translateY(90vh);
+  opacity: 0;
+}
+
+.cloud {
+  --i: 0;
+  position: absolute;
+  height: 34px;
+  border-radius: 999px;
+  background:
+    radial-gradient(40% 90% at 30% 60%, rgb(255 225 225 / 0.85), transparent 70%),
+    radial-gradient(45% 100% at 62% 45%, rgb(255 236 230 / 0.9), transparent 72%),
+    radial-gradient(50% 80% at 50% 80%, rgb(255 190 190 / 0.7), transparent 75%);
+  filter: blur(2px);
+  opacity: 0.75;
+  animation: drift 60s linear infinite;
+  animation-delay: calc(var(--i) * -11s);
+}
+
+.cloud:nth-child(1) { top: 58vh; left: 4vw; width: 220px; }
+.cloud:nth-child(2) { top: 64vh; left: 30vw; width: 160px; opacity: 0.6; }
+.cloud:nth-child(3) { top: 54vh; left: 62vw; width: 260px; }
+.cloud:nth-child(4) { top: 70vh; left: 78vw; width: 180px; opacity: 0.55; }
+.cloud:nth-child(5) { top: 46vh; left: 20vw; width: 120px; opacity: 0.4; height: 22px; }
+.cloud:nth-child(6) { top: 42vh; left: 70vw; width: 140px; opacity: 0.35; height: 22px; }
+
+@keyframes drift {
+  from { transform: translateX(-12vw); }
+  to { transform: translateX(12vw); }
+}
+
+/* Earth from low orbit: oceans, green continents, a desert, cloud cover,
+   and a glowing atmosphere along the curve. */
 .earth {
   position: absolute;
   left: 50%;
@@ -102,14 +225,76 @@
   aspect-ratio: 1;
   border-radius: 50%;
   background:
-    radial-gradient(40% 12% at 46% 3%, rgb(255 255 255 / 0.55), transparent 70%),
-    radial-gradient(30% 8% at 58% 5%, #3f8f5a, transparent 70%),
-    radial-gradient(70% 30% at 50% 10%, #2e6fbf, #123a73 60%, #0a1d3d);
+    radial-gradient(4% 0.55% at 44% 1.5%, rgb(255 255 255 / 0.9), transparent 70%),
+    radial-gradient(6% 0.5% at 58% 2.7%, rgb(255 255 255 / 0.75), transparent 70%),
+    radial-gradient(3% 0.45% at 39% 3.6%, rgb(255 255 255 / 0.7), transparent 70%),
+    radial-gradient(5% 0.5% at 64% 1.3%, rgb(255 255 255 / 0.65), transparent 70%),
+    radial-gradient(2.5% 0.4% at 51% 4.6%, rgb(255 255 255 / 0.6), transparent 70%),
+    radial-gradient(0.8% 0.25% at 45.5% 2.2%, #f4f8ff 0 59%, transparent 62%),
+    radial-gradient(0.6% 0.2% at 46.6% 2.5%, #e9f1fb 0 59%, transparent 62%),
+    radial-gradient(0.7% 0.22% at 57.2% 3.1%, #f4f8ff 0 59%, transparent 62%),
+    radial-gradient(2.2% 0.7% at 41.5% 3.2%, #2d6e3c 0 59%, transparent 62%),
+    radial-gradient(1.6% 0.5% at 47% 3.4%, #2f7440 0 59%, transparent 62%),
+    radial-gradient(2% 0.6% at 59% 3.9%, #2f7440 0 59%, transparent 62%),
+    radial-gradient(1.3% 0.45% at 36% 4.3%, #285f37 0 59%, transparent 62%),
+    radial-gradient(2.6% 0.8% at 53.2% 2.3%, #d2b06a 0 59%, transparent 62%),
+    radial-gradient(1.6% 0.6% at 54.8% 2.9%, #c49d58 0 59%, transparent 62%),
+    radial-gradient(5% 1.5% at 43% 2.7%, #4f9d55 0 59%, transparent 62%),
+    radial-gradient(3.2% 1.2% at 39.5% 3.4%, #4a9650 0 59%, transparent 62%),
+    radial-gradient(2.6% 0.9% at 46.8% 2.1%, #58a65a 0 59%, transparent 62%),
+    radial-gradient(2% 1% at 41% 4.4%, #4a9650 0 59%, transparent 62%),
+    radial-gradient(4.4% 1.3% at 56.5% 3.2%, #5fae52 0 59%, transparent 62%),
+    radial-gradient(2.8% 1% at 53.5% 2.5%, #68b457 0 59%, transparent 62%),
+    radial-gradient(2.4% 1.1% at 60% 4.1%, #58a54f 0 59%, transparent 62%),
+    radial-gradient(1.6% 0.7% at 58.5% 2.3%, #6ab85a 0 59%, transparent 62%),
+    radial-gradient(1.2% 0.5% at 49.5% 4.9%, #5aa555 0 59%, transparent 62%),
+    radial-gradient(0.7% 0.3% at 50.8% 4.3%, #5aa555 0 59%, transparent 62%),
+    radial-gradient(3% 1.1% at 34.5% 4.6%, #3f8a4a 0 59%, transparent 62%),
+    radial-gradient(2.6% 1% at 65.5% 2.0%, #7ab95c 0 59%, transparent 62%),
+    radial-gradient(14% 3.6% at 50% 3.2%, rgb(80 200 230 / 0.35), transparent 70%),
+    radial-gradient(70% 30% at 50% 10%, #2f95e6, #1a6cc0 40%, #0d3f80 72%, #061c3e);
   box-shadow:
-    0 -14px 50px 6px rgb(120 190 255 / 0.55),
-    0 -2px 0 2px rgb(170 220 255 / 0.6);
+    0 -6px 24px 2px rgb(255 190 140 / 0.55),
+    0 -26px 80px 18px rgb(120 180 255 / 0.4),
+    inset 0 18px 40px rgb(255 200 160 / 0.25);
   transform: translate(-50%, 0);
   transition: transform 1.4s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 1.4s ease;
+}
+
+/* Launch pad at the top of the curve. It rides along with Earth. */
+.pad {
+  position: absolute;
+  left: 50%;
+  top: -6px;
+  width: 92px;
+  height: 12px;
+  margin-left: -46px;
+  border-radius: 4px 4px 2px 2px;
+  background: linear-gradient(180deg, #5b5468, #2c2734);
+  box-shadow: 0 0 14px rgb(255 190 120 / 0.35);
+}
+
+.pad::before {
+  content: "";
+  position: absolute;
+  left: -14px;
+  bottom: 8px;
+  width: 8px;
+  height: 84px;
+  background:
+    repeating-linear-gradient(135deg, transparent 0 5px, rgb(0 0 0 / 0.35) 5px 7px),
+    linear-gradient(90deg, #6b6478, #3a3444);
+  border-radius: 2px;
+}
+
+.pad::after {
+  content: "";
+  position: absolute;
+  left: -8px;
+  bottom: 70px;
+  width: 26px;
+  height: 3px;
+  background: #6b6478;
 }
 
 .earth[data-s="falling"] {
@@ -128,7 +313,9 @@
 .rocket {
   position: absolute;
   left: 50%;
-  bottom: 19.5vh;
+  /* The bottom 29% of the rocket image is flame space, so sink it to
+     put the hull on the launch pad. */
+  bottom: calc(20vh - 32px);
   width: 54px;
   height: 126px;
   margin-left: -27px;
@@ -395,6 +582,9 @@
 }
 
 @media (max-width: 720px) {
+  .moon { left: 8vw; top: 11vh; width: 40px; height: 40px; box-shadow: inset -9px 5px 0 0 #fdf3d8; }
+  .sun { right: 6vw; width: 90px; height: 90px; }
+  .cloud { transform-origin: left; scale: 0.7; }
   .planet[data-planet="mars"] { width: 70px; height: 70px; }
   .planet[data-planet="jupiter"] { width: 230px; height: 230px; right: -100px; }
   .planet[data-planet="neptune"] { width: 96px; height: 96px; }
@@ -406,6 +596,18 @@
     width: 44px;
     height: 104px;
     margin-left: -22px;
+    bottom: calc(20vh - 26px);
+  }
+  .pad {
+    width: 74px;
+    margin-left: -37px;
+  }
+  .pad::before {
+    height: 68px;
+  }
+  .pad::after {
+    bottom: 56px;
+    width: 20px;
   }
 }
 

@@ -88,6 +88,11 @@ button {
   -webkit-tap-highlight-color: transparent;
 }
 
+/* The game screens fill the window, so the footer is left off there. */
+body:has([data-game]) > footer {
+  display: none;
+}
+
 h1,
 h2,
 h3 {

@@ -129,7 +129,11 @@ export default function SpaceWorld({ world, target }: { world: World; target: nu
     <div className={s.world} data-world={world} aria-hidden="true">
       <div className={s.starsFar} />
       <div className={s.stars} />
-      <div className={s.sky} data-s={earth} />
+      <div className={s.sky} data-s={earth}>
+        <div className={s.skyStars} />
+        <div className={s.moon} />
+        <div className={s.sun} />
+      </div>
 
       {STOPS.map((stop, i) => (
         <div key={stop.planet} className={s.planet} data-planet={stop.planet} data-s={planetState(i, world, target)} />
@@ -156,7 +160,14 @@ export default function SpaceWorld({ world, target }: { world: World; target: nu
         </div>
       ))}
 
-      <div className={s.earth} data-s={earth} />
+      <div className={s.clouds} data-s={earth}>
+        {[0, 1, 2, 3, 4, 5].map((i) => (
+          <span key={i} className={s.cloud} style={{ "--i": i } as React.CSSProperties} />
+        ))}
+      </div>
+      <div className={s.earth} data-s={earth}>
+        <div className={s.pad} />
+      </div>
       <div className={s.rocket} data-s={rocket}>
         <div className={s.smoke}>
           {[0, 1, 2, 3, 4, 5].map((i) => (
