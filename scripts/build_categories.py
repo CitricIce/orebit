@@ -200,6 +200,11 @@ def merge_wikidata(cid: str, title: str, rows: list[dict]) -> int:
     for i, row in enumerate(rows):
         for n in [row["name"], *row["aliases"]]:
             owner.setdefault(key(n), i)
+    # Names that identify an answer: everything hand-written plus each Wikidata
+    # item's main label. Only these merge an item into an existing answer.
+    # Alternate names alone don't, because related items share them (George V
+    # and George VI both list "George Windsor").
+    strong = set(owner)
 
     def usable(k: str) -> bool:
         return len(k) >= 3 and k not in owner and k not in generic
@@ -212,7 +217,7 @@ def merge_wikidata(cid: str, title: str, rows: list[dict]) -> int:
         name, extra = tidy
         names = [name, *extra]
         keys = [key(n) for n in names]
-        hit = next((owner[k] for k in keys if k in owner), None)
+        hit = next((owner[k] for k in keys if k in strong), None)
         if hit is not None:
             for n, k in zip(names, keys):
                 if usable(k):
@@ -225,6 +230,7 @@ def merge_wikidata(cid: str, title: str, rows: list[dict]) -> int:
         row = {"name": name, "aliases": [], "override": wikidata_tier(item["links"])}
         rows.append(row)
         owner[key(name)] = idx
+        strong.add(key(name))
         for n, k in zip(names[1:], keys[1:]):
             if usable(k):
                 row["aliases"].append(n)

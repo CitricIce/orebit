@@ -2,81 +2,67 @@
  "start": "2026-11-18",
  "days": [
   [
-   "cat-breeds",
-   "mexican-foods",
-   "programming-languages",
-   "solar-system",
-   "shakespeare"
-  ],
-  [
-   "coffee-drinks",
-   "dog-breeds",
-   "asian-countries",
-   "greek-roman-gods",
-   "best-actress-oscar-winners"
-  ],
-  [
-   "us-states",
-   "breads",
-   "ice-cream-flavors",
-   "card-games",
-   "composers"
-  ],
-  [
-   "martial-arts",
-   "european-countries",
-   "sharks",
-   "sandwiches",
-   "wine-grapes"
-  ],
-  [
-   "bones",
-   "us-state-capitals",
    "teas",
-   "car-brands",
+   "martial-arts",
+   "painters",
+   "solar-system",
    "birds-of-prey"
   ],
   [
    "candy",
-   "americas-countries",
-   "elements",
    "string-instruments",
-   "horse-breeds"
-  ],
-  [
-   "african-countries",
-   "pizza-toppings",
-   "cetaceans",
-   "japanese-foods",
-   "ballon-d-or-winners"
-  ],
-  [
-   "nuts-seeds",
-   "pasta",
-   "world-capitals",
-   "gemstones",
-   "norse-mythology"
-  ],
-  [
-   "board-games",
-   "primates",
-   "cocktails",
-   "sauces",
-   "u-s-vice-presidents"
-  ],
-  [
-   "painters",
    "soups",
-   "herbs-spices",
-   "dinosaurs",
-   "best-actor-oscar-winners"
+   "asian-countries",
+   "constellations"
   ],
   [
-   "cheeses",
-   "snakes",
-   "cakes",
+   "bones",
+   "us-state-capitals",
+   "breads",
+   "sauces",
+   "emperors"
+  ],
+  [
+   "mexican-foods",
+   "sandwiches",
+   "world-capitals",
    "us-presidents",
-   "mushrooms"
+   "composers"
+  ],
+  [
+   "cat-breeds",
+   "japanese-foods",
+   "card-games",
+   "gemstones",
+   "americas-countries"
+  ],
+  [
+   "dinosaurs",
+   "herbs-spices",
+   "european-countries",
+   "elements",
+   "programming-languages"
+  ],
+  [
+   "ice-cream-flavors",
+   "pasta",
+   "car-brands",
+   "sharks",
+   "us-states"
+  ],
+  [
+   "snakes",
+   "coffee-drinks",
+   "cocktails",
+   "african-countries",
+   "board-games"
+  ],
+  [
+   "cetaceans",
+   "primates",
+   "gods",
+   "cheeses",
+   "nuts-seeds"
   ]
  ]
 }

@@ -1,9 +1,9 @@
 # Culture. Tiers: 1 = almost everyone names it, 5 = deep cut.
 
-=== greek-roman-gods
-title: Greek and Roman gods
-prompt: Name as many Greek or Roman gods, goddesses and titans as you can
-starcore: Nyx
+=== gods
+title: Gods and goddesses
+prompt: Name as many gods and goddesses as you can, from any mythology
+starcore: Tezcatlipoca
 --- 1
 Zeus
 Poseidon
@@ -13,6 +13,11 @@ Apollo
 Aphrodite
 Hermes
 Ares
+Thor
+Odin
+Loki
+Ra | re
+Anubis
 --- 2
 Hera
 Artemis
@@ -57,6 +62,35 @@ Hypnos
 Thanatos
 Medusa
 Hercules | heracles
+Freya | freyja
+Frigg | frigga
+Baldur | balder | baldr
+Heimdall | heimdallr
+Tyr | tiw
+Hel
+Freyr | frey
+Osiris
+Isis
+Horus
+Set | seth
+Thoth
+Bastet | bast
+Amun | amon | amun-ra | amon-ra
+Sekhmet
+Hathor
+Shiva
+Vishnu
+Brahma
+Ganesha | ganesh
+Krishna
+Kali
+Lakshmi
+Rama
+Hanuman
+Indra
+Quetzalcoatl
+Amaterasu
+Maui
 --- 3
 Hyperion
 Oceanus
@@ -176,6 +210,89 @@ Orcus
 Dis Pater
 Mania
 Lemures
+Vidar | vidarr
+Vali
+Njord | njordr
+Bragi
+Idun | idunn
+Sif
+Hodr | hod | hoder | hodur
+Ullr | ull
+Forseti
+Hermod | hermodr
+Mimir
+Skadi
+Sigyn
+Mani
+Ptah
+Nut
+Geb
+Sobek
+Aten
+Nephthys
+Ma'at | maat
+Atum
+Bes
+Khonsu
+Apep | apophis
+Khepri
+Durga
+Parvati
+Saraswati
+Agni
+Surya
+Varuna
+Yama
+Kartikeya | murugan | skanda
+Vayu
+Huitzilopochtli
+Tlaloc
+Tezcatlipoca
+Xipe Totec
+Kukulkan
+Inti
+Viracocha
+Pachamama
+Marduk
+Ishtar
+Inanna
+Enlil
+Enki | ea
+Tiamat
+Baal
+Dagon
+Astarte
+Dagda | the dagda
+Brigid | brigit
+Lugh
+Morrigan | the morrigan
+Danu
+Cernunnos
+Epona
+Susanoo | susanowo
+Tsukuyomi
+Izanagi
+Izanami
+Inari
+Raijin
+Fujin
+Jade Emperor
+Guanyin
+Nuwa
+Pangu
+Sun Wukong | monkey king
+Chang'e
+Perun
+Veles
+Svarog
+Pele
+Tangaroa | tangaloa | kanaloa
+Shango | sango | xango
+Oshun
+Ogun
+Yemoja | yemaya
+Ahura Mazda
+Mithra | mithras
 --- 4
 Achlys
 Aergia
@@ -265,6 +382,91 @@ Merope
 Alcyone
 Celaeno
 Sterope
+Kvasir
+Gerd | gerdr
+Nanna
+Saga
+Eir
+Gefjon
+Nott
+Dagr
+Jord
+Tefnut
+Shu
+Khnum
+Taweret
+Neith
+Mut
+Wadjet
+Nekhbet
+Hapi
+Serket | selket
+Montu
+Seshat
+Rudra
+Mitra
+Ganga
+Shakti
+Soma
+Kubera
+Kamadeva
+Ushas
+Chandra
+Mictlantecuhtli
+Coatlicue
+Xochiquetzal
+Itzamna
+Chaac | chac
+Ixchel
+Mama Quilla
+Ah Puch
+Anu
+Shamash | utu
+Nergal
+Ereshkigal
+Ninurta
+Ashur
+Asherah
+Moloch
+Tammuz | dumuzi | dumuzid
+Nuada
+Manannan mac Lir | manannan
+Aengus | angus og
+Ogma
+Arawn
+Rhiannon
+Ceridwen
+Hachiman
+Ebisu
+Benzaiten
+Kagutsuchi
+Mazu
+Houyi | hou yi
+Fuxi
+Erlang Shen
+Caishen
+Shennong
+Mokosh
+Dazhbog
+Stribog
+Jarilo
+Morana | marzanna
+Svetovid
+Tane
+Ranginui | rangi
+Papatuanuku | papa
+Lono
+Olorun
+Eshu | esu | elegua | eleggua
+Obatala
+Oya
+Orunmila
+Angra Mainyu | ahriman
+Ukko
+Ilmatar
+Ahti
+Tapio
+Sedna
 --- 5
 Abeona
 Adeona
@@ -317,243 +519,110 @@ Tacita
 Verminus
 Robigo
 
-=== norse-mythology
-title: Norse gods and myths
-prompt: Name as many Norse gods, giants, creatures and places as you can
-starcore: Ratatoskr
+=== emperors
+title: Emperors
+prompt: Name as many emperors and empresses as you can, from any empire in history
+starcore: Pachacuti
 --- 1
-Thor
-Odin
-Loki
-Valhalla
+Napoleon | napoleon bonaparte | napoleon i | bonaparte
+Julius Caesar | caesar
+Augustus | octavian | caesar augustus
+Nero
+Caligula
+Hirohito | showa
+Genghis Khan | chinggis khan
+Charlemagne | charles the great
 --- 2
-Freya | freyja
-Frigg | frigga
-Baldur | balder | baldr
-Heimdall | heimdallr
-Tyr | tiw
-Hel
-Fenrir | fenris | fenrir wolf
-Jörmungandr | jormungandr | midgard serpent | world serpent
-Asgard
-Midgard
-Yggdrasil | world tree
-Ragnarök | ragnarok
-Valkyrie | valkyries
-Mjölnir | mjolnir
-Sleipnir
-Bifrost
-Frost Giants | jotun | jotnar
-Jotunheim | jötunheimr
-Ymir
-Surtr | surt
-Vidar | vidarr
-Vali
-Njord | njordr
-Freyr | frey
-Bragi
-Idun | idunn
-Sif
-Hodr | hod | hoder
-Aesir
-Vanir
-Einherjar
-Draugr | draugar
-Dwarves
-Elves
-Huginn | hugin
-Muninn | munin
-Gungnir
-Norns
-Niflheim
-Muspelheim
-Helheim
-Alfheim
-Vanaheim
-Svartalfheim
+Marcus Aurelius
+Constantine the Great | constantine | constantine i
+Hadrian
+Trajan
+Claudius
+Tiberius
+Commodus
+Vespasian
+Diocletian
+Justinian | justinian i
+Kublai Khan
+Qin Shi Huang | shi huangdi | first emperor
+Puyi | pu yi | last emperor
+Akbar | akbar the great
+Shah Jahan
+Peter the Great | peter i
+Catherine the Great | catherine ii
+Nicholas II | tsar nicholas
+Franz Joseph | franz josef
+Wilhelm II | kaiser wilhelm
+Haile Selassie
+Montezuma | moctezuma
+Akihito
+Naruhito
+Queen Victoria | victoria
+Napoleon III | louis napoleon
+Ashoka | asoka
+Meiji | emperor meiji
 --- 3
-Ullr | ull
-Forseti
-Hodur
-Hermod | hermodr
-Mimir
-Kvasir
-Skadi
-Gerd | gerdr
-Nanna
-Sigyn
-Saga
-Eir
-Gefjon
-Fulla
-Lofn
-Sjofn
-Var
-Snotra
-Hlin
-Syn
-Gna
-Vor
-Sol | sunna
-Mani
-Nott
-Dagr
-Jord
-Rind
-Gunnlod
-Angrboda
-Hati
-Skoll
-Garmr | garm
-Nidhogg | nidhoggr
-Ratatoskr
-Vedrfolnir
-Hraesvelgr
-Audhumla
-Buri
-Bor
-Bestla
-Ask | askr
-Embla
-Urd | urdr
-Verdandi
-Skuld
-Brokkr
-Sindri | eitri
-Andvari
-Fafnir
-Regin
-Sigurd | siegfried
-Brunhild | brynhildr
-Thrym | thrymr
-Hrungnir
-Thjazi | thiazi
-Utgard-Loki | utgardaloki
-Skrymir
-Aegir
-Ran
-Hymir
-Geirrod
-Suttungr
-Baugi
+Caracalla
+Domitian
+Titus
+Nerva
+Antoninus Pius
+Septimius Severus
+Elagabalus
+Theodosius | theodosius i
+Romulus Augustulus
+Otto the Great | otto i
+Frederick Barbarossa | barbarossa
+Charles V
+Babur
+Aurangzeb
+Humayun
+Kangxi
+Qianlong
+Yongle
+Wu Zetian
+Atahualpa
+Pedro II
+Maximilian | maximilian i of mexico
+Alexander II
+Ivan the Terrible | ivan iv
+Jimmu
+Galba
+Otho
+Vitellius
+Aurelian
+Hongwu
+Taizong | tang taizong
+Han Wudi | emperor wu of han
+Basil II
+Chandragupta Maurya
+Menelik II
+Jahangir
+Wilhelm I
 --- 4
-Gjallarhorn
-Draupnir
-Skidbladnir
-Gullinbursti
-Megingjord
-Jarngreipr
-Tanngrisnir
-Tanngnjostr
-Geri
-Freki
-Fensalir
-Bilskirnir
-Breidablik
-Glitnir
-Himinbjorg
-Folkvangr
-Sessrumnir
-Thrudheim
-Valaskjalf
-Hlidskjalf
-Gladsheim
-Vingolf
-Urdarbrunnr
-Mimisbrunnr
-Hvergelmir
-Ginnungagap
-Naglfar
-Gleipnir
-Lævateinn | laevateinn
-Brisingamen
-Andhrimnir
-Saehrimnir
-Heidrun
-Eikthyrnir
-Hildisvini
-Seidr
-Berserker | berserkers
-Ulfhednar
-Disir
-Fylgja
-Landvaettir
-Nisse | tomte
-Troll | trolls
-Kraken
-Lindworm
-Mare
-Huldra
-Nokken | nix
-Fossegrim
-Valknut
-Vegvisir
-Runes | futhark
-Edda
-Poetic Edda
-Prose Edda
-Voluspa
-Havamal
---- 5
-Ve
-Vili
-Lodur
-Hoenir
-Delling
-Nal | laufey
-Farbauti
-Byleistr
-Helblindi
-Narfi
-Magni
-Modi
-Thrud
-Thialfi
-Roskva
-Egil
-Gymir
-Aurboda
-Beli
-Fjalar
-Galar
-Durinn
-Motsognir
-Dvalin
-Alvis
-Ivaldi
-Hreidmar
-Otr
-Ottar
-Hyndla
-Groa
-Vafthrudnir
-Hrimgerd
-Hyrrokkin
-Modgud
-Gjoll
-Nastrond
-Okolnir
-Brimir
-Gimle
-Vidblain
-Andlang
-Lyngvi
-Amsvartnir
-Thjodvitnir
-Hrimfaxi
-Skinfaxi
-Arvakr
-Alsvidr
-Svadilfari
-Grani
-Gulltoppr
-Gullfaxi
-Glaumr
-Hrafnkell
-Vingnir
-Lorride
-Hlora
-Haddingjar
+Bokassa
+Pachacuti
+Heraclius
+Didius Julianus
+Pertinax
+Macrinus
+Severus Alexander
+Julian | julian the apostate
+Constantine XI
+Alexios I Komnenos | alexios komnenos
+Leo III
+Louis the Pious
+Charles the Bald
+Joseph II
+Francis II
+Kammu
+Go-Daigo
+Gojong
+Bao Dai
+Gia Long
+Tamerlane | timur
+Suleiman the Magnificent | suleiman
+Mehmed II | mehmed the conqueror
 
 === board-games
 title: Board games

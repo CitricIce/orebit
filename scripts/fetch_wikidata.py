@@ -76,8 +76,16 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "car-brands": [(inst("Q786820"), 4), (inst("Q10429667"), 3)],
     "martial-arts": [(tree("Q11417"), 2)],
     "string-instruments": [(tree("Q1798603"), 2)],
-    "greek-roman-gods": [(tree("Q22989102"), 2), (tree("Q11688446"), 2)],
-    "norse-mythology": [(tree("Q16513881"), 1)],
+    # Gods from any mythology: Greek, Roman and Norse in depth, every other
+    # pantheon's well-known deities through the general "deity" item.
+    "gods": [
+        (tree("Q22989102"), 2),
+        (tree("Q11688446"), 2),
+        (tree("Q16513881"), 3),
+        ("?item wdt:P31/wdt:P279* wd:Q178885 .", 12),
+    ],
+    # Anyone who held an emperor's title (Roman, Chinese, Mughal, Russian...).
+    "emperors": [("?item wdt:P31 wd:Q5 ; wdt:P39/wdt:P279* wd:Q39018 .", 12)],
     "japanese-foods": [(dishes_from("Q17", "Q234138"), 2)],
     "mexican-foods": [(dishes_from("Q96", "Q207965"), 2)],
     "candy": [(tree("Q185583"), 3), (tree("Q1361086"), 2)],
