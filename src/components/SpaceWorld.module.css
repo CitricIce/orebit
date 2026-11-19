@@ -1,0 +1,422 @@
+/*
+ * The full-page space scene. Each object has a resting style per state, and
+ * the transition on the *destination* state sets how it moves there. Timings
+ * line up with LAUNCH_MS (3.2s) and APPROACH_MS (2.8s) in src/lib/journey.ts.
+ */
+
+.world {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  background: radial-gradient(120% 90% at 50% 40%, #150f26 0%, #07060d 70%);
+  animation: world-in 0.9s ease both;
+}
+
+@keyframes world-in {
+  from {
+    opacity: 0;
+  }
+}
+
+/* ---------- stars ---------- */
+
+.stars,
+.starsFar {
+  position: absolute;
+  inset: -50% -10%;
+  transition: transform 2.8s cubic-bezier(0.4, 0, 0.2, 1), opacity 1s ease;
+}
+
+.stars {
+  background-image:
+    radial-gradient(1.6px 1.6px at 10% 12%, #fff, transparent 70%),
+    radial-gradient(1.2px 1.2px at 32% 48%, #ffe9d0, transparent 70%),
+    radial-gradient(1.8px 1.8px at 74% 22%, #fff, transparent 70%),
+    radial-gradient(1.2px 1.2px at 58% 80%, #d9e4ff, transparent 70%),
+    radial-gradient(1.4px 1.4px at 88% 64%, #fff, transparent 70%),
+    radial-gradient(1.2px 1.2px at 20% 90%, #fff, transparent 70%);
+  background-size: 260px 260px;
+}
+
+.starsFar {
+  opacity: 0.55;
+  background-image:
+    radial-gradient(1px 1px at 18% 30%, #fff, transparent 70%),
+    radial-gradient(1px 1px at 44% 8%, #fff, transparent 70%),
+    radial-gradient(1px 1px at 66% 54%, #fff, transparent 70%),
+    radial-gradient(1px 1px at 86% 86%, #fff, transparent 70%),
+    radial-gradient(1px 1px at 6% 70%, #fff, transparent 70%);
+  background-size: 140px 140px;
+}
+
+/* Stars rush down past the rocket while it climbs. */
+.world[data-world="launch"] .stars {
+  animation: fall 0.8s linear infinite;
+}
+
+.world[data-world="launch"] .starsFar {
+  animation: fall 1.6s linear infinite;
+}
+
+@keyframes fall {
+  to {
+    background-position-y: 260px;
+  }
+}
+
+/* A slow push in while warping. */
+.world[data-world="cruise"] .stars {
+  transform: scale(1.25);
+}
+
+.world[data-world="cruise"] .starsFar {
+  transform: scale(1.12);
+}
+
+/* ---------- sky and Earth ---------- */
+
+.sky {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, #0b1633 0%, #1d4583 55%, #6fa6e0 100%);
+  opacity: 0;
+  transition: opacity 1.4s ease;
+}
+
+.sky[data-s="here"] {
+  opacity: 1;
+}
+
+.sky[data-s="falling"] {
+  opacity: 0;
+  transition: opacity 2.4s ease-in 0.5s;
+}
+
+.earth {
+  position: absolute;
+  left: 50%;
+  top: 80vh;
+  width: max(1500px, 280vw);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background:
+    radial-gradient(40% 12% at 46% 3%, rgb(255 255 255 / 0.55), transparent 70%),
+    radial-gradient(30% 8% at 58% 5%, #3f8f5a, transparent 70%),
+    radial-gradient(70% 30% at 50% 10%, #2e6fbf, #123a73 60%, #0a1d3d);
+  box-shadow:
+    0 -14px 50px 6px rgb(120 190 255 / 0.55),
+    0 -2px 0 2px rgb(170 220 255 / 0.6);
+  transform: translate(-50%, 0);
+  transition: transform 1.4s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 1.4s ease;
+}
+
+.earth[data-s="falling"] {
+  transform: translate(-50%, 55vh) scale(0.85);
+  transition: transform 3s cubic-bezier(0.55, 0, 0.6, 1) 0.45s;
+}
+
+.earth[data-s="gone"] {
+  transform: translate(-50%, 110vh) scale(0.7);
+  opacity: 0;
+  transition: transform 1.6s ease-in, opacity 1.2s ease-in;
+}
+
+/* ---------- rocket ---------- */
+
+.rocket {
+  position: absolute;
+  left: 50%;
+  bottom: 19.5vh;
+  width: 54px;
+  height: 126px;
+  margin-left: -27px;
+  z-index: 3;
+  transition: transform 1s ease, opacity 1s ease;
+}
+
+.rocket[data-s="rise"] {
+  transform: translateY(-40vh);
+  transition: transform 2.7s cubic-bezier(0.55, 0, 0.3, 1) 0.45s;
+}
+
+.rocket[data-s="gone"] {
+  transform: translateY(-85vh) scale(0.2);
+  opacity: 0;
+  transition: transform 1.5s cubic-bezier(0.5, 0, 0.9, 0.5), opacity 1.2s ease-in 0.2s;
+}
+
+.rocketSvg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  filter: drop-shadow(0 0 18px rgb(255 160 70 / 0.3));
+}
+
+.rocket[data-s="rise"] .rocketSvg {
+  animation: rumble 0.08s linear infinite;
+}
+
+@keyframes rumble {
+  25% { transform: translate(-0.8px, 0.6px); }
+  50% { transform: translate(0.8px, -0.4px); }
+  75% { transform: translate(-0.5px, -0.6px); }
+}
+
+.flame {
+  transform-origin: 30px 96px;
+  transform: scaleY(0);
+  transition: transform 0.5s ease-out;
+}
+
+.rocket[data-s="rise"] .flame,
+.rocket[data-s="gone"] .flame {
+  transform: scaleY(1);
+  animation: flicker 0.09s linear infinite alternate;
+}
+
+@keyframes flicker {
+  from { transform: scaleY(0.88) scaleX(0.94); }
+  to { transform: scaleY(1.15) scaleX(1.05); }
+}
+
+.smoke {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+}
+
+.smoke span {
+  --i: 0;
+  --dir: 1;
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  margin: -35px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgb(230 225 240 / 0.6), rgb(230 225 240 / 0) 70%);
+  opacity: 0;
+}
+
+.smoke span:nth-child(odd) {
+  --dir: -1;
+}
+
+.rocket[data-s="rise"] .smoke span {
+  animation: puff 1.8s ease-out both;
+  animation-delay: calc(var(--i) * 70ms);
+}
+
+@keyframes puff {
+  0% { opacity: 0.9; transform: translate(0, 0) scale(0.3); }
+  100% {
+    opacity: 0;
+    transform: translate(calc(var(--dir) * (60px + var(--i) * 24px)), 30px) scale(2.3);
+  }
+}
+
+/* ---------- warp streaks ---------- */
+
+.warp {
+  position: absolute;
+  left: 50%;
+  top: 46%;
+  opacity: 0;
+  transition: opacity 0.7s ease;
+}
+
+.world[data-world="cruise"] .warp {
+  opacity: 1;
+  transition: opacity 0.4s ease;
+}
+
+.warp span {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: var(--len);
+  height: 2px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, rgb(255 255 255 / 0), rgb(220 230 255 / 0.9));
+  transform-origin: 0 50%;
+  opacity: 0;
+  animation: streak 0.9s cubic-bezier(0.5, 0, 1, 1) infinite;
+  animation-play-state: paused;
+}
+
+.world[data-world="cruise"] .warp span,
+.world[data-world="launch"] .warp span {
+  animation-play-state: running;
+}
+
+@keyframes streak {
+  0% { transform: rotate(var(--a)) translateX(20px) scaleX(0.2); opacity: 0; }
+  30% { opacity: 1; }
+  100% { transform: rotate(var(--a)) translateX(80vmax) scaleX(1.6); opacity: 0; }
+}
+
+/* ---------- planets ---------- */
+
+.planet {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0;
+}
+
+.planet[data-planet="mars"] {
+  width: 110px;
+  height: 110px;
+  left: 7vw;
+  top: 14vh;
+  background: radial-gradient(circle at 35% 30%, #f0a074, #b8502c 55%, #4a1a10);
+  box-shadow: 0 0 40px rgb(240 120 70 / 0.25);
+}
+
+.planet[data-planet="jupiter"] {
+  width: 360px;
+  height: 360px;
+  right: -120px;
+  top: -50px;
+  background:
+    radial-gradient(circle at 70% 70%, transparent 55%, rgb(0 0 0 / 0.55) 75%),
+    radial-gradient(14% 9% at 38% 62%, #c4552f, transparent 70%),
+    repeating-linear-gradient(172deg, #e8d2b0 0 16px, #c79a6b 16px 30px, #f0e2c8 30px 44px, #a8724a 44px 52px);
+  box-shadow: 0 0 60px rgb(230 190 140 / 0.18);
+}
+
+.planet[data-planet="neptune"] {
+  width: 150px;
+  height: 150px;
+  left: 5vw;
+  bottom: 12vh;
+  background: radial-gradient(circle at 35% 30%, #9fd0ff, #2f62d8 55%, #0d1f5c);
+  box-shadow: 0 0 50px rgb(80 140 255 / 0.3);
+}
+
+/* Ahead: small, near the vanishing point. */
+.planet[data-planet="mars"][data-s="ahead"] { transform: translate(34vw, 26vh) scale(0.2); }
+.planet[data-planet="jupiter"][data-s="ahead"] { transform: translate(-36vw, 32vh) scale(0.15); }
+.planet[data-planet="neptune"][data-s="ahead"] { transform: translate(36vw, -26vh) scale(0.2); }
+
+.planet[data-s="visible"] {
+  opacity: 1;
+  transform: none;
+  transition: transform 2.8s cubic-bezier(0.25, 0.6, 0.3, 1), opacity 1.4s ease;
+}
+
+.world[data-world="work"] .planet[data-s="visible"] {
+  opacity: 0.55;
+}
+
+/* Passed: swells and slides out the edge we were flying past. */
+.planet[data-s="passed"] {
+  opacity: 0;
+  transition: transform 2.6s cubic-bezier(0.55, 0, 0.8, 0.5), opacity 2.2s ease-in;
+}
+
+.planet[data-planet="mars"][data-s="passed"] { transform: translate(-40vw, -20vh) scale(3); }
+.planet[data-planet="jupiter"][data-s="passed"] { transform: translate(40vw, -30vh) scale(2); }
+.planet[data-planet="neptune"][data-s="passed"] { transform: translate(-40vw, 30vh) scale(3); }
+
+/* ---------- asteroids ---------- */
+
+.rock {
+  position: absolute;
+  left: 50%;
+  top: 46%;
+  width: min(46vmin, 320px);
+  aspect-ratio: 1;
+  opacity: 0;
+  transform: translate(-50%, -50%) translateY(-3vh) scale(0.02);
+}
+
+.rockSvg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  filter: drop-shadow(0 0 30px rgb(0 0 0 / 0.6));
+  animation: spin 90s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.rock[data-s="near"] {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+  transition: transform 2.8s cubic-bezier(0.35, 0, 0.15, 1), opacity 0.9s ease;
+}
+
+/* While drilling, the rock eases behind the console so it stays in view. */
+.rock[data-s="work"] {
+  opacity: 0.3;
+  transform: translate(-50%, -50%) translate(28vw, 8vh) scale(1.9);
+  transition: transform 1.6s cubic-bezier(0.4, 0, 0.2, 1), opacity 1.2s ease;
+}
+
+/* Passed: we fly by it. It swells and sweeps off one side. */
+.rock[data-s="passed"] {
+  opacity: 0;
+  transition: transform 2.4s cubic-bezier(0.4, 0, 0.65, 0.6), opacity 2s ease-in;
+}
+
+.rock[data-s="passed"][data-side="left"] {
+  transform: translate(-50%, -50%) translate(-80vw, 20vh) scale(4.5) rotate(-25deg);
+}
+
+.rock[data-s="passed"][data-side="right"] {
+  transform: translate(-50%, -50%) translate(80vw, 20vh) scale(4.5) rotate(25deg);
+}
+
+.glint {
+  animation: glint 1.8s ease-in-out infinite;
+  transform-origin: 156px 150px;
+}
+
+@keyframes glint {
+  0%, 100% { opacity: 0.4; transform: scale(0.8); }
+  50% { opacity: 1; transform: scale(1.2); }
+}
+
+/* Darkens the scene behind text-heavy screens. */
+.vignette {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(70% 60% at 50% 45%, rgb(7 6 13 / 0.15), rgb(7 6 13 / 0.6));
+  opacity: 0;
+  transition: opacity 1.2s ease;
+}
+
+.world[data-world="work"] .vignette,
+.world[data-world="space"] .vignette {
+  opacity: 1;
+}
+
+@media (max-width: 720px) {
+  .planet[data-planet="mars"] { width: 70px; height: 70px; }
+  .planet[data-planet="jupiter"] { width: 230px; height: 230px; right: -100px; }
+  .planet[data-planet="neptune"] { width: 96px; height: 96px; }
+  .rock { width: min(62vmin, 260px); }
+  .rock[data-s="work"] {
+    transform: translate(-50%, -50%) translate(26vw, 26vh) scale(1.5);
+  }
+  .rocket {
+    width: 44px;
+    height: 104px;
+    margin-left: -22px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .world *,
+  .world *::before {
+    transition-duration: 0.3s !important;
+    transition-delay: 0s !important;
+    animation: none !important;
+  }
+  .warp {
+    display: none;
+  }
+}

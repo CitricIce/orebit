@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import type { DayResponse, GuessResponse, RevealResponse } from "@/lib/api-types";
 import { localToday } from "@/lib/dates";
 import { formatMeters, rankFor, ROUND_SECONDS, TIERS, type TierId } from "@/lib/tiers";
@@ -20,8 +20,8 @@ import DrillShaft from "./DrillShaft";
 import Summary from "./Summary";
 import RevealList from "./RevealList";
 import HowToPlay from "./HowToPlay";
-import SpaceStage from "./SpaceStage";
-import { APPROACH_MS, LAUNCH_MS } from "@/lib/journey";
+import SpaceWorld, { type World } from "./SpaceWorld";
+import { APPROACH_MS, LAUNCH_MS, stopFor } from "@/lib/journey";
 import s from "./Game.module.css";
 
 type Phase = "loading" | "error" | "briefing" | "launch" | "approach" | "countdown" | "drilling" | "settling" | "reveal" | "summary";
@@ -48,6 +48,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   const [feedback, setFeedback] = useState<Feedback | null>(null);
   const [reveal, setReveal] = useState<RevealResponse | null>(null);
   const [lastHit, setLastHit] = useState<{ id: number; tier: TierId } | null>(null);
+  const [revealIdx, setRevealIdx] = useState(0);
 
   const recordRef = useRef<DayRecord | null>(null);
   const foundRef = useRef<FoundOre[]>([]);
@@ -109,8 +110,6 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       cancelled = true;
     };
   }, [date, persist]);
-
-  const round = day?.rounds[roundIdx];
 
   const reducedMotion = () =>
     typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -195,6 +194,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       playedOn: isLast ? localToday() : rec.playedOn,
     });
     setReveal(null);
+    setRevealIdx(roundIdx);
     setPhase("reveal");
     try {
       const res = await fetch(`/api/reveal/${date}/${roundIdx}`);
@@ -282,188 +282,266 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   const doneRounds = record?.rounds.filter(Boolean).length ?? 0;
   const runDepth = record ? totalDepth(record) : 0;
 
-  if (phase === "loading") {
-    return (
-      <div className={s.center}>
-        <div className={s.loader} aria-label="Loading" />
-      </div>
-    );
+  // Content crossfade. When the phase changes, the old screen stays on top
+  // for a moment and fades out while the new one fades in.
+  const layout = (p: Phase) => (p === "settling" ? "drilling" : p);
+  const [prevPhase, setPrevPhase] = useState<Phase>(phase);
+  const [leaving, setLeaving] = useState<Phase | null>(null);
+  if (prevPhase !== phase) {
+    setPrevPhase(phase);
+    if (layout(prevPhase) !== layout(phase) && prevPhase !== "loading") setLeaving(prevPhase);
   }
+  useEffect(() => {
+    if (!leaving) return;
+    const t = setTimeout(() => setLeaving(null), 500);
+    return () => clearTimeout(t);
+  }, [leaving]);
 
-  if (phase === "error" || !day || !record) {
-    return (
-      <div className={s.center}>
-        <p className={s.errorText}>{error ?? "Something broke."}</p>
-        <Link className={s.secondaryBtn} href="/archive">
-          Go to the archive
-        </Link>
-      </div>
-    );
-  }
+  const world: World =
+    phase === "briefing"
+      ? doneRounds === 0
+        ? "ground"
+        : "space"
+      : phase === "launch"
+        ? "launch"
+        : phase === "approach"
+          ? "cruise"
+          : phase === "countdown"
+            ? "orbit"
+            : phase === "drilling" || phase === "settling" || phase === "reveal"
+              ? "work"
+              : "space";
+  const worldTarget = phase === "briefing" ? roundIdx - 1 : phase === "summary" ? 99 : roundIdx;
 
-  if (phase === "summary") {
-    return <Summary day={day} record={record} mode={mode} />;
-  }
+  const renderPhase = (p: Phase): ReactNode => {
+    if (p === "loading") {
+      return (
+        <div className={s.center}>
+          <div className={s.loader} aria-label="Loading" />
+        </div>
+      );
+    }
 
-  if (phase === "briefing") {
-    return (
-      <section className={s.briefing}>
-        <p className={s.kicker}>Survey #{day.number}</p>
-        <h1 className={s.briefTitle}>
-          Three asteroids. <span className={s.accent}>Thirty seconds each.</span>
-        </h1>
+    if (p === "error" || !day || !record) {
+      return (
+        <div className={s.center}>
+          <p className={s.errorText}>{error ?? "Something broke."}</p>
+          <Link className={s.secondaryBtn} href="/archive">
+            Go to the archive
+          </Link>
+        </div>
+      );
+    }
 
-        <button className={s.startBtn} onClick={liftOff}>
-          {doneRounds === 0 ? "Lift off" : `Fly to asteroid ${roundIdx + 1}`}
-        </button>
-        {doneRounds > 0 && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}
+    if (p === "summary") {
+      return <Summary day={day} record={record} mode={mode} />;
+    }
 
-        <details className={s.howTo}>
-          <summary>How to play</summary>
-          <div className={s.howToBody}>
-            <p className={s.howToIntro}>
-              Each rock is a category. Name as many answers as you can before your drill overheats. Common answers
-              are surface dust. Obscure ones are buried deep and worth far more.
+    if (p === "briefing") {
+      return (
+        <section className={s.briefing}>
+          <p className={s.kicker}>Survey #{day.number}</p>
+          <h1 className={s.briefTitle}>
+            Three asteroids. <span className={s.accent}>Thirty seconds each.</span>
+          </h1>
+
+          <button className={s.startBtn} onClick={doneRounds === 0 ? liftOff : flyToAsteroid}>
+            {doneRounds === 0 ? "Lift off" : `Fly to asteroid ${roundIdx + 1}`}
+          </button>
+          {doneRounds > 0 && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}
+
+          <details className={s.howTo}>
+            <summary>How to play</summary>
+            <div className={s.howToBody}>
+              <p className={s.howToIntro}>
+                Each rock is a category. Name as many answers as you can before your drill overheats. Common answers
+                are surface dust. Obscure ones are buried deep and worth far more.
+              </p>
+              <HowToPlay />
+            </div>
+          </details>
+        </section>
+      );
+    }
+
+    if (p === "launch" || p === "approach") {
+      const stop = stopFor(roundIdx);
+      return (
+        <div
+          className={s.sceneLayer}
+          onClick={skipScene}
+          role="button"
+          tabIndex={0}
+          aria-label="Skip animation"
+          onKeyDown={(e) => {
+            if (e.key === "Enter" || e.key === " ") skipScene();
+          }}
+        >
+          {p === "launch" ? (
+            <p className={s.launchCaption} aria-live="polite">
+              <span className={s.captionA}>Lift off</span>
+              <span className={s.captionB}>Leaving Earth</span>
             </p>
-            <HowToPlay />
-          </div>
-        </details>
-      </section>
-    );
-  }
+          ) : (
+            <p className={s.location} aria-live="polite">
+              <span className={s.locationKicker}>
+                Next stop · {day.rounds[roundIdx]?.designation}
+              </span>
+              <span className={s.locationRegion}>{stop.region}</span>
+              <span className={s.locationDetail}>{stop.detail}</span>
+            </p>
+          )}
+          <span className={s.skipHint}>Tap to skip</span>
+        </div>
+      );
+    }
 
-  if (phase === "launch" || phase === "approach") {
-    return (
-      <section aria-live="polite">
-        <SpaceStage scene={phase} round={roundIdx} onSkip={skipScene} />
-      </section>
-    );
-  }
+    const r = day.rounds[roundIdx];
 
-  if (phase === "countdown" && round) {
-    return (
-      <section aria-live="assertive">
-        <SpaceStage scene="arrived" round={roundIdx}>
-          <p className={s.rockCode}>{round.designation}</p>
-          <h2 className={s.countTitle}>{round.title}</h2>
-          <p className={s.countPrompt}>{round.prompt}</p>
+    if (p === "countdown" && r) {
+      return (
+        <div className={s.countLayer} aria-live="assertive">
+          <p className={s.rockCode}>{r.designation}</p>
+          <h2 className={s.countTitle}>{r.title}</h2>
+          <p className={s.countPrompt}>{r.prompt}</p>
           <div key={count} className={s.countNum}>
             {count}
           </div>
-        </SpaceStage>
-      </section>
-    );
-  }
-
-  if ((phase === "drilling" || phase === "settling") && round) {
-    const secs = Math.ceil(timeLeft / 1000);
-    const pct = timeLeft / ROUND_MS;
-    return (
-      <section className={s.play}>
-        <DrillShaft depth={depth} drilling={phase === "drilling"} lastHit={lastHit} heat={1 - pct} />
-        <div className={s.console}>
-          <header className={s.hud}>
-            <div>
-              <p className={s.rockCode}>
-                {round.designation} · rock {roundIdx + 1} of {day.rounds.length}
-              </p>
-              <h2 className={s.prompt}>{round.title}</h2>
-            </div>
-            <div className={s.depthReadout}>
-              <span className={s.depthNum}>{depth}</span>
-              <span className={s.depthUnit}>m</span>
-            </div>
-          </header>
-
-          <div className={s.timer} data-urgent={secs <= 5} role="timer" aria-label={`${secs} seconds left`}>
-            <div className={s.timerFill} style={{ transform: `scaleX(${pct})` }} />
-            <span className={s.timerText}>{phase === "settling" ? "Cooling down" : `${secs}s`}</span>
-          </div>
-
-          <form onSubmit={submit} className={s.inputRow}>
-            <input
-              ref={inputRef}
-              className={s.input}
-              value={input}
-              onChange={(e) => setInput(e.target.value)}
-              placeholder="Type an answer, press Enter"
-              aria-label={round.prompt}
-              autoComplete="off"
-              autoCorrect="off"
-              autoCapitalize="off"
-              spellCheck={false}
-              enterKeyHint="send"
-              maxLength={80}
-              disabled={phase !== "drilling"}
-            />
-            <button className={s.drillBtn} type="submit" disabled={phase !== "drilling"}>
-              Drill
-            </button>
-          </form>
-
-          <div className={s.feedbackSlot} aria-live="polite">
-            {feedback && (
-              <p
-                key={feedback.id}
-                className={s.feedback}
-                data-kind={feedback.kind}
-                style={feedback.tier ? ({ "--c": TIERS[feedback.tier].color } as React.CSSProperties) : undefined}
-              >
-                {feedback.text}
-              </p>
-            )}
-          </div>
-
-          <div className={s.cargo}>
-            <p className={s.cargoHead}>
-              Cargo hold <span>{found.length}</span>
-            </p>
-            <ul className={s.ores}>
-              {[...found].reverse().map((o) => (
-                <li
-                  key={o.name}
-                  className={s.ore}
-                  data-tier={o.tier}
-                  style={{ "--c": TIERS[o.tier].color } as React.CSSProperties}
-                >
-                  <span className={s.gem} data-tier={o.tier} />
-                  {o.name}
-                </li>
-              ))}
-            </ul>
-          </div>
         </div>
-      </section>
-    );
-  }
+      );
+    }
 
-  if (phase === "reveal" && round) {
-    const res = record.rounds[roundIdx];
-    const isLast = roundIdx === day.rounds.length - 1;
-    return (
-      <section className={s.revealWrap}>
-        <header className={s.revealHead}>
-          <p className={s.rockCode}>{round.designation} · core sample</p>
-          <h2 className={s.title}>{round.title}</h2>
-          <div className={s.revealStats}>
-            <div>
-              <span className={s.bigNum}>{res?.depth ?? 0}</span>
-              <span className={s.statLabel}>meters</span>
+    if ((p === "drilling" || p === "settling") && r) {
+      const secs = Math.ceil(timeLeft / 1000);
+      const pct = timeLeft / ROUND_MS;
+      return (
+        <section className={s.play}>
+          <DrillShaft depth={depth} drilling={p === "drilling"} lastHit={lastHit} heat={1 - pct} />
+          <div className={s.console}>
+            <header className={s.hud}>
+              <div>
+                <p className={s.rockCode}>
+                  {r.designation} · rock {roundIdx + 1} of {day.rounds.length}
+                </p>
+                <h2 className={s.prompt}>{r.title}</h2>
+              </div>
+              <div className={s.depthReadout}>
+                <span className={s.depthNum}>{depth}</span>
+                <span className={s.depthUnit}>m</span>
+              </div>
+            </header>
+
+            <div className={s.timer} data-urgent={secs <= 5} role="timer" aria-label={`${secs} seconds left`}>
+              <div className={s.timerFill} style={{ transform: `scaleX(${pct})` }} />
+              <span className={s.timerText}>{p === "settling" ? "Cooling down" : `${secs}s`}</span>
             </div>
-            <div>
-              <span className={s.bigNum}>{res?.found.length ?? 0}</span>
-              <span className={s.statLabel}>of {round.total} ores</span>
+
+            <form onSubmit={submit} className={s.inputRow}>
+              <input
+                ref={p === phase ? inputRef : undefined}
+                className={s.input}
+                value={input}
+                onChange={(e) => setInput(e.target.value)}
+                placeholder="Type an answer, press Enter"
+                aria-label={r.prompt}
+                autoComplete="off"
+                autoCorrect="off"
+                autoCapitalize="off"
+                spellCheck={false}
+                enterKeyHint="send"
+                maxLength={80}
+                disabled={p !== "drilling"}
+              />
+              <button className={s.drillBtn} type="submit" disabled={p !== "drilling"}>
+                Drill
+              </button>
+            </form>
+
+            <div className={s.feedbackSlot} aria-live="polite">
+              {feedback && (
+                <p
+                  key={feedback.id}
+                  className={s.feedback}
+                  data-kind={feedback.kind}
+                  style={feedback.tier ? ({ "--c": TIERS[feedback.tier].color } as React.CSSProperties) : undefined}
+                >
+                  {feedback.text}
+                </p>
+              )}
+            </div>
+
+            <div className={s.cargo}>
+              <p className={s.cargoHead}>
+                Cargo hold <span>{found.length}</span>
+              </p>
+              <ul className={s.ores}>
+                {[...found].reverse().map((o) => (
+                  <li
+                    key={o.name}
+                    className={s.ore}
+                    data-tier={o.tier}
+                    style={{ "--c": TIERS[o.tier].color } as React.CSSProperties}
+                  >
+                    <span className={s.gem} data-tier={o.tier} />
+                    {o.name}
+                  </li>
+                ))}
+              </ul>
             </div>
           </div>
-          <button className={s.primaryBtn} onClick={next} autoFocus>
-            {isLast ? "See mission report" : `Next asteroid`}
-          </button>
-        </header>
-        <RevealList answers={reveal?.answers ?? null} found={res?.found ?? []} />
-        {isLast && <p className={s.runSoFar}>Total run: {formatMeters(runDepth)} · {rankFor(runDepth).title}</p>}
-      </section>
-    );
-  }
+        </section>
+      );
+    }
 
-  return null;
+    const rv = day.rounds[revealIdx];
+    if (p === "reveal" && rv) {
+      const res = record.rounds[revealIdx];
+      const isLast = revealIdx === day.rounds.length - 1;
+      return (
+        <section className={s.revealWrap}>
+          <header className={s.revealHead}>
+            <p className={s.rockCode}>{rv.designation} · core sample</p>
+            <h2 className={s.title}>{rv.title}</h2>
+            <div className={s.revealStats}>
+              <div>
+                <span className={s.bigNum}>{res?.depth ?? 0}</span>
+                <span className={s.statLabel}>meters</span>
+              </div>
+              <div>
+                <span className={s.bigNum}>{res?.found.length ?? 0}</span>
+                <span className={s.statLabel}>of {rv.total} ores</span>
+              </div>
+            </div>
+            <button className={s.primaryBtn} onClick={next} autoFocus>
+              {isLast ? "See mission report" : `Fly to the next asteroid`}
+            </button>
+          </header>
+          <RevealList answers={reveal?.answers ?? null} found={res?.found ?? []} />
+          {isLast && (
+            <p className={s.runSoFar}>
+              Total run: {formatMeters(runDepth)} · {rankFor(runDepth).title}
+            </p>
+          )}
+        </section>
+      );
+    }
+
+    return null;
+  };
+
+  return (
+    <>
+      {day && <SpaceWorld world={world} target={worldTarget} />}
+      <div className={s.stack}>
+        {leaving && (
+          <div key={`leaving-${leaving}`} className={s.layer} data-leaving="true" inert>
+            {renderPhase(leaving)}
+          </div>
+        )}
+        <div key={layout(phase)} className={s.layer}>
+          {renderPhase(phase)}
+        </div>
+      </div>
+    </>
+  );
 }

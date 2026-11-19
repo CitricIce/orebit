@@ -1,4 +1,6 @@
 .header {
+  position: relative;
+  z-index: 3;
   max-width: 1040px;
   margin: 0 auto;
   padding: 18px 24px;

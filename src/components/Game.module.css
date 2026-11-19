@@ -96,7 +96,8 @@
 
 /* Briefing */
 .briefing {
-  min-height: calc(100dvh - 220px);
+  min-height: 58dvh;
+  padding-bottom: 4vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -674,5 +675,209 @@
   .feedback,
   .timer[data-urgent="true"] .timerFill {
     animation: none;
+  }
+}
+
+/* ---------- crossfade between screens ---------- */
+
+.stack {
+  display: grid;
+  min-height: calc(100dvh - 190px);
+}
+
+.layer {
+  grid-area: 1 / 1;
+  min-width: 0;
+  animation: layer-in 0.6s ease 0.15s both;
+}
+
+.layer[data-leaving="true"] {
+  pointer-events: none;
+  z-index: 1;
+  animation: layer-out 0.45s ease both;
+}
+
+/* Opacity only, so fixed-position children (captions, countdown) stay
+   pinned to the viewport during the fade. */
+@keyframes layer-in {
+  from { opacity: 0; }
+}
+
+@keyframes layer-out {
+  to { opacity: 0; }
+}
+
+.layer > section,
+.layer > div {
+  animation: content-rise 0.7s cubic-bezier(0.2, 0.8, 0.2, 1) 0.15s both;
+}
+
+.layer[data-leaving="true"] > section,
+.layer[data-leaving="true"] > div {
+  animation: none;
+}
+
+@keyframes content-rise {
+  from { transform: translateY(14px); }
+}
+
+/* ---------- launch and travel captions ---------- */
+
+.sceneLayer {
+  position: fixed;
+  inset: 72px 0 0 0;
+  z-index: 1;
+  cursor: pointer;
+  animation: none !important;
+}
+
+.sceneLayer:focus-visible {
+  outline: none;
+}
+
+.launchCaption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(17vh - 72px);
+  margin: 0;
+  text-align: center;
+  font-family: var(--mono);
+  font-size: clamp(16px, 2.6vw, 22px);
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: 0 2px 16px rgb(0 0 0 / 0.6);
+}
+
+.captionA,
+.captionB {
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.captionA {
+  animation: cap-a 3.2s ease forwards;
+}
+
+.captionB {
+  opacity: 0;
+  color: var(--accent);
+  animation: cap-b 3.2s ease forwards;
+}
+
+@keyframes cap-a {
+  0% { opacity: 0; transform: translateY(8px); }
+  12%, 42% { opacity: 1; transform: none; }
+  54%, 100% { opacity: 0; transform: translateY(-8px); }
+}
+
+@keyframes cap-b {
+  0%, 52% { opacity: 0; transform: translateY(8px); }
+  66%, 100% { opacity: 1; transform: none; }
+}
+
+.location {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 11vh;
+  margin: 0;
+  padding: 0 16px;
+  display: grid;
+  gap: 6px;
+  justify-items: center;
+  text-align: center;
+  animation: cap-rise 0.8s ease 0.6s both;
+}
+
+.locationKicker {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgb(255 255 255 / 0.55);
+}
+
+.locationRegion {
+  font-size: clamp(26px, 4.5vw, 40px);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  text-shadow: 0 2px 18px rgb(0 0 0 / 0.7);
+}
+
+.locationDetail {
+  font-family: var(--mono);
+  font-size: clamp(11px, 1.6vw, 13px);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+@keyframes cap-rise {
+  from { opacity: 0; transform: translateY(12px); }
+}
+
+.skipHint {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgb(255 255 255 / 0.4);
+}
+
+/* ---------- countdown over the parked asteroid ---------- */
+
+.countLayer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 46%;
+  transform: translateY(-50%);
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 40px 16px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(7 6 13 / 0.7), transparent 75%);
+  animation: none !important;
+}
+
+/* A screen that is fading out keeps its last frame instead of replaying
+   its entrance animations. */
+.layer[data-leaving="true"] .captionA {
+  visibility: hidden;
+}
+
+.layer[data-leaving="true"] .captionB,
+.layer[data-leaving="true"] .location,
+.layer[data-leaving="true"] .countNum {
+  animation: none;
+  opacity: 1;
+}
+
+@media (max-width: 720px) {
+  .sceneLayer {
+    inset: 60px 0 0 0;
+  }
+  .location {
+    bottom: 13vh;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .layer,
+  .layer > section,
+  .layer > div,
+  .captionA,
+  .captionB,
+  .location {
+    animation-duration: 1ms !important;
+    animation-delay: 0ms !important;
   }
 }
