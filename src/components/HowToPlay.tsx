@@ -1,94 +1,184 @@
-import { RANKS, ROUND_SECONDS, ROUNDS_PER_DAY, TIER_LIST } from "@/lib/tiers";
-import s from "./Pages.module.css";
+"use client";
 
-const FAQ = [
+import { useState } from "react";
+import { RANKS, ROUND_SECONDS, ROUNDS_PER_DAY, TIER_LIST, TIERS, type TierId } from "@/lib/tiers";
+import { useSvgIds } from "@/lib/client/useSvgIds";
+import s from "./HowToPlay.module.css";
+
+/** One real example per tier, all from the Cheeses category. */
+const EXAMPLES: Record<TierId, string> = {
+  1: "Cheddar",
+  2: "Gouda",
+  3: "Gruyère",
+  4: "Taleggio",
+  5: "Wagasi",
+  6: "Casu Marzu",
+};
+
+const STEPS = [
   {
-    q: "How are the answer lists made?",
-    a: "Each category starts from reference lists like encyclopedias, dictionaries and official registries. Lists get merged, cleaned and given aliases so common alternate names count too.",
+    title: `${ROUNDS_PER_DAY} asteroids`,
+    text: "Each one is a category, like cheeses or dinosaurs.",
+    icon: (
+      <svg viewBox="0 0 40 40" aria-hidden="true">
+        <path d="M21 6c8 0 14 6 14 14 0 9-6 15-15 15C11 35 5 29 5 21 5 12 12 6 21 6z" fill="#5e4a3f" />
+        <circle cx="15" cy="17" r="3.5" fill="#3b2d27" />
+        <circle cx="25" cy="26" r="2.5" fill="#3b2d27" />
+        <path d="M26 13l2.5 2.5L26 18l-2.5-2.5z" fill="#6ff3e6" />
+      </svg>
+    ),
   },
   {
-    q: "How is rarity decided?",
-    a: "Every answer gets a familiarity score from word-frequency data, which measures how often a name shows up in real writing. Answers are ranked inside their category and split into tiers. Where the numbers get it wrong, the tier is corrected by hand.",
+    title: `${ROUND_SECONDS} seconds each`,
+    text: "Type an answer, press Enter, keep going.",
+    icon: (
+      <svg viewBox="0 0 40 40" aria-hidden="true">
+        <circle cx="20" cy="22" r="13" fill="none" stroke="#ffb547" strokeWidth="3" />
+        <path d="M20 22V14" stroke="#fff3dc" strokeWidth="3" strokeLinecap="round" />
+        <path d="M20 22l6 4" stroke="#fff3dc" strokeWidth="3" strokeLinecap="round" />
+        <rect x="16" y="4" width="8" height="4" rx="1.5" fill="#ffb547" />
+      </svg>
+    ),
   },
   {
-    q: "What's the Starcore?",
-    a: "One answer per asteroid. It's not always the single rarest answer. It's picked to be deep but findable, the one that feels great to land.",
+    title: "Rare digs deeper",
+    text: "Obvious answers are stone. Obscure ones are gems.",
+    icon: (
+      <svg viewBox="0 0 40 40" aria-hidden="true">
+        <path d="M20 5l11 11-11 19L9 16z" fill="#6ff3e6" />
+        <path d="M20 5l11 11H9z" fill="#b9fff6" />
+        <path d="M20 16v19" stroke="#2a8f8a" strokeWidth="1.5" />
+      </svg>
+    ),
   },
   {
-    q: "Do typos count?",
-    a: "Small ones, yes. Longer names allow a letter or two off, as long as only one answer is that close. Plurals, accents, capitals and punctuation don't matter.",
-  },
-  {
-    q: "Why didn't my answer count?",
-    a: "Either it isn't in the list yet, or it was too far from any answer. Lists keep growing.",
-  },
-  {
-    q: "Is everyone playing the same rocks?",
-    a: "Yes. Everyone gets the same five categories each day. A new survey opens at midnight in your time zone.",
-  },
-  {
-    q: "Where are my stats saved?",
-    a: "In this browser. Clearing your site data resets them.",
+    title: "Share your depth",
+    text: "One total for the day. No spoilers.",
+    icon: (
+      <svg viewBox="0 0 40 40" aria-hidden="true">
+        <circle cx="11" cy="20" r="5" fill="#ff6fd8" />
+        <circle cx="29" cy="10" r="5" fill="#ffb547" />
+        <circle cx="29" cy="30" r="5" fill="#6b97ff" />
+        <path d="M15 18l10-6M15 22l10 6" stroke="#f3eefc" strokeWidth="2.5" />
+      </svg>
+    ),
   },
 ];
 
-/** The full rules, tiers, ranks and FAQ. Shown inside "How to play" on the start screen. */
+/** A faceted gem drawn in the tier's color. */
+function TierGem({ tier }: { tier: TierId }) {
+  const u = useSvgIds();
+  if (tier === 1) {
+    return (
+      <svg viewBox="0 0 48 48" className={s.gemSvg} aria-hidden="true">
+        <path d="M10 30c0-9 6-16 15-16 8 0 14 6 14 14 0 7-6 12-14 12-9 0-15-4-15-10z" fill="#8b8f9c" />
+        <path d="M14 26c2-6 7-9 12-9" stroke="#c4c8d2" strokeWidth="2.5" fill="none" strokeLinecap="round" />
+        <circle cx="30" cy="31" r="2.5" fill="#6a6e7a" />
+      </svg>
+    );
+  }
+  const color = { 2: "#d9784a", 3: "#6b97ff", 4: "#f4c44f", 5: "#6ff3e6", 6: "#ff6fd8" }[tier];
+  return (
+    <svg viewBox="0 0 48 48" className={s.gemSvg} aria-hidden="true">
+      {tier === 6 && (
+        <defs>
+          <linearGradient id={u("htp-star")} x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stopColor="#ff5fd2" />
+            <stop offset="0.35" stopColor="#ffd36e" />
+            <stop offset="0.65" stopColor="#6ff3e6" />
+            <stop offset="1" stopColor="#8f7bff" />
+          </linearGradient>
+        </defs>
+      )}
+      <path d="M24 6l15 14-15 22L9 20z" fill={tier === 6 ? `url(#${u("htp-star")})` : color} />
+      <path d="M24 6l15 14H9z" fill="#fff" opacity="0.35" />
+      <path d="M9 20l15 4 15-4" stroke="#000" strokeOpacity="0.2" strokeWidth="1.2" fill="none" />
+      <path d="M24 24v18" stroke="#000" strokeOpacity="0.18" strokeWidth="1.2" />
+      <path d="M17 13l4-4" stroke="#fff" strokeWidth="2" strokeLinecap="round" opacity="0.8" />
+    </svg>
+  );
+}
+
+/** Steps, an interactive ore tier picker and a rank gauge. */
 export default function HowToPlay() {
+  const [tier, setTier] = useState<TierId>(1);
+  const [rank, setRank] = useState<number | null>(null);
+  const t = TIERS[tier];
+  const top = RANKS[RANKS.length - 1].min * 1.25;
+
   return (
     <div className={s.guide}>
       <ol className={s.steps}>
-        <li>
-          <strong>
-            {ROUNDS_PER_DAY} asteroids, {ROUND_SECONDS} seconds each.
-          </strong>{" "}
-          Every asteroid is a category, like dog breeds or chemical elements.
-        </li>
-        <li>
-          <strong>Name as many answers as you can.</strong> Type one, press Enter, and keep going. Every correct answer
-          drills you deeper.
-        </li>
-        <li>
-          <strong>Rare answers dig deeper.</strong> &ldquo;Poodle&rdquo; is plain stone. &ldquo;Azawakh&rdquo; is buried crystal. Speed and
-          knowledge both pay off.
-        </li>
-        <li>
-          <strong>Share your depth.</strong> Your five rocks add up to one total. Compare with friends without spoiling
-          answers.
-        </li>
+        {STEPS.map((step, i) => (
+          <li key={step.title} className={s.step} style={{ animationDelay: `${i * 70}ms` }}>
+            <span className={s.stepIcon}>{step.icon}</span>
+            <strong>{step.title}</strong>
+            <span>{step.text}</span>
+          </li>
+        ))}
       </ol>
 
-      <h3 className={s.h2}>Ore tiers</h3>
-      <div className={s.tierTable}>
-        {TIER_LIST.map((t) => (
-          <div key={t.id} className={s.tierRow} style={{ "--c": t.color } as React.CSSProperties}>
-            <span className={s.tierGem} data-tier={t.id} />
-            <span className={s.tierName}>{t.name}</span>
-            <span className={s.tierBlurb}>{t.blurb}</span>
-            <span className={s.tierDepth}>+{t.depth} m</span>
-          </div>
+      <h3 className={s.heading}>Ore tiers</h3>
+      <p className={s.sub}>Hover or tap a gem.</p>
+      <div className={s.gems} role="listbox" aria-label="Ore tiers">
+        {TIER_LIST.map((x) => (
+          <button
+            key={x.id}
+            type="button"
+            role="option"
+            aria-selected={tier === x.id}
+            className={s.gem}
+            data-active={tier === x.id}
+            style={{ "--c": x.color } as React.CSSProperties}
+            onMouseEnter={() => setTier(x.id)}
+            onFocus={() => setTier(x.id)}
+            onClick={() => setTier(x.id)}
+          >
+            <TierGem tier={x.id} />
+            <span className={s.gemName}>{x.name}</span>
+          </button>
         ))}
       </div>
-
-      <h3 className={s.h2}>Ranks</h3>
-      <div className={s.rankList}>
-        {RANKS.map((r) => (
-          <div key={r.title} className={s.rankRow}>
-            <span>{r.title}</span>
-            <span className={s.muted}>{r.min.toLocaleString("en-US")} m+</span>
-          </div>
-        ))}
+      <div key={tier} className={s.tierCard} style={{ "--c": t.color } as React.CSSProperties} aria-live="polite">
+        <div className={s.tierTop}>
+          <span className={s.tierName}>{t.name}</span>
+          <span className={s.tierDepth}>+{t.depth} m</span>
+        </div>
+        <p className={s.tierBlurb}>{t.blurb}</p>
+        <div className={s.meter}>
+          <span className={s.meterFill} style={{ width: `${(t.depth / TIERS[6].depth) * 100}%` }} />
+        </div>
+        <p className={s.example}>
+          Example from Cheeses: <strong>{EXAMPLES[tier]}</strong>
+        </p>
       </div>
 
-      <h3 className={s.h2}>Questions</h3>
-      <dl className={s.faq}>
-        {FAQ.map((f) => (
-          <div key={f.q}>
-            <dt>{f.q}</dt>
-            <dd>{f.a}</dd>
-          </div>
+      <h3 className={s.heading}>Ranks</h3>
+      <p className={s.sub}>Your five rocks add up to one depth for the day.</p>
+      <div className={s.gauge}>
+        <div className={s.track} />
+        {RANKS.map((r, i) => (
+          <button
+            key={r.title}
+            type="button"
+            className={s.notch}
+            data-active={rank === i}
+            style={{ left: `${(r.min / top) * 100}%` }}
+            onMouseEnter={() => setRank(i)}
+            onMouseLeave={() => setRank(null)}
+            onFocus={() => setRank(i)}
+            onBlur={() => setRank(null)}
+            onClick={() => setRank(i)}
+            aria-label={`${r.title}, ${r.min.toLocaleString("en-US")} meters`}
+          >
+            <span className={s.notchDot} />
+            <span className={s.notchLabel}>
+              <strong>{r.title}</strong>
+              {r.min.toLocaleString("en-US")} m+
+            </span>
+          </button>
         ))}
-      </dl>
-
+      </div>
     </div>
   );
 }

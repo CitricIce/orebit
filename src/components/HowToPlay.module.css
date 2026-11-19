@@ -1,0 +1,296 @@
+.guide {
+  display: grid;
+}
+
+.heading {
+  margin: 28px 0 0;
+  font-size: 18px;
+  letter-spacing: -0.01em;
+}
+
+.sub {
+  margin: 4px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+/* ---------- steps ---------- */
+
+.steps {
+  list-style: none;
+  margin: 18px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.step {
+  display: grid;
+  gap: 6px;
+  align-content: start;
+  padding: 14px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: rgb(255 255 255 / 0.03);
+  font-size: 13px;
+  line-height: 1.45;
+  color: var(--muted);
+  transition: transform 0.2s ease, border-color 0.2s ease;
+  animation: pop-in 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+.step:hover {
+  transform: translateY(-3px);
+  border-color: var(--line-strong);
+}
+
+.step strong {
+  color: var(--ink);
+  font-size: 15px;
+}
+
+.stepIcon svg {
+  width: 36px;
+  height: 36px;
+  display: block;
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+}
+
+/* ---------- ore tier picker ---------- */
+
+.gems {
+  margin-top: 14px;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 8px;
+}
+
+.gem {
+  display: grid;
+  justify-items: center;
+  gap: 4px;
+  padding: 10px 4px 8px;
+  border-radius: 14px;
+  border: 1px solid transparent;
+  background: none;
+  color: var(--muted);
+  font: inherit;
+  cursor: pointer;
+  transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.gem:hover,
+.gem[data-active="true"] {
+  background: color-mix(in srgb, var(--c) 12%, transparent);
+  border-color: color-mix(in srgb, var(--c) 45%, transparent);
+  color: var(--ink);
+}
+
+.gemSvg {
+  width: 44px;
+  height: 44px;
+  display: block;
+  transition: transform 0.25s cubic-bezier(0.3, 1.6, 0.5, 1), filter 0.25s ease;
+}
+
+.gem:hover .gemSvg,
+.gem[data-active="true"] .gemSvg {
+  transform: translateY(-4px) scale(1.12) rotate(-6deg);
+  filter: drop-shadow(0 6px 14px color-mix(in srgb, var(--c) 60%, transparent));
+}
+
+.gemName {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.tierCard {
+  margin-top: 10px;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 1px solid color-mix(in srgb, var(--c) 40%, transparent);
+  background: color-mix(in srgb, var(--c) 8%, rgb(10 8 18 / 0.6));
+  animation: card-in 0.3s ease both;
+}
+
+@keyframes card-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+}
+
+.tierTop {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.tierName {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--c);
+}
+
+.tierDepth {
+  font-family: var(--mono);
+  font-weight: 700;
+}
+
+.tierBlurb {
+  margin: 4px 0 0;
+  color: var(--ink);
+  font-size: 14px;
+}
+
+.meter {
+  margin-top: 10px;
+  height: 8px;
+  border-radius: 99px;
+  background: rgb(255 255 255 / 0.07);
+  overflow: hidden;
+}
+
+.meterFill {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: var(--c);
+  box-shadow: 0 0 12px var(--c);
+  animation: grow 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  transform-origin: left;
+}
+
+@keyframes grow {
+  from {
+    transform: scaleX(0);
+  }
+}
+
+.example {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.example strong {
+  color: var(--ink);
+}
+
+/* ---------- rank gauge ---------- */
+
+.gauge {
+  position: relative;
+  height: 96px;
+  margin: 14px 12px 0;
+}
+
+.track {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 46px;
+  height: 6px;
+  border-radius: 99px;
+  background: linear-gradient(90deg, #8b8f9c, #d9784a, #6b97ff, #f4c44f, #ff6fd8);
+  opacity: 0.8;
+}
+
+.notch {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 24px;
+  margin-left: -12px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--muted);
+  font: inherit;
+  cursor: pointer;
+}
+
+.notchDot {
+  position: absolute;
+  top: 41px;
+  left: 4px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #120d1c;
+  border: 3px solid var(--ink);
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.notchLabel {
+  position: absolute;
+  left: 12px;
+  transform: translateX(-50%);
+  display: grid;
+  justify-items: center;
+  white-space: nowrap;
+  font-family: var(--mono);
+  font-size: 11px;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.notchLabel strong {
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--ink);
+}
+
+.notch:nth-child(even) .notchLabel {
+  bottom: 62px;
+}
+
+.notch:nth-child(odd) .notchLabel {
+  top: 64px;
+}
+
+.notch:first-of-type .notchLabel {
+  transform: none;
+  justify-items: start;
+  left: 4px;
+}
+
+.notch:hover .notchDot,
+.notch[data-active="true"] .notchDot {
+  transform: scale(1.35);
+  background: var(--accent);
+}
+
+.notch:hover .notchLabel,
+.notch[data-active="true"] .notchLabel {
+  color: var(--accent);
+}
+
+@media (max-width: 720px) {
+  .steps {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .gems {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .notchLabel strong {
+    font-size: 11px;
+  }
+  .notchLabel {
+    font-size: 10px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .step,
+  .tierCard,
+  .meterFill {
+    animation: none;
+  }
+}

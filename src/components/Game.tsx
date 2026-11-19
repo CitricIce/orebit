@@ -50,6 +50,8 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   const [revealIdx, setRevealIdx] = useState(0);
   const [arriving, setArriving] = useState(false);
   const [armed, setArmed] = useState(false);
+  const [howOpen, setHowOpen] = useState(false);
+  const [howOpens, setHowOpens] = useState(0);
 
   const recordRef = useRef<DayRecord | null>(null);
   const foundRef = useRef<FoundOre[]>([]);
@@ -358,16 +360,35 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
             </p>
             {!first && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}
 
-            <details className={s.howTo}>
-            <summary>How to play</summary>
-            <div className={s.howToBody}>
-              <p className={s.howToIntro}>
-                Each rock is a category. Name as many answers as you can before your drill overheats. The obvious
-                answers are plain stone. Obscure ones are buried deep and worth far more.
-              </p>
-              <HowToPlay />
+            <div className={s.howTo} data-open={howOpen}>
+              <button
+                type="button"
+                className={s.howToToggle}
+                aria-expanded={howOpen}
+                aria-controls="how-to-play"
+                onClick={() => {
+                  if (!howOpen) setHowOpens((n) => n + 1);
+                  setHowOpen(!howOpen);
+                }}
+              >
+                How to play
+                <svg viewBox="0 0 12 12" aria-hidden="true">
+                  <path d="M2 4l4 4 4-4" stroke="currentColor" strokeWidth="1.8" fill="none" strokeLinecap="round" />
+                </svg>
+              </button>
+              {/* Grid rows animate from 0fr to 1fr, so the panel eases open to its real height. */}
+              <div id="how-to-play" className={s.howToPanel} inert={!howOpen}>
+                <div className={s.howToClip}>
+                  <div className={s.howToBody}>
+                    <p className={s.howToIntro}>
+                      Each rock is a category. Name as many answers as you can before your drill overheats. The
+                      obvious answers are plain stone. Obscure ones are buried deep and worth far more.
+                    </p>
+                    <HowToPlay key={howOpens} />
+                  </div>
+                </div>
+              </div>
             </div>
-          </details>
           </section>
 
           {/* Sits on the ground under the launch pad. Hover primes the engines. */}
