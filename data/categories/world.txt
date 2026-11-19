@@ -1,0 +1,1012 @@
+# Cities, landmarks and the wider world. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== us-cities
+title: U.S. cities
+prompt: Name as many cities in the United States as you can
+--- 1
+New York | new york city | nyc
+Los Angeles | la
+Chicago
+Houston
+Miami
+San Francisco
+Las Vegas
+Boston
+Seattle
+--- 2
+Philadelphia
+Phoenix
+San Antonio
+San Diego
+Dallas
+Austin
+Denver
+Atlanta
+Detroit
+Washington | washington dc | dc
+Nashville
+New Orleans
+Orlando
+Portland
+Baltimore
+Minneapolis
+St. Louis | saint louis
+Pittsburgh
+Cleveland
+Cincinnati
+Kansas City
+Memphis
+Indianapolis
+Columbus
+Milwaukee
+Salt Lake City
+Sacramento
+San Jose
+Charlotte
+Raleigh
+Tampa
+Jacksonville
+Honolulu
+Anchorage
+Albuquerque
+Tucson
+Oklahoma City
+Omaha
+Buffalo
+Fort Worth
+El Paso
+Louisville
+Richmond
+Hartford
+Providence
+Newark
+Jersey City
+Oakland
+Long Beach
+Santa Barbara
+Palm Springs
+Scottsdale
+Boise
+Spokane
+Tacoma
+Reno
+Savannah
+Charleston
+Birmingham
+Little Rock
+Des Moines
+Madison
+Ann Arbor
+Key West
+--- 3
+Albany
+Syracuse
+Rochester
+Burlington
+Portland Maine
+Manchester
+Worcester
+Springfield
+New Haven
+Wilmington
+Trenton
+Allentown
+Scranton
+Harrisburg
+Akron
+Toledo
+Dayton
+Grand Rapids
+Lansing
+Flint
+Fort Wayne
+Peoria
+Rockford
+Green Bay
+Duluth
+Fargo
+Sioux Falls
+Lincoln
+Wichita
+Tulsa
+Amarillo
+Lubbock
+Corpus Christi
+Laredo
+McAllen
+Baton Rouge
+Shreveport
+Mobile
+Montgomery
+Huntsville
+Chattanooga
+Knoxville
+Lexington
+Asheville
+Durham
+Greensboro
+Columbia
+Augusta
+Tallahassee
+Gainesville
+Pensacola
+St. Petersburg
+Fort Lauderdale
+Boca Raton
+Naples
+Sarasota
+Santa Fe
+Las Cruces
+Flagstaff
+Mesa
+Tempe
+Henderson
+Fresno
+Bakersfield
+Stockton
+Modesto
+Riverside
+Anaheim
+Irvine
+Pasadena
+Santa Monica
+Berkeley
+Eugene
+Salem
+Olympia
+Bellingham
+Missoula
+Billings
+Cheyenne
+Juneau
+Fairbanks
+Hilo
+
+=== european-cities
+title: European cities
+prompt: Name as many cities in Europe as you can
+--- 1
+London
+Paris
+Rome
+Berlin
+Madrid
+Barcelona
+Amsterdam
+Venice
+--- 2
+Milan
+Florence
+Naples
+Vienna
+Prague
+Budapest
+Lisbon
+Dublin
+Edinburgh
+Manchester
+Liverpool
+Birmingham
+Glasgow
+Brussels
+Munich
+Hamburg
+Frankfurt
+Cologne
+Zurich
+Geneva
+Copenhagen
+Stockholm
+Oslo
+Helsinki
+Athens
+Warsaw
+Krakow | kraków
+Moscow
+St. Petersburg | saint petersburg
+Kyiv | kiev
+Istanbul
+Seville
+Valencia
+Porto
+Marseille
+Lyon
+Nice
+Monaco | monte carlo
+Salzburg
+Bruges
+Antwerp
+Rotterdam
+Reykjavik
+Belfast
+Cardiff
+Bristol
+Leeds
+Oxford
+Cambridge
+Bath
+York
+Turin
+Bologna
+Pisa
+Verona
+Bucharest
+Belgrade
+Sofia
+Zagreb
+Dubrovnik
+Riga
+Tallinn
+Vilnius
+Luxembourg
+--- 3
+Malaga
+Granada
+Bilbao
+San Sebastián
+Palma
+Ibiza
+Toledo
+Salamanca
+Córdoba
+Zaragoza
+Coimbra
+Faro
+Bordeaux
+Toulouse
+Strasbourg
+Lille
+Nantes
+Montpellier
+Cannes
+Avignon
+Genoa
+Palermo
+Bari
+Siena
+Trieste
+Düsseldorf
+Stuttgart
+Dresden
+Leipzig
+Nuremberg
+Heidelberg
+Bonn
+Hanover
+Bremen
+Basel
+Bern
+Lausanne
+Lucerne
+Innsbruck
+Graz
+Ljubljana
+Bratislava
+Brno
+Gdansk
+Wroclaw
+Poznan
+Lviv
+Odesa | odessa
+Minsk
+Thessaloniki
+Split
+Sarajevo
+Skopje
+Tirana
+Podgorica
+Valletta
+Nicosia
+Gothenburg
+Malmö
+Bergen
+Trondheim
+Aarhus
+Tampere
+Turku
+Utrecht
+The Hague
+Eindhoven
+Ghent
+Liège
+Cork
+Galway
+Aberdeen
+Inverness
+Newcastle
+Sheffield
+Nottingham
+Brighton
+
+=== asian-cities
+title: Asian cities
+prompt: Name as many cities in Asia as you can
+--- 1
+Tokyo
+Beijing
+Shanghai
+Hong Kong
+Seoul
+Bangkok
+Singapore
+Dubai
+Mumbai | bombay
+--- 2
+Delhi | new delhi
+Kolkata | calcutta
+Chennai | madras
+Bangalore | bengaluru
+Hyderabad
+Karachi
+Lahore
+Islamabad
+Dhaka
+Kathmandu
+Kabul
+Tehran
+Baghdad
+Riyadh
+Mecca
+Medina
+Jeddah
+Doha
+Abu Dhabi
+Kuwait City
+Muscat
+Jerusalem
+Tel Aviv
+Beirut
+Damascus
+Amman
+Istanbul
+Ankara
+Osaka
+Kyoto
+Hiroshima
+Nagasaki
+Yokohama
+Sapporo
+Busan
+Pyongyang
+Taipei
+Manila
+Jakarta
+Bali
+Kuala Lumpur
+Hanoi
+Ho Chi Minh City | saigon
+Phnom Penh
+Yangon | rangoon
+Vientiane
+Colombo
+Macau
+Guangzhou
+Shenzhen
+Chengdu
+Wuhan
+Xi'an | xian
+Tianjin
+Chongqing
+Nanjing
+Hangzhou
+Ulaanbaatar
+Tashkent
+Almaty
+Astana
+Baku
+Tbilisi
+Yerevan
+Kandahar
+Goa
+Agra
+Jaipur
+Varanasi
+--- 3
+Pune
+Ahmedabad
+Surat
+Lucknow
+Kanpur
+Amritsar
+Chandigarh
+Kochi
+Thiruvananthapuram
+Udaipur
+Jodhpur
+Darjeeling
+Shimla
+Srinagar
+Leh
+Peshawar
+Quetta
+Faisalabad
+Rawalpindi
+Multan
+Chittagong
+Pokhara
+Thimphu
+Malé
+Kandy
+Galle
+Mandalay
+Chiang Mai
+Phuket
+Pattaya
+Siem Reap
+Luang Prabang
+Hue
+Da Nang
+Hoi An
+Cebu
+Davao
+Surabaya
+Bandung
+Yogyakarta
+Medan
+Penang | george town
+Malacca
+Kota Kinabalu
+Kuching
+Bandar Seri Begawan
+Dili
+Kobe
+Nagoya
+Fukuoka
+Nara
+Sendai
+Okinawa
+Incheon
+Daegu
+Gwangju
+Kaohsiung
+Taichung
+Harbin
+Dalian
+Qingdao
+Kunming
+Lhasa
+Urumqi
+Suzhou
+Xiamen
+Shiraz
+Isfahan
+Tabriz
+Mashhad
+Basra
+Mosul
+Erbil
+Aleppo
+Homs
+Haifa
+Eilat
+Petra
+Aqaba
+Sana'a
+Aden
+Manama
+Sharjah
+Samarkand
+Bukhara
+Bishkek
+Dushanbe
+Ashgabat
+
+=== landmarks
+title: Famous landmarks
+prompt: Name as many famous landmarks and monuments as you can
+--- 1
+Eiffel Tower
+Statue of Liberty
+Great Wall of China | great wall
+Pyramids of Giza | pyramids | great pyramid
+Taj Mahal
+Big Ben
+Colosseum
+Stonehenge
+--- 2
+Leaning Tower of Pisa | tower of pisa | leaning tower
+Sydney Opera House
+Golden Gate Bridge
+Mount Rushmore
+Christ the Redeemer
+Machu Picchu
+Sphinx | great sphinx
+Acropolis
+Parthenon
+Empire State Building
+Burj Khalifa
+Tower Bridge
+Tower of London
+Buckingham Palace
+London Eye
+Arc de Triomphe
+Notre-Dame | notre dame
+Louvre
+Sagrada Família | sagrada familia
+Brandenburg Gate
+Kremlin
+Red Square
+St. Basil's Cathedral
+Petra
+Angkor Wat
+Chichen Itza
+Niagara Falls
+Grand Canyon
+Hollywood Sign
+White House
+Lincoln Memorial
+Washington Monument
+Space Needle
+Times Square
+Central Park
+Brooklyn Bridge
+CN Tower
+Trevi Fountain
+Vatican | st. peter's basilica | sistine chapel
+Pantheon
+Neuschwanstein Castle | neuschwanstein
+Edinburgh Castle
+Westminster Abbey
+Windsor Castle
+Alhambra
+Forbidden City
+Terracotta Army
+Mount Fuji
+Uluru | ayers rock
+Victoria Falls
+Hagia Sophia
+Blue Mosque
+Kaaba
+Western Wall | wailing wall
+Petronas Towers
+Marina Bay Sands
+Golden Temple
+Gateway of India
+Moai | easter island heads
+Atomium
+Little Mermaid
+Manneken Pis
+Mount Everest
+--- 3
+Versailles | palace of versailles
+Mont Saint-Michel
+Sacré-Cœur
+Château de Chambord
+Pont du Gard
+Rialto Bridge
+St. Mark's Basilica | st mark's square
+Duomo | florence cathedral
+Pompeii
+Charles Bridge
+Prague Castle
+Schönbrunn Palace
+Cologne Cathedral
+Matterhorn
+Hallstatt
+Plitvice
+Meteora
+Delphi
+Knossos
+Ephesus
+Cappadocia
+Pamukkale
+Topkapi Palace
+Galata Tower
+Burj Al Arab
+Sheikh Zayed Mosque
+Persepolis
+Borobudur
+Prambanan
+Bagan
+Shwedagon Pagoda
+Wat Arun
+Grand Palace
+Potala Palace
+Temple of Heaven
+Summer Palace
+Tiananmen Square
+Oriental Pearl Tower
+Tokyo Tower
+Tokyo Skytree
+Fushimi Inari
+Kinkaku-ji | golden pavilion
+Itsukushima Shrine
+Himeji Castle
+Gyeongbokgung
+Qutub Minar
+Hawa Mahal
+Red Fort
+Lotus Temple
+Ajanta Caves
+Sigiriya
+Abu Simbel
+Valley of the Kings
+Karnak
+Luxor Temple
+Great Zimbabwe
+Table Mountain
+Robben Island
+Hoover Dam
+Gateway Arch
+Alamo
+Golden Gate Park
+Mount St. Helens
+Old Faithful
+Yellowstone
+Yosemite
+Alcatraz
+Independence Hall
+Liberty Bell
+Flatiron Building
+Chrysler Building
+One World Trade Center
+Willis Tower | sears tower
+Teotihuacan
+Tikal
+Palenque
+Iguazu Falls
+Angel Falls
+Galápagos
+Sugarloaf Mountain
+Tower of Hercules
+Giant's Causeway
+Cliffs of Moher
+Hadrian's Wall
+Angel of the North
+Shard
+Gherkin
+St Paul's Cathedral
+Trafalgar Square
+Nelson's Column
+Kew Gardens
+
+=== languages
+title: Languages
+prompt: Name as many languages as you can
+--- 1
+English
+Spanish
+French
+German
+Chinese | mandarin
+Italian
+Japanese
+Russian
+--- 2
+Portuguese
+Arabic
+Hindi
+Korean
+Dutch
+Greek
+Latin
+Hebrew
+Swedish
+Norwegian
+Danish
+Finnish
+Polish
+Turkish
+Cantonese
+Bengali
+Urdu
+Punjabi
+Tamil
+Persian | farsi
+Swahili
+Thai
+Vietnamese
+Indonesian
+Malay
+Tagalog | filipino
+Irish | gaelic | irish gaelic
+Scottish Gaelic
+Welsh
+Icelandic
+Czech
+Hungarian
+Romanian
+Ukrainian
+Bulgarian
+Serbian
+Croatian
+Afrikaans
+Zulu
+Sign language | asl | american sign language
+Esperanto
+Klingon @5
+Elvish @5
+Sanskrit
+Yiddish
+Hawaiian
+Maori
+--- 3
+Telugu
+Marathi
+Gujarati
+Kannada
+Malayalam
+Nepali
+Sinhala
+Burmese
+Khmer
+Lao
+Mongolian
+Tibetan
+Uzbek
+Kazakh
+Pashto
+Kurdish
+Armenian
+Georgian
+Azerbaijani
+Albanian
+Macedonian
+Slovak
+Slovenian
+Lithuanian
+Latvian
+Estonian
+Basque
+Catalan
+Galician
+Breton
+Cornish
+Manx
+Maltese
+Faroese
+Frisian
+Luxembourgish
+Romansh
+Sami
+Amharic
+Somali
+Yoruba
+Igbo
+Hausa
+Xhosa
+Sesotho
+Shona
+Wolof
+Berber | tamazight
+Quechua
+Guarani
+Aymara
+Nahuatl
+Navajo
+Cherokee
+Inuktitut
+Samoan
+Tongan
+Fijian
+Cebuano
+Javanese
+Sundanese
+Aramaic
+Coptic
+Sumerian
+Ancient Greek
+Old English
+Old Norse
+
+=== currencies
+title: Currencies
+prompt: Name as many currencies as you can
+--- 1
+Dollar | us dollar
+Euro
+Pound | pound sterling | british pound
+Yen
+Peso
+Rupee
+--- 2
+Yuan | renminbi
+Franc | swiss franc
+Ruble | rouble
+Won
+Real | brazilian real
+Rand
+Krona
+Krone
+Lira
+Dinar
+Dirham
+Riyal | rial
+Shekel
+Baht
+Ringgit
+Rupiah
+Dong
+Zloty
+Forint
+Koruna
+Leu
+Lev
+Kuna
+Bitcoin
+Australian dollar
+Canadian dollar
+New Zealand dollar
+Hong Kong dollar
+Singapore dollar
+Drachma
+Deutsche Mark | mark
+Guilder
+Peseta
+Escudo
+Shilling
+Penny | pence
+Cent
+Lira
+Doubloon
+Denarius
+Sovereign
+Guinea
+Ducat
+Florin
+--- 3
+Hryvnia
+Tenge
+Som
+Manat
+Lari
+Dram
+Afghani
+Taka
+Kyat
+Kip
+Riel
+Tugrik
+Ngultrum
+Rufiyaa
+Kwacha
+Naira
+Cedi
+Birr
+Nakfa
+Ariary
+Pula
+Loti
+Lilangeni
+Metical
+Kwanza
+Dalasi
+Leone
+Ouguiya
+Colón
+Córdoba
+Lempira
+Quetzal
+Balboa
+Bolívar
+Sol
+Boliviano
+Guaraní
+Peso uruguayo
+Gourde
+Pa'anga
+Tala
+Vatu
+Kina
+Ethereum
+Dogecoin
+Ecu
+Sestertius
+Thaler
+Groat
+Farthing
+Crown
+
+=== lakes
+title: Lakes
+prompt: Name as many lakes as you can
+--- 1
+Lake Superior | superior
+Lake Michigan | michigan
+Lake Huron | huron
+Lake Erie | erie
+Lake Ontario | ontario
+Loch Ness
+Lake Victoria | victoria
+--- 2
+Lake Tahoe | tahoe
+Lake Baikal | baikal
+Lake Titicaca | titicaca
+Lake Geneva | lac léman
+Lake Como | como
+Lake Garda | garda
+Great Salt Lake
+Dead Sea
+Caspian Sea
+Lake Tanganyika | tanganyika
+Lake Malawi | lake nyasa
+Lake Chad
+Crater Lake
+Lake Placid
+Lake Louise
+Lake Mead
+Lake Powell
+Lake Okeechobee
+Lake Champlain
+Lake George
+Lake Winnipeg
+Great Bear Lake
+Great Slave Lake
+Lake Windermere | windermere
+Loch Lomond
+Lough Neagh
+Lake Constance | bodensee
+Lake Lucerne
+Lake Maggiore
+Lake Balaton
+Lake Bled
+Lake Ladoga
+Lake Onega
+Aral Sea
+Lake Eyre
+Lake Taupo
+Lake Nasser
+Lake Kivu
+Lake Volta
+--- 3
+Lake Turkana
+Lake Albert
+Lake Edward
+Lake Tana
+Lake Nakuru
+Lake Natron
+Lake Toba
+Lake Inle | inle lake
+Tonlé Sap
+Lake Biwa
+Lake Khanka
+Qinghai Lake
+Dal Lake
+Pangong Lake
+Lake Van
+Lake Urmia
+Lake Balkhash
+Issyk-Kul
+Lake Sevan
+Lake Ohrid
+Lake Prespa
+Lake Vänern
+Lake Vättern
+Lake Mälaren
+Lake Saimaa
+Lake Peipus
+Lake Neusiedl
+Lake Annecy
+Lake Hallstatt
+Königssee
+Lake Thun
+Lake Brienz
+Lake Zurich
+Lake Iseo
+Lake Orta
+Lake Trasimeno
+Lough Corrib
+Loch Tay
+Loch Awe
+Coniston Water
+Ullswater
+Derwentwater
+Lake Nicaragua
+Lake Atitlán
+Lake Maracaibo
+Lake Llanquihue
+Lake Wakatipu
+Lake Tekapo
+Lake Wanaka
+Lake Pontchartrain
+Lake of the Woods
+Lake Winnebago
+Lake Minnetonka
+Flathead Lake
+Yellowstone Lake
+Lake Chelan
+Lake Lanier
+Lake Havasu
+Lake Shasta
+Mono Lake
+Salton Sea

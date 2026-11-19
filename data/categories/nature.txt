@@ -1,0 +1,1035 @@
+# Nature and the planet. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== flowers
+title: Flowers
+prompt: Name as many flowers as you can
+--- 1
+Rose
+Tulip
+Daisy
+Sunflower
+Lily
+Daffodil
+Orchid
+--- 2
+Carnation
+Poppy
+Lavender
+Violet
+Dandelion
+Marigold
+Lotus
+Iris
+Peony
+Hydrangea
+Chrysanthemum | mum
+Jasmine
+Magnolia
+Hibiscus
+Lilac
+Gardenia
+Geranium
+Begonia
+Petunia
+Pansy
+Snowdrop
+Bluebell
+Buttercup
+Crocus
+Hyacinth
+Cherry blossom | sakura
+Azalea
+Rhododendron
+Camellia
+Dahlia
+Zinnia
+Gerbera | gerbera daisy
+Freesia
+Gladiolus
+Forget-me-not
+Foxglove
+Honeysuckle
+Morning glory
+Lily of the valley
+Bird of paradise
+Edelweiss
+Water lily
+Calla lily
+Tiger lily
+Primrose
+Clover
+Thistle
+Heather
+Wisteria
+Bougainvillea
+Poinsettia
+Cornflower
+Sweet pea
+Snapdragon
+Aster
+--- 3
+Anemone
+Ranunculus
+Lisianthus
+Alstroemeria
+Delphinium
+Larkspur
+Lupin | lupine
+Hollyhock
+Cosmos
+Nasturtium
+Verbena
+Lobelia
+Impatiens | busy lizzie
+Fuchsia
+Clematis
+Jacaranda
+Frangipani | plumeria
+Protea
+Anthurium
+Amaryllis
+Agapanthus
+Allium
+Bleeding heart
+Columbine
+Coneflower | echinacea
+Black-eyed Susan
+Gazania
+Gypsophila | baby's breath
+Hellebore
+Heliotrope
+Jonquil
+Narcissus
+Oleander
+Phlox
+Salvia
+Scabiosa
+Statice
+Stock
+Sweet william
+Tuberose
+Yarrow
+Edelweiss
+Saffron crocus
+Corpse flower | rafflesia
+Gentian
+Trillium
+Dogwood
+Bluebonnet
+Cyclamen
+Mimosa
+
+=== trees
+title: Trees
+prompt: Name as many kinds of tree as you can
+--- 1
+Oak
+Pine
+Maple
+Palm | palm tree
+Birch
+Willow
+Apple tree | apple
+Christmas tree | fir
+--- 2
+Elm
+Ash
+Beech
+Spruce
+Cedar
+Redwood
+Sequoia
+Cherry | cherry tree
+Chestnut | horse chestnut
+Walnut
+Poplar
+Aspen
+Sycamore
+Eucalyptus
+Baobab
+Bamboo
+Cypress
+Yew
+Holly
+Hawthorn
+Magnolia
+Olive | olive tree
+Orange tree
+Lemon tree
+Banana tree
+Coconut tree | coconut palm
+Mango tree
+Pear tree
+Plum tree
+Fig tree
+Cherry blossom
+Weeping willow
+Douglas fir
+Larch
+Juniper
+Hemlock
+Teak
+Mahogany
+Ebony
+Rowan
+Linden | lime tree
+Hazel
+Alder
+Dogwood
+Acacia
+Banyan
+Bonsai
+Monkey puzzle
+Joshua tree
+Dragon tree
+--- 3
+Hornbeam
+Hickory
+Pecan
+Butternut
+Black walnut
+Sweetgum
+Tulip tree
+Catalpa
+Locust
+Honey locust
+Mulberry
+Persimmon
+Pawpaw
+Sassafras
+Buckeye
+Cottonwood
+Tamarack
+Bristlecone pine
+Ponderosa pine
+Scots pine
+Lodgepole pine
+Sitka spruce
+Norway spruce
+Blue spruce
+Giant sequoia
+Coast redwood
+Dawn redwood
+Ginkgo
+Wollemi pine
+Kauri
+Jacaranda
+Flame tree
+Frangipani
+Mangrove
+Cork oak
+Live oak
+Red oak
+White oak
+Sugar maple
+Japanese maple
+Silver birch
+Paper birch
+Balsa
+Rubber tree
+Cacao
+Cinnamon
+Neem
+Tamarind
+Sandalwood
+Rosewood
+Ironwood
+Quaking aspen
+Kapok
+
+=== weather
+title: Weather
+prompt: Name as many kinds of weather as you can
+--- 1
+Rain
+Snow
+Sun | sunny | sunshine
+Wind | windy
+Cloud | cloudy | clouds
+Fog | foggy
+Storm | stormy
+Thunder
+Lightning
+Hail
+--- 2
+Sleet
+Drizzle
+Mist
+Frost
+Ice
+Hurricane
+Tornado
+Blizzard
+Thunderstorm
+Heatwave | heat wave
+Drought
+Monsoon
+Typhoon
+Cyclone
+Gale
+Breeze
+Shower | showers
+Downpour
+Flood
+Rainbow
+Overcast
+Humid | humidity
+Dew
+Smog
+Haze
+Sandstorm | dust storm
+Snowstorm
+Hailstorm
+Freezing rain
+Black ice
+Whiteout
+Squall
+Dry
+Cold
+Hot
+Warm
+Muggy
+Clear | clear skies
+Partly cloudy
+--- 3
+Graupel
+Rime
+Hoarfrost
+Virga
+Microburst
+Derecho
+Waterspout
+Dust devil
+Haboob
+Polar vortex
+Nor'easter
+Chinook
+Sirocco
+Mistral
+Foehn | föhn
+Santa Ana winds
+El Niño | el nino
+La Niña | la nina
+Indian summer
+Cold snap
+Cold front
+Warm front
+Low pressure
+High pressure
+Jet stream
+Supercell
+Wall cloud
+Funnel cloud
+Ball lightning
+Sheet lightning
+Heat lightning
+Thundersnow
+Ice storm
+Diamond dust
+Sun shower
+Petrichor
+Aurora | northern lights
+Halo
+Sun dog
+Fogbow
+Moonbow
+Mackerel sky
+
+=== natural-disasters
+title: Natural disasters
+prompt: Name as many kinds of natural disaster as you can
+--- 1
+Earthquake
+Tornado
+Hurricane
+Flood
+Tsunami
+Volcano | volcanic eruption | eruption
+Wildfire | forest fire | bushfire
+--- 2
+Avalanche
+Landslide | mudslide
+Drought
+Blizzard
+Typhoon
+Cyclone
+Heatwave | heat wave
+Famine
+Pandemic
+Epidemic
+Plague
+Hailstorm
+Sandstorm | dust storm
+Thunderstorm | storm
+Ice storm
+Lightning
+Sinkhole
+Storm surge
+Flash flood
+Monsoon
+Locusts | locust swarm | plague of locusts
+Meteor | asteroid impact | meteor strike
+Rockslide | rockfall
+Whirlpool
+Waterspout
+Lava flow
+Ash cloud
+Solar flare
+--- 3
+Lahar
+Pyroclastic flow
+Mudflow
+Debris flow
+Glacial outburst | jökulhlaup
+Derecho
+Dust Bowl
+Firestorm
+Fire whirl | fire tornado
+Cold wave
+Polar vortex
+Limnic eruption
+Seiche
+Rogue wave
+Coastal erosion
+Desertification
+Subsidence
+Liquefaction
+Aftershock
+Megathrust
+Supervolcano
+Gamma-ray burst
+Geomagnetic storm
+Crop failure
+Algal bloom | red tide
+Dzud
+Haboob
+Microburst
+Blackout
+
+=== oceans-seas
+title: Oceans and seas
+prompt: Name as many oceans and seas as you can
+--- 1
+Pacific Ocean | pacific
+Atlantic Ocean | atlantic
+Indian Ocean | indian
+Arctic Ocean | arctic
+Southern Ocean | antarctic ocean | southern
+Mediterranean Sea | mediterranean
+--- 2
+Caribbean Sea | caribbean
+Red Sea
+Black Sea
+Dead Sea
+North Sea
+Baltic Sea | baltic
+Caspian Sea | caspian
+Arabian Sea
+South China Sea
+East China Sea
+Sea of Japan | east sea
+Yellow Sea
+Gulf of Mexico
+Bering Sea
+Irish Sea
+English Channel | the channel
+Adriatic Sea | adriatic
+Aegean Sea | aegean
+Tasman Sea
+Coral Sea
+Sargasso Sea
+Persian Gulf | arabian gulf
+Bay of Bengal
+Hudson Bay
+Sea of Galilee
+Salton Sea
+Aral Sea
+Gulf of Aden
+Gulf of Thailand
+Philippine Sea
+Ionian Sea
+Tyrrhenian Sea
+Celtic Sea
+Norwegian Sea
+Barents Sea
+Labrador Sea
+Weddell Sea
+Ross Sea
+--- 3
+Ligurian Sea
+Balearic Sea
+Alboran Sea
+Sea of Marmara
+Sea of Azov
+Sea of Okhotsk
+Kara Sea
+Laptev Sea
+East Siberian Sea
+Chukchi Sea
+Beaufort Sea
+Greenland Sea
+White Sea
+Wadden Sea
+Kattegat
+Skagerrak
+Gulf of Bothnia
+Gulf of Finland
+Bay of Biscay
+Gulf of California | sea of cortez
+Gulf of Alaska
+Andaman Sea
+Java Sea
+Banda Sea
+Timor Sea
+Arafura Sea
+Sulu Sea
+Celebes Sea
+Molucca Sea
+Bismarck Sea
+Solomon Sea
+Scotia Sea
+Amundsen Sea
+Bellingshausen Sea
+Lake Baikal @5
+Gulf of Oman
+Gulf of Guinea
+Mozambique Channel
+Strait of Gibraltar
+Bosphorus
+Sea of the Hebrides
+Inner Seas
+Levantine Sea
+Libyan Sea
+Cretan Sea
+
+=== rivers
+title: Rivers
+prompt: Name as many rivers as you can
+--- 1
+Nile
+Amazon
+Mississippi
+Thames
+Danube
+Yangtze
+Ganges
+--- 2
+Rhine
+Seine
+Missouri
+Colorado
+Hudson
+Rio Grande
+Mekong
+Volga
+Tigris
+Euphrates
+Indus
+Jordan
+Congo
+Niger
+Zambezi
+Yellow River | huang he
+Ohio
+Columbia
+Delaware
+Potomac
+Tiber
+Po
+Loire
+Rhône | rhone
+Elbe
+Oder
+Vistula
+Tagus
+Ebro
+Shannon
+Liffey
+Severn
+Mersey
+Tyne
+Clyde
+Avon
+St. Lawrence | saint lawrence
+Yukon
+Mackenzie
+Murray
+Darling
+Orinoco
+Paraná | parana
+Brahmaputra
+Irrawaddy
+Ob
+Yenisei
+Lena
+Amur
+Dnieper
+Don
+--- 3
+Rio Negro
+Madeira
+Purus
+Japurá
+São Francisco
+Uruguay
+Magdalena
+Salween
+Chao Phraya
+Red River
+Pearl River
+Han
+Mekong Delta
+Godavari
+Krishna
+Narmada
+Yamuna
+Kaveri
+Sutlej
+Chenab
+Jhelum
+Ravi
+Helmand
+Syr Darya
+Amu Darya
+Ural
+Kama
+Dniester
+Neva
+Daugava
+Neman
+Main
+Moselle
+Meuse
+Scheldt
+Garonne
+Dordogne
+Douro
+Guadalquivir
+Arno
+Adige
+Drava
+Sava
+Tisza
+Orange
+Limpopo
+Okavango
+Senegal
+Blue Nile
+White Nile
+Snake
+Tennessee
+Arkansas
+Platte
+Sacramento
+Fraser
+
+=== mountains
+title: Mountains
+prompt: Name as many mountains as you can
+--- 1
+Mount Everest | everest
+K2
+Kilimanjaro | mount kilimanjaro
+Mont Blanc
+Mount Fuji | fuji
+Matterhorn
+--- 2
+Denali | mount mckinley
+Aconcagua
+Mount Elbrus | elbrus
+Ben Nevis
+Snowdon | yr wyddfa
+Mount Rushmore | rushmore
+Mount Olympus | olympus
+Mount Sinai | sinai
+Mount Vesuvius | vesuvius
+Mount Etna | etna
+Mount St. Helens | st helens
+Mount Rainier | rainier
+Mount Kenya
+Mount Kosciuszko | kosciuszko
+Table Mountain
+Pikes Peak
+Mount Whitney | whitney
+Kangchenjunga
+Lhotse
+Makalu
+Annapurna
+Nanga Parbat
+Eiger
+Jungfrau
+Zugspitze
+Ararat | mount ararat
+Mount Cook | aoraki
+Vinson | vinson massif
+Mauna Kea
+Mauna Loa
+Popocatépetl | popocatepetl
+Chimborazo
+Cotopaxi
+Half Dome
+El Capitan
+Uluru | ayers rock
+Table Mountain
+Sugarloaf Mountain | sugarloaf
+Scafell Pike
+Mount Hood
+Mount Shasta
+Grand Teton
+Mount Kailash | kailash
+--- 3
+Cho Oyu
+Dhaulagiri
+Manaslu
+Gasherbrum
+Broad Peak
+Shishapangma
+Nuptse
+Ama Dablam
+Pumori
+Machapuchare
+Muztagh Ata
+Tirich Mir
+Noshaq
+Ismoil Somoni
+Lenin Peak
+Khan Tengri
+Pobeda
+Belukha
+Mount Damavand | damavand
+Mount Erebus | erebus
+Mount Logan | logan
+Mount Saint Elias
+Mount Robson
+Citlaltépetl | pico de orizaba
+Huascarán
+Ojos del Salado
+Illimani
+Fitz Roy
+Cerro Torre
+Mount Stanley
+Ras Dashen
+Mount Cameroon
+Mount Meru
+Toubkal
+Puncak Jaya
+Mount Kinabalu | kinabalu
+Mount Apo
+Mount Rinjani
+Mount Bromo
+Mount Pinatubo | pinatubo
+Mount Tambora
+Krakatoa
+Mount Ruapehu
+Mount Taranaki
+Grossglockner
+Monte Rosa
+Dom
+Weisshorn
+Piz Bernina
+Aneto
+Mulhacén
+Mount Athos
+Triglav
+Gerlach
+Musala
+Rysy
+Galdhøpiggen
+Kebnekaise
+Hvannadalshnúkur
+Carrauntoohil
+Slieve Donard
+
+=== islands
+title: Islands
+prompt: Name as many islands as you can
+--- 1
+Hawaii
+Iceland
+Greenland
+Ireland
+Jamaica
+Madagascar
+Bali
+Sicily
+--- 2
+Great Britain | britain
+Cuba
+Puerto Rico
+Bahamas
+Barbados
+Tasmania
+New Zealand
+Sri Lanka
+Japan
+Borneo
+Sumatra
+Java
+New Guinea | papua new guinea
+Philippines
+Taiwan
+Singapore
+Hong Kong Island | hong kong
+Maldives
+Mauritius
+Seychelles
+Fiji
+Tahiti
+Samoa
+Tonga
+Guam
+Corsica
+Sardinia
+Crete
+Cyprus
+Malta
+Mallorca | majorca
+Ibiza
+Tenerife
+Gran Canaria
+Canary Islands
+Santorini
+Mykonos
+Rhodes
+Corfu
+Capri
+Isle of Man
+Isle of Wight
+Jersey
+Guernsey
+Skye | isle of skye
+Anglesey
+Long Island
+Manhattan
+Staten Island
+Martha's Vineyard
+Nantucket
+Alcatraz
+Easter Island
+Galápagos | galapagos
+Falklands | falkland islands
+Bermuda
+Aruba
+Trinidad
+Tobago
+Saint Lucia
+Antigua
+Grenada
+Dominica
+Haiti
+Hispaniola
+Vancouver Island
+Newfoundland
+Prince Edward Island
+Baffin Island
+Zanzibar
+Phuket
+Ko Samui
+Okinawa
+Hokkaido
+Honshu
+Kyushu
+Shikoku
+Jeju
+Hainan
+Sakhalin
+Bora Bora
+Maui
+Oahu
+Kauai
+--- 3
+Svalbard
+Faroe Islands | faroes
+Shetland
+Orkney
+Hebrides
+Lewis
+Mull
+Islay
+Arran
+Iona
+Lindisfarne | holy island
+Aran Islands
+Achill
+Gotland
+Öland
+Bornholm
+Funen
+Zealand
+Lofoten
+Sylt
+Rügen
+Elba
+Ischia
+Lampedusa
+Gozo
+Lesbos
+Kos
+Naxos
+Zakynthos
+Kefalonia
+Hydra
+Lanzarote
+Fuerteventura
+Menorca
+Formentera
+Madeira
+Azores
+Cape Verde
+São Tomé
+Bioko
+Socotra
+Réunion
+Mayotte
+Comoros
+Andaman Islands
+Lombok
+Flores
+Komodo
+Sulawesi
+Mindanao
+Luzon
+Palawan
+Cebu
+Boracay
+Langkawi
+Penang
+Tioman
+Phu Quoc
+Ha Long Bay
+Kiribati
+Tuvalu
+Nauru
+Palau
+Vanuatu
+New Caledonia
+Solomon Islands
+Marshall Islands
+Rapa Nui
+Pitcairn
+Tristan da Cunha
+Saint Helena
+Ascension Island
+South Georgia
+Kerguelen
+Wrangel Island
+Novaya Zemlya
+Ellesmere Island
+Victoria Island
+Devon Island
+Kodiak
+Molokai
+Lanai
+Big Island
+
+=== metals
+title: Metals
+prompt: Name as many metals as you can
+--- 1
+Gold
+Silver
+Iron
+Copper
+Aluminium | aluminum
+Steel
+Bronze
+--- 2
+Tin
+Lead
+Zinc
+Nickel
+Platinum
+Titanium
+Brass
+Chrome | chromium
+Mercury
+Lithium
+Magnesium
+Cobalt
+Tungsten
+Uranium
+Plutonium
+Sodium
+Potassium
+Calcium
+Cast iron
+Stainless steel
+Pewter
+Sterling silver
+White gold
+Rose gold
+Palladium
+Rhodium
+Iridium
+Osmium
+Manganese
+Cadmium
+Mercury
+Radium
+Solder
+Wrought iron
+Pig iron
+Bismuth
+Antimony
+Vanadium
+Molybdenum
+--- 3
+Beryllium
+Gallium
+Indium
+Thallium
+Germanium
+Cerium
+Lanthanum
+Neodymium
+Samarium
+Europium
+Gadolinium
+Terbium
+Dysprosium
+Holmium
+Erbium
+Thulium
+Ytterbium
+Lutetium
+Scandium
+Yttrium
+Zirconium
+Hafnium
+Niobium
+Tantalum
+Rhenium
+Ruthenium
+Strontium
+Barium
+Caesium | cesium
+Rubidium
+Francium
+Thorium
+Americium
+Polonium
+Electrum
+Babbitt
+Invar
+Nichrome
+Nitinol
+Duralumin
+Mithril @5
+Adamantium @5
+Vibranium @5
+Damascus steel
+Gunmetal
+Bell metal
+Nordic gold
+Billon
+Orichalcum
+Speculum metal
+Galvanized steel
+Carbon steel
+Tool steel
+Electrum
+Alnico
+Constantan
+Inconel
+Monel
+Zamak

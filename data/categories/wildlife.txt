@@ -1,0 +1,733 @@
+# Animal groups people know well. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== farm-animals
+title: Farm animals
+prompt: Name as many farm animals as you can
+--- 1
+Cow | cattle
+Pig
+Sheep
+Chicken | hen
+Horse
+Goat
+Duck
+--- 2
+Rooster | cockerel
+Turkey
+Goose
+Donkey
+Bull
+Lamb
+Calf
+Piglet
+Foal
+Llama
+Alpaca
+Rabbit
+Ox | oxen
+Mule
+Pony
+Sheepdog | collie
+Barn cat | cat
+Farm dog | dog
+Bee | bees
+Emu
+Ostrich
+Buffalo | water buffalo
+Yak
+Guinea fowl
+Quail
+Pigeon
+Peacock | peafowl
+Ram
+Ewe
+Sow
+Boar
+Stallion
+Mare
+Heifer
+Steer
+Chick
+Kid
+Billy goat | nanny goat
+Duckling
+Gosling
+--- 3
+Bison
+Camel
+Reindeer
+Deer
+Ferret
+Guinea pig
+Silkworm
+Fish @4
+Trout @4
+Catfish @4
+Tilapia @4
+Snail @4
+Mink @4
+Chinchilla @4
+Pheasant
+Partridge
+Swan
+Dairy cow
+Beef cattle
+Highland cow | highland cattle
+Jersey | jersey cow
+Holstein | friesian
+Angus
+Hereford
+Merino
+Suffolk
+Shetland pony
+Clydesdale
+Shire horse
+Draft horse
+Hinny
+Zebu
+Banteng
+Gayal
+Muscovy duck
+Pekin duck
+Runner duck
+Bantam
+Silkie
+Leghorn
+Rhode Island Red
+
+=== pets
+title: Pets
+prompt: Name as many animals people keep as pets as you can
+--- 1
+Dog
+Cat
+Hamster
+Goldfish | fish
+Rabbit | bunny
+Guinea pig
+Parrot
+--- 2
+Budgie | budgerigar | parakeet
+Mouse | mice
+Rat
+Gerbil
+Ferret
+Chinchilla
+Hedgehog
+Turtle
+Tortoise
+Snake
+Lizard
+Gecko | leopard gecko
+Bearded dragon
+Iguana
+Chameleon
+Frog
+Axolotl
+Hermit crab
+Tarantula | spider
+Canary
+Cockatiel
+Cockatoo
+Macaw
+Lovebird
+Finch
+Pigeon
+Chicken
+Duck
+Horse
+Pony
+Pig | pot-bellied pig | mini pig
+Goat
+Sea monkeys
+Stick insect
+Betta fish | betta | siamese fighting fish
+Guppy
+Koi
+Angelfish
+Clownfish
+Tetra | neon tetra
+Molly
+Shrimp
+Snail
+--- 3
+Sugar glider
+Degu
+Skunk
+Raccoon
+Fennec fox
+Capybara
+Monkey
+Kinkajou
+Wallaby
+Llama
+Alpaca
+Donkey
+Cow
+Sheep
+Corn snake
+Ball python | python
+Boa | boa constrictor
+King snake
+Milk snake
+Garter snake
+Anole
+Uromastyx
+Skink
+Monitor lizard
+Tegu
+Newt
+Salamander
+Toad
+Dart frog
+Pacman frog
+Tree frog
+Scorpion
+Millipede
+Praying mantis
+Ant farm | ants
+Cricket
+Silkworm
+Ladybird
+Starling
+Mynah | myna
+African grey
+Conure
+Quaker parrot
+Zebra finch
+Dove
+Quail
+Peacock
+Owl
+Hawk
+Falcon
+
+=== big-cats
+title: Wild cats
+prompt: Name as many big cats and wild cats as you can
+--- 1
+Lion
+Tiger
+Leopard
+Cheetah
+Jaguar
+Panther | black panther
+--- 2
+Cougar | puma | mountain lion
+Lynx
+Bobcat
+Snow leopard
+Ocelot
+Caracal
+Serval
+Clouded leopard
+White tiger
+Bengal tiger
+Siberian tiger | amur tiger
+Sumatran tiger
+African lion
+Asiatic lion
+Wildcat
+Liger
+Tigon
+Lioness
+Cub
+Sabre-toothed tiger | saber tooth | smilodon
+Florida panther
+Black leopard
+Black jaguar
+Sand cat
+--- 3
+Margay
+Fishing cat
+Jaguarundi
+Kodkod
+Oncilla
+Pallas's cat | manul | pallas cat
+Rusty-spotted cat
+Black-footed cat
+Flat-headed cat
+Marbled cat
+Bay cat
+Asian golden cat
+African golden cat
+Leopard cat
+Jungle cat
+Andean mountain cat
+Pampas cat
+Geoffroy's cat
+Iberian lynx
+Eurasian lynx
+Canada lynx
+Scottish wildcat
+European wildcat
+African wildcat
+Chinese mountain cat
+Sunda clouded leopard
+Amur leopard
+Persian leopard
+Indochinese tiger
+Malayan tiger
+South China tiger
+Barbary lion
+Cave lion
+American lion
+King cheetah
+Snow lion
+Cave bear @5
+
+=== rodents
+title: Rodents
+prompt: Name as many rodents as you can
+--- 1
+Mouse | mice
+Rat
+Hamster
+Squirrel
+Guinea pig
+Beaver
+--- 2
+Gerbil
+Chipmunk
+Porcupine
+Chinchilla
+Capybara
+Prairie dog
+Groundhog | woodchuck
+Lemming
+Vole
+Marmot
+Dormouse
+Muskrat
+Gopher
+Degu
+Jerboa
+Mole rat | naked mole rat
+Field mouse
+House mouse
+Brown rat
+Black rat
+Red squirrel
+Grey squirrel | gray squirrel
+Flying squirrel
+Ground squirrel
+Kangaroo rat
+Pack rat | woodrat
+Hare @5
+Rabbit @5
+Shrew @5
+Mole @5
+Hedgehog @5
+--- 3
+Agouti
+Paca
+Mara
+Nutria | coypu
+Hutia
+Viscacha
+Tuco-tuco
+Pocket gopher
+Pocket mouse
+Deer mouse
+Harvest mouse
+Spiny mouse
+Cotton rat
+Cane rat
+Bamboo rat
+Gundi
+Springhare
+Dassie rat
+Blind mole rat
+Hamster rat
+Dwarf hamster
+Syrian hamster | golden hamster
+Roborovski hamster
+Gambian pouched rat
+Giant pouched rat
+Marmoset @5
+Pika @5
+Packrat
+Kangaroo mouse
+Jird
+Sand rat
+Fat-tailed gerbil
+Mongolian gerbil
+Edible dormouse
+Hazel dormouse
+Bank vole
+Water vole
+Meadow vole
+Alpine marmot
+Hoary marmot
+Yellow-bellied marmot
+
+=== african-animals
+title: African animals
+prompt: Name as many animals that live in Africa as you can
+--- 1
+Lion
+Elephant
+Giraffe
+Zebra
+Hippo | hippopotamus
+Rhino | rhinoceros
+Cheetah
+Gorilla
+--- 2
+Leopard
+Hyena
+Crocodile | nile crocodile
+Chimpanzee | chimp
+Baboon
+Meerkat
+Gazelle
+Antelope
+Wildebeest | gnu
+Buffalo | cape buffalo
+Warthog
+Ostrich
+Flamingo
+Vulture
+Jackal
+Wild dog | african wild dog | painted dog
+Lemur
+Okapi
+Impala
+Springbok
+Kudu
+Eland
+Oryx
+Gemsbok
+Camel
+Mongoose
+Aardvark
+Pangolin
+Hornbill
+Secretary bird
+Black mamba | mamba
+Cobra
+Python
+Chameleon
+Fennec fox
+Bonobo
+Mandrill
+Colobus monkey
+Vervet monkey
+Dung beetle
+Tsetse fly
+Termite
+Puff adder
+--- 3
+Bongo
+Sitatunga
+Nyala
+Sable antelope
+Roan antelope
+Hartebeest
+Topi
+Dik-dik
+Klipspringer
+Duiker
+Steenbok
+Gerenuk
+Dama gazelle
+Addax
+Caracal
+Serval
+African golden cat
+Aardwolf
+Honey badger | ratel
+Bat-eared fox
+Genet
+Civet
+Bushbaby | galago
+Aye-aye
+Fossa
+Tenrec
+Rock hyrax | hyrax | dassie
+Elephant shrew
+Shoebill
+Marabou stork
+Kori bustard
+Lilac-breasted roller
+Weaver bird
+Guinea fowl
+Oxpecker
+Ground hornbill
+Crowned crane
+Fish eagle
+Gaboon viper
+Boomslang
+Nile monitor
+Goliath frog
+Lungfish
+Tigerfish
+Coelacanth
+
+=== australian-animals
+title: Australian animals
+prompt: Name as many animals that live in Australia as you can
+--- 1
+Kangaroo
+Koala
+Emu
+Platypus
+Wombat
+Dingo
+--- 2
+Wallaby
+Tasmanian devil
+Echidna
+Kookaburra
+Cockatoo
+Possum
+Quokka
+Crocodile | saltwater crocodile | saltie
+Great white shark | shark
+Box jellyfish | jellyfish
+Funnel-web spider | funnel web
+Redback spider | redback
+Taipan
+Brown snake
+Tiger snake
+Frill-necked lizard | frilled lizard
+Thorny devil
+Goanna
+Cassowary
+Galah
+Budgerigar | budgie
+Lorikeet | rainbow lorikeet
+Magpie
+Ibis | bin chicken
+Black swan
+Pelican
+Penguin | little penguin | fairy penguin
+Dugong
+Sugar glider
+Numbat
+Bilby
+Bandicoot
+Quoll
+Tree kangaroo
+Flying fox | fruit bat
+Cane toad
+Blue-tongued skink | blue tongue lizard
+Huntsman spider
+Stonefish
+--- 3
+Thylacine | tasmanian tiger
+Bettong
+Potoroo
+Pademelon
+Quokka
+Wallaroo
+Antechinus
+Dunnart
+Kowari
+Mulgara
+Marsupial mole
+Greater glider
+Cuscus
+Lyrebird
+Bowerbird
+Tawny frogmouth
+Superb fairywren
+Willie wagtail
+Rosella
+Corella
+Brolga
+Jabiru
+Mallee fowl
+Bush turkey
+Gouldian finch
+Inland taipan
+Death adder
+Eastern brown snake
+Perentie
+Lace monitor
+Bearded dragon
+Shingleback
+Leafy seadragon
+Weedy seadragon
+Blue-ringed octopus
+Irukandji jellyfish
+Barramundi
+Murray cod
+Lungfish
+Corroboree frog
+Huntsman
+Bull ant
+Witchetty grub
+Christmas beetle
+
+=== polar-animals
+title: Polar animals
+prompt: Name as many animals that live in the Arctic or Antarctic as you can
+--- 1
+Polar bear
+Penguin | penguins
+Seal
+Walrus
+Arctic fox
+Orca | killer whale
+--- 2
+Emperor penguin
+King penguin
+Adelie penguin | adélie penguin
+Chinstrap penguin
+Gentoo penguin
+Rockhopper penguin
+Macaroni penguin
+Snowy owl
+Arctic hare
+Arctic wolf
+Reindeer | caribou
+Musk ox | muskox
+Narwhal
+Beluga | beluga whale
+Bowhead whale
+Humpback whale
+Blue whale
+Minke whale
+Leopard seal
+Elephant seal
+Weddell seal
+Harp seal
+Ringed seal
+Bearded seal
+Fur seal
+Sea lion
+Lemming
+Ermine | stoat
+Wolverine
+Puffin
+Albatross
+Petrel
+Skua
+Tern | arctic tern
+Krill
+Snow goose
+Ptarmigan
+Moose
+Lynx
+Sled dog | husky
+--- 3
+Hooded seal
+Ross seal
+Crabeater seal
+Spotted seal
+Harbor seal
+Sperm whale
+Fin whale
+Sei whale
+Southern right whale
+Greenland shark
+Arctic char
+Antarctic toothfish
+Icefish
+Polar cod
+Sea spider
+Snow petrel
+Wandering albatross
+Giant petrel
+Sheathbill
+Little auk | dovekie
+Guillemot
+Razorbill
+Kittiwake
+Eider
+Gyrfalcon
+Raven
+Snow bunting
+Arctic ground squirrel
+Collared lemming
+Dall sheep
+Siberian husky
+Malamute
+Samoyed
+Antarctic midge
+Springtail
+Arctic woolly bear moth
+Mammoth @5
+
+=== baby-animals
+title: Baby animal names
+prompt: Name as many words for baby animals as you can (puppy, kitten...)
+--- 1
+Puppy | pup
+Kitten | kitty
+Calf
+Foal
+Cub
+Chick
+Lamb
+--- 2
+Piglet
+Duckling
+Gosling
+Kid
+Bunny
+Joey
+Fawn
+Tadpole
+Caterpillar
+Larva | larvae
+Owlet
+Eaglet
+Cygnet
+Hatchling
+Fledgling
+Nestling
+Colt
+Filly
+Whelp
+Cria
+Squab
+Poult
+Chickling @5
+Infant
+Baby
+Calf
+Elver
+Fry
+Spat
+Maggot
+Grub
+Nymph
+Pupa
+--- 3
+Kit
+Leveret
+Hoglet
+Puggle
+Eyas
+Squeaker
+Shoat
+Farrow
+Gilt
+Yearling
+Weaner
+Heifer
+Ducklet
+Keet
+Cheeper
+Parr
+Smolt
+Alevin
+Fingerling
+Polliwog
+Froglet
+Spiderling
+Wriggler
+Joey
+Calves
+Pinkie
+Kitling
+Owlet
+Cygnet
+Eyass
+Codling
+Spiderlet
+Chick
+Pullet
+Cockerel

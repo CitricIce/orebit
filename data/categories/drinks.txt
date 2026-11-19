@@ -1,0 +1,509 @@
+# Drinks and sweets. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== soft-drinks
+title: Soft drinks
+prompt: Name as many soft drinks and soda brands as you can
+--- 1
+Coca-Cola | coke | coca cola
+Pepsi
+Sprite
+Fanta
+7 Up | 7up | seven up
+Dr Pepper | dr. pepper
+Mountain Dew
+--- 2
+Diet Coke
+Coke Zero
+Pepsi Max
+Root beer
+A&W
+Ginger ale
+Canada Dry
+Schweppes
+Tonic water | tonic
+Lemonade
+Club soda | soda water
+Red Bull
+Monster
+Gatorade
+Powerade
+Lucozade
+Irn-Bru | irn bru
+Tango
+Orangina
+San Pellegrino
+Sunkist
+Crush
+Mug
+Barq's | barqs
+Cherry Coke
+Vanilla Coke
+Fresca
+Squirt
+Sierra Mist
+Starry
+Dr Pepper Zero
+Cream soda
+Ginger beer
+Snapple
+Arizona
+Lipton Ice Tea | ice tea | iced tea
+Vimto
+Ribena
+Capri Sun
+Kool-Aid
+Tab
+--- 3
+Faygo
+Shasta
+Big Red
+Cheerwine
+Moxie
+RC Cola
+Jolt
+Surge
+Mello Yello
+Pibb Xtra | mr pibb
+Vernors
+Jarritos
+Inca Kola
+Guaraná Antarctica | guarana
+Kuat
+Sarsaparilla
+Birch beer
+Fentimans
+Fever-Tree
+Appletiser
+Schloer
+Dandelion and burdock
+Lilt
+Oasis
+Rubicon
+Bundaberg
+Ramune
+Calpis
+Pocari Sweat
+Mirinda
+Thums Up
+Limca
+Afri-Cola
+Club-Mate
+Fritz-Kola
+Kvass
+Bubly
+LaCroix
+Perrier
+Celsius
+Prime
+Rockstar
+Bang
+NOS
+Slice
+Crystal Pepsi
+OK Soda
+
+=== spirits
+title: Alcoholic drinks
+prompt: Name as many kinds of alcoholic drinks as you can
+--- 1
+Beer
+Wine
+Vodka
+Whiskey | whisky
+Rum
+Gin
+Tequila
+--- 2
+Champagne
+Brandy
+Cider
+Sake
+Bourbon
+Scotch
+Prosecco
+Sherry
+Port
+Cognac
+Absinthe
+Mead
+Schnapps
+Vermouth
+Liqueur
+Lager
+Ale
+Stout
+IPA
+Pilsner
+Red wine
+White wine
+Rosé | rose wine
+Sangria
+Mezcal
+Moonshine
+Baileys
+Kahlua
+Amaretto
+Jägermeister | jagermeister
+Sambuca
+Ouzo
+Limoncello
+Margarita
+Martini
+Mojito
+Hard seltzer | seltzer
+Soju
+Malibu
+Grand Marnier
+Cointreau
+Triple sec
+--- 3
+Rye whiskey | rye
+Armagnac
+Calvados
+Grappa
+Pisco
+Cachaça | cachaca
+Aquavit | akvavit
+Baijiu
+Shochu
+Arak
+Raki
+Pastis
+Pernod
+Campari
+Aperol
+Chartreuse
+Bénédictine
+Drambuie
+Frangelico
+Midori
+Chambord
+Galliano
+Southern Comfort
+Fireball
+Everclear
+Slivovitz
+Palinka
+Rakia
+Poitín | poitin
+Madeira
+Marsala
+Moscato
+Lambrusco
+Cava
+Porter
+Bitter
+Mild
+Saison
+Hefeweizen
+Kölsch
+Sour
+Kombucha @5
+Perry
+Pulque
+Chicha
+Makgeolli
+Tej
+Kumis
+Horilka
+
+=== desserts
+title: Desserts
+prompt: Name as many desserts as you can
+--- 1
+Ice cream
+Cake | chocolate cake
+Cheesecake
+Brownie | brownies
+Apple pie | pie
+Pudding
+Tiramisu
+--- 2
+Crème brûlée | creme brulee
+Chocolate mousse | mousse
+Panna cotta
+Trifle
+Sundae | ice cream sundae
+Banana split
+Pavlova
+Eton mess
+Sticky toffee pudding
+Bread pudding
+Rice pudding
+Custard
+Jelly | jello | jell-o
+Flan
+Crème caramel
+Profiteroles
+Éclair | eclair
+Doughnut | donut
+Cupcake
+Cookie | cookies
+Muffin
+Churros
+Waffles
+Crêpe | crepe
+Baklava
+Cannoli
+Gelato
+Sorbet
+Frozen yogurt | froyo
+Milkshake
+Fudge
+Fondue | chocolate fondue
+Lava cake | molten chocolate cake
+Key lime pie
+Lemon meringue pie
+Pecan pie
+Pumpkin pie
+Cobbler
+Crumble | apple crumble
+Strudel
+Tart | fruit tart
+Black Forest cake
+Carrot cake
+Red velvet cake
+Victoria sponge
+Swiss roll
+Baked Alaska
+Ice cream sandwich
+Popsicle | ice lolly
+Mochi
+--- 3
+Affogato
+Semifreddo
+Zabaglione
+Syllabub
+Posset
+Fool
+Blancmange
+Charlotte
+Clafoutis
+Tarte tatin
+Mille-feuille
+Croquembouche
+Paris-Brest
+Opera cake
+Sachertorte
+Linzer torte
+Kaiserschmarrn
+Gulab jamun
+Kulfi
+Kheer
+Halwa
+Rasgulla
+Knafeh
+Halva
+Turkish delight
+Bingsu
+Halo-halo
+Dango
+Taiyaki
+Mango sticky rice
+Tres leches cake
+Arroz con leche
+Dulce de leche
+Alfajores
+Brigadeiro
+Pastel de nata
+Lamington
+Anzac biscuit
+Spotted dick
+Jam roly-poly
+Banoffee pie
+Treacle tart
+Summer pudding
+Whoopie pie
+Funnel cake
+Beignet
+Cronut
+Snickerdoodle
+Rocky road
+Bananas Foster
+Cherries jubilee
+Crêpes Suzette
+
+=== cookies
+title: Cookies and biscuits
+prompt: Name as many kinds of cookies or biscuits as you can
+--- 1
+Chocolate chip | chocolate chip cookie
+Oatmeal raisin | oatmeal
+Sugar cookie
+Peanut butter cookie | peanut butter
+Oreo | oreos
+Shortbread
+--- 2
+Snickerdoodle
+Gingerbread | gingerbread man
+Ginger snap | ginger nut
+Macaron
+Macaroon
+Biscotti
+Fortune cookie
+Double chocolate
+White chocolate macadamia | macadamia
+Butter cookie
+Thumbprint cookie
+Black and white cookie
+Chips Ahoy
+Fig Newton
+Nilla wafers
+Graham cracker
+Animal crackers
+Girl Scout cookies | thin mints | samoas
+Digestive | digestives
+Hobnobs | hobnob
+Custard cream
+Bourbon
+Jammie Dodger
+Rich tea
+Jaffa cakes
+Garibaldi
+Anzac biscuit | anzac
+Tim Tam
+Pinwheel
+Florentine
+Madeleine
+Ladyfinger | savoiardi
+Wafer
+Lebkuchen
+Speculaas | speculoos | biscoff
+Linzer cookie
+Snowball cookie | russian tea cake | mexican wedding cookie
+Whoopie pie
+Biscuit
+--- 3
+Pizzelle
+Amaretti
+Cantuccini
+Stroopwafel
+Pfeffernüsse | pfeffernusse
+Springerle
+Spritz cookie
+Kipferl
+Rugelach
+Hamantaschen
+Mandelbrot
+Polvorones
+Alfajores
+Brigadeiros
+Ma'amoul
+Kourabiedes
+Melomakarona
+Pepparkakor
+Krumkake
+Rosettes
+Langues de chat
+Palmier
+Sablé
+Tuile
+Florentines
+Lady's kisses
+Viennese whirls
+Shortcake
+Gingersnap
+Molasses cookie
+Hermit cookie
+Monster cookie
+Cowboy cookie
+Crinkle cookie
+Kitchen sink cookie
+Lemon bars
+Blondie
+Pocky @4
+Choco pie
+
+=== pies-pastries
+title: Pies and pastries
+prompt: Name as many pies and pastries as you can
+--- 1
+Apple pie
+Croissant
+Pumpkin pie
+Cherry pie
+Pecan pie
+Danish | danish pastry
+--- 2
+Key lime pie
+Lemon meringue pie
+Blueberry pie
+Pot pie | chicken pot pie
+Pork pie
+Meat pie
+Shepherd's pie
+Banoffee pie
+Mince pie
+Sweet potato pie
+Strawberry rhubarb pie
+Peach pie
+Mud pie
+Cream pie | banana cream pie | coconut cream pie
+Boston cream pie
+Pain au chocolat
+Éclair | eclair
+Cream puff | profiterole
+Turnover | apple turnover
+Strudel
+Baklava
+Cannoli
+Puff pastry
+Cinnamon roll | cinnamon bun
+Bear claw
+Sausage roll
+Pasty | cornish pasty
+Empanada
+Samosa
+Quiche
+Tart
+Tarte tatin
+Mille-feuille | napoleon
+Palmier
+Kouign-amann
+Pain aux raisins
+Scone
+--- 3
+Steak and kidney pie
+Fish pie
+Cottage pie
+Pie and mash
+Stargazy pie
+Shoofly pie
+Chess pie
+Whoopie pie
+Grasshopper pie
+Bakewell tart
+Treacle tart
+Custard tart
+Egg tart
+Pastel de nata | pastéis de nata
+Galette
+Frangipane
+Pithivier
+Sfogliatella
+Paris-Brest
+Croquembouche
+Rugelach
+Kolache
+Kringle
+Börek | burek
+Spanakopita
+Tiropita
+Bougatsa
+Pirozhki
+Knish
+Bánh pía
+Jesuit
+Chouquette
+Religieuse
+Saint-Honoré
+Cronut
+Pop-Tart
+Toaster strudel
+Sopapilla
+Hand pie
+Cobbler
+Galette des rois
+Eccles cake
+Chelsea bun
+Kardinalschnitte

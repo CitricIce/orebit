@@ -1,0 +1,488 @@
+# Meals, meat and fish. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== seafood
+title: Seafood
+prompt: Name as many kinds of seafood as you can
+--- 1
+Salmon
+Tuna
+Shrimp | prawn | prawns
+Lobster
+Crab
+Cod
+Oyster | oysters
+--- 2
+Clam | clams
+Mussel | mussels
+Scallop | scallops
+Squid | calamari
+Octopus
+Sardine | sardines
+Anchovy | anchovies
+Mackerel
+Haddock
+Halibut
+Trout
+Tilapia
+Catfish
+Sea bass | bass
+Swordfish
+Mahi-mahi | mahi mahi
+Snapper | red snapper
+Sole
+Plaice
+Herring
+Crayfish | crawfish | crawdad
+Langoustine
+Caviar
+Roe
+Sea urchin | uni
+Eel
+Kipper
+Pollock
+Flounder
+Monkfish
+Carp
+Perch
+Pike
+Sturgeon
+Barramundi
+Hake
+Whitebait
+Fish fingers | fish sticks
+Surimi | crab sticks
+--- 3
+Turbot
+Brill
+Dover sole
+John Dory
+Skate
+Ray
+Bream
+Mullet
+Grouper
+Pompano
+Arctic char
+Branzino
+Yellowtail | hamachi
+Bluefin
+Albacore
+Bonito
+Marlin
+Wahoo
+Cobia
+Orange roughy
+Whiting
+Coley
+Pilchard
+Sprat
+Smelt
+Shad
+Sablefish | black cod
+Abalone
+Conch
+Whelk
+Winkle | periwinkle
+Cockle
+Razor clam
+Geoduck
+Cuttlefish
+Sea cucumber
+Langouste
+Spiny lobster
+King crab
+Snow crab
+Dungeness crab
+Blue crab
+Soft-shell crab
+Krill
+Barnacle
+Jellyfish
+
+=== meats
+title: Meats
+prompt: Name as many kinds or cuts of meat as you can
+--- 1
+Beef
+Chicken
+Pork
+Lamb
+Turkey
+Bacon
+Ham
+Steak
+--- 2
+Duck
+Veal
+Venison
+Goat
+Mutton
+Sausage
+Salami
+Pepperoni
+Prosciutto
+Chorizo
+Burger | hamburger
+Mince | ground beef
+Ribs | spare ribs
+Brisket
+Sirloin
+Ribeye
+T-bone
+Filet mignon | fillet | tenderloin
+Rump
+Pork chop | chops | lamb chop
+Chicken breast | breast
+Chicken thigh | thigh
+Drumstick
+Wings | chicken wings
+Liver
+Kidney
+Rabbit
+Goose
+Quail
+Pheasant
+Corned beef
+Pastrami
+Jerky | beef jerky
+Spam
+Hot dog
+Meatballs
+Gammon
+Roast beef
+Pulled pork
+Pork belly
+Oxtail
+Tongue
+--- 3
+Bison | buffalo
+Elk
+Moose
+Boar | wild boar
+Kangaroo
+Ostrich
+Emu
+Alligator
+Frog legs
+Snail
+Horse
+Camel
+Pigeon | squab
+Partridge
+Grouse
+Guinea fowl
+Capon
+Poussin
+Hare
+Tripe
+Sweetbreads
+Heart
+Kidneys
+Oxtail
+Cheek
+Shank
+Flank
+Skirt
+Hanger steak
+Chuck
+Round
+Brisket point
+Porterhouse
+New York strip | strip steak
+Picanha
+Tri-tip
+Wagyu
+Kobe
+Chateaubriand
+Rack of lamb
+Leg of lamb
+Pork loin
+Pork shoulder
+Pork knuckle
+Trotters
+Lardons
+Pancetta
+Guanciale
+Bresaola
+Coppa
+Mortadella
+Biltong
+Haggis
+Black pudding
+Foie gras
+
+=== salads
+title: Salads
+prompt: Name as many kinds of salad as you can
+--- 1
+Caesar salad | caesar
+Greek salad | greek
+Potato salad
+Fruit salad
+Garden salad | green salad | side salad
+Pasta salad
+Coleslaw | slaw
+--- 2
+Cobb salad | cobb
+Chef salad | chef's salad
+Waldorf salad | waldorf
+Caprese | caprese salad
+Niçoise | nicoise | salade nicoise
+Tuna salad
+Chicken salad
+Egg salad
+Taco salad
+Wedge salad | wedge
+Spinach salad
+Kale salad
+Quinoa salad
+Tabbouleh
+Fattoush
+Macaroni salad
+Bean salad | three bean salad
+Cucumber salad
+Tomato salad
+Rice salad
+Couscous salad
+Panzanella
+Asian salad
+Thai salad
+Papaya salad | som tam
+Seaweed salad
+House salad
+Arugula salad | rocket salad
+Beet salad
+Broccoli salad
+Ambrosia
+Jello salad
+--- 3
+Shirazi salad
+Israeli salad
+Olivier salad | russian salad
+Herring salad
+Shopska
+Horiatiki
+Insalata mista
+Panzanella
+Larb
+Gado-gado
+Yam woon sen
+Ensalada rusa
+Kachumber
+Raita
+Pico de gallo
+Salade lyonnaise
+Salade composée
+Watergate salad
+Seven-layer salad
+Snickers salad
+Crab Louie
+Green goddess salad
+Chopped salad
+Lentil salad
+Farro salad
+Burrata salad
+Grain bowl
+Poke bowl
+Buddha bowl
+Mesclun
+Frisée salad
+Endive salad
+Watermelon salad
+Carrot salad
+Celeriac remoulade
+Celery Victor
+Kani salad
+Wakame salad
+Smashed cucumber salad
+
+=== cooking-methods
+title: Ways to cook food
+prompt: Name as many cooking methods as you can
+--- 1
+Bake | baking
+Fry | frying
+Boil | boiling
+Grill | grilling
+Roast | roasting
+Steam | steaming
+Microwave | microwaving
+--- 2
+Deep fry | deep frying
+Stir fry | stir frying
+Pan fry | pan frying
+Sauté | saute | sauteing
+Poach | poaching
+Simmer | simmering
+Broil | broiling
+Barbecue | bbq | barbecuing
+Smoke | smoking
+Braise | braising
+Stew | stewing
+Toast | toasting
+Air fry | air frying | air fryer
+Slow cook | slow cooking | crockpot
+Pressure cook | pressure cooking | instant pot
+Sear | searing
+Blanch | blanching
+Scramble
+Flambé | flambe
+Caramelize | caramelise
+Marinate | marinating
+Cure | curing
+Pickle | pickling
+Ferment | fermenting
+Sous vide
+Char | charring
+Rotisserie
+Spit roast
+Barbecue
+Shallow fry
+Reduce | reduction
+Melt
+Whisk
+Knead
+--- 3
+Coddle
+Confit
+En papillote
+Parboil
+Scald
+Temper
+Glaze
+Baste
+Brine
+Flash fry
+Wok hei
+Tandoor
+Plank grilling
+Rotisserie
+Dry age
+Dehydrate
+Freeze-dry
+Candy
+Render
+Deglaze
+Clarify
+Emulsify
+Fold
+Proof | proving
+Torch
+Pan roast
+Reverse sear
+Hot smoke
+Cold smoke
+Velvet | velveting
+Gratin
+Flambé
+Fricassee
+Jug
+Pot roast
+Steep
+Infuse
+Macerate
+Sweat
+
+=== rice-noodle-dishes
+title: Rice and noodle dishes
+prompt: Name as many rice or noodle dishes as you can
+--- 1
+Fried rice
+Sushi
+Risotto
+Paella
+Pad thai
+Ramen
+Spaghetti
+--- 2
+Biryani
+Jambalaya
+Rice pudding
+Pilaf | pilau | pulao
+Congee
+Burrito bowl
+Chow mein
+Lo mein
+Udon
+Soba
+Pho
+Laksa
+Dan dan noodles
+Mac and cheese
+Lasagna
+Pasta salad
+Rice and beans | red beans and rice
+Spanish rice
+Mexican rice
+Dirty rice
+Gumbo
+Kedgeree
+Arancini
+Dolma | stuffed vine leaves
+Stuffed peppers
+Onigiri | rice ball
+Bibimbap
+Donburi
+Katsu curry | katsudon
+Teriyaki bowl
+Poke bowl
+Nasi goreng
+Mee goreng
+Singapore noodles
+Drunken noodles
+Pad see ew
+Yakisoba
+Japchae
+Glass noodles
+Noodle soup
+Chicken noodle soup
+Chicken and rice
+Rice cakes
+Mochi
+--- 3
+Jollof rice
+Arroz con pollo
+Arroz negro
+Fideuà
+Hoppin' John
+Mujaddara
+Tahdig
+Kabsa
+Mandi
+Maqluba
+Plov
+Khichdi
+Pongal
+Bisi bele bath
+Lemon rice
+Curd rice
+Nasi lemak
+Nasi campur
+Hainanese chicken rice
+Claypot rice
+Loco moco
+Omurice
+Oyakodon
+Gyudon
+Tamago kake gohan
+Chirashi
+Zaru soba
+Tsukemen
+Mazemen
+Bun cha
+Bun bo hue
+Mi quang
+Khao soi
+Boat noodles
+Char kway teow
+Hokkien mee
+Wonton noodles
+Biang biang noodles
+Zhajiangmian
+Naengmyeon
+Jjajangmyeon
+Kalguksu
+Spätzle
+Kugel
+Haluski
+Pierogi

@@ -1,0 +1,507 @@
+# Fruit, vegetables and staples. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== fruits
+title: Fruits
+prompt: Name as many fruits as you can
+starcore: Rambutan
+--- 1
+Apple
+Banana
+Orange
+Strawberry
+Grape
+Pear
+Peach
+Mango
+Pineapple
+Watermelon
+Cherry
+Lemon
+--- 2
+Blueberry
+Raspberry
+Blackberry
+Kiwi | kiwifruit
+Plum
+Apricot
+Lime
+Grapefruit
+Coconut
+Papaya
+Cantaloupe
+Honeydew
+Melon
+Pomegranate
+Fig
+Nectarine
+Tangerine
+Clementine
+Mandarin
+Cranberry
+Avocado
+Tomato
+Date
+Passion fruit
+Guava
+Lychee | litchi
+Dragon fruit | pitaya
+Starfruit | carambola
+Persimmon
+Quince
+Gooseberry
+Currant | blackcurrant | redcurrant
+Raisin
+Prune
+--- 3
+Kumquat
+Jackfruit
+Durian
+Rambutan
+Mangosteen
+Longan
+Elderberry
+Mulberry
+Boysenberry
+Loganberry
+Huckleberry
+Cloudberry
+Lingonberry
+Olive
+Plantain
+Tamarind
+Feijoa
+Pawpaw
+Ugli fruit
+Yuzu
+Pomelo
+Blood orange
+Satsuma
+Medlar
+Sloe
+Damson
+Greengage
+Breadfruit
+Soursop
+Cherimoya | custard apple
+Acai
+Goji berry | goji
+Physalis | cape gooseberry
+Salak | snake fruit
+Ackee
+Loquat
+Jabuticaba
+Marionberry
+Juniper berry
+Rhubarb @4
+Kiwano | horned melon
+Sapodilla
+Miracle fruit
+Bilberry
+Crab apple
+
+=== vegetables
+title: Vegetables
+prompt: Name as many vegetables as you can
+starcore: Kohlrabi
+--- 1
+Carrot
+Potato
+Broccoli
+Lettuce
+Onion
+Tomato
+Cucumber
+Pepper | bell pepper | capsicum
+Spinach
+Peas | pea
+Corn | sweetcorn | maize
+Cabbage
+--- 2
+Cauliflower
+Celery
+Garlic
+Mushroom
+Zucchini | courgette
+Eggplant | aubergine
+Green beans | string beans | runner beans
+Asparagus
+Kale
+Beetroot | beet
+Radish
+Sweet potato | yam
+Pumpkin
+Squash | butternut squash
+Brussels sprouts | brussel sprouts
+Artichoke
+Leek
+Turnip
+Parsnip
+Avocado
+Okra
+Chili pepper | chili | chilli | jalapeno
+Shallot
+Spring onion | scallion | green onion
+Bok choy | pak choi
+Arugula | rocket
+Edamame
+--- 3
+Kohlrabi
+Fennel
+Rutabaga | swede
+Watercress
+Endive
+Radicchio
+Chard | swiss chard
+Collard greens | collards
+Celeriac
+Jicama
+Daikon
+Bamboo shoots
+Bean sprouts
+Water chestnut
+Taro
+Cassava | yuca
+Jerusalem artichoke | sunchoke
+Horseradish
+Ginger
+Romaine
+Iceberg lettuce
+Snow peas | mangetout
+Sugar snap peas
+Lima beans
+Broad beans | fava beans
+Alfalfa sprouts
+Mustard greens
+Dandelion greens
+Salsify
+Samphire
+Okra
+Chayote
+Napa cabbage | chinese cabbage
+Red cabbage
+Savoy cabbage
+Broccolini
+Romanesco
+Artichoke heart
+Tomatillo
+Purslane
+Sorrel
+Lotus root
+
+=== grains
+title: Grains and cereals
+prompt: Name as many grains and cereal crops as you can
+--- 1
+Rice
+Wheat
+Oats | oat
+Corn | maize
+Barley
+--- 2
+Rye
+Quinoa
+Millet
+Sorghum
+Buckwheat
+Couscous
+Bulgur
+Spelt
+Wild rice
+Brown rice
+Basmati
+Jasmine rice
+Semolina
+Polenta
+Bran
+--- 3
+Amaranth
+Teff
+Farro
+Freekeh
+Kamut
+Triticale
+Einkorn
+Emmer
+Fonio
+Arborio
+Durum
+Chia @4
+Flax | flaxseed @4
+Hominy
+Grits
+Sushi rice
+Black rice
+Red rice
+Pearl barley
+Oatmeal
+
+=== beans-legumes
+title: Beans and legumes
+prompt: Name as many beans and legumes as you can
+--- 1
+Kidney beans | kidney bean
+Black beans | black bean
+Chickpeas | chickpea | garbanzo
+Lentils | lentil
+Peas | pea
+Baked beans
+--- 2
+Pinto beans | pinto
+Green beans
+Soybeans | soy | soya
+Peanuts | peanut
+Lima beans | butter beans
+Navy beans | haricot
+Broad beans | fava beans
+Cannellini beans | cannellini
+Black-eyed peas | black eyed peas
+Edamame
+Split peas
+Mung beans | mung
+Runner beans
+Red lentils
+Jelly beans @5
+--- 3
+Adzuki beans | adzuki | azuki
+Borlotti beans | borlotti | cranberry beans
+Great northern beans
+Flageolet beans | flageolet
+Lupin beans | lupini
+Pigeon peas
+Snow peas
+Sugar snap peas
+Chana dal | dal
+Puy lentils
+Urad dal | black gram
+Tamarind @4
+Carob @4
+Alfalfa @4
+Clover @5
+Mesquite @5
+Fenugreek @4
+Winged bean
+Cowpeas
+Moth beans
+Tepary beans
+Yardlong beans
+Hyacinth beans
+
+=== potato-dishes
+title: Potato dishes
+prompt: Name as many potato dishes as you can
+--- 1
+French fries | fries | chips
+Mashed potatoes | mash | mashed potato
+Baked potato | jacket potato
+Roast potatoes | roasted potatoes
+Potato salad
+Hash browns | hash brown
+--- 2
+Potato chips | crisps
+Tater tots
+Wedges | potato wedges
+Scalloped potatoes
+Potatoes au gratin | au gratin | gratin
+Gratin dauphinois | dauphinoise
+Latkes | latke | potato pancakes
+Gnocchi
+Poutine
+Rosti | rösti
+Home fries
+Curly fries
+Loaded potato skins | potato skins
+Shepherd's pie
+Cottage pie
+Bubble and squeak
+Twice-baked potatoes
+Potato soup
+Patatas bravas | bravas
+Hasselback potatoes
+Croquettes | potato croquettes
+Duchess potatoes
+--- 3
+Colcannon
+Champ
+Pommes Anna
+Pommes frites
+Aloo gobi
+Aloo paratha
+Samosa
+Bombay potatoes
+Vichyssoise
+Tortilla española | spanish omelette | tortilla de patatas
+Pierogi
+Knish
+Boxty
+Lyonnaise potatoes
+Aligot
+Tartiflette
+Papas arrugadas
+Pyttipanna
+Kugel
+Raclette
+Stamppot
+Hash
+Smashed potatoes
+Fondant potatoes
+Crinkle cut fries
+Waffle fries
+Shoestring fries
+Potato bread
+Chips and gravy
+Rumbledethumps
+Papa rellena
+Causa
+
+=== egg-dishes
+title: Egg dishes
+prompt: Name as many ways to cook eggs or egg dishes as you can
+--- 1
+Scrambled eggs | scrambled
+Fried egg | fried
+Boiled egg | boiled | hard boiled | soft boiled
+Omelette | omelet
+Poached egg | poached
+--- 2
+Eggs Benedict | benedict
+Sunny side up
+Over easy
+Deviled eggs | devilled eggs
+Frittata
+Quiche
+Egg salad
+Egg fried rice
+French toast
+Shakshuka
+Huevos rancheros
+Scotch egg
+Egg drop soup
+Tamagoyaki
+Egg sandwich
+Breakfast burrito
+Soufflé | souffle
+Eggnog
+Custard
+Meringue
+Pickled eggs
+Coddled egg
+Baked eggs
+--- 3
+Eggs Florentine | florentine
+Eggs Royale
+Over medium
+Over hard
+Basted eggs
+Shirred eggs
+Oeufs en cocotte | en cocotte
+Spanish omelette | tortilla
+Tortilla española
+Egg foo young | egg foo yong
+Century egg | thousand year egg
+Tea egg
+Balut
+Menemen
+Cilbir
+Kuku sabzi
+Ramen egg | ajitama
+Chawanmushi
+Oyakodon
+Carbonara
+Zabaglione
+Hollandaise
+Mayonnaise
+Egg curry
+Akuri
+Eggs in purgatory
+Toad in the hole @4
+Egg in a basket | egg in a hole
+Migas
+Strata
+Dutch baby
+Crème brûlée @4
+Kedgeree
+Croque madame
+
+=== breakfast-foods
+title: Breakfast foods
+prompt: Name as many breakfast foods as you can
+--- 1
+Pancakes | pancake
+Waffles | waffle
+Eggs | egg
+Bacon
+Toast
+Cereal
+Oatmeal | porridge
+--- 2
+Sausage | sausages
+French toast
+Hash browns
+Bagel
+Croissant
+Muffin
+Yogurt | yoghurt
+Granola
+Muesli
+Smoothie
+Fruit salad
+Omelette
+Scrambled eggs
+Eggs Benedict
+Avocado toast
+Breakfast burrito
+Biscuits and gravy
+Grits
+Cinnamon roll
+Doughnut | donut
+English muffin
+Crumpet
+Baked beans
+Black pudding
+Kippers
+Danish
+Pain au chocolat
+Corn flakes
+Cheerios
+--- 3
+Full English | full english breakfast | fry up
+Huevos rancheros
+Chilaquiles
+Shakshuka
+Congee
+Idli
+Dosa
+Upma
+Poha
+Paratha
+Natto
+Miso soup
+Tamagoyaki
+Kedgeree
+Bubble and squeak
+Crêpes | crepe
+Dutch baby
+Eggs in purgatory
+Breakfast sandwich
+Bacon roll | bacon butty
+Scone
+Hotcakes
+Johnnycake
+Scrapple
+Corned beef hash
+Kaya toast
+Menemen
+Acai bowl
+Overnight oats
+Chia pudding
+Quiche
+Bircher muesli
+Toast soldiers
+Pop-Tarts | pop tart
+Eggo
+Frosted Flakes
+Fruit Loops | froot loops
+Lucky Charms
+Weetabix
+Rice Krispies
+Shredded Wheat
