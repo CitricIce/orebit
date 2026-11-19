@@ -448,19 +448,23 @@ def build_generated(gen: dict, family: str) -> dict | None:
     }
 
 
-def load_generated(taken: set[str]) -> list[dict]:
+def load_generated(taken: set[str], titles: set[str]) -> list[dict]:
+    """Generated categories. One whose title matches a category already built
+    (two lists that both make "Best Picture winners") is skipped, so the same
+    question never shows up twice."""
     cats: list[dict] = []
     for path in sorted(GENERATED_DIR.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         for gen in data["categories"]:
             cat = build_generated(gen, data["family"])
-            if not cat:
+            if not cat or normalize(cat["title"]) in titles:
                 continue
             if cat["id"] in taken:
                 cat["id"] = f"{cat['id']}-g"
             if cat["id"] in taken:
                 continue
             taken.add(cat["id"])
+            titles.add(normalize(cat["title"]))
             cats.append(cat)
     return cats
 
@@ -491,7 +495,7 @@ def main() -> None:
         sys.exit(f"Duplicate category ids: {sorted(dupes)}")
 
     hand = [build_category(r) for r in sorted(raws, key=lambda r: r["id"])]
-    generated = load_generated({c["id"] for c in hand})
+    generated = load_generated({c["id"] for c in hand}, {normalize(c["title"]) for c in hand})
     cats = hand + generated
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUT_FILE.write_text(

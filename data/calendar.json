@@ -2,102 +2,81 @@
  "start": "2026-11-18",
  "days": [
   [
-   "prime-ministers-of-japan",
-   "ice-cream-flavors",
-   "gemstones",
-   "best-picture-winners-g",
-   "best-director-oscar-winners"
-  ],
-  [
-   "booker-prize-winners",
-   "us-states",
-   "roman-emperors",
-   "wine-grapes",
-   "palme-d-or-winners-g"
-  ],
-  [
-   "solar-system",
-   "shakespeare",
-   "nobel-peace-prize-winners",
-   "u-s-secretaries-of-state",
-   "mushrooms"
-  ],
-  [
-   "u-s-vice-presidents",
-   "martial-arts",
-   "bones",
-   "grammy-album-of-the-year-winners",
-   "greek-roman-gods"
-  ],
-  [
-   "us-presidents",
-   "presidents-of-france",
-   "pulitzer-prize-for-fiction-winners",
-   "cheeses",
-   "composers"
-  ],
-  [
-   "nobel-prize-in-literature-winners",
-   "asian-countries",
-   "prime-ministers-of-australia",
-   "candy",
-   "cetaceans"
-  ],
-  [
+   "cat-breeds",
    "mexican-foods",
-   "teas",
-   "painters",
-   "prime-ministers-of-the-uk",
+   "programming-languages",
+   "solar-system",
+   "shakespeare"
+  ],
+  [
+   "coffee-drinks",
+   "dog-breeds",
+   "asian-countries",
+   "greek-roman-gods",
    "best-actress-oscar-winners"
   ],
   [
-   "soups",
-   "best-picture-winners",
-   "string-instruments",
-   "programming-languages",
-   "popes"
-  ],
-  [
-   "primates",
-   "constellations",
-   "best-actor-oscar-winners",
-   "herbs-spices",
-   "pizza-toppings"
-  ],
-  [
+   "us-states",
+   "breads",
+   "ice-cream-flavors",
    "card-games",
-   "sandwiches",
-   "elements",
+   "composers"
+  ],
+  [
+   "martial-arts",
    "european-countries",
+   "sharks",
+   "sandwiches",
+   "wine-grapes"
+  ],
+  [
+   "bones",
+   "us-state-capitals",
+   "teas",
+   "car-brands",
+   "birds-of-prey"
+  ],
+  [
+   "candy",
+   "americas-countries",
+   "elements",
+   "string-instruments",
+   "horse-breeds"
+  ],
+  [
+   "african-countries",
+   "pizza-toppings",
+   "cetaceans",
+   "japanese-foods",
    "ballon-d-or-winners"
   ],
   [
-   "cat-breeds",
-   "palme-d-or-winners",
-   "breads",
+   "nuts-seeds",
+   "pasta",
    "world-capitals",
+   "gemstones",
    "norse-mythology"
   ],
   [
-   "dog-breeds",
-   "sauces",
-   "pasta",
-   "car-brands",
-   "americas-countries"
-  ],
-  [
-   "birds-of-prey",
-   "us-state-capitals",
    "board-games",
-   "coffee-drinks",
-   "cakes"
+   "primates",
+   "cocktails",
+   "sauces",
+   "u-s-vice-presidents"
   ],
   [
-   "nuts-seeds",
+   "painters",
+   "soups",
+   "herbs-spices",
+   "dinosaurs",
+   "best-actor-oscar-winners"
+  ],
+  [
+   "cheeses",
    "snakes",
-   "african-countries",
-   "horse-breeds",
-   "japanese-foods"
+   "cakes",
+   "us-presidents",
+   "mushrooms"
   ]
  ]
 }

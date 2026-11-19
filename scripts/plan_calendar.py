@@ -7,15 +7,18 @@ in the file are never changed, so archives and players' saved runs stay
 correct. Each run fills as many new days as the unused categories allow.
 
 Mixing rules for each new day:
-- Hand-made categories are spread out, up to HAND_PER_DAY per day, so the
-  best curated ones last as long as the generated ones.
-- Different families on the same day where possible (no "Songs by ABBA" and
-  "Songs by Queen" together). When only a few families have categories
-  left, a family may appear at most MAX_PER_FAMILY times in one day.
+- Every category has a level in data/difficulty.json. Hard ones are never
+  scheduled. Each day gets EASY_PER_DAY easy categories and one medium one,
+  and the medium one is played last (the farthest asteroid).
+- Different families on the same day where possible (no two award lists
+  together). When only a few families have categories left, a family may
+  appear at most MAX_PER_FAMILY times in one day.
 - Families take turns, so one big family can't crowd out the rest.
 
 Hand-picked days in data/schedule.json are honored when that date is first
 planned. Run with:  npm run plan:calendar
+To throw away scheduled days from a date on and plan them again (only for
+days nobody has played yet):  npm run plan:calendar -- --rebuild-from 2026-12-01
 """
 
 from __future__ import annotations
@@ -32,9 +35,10 @@ ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES = ROOT / "src" / "data" / "categories.json"
 CALENDAR = ROOT / "data" / "calendar.json"
 PINS = ROOT / "data" / "schedule.json"
+LEVELS = ROOT / "data" / "difficulty.json"
 DATES_TS = ROOT / "src" / "lib" / "dates.ts"
 ROUNDS_PER_DAY = 5
-HAND_PER_DAY = 2
+EASY_PER_DAY = 4
 MAX_PER_FAMILY = 2
 SEED = 0x0EB17
 
@@ -46,9 +50,19 @@ def launch_date() -> date:
     return date.fromisoformat(m.group(1))
 
 
+def load_levels(ids: list[str]) -> dict[str, str]:
+    data = json.loads(LEVELS.read_text(encoding="utf-8"))
+    levels = {cid: lvl for lvl in ("easy", "medium", "hard") for cid in data[lvl]}
+    missing = [cid for cid in ids if cid not in levels]
+    if missing:
+        sys.exit(f"Give these categories a level in data/difficulty.json first: {missing}")
+    return levels
+
+
 def main() -> None:
     cats = json.loads(CATEGORIES.read_text(encoding="utf-8"))["categories"]
     info = {c["id"]: c for c in cats}
+    levels = load_levels(list(info))
     calendar = (
         json.loads(CALENDAR.read_text(encoding="utf-8"))
         if CALENDAR.exists()
@@ -56,20 +70,23 @@ def main() -> None:
     )
     start = date.fromisoformat(calendar["start"])
     days: list[list[str]] = calendar["days"]
+    if "--rebuild-from" in sys.argv:
+        cut = date.fromisoformat(sys.argv[sys.argv.index("--rebuild-from") + 1])
+        del days[max(0, (cut - start).days):]
     used = {cid for day in days for cid in day}
     pins = json.loads(PINS.read_text(encoding="utf-8")).get("days", {}) if PINS.exists() else {}
 
     rng = random.Random(SEED + len(days))
-    unused = [c for c in cats if c["id"] not in used]
+    unused = [c for c in cats if c["id"] not in used and levels[c["id"]] != "hard"]
     rng.shuffle(unused)
 
-    # One queue per (source, family), so families can take turns.
+    # One queue per (level, family), so families can take turns.
     queues: dict[tuple[str, str], deque] = defaultdict(deque)
     for c in unused:
-        queues[(c["source"], c["family"])].append(c["id"])
+        queues[(levels[c["id"]], c["family"])].append(c["id"])
 
-    def take(source: str, counts: dict[str, int], limit: int) -> str | None:
-        options = [k for k, q in queues.items() if k[0] == source and q and counts.get(k[1], 0) < limit]
+    def take(level: str, counts: dict[str, int], limit: int) -> str | None:
+        options = [k for k, q in queues.items() if k[0] == level and q and counts.get(k[1], 0) < limit]
         if not options:
             return None
         # Bigger families give up a category more often, but everyone gets turns.
@@ -95,25 +112,26 @@ def main() -> None:
         counts: dict[str, int] = defaultdict(int)
         for cid in picks:
             counts[info[cid]["family"]] += 1
-        hand_today = sum(1 for cid in picks if info[cid]["source"] == "hand")
-        while len(picks) < ROUNDS_PER_DAY:
-            cid = None
-            for limit in (1, MAX_PER_FAMILY):
-                if hand_today < HAND_PER_DAY:
-                    cid = take("hand", counts, limit)
-                    if cid:
-                        hand_today += 1
-                cid = cid or take("generated", counts, limit) or take("hand", counts, limit)
-                if cid:
-                    break
-            if not cid:
-                break
-            picks.append(cid)
-            counts[info[cid]["family"]] += 1
+
+        def fill(level: str, upto: int) -> None:
+            while sum(1 for c in picks if levels[c] == level) < upto and len(picks) < ROUNDS_PER_DAY:
+                cid = take(level, counts, 1) or take(level, counts, MAX_PER_FAMILY)
+                if not cid:
+                    return
+                picks.append(cid)
+                counts[info[cid]["family"]] += 1
+
+        fill("medium", ROUNDS_PER_DAY - EASY_PER_DAY)
+        fill("easy", ROUNDS_PER_DAY)
         if len(picks) < ROUNDS_PER_DAY:
             # Not enough left for a full day. Put them back for next time.
+            for cid in picks:
+                if cid not in (pinned or []):
+                    queues[(levels[cid], info[cid]["family"])].appendleft(cid)
             break
+        # Easy rounds first in random order, the medium one last.
         rng.shuffle(picks)
+        picks.sort(key=lambda cid: levels[cid] != "easy")
         days.append(picks)
         used.update(picks)
         added += 1
@@ -122,7 +140,7 @@ def main() -> None:
     left = sum(len(q) for q in queues.values())
     last = start + timedelta(days=len(days) - 1)
     print(f"Added {added} days. Calendar covers {len(days)} days, {start} to {last}.")
-    print(f"{left} categories unused (not enough variety left for a full day).")
+    print(f"{left} categories unused (not enough easy ones left for a full day).")
 
 
 if __name__ == "__main__":

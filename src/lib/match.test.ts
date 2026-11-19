@@ -2,6 +2,8 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { buildIndex, findAnswer, normalize } from "./match";
 import calendar from "../../data/calendar.json";
+import levels from "../../data/difficulty.json";
+import catalog from "../data/categories.json";
 import { ROUNDS_PER_DAY } from "./tiers";
 
 const answers = [
@@ -84,6 +86,22 @@ test("the calendar never repeats a category", () => {
     for (const id of day) {
       assert.ok(!seen.has(id), `${id} appears twice`);
       seen.add(id);
+    }
+  }
+});
+
+test("the calendar never schedules a hard category or the same question twice", () => {
+  const titles = new Map(catalog.categories.map((c) => [c.id, normalize(c.title)]));
+  const seen = new Set<string>();
+  for (const day of calendar.days) {
+    const medium = day.filter((id) => levels.medium.includes(id));
+    assert.ok(medium.length <= 1, `more than one medium category on a day: ${day}`);
+    for (const id of day) {
+      assert.ok(!levels.hard.includes(id), `${id} is too hard to schedule`);
+      const title = titles.get(id);
+      assert.ok(title, `${id} is missing from the catalog`);
+      assert.ok(!seen.has(title), `${id} repeats an earlier question`);
+      seen.add(title);
     }
   }
 });

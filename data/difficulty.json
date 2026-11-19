@@ -1,0 +1,27 @@
+{
+  "_comment": "How hard each category is for a typical player. easy: most people name 10+ answers. medium: fine as one round of five. hard: never scheduled. Each day gets 4 easy and at most 1 medium, played last. Every category needs a level here before it can be scheduled.",
+  "easy": [
+    "african-countries", "americas-countries", "asian-countries", "european-countries",
+    "us-states", "us-state-capitals", "world-capitals",
+    "dog-breeds", "cat-breeds", "dinosaurs", "sharks", "snakes", "primates", "cetaceans",
+    "board-games", "card-games", "car-brands", "greek-roman-gods", "painters",
+    "programming-languages", "us-presidents", "martial-arts", "string-instruments",
+    "breads", "cakes", "candy", "cheeses", "cocktails", "coffee-drinks", "herbs-spices",
+    "ice-cream-flavors", "japanese-foods", "mexican-foods", "nuts-seeds", "pasta",
+    "pizza-toppings", "sandwiches", "sauces", "soups", "teas",
+    "bones", "elements", "gemstones", "solar-system"
+  ],
+  "medium": [
+    "birds-of-prey", "horse-breeds", "composers", "constellations", "mushrooms",
+    "norse-mythology", "shakespeare", "wine-grapes",
+    "best-picture-winners", "best-actor-oscar-winners", "best-actress-oscar-winners",
+    "ballon-d-or-winners", "u-s-vice-presidents", "prime-ministers-of-the-uk", "roman-emperors"
+  ],
+  "hard": [
+    "nobel-peace-prize-winners", "nobel-prize-in-literature-winners",
+    "grammy-album-of-the-year-winners", "best-director-oscar-winners", "palme-d-or-winners",
+    "pulitzer-prize-for-fiction-winners", "booker-prize-winners",
+    "popes", "u-s-secretaries-of-state", "presidents-of-france",
+    "prime-ministers-of-japan", "prime-ministers-of-australia"
+  ]
+}
