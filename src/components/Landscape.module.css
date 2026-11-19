@@ -98,6 +98,25 @@
   to { rotate: 2deg; }
 }
 
+/* A brief rustle when the mouse passes over a plant: a few degrees of lean
+   away from the cursor, settling back with a small wobble. */
+.plant {
+  transform-box: fill-box;
+  transform-origin: 50% 100%;
+}
+
+.plant[data-rustle="true"] {
+  animation: rustle 0.9s cubic-bezier(0.3, 0.7, 0.4, 1);
+}
+
+@keyframes rustle {
+  0% { transform: rotate(0deg); }
+  20% { transform: rotate(calc(var(--dir, 1) * 7deg)); }
+  45% { transform: rotate(calc(var(--dir, 1) * -3.5deg)); }
+  70% { transform: rotate(calc(var(--dir, 1) * 1.5deg)); }
+  100% { transform: rotate(0deg); }
+}
+
 .moss {
   animation: moss 3.5s ease-in-out infinite alternate;
 }
@@ -141,6 +160,7 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
+  .plant[data-rustle="true"],
   .forePlant,
   .moss,
   .beacon,

@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useRef } from "react";
 import { useSvgIds } from "@/lib/client/useSvgIds";
 import { FAR, FAR_BACK, FAR_RIDGE, MID, MID_RIDGE, NEAR, NEAR_FLORA, NEAR_RIDGE } from "@/lib/terrain";
 import s from "./Landscape.module.css";
@@ -105,7 +106,9 @@ function ForePlant({ left, size, kind, flip, i }: (typeof FORE_PLANTS)[number] &
           <feGaussianBlur stdDeviation="2.5" />
         </filter>
       </defs>
-      <Plant kind={kind} glow={`url(#${u(`fp-glow-${i}`)})`} />
+      <g className={s.plant} data-plant="true">
+        <Plant kind={kind} glow={`url(#${u(`fp-glow-${i}`)})`} />
+      </g>
     </svg>
   );
 }
@@ -122,9 +125,53 @@ export default function Landscape({
   time?: "dusk" | "day";
 }) {
   const c = PALETTES[time];
+  const landRef = useRef<HTMLDivElement>(null);
+
+  // The scene sits behind the page and ignores the mouse, so plants can't
+  // feel a hover themselves. Watch the pointer instead and give any plant
+  // it passes over a small rustle, leaning away from the cursor.
+  useEffect(() => {
+    const land = landRef.current;
+    if (!land || state !== "here") return;
+    if (!window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+    const plants = Array.from(land.querySelectorAll<SVGGElement>("[data-plant]"));
+    const busy = new WeakSet<Element>();
+    let frame = 0;
+    let x = 0;
+    let y = 0;
+
+    const check = () => {
+      frame = 0;
+      for (const plant of plants) {
+        if (busy.has(plant)) continue;
+        const r = plant.getBoundingClientRect();
+        if (x < r.left - 6 || x > r.right + 6 || y < r.top - 6 || y > r.bottom + 4) continue;
+        plant.style.setProperty("--dir", x < r.left + r.width / 2 ? "1" : "-1");
+        plant.setAttribute("data-rustle", "true");
+        busy.add(plant);
+        window.setTimeout(() => {
+          plant.removeAttribute("data-rustle");
+          busy.delete(plant);
+        }, 900);
+      }
+    };
+
+    const onMove = (e: PointerEvent) => {
+      x = e.clientX;
+      y = e.clientY;
+      if (!frame) frame = requestAnimationFrame(check);
+    };
+    window.addEventListener("pointermove", onMove, { passive: true });
+    return () => {
+      window.removeEventListener("pointermove", onMove);
+      if (frame) cancelAnimationFrame(frame);
+    };
+  }, [state]);
   const u = useSvgIds();
   return (
-    <div className={s.land} data-s={state} data-time={time}>
+    <div ref={landRef} className={s.land} data-s={state} data-time={time}>
       <svg className={s.far} viewBox="0 0 1600 300" preserveAspectRatio="xMidYMax slice">
         <defs>
           <linearGradient id={u("ls-far")} x1="0" y1="0" x2="0" y2="1">
@@ -177,7 +224,9 @@ export default function Landscape({
         <path d={NEAR_RIDGE} fill="none" stroke={`url(#${u("ls-rim")})`} strokeWidth="2" opacity="0.8" />
         {NEAR_FLORA.map((p, i) => (
           <g key={i} transform={`translate(${p.x} ${p.y}) scale(${p.s * 1.6})`}>
-            <Plant kind={p.kind} glow={`url(#${u("ls-glow")})`} />
+            <g className={s.plant} data-plant="true">
+              <Plant kind={p.kind} glow={`url(#${u("ls-glow")})`} />
+            </g>
           </g>
         ))}
       </svg>
