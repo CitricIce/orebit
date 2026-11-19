@@ -602,7 +602,14 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
 
   return (
     <>
-      {day && <SpaceWorld world={world} target={worldTarget} armed={armed && phase === "briefing"} />}
+      {day && (
+        <SpaceWorld
+          world={world}
+          target={worldTarget}
+          armed={armed && phase === "briefing"}
+          time={mode === "archive" ? "day" : "dusk"}
+        />
+      )}
       <div className={s.stack} data-game="true">
         {leaving && (
           <div key={`leaving-${leaving}`} className={s.layer} data-leaving="true" inert>

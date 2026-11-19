@@ -106,6 +106,40 @@
   transition: opacity 2.4s ease-in 0.5s;
 }
 
+/* Daylight for archive runs: clear blue sky, a high sun, white clouds,
+   and the ringed planet faint like a daytime moon. */
+.world[data-time="day"] .sky {
+  background:
+    radial-gradient(40% 30% at 76% 16%, rgb(255 255 240 / 0.7), transparent 70%),
+    linear-gradient(180deg, #2f7fd8 0%, #4f9de6 35%, #8cc4f2 70%, #d4ecfb 100%);
+}
+
+.world[data-time="day"] .skyStars {
+  display: none;
+}
+
+.world[data-time="day"] .sun {
+  top: 36vh;
+  right: 9vw;
+  width: 110px;
+  height: 110px;
+  background: radial-gradient(circle, #ffffff 0 34%, #fff6c8 48%, rgb(255 250 220 / 0) 72%);
+  animation: none;
+}
+
+.world[data-time="day"] .giant {
+  opacity: 0.35;
+  filter: none;
+}
+
+.world[data-time="day"] .cloud {
+  background:
+    radial-gradient(40% 90% at 30% 60%, rgb(255 255 255 / 0.95), transparent 70%),
+    radial-gradient(45% 100% at 62% 45%, rgb(255 255 255 / 0.95), transparent 72%),
+    radial-gradient(50% 80% at 50% 80%, rgb(230 240 250 / 0.85), transparent 75%);
+  opacity: 0.9;
+}
+
 /* The sun and ringed planet fade out ahead of the sky so they don't go gray. */
 .sky[data-s="falling"] .sun,
 .sky[data-s="falling"] .giant,
@@ -653,6 +687,7 @@
 }
 
 @media (max-width: 720px) {
+  .world[data-time="day"] .sun { top: 46vh; right: 5vw; width: 80px; height: 80px; }
   .giant { left: 2vw; top: 27vh; width: 96px; height: 96px; }
   .sun { right: 6vw; width: 90px; height: 90px; }
   .cloud { transform-origin: left; scale: 0.7; }

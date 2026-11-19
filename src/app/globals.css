@@ -93,6 +93,14 @@ body:has([data-game]) > footer {
   display: none;
 }
 
+/* On the daylight sky, the header controls need more contrast. */
+body:has([data-time="day"]) header nav a:not([data-active="true"]),
+body:has([data-time="day"]) header nav button {
+  color: #fff;
+  text-shadow: 0 1px 6px rgb(10 40 90 / 0.55);
+  border-color: rgb(255 255 255 / 0.45);
+}
+
 /* The start screen shows the big title, so the header leaves its name off. */
 body:has([data-briefing]) [data-brand-word] {
   visibility: hidden;

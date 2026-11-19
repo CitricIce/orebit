@@ -258,11 +258,14 @@ export default function SpaceWorld({
   world,
   target,
   armed = false,
+  time = "dusk",
 }: {
   world: World;
   target: number;
   /** The player is hovering Lift off: rumble, vent steam, flash the pad. */
   armed?: boolean;
+  /** Archive runs start in daylight; today's survey starts at dusk. */
+  time?: "dusk" | "day";
 }) {
   const mounted = useMounted();
   const streaks = useMemo(() => {
@@ -280,7 +283,7 @@ export default function SpaceWorld({
   const rocket = rocketState(world);
 
   return createPortal(
-    <div className={s.world} data-world={world} data-armed={armed && world === "ground"} aria-hidden="true">
+    <div className={s.world} data-world={world} data-time={time} data-armed={armed && world === "ground"} aria-hidden="true">
       <div className={s.starsFar} />
       <div className={s.stars} />
       <div className={s.sky} data-s={earth}>
@@ -319,7 +322,7 @@ export default function SpaceWorld({
           <span key={i} className={s.cloud} style={{ "--i": i } as React.CSSProperties} />
         ))}
       </div>
-      <Landscape state={earth} />
+      <Landscape state={earth} time={time} />
       <div className={s.rocket} data-s={rocket}>
         <div className={s.smoke}>
           {[0, 1, 2, 3, 4, 5].map((i) => (
