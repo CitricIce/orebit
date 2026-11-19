@@ -1,0 +1,1906 @@
+# Things and ideas everyone knows. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== movie-franchises
+title: Movie franchises
+prompt: Name as many movie franchises or series as you can
+--- 1
+Star Wars
+Harry Potter
+James Bond | 007 | bond
+Marvel | mcu
+Fast & Furious | fast and furious
+Toy Story
+Jurassic Park | jurassic world
+Lord of the Rings | the lord of the rings
+Spider-Man | spiderman
+Batman
+Mission: Impossible | mission impossible
+--- 2
+Pirates of the Caribbean
+Transformers
+Shrek
+Indiana Jones
+Rocky
+Rambo
+Terminator
+Alien
+Predator
+The Matrix | matrix
+The Hunger Games | hunger games
+Twilight
+Despicable Me | minions
+Ice Age
+Madagascar
+Kung Fu Panda
+Cars
+Frozen
+Finding Nemo
+The Godfather | godfather
+Back to the Future
+Ghostbusters
+Men in Black
+Home Alone
+Die Hard
+Lethal Weapon
+Rush Hour
+Bad Boys
+John Wick
+Saw
+Scream
+Halloween
+Friday the 13th
+A Nightmare on Elm Street | nightmare on elm street
+The Conjuring | conjuring
+Paranormal Activity
+Final Destination
+Insidious
+Planet of the Apes
+Superman
+X-Men
+Avengers
+Guardians of the Galaxy
+Captain America
+Iron Man
+Thor
+Spider-Verse
+Star Trek
+The Hobbit | hobbit
+Fantastic Beasts
+Narnia | chronicles of narnia
+Twilight Saga
+Divergent
+Maze Runner
+The Twilight Zone
+Jaws
+Karate Kid
+Night at the Museum
+Paddington
+Pitch Perfect
+Hangover | the hangover
+American Pie
+Austin Powers
+Meet the Parents
+Scary Movie
+Shrek
+Toy Story
+Sonic
+Godzilla
+King Kong
+Mad Max
+Kingsman
+Ocean's Eleven | oceans
+Jumanji
+Mamma Mia
+High School Musical
+Cheaper by the Dozen
+Diary of a Wimpy Kid
+--- 3
+Planet of the Apes
+Tremors
+Child's Play | chucky
+Hellraiser
+The Purge
+Annabelle
+Evil Dead
+Texas Chainsaw Massacre
+Resident Evil
+Underworld
+Blade
+Hellboy
+Kill Bill
+Bourne | jason bourne
+Jack Reacher
+Taken
+The Expendables
+Death Wish
+Dirty Harry
+Police Academy
+National Lampoon
+Look Who's Talking
+Honey I Shrunk the Kids
+Herbie
+The Mummy
+Tomb Raider
+Mortal Kombat
+Pokémon
+Detective Pikachu
+Tron
+Robocop
+Highlander
+Escape from New York
+Crocodile Dundee
+Beverly Hills Cop
+48 Hrs
+Bill & Ted
+Wayne's World
+Neighbors
+22 Jump Street | jump street
+Anchorman
+Zoolander
+Ted
+Magic Mike
+Fifty Shades
+After
+The Kissing Booth
+To All the Boys
+Legally Blonde
+Bridget Jones
+Sex and the City
+Before Sunrise
+Three Colours
+Toy Story
+Dune
+Avatar
+Spider-Man: Homecoming
+Venom
+Deadpool
+Wonder Woman
+Aquaman
+Justice League
+Ant-Man
+Doctor Strange
+Black Panther
+Riddick
+Pitch Black
+Underworld
+Twilight
+Ip Man
+Rurouni Kenshin
+Godzilla
+Gamera
+Mobile Suit Gundam
+Dragon Ball
+Naruto
+One Piece
+Studio Ghibli @5
+
+=== movie-genres
+title: Movie and TV genres
+prompt: Name as many movie or TV genres as you can
+--- 1
+Action
+Comedy
+Horror
+Romance
+Drama
+Thriller
+Science fiction | sci-fi | scifi
+Fantasy
+Documentary
+Animation | animated | cartoon
+--- 2
+Adventure
+Mystery
+Crime
+Western
+Musical
+War
+Romantic comedy | romcom | rom-com
+Superhero
+Family
+Kids | children's
+Sports
+Biopic | biography
+Historical | period drama | period
+Disaster
+Spy
+Heist
+Detective
+Slasher
+Zombie
+Monster
+Psychological thriller
+Teen
+Coming of age | coming-of-age
+Dark comedy | black comedy
+Parody | spoof
+Satire
+Mockumentary
+Anime
+Noir | film noir
+Epic
+Martial arts
+Gangster
+Courtroom | legal drama
+Medical drama
+Sitcom
+Soap opera | soap
+Reality TV | reality
+Game show
+Talk show
+Sketch comedy
+Stand-up
+True crime
+Nature documentary
+Christmas
+Holiday
+Silent film | silent
+Foreign | world cinema
+Independent | indie
+Short film
+Space
+Time travel
+Dystopian
+Post-apocalyptic
+Supernatural
+Paranormal
+Found footage
+Survival
+Road movie | road trip
+Buddy cop
+Dance
+Musical comedy
+--- 3
+Neo-noir
+Giallo
+Body horror
+Folk horror
+Cosmic horror
+Psychological horror
+Splatter
+Creature feature
+Kaiju
+Mecha
+Isekai
+Shonen
+Shojo
+Slice of life
+Cyberpunk
+Steampunk
+Space opera
+Hard science fiction
+Alternate history
+Swashbuckler
+Sword and sandal
+Peplum
+Spaghetti western
+Revisionist western
+Neo-western
+Wuxia
+Kung fu
+Bollywood
+Telenovela
+K-drama
+Procedural
+Police procedural
+Political thriller
+Erotic thriller
+Legal thriller
+Techno-thriller
+Conspiracy thriller
+Melodrama
+Tragedy
+Farce
+Screwball comedy
+Slapstick
+Cringe comedy
+Stoner comedy
+Teen comedy
+Gross-out
+Rom-dram
+Mumblecore
+Kitchen sink drama
+Docudrama
+Mockbuster
+B-movie
+Exploitation
+Grindhouse
+Arthouse
+Experimental
+Avant-garde
+Anthology
+Ensemble
+Musical biopic
+Concert film
+Nature
+Travel
+Cooking show
+Makeover show
+Dating show
+
+=== ice-cream-toppings
+title: Ice cream toppings
+prompt: Name as many ice cream toppings as you can
+--- 1
+Sprinkles | hundreds and thousands | jimmies
+Hot fudge | fudge
+Chocolate sauce | chocolate syrup
+Whipped cream | cream
+Cherry | cherries
+Caramel | caramel sauce
+Nuts
+Strawberry sauce | strawberries
+Marshmallows | marshmallow
+--- 2
+Chocolate chips
+M&M's | m&ms
+Oreos | oreo | cookie crumbs | crushed oreos
+Peanuts
+Almonds
+Walnuts
+Pecans
+Hazelnuts
+Brownie | brownie bits
+Cookie dough
+Butterscotch
+Toffee | toffee bits
+Banana | bananas
+Pineapple
+Blueberries
+Raspberries
+Mango
+Peach
+Kiwi
+Coconut | shredded coconut
+Gummy bears
+Gummy worms
+Reese's Pieces | reese's
+Skittles
+Snickers
+Kit Kat
+Twix
+Crunchie
+Flake
+Maltesers
+Granola
+Cereal
+Waffle cone | cone
+Wafer
+Graham crackers
+Honey
+Maple syrup
+Peanut butter
+Nutella
+Magic shell
+Marshmallow fluff
+Chocolate shavings
+Rainbow sprinkles
+Chocolate sprinkles
+Cookie crumble
+Pretzels
+Mint chips
+Brownie chunks
+Cheesecake bites
+--- 3
+Dulce de leche
+Salted caramel
+Lemon curd
+Raspberry coulis
+Mixed berry compote
+Candied pecans
+Praline
+Brittle
+Honeycomb
+Hokey pokey
+Mochi
+Boba
+Red bean
+Matcha powder
+Black sesame
+Cinnamon
+Nutmeg
+Cocoa powder
+Espresso
+Affogato
+Bourbon
+Baileys
+Rum
+Pop Rocks
+Cotton candy
+Sour patch kids
+Nerds
+Butterfinger
+Heath
+Andes mints
+After Eight
+Biscoff
+Speculoos
+Digestive crumbs
+Cornflakes
+Fruity Pebbles
+Cap'n Crunch
+Lucky Charms
+Bacon
+Potato chips
+Olive oil
+Sea salt
+Chili flakes
+Balsamic
+Fresh mint
+Basil
+Edible glitter
+Gold leaf
+Freeze-dried strawberries
+Pomegranate seeds
+Passion fruit
+Dragon fruit
+
+=== fried-foods
+title: Fried foods
+prompt: Name as many fried foods as you can
+--- 1
+French fries | fries | chips
+Fried chicken
+Donuts | doughnuts | donut
+Onion rings
+Fish and chips | fried fish
+Chicken nuggets | nuggets
+Spring rolls | egg rolls
+Chicken wings | wings
+--- 2
+Mozzarella sticks
+Tempura
+Churros
+Falafel
+Samosas | samosa
+Hash browns
+Tater tots
+Corn dogs | corn dog
+Fried eggs | fried egg
+Bacon
+Calamari
+Fried shrimp | scampi
+Chicken tenders | chicken strips
+Schnitzel
+Katsu
+Fritters | apple fritters
+Funnel cake
+Beignets
+Pakoras | pakora
+Bhaji
+Croquettes
+Arancini
+Empanadas
+Tortilla chips
+Potato chips | crisps
+Fried rice
+Fried noodles
+Chow mein
+Fried pickles
+Fried green tomatoes
+Hush puppies
+Jalapeño poppers
+Fried plantains | plantains
+Fried mushrooms
+Fried calamari
+Chicken fried steak
+Chimichanga
+Taquitos
+Wontons | fried wontons
+Dumplings | potstickers
+Pierogi
+Latkes
+Pancakes
+French toast
+Fried bread
+Fried Mars bar | deep-fried mars bar
+Fried Oreos
+Fried ice cream
+Scotch egg
+Sausages
+Fried chicken sandwich
+Fish fingers
+Crab cakes
+Fish cakes
+Popcorn chicken
+Buffalo wings
+Pork rinds
+Chicharrón
+Curly fries
+Sweet potato fries
+--- 3
+Karaage
+Tonkatsu
+Korokke
+Agedashi tofu
+Takoyaki
+Okonomiyaki
+Gyoza
+Pholourie
+Accra
+Bake and shark
+Puff-puff
+Mandazi
+Koeksister
+Vetkoek
+Bunuelos
+Sopaipillas
+Zeppole
+Struffoli
+Fritto misto
+Suppli
+Panelle
+Crocchette
+Fiori di zucca
+Malasadas
+Bolinhos
+Coxinha
+Pastel
+Pão frito
+Calzone fritto
+Kibbeh
+Mandazi
+Medu vada
+Bonda
+Jalebi
+Gulab jamun
+Kachori
+Puri
+Bhatura
+Lumpia
+Turon
+Banana fritters
+Pisang goreng
+Youtiao
+Jianbing
+Har cheong gai
+Salt and pepper squid
+Chilli chicken
+Fried tofu
+Fried halloumi
+Halloumi fries
+Fried camembert
+Fried avocado
+Fried artichokes
+Elephant ears
+Fried dough
+Fry bread
+Corn fritters
+Beer-battered fish
+Fried clams
+Fried oysters
+Soft-shell crab
+Catfish
+Chicken-fried bacon
+Fried butter
+Deep-fried Twinkies
+
+=== beach-things
+title: Things at the beach
+prompt: Name as many things you'd see or bring at the beach as you can
+--- 1
+Sand
+Sea | ocean
+Waves
+Towel | beach towel
+Umbrella | beach umbrella | parasol
+Sunscreen | sun cream | suncream | sunblock
+Sunglasses
+Swimsuit | swimming costume | bathing suit | swimwear
+Bucket and spade | bucket | spade | shovel
+Shells | seashells
+Sandcastle
+--- 2
+Flip-flops | flip flops
+Beach ball
+Surfboard
+Bikini
+Hat | sun hat
+Seagulls | seagull
+Crab
+Starfish
+Seaweed
+Rocks
+Rock pools
+Lifeguard
+Ice cream
+Picnic
+Cooler | cool box
+Deck chair | beach chair | sun lounger
+Windbreak
+Kite
+Frisbee
+Volleyball
+Snorkel
+Goggles
+Flippers
+Bodyboard
+Paddleboard
+Kayak
+Jet ski
+Boat
+Pier
+Lighthouse
+Beach hut
+Sun
+Palm trees | palm tree
+Coconut
+Shark
+Jellyfish
+Dolphin
+Fish
+Sandals
+Shorts
+Trunks | swim trunks
+Book
+Speakers
+Drinks
+Sandwiches
+Fish and chips
+Donkey rides
+Arcades
+Promenade | boardwalk
+Dunes | sand dunes
+Driftwood
+Pebbles
+Tide
+Sunset
+Sunburn
+--- 3
+Tide pools
+Sea glass
+Cuttlebone
+Mermaid's purse
+Sand dollar
+Hermit crab
+Sandpiper
+Pelican
+Sea lion
+Seal
+Turtle
+Coral
+Reef
+Lagoon
+Cove
+Bay
+Cliff
+Cave
+Breakwater
+Groyne
+Jetty
+Marina
+Harbour
+Lifebuoy
+Flag
+Red flag
+Lifeguard tower
+Beach shack
+Tiki bar
+Cabana
+Hammock
+Beach blanket
+Sarong
+Kaftan
+Rash guard
+Wetsuit
+Swim cap
+Water wings | armbands
+Inflatable | lilo | pool float
+Rubber ring
+Snorkel mask
+Fins
+Skimboard
+Metal detector
+Fishing rod
+Crab line
+Net
+Kite surfer
+Windsurfer
+Sailboat
+Parasailing
+Banana boat
+Pedalo
+Punch and Judy
+Candy floss
+Stick of rock
+Ice lolly
+Ninety-nine | 99 flake
+
+=== christmas-things
+title: Christmas things
+prompt: Name as many things connected with Christmas as you can
+--- 1
+Christmas tree | tree
+Presents | present | gifts | gift
+Santa Claus | santa | father christmas | saint nick
+Reindeer
+Snow
+Stocking | stockings
+Lights | christmas lights | fairy lights
+Ornaments | baubles | decorations
+Elves | elf
+Candy cane | candy canes
+Snowman
+--- 2
+Rudolph
+Sleigh
+North Pole
+Mistletoe
+Holly
+Wreath
+Tinsel
+Star
+Angel
+Nativity
+Baby Jesus | jesus
+Mary
+Joseph
+Three wise men | wise men | three kings | magi
+Shepherds
+Manger
+Bethlehem
+Carols | christmas carols
+Christmas cards | cards
+Advent calendar
+Gingerbread | gingerbread house | gingerbread man
+Cookies | christmas cookies
+Milk and cookies
+Mince pies
+Christmas pudding | figgy pudding
+Turkey
+Ham
+Eggnog
+Mulled wine
+Hot chocolate
+Crackers | christmas crackers
+Wrapping paper
+Bows | ribbons
+Chimney
+Fireplace
+Sleigh bells | bells
+Jingle bells
+Snowflakes
+Scrooge
+Grinch
+Nutcracker
+Poinsettia
+Yule log
+Christmas Eve
+Christmas Day
+Boxing Day
+Midnight mass
+Church
+Christmas jumper | ugly sweater | christmas sweater
+Santa hat
+Elf on the shelf
+Workshop
+Toys
+Naughty list | nice list
+Frosty the Snowman | frosty
+Carol singers
+Christmas dinner
+Stuffing
+Cranberry sauce
+Brussels sprouts
+Roast potatoes
+--- 3
+Krampus
+Saint Nicholas
+Sinterklaas
+Ded Moroz
+Befana
+Julenisse
+Yule goat
+Tomte
+Christkind
+Pere Noel
+Dasher
+Dancer
+Prancer
+Vixen
+Comet
+Cupid
+Donner
+Blitzen
+Olive the other reindeer
+Mrs. Claus
+Frankincense
+Myrrh
+Gold
+Star of Bethlehem
+Innkeeper
+Herald angels
+Twelve days of Christmas
+Partridge in a pear tree
+Wassail
+Panettone
+Stollen
+Bûche de Noël
+Christmas cake
+Pigs in blankets
+Bread sauce
+Chestnuts
+Roasting chestnuts
+Sugar plums
+Snow globe
+Tree topper
+Garland
+Paper chains
+Advent wreath
+Advent candles
+Christingle
+Pantomime
+Queen's speech | king's speech
+Secret Santa
+White elephant
+Grotto
+Christmas market
+Ice skating
+Sledding
+Snow angel
+Snowball fight
+Kissing under the mistletoe
+Midnight
+Silent Night
+Jingle Bell Rock
+Feliz Navidad
+Last Christmas
+All I Want for Christmas Is You
+It's a Wonderful Life
+Home Alone
+The Polar Express
+
+=== halloween-things
+title: Halloween things
+prompt: Name as many things connected with Halloween as you can
+--- 1
+Pumpkin | pumpkins
+Costume | costumes
+Candy | sweets
+Witch
+Ghost
+Skeleton
+Bat | bats
+Spider | spiders
+Trick or treat | trick-or-treating
+Jack-o'-lantern | jack o lantern
+Vampire
+--- 2
+Zombie
+Mummy
+Werewolf
+Monster
+Frankenstein
+Dracula
+Black cat
+Broomstick | broom
+Cauldron
+Witch's hat
+Spider web | cobweb | cobwebs
+Haunted house
+Graveyard | cemetery
+Gravestone | tombstone
+Coffin
+Skull
+Bones
+Blood
+Fangs
+Mask
+Cape
+Wand
+Spell
+Potion
+Owl
+Moon | full moon
+Night
+October
+Candy corn
+Caramel apple | toffee apple
+Bobbing for apples | apple bobbing
+Pumpkin carving
+Pumpkin pie
+Pumpkin spice
+Scarecrow
+Crow
+Rat
+Ghoul
+Goblin
+Demon
+Devil
+Grim Reaper
+Banshee
+Clown
+Chucky
+Freddy Krueger
+Michael Myers
+Jason
+Ghostface
+Pennywise
+Haunted
+Scary movie | horror movie
+Fog
+Candles
+Lantern
+Orange
+Black
+Purple
+Spooky
+Boo
+Party
+--- 3
+Samhain
+All Hallows' Eve
+All Saints' Day
+Day of the Dead
+Sugar skull
+Marigold
+Ofrenda
+Calavera
+Soul cakes
+Souling
+Guising
+Mischief Night
+Devil's Night
+Barmbrack
+Colcannon
+Snap-apple night
+Turnip lantern
+Hay ride
+Corn maze
+Pumpkin patch
+Haunted hayride
+Fog machine
+Strobe light
+Fake blood
+Face paint
+Wig
+Fake nails
+Fangs
+Contact lenses
+Jack Skellington
+Hocus Pocus
+Addams Family
+Casper
+Headless Horseman
+Sleepy Hollow
+The Raven
+Edgar Allan Poe
+Ouija board
+Séance
+Tarot
+Crystal ball
+Black candle
+Witch's brew
+Eye of newt
+Toadstool
+Voodoo doll
+Mandrake
+Wolfsbane
+Garlic
+Silver bullet
+Stake
+Holy water
+Crucifix
+Possession
+Exorcism
+Poltergeist
+Phantom
+Wraith
+Specter
+Will-o'-the-wisp
+Gargoyle
+
+=== historical-figures
+title: Famous people from history
+prompt: Name as many famous people from history as you can
+--- 1
+Abraham Lincoln | lincoln
+George Washington | washington
+Napoleon | napoleon bonaparte
+Julius Caesar | caesar
+Cleopatra
+Albert Einstein | einstein
+Martin Luther King Jr. | martin luther king | mlk
+Mahatma Gandhi | gandhi
+Winston Churchill | churchill
+William Shakespeare | shakespeare
+Christopher Columbus | columbus
+--- 2
+Adolf Hitler | hitler
+Queen Victoria
+Queen Elizabeth I | elizabeth i
+Queen Elizabeth II | elizabeth ii
+Henry VIII
+Isaac Newton | newton
+Charles Darwin | darwin
+Galileo Galilei | galileo
+Leonardo da Vinci | da vinci | leonardo
+Michelangelo
+Mozart
+Beethoven
+Joan of Arc
+Alexander the Great
+Genghis Khan
+Marie Curie | curie
+Nelson Mandela | mandela
+John F. Kennedy | jfk | kennedy
+Franklin D. Roosevelt | fdr
+Theodore Roosevelt | teddy roosevelt
+Thomas Jefferson | jefferson
+Benjamin Franklin | franklin
+Rosa Parks
+Harriet Tubman
+Frederick Douglass
+Malcolm X
+Florence Nightingale
+Anne Frank
+Helen Keller
+Amelia Earhart
+Neil Armstrong
+Thomas Edison | edison
+Nikola Tesla | tesla
+Alexander Graham Bell
+Wright brothers | orville wright | wilbur wright
+Karl Marx | marx
+Joseph Stalin | stalin
+Vladimir Lenin | lenin
+Mao Zedong | mao
+Che Guevara
+Fidel Castro | castro
+Mother Teresa
+Pope John Paul II
+Martin Luther
+Confucius
+Buddha
+Jesus
+Muhammad
+Moses
+Socrates
+Plato
+Aristotle
+Charlemagne
+Marco Polo
+Vasco da Gama
+Ferdinand Magellan | magellan
+Captain Cook | james cook
+King Arthur
+Robin Hood
+Tutankhamun | king tut
+Ramses
+Attila the Hun | attila
+Hannibal
+Spartacus
+Nero
+Caligula
+Augustus
+Elvis Presley | elvis
+Marilyn Monroe
+Charlie Chaplin
+Walt Disney
+Steve Jobs
+Princess Diana | diana
+Margaret Thatcher | thatcher
+Ronald Reagan | reagan
+Richard Nixon | nixon
+Mussolini
+Catherine the Great
+Peter the Great
+Louis XIV
+Marie Antoinette
+Robespierre
+Guy Fawkes
+Oliver Cromwell
+Lord Nelson | horatio nelson
+Duke of Wellington | wellington
+--- 3
+Hammurabi
+Sargon
+Nebuchadnezzar
+Cyrus the Great
+Darius
+Xerxes
+Pericles
+Leonidas
+Archimedes
+Pythagoras
+Euclid
+Hippocrates
+Herodotus
+Homer
+Virgil
+Cicero
+Hadrian
+Constantine
+Justinian
+Theodora
+Boudica
+Alfred the Great
+William the Conqueror
+Richard the Lionheart
+Saladin
+Thomas Becket
+Robert the Bruce
+William Wallace
+Edward I
+Henry V
+Richard III
+Anne Boleyn
+Mary Queen of Scots
+Walter Raleigh
+Francis Drake
+Copernicus
+Kepler
+Johannes Gutenberg
+Erasmus
+Machiavelli
+Medici
+Lucrezia Borgia
+Montezuma
+Atahualpa
+Pizarro
+Cortés
+Akbar
+Shah Jahan
+Suleiman
+Ivan the Terrible
+Rasputin
+Tsar Nicholas II
+Bismarck
+Garibaldi
+Simon Bolivar
+Toussaint Louverture
+Shaka Zulu
+Sitting Bull
+Crazy Horse
+Geronimo
+Pocahontas
+Sacagawea
+Davy Crockett
+Daniel Boone
+Billy the Kid
+Jesse James
+Wyatt Earp
+Al Capone
+Bonnie and Clyde
+Eleanor Roosevelt
+Emmeline Pankhurst
+Susan B. Anthony
+Sojourner Truth
+Booker T. Washington
+W.E.B. Du Bois
+Ho Chi Minh
+Sun Yat-sen
+Chiang Kai-shek
+Hirohito
+Tojo
+Eisenhower
+Patton
+MacArthur
+Rommel
+Charles de Gaulle
+Lafayette
+Jane Austen
+Charles Dickens
+Mark Twain
+Leo Tolstoy
+Freud
+Florence Nightingale
+Mary Seacole
+Ada Lovelace
+Alan Turing
+Rosalind Franklin
+Louis Pasteur
+Edward Jenner
+Alexander Fleming
+
+=== inventions
+title: Famous inventions
+prompt: Name as many famous inventions as you can
+--- 1
+Wheel
+Light bulb | lightbulb
+Telephone | phone
+Internet
+Computer
+Car | automobile
+Airplane | aeroplane | plane
+Television | tv
+Radio
+Printing press
+Electricity @4
+--- 2
+Steam engine
+Train | locomotive
+Bicycle
+Camera
+Photography
+Movie camera | film
+Telegraph
+Typewriter
+Calculator
+Microwave
+Refrigerator | fridge
+Washing machine
+Vacuum cleaner
+Air conditioning
+Smartphone | mobile phone | cell phone
+Laptop
+Video games
+Email
+World Wide Web | www | the web
+GPS
+Satellite
+Rocket
+Helicopter
+Submarine
+Compass
+Clock
+Watch
+Gunpowder
+Gun
+Paper
+Pencil
+Pen | ballpoint pen
+Glasses | spectacles
+Telescope
+Microscope
+Thermometer
+X-ray
+Vaccine | vaccines
+Penicillin | antibiotics
+Anesthesia
+Battery
+Plastic
+Velcro
+Zipper | zip
+Safety pin
+Paperclip
+Toilet | flushing toilet
+Lock
+Elevator | lift
+Escalator
+Sewing machine
+Dishwasher
+Toaster
+Phonograph | gramophone
+Record player
+Microphone
+Headphones
+Walkman
+CD | compact disc
+DVD
+Robot
+Nuclear power
+Atomic bomb
+Solar panel
+Electric car
+Barcode
+Credit card
+ATM | cash machine
+Post-it notes | sticky notes
+Lego
+Rubik's cube
+--- 3
+Abacus
+Plough | plow
+Irrigation
+Writing
+Alphabet
+Calendar
+Sundial
+Water wheel
+Windmill
+Lever
+Pulley
+Screw
+Arch
+Concrete
+Aqueduct
+Crossbow
+Catapult
+Stirrup
+Horseshoe
+Magnetic compass
+Mechanical clock
+Pendulum clock
+Barometer
+Seismograph
+Lightning rod
+Spinning jenny
+Cotton gin
+Power loom
+Steamship
+Telegraph cable
+Dynamite
+Bessemer process
+Internal combustion engine
+Diesel engine
+Jet engine
+Radar
+Sonar
+Laser
+Transistor
+Microchip | integrated circuit
+Semiconductor
+Floppy disk
+Hard drive
+USB
+Wi-Fi
+Bluetooth
+Touchscreen
+MRI
+Pacemaker
+Insulin
+Stethoscope
+Hypodermic needle
+Contact lenses
+Hearing aid
+Prosthetic limb
+Kevlar
+Teflon
+Nylon
+Rubber
+Vulcanized rubber
+Matches
+Lighter
+Can opener
+Tin can
+Pasteurization
+Refrigeration
+Frozen food
+Microwave oven
+Instant noodles
+Teabag
+Chewing gum
+Coca-Cola
+Bubble wrap
+Super glue
+Duct tape
+Frisbee
+Slinky
+Skateboard
+Jet ski
+Segway
+3D printer
+Drone
+Blockchain
+Search engine
+Social media
+
+=== landforms
+title: Landforms and natural features
+prompt: Name as many natural features or landforms as you can (mountain, river...)
+--- 1
+Mountain
+River
+Lake
+Ocean | sea
+Hill
+Valley
+Desert
+Forest
+Island
+Beach
+Volcano
+--- 2
+Canyon
+Cave
+Waterfall
+Glacier
+Cliff
+Plateau
+Peninsula
+Bay
+Gulf
+Swamp
+Marsh
+Jungle | rainforest
+Meadow
+Field
+Plain | plains
+Prairie
+Grassland
+Savanna | savannah
+Tundra
+Iceberg
+Ice cap
+Coral reef | reef
+Lagoon
+Delta
+Estuary
+Stream
+Creek
+Brook
+Pond
+Spring
+Geyser
+Hot spring
+Oasis
+Dune | sand dune
+Gorge
+Ravine
+Crater
+Mesa
+Butte
+Ridge
+Peak
+Summit
+Mountain range | range
+Coast | coastline
+Shore
+Cape
+Cove
+Fjord
+Strait
+Channel
+Archipelago
+Isthmus
+Continent
+Wetland
+Bog
+Moor | moorland
+Heath
+Woodland
+Steppe
+Basin
+Floodplain
+Rapids
+Whirlpool
+Shoal
+Sandbar
+Atoll
+--- 3
+Escarpment
+Bluff
+Arête
+Cirque
+Col
+Saddle
+Pass
+Moraine
+Drumlin
+Esker
+Kame
+Kettle
+Tarn
+Corrie
+Hanging valley
+U-shaped valley
+Oxbow lake
+Meander
+Tributary
+Confluence
+Watershed
+Headland
+Spit
+Stack
+Arch
+Stump
+Tombolo
+Ria
+Barrier island
+Salt marsh
+Mangrove
+Mudflat
+Salt flat
+Playa
+Wadi
+Arroyo
+Badlands
+Hoodoo
+Inselberg
+Monadnock
+Tor
+Karst
+Sinkhole
+Doline
+Cenote
+Stalactite
+Stalagmite
+Caldera
+Lava tube
+Lava field
+Fumarole
+Mud volcano
+Permafrost
+Ice shelf
+Ice sheet
+Crevasse
+Serac
+Nunatak
+Fen
+Mire
+Peat bog
+Taiga
+Chaparral
+Maquis
+Pampas
+Veld
+Outback
+Bush
+Abyssal plain
+Trench
+Seamount
+Continental shelf
+
+=== house-types
+title: Types of homes and buildings
+prompt: Name as many types of homes or buildings as you can
+--- 1
+House
+Apartment | flat
+Bungalow
+Cottage
+Mansion
+Castle
+Palace
+Skyscraper
+Hut
+Igloo
+Tent
+Cabin | log cabin
+--- 2
+Villa
+Condo | condominium
+Townhouse | townhome
+Terraced house | row house
+Semi-detached
+Detached house
+Farmhouse
+Barn
+Treehouse
+Houseboat
+Caravan | trailer | mobile home
+Motorhome | camper | rv
+Penthouse
+Studio
+Duplex
+Chalet
+Lodge
+Ranch
+Manor
+Hotel
+Motel
+Hostel
+Bed and breakfast | b&b
+Tower block | high-rise
+Bedsit
+Loft
+Shack
+Shed
+Teepee | tipi
+Yurt
+Wigwam
+Mud hut
+Lighthouse
+Windmill
+Church
+Temple
+Mosque
+School
+Hospital
+Office
+Factory
+Warehouse
+Garage
+Greenhouse
+Stable
+Kennel
+Igloo
+Fort
+Prison
+Bunker
+Tiny house
+Dormitory | dorm
+--- 3
+Croft
+Crofter's cottage
+Longhouse
+Roundhouse
+Brownstone
+Shotgun house
+Saltbox
+Cape Cod
+Colonial
+Victorian
+Georgian
+Tudor
+Craftsman
+Ranch house
+Split-level
+A-frame
+Geodesic dome
+Earthship
+Hobbit house
+Pueblo
+Adobe house
+Hogan
+Sod house
+Stilt house
+Machiya
+Minka
+Hanok
+Siheyuan
+Riad
+Dacha
+Izba
+Trullo
+Palazzo
+Château
+Schloss
+Hacienda
+Plantation house
+Estate
+Stately home
+Country house
+Granny flat
+Annexe
+Maisonette
+Mews house
+Coach house
+Gatehouse
+Almshouse
+Council house
+Tenement
+Bothy
+Hermitage
+Monastery
+Convent
+Abbey
+Rectory
+Vicarage
+Parsonage
+Igloo
+Quinzhee
+Container home
+Pod
+
+=== fridge-items
+title: Things in the fridge
+prompt: Name as many things you'd find in a fridge as you can
+--- 1
+Milk
+Eggs | egg
+Butter
+Cheese
+Juice | orange juice
+Yogurt | yoghurt
+Ham
+Lettuce
+Ketchup
+Leftovers
+--- 2
+Mayonnaise | mayo
+Mustard
+Jam
+Pickles
+Olives
+Salad
+Tomatoes
+Cucumber
+Carrots
+Celery
+Peppers
+Grapes
+Apples
+Berries | strawberries | blueberries
+Lemons
+Limes
+Bacon
+Sausages
+Chicken
+Beef | mince
+Fish
+Salami
+Turkey
+Hot dogs
+Cream
+Sour cream
+Cream cheese
+Cottage cheese
+Margarine
+Hummus
+Salsa
+Guacamole
+Dip
+Soda | coke
+Beer
+Wine
+Water
+Iced tea
+Chocolate
+Pudding
+Jelly | jello
+Cake
+Pizza
+Soup
+Tofu
+Coleslaw
+Dressing | salad dressing
+Hot sauce
+Soy sauce
+Barbecue sauce
+Maple syrup
+Bread
+Tortillas
+Baby food
+Medicine
+Ice | ice cubes
+Ice cream
+--- 3
+Kimchi
+Sauerkraut
+Miso
+Tahini
+Pesto
+Capers
+Anchovies
+Horseradish
+Chutney
+Relish
+Marmalade
+Lemon curd
+Clotted cream
+Crème fraîche
+Mascarpone
+Ricotta
+Halloumi
+Paneer
+Buttermilk
+Kefir
+Ghee
+Lard
+Suet
+Pastry
+Dough
+Fresh pasta
+Gnocchi
+Smoked salmon
+Prawns
+Pâté
+Cold cuts
+Pastrami
+Chorizo
+Prosciutto
+Charcuterie
+Antipasti
+Sun-dried tomatoes
+Artichokes
+Jalapeños
+Fresh herbs
+Ginger
+Garlic paste
+Stock
+Gravy
+Custard
+Trifle
+Cheesecake
+Mousse
+Leftover pizza
+Takeaway | takeout
+Meal prep
+Sandwich
+Lunch
+Energy drinks
+Kombucha
+Smoothies
+Film @5
+Nail polish @5
+Batteries @5
+Eye cream @5
+
+=== dairy
+title: Dairy foods
+prompt: Name as many foods made from milk as you can
+--- 1
+Milk
+Cheese
+Butter
+Yogurt | yoghurt
+Cream
+Ice cream
+--- 2
+Sour cream
+Cream cheese
+Cottage cheese
+Whipped cream
+Buttermilk
+Condensed milk
+Evaporated milk
+Custard
+Milkshake
+Chocolate milk
+Ghee
+Kefir
+Crème fraîche
+Clotted cream
+Double cream | heavy cream
+Single cream | light cream
+Half and half
+Frozen yogurt | froyo
+Greek yogurt
+Mozzarella
+Cheddar
+Parmesan
+Brie
+Feta
+Ricotta
+Mascarpone
+Paneer
+Halloumi
+Gouda
+Swiss cheese
+Blue cheese
+Camembert
+Goat cheese
+Quark
+Fromage frais
+Skimmed milk | skim milk
+Whole milk
+Semi-skimmed milk
+Powdered milk | milk powder
+Lassi
+Eggnog
+Rice pudding
+Panna cotta
+Cheesecake
+Crème brûlée
+Hot chocolate
+Latte
+Cappuccino
+Gelato
+Dulce de leche
+Fudge
+Toffee
+Caramel
+Milk chocolate
+White chocolate
+--- 3
+Skyr
+Labneh
+Ayran
+Doogh
+Clabber
+Junket
+Curds
+Whey
+Cheese curds
+Smetana
+Tvorog
+Quark
+Fromage blanc
+Petit-suisse
+Kulfi
+Rabri
+Rasmalai
+Shrikhand
+Khoa
+Malai
+Kaymak
+Clotted cream
+Butterfat
+Cultured butter
+Brown butter
+Clarified butter
+Buttercream
+Milk jam
+Cajeta
+Brunost
+Paneer
+Queso fresco
+Cotija
+Requeijão
+Leche flan
+Tres leches
+Arroz con leche
+Natillas
+Blancmange
+Junket
+Posset
+Syllabub
+Mousse
+Milk tea
+Malted milk
+Sherbet
+Semifreddo
+Soft serve
