@@ -93,6 +93,11 @@ body:has([data-game]) > footer {
   display: none;
 }
 
+/* The start screen shows the big title, so the header leaves its name off. */
+body:has([data-briefing]) [data-brand-word] {
+  visibility: hidden;
+}
+
 h1,
 h2,
 h3 {

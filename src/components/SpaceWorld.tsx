@@ -8,12 +8,13 @@ import Landscape from "./Landscape";
 import s from "./SpaceWorld.module.css";
 
 /**
- * What the camera is doing.
- * ground: on Earth, rocket on the pad.   launch: rocket climbing, Earth falls away.
- * cruise: warping toward asteroid `target`. orbit: parked at `target`, countdown.
- * work: drilling `target`, rock eases behind the console.  space: drifting, nothing ahead.
+ * What the camera is doing. The camera follows the rocket the whole time.
+ * ground:  on the launch pad.              launch:  climbing, the land drops away.
+ * cruise:  flying toward asteroid `target`. descent: braking and landing on it.
+ * orbit:   landed, countdown.              work:    landed and drilling.
+ * space:   coasting, nothing ahead.
  */
-export type World = "ground" | "launch" | "cruise" | "orbit" | "work" | "space";
+export type World = "ground" | "launch" | "cruise" | "descent" | "orbit" | "work" | "space";
 
 type RockState = "ahead" | "near" | "work" | "passed";
 type PlanetState = "ahead" | "visible" | "passed";
@@ -24,19 +25,40 @@ const ROCK_PATHS = [
   "M110 10 C150 18 178 46 186 84 C194 120 178 160 146 178 C114 196 70 194 44 172 C18 150 6 116 16 82 C26 50 52 22 82 14 C92 11 100 9 110 10 Z",
 ];
 
+const IN_TRANSIT: World[] = ["cruise", "descent", "orbit", "work"];
+
+// Rocks wait below the screen, rise up under the rocket as it lands, and
+// drop away beneath it when it leaves.
 function rockState(i: number, world: World, target: number): RockState {
-  if (world === "cruise" || world === "orbit" || world === "work") {
+  if (IN_TRANSIT.includes(world)) {
     if (i < target) return "passed";
     if (i > target) return "ahead";
+    if (world === "cruise") return "ahead";
     return world === "work" ? "work" : "near";
   }
   if (world === "space" && i <= target) return "passed";
   return "ahead";
 }
 
+// Each region's planet drifts down past the window during the trip there.
 function planetState(i: number, world: World, target: number): PlanetState {
-  const r = rockState(i, world, target);
-  return r === "passed" ? "passed" : r === "ahead" ? "ahead" : "visible";
+  if (IN_TRANSIT.includes(world)) {
+    if (i < target) return "passed";
+    if (i > target) return "ahead";
+    return "visible";
+  }
+  if (world === "space" && i <= target) return "passed";
+  return "ahead";
+}
+
+type RocketState = "pad" | "rise" | "cruise" | "descent" | "landed";
+
+function rocketState(world: World): RocketState {
+  if (world === "ground") return "pad";
+  if (world === "launch") return "rise";
+  if (world === "descent") return "descent";
+  if (world === "orbit" || world === "work") return "landed";
+  return "cruise";
 }
 
 function seeded(n: number, seed: number): number[] {
@@ -88,12 +110,22 @@ function Rocket() {
         </filter>
       </defs>
 
-      <g className={s.flame}>
-        <path d="M27 156 Q40 214 53 156 Z" fill="url(#sw-plume)" filter="url(#sw-blur)" opacity="0.9" />
-        <path d="M31 156 Q40 196 49 156 Z" fill="url(#sw-plume)" />
-        <path d="M35 156 Q40 178 45 156 Z" fill="#fffdf2" />
-        <ellipse cx="40" cy="170" rx="3" ry="2" fill="#fff" opacity="0.8" />
-        <ellipse cx="40" cy="181" rx="2.2" ry="1.6" fill="#fff" opacity="0.6" />
+      <g className={s.flameScale}>
+        <g className={s.flame}>
+          <path d="M27 156 Q40 214 53 156 Z" fill="url(#sw-plume)" filter="url(#sw-blur)" opacity="0.9" />
+          <path d="M31 156 Q40 196 49 156 Z" fill="url(#sw-plume)" />
+          <path d="M35 156 Q40 178 45 156 Z" fill="#fffdf2" />
+          <ellipse cx="40" cy="170" rx="3" ry="2" fill="#fff" opacity="0.8" />
+          <ellipse cx="40" cy="181" rx="2.2" ry="1.6" fill="#fff" opacity="0.6" />
+        </g>
+      </g>
+
+      {/* Landing legs, folded up until the descent */}
+      <g className={s.legs}>
+        <path d="M23 126 L9 158" stroke="#4a4456" strokeWidth="3.2" strokeLinecap="round" />
+        <path d="M57 126 L71 158" stroke="#4a4456" strokeWidth="3.2" strokeLinecap="round" />
+        <path d="M3 159 H15" stroke="#9a93a8" strokeWidth="3.4" strokeLinecap="round" />
+        <path d="M65 159 H77" stroke="#9a93a8" strokeWidth="3.4" strokeLinecap="round" />
       </g>
 
       {/* Swept fins, back then front */}
@@ -127,6 +159,12 @@ function Rocket() {
       <path d="M38 124 H42 L43 150 H37 Z" fill="#c24a24" />
       <path d="M34 80 L40 84 L46 80 M34 86 L40 90 L46 86" stroke="#ff8a3c" strokeWidth="1.5" fill="none" />
       <circle cx="40" cy="132" r="1.5" fill="#6ff3e6" className={s.navLight} />
+
+      {/* Side thrusters puff while braking */}
+      <g className={s.rcs}>
+        <ellipse cx="16" cy="70" rx="5" ry="2.6" fill="#f4f8ff" />
+        <ellipse cx="64" cy="70" rx="5" ry="2.6" fill="#f4f8ff" />
+      </g>
     </svg>
   );
 }
@@ -172,7 +210,25 @@ function Asteroid({ i }: { i: number }) {
           <stop offset="1" stopColor={dark} />
         </radialGradient>
       </defs>
-      <path d={ROCK_PATHS[i % ROCK_PATHS.length]} fill={`url(#${id})`} />
+      <path d={ROCK_PATHS[i % ROCK_PATHS.length]} fill={`url(#${id})`} stroke={light} strokeWidth="1.2" strokeOpacity="0.55" />
+      {/* Surface detail along the top, where the rocket lands */}
+      <g fill={dark} opacity="0.5">
+        <ellipse cx="70" cy="30" rx="8" ry="2.6" />
+        <ellipse cx="132" cy="27" rx="6" ry="2" />
+        <ellipse cx="152" cy="42" rx="10" ry="3.4" />
+        <ellipse cx="50" cy="46" rx="7" ry="2.6" />
+        <ellipse cx="96" cy="36" rx="4" ry="1.4" />
+        <ellipse cx="118" cy="48" rx="5" ry="1.8" />
+      </g>
+      <g fill={light} opacity="0.45">
+        <ellipse cx="70" cy="28.6" rx="7" ry="1" />
+        <ellipse cx="152" cy="40.4" rx="9" ry="1.2" />
+      </g>
+      <g fill={mid}>
+        <path d="M80 15 l3 -2.5 l3 1 l1 2.5 z" />
+        <path d="M122 14 l2.5 -2 l3 0.8 l0.8 2 z" />
+        <path d="M60 22 l2 -1.6 l2.4 0.6 l0.6 1.6 z" />
+      </g>
       <g fill={dark} opacity="0.55">
         <ellipse cx="72" cy="70" rx="16" ry="13" />
         <ellipse cx="128" cy="118" rx="22" ry="17" />
@@ -194,24 +250,33 @@ function Asteroid({ i }: { i: number }) {
  * moves between states with CSS transitions, so going from launch to the
  * first rock, or from one rock to the next, is one continuous shot.
  */
-export default function SpaceWorld({ world, target }: { world: World; target: number }) {
+export default function SpaceWorld({
+  world,
+  target,
+  armed = false,
+}: {
+  world: World;
+  target: number;
+  /** The player is hovering Lift off: rumble, vent steam, flash the pad. */
+  armed?: boolean;
+}) {
   const mounted = useMounted();
   const streaks = useMemo(() => {
-    const r = seeded(160, 11);
-    return Array.from({ length: 80 }, (_, i) => ({
-      angle: r[i * 2] * 360,
-      delay: r[i * 2 + 1] * 900,
-      len: 30 + ((i * 37) % 80),
+    const r = seeded(180, 11);
+    return Array.from({ length: 60 }, (_, i) => ({
+      left: r[i * 3] * 100,
+      delay: r[i * 3 + 1] * 700,
+      len: 40 + r[i * 3 + 2] * 140,
     }));
   }, []);
 
   if (!mounted) return null;
 
   const earth = world === "ground" ? "here" : world === "launch" ? "falling" : "gone";
-  const rocket = world === "ground" ? "pad" : world === "launch" ? "rise" : "gone";
+  const rocket = rocketState(world);
 
   return createPortal(
-    <div className={s.world} data-world={world} aria-hidden="true">
+    <div className={s.world} data-world={world} data-armed={armed && world === "ground"} aria-hidden="true">
       <div className={s.starsFar} />
       <div className={s.stars} />
       <div className={s.sky} data-s={earth}>
@@ -230,7 +295,7 @@ export default function SpaceWorld({ world, target }: { world: World; target: nu
             key={i}
             style={
               {
-                "--a": `${w.angle}deg`,
+                left: `${w.left}%`,
                 "--len": `${w.len}px`,
                 animationDelay: `${w.delay}ms`,
               } as React.CSSProperties
@@ -240,7 +305,7 @@ export default function SpaceWorld({ world, target }: { world: World; target: nu
       </div>
 
       {STOPS.map((_, i) => (
-        <div key={i} className={s.rock} data-s={rockState(i, world, target)} data-side={i % 2 ? "right" : "left"}>
+        <div key={i} className={s.rock} data-s={rockState(i, world, target)}>
           <Asteroid i={i} />
         </div>
       ))}
@@ -256,6 +321,15 @@ export default function SpaceWorld({ world, target }: { world: World; target: nu
           {[0, 1, 2, 3, 4, 5].map((i) => (
             <span key={i} style={{ "--i": i } as React.CSSProperties} />
           ))}
+        </div>
+        <div className={s.dust}>
+          {[0, 1, 2, 3, 4, 5].map((i) => (
+            <span key={i} style={{ "--i": i } as React.CSSProperties} />
+          ))}
+        </div>
+        <div className={s.steam}>
+          <span />
+          <span />
         </div>
         <Rocket />
       </div>

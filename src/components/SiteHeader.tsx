@@ -55,7 +55,7 @@ function HeaderBody({ path }: { path: string }) {
     <header className={s.header}>
       <Link href="/" className={s.brand} aria-label="Orebit home">
         <Logo />
-        <span className={s.word}>OREBIT</span>
+        <span className={s.word} data-brand-word="true">OREBIT</span>
       </Link>
       <nav className={s.nav} aria-label="Main">
         {LINKS.map((l) => {

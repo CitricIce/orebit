@@ -34,4 +34,6 @@ export function stopFor(round: number): Stop {
 
 /** Scene lengths in ms. Players can tap to skip. */
 export const LAUNCH_MS = 3200;
-export const APPROACH_MS = 2800;
+/** Cruise, then brake and land. Landing starts at DESCENT_AT. */
+export const APPROACH_MS = 4300;
+export const DESCENT_AT = 2000;

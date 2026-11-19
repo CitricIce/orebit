@@ -21,7 +21,7 @@ import Summary from "./Summary";
 import RevealList from "./RevealList";
 import HowToPlay from "./HowToPlay";
 import SpaceWorld, { type World } from "./SpaceWorld";
-import { APPROACH_MS, LAUNCH_MS, stopFor } from "@/lib/journey";
+import { APPROACH_MS, DESCENT_AT, LAUNCH_MS, stopFor } from "@/lib/journey";
 import s from "./Game.module.css";
 
 type Phase = "loading" | "error" | "briefing" | "launch" | "approach" | "countdown" | "drilling" | "settling" | "reveal" | "summary";
@@ -49,6 +49,8 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   const [reveal, setReveal] = useState<RevealResponse | null>(null);
   const [lastHit, setLastHit] = useState<{ id: number; tier: TierId } | null>(null);
   const [revealIdx, setRevealIdx] = useState(0);
+  const [arriving, setArriving] = useState(false);
+  const [armed, setArmed] = useState(false);
 
   const recordRef = useRef<DayRecord | null>(null);
   const foundRef = useRef<FoundOre[]>([]);
@@ -115,14 +117,23 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
     typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   const liftOff = () => {
+    setArmed(false);
     setPhase("launch");
     sfx.launch();
   };
 
   const flyToAsteroid = useCallback(() => {
+    setArriving(false);
     setPhase("approach");
     sfx.warp();
   }, []);
+
+  // Partway through the approach the rocket starts braking to land.
+  useEffect(() => {
+    if (phase !== "approach") return;
+    const t = setTimeout(() => setArriving(true), reducedMotion() ? 200 : DESCENT_AT);
+    return () => clearTimeout(t);
+  }, [phase]);
 
   const startCountdown = useCallback(() => {
     setCount(3);
@@ -305,7 +316,9 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       : phase === "launch"
         ? "launch"
         : phase === "approach"
-          ? "cruise"
+          ? arriving
+            ? "descent"
+            : "cruise"
           : phase === "countdown"
             ? "orbit"
             : phase === "drilling" || phase === "settling" || phase === "reveal"
@@ -338,19 +351,20 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
     }
 
     if (p === "briefing") {
+      const first = doneRounds === 0;
       return (
-        <section className={s.briefing}>
-          <p className={s.kicker}>Survey #{day.number}</p>
-          <h1 className={s.briefTitle}>
-            Three asteroids. <span className={s.accent}>Thirty seconds each.</span>
-          </h1>
+        <>
+          <section className={s.briefing} data-briefing="true">
+            <h1 className={s.gameTitle}>Orebit</h1>
+            <p className={s.briefSub}>
+              <span className={s.kicker}>Survey #{day.number}</span>
+              <span>
+                Three asteroids. <span className={s.accent}>Thirty seconds each.</span>
+              </span>
+            </p>
+            {!first && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}
 
-          <button className={s.startBtn} onClick={doneRounds === 0 ? liftOff : flyToAsteroid}>
-            {doneRounds === 0 ? "Lift off" : `Fly to asteroid ${roundIdx + 1}`}
-          </button>
-          {doneRounds > 0 && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}
-
-          <details className={s.howTo}>
+            <details className={s.howTo}>
             <summary>How to play</summary>
             <div className={s.howToBody}>
               <p className={s.howToIntro}>
@@ -360,7 +374,24 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
               <HowToPlay />
             </div>
           </details>
-        </section>
+          </section>
+
+          {/* Sits on the ground under the launch pad. Hover primes the engines. */}
+          <button
+            className={s.liftBtn}
+            onClick={first ? liftOff : flyToAsteroid}
+            onPointerEnter={() => setArmed(true)}
+            onPointerLeave={() => setArmed(false)}
+            onFocus={() => setArmed(true)}
+            onBlur={() => setArmed(false)}
+            data-armed={armed}
+          >
+            <span className={s.primed} aria-hidden="true">
+              {first ? "Engines primed" : "Course plotted"}
+            </span>
+            {first ? "Lift off" : `Fly to asteroid ${roundIdx + 1}`}
+          </button>
+        </>
       );
     }
 
@@ -531,7 +562,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
 
   return (
     <>
-      {day && <SpaceWorld world={world} target={worldTarget} />}
+      {day && <SpaceWorld world={world} target={worldTarget} armed={armed && phase === "briefing"} />}
       <div className={s.stack} data-game="true">
         {leaving && (
           <div key={`leaving-${leaving}`} className={s.layer} data-leaving="true" inert>

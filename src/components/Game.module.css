@@ -96,47 +96,132 @@
 
 /* Briefing */
 .briefing {
-  min-height: 58dvh;
-  padding-bottom: 4vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   text-align: center;
-  gap: 0;
+  padding-top: 1vh;
 }
 
-.briefTitle {
-  font-size: clamp(20px, 3vw, 26px);
+.gameTitle {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: clamp(60px, 12vw, 140px);
+  font-weight: 800;
+  line-height: 0.9;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding-left: 0.12em;
+  background: linear-gradient(180deg, #fff8ec 0%, #ffd18a 45%, #ff8a3c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  filter: drop-shadow(0 4px 24px rgb(255 140 60 / 0.35)) drop-shadow(0 1px 0 rgb(80 30 60 / 0.6));
+  animation: title-in 1s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+@keyframes title-in {
+  from {
+    opacity: 0;
+    letter-spacing: 0.3em;
+  }
+}
+
+.briefSub {
+  margin: 14px 0 0;
+  display: grid;
+  gap: 6px;
+  justify-items: center;
+  font-size: clamp(17px, 2.2vw, 22px);
   font-weight: 600;
-  letter-spacing: -0.01em;
-  line-height: 1.3;
-  margin: 10px 0 0;
+  text-shadow: 0 2px 12px rgb(20 10 40 / 0.6);
 }
 
-.startBtn {
+/* Lift off sits on the ground under the pad. Fixed to the viewport, so it is
+   a direct child of the fading layer, which only animates opacity. */
+.liftBtn {
   composes: primaryBtn;
-  margin-top: 40px;
-  width: min(100%, 440px);
-  padding: 30px 40px;
-  font-size: clamp(26px, 4.5vw, 34px);
+  position: fixed;
+  left: 50%;
+  bottom: max(14px, 2.4vh);
+  z-index: 3;
+  width: min(80vw, 340px);
+  padding: 14px 24px;
+  margin-left: calc(min(80vw, 340px) / -2);
+  font-size: clamp(22px, 3vw, 26px);
   font-weight: 750;
-  letter-spacing: -0.01em;
-  border-radius: 24px;
-  animation: beckon 2.2s ease-in-out infinite;
+  border-radius: 18px;
+  overflow: visible;
 }
 
-@keyframes beckon {
-  0%,
-  100% {
-    box-shadow: 0 8px 30px -6px rgb(255 154 60 / 0.55), 0 0 0 0 rgb(255 181 71 / 0.35),
-      inset 0 1px 0 rgb(255 255 255 / 0.5);
-  }
-  50% {
-    box-shadow: 0 12px 44px -6px rgb(255 154 60 / 0.8), 0 0 0 14px rgb(255 181 71 / 0),
-      inset 0 1px 0 rgb(255 255 255 / 0.5);
+.liftBtn::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: repeating-linear-gradient(
+    -45deg,
+    rgb(255 255 255 / 0) 0 10px,
+    rgb(255 255 255 / 0.22) 10px 20px
+  );
+  background-size: 200% 100%;
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.liftBtn[data-armed="true"] {
+  transform: translateY(-2px);
+  box-shadow:
+    0 0 0 3px rgb(255 181 71 / 0.35),
+    0 10px 40px -4px rgb(255 120 40 / 0.9),
+    inset 0 1px 0 rgb(255 255 255 / 0.5);
+  animation: armed-glow 0.6s ease-in-out infinite alternate;
+}
+
+.liftBtn[data-armed="true"]::before {
+  opacity: 1;
+  animation: hazard 0.6s linear infinite;
+}
+
+@keyframes armed-glow {
+  to { filter: brightness(1.12); }
+}
+
+@keyframes hazard {
+  to { background-position: -28px 0; }
+}
+
+.primed {
+  position: absolute;
+  right: calc(100% + 18px);
+  top: 50%;
+  margin-top: -8px;
+  white-space: nowrap;
+  text-align: right;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #ffd18a;
+  text-shadow: 0 0 10px rgb(255 160 70 / 0.8);
+  opacity: 0;
+  transform: translateX(8px);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+  pointer-events: none;
+}
+
+@media (max-width: 720px) {
+  .primed {
+    display: none;
   }
 }
+
+.liftBtn[data-armed="true"] .primed {
+  opacity: 1;
+  transform: none;
+}
+
 
 .howTo {
   margin-top: 32px;
@@ -670,7 +755,9 @@
 
 @media (prefers-reduced-motion: reduce) {
   .countNum,
-  .startBtn,
+  .gameTitle,
+  .liftBtn,
+  .liftBtn::before,
   .ore,
   .feedback,
   .timer[data-urgent="true"] .timerFill {
@@ -782,7 +869,7 @@
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 11vh;
+  top: calc(13vh - 72px);
   margin: 0;
   padding: 0 16px;
   display: grid;
@@ -836,7 +923,7 @@
   position: fixed;
   left: 0;
   right: 0;
-  top: 46%;
+  top: 32%;
   transform: translateY(-50%);
   z-index: 1;
   display: flex;
@@ -866,7 +953,7 @@
     inset: 60px 0 0 0;
   }
   .location {
-    bottom: 13vh;
+    top: calc(12vh - 60px);
   }
 }
 
