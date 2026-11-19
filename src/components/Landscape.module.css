@@ -33,6 +33,9 @@
 .near {
   bottom: 9vh;
   height: 13vh;
+  /* Plants on the hilltops reach above the layer's box. Let them show
+     instead of being sliced off at its top edge. */
+  overflow: visible;
 }
 
 .ground {
