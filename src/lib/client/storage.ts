@@ -30,8 +30,8 @@ export interface DayRecord {
   completed: boolean;
 }
 
-// v6: the schedule was replanned for easier days, so older saves no longer match.
-const DAYS_KEY = "orebit:v6:days";
+// v7: the schedule was replanned for easier days, so older saves no longer match.
+const DAYS_KEY = "orebit:v7:days";
 const SOUND_KEY = "orebit:v1:sound";
 
 function read<T>(key: string, fallback: T): T {

@@ -2,151 +2,95 @@
  "start": "2026-11-19",
  "days": [
   [
-   "string-instruments",
-   "chinese-foods",
-   "polar-animals",
-   "vegetables",
-   "rivers"
-  ],
-  [
-   "asian-countries",
-   "big-cats",
-   "sharks",
-   "potato-dishes",
-   "asian-cities"
-  ],
-  [
-   "japanese-foods",
-   "egg-dishes",
+   "italian-foods",
+   "pizza-toppings",
+   "gods",
    "desserts",
-   "dog-breeds",
-   "constellations"
+   "islands"
   ],
   [
-   "meats",
-   "landmarks",
-   "french-foods",
-   "americas-countries",
-   "metals"
-  ],
-  [
-   "us-presidents",
-   "snakes",
    "superheroes",
+   "american-foods",
+   "landmarks",
+   "meats",
+   "sharks"
+  ],
+  [
+   "cakes",
+   "cooking-methods",
+   "pies-pastries",
+   "elements",
+   "coffee-drinks"
+  ],
+  [
+   "spirits",
+   "flowers",
+   "nuts-seeds",
+   "disney-pixar-movies",
+   "gemstones"
+  ],
+  [
+   "dog-breeds",
+   "us-cities",
+   "salads",
    "pets",
    "beans-legumes"
   ],
   [
-   "pizza-toppings",
-   "dinosaurs",
-   "fruits",
-   "elements",
+   "weather",
+   "languages",
+   "vegetables",
+   "solar-system",
    "cocktails"
   ],
   [
-   "cetaceans",
-   "pies-pastries",
-   "cooking-methods",
-   "disney-pixar-movies",
-   "composers"
-  ],
-  [
-   "us-cities",
-   "flowers",
-   "game-consoles",
-   "farm-animals",
-   "grains"
-  ],
-  [
-   "programming-languages",
-   "indian-foods",
-   "languages",
-   "african-countries",
-   "mountains"
-  ],
-  [
-   "gemstones",
-   "salads",
-   "cakes",
-   "weather",
-   "emperors"
-  ],
-  [
-   "spirits",
-   "italian-foods",
-   "european-cities",
-   "rice-noodle-dishes",
-   "us-state-capitals"
-  ],
-  [
-   "islands",
-   "card-games",
-   "bones",
-   "martial-arts",
-   "rodents"
-  ],
-  [
-   "cheeses",
-   "nuts-seeds",
-   "breakfast-foods",
    "trees",
-   "animated-movies"
-  ],
-  [
-   "world-capitals",
-   "herbs-spices",
    "cookies",
-   "solar-system",
-   "cat-breeds"
+   "cheeses",
+   "rice-noodle-dishes",
+   "teas"
   ],
   [
-   "gods",
-   "baby-animals",
-   "currencies",
-   "seafood",
-   "spanish-foods"
-  ],
-  [
-   "american-foods",
-   "mexican-foods",
-   "board-games",
-   "oceans-seas",
-   "lakes"
-  ],
-  [
-   "primates",
-   "us-states",
-   "soft-drinks",
-   "painters",
-   "british-foods"
-  ],
-  [
-   "villains",
    "sandwiches",
-   "european-countries",
-   "pasta",
-   "australian-animals"
+   "villains",
+   "egg-dishes",
+   "board-games",
+   "japanese-foods"
   ],
   [
-   "candy",
-   "natural-disasters",
+   "farm-animals",
    "soups",
-   "cartoon-characters",
-   "middle-eastern-foods"
+   "asian-countries",
+   "fruits",
+   "oceans-seas"
   ],
   [
-   "breads",
+   "european-cities",
+   "herbs-spices",
+   "baby-animals",
+   "cartoon-characters",
+   "string-instruments"
+  ],
+  [
+   "mexican-foods",
    "ice-cream-flavors",
-   "african-animals",
-   "sitcoms",
-   "birds-of-prey"
+   "world-capitals",
+   "soft-drinks",
+   "game-consoles"
   ],
   [
    "video-games",
-   "coffee-drinks",
    "car-brands",
    "sauces",
-   "thai-foods"
+   "african-animals",
+   "potato-dishes"
+  ],
+  [
+   "pasta",
+   "breakfast-foods",
+   "seafood",
+   "us-states",
+   "composers"
   ]
  ]
 }
