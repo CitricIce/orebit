@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Build src/data/categories.json from data/categories/*.txt.
 
-Each answer gets a familiarity score from the `wordfreq` library (a Zipf
-value: roughly how often the name shows up in real text). Answers are then
-ranked inside their category and split into tiers by percentile, so the most
-familiar answers are Regolith and the least familiar are Crystal. One answer
-per category becomes the Starcore.
+Tiers come from the source files: answers are listed under "--- 1" to
+"--- 5" headings, sorted by how likely a player is to think of them (a
+manual pass, the way Krillion curates rarity). Categories without headings
+fall back to automatic tiers: each answer gets a familiarity score from the
+`wordfreq` library, answers are ranked inside the category and split by
+percentile. One answer per category becomes the Starcore.
 
 Run with:  npm run build:data
 Needs:     pip install wordfreq
@@ -91,8 +92,10 @@ def parse_file(path: Path) -> list[dict]:
             continue
         if cur is None:
             sys.exit(f"{path.name}:{lineno}: content before the first === header")
-        if line == "---":
+        m = re.fullmatch(r"---(?:\s*([1-5]))?", line)
+        if m:
             in_body = True
+            cur["section"] = int(m.group(1)) if m.group(1) else None
             continue
         if not in_body:
             key, _, val = line.partition(":")
@@ -104,7 +107,9 @@ def parse_file(path: Path) -> list[dict]:
             override = int(m.group(1))
             line = line[: m.start()].strip()
         names = [p.strip() for p in line.split("|") if p.strip()]
-        cur["rows"].append({"name": names[0], "aliases": names[1:], "override": override})
+        cur["rows"].append(
+            {"name": names[0], "aliases": names[1:], "override": override or cur.get("section")}
+        )
     return cats
 
 
@@ -149,7 +154,10 @@ def build_category(raw: dict) -> dict:
     starcore_name = raw["meta"].get("starcore")
     if starcore_name:
         sk = strip_plural(normalize(starcore_name))
-        star = next((r for r in ranked if strip_plural(normalize(r["name"])) == sk), None)
+        star = next(
+            (r for r in ranked if any(strip_plural(normalize(n)) == sk for n in [r["name"], *r["aliases"]])),
+            None,
+        )
         if star is None:
             sys.exit(f"{cid}: starcore '{starcore_name}' is not in the answer list")
     else:

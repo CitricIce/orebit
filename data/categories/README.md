@@ -1,8 +1,8 @@
 # Category source files
 
 Each `.txt` file holds one or more categories. `scripts/build_categories.py`
-reads them, scores every answer with word-frequency data, assigns tiers, and
-writes `src/data/categories.json`.
+reads them, merges duplicates, assigns tiers and writes
+`src/data/categories.json`.
 
 ## Format
 
@@ -11,25 +11,37 @@ writes `src/data/categories.json`.
 title: Dog breeds
 prompt: Name as many dog breeds as you can
 starcore: Xoloitzcuintli
----
-Labrador Retriever | lab | labrador
+--- 1
+Labrador Retriever | labrador | lab
 Golden Retriever | golden
-Basenji @4
+--- 2
+Basenji
+--- 5
+Azawakh
 ```
 
 - `=== <id>` starts a category. The id must be unique and URL safe.
-- Header lines (`title`, `prompt`, `starcore`) come before `---`.
-- `starcore` is optional. It names the one legendary answer. If you leave it
-  out, the build picks a rare but findable answer automatically.
-- After `---`, each line is one answer. The first name is the one shown to
-  players. Extra names after `|` are aliases that also count.
-- Add `@1` to `@5` at the end of a line to force a tier when word frequency
-  gets it wrong (for example "Boxer" is a common word but not a common
-  dog breed answer). 1 = Regolith, 2 = Iron, 3 = Cobalt, 4 = Gold, 5 = Crystal.
+- Header lines (`title`, `prompt`, `starcore`) come before the first `---`.
+- `--- 1` to `--- 5` start a tier. Every answer below it lands in that tier:
+  1 = Stone (the obvious ones), 2 = Iron, 3 = Cobalt, 4 = Gold, 5 = Crystal.
+  Sort by how likely a player is to think of the answer in 45 seconds, not
+  by how common the word is.
+- `starcore` names the one legendary answer (a name or any alias). It moves
+  to the Starcore tier wherever it is listed. Leave it out and the build picks
+  a rare but findable answer.
+- Each answer line: the display name first, then aliases after `|`. Aliases
+  count as the same answer, so variants (Henry IV Part 1 and Part 2) should be
+  aliases, not separate lines.
+- Add `@1` to `@5` at the end of a line to override its tier.
 - Lines starting with `#` are comments.
+- A category with a bare `---` and no tier headings gets automatic tiers from
+  word-frequency data.
 
 After editing, run:
 
 ```bash
 npm run build:data
 ```
+
+The build warns when one alias points at two different answers. Fix those so
+a guess can't match the wrong answer.

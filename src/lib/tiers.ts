@@ -12,7 +12,7 @@ export interface Tier {
 }
 
 export const TIERS: Record<TierId, Tier> = {
-  1: { id: 1, name: "Regolith", depth: 10, blurb: "Surface dust. Everyone finds it.", color: "var(--t1)" },
+  1: { id: 1, name: "Stone", depth: 10, blurb: "The obvious ones. Everyone digs these up.", color: "var(--t1)" },
   2: { id: 2, name: "Iron", depth: 20, blurb: "Solid, common ore.", color: "var(--t2)" },
   3: { id: 3, name: "Cobalt", depth: 35, blurb: "You know your stuff.", color: "var(--t3)" },
   4: { id: 4, name: "Gold", depth: 55, blurb: "A real find.", color: "var(--t4)" },
@@ -22,7 +22,7 @@ export const TIERS: Record<TierId, Tier> = {
 
 export const TIER_LIST: Tier[] = [1, 2, 3, 4, 5, 6].map((id) => TIERS[id as TierId]);
 
-export const ROUND_SECONDS = 30;
+export const ROUND_SECONDS = 45;
 export const ROUNDS_PER_DAY = 5;
 
 export interface Rank {

@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
-import type { DayResponse, GuessResponse, RevealResponse } from "@/lib/api-types";
+import type { DayResponse, GuessResponse } from "@/lib/api-types";
 import { localToday } from "@/lib/dates";
 import { formatMeters, rankFor, ROUND_SECONDS, TIERS, type TierId } from "@/lib/tiers";
 import {
@@ -18,7 +18,6 @@ import { sfx } from "@/lib/client/sfx";
 import { normalize } from "@/lib/match";
 import DrillShaft from "./DrillShaft";
 import Summary from "./Summary";
-import RevealList from "./RevealList";
 import HowToPlay from "./HowToPlay";
 import SpaceWorld, { type World } from "./SpaceWorld";
 import { APPROACH_MS, DESCENT_AT, LAUNCH_MS, stopFor } from "@/lib/journey";
@@ -34,6 +33,7 @@ interface Feedback {
 }
 
 const ROUND_MS = ROUND_SECONDS * 1000;
+const COUNTDOWN_FROM = 5;
 
 export default function Game({ date, mode }: { date: string; mode: "daily" | "archive" }) {
   const [day, setDay] = useState<DayResponse | null>(null);
@@ -43,10 +43,9 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   const [roundIdx, setRoundIdx] = useState(0);
   const [found, setFound] = useState<FoundOre[]>([]);
   const [timeLeft, setTimeLeft] = useState(ROUND_MS);
-  const [count, setCount] = useState(3);
+  const [count, setCount] = useState(COUNTDOWN_FROM);
   const [input, setInput] = useState("");
   const [feedback, setFeedback] = useState<Feedback | null>(null);
-  const [reveal, setReveal] = useState<RevealResponse | null>(null);
   const [lastHit, setLastHit] = useState<{ id: number; tier: TierId } | null>(null);
   const [revealIdx, setRevealIdx] = useState(0);
   const [arriving, setArriving] = useState(false);
@@ -136,7 +135,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   }, [phase]);
 
   const startCountdown = useCallback(() => {
-    setCount(3);
+    setCount(COUNTDOWN_FROM);
     setPhase("countdown");
     sfx.count();
   }, []);
@@ -204,16 +203,11 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       completed: isLast,
       playedOn: isLast ? localToday() : rec.playedOn,
     });
-    setReveal(null);
+    // Only the player's own finds show between rounds. The full answer lists
+    // stay hidden until the mission report.
     setRevealIdx(roundIdx);
     setPhase("reveal");
-    try {
-      const res = await fetch(`/api/reveal/${date}/${roundIdx}`);
-      if (res.ok) setReveal(await res.json());
-    } catch {
-      // The reveal is a bonus. The round result is already saved.
-    }
-  }, [day, roundIdx, date, persist]);
+  }, [day, roundIdx, persist]);
 
   // Round clock.
   useEffect(() => {
@@ -359,7 +353,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
             <p className={s.briefSub}>
               <span className={s.kicker}>Survey #{day.number}</span>
               <span>
-                Five asteroids. <span className={s.accent}>Thirty seconds each.</span>
+                Five asteroids. <span className={s.accent}>{ROUND_SECONDS} seconds each.</span>
               </span>
             </p>
             {!first && <p className={s.runSoFar}>Run so far: {formatMeters(runDepth)}</p>}
@@ -368,8 +362,8 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
             <summary>How to play</summary>
             <div className={s.howToBody}>
               <p className={s.howToIntro}>
-                Each rock is a category. Name as many answers as you can before your drill overheats. Common answers
-                are surface dust. Obscure ones are buried deep and worth far more.
+                Each rock is a category. Name as many answers as you can before your drill overheats. The obvious
+                answers are plain stone. Obscure ones are buried deep and worth far more.
               </p>
               <HowToPlay />
             </div>
@@ -531,7 +525,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       return (
         <section className={s.revealWrap}>
           <header className={s.revealHead}>
-            <p className={s.rockCode}>{rv.designation} · core sample</p>
+            <p className={s.rockCode}>{rv.designation} · round {revealIdx + 1} of {day.rounds.length}</p>
             <h2 className={s.title}>{rv.title}</h2>
             <div className={s.revealStats}>
               <div>
@@ -547,7 +541,31 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
               {isLast ? "See mission report" : `Fly to the next asteroid`}
             </button>
           </header>
-          <RevealList answers={reveal?.answers ?? null} found={res?.found ?? []} />
+          <div className={s.cargo}>
+            <p className={s.cargoHead}>
+              Your haul <span>{res?.found.length ?? 0}</span>
+            </p>
+            {res && res.found.length > 0 ? (
+              <ul className={s.ores}>
+                {[...res.found]
+                  .sort((a, b) => b.tier - a.tier)
+                  .map((o) => (
+                    <li
+                      key={o.name}
+                      className={s.ore}
+                      data-tier={o.tier}
+                      style={{ "--c": TIERS[o.tier].color } as React.CSSProperties}
+                    >
+                      <span className={s.gem} data-tier={o.tier} />
+                      {o.name}
+                    </li>
+                  ))}
+              </ul>
+            ) : (
+              <p className={s.hint}>Nothing this time. The next rock might be kinder.</p>
+            )}
+            <p className={s.hint}>Every answer is revealed in the mission report after the last asteroid.</p>
+          </div>
           {isLast && (
             <p className={s.runSoFar}>
               Total run: {formatMeters(runDepth)} · {rankFor(runDepth).title}

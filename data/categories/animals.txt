@@ -1,0 +1,2319 @@
+# Animals. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== dog-breeds
+title: Dog breeds
+prompt: Name as many dog breeds as you can
+starcore: Xoloitzcuintli
+--- 1
+Labrador Retriever | labrador | lab
+Golden Retriever | golden
+German Shepherd | alsatian
+Poodle | standard poodle | toy poodle | miniature poodle
+Bulldog | english bulldog | british bulldog
+Chihuahua
+Beagle
+Pug
+--- 2
+French Bulldog | frenchie
+Rottweiler
+Dachshund | wiener dog | sausage dog | doxie
+Yorkshire Terrier | yorkie
+Siberian Husky | husky
+Great Dane
+Doberman | doberman pinscher | dobermann
+Boxer
+Shih Tzu
+Pomeranian
+Border Collie
+Collie | rough collie
+Corgi | welsh corgi | pembroke welsh corgi | cardigan welsh corgi
+Australian Shepherd | aussie
+Cocker Spaniel
+Maltese
+Pit Bull | pitbull | american pit bull terrier
+Greyhound
+Dalmatian
+Saint Bernard | st bernard
+Bernese Mountain Dog | bernese
+Shiba Inu | shiba
+Akita
+Basset Hound | basset
+Bloodhound
+Jack Russell Terrier | jack russell
+Schnauzer | miniature schnauzer | giant schnauzer | standard schnauzer
+Labradoodle
+Goldendoodle
+Mastiff | english mastiff
+Bichon Frise | bichon
+Cavalier King Charles Spaniel | cavalier | king charles spaniel
+Newfoundland | newfie
+Samoyed
+Chow Chow | chow
+Boston Terrier
+--- 3
+Alaskan Malamute | malamute
+Springer Spaniel | english springer spaniel
+Whippet
+Italian Greyhound
+Staffordshire Bull Terrier | staffy | staffie
+American Staffordshire Terrier | amstaff
+Bull Terrier
+Scottish Terrier | scottie
+West Highland White Terrier | westie
+Cairn Terrier
+Airedale Terrier | airedale
+Fox Terrier | wire fox terrier | smooth fox terrier
+Weimaraner
+Vizsla
+Pointer | english pointer
+German Shorthaired Pointer
+Irish Setter | red setter
+English Setter
+Gordon Setter
+Irish Wolfhound | wolfhound
+Afghan Hound
+Shetland Sheepdog | sheltie
+Old English Sheepdog
+Great Pyrenees | pyrenean mountain dog
+Belgian Malinois | malinois
+Cane Corso
+Bullmastiff
+Shar Pei
+Havanese
+Lhasa Apso
+Pekingese
+Papillon
+Miniature Pinscher | min pin
+Rhodesian Ridgeback | ridgeback
+Basenji
+Australian Cattle Dog | blue heeler | red heeler | heeler
+Cockapoo
+Maltipoo
+Puggle
+Pomsky
+Portuguese Water Dog
+Chinese Crested
+Bloodhound Coonhound
+Coonhound
+Bluetick Coonhound | bluetick
+Redbone Coonhound | redbone
+Brittany | brittany spaniel
+Leonberger
+Tibetan Mastiff
+Neapolitan Mastiff
+Dogue de Bordeaux | french mastiff
+Anatolian Shepherd | kangal
+Border Terrier
+Norfolk Terrier
+Norwich Terrier
+Rat Terrier
+Boykin Spaniel
+American Eskimo Dog | eskie
+Keeshond
+Schipperke
+Brussels Griffon | griffon
+Affenpinscher
+Toy Fox Terrier
+Japanese Chin
+Silky Terrier
+Australian Terrier
+Coton de Tulear
+Bolognese
+Catahoula Leopard Dog | catahoula
+Black Mouth Cur
+Treeing Walker Coonhound
+Plott Hound | plott
+Foxhound | american foxhound | english foxhound
+Harrier
+Saluki
+Borzoi | russian wolfhound
+Scottish Deerhound | deerhound
+Komondor
+Puli
+Kuvasz
+Bouvier des Flandres | bouvier
+Belgian Tervuren | tervuren
+Belgian Sheepdog | groenendael
+Briard
+Beauceron
+Dutch Shepherd
+Bearded Collie
+Welsh Terrier
+Kerry Blue Terrier
+Soft Coated Wheaten Terrier | wheaten terrier
+Bedlington Terrier
+Dandie Dinmont Terrier
+Skye Terrier
+Manchester Terrier
+Parson Russell Terrier
+Chesapeake Bay Retriever
+Flat-Coated Retriever
+Curly-Coated Retriever
+Nova Scotia Duck Tolling Retriever | toller
+Irish Water Spaniel
+Clumber Spaniel
+Sussex Spaniel
+Field Spaniel
+Welsh Springer Spaniel
+English Cocker Spaniel
+American Cocker Spaniel
+German Wirehaired Pointer
+Wirehaired Pointing Griffon
+Spinone Italiano
+Lagotto Romagnolo
+Pharaoh Hound
+Ibizan Hound
+Norwegian Elkhound | elkhound
+Finnish Spitz
+Shikoku
+Kai Ken
+Kishu Ken
+Jindo | korean jindo
+Tosa | tosa inu
+Xoloitzcuintli | xolo | mexican hairless
+Peruvian Inca Orchid
+Thai Ridgeback
+Azawakh
+Sloughi
+Cesky Terrier
+Glen of Imaal Terrier
+Lakeland Terrier
+Sealyham Terrier
+Miniature Bull Terrier
+Pumi
+Mudi
+Spanish Water Dog
+Portuguese Podengo
+Cirneco dell'Etna
+Bergamasco
+Polish Lowland Sheepdog
+Icelandic Sheepdog
+Norwegian Lundehund
+Swedish Vallhund
+Entlebucher Mountain Dog | entlebucher
+Appenzeller Sennenhund | appenzeller
+Greater Swiss Mountain Dog
+Estrela Mountain Dog
+Caucasian Shepherd | caucasian ovcharka
+Central Asian Shepherd | alabai
+Boerboel
+Presa Canario | perro de presa canario
+Dogo Argentino
+Fila Brasileiro
+American Bulldog
+Olde English Bulldogge
+Alapaha Blue Blood Bulldog
+American Bully
+Bull Arab
+Kelpie | australian kelpie
+Koolie
+Mountain Cur
+Leopard Cur
+Blue Lacy
+Carolina Dog
+Chinook
+Canaan Dog
+Lowchen
+Havanese Silk
+Biewer Terrier
+Russian Toy
+Prague Ratter
+Chinese Chongqing Dog
+--- 4
+Stabyhoun
+Kooikerhondje
+Drentse Patrijshond
+Wetterhoun
+Saarloos Wolfdog
+Czechoslovakian Wolfdog
+Tamaskan
+Northern Inuit
+Utonagan
+Kintamani
+Bakharwal
+Rajapalayam
+Chippiparai
+Kombai
+Mudhol Hound
+Indian Pariah Dog
+Gaddi Kutta
+Bully Kutta
+Gull Dong
+Kangal Shepherd
+Akbash
+Aksaray Malaklisi
+Karakachan
+Sarplaninac
+Tornjak
+Croatian Sheepdog
+Bosnian Coarse-haired Hound
+Istrian Hound
+Posavac Hound
+Slovak Cuvac
+Slovensky Kopov
+Polish Hound
+Polish Greyhound | chart polski
+Hungarian Greyhound | magyar agar
+Transylvanian Hound
+Romanian Mioritic
+Carpathian Shepherd
+Bucovina Shepherd
+Russian Spaniel
+East Siberian Laika
+West Siberian Laika
+Russo-European Laika
+Yakutian Laika
+Karelian Bear Dog
+Lapponian Herder
+Finnish Lapphund
+Swedish Lapphund
+Norrbottenspets
+Hamiltonstovare
+Smalandsstovare
+Schillerstovare
+Drever
+Dunker
+Haldenstovare
+Hygenhund
+Norwegian Buhund
+Grand Basset Griffon Vendeen
+Petit Basset Griffon Vendeen | pbgv
+Basset Fauve de Bretagne
+Griffon Fauve de Bretagne
+Ariegeois
+Porcelaine
+Poitevin
+Billy
+Grand Bleu de Gascogne
+Petit Bleu de Gascogne
+Gascon Saintongeois
+Braque Francais
+Braque d'Auvergne
+Braque du Bourbonnais
+Braque Saint-Germain
+Epagneul Breton
+Epagneul Picard
+Epagneul Pont-Audemer
+Barbet
+Berger Picard
+Pyrenean Shepherd
+Bergamasco Sheepdog
+Maremma Sheepdog | maremma
+Cane Paratore
+Volpino Italiano
+Segugio Italiano
+Bracco Italiano
+Lagotto
+Cane da Pastore Bergamasco
+Spanish Mastiff
+Pyrenean Mastiff
+Perro de Agua Espanol
+Ca de Bou
+Ca de Bestiar
+Galgo Espanol | spanish greyhound
+Podenco Canario
+Podenco Andaluz
+Portuguese Pointer
+Cao da Serra de Aires
+Cao de Castro Laboreiro
+Rafeiro do Alentejo
+Cao Fila de Sao Miguel
+Majorca Shepherd Dog
+Catalan Sheepdog | gos d'atura
+Basque Shepherd Dog
+Garafian Shepherd
+Picardy Spaniel
+Kromfohrlander
+German Spitz
+German Pinscher
+Wolfspitz
+Eurasier
+Hovawart
+Kuvasz Hungarian
+Pudelpointer
+Large Munsterlander
+Small Munsterlander
+Deutsch Drahthaar
+Deutscher Wachtelhund
+Bavarian Mountain Hound
+Hanoverian Scenthound
+Dachsbracke
+Alpine Dachsbracke
+Westphalian Dachsbracke
+Tyrolean Hound
+Austrian Pinscher
+Styrian Coarse-haired Hound
+Brandlbracke
+Landseer
+Broholmer
+Old Danish Pointer
+Danish-Swedish Farmdog
+Faroese Sheepdog
+Greenland Dog
+Chinook Dog
+Telomian
+Taiwan Dog
+Phu Quoc Ridgeback
+Bangkaew Dog
+Formosan Mountain Dog
+Kunming Wolfdog
+Xiasi Dog
+Chuandong Hound
+Lhasa Kyi Apso
+Tibetan Kyi Apso
+Tibetan Terrier
+Tibetan Spaniel
+Sapsali
+Nureongi
+Pungsan
+Sakhalin Husky
+Hokkaido | ainu dog
+Japanese Spitz
+Japanese Terrier
+Kishu
+--- 5
+Gaddi
+Kaikadi
+Pandikona
+Vikhan
+Himalayan Sheepdog
+Bhotia
+Kanni
+Jonangi
+Rampur Greyhound
+Caravan Hound
+Tazy
+Taigan
+Afghan Shepherd
+Kuchi
+Sage Koochee
+Torkuz
+Turkmen Alabai
+Armenian Gampr | gampr
+Georgian Shepherd
+Mucuchies
+Pastor Garafiano
+Ratonero Bodeguero Andaluz
+Ratonero Valenciano
+Ratonero Mallorquin
+Perro Majorero
+Presa Mallorquin
+Alano Espanol
+Sabueso Espanol
+Perdiguero de Burgos
+Perdiguero Portugues
+Cao de Gado Transmontano
+Barbado da Terceira
+Podengo Portugues Pequeno
+Terrier Brasileiro
+Rastreador Brasileiro
+Campeiro Bulldog
+Ovejero Magallanico
+Chilean Terrier
+Perro Cimarron Uruguayo
+Dogo Guatemalteco
+Calupoh
+Chinese Imperial Dog
+Hmong Dog
+Bai Hound
+Mongolian Bankhar | bankhar
+Buryat-Mongolian Wolfhound
+Kyrgyz Taigan
+Ainu Inu
+Ryukyu Inu
+Tsushima Dog
+Mino Dog
+Kawakami Inu
+Shinshu Dog
+Koshi no Inu
+Tosa Fighting Dog
+Shiba Shinshu
+Africanis
+Aidi
+Coton de Reunion
+Basenji Congo
+Bantu Dog
+Abyssinian Sand Terrier
+Boerboel Mastiff
+Rhodesian Lion Dog
+Bull Arab Australian
+Australian Stumpy Tail Cattle Dog
+Tenterfield Terrier
+Australian Silky
+New Zealand Huntaway | huntaway
+New Zealand Heading Dog
+Hawaiian Poi Dog
+Tahltan Bear Dog
+Salish Wool Dog
+Hare Indian Dog
+Fuegian Dog
+Molossus
+Alpine Mastiff
+Talbot
+Southern Hound
+English White Terrier
+Turnspit Dog
+
+=== cat-breeds
+title: Cat breeds
+prompt: Name as many cat breeds as you can
+starcore: Turkish Van
+--- 1
+Persian
+Siamese
+Maine Coon
+Sphynx | sphinx | hairless cat
+--- 2
+Ragdoll
+Bengal
+British Shorthair
+Scottish Fold
+Russian Blue
+Abyssinian
+Birman
+Himalayan
+Tabby
+Calico
+Tuxedo
+Burmese
+Norwegian Forest Cat | norwegian forest
+American Shorthair
+Exotic Shorthair | exotic
+Devon Rex
+Cornish Rex
+Savannah
+Munchkin
+Manx
+Siberian
+--- 3
+Oriental Shorthair | oriental
+Oriental Longhair
+Tonkinese
+Balinese
+Turkish Angora | angora
+Turkish Van
+Egyptian Mau
+Ocicat
+Somali
+Chartreux
+Havana Brown
+Korat
+Bombay
+Selkirk Rex
+LaPerm
+American Curl
+American Bobtail
+Japanese Bobtail
+Kurilian Bobtail
+Pixie-Bob | pixiebob
+Toyger
+Snowshoe
+Singapura
+Nebelung
+Ragamuffin
+Burmilla
+Lykoi | werewolf cat
+Peterbald
+Donskoy | don sphynx
+Bambino
+Elf Cat
+Dwelf
+Chausie
+Highlander
+Cymric
+Colorpoint Shorthair
+Javanese
+Exotic Longhair
+British Longhair
+Scottish Straight
+Highland Fold
+American Wirehair
+Domestic Shorthair
+Domestic Longhair
+Mixed Breed
+--- 4
+Sokoke
+Khao Manee
+Thai | wichienmaat
+Burmese European
+Asian Semi-longhair | tiffanie
+Tiffany | chantilly
+Australian Mist
+Serengeti
+Minskin
+Napoleon | minuet
+Skookum
+Kinkalow
+Lambkin
+Ojos Azules
+Raas
+Aphrodite Giant
+Arabian Mau
+Bramble
+York Chocolate
+Ukrainian Levkoy | levkoy
+Mekong Bobtail
+Thai Lilac
+Brazilian Shorthair
+European Shorthair
+Celtic Shorthair
+Cyprus Cat
+German Rex
+Ural Rex
+Tennessee Rex
+Oregon Rex
+Sam Sawet
+Suphalak
+Toybob
+Caracat
+Savannah F1
+Safari Cat
+Kanaani
+Desert Lynx
+Highland Lynx
+Mojave Spotted
+Owyhee Bob
+
+=== horse-breeds
+title: Horse breeds
+prompt: Name as many horse and pony breeds as you can
+starcore: Akhal-Teke
+--- 1
+Arabian | arab
+Thoroughbred
+Clydesdale
+Mustang
+Shetland Pony | shetland
+--- 2
+Quarter Horse | american quarter horse
+Appaloosa
+Paint | paint horse | american paint horse
+Pinto
+Palomino
+Morgan
+Friesian
+Percheron
+Shire
+Belgian | belgian draft
+Tennessee Walking Horse | tennessee walker
+Andalusian
+Lipizzaner | lipizzan
+Standardbred
+Welsh Pony
+Pony
+Miniature Horse | mini horse
+Mule
+Donkey
+Zebra
+Draft Horse
+Wild Horse
+Warmblood
+Haflinger
+Icelandic Horse | icelandic
+Hanoverian
+Connemara
+Falabella
+Paso Fino
+Gypsy Vanner | gypsy horse | irish cob | vanner
+--- 3
+Akhal-Teke | akhal teke
+Trakehner
+Holsteiner
+Oldenburg
+Dutch Warmblood | kwpn
+Westphalian
+Selle Français | selle francais
+Lusitano
+Mustang Spanish | spanish mustang
+Missouri Fox Trotter
+American Saddlebred | saddlebred
+Rocky Mountain Horse
+Kentucky Mountain Saddle Horse
+Peruvian Paso
+Mangalarga Marchador
+Criollo
+Fjord | norwegian fjord
+Exmoor Pony | exmoor
+Dartmoor Pony | dartmoor
+New Forest Pony
+Highland Pony
+Fell Pony
+Dales Pony
+Eriskay Pony
+Chincoteague Pony
+Hackney
+Cleveland Bay
+Irish Draught | irish draft
+Suffolk Punch | suffolk
+Brabant
+Ardennes
+Noriker
+Knabstrupper
+Frederiksborg
+Kladruber
+Lipica
+Marwari
+Kathiawari
+Mongolian Horse
+Przewalski's Horse | przewalski | takhi
+Brumby
+Waler
+Australian Stock Horse
+Camargue
+Mérens
+Boulonnais
+Breton
+Comtois
+Auxois
+Trait du Nord
+Poitevin Mulassier
+Barb
+Arabian Barb
+Spanish Barb
+Florida Cracker Horse
+Banker Horse
+Nokota
+Kiger Mustang
+Sulphur Mustang
+Choctaw Horse
+Marsh Tacky
+American Cream Draft
+Spotted Saddle Horse
+Racking Horse
+Single-footing Horse
+Pony of the Americas
+--- 4
+Gotland Pony
+Nordland Horse | lyngshest
+Døle Horse | dole
+Finnhorse
+Swedish Warmblood
+Danish Warmblood
+Belgian Warmblood
+Bavarian Warmblood
+Württemberger
+Rhinelander
+Mecklenburger
+Thoroughbred Arabian | anglo-arab
+Anglo-Arabian
+Shagya Arabian
+Tersk
+Don
+Budyonny
+Orlov Trotter
+Russian Trotter
+Vladimir Heavy Draft
+Soviet Heavy Draft
+Russian Heavy Draft
+Bashkir Curly | curly horse
+Yakutian Horse
+Kabardin
+Karabakh
+Karabair
+Lokai
+Kazakh Horse
+Kyrgyz Horse
+Turkoman
+Caspian
+Kurdish Horse
+Dareshuri
+Jaf
+Basuto Pony
+Boerperd
+Nooitgedacht
+Fleuve
+Dongola
+Abyssinian
+Hokkaido Pony | dosanko
+Kiso
+Misaki
+Tokara
+Yonaguni
+Miyako
+Taishu
+Jeju Horse
+Guoxia
+Datong
+Riwoche
+Spiti
+Zanskari
+Manipuri Pony
+Bhutia
+Timor Pony
+Sumba
+Sandalwood Pony
+Batak Pony
+Java Pony
+Bali Pony
+Lombok
+Galiceno
+Azteca
+Paso Iberoamericano
+Chilean Horse | chilean corralero
+Campolina
+Crioulo
+Pantaneiro
+Marajoara
+Lavradeiro
+Polo Pony | polo argentino
+Gidran
+Nonius
+Furioso
+Hucul | hutsul
+Konik
+Wielkopolski
+Malopolski
+Silesian
+Sokolsky
+Lithuanian Heavy Draught
+Žemaitukas
+Estonian Native
+Tori Horse
+Latvian Horse
+Posavac
+Bosnian Mountain Horse
+Murgese
+Maremmano
+Salerno
+Sanfratellano
+Giara Horse
+Bardigiano
+Avelignese
+Esperia Pony
+Pentro
+Tolfetano
+Monterufolino
+Ventasso
+Catria
+Pottok
+Landais
+Castillon
+Henson
+Asturcón | asturcon
+Losino
+Pura Raza Española | pre
+Hispano-Árabe
+Garrano
+Sorraia
+Alter Real
+Mertolenga
+Miranda Donkey
+Poitou Donkey
+Baudet du Poitou
+--- 5
+Abaco Barb
+Sable Island Horse
+Newfoundland Pony
+Lac La Croix Indian Pony
+Canadian Horse
+Cleveland Bay Sport Horse
+Colorado Ranger
+Mountain Pleasure Horse
+American Indian Horse
+Carolina Marsh Tacky
+Galiceño Pony
+Hackney Pony
+Welara
+Lundy Pony
+Kerry Bog Pony
+Gypsy Cob
+Welsh Cob
+Welsh Mountain Pony
+Shetland American
+Skyros Pony
+Pindos Pony
+Peneia Pony
+Messara
+Andravida
+Zaniskari
+Deliboz
+Karachai
+Kushum
+Mezen
+Pechora
+Vyatka
+Obva
+Priob
+Narym
+Tavda
+Tushin
+Megruli
+Javakheti
+Chumysh
+Novokirghiz
+Iomud
+Naiman
+Adaev
+Jabe
+Mughal
+Unmol
+Bhimthadi
+Deccani
+Sikang
+Hequ
+Ningqiang
+Chakouyi
+Guanzhong
+Heihe
+Sanhe
+Ujumqin
+Wushen
+Baise
+Debao
+Lijiang
+Napoleon's Marengo
+
+=== sharks
+title: Sharks
+prompt: Name as many kinds of shark as you can
+starcore: Goblin Shark
+--- 1
+Great White Shark | great white | white shark
+Hammerhead | hammerhead shark
+Tiger Shark
+Whale Shark
+Bull Shark
+--- 2
+Mako Shark | mako
+Nurse Shark
+Blue Shark
+Basking Shark
+Great Hammerhead
+Reef Shark
+Lemon Shark
+Thresher Shark | thresher
+Megalodon
+Blacktip Shark | blacktip | blacktip reef shark
+Whitetip Shark | whitetip | oceanic whitetip
+Greenland Shark
+Sand Tiger Shark | sand tiger | grey nurse shark | ragged tooth shark
+Leopard Shark
+Goblin Shark
+Dogfish | spiny dogfish
+Angel Shark
+Cookiecutter Shark | cookie cutter shark
+Frilled Shark
+Megamouth Shark | megamouth
+Zebra Shark
+Bamboo Shark
+Wobbegong
+--- 3
+Shortfin Mako
+Longfin Mako
+Porbeagle
+Salmon Shark
+Silky Shark
+Dusky Shark
+Sandbar Shark
+Spinner Shark
+Galapagos Shark
+Caribbean Reef Shark
+Grey Reef Shark | gray reef shark
+Whitetip Reef Shark
+Blacknose Shark
+Bonnethead | bonnet head
+Scalloped Hammerhead
+Smooth Hammerhead
+Winghead Shark
+Bigeye Thresher
+Pelagic Thresher
+Common Thresher
+Sixgill Shark | bluntnose sixgill
+Sevengill Shark | broadnose sevengill
+Sleeper Shark | pacific sleeper shark
+Lantern Shark
+Pygmy Shark
+Dwarf Lanternshark
+Horn Shark
+Port Jackson Shark
+Epaulette Shark
+Carpet Shark
+Tasselled Wobbegong
+Ornate Wobbegong
+Cat Shark | catshark
+Swell Shark
+Chain Catshark
+Small-spotted Catshark
+Nursehound
+Tope | school shark
+Smooth-hound | smoothhound
+Gummy Shark
+Soupfin Shark
+Bramble Shark
+Prickly Shark
+Kitefin Shark
+Velvet Belly Lanternshark
+Viper Dogfish
+--- 4
+Crocodile Shark
+Ganges Shark
+River Shark
+Speartooth Shark
+Pondicherry Shark
+Borneo Shark
+Copper Shark | bronze whaler
+Blacktail Reef Shark
+Night Shark
+Finetooth Shark
+Smalltail Shark
+Spadenose Shark
+Milk Shark
+Sharpnose Shark | atlantic sharpnose
+Daggernose Shark
+Whitecheek Shark
+Hardnose Shark
+Sicklefin Lemon Shark
+Tawny Nurse Shark
+Shortnose Sawshark
+Sawshark
+Longnose Sawshark
+Japanese Sawshark
+Sixgill Sawshark
+Spined Pygmy Shark
+Taillight Shark
+Gulper Shark
+Birdbeak Dogfish
+Rough Shark | angular roughshark
+Pacific Angelshark
+Japanese Angelshark
+Sawback Angelshark
+Bluegray Carpetshark
+Necklace Carpetshark
+Collared Carpetshark
+Blind Shark
+Hooded Carpet Shark
+Brownbanded Bambooshark
+Whitespotted Bambooshark
+Indonesian Speckled Carpetshark
+Leopard Catshark
+Puffadder Shyshark
+Pyjama Shark
+Coral Catshark
+Marbled Catshark
+Ghost Catshark
+Pacific Spookfish
+Weasel Shark
+Hooktooth Shark
+Snaggletooth Shark
+Barbeled Houndshark
+False Catshark
+Finback Catshark
+Ribbontail Catshark
+Mandarin Dogfish
+Roughskin Dogfish
+Portuguese Dogfish
+Greenland Sleeper
+Little Sleeper Shark
+Velvet Dogfish
+Black Dogfish
+Smooth Lanternshark
+Ninja Lanternshark
+Viper Shark
+Pocket Shark
+Megalodon Ancient
+--- 5
+Helicoprion
+Cretoxyrhina
+Otodus
+Squalicorax
+Ptychodus
+Stethacanthus
+Edestus
+Hybodus
+Cladoselache
+Xenacanthus
+Orthacanthus
+Falcatus
+Akmonistion
+Scapanorhynchus
+Carcharocles
+Parotodus
+Hemipristis
+Isurus Hastalis
+Physogaleus
+Galeocerdo Aduncus
+
+=== dinosaurs
+title: Dinosaurs
+prompt: Name as many dinosaurs as you can
+starcore: Therizinosaurus
+--- 1
+Tyrannosaurus | t rex | t-rex | tyrannosaurus rex
+Triceratops
+Stegosaurus
+Velociraptor | raptor
+Brachiosaurus
+--- 2
+Spinosaurus
+Pterodactyl | pterodactylus
+Ankylosaurus
+Diplodocus
+Brontosaurus
+Allosaurus
+Parasaurolophus
+Pachycephalosaurus
+Iguanodon
+Apatosaurus
+Dilophosaurus
+Archaeopteryx
+Gallimimus
+Compsognathus
+Carnotaurus
+Giganotosaurus
+Pteranodon
+Mosasaurus
+Plesiosaurus
+Megalosaurus
+Deinonychus
+Utahraptor
+Indominus Rex
+Baryonyx
+Protoceratops
+Oviraptor
+Hadrosaurus
+Maiasaura
+--- 3
+Argentinosaurus
+Therizinosaurus
+Microraptor
+Troodon
+Albertosaurus
+Gorgosaurus
+Daspletosaurus
+Tarbosaurus
+Acrocanthosaurus
+Carcharodontosaurus
+Suchomimus
+Ceratosaurus
+Coelophysis
+Herrerasaurus
+Eoraptor
+Plateosaurus
+Mamenchisaurus
+Camarasaurus
+Amargasaurus
+Sauropod
+Titanosaurus
+Dreadnoughtus
+Patagotitan
+Supersaurus
+Ultrasaurus
+Seismosaurus
+Edmontosaurus
+Corythosaurus
+Lambeosaurus
+Saurolophus
+Kentrosaurus
+Euoplocephalus
+Nodosaurus
+Edmontonia
+Polacanthus
+Scelidosaurus
+Styracosaurus
+Centrosaurus
+Chasmosaurus
+Torosaurus
+Pentaceratops
+Kosmoceratops
+Einiosaurus
+Pachyrhinosaurus
+Psittacosaurus
+Stygimoloch
+Dracorex
+Ornithomimus
+Struthiomimus
+Deinocheirus
+Dromaeosaurus
+Sinosauropteryx
+Yutyrannus
+Guanlong
+Dilong
+Majungasaurus
+Abelisaurus
+Cryolophosaurus
+Monolophosaurus
+Sinraptor
+Yangchuanosaurus
+Torvosaurus
+Ouranosaurus
+Muttaburrasaurus
+Leaellynasaura
+Minmi
+Australovenator
+Hypsilophodon
+Heterodontosaurus
+Lesothosaurus
+Dryosaurus
+Camptosaurus
+Tenontosaurus
+Thescelosaurus
+Zuniceratops
+Nigersaurus
+Rebbachisaurus
+Brachytrachelopan
+Dicraeosaurus
+Shunosaurus
+Omeisaurus
+Massospondylus
+Anchisaurus
+Riojasaurus
+Melanorosaurus
+Unaysaurus
+Liliensternus
+Ichthyosaurus
+Elasmosaurus
+Liopleurodon
+Kronosaurus
+Quetzalcoatlus
+Rhamphorhynchus
+Dimorphodon
+Tupandactylus
+Dimetrodon
+Postosuchus
+Sarcosuchus
+Deinosuchus
+Lystrosaurus
+--- 4
+Megaraptor
+Neovenator
+Concavenator
+Eustreptospondylus
+Proceratosaurus
+Mapusaurus
+Tyrannotitan
+Sauroposeidon
+Giraffatitan
+Europasaurus
+Saltasaurus
+Rapetosaurus
+Isisaurus
+Alamosaurus
+Paralititan
+Spinophorosaurus
+Jobaria
+Lourinhanosaurus
+Dacentrurus
+Miragaia
+Gigantspinosaurus
+Huayangosaurus
+Tuojiangosaurus
+Wuerhosaurus
+Hesperosaurus
+Gargoyleosaurus
+Sauropelta
+Gastonia
+Borealopelta
+Zuul
+Tarchia
+Pinacosaurus
+Saichania
+Talarurus
+Shantungosaurus
+Tsintaosaurus
+Olorotitan
+Charonosaurus
+Hypacrosaurus
+Prosaurolophus
+Brachylophosaurus
+Gryposaurus
+Kritosaurus
+Anatotitan
+Bactrosaurus
+Probactrosaurus
+Leptoceratops
+Bagaceratops
+Microceratus
+Yinlong
+Diabloceratops
+Nasutoceratops
+Regaliceratops
+Spiclypeus
+Coahuilaceratops
+Utahceratops
+Medusaceratops
+Albertaceratops
+Achelousaurus
+Avaceratops
+Vagaceratops
+Agujaceratops
+Sinoceratops
+Homalocephale
+Prenocephale
+Tylocephale
+Stegoceras
+Colepiocephale
+Gravitholus
+Wannanosaurus
+Alvarezsaurus
+Mononykus
+Shuvuuia
+Linhenykus
+Avimimus
+Caudipteryx
+Citipati
+Khaan
+Gigantoraptor
+Anzu
+Chirostenotes
+Nomingia
+Incisivosaurus
+Byronosaurus
+Saurornithoides
+Zanabazar
+Mei
+Sinornithosaurus
+Anchiornis
+Xiaotingia
+Aurornis
+Eosinopteryx
+Yi Qi | yi
+Epidexipteryx
+Scansoriopteryx
+Halszkaraptor
+Austroraptor
+Unenlagia
+Buitreraptor
+Rahonavis
+Pyroraptor
+Variraptor
+Achillobator
+Atrociraptor
+Saurornitholestes
+Bambiraptor
+Tsaagan
+Linheraptor
+Velociraptor Mongoliensis
+Adasaurus
+Balaur
+Dakotaraptor
+Acheroraptor
+Nanotyrannus
+Lythronax
+Teratophoneus
+Bistahieversor
+Alioramus
+Qianzhousaurus
+Appalachiosaurus
+Dryptosaurus
+Raptorex
+Eotyrannus
+Juratyrant
+Stokesosaurus
+Proceratosaurus Bradleyi
+Kileskus
+Sinotyrannus
+Zhuchengtyrannus
+Xiongguanlong
+Timurlengia
+Moros
+Suskityrannus
+Ichthyovenator
+Oxalaia
+Irritator
+Angaturama
+Siamosaurus
+Vallibonavenatrix
+Camarillasaurus
+Spinostropheus
+Elaphrosaurus
+Limusaurus
+Masiakasaurus
+Noasaurus
+Rugops
+Skorpiovenator
+Ekrixinatosaurus
+Aucasaurus
+Ilokelesia
+Indosaurus
+Rajasaurus
+Rahiolisaurus
+Pycnonemosaurus
+Arcovenator
+Tarascosaurus
+Genusaurus
+Berberosaurus
+Dahalokely
+Eoabelisaurus
+--- 5
+Amargatitanis
+Bonitasaura
+Futalognkosaurus
+Puertasaurus
+Notocolossus
+Argyrosaurus
+Antarctosaurus
+Elaltitan
+Bruhathkayosaurus
+Mamenchisaurus Sinocanadorum
+Xinjiangtitan
+Ruyangosaurus
+Huanghetitan
+Daxiatitan
+Fusuisaurus
+Yongjinglong
+Qiaowanlong
+Euhelopus
+Erketu
+Opisthocoelicaudia
+Nemegtosaurus
+Quaesitosaurus
+Tapuiasaurus
+Uberabatitan
+Gondwanatitan
+Aeolosaurus
+Rinconsaurus
+Muyelensaurus
+Neuquensaurus
+Bonatitan
+Laplatasaurus
+Pellegrinisaurus
+Ampelosaurus
+Atsinganosaurus
+Lirainosaurus
+Magyarosaurus
+Paludititan
+Normanniasaurus
+Tastavinsaurus
+Aragosaurus
+Losillasaurus
+Turiasaurus
+Galvesaurus
+Zby
+Lusotitan
+Dinheirosaurus
+Supersaurus Vivianae
+Kaatedocus
+Galeamopus
+Tornieria
+Australodocus
+Leinkupal
+Amazonsaurus
+Cathartesaura
+Limaysaurus
+Zapalasaurus
+Comahuesaurus
+Rayososaurus
+Demandasaurus
+Histriasaurus
+Tataouinea
+Lavocatisaurus
+Katepensaurus
+Itapeuasaurus
+Nigersaurus Taqueti
+Xenoposeidon
+Haestasaurus
+Pelorosaurus
+Cetiosaurus
+Barapasaurus
+Kotasaurus
+Vulcanodon
+Tazoudasaurus
+Gongxianosaurus
+Isanosaurus
+Antetonitrus
+Ledumahadi
+Blikanasaurus
+Lessemsaurus
+Ingentia
+Leonerasaurus
+Chromogisaurus
+Panphagia
+Pampadromaeus
+Buriolestes
+Saturnalia
+Guaibasaurus
+Nhandumirim
+Staurikosaurus
+Sanjuansaurus
+Gnathovorax
+Tawa
+Chindesaurus
+Daemonosaurus
+Eodromaeus
+Nyasasaurus
+Asilisaurus
+Silesaurus
+Lewisuchus
+Lagerpeton
+
+=== snakes
+title: Snakes
+prompt: Name as many kinds of snake as you can
+starcore: Boomslang
+--- 1
+Cobra | king cobra
+Python
+Rattlesnake | rattler
+Anaconda
+Boa Constrictor | boa
+Garter Snake | garden snake
+--- 2
+Black Mamba | mamba
+Viper
+Copperhead
+Cottonmouth | water moccasin | moccasin
+Coral Snake
+King Snake | kingsnake
+Corn Snake
+Milk Snake
+Rat Snake
+Ball Python | royal python
+Burmese Python
+Reticulated Python
+Green Anaconda
+Taipan | inland taipan
+Sea Snake
+Adder
+Asp
+Diamondback | eastern diamondback | western diamondback
+Sidewinder
+Gopher Snake
+Bull Snake
+Hognose | hognose snake
+Tree Snake
+Water Snake
+Grass Snake
+Puff Adder
+Gaboon Viper
+Pit Viper
+Green Mamba
+Krait
+Boomslang
+Spitting Cobra
+--- 3
+Eastern Brown Snake | brown snake
+Tiger Snake
+Death Adder
+Black Snake | red-bellied black snake
+Carpet Python
+Green Tree Python
+Blood Python
+Children's Python
+Woma Python
+Black-headed Python
+Olive Python
+Indian Python
+African Rock Python | rock python
+Emerald Tree Boa
+Rainbow Boa
+Rubber Boa
+Rosy Boa
+Sand Boa
+Dumeril's Boa
+Yellow Anaconda
+Eyelash Viper
+Russell's Viper
+Saw-scaled Viper
+Horned Viper
+Rhinoceros Viper
+Bush Viper
+Bushmaster
+Fer-de-lance
+Terciopelo
+Jararaca
+Lancehead
+Golden Lancehead
+Timber Rattlesnake
+Mojave Rattlesnake
+Pygmy Rattlesnake
+Massasauga
+Prairie Rattlesnake
+Tiger Rattlesnake
+Speckled Rattlesnake
+Racer | black racer
+Coachwhip
+Whipsnake
+Indigo Snake
+Ribbon Snake
+Ring-necked Snake | ringneck snake
+Smooth Green Snake
+Rough Green Snake
+Pine Snake
+--- 4
+Mud Snake
+Rainbow Snake
+Scarlet Snake
+Worm Snake
+Blind Snake
+Thread Snake
+Flying Snake | paradise tree snake
+Vine Snake
+Cat Snake
+Mangrove Snake
+Wolf Snake
+Kukri Snake
+Keelback
+Checkered Keelback
+Red-necked Keelback
+Dice Snake
+Smooth Snake
+Aesculapian Snake
+Leopard Snake
+Ladder Snake
+Montpellier Snake
+Horseshoe Whip Snake
+Western Whip Snake
+Asp Viper
+Common European Adder | european adder
+Nose-horned Viper
+Meadow Viper
+Caspian Cobra
+Indian Cobra | spectacled cobra
+Monocled Cobra
+Egyptian Cobra
+Cape Cobra
+Forest Cobra
+Mozambique Spitting Cobra
+Rinkhals
+Banded Krait
+Common Krait
+Many-banded Krait
+Coastal Taipan
+Mulga Snake | king brown
+Dugite
+Western Brown Snake | gwardar
+Copperhead Australian
+Rough-scaled Snake
+Stephens' Banded Snake
+Bandy-bandy
+Yellow-bellied Sea Snake
+Banded Sea Krait | sea krait
+Beaked Sea Snake
+Olive Sea Snake
+Twig Snake | vine snake african
+Mole Snake
+Herald Snake
+Egg-eating Snake
+House Snake
+File Snake
+Shield-nosed Cobra
+Berg Adder
+Horned Adder
+Many-horned Adder
+Desert Horned Viper
+Sahara Sand Viper
+Levant Viper
+Palestinian Viper
+Field's Horned Viper
+Persian Horned Viper | spider-tailed viper
+Malabar Pit Viper
+Hump-nosed Viper
+Bamboo Pit Viper
+Temple Pit Viper | wagler's pit viper
+Mangrove Pit Viper
+Habu
+Okinawa Habu
+Mamushi
+Tiger Keelback | yamakagashi
+Japanese Rat Snake
+Beauty Snake
+Red Bamboo Snake
+King Ratsnake
+Mandarin Rat Snake
+Trinket Snake
+Dhaman | oriental ratsnake
+Bronzeback
+Golden Tree Snake
+Twin-barred Tree Snake
+Brown Tree Snake
+Green Tree Snake
+Keelback Australian
+Amethystine Python | scrub python
+Water Python
+Rough-scaled Python
+Oenpelli Python
+Papuan Python
+Boelen's Python
+Bismarck Ringed Python
+Angolan Python
+Burrowing Python
+Sunbeam Snake
+Pipe Snake
+Shieldtail
+Elephant Trunk Snake | wart snake
+Tentacled Snake
+Puff-faced Water Snake
+Crab-eating Water Snake
+Rainbow Water Snake
+--- 5
+Queen Snake
+Kirtland's Snake
+Crayfish Snake
+Swamp Snake
+Black Swamp Snake
+Pine Woods Snake
+Short-tailed Snake
+Crowned Snake
+Black-headed Snake
+Lyre Snake
+Night Snake
+Glossy Snake
+Long-nosed Snake
+Shovel-nosed Snake
+Ground Snake
+Hook-nosed Snake
+Patch-nosed Snake
+Lined Snake
+Earth Snake
+Red-bellied Snake
+Mexican Burrowing Python
+Calabar Python
+Arafura File Snake
+Little File Snake
+Javan File Snake
+Dwarf Boa
+Wood Snake
+Trope's Boa
+Pacific Ground Boa
+Pacific Tree Boa
+Madagascar Tree Boa
+Madagascar Ground Boa
+Round Island Boa
+Keel-scaled Boa
+Cuban Boa
+Haitian Boa
+Puerto Rican Boa
+Annulated Tree Boa
+Cook's Tree Boa
+Amazon Tree Boa
+Brazilian Rainbow Boa
+Colombian Rainbow Boa
+Central American Boa
+Hog Island Boa
+Abaco Island Boa
+Bahamian Boa
+Jamaican Boa
+Kenyan Sand Boa
+Rough-scaled Sand Boa
+Tartar Sand Boa
+Javelin Sand Boa
+Arabian Sand Boa
+Smooth-scaled Sand Boa
+Calabar Burrowing Boa
+Mozambique Sand Boa
+Ethiopian Mountain Viper
+Kenya Horned Viper
+Usambara Bush Viper
+Hairy Bush Viper
+Great Lakes Bush Viper
+Variable Bush Viper
+Lowland Swamp Viper
+Mount Mulanje Viper
+Mangshan Pit Viper
+Fea's Viper
+Wolf Viper
+Kaulback's Lance-headed Pit Viper
+Himalayan Pit Viper
+Siamese Russell's Viper
+McMahon's Viper
+Latifi's Viper
+Ottoman Viper
+Armenian Viper
+Caucasian Viper
+Lotiev's Viper
+Orlov's Viper
+Darevsky's Viper
+Dinnik's Viper
+Radde's Viper
+Lebanon Viper
+Mount Hermon Viper
+Wagner's Viper
+Milos Viper
+Iberian Adder
+Seoane's Viper
+Baron's Viper
+Asp Pyrenean
+Ursini's Viper
+Danube Meadow Viper
+Greek Meadow Viper
+Steppe Viper
+Renard's Viper
+
+=== birds-of-prey
+title: Birds of prey
+prompt: Name as many birds of prey as you can
+starcore: Lammergeier
+--- 1
+Bald Eagle
+Golden Eagle
+Hawk | red-tailed hawk
+Owl
+Falcon
+Eagle
+--- 2
+Peregrine Falcon | peregrine
+Osprey
+Kestrel | american kestrel
+Vulture | turkey vulture
+Condor | california condor | andean condor
+Barn Owl
+Snowy Owl
+Great Horned Owl
+Harrier | hen harrier | northern harrier
+Kite | red kite
+Buzzard | common buzzard
+Harpy Eagle
+Sparrowhawk | sparrow hawk
+Goshawk | northern goshawk
+Cooper's Hawk
+Red-shouldered Hawk
+Secretary Bird
+Gyrfalcon
+Merlin
+Hobby | eurasian hobby
+Screech Owl | eastern screech owl
+Barred Owl
+Burrowing Owl
+Eagle Owl | eurasian eagle owl
+Tawny Owl
+Little Owl
+--- 3
+Black Kite
+White-tailed Eagle | sea eagle
+Steller's Sea Eagle
+Philippine Eagle
+Crowned Eagle | african crowned eagle
+Martial Eagle
+Bateleur
+African Fish Eagle | fish eagle
+Tawny Eagle
+Steppe Eagle
+Imperial Eagle | eastern imperial eagle
+Spanish Imperial Eagle
+Bonelli's Eagle
+Booted Eagle
+Short-toed Eagle | short-toed snake eagle
+Wedge-tailed Eagle
+Verreaux's Eagle | black eagle
+Lesser Spotted Eagle
+Greater Spotted Eagle
+Black Vulture
+Griffon Vulture
+Bearded Vulture | lammergeier
+Egyptian Vulture
+Cinereous Vulture | monk vulture
+Lappet-faced Vulture
+White-backed Vulture
+Hooded Vulture
+Cape Vulture
+King Vulture
+Rüppell's Vulture | ruppells vulture
+Ferruginous Hawk
+Swainson's Hawk
+Rough-legged Hawk | rough-legged buzzard
+Broad-winged Hawk
+Sharp-shinned Hawk
+Harris's Hawk | harris hawk
+Zone-tailed Hawk
+Gray Hawk
+Common Black Hawk
+Galapagos Hawk
+Hawaiian Hawk | io
+Snail Kite
+Swallow-tailed Kite
+Mississippi Kite
+White-tailed Kite
+Black-shouldered Kite
+Brahminy Kite
+Whistling Kite
+Honey Buzzard
+Marsh Harrier | western marsh harrier
+Montagu's Harrier
+Pallid Harrier
+Saker Falcon | saker
+Lanner Falcon | lanner
+Prairie Falcon
+Aplomado Falcon
+Laughing Falcon
+Bat Falcon
+Red-footed Falcon
+Lesser Kestrel
+Mauritius Kestrel
+Eleonora's Falcon
+Barbary Falcon
+Caracara | crested caracara
+Striated Caracara
+Chimango Caracara
+Long-eared Owl
+Short-eared Owl
+Great Grey Owl | great gray owl
+Spotted Owl
+Elf Owl
+Pygmy Owl | northern pygmy owl
+Saw-whet Owl | northern saw-whet owl
+Boreal Owl
+Flammulated Owl
+Ural Owl
+Hawk Owl | northern hawk owl
+Blakiston's Fish Owl
+Brown Fish Owl
+Spectacled Owl
+Crested Owl
+Masked Owl
+Powerful Owl
+Barking Owl
+Boobook | morepork
+Scops Owl
+Oriental Scops Owl
+Collared Scops Owl
+Verreaux's Eagle-Owl
+Spotted Eagle-Owl
+Cape Eagle-Owl
+Pharaoh Eagle-Owl
+Snowy Eagle Owl
+Forest Owlet
+Grass Owl
+Sooty Owl
+Bay Owl
+--- 4
+Crested Serpent Eagle
+Philippine Serpent Eagle
+Bat Hawk
+Black-chested Snake Eagle
+Brown Snake Eagle
+Congo Serpent Eagle
+Madagascar Serpent Eagle
+Madagascar Fish Eagle
+Pallas's Fish Eagle
+White-bellied Sea Eagle
+Sanford's Sea Eagle
+Lesser Fish Eagle
+Grey-headed Fish Eagle
+Long-crested Eagle
+Cassin's Hawk-Eagle
+Ayres's Hawk-Eagle
+African Hawk-Eagle
+Changeable Hawk-Eagle
+Mountain Hawk-Eagle
+Javan Hawk-Eagle
+Ornate Hawk-Eagle
+Black Hawk-Eagle
+Black-and-white Hawk-Eagle
+Black-and-chestnut Eagle
+Crested Eagle
+Solitary Eagle
+Chaco Eagle | crowned solitary eagle
+Rufous-bellied Eagle
+Wahlberg's Eagle
+Little Eagle
+Pygmy Eagle
+Gurney's Eagle
+New Guinea Harpy Eagle | papuan eagle
+Indian Spotted Eagle
+Black-breasted Buzzard
+Square-tailed Kite
+Letter-winged Kite
+Pearl Kite
+Hook-billed Kite
+Grey-headed Kite
+Double-toothed Kite
+Plumbeous Kite
+Slender-billed Kite
+African Harrier-Hawk | gymnogene
+Madagascar Harrier-Hawk
+Crane Hawk
+Lizard Buzzard
+Grasshopper Buzzard
+Rufous-winged Buzzard
+White-eyed Buzzard
+Grey-faced Buzzard
+Augur Buzzard
+Jackal Buzzard
+Mountain Buzzard
+Upland Buzzard
+Long-legged Buzzard
+Red-tailed Black Hawk
+Savanna Hawk
+Great Black Hawk
+Mangrove Black Hawk
+White Hawk
+Roadside Hawk
+Short-tailed Hawk
+White-tailed Hawk
+Variable Hawk
+Rufous Crab Hawk
+Black-collared Hawk
+Barred Forest Falcon
+Collared Forest Falcon
+Orange-breasted Falcon
+Taita Falcon
+Grey Falcon
+Black Falcon
+Brown Falcon
+New Zealand Falcon | karearea
+Seychelles Kestrel
+Fox Kestrel
+Greater Kestrel
+Banded Kestrel
+Dickinson's Kestrel
+Spotted Kestrel
+Nankeen Kestrel
+Pied Falconet
+Collared Falconet
+Philippine Falconet
+White-rumped Falcon
+Pygmy Falcon
+Yellow-headed Caracara
+Black Caracara
+Red-throated Caracara
+Mountain Caracara
+Southern Caracara
+Guadalupe Caracara
+--- 5
+Palm-nut Vulture
+White-headed Vulture
+Red-headed Vulture
+Slender-billed Vulture
+Indian Vulture
+Himalayan Vulture
+Lesser Yellow-headed Vulture
+Greater Yellow-headed Vulture
+Pel's Fishing Owl
+Rufous Fishing Owl
+Vermiculated Fishing Owl
+Tawny Fish Owl
+Buffy Fish Owl
+Shelley's Eagle-Owl
+Fraser's Eagle-Owl
+Usambara Eagle-Owl
+Philippine Eagle-Owl
+Barred Eagle-Owl
+Dusky Eagle-Owl
+Spot-bellied Eagle-Owl
+Rock Eagle-Owl
+Akun Eagle-Owl
+Lesser Horned Owl
+Magellanic Horned Owl
+Striped Owl
+Stygian Owl
+Abyssinian Owl
+Marsh Owl
+Mottled Owl
+Black-and-white Owl
+Rufous-banded Owl
+Rusty-barred Owl
+Brazilian Owl
+Chaco Owl
+Rufous-legged Owl
+Fulvous Owl
+Himalayan Owl
+Hume's Owl
+Omani Owl
+Desert Owl
+African Wood Owl
+Spotted Wood Owl
+Mottled Wood Owl
+Band-bellied Owl
+Tawny-bellied Screech Owl
+Whiskered Screech Owl
+Western Screech Owl
+Balsas Screech Owl
+Bearded Screech Owl
+Long-whiskered Owlet
+Jungle Owlet
+Chestnut-backed Owlet
+Asian Barred Owlet
+Collared Owlet
+Pearl-spotted Owlet
+Red-chested Owlet
+Albertine Owlet
+Sjöstedt's Owlet
+Least Pygmy Owl
+Tamaulipas Pygmy Owl
+Cuban Pygmy Owl
+Andean Pygmy Owl
+Cloud-forest Pygmy Owl
+Ferruginous Pygmy Owl
+Austral Pygmy Owl
+
+=== cetaceans
+title: Whales and dolphins
+prompt: Name as many whales, dolphins and porpoises as you can
+starcore: Vaquita
+--- 1
+Blue Whale
+Killer Whale | orca
+Humpback Whale | humpback
+Dolphin | bottlenose dolphin | bottlenose
+Sperm Whale
+--- 2
+Beluga | beluga whale | white whale
+Narwhal
+Gray Whale | grey whale
+Fin Whale | finback
+Right Whale | north atlantic right whale | southern right whale
+Bowhead Whale | bowhead
+Minke Whale | minke
+Pilot Whale | long-finned pilot whale | short-finned pilot whale
+Porpoise | harbour porpoise | harbor porpoise
+Spinner Dolphin
+River Dolphin | amazon river dolphin | pink river dolphin | boto
+Sei Whale
+Bryde's Whale | brydes whale
+Beaked Whale
+Common Dolphin | short-beaked common dolphin
+Spotted Dolphin | atlantic spotted dolphin | pantropical spotted dolphin
+Vaquita
+--- 3
+False Killer Whale
+Pygmy Killer Whale
+Melon-headed Whale
+Risso's Dolphin | rissos dolphin
+Dusky Dolphin
+Hector's Dolphin
+Maui Dolphin
+Commerson's Dolphin
+Dall's Porpoise
+Finless Porpoise
+Burmeister's Porpoise
+Spectacled Porpoise
+Striped Dolphin
+Rough-toothed Dolphin
+Fraser's Dolphin
+White-sided Dolphin | atlantic white-sided dolphin | pacific white-sided dolphin
+White-beaked Dolphin
+Hourglass Dolphin
+Peale's Dolphin
+Irrawaddy Dolphin
+Ganges River Dolphin | susu
+Indus River Dolphin
+Baiji | yangtze river dolphin
+La Plata Dolphin | franciscana
+Tucuxi
+Guiana Dolphin
+Humpback Dolphin | indo-pacific humpback dolphin | pink dolphin
+Australian Snubfin Dolphin
+Heaviside's Dolphin
+Chilean Dolphin
+Clymene Dolphin
+Long-beaked Common Dolphin
+Northern Right Whale Dolphin
+Southern Right Whale Dolphin
+--- 4
+Pygmy Sperm Whale
+Dwarf Sperm Whale
+Cuvier's Beaked Whale | goose-beaked whale
+Baird's Beaked Whale
+Arnoux's Beaked Whale
+Blainville's Beaked Whale
+Sowerby's Beaked Whale
+True's Beaked Whale
+Gervais' Beaked Whale
+Stejneger's Beaked Whale
+Hubbs' Beaked Whale
+Gray's Beaked Whale
+Strap-toothed Whale
+Spade-toothed Whale
+Northern Bottlenose Whale
+Southern Bottlenose Whale
+Longman's Beaked Whale
+Shepherd's Beaked Whale
+Pygmy Right Whale
+Omura's Whale
+Rice's Whale
+Pygmy Blue Whale
+Antarctic Minke Whale
+Common Minke Whale
+Eden's Whale
+Burrunan Dolphin
+Indo-Pacific Bottlenose Dolphin
+Atlantic Humpback Dolphin
+Australian Humpback Dolphin
+Indian Ocean Humpback Dolphin
+Tamanend's Bottlenose Dolphin
+Araguaian River Dolphin
+Bolivian River Dolphin
+Black Porpoise
+Yangtze Finless Porpoise
+Indo-Pacific Finless Porpoise
+Ramari's Beaked Whale
+Deraniyagala's Beaked Whale
+Andrews' Beaked Whale
+Ginkgo-toothed Beaked Whale
+Hector's Beaked Whale
+Perrin's Beaked Whale
+Pygmy Beaked Whale
+Tasman Beaked Whale
+--- 5
+Basilosaurus
+Dorudon
+Ambulocetus
+Pakicetus
+Rodhocetus
+Maiacetus
+Kutchicetus
+Remingtonocetus
+Indohyus
+Livyatan
+Squalodon
+Kentriodon
+Odobenocetops
+Janjucetus
+Mammalodon
+Aetiocetus
+Llanocetus
+Cetotherium
+Herpetocetus
+Eobalaenoptera
+
+=== primates
+title: Primates
+prompt: Name as many primates (apes, monkeys, lemurs and more) as you can
+starcore: Aye-aye
+--- 1
+Gorilla
+Chimpanzee | chimp
+Orangutan
+Monkey
+Baboon
+Human | humans
+--- 2
+Bonobo
+Gibbon
+Lemur
+Mandrill
+Macaque
+Capuchin
+Howler Monkey | howler
+Spider Monkey
+Squirrel Monkey
+Marmoset
+Tamarin | golden lion tamarin | cotton-top tamarin
+Proboscis Monkey
+Snow Monkey | japanese macaque
+Rhesus Monkey | rhesus macaque
+Colobus | colobus monkey
+Langur
+Tarsier
+Loris | slow loris
+Aye-aye
+Bush Baby | galago
+Siamang
+Golden Snub-nosed Monkey | snub-nosed monkey
+Gelada
+Vervet Monkey | vervet
+Silverback
+--- 3
+Mountain Gorilla
+Western Lowland Gorilla
+Eastern Gorilla
+Cross River Gorilla
+Bornean Orangutan
+Sumatran Orangutan
+Tapanuli Orangutan
+Hamadryas Baboon
+Olive Baboon
+Chacma Baboon
+Yellow Baboon
+Guinea Baboon
+Drill
+Barbary Macaque | barbary ape
+Crab-eating Macaque | long-tailed macaque
+Pig-tailed Macaque
+Lion-tailed Macaque
+Bonnet Macaque
+Stump-tailed Macaque
+Crested Black Macaque | celebes crested macaque
+Tibetan Macaque
+Toque Macaque
+Moor Macaque
+Hanuman Langur | gray langur
+Golden Langur
+Silvery Lutung | silvered leaf monkey
+Dusky Leaf Monkey | spectacled langur
+Douc | red-shanked douc
+Black Snub-nosed Monkey
+Tonkin Snub-nosed Monkey
+Nilgiri Langur
+Purple-faced Langur
+Francois' Langur
+Black-and-white Colobus
+Red Colobus
+Guereza
+--- 4
+Patas Monkey
+De Brazza's Monkey
+Diana Monkey
+Mona Monkey
+Blue Monkey
+Red-tailed Monkey
+L'Hoest's Monkey
+Golden Monkey
+Talapoin
+Mangabey
+Grey-cheeked Mangabey
+Sooty Mangabey
+Kipunji
+Allen's Swamp Monkey
+Owl Monkey | night monkey | douroucouli
+Titi Monkey
+Saki | white-faced saki
+Uakari | bald uakari
+Bearded Saki
+Woolly Monkey
+Muriqui | woolly spider monkey
+Black Howler
+Red Howler
+Mantled Howler
+Golden-headed Lion Tamarin
+Black Lion Tamarin
+Emperor Tamarin
+Saddleback Tamarin
+Pygmy Marmoset
+Common Marmoset
+Black-tufted Marmoset
+Goeldi's Monkey
+Tufted Capuchin
+White-faced Capuchin
+Lar Gibbon | white-handed gibbon
+Hoolock Gibbon
+Crested Gibbon
+Agile Gibbon
+Pileated Gibbon
+Kloss's Gibbon
+Ring-tailed Lemur
+Sifaka | verreaux's sifaka
+Indri
+Mouse Lemur
+Bamboo Lemur
+Ruffed Lemur | black-and-white ruffed lemur | red ruffed lemur
+Brown Lemur
+Black Lemur
+Crowned Lemur
+Mongoose Lemur
+Sportive Lemur
+Woolly Lemur
+Dwarf Lemur
+Fork-marked Lemur
+Potto
+Angwantibo
+Slender Loris
+Pygmy Slow Loris
+Spectral Tarsier
+Philippine Tarsier
+Senegal Bushbaby
+Greater Galago | thick-tailed bushbaby
+Dwarf Galago
+Needle-clawed Galago
+Lesser Galago
+--- 5
+Gigantopithecus
+Australopithecus
+Lucy
+Homo Erectus
+Neanderthal | homo neanderthalensis
+Denisovan
+Homo Habilis
+Homo Floresiensis | hobbit
+Paranthropus
+Ardipithecus
+Sahelanthropus
+Proconsul
+Dryopithecus
+Sivapithecus
+Megaladapis
+Archaeoindris
+Palaeopropithecus
+Hadropithecus
+Darwinius
+Notharctus

@@ -1,192 +1,167 @@
-=== fruits
-title: Fruits
-prompt: Name as many fruits as you can
-starcore: Rambutan
----
-Apple
-Banana
-Orange
-Grape
-Strawberry
-Blueberry
-Raspberry
-Blackberry
-Cherry
-Peach
-Pear
-Plum
-Mango
-Pineapple
-Watermelon
-Cantaloupe
-Honeydew
-Melon
-Kiwi | kiwifruit
-Lemon
-Lime
-Grapefruit
-Tangerine
-Clementine
-Mandarin
-Apricot
-Nectarine
-Pomegranate
-Papaya
-Coconut
-Avocado
-Fig @2
-Date @2
-Cranberry
-Gooseberry
-Currant | blackcurrant | redcurrant
-Elderberry
-Mulberry
-Boysenberry
-Huckleberry
-Lingonberry
-Cloudberry
-Passion Fruit @3
-Guava
-Lychee | litchi
-Dragon Fruit | pitaya
-Star Fruit | carambola @3
-Persimmon
-Quince
-Kumquat
-Tomato
-Olive
-Jackfruit
-Durian
-Rambutan
-Mangosteen
-Longan
-Loquat
-Plantain
-Soursop | guanabana
-Cherimoya | custard apple
-Feijoa
-Tamarind
-Yuzu
-Pomelo
-Ugli Fruit
-Blood Orange @3
-Medlar
-Salak | snake fruit
-Ackee
-Breadfruit
-Jabuticaba
-Physalis | ground cherry | cape gooseberry
-Acai
-Goji Berry | goji
-Rhubarb
-Cucumber
-Pumpkin @2
-Sapodilla
-Miracle Fruit
-Marionberry
-Sloe
-Damson
-Bilberry
-Prickly Pear
-Horned Melon | kiwano
+# Food and drink. Tiers: 1 = almost everyone names it, 5 = deep cut.
 
-=== vegetables
-title: Vegetables
-prompt: Name as many vegetables as you can
-starcore: Romanesco
----
-Carrot
-Potato
-Onion
-Garlic
-Tomato
-Lettuce
-Spinach
-Broccoli
-Cauliflower
-Cabbage
-Celery
-Cucumber
-Pepper | bell pepper | capsicum
-Corn | maize | sweetcorn
-Peas | pea
-Green Beans | beans | string beans
-Zucchini | courgette
-Eggplant | aubergine
-Pumpkin @2
-Squash | butternut squash
-Sweet Potato
-Yam
-Radish
-Beet | beetroot
-Turnip
-Parsnip
-Rutabaga | swede
-Kale
-Brussels Sprouts | brussel sprouts | sprouts
-Asparagus
-Artichoke
-Leek
-Shallot
-Scallion | green onion | spring onion
-Mushroom
-Okra
-Bok Choy | pak choi
-Chard | swiss chard
-Collard Greens | collards
-Arugula | rocket
-Watercress
-Endive
-Radicchio
-Fennel
-Kohlrabi
-Celeriac
-Jicama
-Daikon
-Ginger
-Horseradish
-Jerusalem Artichoke | sunchoke
-Taro
-Cassava | yuca | manioc
-Lotus Root
-Bamboo Shoots
-Water Chestnut
-Edamame
-Snow Peas | mangetout
-Chickpeas | garbanzo
-Lentils
-Jalapeño | jalapeno
-Chili | chili pepper
-Romanesco
-Salsify
-Mustard Greens
-Dandelion Greens
-Fiddlehead
-Tomatillo
-Chayote
-Bitter Melon
-Kabocha
-Sorrel
-Broccolini
-Rapini | broccoli rabe
+=== pasta
+title: Pasta shapes
+prompt: Name as many pasta shapes as you can
+starcore: Strozzapreti
+--- 1
+Spaghetti
+Penne
+Macaroni | elbow macaroni | elbows
+Lasagna | lasagne
+Ravioli
+Fettuccine | fettucine
+Linguine | linguini
+--- 2
+Rigatoni
+Fusilli
+Tortellini
+Farfalle | bow tie | bowtie | bow ties
+Rotini
+Angel Hair | capellini
+Ziti
+Gnocchi
+Orzo
+Shells | conchiglie | pasta shells
+Tagliatelle
+Vermicelli
+Manicotti
+Cannelloni
+--- 3
+Pappardelle
+Bucatini
+Orecchiette
+Cavatappi
+Ditalini
+Tortelloni
+Gemelli
+Campanelle
+Radiatori
+Rotelle | wagon wheels | ruote
+Stelline | stars
+Acini di Pepe
+Alphabet Pasta | alphabets | alfabeto
+Conchiglioni | jumbo shells
+Spaghettini
+Mostaccioli
+Paccheri
+Tubetti
+Agnolotti
+Cappelletti
+Pastina
+Egg Noodles
+Lasagnette
+--- 4
+Casarecce
+Cavatelli
+Trofie
+Fregola | fregula
+Mafaldine | mafalda
+Garganelli
+Pici
+Bigoli
+Lumache | lumaconi
+Sedanini | sedani
+Calamarata | calamari pasta
+Strozzapreti
+Tagliolini | taglierini
+Anelli | anelletti
+Fideo | fideos
+Ziti Rigati
+Penne Rigate
+Fusilli Lunghi
+Fusilloni
+Rigatoni Rigati
+Tortiglioni
+Candele
+Ditali
+Gramigna
+Lancette
+Mezze Maniche
+Mezzi Rigatoni
+Mezzelune
+Quadretti
+Risoni
+Pipe Rigate | pipette
+Orecchie
+Spaccatelle
+Cencioni
+Scialatielli
+Trenette
+Bavette
+Linguettine
+Vermicelloni
+Cappellacci
+Sorpresine
+--- 5
+Pizzoccheri
+Malloreddus | gnocchetti sardi
+Corzetti | croxetti
+Lorighittas
+Busiate
+Cicatelli
+Culurgiones
+Filini
+Foglie d'Ulivo
+Gigli
+Lagane
+Maltagliati
+Passatelli
+Pastina Stelle
+Pennoni
+Pansotti
+Pillus
+Sagne
+Strangozzi
+Stringozzi
+Testaroli
+Tajarin
+Tortelli
+Umbricelli
+Zitoni
+Ziti Tagliati
+Marille
+Creste di Gallo | cresti di gallo
+Chifferi
+Canestri
+Capunti
+Caserecci
+Fazzoletti
+Spirali
+Reginette
+Lumachine
+Orzo Perlato
+Trofiette
+Fileja
+Gomiti
+Paccheri Rigati
+Cannolicchi
+Funghini
+Margherite
+Rombi
+Rocchetti
+Torchio | torchietti
+Vesuvio
+Radiatore
+Campanelle Rigate
+Strascinati
 
 === cheeses
 title: Cheeses
 prompt: Name as many cheeses as you can
 starcore: Casu Marzu
----
+--- 1
 Cheddar
 Mozzarella
 Parmesan | parmigiano reggiano | parmigiano
-Swiss
+Swiss | swiss cheese
 Brie
-Camembert
-Gouda
 Feta
-Blue Cheese | bleu cheese
-Gorgonzola
-Roquefort
-Stilton
+American | american cheese
+--- 2
+Gouda
+Blue Cheese | bleu cheese | blue
+Camembert
 Ricotta
 Cream Cheese
 Cottage Cheese
@@ -194,295 +169,2916 @@ Provolone
 Monterey Jack | jack
 Pepper Jack
 Colby
+Colby Jack
+Goat Cheese | chevre | chèvre
+Gorgonzola
 Havarti
-Edam
-Emmental | emmentaler
-Gruyère | gruyere
-Manchego
+Mascarpone
+String Cheese
+Velveeta
+Muenster | munster
 Halloumi
 Paneer
-Mascarpone
+--- 3
+Gruyère | gruyere
+Roquefort
+Stilton
+Edam
+Emmental | emmentaler
+Manchego
 Burrata
-Pecorino | pecorino romano
+Pecorino | pecorino romano | romano
 Asiago
 Fontina
-Taleggio
-Muenster | munster
 Limburger
-Raclette
-Comté | comte
-Reblochon
-Époisses | epoisses
-Pont-l'Évêque | pont leveque
-Boursin
-Chèvre | chevre | goat cheese
-Wensleydale
-Red Leicester
-Double Gloucester
-Caerphilly
-Lancashire
-Jarlsberg
-Gjetost | brunost
 Queso Fresco
 Cotija
 Oaxaca
-Paneer
-Labneh
-Mimolette
+Boursin
+Babybel
+Jarlsberg
+Wensleydale
+Red Leicester
+Double Gloucester
+Grana Padano
+Provolone Piccante
+Raclette
+Comté | comte
 Port Salut
+Neufchâtel | neufchatel
+Labneh
+Queso Blanco
+Mizithra
+Bocconcini
+Stracciatella
+Smoked Gouda
+Farmer Cheese | farmers cheese
+Quark
+--- 4
+Taleggio
+Reblochon
+Époisses | epoisses
+Pont-l'Évêque | pont leveque
 Saint Agur
 Cambozola
 Leerdammer
-American Cheese | american
-Velveeta
-String Cheese
-Burgos
-Idiazabal
-Casu Marzu
-Stracciatella
+Mimolette
+Caerphilly
+Lancashire
+Cheshire
+Red Windsor
+Gjetost | brunost
+Gamalost
+Jack Cheese
 Scamorza
 Caciocavallo
-Grana Padano
+Montasio
+Castelmagno
+Robiola
+Stracchino
+Crescenza
+Burgos
+Idiazabal
+Mahón | mahon
+Tetilla
+Cabrales
+Valdeón | valdeon
+Roncal
+Zamorano
+Queso de Bola
+Kefalotyri
+Kasseri
+Graviera
+Manouri
+Anthotyros
+Akkawi
+Nabulsi
+Sulguni
+Bryndza
+Oscypek
+Tilsit
+Tilsiter
+Butterkäse | butterkase
+Bergkäse | bergkase
+Cantal
+Saint-Nectaire | saint nectaire
+Morbier
+Tomme
+Tomme de Savoie
+Beaufort
+Abondance
+Banon
+Valençay | valencay
+Crottin de Chavignol | crottin
+Sainte-Maure | sainte maure de touraine
+Fourme d'Ambert
+Bleu d'Auvergne
+Bleu de Gex
+Munster-Géromé
+Vacherin
+Vacherin Mont d'Or | mont dor
+Appenzeller
+Tête de Moine | tete de moine
+Sbrinz
+Gorgonzola Dolce
+Ossau-Iraty | ossau iraty
+Brillat-Savarin | brillat savarin
+Chaource
+Langres
+Maroilles
+Livarot
+Neufchâtel Cheese
+Saint-Marcellin
+Explorateur
+Coulommiers
+Saint-Paulin
+--- 5
+Casu Marzu
 Wagasi
+Chhena | chenna
+Kalari
+Chhurpi
+Dahi Chhena
+Juustoleipä | juustoleipa | bread cheese
+Leipäjuusto | leipajuusto
+Prästost | prastost
+Västerbottensost | vasterbotten
+Herrgårdsost | herrgard
+Danbo
+Havarti Dill
+Esrom
+Danablu | danish blue
+Samsø | samso
+Mycella
+Nøkkelost | nokkelost
+Jarlsberg Special
+Pultost
+Tête de Moine Rosette
+Bitto
+Puzzone di Moena
+Fiore Sardo
+Pecorino Sardo
+Ragusano
+Piave
+Asiago Pressato
+Bra
+Murazzano
+Toma
+Raschera
+Bettelmatt
+Formaggio di Fossa
+Ubriaco
+Bagòss | bagoss
+Stilton White
+Shropshire Blue
+Stinking Bishop
+Cornish Yarg | yarg
+Dorset Blue Vinny | blue vinney
+Lincolnshire Poacher
+Beenleigh Blue
+Gubbeen
+Cashel Blue
+Durrus
+Ardrahan
+Coolea
+Torta del Casar
+Queso Majorero | majorero
+Afuega'l Pitu
+Picón Bejes-Tresviso | picon
+Gamonedo
+Serra da Estrela
+Queijo de Azeitão | azeitao
+Queijo São Jorge | sao jorge
+Queijo Minas | minas
+Requeijão | requeijao
+Queso Chihuahua | chihuahua cheese
+Queso Panela | panela
+Queso Añejo | anejo
+Kashkaval
+Sirene
+Beyaz Peynir
+Tulum
+Lor
+Mihaliç | mihalic
+Chechil
+Brânză | branza
+Telemea
+Urdă | urda
+Liptauer
+Olomoucké tvarůžky | olomouc cheese
+Pecorino Toscano
+Vastedda
+Provola
+Casizolu
+Bleu des Causses
+Selles-sur-Cher
+Pouligny-Saint-Pierre
+Mothais sur Feuille
+Pélardon | pelardon
+Rocamadour
+Picodon
+Salers
+Laguiole
+Mont des Cats
+Vieux Lille
+Boulette d'Avesnes
+Rollot
+Époisses de Bourgogne
+Soumaintrain
+Affidélice
+Bouton de Culotte
+Chabichou
+Humboldt Fog
+Teleme
+Brick Cheese | brick
+Liederkranz
+Pinconning
+Cougar Gold
+Maytag Blue
+Bayley Hazen Blue
 
-=== pasta
-title: Pasta shapes
-prompt: Name as many pasta shapes as you can
-starcore: Strozzapreti
----
-Spaghetti
-Penne
-Fusilli
-Macaroni | elbow macaroni
-Linguine
-Fettuccine
-Lasagna | lasagne
-Ravioli
-Tortellini
-Rigatoni
-Farfalle | bow tie | bowtie
-Rotini
-Orzo
-Gnocchi
-Tagliatelle
-Pappardelle
-Ziti
-Cannelloni
-Manicotti
-Angel Hair | capellini
-Vermicelli
-Bucatini
-Orecchiette
-Conchiglie | shells
-Cavatappi
-Ditalini
-Rotelle | wagon wheels
-Gemelli
-Campanelle
-Radiatori
-Paccheri
-Tortelloni
-Agnolotti
-Cappelletti
-Mafaldine
-Trofie
-Strozzapreti
-Casarecce
-Cavatelli
-Fregola
-Stelline
-Anelli
-Acini di Pepe
-Bigoli
-Pici
-Garganelli
-Lumache
-Mezzelune
-Sedanini
-Tubetti
-Ziti Rigati
-Pastina
-Alphabet Pasta | alphabets
-Fideo
-Pizzoccheri
-Malloreddus
-Corzetti
-Scialatielli
-Spaghettini
-Tagliolini
-Calamarata
+=== breads
+title: Breads
+prompt: Name as many kinds of bread as you can
+starcore: Pão de Queijo
+--- 1
+Sourdough
+Bagel
+Baguette
+Croissant
+White Bread
+Whole Wheat | wheat bread | whole wheat bread
+Rye | rye bread
+--- 2
+Pita
+Naan
+Tortilla
+Brioche
+Ciabatta
+Focaccia
+Cornbread
+Banana Bread
+Biscuit | biscuits
+English Muffin
+Pretzel | soft pretzel
+Garlic Bread
+Pumpernickel
+Multigrain
+Challah
+Dinner Roll | rolls | roll
+Bun | buns
+Hamburger Bun
+Hot Dog Bun
+Flatbread
+Toast
+Muffin
+Scone
+Breadstick | breadsticks
+Croutons
+Texas Toast
+Potato Bread
+Hawaiian Roll | hawaiian bread
+Zucchini Bread
+Monkey Bread
+Cinnamon Roll
+Soda Bread | irish soda bread
+French Bread
+Italian Bread
+Raisin Bread
+--- 3
+Ciabatta Roll
+Kaiser Roll
+Hoagie Roll
+Sub Roll
+Brown Bread
+Granary
+Seeded Bread
+Oat Bread
+Milk Bread | hokkaido milk bread | shokupan
+Panettone
+Stollen
+Pandoro
+Babka
+Bialy
+Lavash
+Matzo | matzah | matza
+Chapati | chapatti
+Roti
+Paratha
+Puri | poori
+Bhatura
+Arepa
+Injera
+Crumpet
+Pikelet
+Sandwich Loaf
+Hot Cross Bun
+Fruit Loaf
+Malt Loaf
+Teacake
+Bap
+Barm Cake | barm
+Cob
+Bloomer
+Farl
+Popover
+Yorkshire Pudding
+Johnnycake | johnny cake
+Hush Puppy | hush puppies
+Spoon Bread
+Sally Lunn
+Pan Dulce
+Concha
+Bolillo
+Telera
+Bao | steamed bun | baozi
+Mantou
+Pain de Mie
+Pain au Chocolat
+Fougasse
+Ficelle
+Boule
+Batard
+Pain de Campagne
+Pullman Loaf
+Vienna Bread
+Kulich
+Paska
+Tsoureki
+Pide
+Simit
+Lahmajoun | lahmacun
+Ka'ak | kaak
+Pan de Sal | pandesal
+Pan de Coco
+Pão de Queijo | cheese bread | pao de queijo
+Pão Francês | pao frances
+Chipa
+Frybread | fry bread
+Bannock
+Damper
+Puff Puff
+Mandazi
+Chorreada
+Sangak
+Barbari
+Taftoon
+Khubz
+Kulcha
+Appam
+Dosa
+Uttapam
+Thepla
+Bhakri
+Luchi
+Sheermal
+Taboon
+--- 4
+Vollkornbrot
+Bauernbrot
+Brötchen | brotchen
+Laugenbrezel
+Zopf
+Hefezopf
+Schwarzbrot
+Roggenbrot
+Knäckebröd | knackebrod | crispbread
+Limpa
+Rugbrød | rugbrod
+Flatbrød | flatbrod
+Lefse
+Hapankorppu
+Ruisleipä | ruisleipa
+Karjalanpiirakka | karelian pasty
+Borodinsky | borodinsky bread
+Lepinja
+Pogača | pogaca
+Somun
+Kifli
+Kalach
+Lángos | langos
+Pogácsa | pogacsa
+Bajgiel
+Obwarzanek
+Chleb
+Rosca de Reyes
+Pan de Muerto
+Cemita
+Pambazo
+Birote
+Marraqueta
+Hallulla
+Pan Amasado
+Pan Bati
+Michetta
+Rosetta
+Pane Carasau | carta da musica
+Piadina
+Tigella
+Crescentina
+Grissini
+Taralli
+Friselle
+Pane di Altamura
+Coppia Ferrarese
+Pane Toscano
+Ciabattina
+Schiacciata
+Pinsa
+Pan Gallego
+Pan de Cristal
+Mollete
+Pan de Payés
+Bica
+Broa
+Bolo do Caco
+Regueifa
+Pão de Ló | pao de lo
+Bammy
+Coco Bread
+Hard Dough Bread | hardo bread
+Roti Canai
+Roti John
+Kaya Toast
+Youtiao
+Shaobing
+Cong You Bing | scallion pancake
+Lavash Lahvosh
+Markook | saj bread
+Manakish | manakeesh
+Kesra
+Khobz
+Msemen
+Harcha
+Batbout
+Matlouh
+Malawach
+Jachnun
+Kubaneh
+Lafa
+Ciabatta Integrale
+Anpan
+Melonpan | melon pan
+Krentenbol
+Ontbijtkoek
+Pain d'Épices | pain depices
+Cramique
+Craquelin
+Pistolet
+Mitraillette
+Kringle
+Wienerbrød
+--- 5
+Pão de Queijo Mineiro
+Paximadi
+Eliopsomo
+Lagana
+Koulouri
+Boortsog
+Tandyr Nan
+Lepyoshka
+Tonis Puri
+Shotis Puri
+Khachapuri
+Matnakash
+Jingalov Hats
+Gata
+Pasca
+Colac
+Cozonac
+Covrigi
+Pita Bread Pocket
+Pane Nero di Castelvetrano
+Pane di Matera
+Pane di Genzano
+Pan Carré
+Mafalda Bread
+Mufuletta | muffuletta
+Pan Cubano | cuban bread
+Pan de Agua
+Pan Sobao
+Mallorca | pan de mallorca
+Pan de Yuca
+Cassava Bread | casabe
+Bammie
+Johnny Bread
+Salt Bread | salt rising bread
+Anadama Bread | anadama
+Boston Brown Bread
+Sally Lunn Bun
+Stottie Cake | stottie
+Oatcake
+Bara Brith
+Barmbrack | barm brack
+Blaa
+Boxty
+Potato Farl
+Wheaten Bread
+Selkirk Bannock
+Butteries | rowies
+Saffron Bun | saffron bread
+Lussekatt | lussebulle
+Semla
+Vörtbröd | vortbrod
+Tunnbröd | tunnbrod
+Polarbröd
+Rieska
+Karjalanpiirakat
+Kuchen
+Dampfnudel
+Fladenbrot
+Pumpernickel Westphalian
+Kommissbrot
+Weckle
+Kipferl
+Mohnflesserl
+Kornspitz
+Salzstangerl
+Breze
+
+=== cocktails
+title: Cocktails
+prompt: Name as many cocktails as you can
+starcore: Corpse Reviver
+--- 1
+Margarita
+Martini
+Mojito
+Piña Colada | pina colada
+Cosmopolitan | cosmo
+Old Fashioned
+--- 2
+Manhattan
+Daiquiri
+Bloody Mary
+Mai Tai
+Long Island Iced Tea | long island
+Moscow Mule
+Whiskey Sour | whisky sour
+Negroni
+Tequila Sunrise
+Gin and Tonic | gin tonic
+Screwdriver
+Mimosa
+Sex on the Beach
+Espresso Martini
+Aperol Spritz | spritz
+White Russian
+Black Russian
+Paloma
+Caipirinha
+Sangria
+Bellini
+Irish Coffee
+Rum and Coke | cuba libre
+Mint Julep
+Tom Collins
+Gimlet
+Sidecar
+Hurricane
+Blue Lagoon
+Lemon Drop
+Appletini | apple martini
+Dirty Martini
+Michelada
+Fuzzy Navel
+Kamikaze
+Mudslide
+Grasshopper
+Bahama Mama
+Zombie
+Painkiller
+Dark and Stormy | dark n stormy
+Salty Dog
+Greyhound
+Tequila Shot
+Jager Bomb | jagerbomb
+Rusty Nail
+--- 3
+Sazerac
+Aviation
+French 75
+Mai Tai Royale
+Boulevardier
+Amaretto Sour
+Pisco Sour
+Sea Breeze
+Bay Breeze
+Cape Codder
+Madras
+Harvey Wallbanger
+Godfather
+Godmother
+Stinger
+Brandy Alexander | alexander
+Pink Lady
+Singapore Sling
+Planter's Punch | planters punch
+Gin Fizz
+Ramos Gin Fizz
+Rob Roy
+Bramble
+Hot Toddy
+Eggnog
+Mulled Wine
+Kir
+Kir Royale
+Americano
+Vesper
+Gibson
+Last Word
+Paper Plane
+Penicillin
+Clover Club
+Bee's Knees | bees knees
+Southside | south side
+Gin Rickey | rickey
+John Collins
+Vodka Martini
+Lychee Martini
+Pornstar Martini
+French Martini
+Chocolate Martini
+Sex on the Beach Shot
+B-52 | b52
+Tequila Slammer
+Mind Eraser
+Slippery Nipple
+Buttery Nipple
+Lemon Meringue
+Hanky Panky
+Blue Hawaiian
+Scorpion
+Navy Grog
+Jungle Bird
+Fog Cutter
+Daiquiri Frozen | frozen daiquiri
+Strawberry Daiquiri
+Frozen Margarita
+Spicy Margarita
+Tommy's Margarita | tommys margarita
+Ranch Water
+El Diablo
+Vieux Carré | vieux carre
+Brooklyn
+Jack Rose
+Bloody Caesar | caesar
+Dirty Shirley
+Shirley Temple
+Arnold Palmer
+Sex Panther
+Woo Woo
+Hugo | hugo spritz
+Limoncello Spritz
+Bicicletta
+Sbagliato | negroni sbagliato
+Garibaldi
+Cuba Libre Especial
+Batida
+Caipiroska
+Mezcal Margarita
+Tinto de Verano
+Rebujito
+Kalimotxo | kalimotxo | calimocho
+Snakebite
+Black Velvet
+Boilermaker
+Shandy | radler
+Lager Top
+Pimm's Cup | pimms | pimms cup
+Gin Gin Mule
+Kentucky Mule
+Mexican Mule
+London Mule
+Whiskey Smash
+Brandy Crusta
+Champagne Cocktail
+Sherry Cobbler
+Cobbler
+Flip
+Fizz
+Sour
+Toddy
+--- 4
+Corpse Reviver | corpse reviver no 2 | corpse reviver 2
+Corpse Reviver No. 1
+Hemingway Daiquiri | papa doble
+Martinez
+Tuxedo
+Bijou
+Monkey Gland
+Blood and Sand
+Bobby Burns
+Rusty Bob
+Gold Rush
+Brown Derby
+Old Pal
+Toronto
+Remember the Maine
+Ward Eight
+Mary Pickford
+El Presidente
+Floridita
+Hotel Nacional
+Mojito Royale
+Cable Car
+Between the Sheets
+Japanese Cocktail
+Widow's Kiss
+Blinker
+Scofflaw
+Seelbach
+Improved Whiskey Cocktail
+Whiskey Daisy
+Daisy
+Fix
+Sangaree
+Bishop
+Negus
+Syllabub
+Wassail
+Posset
+Sack Posset
+Bumbo
+Grog
+Rum Swizzle | swizzle
+Queen's Park Swizzle
+Ti' Punch | ti punch
+Mojito Cubano
+Cuba Libre Clásico
+Canchanchara
+Saturn
+Three Dots and a Dash
+Missionary's Downfall
+Suffering Bastard
+Test Pilot
+Port Light
+Pearl Diver
+Mutiny
+Trader Vic Grog
+Royal Hawaiian
+Pegu Club
+Chartreuse Swizzle
+Naked and Famous
+Oaxaca Old Fashioned
+Division Bell
+Trinidad Sour
+Benton's Old Fashioned
+Final Ward
+Industry Sour
+Bitter Giuseppe
+Jasmine
+Gin Basil Smash
+Cosmonaut
+Siesta
+Gunshop Fizz
+Chet Baker
+Cooper Union
+Red Hook
+Greenpoint
+Little Italy
+Bensonhurst
+Revolver
+Paper Plane Variation
+Tokyo Drift
+Zombie Punch
+Planter's Rum Punch
+--- 5
+Agent Orange
+Alabama Slammer
+Alaska
+Angel Face
+Aperol Sour
+Applejack Rabbit
+Astoria
+Bamboo
+Barbary Coast
+Blackthorn
+Bloodhound
+Bronx
+Brandy Daisy
+Champs-Élysées | champs elysees
+Charlie Chaplin
+Chrysanthemum
+Claridge
+Coffee Cocktail
+Commodore
+Cuban Manhattan
+Delmonico
+Derby
+Diamondback
+East India
+Emerald
+Fancy Free
+Fish House Punch
+Fluffy Duck
+Golden Dawn
+Hanky Panky Royale
+Harvard
+Honeymoon
+Income Tax
+Journalist
+Leap Year
+Liberal
+Lucien Gaudin
+Marconi Wireless
+Martinique
+Metropole
+Mexican Firing Squad
+Millionaire
+Morning Glory Fizz
+Negroni Bianco
+Opera
+Palmetto
+Pan American
+Pink Gin
+Prince Edward
+Queen Elizabeth
+Rattlesnake
+Rose
+Royal Bermuda Yacht Club
+Satan's Whiskers
+Saratoga
+Sherry Flip
+Silver Fizz
+Sloe Gin Fizz
+Stone Fence
+Suburban
+Tipperary
+Trident
+Twentieth Century
+Valencia
+Vieux Mot
+White Lady
+Yale
+Zaza
+
+=== cakes
+title: Cakes
+prompt: Name as many kinds of cake as you can
+starcore: Prinsesstårta
+--- 1
+Chocolate Cake
+Cheesecake
+Carrot Cake
+Red Velvet | red velvet cake
+Birthday Cake
+Vanilla Cake
+--- 2
+Pound Cake
+Angel Food Cake | angel cake
+Sponge Cake
+Black Forest | black forest cake | black forest gateau
+Tiramisu
+Lava Cake | molten chocolate cake | chocolate lava cake
+Funnel Cake
+Coffee Cake
+Fruitcake | fruit cake
+Bundt Cake | bundt
+Cupcake | cupcakes
+Ice Cream Cake
+Upside Down Cake | pineapple upside down cake
+Lemon Cake | lemon drizzle
+Strawberry Shortcake | shortcake
+Tres Leches | tres leches cake
+German Chocolate Cake
+Boston Cream Pie
+Wedding Cake
+Marble Cake
+Yellow Cake
+Devil's Food Cake | devils food cake
+Coconut Cake
+Banana Cake
+Crumb Cake
+Layer Cake
+Sheet Cake
+Cake Pops
+Spice Cake
+Rum Cake
+Chiffon Cake
+Mug Cake
+--- 3
+Victoria Sponge | victoria sandwich
+Swiss Roll | jelly roll | roulade
+Battenberg
+Madeira Cake | madeira
+Genoise | génoise
+Opera Cake | opera
+Sachertorte | sacher torte | sacher
+Dobos Torte | dobos
+Baked Alaska
+Mille-feuille | napoleon | mille feuille
+Charlotte
+Hummingbird Cake
+Italian Cream Cake
+Lady Baltimore Cake
+Smith Island Cake
+Mississippi Mud Cake | mud cake
+Texas Sheet Cake
+Tunnel of Fudge
+Hot Milk Cake
+Butter Cake
+Gooey Butter Cake
+Kentucky Butter Cake
+Orange Cake
+Almond Cake
+Olive Oil Cake
+Polenta Cake
+Ricotta Cake
+Lamington
+Pavlova
+Dundee Cake
+Simnel Cake
+Eccles Cake
+Lardy Cake
+Jaffa Cake
+Parkin
+Ginger Cake | gingerbread cake
+Christmas Cake
+Yule Log | bûche de noël | buche de noel
+King Cake | galette des rois
+Stollen
+Panettone
+Babka
+Kugelhopf | gugelhupf | kouglof
+Madeleine | madeleines
+Financier | financiers
+Petit Four | petit fours
+Fraisier
+Entremet | entremets
+Castella
+Mooncake | moon cake
+Chiffon
+Japanese Cheesecake | cotton cheesecake
+Basque Cheesecake | burnt basque cheesecake
+New York Cheesecake
+Rainbow Cake
+Funfetti | funfetti cake
+Drip Cake
+Naked Cake
+Smash Cake
+Piñata Cake | pinata cake
+Tiered Cake
+Poke Cake
+Dump Cake
+Icebox Cake
+Cookie Cake
+Brownie Cake
+Molten Cake
+Flourless Chocolate Cake
+Torta Caprese
+Bienenstich | bee sting cake
+Frankfurter Kranz
+Käsekuchen | kasekuchen
+Streuselkuchen
+Baumkuchen
+Prinzregententorte
+Linzer Torte | linzertorte
+Esterházy Torte | esterhazy
+Kardinalschnitte
+Princess Cake | prinsesstårta | prinsesstarta
+Kladdkaka
+Kransekake
+Queen Maud Cake
+Medovik | honey cake
+Napoleon Torte
+Bird's Milk Cake | ptichye moloko
+Krembo
+Kasutera
+Bolo de Rolo
+Bolo de Cenoura
+Brigadeiro Cake
+Torta de Tres Leches
+Pastel de Nata | pasteis de nata
+Bolo Rei
+Pão de Ló
+--- 4
+Tarta de Santiago
+Bizcocho
+Ensaïmada | ensaimada
+Pionono
+Torta Paradiso
+Torta della Nonna
+Zuccotto
+Cassata
+Pastiera
+Ciambellone
+Margherita Cake
+Panforte
+Castagnaccio
+Sbrisolona
+Colomba
+Pandoro
+Bolo Souza
+Dacquoise
+Marjolaine
+Succès
+Trianon
+Royal | royal chocolat
+Saint-Honoré | st honore
+Paris-Brest | paris brest
+Kouign-amann | kouign amann
+Far Breton
+Gâteau Basque | gateau basque
+Gâteau Breton
+Clafoutis
+Quatre-Quarts | quatre quarts
+Galette Bretonne
+Moelleux
+Fondant
+Gâteau Marjolaine
+Torta Sacher
+Rigó Jancsi
+Zserbó | zserbo
+Krempita
+Kremšnita | kremsnita
+Sernik
+Makowiec
+Karpatka
+Wuzetka
+Mazurek
+Babka Wielkanocna
+Kyiv Cake | kiev cake
+Prague Cake
+Smetannik
+Kartoshka
+Revani
+Basbousa | basbusa
+Namoura
+Sfouf
+Ghoriba
+Halwa Cake
+Bolu
+Kue Lapis | lapis legit
+Pandan Cake
+Ondeh Ondeh Cake
+Bánh Bò | banh bo
+Mochi Cake
+Ube Cake
+Mamon
+Brazo de Mercedes
+Sans Rival
+Silvanas
+Black Cake
+Bolo Preto
+Jamaican Rum Cake
+Pineapple Cake
+Butter Mochi
+Haupia Cake
+Chantilly Cake
+Doberge Cake
+Hummingbird
+Lane Cake
+Stack Cake
+Japanese Fruitcake
+Moravian Sugar Cake
+Shoofly Cake
+Pig Pickin' Cake
+Watergate Cake
+Wacky Cake | depression cake
+Tomato Soup Cake
+Mayonnaise Cake
+Election Cake
+Twinkie Cake
+--- 5
+Sharlotka
+Napoleonka
+Kremówka | kremowka
+Šakotis | sakotis
+Spettekaka
+Tosca Cake | toscakaka
+Kvæfjordkake | kvaefjordkake
+Suksessterte
+Othellolagkage
+Drømmekage | drommekage
+Brunsviger
+Lagkage
+Fyrstekake
+Runebergintorttu | runeberg torte
+Mämmi Cake
+Vínarterta | vinarterta
+Hjónabandssæla
+Punschkrapfen
+Sachertorte Original
+Malakofftorte
+Topfentorte
+Gerbeaud
+Somlói Galuska
+Kürtőskalács | chimney cake
+Krofne
+Ravani
+Tulumba Cake
+Vasilopita
+Karidopita
+Portokalopita
+Melopita
+Galaktoboureko
+Kunafa Cake
+Mafroukeh
+Meskouta
+Gâteau Nantais
+Gâteau Opéra
+Gâteau de Savoie
+Gâteau Saint-Honoré
+Fiadone
+Pithivier | pithiviers
+Bûche de Noël Glacée
+Torta Mimosa
+Torta Barozzi
+Torta Pistocchi
+Torta Tenerina
+Bustrengo
+Spongata
+Bensone
+Torta Sbrisolona
+Gubana
+Presnitz
+Putizza
+Torta Delizia
+Delizia al Limone
 
 === herbs-spices
 title: Herbs and spices
 prompt: Name as many herbs and spices as you can
 starcore: Asafoetida
----
+--- 1
 Salt
 Pepper | black pepper
+Garlic | garlic powder
 Cinnamon
-Nutmeg
-Ginger
-Garlic
-Turmeric
-Cumin
-Paprika
-Oregano
 Basil
+Oregano
+Parsley
+Paprika
+--- 2
 Thyme
 Rosemary
 Sage
-Parsley
 Mint
 Dill
-Cilantro | coriander
+Cilantro | coriander | coriander leaves
 Chives
-Bay Leaf | bay
+Cumin
+Turmeric
+Ginger
+Nutmeg
+Bay Leaf | bay leaves | bay
 Cloves | clove
-Cardamom
-Saffron
-Vanilla
-Allspice
-Cayenne
+Cayenne | cayenne pepper
 Chili Powder
-Mustard Seed | mustard
-Fennel Seed | fennel
+Chili Flakes | red pepper flakes | crushed red pepper
+Onion Powder
+Vanilla
+Curry Powder
+Saffron
+Cardamom
+Allspice
+Mustard | mustard seed | mustard powder
+Italian Seasoning
+Garam Masala
+Taco Seasoning
+Lemon Pepper
+Garlic Salt
+Celery Salt
+Sea Salt
+White Pepper
+Smoked Paprika
+Pumpkin Spice
+Lavender
+Lemongrass
+Tarragon
+Marjoram
+--- 3
+Coriander Seed
+Fennel | fennel seed
 Anise | aniseed
 Star Anise
 Caraway
 Fenugreek
 Sumac
 Za'atar | zaatar
-Marjoram
-Tarragon
-Lemongrass
-Lavender
+Herbes de Provence
+Five Spice | chinese five spice
 Chervil
 Lovage
-Savory
+Savory | summer savory | winter savory
 Sorrel
 Horseradish
 Wasabi
-Sesame
+Sesame | sesame seed
 Poppy Seed
 Celery Seed
-Juniper
+Juniper | juniper berries
 Mace
 Galangal
-Kaffir Lime Leaves | makrut lime
+Kaffir Lime Leaves | makrut lime | lime leaves
 Curry Leaves
-Curry Powder
-Garam Masala
-Five Spice
-Asafoetida | hing
-Nigella | kalonji
-Ajwain
-Annatto
-Grains of Paradise
-Sichuan Pepper | szechuan pepper
-Long Pepper
+Cajun Seasoning | cajun spice
+Old Bay
+Ras el Hanout
+Berbere
+Harissa
+Baharat
+Dukkah
+Chaat Masala
+Panch Phoron
+Togarashi | shichimi togarashi
+Gochugaru
+Sichuan Pepper | szechuan pepper | sichuan peppercorn
 Pink Peppercorn
+Green Peppercorn
+Black Salt | kala namak
+Kosher Salt
+Himalayan Salt | pink salt
+Chipotle
+Ancho
+Guajillo
+Pasilla
+Aleppo Pepper
+Urfa Biber
+Espelette | piment d'espelette
+Nigella | kalonji | black seed | black cumin
+Ajwain | carom
+Annatto | achiote
+Asafoetida | hing
+Amchur | amchoor | mango powder
+Tamarind
+Kokum
 Epazote
-Shiso
+Shiso | perilla
+Thai Basil
+Holy Basil | tulsi
+Lemon Balm
+Lemon Verbena
+Bergamot
 Borage
 Hyssop
-Licorice Root | liquorice
-Smoked Paprika
-Onion Powder
-Garlic Powder
-Msg
+Rue
+Stevia
+Licorice | liquorice | licorice root
+Angelica
+Chamomile
+Peppermint
+Spearmint
+Culantro
+Vietnamese Coriander | rau ram
+Mexican Oregano
+Grains of Paradise
+Long Pepper
+Cubeb
+--- 4
+Mahlab | mahleb
+Mastic | mastiha
+Sumac Berries
+Barberry | zereshk
+Dried Lime | loomi | black lime
+Kashmiri Chili
+Bird's Eye Chili
+Piri Piri | peri peri
+Scotch Bonnet
+Habanero
+Ghost Pepper | bhut jolokia
+Carolina Reaper
+Cascabel
+Mulato
+Pequin
+Arbol | chile de arbol
+Calabrian Chili
+Tellicherry Pepper
+Sansho
+Sanshō
+Yuzu Kosho
+Kombu
+Furikake
+Gomasio
+Togarashi Ichimi | ichimi
+Shichimi
+Garam Masala Kashmiri
+Sambar Powder
+Rasam Powder
+Goda Masala
+Tandoori Masala
+Biryani Masala
+Pav Bhaji Masala
+Kitchen King
+Advieh
+Hawaij
+Bahārāt
+Tsire | suya spice
+Mitmita
+Shito
+Jerk Seasoning | jerk spice
+Adobo Seasoning
+Sazón | sazon
+Recado Rojo
+Quatre Épices | quatre epices
+Fines Herbes
+Bouquet Garni
+Persillade
+Gremolata
+Duqqa
+Tabil
+Qalat Daqqa
+Vadouvan
+Colombo Powder
+Kala Jeera | black cumin seed
+Shahi Jeera
+Radhuni
+Long Coriander
+Rau Om
+Sawtooth Coriander
+Lemon Myrtle
+Aniseed Myrtle
+Mountain Pepper | tasmanian pepper
+Wattleseed
+Bush Tomato
+Kakadu Plum
+Pandan
+Fingerroot | krachai
+Kencur
+Torch Ginger
+Salam Leaf
+Wild Garlic | ramps | ramsons
+Garlic Chives
+Hoja Santa
+Papalo
+Huacatay
+Boldo
+Achiote Paste
+Saffron Threads
+Safflower
+Calendula
+Marigold
+Orris Root
+Zedoary
+Cassia
+Ceylon Cinnamon
+Tonka Bean
+Mugwort
+Yarrow
+Woodruff
+Meadowsweet
+--- 5
+Ajowan
+Alligator Pepper
+Ashanti Pepper
+Selim | grains of selim
+Uziza
+Calabash Nutmeg
+Melegueta
+Negro Pepper
+Timur
+Jakhya
+Kachri
+Dagad Phool | black stone flower
+Marathi Moggu
+Anardana
+Kasuri Methi | dried fenugreek
+Kokum Butter
+Mango Ginger
+Long Pepper Pippali | pippali
+Mace Blade
+Tejpat | indian bay leaf
+Cubeb Pepper
+Voatsiperifery
+Kampot Pepper
+Penja Pepper
+Sarawak Pepper
+Rose Petals
+Dried Rose
+Sumac Za'atar
+Nigella Sativa
+Fenugreek Leaves
+Methi
+Black Cardamom
+Green Cardamom
+Mahaleb Cherry
+Asafetida
+Chervil Root
+Sweet Cicely
+Costmary
+Lady's Mantle
+Clary Sage
+Pineapple Sage
+Hyssop Anise | anise hyssop
+Bee Balm
+Catnip
+Sorrel French
+Salad Burnet
+Good King Henry
+Shungiku
+Mitsuba
+Myoga
+Sansho Leaf | kinome
+Perilla Seed
+Szechuan Chili
+Er Jing Tiao
+Facing Heaven Pepper
+Dried Tangerine Peel | chenpi
+Sand Ginger
+Cao Guo | black cardamom pods
+Licorice Gan Cao
 
-=== desserts
-title: Desserts
-prompt: Name as many desserts as you can
-starcore: Pavlova
----
-Cake
-Pie
-Ice Cream
-Cookie | cookies
-Brownie
-Cupcake
-Cheesecake
-Pudding
-Donut | doughnut
-Muffin
-Tiramisu
-Crème Brûlée | creme brulee
-Mousse | chocolate mousse
-Pavlova
-Macaron | macarons
-Eclair
-Profiterole | cream puff
-Cannoli
-Baklava
+=== japanese-foods
+title: Japanese foods
+prompt: Name as many Japanese foods and dishes as you can
+starcore: Chawanmushi
+--- 1
+Sushi
+Ramen
+Tempura
+Teriyaki
+Miso Soup | miso
+Edamame
+--- 2
+Sashimi
+Udon
+Soba
+Mochi
+Gyoza
+Katsu | tonkatsu
+Wasabi
+Onigiri | rice ball
+Yakitori
+Bento
+Tofu
+Matcha
+Sake
+Nigiri
+California Roll
+Spicy Tuna Roll
+Wagyu | kobe beef
+Takoyaki
+Okonomiyaki
+Donburi
+Katsu Curry | japanese curry | kare raisu
+Yakisoba
+Shabu Shabu
+Sukiyaki
+Seaweed Salad
+Hibachi
+Teppanyaki
+Pocky
+Ponzu
+Natto
+Dango
+Dorayaki
+Mochi Ice Cream
+Unagi | eel
+Ebi | shrimp tempura
+Tamago | tamagoyaki
+Wakame
+Nori
+Panko
+Kewpie | japanese mayo
+Furikake
+Sriracha Mayo
+--- 3
+Gyudon
+Oyakodon
+Katsudon
+Tendon
+Unadon | unaju
+Kaisendon
+Chirashi | chirashizushi
+Maki | makizushi
+Temaki | hand roll
+Uramaki
+Inari | inarizushi
+Futomaki
+Hosomaki
+Oshizushi
+Temari Sushi
+Karaage
+Agedashi Tofu
+Chawanmushi
+Nikujaga
+Tonjiru | butajiru
+Oden
+Nabe
+Chanko Nabe
+Kitsune Udon
+Tanuki Soba
+Zaru Soba
+Tempura Udon
+Yaki Udon
+Tsukemen
+Shoyu Ramen
+Shio Ramen
+Tonkotsu Ramen
+Miso Ramen
+Hiyashi Chuka
+Somen
+Hiyamugi
+Omurice
+Hayashi Rice
+Hambagu | hamburg steak
+Korokke | croquette
+Menchi Katsu
+Ebi Fry
+Kushikatsu | kushiage
+Yakiniku
+Gyutan
+Tebasaki
+Tsukune
+Negima
+Kushiyaki
+Robatayaki
+Kaiseki
+Taiyaki
+Imagawayaki
+Daifuku
+Ichigo Daifuku
+Warabi Mochi
+Kakigori | shaved ice
+Anmitsu
+Yokan
+Manju
+Castella | kasutera
+Melon Pan
+Anpan
+Sakura Mochi
+Kashiwa Mochi
+Mitarashi Dango
+Monaka
+Wagashi
+Senbei | rice crackers
+Arare
+Mochi Daifuku
+Umeboshi
+Tsukemono | pickles
+Takuan
+Gari | pickled ginger
+Miso Glazed Cod | black cod
+Hamachi | yellowtail
+Toro | otoro | chutoro
+Ikura
+Uni | sea urchin
+Tobiko
+Masago
+Tako | octopus
+Ika | squid
+Saba | mackerel
+Maguro | tuna
+Sake Nigiri | salmon nigiri
+Amaebi | sweet shrimp
+Hotate | scallop
+Kani | crab
+Kanikama | imitation crab
+Kombu
+Dashi
+Katsuobushi | bonito flakes
+Mirin
+Shoyu | soy sauce
+Tamari
+Yuzu
+Shiso
+Ume
+Miso Katsu
+Chicken Nanban
+Shogayaki | ginger pork
+Saba Shioyaki
+Unagi Kabayaki
+Ochazuke
+Zosui
+Okayu | kayu
+Takikomi Gohan
+Sekihan
+Natto Gohan
+Tamago Kake Gohan | tkg
+Furikake Rice
+Omusubi
+Bento Box
+Ekiben
+Kare Pan | curry bread
+Katsu Sando
+Tamago Sando
+Fruit Sando
+Hokkaido Milk Bread | shokupan
+Purin
+Soft Serve
+Mochi Donut
+Japanese Cheesecake
+Matcha Latte
+Hojicha
+Genmaicha
+Sencha
+Gyokuro
+Mugicha
+Calpis
+Ramune
+Shochu
+Umeshu
+Highball
+Chuhai
+--- 4
+Motsunabe
+Sukiyaki Don
+Butadon
+Ten-don
+Tekkadon
+Negitorodon
+Hitsumabushi
+Kamameshi
+Onigirazu
+Saba Sushi
+Kakinoha Sushi
+Funazushi
+Narezushi
+Ehomaki
+Mentaiko
+Tarako
+Shirasu
+Hotaru Ika
+Shirako
+Ankimo
+Fugu
+Basashi
+Torisashi
+Tataki
+Katsuo Tataki
+Shime Saba
+Kinpira Gobo | kinpira
+Hijiki
+Goma-ae | gomaae
+Ohitashi
+Sunomono
+Shiraae
+Kiriboshi Daikon
+Nimono
+Kakuni
+Buta no Kakuni
+Chashu
+Ajitama | ajitsuke tamago
+Menma
+Naruto | narutomaki
+Kamaboko
+Chikuwa
+Hanpen
+Satsuma-age
+Ganmodoki
+Atsuage
+Aburaage
+Yuba
+Koya Dofu
+Konnyaku
+Shirataki
+Tororo
+Nagaimo
+Gobo
+Renkon
+Kabocha
+Daikon Oroshi
+Yakiimo
+Daigaku Imo
+Kenchinjiru
+Sumashijiru
+Ozoni
+Osechi
+Toshikoshi Soba
+Nanakusa Gayu
+Champon
+Sara Udon
+Kagoshima Ramen
+Hakata Ramen
+Sapporo Ramen
+Kitakata Ramen
+Abura Soba
+Mazesoba
+Yakimeshi | chahan
+Tenshinhan
+Ebi Chili
+Mapo Tofu Japanese
+Harumaki
+Shumai
+Nikuman
+Butaman
+Gyoza Ramen
+Jingisukan | genghis khan
+Ishikari Nabe
+Kiritanpo
+Hoto
+Kishimen
+Miso Nikomi Udon
+Hiroshima Okonomiyaki
+Monjayaki
+Akashiyaki
+Ikayaki
+Tonpeiyaki
+Negiyaki
+Butter Mochi
+Kuzumochi
+Mizu Shingen Mochi | raindrop cake
+Ohagi | botamochi
+Kusa Mochi
+Hanami Dango
+Dorayaki Matcha
+Kuri Kinton
+Kurikinton
+Baumkuchen
+Kasutera Nagasaki
+Shiroi Koibito
+Tokyo Banana
+Yatsuhashi
+Momiji Manju
+Uiro
+Karukan
+Chinsuko
+Sata Andagi
+Goya Champuru
+Taco Rice
+Rafute
+Soki Soba
+Okinawa Soba
+Umibudo
+Mozuku
+--- 5
+Hoshigaki
+Nukazuke
+Bettarazuke
+Shibazuke
+Fukujinzuke
+Rakkyo
+Narazuke
+Iburi Gakko
+Kusaya
+Shiokara
+Konowata
+Karasumi
+Kazunoko
+Kujira
+Hachinoko
+Inago
+Zazamushi
+Iburigakko
+Hōtō
+Sasa Dango
+Sasazushi
+Masu Sushi
+Battera
+Bōzushi
+Mehari Sushi
+Mamakari
+Tekone Sushi
+Hamo
+Ayu Shioyaki
+Unagi Pie
+Shiruko | oshiruko
+Zenzai
+Mamemochi
+Gohei Mochi
+Kibi Dango
+Akafuku
+Uiro Mochi
+Chimaki
+Kashiwa
+Kinako Mochi
+Isobe Mochi
+Abekawa Mochi
+Chikara Udon
+Inaniwa Udon
+Sanuki Udon
+Mimi Udon
+Hōtō Noodles
+Wanko Soba
+Hegisoba
+Izumo Soba
+Nishin Soba
+Kake Soba
+Kake Udon
+Bukkake Udon
+Kamaage Udon
+Kamatama Udon
+Sudachi Soba
+Hiyashi Tanuki
+Natto Maki
+Kanpyo Maki
+Kappa Maki
+Oshinko Maki
+Tekka Maki
+Negitoro Maki
+Ume Shiso Maki
+Gunkan
+Engawa
+Kohada
+Aji
+Iwashi
+Sanma
+Kinmedai
+Nodoguro
+Akagai
+Mirugai
+Torigai
+Awabi
+Sazae
+Shako
+Anago
+Kurumaebi
+Botan Ebi
+Shirauo
+
+=== mexican-foods
+title: Mexican foods
+prompt: Name as many Mexican foods and dishes as you can
+starcore: Chiles en Nogada
+--- 1
+Taco | tacos
+Burrito
+Quesadilla
+Nachos
+Enchilada | enchiladas
+Guacamole
+Salsa
+--- 2
+Tamale | tamales
+Fajitas
+Chimichanga
 Churro | churros
+Tortilla Chips | chips
+Queso | queso dip
+Tostada | tostadas
+Taquito | taquitos
+Flautas
+Refried Beans | frijoles refritos
+Mexican Rice | spanish rice | arroz rojo
+Pico de Gallo
+Elote | street corn
+Carnitas
+Barbacoa
+Al Pastor | tacos al pastor
+Carne Asada
+Pozole
+Menudo
+Mole | mole poblano
+Chilaquiles
+Huevos Rancheros
+Sopapilla | sopapillas
 Flan
-Custard
-Trifle
-Sorbet
-Gelato
-Frozen Yogurt | froyo
-Sundae
-Banana Split
-Milkshake
-Apple Pie
-Pumpkin Pie
-Pecan Pie
-Key Lime Pie
-Lemon Meringue Pie | lemon meringue
-Cobbler
-Crumble
-Crisp
-Shortcake | strawberry shortcake
+Tres Leches
+Horchata
+Chile Relleno | chiles rellenos
+Ceviche
+Fish Tacos
+Birria
+Torta | tortas
+Tortilla
+Sope | sopes
+Gordita | gorditas
+Empanada | empanadas
+Tortilla Soup | sopa de tortilla
+Salsa Verde
+Pico
+Jalapeño Poppers
+Sour Cream
+Chorizo
+Queso Fresco
+Cotija
+Mexican Hot Chocolate | champurrado
+Margarita
+Agua Fresca | aguas frescas
+--- 3
+Chalupa
+Burrito Bowl
+Taco Salad
+Huarache
+Tlayuda
+Tlacoyo
+Memela
+Panucho
+Salbute
+Cochinita Pibil
+Pollo Asado
+Pollo en Mole
+Carne Guisada
+Chile Colorado
+Chile Verde
+Chile con Carne
+Picadillo
+Tinga | tinga de pollo
+Lengua
+Tripas
+Cabeza
+Suadero
+Campechano
+Mixiote
+Machaca
+Discada
+Arrachera
+Milanesa
+Molletes
+Enfrijoladas
+Entomatadas
+Enmoladas
+Enchiladas Suizas
+Enchiladas Verdes
+Enchiladas Rojas
+Queso Fundido
+Choriqueso
+Sopa de Fideo | fideo
+Caldo de Res
+Caldo de Pollo
+Albóndigas | albondigas
+Pozole Rojo
+Pozole Verde
+Birria de Res
+Consomé
+Quesabirria
+Chiles en Nogada
+Rajas | rajas con crema
+Nopales | nopalitos
+Calabacitas
+Esquites
+Frijoles Charros
+Frijoles de la Olla
+Arroz con Leche
+Bunuelos | buñuelos
+Pan Dulce
+Concha | conchas
+Tres Leches Cake
+Capirotada
+Cajeta
+Dulce de Leche
+Paletas
+Raspado
+Mangonada | chamoyada
+Chamoy
+Tajín | tajin
+Tepache
+Jamaica | agua de jamaica
+Tamarindo
+Atole
+Michelada
+Paloma
+Mezcal
+Tequila
+Pulque
+Mexican Coke
+Jarritos
+Elote en Vaso
+Duro | duritos | chicharrones de harina
+Chicharrón | chicharron
+Gringa
+Volcán | volcanes
+Vampiro
+Costra
+Taco Dorado | tacos dorados
+Tacos de Canasta
+Tacos Gobernador
+Tacos de Pescado
+Tacos de Camarón
+Aguachile
+Coctel de Camarón | shrimp cocktail
+Pescado Zarandeado
+Huachinango a la Veracruzana | veracruz fish
+Camarones a la Diabla
+Camarones al Mojo de Ajo
+Sopa de Lima
+Papadzules
+Poc Chuc
+Relleno Negro
+Queso Relleno
+Panuchos
+Marquesitas
+Tamales Oaxaqueños
+Mole Negro
+Mole Amarillo
+Mole Verde
+Mole Coloradito
+Mole Rojo
+Pipián | pipian
+Tetela
+Chapulines
+Escamoles
+Huitlacoche | cuitlacoche
+Tejate
+Tlayudas
+Memelas
+Empanadas de Amarillo
+Molotes
+Chalupas Poblanas
+Cemita
+Pambazo
+Guajolota
+Torta Ahogada
+Lonche
+Carne en su Jugo
+Pozole Blanco
+Tortas de Camarón
+Chiles Toreados
+Salsa Roja
+Salsa Macha
+Salsa Borracha
+Pico de Gallo de Fruta
+Guacamole con Chapulines
+Sikil P'aak
+Xnipec
+--- 4
+Zacahuil
+Bolillo
+Telera
+Birote
+Tortilla de Harina
+Tortilla de Maíz
+Masa
+Nixtamal
+Pinole
+Champurrado Oaxaqueño
+Chocolate de Agua
+Tascalate
+Pozol
+Tuba
+Sotol
+Raicilla
+Bacanora
+Charanda
+Rompope
+Xtabentún | xtabentun
+Licor 43 | licor de cuarenta y tres
+Kahlúa | kahlua
+Carlota
+Jericalla
+Ate
+Cocada
+Alegría | alegria
+Glorias
+Obleas
+Mazapán | mazapan
+Pepitorias
+Jamoncillo
+Palanqueta
+Cacahuates Japoneses | japanese peanuts
+Pan de Muerto
+Rosca de Reyes
+Orejas
+Cuernos
+Polvorones
+Marranitos | puerquitos
+Empanadas de Calabaza
+Coyotas
+Gorditas de Nata
+Chongos Zamoranos
+Huevos Motuleños
+Huevos Divorciados
+Huevos a la Mexicana
+Machacado con Huevo
+Migas
+Chilaquiles Verdes
+Chilaquiles Rojos
+Enchiladas Potosinas
+Enchiladas Mineras
+Enchiladas Placeras
+Gorditas de Chicharrón
+Bocoles
+Tamales Chiapanecos
+Tamal de Elote
+Corundas
+Uchepos
+Carnitas Michoacanas
+Morisqueta
+Churipo
+Pescado Blanco
+Aporreadillo
+Asado de Boda
+Asado de Puerco
+Cabrito
+Fritada
+Machitos
+Menudo Rojo
+Pancita
+Moronga
+Queso de Puerco
+Tacos de Suadero
+Tacos de Tripa
+Tacos Árabes
+Carne Apache
+Tostadas de Tinga
+Tostadas de Ceviche
+Ceviche Acapulqueño
+Pescadillas
+Chilpachole
+Caldo de Piedra
+Caldo Tlalpeño
+Sopa Tarasca
+Sopa Azteca
+Sopa de Médula
+Crema de Elote
+Sopa de Flor de Calabaza
+Quesadilla de Flor de Calabaza
+Quesadillas de Huitlacoche
+Tacos de Chapulines
+--- 5
+Tamales de Chipilín
+Tamal de Cambray
+Tamales Colados
+Tamales Canarios
+Tamal Tontito
+Dzotobichay
+Brazo de Reina
+Pibipollo | mukbil pollo
+Mucbipollo
+Kibi
+Chocolomo
+Frijol con Puerco
+Lomitos de Valladolid
+Salpicón Yucateco
+Escabeche Oriental
+Cochito
+Shuti
+Sopa de Pan
+Chanfaina
+Tepejilote
+Chileatole
+Tlatonile
+Chilate
+Mole de Olla
+Mole de Caderas
+Tesmole
+Chileajo
+Estofado
+Manchamanteles
+Higaditos
+Tasajo
+Cecina
+Chorizo Verde
+Chistorra
+Longaniza
+Tamales de Ceniza
+Tamales de Frijol
+Tetelas Oaxaqueñas
+Totopos
+Clayudas
+Garnachas
+Chalupas Tlaxcaltecas
+Mixiotes de Carnero
+Barbacoa de Hoyo
+Pollo a la Valentina
+Pollo Placero
+Gorditas Pellizcadas
+Picaditas
+Pellizcadas
+Sincronizada
+Tortas de Tamal
+Muffin de Elote
+Pan de Elote
+Nicuatole
+Dulce de Camote
+Camote Poblano
+Tortitas de Camarón
+Romeritos
+Revoltijo
+Bacalao a la Vizcaína
+Ponche Navideño
+Torrejas
+Buñuelos de Viento
+Chimichanga Sonorense
+Sopa de Guías
+Chiles Capones
+Cuitlacoche Crepes
+Crepas de Cajeta
+
+=== candy
+title: Candy and chocolate bars
+prompt: Name as many candies and chocolate bars as you can
+starcore: Charleston Chew
+--- 1
+Snickers
+M&M's | m and ms | mms | m&ms
+Kit Kat | kitkat
+Reese's | reeses | reese's peanut butter cups
+Skittles
+Twix
+Hershey's | hersheys | hershey bar | hershey's bar
+--- 2
+Milky Way
+3 Musketeers | three musketeers
+Butterfinger
+Starburst
+Sour Patch Kids
+Twizzlers
+Jolly Rancher | jolly ranchers
+Nerds
+Smarties
+Swedish Fish
+Gummy Bears | gummi bears
+Haribo
+Tootsie Roll | tootsie rolls
+Tootsie Pop | tootsie pops
+Laffy Taffy
+Airheads
+Hershey's Kisses | kisses
+Almond Joy
+Mounds
+Baby Ruth
+PayDay | pay day
+Whoppers
+Milk Duds
+Junior Mints
+Raisinets
+Hot Tamales
+Mike and Ike
+Lemonheads
+Warheads
+Pop Rocks
+Ring Pop
+Blow Pop | blow pops
+Dum Dums
+Lollipop | lollipops
+Candy Corn
+Peeps
+Life Savers | lifesavers
+Mentos
+Tic Tac | tic tacs
+York Peppermint Pattie | york | peppermint pattie
+Andes Mints | andes
+Toblerone
+Ferrero Rocher
+Lindor | lindt
+Godiva
+Cadbury | cadbury dairy milk | dairy milk
+Cadbury Creme Egg | creme egg
+Kinder | kinder bueno | kinder egg | kinder surprise
+Mars Bar | mars
+Bounty
+Galaxy
+Aero
+Crunch | nestle crunch
+100 Grand | one hundred grand
+Heath | heath bar
+Rolo | rolos
+Whatchamacallit
+Take 5
+Kit Kat Chunky
+Reese's Pieces
+Peanut M&M's
+Cotton Candy
+Gumdrops
+Jelly Beans
+Jelly Belly
+Rock Candy
+Candy Cane | candy canes
+Fun Dip
+Pixy Stix
+Sweet Tarts | sweetarts
+Runts
+Gobstopper | everlasting gobstopper
+Jawbreaker
+Bit-O-Honey | bit o honey
+Mary Jane | mary janes
+Werther's | werthers | werther's original
+Butterscotch
+Caramel | caramels
 Fudge
 Toffee
-Brittle
-Meringue
-Soufflé | souffle
-Panna Cotta
-Gulab Jamun
-Mochi
-Baklava
-Strudel | apple strudel
-Black Forest Cake | black forest
-Red Velvet Cake | red velvet
-Carrot Cake
-Angel Food Cake
-Pound Cake
-Bundt Cake
-Lava Cake
-Tres Leches
-Mille-feuille | napoleon
-Sticky Toffee Pudding
-Bread Pudding
-Rice Pudding
-Jelly | jello | gelatin
-Popsicle | ice pop
-S'mores | smores
-Rocky Road
-Scone
-Waffle
-Pancake
-Crepe | crêpe
-Beignet
-Funnel Cake
-Kulfi
-Halva
-Knafeh | kunafa
-Basbousa
-Alfajor
+Saltwater Taffy | taffy
+Licorice | liquorice
+Red Vines
+Sour Punch
+Trolli
+Gummy Worms
+Fruit Snacks
+Mamba
+Hi-Chew | hi chew
+Pocky
+Hubba Bubba
+Bubble Yum
+Bazooka
+Big League Chew
+Juicy Fruit
+Extra
+Trident
+Altoids
+--- 3
+Charleston Chew
+Goobers
+Sno-Caps | snocaps
+Good & Plenty | good and plenty
+Mike and Ike Tropical
+Boston Baked Beans
+Necco Wafers | necco
+Sweethearts | conversation hearts
+Chuckles
+Dots
+Mounds Dark
+Zagnut
+Clark Bar | clark
+Oh Henry | oh henry!
+Chunky
+Mr. Goodbar | mr goodbar
+Krackel
+Special Dark
+Symphony
+Hershey's Cookies 'n' Creme | cookies n creme
+Rolo Minis
+Caramello
+Cadbury Caramello
+Twix White
+Milky Way Midnight
+Snickers Almond
+Snickers Crisper
+PB Max
+Oreo Bar
+Kinder Joy
+Kinder Chocolate
+Kinder Happy Hippo
+Milka
+Ritter Sport
+Lindt Excellence
+Ghirardelli
+Russell Stover
+Whitman's | whitmans sampler
+See's Candies | sees
+Godiva Truffles
+Truffles
+Bonbons
+Pralines
+Turtles
+Goo Goo Cluster
+Valomilk
+Idaho Spud
+Cherry Mash
+Abba-Zaba | abba zaba
+Big Hunk
+U-No Bar | u no
+Look! Bar | look bar
+Rocky Road Bar
+Chick-O-Stick | chick o stick
+Squirrel Nut Zippers
+Mint Juleps
+Atomic Fireball | fireballs | atomic fireballs
+Red Hots
+Hot Tamales Fierce
+Swedish Fish Tropical
+Sour Patch Watermelon
+Sour Skittles
+Skittles Wild Berry
+Nerds Rope
+Nerds Gummy Clusters
+Airheads Xtremes
+Sour Straws
+Sour Belts
+Sour Worms
+Gummy Rings
+Peach Rings
+Gummy Sharks
+Fruit by the Foot
+Fruit Roll-Ups | fruit roll ups
+Gushers
+Push Pop
+Baby Bottle Pop
+Ring Pop Gummies
+Lollipop Charms
+Laffy Taffy Rope
+Salt Water Taffy
+Tootsie Fruit Chews
+Starburst Jellybeans
+Brach's | brachs
+Kraft Caramels
+Werther's Chewy
+Riesen
+Milk Maid Caramels
+Sugar Babies
+Sugar Daddy
+Bit-O-Honey Bites
+Now and Later | now and laters
+Razzles
+Bottle Caps
+Wonka Bar
+Nerds Bar
+Laffy Taffy Stretchy
+Gobstoppers Chewy
+Spree
+Shockers
+Fun Dip Lik-m-aid
+Tootsie Roll Midgees
+Andes Creme de Menthe
+Peppermint Patty
+Junior Caramels
+Whoppers Robin Eggs | robin eggs
+Mini Eggs | cadbury mini eggs
+Reese's Eggs
+Reese's Pumpkins
+Reese's Trees
+Reese's Sticks
+Reese's Fast Break
+Reese's Big Cup
+Reese's Thins
+Hershey's Hugs
+Hershey's Miniatures
+Heath Toffee Bits
+Skor
+Whoppers Malted Milk Balls | malted milk balls
+Maltesers
+Crunchie
+Flake
+Twirl
+Wispa
+Double Decker
+Boost
+Picnic
+Fudge Bar | cadbury fudge
+Curly Wurly
+Freddo
+Caramac
+Yorkie
+Lion Bar
+Drifter
+Toffee Crisp
+Topic
+Milkybar
+Smarties UK
+Munchies
+Rolo UK
+Quality Street
+Roses | cadbury roses
+Celebrations
+Heroes
+After Eight
+Terry's Chocolate Orange | chocolate orange
+Jelly Babies
+Wine Gums
+Fruit Pastilles
+Fruit Gums
+Liquorice Allsorts | allsorts
+Sherbet Lemons
+Sherbet Fountain
+Love Hearts
+Refreshers
+Drumstick | drumsticks
+Flying Saucers
+Fizzers
+Parma Violets
+Rhubarb and Custard
+Pear Drops
+Humbugs
+Cola Bottles
+Fried Eggs
+Foam Bananas
+Midget Gems
+Jelly Tots
+Polo | polos
+Murray Mints
+Fisherman's Friend
+Starburst UK | opal fruits
+--- 4
+Chupa Chups
+Pez
+Ricola
+Halls
+Ferrero Raffaello | raffaello
+Mon Chéri | mon cheri
+Merci
+Toffifee
+Duplo
+Kinder Country
+Hanuta
+Milka Lila Pause
+Ritter Sport Marzipan
+Marzipan
+Nougat
+Turrón | turron
+Halva | halwa
+Turkish Delight | lokum
+Baklava Bites
+Mozartkugel | mozart balls
+Manner Wafers | manner
+Knoppers
+Mamba Fruit Chews
+Haribo Goldbears | goldbears
+Haribo Starmix
+Haribo Tangfastics
+Haribo Happy Cola
+Maoam
+Katjes
+Venco
+Dropjes | dutch licorice
+Salmiak | salty licorice
+Tyrkisk Peber
+Ga-Jol | gajol
+Marabou
+Daim
+Plopp
+Kexchoklad
+Japp
+Bridge Mix
+Sour Cherry Blasters
+Coffee Crisp
+Crispy Crunch
+Mr. Big | mr big
+Caramilk
+Wunderbar
+Eat-More | eat more
+Glosette
+Smarties Canadian
+Big Turk
+Oh Henry Canadian
+Cherry Blossom
+Jersey Milk
+Malteser Bunnies
+Coffee Rio
+Pez Dispenser
+Tootsie Pops Drops
+Sixlets
+Milk Duds Minis
+Milky Way Simply Caramel
+Snickers Peanut Butter
+Twix Peanut Butter
+M&M's Pretzel | pretzel m&ms
+M&M's Crispy | crispy m&ms
+M&M's Caramel
+Mallo Cup
+Clark Cups
+Sky Bar
+Twin Bing
+Bun Bar
+Mountain Bar
+Annabelle Rocky Road
+Necco Clark
+Black Jack Taffy | black jack
+Bonomo Turkish Taffy | turkish taffy
+Zotz
+Wax Lips
+Wax Bottles | nik l nip
+Candy Buttons | candy dots
+Candy Necklace
+Candy Cigarettes
+Candy Lipstick
+Satellite Wafers
+Pop Rocks Crackling
+Lemonhead Fruit
+Chewy Lemonhead
+Cherry Clan
+Grapehead
+Alexander the Grape
+Jujubes
+Jujyfruits
+Swedish Berries
+Gummy Coke
+Sour Keys
+Fuzzy Peaches
+Kasugai
+Meiji Hello Panda | hello panda
+Koala's March | koalas march
+Yan Yan
+Pretz
+Kit Kat Matcha
+White Rabbit
+Botan Rice Candy
+Milkita
+Kopiko
+Choco Pie
+Pepero
+Lotte Gum
+Fortune Cookie
+--- 5
 Brigadeiro
-Sachertorte
-Linzer Torte
-Kouign-amann
-Clafoutis
-Tarte Tatin
-Semifreddo
-Zabaglione
-Affogato
-Bingsu
-Halo-halo
-Dango
-Galaktoboureko
-Kheer
+Beijinho
+Paçoca | pacoca
+Pé-de-moleque
+Bombom Garoto | garoto
+Sonho de Valsa
+Ouro Branco
+Bis
+Prestígio | prestigio
+Alfajor | alfajores
+Mantecol
+Bon o Bon
+Havanna
+Mazapán de la Rosa
+Pulparindo
+Pelón Pelo Rico | pelon
+Vero Mango
+Duvalín | duvalin
+Glorias de Linares
+Rockaleta
+Lucas Muecas
+Skwinkles
+Pulpa de Tamarindo
+Coronado Cajeta
+Obleas de Cajeta
+Mazapan
+Dulce de Leche Candy
+Dulces de Leche
+Haw Flakes
+Dragon Beard Candy
+Tanghulu
+Sesame Snaps
+Chikki
+Gajak
+Soan Papdi
+Barfi
+Kaju Katli
+Ladoo | laddu
+Jalebi
+Gulab Jamun
 Rasgulla
+Peda
+Mysore Pak
+Pastila
+Zefir
+Alyonka
+Mishka Kosolapy
+Korovka
+Ptichye Moloko
+Kara-Kum
+Grilyazh
+Krówki | krowki
+Ptasie Mleczko
+Prince Polo
+Pischinger
+Tofifee
+Negro Candy
+Kras Bajadera
+Životinjsko Carstvo
+Smoki
+Bajadera
+Seigaiha
+
+=== wine-grapes
+title: Wine grapes
+prompt: Name as many wine grape varieties as you can
+starcore: Xinomavro
+--- 1
+Chardonnay
+Merlot
+Cabernet Sauvignon | cabernet | cab
+Pinot Noir
+Sauvignon Blanc
+--- 2
+Pinot Grigio | pinot gris
+Riesling
+Malbec
+Shiraz | syrah
+Zinfandel | primitivo
+Moscato | muscat | moscatel
+Prosecco | glera
+Rosé
+Chianti | sangiovese
+Champagne
+Tempranillo
+Grenache | garnacha
+Cabernet Franc
+Chenin Blanc
+Viognier
+Gewürztraminer | gewurztraminer
+Petite Sirah | durif
+Pinot Blanc | pinot bianco
+White Zinfandel
+--- 3
+Nebbiolo
+Barbera
+Dolcetto
+Montepulciano
+Nero d'Avola
+Grüner Veltliner | gruner veltliner | gruner
+Albariño | albarino
+Verdejo
+Torrontés | torrontes
+Carménère | carmenere
+Mourvèdre | mourvedre | monastrell
+Carignan | carignane
+Cinsault | cinsaut
+Gamay
+Petit Verdot
+Pinotage
+Sémillon | semillon
+Marsanne
+Roussanne
+Trebbiano | ugni blanc
+Vermentino
+Garganega
+Pinot Meunier | meunier
+Muscadet | melon de bourgogne
+Moschofilero
+Assyrtiko
+Aglianico
+Lambrusco
+Tannat
+Touriga Nacional
+Tinta Roriz
+Verdelho
+Palomino
+Pedro Ximénez | pedro ximenez | px
+Malvasia | malvazija
+Furmint
+Blaufränkisch | blaufrankisch | lemberger
+Zweigelt
+Müller-Thurgau | muller thurgau
+Silvaner | sylvaner
+Concord
+Catawba
+Niagara
+Norton
+Scuppernong | muscadine
+Vidal Blanc
+Seyval Blanc
+Marquette
+Frontenac
+Baco Noir
+Chambourcin
+Traminette
+--- 4
+Grenache Blanc
+Picpoul | picpoul de pinet
+Fiano
+Greco
+Falanghina
+Arneis
+Cortese
+Corvina
+Rondinella
+Teroldego
+Lagrein
+Refosco
+Ribolla Gialla
+Friulano
+Sagrantino
+Negroamaro
+Primitivo di Manduria
+Cannonau
+Carricante
+Nerello Mascalese
+Frappato
+Grillo
+Catarratto
+Inzolia
+Godello
+Mencía | mencia
+Garnacha Blanca
+Xarel·lo | xarello
+Macabeo | viura
+Parellada
+Bobal
+Graciano
+Mazuelo
+Hondarrabi Zuri
+Loureiro
+Alvarinho
+Arinto
+Baga
+Castelão | castelao
+Trincadeira
+Alicante Bouschet
+Aragonez
+Fernão Pires
+Encruzado
+Sercial
+Bual | boal
+Tinta Negra
+Tinta Barroca
+Touriga Franca
+Sousão | sousao
+Saperavi
+Rkatsiteli
+Mtsvane
+Kisi
+Xinomavro
+Agiorgitiko
+Mavrodaphne
+Savatiano
+Roditis
+Malagousia
+Plavac Mali
+Pošip | posip
+Graševina | grasevina | welschriesling
+Kadarka
+Hárslevelű | harslevelu
+Juhfark
+Kékfrankos | kekfrankos
+Feteasca Neagra
+Feteasca Alba
+Tamaioasa
+Mavrud
+Rubin
+Dimyat
+Prokupac
+Vranac
+Žilavka | zilavka
+Kerner
+Scheurebe
+Bacchus
+Ortega
+Dornfelder
+Spätburgunder | spatburgunder
+Trollinger
+Portugieser
+Elbling
+Auxerrois
+Chasselas
+Petite Arvine
+Humagne Rouge
+Cornalin
+Completer
+Savagnin
+Poulsard
+Trousseau
+Jacquère | jacquere
+Mondeuse
+Altesse
+Gros Manseng
+Petit Manseng
+Négrette | negrette
+Fer Servadou
+Duras
+Mauzac
+Len de l'El
+Colombard
+Folle Blanche
+Bourboulenc
+Clairette
+Terret
+Picardan
+Counoise
+Vaccarèse
+Muscardin
+Petit Courbu
+Courbu
+Arrufiac
+Gros Plant
+Romorantin
+Pineau d'Aunis
+Grolleau
+Aligoté | aligote
+Sacy
+César
+Tressot
+Nielluccio
+Sciaccarellu
+Barbarossa
+Bianco d'Alessano
+Bombino
+Nosiola
+Schiava
+Timorasso
+Erbaluce
+Ruchè | ruche
+Grignolino
+Freisa
+Pelaverga
+Croatina
+Uva Rara
+Vespolina
+Bonarda
+Marzemino
+Raboso
+Picolit
+Verduzzo
+Pignolo
+Schioppettino
+Tazzelenghe
+Vitovska
+Terrano
+Albana
+Pagadebit
+Pecorino Grape
+Passerina
+Lacrima
+Verdicchio
+Grechetto
+Ciliegiolo
+Canaiolo
+Colorino
+Alicante
+Mammolo
+Malvasia Nera
+Susumaniello
+Ottavianello
+Gaglioppo
+Magliocco
+Greco Nero
+Perricone
+Nocera
+Zibibbo
+Malvasia di Lipari
+Nuragus
+Monica
+Girò
+Bovale
+Carignano
+Torbato
+Semidano
+Vernaccia
+Vernaccia di Oristano
+Ansonica
+Moscadello
+Aleatico
+--- 5
+Areni
+Voskehat
+Kangun
+Tsolikouri
+Chinuri
+Aladasturi
+Otskhanuri Sapere
+Krakhuna
+Chkhaveri
+Shavkapito
+Tavkveri
+Khikhvi
+Kakhuri Mtsvane
+Ojaleshi
+Usakhelouri
+Dzelshavi
+Mujuretuli
+Alexandrouli
+Tsitska
+Ikalto

@@ -1,69 +1,96 @@
+# Science. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
 === elements
 title: Chemical elements
 prompt: Name as many elements of the periodic table as you can
 starcore: Oganesson
----
-Hydrogen
-Helium
-Lithium
-Beryllium
-Boron
-Carbon
-Nitrogen
+--- 1
 Oxygen
-Fluorine
-Neon
-Sodium
-Magnesium
+Hydrogen
+Carbon
+Gold
+Iron
+Silver
+Helium
+--- 2
+Nitrogen
+Copper
 Aluminium | aluminum
-Silicon
-Phosphorus
-Sulfur | sulphur
-Chlorine
-Argon
-Potassium
+Lead
+Zinc
+Sodium
 Calcium
-Scandium
+Potassium
+Neon
+Uranium
+Mercury
+Platinum
+Chlorine
+Sulfur | sulphur
+Magnesium
+Lithium
+Tin
 Titanium
-Vanadium
+Nickel
+Plutonium
+Silicon
+Iodine
+Phosphorus
+Fluorine
+Argon
+Radium
+--- 3
+Cobalt
 Chromium
 Manganese
-Iron
-Cobalt
-Nickel
-Copper
-Zinc
+Tungsten | wolfram
+Boron
+Beryllium
+Arsenic
+Krypton
+Xenon
+Radon
+Bromine
+Barium
+Strontium
+Cesium | caesium
+Bismuth
+Cadmium
+Palladium
+Iridium
+Osmium
+Selenium
+Vanadium
 Gallium
 Germanium
-Arsenic
-Selenium
-Bromine
-Krypton
-Rubidium
-Strontium
-Yttrium
-Zirconium
-Niobium
-Molybdenum
-Technetium
-Ruthenium
-Rhodium
-Palladium
-Silver
-Cadmium
-Indium
-Tin
 Antimony
+Molybdenum
+Zirconium
+Thorium
+Polonium
+Francium
+Einsteinium
+Americium
+Neptunium
+Curium
+Californium
+Nobelium
+Rubidium
+Indium
 Tellurium
-Iodine
-Xenon
-Caesium | cesium
-Barium
+Rhodium
+Ruthenium
+Tantalum
+Hafnium
+Thallium
+Astatine
+Scandium
+Yttrium
+Niobium
+--- 4
 Lanthanum
 Cerium
-Praseodymium
 Neodymium
-Promethium
 Samarium
 Europium
 Gadolinium
@@ -74,37 +101,15 @@ Erbium
 Thulium
 Ytterbium
 Lutetium
-Hafnium
-Tantalum
-Tungsten | wolfram
+Praseodymium
+Promethium
 Rhenium
-Osmium
-Iridium
-Platinum
-Gold
-Mercury
-Thallium
-Lead
-Bismuth
-Polonium
-Astatine
-Radon
-Francium
-Radium
+Technetium
 Actinium
-Thorium
 Protactinium
-Uranium
-Neptunium
-Plutonium
-Americium
-Curium
 Berkelium
-Californium
-Einsteinium
 Fermium
 Mendelevium
-Nobelium
 Lawrencium
 Rutherfordium
 Dubnium
@@ -115,6 +120,7 @@ Meitnerium
 Darmstadtium
 Roentgenium
 Copernicium
+--- 5
 Nihonium
 Flerovium
 Moscovium
@@ -122,19 +128,581 @@ Livermorium
 Tennessine
 Oganesson
 
+=== bones
+title: Bones of the human body
+prompt: Name as many bones in the human body as you can (common names count)
+starcore: Hyoid
+--- 1
+Skull | cranium
+Femur | thigh bone | thighbone
+Rib | ribs | rib cage
+Spine | backbone | spinal column | vertebral column
+Collarbone | clavicle
+Jawbone | jaw | mandible
+--- 2
+Tibia | shinbone | shin bone
+Fibula
+Humerus | funny bone
+Radius
+Ulna
+Pelvis | hip bone | hipbone | pelvic bone
+Sternum | breastbone
+Shoulder Blade | scapula
+Kneecap | patella
+Vertebra | vertebrae
+Tailbone | coccyx
+Phalanges | phalanx | finger bones | toe bones
+Metacarpals | metacarpal
+Metatarsals | metatarsal
+Carpals | carpal | wrist bones
+Tarsals | tarsal | ankle bones
+Heel Bone | calcaneus
+Maxilla | upper jaw
+Sacrum
+Cheekbone | zygomatic | zygomatic bone
+Stapes | stirrup
+Incus | anvil
+Malleus | hammer
+Nasal Bone | nasal bones
+--- 3
+Hyoid
+Talus | astragalus
+Ilium
+Ischium
+Pubis | pubic bone
+Frontal Bone | frontal
+Parietal Bone | parietal
+Temporal Bone | temporal
+Occipital Bone | occipital
+Sphenoid
+Ethmoid
+Atlas
+Axis
+Cervical Vertebrae | cervical
+Thoracic Vertebrae | thoracic
+Lumbar Vertebrae | lumbar
+Scaphoid
+Lunate
+Triquetrum
+Pisiform
+Trapezium
+Trapezoid
+Capitate
+Hamate
+Cuboid
+Navicular
+Cuneiform | cuneiforms
+Lacrimal Bone | lacrimal
+Palatine Bone | palatine
+Vomer
+Inferior Nasal Concha | turbinate
+Sesamoid | sesamoids
+Floating Ribs
+True Ribs
+False Ribs
+Manubrium
+Xiphoid Process | xiphoid
+Ossicles
+Distal Phalanges
+Proximal Phalanges
+Middle Phalanges
+--- 4
+Medial Cuneiform
+Intermediate Cuneiform
+Lateral Cuneiform
+Hallux
+Os Coxae | innominate bone
+Acetabulum
+Mastoid Process | mastoid
+Styloid Process
+Odontoid | dens
+Zygomatic Arch
+Fontanelle
+Sutural Bones | wormian bones
+Fabella
+Os Trigonum
+Accessory Navicular
+Cervical Rib
+Coccygeal Vertebrae
+
+=== constellations
+title: Constellations
+prompt: Name as many constellations as you can
+starcore: Camelopardalis
+--- 1
+Orion
+Ursa Major | big dipper | great bear
+Ursa Minor | little dipper | little bear
+--- 2
+Cassiopeia
+Andromeda
+Pegasus
+Perseus
+Draco
+Hercules
+Scorpius | scorpio
+Leo
+Taurus
+Gemini
+Aries
+Virgo
+Libra
+Sagittarius
+Capricornus | capricorn
+Aquarius
+Pisces
+Cancer
+Cygnus | northern cross | swan
+Lyra
+Aquila
+Phoenix
+Centaurus
+Crux | southern cross
+Canis Major | great dog
+Canis Minor | little dog
+Hydra
+--- 3
+Cepheus
+Auriga
+Boötes | bootes
+Corona Borealis
+Ophiuchus
+Lepus
+Monoceros | unicorn
+Corvus
+Crater
+Lupus
+Delphinus
+Sagitta
+Vulpecula
+Lacerta
+Lynx
+Leo Minor
+Triangulum
+Cetus
+Eridanus
+Columba
+Carina
+Puppis
+Vela
+Pavo
+Grus
+Tucana
+Ara
+Serpens
+Scutum
+Coma Berenices
+Canes Venatici
+Corona Australis
+Piscis Austrinus
+Hydrus
+Musca
+Dorado
+Volans
+Chamaeleon
+--- 4
+Camelopardalis
+Equuleus
+Sextans
+Antlia
+Pyxis
+Caelum
+Pictor
+Reticulum
+Horologium
+Mensa
+Octans
+Apus
+Telescopium
+Microscopium
+Indus
+Norma
+Circinus
+Triangulum Australe
+Fornax
+Sculptor
+--- 5
+Argo Navis
+Quadrans Muralis
+Noctua
+Felis
+Antinous
+Cerberus
+Machina Electrica
+Officina Typographica
+Rangifer
+Tarandus
+Turdus Solitarius
+Psalterium Georgii
+Taurus Poniatovii
+Globus Aerostaticus
+Lochium Funis
+Sceptrum Brandenburgicum
+
+=== solar-system
+title: Solar system objects
+prompt: Name planets, moons, dwarf planets, comets and other named objects in our solar system
+starcore: Arrokoth
+--- 1
+Sun | the sun | sol
+Earth
+Mars
+Jupiter
+Saturn
+Moon | the moon | luna
+--- 2
+Mercury
+Venus
+Uranus
+Neptune
+Pluto
+Ceres
+Eris
+Titan
+Europa
+Io
+Ganymede
+Callisto
+Phobos
+Deimos
+Triton
+Charon
+Enceladus
+Halley's Comet | halley | halleys comet
+Asteroid Belt
+Kuiper Belt
+Oort Cloud
+--- 3
+Haumea
+Makemake
+Sedna
+Vesta
+Pallas
+Juno
+Hygiea
+Mimas
+Tethys
+Dione
+Rhea
+Iapetus
+Hyperion
+Phoebe
+Miranda
+Ariel
+Umbriel
+Titania
+Oberon
+Nereid
+Proteus
+Amalthea
+Himalia
+Nix
+Hydra
+Kerberos
+Styx
+Dysnomia
+Hale-Bopp
+Comet Shoemaker-Levy 9 | shoemaker-levy 9 | shoemaker levy
+Bennu
+Ryugu
+Itokawa
+Apophis
+Eros
+Psyche
+Ida
+Dactyl
+Gaspra
+Mathilde
+Arrokoth | ultima thule
+Quaoar
+Orcus
+Gonggong
+Varuna
+Ixion
+Salacia
+Chiron
+Comet Hale-Bopp
+Comet Hyakutake | hyakutake
+Comet Encke | encke
+Comet Swift-Tuttle | swift-tuttle
+Comet Tempel-Tuttle | tempel-tuttle
+67P | churyumov-gerasimenko | comet 67p
+Comet NEOWISE | neowise
+Comet Lovejoy | lovejoy
+Comet Wild 2 | wild 2
+Comet Tempel 1 | tempel 1
+Oumuamua | 'oumuamua
+Borisov | 2i borisov
+Heliopause
+Termination Shock
+Scattered Disc
+Hills Cloud
+Janus
+Epimetheus
+Pandora
+Prometheus
+Pan
+Atlas
+Metis
+Adrastea
+Thebe
+Puck
+Cordelia
+Ophelia
+Bianca
+Cressida
+Desdemona
+Juliet
+Portia
+Rosalind
+Belinda
+Perdita
+Mab
+Cupid
+Caliban
+Sycorax
+Prospero
+Setebos
+Stephano
+Trinculo
+Francisco
+Margaret
+Ferdinand
+Naiad
+Thalassa
+Despina
+Galatea
+Larissa
+Hippocamp
+Halimede
+Sao
+Laomedeia
+Psamathe
+Neso
+--- 4
+Vanth
+Weywot
+Namaka
+Hiʻiaka | hiiaka
+Actaea
+Ilmarë | ilmare
+Xiangliu
+Leda
+Lysithea
+Elara
+Ananke
+Carme
+Pasiphae
+Sinope
+Callirrhoe
+Themisto
+Megaclite
+Taygete
+Chaldene
+Harpalyke
+Kalyke
+Iocaste
+Erinome
+Isonoe
+Praxidike
+Autonoe
+Thyone
+Hermippe
+Aitne
+Eurydome
+Euanthe
+Euporie
+Orthosie
+Sponde
+Kale
+Pasithee
+Hegemone
+Mneme
+Aoede
+Thelxinoe
+Arche
+Kallichore
+Helike
+Carpo
+Eukelade
+Cyllene
+Kore
+Herse
+Dia
+Ersa
+Pandia
+Valetudo
+Eupheme
+Philophrosyne
+Daphnis
+Methone
+Anthe
+Pallene
+Telesto
+Calypso
+Helene
+Polydeuces
+Aegaeon
+Kiviuq
+Ijiraq
+Paaliaq
+Tarvos
+Albiorix
+Erriapus
+Siarnaq
+Skathi
+Mundilfari
+Suttungr
+Thrymr
+Ymir
+Narvi
+Bergelmir
+Fornjot
+Hati
+Bestla
+Farbauti
+Kari
+Loge
+Skoll
+Surtur
+Aegir
+Fenrir
+Greip
+Hyrrokkin
+Jarnsaxa
+Tarqeq
+--- 5
+Kamoʻoalewa | kamooalewa
+Cruithne
+Dinkinesh
+Selam
+Didymos
+Dimorphos
+Lutetia
+Steins
+Annefrank
+Braille
+Toutatis
+Geographos
+Castalia
+Kleopatra
+Eugenia
+Sylvia
+Antiope
+Hermione
+Kalliope
+Linus
+Interamnia
+Davida
+Euphrosyne
+Cybele
+Daphne
+Herculina
+Thisbe
+Doris
+Camilla
+Patientia
+Bamberga
+Fortuna
+Massalia
+Hebe
+Iris
+Flora
+Astraea
+Parthenope
+Victoria
+Egeria
+Irene
+Eunomia
+Thetis
+Melpomene
+Proserpina
+Euterpe
+Bellona
+Amphitrite
+Urania
+Pomona
+Polyhymnia
+Circe
+Leukothea
+Atalante
+Fides
+Laetitia
+Harmonia
+Isis
+Ariadne
+Nysa
+Hestia
+Aglaja
+Pales
+Virginia
+Nemausa
+Kalypso
+Alexandra
+Melete
+Mnemosyne
+Concordia
+Elpis
+Echo
+Danae
+Erato
+Ausonia
+Angelina
+Maja
+Asia
+Leto
+Hesperia
+Panopaea
+Niobe
+Feronia
+Klytia
+Eurydike
+Freia
+Frigga
+Diana
+Eurynome
+Sappho
+Terpsichore
+Alkmene
+Beatrix
+Klio
+Semele
+Julia
+Aegina
+Undina
+Minerva
+Aurora
+Arethusa
+Aegle
+Klotho
+Ianthe
+Dike
+Hekate
+Helena
+Miriam
+Hera
+Kassandra
+Thyra
+Baucis
+Ino
+Phaedra
+Andromache
+Iphigenia
+
 === gemstones
-title: Gemstones and minerals
-prompt: Name as many gemstones and minerals as you can
+title: Gemstones
+prompt: Name as many gemstones as you can
 starcore: Painite
----
+--- 1
 Diamond
 Ruby
 Emerald
 Sapphire
+Pearl
 Amethyst
+--- 2
 Topaz
 Opal
-Pearl
 Jade
 Garnet
 Turquoise
@@ -143,260 +711,192 @@ Quartz
 Rose Quartz
 Citrine
 Onyx
-Agate
-Jasper
-Obsidian
 Amber
 Peridot
+Obsidian
+Agate
 Tanzanite
 Tourmaline
-Zircon
 Moonstone
 Lapis Lazuli | lapis
-Malachite
+Jasper
 Coral
-Jet
-Bloodstone
-Carnelian
 Tiger's Eye | tigers eye
+Zircon
+Cubic Zirconia | cz
+Malachite
 Alexandrite
-Spinel
+Birthstone
+--- 3
 Morganite
+Spinel
 Kunzite
 Iolite
 Labradorite
 Sunstone
-Chrysoberyl
+Bloodstone
+Carnelian
+Chalcedony
+Jet
+Smoky Quartz
+Ametrine
 Beryl
 Corundum
-Feldspar
-Mica
-Calcite
-Fluorite
-Pyrite | fool's gold
+Chrysoberyl
+Cat's Eye | cats eye
 Hematite
-Magnetite
-Galena
-Gypsum
-Talc
-Halite
-Graphite
-Mica
-Olivine
-Serpentine
-Azurite
-Rhodochrosite
-Rhodonite
-Chrysocolla
+Pyrite | fool's gold
+Fluorite
 Sodalite
 Amazonite
 Aventurine
-Chalcedony
-Sardonyx
+Rhodochrosite
+Rhodonite
+Azurite
+Chrysocolla
+Chrysoprase
 Howlite
 Apatite
 Kyanite
-Tektite
 Moldavite
+Larimar
+Ammolite
+Mother of Pearl | nacre
+Black Opal
+Fire Opal
+Star Sapphire
+Star Ruby
+Padparadscha
+--- 4
+Tsavorite
+Demantoid
+Rhodolite
+Almandine
+Pyrope
+Spessartine
+Andradite
+Grossular
+Hessonite
 Benitoite
 Painite
-Grandidierite
 Taaffeite
+Grandidierite
 Red Beryl | bixbite
+Goshenite
+Heliodor
 Jadeite
 Nephrite
 Charoite
-Larimar
-Ammolite
-Smoky Quartz
-Ametrine
+Seraphinite
+Sugilite
+Prehnite
+Peridot Olivine | olivine
+Diopside
+Chrome Diopside
+Enstatite
 Andalusite
+Sphene | titanite
+Scapolite
+Danburite
+Petalite
+Phenakite
+Euclase
+Jeremejevite
+Musgravite
+Poudretteite
+Serendibite
+Kornerupine
+Sinhalite
+Hiddenite
+Paraiba Tourmaline | paraiba
+Watermelon Tourmaline
+Rubellite
+Indicolite
+Verdelite
+Dravite
+Schorl
+Tektite
+Libyan Desert Glass
+Opalite
+Goldstone
+Turritella Agate
+Moss Agate
+Fire Agate
+Blue Lace Agate
+Dendritic Agate
+Crazy Lace Agate
+Picture Jasper
+Ocean Jasper
+Dalmatian Jasper
+Mookaite
+Septarian
+Thunder Egg
+Geode
+Druzy
+Herkimer Diamond
+Moissanite
+Lab Diamond
+Black Diamond
+Pink Diamond
+Blue Diamond
+Canary Diamond
+Cultured Pearl
+Tahitian Pearl
+South Sea Pearl
+Akoya Pearl
+Freshwater Pearl
+Conch Pearl
+Melo Pearl
+Abalone
+Ivory
+Tortoiseshell
+--- 5
+Hackmanite
+Tugtupite
+Eudialyte
+Cavansite
+Dioptase
+Vivianite
+Variscite
+Wavellite
+Smithsonite
+Hemimorphite
+Cerussite
 Sphalerite
-Bauxite
-Cinnabar
-
-=== constellations
-title: Constellations
-prompt: Name as many constellations as you can
-starcore: Camelopardalis
----
-Orion
-Ursa Major | big dipper | great bear
-Ursa Minor | little dipper | little bear
-Cassiopeia
-Andromeda
-Perseus
-Pegasus
-Cygnus
-Lyra
-Aquila
-Draco
-Hercules
-Scorpius | scorpio
-Sagittarius
-Capricornus | capricorn
-Aquarius
-Pisces
-Aries
-Taurus
-Gemini
-Cancer
-Leo
-Virgo
-Libra
-Ophiuchus
-Canis Major
-Canis Minor
-Centaurus
-Crux | southern cross
-Cepheus
-Auriga
-Boötes | bootes
-Corona Borealis
-Corona Australis
-Lepus
-Monoceros
-Hydra
-Corvus
-Crater
-Sextans
-Leo Minor
-Lynx
-Camelopardalis
-Lacerta
-Vulpecula
-Sagitta
-Delphinus
-Equuleus
-Triangulum
-Cetus
-Eridanus
-Fornax
-Sculptor
-Phoenix
-Grus
-Tucana
-Pavo
-Indus
-Ara
-Lupus
-Norma
-Circinus
-Musca
-Chamaeleon
-Volans
-Carina
-Puppis
-Vela
-Pyxis
-Antlia
-Columba
-Caelum
-Pictor
-Dorado
-Reticulum
-Horologium
-Hydrus
-Mensa
-Octans
-Apus
-Telescopium
-Microscopium
-Piscis Austrinus
-Scutum
-Serpens
-Canes Venatici
-Coma Berenices
-Triangulum Australe
-
-=== programming-languages
-title: Programming languages
-prompt: Name as many programming languages as you can
-starcore: Brainfuck
----
-Python
-JavaScript | js
-Java
-C
-C++ | cpp
-C# | c sharp | csharp
-TypeScript | ts
-Ruby
-PHP
-Swift
-Kotlin
-Go | golang
-Rust
-SQL
-HTML
-CSS
-R
-MATLAB
-Perl
-Scala
-Haskell
-Lua
-Dart
-Objective-C | objective c
-Visual Basic | vb | vba
-Assembly | asm
-Fortran
-COBOL
-Pascal
-Delphi
-Lisp
-Clojure
-Scheme
-Racket
-Erlang
-Elixir
-F# | f sharp
-OCaml
-Julia
-Groovy
-Shell | bash
-PowerShell
-Prolog
-Smalltalk
-Ada
-Zig
-Nim
-Crystal
-Elm
-Solidity
-Scratch
-Logo
-BASIC
-Apex
-ABAP
-Hack
-Haxe
-Vala
-D
-Tcl
-AWK
-Sed
-Forth
-APL
-Simula
-ALGOL
-Modula-2
-Eiffel
-Brainfuck
-Whitespace
-COBOL
-Mojo
-Gleam
-Carbon
-WebAssembly | wasm
-GLSL
-HLSL
-Verilog
-VHDL
-LabVIEW
-Q
-Kdb
-PureScript
-ReasonML | reason
-CoffeeScript
-Ballerina
+Cassiterite
+Zincite
+Cuprite
+Rutile
+Rutilated Quartz
+Tourmalinated Quartz
+Lodolite
+Shattuckite
+Gaspeite
+Pietersite
+Stichtite
+Lepidolite
+Kammererite
+Brazilianite
+Amblygonite
+Beryllonite
+Hambergite
+Pollucite
+Ekanite
+Painite Red
+Bastnäsite
+Clinohumite
+Chondrodite
+Vesuvianite | idocrase
+Axinite
+Zoisite
+Tanzanite Blue
+Anyolite | ruby in zoisite
+Thulite
+Epidote
+Unakite
+Clinochlore
+Chlorastrolite
+Thomsonite
+Ajoite
+Papagoite
+Larimar Blue

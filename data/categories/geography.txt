@@ -1,529 +1,647 @@
-=== countries
-title: Countries
-prompt: Name as many countries as you can
+# Places. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== european-countries
+title: European countries
+prompt: Name as many countries in Europe as you can
 starcore: Liechtenstein
----
-Afghanistan
-Albania
-Algeria
-Andorra
-Angola
-Antigua and Barbuda | antigua
-Argentina
-Armenia
-Australia
-Austria
-Azerbaijan
-Bahamas | the bahamas
-Bahrain
-Bangladesh
-Barbados
-Belarus
-Belgium
-Belize
-Benin
-Bhutan
-Bolivia
-Bosnia and Herzegovina | bosnia
-Botswana
-Brazil
-Brunei
-Bulgaria
-Burkina Faso
-Burundi
-Cabo Verde | cape verde
-Cambodia
-Cameroon
-Canada
-Central African Republic | car
-Chad
-Chile
-China
-Colombia
-Comoros
-Republic of the Congo | congo | congo brazzaville
-Democratic Republic of the Congo | drc | dr congo | congo kinshasa | zaire
-Costa Rica @3
-Côte d'Ivoire | ivory coast | cote divoire
-Croatia
-Cuba
-Cyprus
-Czechia | czech republic
-Denmark
-Djibouti
-Dominica
-Dominican Republic @3
-Ecuador
-Egypt
-El Salvador
-Equatorial Guinea
-Eritrea
-Estonia
-Eswatini | swaziland
-Ethiopia
-Fiji
-Finland
+--- 1
 France
-Gabon
-Gambia | the gambia
-Georgia
 Germany
-Ghana
-Greece
-Grenada
-Guatemala
-Guinea
-Guinea-Bissau
-Guyana
-Haiti
-Honduras
-Hungary
-Iceland
-India
-Indonesia
-Iran
-Iraq
-Ireland
-Israel
 Italy
-Jamaica
-Japan
-Jordan
-Kazakhstan
-Kenya
-Kiribati
-Kosovo
-Kuwait
-Kyrgyzstan
-Laos
-Latvia
-Lebanon
-Lesotho
-Liberia
-Libya
-Liechtenstein
-Lithuania
-Luxembourg
-Madagascar
-Malawi
-Malaysia
-Maldives
-Mali
-Malta
-Marshall Islands
-Mauritania
-Mauritius
-Mexico
-Micronesia
-Moldova
-Monaco
-Mongolia
-Montenegro
-Morocco
-Mozambique
-Myanmar | burma
-Namibia
-Nauru
-Nepal
-Netherlands | holland | the netherlands
-New Zealand @1
-Nicaragua
-Niger
-Nigeria
-North Korea @1
-North Macedonia | macedonia
-Norway
-Oman
-Pakistan
-Palau
-Palestine
-Panama
-Papua New Guinea
-Paraguay
-Peru
-Philippines | the philippines
-Poland
+Spain
+United Kingdom | uk | britain | great britain | england
+--- 2
 Portugal
-Qatar
-Romania
+Ireland
+Netherlands | holland | the netherlands
+Belgium
+Switzerland
+Austria
+Greece
+Sweden
+Norway
+Denmark
+Finland
+Poland
 Russia
-Rwanda
-Saint Kitts and Nevis | st kitts and nevis | st kitts
-Saint Lucia | st lucia
-Saint Vincent and the Grenadines | st vincent
-Samoa
-San Marino
-São Tomé and Príncipe | sao tome
-Saudi Arabia @2
-Senegal
+Ukraine
+Iceland
+Scotland
+Wales
+Turkey | turkiye
+--- 3
+Czechia | czech republic
+Hungary
+Romania
+Bulgaria
+Croatia
 Serbia
-Seychelles
-Sierra Leone
-Singapore
 Slovakia
 Slovenia
-Solomon Islands
-Somalia
-South Africa @1
-South Korea | korea @1
-South Sudan
-Spain
-Sri Lanka
-Sudan
-Suriname
-Sweden
-Switzerland
-Syria
-Taiwan
-Tajikistan
-Tanzania
-Thailand
-Timor-Leste | east timor
-Togo
-Tonga
-Trinidad and Tobago | trinidad
-Tunisia
-Turkey | turkiye
-Turkmenistan
-Tuvalu
-Uganda
-Ukraine
-United Arab Emirates | uae @2
-United Kingdom | uk | britain | great britain
-United States | usa | us | america | united states of america
-Uruguay
-Uzbekistan
-Vanuatu
+Luxembourg
+Monaco
+Malta
+Cyprus
+Albania
+Estonia
+Latvia
+Lithuania
+Belarus
+Bosnia and Herzegovina | bosnia
+Montenegro
+North Macedonia | macedonia
+Moldova
 Vatican City | vatican | holy see
-Venezuela
-Vietnam
-Yemen
-Zambia
+San Marino
+Andorra
+Kosovo
+Northern Ireland
+--- 4
+Liechtenstein
+Georgia
+Armenia
+Azerbaijan
+Kazakhstan
+Faroe Islands
+Gibraltar
+Isle of Man
+Jersey
+Guernsey
+Greenland
+--- 5
+Åland | aland | aland islands
+Transnistria
+Abkhazia
+South Ossetia
+Svalbard
+Northern Cyprus
+Sovereign Military Order of Malta
+
+=== african-countries
+title: African countries
+prompt: Name as many countries in Africa as you can
+starcore: Eswatini
+--- 1
+Egypt
+South Africa
+Nigeria
+Kenya
+Morocco
+--- 2
+Ethiopia
+Ghana
+Madagascar
+Algeria
+Tunisia
+Libya
+Sudan
+Somalia
+Uganda
+Tanzania
+Rwanda
 Zimbabwe
+Congo | republic of the congo | congo brazzaville
+Democratic Republic of the Congo | drc | dr congo | congo kinshasa | zaire
+Senegal
+Cameroon
+Angola
+Mozambique
+Namibia
+Botswana
+Zambia
+Ivory Coast | cote d'ivoire | côte d'ivoire | cote divoire
+Mali
+--- 3
+South Sudan
+Niger
+Chad
+Burkina Faso
+Guinea
+Sierra Leone
+Liberia
+Togo
+Benin
+Gabon
+Malawi
+Lesotho
+Mauritania
+Eritrea
+Djibouti
+Mauritius
+Seychelles
+Gambia | the gambia
+Central African Republic | car
+Equatorial Guinea
+Burundi
+Cape Verde | cabo verde
+Western Sahara
+--- 4
+Eswatini | swaziland
+Guinea-Bissau
+Comoros
+São Tomé and Príncipe | sao tome and principe | sao tome
+Somaliland
+--- 5
+Réunion | reunion
+Mayotte
+Saint Helena
+Canary Islands
+Ceuta
+Melilla
+
+=== asian-countries
+title: Asian countries
+prompt: Name as many countries in Asia as you can
+starcore: Brunei
+--- 1
+China
+Japan
+India
+South Korea | korea
+Thailand
+Vietnam
+--- 2
+North Korea
+Indonesia
+Philippines | the philippines
+Malaysia
+Singapore
+Pakistan
+Afghanistan
+Iran
+Iraq
+Saudi Arabia
+Israel
+Turkey | turkiye
+Russia
+Nepal
+Bangladesh
+Sri Lanka
+Taiwan
+Mongolia
+Cambodia
+Laos
+Myanmar | burma
+United Arab Emirates | uae
+Qatar
+Syria
+Jordan
+Lebanon
+Kuwait
+Yemen
+--- 3
+Oman
+Bahrain
+Kazakhstan
+Uzbekistan
+Turkmenistan
+Kyrgyzstan
+Tajikistan
+Bhutan
+Maldives
+Brunei
+Timor-Leste | east timor
+Palestine
+Georgia
+Armenia
+Azerbaijan
+Hong Kong
+Macau | macao
+Cyprus
+--- 5
+Tibet
+Kurdistan
+Abkhazia
+Artsakh | nagorno-karabakh
+
+=== americas-countries
+title: Countries in the Americas
+prompt: Name as many countries in North, Central and South America and the Caribbean as you can
+starcore: Saint Vincent and the Grenadines
+--- 1
+United States | usa | us | america | united states of america
+Canada
+Mexico
+Brazil
+Argentina
+--- 2
+Chile
+Peru
+Colombia
+Venezuela
+Ecuador
+Bolivia
+Uruguay
+Paraguay
+Cuba
+Jamaica
+Haiti
+Dominican Republic
+Puerto Rico
+Costa Rica
+Panama
+Guatemala
+Honduras
+El Salvador
+Nicaragua
+Bahamas | the bahamas
+--- 3
+Belize
+Guyana
+Suriname
+Trinidad and Tobago | trinidad
+Barbados
+French Guiana
+Greenland
+Bermuda
+--- 4
+Saint Lucia | st lucia
+Grenada
+Dominica
+Antigua and Barbuda | antigua
+Saint Kitts and Nevis | st kitts and nevis | st kitts
+Saint Vincent and the Grenadines | st vincent | st vincent and the grenadines
+Aruba
+Curaçao | curacao
+Cayman Islands
+Turks and Caicos | turks and caicos islands
+US Virgin Islands
+British Virgin Islands
+--- 5
+Martinique
+Guadeloupe
+Anguilla
+Montserrat
+Sint Maarten
+Saint Martin
+Bonaire
+Saint Barthélemy | st barts | saint barthelemy
+Falkland Islands | falklands
+Saint Pierre and Miquelon
+Sint Eustatius
+Saba
 
 === us-states
 title: U.S. states
 prompt: Name as many U.S. states as you can
 starcore: Delaware
----
-Alabama
-Alaska
-Arizona
-Arkansas
+--- 1
 California
-Colorado
-Connecticut
-Delaware
+Texas
 Florida
-Georgia
+New York
 Hawaii
-Idaho
+Alaska
+--- 2
+Washington
+Oregon
+Nevada
+Arizona
+Colorado
+Utah
+Georgia
 Illinois
-Indiana
-Iowa
-Kansas
+Ohio
+Michigan
+Pennsylvania
+New Jersey
+Massachusetts
+Virginia
+North Carolina
+South Carolina
+Tennessee
 Kentucky
 Louisiana
-Maine
-Maryland
-Massachusetts
-Michigan
-Minnesota
+Alabama
 Mississippi
-Missouri
 Montana
-Nebraska
-Nevada
-New Hampshire
-New Jersey
-New Mexico
-New York
-North Carolina
-North Dakota
-Ohio
-Oklahoma
-Oregon
-Pennsylvania
-Rhode Island
-South Carolina
-South Dakota
-Tennessee
-Texas
-Utah
-Vermont
-Virginia
-Washington
-West Virginia
-Wisconsin
+Idaho
 Wyoming
+New Mexico
+Oklahoma
+Kansas
+Missouri
+Arkansas
+Iowa
+Minnesota
+Wisconsin
+Indiana
+Maine
+Vermont
+New Hampshire
+Connecticut
+Maryland
+West Virginia
+North Dakota
+South Dakota
+Nebraska
+--- 3
+Rhode Island
+Delaware
 
 === world-capitals
 title: Capital cities
 prompt: Name as many national capital cities as you can
 starcore: Ouagadougou
----
-Kabul
-Tirana
-Algiers
-Andorra la Vella
-Luanda
-Buenos Aires
-Yerevan
-Canberra
-Vienna
-Baku
-Nassau
-Manama
-Dhaka
-Bridgetown
-Minsk
-Brussels
-Belmopan
-Porto-Novo
-Thimphu
-Sucre
-La Paz
-Sarajevo
-Gaborone
-Brasília | brasilia
-Sofia
-Ouagadougou
-Gitega
-Phnom Penh
-Yaoundé | yaounde
-Ottawa
-N'Djamena | ndjamena
-Santiago
-Beijing | peking
-Bogotá | bogota
-Moroni
-Kinshasa
-Brazzaville
-San José | san jose
-Zagreb
-Havana
-Nicosia
-Prague
-Copenhagen
-Djibouti City | djibouti
-Santo Domingo
-Quito
-Cairo
-San Salvador
-Malabo
-Asmara
-Tallinn
-Addis Ababa
-Suva
-Helsinki
+--- 1
+London
 Paris
-Libreville
-Banjul
-Tbilisi
+Tokyo
+Washington, D.C. | washington dc | washington | dc
+Rome
 Berlin
-Accra
+Madrid
+Beijing | peking
+Moscow
+--- 2
+Ottawa
+Mexico City
+Canberra
+Wellington
+Dublin
+Lisbon
+Amsterdam
+Brussels
+Vienna
 Athens
-Guatemala City
-Conakry
-Bissau
-Georgetown
-Port-au-Prince | port au prince
-Tegucigalpa
+Stockholm
+Oslo
+Copenhagen
+Helsinki
+Warsaw
+Prague
 Budapest
-Reykjavik | reykjavík
+Bern
+Cairo
+Nairobi
 New Delhi | delhi
+Seoul
+Bangkok
+Hanoi
+Manila
 Jakarta
+Buenos Aires
+Brasília | brasilia
+Santiago
+Lima
+Bogotá | bogota
+Caracas
+Havana
+Kyiv | kiev
+Ankara
 Tehran
 Baghdad
-Dublin
-Jerusalem
-Rome
-Kingston
-Tokyo
-Amman
-Astana | nur-sultan
-Nairobi
-Tarawa
-Pristina
-Kuwait City
-Bishkek
-Vientiane
-Riga
-Beirut
-Maseru
-Monrovia
-Tripoli
-Vaduz
-Vilnius
-Luxembourg City | luxembourg
-Antananarivo
-Lilongwe
-Kuala Lumpur
-Malé | male
-Bamako
-Valletta
-Majuro
-Nouakchott
-Port Louis
-Mexico City
-Palikir
-Chișinău | chisinau
-Ulaanbaatar | ulan bator
-Podgorica
-Rabat
-Maputo
-Naypyidaw | nay pyi taw
-Windhoek
-Kathmandu
-Amsterdam
-Wellington
-Managua
-Niamey
-Abuja
-Pyongyang
-Skopje
-Oslo
-Muscat
-Islamabad
-Ngerulmud
-Panama City
-Port Moresby
-Asunción | asuncion
-Lima
-Manila
-Warsaw
-Lisbon
-Doha
-Bucharest
-Moscow
-Kigali
-Basseterre
-Castries
-Kingstown
-Apia
-San Marino
-São Tomé | sao tome
 Riyadh
-Dakar
-Belgrade
-Victoria
-Freetown
+Jerusalem
 Singapore
-Bratislava
-Ljubljana
-Honiara
-Mogadishu
-Pretoria
-Juba
-Madrid
-Colombo
-Khartoum
-Paramaribo
-Stockholm
-Bern
-Damascus
+Kuala Lumpur
+Islamabad
+Kabul
+Reykjavik | reykjavík
+Edinburgh
+Cardiff
+Belfast
 Taipei
-Dushanbe
-Dodoma
-Bangkok
-Dili
-Lomé | lome
-Nukuʻalofa | nukualofa
-Port of Spain
-Tunis
-Ankara
-Ashgabat
-Funafuti
-Kampala
-Kyiv | kiev
-Abu Dhabi
-London
-Washington, D.C. | washington dc | washington
-Montevideo
+--- 3
+Bucharest
+Sofia
+Belgrade
+Zagreb
+Ljubljana
+Bratislava
+Sarajevo
+Podgorica
+Skopje
+Tirana
+Chisinau | chișinău
+Minsk
+Vilnius
+Riga
+Tallinn
+Luxembourg City | luxembourg
+Monaco
+Valletta
+Nicosia
+Andorra la Vella
+San Marino
+Vaduz
+Vatican City
+Tbilisi
+Yerevan
+Baku
+Astana | nur-sultan
 Tashkent
-Port Vila
-Caracas
-Hanoi
+Ulaanbaatar | ulan bator
+Pyongyang
+Kathmandu
+Thimphu
+Dhaka
+Colombo
+Malé | male
+Naypyidaw | nay pyi taw
+Phnom Penh
+Vientiane
+Damascus
+Beirut
+Amman
+Kuwait City
+Doha
+Abu Dhabi
+Muscat
+Manama
 Sanaa | sana'a
+Rabat
+Algiers
+Tunis
+Tripoli
+Khartoum
+Addis Ababa
+Mogadishu
+Kampala
+Kigali
+Dodoma
 Lusaka
 Harare
+Pretoria
+Cape Town
+Gaborone
+Windhoek
+Maputo
+Luanda
+Kinshasa
+Brazzaville
+Accra
+Abuja
+Dakar
+Montevideo
+Asunción | asuncion
+La Paz
+Sucre
+Quito
+Panama City
+San José | san jose
+Managua
+Tegucigalpa
+San Salvador
+Guatemala City
+Belmopan
+Kingston
+Nassau
+Santo Domingo
+Port-au-Prince | port au prince
+San Juan
+Georgetown
+Paramaribo
+Port of Spain
+--- 4
+Ouagadougou
+Bamako
+Niamey
+N'Djamena | ndjamena
+Nouakchott
+Conakry
+Freetown
+Monrovia
+Yamoussoukro
+Abidjan
+Lomé | lome
+Porto-Novo
+Bissau
+Banjul
+Praia
+Malabo
+Libreville
+Yaoundé | yaounde
+Bangui
+Juba
+Asmara
+Djibouti City | djibouti
+Gitega
+Bujumbura
+Lilongwe
+Maseru
 Mbabane
+Lobamba
+Antananarivo
+Port Louis
+Victoria
+Moroni
+São Tomé | sao tome
+Dushanbe
+Bishkek
+Ashgabat
+Dili
+Bandar Seri Begawan
+Sri Jayawardenepura Kotte | kotte
+Suva
+Port Moresby
+Honiara
+Port Vila
+Apia
+Nuku'alofa | nukualofa
+Tarawa
+Majuro
+Palikir
+Ngerulmud
+Funafuti
+Yaren
+Bridgetown
+Castries
+Kingstown
+St. George's | st georges
+Roseau
+Basseterre
+St. John's | st johns
+Pristina
+--- 5
+Hargeisa
+Laayoune
+Tiraspol
+Sukhumi
+Tskhinvali
+Stepanakert
+Gaza
+Ramallah
+Nuuk
+Tórshavn | torshavn
+Douglas
+St Helier
+St Peter Port
+Gibraltar
+Hamilton
+George Town
+Road Town
+Charlotte Amalie
+Oranjestad
+Willemstad
+Philipsburg
+Cockburn Town
+Plymouth
+The Valley
+Stanley
+Avarua
+Alofi
+Papeete
+Nouméa | noumea
+Hagåtña | hagatna
+Pago Pago
+Saipan
+Adamstown
 
-=== solar-system
-title: Solar system objects
-prompt: Name planets, moons, dwarf planets and other named objects in our solar system
-starcore: Arrokoth
----
-Sun | the sun | sol
-Mercury
-Venus
-Earth
-Mars
-Jupiter
-Saturn
-Uranus
-Neptune
-Pluto
-Ceres
-Eris
-Haumea
-Makemake
-Sedna
-Quaoar
-Gonggong
-Orcus
-Moon | the moon | luna
-Phobos
-Deimos
-Io
-Europa
-Ganymede
-Callisto
-Amalthea
-Himalia
-Thebe
-Metis
-Titan
-Enceladus
-Mimas
-Tethys
-Dione
-Rhea
-Iapetus
-Hyperion
-Phoebe
-Janus
-Epimetheus
-Pandora
-Prometheus
-Miranda
-Ariel
-Umbriel
-Titania
-Oberon
-Puck
-Triton
-Nereid
-Proteus
-Charon
-Nix
-Hydra
-Kerberos
-Styx
-Dysnomia
-Vesta
-Pallas
-Hygiea
-Juno
-Psyche
-Eros
-Bennu
-Ryugu
-Itokawa
-Apophis
-Arrokoth
-Halley's Comet | halley | halleys comet
-Hale-Bopp
-Kuiper Belt
-Oort Cloud
-Asteroid Belt
+=== us-state-capitals
+title: U.S. state capitals
+prompt: Name as many U.S. state capitals as you can
+starcore: Montpelier
+--- 1
+Sacramento
+Austin
+Boston
+Atlanta
+Denver
+Honolulu
+--- 2
+Phoenix
+Nashville
+Albany
+Tallahassee
+Salt Lake City
+Columbus
+Indianapolis
+Springfield
+Richmond
+Raleigh
+Olympia
+Juneau
+Carson City
+Santa Fe
+Baton Rouge
+Oklahoma City
+Little Rock
+Des Moines
+Saint Paul | st paul
+Madison
+Lansing
+Harrisburg
+Trenton
+Hartford
+Providence
+Annapolis
+Dover
+Columbia
+Montgomery
+Jackson
+Frankfort
+Charleston
+Topeka
+Lincoln
+Cheyenne
+Helena
+Boise
+Salem
+--- 3
+Bismarck
+Pierre
+Jefferson City
+Concord
+Augusta
+Montpelier

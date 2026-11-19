@@ -1,24 +1,24 @@
 # Orebit
 
-A daily category game set on an asteroid. Every day you get five asteroids, each one a category. You have 30 seconds per asteroid to name as many answers as you can. Common answers are surface dust. Rare answers are buried deeper and worth more. Each asteroid hides one legendary answer, the Starcore.
+A daily category game set on an asteroid. Every day you get five asteroids, each one a category. You have 45 seconds per asteroid to name as many answers as you can. The obvious answers are plain stone. Rare answers are buried deeper and worth more. Each asteroid hides one legendary answer, the Starcore.
 
 ## Tiers
 
-| Tier | Depth | Share of answers |
+| Tier | Depth | What lands here |
 | --- | --- | --- |
-| Regolith | 10 m | most familiar 30% |
-| Iron | 20 m | next 25% |
-| Cobalt | 35 m | next 20% |
-| Gold | 55 m | next 15% |
-| Crystal | 90 m | rarest 10% |
-| Starcore | 250 m | one per category |
+| Stone | 10 m | The obvious answers almost everyone names |
+| Iron | 20 m | Well known |
+| Cobalt | 35 m | You know your stuff |
+| Gold | 55 m | Enthusiast level |
+| Crystal | 90 m | Deep cuts |
+| Starcore | 250 m | One legendary answer per category |
 
 ## How the answer data works
 
-1. Answer lists live in `data/categories/*.txt`. The format is in `data/categories/README.md`.
-2. `scripts/build_categories.py` scores each answer with the `wordfreq` library, which measures how often a word or name appears in real text. Multi-word names are scored by their rarest word with a small penalty per extra word.
-3. Answers are ranked inside their category and split into tiers by percentile. You can force a tier with `@1` to `@5` on any line when the numbers get it wrong.
-4. The build writes `src/data/categories.json`. The server reads it. Answer lists never ship to the browser until a round ends.
+1. Answer lists live in `data/categories/*.txt`, one file per theme. The format is in `data/categories/README.md`.
+2. Answers are listed under tier headings (`--- 1` to `--- 5`), sorted by how likely a player is to think of them in 45 seconds. This is a manual pass, the same approach Krillion describes for answers word counts can't rank. Aliases (other names, short forms, alternate spellings) go on the same line after `|`.
+3. `scripts/build_categories.py` merges duplicates, warns when one alias points at two answers, and writes `src/data/categories.json`. The server reads it. Answer lists never ship to the browser until the day is finished.
+4. A category without tier headings falls back to automatic tiers from the `wordfreq` library's word-frequency data.
 
 To rebuild the data after editing a category:
 
@@ -32,12 +32,12 @@ npm run build:data
 
 ## Daily schedule
 
-Every player gets the same five categories for a date (`ROUNDS_PER_DAY` in `src/lib/tiers.ts`). `src/lib/schedule.ts` shuffles all categories into a deck, deals five a day, and only repeats a category after every other one has been used. With 28 categories, each one comes back about every 5 to 6 days. Add more categories to stretch that out.
+Every player gets the same five categories for a date (`ROUNDS_PER_DAY` in `src/lib/tiers.ts`). `src/lib/schedule.ts` shuffles all categories into a deck, deals five a day, and only repeats a category after every other one has been used. With 43 categories, each one comes back about every 8 to 9 days. Add more categories to stretch that out.
 
 To hand-pick a day, add it to `data/schedule.json`:
 
 ```json
-{ "days": { "2026-12-25": ["desserts", "trees", "colors", "birds", "fruits"] } }
+{ "days": { "2026-12-25": ["cakes", "breads", "cocktails", "candy", "cheeses"] } }
 ```
 
 Set the launch day (puzzle #1) with `LAUNCH_DATE` in `src/lib/dates.ts`.

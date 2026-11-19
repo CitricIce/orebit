@@ -1,450 +1,1916 @@
-=== instruments
-title: Musical instruments
-prompt: Name as many musical instruments as you can
-starcore: Theremin
----
-Piano
-Guitar
-Violin
-Drums | drum | drum kit
-Flute
-Trumpet
-Saxophone | sax
-Clarinet
-Cello
-Bass | bass guitar | double bass
-Harp
-Trombone
-Tuba
-French Horn | horn @2
-Oboe
-Bassoon
-Viola
-Ukulele
-Banjo
-Mandolin
-Harmonica
-Accordion
-Organ
-Keyboard
-Synthesizer | synth
-Xylophone
-Marimba
-Vibraphone
-Glockenspiel
-Tambourine
-Triangle @2
-Cymbal
-Gong
-Bongos | bongo
-Congas | conga
-Timpani
-Snare Drum | snare
-Maracas
-Castanets
-Recorder @2
-Piccolo
-Bagpipes
-Sitar
-Tabla
-Didgeridoo
-Kazoo
-Ocarina
-Pan Flute | pan pipes
-Lute
-Lyre
-Zither
-Dulcimer
-Harpsichord
-Clavichord
-Celesta
-Euphonium
-Cornet
-Flugelhorn
-Sousaphone
-Bugle
-Cowbell
-Steel Drum | steelpan
-Djembe
-Cajón | cajon
-Kalimba | thumb piano
-Shamisen
-Koto
-Erhu
-Guzheng
-Pipa
-Shakuhachi
-Balalaika
-Bouzouki
-Oud
-Theremin
-Hurdy-gurdy
-Melodica
-Bagpipe
-Contrabassoon
-English Horn | cor anglais @4
-Hang Drum | handpan
-Tin Whistle | penny whistle
-Washboard @4
-Spoons
-Autoharp
-Mbira
-Charango
-Duduk
-Sarod
-Santoor
-Veena
-Bodhrán | bodhran
-Concertina
-Glass Harmonica @5
+# Culture. Tiers: 1 = almost everyone names it, 5 = deep cut.
 
-=== sports
-title: Sports
-prompt: Name as many sports as you can
-starcore: Sepak Takraw
----
-Soccer | football
-American Football
-Basketball
-Baseball
-Tennis
-Golf
-Hockey | ice hockey
-Volleyball
-Cricket
-Rugby
-Boxing
-Swimming
-Running | track
-Cycling
-Skiing
-Snowboarding
-Surfing
-Skateboarding
-Wrestling
-Gymnastics
-Badminton
-Table Tennis | ping pong
-Softball
-Lacrosse
-Field Hockey
-Water Polo
-Handball
-Bowling
-Archery
-Fencing
-Judo
-Karate
-Taekwondo
-Mixed Martial Arts | mma
-Rowing
-Canoeing | kayaking
-Sailing
-Diving
-Polo
-Equestrian | horse riding
-Horse Racing
-Auto Racing | car racing | formula one | f1
-Motocross
-Triathlon
-Marathon
-Decathlon
-Pole Vault
-High Jump
-Long Jump
-Shot Put
-Javelin
-Discus
-Hurdles
-Weightlifting
-Powerlifting
-Bodybuilding
-Climbing | rock climbing
-Bouldering
-Curling
-Bobsled | bobsleigh
-Luge
-Skeleton
-Biathlon
-Figure Skating
-Speed Skating
-Snooker
-Billiards | pool
-Darts
-Squash
-Racquetball
-Pickleball
-Padel
-Ultimate Frisbee | ultimate
-Disc Golf
-Dodgeball
-Kickball
-Netball
-Hurling
-Gaelic Football
-Australian Rules Football | aussie rules | afl
-Kabaddi
-Sepak Takraw
-Jai Alai
-Sumo
-Kendo
-Capoeira
-Muay Thai
-Kickboxing
-Orienteering
-Paragliding
-Skydiving
-Bungee Jumping
-Wakeboarding
-Kitesurfing
-Windsurfing
-Croquet
-Bocce
-Pétanque | petanque
-Korfball
-Bandy
-Floorball
-Chess Boxing
-Quidditch
-
-=== gods
+=== greek-roman-gods
 title: Greek and Roman gods
-prompt: Name as many Greek or Roman gods and goddesses as you can
+prompt: Name as many Greek or Roman gods, goddesses and titans as you can
 starcore: Nyx
----
+--- 1
 Zeus
-Jupiter
-Hera
-Juno
 Poseidon
-Neptune
 Hades
-Pluto
 Athena
-Minerva
 Apollo
-Artemis
-Diana
-Ares
-Mars
 Aphrodite
-Venus
 Hermes
-Mercury
-Hephaestus
-Vulcan
-Demeter
-Ceres
+Ares
+--- 2
+Hera
+Artemis
 Dionysus
-Bacchus
+Hephaestus
+Demeter
 Hestia
-Vesta
 Persephone
-Proserpina
 Eros
+Jupiter
+Neptune
+Pluto
+Mars
+Venus
+Mercury
+Minerva
+Diana
+Juno
+Vulcan
 Cupid
+Bacchus
+Ceres
+Vesta
+Saturn
+Cronus | kronos
 Gaia | gaea
 Uranus | ouranos
-Cronus | kronos
-Saturn
 Rhea
-Helios
-Sol
-Selene
-Luna
-Eos
-Aurora
+Atlas
+Prometheus
 Nike
-Victoria
-Hecate
 Pan
-Faunus
+Hecate | hekate
+Helios
+Selene
+Eos
 Nemesis
-Tyche
-Fortuna
 Janus
-Iris
+Fortuna
+Morpheus
 Hypnos
-Somnus
 Thanatos
+Medusa
+Hercules | heracles
+--- 3
+Hyperion
+Oceanus
+Tethys
+Theia
+Themis
+Mnemosyne
+Phoebe
+Coeus
+Crius
+Iapetus
+Epimetheus
+Menoetius
+Leto
+Metis
+Dione
+Asteria
+Astraeus
+Pallas
+Perses
+Styx
 Nyx
 Erebus
 Chaos
-Atlas
-Prometheus
-Hyperion
-Themis
-Mnemosyne
-Oceanus
-Tethys
-Asclepius
+Tartarus
+Aether
+Hemera
+Eris
+Tyche
+Iris
 Hebe
-Morpheus
+Asclepius
 Triton
 Amphitrite
-Eris
-Discordia
-Bellona
-Enyo
-Priapus
+Proteus
+Nereus
+Thetis
 Aeolus
 Boreas
 Zephyrus
-Quirinus
-Terminus
-Flora
+Notus
+Eurus
+Priapus
+Harmonia
+Phobos
+Deimos
+Enyo
+Bia
+Kratos
+Zelus
+Nemea
+Ananke
+Moirai | fates
+Clotho
+Lachesis
+Atropos
+Muses | muse
+Calliope
+Clio
+Erato
+Euterpe
+Melpomene
+Polyhymnia
+Terpsichore
+Thalia
+Urania
+Graces | charites
+Aglaea
+Euphrosyne
+Horae | hours
+Erinyes | furies
+Alecto
+Megaera
+Tisiphone
+Charon
+Cerberus
+Typhon
+Echidna
+Ganymede
+Psyche
+Adonis
+Orpheus
+Pandora
+Luna
+Sol
+Aurora
+Somnus
+Mors
+Faunus
+Silvanus
 Pomona
+Flora
+Quirinus
+Bellona
+Discordia
+Victoria
+Proserpina
+Liber
+Libera
+Terminus
+Lares
+Penates
+Genius
+Vertumnus
+Portunus
+Fides
+Concordia
+Pax
+Spes
+Salus
+Juventas
+Libertas
+Sol Invictus
+Mithras
+Vediovis
+Orcus
+Dis Pater
+Mania
+Lemures
+--- 4
+Achlys
+Aergia
+Alastor
+Aristaeus
+Attis
+Brizo
+Cabeiri
+Caerus | kairos
+Ceto
+Phorcys
+Chione
+Circe
+Dike
+Eirene
+Eunomia
+Eileithyia
+Enyalius
+Eurybia
+Eurynome
+Gelos
+Geras
+Hesperides
+Himeros
+Hymenaios | hymen
+Iacchus
+Lethe
+Leucothea
+Melinoe
+Momus
+Nereids
+Oizys
+Oneiroi
+Palaemon
+Pheme
+Philotes
+Plutus
+Pontus
+Ourea
+Thalassa
+Hydros
+Phanes
+Chronos
+Ophion
+Pothos
+Anteros
+Hedone
+Peitho
+Tychon
+Telesphorus
+Hygieia
+Panacea
+Iaso
+Aceso
+Aegle
+Epione
+Despoina
+Arion
+Pegasus
+Chrysaor
+Glaucus
+Galatea
+Polyphemus
+Cyclopes | cyclops
+Hecatoncheires
+Briareus
+Cottus
+Gyges
+Gigantes
+Porphyrion
+Alcyoneus
+Enceladus
+Tityos
+Sisyphus
+Tantalus
+Ixion
+Astraea
+Lelantos
+Clymene
+Pleione
+Pleiades
+Hyades
+Maia
+Electra
+Taygete
+Merope
+Alcyone
+Celaeno
+Sterope
+--- 5
+Abeona
+Adeona
+Angerona
+Anna Perenna
 Bona Dea
-Harpocrates
+Cardea
+Carmenta
+Cloacina
+Consus
+Cuba
+Cunina
+Dea Dia
+Egeria
+Falacer
+Feronia
+Furrina
+Inuus
+Laverna
+Lucina
+Mefitis
+Mellona
+Nenia
+Nundina
+Ops
+Palatua
+Pales
+Picus
+Pilumnus
+Robigus
+Rumina
+Sancus
+Securitas
+Semonia
+Strenua
+Summanus
+Tellus
+Tiberinus
+Vacuna
+Volturnus
+Volumna
+Volupta
+Vica Pota
+Viriplaca
+Edusa
+Fornax
+Larunda
+Muta
+Tacita
+Verminus
+Robigo
 
-=== shakespeare
-title: Shakespeare plays
-prompt: Name as many Shakespeare plays as you can
-starcore: Timon of Athens
----
-Hamlet
-Macbeth
-Romeo and Juliet
-Othello
-King Lear | lear
-A Midsummer Night's Dream | midsummer nights dream | midsummer
-The Tempest | tempest
-Twelfth Night
-Much Ado About Nothing
-The Merchant of Venice | merchant of venice
-Julius Caesar
-As You Like It
-The Taming of the Shrew | taming of the shrew
-Antony and Cleopatra
-Richard III | richard the third
-Richard II | richard the second
-Henry V | henry the fifth
-Henry IV Part 1 | henry iv | henry the fourth
-Henry IV Part 2
-Henry VI Part 1 | henry vi | henry the sixth
-Henry VI Part 2
-Henry VI Part 3
-Henry VIII | henry the eighth
-King John
-The Comedy of Errors | comedy of errors
-The Winter's Tale | winters tale
-Coriolanus
-Titus Andronicus
-Timon of Athens
-Troilus and Cressida
-Measure for Measure
-All's Well That Ends Well | alls well that ends well
-The Merry Wives of Windsor | merry wives of windsor
-Love's Labour's Lost | loves labours lost
-The Two Gentlemen of Verona | two gentlemen of verona
-Cymbeline
-Pericles
-The Two Noble Kinsmen | two noble kinsmen
+=== norse-mythology
+title: Norse gods and myths
+prompt: Name as many Norse gods, giants, creatures and places as you can
+starcore: Ratatoskr
+--- 1
+Thor
+Odin
+Loki
+Valhalla
+--- 2
+Freya | freyja
+Frigg | frigga
+Baldur | balder | baldr
+Heimdall | heimdallr
+Tyr | tiw
+Hel
+Fenrir | fenris | fenrir wolf
+Jörmungandr | jormungandr | midgard serpent | world serpent
+Asgard
+Midgard
+Yggdrasil | world tree
+Ragnarök | ragnarok
+Valkyrie | valkyries
+Mjölnir | mjolnir
+Sleipnir
+Bifrost
+Frost Giants | jotun | jotnar
+Jotunheim | jötunheimr
+Ymir
+Surtr | surt
+Vidar | vidarr
+Vali
+Njord | njordr
+Freyr | frey
+Bragi
+Idun | idunn
+Sif
+Hodr | hod | hoder
+Aesir
+Vanir
+Einherjar
+Draugr | draugar
+Dwarves
+Elves
+Huginn | hugin
+Muninn | munin
+Gungnir
+Norns
+Niflheim
+Muspelheim
+Helheim
+Alfheim
+Vanaheim
+Svartalfheim
+--- 3
+Ullr | ull
+Forseti
+Hodur
+Hermod | hermodr
+Mimir
+Kvasir
+Skadi
+Gerd | gerdr
+Nanna
+Sigyn
+Saga
+Eir
+Gefjon
+Fulla
+Lofn
+Sjofn
+Var
+Snotra
+Hlin
+Syn
+Gna
+Vor
+Sol | sunna
+Mani
+Nott
+Dagr
+Jord
+Rind
+Gunnlod
+Angrboda
+Hati
+Skoll
+Garmr | garm
+Nidhogg | nidhoggr
+Ratatoskr
+Vedrfolnir
+Hraesvelgr
+Audhumla
+Buri
+Bor
+Bestla
+Ask | askr
+Embla
+Urd | urdr
+Verdandi
+Skuld
+Brokkr
+Sindri | eitri
+Andvari
+Fafnir
+Regin
+Sigurd | siegfried
+Brunhild | brynhildr
+Thrym | thrymr
+Hrungnir
+Thjazi | thiazi
+Utgard-Loki | utgardaloki
+Skrymir
+Aegir
+Ran
+Hymir
+Geirrod
+Suttungr
+Baugi
+--- 4
+Gjallarhorn
+Draupnir
+Skidbladnir
+Gullinbursti
+Megingjord
+Jarngreipr
+Tanngrisnir
+Tanngnjostr
+Geri
+Freki
+Fensalir
+Bilskirnir
+Breidablik
+Glitnir
+Himinbjorg
+Folkvangr
+Sessrumnir
+Thrudheim
+Valaskjalf
+Hlidskjalf
+Gladsheim
+Vingolf
+Urdarbrunnr
+Mimisbrunnr
+Hvergelmir
+Ginnungagap
+Naglfar
+Gleipnir
+Lævateinn | laevateinn
+Brisingamen
+Andhrimnir
+Saehrimnir
+Heidrun
+Eikthyrnir
+Hildisvini
+Seidr
+Berserker | berserkers
+Ulfhednar
+Disir
+Fylgja
+Landvaettir
+Nisse | tomte
+Troll | trolls
+Kraken
+Lindworm
+Mare
+Huldra
+Nokken | nix
+Fossegrim
+Valknut
+Vegvisir
+Runes | futhark
+Edda
+Poetic Edda
+Prose Edda
+Voluspa
+Havamal
+--- 5
+Ve
+Vili
+Lodur
+Hoenir
+Delling
+Nal | laufey
+Farbauti
+Byleistr
+Helblindi
+Narfi
+Magni
+Modi
+Thrud
+Thialfi
+Roskva
+Egil
+Gymir
+Aurboda
+Beli
+Fjalar
+Galar
+Durinn
+Motsognir
+Dvalin
+Alvis
+Ivaldi
+Hreidmar
+Otr
+Ottar
+Hyndla
+Groa
+Vafthrudnir
+Hrimgerd
+Hyrrokkin
+Modgud
+Gjoll
+Nastrond
+Okolnir
+Brimir
+Gimle
+Vidblain
+Andlang
+Lyngvi
+Amsvartnir
+Thjodvitnir
+Hrimfaxi
+Skinfaxi
+Arvakr
+Alsvidr
+Svadilfari
+Grani
+Gulltoppr
+Gullfaxi
+Glaumr
+Hrafnkell
+Vingnir
+Lorride
+Hlora
+Haddingjar
 
-=== languages
-title: Languages
-prompt: Name as many spoken languages as you can
-starcore: Basque
----
-English
-Spanish
-French
-German
-Italian
-Portuguese
-Russian
-Chinese | mandarin
-Cantonese
-Japanese
-Korean
-Arabic
-Hindi
-Urdu
-Bengali
-Punjabi
-Tamil
-Telugu
-Marathi
-Gujarati
-Kannada
-Malayalam
-Persian | farsi
-Turkish
-Greek
-Hebrew
-Dutch
-Swedish
-Norwegian
-Danish
-Finnish
-Icelandic
-Polish
-Czech
-Slovak
-Hungarian
-Romanian
-Bulgarian
-Serbian
-Croatian
-Bosnian
-Slovenian
-Ukrainian
-Belarusian
-Lithuanian
-Latvian
-Estonian
-Albanian
-Armenian
-Georgian
-Azerbaijani
-Kazakh
-Uzbek
-Mongolian
-Tibetan
-Nepali
-Sinhala
-Burmese
-Thai
-Lao
-Khmer
-Vietnamese
-Malay
-Indonesian
-Tagalog | filipino
-Javanese
-Swahili
-Amharic
-Somali
-Yoruba
-Igbo
-Hausa
-Zulu
-Xhosa
-Afrikaans
-Shona
-Malagasy
-Hawaiian
-Maori
-Samoan
-Tongan
-Irish | irish gaelic
-Scottish Gaelic | gaelic
-Welsh
-Breton
-Basque
-Catalan
-Galician
-Maltese
-Latin
-Esperanto
-Yiddish
-Quechua
-Guarani
-Navajo
-Cherokee
-Inuktitut
-Kurdish
-Pashto
-Tigrinya
-Wolof
-Sanskrit
+=== board-games
+title: Board games
+prompt: Name as many board games as you can
+starcore: Twilight Imperium
+--- 1
+Monopoly
+Chess
+Checkers | draughts
+Scrabble
+Clue | cluedo
+Candy Land | candyland
+Sorry! | sorry
+Risk
+--- 2
+Life | the game of life | game of life
+Battleship
+Connect Four | connect 4
+Trivial Pursuit
+Catan | settlers of catan
+Operation
+Guess Who? | guess who
+Chutes and Ladders | snakes and ladders
+Backgammon
+Go
+Mouse Trap
+Pictionary
+Jenga
+Yahtzee
+Stratego
+Othello | reversi
+Mancala
+Parcheesi | ludo
+Trouble
+Hungry Hungry Hippos
+Boggle
+Taboo
+Scattergories
+Apples to Apples
+Mastermind
+Cranium
+Pandemic
+Ticket to Ride
+Carcassonne
+Codenames
+Dominoes | domino
+Chinese Checkers
+Twister
+Ouija
+Uno
+Cards Against Humanity
+Mahjong | mah jongg | mahjongg
+Hotels
+Dungeons and Dragons | d&d | dnd
+Axis and Allies | axis & allies
+Mousetrap
+Kerplunk | ker-plunk
+Don't Break the Ice
+Perfection
+Hi Ho Cherry-O | hi ho cherry o
+Payday | pay day
+Masterpiece
+Headbanz | hedbanz
+Pie Face
+--- 3
+Azul
+Splendor
+Wingspan
+7 Wonders
+Dominion
+Agricola
+Puerto Rico
+Power Grid
+Small World
+King of Tokyo
+Gloomhaven
+Terraforming Mars
+Scythe
+Twilight Imperium
+Twilight Struggle
+Arkham Horror
+Betrayal at House on the Hill | betrayal
+Dead of Winter
+Mysterium
+Dixit
+Sushi Go
+Exploding Kittens
+Love Letter
+Coup
+The Resistance
+Avalon | the resistance avalon
+Secret Hitler
+Werewolf | one night ultimate werewolf
+Mafia
+Blokus
+Qwirkle
+Patchwork
+Kingdomino
+Cascadia
+Everdell
+Root
+Brass | brass birmingham | brass lancashire
+Spirit Island
+Viticulture
+Lords of Waterdeep
+Istanbul
+Concordia
+Great Western Trail
+Through the Ages
+Star Wars Rebellion
+Battlestar Galactica
+Diplomacy
+Acquire
+Heroquest | hero quest
+Descent
+Mansions of Madness
+Eldritch Horror
+Zombicide
+Talisman
+Munchkin
+Smash Up
+Forbidden Island
+Forbidden Desert
+Flash Point | flash point fire rescue
+Hanabi
+The Crew
+The Mind
+Decrypto
+Just One
+Wavelength
+Telestrations
+Camel Up
+Quacks of Quedlinburg | quacks
+Santorini
+Hive
+Onitama
+Tsuro
+Takenoko
+Tokaido
+Jaipur
+Lost Cities
+Sagrada
+Century Spice Road | century
+Dune Imperium
+Dune
+Marvel Champions
+Lord of the Rings LCG
+Mage Knight
+Spartacus
+Cosmic Encounter
+Kemet
+Blood Rage
+Rising Sun
+Inis
+Cyclades
+El Grande
+Tigris and Euphrates
+Ra
+Modern Art
+Hey That's My Fish | hey thats my fish
+Machi Koro
+Bang! | bang
+Citadels
+Dominion Intrigue
+Race for the Galaxy
+Roll for the Galaxy
+Settlers of America
+--- 4
+Caylus
+Le Havre
+Ora et Labora
+Orleans
+Clans of Caledonia
+Gaia Project
+Terra Mystica
+Tzolk'in | tzolkin
+Feast for Odin | a feast for odin
+Castles of Burgundy | the castles of burgundy
+Grand Austria Hotel
+Lorenzo il Magnifico
+Underwater Cities
+Barrage
+On Mars
+Lisboa
+Vinhos
+Kanban
+The Gallerist
+Ark Nova
+Earth
+Heat Pedal to the Metal | heat
+Lost Ruins of Arnak | arnak
+Cartographers
+Calico
+Parks
+Paleo
+Clank!
+Quest for El Dorado
+Flamme Rouge
+Downforce
+Survive Escape from Atlantis | survive
+Fireball Island
+Crossbows and Catapults
+Outfoxed!
+Hoot Owl Hoot
+Zingo
+Rat-a-Tat Cat
+Sequence
+Rummikub
+Tripoley
+Aggravation
+Pente
+Gomoku
+Xiangqi | chinese chess
+Shogi
+Janggi
+Hnefatafl | tafl
+Nine Men's Morris | mills
+Fox and Geese
+Halma
+Senet
+Royal Game of Ur | game of ur
+Pachisi
+Chaupar
+Carrom
+Crokinole
+Shut the Box
+Liar's Dice | liars dice
+--- 5
+Here I Stand
+Advanced Squad Leader
+Paths of Glory
+Combat Commander
+Hannibal Rome vs Carthage
+Sekigahara
+Wilderness War
+Washington's War
+Labyrinth
+Fire in the Lake
+Andean Abyss
+Falling Sky
+Pendragon
+Dominant Species
+Antiquity
+Food Chain Magnate
+1830
+18Chesapeake
+Age of Steam
+Steam
+Railways of the World
+Snowdonia
+Keyflower
+Stone Age
+Village
+Trajan
+Bora Bora
+Mombasa
+Hansa Teutonica
+Navegador
+Antike
+Imperial
+Container
+Indonesia
+Ponzi Scheme
+Bus
+Tinners' Trail
+Kingsburg
+Troyes
+Nations
+Mombasa Trade
+Alchemists
+Lorenzo
+Teotihuacan
+Coimbra
+Maracaibo
+Hallertau
+Nusfjord
+Fields of Arle
+Caverna
+Glass Road
+Bohnanza
+Kraftwagen
+Nippon
+Madeira
+Gugong
+Tekhenu
+Trismegistus
+Golem
+Hadrian's Wall
+Weather Machine
+Ultimate Railroads
+Arler Erde
+Hegemony
+Voidfall
+Frosthaven
+Oath
+John Company
+Pax Pamir
+Pax Renaissance
+Vast
+Arcs
+
+=== card-games
+title: Card games
+prompt: Name as many card games as you can
+starcore: Pinochle
+--- 1
+Poker
+Blackjack | twenty-one | 21
+Go Fish
+Solitaire | klondike
+War
+Uno
+--- 2
+Rummy | gin rummy
+Spades
+Hearts
+Crazy Eights | crazy 8s
+Old Maid
+Slapjack
+Speed
+Spit
+Snap
+Bridge | contract bridge
+Euchre
+Canasta
+Cribbage
+Texas Hold'em | texas holdem | hold em
+Baccarat
+Pinochle
+Spider Solitaire | spider
+FreeCell | free cell
+Egyptian Ratscrew | egyptian ratslap | ers
+Bullshit | i doubt it | cheat
+President | asshole | scum
+Kings in the Corner
+Nertz | pounce
+Skip-Bo | skipbo
+Phase 10
+Exploding Kittens
+Cards Against Humanity
+Magic: The Gathering | magic the gathering | mtg | magic
+Pokémon TCG | pokemon cards | pokemon tcg
+Yu-Gi-Oh! | yugioh | yu gi oh
+Hearthstone
+Gwent
+Mao
+Concentration | memory | pairs
+Beggar My Neighbour | beggar thy neighbor
+Seven-card Stud | seven card stud
+Five-card Draw | five card draw
+Omaha
+Three-card Poker
+Pai Gow
+Casino
+--- 3
+Whist
+Bid Whist
+Oh Hell | oh hell
+Pitch | setback
+Spoons
+Pig
+Bluff
+Liar
+Cuttle
+Durak
+Tichu
+Big Two | big 2 | deuces
+Tien Len
+Daihinmin
+Scopa
+Briscola
+Tressette
+Sueca
+Truco
+Mus
+Belote
+Klaverjassen | klaverjas
+Jass
+Schafkopf
+Skat
+Doppelkopf
+Sheepshead
+Tarot | tarock
+Cego
+Piquet
+Écarté | ecarte
+Bezique
+Sixty-six | schnapsen
+Twenty-five
+Forty-five
+Five Hundred | 500
+Rook
+Hand and Foot
+Samba
+Bolivia
+Michigan Rummy
+Rummy 500
+Contract Rummy
+Shanghai
+Golf
+Pyramid
+TriPeaks | tri peaks
+Yukon
+Scorpion
+Canfield
+Forty Thieves
+Accordion
+Clock Patience | clock solitaire
+Patience
+Napoleon at St Helena
+Baker's Dozen
+Calculation
+Idiot's Delight
+Chinese Poker
+Razz
+Badugi
+Lowball
+Caribbean Stud
+Let It Ride
+Faro
+Chemin de Fer
+Punto Banco
+Red Dog
+Acey Deucey | in-between
+Pontoon
+Vingt-et-un
+Newmarket
+Michigan
+Sevens | fan tan | domino
+Rolling Stone
+Pishe Pasha
+Kalooki | kaluki
+Conquian
+Cassino
+--- 4
+Spite and Malice
+Russian Bank
+Racing Demon
+Dutch Blitz
+Rat-a-Tat Cat
+Sleeping Queens
+Monopoly Deal
+Love Letter
+Coup
+Sushi Go
+The Game
+Hanabi
+The Mind
+Fluxx
+Munchkin
+Dominion
+Star Realms
+Netrunner | android netrunner
+Legend of the Five Rings
+Lorcana | disney lorcana
+Flesh and Blood
+One Piece Card Game
+Digimon Card Game
+Vanguard | cardfight vanguard
+Weiss Schwarz
+Keyforge
+--- 5
+Guts
+Anaconda
+Follow the Queen
+Baseball Poker
+Indian Poker | blind mans bluff
+High Chicago
+Pass the Trash
+Screw Your Neighbor
+Ninety-nine
+Tute
+Brisca
+Chinchón | chinchon
+Burro
+Escoba
+Siete y Medio
+Tressette a Perdere
+Scopone
+Cirulla
+Marjapussi
+Ristikontra
+Sedma
+Mariáš | marias
+Ulti
+Snapszer
+Preferans
+Kozel
+Thousand | tysiacha
+Ganjifa
+Kabufuda
+Hanafuda
+Koi-Koi
+Oicho-Kabu
+Karuta
+Tuppenny
+Clobyosh
+Klaberjass
+Sixty-three
+Sergeant Major
+Ninety-eight
+Calabresella
+Gleek
+Primero
+Ombre
+Quadrille
+Bassett
+Loo
+Commerce
+Brag
+Pope Joan
+Speculation
+Tarocchi
+Minchiate
+Königrufen | konigrufen
+Troggu
+
+=== programming-languages
+title: Programming languages
+prompt: Name as many programming languages as you can
+starcore: Brainfuck
+--- 1
+Python
+JavaScript | js
+Java
+C++ | cpp
+C
+HTML
+--- 2
+C# | c sharp | csharp
+TypeScript | ts
+Ruby
+PHP
+Swift
+Kotlin
+Go | golang
+Rust
+SQL
+CSS
+R
+MATLAB
+Perl
+Scala
+Assembly | asm | assembly language
+Visual Basic | vb | vba | vb.net
+BASIC
+COBOL
+Fortran
+Pascal
+Lua
+Dart
+Objective-C | objective c | objc
+Bash | shell | sh
+PowerShell
+Scratch
+Haskell
+Lisp
+--- 3
+Clojure
+Scheme
+Racket
+Common Lisp
+Erlang
+Elixir
+F# | f sharp
+OCaml
+Julia
+Groovy
+Prolog
+Smalltalk
+Ada
+Zig
+Nim
+Crystal
+Elm
+Solidity
+Logo
+Delphi | object pascal
+Apex
+ABAP
+Hack
+Haxe
+Vala
+D
+Tcl
+AWK
+Sed
+Forth
+APL
+Simula
+ALGOL
+Modula-2
+Eiffel
+Brainfuck | brainf*ck | bf
+Whitespace
+Mojo
+Gleam
+Carbon
+WebAssembly | wasm
+GLSL
+HLSL
+Verilog
+VHDL
+LabVIEW
+CoffeeScript
+PureScript
+ReasonML | reason
+ReScript
+Ballerina
+Q | kdb | q/kdb+
+SAS
+SPSS
+Stata
+Mathematica | wolfram language | wolfram
+Maple
+Octave
+Scilab
+LaTeX | tex
+Markdown
+XML
+JSON
+YAML
+GraphQL
+PL/SQL | plsql
+T-SQL | tsql | transact-sql
+PL/I | pl1
+RPG
+JCL
+REXX
+CICS
+MUMPS | m
+Bourne Shell
+Zsh
+Fish
+Batch | bat | batch file
+AppleScript
+ActionScript
+VBScript
+JScript
+Processing
+Arduino
+MicroPython
+CUDA
+OpenCL
+--- 4
+Fortress
+Chapel
+X10
+Raku | perl 6
+Pike
+Io
+Self
+Oberon
+Modula-3
+Component Pascal
+Turbo Pascal
+QBasic
+GW-BASIC
+QuickBASIC
+FreeBASIC
+PureBasic
+BlitzBasic
+DarkBASIC
+Visual FoxPro | foxpro
+dBase
+Clipper
+Clarion
+PowerBuilder
+Progress | openedge abl
+Natural
+Uniface
+Magik
+Gosu
+Ceylon
+Xtend
+Fantom
+Red
+Rebol
+Factor
+Joy
+J
+K
+BQN
+Idris
+Agda
+Coq | rocq
+Lean
+Isabelle
+Standard ML | sml
+Miranda
+Clean
+Curry
+Mercury
+Oz
+Roc
+Odin
+Jai
+V | vlang
+Hare
+Pony
+Wren
+Squirrel
+AngelScript
+GDScript
+UnrealScript
+Blueprints
+Lingo
+HyperTalk
+Inform
+TADS
+Twine
+Ink
+--- 5
+INTERCAL
+Befunge
+Malbolge
+Piet
+Shakespeare Programming Language | shakespeare
+Chef
+LOLCODE | lolcode
+ArnoldC
+Ook!
+Unlambda
+FALSE
+Whenever
+Velato
+Cow
+Rockstar
+Emojicode
+Brainloller
+Thue
+Fractran
+Jelly
+05AB1E
+Pyth
+GolfScript
+CJam
+Vyxal
+Husk
+Japt
+Stax
+Retina
+Hexagony
+Labyrinth
+Funge-98
+Glass
+Grass
+Taxi
+Deadfish
+HQ9+ | hq9
+Plankalkül | plankalkul
+Short Code
+Autocode
+FLOW-MATIC
+COMTRAN
+FACT
+IPL
+JOSS
+JOVIAL
+SNOBOL
+SIMSCRIPT
+GPSS
+CORAL 66
+BCPL
+B
+NewSqueak
+Limbo
+Alef
+
+=== car-brands
+title: Car brands
+prompt: Name as many car brands as you can
+starcore: Koenigsegg
+--- 1
+Toyota
+Honda
+Ford
+Chevrolet | chevy
+BMW
+Mercedes-Benz | mercedes
+Tesla
+--- 2
+Audi
+Volkswagen | vw
+Nissan
+Hyundai
+Kia
+Mazda
+Subaru
+Lexus
+Jeep
+Dodge
+Ram
+Chrysler
+Cadillac
+Buick
+GMC
+Lincoln
+Porsche
+Ferrari
+Lamborghini
+Maserati
+Bugatti
+McLaren
+Aston Martin
+Bentley
+Rolls-Royce | rolls royce
+Jaguar
+Land Rover | range rover
+Mini
+Volvo
+Fiat
+Alfa Romeo
+Mitsubishi
+Acura
+Infiniti
+Genesis
+Pontiac
+Hummer
+Suzuki
+Peugeot
+Renault
+Citroën | citroen
+Opel
+Vauxhall
+Skoda | škoda
+Lotus
+DeLorean
+Rivian
+Polestar
+--- 3
+Lucid
+Fisker
+Saturn
+Oldsmobile
+Plymouth
+Mercury
+Scion
+Isuzu
+Daihatsu
+Datsun
+Saab
+Seat
+Cupra
+Dacia
+Lancia
+Smart
+Maybach
+Alpine
+BYD
+Geely
+Nio
+Xpeng
+Li Auto
+Great Wall
+Chery
+Haval
+Tata
+Mahindra
+Maruti | maruti suzuki
+Proton
+Perodua
+Lada
+Koenigsegg
+Pagani
+Rimac
+Spyker
+Noble
+Morgan
+TVR
+Caterham
+Ariel
+Hennessey
+SSC
+Shelby
+Saleen
+Panoz
+Vector
+Mosler
+DeTomaso | de tomaso
+Abarth
+Lynk & Co | lynk and co
+Zeekr
+Hongqi
+MG
+Rover
+Triumph
+Austin
+Morris
+Sunbeam
+Hillman
+Talbot
+Simca
+Trabant
+Wartburg
+Moskvitch
+Zastava
+Yugo
+GAZ
+UAZ
+ZIL
+Holden
+HSV
+Studebaker
+Packard
+Hudson
+Nash
+AMC
+Rambler
+Kaiser
+Willys
+Tucker
+Duesenberg
+Cord
+Auburn
+Pierce-Arrow
+Edsel
+DeSoto
+Imperial
+Eagle
+Geo
+Checker
+Karma
+--- 4
+Bristol
+Jensen
+AC
+Ginetta
+Radical
+BAC
+Lister
+Arash
+Zenvo
+W Motors
+Vencer
+Donkervoort
+Wiesmann
+Gumpert | apollo
+Artega
+Borgward
+Horch
+Wanderer
+DKW
+NSU
+Auto Union
+Hispano-Suiza
+Bizzarrini
+Iso
+Cizeta
+Facel Vega
+Panhard
+Delahaye
+Delage
+Venturi
+Ligier
+Microcar
+Aixam
+Matra
+BAIC
+Changan
+Dongfeng
+FAW
+GAC
+SAIC
+Wuling
+Baojun
+JAC
+Leapmotor
+Aiways
+Ora
+Tank
+Jetour
+Exeed
+Omoda
+Jaecoo
+Neta
+Hozon
+Seres
+Aito
+Avatr
+Denza
+Yangwang
+Fangchengbao
+Voyah
+IM Motors
+Rising Auto
+VinFast
+Togg
+Ssangyong | kgm
+Daewoo
+Samsung Motors | renault samsung
+--- 5
+Hindustan
+Premier
+Force Motors
+Bajaj
+Reva
+Inokom
+Bufori
+Timor
+Esemka
+Iran Khodro
+Saipa
+Pars Khodro
+Bahman
+Pyeonghwa
+Sungri
+Oltcit
+ARO
+Tatra
+Praga
+Aero
+Jawa
+Velorex
+Polski Fiat
+FSO
+FSM
+Syrena
+Warszawa
+Tarpan
+ZAZ
+ZAZ Zaporozhets | zaporozhets
+LuAZ
+Izh
+RAF
+KamAZ
+Volga
+Chaika
+Marussia
+Aurus
+Leyland
+Bond
+Reliant
+Gordon-Keeble
+Marcos
+Rochdale
+Clan
+Elva
+Lea-Francis
+Alvis
+Armstrong Siddeley
+Riley
+Wolseley
+Standard
+Singer
+Humber
+Lanchester
+Daimler
+Invicta
+Frazer Nash
+Allard
+HRG
+Healey
+Austin-Healey | austin healey
+Vanden Plas
+
+=== us-presidents
+title: U.S. presidents
+prompt: Name as many U.S. presidents as you can
+starcore: Chester A. Arthur
+--- 1
+George Washington | washington
+Abraham Lincoln | lincoln | abe lincoln
+Barack Obama | obama
+Donald Trump | trump
+Joe Biden | biden
+John F. Kennedy | kennedy | jfk | john f kennedy | john kennedy
+Thomas Jefferson | jefferson
+--- 2
+Ronald Reagan | reagan
+Bill Clinton | clinton
+George W. Bush | george w bush | bush jr | dubya | w
+George H. W. Bush | george hw bush | george bush sr | bush sr
+Franklin D. Roosevelt | fdr | franklin roosevelt | franklin delano roosevelt
+Theodore Roosevelt | teddy roosevelt | teddy | tr
+Richard Nixon | nixon
+Jimmy Carter | carter
+John Adams
+Andrew Jackson | jackson
+Dwight D. Eisenhower | eisenhower | ike
+Harry S. Truman | truman | harry truman
+Lyndon B. Johnson | lbj | lyndon johnson
+Gerald Ford | ford
+James Madison | madison
+Ulysses S. Grant | grant | ulysses grant
+Woodrow Wilson | wilson
+James Monroe | monroe
+--- 3
+John Quincy Adams | jqa
+Herbert Hoover | hoover
+Calvin Coolidge | coolidge
+Warren G. Harding | harding
+William Howard Taft | taft
+William McKinley | mckinley
+Grover Cleveland | cleveland
+Andrew Johnson
+James K. Polk | polk | james polk
+Martin Van Buren | van buren
+William Henry Harrison
+Zachary Taylor | taylor
+--- 4
+John Tyler | tyler
+Millard Fillmore | fillmore
+Franklin Pierce | pierce
+James Buchanan | buchanan
+Rutherford B. Hayes | hayes | rutherford hayes
+James A. Garfield | garfield | james garfield
+Chester A. Arthur | chester arthur | arthur
+Benjamin Harrison
+
+=== painters
+title: Famous painters
+prompt: Name as many famous painters as you can (last names count)
+starcore: Artemisia Gentileschi
+--- 1
+Leonardo da Vinci | da vinci | leonardo
+Pablo Picasso | picasso
+Vincent van Gogh | van gogh | vincent van gogh
+Michelangelo
+Claude Monet | monet
+Rembrandt | rembrandt van rijn
+--- 2
+Salvador Dalí | dali | salvador dali
+Frida Kahlo | kahlo | frida
+Andy Warhol | warhol
+Raphael
+Johannes Vermeer | vermeer
+Henri Matisse | matisse
+Édouard Manet | manet | edouard manet
+Pierre-Auguste Renoir | renoir
+Edgar Degas | degas
+Paul Cézanne | cezanne | paul cezanne
+Georgia O'Keeffe | o'keeffe | okeeffe
+Jackson Pollock | pollock
+Bob Ross
+Gustav Klimt | klimt
+Edvard Munch | munch
+Sandro Botticelli | botticelli
+Caravaggio
+Diego Rivera | rivera
+Paul Gauguin | gauguin
+Wassily Kandinsky | kandinsky
+Norman Rockwell | rockwell
+Roy Lichtenstein | lichtenstein
+Jean-Michel Basquiat | basquiat
+Keith Haring | haring
+René Magritte | magritte | rene magritte
+Francisco Goya | goya
+Diego Velázquez | velazquez
+Titian
+Hieronymus Bosch | bosch
+Banksy
+--- 3
+Peter Paul Rubens | rubens
+Jan van Eyck | van eyck
+Pieter Bruegel | bruegel | brueghel
+Albrecht Dürer | durer | albrecht durer
+Hans Holbein | holbein
+El Greco
+Tintoretto
+Giotto
+Donatello
+Fra Angelico
+Piero della Francesca
+Jacques-Louis David
+Eugène Delacroix | delacroix
+J. M. W. Turner | turner | william turner
+John Constable | constable
+Thomas Gainsborough | gainsborough
+Joshua Reynolds | reynolds
+William Blake | blake
+Caspar David Friedrich | friedrich
+Camille Pissarro | pissarro
+Alfred Sisley | sisley
+Berthe Morisot | morisot
+Mary Cassatt | cassatt
+Georges Seurat | seurat
+Henri de Toulouse-Lautrec | toulouse-lautrec | toulouse lautrec
+Amedeo Modigliani | modigliani
+Marc Chagall | chagall
+Joan Miró | miro | joan miro
+Piet Mondrian | mondrian
+Paul Klee | klee
+Kazimir Malevich | malevich
+Mark Rothko | rothko
+Willem de Kooning | de kooning
+Edward Hopper | hopper
+Grant Wood
+Andrew Wyeth | wyeth
+James McNeill Whistler | whistler
+John Singer Sargent | sargent
+Winslow Homer | homer
+Thomas Cole
+Albert Bierstadt | bierstadt
+Frederic Edwin Church
+Gilbert Stuart
+Francis Bacon
+Lucian Freud | freud
+David Hockney | hockney
+Damien Hirst | hirst
+Gerhard Richter | richter
+Yayoi Kusama | kusama
+Takashi Murakami | murakami
+Katsushika Hokusai | hokusai
+Utagawa Hiroshige | hiroshige
+Egon Schiele | schiele
+Franz Marc
+Ernst Ludwig Kirchner | kirchner
+Max Ernst
+Giorgio de Chirico | de chirico
+Joan Mitchell
+Helen Frankenthaler | frankenthaler
+Lee Krasner | krasner
+Frank Stella
+Jasper Johns
+Robert Rauschenberg | rauschenberg
+Cy Twombly | twombly
+Jean-Honoré Fragonard | fragonard
+François Boucher | boucher
+Antoine Watteau | watteau
+Nicolas Poussin | poussin
+Claude Lorrain
+Georges de La Tour
+Artemisia Gentileschi | gentileschi | artemisia
+Frans Hals | hals
+Anthony van Dyck | van dyck
+Jacob van Ruisdael | ruisdael
+Gerrit Dou
+Jan Steen
+Pieter de Hooch
+Carel Fabritius | fabritius
+--- 4
+Gustave Courbet | courbet
+Jean-François Millet | millet
+Camille Corot | corot
+Théodore Géricault | gericault
+Jean-Auguste-Dominique Ingres | ingres
+William-Adolphe Bouguereau | bouguereau
+Alexandre Cabanel
+Dante Gabriel Rossetti | rossetti
+John Everett Millais | millais
+John William Waterhouse | waterhouse
+Edward Burne-Jones
+Alphonse Mucha | mucha
+Gustave Moreau
+Odilon Redon | redon
+Pierre Bonnard | bonnard
+Édouard Vuillard | vuillard
+Henri Rousseau | rousseau
+André Derain | derain
+Maurice de Vlaminck
+Georges Braque | braque
+Fernand Léger | leger
+Juan Gris
+Robert Delaunay
+Sonia Delaunay
+Umberto Boccioni
+Giacomo Balla
+Tamara de Lempicka | lempicka
+Otto Dix
+George Grosz
+Max Beckmann | beckmann
+Käthe Kollwitz | kollwitz
+Emil Nolde
+Oskar Kokoschka | kokoschka
+Hilma af Klint
+Agnes Martin
+Barnett Newman
+Clyfford Still
+Franz Kline
+Robert Motherwell
+Philip Guston
+Arshile Gorky
+Hans Hofmann
+Jean Dubuffet | dubuffet
+Yves Klein
+Lucio Fontana | fontana
+Alberto Burri
+Francis Picabia
+Marcel Duchamp | duchamp
+Man Ray
+Leonora Carrington
+Remedios Varo
+Dorothea Tanning
+Kay Sage
+Yves Tanguy
+Paul Delvaux
+James Ensor
+Félix Vallotton
+Ferdinand Hodler
+Akseli Gallen-Kallela
+Ilya Repin | repin
+Ivan Aivazovsky | aivazovsky
+Ivan Shishkin
+Isaac Levitan
+Mikhail Vrubel
+Kuzma Petrov-Vodkin
+--- 5
+Cimabue
+Duccio
+Simone Martini
+Ambrogio Lorenzetti
+Pietro Lorenzetti
+Masaccio
+Paolo Uccello
+Filippo Lippi
+Filippino Lippi
+Domenico Ghirlandaio
+Andrea Mantegna
+Giovanni Bellini
+Antonello da Messina
+Vittore Carpaccio
+Giorgione
+Lorenzo Lotto
+Correggio
+Parmigianino
+Pontormo
+Bronzino
+Rosso Fiorentino
+Paolo Veronese | veronese
+Annibale Carracci
+Guido Reni
+Guercino
+Domenichino
+Orazio Gentileschi
+Luca Giordano
+Giovanni Battista Tiepolo | tiepolo
+Canaletto
+Francesco Guardi
+Rogier van der Weyden
+Hugo van der Goes
+Hans Memling
+Dieric Bouts
+Robert Campin
+Gerard David
+Quentin Matsys
+Joachim Patinir
+Lucas Cranach
+Matthias Grünewald | grunewald
+Albrecht Altdorfer
+Hans Baldung
+Adam Elsheimer
+Jusepe de Ribera
+Francisco de Zurbarán | zurbaran
+Bartolomé Esteban Murillo | murillo
+Juan Sánchez Cotán
+Hendrick Avercamp
+Aelbert Cuyp
+Meindert Hobbema
+Jan van Goyen
+Willem Kalf
+Rachel Ruysch
+Judith Leyster
+Clara Peeters
+Jean-Baptiste-Siméon Chardin | chardin
+Élisabeth Vigée Le Brun | vigee le brun
+Angelica Kauffman
+Rosalba Carriera
+Sofonisba Anguissola
+Lavinia Fontana

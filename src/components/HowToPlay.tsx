@@ -48,7 +48,7 @@ export default function HowToPlay() {
           drills you deeper.
         </li>
         <li>
-          <strong>Rare answers dig deeper.</strong> &ldquo;Poodle&rdquo; is surface dust. &ldquo;Azawakh&rdquo; is buried crystal. Speed and
+          <strong>Rare answers dig deeper.</strong> &ldquo;Poodle&rdquo; is plain stone. &ldquo;Azawakh&rdquo; is buried crystal. Speed and
           knowledge both pay off.
         </li>
         <li>

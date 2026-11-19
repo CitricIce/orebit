@@ -36,7 +36,7 @@ export default function OgImage() {
         <div style={{ fontSize: 34, letterSpacing: 10, color: "#ffb547", fontWeight: 700 }}>OREBIT</div>
         <div style={{ fontSize: 92, fontWeight: 700, lineHeight: 1.02, marginTop: 20, display: "flex", flexDirection: "column" }}>
           <span>Five asteroids.</span>
-          <span style={{ color: "#ffb547" }}>Thirty seconds each.</span>
+          <span style={{ color: "#ffb547" }}>45 seconds each.</span>
         </div>
         <div style={{ fontSize: 32, color: "#b9b0cc", marginTop: 28 }}>Name what you know. Rare answers dig deeper.</div>
         <div style={{ display: "flex", gap: 18, marginTop: 40 }}>

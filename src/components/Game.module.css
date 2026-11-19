@@ -538,6 +538,17 @@
   max-width: 860px;
 }
 
+.revealWrap .cargo {
+  margin-top: 24px;
+  flex: none;
+}
+
+.hint {
+  margin: 12px 0 0;
+  font-size: 14px;
+  color: var(--muted);
+}
+
 .revealHead .primaryBtn {
   margin-top: 20px;
 }
