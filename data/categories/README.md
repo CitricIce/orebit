@@ -77,5 +77,7 @@ The build merges them into the matching category:
 
 Every category needs a level in `data/difficulty.json` before it can be
 scheduled. Each day plays 4 easy categories and at most 1 medium one, which
-comes last. A category too hard for either level doesn't belong in the game.
+comes last. Easy means almost anyone can name 10 or more. Medium means most
+people can name about 5. When unsure, pick medium. A category too hard for
+either level doesn't belong in the game.
 After adding categories, run `npm run plan:calendar` to schedule them.
