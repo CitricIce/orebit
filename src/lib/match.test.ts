@@ -90,14 +90,14 @@ test("the calendar never repeats a category", () => {
   }
 });
 
-test("the calendar never schedules a hard category or the same question twice", () => {
+test("each day has at most one medium category and no question repeats", () => {
   const titles = new Map(catalog.categories.map((c) => [c.id, normalize(c.title)]));
   const seen = new Set<string>();
   for (const day of calendar.days) {
     const medium = day.filter((id) => levels.medium.includes(id));
     assert.ok(medium.length <= 1, `more than one medium category on a day: ${day}`);
     for (const id of day) {
-      assert.ok(!levels.hard.includes(id), `${id} is too hard to schedule`);
+      assert.ok(levels.easy.includes(id) || levels.medium.includes(id), `${id} has no level`);
       const title = titles.get(id);
       assert.ok(title, `${id} is missing from the catalog`);
       assert.ok(!seen.has(title), `${id} repeats an earlier question`);

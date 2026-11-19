@@ -10,7 +10,6 @@
     "build:data": "python3 scripts/build_categories.py",
     "test": "tsx --test src/lib/*.test.ts",
     "fetch:wikidata": "python3 scripts/fetch_wikidata.py",
-    "generate:categories": "python3 scripts/generate_categories.py",
     "plan:calendar": "python3 scripts/plan_calendar.py"
   },
   "dependencies": {

@@ -7,10 +7,10 @@ in the file are never changed, so archives and players' saved runs stay
 correct. Each run fills as many new days as the unused categories allow.
 
 Mixing rules for each new day:
-- Every category has a level in data/difficulty.json. Hard ones are never
-  scheduled. Each day gets EASY_PER_DAY easy categories and one medium one,
-  and the medium one is played last (the farthest asteroid).
-- Different families on the same day where possible (no two award lists
+- Every category has a level in data/difficulty.json, easy or medium. Each
+  day gets EASY_PER_DAY easy categories and one medium one, and the medium
+  one is played last (the farthest asteroid).
+- Different families on the same day where possible (no two food categories
   together). When only a few families have categories left, a family may
   appear at most MAX_PER_FAMILY times in one day.
 - Families take turns, so one big family can't crowd out the rest.
@@ -52,7 +52,7 @@ def launch_date() -> date:
 
 def load_levels(ids: list[str]) -> dict[str, str]:
     data = json.loads(LEVELS.read_text(encoding="utf-8"))
-    levels = {cid: lvl for lvl in ("easy", "medium", "hard") for cid in data[lvl]}
+    levels = {cid: lvl for lvl in ("easy", "medium") for cid in data[lvl]}
     missing = [cid for cid in ids if cid not in levels]
     if missing:
         sys.exit(f"Give these categories a level in data/difficulty.json first: {missing}")
@@ -77,7 +77,7 @@ def main() -> None:
     pins = json.loads(PINS.read_text(encoding="utf-8")).get("days", {}) if PINS.exists() else {}
 
     rng = random.Random(SEED + len(days))
-    unused = [c for c in cats if c["id"] not in used and levels[c["id"]] != "hard"]
+    unused = [c for c in cats if c["id"] not in used]
     rng.shuffle(unused)
 
     # One queue per (level, family), so families can take turns.

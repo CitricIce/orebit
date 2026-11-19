@@ -63,5 +63,5 @@ The build merges them into the matching category:
 
 Every category needs a level in `data/difficulty.json` before it can be
 scheduled. Each day plays 4 easy categories and at most 1 medium one, which
-comes last. Hard categories stay in the build but are never scheduled.
+comes last. A category too hard for either level doesn't belong in the game.
 After adding categories, run `npm run plan:calendar` to schedule them.

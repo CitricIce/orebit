@@ -1,5 +1,5 @@
 {
-  "_comment": "How hard each category is for a typical player. easy: most people name 10+ answers. medium: fine as one round of five. hard: never scheduled. Each day gets 4 easy and at most 1 medium, played last. Every category needs a level here before it can be scheduled.",
+  "_comment": "How hard each category is for a typical player. easy: most people name 10+ answers. medium: fine as one round of five. Each day gets 4 easy and at most 1 medium, played last. Every category needs a level here before it can be scheduled.",
   "easy": [
     "african-countries",
     "americas-countries",
@@ -51,30 +51,5 @@
     "composers",
     "constellations",
     "emperors"
-  ],
-  "hard": [
-    "horse-breeds",
-    "mushrooms",
-    "shakespeare",
-    "wine-grapes",
-    "best-picture-winners",
-    "best-actor-oscar-winners",
-    "best-actress-oscar-winners",
-    "ballon-d-or-winners",
-    "u-s-vice-presidents",
-    "prime-ministers-of-the-uk",
-    "roman-emperors",
-    "nobel-peace-prize-winners",
-    "nobel-prize-in-literature-winners",
-    "grammy-album-of-the-year-winners",
-    "best-director-oscar-winners",
-    "palme-d-or-winners",
-    "pulitzer-prize-for-fiction-winners",
-    "booker-prize-winners",
-    "popes",
-    "u-s-secretaries-of-state",
-    "presidents-of-france",
-    "prime-ministers-of-japan",
-    "prime-ministers-of-australia"
   ]
 }
