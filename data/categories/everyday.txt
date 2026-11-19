@@ -1,0 +1,1719 @@
+# Brands, snacks, getting around and around town. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== fast-food
+title: Fast food chains
+prompt: Name as many fast food or restaurant chains as you can
+--- 1
+McDonald's | mcdonalds | maccas
+Burger King
+KFC | kentucky fried chicken
+Subway
+Wendy's | wendys
+Taco Bell
+Pizza Hut
+Domino's | dominos
+Starbucks
+Dunkin' | dunkin donuts | dunkin
+--- 2
+Chick-fil-A | chick fil a
+Popeyes
+Five Guys
+In-N-Out | in n out
+Shake Shack
+Chipotle
+Panera Bread | panera
+Papa John's | papa johns
+Little Caesars
+Arby's | arbys
+Sonic
+Jack in the Box
+Carl's Jr. | carls jr
+Hardee's
+Dairy Queen
+Whataburger
+White Castle
+Culver's
+Del Taco
+Panda Express
+Wingstop
+Buffalo Wild Wings
+Raising Cane's | raising canes
+Jersey Mike's
+Jimmy John's
+Firehouse Subs
+Quiznos
+Krispy Kreme
+Tim Hortons
+Baskin-Robbins | baskin robbins
+Cold Stone Creamery | cold stone
+Denny's | dennys
+IHOP
+Waffle House
+Applebee's
+Chili's
+Olive Garden
+Red Lobster
+Outback Steakhouse | outback
+TGI Fridays | fridays
+Hooters
+Cracker Barrel
+Cheesecake Factory
+Nando's | nandos
+Greggs
+Pret A Manger | pret
+Costa | costa coffee
+Wagamama
+Five Guys
+Jollibee
+Taco John's
+Long John Silver's
+A&W
+Steak 'n Shake
+Zaxby's
+Bojangles
+Church's Chicken
+El Pollo Loco
+Qdoba
+Moe's
+Noodles & Company
+Pollo Tropical
+Smashburger
+--- 3
+Wimpy
+Harvester
+Toby Carvery
+Frankie & Benny's
+Pizza Express
+Zizzi
+Prezzo
+Bella Italia
+Yo! Sushi
+Itsu
+Leon
+Itsu
+Chopt
+Sweetgreen
+Cava
+Portillo's
+Whataburger
+Krystal
+Checkers
+Rally's
+Freddy's
+Cook Out
+Bob Evans
+Perkins
+Golden Corral
+Ruby Tuesday
+Red Robin
+Friendly's
+Boston Market
+Del Frisco's
+Texas Roadhouse
+LongHorn Steakhouse
+Ruth's Chris
+P.F. Chang's
+Benihana
+Hot Pot
+Haidilao
+Yoshinoya
+Sukiya
+CoCo Ichibanya
+MOS Burger
+Lotteria
+Mister Donut
+Hungry Jack's
+Red Rooster
+Oporto
+Guzman y Gomez
+Mary Brown's
+Harvey's
+Swiss Chalet
+Mr. Sub
+Mighty Taco
+Jack's
+Blimpie
+Schlotzsky's
+Potbelly
+McAlister's
+Dave's Hot Chicken
+Slim Chickens
+PDQ
+Jet's Pizza
+Marco's Pizza
+Sbarro
+Cinnabon
+Auntie Anne's
+Wetzel's Pretzels
+Jamba
+Smoothie King
+Tropical Smoothie Cafe
+Caribou Coffee
+Peet's Coffee
+Dutch Bros
+Biggby
+
+=== snacks
+title: Snack foods
+prompt: Name as many snack foods as you can
+--- 1
+Chips | crisps | potato chips
+Popcorn
+Pretzels | pretzel
+Crackers
+Cookies | biscuits
+Candy | sweets
+Chocolate
+Nuts | peanuts
+Fruit
+--- 2
+Nachos
+Tortilla chips
+Doritos
+Cheetos
+Pringles
+Lay's | walkers
+Fritos
+Goldfish
+Cheez-Its | cheez its
+Ritz
+Trail mix
+Granola bar | cereal bar
+Protein bar
+Beef jerky | jerky
+Rice cakes
+Popsicle | ice lolly
+Ice cream
+Yogurt
+Cheese and crackers
+String cheese
+Apple slices
+Grapes
+Carrot sticks
+Celery and peanut butter
+Hummus
+Dip
+Salsa
+Guacamole
+Veggie sticks
+Pork rinds | scratchings | pork scratchings
+Onion rings
+Mozzarella sticks
+Chicken nuggets
+Pizza rolls
+Hot Pockets
+Popsicles
+Gummy bears
+Fruit snacks
+Fruit roll-up
+Raisins
+Dried fruit
+Seeds | sunflower seeds
+Edamame
+Muffin
+Brownie
+Cupcake
+Donut | doughnut
+Toast
+Cereal
+Oreos | oreo
+Twinkies
+Pop-Tarts
+Rice Krispie treat
+Peanut butter crackers
+Pita chips
+Bagel chips
+Kale chips
+Veggie straws
+Cheese puffs
+Funyuns
+Takis
+Wotsits
+Quavers
+Monster Munch
+Hula Hoops
+Skips
+--- 3
+Twiglets
+Mini Cheddars
+Scampi Fries
+Frazzles
+Nik Naks
+Pom-Bears
+Discos
+McCoy's
+Kettle chips
+Tyrrell's
+Sun Chips
+Ruffles
+Tostitos
+Bugles
+Combos
+Chex Mix
+Gardetto's
+Corn nuts
+Pirate's Booty
+Smartfood
+Cracker Jack
+Kettle corn
+Caramel corn
+Trail mix
+Mixed nuts
+Bombay mix
+Chakli
+Murukku
+Bhujia
+Samosa
+Pakora
+Spring roll
+Seaweed snacks
+Pocky
+Shrimp chips | prawn crackers
+Senbei
+Mochi
+Onigiri
+Dango
+Takoyaki
+Edamame
+Plantain chips
+Chicharrón
+Elote
+Churros
+Empanada
+Pão de queijo
+Coxinha
+Arancini
+Scotch egg
+Sausage roll
+Pork pie
+Biltong
+Droëwors
+Fruit leather
+Fig rolls
+Jaffa cakes
+Hobnobs
+Digestives
+Club biscuits
+Penguin
+Tunnock's
+Wagon Wheels
+
+=== juices
+title: Non-alcoholic drinks
+prompt: Name as many drinks without alcohol as you can
+--- 1
+Water
+Coffee
+Tea
+Milk
+Orange juice
+Apple juice
+Lemonade
+Hot chocolate | cocoa
+Soda | pop | fizzy drink
+Cola | coke
+--- 2
+Smoothie
+Milkshake
+Iced tea
+Iced coffee
+Grape juice
+Cranberry juice
+Pineapple juice
+Tomato juice
+Grapefruit juice
+Mango juice
+Carrot juice
+Coconut water
+Sparkling water | fizzy water | soda water
+Mineral water
+Tonic water
+Ginger ale
+Ginger beer
+Root beer
+Lemonade
+Energy drink
+Sports drink
+Squash | cordial
+Juice box
+Chocolate milk
+Strawberry milk
+Oat milk
+Almond milk
+Soy milk
+Latte
+Cappuccino
+Espresso
+Mocha
+Chai
+Green tea
+Herbal tea
+Bubble tea | boba
+Kombucha
+Lassi
+Horchata
+Agua fresca
+Slushie | slush | slurpee
+Frappuccino
+Mocktail
+Virgin mojito
+Shirley Temple
+Arnold Palmer
+Eggnog
+Apple cider
+Hot apple cider
+Limeade
+Punch
+Fruit punch
+Kool-Aid
+--- 3
+Vimto
+Ribena
+Barley water
+Elderflower cordial
+Dandelion and burdock
+Sarsaparilla
+Birch beer
+Cream soda
+Egg cream
+Malted milk
+Ovaltine
+Horlicks
+Milo
+Bovril
+Yakult
+Kefir
+Ayran
+Doogh
+Tamarind juice
+Sugarcane juice
+Jamaica | hibiscus tea
+Sorrel
+Tejuino
+Atole
+Champurrado
+Chicha morada
+Mate | yerba mate
+Tereré
+Rooibos
+Matcha latte
+Golden milk | turmeric latte
+Dirty chai
+Cortado
+Flat white
+Americano
+Affogato
+Turkish coffee
+Vietnamese iced coffee
+Thai iced tea
+Hong Kong milk tea
+Teh tarik
+Masala chai
+Sweet tea
+Sun tea
+Kvass
+Switchel
+Shrub
+Tepache
+Jun
+Water kefir
+Calamansi juice
+Soursop juice
+Guava juice
+Passion fruit juice
+Lychee juice
+Aloe vera drink
+Coconut milk
+Rice milk
+Hemp milk
+Cashew milk
+Pea milk
+
+=== burger-toppings
+title: Burger toppings
+prompt: Name as many things you can put on a burger as you can
+--- 1
+Cheese
+Lettuce
+Tomato
+Onion | onions
+Pickles | pickle | gherkin
+Ketchup
+Mustard
+Mayonnaise | mayo
+Bacon
+--- 2
+Jalapeños | jalapenos | jalapeño
+Avocado
+Guacamole
+Fried egg | egg
+Mushrooms | mushroom
+Caramelized onions | caramelised onions
+Onion rings
+Barbecue sauce | bbq sauce
+Relish
+Hot sauce
+Sriracha
+Chili | chilli
+Coleslaw
+Pineapple
+Peppers
+Cheddar
+Swiss cheese
+American cheese
+Blue cheese
+Pepper jack
+Mozzarella
+Brie
+Goat cheese
+Feta
+Ranch
+Thousand island
+Special sauce | burger sauce
+Aioli
+Chipotle mayo
+Garlic mayo
+Spinach
+Arugula | rocket
+Cucumber
+Beetroot | beet
+Sauerkraut
+Kimchi
+Hash brown
+Fries
+Pulled pork
+Pastrami
+Ham
+Salami
+Pepperoni
+Chili con carne
+Peanut butter
+Hummus
+Pesto
+Sweet chili sauce
+Teriyaki
+--- 3
+Gruyère
+Provolone
+Monterey Jack
+Halloumi
+Fried pickles
+Pickled onions
+Pickled red onions
+Banana peppers
+Pepperoncini
+Roasted red peppers
+Sun-dried tomatoes
+Grilled pineapple
+Bacon jam
+Onion jam
+Fig jam
+Cranberry sauce
+Tzatziki
+Harissa
+Gochujang
+Wasabi mayo
+Truffle mayo
+Chimichurri
+Salsa verde
+Pico de gallo
+Salsa
+Queso
+Nacho cheese
+Mac and cheese
+Foie gras
+Lobster
+Shrimp
+Crispy shallots
+Fried onions
+Shoestring onions
+Microgreens
+Sprouts
+Watercress
+Iceberg
+Romaine
+Butter lettuce
+Beefsteak tomato
+Heirloom tomato
+Fried green tomato
+Egg yolk
+Bone marrow
+Black pudding
+Haggis
+Chorizo
+Nduja
+Prosciutto
+Corned beef
+Spam
+Potato chips
+
+=== vehicles
+title: Vehicles
+prompt: Name as many vehicles as you can
+--- 1
+Car
+Bus
+Train
+Plane | airplane | aeroplane
+Bicycle | bike
+Motorcycle | motorbike
+Truck | lorry
+Boat
+Helicopter
+Ship
+Taxi | cab
+Van
+--- 2
+Scooter
+Tram | streetcar | trolley
+Subway | metro | underground | tube
+Ambulance
+Fire truck | fire engine
+Police car
+Tractor
+Bulldozer
+Digger | excavator
+Crane
+Forklift
+Dump truck
+Cement mixer
+Garbage truck | bin lorry
+Tank
+Jeep
+SUV
+Limousine | limo
+Minivan | people carrier
+Pickup truck
+Convertible
+Sports car
+Race car | racing car
+Go-kart
+Golf cart
+Quad bike | atv
+Snowmobile
+Skateboard
+Rollerblades @4
+Unicycle
+Tricycle
+Segway
+Hoverboard
+Rickshaw
+Tuk-tuk
+Moped
+Camper van | rv | motorhome
+Caravan
+Trailer
+Semi truck | 18-wheeler | articulated lorry
+Tow truck
+Monster truck
+Double-decker bus
+Coach
+School bus
+Hot air balloon
+Blimp | airship
+Glider
+Jet
+Rocket
+Spaceship | spacecraft
+Space shuttle
+Submarine
+Yacht
+Sailboat
+Speedboat
+Ferry
+Canoe
+Kayak
+Raft
+Jet ski
+Hovercraft
+Cable car
+Gondola
+Monorail
+Bullet train
+Steam train
+Sled | sledge | sleigh
+Horse and carriage | carriage
+Wagon
+Chariot
+Cart
+--- 3
+Penny-farthing
+Tandem
+Recumbent bike
+E-bike
+Electric scooter
+Velomobile
+Pedicab
+Auto rickshaw
+Jeepney
+Matatu
+Songthaew
+Dolmuş
+Marshrutka
+Trolleybus
+Funicular
+Maglev
+Light rail
+Handcar
+Draisine
+Stagecoach
+Hansom cab
+Buggy
+Phaeton
+Landau
+Barouche
+Brougham
+Gig
+Trap
+Dogcart
+Covered wagon
+Conestoga wagon
+Hearse
+Armored car
+Humvee
+APC
+Half-track
+Amphibious vehicle
+Snowcat
+Zamboni
+Street sweeper
+Cherry picker
+Combine harvester
+Backhoe
+Steamroller | road roller
+Grader
+Skid steer
+Front loader
+Reach stacker
+Straddle carrier
+Tugboat
+Barge
+Trawler
+Catamaran
+Trimaran
+Dinghy
+Pontoon
+Gondola
+Junk
+Dhow
+Felucca
+Galleon
+Schooner
+Frigate
+Destroyer
+Aircraft carrier
+Battleship
+Icebreaker
+Zeppelin
+Seaplane
+Biplane
+Autogyro
+Tiltrotor
+Drone
+Lunar rover
+Mars rover
+
+=== car-parts
+title: Parts of a car
+prompt: Name as many parts of a car as you can
+--- 1
+Wheel | wheels
+Tire | tyre | tires
+Engine
+Steering wheel
+Brakes | brake
+Seat | seats
+Door | doors
+Windshield | windscreen
+Mirror | mirrors
+Headlights | headlight
+--- 2
+Hood | bonnet
+Trunk | boot
+Bumper
+Windshield wipers | wipers
+Seatbelt | seat belt
+Airbag
+Horn
+Gear stick | gearstick | shifter
+Clutch
+Accelerator | gas pedal
+Battery
+Radiator
+Exhaust | exhaust pipe | tailpipe
+Muffler | silencer
+Fuel tank | gas tank | petrol tank
+Spare tire | spare wheel
+Dashboard | dash
+Speedometer
+Odometer
+Fuel gauge
+Glove box | glove compartment
+Rearview mirror
+Wing mirror | side mirror
+Taillights | tail lights | brake lights
+Indicators | turn signals | blinkers
+Hubcap
+Rims
+License plate | number plate
+Roof
+Sunroof
+Window | windows
+Handbrake | parking brake | emergency brake
+Steering column
+Ignition
+Key | car key
+Radio | stereo
+Air conditioning | ac
+Heater
+Cup holder
+Sun visor
+Floor mats
+Headrest
+Armrest
+Spark plugs
+Alternator
+Transmission | gearbox
+Axle
+Suspension
+Shock absorbers | shocks
+Fan belt
+Oil filter
+Air filter
+Carburetor | carburettor
+Pistons
+Cylinders
+Catalytic converter
+Grille
+Fender | wing
+Chassis
+Frame
+--- 3
+Crankshaft
+Camshaft
+Timing belt
+Cylinder head
+Head gasket
+Valves
+Fuel injector
+Fuel pump
+Water pump
+Thermostat
+Starter motor
+Distributor
+Driveshaft
+Differential
+CV joint
+Tie rod
+Ball joint
+Control arm
+Strut
+Coil spring
+Leaf spring
+Anti-roll bar | sway bar
+Brake pads
+Brake discs | rotors
+Brake calipers
+Brake drum
+Master cylinder
+Power steering
+Rack and pinion
+Wheel bearing
+Lug nuts
+Tread
+Valve stem
+Sill | rocker panel
+Quarter panel
+Pillar
+Spoiler
+Diffuser
+Splitter
+Roof rack
+Tow bar | tow hitch
+Mud flaps
+Running boards
+Bull bar
+Fog lights
+Reversing camera
+Parking sensors
+Cruise control
+Satnav | gps
+Infotainment
+Tachometer | rev counter
+Trip computer
+Turbocharger | turbo
+Supercharger
+Intercooler
+Manifold
+Flywheel
+Oil pan | sump
+Dipstick
+Coolant reservoir
+Wiper fluid reservoir
+Fuse box
+ECU
+
+=== sea-creatures
+title: Sea creatures
+prompt: Name as many animals that live in the sea as you can
+--- 1
+Shark
+Whale
+Dolphin
+Octopus
+Jellyfish
+Crab
+Starfish | sea star
+Seal
+Turtle | sea turtle
+Fish
+Squid
+Lobster
+--- 2
+Seahorse
+Stingray | ray
+Manta ray
+Eel
+Clownfish
+Sea urchin
+Sea lion
+Walrus
+Orca | killer whale
+Blue whale
+Humpback whale
+Narwhal
+Beluga
+Shrimp | prawn
+Oyster
+Clam
+Mussel
+Scallop
+Sea anemone | anemone
+Coral
+Sponge
+Sea cucumber
+Pufferfish | blowfish
+Swordfish
+Barracuda
+Tuna
+Salmon
+Cod
+Anglerfish
+Hammerhead
+Great white shark | great white
+Whale shark
+Manatee
+Dugong
+Otter | sea otter
+Penguin
+Pelican
+Seagull | gull
+Albatross
+Puffin
+Hermit crab
+Krill
+Plankton
+Barnacle
+Snail | sea snail
+Cuttlefish
+Nautilus
+Sardine
+Mackerel
+Herring
+Flounder
+Lionfish
+Parrotfish
+Angelfish
+Moray eel
+Electric eel
+Sea snake
+Blobfish
+--- 3
+Giant squid
+Colossal squid
+Vampire squid
+Dumbo octopus
+Blue-ringed octopus
+Mimic octopus
+Portuguese man o' war
+Box jellyfish
+Comb jelly
+Sea pen
+Sea spider
+Sea slug | nudibranch
+Sea butterfly
+Sea hare
+Sea lily
+Brittle star
+Sand dollar
+Horseshoe crab
+Spider crab
+King crab
+Coconut crab @5
+Mantis shrimp
+Pistol shrimp
+Cleaner shrimp
+Leafy sea dragon
+Pipefish
+Frogfish
+Stonefish
+Scorpionfish
+Grouper
+Wrasse
+Tang
+Surgeonfish
+Triggerfish
+Boxfish
+Sunfish | mola
+Oarfish
+Lanternfish
+Viperfish
+Gulper eel
+Hagfish
+Lamprey
+Coelacanth
+Sawfish
+Guitarfish
+Skate
+Eagle ray
+Wobbegong
+Megamouth shark
+Goblin shark
+Frilled shark
+Greenland shark
+Basking shark
+Thresher shark
+Tiger shark
+Bull shark
+Nurse shark
+Lemon shark
+Sperm whale
+Bowhead whale
+Grey whale
+Minke whale
+Pilot whale
+Beaked whale
+Porpoise
+Elephant seal
+Leopard seal
+Fur seal
+Marine iguana
+Sea krait
+Tube worm
+Christmas tree worm
+Fireworm
+Bristle worm
+Sea squirt
+Tunicate
+Salp
+Copepod
+Amphipod
+Isopod
+
+=== forest-animals
+title: Forest and woodland animals
+prompt: Name as many animals that live in forests or woods as you can
+--- 1
+Deer
+Bear
+Fox
+Wolf
+Owl
+Squirrel
+Rabbit
+Raccoon
+Moose
+Badger
+--- 2
+Hedgehog
+Skunk
+Porcupine
+Beaver
+Chipmunk
+Woodpecker
+Elk
+Boar | wild boar
+Lynx
+Bobcat
+Cougar | mountain lion
+Possum | opossum
+Weasel
+Stoat
+Ferret
+Mink
+Otter
+Marten | pine marten
+Bat
+Mouse
+Vole
+Shrew
+Mole
+Hare
+Frog
+Toad
+Salamander
+Newt
+Snake
+Lizard
+Tortoise
+Robin
+Blackbird
+Crow
+Raven
+Jay | blue jay
+Cardinal
+Hawk
+Eagle
+Turkey
+Pheasant
+Grouse
+Snail
+Slug
+Spider
+Ant
+Beetle
+Butterfly
+Moth
+Caterpillar
+Bee
+Wasp
+Tick
+Mosquito
+Worm | earthworm
+Grizzly bear | grizzly
+Black bear
+Brown bear
+Red fox
+Grey wolf | gray wolf
+Reindeer | caribou
+Bison
+--- 3
+Wolverine
+Fisher
+Polecat
+Dormouse
+Red squirrel
+Flying squirrel
+Roe deer
+Red deer
+Fallow deer
+Muntjac
+Sika deer
+White-tailed deer
+Mule deer
+Wapiti
+Ermine
+Jackrabbit
+Cottontail
+Groundhog | woodchuck
+Wild turkey
+Capercaillie
+Nightjar
+Nuthatch
+Treecreeper
+Tawny owl
+Barn owl
+Great horned owl
+Long-eared owl
+Goshawk
+Sparrowhawk
+Buzzard
+Red kite
+Kestrel
+Peregrine
+Jay
+Magpie
+Jackdaw
+Rook
+Wren
+Chaffinch
+Bullfinch
+Goldfinch
+Siskin
+Crossbill
+Firecrest
+Goldcrest
+Tit
+Chickadee
+Warbler
+Thrush
+Song thrush
+Mistle thrush
+Stag beetle
+Dung beetle
+Firefly
+Centipede
+Millipede
+Woodlouse
+Slow worm
+Adder
+Grass snake
+Garter snake
+Copperhead
+Rattlesnake
+Panda
+Red panda
+Tiger
+Leopard
+Orangutan
+Sloth
+Okapi
+Tapir
+Pangolin
+
+=== jungle-animals
+title: Jungle animals
+prompt: Name as many animals that live in jungles or rainforests as you can
+--- 1
+Monkey
+Tiger
+Gorilla
+Parrot
+Snake
+Jaguar
+Sloth
+Toucan
+Frog
+Elephant
+--- 2
+Chimpanzee | chimp
+Orangutan
+Leopard
+Panther | black panther
+Python
+Anaconda
+Boa constrictor | boa
+Cobra
+King cobra
+Crocodile
+Alligator
+Caiman
+Iguana
+Chameleon
+Gecko
+Poison dart frog | poison frog | dart frog
+Tree frog
+Red-eyed tree frog
+Macaw
+Cockatoo
+Hornbill
+Bird of paradise
+Hummingbird
+Eagle
+Bat | fruit bat | vampire bat
+Lemur
+Gibbon
+Baboon
+Mandrill
+Spider monkey
+Howler monkey
+Capuchin
+Marmoset
+Tamarin
+Tapir
+Okapi
+Rhino | rhinoceros
+Hippo | hippopotamus
+Hyena @4
+Ocelot
+Clouded leopard
+Bengal tiger
+Tarantula
+Spider
+Ant | ants
+Leafcutter ant
+Termite
+Mosquito
+Butterfly
+Beetle
+Scorpion
+Centipede
+Millipede
+Piranha
+Electric eel
+River dolphin | pink dolphin
+Capybara
+Anteater
+Armadillo
+Pangolin
+Peacock
+Flamingo
+Komodo dragon
+--- 3
+Bonobo
+Proboscis monkey
+Colobus monkey
+Golden lion tamarin
+Uakari
+Saki
+Titi
+Night monkey
+Slow loris
+Tarsier
+Aye-aye
+Kinkajou
+Coati
+Olingo
+Margay
+Jaguarundi
+Fossa
+Binturong
+Civet
+Malayan tapir
+Sumatran rhino
+Javan rhino
+Pygmy hippo
+Forest elephant
+Sun bear
+Spectacled bear
+Agouti
+Paca
+Peccary
+Bushmaster
+Fer-de-lance
+Green mamba
+Reticulated python
+Emerald tree boa
+Basilisk lizard
+Flying dragon
+Flying frog
+Glass frog
+Cane toad
+Hoatzin
+Quetzal
+Cassowary
+Cock-of-the-rock
+Harpy eagle
+Philippine eagle
+Kingfisher
+Sunbird
+Bee-eater
+Trogon
+Morpho butterfly
+Atlas moth
+Goliath beetle
+Hercules beetle
+Stick insect
+Leaf insect
+Orchid mantis
+Bullet ant
+Army ant
+Goliath birdeater
+Arapaima
+Arowana
+Tetra
+Discus
+Oscar
+
+=== animal-sounds
+title: Animal sounds
+prompt: Name as many animal sounds as you can (moo, woof...)
+--- 1
+Moo
+Woof | bark | barking
+Meow | miaow
+Oink
+Quack
+Baa | bleat
+Neigh
+Roar
+Hiss
+Buzz
+Tweet | chirp
+Cluck
+--- 2
+Cock-a-doodle-doo | cock a doodle doo
+Howl
+Growl
+Purr
+Squeak
+Hoot
+Ribbit | croak
+Gobble
+Honk
+Coo
+Caw
+Trumpet
+Whinny
+Snort
+Grunt
+Squeal
+Bray | hee-haw
+Bellow
+Low
+Yelp
+Whimper
+Whine
+Yip
+Chatter
+Screech
+Squawk
+Cackle
+Gaggle
+Tweet tweet
+Cheep
+Warble
+Whistle
+Hum
+Chirrup
+Bow-wow | bow wow
+Arf
+Ruff
+Woof woof
+Mew
+Hiss
+Rattle
+Click
+Snarl
+Yowl
+Caterwaul
+Bugle
+--- 3
+Bell
+Belling
+Rut
+Troat
+Grumble
+Gibber
+Gobble gobble
+Quack quack
+Neigh neigh
+Nicker
+Whicker
+Snicker
+Blare
+Clack
+Gabble
+Babble
+Pipe
+Peep
+Trill
+Twitter
+Drum
+Boom
+Call
+Song
+Cry
+Wail
+Shriek
+Scream
+Bellow
+Moan
+Groan
+Huff
+Chuff
+Sniff
+Grunt
+Oink oink
+Baa baa
+Moo moo
+Cuckoo
+Tu-whit tu-whoo | twit twoo
+Kookaburra laugh
+Laugh
+Giggle
+
+=== places-in-town
+title: Places in a town
+prompt: Name as many places you'd find in a town or city as you can
+--- 1
+School
+Hospital
+Library
+Park
+Bank
+Supermarket | grocery store
+Restaurant
+Post office
+Police station
+Fire station
+Church
+--- 2
+Museum
+Cinema | movie theater
+Theater | theatre
+Café | cafe | coffee shop
+Pub | bar
+Hotel
+Gym
+Swimming pool | pool
+Pharmacy | chemist | drugstore
+Bakery
+Butcher | butcher's
+Bookshop | bookstore
+Shopping mall | mall | shopping centre
+Market
+Train station | station
+Bus stop | bus station
+Airport
+Gas station | petrol station
+Car park | parking lot
+Town hall | city hall
+Courthouse | court
+Prison | jail
+Stadium
+Zoo
+Playground
+Cemetery | graveyard
+Mosque
+Synagogue
+Temple
+Cathedral
+University | college
+Kindergarten | nursery | preschool
+Doctor's office | doctor's surgery | clinic
+Dentist
+Vet | veterinary clinic
+Hairdresser | salon | hair salon
+Barber | barbershop
+Laundromat | launderette
+Dry cleaner
+Florist
+Hardware store
+Toy shop | toy store
+Pet shop | pet store
+Clothes shop | clothing store
+Shoe shop
+Jewelry store | jeweller
+Department store
+Corner shop | convenience store
+Bowling alley
+Arcade
+Nightclub | club
+Factory
+Office
+Warehouse
+Fire hydrant @5
+Bridge
+Square
+Fountain
+Statue
+--- 3
+Town square
+Marketplace
+Bandstand
+Community center | community centre
+Recreation center
+Youth club
+Leisure centre
+Sports centre
+Ice rink
+Skate park
+Golf course
+Tennis courts
+Allotments
+Garden centre
+Nursing home | care home
+Retirement home
+Orphanage
+Homeless shelter
+Food bank
+Charity shop | thrift store
+Pawn shop
+Betting shop | bookmaker
+Casino
+Tattoo parlour
+Nail salon
+Spa
+Massage parlour
+Car wash
+Garage | mechanic
+Car dealership
+Bus depot
+Taxi rank
+Ferry terminal
+Harbour | harbor
+Port
+Marina
+Lighthouse
+Pier
+Boardwalk
+Promenade
+Water tower
+Power station
+Sewage works
+Recycling centre
+Dump | landfill
+Scrapyard
+Abattoir
+Brewery
+Distillery
+Embassy
+Consulate
+Parliament
+Palace
+Castle
+Fort
+Barracks
+Monastery
+Convent
+Chapel
+Crematorium
+Mortuary
+Funeral home
+Observatory
+Planetarium
+Aquarium
+Botanical garden
+Art gallery
+Concert hall
+Opera house
+Auditorium
+
+=== tech-companies
+title: Tech companies
+prompt: Name as many technology companies as you can
+--- 1
+Apple
+Google | alphabet
+Microsoft
+Amazon
+Facebook | meta
+Samsung
+Tesla
+Netflix
+Sony
+--- 2
+Intel
+IBM
+Dell
+HP | hewlett-packard | hewlett packard
+Nvidia
+AMD
+Oracle
+Cisco
+Adobe
+Salesforce
+Uber
+Lyft
+Airbnb
+Spotify
+Twitter | x
+Snapchat | snap
+TikTok | bytedance
+Instagram
+YouTube
+LinkedIn
+Pinterest
+Reddit
+Discord
+Zoom
+Slack
+Dropbox
+PayPal
+eBay
+Shopify
+Yahoo
+OpenAI
+Anthropic @4
+SpaceX
+Lenovo
+Asus
+Acer
+LG
+Panasonic
+Toshiba
+Huawei
+Xiaomi
+OnePlus
+Nokia
+Motorola
+BlackBerry
+Nintendo
+Logitech
+Canon
+Nikon
+Philips
+Siemens
+Qualcomm
+Alibaba
+Tencent
+Baidu
+TSMC
+Atari
+Sega
+Electronic Arts | ea
+Activision
+Epic Games
+Valve
+Roblox
+--- 3
+Palantir
+Snowflake
+Databricks
+Stripe
+Square | block
+Robinhood
+Coinbase
+Atlassian
+GitHub
+GitLab
+Twilio
+Okta
+Workday
+ServiceNow
+SAP
+VMware
+Red Hat
+Mozilla
+WordPress | automattic
+Squarespace
+Wix
+Canva
+Figma
+Notion
+Asana
+Trello
+Monday.com
+HubSpot
+Mailchimp
+Zendesk
+Intuit
+Autodesk
+Unity
+Arm
+Broadcom
+Micron
+Western Digital
+Seagate
+Texas Instruments
+Infosys
+Wipro
+Tata Consultancy
+Accenture
+Rakuten
+Sea
+Grab
+Gojek
+Didi
+Meituan
+JD.com
+Pinduoduo
+Temu
+Shein
+Booking.com
+Expedia
+TripAdvisor
+Yelp
+DoorDash
+Instacart
+Deliveroo
+Just Eat
+Uber Eats
+Klarna
+Revolut
+Monzo
+Wise
+Spotify
+SoundCloud
+Twitch
+Kickstarter
+Etsy
+Fitbit
+GoPro
+Peloton
+Dyson
+Garmin
+Bose
+Beats
+Sonos
