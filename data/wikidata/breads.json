@@ -1,0 +1,6206 @@
+[
+{
+"name": "doughnut",
+"aliases": [
+"donut",
+"donuts",
+"doughnuts"
+],
+"links": 86
+},
+{
+"name": "croissant",
+"aliases": [
+"butter croissant",
+"croissants"
+],
+"links": 75
+},
+{
+"name": "French toast",
+"aliases": [
+"eggy bread",
+"fried bread",
+"gypsy toast",
+"omelette bread"
+],
+"links": 72
+},
+{
+"name": "naan",
+"aliases": [
+"butter naan",
+"garlic naan",
+"khamiri",
+"naan bread",
+"nan"
+],
+"links": 68
+},
+{
+"name": "pancake",
+"aliases": [
+"flapjack",
+"griddlecake",
+"hotcake",
+"serguio massa"
+],
+"links": 67
+},
+{
+"name": "pretzel",
+"aliases": [
+"Bretzel",
+"Pretzels"
+],
+"links": 67
+},
+{
+"name": "chapati",
+"aliases": [
+"chapathi",
+"chapatti",
+"chappathi",
+"chappati",
+"phulka",
+"roshi",
+"safati",
+"shabaati"
+],
+"links": 63
+},
+{
+"name": "lavash",
+"aliases": [],
+"links": 62
+},
+{
+"name": "pita",
+"aliases": [
+"Greek bread",
+"Palestinian bread",
+"pita bread",
+"pitta",
+"Syrian bread"
+],
+"links": 60
+},
+{
+"name": "tortilla",
+"aliases": [],
+"links": 59
+},
+{
+"name": "flatbread",
+"aliases": [
+"flatbreads"
+],
+"links": 55
+},
+{
+"name": "bagel",
+"aliases": [
+"bagels",
+"beigel",
+"beigels"
+],
+"links": 53
+},
+{
+"name": "muffin",
+"aliases": [
+"Muffins"
+],
+"links": 53
+},
+{
+"name": "panettone",
+"aliases": [],
+"links": 52
+},
+{
+"name": "toast",
+"aliases": [
+"bread toast",
+"toasted bread"
+],
+"links": 52
+},
+{
+"name": "injera",
+"aliases": [
+"ʾənǧära"
+],
+"links": 51
+},
+{
+"name": "papad",
+"aliases": [
+"papadum",
+"papar",
+"pappadam",
+"poppadom",
+"poppadum"
+],
+"links": 51
+},
+{
+"name": "rye bread",
+"aliases": [],
+"links": 51
+},
+{
+"name": "sacramental bread",
+"aliases": [
+"communion bread",
+"communion wafer",
+"consecrated host",
+"holy host",
+"host",
+"hostia",
+"ostia"
+],
+"links": 51
+},
+{
+"name": "banana bread",
+"aliases": [],
+"links": 50
+},
+{
+"name": "cinnamon roll",
+"aliases": [
+"cinnamon bun",
+"cinnamon Danish",
+"cinnamon snail",
+"cinnamon swirl"
+],
+"links": 50
+},
+{
+"name": "focaccia",
+"aliases": [
+"stuffed focaccia"
+],
+"links": 49
+},
+{
+"name": "okonomiyaki",
+"aliases": [],
+"links": 49
+},
+{
+"name": "bread crumbs",
+"aliases": [
+"breadcrumbs"
+],
+"links": 48
+},
+{
+"name": "brioche",
+"aliases": [],
+"links": 48
+},
+{
+"name": "matzah",
+"aliases": [
+"matsah",
+"matse",
+"matsot",
+"matza",
+"matzoh",
+"matzot",
+"matzoth",
+"mazzah",
+"maẓẓah",
+"maẓẓot"
+],
+"links": 47
+},
+{
+"name": "puri",
+"aliases": [
+"poori",
+"Poori bread",
+"Puri bread"
+],
+"links": 47
+},
+{
+"name": "paratha",
+"aliases": [
+"farata",
+"forota",
+"palata",
+"parantha",
+"parathas",
+"parauntha",
+"parontay",
+"porota",
+"porotha",
+"pratha",
+"prontha"
+],
+"links": 46
+},
+{
+"name": "roti",
+"aliases": [
+"phulka",
+"rotee",
+"rotis"
+],
+"links": 46
+},
+{
+"name": "bread roll",
+"aliases": [],
+"links": 43
+},
+{
+"name": "ciabatta",
+"aliases": [],
+"links": 42
+},
+{
+"name": "lángos",
+"aliases": [
+"lalanga",
+"langos"
+],
+"links": 42
+},
+{
+"name": "baozi",
+"aliases": [
+"bao",
+"pao"
+],
+"links": 40
+},
+{
+"name": "Kaiserschmarrn",
+"aliases": [
+"Kaiserschmarren"
+],
+"links": 40
+},
+{
+"name": "scone",
+"aliases": [],
+"links": 39
+},
+{
+"name": "stollen",
+"aliases": [
+"christstollen",
+"kerststol",
+"paasstol",
+"stol"
+],
+"links": 38
+},
+{
+"name": "Berliner",
+"aliases": [
+"Berliner Pfannkuchen"
+],
+"links": 37
+},
+{
+"name": "Pandoro",
+"aliases": [],
+"links": 37
+},
+{
+"name": "simit",
+"aliases": [
+"gevrek",
+"sameet",
+"semid",
+"semit",
+"simeet",
+"Turkish bagel"
+],
+"links": 37
+},
+{
+"name": "white bread",
+"aliases": [],
+"links": 37
+},
+{
+"name": "dorayaki",
+"aliases": [],
+"links": 36
+},
+{
+"name": "rusk",
+"aliases": [
+"rusks"
+],
+"links": 36
+},
+{
+"name": "garlic bread",
+"aliases": [
+"garlic bread roll"
+],
+"links": 35
+},
+{
+"name": "king cake",
+"aliases": [
+"Bolo-rei",
+"bolo-rei",
+"galette des rois",
+"king cakes",
+"king's cake",
+"king's cakes",
+"kingcake",
+"kingcakes",
+"kings' cake",
+"kings' cakes",
+"Portuguese king cake",
+"three kings' cake"
+],
+"links": 35
+},
+{
+"name": "Kutia",
+"aliases": [
+"kuccia",
+"kutya"
+],
+"links": 35
+},
+{
+"name": "kalakukko",
+"aliases": [],
+"links": 34
+},
+{
+"name": "palatschinke",
+"aliases": [],
+"links": 34
+},
+{
+"name": "anpan",
+"aliases": [],
+"links": 33
+},
+{
+"name": "pain au chocolat",
+"aliases": [
+"chocolate bread",
+"chocolate pastry",
+"chocolatine"
+],
+"links": 33
+},
+{
+"name": "Syrniki",
+"aliases": [
+"Syrnyky"
+],
+"links": 33
+},
+{
+"name": "bun",
+"aliases": [],
+"links": 32
+},
+{
+"name": "challah",
+"aliases": [
+"berches",
+"challos",
+"challot",
+"hallah"
+],
+"links": 32
+},
+{
+"name": "cornbread",
+"aliases": [],
+"links": 32
+},
+{
+"name": "kifli",
+"aliases": [
+"cornuri",
+"kifle",
+"kiflice"
+],
+"links": 32
+},
+{
+"name": "unleavened bread",
+"aliases": [],
+"links": 32
+},
+{
+"name": "crispbread",
+"aliases": [
+"crisp bread"
+],
+"links": 31
+},
+{
+"name": "kulich",
+"aliases": [
+"kulichi"
+],
+"links": 31
+},
+{
+"name": "poğaça",
+"aliases": [
+"Pagáč",
+"pogača",
+"pogačica",
+"pogačice"
+],
+"links": 30
+},
+{
+"name": "qatayef",
+"aliases": [
+"qatayef dumplings"
+],
+"links": 30
+},
+{
+"name": "semla",
+"aliases": [
+"Laskiaispulla"
+],
+"links": 30
+},
+{
+"name": "Buchteln",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lahoh",
+"aliases": [],
+"links": 29
+},
+{
+"name": "paska",
+"aliases": [
+"Pască"
+],
+"links": 29
+},
+{
+"name": "melonpan",
+"aliases": [
+"melon bread",
+"meronpan"
+],
+"links": 28
+},
+{
+"name": "oliebol",
+"aliases": [
+"oliebollen",
+"olykoek",
+"olykoke"
+],
+"links": 28
+},
+{
+"name": "pumpernickel",
+"aliases": [
+"pumpernickel bread"
+],
+"links": 28
+},
+{
+"name": "pączki",
+"aliases": [],
+"links": 28
+},
+{
+"name": "soda bread",
+"aliases": [],
+"links": 28
+},
+{
+"name": "English muffin",
+"aliases": [],
+"links": 27
+},
+{
+"name": "manakish",
+"aliases": [
+"man'ousheh",
+"manaeesh",
+"manakeesh",
+"manaqish",
+"mankousheh"
+],
+"links": 27
+},
+{
+"name": "Piadina",
+"aliases": [],
+"links": 27
+},
+{
+"name": "babka",
+"aliases": [
+"baba",
+"babka cake",
+"boba",
+"bobka",
+"Easter babka"
+],
+"links": 26
+},
+{
+"name": "Danish",
+"aliases": [
+"danish pastry",
+"Danish pastry",
+"wienerbrød"
+],
+"links": 26
+},
+{
+"name": "Jin deui",
+"aliases": [
+"benne ball",
+"sesame seed ball",
+"sesame seed laddu",
+"Zin Deoi"
+],
+"links": 26
+},
+{
+"name": "poffertjes",
+"aliases": [
+"poffertje"
+],
+"links": 26
+},
+{
+"name": "potato bread",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Butterbrot",
+"aliases": [],
+"links": 25
+},
+{
+"name": "buñuelo",
+"aliases": [
+"birmuelo",
+"bolinho",
+"bonuelo"
+],
+"links": 25
+},
+{
+"name": "Cozonac",
+"aliases": [],
+"links": 25
+},
+{
+"name": "fougasse",
+"aliases": [],
+"links": 25
+},
+{
+"name": "prosphora",
+"aliases": [
+"panagia",
+"prosphoron"
+],
+"links": 25
+},
+{
+"name": "pupusa",
+"aliases": [],
+"links": 25
+},
+{
+"name": "xiaolongbao",
+"aliases": [],
+"links": 25
+},
+{
+"name": "brown bread",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kaiser roll",
+"aliases": [
+"hard roll",
+"Vienna roll"
+],
+"links": 24
+},
+{
+"name": "Mutabak",
+"aliases": [
+"Saudi Authintic pie"
+],
+"links": 24
+},
+{
+"name": "tandyr nan",
+"aliases": [
+"lepyoshka",
+"obi non",
+"tandir non",
+"tohax",
+"tonur nan"
+],
+"links": 24
+},
+{
+"name": "Vanillekipferl",
+"aliases": [
+"Hókifli"
+],
+"links": 24
+},
+{
+"name": "Baghrir",
+"aliases": [
+"Beghrir",
+"Ghrayef",
+"Hatita"
+],
+"links": 23
+},
+{
+"name": "bhatoora",
+"aliases": [
+"bhatura"
+],
+"links": 23
+},
+{
+"name": "Matnakash",
+"aliases": [],
+"links": 23
+},
+{
+"name": "palianytsia",
+"aliases": [
+"palianitsa",
+"palyanitsa",
+"palyanytsya"
+],
+"links": 23
+},
+{
+"name": "sufganiyah",
+"aliases": [
+"sufganiyot"
+],
+"links": 23
+},
+{
+"name": "farinata",
+"aliases": [
+"socca"
+],
+"links": 22
+},
+{
+"name": "ftira",
+"aliases": [],
+"links": 22
+},
+{
+"name": "galette",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kattama",
+"aliases": [
+"gambir",
+"katlama",
+"katmer",
+"qatlama"
+],
+"links": 22
+},
+{
+"name": "korovai",
+"aliases": [
+"karavai",
+"kravai"
+],
+"links": 22
+},
+{
+"name": "Kulcha",
+"aliases": [],
+"links": 22
+},
+{
+"name": "lefse",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Msemmen",
+"aliases": [],
+"links": 22
+},
+{
+"name": "pão de queijo",
+"aliases": [
+"cheese bread",
+"cheese bun",
+"cheese roll"
+],
+"links": 22
+},
+{
+"name": "bublik",
+"aliases": [],
+"links": 21
+},
+{
+"name": "frybread",
+"aliases": [
+"fry bread"
+],
+"links": 21
+},
+{
+"name": "hot cross bun",
+"aliases": [],
+"links": 21
+},
+{
+"name": "kalach",
+"aliases": [
+"kalács"
+],
+"links": 21
+},
+{
+"name": "khubz",
+"aliases": [
+"Arabic bread"
+],
+"links": 21
+},
+{
+"name": "taboon bread",
+"aliases": [
+"laffa"
+],
+"links": 21
+},
+{
+"name": "Vienna bread",
+"aliases": [],
+"links": 21
+},
+{
+"name": "babka",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Barbari bread",
+"aliases": [],
+"links": 20
+},
+{
+"name": "chipa",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Parotta",
+"aliases": [
+"Barotta"
+],
+"links": 20
+},
+{
+"name": "Sangak",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Shoti",
+"aliases": [],
+"links": 20
+},
+{
+"name": "tandoor bread",
+"aliases": [
+"tandur bread",
+"Tanur bread"
+],
+"links": 20
+},
+{
+"name": "bannock",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Christmas cookies",
+"aliases": [
+"christmas cookie"
+],
+"links": 19
+},
+{
+"name": "Cronut",
+"aliases": [],
+"links": 19
+},
+{
+"name": "crumpet",
+"aliases": [],
+"links": 19
+},
+{
+"name": "curry bread",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Frittelle",
+"aliases": [
+"fritole",
+"Frittole",
+"fritule"
+],
+"links": 19
+},
+{
+"name": "koliva",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Pandesal",
+"aliases": [],
+"links": 19
+},
+{
+"name": "qistibi",
+"aliases": [],
+"links": 19
+},
+{
+"name": "rice bread",
+"aliases": [],
+"links": 19
+},
+{
+"name": "sourdough bread",
+"aliases": [],
+"links": 19
+},
+{
+"name": "St. Lucia bun",
+"aliases": [
+"lussecat",
+"St Lucia bun"
+],
+"links": 19
+},
+{
+"name": "viennoiserie",
+"aliases": [],
+"links": 19
+},
+{
+"name": "wafer cookie",
+"aliases": [
+"galletas suizas",
+"oblaten",
+"oblatne",
+"oblea"
+],
+"links": 19
+},
+{
+"name": "apam balik",
+"aliases": [
+"Appam Bali",
+"Bali appam",
+"Balinese appam"
+],
+"links": 18
+},
+{
+"name": "barmbrack",
+"aliases": [],
+"links": 18
+},
+{
+"name": "bazlama",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Christmas wafer",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Jengyal bread",
+"aliases": [
+"jingalov hats",
+"zhengyalov hac"
+],
+"links": 18
+},
+{
+"name": "knish",
+"aliases": [
+"knishes"
+],
+"links": 18
+},
+{
+"name": "koeksister",
+"aliases": [],
+"links": 18
+},
+{
+"name": "ontbijtkoek",
+"aliases": [
+"peperkoek"
+],
+"links": 18
+},
+{
+"name": "Puran Poli",
+"aliases": [
+"Bobbattlu",
+"Boli",
+"Holige",
+"Obbattu",
+"Poley",
+"poli",
+"Puran puri",
+"Shenga Holige"
+],
+"links": 18
+},
+{
+"name": "sopa paraguaya",
+"aliases": [],
+"links": 18
+},
+{
+"name": "tunnbröd",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Viaticum",
+"aliases": [
+"Last Communion"
+],
+"links": 18
+},
+{
+"name": "Zopf",
+"aliases": [],
+"links": 18
+},
+{
+"name": "aloo paratha",
+"aliases": [
+"alu paratha"
+],
+"links": 17
+},
+{
+"name": "bara brith",
+"aliases": [
+"speckled bread"
+],
+"links": 17
+},
+{
+"name": "Easter bread",
+"aliases": [],
+"links": 17
+},
+{
+"name": "kisra",
+"aliases": [
+"Kissra"
+],
+"links": 17
+},
+{
+"name": "makki ki roti",
+"aliases": [
+"makkī kī roṭṭī"
+],
+"links": 17
+},
+{
+"name": "Mekitsa",
+"aliases": [],
+"links": 17
+},
+{
+"name": "pan de muerto",
+"aliases": [],
+"links": 17
+},
+{
+"name": "rosette",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sfenj",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sopaipilla",
+"aliases": [
+"Sopapillas"
+],
+"links": 17
+},
+{
+"name": "Taftan",
+"aliases": [],
+"links": 17
+},
+{
+"name": "whole wheat bread",
+"aliases": [
+"wheat bread",
+"whole-wheat bread",
+"wholemeal bread"
+],
+"links": 17
+},
+{
+"name": "blessed bread",
+"aliases": [
+"antidoron",
+"eulogia"
+],
+"links": 16
+},
+{
+"name": "bombolone",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Cachapa",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Colomba di Pasqua",
+"aliases": [
+"Colomba pasquale",
+"Easter dove"
+],
+"links": 16
+},
+{
+"name": "fit-fit",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Franzbrötchen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Hortobágyi palacsinta",
+"aliases": [
+"Hortobagyi palacsinta"
+],
+"links": 16
+},
+{
+"name": "kerststol",
+"aliases": [
+"krentenstol"
+],
+"links": 16
+},
+{
+"name": "klenät",
+"aliases": [
+"fattigmann",
+"kleina",
+"klejner"
+],
+"links": 16
+},
+{
+"name": "Kubdari",
+"aliases": [],
+"links": 16
+},
+{
+"name": "malawach",
+"aliases": [
+"Malawah"
+],
+"links": 16
+},
+{
+"name": "Pane carasau",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Pinca",
+"aliases": [],
+"links": 16
+},
+{
+"name": "pineapple bun",
+"aliases": [
+"crispy bun"
+],
+"links": 16
+},
+{
+"name": "Sel roti",
+"aliases": [
+"selroti",
+"shinghal"
+],
+"links": 16
+},
+{
+"name": "Sheermal",
+"aliases": [],
+"links": 16
+},
+{
+"name": "suncake",
+"aliases": [
+"Taiyang bing",
+"thài-iông-piánn",
+"Thài-iông-piáⁿ"
+],
+"links": 16
+},
+{
+"name": "yufka bread",
+"aliases": [
+"yufka"
+],
+"links": 16
+},
+{
+"name": "Bolani",
+"aliases": [
+"Perakai",
+"Poraki"
+],
+"links": 15
+},
+{
+"name": "Borodinsky bread",
+"aliases": [],
+"links": 15
+},
+{
+"name": "bungeoppang",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Chakhchoukha",
+"aliases": [],
+"links": 15
+},
+{
+"name": "corn tortilla",
+"aliases": [
+"tortilla de maíz",
+"tortillas"
+],
+"links": 15
+},
+{
+"name": "Dutch baby pancake",
+"aliases": [
+"Dutch baby"
+],
+"links": 15
+},
+{
+"name": "fried bread",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Graham bread",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Himbasha",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kommissbrot",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Malasada",
+"aliases": [],
+"links": 15
+},
+{
+"name": "markook",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Obwarzanek krakowski",
+"aliases": [],
+"links": 15
+},
+{
+"name": "pain aux raisins",
+"aliases": [
+"bread pastry",
+"French pastry",
+"sweet roll"
+],
+"links": 15
+},
+{
+"name": "raisin bread",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Rumali Roti",
+"aliases": [],
+"links": 15
+},
+{
+"name": "scallion pancake",
+"aliases": [
+"cong you bing",
+"Onion cake"
+],
+"links": 15
+},
+{
+"name": "Serabi",
+"aliases": [
+"Chwee kueh"
+],
+"links": 15
+},
+{
+"name": "sweet roll",
+"aliases": [
+"sweet rolls"
+],
+"links": 15
+},
+{
+"name": "Vasilopita",
+"aliases": [
+"Greek king cake"
+],
+"links": 15
+},
+{
+"name": "Bambalouni",
+"aliases": [],
+"links": 14
+},
+{
+"name": "bazeen",
+"aliases": [
+"bazin"
+],
+"links": 14
+},
+{
+"name": "bialy",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Blaa",
+"aliases": [],
+"links": 14
+},
+{
+"name": "blodplättar",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Broa",
+"aliases": [],
+"links": 14
+},
+{
+"name": "damper",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Flatbrød",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Folar",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Japanese milk bread",
+"aliases": [
+"Hokkaido milk bread",
+"Milk bread",
+"Shokupan"
+],
+"links": 14
+},
+{
+"name": "Mchadi",
+"aliases": [],
+"links": 14
+},
+{
+"name": "monkey bread",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Mughlai paratha",
+"aliases": [],
+"links": 14
+},
+{
+"name": "picarón",
+"aliases": [
+"picarones"
+],
+"links": 14
+},
+{
+"name": "pumpkin bread",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Sepik",
+"aliases": [],
+"links": 14
+},
+{
+"name": "tahini roll",
+"aliases": [
+"tahini bread roll",
+"tahinli çörek"
+],
+"links": 14
+},
+{
+"name": "artos",
+"aliases": [],
+"links": 13
+},
+{
+"name": "bhakri",
+"aliases": [],
+"links": 13
+},
+{
+"name": "biscuit",
+"aliases": [
+"baking powder biscuit"
+],
+"links": 13
+},
+{
+"name": "Casatiello",
+"aliases": [],
+"links": 13
+},
+{
+"name": "cornetto",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cougnou",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Frankfurter Kranz",
+"aliases": [],
+"links": 13
+},
+{
+"name": "harcha",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Limpa bread",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Marraqueta",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mlinci",
+"aliases": [],
+"links": 13
+},
+{
+"name": "nun's puffs",
+"aliases": [
+"nun's farts"
+],
+"links": 13
+},
+{
+"name": "pain d'épices",
+"aliases": [
+"pain d'épice"
+],
+"links": 13
+},
+{
+"name": "Pathiri",
+"aliases": [],
+"links": 13
+},
+{
+"name": "saj bread",
+"aliases": [],
+"links": 13
+},
+{
+"name": "siopao",
+"aliases": [
+"salapao"
+],
+"links": 13
+},
+{
+"name": "sprouted bread",
+"aliases": [
+"Essene bread",
+"Ezekiel bread"
+],
+"links": 13
+},
+{
+"name": "teacake",
+"aliases": [
+"tea cake"
+],
+"links": 13
+},
+{
+"name": "Tequeño",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Tiger bread",
+"aliases": [
+"Dutch Crunch",
+"Giraffe bread",
+"giraffe bread",
+"Marco Polo bread",
+"tiger roll"
+],
+"links": 13
+},
+{
+"name": "beer bread",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Chelsea bun",
+"aliases": [],
+"links": 12
+},
+{
+"name": "cruller",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Kesra",
+"aliases": [
+"kessra",
+"Khobz el f'tir",
+"Khobz el ftir"
+],
+"links": 12
+},
+{
+"name": "Kinder Happy Hippo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Maltese bread",
+"aliases": [],
+"links": 12
+},
+{
+"name": "pan loaf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "pide",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Proja",
+"aliases": [
+"cornbread"
+],
+"links": 12
+},
+{
+"name": "Roti jala",
+"aliases": [],
+"links": 12
+},
+{
+"name": "shaobing",
+"aliases": [
+"Chinese pancake",
+"shao bing"
+],
+"links": 12
+},
+{
+"name": "česnica",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Bolo do caco",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Cocktail bun",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Cuban bread",
+"aliases": [],
+"links": 11
+},
+{
+"name": "garlic knot",
+"aliases": [],
+"links": 11
+},
+{
+"name": "gnocco fritto",
+"aliases": [
+"crescentina"
+],
+"links": 11
+},
+{
+"name": "Gundel pancake",
+"aliases": [],
+"links": 11
+},
+{
+"name": "ham chim peng",
+"aliases": [
+"bánh tiêu",
+"haam ji peng",
+"ham ji peng",
+"hum chim peng",
+"hum ji peng"
+],
+"links": 11
+},
+{
+"name": "hujiao bing",
+"aliases": [
+"bánh tiêu"
+],
+"links": 11
+},
+{
+"name": "Indian bread",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kitcha",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Laufabrauð",
+"aliases": [],
+"links": 11
+},
+{
+"name": "mahua",
+"aliases": [],
+"links": 11
+},
+{
+"name": "michetta",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Mona de Pascua",
+"aliases": [],
+"links": 11
+},
+{
+"name": "pain de campagne",
+"aliases": [
+"campagne bread",
+"pains de campagne",
+"rustic bread",
+"rustic loaf"
+],
+"links": 11
+},
+{
+"name": "panko",
+"aliases": [],
+"links": 11
+},
+{
+"name": "pestiños",
+"aliases": [],
+"links": 11
+},
+{
+"name": "pistolet",
+"aliases": [
+"broodje",
+"piccolo"
+],
+"links": 11
+},
+{
+"name": "Potbrood",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Quarkkäulchen",
+"aliases": [],
+"links": 11
+},
+{
+"name": "roscón de reyes",
+"aliases": [
+"rosca de reyes"
+],
+"links": 11
+},
+{
+"name": "ruisreikäleipä",
+"aliases": [],
+"links": 11
+},
+{
+"name": "rupjmaize",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Rúgbrauð",
+"aliases": [],
+"links": 11
+},
+{
+"name": "shengjian mantou",
+"aliases": [
+"pan-fried cabbage and pork bun",
+"Shengjianbao"
+],
+"links": 11
+},
+{
+"name": "sliced bread",
+"aliases": [
+"pre-sliced bread"
+],
+"links": 11
+},
+{
+"name": "smultring",
+"aliases": [],
+"links": 11
+},
+{
+"name": "St. Martin's Croissants",
+"aliases": [
+"Martinshörnchen",
+"Rogal marciński",
+"Rogale świętomarcińskie",
+"Saint Martin Croissants",
+"St. Martin Croissants",
+"St. Martin's Day Croissants"
+],
+"links": 11
+},
+{
+"name": "Taguella",
+"aliases": [],
+"links": 11
+},
+{
+"name": "talo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zeeuwse bolus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Baati",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Baba",
+"aliases": [],
+"links": 10
+},
+{
+"name": "boule",
+"aliases": [],
+"links": 10
+},
+{
+"name": "chouquette",
+"aliases": [],
+"links": 10
+},
+{
+"name": "concha",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Coppia Ferrarese PGI",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Dawamesc",
+"aliases": [
+"Dawamesk"
+],
+"links": 10
+},
+{
+"name": "hot dog bun",
+"aliases": [
+"Frankfurt roll",
+"frankfurter bun",
+"frankfurter roll",
+"hot dog roll"
+],
+"links": 10
+},
+{
+"name": "Johnnycake",
+"aliases": [
+"johnny bread",
+"Jonnycake",
+"journey cake",
+"Shawnee cake"
+],
+"links": 10
+},
+{
+"name": "Knieküchle",
+"aliases": [],
+"links": 10
+},
+{
+"name": "kompyang",
+"aliases": [
+"gng-biâⁿ",
+"guang-bing",
+"guáng-biǎng",
+"gwōngbéng",
+"konpen",
+"kuang-ping",
+"kunpen"
+],
+"links": 10
+},
+{
+"name": "Kubaneh",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Lotus seed bun",
+"aliases": [],
+"links": 10
+},
+{
+"name": "luchi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "pain de mie",
+"aliases": [],
+"links": 10
+},
+{
+"name": "quick bread",
+"aliases": [
+"aerated bread"
+],
+"links": 10
+},
+{
+"name": "rosquilla",
+"aliases": [
+"Rousquille"
+],
+"links": 10
+},
+{
+"name": "rugbrød",
+"aliases": [],
+"links": 10
+},
+{
+"name": "skolebrød",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Suikerbrood",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Thepla",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tonis puri",
+"aliases": [],
+"links": 10
+},
+{
+"name": "totopo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "twist bread",
+"aliases": [],
+"links": 10
+},
+{
+"name": "wheat tortilla",
+"aliases": [
+"flour tortilla"
+],
+"links": 10
+},
+{
+"name": "Zimtstern",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Akki rotti",
+"aliases": [],
+"links": 9
+},
+{
+"name": "almojábana",
+"aliases": [
+"Almojabana"
+],
+"links": 9
+},
+{
+"name": "Açma",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bath bun",
+"aliases": [],
+"links": 9
+},
+{
+"name": "bolillo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "corone",
+"aliases": [
+"cornet",
+"coronet",
+"korone"
+],
+"links": 9
+},
+{
+"name": "Dinkelbread",
+"aliases": [
+"Spelt bread",
+"Speltbread"
+],
+"links": 9
+},
+{
+"name": "Faluche",
+"aliases": [
+"North Bread",
+"Pain du Nord"
+],
+"links": 9
+},
+{
+"name": "ham and egg bun",
+"aliases": [],
+"links": 9
+},
+{
+"name": "jelly doughnut",
+"aliases": [
+"jam doughnut"
+],
+"links": 9
+},
+{
+"name": "Khanom bueang",
+"aliases": [
+"Thai crepes"
+],
+"links": 9
+},
+{
+"name": "Laobing",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Mandarin roll",
+"aliases": [
+"hua juan",
+"huajuan"
+],
+"links": 9
+},
+{
+"name": "Matlou",
+"aliases": [
+"khobz el-dâr",
+"khobz el-kousha",
+"khobz el-tajine",
+"matloua el-kousha",
+"matlouh"
+],
+"links": 9
+},
+{
+"name": "Memela",
+"aliases": [],
+"links": 9
+},
+{
+"name": "mola salsa",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Mosbolletjies",
+"aliases": [],
+"links": 9
+},
+{
+"name": "multigrain bread",
+"aliases": [],
+"links": 9
+},
+{
+"name": "no-knead bread",
+"aliases": [
+"no knead bread"
+],
+"links": 9
+},
+{
+"name": "Pandebono",
+"aliases": [],
+"links": 9
+},
+{
+"name": "pizza di Pasqua",
+"aliases": [],
+"links": 9
+},
+{
+"name": "potato doughnut",
+"aliases": [
+"potato donut",
+"spudnut"
+],
+"links": 9
+},
+{
+"name": "Rosca",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Samoon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sanna",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tangbao",
+"aliases": [
+"Guantang Baozi",
+"Guantangbao"
+],
+"links": 9
+},
+{
+"name": "Tebirkes",
+"aliases": [
+"Københavnerbirkes",
+"Thebirkes"
+],
+"links": 9
+},
+{
+"name": "twisted doughnut",
+"aliases": [],
+"links": 9
+},
+{
+"name": "yakisobapan",
+"aliases": [
+"yakisoba pan"
+],
+"links": 9
+},
+{
+"name": "Afghan bread",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Basler Brot",
+"aliases": [
+"Basler Laibli"
+],
+"links": 8
+},
+{
+"name": "bolo de arroz",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bremer Klaben",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Burgo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "carrot bread",
+"aliases": [],
+"links": 8
+},
+{
+"name": "cazabe",
+"aliases": [
+"casabe",
+"casabe de yuca",
+"cassava bread"
+],
+"links": 8
+},
+{
+"name": "coco bread",
+"aliases": [],
+"links": 8
+},
+{
+"name": "cottage loaf",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Covrigi",
+"aliases": [],
+"links": 8
+},
+{
+"name": "currant bun",
+"aliases": [
+"krentebol",
+"raisin bun"
+],
+"links": 8
+},
+{
+"name": "Cuñapé",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Daktyla",
+"aliases": [],
+"links": 8
+},
+{
+"name": "dombolo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Finnish bread",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Funkaso",
+"aliases": [
+"Fankasau",
+"Pinkaso"
+],
+"links": 8
+},
+{
+"name": "Magenbrot",
+"aliases": [],
+"links": 8
+},
+{
+"name": "maritozzo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "nokul",
+"aliases": [],
+"links": 8
+},
+{
+"name": "obwarzanek",
+"aliases": [
+"precel"
+],
+"links": 8
+},
+{
+"name": "Ogura toast",
+"aliases": [],
+"links": 8
+},
+{
+"name": "ox-tongue pastry",
+"aliases": [
+"Chinese doughnut",
+"horse-ear pastry"
+],
+"links": 8
+},
+{
+"name": "pa de pagès",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pan candeal",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pane di Altamura PDO",
+"aliases": [],
+"links": 8
+},
+{
+"name": "pide",
+"aliases": [],
+"links": 8
+},
+{
+"name": "pinsa",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pulla",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ramadan pide",
+"aliases": [
+"Ramazan pidesi"
+],
+"links": 8
+},
+{
+"name": "Sally Lunn bun",
+"aliases": [
+"Selemena",
+"Soel leme",
+"Soleilune",
+"Solet Lune"
+],
+"links": 8
+},
+{
+"name": "Sgabeo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "soboro-ppang",
+"aliases": [
+"Korean streusel bread",
+"soboro bread",
+"soboro bun",
+"soboro pastry"
+],
+"links": 8
+},
+{
+"name": "soul cake",
+"aliases": [
+"soul-cake",
+"soulmass cake",
+"soulmass-cake"
+],
+"links": 8
+},
+{
+"name": "Tapalapa",
+"aliases": [],
+"links": 8
+},
+{
+"name": "10 Won Bread",
+"aliases": [
+"10 Yen Bread"
+],
+"links": 7
+},
+{
+"name": "ay çöreği",
+"aliases": [
+"ayçöreği"
+],
+"links": 7
+},
+{
+"name": "Balep korkun",
+"aliases": [],
+"links": 7
+},
+{
+"name": "bammy",
+"aliases": [
+"bami"
+],
+"links": 7
+},
+{
+"name": "blintz",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Boston cream doughnut",
+"aliases": [],
+"links": 7
+},
+{
+"name": "buckwheat pancake",
+"aliases": [
+"Buchweizenpfannkuchen"
+],
+"links": 7
+},
+{
+"name": "Bush bread",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cemita",
+"aliases": [
+"Cema",
+"Sema",
+"Semita"
+],
+"links": 7
+},
+{
+"name": "cream roll",
+"aliases": [
+"cream bun"
+],
+"links": 7
+},
+{
+"name": "Crempog",
+"aliases": [],
+"links": 7
+},
+{
+"name": "cruffin",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Donut hole",
+"aliases": [
+"donut hole treat",
+"donut hole treats",
+"doughnut hole"
+],
+"links": 7
+},
+{
+"name": "Etli ekmek",
+"aliases": [
+"Etliekmek"
+],
+"links": 7
+},
+{
+"name": "Fatoot",
+"aliases": [],
+"links": 7
+},
+{
+"name": "festival",
+"aliases": [
+"festivals",
+"Jamaican festival",
+"Jamaican festivals"
+],
+"links": 7
+},
+{
+"name": "Flatkaka",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Focaccia di Recco col formaggio PGI",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Gebildbrot",
+"aliases": [],
+"links": 7
+},
+{
+"name": "gukhwa-ppang",
+"aliases": [
+"chrysanthemum bread"
+],
+"links": 7
+},
+{
+"name": "Hallulla",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Heißwecke",
+"aliases": [],
+"links": 7
+},
+{
+"name": "honey toast",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hong Kong cream bun",
+"aliases": [
+"Hong Kong sweet bun"
+],
+"links": 7
+},
+{
+"name": "ka'ak al-Quds",
+"aliases": [
+"Bagel Yerushalmi",
+"Jerusalem bagel",
+"ka'ek al-Quds",
+"kaak al-Quds"
+],
+"links": 7
+},
+{
+"name": "Kaletez",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kandil simidi",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Koe'sister",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Krachel",
+"aliases": [
+"krichlat"
+],
+"links": 7
+},
+{
+"name": "lagana",
+"aliases": [],
+"links": 7
+},
+{
+"name": "mahjouba",
+"aliases": [
+"Mhadjeb"
+],
+"links": 7
+},
+{
+"name": "maize bread",
+"aliases": [
+"corn bread",
+"mealie bread"
+],
+"links": 7
+},
+{
+"name": "Mischbrot",
+"aliases": [],
+"links": 7
+},
+{
+"name": "nonnevot",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Olive bread",
+"aliases": [
+"olivenbrot"
+],
+"links": 7
+},
+{
+"name": "pain brié",
+"aliases": [
+"pain brie"
+],
+"links": 7
+},
+{
+"name": "Pan de yuca",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pane ticinese",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pizza bagel",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pizza dolce di Beridde",
+"aliases": [
+"diamanti romani",
+"pizza ebraica"
+],
+"links": 7
+},
+{
+"name": "Podpłomyk",
+"aliases": [],
+"links": 7
+},
+{
+"name": "roti gambang",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sabaayad",
+"aliases": [],
+"links": 7
+},
+{
+"name": "sandwich bread",
+"aliases": [],
+"links": 7
+},
+{
+"name": "sausage bread",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Schenkele",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Shuangbaotai",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Spandauer",
+"aliases": [],
+"links": 7
+},
+{
+"name": "steamed bread",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sylheti Handesh",
+"aliases": [
+"Guror Fita",
+"Guror Handesh",
+"Handesh",
+"Sylheti"
+],
+"links": 7
+},
+{
+"name": "Tabouna bread",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Texas Toast",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Timbits",
+"aliases": [
+"doughnut hole"
+],
+"links": 7
+},
+{
+"name": "torpedo dessert",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tortell",
+"aliases": [
+"Catalan king cake",
+"Occitan king cake",
+"Provence king cake"
+],
+"links": 7
+},
+{
+"name": "Touton",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Trivandrum Boli",
+"aliases": [
+"Boli"
+],
+"links": 7
+},
+{
+"name": "Vastedda",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Åland pancake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "aish merahrah",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Amish Friendship Bread",
+"aliases": [
+"Amish cinnamon bread"
+],
+"links": 6
+},
+{
+"name": "barley bread",
+"aliases": [],
+"links": 6
+},
+{
+"name": "biskotso",
+"aliases": [
+"biscocho"
+],
+"links": 6
+},
+{
+"name": "Borlengo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Boûkète",
+"aliases": [
+"Boukete"
+],
+"links": 6
+},
+{
+"name": "bánh rán",
+"aliases": [
+"banh ran",
+"bánh cam"
+],
+"links": 6
+},
+{
+"name": "calzón roto",
+"aliases": [
+"calzones rotos"
+],
+"links": 6
+},
+{
+"name": "chickpea bread",
+"aliases": [
+"nohut ekmeği"
+],
+"links": 6
+},
+{
+"name": "Colaci",
+"aliases": [],
+"links": 6
+},
+{
+"name": "croffle",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dalieba",
+"aliases": [
+"lieba"
+],
+"links": 6
+},
+{
+"name": "Farl",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Filipinos",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Galician bread",
+"aliases": [
+"IGP Pan Gallego",
+"Pan galego",
+"PGI Галицький хліб"
+],
+"links": 6
+},
+{
+"name": "Guagua de pan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Guokui",
+"aliases": [],
+"links": 6
+},
+{
+"name": "gâche vendéenne",
+"aliases": [],
+"links": 6
+},
+{
+"name": "hirayachi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "hornazo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kelane",
+"aliases": [
+"Kalana",
+"Kelaneh"
+],
+"links": 6
+},
+{
+"name": "kkulppang",
+"aliases": [
+"honey bread"
+],
+"links": 6
+},
+{
+"name": "Krofne",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Krotekake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "malt loaf",
+"aliases": [],
+"links": 6
+},
+{
+"name": "mealie bread",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Montreal-style bagel",
+"aliases": [],
+"links": 6
+},
+{
+"name": "parva",
+"aliases": [],
+"links": 6
+},
+{
+"name": "peanut butter bun",
+"aliases": [],
+"links": 6
+},
+{
+"name": "peynirli pide",
+"aliases": [
+"cheese pide"
+],
+"links": 6
+},
+{
+"name": "Piki",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ping On Bun",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pon de Ring",
+"aliases": [
+"Mochi donuts"
+],
+"links": 6
+},
+{
+"name": "Sardenaira",
+"aliases": [
+"piscialandrea",
+"pissadella",
+"pissalandrea",
+"pizza all'Andrea",
+"pizzalandrea"
+],
+"links": 6
+},
+{
+"name": "Tiel carnival cake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "tomato omelette",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Vakfıkebir ekmeği",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ajdov Kruh",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Al-Maltout",
+"aliases": [
+"maltoot bread"
+],
+"links": 5
+},
+{
+"name": "An-doughnut",
+"aliases": [
+"an-donatsu"
+],
+"links": 5
+},
+{
+"name": "Anadama bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Apple Bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "bakpau",
+"aliases": [],
+"links": 5
+},
+{
+"name": "bamiyeh",
+"aliases": [],
+"links": 5
+},
+{
+"name": "bannock",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bappir",
+"aliases": [],
+"links": 5
+},
+{
+"name": "baton",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Binangkal",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bisciola PAT",
+"aliases": [
+"pan di fich",
+"panettone Valtellinese"
+],
+"links": 5
+},
+{
+"name": "blöta",
+"aliases": [
+"sop"
+],
+"links": 5
+},
+{
+"name": "bread dildo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bricelet",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Burebrot",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Canadian white bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "chalbori-ppang",
+"aliases": [
+"chalbori bread",
+"glutinous barley bread"
+],
+"links": 5
+},
+{
+"name": "chapssal doughnut",
+"aliases": [
+"chapssal-doneot",
+"glutinous rice doughnut"
+],
+"links": 5
+},
+{
+"name": "Chhilka Roti",
+"aliases": [
+"Chhilka pitha",
+"Chilka roti"
+],
+"links": 5
+},
+{
+"name": "cider doughnut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cocol",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Coconut doughnut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dalpuri",
+"aliases": [
+"Dal poori",
+"Dal puri"
+],
+"links": 5
+},
+{
+"name": "Egyptian martabak",
+"aliases": [],
+"links": 5
+},
+{
+"name": "eish fino",
+"aliases": [],
+"links": 5
+},
+{
+"name": "galette-saucisse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gobhi paratha",
+"aliases": [
+"Gobi paratha"
+],
+"links": 5
+},
+{
+"name": "Güirila",
+"aliases": [],
+"links": 5
+},
+{
+"name": "honey bun",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jolada Rotti",
+"aliases": [
+"Jawari Roti",
+"Jonna rotte",
+"Jowar roti",
+"Jōḷada roṭṭi"
+],
+"links": 5
+},
+{
+"name": "kramiek",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Laffa",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lívance",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mailänderli",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mandoca",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Maple bacon donut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mexican bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Onion roll",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pan de coco",
+"aliases": [],
+"links": 5
+},
+{
+"name": "parbaking",
+"aliases": [
+"par-baked"
+],
+"links": 5
+},
+{
+"name": "Paximathia",
+"aliases": [
+"Paximadhia",
+"Paximadia"
+],
+"links": 5
+},
+{
+"name": "picatostes",
+"aliases": [
+"picatoste"
+],
+"links": 5
+},
+{
+"name": "Plätzchen",
+"aliases": [],
+"links": 5
+},
+{
+"name": "potato scone",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Prądnik bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pão francês",
+"aliases": [
+"French bread",
+"French roll"
+],
+"links": 5
+},
+{
+"name": "Rewena bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "roti bolen",
+"aliases": [],
+"links": 5
+},
+{
+"name": "salt-rising bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sfinci di San Giuseppe",
+"aliases": [
+"Sicilian doughnut",
+"St Joseph doughnut"
+],
+"links": 5
+},
+{
+"name": "Shakoy",
+"aliases": [],
+"links": 5
+},
+{
+"name": "sour cream doughnut",
+"aliases": [
+"sour cream donut"
+],
+"links": 5
+},
+{
+"name": "Spanish bread",
+"aliases": [
+"Señorita bread"
+],
+"links": 5
+},
+{
+"name": "Sticky bun",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tandoori roti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "tortilla de rescoldo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "veneziana",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Vinschgauer",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Adobe bread",
+"aliases": [
+"oven bread"
+],
+"links": 4
+},
+{
+"name": "agege",
+"aliases": [
+"agege bread"
+],
+"links": 4
+},
+{
+"name": "barm cake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Batter bread",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Belokranjska pogača",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bollo sevillano",
+"aliases": [
+"Bollo"
+],
+"links": 4
+},
+{
+"name": "Bolu kojo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Boston bun",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Braaibroodjie",
+"aliases": [
+"braai bread",
+"Braaibroodjies"
+],
+"links": 4
+},
+{
+"name": "Broa de Avintes",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brown Bobby",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brunsli",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Buccellato di Lucca",
+"aliases": [
+"Buccellato"
+],
+"links": 4
+},
+{
+"name": "calentita",
+"aliases": [],
+"links": 4
+},
+{
+"name": "cheese straw",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cheesymite scroll",
+"aliases": [],
+"links": 4
+},
+{
+"name": "crompouce",
+"aliases": [
+"tompouce croissant"
+],
+"links": 4
+},
+{
+"name": "curd-cheese doughnuts",
+"aliases": [
+"farmer's cheese doughnuts",
+"quark doughnuts"
+],
+"links": 4
+},
+{
+"name": "Darnitsa bread",
+"aliases": [],
+"links": 4
+},
+{
+"name": "doughnut sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "egg-coated bread",
+"aliases": [
+"bread in egg",
+"French toast"
+],
+"links": 4
+},
+{
+"name": "Egg-stuffed arepa",
+"aliases": [
+"Arepa de huevo",
+"Arepa e' huevo",
+"Arepa with egg",
+"Egg arepa"
+],
+"links": 4
+},
+{
+"name": "everything bagel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "fermentum",
+"aliases": [],
+"links": 4
+},
+{
+"name": "fläskpannkaka",
+"aliases": [],
+"links": 4
+},
+{
+"name": "French roll",
+"aliases": [
+"baguette roll",
+"Felipe bread",
+"French bread roll",
+"Marseille bread",
+"short baguette"
+],
+"links": 4
+},
+{
+"name": "Fruit bun",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gebrochts",
+"aliases": [],
+"links": 4
+},
+{
+"name": "gingerbread for sauce",
+"aliases": [],
+"links": 4
+},
+{
+"name": "hard dough bread",
+"aliases": [
+"hardo bread"
+],
+"links": 4
+},
+{
+"name": "horsebread",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Houska",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Javanese doughnut",
+"aliases": [
+"donat jawa"
+],
+"links": 4
+},
+{
+"name": "Kneippbrød",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Komanmelna",
+"aliases": [],
+"links": 4
+},
+{
+"name": "krapfen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Llonguet",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Malooga",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mutschel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mutzenmandeln",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nussecke",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Oranais",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pain Suisse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pan de cañada",
+"aliases": [
+"Cañada bread"
+],
+"links": 4
+},
+{
+"name": "pan dulce",
+"aliases": [
+"kashipan",
+"sweet bun"
+],
+"links": 4
+},
+{
+"name": "Panbrioche",
+"aliases": [],
+"links": 4
+},
+{
+"name": "panigaccio",
+"aliases": [
+"panigacci, panigazzo, panigazzi"
+],
+"links": 4
+},
+{
+"name": "Parker House roll",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pashti",
+"aliases": [],
+"links": 4
+},
+{
+"name": "piggy bun",
+"aliases": [
+"piggy buns"
+],
+"links": 4
+},
+{
+"name": "Pilipit",
+"aliases": [],
+"links": 4
+},
+{
+"name": "rieska",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sabre St. Simon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "somun",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Spekdik",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Staffordshire oatcake",
+"aliases": [
+"oatcake"
+],
+"links": 4
+},
+{
+"name": "stottie cake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sweet corn arepa",
+"aliases": [
+"Arepa de choclo",
+"Arepa de chócolo",
+"Arepa de maíz jojoto",
+"Arepa de maíz tierno",
+"Arepa de maíz verde",
+"Chorreada",
+"Cosposa",
+"Toquera",
+"Toquete",
+"Tortilla de choclo",
+"Tortilla de maíz",
+"Tortilla de tiesto"
+],
+"links": 4
+},
+{
+"name": "Tepertős pogácsa",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tiella",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Trenza",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Upplandskubb",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Veka",
+"aliases": [],
+"links": 4
+},
+{
+"name": "vrtanek",
+"aliases": [
+"perec"
+],
+"links": 4
+},
+{
+"name": "Wagafi bread",
+"aliases": [],
+"links": 4
+},
+{
+"name": "zwieback",
+"aliases": [
+"Russian Mennonite zwieback",
+"tweebak"
+],
+"links": 4
+},
+{
+"name": "Acehnese Murtabak",
+"aliases": [],
+"links": 3
+},
+{
+"name": "almond croissant",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Beschuit",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bisalto",
+"aliases": [],
+"links": 3
+},
+{
+"name": "bok caang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bolang-baling",
+"aliases": [],
+"links": 3
+},
+{
+"name": "bolle",
+"aliases": [],
+"links": 3
+},
+{
+"name": "bolus",
+"aliases": [
+"baulus"
+],
+"links": 3
+},
+{
+"name": "Bread of Cea",
+"aliases": [],
+"links": 3
+},
+{
+"name": "brioscia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bursa cantık pide",
+"aliases": [
+"Busa cantık pidesi"
+],
+"links": 3
+},
+{
+"name": "Buttery",
+"aliases": [
+"Aberdeen Buttery",
+"Aberdeen Rowie",
+"Rowie"
+],
+"links": 3
+},
+{
+"name": "bánh căn",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bürli",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cachitos",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Casinobread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chinese pancake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Churrasca",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cochinito de Piloncillo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Couque suisse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "crackling bread",
+"aliases": [
+"cornbread"
+],
+"links": 3
+},
+{
+"name": "Craquelin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "cream pan",
+"aliases": [
+"Japanese cream bun",
+"Japanese cream pan",
+"Japanese custard bread",
+"kurīmu pan"
+],
+"links": 3
+},
+{
+"name": "crustless bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cuccalar",
+"aliases": [],
+"links": 3
+},
+{
+"name": "dhebra",
+"aliases": [],
+"links": 3
+},
+{
+"name": "dinner roll",
+"aliases": [
+"breadcake",
+"dinner bun",
+"milk bread roll",
+"milk roll",
+"sweet dinner roll",
+"sweet roll"
+],
+"links": 3
+},
+{
+"name": "Duivekater",
+"aliases": [],
+"links": 3
+},
+{
+"name": "dutchie",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ensaymada",
+"aliases": [
+"Philippine ensaïmada"
+],
+"links": 3
+},
+{
+"name": "Fallue",
+"aliases": [
+"falue"
+],
+"links": 3
+},
+{
+"name": "Faraoa 'ipo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "fatira",
+"aliases": [
+"faṭira",
+"paṭira"
+],
+"links": 3
+},
+{
+"name": "focaccia barese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Focaccia novese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fogaça da Feira",
+"aliases": [
+"Feira fogaca"
+],
+"links": 3
+},
+{
+"name": "friselle",
+"aliases": [
+"fresella",
+"frisa",
+"frise",
+"frisedda",
+"friseddha",
+"friseddhre"
+],
+"links": 3
+},
+{
+"name": "fukuregashi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Galette des rois",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Genovese foccacia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Georgian bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "German bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "german bread roll",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ghandi Bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gochtial",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gurasa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hanseat",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hearth bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "hoagie roll",
+"aliases": [
+"hero roll"
+],
+"links": 3
+},
+{
+"name": "Hönökaka",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kaak",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kanpan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Katlam",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kepta duona",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kiping",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kkwabaegi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kolot",
+"aliases": [],
+"links": 3
+},
+{
+"name": "koppe pan",
+"aliases": [
+"koppepan"
+],
+"links": 3
+},
+{
+"name": "korokkepan",
+"aliases": [
+"korokke pan"
+],
+"links": 3
+},
+{
+"name": "Krol",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Louis XVI, King of France and Navarre",
+"aliases": [
+"Portrait of Louis XVI"
+],
+"links": 3
+},
+{
+"name": "Macatias",
+"aliases": [],
+"links": 3
+},
+{
+"name": "meitschibei",
+"aliases": [
+"croissant Viennois"
+],
+"links": 3
+},
+{
+"name": "Mokary",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mollete of Antequera",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Muzen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "National loaf",
+"aliases": [],
+"links": 3
+},
+{
+"name": "New York-style bagel",
+"aliases": [
+"New York bagel",
+"New York style bagel"
+],
+"links": 3
+},
+{
+"name": "Ovelgönne bread roll",
+"aliases": [],
+"links": 3
+},
+{
+"name": "paltbröd",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pan di ramerino",
+"aliases": [
+"pane di ramerino",
+"rosemary bread"
+],
+"links": 3
+},
+{
+"name": "Pane di Matera PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pane nero di Castelvetrano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Panfocaccia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Panrico",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Papo seco",
+"aliases": [
+"Portuguese bread roll",
+"Portuguese roll"
+],
+"links": 3
+},
+{
+"name": "Penia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Piernik of Nysa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pihta",
+"aliases": [
+"pihtha"
+],
+"links": 3
+},
+{
+"name": "pizza toast",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ploye",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pompe à l'huile",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Putok",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pyshka",
+"aliases": [],
+"links": 3
+},
+{
+"name": "red bean paste bun",
+"aliases": [
+"red bean bun"
+],
+"links": 3
+},
+{
+"name": "ruisleipä",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Saint George bread",
+"aliases": [
+"pa de Sant Jordi",
+"pan de San Jorge"
+],
+"links": 3
+},
+{
+"name": "Samarkand non",
+"aliases": [
+"Samarkand bread"
+],
+"links": 3
+},
+{
+"name": "Schuettelbrot",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shio pan",
+"aliases": [
+"Salt bread"
+],
+"links": 3
+},
+{
+"name": "skjenning",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Slow Bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "somun",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sorullos",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Spritzkuchen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sweet bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "tahinli pide",
+"aliases": [
+"tahinli"
+],
+"links": 3
+},
+{
+"name": "Telera",
+"aliases": [],
+"links": 3
+},
+{
+"name": "U Pan de Natale",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Wonder Bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ِAbbas bread",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ṣa",
+"aliases": [
+"sa"
+],
+"links": 3
+},
+{
+"name": "1.-August-Weggen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Acemita tocuyana",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Alentejano bread",
+"aliases": [
+"Alentejo bread",
+"pão alentejano"
+],
+"links": 2
+},
+{
+"name": "American pancake",
+"aliases": [
+"flapjack",
+"griddlecake",
+"hotcake",
+"North American pancake"
+],
+"links": 2
+},
+{
+"name": "Anello di Monaco",
+"aliases": [],
+"links": 2
+},
+{
+"name": "banana pancakes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Belgian bun",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bica de azeite",
+"aliases": [],
+"links": 2
+},
+{
+"name": "birote",
+"aliases": [],
+"links": 2
+},
+{
+"name": "blueberry pancake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Boba",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bocado de dama",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Boston brown bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bread roll pizzas",
+"aliases": [
+"Pizza buns"
+],
+"links": 2
+},
+{
+"name": "Broodje Mario",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bulkie roll",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Burger Brezel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Caramanduca",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cemita",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Charente galette",
+"aliases": [
+"Charente cookie"
+],
+"links": 2
+},
+{
+"name": "Chengdu egg pancake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cholermus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cinnamon Toast",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cinta bread",
+"aliases": [
+"Pan de cinta"
+],
+"links": 2
+},
+{
+"name": "civraxiu",
+"aliases": [
+"civràxu",
+"civàrxu"
+],
+"links": 2
+},
+{
+"name": "Cornell bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cream Box",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Crystal bread",
+"aliases": [
+"pa de vidre",
+"pan de vidrio"
+],
+"links": 2
+},
+{
+"name": "Dalí bread",
+"aliases": [
+"Pa de crostons",
+"Pa de tres cantons",
+"Pa de tres crostons",
+"Pan Dalí"
+],
+"links": 2
+},
+{
+"name": "Doli Roti",
+"aliases": [
+"Multani Doli Roti"
+],
+"links": 2
+},
+{
+"name": "doubao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "dried fruit bread",
+"aliases": [
+"Tyrolean Dried Fruit Bread"
+],
+"links": 2
+},
+{
+"name": "Dumb bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ekmek",
+"aliases": [
+"Turkish bread"
+],
+"links": 2
+},
+{
+"name": "electric bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Firecake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Flama bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "floor-baked bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "french bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fugassa veneta PAT",
+"aliases": [
+"fugassa veneta",
+"fugassin",
+"Venetian focaccia"
+],
+"links": 2
+},
+{
+"name": "Galletes d'oli",
+"aliases": [
+"Galletes d'Inca"
+],
+"links": 2
+},
+{
+"name": "godamba roti",
+"aliases": [
+"Ceylon parotta",
+"veechu parotta",
+"veechu roti"
+],
+"links": 2
+},
+{
+"name": "golfeado",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Grant loaf",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gyabrag",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Herculaneum loaf",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hildesheimer Pumpernickel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hoggan",
+"aliases": [
+"Hogen"
+],
+"links": 2
+},
+{
+"name": "homemade bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Honig-Salz-Brot",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Honigkuchenpferd",
+"aliases": [],
+"links": 2
+},
+{
+"name": "hot and spicy cheese bread",
+"aliases": [
+"Wisconsin Cheesy Bread"
+],
+"links": 2
+},
+{
+"name": "Hubertus bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Iced bun",
+"aliases": [
+"suisse"
+],
+"links": 2
+},
+{
+"name": "Irish soda bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "jampan",
+"aliases": [
+"jam pan"
+],
+"links": 2
+},
+{
+"name": "K-brot",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kakioko",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kalai ruti",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Karadeniz pidesi",
+"aliases": [
+"içli pide"
+],
+"links": 2
+},
+{
+"name": "Kilor",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kolbulle",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kuih keria",
+"aliases": [
+"keria"
+],
+"links": 2
+},
+{
+"name": "Kumukunsi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kömech",
+"aliases": [],
+"links": 2
+},
+{
+"name": "limppu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Long John",
+"aliases": [],
+"links": 2
+},
+{
+"name": "marquesote",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mentai-france",
+"aliases": [
+"Mentai france",
+"Mentaiko france",
+"Mentaiko-france"
+],
+"links": 2
+},
+{
+"name": "Milk roll",
+"aliases": [
+"Blackpool roll"
+],
+"links": 2
+},
+{
+"name": "mjukkaka",
+"aliases": [],
+"links": 2
+},
+{
+"name": "mlawi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "munini-imo",
+"aliases": [
+"potce-imo",
+"potceimo"
+],
+"links": 2
+},
+{
+"name": "negiyaki",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ngome",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nutribun",
+"aliases": [
+"Nutri-bun",
+"Nutriban"
+],
+"links": 2
+},
+{
+"name": "Osakayaki",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ottupathal",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ousá bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pa de ronyó",
+"aliases": [
+"Kidney shape bread"
+],
+"links": 2
+},
+{
+"name": "Pagnotta del Dittaino",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pakistani bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pan bati",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pan de queso",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Panqueque",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Patir",
+"aliases": [],
+"links": 2
+},
+{
+"name": "peg bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Persian doughnut",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pick up",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pinagong",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pizza PAT",
+"aliases": [
+"bianca",
+"con farina di mais",
+"con gli sfrizzoli",
+"per terra",
+"rossa",
+"sfogliata",
+"somma",
+"sotto la brace"
+],
+"links": 2
+},
+{
+"name": "plain loaf",
+"aliases": [
+"plain bread"
+],
+"links": 2
+},
+{
+"name": "Poee",
+"aliases": [
+"poie"
+],
+"links": 2
+},
+{
+"name": "Polish croquette",
+"aliases": [
+"croquette",
+"croquettes",
+"krokiet",
+"krokiety",
+"Polish croquettes"
+],
+"links": 2
+},
+{
+"name": "Pone",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pope Ladies",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Potechi pan",
+"aliases": [
+"potechi-pan"
+],
+"links": 2
+},
+{
+"name": "Praluline",
+"aliases": [],
+"links": 2
+},
+{
+"name": "regañao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Regeringsbrood",
+"aliases": [],
+"links": 2
+},
+{
+"name": "reikäleipä",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rosca chonchina",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rosquillas de Alhama",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ruchbrot",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rundìtt",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Salad Pan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sanchuisanda",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sarna",
+"aliases": [
+"sarnita"
+],
+"links": 2
+},
+{
+"name": "Scali bread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Schrippe",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Scottish Morning Roll",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sfinz",
+"aliases": [],
+"links": 2
+},
+{
+"name": "slice of bread",
+"aliases": [
+"piece of bread"
+],
+"links": 2
+},
+{
+"name": "Sochen'",
+"aliases": [],
+"links": 2
+},
+{
+"name": "St. Galler brot",
+"aliases": [
+"St. Galler bread"
+],
+"links": 2
+},
+{
+"name": "St. Sava's Day pretzel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tain",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tiella of Gaeta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tiger tail donut",
+"aliases": [
+"tiger tail",
+"tiger tail doughnut"
+],
+"links": 2
+},
+{
+"name": "Torta de cañamones",
+"aliases": [
+"hemp seed torta"
+],
+"links": 2
+},
+{
+"name": "Ttongppang",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Turkish breads",
+"aliases": [
+"breads of Turkey"
+],
+"links": 2
+},
+{
+"name": "Vosí hnízdo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "yeast bread",
+"aliases": [
+"yeast dough bread",
+"yeast-risen bread",
+"yeasted bread"
+],
+"links": 2
+},
+{
+"name": "Youbing",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zigerkrapfen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zopako",
+"aliases": [
+"sopako"
+],
+"links": 2
+},
+{
+"name": "5 e 5",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Africain",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Agepan",
+"aliases": [
+"Age pan",
+"Age-pan"
+],
+"links": 1
+},
+{
+"name": "Altbrot",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Antigua Sunday Bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Archipelago bread",
+"aliases": [
+"Black bread"
+],
+"links": 1
+},
+{
+"name": "Avaro",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bazo bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "birote salad",
+"aliases": [],
+"links": 1
+},
+{
+"name": "black bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Blanklefse",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Blaukrautschnecke",
+"aliases": [],
+"links": 1
+},
+{
+"name": "blueberry scone",
+"aliases": [],
+"links": 1
+},
+{
+"name": "bola de Berlim",
+"aliases": [],
+"links": 1
+},
+{
+"name": "bolivian bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "bolo-rainha",
+"aliases": [
+"Portuguese queen cake",
+"queen cake"
+],
+"links": 1
+},
+{
+"name": "bostock",
+"aliases": [],
+"links": 1
+},
+{
+"name": "bread loaf",
+"aliases": [
+"loaf of bread"
+],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bread loaf bound with papyrus strips",
+"aliases": [],
+"links": 1
+},
+{
+"name": "brioche tressée de Metz",
+"aliases": [
+"brioche tordée"
+],
+"links": 1
+},
+{
+"name": "Byśki",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bätscher",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cake doughnut",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cantos bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Chama",
+"aliases": [
+"chamillo"
+],
+"links": 1
+},
+{
+"name": "Chapla bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cheela",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Chiabattini",
+"aliases": [
+"chiabatta roll"
+],
+"links": 1
+},
+{
+"name": "chisciöi",
+"aliases": [
+"chisciöi di Tirano"
+],
+"links": 1
+},
+{
+"name": "choereg",
+"aliases": [
+"choerek",
+"choreg",
+"chorek"
+],
+"links": 1
+},
+{
+"name": "chōripan",
+"aliases": [],
+"links": 1
+},
+{
+"name": "ciriola",
+"aliases": [
+"ciriola romana"
+],
+"links": 1
+},
+{
+"name": "coconut bun",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Colston bun",
+"aliases": [],
+"links": 1
+},
+{
+"name": "crust",
+"aliases": [],
+"links": 1
+},
+{
+"name": "cuchaule",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Daujenu namine duona",
+"aliases": [],
+"links": 1
+},
+{
+"name": "David Eyre's pancake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "dholl puri",
+"aliases": [
+"Dal poori",
+"Dal puri",
+"Dalpuri"
+],
+"links": 1
+},
+{
+"name": "Dobladita",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Donettes",
+"aliases": [],
+"links": 1
+},
+{
+"name": "duffin",
+"aliases": [
+"donut muffin",
+"doughnut muffin"
+],
+"links": 1
+},
+{
+"name": "end of the bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Fabiola",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Filinchen",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Filone",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Filoz",
+"aliases": [],
+"links": 1
+},
+{
+"name": "fried cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "fruit bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ganzuki",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Geflochtener Gipfel",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gemberbolus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gemberkoek",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gijda",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Grassins",
+"aliases": [],
+"links": 1
+},
+{
+"name": "griddle scone",
+"aliases": [],
+"links": 1
+},
+{
+"name": "gáhkku",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Hahnenkamm",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Heftbirrî",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Holsum Bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Hussar's Buns",
+"aliases": [
+"Thumbprint cookies"
+],
+"links": 1
+},
+{
+"name": "Jallulla",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Jewish rye bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Joutsenon rieska",
+"aliases": [],
+"links": 1
+},
+{
+"name": "kakko",
+"aliases": [],
+"links": 1
+},
+{
+"name": "kardemummabulle",
+"aliases": [
+"cardamom bun",
+"cardamom roll",
+"kardemummabullar",
+"kardemummabullen"
+],
+"links": 1
+},
+{
+"name": "Khobz el-dâr",
+"aliases": [],
+"links": 1
+},
+{
+"name": "khobz mbesses",
+"aliases": [],
+"links": 1
+},
+{
+"name": "kocho",
+"aliases": [
+"qocho"
+],
+"links": 1
+},
+{
+"name": "Korean cream cheese garlic bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Korean mochi breads",
+"aliases": [
+"mochi breads"
+],
+"links": 1
+},
+{
+"name": "Korzh",
+"aliases": [],
+"links": 1
+},
+{
+"name": "krentenwegge",
+"aliases": [
+"krentewegge",
+"old dutch raisin bread"
+],
+"links": 1
+},
+{
+"name": "krydder",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kuih apam",
+"aliases": [],
+"links": 1
+},
+{
+"name": "laccha paratha",
+"aliases": [
+"laccha parantha"
+],
+"links": 1
+},
+{
+"name": "Laup",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lechuguino",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Libreta bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Malaxlimpa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mametama",
+"aliases": [
+"Mamedama",
+"Mamedama yaki",
+"Mametama yaki"
+],
+"links": 1
+},
+{
+"name": "Mennonite bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Micca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mishṭāʿ al-ǧrīsh",
+"aliases": [
+"Mishtah el jreesh",
+"Mishṭāʿ al-ŷrīsh"
+],
+"links": 1
+},
+{
+"name": "Montasù PAT",
+"aliases": [],
+"links": 1
+},
+{
+"name": "muesli roll",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Méture",
+"aliases": [],
+"links": 1
+},
+{
+"name": "New England-style hot dog bun",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Oberlander",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ochío",
+"aliases": [
+"Ochio"
+],
+"links": 1
+},
+{
+"name": "onion bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Onjeschwedde",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pa de pages catala",
+"aliases": [
+"pa de Pagès Català"
+],
+"links": 1
+},
+{
+"name": "Pada de Vale de Ílhavo",
+"aliases": [
+"Bread"
+],
+"links": 1
+},
+{
+"name": "Palabirabrot",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pan cateto",
+"aliases": [
+"yokel bread"
+],
+"links": 1
+},
+{
+"name": "pan de coco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pan de codos",
+"aliases": [
+"pa de colzes"
+],
+"links": 1
+},
+{
+"name": "Pan de Cruz",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pan de sòrc PAT",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pan Sobado de La Rioja",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pane casareccio di Genzano PGI",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pane di Montecalvo PAT",
+"aliases": [
+"Montecalvo bread",
+"Montecalvo Irpino bread"
+],
+"links": 1
+},
+{
+"name": "Papad",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Patîle",
+"aliases": [
+"pîza"
+],
+"links": 1
+},
+{
+"name": "Perlenka",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Phapar ko Roti",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pintera bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "pitilla",
+"aliases": [
+"brocula",
+"frizzulu",
+"pirilla",
+"simeddhra"
+],
+"links": 1
+},
+{
+"name": "Piña",
+"aliases": [
+"cortaíto",
+"picadito",
+"picaíllo",
+"picaíto"
+],
+"links": 1
+},
+{
+"name": "poppyseed muffin",
+"aliases": [
+"poppy seed muffins"
+],
+"links": 1
+},
+{
+"name": "potato bun",
+"aliases": [],
+"links": 1
+},
+{
+"name": "psatyr",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Puftaloon",
+"aliases": [
+"Johnny Cake",
+"Johnnycakes"
+],
+"links": 1
+},
+{
+"name": "pull-apart doughnut",
+"aliases": [
+"pull apart donut",
+"pull apart doughnut",
+"pull-apart donut"
+],
+"links": 1
+},
+{
+"name": "pulppang",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pumpkin scone",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pão de cará",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pão de Mistura de Seia",
+"aliases": [
+"Mixed flour bread"
+],
+"links": 1
+},
+{
+"name": "Pönnukaka",
+"aliases": [],
+"links": 1
+},
+{
+"name": "qiyma kömech",
+"aliases": [],
+"links": 1
+},
+{
+"name": "quark roll",
+"aliases": [],
+"links": 1
+},
+{
+"name": "rice bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "rievä",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rold Gold",
+"aliases": [],
+"links": 1
+},
+{
+"name": "roscón",
+"aliases": [
+"Roscon"
+],
+"links": 1
+},
+{
+"name": "Rotweinbrot",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rum roll",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sakhnovshchyna korovai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "salinātā rudzu rupjmaize",
+"aliases": [],
+"links": 1
+},
+{
+"name": "sandwich",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Schinkengipfeli",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Schizzotto PAT",
+"aliases": [],
+"links": 1
+},
+{
+"name": "schoten",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Schömberger 12-Apostel-Bomben",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Scuffler",
+"aliases": [],
+"links": 1
+},
+{
+"name": "sealed crustless sandwich",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Senfzwirbel",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sennari",
+"aliases": [],
+"links": 1
+},
+{
+"name": "sesame roll",
+"aliases": [],
+"links": 1
+},
+{
+"name": "shelf-stable bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Simid",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Singing hinny",
+"aliases": [
+"fatty cutties",
+"singin' hinny"
+],
+"links": 1
+},
+{
+"name": "Sloosh",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Soft Bröd",
+"aliases": [],
+"links": 1
+},
+{
+"name": "soldiers",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Spaccata",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Spanish Madeleine",
+"aliases": [
+"Madeleine"
+],
+"links": 1
+},
+{
+"name": "Spuccadella",
+"aliases": [],
+"links": 1
+},
+{
+"name": "straw bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Succarie bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Swedish white bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Szczecin bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Taillaule",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Taiwan donut",
+"aliases": [],
+"links": 1
+},
+{
+"name": "tapan",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tarvo",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Terang bulan",
+"aliases": [
+"Martabak manis",
+"martabak manis",
+"Martabak Manis",
+"Terang bulan pancake"
+],
+"links": 1
+},
+{
+"name": "Three-pointed bread",
+"aliases": [
+"pan de tres puntas"
+],
+"links": 1
+},
+{
+"name": "Tiroler Schinkenkruste",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Toast point",
+"aliases": [],
+"links": 1
+},
+{
+"name": "torta",
+"aliases": [],
+"links": 1
+},
+{
+"name": "tortilla",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tsukisamu anpan",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Uguisu pan",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ungarisches Teebrot",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Valladolid bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vantage loaf",
+"aliases": [
+"vantage of bread"
+],
+"links": 1
+},
+{
+"name": "Vinschgauer struzn PAT",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Weggli",
+"aliases": [],
+"links": 1
+},
+{
+"name": "young donuts",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Zedernbrot",
+"aliases": [],
+"links": 1
+},
+{
+"name": "zucchini bread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ölbrot",
+"aliases": [],
+"links": 1
+}
+]

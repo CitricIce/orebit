@@ -1,0 +1,1947 @@
+[
+{
+"name": "diamond",
+"aliases": [],
+"links": 167
+},
+{
+"name": "pearl",
+"aliases": [],
+"links": 121
+},
+{
+"name": "emerald",
+"aliases": [],
+"links": 109
+},
+{
+"name": "ruby",
+"aliases": [],
+"links": 106
+},
+{
+"name": "sapphire",
+"aliases": [],
+"links": 100
+},
+{
+"name": "amethyst",
+"aliases": [
+"Brazilian amethyst"
+],
+"links": 94
+},
+{
+"name": "agate",
+"aliases": [
+"SiO2",
+"SiO₂"
+],
+"links": 88
+},
+{
+"name": "lapis lazuli",
+"aliases": [
+"lapis"
+],
+"links": 80
+},
+{
+"name": "jade",
+"aliases": [],
+"links": 74
+},
+{
+"name": "Koh-i-Noor",
+"aliases": [
+"Koh-i-Nur",
+"Kohinoor"
+],
+"links": 65
+},
+{
+"name": "carnelian",
+"aliases": [
+"cornelian"
+],
+"links": 60
+},
+{
+"name": "jet",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Cullinan Diamond",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Hope Diamond",
+"aliases": [
+"the French Blue"
+],
+"links": 43
+},
+{
+"name": "peridot",
+"aliases": [
+"chrysolite",
+"olvine",
+"topaz of Theophrastus"
+],
+"links": 43
+},
+{
+"name": "nephrite",
+"aliases": [],
+"links": 41
+},
+{
+"name": "brilliant",
+"aliases": [
+"brilliant diamond"
+],
+"links": 40
+},
+{
+"name": "blood diamond",
+"aliases": [
+"conflict diamond",
+"converted diamond",
+"hot diamond",
+"war diamond"
+],
+"links": 38
+},
+{
+"name": "synthetic diamond",
+"aliases": [
+"artificial diamond",
+"berlian artifisial",
+"berlian budidaya",
+"berlian hasil lab",
+"berlian hasil laboratorium",
+"berlian imitasi",
+"berlian sintesis",
+"berlian tiruan",
+"BHL",
+"cultivated diamond",
+"cultured diamond",
+"lab-grown diamond",
+"lab-grown diamonds",
+"LGD",
+"LGDs"
+],
+"links": 37
+},
+{
+"name": "Darya-ye Noor",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Cintāmaṇi",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Orlov",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Regent Diamond",
+"aliases": [
+"Pitt Diamond"
+],
+"links": 25
+},
+{
+"name": "afghanite",
+"aliases": [
+"IMA1967-041"
+],
+"links": 24
+},
+{
+"name": "Florentine Diamond",
+"aliases": [
+"Tuscany Diamond"
+],
+"links": 24
+},
+{
+"name": "engraved gem",
+"aliases": [
+"intaglio"
+],
+"links": 22
+},
+{
+"name": "carbonado",
+"aliases": [
+"black diamond"
+],
+"links": 21
+},
+{
+"name": "cabochon",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Sancy",
+"aliases": [],
+"links": 19
+},
+{
+"name": "yttrium aluminium garnet",
+"aliases": [
+"YAG"
+],
+"links": 19
+},
+{
+"name": "Aggregated diamond nanorod",
+"aliases": [
+"ADNRs"
+],
+"links": 18
+},
+{
+"name": "bi",
+"aliases": [],
+"links": 18
+},
+{
+"name": "sardonyx",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Dresden Green Diamond",
+"aliases": [
+"Dresden Green"
+],
+"links": 17
+},
+{
+"name": "Great Mogul Diamond",
+"aliases": [],
+"links": 17
+},
+{
+"name": "heliodor",
+"aliases": [],
+"links": 16
+},
+{
+"name": "bort",
+"aliases": [
+"boart",
+"boort",
+"diamond grains",
+"diamond partikels",
+"diamond powder",
+"diamond waste"
+],
+"links": 15
+},
+{
+"name": "Shah Diamond",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Tiffany Yellow Diamond",
+"aliases": [],
+"links": 15
+},
+{
+"name": "ammolite",
+"aliases": [],
+"links": 14
+},
+{
+"name": "birthstone",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Excelsior Diamond",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Golden Jubilee Diamond",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Lesedi La Rona",
+"aliases": [
+"Karowe AK6"
+],
+"links": 14
+},
+{
+"name": "moss agate",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Pearl of Lao Tzu",
+"aliases": [
+"Pearl of Allah"
+],
+"links": 14
+},
+{
+"name": "Arkenstone",
+"aliases": [
+"Heart of the Mountain"
+],
+"links": 13
+},
+{
+"name": "precious stone",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Star of India",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Jacob Diamond",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Lothair Crystal",
+"aliases": [
+"Susanna Crystal"
+],
+"links": 12
+},
+{
+"name": "Oppenheimer Diamond",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Beau Sancy",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Black Prince's Ruby",
+"aliases": [],
+"links": 11
+},
+{
+"name": "cultured pearl",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Nassak Diamond",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Star of the South",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Wittelsbach-Graff Diamond",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Akbar Shah",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chinese jade",
+"aliases": [],
+"links": 10
+},
+{
+"name": "He Shi Bi",
+"aliases": [
+"Heshibi",
+"Mr. He's jade",
+"the Jade of Pien Ho"
+],
+"links": 10
+},
+{
+"name": "Logan Sapphire",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Black Star of Queensland",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pig dragon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tahitian pearl",
+"aliases": [
+"Tahiti pearl"
+],
+"links": 9
+},
+{
+"name": "Taylor-Burton Diamond",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Timur Ruby",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Centenary Diamond",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Great Table diamond",
+"aliases": [],
+"links": 8
+},
+{
+"name": "La Peregrina pearl",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Nizam Diamond",
+"aliases": [],
+"links": 8
+},
+{
+"name": "opalite",
+"aliases": [],
+"links": 8
+},
+{
+"name": "semiprecious stone",
+"aliases": [
+"semi-precious gem",
+"semi-precious gemstone",
+"semi-precious stone",
+"semiprecious gemstone"
+],
+"links": 8
+},
+{
+"name": "Sergio",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Spoonmaker's Diamond",
+"aliases": [],
+"links": 8
+},
+{
+"name": "St Edward's Sapphire",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Stuart Sapphire",
+"aliases": [
+"Stewart Sapphire"
+],
+"links": 8
+},
+{
+"name": "Tavernier Blue",
+"aliases": [
+"Frencha Blue diamond",
+"Hope Diamond"
+],
+"links": 8
+},
+{
+"name": "Uncle Sam",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Vargas diamond",
+"aliases": [],
+"links": 8
+},
+{
+"name": "ballas",
+"aliases": [
+"shot bort"
+],
+"links": 7
+},
+{
+"name": "Black Orlov",
+"aliases": [
+"Eye of Brahma Diamond"
+],
+"links": 7
+},
+{
+"name": "carbuncle",
+"aliases": [],
+"links": 7
+},
+{
+"name": "cymophane",
+"aliases": [
+"cat's eye chrysoberyl",
+"chrysoberyl cat's eye"
+],
+"links": 7
+},
+{
+"name": "Eilat stone",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Gachalá Emerald",
+"aliases": [
+"Gachala Emerald"
+],
+"links": 7
+},
+{
+"name": "Golconda Diamonds",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Heart of the Ocean",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Jubilee Diamond",
+"aliases": [
+"Reitz Diamond"
+],
+"links": 7
+},
+{
+"name": "Lesotho Promise",
+"aliases": [],
+"links": 7
+},
+{
+"name": "memorial diamond",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Millennium Star",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Noor-ul-Ain",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pink Star Diamond",
+"aliases": [
+"CTF Pink Star",
+"Steinmetz Pink"
+],
+"links": 7
+},
+{
+"name": "Samarian Spinel",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Star of Sierra Leone",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Star of South Africa",
+"aliases": [
+"Dudley Diamond"
+],
+"links": 7
+},
+{
+"name": "The Enigma",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Alexander Pushkin",
+"aliases": [
+"Alexander Pushkin Diamond",
+"Pushkin Diamond"
+],
+"links": 6
+},
+{
+"name": "DeLong Star Ruby",
+"aliases": [],
+"links": 6
+},
+{
+"name": "detonation nanodiamond",
+"aliases": [
+"Detonation diamond",
+"DND",
+"UDD",
+"Ultradispersed diamond",
+"ultradispersed diamond"
+],
+"links": 6
+},
+{
+"name": "diamond simulant",
+"aliases": [
+"diamond imitation",
+"diamond substitute",
+"imitation diamond",
+"simulated diamond",
+"substitute diamond"
+],
+"links": 6
+},
+{
+"name": "Eagle Diamond",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Graff Pink",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Heart of Eternity Diamond",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hortensia",
+"aliases": [
+"Hortensia Diamond"
+],
+"links": 6
+},
+{
+"name": "La Pelegrina pearl",
+"aliases": [],
+"links": 6
+},
+{
+"name": "maw sit sit",
+"aliases": [
+"jade-albite"
+],
+"links": 6
+},
+{
+"name": "Minoan sealstone",
+"aliases": [
+"Minoan seal"
+],
+"links": 6
+},
+{
+"name": "padparadscha",
+"aliases": [
+"padparadscha sapphire"
+],
+"links": 6
+},
+{
+"name": "rough diamond",
+"aliases": [],
+"links": 6
+},
+{
+"name": "The Jonker",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Allnatt Diamond",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Archduke Joseph",
+"aliases": [
+"Archduke Joseph Diamond"
+],
+"links": 5
+},
+{
+"name": "Argyle Pink Jubilee",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bahia Emerald",
+"aliases": [],
+"links": 5
+},
+{
+"name": "blue diamond",
+"aliases": [],
+"links": 5
+},
+{
+"name": "brown diamond",
+"aliases": [
+"chocolate diamond",
+"coffee diamond",
+"cognac diamond"
+],
+"links": 5
+},
+{
+"name": "Condé Diamond",
+"aliases": [
+"Grand Condé",
+"Pink Condé"
+],
+"links": 5
+},
+{
+"name": "Cora Sun-Drop Diamond",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Crystallographic defects in diamond",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Eureka Diamond",
+"aliases": [],
+"links": 5
+},
+{
+"name": "freshwater pearl",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Matryoshka",
+"aliases": [
+"Almaz-matryoshka",
+"Diamond-in-a-Diamond",
+"Matryoshka the Diamond"
+],
+"links": 5
+},
+{
+"name": "Motswedi",
+"aliases": [
+"Motswedi diamond"
+],
+"links": 5
+},
+{
+"name": "nanodiamonds",
+"aliases": [
+"nanodiamond"
+],
+"links": 5
+},
+{
+"name": "Pearl of Puerto",
+"aliases": [
+"Pearl of Puerto Princesa"
+],
+"links": 5
+},
+{
+"name": "pink diamond",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Portuguese Diamond",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Saxon White Diamond",
+"aliases": [
+"Dresden White Diamond"
+],
+"links": 5
+},
+{
+"name": "Star of Bombay",
+"aliases": [],
+"links": 5
+},
+{
+"name": "trapiche emerald",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Valentina Tereshkova",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Amsterdam Diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ashberg Diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Black Falcon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "blue lace agate",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Blue Moon of Josephine Diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Briolette of India",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cardinal gem",
+"aliases": [],
+"links": 4
+},
+{
+"name": "cat's eye quartz",
+"aliases": [
+"quartz cat's eye"
+],
+"links": 4
+},
+{
+"name": "Colombian emerald",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cullinan I",
+"aliases": [
+"Great Star of Africa"
+],
+"links": 4
+},
+{
+"name": "Diaghilev",
+"aliases": [
+"Children of Asia",
+"The Spectacle polished diamond"
+],
+"links": 4
+},
+{
+"name": "Dom Pedro aquamarine",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Empress Eugénie",
+"aliases": [
+"Empress Eugenie",
+"Empress Eugénie Diamond",
+"Potemkin Diamond"
+],
+"links": 4
+},
+{
+"name": "Golden Eye Diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Great Chrysanthemum Diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Isotopically pure diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Krupp Diamond",
+"aliases": [
+"Elizabeth Taylor Diamond"
+],
+"links": 4
+},
+{
+"name": "Lake Superior agate",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lapis armenus",
+"aliases": [
+"Armenian stone",
+"lapis stellatus"
+],
+"links": 4
+},
+{
+"name": "lyngurium",
+"aliases": [
+"ligure",
+"ligurium"
+],
+"links": 4
+},
+{
+"name": "Moon of Baroda",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Moussaieff Red Diamond",
+"aliases": [
+"Red Shield"
+],
+"links": 4
+},
+{
+"name": "Oppenheimer Blue",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pink Legacy",
+"aliases": [],
+"links": 4
+},
+{
+"name": "plasma agate",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Premier Rose Diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Princie Diamond",
+"aliases": [
+"Princie"
+],
+"links": 4
+},
+{
+"name": "red diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Servilia's pearl",
+"aliases": [
+"The Servilia Pearl"
+],
+"links": 4
+},
+{
+"name": "Sewelô Diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Spirit of de Grisogono Diamond",
+"aliases": [],
+"links": 4
+},
+{
+"name": "The Creator",
+"aliases": [
+"Creator",
+"Tvorets"
+],
+"links": 4
+},
+{
+"name": "The Star of Adam",
+"aliases": [],
+"links": 4
+},
+{
+"name": "trapiche crystal",
+"aliases": [
+"trapiche mineral"
+],
+"links": 4
+},
+{
+"name": "Woyie River",
+"aliases": [],
+"links": 4
+},
+{
+"name": "60th anniversary of the Komsomol",
+"aliases": [],
+"links": 3
+},
+{
+"name": "aetites",
+"aliases": [
+"eagle-stone"
+],
+"links": 3
+},
+{
+"name": "Canary Diamond",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chalk Emerald",
+"aliases": [],
+"links": 3
+},
+{
+"name": "color diamond",
+"aliases": [
+"colored diamond",
+"colorful diamond"
+],
+"links": 3
+},
+{
+"name": "cultured freshwater pearl",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Daria-i-Noor",
+"aliases": [
+"Daria i Noor",
+"Daria i Nur",
+"Daria-i-Nur",
+"Darya ye Noor",
+"Darya ye Nur",
+"Darya-ye Noor",
+"Darya-ye Nur"
+],
+"links": 3
+},
+{
+"name": "Dawn",
+"aliases": [
+"Anabar",
+"New Sun polished diamond"
+],
+"links": 3
+},
+{
+"name": "Deepdene",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Derbyshire Blue John",
+"aliases": [
+"Blue John",
+"Derbyshire Spar"
+],
+"links": 3
+},
+{
+"name": "DeYoung Red Diamond",
+"aliases": [],
+"links": 3
+},
+{
+"name": "diamond",
+"aliases": [
+"cut diamond"
+],
+"links": 3
+},
+{
+"name": "English Dresden",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Free Russia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "gem",
+"aliases": [
+"semiprecious stone"
+],
+"links": 3
+},
+{
+"name": "Gornyak",
+"aliases": [
+"Miner"
+],
+"links": 3
+},
+{
+"name": "Kazanjian Red Diamond",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Korloff Noir",
+"aliases": [],
+"links": 3
+},
+{
+"name": "La Régente Pearl",
+"aliases": [
+"La Perle Napoleon"
+],
+"links": 3
+},
+{
+"name": "Light of the Desert",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Maria",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ocean Dream Diamond",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Oltu stone",
+"aliases": [],
+"links": 3
+},
+{
+"name": "paragon",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pigot Diamond",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Premier",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pumpkin Diamond",
+"aliases": [],
+"links": 3
+},
+{
+"name": "rose diamond",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sapphire glass",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sardine",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Star of Yakutia",
+"aliases": [
+"50 years of Aeroflot"
+],
+"links": 3
+},
+{
+"name": "Sweet Josephine",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tereshchenko diamond",
+"aliases": [
+"Tereschenko blue"
+],
+"links": 3
+},
+{
+"name": "The Rock",
+"aliases": [],
+"links": 3
+},
+{
+"name": "The Town of Vilyuysk",
+"aliases": [
+"Star of Vilyuysk polished diamond"
+],
+"links": 3
+},
+{
+"name": "Umba sapphire",
+"aliases": [],
+"links": 3
+},
+{
+"name": "25th anniversary of Almazy Anabara JSC",
+"aliases": [],
+"links": 2
+},
+{
+"name": "40th anniversary of Victory",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Abernethy pearl",
+"aliases": [
+"Bill's pearl",
+"Little Willie pearl"
+],
+"links": 2
+},
+{
+"name": "Akik",
+"aliases": [
+"Aqiq"
+],
+"links": 2
+},
+{
+"name": "Amarillo Starlight",
+"aliases": [],
+"links": 2
+},
+{
+"name": "assembled gem",
+"aliases": [
+"composite gem",
+"mosaic gem"
+],
+"links": 2
+},
+{
+"name": "baroque pearl",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Boris Eifman",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Carine Diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "cat's eye",
+"aliases": [],
+"links": 2
+},
+{
+"name": "doublet",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Enhydro agate",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Idol's Eye",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Incomparable Diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "industrial diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "James J. Hill Sapphire",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jones Diamond",
+"aliases": [
+"Grover Jones Diamond",
+"Horseshoe Diamond",
+"Punch Jones Diamond"
+],
+"links": 2
+},
+{
+"name": "Leshem",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mabe pearl",
+"aliases": [
+"blister pearl",
+"Mabe-pearl",
+"Mabé pearl"
+],
+"links": 2
+},
+{
+"name": "Mary Tudor pearl",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Millennium Sapphire",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Niarchos",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nijinsky",
+"aliases": [
+"The Spirit of the Rose polished diamond"
+],
+"links": 2
+},
+{
+"name": "North Star",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ocean Paradise Diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Orphan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "pearl necklace",
+"aliases": [
+"pearls",
+"string of pearls"
+],
+"links": 2
+},
+{
+"name": "Polar Star Diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Queen of Asia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Red Cross Diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Revolutionary Ivan Babushkin",
+"aliases": [
+"Revolyutsioner Ivan Babushkin"
+],
+"links": 2
+},
+{
+"name": "Romanovs",
+"aliases": [
+"The Dynasty polished diamond",
+"The Orlov Dynasty polished diamond",
+"The Sheremetev Dynasty polished diamond",
+"The Vorontsov Dynasty polished diamond",
+"The Yusupov Dynasty polished diamond"
+],
+"links": 2
+},
+{
+"name": "Ruspoli Sapphire",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Serendipity Sapphire",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shah Jahan Diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Spinel of the Great Imperial Crown",
+"aliases": [
+"Menshikov Ruby"
+],
+"links": 2
+},
+{
+"name": "Star of Asia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Star of the East",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Stravinsky",
+"aliases": [
+"The Firebird polished diamond"
+],
+"links": 2
+},
+{
+"name": "Strawn-Wagner Diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sunrise Ruby",
+"aliases": [],
+"links": 2
+},
+{
+"name": "synthetic gemstone",
+"aliases": [
+"artificial gemstone",
+"lab-grown gemstone",
+"synthetic gem"
+],
+"links": 2
+},
+{
+"name": "Taiwan Black Jade",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Taiwan Jade",
+"aliases": [],
+"links": 2
+},
+{
+"name": "The Atocha Star Emerald",
+"aliases": [],
+"links": 2
+},
+{
+"name": "The Lulo Rose",
+"aliases": [],
+"links": 2
+},
+{
+"name": "The Winston Blue",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tumble-polished stones",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ursa Major",
+"aliases": [
+"Bol'shaya Medveditsa",
+"Bolshaya Medveditsa",
+"The Great Bear"
+],
+"links": 2
+},
+{
+"name": "Velikiy Pochin",
+"aliases": [
+"The Great Beginning",
+"The Great Initiative"
+],
+"links": 2
+},
+{
+"name": "Victoria-Transvaal Diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Williamson pink diamond",
+"aliases": [],
+"links": 2
+},
+{
+"name": "616-diamond",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Agate-MCG 91225",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Agra diamond",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Amethyst-AMGL 68901",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Arco Valley Pearl",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bi disk-MG 18349",
+"aliases": [],
+"links": 1
+},
+{
+"name": "black opal",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Blue Belle of Asia",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Blue Heart diamond",
+"aliases": [],
+"links": 1
+},
+{
+"name": "boomagate",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Botswana agate",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Caesar's ruby",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Charles I Pearl",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cleopatra's pearls",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Condor agate",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cullinan II",
+"aliases": [
+"Second Star of Africa"
+],
+"links": 1
+},
+{
+"name": "Cullinan III",
+"aliases": [
+"Lesser Star of Africa"
+],
+"links": 1
+},
+{
+"name": "Cullinan IV",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cullinan IX",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cullinan V",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cullinan VI",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cullinan VII",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cullinan VIII",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Duke of Devonshire Emerald",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Dur",
+"aliases": [
+"Durri"
+],
+"links": 1
+},
+{
+"name": "Estrela de Fura",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Fairburn Agate",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Farnese diamond",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Flame Queen Opal",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Golconda D'or diamond",
+"aliases": [],
+"links": 1
+},
+{
+"name": "golden aura",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Heliodor beryl-MCG 79777",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Hope-pearl",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Jade of Itoigawa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Jewels of James III of Scotland",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kaşykçı Elması",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Keshi pearls",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Liberty Bell Ruby",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lion of Merelani",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Martian Pink",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mirror of Portugal",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mogul Mughal Emerald",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Musée Saint-Raymond, 25124",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mutton-fat jade",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Neelanjali Ruby",
+"aliases": [
+"Neelanjali Star Ruby"
+],
+"links": 1
+},
+{
+"name": "Nonnius opal",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Okavango Blue",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Oriental Pride",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Paterson Pearl",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Patuxent River stone",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pearl of Kuwait",
+"aliases": [
+"Mary Tudor pearl"
+],
+"links": 1
+},
+{
+"name": "Poly Diamond Powder",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Prince of Burma",
+"aliases": [],
+"links": 1
+},
+{
+"name": "red coral",
+"aliases": [
+"precious coral",
+"precious red coral"
+],
+"links": 1
+},
+{
+"name": "rose",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rosser Reeves Ruby",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ruby-AMGL 2010",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ruby-AMGL 79285",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ruby-MGL 90419",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Scapolite-MGL 68902 90230",
+"aliases": [],
+"links": 1
+},
+{
+"name": "scolecite agate",
+"aliases": [],
+"links": 1
+},
+{
+"name": "seal engraved with a scorpio-AOD 287",
+"aliases": [],
+"links": 1
+},
+{
+"name": "seal engraved with a scorpio-MNB 1224",
+"aliases": [],
+"links": 1
+},
+{
+"name": "seal engraved with an ox-AO 7121",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sello de Eneas",
+"aliases": [
+"Aeneas seal"
+],
+"links": 1
+},
+{
+"name": "Shah Sofi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Smoky quartz-AMGL 53591",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Spodumene-AMGL 68977",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Spodumene-MGL 53185",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Star of Burma",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Star of the Asturia-sphalerite-MGL 92297",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Star of the Season",
+"aliases": [],
+"links": 1
+},
+{
+"name": "The Aurora Green Diamond",
+"aliases": [],
+"links": 1
+},
+{
+"name": "The Orange",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Thompson Diamonds",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tide jewels",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tiger eye",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Unique Pink",
+"aliases": [],
+"links": 1
+},
+{
+"name": "vajra-MA 5212",
+"aliases": [],
+"links": 1
+}
+]

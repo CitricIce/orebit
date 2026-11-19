@@ -45,3 +45,16 @@ npm run build:data
 
 The build warns when one alias points at two different answers. Fix those so
 a guess can't match the wrong answer.
+
+## Wikidata additions
+
+`data/wikidata/<id>.json` holds extra answers pulled from Wikidata by
+`npm run fetch:wikidata` (sources are listed in `scripts/fetch_wikidata.py`).
+The build merges them into the matching category:
+
+- An item that matches a hand-sorted answer by any name only adds its other
+  names as aliases. Your tier stays.
+- A new item joins as Cobalt (30+ Wikipedia languages), Gold (10+) or
+  Crystal (fewer).
+- To promote a Wikidata answer, add it to the `.txt` file under the tier you
+  want. The hand-sorted entry wins.

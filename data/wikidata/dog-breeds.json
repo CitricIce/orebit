@@ -1,0 +1,5701 @@
+[
+{
+"name": "German Shepherd",
+"aliases": [
+"Alsatian",
+"Alsatian dog",
+"Alsatian wolf dog",
+"Berger Allemand",
+"Deutscher Schäferhund",
+"German Shepherd Dog",
+"GSD",
+"Schäferhund"
+],
+"links": 92
+},
+{
+"name": "dingo",
+"aliases": [
+"Canis dingo",
+"Canis familiaris dingo",
+"Canis lupus dingo"
+],
+"links": 88
+},
+{
+"name": "Labrador Retriever",
+"aliases": [
+"Lab",
+"Labrador"
+],
+"links": 81
+},
+{
+"name": "beagle",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Chihuahua",
+"aliases": [
+"Chihuahueño"
+],
+"links": 71
+},
+{
+"name": "Bulldog",
+"aliases": [
+"British Bulldog",
+"English Bulldog"
+],
+"links": 69
+},
+{
+"name": "Golden Retriever",
+"aliases": [
+"Golden",
+"Goldie"
+],
+"links": 69
+},
+{
+"name": "dachshund",
+"aliases": [
+"badger dog",
+"dackel",
+"sausage dog",
+"teckel",
+"wiener dog"
+],
+"links": 68
+},
+{
+"name": "Rottweiler",
+"aliases": [
+"Rottie"
+],
+"links": 66
+},
+{
+"name": "Akita",
+"aliases": [
+"Akita Inu",
+"American Akita",
+"Japanese Akita",
+"Japanese Akitainu"
+],
+"links": 65
+},
+{
+"name": "pug",
+"aliases": [
+"carlin",
+"mops"
+],
+"links": 62
+},
+{
+"name": "Siberian Husky",
+"aliases": [
+"Huskie",
+"Husky"
+],
+"links": 62
+},
+{
+"name": "Boxer",
+"aliases": [
+"Deutscher Boxer",
+"German Boxer"
+],
+"links": 61
+},
+{
+"name": "Dalmatian",
+"aliases": [],
+"links": 61
+},
+{
+"name": "poodle",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Dobermann",
+"aliases": [
+"Doberman",
+"Doberman Pinscher",
+"Dobermann Pinscher"
+],
+"links": 60
+},
+{
+"name": "Great Dane",
+"aliases": [
+"Deutsche Dogge",
+"German Mastiff"
+],
+"links": 60
+},
+{
+"name": "border collie",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Chow Chow",
+"aliases": [
+"Chow",
+"Chow-Chow"
+],
+"links": 56
+},
+{
+"name": "St. Bernard",
+"aliases": [
+"Bernhardiner",
+"St. Bernard dog"
+],
+"links": 55
+},
+{
+"name": "Yorkshire Terrier",
+"aliases": [
+"Yorkie",
+"Yorkie Terrier"
+],
+"links": 54
+},
+{
+"name": "Afghan Hound",
+"aliases": [],
+"links": 53
+},
+{
+"name": "greyhound",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Tosa",
+"aliases": [
+"Japanese Fighting Dog",
+"Japanese Mastiff",
+"Japanese Tosa",
+"Tosa Fighting Dog",
+"Tosa Inu",
+"Tosa Tōken"
+],
+"links": 53
+},
+{
+"name": "Basenji",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Newfoundland dog",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Shih Tzu",
+"aliases": [
+"Xi Shi",
+"Xishi"
+],
+"links": 51
+},
+{
+"name": "Bull Terrier",
+"aliases": [
+"English Bull Terrier",
+"Hinks Bull Terrier"
+],
+"links": 50
+},
+{
+"name": "Maltese",
+"aliases": [
+"Maltese dog",
+"Maltese terrier"
+],
+"links": 50
+},
+{
+"name": "Samoyed",
+"aliases": [
+"Bjelkier",
+"Sammy"
+],
+"links": 50
+},
+{
+"name": "Alaskan Malamute",
+"aliases": [
+"Malamute"
+],
+"links": 49
+},
+{
+"name": "Pekingese",
+"aliases": [
+"Pekinese"
+],
+"links": 48
+},
+{
+"name": "Shiba Inu",
+"aliases": [],
+"links": 48
+},
+{
+"name": "French Bulldog",
+"aliases": [
+"Frenchie"
+],
+"links": 47
+},
+{
+"name": "Tibetan Mastiff",
+"aliases": [
+"Do-Khyi"
+],
+"links": 47
+},
+{
+"name": "Airedale Terrier",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Shar Pei",
+"aliases": [
+"Shar-Pei dog"
+],
+"links": 46
+},
+{
+"name": "Australian Shepherd",
+"aliases": [
+"Aussie"
+],
+"links": 45
+},
+{
+"name": "Jack Russell Terrier",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Caucasian Shepherd Dog",
+"aliases": [
+"Caucasian Mountain Dog"
+],
+"links": 44
+},
+{
+"name": "Dogo Argentino",
+"aliases": [
+"Argentine Dogo",
+"Argentine Mastiff",
+"Argentinian Mastiff",
+"Dogo"
+],
+"links": 44
+},
+{
+"name": "Irish wolfhound",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Landseer",
+"aliases": [],
+"links": 44
+},
+{
+"name": "West Highland White Terrier",
+"aliases": [
+"Poltallock Terrier",
+"Westie"
+],
+"links": 44
+},
+{
+"name": "bloodhound",
+"aliases": [
+"Saint Hubert's dog"
+],
+"links": 43
+},
+{
+"name": "Borzoi",
+"aliases": [
+"Barzoi",
+"Borzaya",
+"Russian Wolfhound"
+],
+"links": 43
+},
+{
+"name": "Bullmastiff",
+"aliases": [
+"English Bullmastiff"
+],
+"links": 43
+},
+{
+"name": "Central Asian Shepherd Dog",
+"aliases": [
+"Alabai",
+"CAO",
+"Central Asia Ovcharka",
+"Central Asian Shepherd"
+],
+"links": 43
+},
+{
+"name": "English Setter",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Australian Cattle Dog",
+"aliases": [
+"ACD",
+"Australian Heeler",
+"Blue Heeler",
+"Cattle Dog",
+"Heeler",
+"Queensland Heeler",
+"Red Heeler"
+],
+"links": 42
+},
+{
+"name": "Bernese Mountain Dog",
+"aliases": [
+"Berner Sennenhund"
+],
+"links": 42
+},
+{
+"name": "Cane Corso",
+"aliases": [
+"Cane Corso Italiano",
+"Corso",
+"Italian Cane Corso",
+"Italian Corso",
+"Italian Corso Dog",
+"Italian Mastiff"
+],
+"links": 42
+},
+{
+"name": "Saluki",
+"aliases": [],
+"links": 42
+},
+{
+"name": "American Pit Bull Terrier",
+"aliases": [
+"APBT",
+"Pit Bull"
+],
+"links": 41
+},
+{
+"name": "basset hound",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Cairn Terrier",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Cavalier King Charles Spaniel",
+"aliases": [
+"Cavalier",
+"Cavi",
+"CKCS"
+],
+"links": 41
+},
+{
+"name": "Irish Setter",
+"aliases": [
+"Red Setter",
+"Setter"
+],
+"links": 41
+},
+{
+"name": "Shetland Sheepdog",
+"aliases": [
+"Sheltie"
+],
+"links": 41
+},
+{
+"name": "American Staffordshire Terrier",
+"aliases": [
+"AmStaff",
+"AST"
+],
+"links": 40
+},
+{
+"name": "Bichon Frisé",
+"aliases": [
+"Bichon Frise"
+],
+"links": 40
+},
+{
+"name": "Czechoslovakian Wolfdog",
+"aliases": [],
+"links": 40
+},
+{
+"name": "English Cocker Spaniel",
+"aliases": [
+"Cocker Spaniel"
+],
+"links": 40
+},
+{
+"name": "Komondor",
+"aliases": [
+"Hungarian sheepdog"
+],
+"links": 40
+},
+{
+"name": "Puli",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Scottish Terrier",
+"aliases": [
+"Aberdeen Terrier",
+"Scottie",
+"Scotty Dog"
+],
+"links": 40
+},
+{
+"name": "American Cocker Spaniel",
+"aliases": [
+"Cocker Spaniel"
+],
+"links": 39
+},
+{
+"name": "Azawakh",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Belgian Shepherd",
+"aliases": [
+"Belgian Malinois",
+"Belgian Shepherd Dog",
+"Belgian Tervuren"
+],
+"links": 39
+},
+{
+"name": "Boston Terrier",
+"aliases": [],
+"links": 39
+},
+{
+"name": "English Mastiff",
+"aliases": [
+"British Mastiff",
+"Mastiff",
+"Old English Mastiff"
+],
+"links": 39
+},
+{
+"name": "Irish Terrier",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Lhasa Apso",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Miniature Pinscher",
+"aliases": [
+"Minpin"
+],
+"links": 39
+},
+{
+"name": "Old English sheepdog",
+"aliases": [
+"Shepherd's Dog"
+],
+"links": 39
+},
+{
+"name": "Fox Terrier",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Miniature Schnauzer",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Pyrenean Mountain Dog",
+"aliases": [
+"Great Pyrenees"
+],
+"links": 38
+},
+{
+"name": "Whippet",
+"aliases": [
+"English Whippet",
+"Snap dog"
+],
+"links": 38
+},
+{
+"name": "Affenpinscher",
+"aliases": [
+"Monkey Dog"
+],
+"links": 37
+},
+{
+"name": "Border Terrier",
+"aliases": [],
+"links": 37
+},
+{
+"name": "English Pointer",
+"aliases": [
+"Pointer"
+],
+"links": 37
+},
+{
+"name": "German Shorthaired Pointer",
+"aliases": [
+"German Shorthair Pointer"
+],
+"links": 37
+},
+{
+"name": "Neapolitan Mastiff",
+"aliases": [
+"Italian Mastiff"
+],
+"links": 37
+},
+{
+"name": "Pharaoh Hound",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Vizsla",
+"aliases": [
+"Hungarian Vizsla"
+],
+"links": 37
+},
+{
+"name": "Bergamasco Shepherd",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Canaan Dog",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Gordon Setter",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Rhodesian Ridgeback",
+"aliases": [
+"African Lion Dog",
+"Van Rooyen's Lion Dog"
+],
+"links": 36
+},
+{
+"name": "Staffordshire Bull Terrier",
+"aliases": [
+"Staffbull",
+"Staffie",
+"Staffy"
+],
+"links": 36
+},
+{
+"name": "Welsh Corgi",
+"aliases": [
+"Corgi"
+],
+"links": 36
+},
+{
+"name": "Xoloitzcuintle",
+"aliases": [
+"Mexican Hairless Dog",
+"Xolo",
+"Xoloitzquintle"
+],
+"links": 36
+},
+{
+"name": "American Bulldog",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Bearded Collie",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Beauceron",
+"aliases": [
+"Bas rouge",
+"Beaucenpaimenkoira",
+"Berger de Beauce",
+"Boseron",
+"Boseronas",
+"Cane da pastore di Beauce",
+"Pastor de Beauce"
+],
+"links": 35
+},
+{
+"name": "Bedlington Terrier",
+"aliases": [
+"Rothbury Terrier"
+],
+"links": 35
+},
+{
+"name": "Briard",
+"aliases": [
+"Berger de Brie"
+],
+"links": 35
+},
+{
+"name": "Brittany",
+"aliases": [
+"Bretagnenspanieli",
+"Breton",
+"Bretoni",
+"Brittany Spaniel",
+"Epagneul breton",
+"French Brittany",
+"Spaniel breton",
+"Spaniel bretão",
+"Spaniel bretón",
+"Épagneul breton"
+],
+"links": 35
+},
+{
+"name": "Chinese Crested Dog",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Icelandic Sheepdog",
+"aliases": [
+"Islenskur Fjárhundur"
+],
+"links": 35
+},
+{
+"name": "Weimaraner",
+"aliases": [
+"Braco de Weimar",
+"Braque de Weimar",
+"Grey Ghost"
+],
+"links": 35
+},
+{
+"name": "Bolognese",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Finnish Spitz",
+"aliases": [
+"Finnish Hunting Dog",
+"Finnish Pom"
+],
+"links": 34
+},
+{
+"name": "German Wirehaired Pointer",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Giant Schnauzer",
+"aliases": [
+"Munich Schnauzer"
+],
+"links": 34
+},
+{
+"name": "Greenland Dog",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Hovawart",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Italian Greyhound",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Leonberger",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Papillon",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Tibetan Terrier",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Abruzzo-Maremma Sheepdog",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Anatolian Shepherd",
+"aliases": [
+"Anatolian Shepherd Dog"
+],
+"links": 33
+},
+{
+"name": "Australian Kelpie",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Belgian Malinois",
+"aliases": [
+"Belgian Shepherd Malinois",
+"Malinois"
+],
+"links": 33
+},
+{
+"name": "Dogue de Bordeaux",
+"aliases": [
+"Bordeaux dog",
+"French Mastiff"
+],
+"links": 33
+},
+{
+"name": "Kerry Blue Terrier",
+"aliases": [],
+"links": 33
+},
+{
+"name": "New Guinea singing dog",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Pembroke Welsh Corgi",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Welsh Terrier",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Aidi",
+"aliases": [
+"Atlas Mountain Dog"
+],
+"links": 32
+},
+{
+"name": "Fila Brasileiro",
+"aliases": [
+"Brazilian Mastiff"
+],
+"links": 32
+},
+{
+"name": "Havanese",
+"aliases": [
+"Havanese Bichon",
+"Havanese dog"
+],
+"links": 32
+},
+{
+"name": "Japanese Chin",
+"aliases": [
+"Chin",
+"Japanese Spaniel"
+],
+"links": 32
+},
+{
+"name": "Japanese Spitz",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Kuvasz",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Nova Scotia Duck Tolling Retriever",
+"aliases": [],
+"links": 32
+},
+{
+"name": "White Swiss Shepherd",
+"aliases": [
+"Berger Blanc Suisse"
+],
+"links": 32
+},
+{
+"name": "Yugoslavian Shepherd Dog",
+"aliases": [
+"Sharplanina"
+],
+"links": 32
+},
+{
+"name": "American Eskimo Dog",
+"aliases": [],
+"links": 31
+},
+{
+"name": "American foxhound",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Australian Terrier",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Coton de Tulear",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Jagdterrier",
+"aliases": [
+"German Hunting Terrier"
+],
+"links": 31
+},
+{
+"name": "Portuguese water dog",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Pumi",
+"aliases": [
+"Hungarian herding terrier"
+],
+"links": 31
+},
+{
+"name": "Rough Collie",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Skye Terrier",
+"aliases": [],
+"links": 31
+},
+{
+"name": "American Water Spaniel",
+"aliases": [
+"AWS"
+],
+"links": 30
+},
+{
+"name": "Australian Silky Terrier",
+"aliases": [
+"Sydney Silky Terrier"
+],
+"links": 30
+},
+{
+"name": "Catalan Sheepdog",
+"aliases": [
+"Pastor Català"
+],
+"links": 30
+},
+{
+"name": "German Pinscher",
+"aliases": [
+"Deutscher Pinscher"
+],
+"links": 30
+},
+{
+"name": "German Spitz",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Griffon Bruxellois",
+"aliases": [
+"Brussels Griffon",
+"Petit Brabançon"
+],
+"links": 30
+},
+{
+"name": "Karelian Bear Dog",
+"aliases": [
+"Karelian Bear Laika"
+],
+"links": 30
+},
+{
+"name": "Norwegian Elkhound",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Polish Lowland Sheepdog",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Presa Canario",
+"aliases": [
+"Canary Dog",
+"Canary Mastiff",
+"Dogo Canario",
+"Perro de Presa Canario",
+"Presa"
+],
+"links": 30
+},
+{
+"name": "Saarloos wolfdog",
+"aliases": [
+"perro enojón"
+],
+"links": 30
+},
+{
+"name": "Scottish Deerhound",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Shikoku Ken",
+"aliases": [
+"Kochi Ken"
+],
+"links": 30
+},
+{
+"name": "Tibetan Spaniel",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Akbash",
+"aliases": [
+"Akbash Dog",
+"Akbaş"
+],
+"links": 29
+},
+{
+"name": "American Hairless Terrier",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Black Russian Terrier",
+"aliases": [
+"Chornyi Terrier",
+"Tchiorny Terrier"
+],
+"links": 29
+},
+{
+"name": "Bracco Italiano",
+"aliases": [
+"Braque italien",
+"Italian Pointer",
+"Italian Pointing Dog"
+],
+"links": 29
+},
+{
+"name": "English Foxhound",
+"aliases": [
+"Foxhound"
+],
+"links": 29
+},
+{
+"name": "Field Spaniel",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Finnish Lapphund",
+"aliases": [
+"Finnish Lapponian Dog",
+"Lapphund"
+],
+"links": 29
+},
+{
+"name": "Galgo Español",
+"aliases": [
+"Spanish Greyhound"
+],
+"links": 29
+},
+{
+"name": "Hokkaido inu",
+"aliases": [
+"Ainu Dog",
+"Ainu Ken",
+"Seta"
+],
+"links": 29
+},
+{
+"name": "Manchester Terrier",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Mudi",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Norwegian Buhund",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Schipperke",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Sloughi",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Spanish Mastiff",
+"aliases": [
+"mastín Español"
+],
+"links": 29
+},
+{
+"name": "Alaskan Klee Kai",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Austrian Pinscher",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Brazilian Terrier",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Canadian Eskimo Dog",
+"aliases": [
+"Canadian Inuit Dog",
+"Canis familiaris borealis",
+"Kingmik",
+"Qinmmik"
+],
+"links": 28
+},
+{
+"name": "Chesapeake Bay Retriever",
+"aliases": [],
+"links": 28
+},
+{
+"name": "English Springer Spaniel",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Flat-Coated Retriever",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Greater Swiss Mountain Dog",
+"aliases": [
+"Gran boyero suizo",
+"Grand bouvier suisse",
+"Grande bovaro svizzero",
+"Great Swiss Mountain Dog",
+"Grosse",
+"Grosser Schweizer Sennenhund",
+"Isosveitsinpaimenkoira",
+"Swissy"
+],
+"links": 28
+},
+{
+"name": "Lakeland Terrier",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Norfolk Terrier",
+"aliases": [
+"Norfork Terrier"
+],
+"links": 28
+},
+{
+"name": "Pyrenean Mastiff",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Sealyham Terrier",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Bouvier des Flandres",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Broholmer",
+"aliases": [
+"Danish Mastiff"
+],
+"links": 27
+},
+{
+"name": "Cardigan Welsh Corgi",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Clumber Spaniel",
+"aliases": [],
+"links": 27
+},
+{
+"name": "cocker spaniel",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Dandie Dinmont Terrier",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Dutch Shepherd",
+"aliases": [
+"Dutch Shepherd Dog",
+"Hollandse Herdershond"
+],
+"links": 27
+},
+{
+"name": "Eurasier",
+"aliases": [
+"Eurasian"
+],
+"links": 27
+},
+{
+"name": "Groenendael",
+"aliases": [
+"Belgian Shepherd Dog"
+],
+"links": 27
+},
+{
+"name": "Ibizan Hound",
+"aliases": [
+"Ibizan Podenco",
+"Podenco Ibicenco"
+],
+"links": 27
+},
+{
+"name": "Irish Water Spaniel",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Kai Ken",
+"aliases": [
+"Tora Inu"
+],
+"links": 27
+},
+{
+"name": "Kangal Shepherd Dog",
+"aliases": [
+"Kangal",
+"Kangal Dog",
+"Sivas Kangal Dog"
+],
+"links": 27
+},
+{
+"name": "Keeshond",
+"aliases": [
+"Wolfspitz"
+],
+"links": 27
+},
+{
+"name": "Kishu",
+"aliases": [
+"Kishu Inu",
+"Kumano Ken",
+"Taichi Ken"
+],
+"links": 27
+},
+{
+"name": "Tornjak",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Yakutian Laika",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Alano Español",
+"aliases": [
+"Spanish Alano",
+"Spanish Bulldog"
+],
+"links": 26
+},
+{
+"name": "Barbet",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Boerboel",
+"aliases": [
+"African Boerboel",
+"African Mastiff",
+"Boerbol",
+"Boerbull",
+"South African Boerboel",
+"South African Mastiff"
+],
+"links": 26
+},
+{
+"name": "Kooikerhondje",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Korean Jindo Dog",
+"aliases": [
+"Jindo",
+"Korean Jindo"
+],
+"links": 26
+},
+{
+"name": "Löwchen",
+"aliases": [],
+"links": 26
+},
+{
+"name": "mongrel",
+"aliases": [
+"mongrel dog",
+"mongrel dogs",
+"mongrels",
+"muts",
+"mutt",
+"mutts"
+],
+"links": 26
+},
+{
+"name": "Norwegian Lundehund",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Norwich Terrier",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Parson Russell Terrier",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Picardy Shepherd",
+"aliases": [
+"Berger Picard"
+],
+"links": 26
+},
+{
+"name": "Spinone Italiano",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Standard Schnauzer",
+"aliases": [
+"Schnauzer"
+],
+"links": 26
+},
+{
+"name": "Ukrainian Vivcharka",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Volpino Italiano",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Alpine Dachsbracke",
+"aliases": [
+"Alpenländische Dachsbracke"
+],
+"links": 25
+},
+{
+"name": "Appenzeller Sennenhund",
+"aliases": [
+"Blackberry Pink Justice"
+],
+"links": 25
+},
+{
+"name": "Basque Shepherd Dog",
+"aliases": [
+"Euskal ardi-txakur",
+"Euskal Artzain Txakurra"
+],
+"links": 25
+},
+{
+"name": "Cesky Terrier",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Cirneco dell'Etna",
+"aliases": [
+"Etnahund",
+"Sicilian Greyhound"
+],
+"links": 25
+},
+{
+"name": "Croatian Sheepdog",
+"aliases": [
+"Hrvatski Ovčar"
+],
+"links": 25
+},
+{
+"name": "English Toy Terrier",
+"aliases": [
+"King Charles Spaniel"
+],
+"links": 25
+},
+{
+"name": "German Spaniel",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Glen of Imaal Terrier",
+"aliases": [],
+"links": 25
+},
+{
+"name": "King Charles Spaniel",
+"aliases": [
+"English Toy Spaniel"
+],
+"links": 25
+},
+{
+"name": "Lagotto Romagnolo",
+"aliases": [
+"Italian Truffle Dog",
+"Romagna Water Dog"
+],
+"links": 25
+},
+{
+"name": "Large Münsterländer",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Otterhound",
+"aliases": [
+"Otter hound"
+],
+"links": 25
+},
+{
+"name": "Peruvian Hairless Dog",
+"aliases": [
+"Peruvian Inca Orchid"
+],
+"links": 25
+},
+{
+"name": "Polish Greyhound",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Slovak Cuvac",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Sussex Spaniel",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Swedish Vallhund",
+"aliases": [
+"Länsigöötanmaanpystykorva",
+"Spitz dos visigodos",
+"Vallhund sueco",
+"Vallhund suedois",
+"Vallhund suédois",
+"Västgötaspets"
+],
+"links": 25
+},
+{
+"name": "Tatra Shepherd Dog",
+"aliases": [
+"Polish Tatra Sheepdog"
+],
+"links": 25
+},
+{
+"name": "West Siberian Laika",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Wire Fox Terrier",
+"aliases": [],
+"links": 25
+},
+{
+"name": "American Akita",
+"aliases": [
+"Great Japanese Dog"
+],
+"links": 24
+},
+{
+"name": "American Bully",
+"aliases": [
+"Bully",
+"Bully dog"
+],
+"links": 24
+},
+{
+"name": "Black and Tan Coonhound",
+"aliases": [
+"Coonhound"
+],
+"links": 24
+},
+{
+"name": "Carpathian Shepherd Dog",
+"aliases": [],
+"links": 24
+},
+{
+"name": "collie",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Curly Coated Retriever",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Dunker",
+"aliases": [
+"Norwegian Hound"
+],
+"links": 24
+},
+{
+"name": "Estrela Mountain Dog",
+"aliases": [
+"Portuguese Mountain Dog"
+],
+"links": 24
+},
+{
+"name": "Japanese Terrier",
+"aliases": [
+"Kobe Terrier",
+"Mikado Terrier",
+"Nippon Terrier",
+"Oyuki Terrier"
+],
+"links": 24
+},
+{
+"name": "Jämthund",
+"aliases": [
+"Swedish Elkhound"
+],
+"links": 24
+},
+{
+"name": "Karst Shepherd",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lapponian Herder",
+"aliases": [
+"Lapinporokoira",
+"Lapland Reindeer Dog"
+],
+"links": 24
+},
+{
+"name": "Magyar agár",
+"aliases": [
+"Magyar agar"
+],
+"links": 24
+},
+{
+"name": "Pyrenean Shepherd",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Russkiy Toy",
+"aliases": [
+"Moscovian Miniature Terrier",
+"Moscow Toy Terrier",
+"Russian Terrier",
+"Russian Toy",
+"Russian Toy Terrier"
+],
+"links": 24
+},
+{
+"name": "Soft-coated Wheaten Terrier",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Bavarian Mountain Hound",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Drever",
+"aliases": [
+"Swedish Beagle",
+"Swedish Dachsbracke"
+],
+"links": 23
+},
+{
+"name": "East Siberian Laika",
+"aliases": [],
+"links": 23
+},
+{
+"name": "English Shepherd",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Entlebucher Mountain Dog",
+"aliases": [
+"Entlebuch Mountain Dogs",
+"Entlebucher Cattle Dogs",
+"Entlebucher Sennenhund"
+],
+"links": 23
+},
+{
+"name": "German Longhaired Pointer",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Laekenois",
+"aliases": [
+"Belgian Shepherd Laekenois"
+],
+"links": 23
+},
+{
+"name": "Porcelaine",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Portuguese Sheepdog",
+"aliases": [
+"Cão da Serra de Aires"
+],
+"links": 23
+},
+{
+"name": "Pudelpointer",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Stabijhoun",
+"aliases": [
+"Beike",
+"Cão de aponte frisão",
+"Frisian Pointer",
+"Frisian Pointing Dog",
+"Perdiguero frison",
+"Perdiguero frisón",
+"Stabij",
+"Staby",
+"Stabyhoun"
+],
+"links": 23
+},
+{
+"name": "Thai Ridgeback",
+"aliases": [
+"Mah Thai Lang Ahn",
+"Thai Lang-An"
+],
+"links": 23
+},
+{
+"name": "Transylvanian hound",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Welsh Springer Spaniel",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Wetterhoun",
+"aliases": [
+"Dutch Spaniel",
+"Dutch Water Dog",
+"Frisian Water Dog",
+"Otterhoun"
+],
+"links": 23
+},
+{
+"name": "Africanis",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Australian Stumpy Tail Cattle Dog",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Catahoula Leopard Dog",
+"aliases": [
+"Catahoula Cur",
+"Louisiana Catahoula Leopard Dog"
+],
+"links": 22
+},
+{
+"name": "Chinook",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Danish Swedish Farmdog",
+"aliases": [
+"Danish-Swedish Farmdog"
+],
+"links": 22
+},
+{
+"name": "Finnish Hound",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Greek Shepherd",
+"aliases": [
+"Greek sheepdodg"
+],
+"links": 22
+},
+{
+"name": "Hamiltonstövare",
+"aliases": [
+"Hamilton Hound",
+"Swedish Foxhound"
+],
+"links": 22
+},
+{
+"name": "Harrier",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Majorca Shepherd Dog",
+"aliases": [
+"CA DE BESTIAR, PERRO DE PASTOR MALLORQUIN"
+],
+"links": 22
+},
+{
+"name": "Moscow Watchdog",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Old Danish Pointer",
+"aliases": [
+"Gammel Dansk Hønsehund"
+],
+"links": 22
+},
+{
+"name": "Podenco Canario",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Polish Hound",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Portuguese Pointer",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Pražský Krysařík",
+"aliases": [
+"Prager Rattler",
+"Prague Ratter",
+"Ratier de Prague"
+],
+"links": 22
+},
+{
+"name": "Russo-European Laika",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Smooth Fox Terrier",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Swedish Lapphund",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Tervuren",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Toy Fox Terrier",
+"aliases": [
+"American Toy Terrier"
+],
+"links": 22
+},
+{
+"name": "Ariégeois",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Billy",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Blue Picardy Spaniel",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bohemian Shepherd",
+"aliases": [
+"Chodenhund",
+"Chodský pes",
+"Czech Sheepdog"
+],
+"links": 21
+},
+{
+"name": "Bouvier des Ardennes",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Braque d'Auvergne",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Braque du Bourbonnais",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bucovina Shepherd Dog",
+"aliases": [
+"Romanian Bucovina Shepherd Dog"
+],
+"links": 21
+},
+{
+"name": "Carolina Dog",
+"aliases": [
+"American dingo",
+"Dixie dingo",
+"North American native dog"
+],
+"links": 21
+},
+{
+"name": "Drentse Patrijshond",
+"aliases": [
+"Drentsche patrijshond",
+"Dutch Partridge Dog",
+"Hollanninpeltopyykoira",
+"Perdiguero de Drenthe",
+"Spaniel perdigueiro de Drente"
+],
+"links": 21
+},
+{
+"name": "Formosan Mountain Dog",
+"aliases": [
+"Huling Bale",
+"Huling Seediq",
+"National Dog",
+"Taiwan Canis",
+"Taiwan Dog",
+"Taiwanese Canis",
+"Taiwanese Dog",
+"Taiwanese Native Dog",
+"Takasago Dog"
+],
+"links": 21
+},
+{
+"name": "Great Gascony Blue",
+"aliases": [
+"Great Gascony Hound"
+],
+"links": 21
+},
+{
+"name": "Kromfohrländer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Miniature Bull Terrier",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Perro de Presa Mallorquin",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Picardy Spaniel",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Rafeiro do Alentejo",
+"aliases": [
+"Alentejo Herder",
+"Alentejo Mastiff",
+"Portuguese Mastiff",
+"Portuguese Watch Dog"
+],
+"links": 21
+},
+{
+"name": "Sabueso Español",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Slovenský kopov",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Small Münsterländer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Spanish Water Dog",
+"aliases": [
+"Perro de agua español"
+],
+"links": 21
+},
+{
+"name": "Wirehaired Pointing Griffon",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ariege Pointer",
+"aliases": [
+"Braque de l’ariège"
+],
+"links": 20
+},
+{
+"name": "Artois Hound",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Basset Bleu de Gascogne",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Boykin Spaniel",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Briquet Griffon Vendéen",
+"aliases": [
+"Briquet Griffon Vendeen"
+],
+"links": 20
+},
+{
+"name": "Cesky Fousek",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Chortai",
+"aliases": [
+"Chortaj"
+],
+"links": 20
+},
+{
+"name": "Deutsche Bracke",
+"aliases": [],
+"links": 20
+},
+{
+"name": "East-European Shepherd",
+"aliases": [],
+"links": 20
+},
+{
+"name": "French Spaniel",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Halden Hound",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Hanover Hound",
+"aliases": [
+"Hanoverian Hound",
+"Hanoverian Scenthound"
+],
+"links": 20
+},
+{
+"name": "Karakachan Dog",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Norrbottenspets",
+"aliases": [
+"Norbottenspitz",
+"Nordic Spitz",
+"Pohjanpystykorva",
+"Spitz de Norboten"
+],
+"links": 20
+},
+{
+"name": "Phalène",
+"aliases": [
+"Phalene"
+],
+"links": 20
+},
+{
+"name": "Portuguese Cattle Dog",
+"aliases": [
+"Castro Laboreiro Dog",
+"Cão de Castro Laboreiro",
+"Portuguese Watch Dog"
+],
+"links": 20
+},
+{
+"name": "Portuguese Podengo",
+"aliases": [
+"Podengo Português",
+"Portuguese Warren Hound"
+],
+"links": 20
+},
+{
+"name": "Black Norwegian Elkhound",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Dutch Smoushond",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Fawn Brittany Basset",
+"aliases": [
+"Basset Fauve de Bretagne"
+],
+"links": 19
+},
+{
+"name": "Greek Harehound",
+"aliases": [
+"Hellenic Hound"
+],
+"links": 19
+},
+{
+"name": "Irish Red and White Setter",
+"aliases": [
+"Irish Setter",
+"Rossmore Setter",
+"Setter"
+],
+"links": 19
+},
+{
+"name": "Kintamani",
+"aliases": [
+"Bali Berghund"
+],
+"links": 19
+},
+{
+"name": "Lancashire Heeler",
+"aliases": [
+"Ormskirk Heeler"
+],
+"links": 19
+},
+{
+"name": "Mioritic",
+"aliases": [
+"Romanian Mioritic Shepherd Dog"
+],
+"links": 19
+},
+{
+"name": "Patterdale Terrier",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Petit Basset Griffon Vendéen",
+"aliases": [
+"PBGV",
+"Petit Basset Griffon Vendeen"
+],
+"links": 19
+},
+{
+"name": "Pont-Audemer Spaniel",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Rat Terrier",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Smooth Collie",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Azores Cattle Dog",
+"aliases": [
+"Azores Cow Dog",
+"Cão Fila de São Miguel",
+"Saint Miguel Cattle Dog",
+"São Miguel Catch Dog",
+"São Miguel Cattle Dog"
+],
+"links": 18
+},
+{
+"name": "Barak hound",
+"aliases": [
+"Bosnian Broken-haired Hound",
+"Bosnian Coarse-haired Hound",
+"Bosnian Rough-coated Hound",
+"Bosnian Rough-haired Hound"
+],
+"links": 18
+},
+{
+"name": "Blue Gascony Griffon",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Braque Saint-Germain",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Burgos Retriever",
+"aliases": [
+"Perdiguero de Burgos"
+],
+"links": 18
+},
+{
+"name": "Chinese Chongqing Dog",
+"aliases": [
+"Chuandong Hound"
+],
+"links": 18
+},
+{
+"name": "Estonian Hound",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Griffon Nivernais",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Istrian Shorthaired Hound",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Poitevin hound",
+"aliases": [
+"Poitevin"
+],
+"links": 18
+},
+{
+"name": "Redbone Coonhound",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Russkaya tsvetnaya bolonka",
+"aliases": [
+"Bolonka",
+"Russian Tsvetnaya Bolonka"
+],
+"links": 18
+},
+{
+"name": "Schapendoes",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Smaland Hound",
+"aliases": [
+"Smålandsstövare"
+],
+"links": 18
+},
+{
+"name": "Taigan",
+"aliases": [
+"Kyrgyzskaya Borzaya Taigan"
+],
+"links": 18
+},
+{
+"name": "Wirehaired Vizsla",
+"aliases": [
+"Drotzörü Magyar Vizsla",
+"Vizsla"
+],
+"links": 18
+},
+{
+"name": "Alapaha Blue Blood Bulldog",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Basset Artésien Normand",
+"aliases": [
+"Basset Artesien Normand"
+],
+"links": 17
+},
+{
+"name": "Beagle-Harrier",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Biewer Terrier",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Blue Lacy",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Buryat-Mongolian Wolfhound",
+"aliases": [
+"Bankhar dog"
+],
+"links": 17
+},
+{
+"name": "Grand Griffon Vendéen",
+"aliases": [
+"Grand Griffon Vendeen"
+],
+"links": 17
+},
+{
+"name": "Molossian hound",
+"aliases": [
+"Epirus mastiff",
+"Molosser",
+"Molossus"
+],
+"links": 17
+},
+{
+"name": "Posavac Hound",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Pungsan",
+"aliases": [
+"Poongsan"
+],
+"links": 17
+},
+{
+"name": "Rajapalayam",
+"aliases": [
+"Rajapalayam dog",
+"Rajapalayam Hound"
+],
+"links": 17
+},
+{
+"name": "Rampur Greyhound",
+"aliases": [
+"Rampur Hound"
+],
+"links": 17
+},
+{
+"name": "Schweizer Laufhund",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Serbian Hound",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Slovakian Rough-haired Pointer",
+"aliases": [
+"Slovakian Wirehaired Pointer"
+],
+"links": 17
+},
+{
+"name": "Stichelhaar",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Armenian Gampr dog",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bluetick Coonhound",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bully Kutta",
+"aliases": [
+"Alangu Mastiff",
+"Indian Mastiff",
+"Pakistani Mastiff",
+"Sindh Mastiff"
+],
+"links": 16
+},
+{
+"name": "Large Vendeen Griffon Basset",
+"aliases": [
+"GBGV",
+"Grand Basset Griffon Vendeen",
+"Grand Basset Griffon Vendéen"
+],
+"links": 16
+},
+{
+"name": "Mudhol Hound",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Petit Bleu de Gascogne",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sapsali",
+"aliases": [
+"Sabsal Gae"
+],
+"links": 16
+},
+{
+"name": "Schillerstövare",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Serbian Tricolour Hound",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Thai Bangkaew Dog",
+"aliases": [
+"Bangkaew Dog"
+],
+"links": 16
+},
+{
+"name": "Westphalian Dachsbracke",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Aksaray Malaklisi",
+"aliases": [
+"Aksaray Malaklısı",
+"Anatolian Lion",
+"Anatolian Mastiff",
+"Malaklı Karabaş",
+"Turkish Mastiff"
+],
+"links": 15
+},
+{
+"name": "Austrian Black and Tan Hound",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Chippiparai",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Cimarrón Uruguayo",
+"aliases": [
+"Cimarron Uruguayo",
+"Uruguayan Cimarron"
+],
+"links": 15
+},
+{
+"name": "continental bulldog",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Cretan Hound",
+"aliases": [
+"Cretan Harehound",
+"Cretan Tracker",
+"Kritikos Ichnilatis",
+"Kritikos Lagonikos"
+],
+"links": 15
+},
+{
+"name": "Fawn Brittany Griffon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Hygen Hound",
+"aliases": [
+"Hygenhund"
+],
+"links": 15
+},
+{
+"name": "Karelo-Finnish Laika",
+"aliases": [
+"Karelo-Finskaya Laika",
+"Karero-Finnish Laika",
+"Karjalais-suomalainen laika",
+"Laika Karelo-Finskaya",
+"Suomenpystykorva"
+],
+"links": 15
+},
+{
+"name": "Kazakh tazy",
+"aliases": [
+"Central Asian Tazi",
+"Middleasian greyhound",
+"Tazi"
+],
+"links": 15
+},
+{
+"name": "Medium-sized Anglo-French Hound",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Montenegrin Mountain Hound",
+"aliases": [],
+"links": 15
+},
+{
+"name": "nureongi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Olde English Bulldogge",
+"aliases": [
+"OEB"
+],
+"links": 15
+},
+{
+"name": "Plott Hound",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Polish Hunting Dog",
+"aliases": [
+"gończy polski",
+"Polish Hound",
+"Polish Scenthound"
+],
+"links": 15
+},
+{
+"name": "Ratonero Bodeguero Andaluz COOPER",
+"aliases": [
+"Andalusian Mouse-Hunting Terrier"
+],
+"links": 15
+},
+{
+"name": "Styrian Coarse-haired Hound",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Treeing Walker Coonhound",
+"aliases": [
+"TWC",
+"Walker hound"
+],
+"links": 15
+},
+{
+"name": "Welsh Sheepdog",
+"aliases": [],
+"links": 15
+},
+{
+"name": "American English Coonhound",
+"aliases": [
+"English Coonhound"
+],
+"links": 14
+},
+{
+"name": "Andalusian Hound",
+"aliases": [
+"Andalusian Podenco",
+"Andalusian Warren Hound",
+"podenco andaluz"
+],
+"links": 14
+},
+{
+"name": "Black and Tan Terrier",
+"aliases": [
+"Old English Black and Tan Terrier",
+"Old English Terrier"
+],
+"links": 14
+},
+{
+"name": "Braque du Puy",
+"aliases": [
+"Braque dupuy"
+],
+"links": 14
+},
+{
+"name": "Bull and Terrier",
+"aliases": [
+"Bull & Terrier",
+"Bull-and-terrier",
+"Bull-terrier",
+"Half-and-half"
+],
+"links": 14
+},
+{
+"name": "Cordoba Fighting Dog",
+"aliases": [],
+"links": 14
+},
+{
+"name": "French Tricolour Hound",
+"aliases": [
+"Chien Français Tricolore"
+],
+"links": 14
+},
+{
+"name": "Gos Rater Valencià",
+"aliases": [
+"Gos Rater Valencia"
+],
+"links": 14
+},
+{
+"name": "Griffon Belge",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Himalayan Sheepdog",
+"aliases": [
+"Kinnaur Sheepdog"
+],
+"links": 14
+},
+{
+"name": "Huntaway",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Indian Spitz",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Kunming wolfdog",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Miniature American Shepherd",
+"aliases": [
+"American Shepherd",
+"Mini American",
+"Mini Aussie",
+"Miniature Australian Shepherd",
+"North American Shepherd"
+],
+"links": 14
+},
+{
+"name": "Pachón Navarro",
+"aliases": [
+"Nafar eper txakurra",
+"Nafarroako eper txakur",
+"Pachón",
+"Pachón de Vitoria",
+"Pachón español",
+"Perdiguero común",
+"Perdiguero navarro"
+],
+"links": 14
+},
+{
+"name": "Pariah dog",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Petit brabançon",
+"aliases": [
+"Griffon_Bruxellois"
+],
+"links": 14
+},
+{
+"name": "Russian Spaniel",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Silken Windhound",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Sulimov dog",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Tyrolean Hound",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Argentine Pila Dog",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Belgian Mastiff",
+"aliases": [
+"Belgian Drafting Dog"
+],
+"links": 13
+},
+{
+"name": "Black Mouth Cur",
+"aliases": [
+"Blackmouth Cur"
+],
+"links": 13
+},
+{
+"name": "Braque Français",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Chilean Fox Terrier",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cão de gado transmontano",
+"aliases": [
+"Transmontano Cattle Dog",
+"Transmontano Mastiff"
+],
+"links": 13
+},
+{
+"name": "Danish Spitz",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Dutch Tulip Dog",
+"aliases": [
+"Markiesje"
+],
+"links": 13
+},
+{
+"name": "Istrian Coarse-haired Hound",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kanni",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kokoni",
+"aliases": [
+"Small Greek Domestic Dog"
+],
+"links": 13
+},
+{
+"name": "Phu Quoc ridgeback dog",
+"aliases": [
+"Phu Quoc Ridgeback"
+],
+"links": 13
+},
+{
+"name": "Rastreador-brasileiro",
+"aliases": [
+"Rastreador brasileiro"
+],
+"links": 13
+},
+{
+"name": "Scotch collie",
+"aliases": [
+"Scottish collie"
+],
+"links": 13
+},
+{
+"name": "Telomian",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Xiasi Dog",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Alopekis",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Campeiro Bulldog",
+"aliases": [
+"Buldogue campeiro",
+"Pampas Bulldog"
+],
+"links": 12
+},
+{
+"name": "Can de Palleiro",
+"aliases": [
+"Galician Cattledog",
+"Galician Palleiro Dog",
+"Palleiro",
+"Palleiro Shepherd Dog"
+],
+"links": 12
+},
+{
+"name": "Chien Français Blanc et Noir",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Combai",
+"aliases": [],
+"links": 12
+},
+{
+"name": "English Water Spaniel",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Gascon Saintongeois",
+"aliases": [
+"Virelade Hound"
+],
+"links": 12
+},
+{
+"name": "Great Anglo-French Tricolour Hound",
+"aliases": [
+"Grand Anglo-Français Tricolore"
+],
+"links": 12
+},
+{
+"name": "hairless dog",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Limer",
+"aliases": [
+"Lime-hound",
+"Limier",
+"Lyam",
+"Lymer"
+],
+"links": 12
+},
+{
+"name": "Lupo Italiano",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Macedonian Karaman",
+"aliases": [
+"Karaman",
+"Macedonian Shepherd Dog",
+"Makedonsko ovcharko kuche"
+],
+"links": 12
+},
+{
+"name": "Moscow Water Dog",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Romanian Raven Shepherd Dog",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Schweizerischer Niederlaufhund",
+"aliases": [
+"Small Swiss Hound"
+],
+"links": 12
+},
+{
+"name": "Segugio Italiano",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Segugio Italiano a Pelo Raso",
+"aliases": [
+"Italian Short-haired Segugio"
+],
+"links": 12
+},
+{
+"name": "Armant dog",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bakharwal Dog",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bruno Jura Hound",
+"aliases": [
+"Bruno Saint Hubert français"
+],
+"links": 11
+},
+{
+"name": "Cantabrian Water Dog",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Coonhound",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Cursinu",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Français Blanc et Orange",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Georgian Shepherd",
+"aliases": [
+"Georgian Mountain Dog",
+"Nagazi dog"
+],
+"links": 11
+},
+{
+"name": "German Spitz Mittel",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Great Anglo-French White and Black Hound",
+"aliases": [
+"Grand Anglo-Français Blanc et Noir"
+],
+"links": 11
+},
+{
+"name": "Great Anglo-French White and Orange Hound",
+"aliases": [
+"Grand Anglo-Français Blanc et Orange"
+],
+"links": 11
+},
+{
+"name": "Kerry Beagle",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kleinspitz",
+"aliases": [
+"Miniature spitz",
+"Small spitz"
+],
+"links": 11
+},
+{
+"name": "Koolie",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Maneto",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Nenets Herding Laika",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Perro majorero",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Saint-Usuge Spaniel",
+"aliases": [
+"Saint usuge spaniel",
+"St Usuge Spaniel"
+],
+"links": 11
+},
+{
+"name": "Shiloh Shepherd",
+"aliases": [
+"Shiloh Shepherd Dog"
+],
+"links": 11
+},
+{
+"name": "Talbot",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Teddy Roosevelt Terrier",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tenterfield Terrier",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zerdava",
+"aliases": [
+"Kapi Kopegi",
+"Zerdeva"
+],
+"links": 11
+},
+{
+"name": "Abyssinian Sand Terrier",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bull Arab",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chukotka sled dog",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Fuegian dog",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Gaucho sheepdog",
+"aliases": [
+"Brazilian collie",
+"Brazilian gaucho sheepdog",
+"Ovelheiro gaucho"
+],
+"links": 10
+},
+{
+"name": "griffon",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Hälleforshund",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Leavitt Bulldog",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Lithuanian Hound",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Mallorcan ratter",
+"aliases": [
+"Majorca Ratter"
+],
+"links": 10
+},
+{
+"name": "Morkie",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Mucuchies",
+"aliases": [
+"Nevado",
+"Perro de los Paramos",
+"Perro de los Páramos",
+"Perro Gocho",
+"Perro Paramero",
+"Venezuelan Sheepdog"
+],
+"links": 10
+},
+{
+"name": "Paisley Terrier",
+"aliases": [
+"Clydesdale Terrier"
+],
+"links": 10
+},
+{
+"name": "Perro de pastor garafiano",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Perro fino Colombiano",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sarabi Mastiff",
+"aliases": [
+"Iranian Mastiff",
+"Persian Mastiff",
+"Sarabi Dog"
+],
+"links": 10
+},
+{
+"name": "Segugio Maremmano",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Silken Windsprite",
+"aliases": [
+"Longhaired Whippet"
+],
+"links": 10
+},
+{
+"name": "Techichi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Toy Manchester Terrier",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Treeing Tennessee Brindle",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Villano de las Encartaciones",
+"aliases": [
+"Villano de carranza"
+],
+"links": 10
+},
+{
+"name": "Welsh Hound",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Xarnego Valenciano",
+"aliases": [],
+"links": 10
+},
+{
+"name": "American Alsatian",
+"aliases": [],
+"links": 9
+},
+{
+"name": "American Leopard Hound",
+"aliases": [],
+"links": 9
+},
+{
+"name": "American Mastiff",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bohemian Spotted Dog",
+"aliases": [
+"Czech Spotted Dog",
+"Horákův laboratorní pes",
+"Strakáč",
+"Český strakatý pes"
+],
+"links": 9
+},
+{
+"name": "Bulgarian Scenthound",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Can de Chira",
+"aliases": [
+"Pastor altoaragones",
+"Pastor altoaragonés"
+],
+"links": 9
+},
+{
+"name": "Celtic Hounds",
+"aliases": [
+"Cu"
+],
+"links": 9
+},
+{
+"name": "Dogue Brasileiro",
+"aliases": [
+"Brazilian Dogge",
+"Brazilian Dogo"
+],
+"links": 9
+},
+{
+"name": "Dong-gyeong",
+"aliases": [
+"Daeng gyeong"
+],
+"links": 9
+},
+{
+"name": "Griffon à poil laineux",
+"aliases": [
+"Griffon a poil laineux"
+],
+"links": 9
+},
+{
+"name": "Guatemalan Dogo",
+"aliases": [
+"Guatemalan Bull Terrier",
+"Guatemalan Mastiff"
+],
+"links": 9
+},
+{
+"name": "Italian Rough-haired Segugio",
+"aliases": [
+"Segugio Italiano a Pelo Forte"
+],
+"links": 9
+},
+{
+"name": "Jeju dog",
+"aliases": [],
+"links": 9
+},
+{
+"name": "King Shepherd",
+"aliases": [
+"King Shepherd Dog"
+],
+"links": 9
+},
+{
+"name": "Lobito Herreño",
+"aliases": [
+"Hierran Wolfdog"
+],
+"links": 9
+},
+{
+"name": "Lucas Terrier",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Mountain Cur",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pampas Deerhound",
+"aliases": [
+"Gaucho deer-hound",
+"Pampeano Deer-hound",
+"Veadeiro Pampeano"
+],
+"links": 9
+},
+{
+"name": "Patagonian Sheepdog",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ryukyu Inu",
+"aliases": [
+"Okinawa Native Dog",
+"Ryukyu Dog"
+],
+"links": 9
+},
+{
+"name": "Stephens Cur",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Terceira Mastiff",
+"aliases": [],
+"links": 9
+},
+{
+"name": "White Shepherd Dog",
+"aliases": [
+"American white shepherd",
+"White Canadian Shepherd",
+"White german shepherd"
+],
+"links": 9
+},
+{
+"name": "American Staghound",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Barbado da Terceira",
+"aliases": [
+"Terceira Cattle Dog"
+],
+"links": 8
+},
+{
+"name": "Calupoh",
+"aliases": [
+"Mexican wolfdog",
+"Perro lobo mexicano"
+],
+"links": 8
+},
+{
+"name": "Ecuadorian Hairless Dog",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gull Terr",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kurdish Mastiff",
+"aliases": [
+"Assyrian Mastiff",
+"Assyrian Shepherd",
+"Kurd Mastiff",
+"Kurdish dog",
+"Mesopotamian Mastiff",
+"Pshdar dog"
+],
+"links": 8
+},
+{
+"name": "Northern Inuit Dog",
+"aliases": [
+"Northern Inuit"
+],
+"links": 8
+},
+{
+"name": "Polish Hunting Spaniel",
+"aliases": [
+"Polski spaniel myśliwski"
+],
+"links": 8
+},
+{
+"name": "Tarsus Çatalburun",
+"aliases": [
+"Tarsus Fork-nose",
+"Tarsus Pointer",
+"Turkish Fork-nose",
+"Turkish Pointer",
+"Turkish Split-Nosed Pointer",
+"Çatalburun",
+"Çatalburun Pointer"
+],
+"links": 8
+},
+{
+"name": "Český horský pes",
+"aliases": [
+"Bohemian Mountain Dog",
+"Czech Mountain Dog",
+"Tschechischer Berghund"
+],
+"links": 8
+},
+{
+"name": "Barrocal Algarvio",
+"aliases": [
+"Algarvian Barrocal Dog",
+"Cão do Barrocal Algarvio"
+],
+"links": 7
+},
+{
+"name": "Bernese hound",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bulgarian Hound",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bắc Hà dog",
+"aliases": [
+"chó Bắc Hà",
+"Vietspitz"
+],
+"links": 7
+},
+{
+"name": "Dogo español",
+"aliases": [
+"Spanish bulldog",
+"Spanish Dogo"
+],
+"links": 7
+},
+{
+"name": "Dogo Sardesco",
+"aliases": [
+"Dogo Sardo",
+"Sardinian Dogo",
+"Sardinian Mastiff"
+],
+"links": 7
+},
+{
+"name": "French Pointing Dog - Pyrenean type",
+"aliases": [
+"Braque francais type Pyrenees",
+"French Pointing Dog Pyrenean Type"
+],
+"links": 7
+},
+{
+"name": "Greyster",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Großspitz",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hmong bobtail dog",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mantiqueira Shepherd",
+"aliases": [
+"Pastor da mantiqueira"
+],
+"links": 7
+},
+{
+"name": "Miniature Fox Terrier",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Molossus of Epirus",
+"aliases": [
+"Epirus Molosser"
+],
+"links": 7
+},
+{
+"name": "Original Fila Brasileiro",
+"aliases": [
+"OFB",
+"Old Brazilian Fila",
+"Old Brazilian Mastiff",
+"Old Fila Brasileiro",
+"Old Fila Dog"
+],
+"links": 7
+},
+{
+"name": "Pastore Fonnese",
+"aliases": [
+"Sardinian Shepherd Dog"
+],
+"links": 7
+},
+{
+"name": "Pit Monster",
+"aliases": [
+"Brazilian Monster dog",
+"Brazilian Monster Pit",
+"Brazilian Pit Monster"
+],
+"links": 7
+},
+{
+"name": "Podengo Galego",
+"aliases": [
+"Galician Warren Hound",
+"galicianpodenco",
+"podenco gallego"
+],
+"links": 7
+},
+{
+"name": "Pomsky",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ratonero Basco",
+"aliases": [
+"Basque Ratter",
+"Enkarterriko billanuko",
+"Villanuco de Las Encartaciones",
+"Villanuco de las Encartaciones"
+],
+"links": 7
+},
+{
+"name": "Russian Hound",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Segugio dell'Appennino",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Serrano Bulldog",
+"aliases": [
+"Buldogue Serrano"
+],
+"links": 7
+},
+{
+"name": "Svensk vit älghund",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tong gau",
+"aliases": [
+"Chinese dog",
+"Tang dog",
+"Tang Gou",
+"Village dog"
+],
+"links": 7
+},
+{
+"name": "Tonya Finosu",
+"aliases": [
+"Fino of Tonya",
+"Kobi"
+],
+"links": 7
+},
+{
+"name": "Treeing Cur",
+"aliases": [],
+"links": 7
+},
+{
+"name": "African village dog",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bakhmull",
+"aliases": [],
+"links": 6
+},
+{
+"name": "basset",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Briquet de Provence",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ca de Conills",
+"aliases": [
+"Ca de Conills de Menorca",
+"Can de Conejos de Menorca"
+],
+"links": 6
+},
+{
+"name": "Ca Mè Mallorquí",
+"aliases": [
+"Ca Me Mallorqui"
+],
+"links": 6
+},
+{
+"name": "Cane Toccatore",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dikkulak",
+"aliases": [
+"Turkish Dikkulak",
+"Çivikulak"
+],
+"links": 6
+},
+{
+"name": "Gull Dong",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Jonangi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Laizhou Red Dog",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Levesque",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lài dog",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Majestic Tree Hound",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Medelyan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Murcian Ratter",
+"aliases": [],
+"links": 6
+},
+{
+"name": "New Zealand Heading Dog",
+"aliases": [],
+"links": 6
+},
+{
+"name": "odis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sarail hound",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Savoy Sheepdog",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Small Međimurje Dog",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tahitian Dog",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tatranský durič",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Treeing Feist",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Xigou",
+"aliases": [],
+"links": 6
+},
+{
+"name": "American Wolfdog",
+"aliases": [
+"American Tundra Shepherd"
+],
+"links": 5
+},
+{
+"name": "Argentine Polar Dog",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Australian Cobberdog",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bisben",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bone-mouth",
+"aliases": [
+"Chinese Fighting Dog",
+"Chinese Shar-pei",
+"Guzui",
+"Traditional Shar-pei"
+],
+"links": 5
+},
+{
+"name": "Borador",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Buckhound",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bulgae",
+"aliases": [
+"Korean fire dog",
+"Korean flame dog"
+],
+"links": 5
+},
+{
+"name": "Bulgarian Shepherd Dog",
+"aliases": [
+"Balgarsko ovcharsko kuche"
+],
+"links": 5
+},
+{
+"name": "Chinese Imperial Dog",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Erbi Txakur",
+"aliases": [],
+"links": 5
+},
+{
+"name": "French Charnaigre Dog",
+"aliases": [
+"Charnaigre",
+"Charnegre",
+"Charnique"
+],
+"links": 5
+},
+{
+"name": "Gotland Hound",
+"aliases": [
+"Gotlandsstövare"
+],
+"links": 5
+},
+{
+"name": "Hedehund",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kawakami Ken",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lucernese Hound",
+"aliases": [
+"Lucern Hound"
+],
+"links": 5
+},
+{
+"name": "Miniature Shar Pei",
+"aliases": [
+"Mini Pei"
+],
+"links": 5
+},
+{
+"name": "Murray River Curly Coated Retriever",
+"aliases": [
+"Murray River Retriever"
+],
+"links": 5
+},
+{
+"name": "Old Croatian Sighthound",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Old Welsh Grey Sheepdog",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pandikona",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Perdigueiro Galego",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Polynesian Dog",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rize Koyun",
+"aliases": [
+"Rize Koyan"
+],
+"links": 5
+},
+{
+"name": "Schwyz Hound",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sila Shepherd",
+"aliases": [
+"Sila Sheepdog"
+],
+"links": 5
+},
+{
+"name": "Smithfield",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sporting Lucas Terrier",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Staghound",
+"aliases": [
+"English Staghound"
+],
+"links": 5
+},
+{
+"name": "Valdueza",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Welsh Hillman",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Westfal Terrier",
+"aliases": [],
+"links": 5
+},
+{
+"name": "American Blue Gascon Hound",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Anatolian Greyhound",
+"aliases": [
+"Anadolu Sultan Tazısı",
+"Turkish Greyhound"
+],
+"links": 4
+},
+{
+"name": "Anglo-Russian Hound",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Australasian Bosdog",
+"aliases": [
+"Australian Bulldog"
+],
+"links": 4
+},
+{
+"name": "Basati alaunt",
+"aliases": [
+"Presa navarro"
+],
+"links": 4
+},
+{
+"name": "basset d'Artois",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Belgian Pointer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Black Slovakian Shepherd",
+"aliases": [
+"Čierny šery"
+],
+"links": 4
+},
+{
+"name": "Bolonka Franzuska",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Borneo dog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brazilian Bull-mastiff",
+"aliases": [
+"Brazilian bandog",
+"Brazilian Bullmastiff",
+"Redcapo bandog"
+],
+"links": 4
+},
+{
+"name": "Chorkie",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chuandong Hound",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Double-nosed Andean tiger hound",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dumfriesshire Hound",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fu Quan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Grand Gascon Saintongeois",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Grecian Greyhound",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Guicho",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Harlequin Pinscher",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Iwate Inu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kars dog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Königsberger Paukenhund",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lapponian Shepherd",
+"aliases": [
+"Cockhill's Finnish Lapphound"
+],
+"links": 4
+},
+{
+"name": "Lessinia and Lagorai Shepherd",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Liangshan Dog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Meitei Hui",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mi-Ki",
+"aliases": [
+"Miki"
+],
+"links": 4
+},
+{
+"name": "Mojee",
+"aliases": [],
+"links": 4
+},
+{
+"name": "National Deerhound",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Norman Hound",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Perro pampa argentino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Petit Gascon Saintongeois",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pyrenean Sheepdog Long-haired",
+"aliases": [
+"Chien de Berger des Pyrénées à poil long"
+],
+"links": 4
+},
+{
+"name": "Pyrenean Sheepdog Smooth-faced",
+"aliases": [
+"Chien de Berger des Pyrénées a face rase",
+"Pyrenean Sheepdog, Smooth-Faced"
+],
+"links": 4
+},
+{
+"name": "Ratonero Palmero",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sanshu",
+"aliases": [
+"Sanshu Inu"
+],
+"links": 4
+},
+{
+"name": "Seppala Siberian Sleddog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sertanejo Dog",
+"aliases": [
+"Brazilian Black-mouth Dog",
+"Brazilian Cowboy dog"
+],
+"links": 4
+},
+{
+"name": "Seskar Seal Dog",
+"aliases": [
+"Seskar Dog"
+],
+"links": 4
+},
+{
+"name": "Sicilian Sheepdog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tibetan kyi apso",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Toy Poodle",
+"aliases": [],
+"links": 4
+},
+{
+"name": "U.S. state dogs",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Vaghari Dog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Waeller",
+"aliases": [],
+"links": 4
+},
+{
+"name": "West Country Harrier",
+"aliases": [
+"Somerset Harrier"
+],
+"links": 4
+},
+{
+"name": "Zuchon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Afghan mastiff",
+"aliases": [],
+"links": 3
+},
+{
+"name": "American Working Red",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Antebellum Bulldog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Australian Staghound",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Auvergne Shepherd",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Berger de Crau",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Berner Laufhund",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Black and Tan Virginia Foxhound",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Branchiero siciliano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bullbras",
+"aliases": [
+"Brazilian Bulldogge",
+"New Age Bulldogge"
+],
+"links": 3
+},
+{
+"name": "Carea Castellano Manchego",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chien Blanc du Roi",
+"aliases": [
+"King's White Hound"
+],
+"links": 3
+},
+{
+"name": "Chilean Dogo",
+"aliases": [
+"Dogo Chileno"
+],
+"links": 3
+},
+{
+"name": "Chinese Happa Dog",
+"aliases": [
+"Happa",
+"Happa Dog"
+],
+"links": 3
+},
+{
+"name": "Circassian Orloff Wolfhound",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Clallam-Indian Dog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Farm collie",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gran Mastín de Borínquen",
+"aliases": [
+"Gran Mastin de Borinquen"
+],
+"links": 3
+},
+{
+"name": "Grand Fauve de Bretagne",
+"aliases": [],
+"links": 3
+},
+{
+"name": "gråhund",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hairless Khala",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Irish Staffordshire Bull Terrier",
+"aliases": [
+"Irish Bull Terrier"
+],
+"links": 3
+},
+{
+"name": "Kars dog",
+"aliases": [
+"Kars Sheepdog",
+"Kars Shepherd",
+"Kars Shepherd Dog"
+],
+"links": 3
+},
+{
+"name": "Kunma Dog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Labrit",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Langqing Quan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Latvian Hound",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Miniature Australian Shepherd",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mâtin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Naga Dog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Normand-Poitevin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "North-Easthrly Haaling Laika",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pastor Americano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Patti",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pulin",
+"aliases": [
+"Serbian Shepherd",
+"Serbian Shepherd Dog",
+"Vojvodina Shepherd",
+"Vojvodina Shepherd Dog"
+],
+"links": 3
+},
+{
+"name": "Ramanadhapuram Mandai",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rare breed",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Red Decoy Dog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Satsuma Dog",
+"aliases": [
+"Satsuma",
+"Satsuma Inu"
+],
+"links": 3
+},
+{
+"name": "Schafpudel",
+"aliases": [
+"German Sheeppoodle"
+],
+"links": 3
+},
+{
+"name": "Segugio Cravin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Serbian sheep dog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Silky Spitz",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Spino siciliano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Steinbracke",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Trailhound",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Turkmen Alabai",
+"aliases": [
+"Alabai",
+"Alabay"
+],
+"links": 3
+},
+{
+"name": "Tuvinskaya ovcharka",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Valley Bulldog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "White English Bulldog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Working Pit Bulldog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Albanian Wolfdog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Anglo-Spanish Greyhound",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Assyrian Mastiff",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Aurora Husky",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Australian Barb",
+"aliases": [
+"Black Kelpie"
+],
+"links": 2
+},
+{
+"name": "Bajan Toy Terrier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Batak Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Beaglier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Beskydský bundáš",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bisharin Greyhound",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Black Spitz",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Boerenfox terrier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Boxador",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Boz Shepherd",
+"aliases": [
+"Boz Shepherd Dog",
+"Guregh"
+],
+"links": 2
+},
+{
+"name": "Braque Charles X",
+"aliases": [
+"Charles Pointer",
+"Charlesinseisoja"
+],
+"links": 2
+},
+{
+"name": "Cane Pecoraio Varbutu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Canis Panther",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chamuco",
+"aliases": [
+"Mexican Pitbull"
+],
+"links": 2
+},
+{
+"name": "Colima Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Comforter",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Common Indian Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Continental Toy Spaniel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cyprus Poodle",
+"aliases": [
+"Cyprus poodle, Cyprus poodle terrier"
+],
+"links": 2
+},
+{
+"name": "Damchi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Decker Terrier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Denmark Feist",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dinka Greyhound",
+"aliases": [],
+"links": 2
+},
+{
+"name": "dropper",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Egyptian Hairless Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gegar",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gerberian Shepsky",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gos d'atura aranès",
+"aliases": [
+"Aranese Sheepdog"
+],
+"links": 2
+},
+{
+"name": "Gredin Spaniel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Griffon Bruxellois",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Han Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hungarian sheepdog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Illyrian Shepherd",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Indian Husky",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Izcuintli, itzcuintli",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jōmon Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kattai dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kitler",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Klamath-Indian Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Korean Mastiff",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Koshikiyama Inu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Laconian",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lakeland Foxhound",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Levriero meridionale",
+"aliases": [
+"levriero italiano centromeridionale",
+"levriero italiano meridionale"
+],
+"links": 2
+},
+{
+"name": "Llewellin Setter",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lottatore Brindisino",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lyme Mastiff",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mexican lapdog",
+"aliases": [
+"Mexican lap dog",
+"Mexican lap-dog"
+],
+"links": 2
+},
+{
+"name": "miniature dachshund",
+"aliases": [
+"mini dachshund"
+],
+"links": 2
+},
+{
+"name": "Mountain View Cur",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nootka Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pardog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Patagonian Bearded Greyhound",
+"aliases": [
+"Patagonian Greyhound"
+],
+"links": 2
+},
+{
+"name": "Piccolo Segugio dell'Appennino",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Plains-Indian Dog",
+"aliases": [
+"American Indian Dog"
+],
+"links": 2
+},
+{
+"name": "pocket beagle",
+"aliases": [],
+"links": 2
+},
+{
+"name": "podenco palmero",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Poltalloch Terrier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Poochon",
+"aliases": [
+"Poochon ("
+],
+"links": 2
+},
+{
+"name": "Pueblo Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ramanathapuram mandai dog",
+"aliases": [
+"manthai dog"
+],
+"links": 2
+},
+{
+"name": "Rothbury Terrier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shakhi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shepweiler",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shilluk Greyhound",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shropshre Terrier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sioux Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "St. Domingo Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "St. Hubert",
+"aliases": [
+"St. Hubert Hound",
+"St. Hubert's Bloodhound",
+"St. Hubert's Hound"
+],
+"links": 2
+},
+{
+"name": "St. Hubert Jura Hound",
+"aliases": [
+"Bruno Jura hound"
+],
+"links": 2
+},
+{
+"name": "Strathdoon dingo killer",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Strobel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Timber-wolf Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Toy Bull Terrier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tripuri Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tumbler",
+"aliases": [
+"Canis Saltator"
+],
+"links": 2
+},
+{
+"name": "Welsh Black-and-Tan Sheepdog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Welsh Blue-Grey",
+"aliases": [],
+"links": 2
+},
+{
+"name": "West Greenland Dog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "White Greek sheepdog",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zagar",
+"aliases": [
+"Turkish Chaser Dog of Zagar",
+"Zağar"
+],
+"links": 2
+},
+{
+"name": "Zande Dog",
+"aliases": [
+"Haute-Agooue Terrier",
+"Nyam-Nyam"
+],
+"links": 2
+},
+{
+"name": "Zanzibar Greyhound",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Adirondack Pointing Dog",
+"aliases": [
+"Canadian Pointer"
+],
+"links": 1
+},
+{
+"name": "Afghan Spaniel",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Agassin",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Alano",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Albanian Mountain Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Alicant Dog",
+"aliases": [
+"Andalusian Dog"
+],
+"links": 1
+},
+{
+"name": "Ameri-Indian Alaskan Husky",
+"aliases": [],
+"links": 1
+},
+{
+"name": "American Squirrel Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Appalachian Sighthound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "aquarius",
+"aliases": [],
+"links": 1
+},
+{
+"name": "artésien-normand",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Australian stock dog",
+"aliases": [
+"Working Kelpie"
+],
+"links": 1
+},
+{
+"name": "Awa Ken",
+"aliases": [],
+"links": 1
+},
+{
+"name": "badger dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Baganda Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Balla Terrier",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bangara Mastiff",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Belgian Griffons",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bichon Yorkie",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Black Norrlandshund",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Black Pointer",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Brittany Spaniel",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bull Boxer",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bullnese",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Burmese Spitz Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Camas Cur",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Camus cur",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Canadian cur",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Capheaton Terrier",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Carolina cur",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cesky Wire-haired Pointing Griffon",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Chinese Hound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cojack",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Creeper Terrier",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cur dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Daitō Inu",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Deltari ilir",
+"aliases": [],
+"links": 1
+},
+{
+"name": "DenMark Feist",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Faroese Sheepdog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Fell Hound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Field labrador",
+"aliases": [],
+"links": 1
+},
+{
+"name": "French Hound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "French Pointing Dog Gascogne Type",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Friesian Windhund",
+"aliases": [],
+"links": 1
+},
+{
+"name": "German Silky Pinscher",
+"aliases": [
+"Silky Pinscher"
+],
+"links": 1
+},
+{
+"name": "Glenwherry Collie",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gollie",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gorskaja",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Hertha pointer",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Huslia Husky",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Inca Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Indian Tailles Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Inn kwe",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Juan Fernández Sheepdog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kanawar Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Karadeniz Shepherd Dog",
+"aliases": [
+"Black Sea Shepherd,",
+"Karadeniz Dog",
+"Karadeniz Shepherd"
+],
+"links": 1
+},
+{
+"name": "Kemmer stock cur",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kentucky Shell Heap Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Koshi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kumiş",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kurdistan Greyhound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Laconian Hound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Laobé",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Leopard Tree Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Long haired dachshund",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Long-haired Inca Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Longhaired Whippet",
+"aliases": [
+"Silken Windsprite"
+],
+"links": 1
+},
+{
+"name": "Maltese Fox Terrier",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Maltese Little Lion-dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Maltese Pocket Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Marxdorfer Wolfshund",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Medium-sized Anglo-French Hound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Miniature Siberian Husky",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mountain Feist",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mullins' feist",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Multi-Colored Poodle",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Northern terrier",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Northwest farm terrier",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Old Time Farm Shepherd",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Oriental Shar Pei",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Original Cajun Squirrel Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pashmi hound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Peruvian Inca Orchid",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Philippines Islands Dog",
+"aliases": [
+"Philippines Edible Dog",
+"Philippines Native Dog"
+],
+"links": 1
+},
+{
+"name": "Pit Bullmastiff",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Poligar Hound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pomeranian Wolf-dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Powinder Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Prapsos",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ruby Spaniel",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Running Walker Coonhound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Russian Setter",
+"aliases": [
+"Russian Braque",
+"Russian Pointer"
+],
+"links": 1
+},
+{
+"name": "San'in Shiba Inu",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Schwarzer",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Serbian Yellow Hound",
+"aliases": [
+"Yellow Balkanite"
+],
+"links": 1
+},
+{
+"name": "Shelburne Terrier",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Shorty Bull",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Siberian Sheepdog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "South African Mastiff",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sparta Sheepdog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Taimyr",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Takayasu Inu",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Targhee Hound)",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Terry",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tibetan Hound",
+"aliases": [
+"Tibetan Hunting Dog"
+],
+"links": 1
+},
+{
+"name": "Timon's Biter",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Toy Mi-Ki",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Toy Munchkin",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Transcaucasian Mountain Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Turkish Greyhound",
+"aliases": [
+"Chien Turc",
+"Turkish Dog"
+],
+"links": 1
+},
+{
+"name": "Ukrainian Sheepdog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Victorian Bulldog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Walker Foxhound",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Water drawer",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Welsh Harrier",
+"aliases": [],
+"links": 1
+},
+{
+"name": "westiepoo",
+"aliases": [
+"westipoo"
+],
+"links": 1
+},
+{
+"name": "White Collie",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Wire-haired Beagle",
+"aliases": [],
+"links": 1
+},
+{
+"name": "wire-haired dachshund",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Wurttemberg Pointer",
+"aliases": [
+"Württemberger",
+"Württemberger Vorstehhund",
+"Württemberginseisoja"
+],
+"links": 1
+},
+{
+"name": "Yakki Dog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Yakushima Inu",
+"aliases": [
+"Yaku Inu"
+],
+"links": 1
+},
+{
+"name": "Zlatiborski ovčar",
+"aliases": [],
+"links": 1
+}
+]

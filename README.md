@@ -18,7 +18,14 @@ A daily category game set on an asteroid. Every day you get five asteroids, each
 1. Answer lists live in `data/categories/*.txt`, one file per theme. The format is in `data/categories/README.md`.
 2. Answers are listed under tier headings (`--- 1` to `--- 5`), sorted by how likely a player is to think of them in 45 seconds. This is a manual pass, the same approach Krillion describes for answers word counts can't rank. Aliases (other names, short forms, alternate spellings) go on the same line after `|`.
 3. `scripts/build_categories.py` merges duplicates, warns when one alias points at two answers, and writes `src/data/categories.json`. The server reads it. Answer lists never ship to the browser until the day is finished.
-4. A category without tier headings falls back to automatic tiers from the `wordfreq` library's word-frequency data.
+4. `scripts/fetch_wikidata.py` pulls complete lists from Wikidata (every dog breed, cheese, dinosaur genus and so on) with English alternate names and a fame score (how many Wikipedia languages cover each item). Results are saved in `data/wikidata/` and committed, so builds work offline. The build merges them: items that match a hand-sorted answer only add their alternate names, and new items join the rare tiers (Cobalt at 30+ Wikipedia languages, Gold at 10+, otherwise Crystal). Long official names, protected-origin labels (PDO, PGI) and entries that aren't really part of the category get filtered out.
+5. A category without tier headings falls back to automatic tiers from the `wordfreq` library's word-frequency data.
+
+To refresh the Wikidata lists (needs internet access to query.wikidata.org):
+
+```bash
+npm run fetch:wikidata
+```
 
 To rebuild the data after editing a category:
 
@@ -71,7 +78,7 @@ The app is a standard Next.js project. On Vercel, import the repo and deploy. Se
 | `POST /api/guess` | Body `{ date, round, guess }`. Returns the matched answer and tier, or a miss |
 | `GET /api/reveal/:date/:round` | The full answer list for a round |
 
-Matching ignores case, accents, punctuation, "the" and plural endings, and allows one typo on names of 5+ letters and two on 9+ letters when only one answer is that close.
+Matching ignores case, accents, punctuation, filler words (the, of, a, and, part) and plural endings. It treats Roman numerals, digits and number words alike (Henry IV, Henry 4, Henry the Fourth), accepts one extra word (cheddar cheese), and allows one typo on names of 5+ letters, two on 9+ and three on 12+ when only one answer is that close.
 
 ## Where things are stored
 

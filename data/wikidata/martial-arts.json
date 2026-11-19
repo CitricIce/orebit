@@ -1,0 +1,2052 @@
+[
+{
+"name": "judo",
+"aliases": [],
+"links": 151
+},
+{
+"name": "karate",
+"aliases": [
+"karate-do",
+"karate-dô",
+"karate-dō",
+"karatedo",
+"karatedô",
+"karatedō"
+],
+"links": 139
+},
+{
+"name": "taekwondo",
+"aliases": [
+"Korean Karate",
+"tae kwon do",
+"taekwon-do",
+"TaeKwonDu",
+"TKD"
+],
+"links": 122
+},
+{
+"name": "sumo",
+"aliases": [
+"sumo wrestling"
+],
+"links": 103
+},
+{
+"name": "aikido",
+"aliases": [
+"aikidō"
+],
+"links": 93
+},
+{
+"name": "Muay Thai",
+"aliases": [
+"Muaythai",
+"Thai boxing"
+],
+"links": 83
+},
+{
+"name": "jujutsu",
+"aliases": [
+"Jiu Jitsu",
+"Jiu-Jitsu",
+"Jiujitsu",
+"Ju Jitsu"
+],
+"links": 80
+},
+{
+"name": "capoeira",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Krav Maga",
+"aliases": [
+"Kravmaga"
+],
+"links": 68
+},
+{
+"name": "kendo",
+"aliases": [],
+"links": 63
+},
+{
+"name": "kung fu",
+"aliases": [
+"Gongfu"
+],
+"links": 63
+},
+{
+"name": "sambo",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Tai chi chuan",
+"aliases": [
+"t'ai chi",
+"t'ai chi ch'uan",
+"T'ai chi ch'üan",
+"tai chi",
+"tai ji",
+"taiji",
+"taijiquan",
+"tàijíquán"
+],
+"links": 61
+},
+{
+"name": "wushu",
+"aliases": [
+"Wu-Su",
+"Wusu"
+],
+"links": 59
+},
+{
+"name": "Brazilian jiu-jitsu",
+"aliases": [
+"BJJ",
+"Gracie jiu Jitsu brasileño"
+],
+"links": 56
+},
+{
+"name": "pankration",
+"aliases": [
+"pancratium"
+],
+"links": 50
+},
+{
+"name": "Chinese martial arts",
+"aliases": [
+"kung fu",
+"kuoshu",
+"wushu"
+],
+"links": 49
+},
+{
+"name": "Jeet Kune Do",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Wing Chun",
+"aliases": [
+"Ving Tsun"
+],
+"links": 47
+},
+{
+"name": "hapkido",
+"aliases": [
+"hap ki do",
+"hapki-do"
+],
+"links": 45
+},
+{
+"name": "Ninjutsu",
+"aliases": [
+"ninja moves",
+"ninpō"
+],
+"links": 45
+},
+{
+"name": "Kyokushin kaikan",
+"aliases": [
+"Kyokushin",
+"Kyokushin karate"
+],
+"links": 42
+},
+{
+"name": "Tangsudo",
+"aliases": [
+"Tang Soo Do"
+],
+"links": 39
+},
+{
+"name": "iaido",
+"aliases": [
+"Iaidō"
+],
+"links": 38
+},
+{
+"name": "Kalaripayattu",
+"aliases": [],
+"links": 38
+},
+{
+"name": "kyūdō",
+"aliases": [
+"japanese archery",
+"kyudo"
+],
+"links": 38
+},
+{
+"name": "arnis",
+"aliases": [
+"escrima",
+"eskrima",
+"kali"
+],
+"links": 35
+},
+{
+"name": "kenpo",
+"aliases": [
+"kempo",
+"kenpō"
+],
+"links": 34
+},
+{
+"name": "pencak silat",
+"aliases": [
+"penca silat",
+"silat"
+],
+"links": 34
+},
+{
+"name": "Sanda",
+"aliases": [
+"Chinese boxing",
+"Chinese kickboxing",
+"Sanshou",
+"Wushu Sanda",
+"Wushu Sanshou"
+],
+"links": 33
+},
+{
+"name": "baguazhang",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Shaolin Kung Fu",
+"aliases": [],
+"links": 31
+},
+{
+"name": "budō",
+"aliases": [],
+"links": 30
+},
+{
+"name": "kumite",
+"aliases": [
+"karate sparring"
+],
+"links": 30
+},
+{
+"name": "Shorinji Kempo",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Daitō-ryū Aiki-jūjutsu",
+"aliases": [],
+"links": 29
+},
+{
+"name": "kenjutsu",
+"aliases": [],
+"links": 28
+},
+{
+"name": "ssireum",
+"aliases": [
+"Korean wrestling"
+],
+"links": 28
+},
+{
+"name": "Historical European martial arts",
+"aliases": [
+"HEMA",
+"Western martial arts"
+],
+"links": 27
+},
+{
+"name": "Xingyiquan",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Taekkyeon",
+"aliases": [
+"Taekkyon"
+],
+"links": 25
+},
+{
+"name": "Tenshin Shōden Katori Shintō-ryū",
+"aliases": [],
+"links": 25
+},
+{
+"name": "glima",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Okinawan kobudō",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Jōdō",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Vovinam",
+"aliases": [
+"Việt võ đạo"
+],
+"links": 22
+},
+{
+"name": "Sōjutsu",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bokator",
+"aliases": [
+"Kun Lbokator",
+"Lbokator"
+],
+"links": 20
+},
+{
+"name": "Bōjutsu",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Japanese martial arts",
+"aliases": [
+"martial arts in Japan"
+],
+"links": 20
+},
+{
+"name": "Tricking",
+"aliases": [
+"Las artes marciales engañan",
+"Martial arts tricking",
+"Martial Arts Tricking"
+],
+"links": 20
+},
+{
+"name": "Bartitsu",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Choy Li Fut",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Kobudō",
+"aliases": [
+"Kobudo"
+],
+"links": 19
+},
+{
+"name": "Shōrin-ryū",
+"aliases": [
+"Shorin Ryu",
+"Shorin-ryu"
+],
+"links": 19
+},
+{
+"name": "Yabusame",
+"aliases": [],
+"links": 19
+},
+{
+"name": "bājíquán",
+"aliases": [],
+"links": 18
+},
+{
+"name": "gendai budō",
+"aliases": [
+"Shinbudo"
+],
+"links": 18
+},
+{
+"name": "Niten Ichi-ryū",
+"aliases": [
+"School of the Strategy of Two Heavens as One"
+],
+"links": 18
+},
+{
+"name": "Jūkendō",
+"aliases": [
+"Jukendo"
+],
+"links": 17
+},
+{
+"name": "kiai",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Muay boran",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Northern Praying Mantis",
+"aliases": [
+"Shandong Praying Mantis"
+],
+"links": 17
+},
+{
+"name": "Zui Quan",
+"aliases": [
+"Drunken boxing",
+"Drunken Fist"
+],
+"links": 17
+},
+{
+"name": "Battōjutsu",
+"aliases": [],
+"links": 16
+},
+{
+"name": "full contact karate",
+"aliases": [
+"full-contact karate"
+],
+"links": 16
+},
+{
+"name": "Krabi krabong",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Kun Khmer",
+"aliases": [
+"Kbach Kun Khmer",
+"Pradal Serey"
+],
+"links": 16
+},
+{
+"name": "Para judo",
+"aliases": [
+"Paralympic judo",
+"visually impaired judo"
+],
+"links": 16
+},
+{
+"name": "Randori",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Silambam",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Yoshinkan",
+"aliases": [],
+"links": 16
+},
+{
+"name": "canne de combat",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jogo do Pau",
+"aliases": [
+"Xogo do pau"
+],
+"links": 15
+},
+{
+"name": "Kajukenbo",
+"aliases": [
+"Kaju"
+],
+"links": 15
+},
+{
+"name": "naginatajutsu",
+"aliases": [
+"naginatadō"
+],
+"links": 15
+},
+{
+"name": "Qwan Ki Do",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bunkai",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Changquan",
+"aliases": [
+"Chang Quan",
+"Long Fist"
+],
+"links": 14
+},
+{
+"name": "Chen-style t'ai chi ch'uan",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Iwama ryu",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ki Aikido",
+"aliases": [
+"Shin Shin Toitsu Aikido"
+],
+"links": 14
+},
+{
+"name": "Kuntao",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Okinawan martial arts",
+"aliases": [
+"Hand"
+],
+"links": 14
+},
+{
+"name": "bando",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Fujian White Crane",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kyūjutsu",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Neijia",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Real Aikido",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Taidō",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Thang-Ta",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Uechi-ryū",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Chin Na",
+"aliases": [
+"Ch'in Na",
+"Qin Na",
+"Qinna"
+],
+"links": 12
+},
+{
+"name": "Genseiryū",
+"aliases": [],
+"links": 12
+},
+{
+"name": "German school of fencing",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hōzōin-ryū",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Musado",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Nippon Kempo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "para taekwondo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Shoot boxing",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Shurikenjutsu",
+"aliases": [],
+"links": 12
+},
+{
+"name": "tameshigiri",
+"aliases": [
+"test cutting"
+],
+"links": 12
+},
+{
+"name": "Yang-style t'ai chi ch'uan",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Yiquan",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Haidong Gumdo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Hojōjutsu",
+"aliases": [],
+"links": 11
+},
+{
+"name": "judo at the 2019 Summer Universiade",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Korean martial arts",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Marine Corps Martial Arts Program",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Mizongyi",
+"aliases": [
+"Dazzling Boxing"
+],
+"links": 11
+},
+{
+"name": "Nanquan",
+"aliases": [
+"Nan Quan",
+"Southern Fist"
+],
+"links": 11
+},
+{
+"name": "Silat Melayu",
+"aliases": [],
+"links": 11
+},
+{
+"name": "stick fighting",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Subak",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Vietnamese martial arts",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Yagyū Shinkage-ryū",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Abir-Qesheth Hebrew Warrior Arts",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Angampora",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chāquán",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Hokushin Ittō-ryū",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Hwa Rang Do",
+"aliases": [
+"Dog ear cutting"
+],
+"links": 10
+},
+{
+"name": "iaijutsu",
+"aliases": [
+"iaijitsu"
+],
+"links": 10
+},
+{
+"name": "Indian martial arts",
+"aliases": [],
+"links": 10
+},
+{
+"name": "jutsu",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kashima Shin-ryū",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kuk Sool Won",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Liuhebafa",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Muay Lao",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Nanbudō",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pushing hands",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shuri-Te",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shōrei-ryū",
+"aliases": [],
+"links": 10
+},
+{
+"name": "silat",
+"aliases": [
+"Pencak",
+"Silat Melayu",
+"Silek"
+],
+"links": 10
+},
+{
+"name": "Singlestick",
+"aliases": [],
+"links": 10
+},
+{
+"name": "aiki",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bajutsu",
+"aliases": [],
+"links": 9
+},
+{
+"name": "bujutsu",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Chuck Norris System",
+"aliases": [
+"Chun Kuk Do"
+],
+"links": 9
+},
+{
+"name": "Dambe",
+"aliases": [],
+"links": 9
+},
+{
+"name": "hybrid martial art",
+"aliases": [
+"eclectic martial art",
+"freestyle fighting",
+"hybrid fighting system"
+],
+"links": 9
+},
+{
+"name": "Lucha del Garrote",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Naha-Te",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Piguaquan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Shōdōkan Aikidō",
+"aliases": [
+"Japan Aikido Association",
+"Shodokan Aikido",
+"Shodokan Aikido Federation"
+],
+"links": 9
+},
+{
+"name": "Southern Dragon Kung Fu",
+"aliases": [
+"Southern Dragon"
+],
+"links": 9
+},
+{
+"name": "Varma kalai",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Weng Chun",
+"aliases": [],
+"links": 9
+},
+{
+"name": "women's sumo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Wu-style t'ai chi ch'uan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Yagyū Shingan-ryū",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Aki Kiti",
+"aliases": [
+"Akikiti",
+"Sümi kick fighting"
+],
+"links": 8
+},
+{
+"name": "American Kenpo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "aquathlon",
+"aliases": [
+"underwater wrestling"
+],
+"links": 8
+},
+{
+"name": "Caci",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Eagle Claw",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Filipino martial arts",
+"aliases": [],
+"links": 8
+},
+{
+"name": "German ju-jutsu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "judo at the 2011 Summer Universiade",
+"aliases": [],
+"links": 8
+},
+{
+"name": "judo at the 2017 Summer Universiade",
+"aliases": [],
+"links": 8
+},
+{
+"name": "judo at the 2021 Summer World University Games",
+"aliases": [
+"judo at the 2021 Summer Universiade"
+],
+"links": 8
+},
+{
+"name": "koppōjutsu",
+"aliases": [
+"koppo-jutsu",
+"koppo-ken",
+"koppojutsu",
+"koppoken",
+"koppō-jutsu",
+"koppō-ken",
+"koppōken"
+],
+"links": 8
+},
+{
+"name": "Lathi khela",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Monkey Kung Fu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Musō Jikiden Eishin-ryū",
+"aliases": [
+"Muso Jikiden Eishin-ryu",
+"無双直伝英信流 or 無雙直傳英信流"
+],
+"links": 8
+},
+{
+"name": "Nihon eihō",
+"aliases": [
+"Eihōjutsu",
+"Koshiki eihō",
+"Noshi-oyogi",
+"Shūsuijutsu",
+"Suijutsu",
+"Suiren"
+],
+"links": 8
+},
+{
+"name": "Shinkage-ryū",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Shintaido",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sport Chanbara",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Taiho Jutsu",
+"aliases": [
+"Taiho-jutsu"
+],
+"links": 8
+},
+{
+"name": "Tennen Rishin-ryū",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Calinda",
+"aliases": [
+"kalenda"
+],
+"links": 7
+},
+{
+"name": "Central Guoshu Institute",
+"aliases": [
+"National Martial Arts Academy",
+"National Wushu Academy"
+],
+"links": 7
+},
+{
+"name": "Engolo",
+"aliases": [
+"Zebra dance"
+],
+"links": 7
+},
+{
+"name": "Gyokko-ryū",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hankido",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hankumdo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ittō-ryū",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Jidokwan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "judo at the 2013 Summer Universiade",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kage-ryū",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kinomichi",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kitō-ryū",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kuk Sul Do",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kumdo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kung Fu To'a",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Leonese wrestling",
+"aliases": [
+"Leonese aluche"
+],
+"links": 7
+},
+{
+"name": "Pahlevani wrestling",
+"aliases": [
+"Iranian wrestling",
+"Koshti Pahlavāni",
+"Pahlavani",
+"Pahlavāni",
+"Pahlavāni wrestling"
+],
+"links": 7
+},
+{
+"name": "Shinkendo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Shūkōkai",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sin Moo Hapkido",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Southern Praying Mantis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "taijijian",
+"aliases": [
+"tai chi jian",
+"tai chi sword",
+"taiji jian",
+"taiji sword"
+],
+"links": 7
+},
+{
+"name": "Tankendō",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Wu -style t'ai chi ch'uan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Wudang chuan",
+"aliases": [
+"Wu Tang"
+],
+"links": 7
+},
+{
+"name": "Yoseikan Budo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "100-man kumite",
+"aliases": [
+"hyakunin kumite"
+],
+"links": 6
+},
+{
+"name": "Aikibudo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Budokan karate",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Capoeira Angola",
+"aliases": [],
+"links": 6
+},
+{
+"name": "capoeira regional",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chujō-ryū",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hei hu quan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Huka-huka",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Jigen-ryū",
+"aliases": [
+"sudden revelation style"
+],
+"links": 6
+},
+{
+"name": "judo at the 2007 Summer Universiade",
+"aliases": [],
+"links": 6
+},
+{
+"name": "judo at the 2015 Summer Universiade",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kapu Kuialua",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kashima Shintō-ryū",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kosen judo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Motobu-ryu",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Northern Shaolin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shinkyokushinkai",
+"aliases": [
+"World Karate Organization Shinkyokushinkai"
+],
+"links": 6
+},
+{
+"name": "Silat Harimau",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sunmudo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Takeda-ryū",
+"aliases": [
+"Yabusame"
+],
+"links": 6
+},
+{
+"name": "Takenouchi-ryū",
+"aliases": [
+"Hinoshita Torite Kaisan Takenouchi-ryū"
+],
+"links": 6
+},
+{
+"name": "tessenjutsu",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tongbeiquan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Võ thuật Bình Định",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Yaw-Yan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Buza",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Combat Hapkido",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Defendu",
+"aliases": [
+"Close Quarters Combat System"
+],
+"links": 5
+},
+{
+"name": "Five Ancestors",
+"aliases": [],
+"links": 5
+},
+{
+"name": "GongKwon Yusul",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Indonesian martial arts",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Inuoumono",
+"aliases": [],
+"links": 5
+},
+{
+"name": "judo at the 2001 Summer Universiade",
+"aliases": [],
+"links": 5
+},
+{
+"name": "judo at the 2003 Summer Universiade",
+"aliases": [],
+"links": 5
+},
+{
+"name": "judo at the 2009 Summer Universiade",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kombatan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kong Soo Do",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lama",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Limalama",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Naginata",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Shindō Munen-ryū",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Shuri-ryū",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Silek",
+"aliases": [
+"Minangkabau silat"
+],
+"links": 5
+},
+{
+"name": "Taisha-ryū",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Taoist Tai Chi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tomoi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tán Tuǐ",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zi Ran Men",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bak Mei",
+"aliases": [],
+"links": 4
+},
+{
+"name": "bataireacht",
+"aliases": [],
+"links": 4
+},
+{
+"name": "combat hopak",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Defendo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ditangquan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dog Kung Fu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Duan Quan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dumog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Federfechter",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gan-ryū",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Haitō",
+"aliases": [],
+"links": 4
+},
+{
+"name": "judo at the 1967 Summer Universiade",
+"aliases": [],
+"links": 4
+},
+{
+"name": "judo at the 1999 Summer Universiade",
+"aliases": [],
+"links": 4
+},
+{
+"name": "judo at the Summer Universiade",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kamizumo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "kasagake",
+"aliases": [
+"kasakake"
+],
+"links": 4
+},
+{
+"name": "Kobayashi aikido",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Korindo aikido",
+"aliases": [],
+"links": 4
+},
+{
+"name": "kusarigamajutsu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kōgen Ittō-ryū",
+"aliases": [],
+"links": 4
+},
+{
+"name": "ninpō",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Okinawa Sumo",
+"aliases": [
+"shima"
+],
+"links": 4
+},
+{
+"name": "Pekiti-Tirsia Kali",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pongyi thaing",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Progressive Fighting System",
+"aliases": [
+"PFS",
+"Progressive Fighting Systems"
+],
+"links": 4
+},
+{
+"name": "Shinden-Fudo-ryū",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Shindō jinen-ryū",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Shiranui-ryū",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Shōrinji-ryū",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Shōrinjiryū Kenkōkan Karate",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Side control",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Teukgong Musul",
+"aliases": [
+"Teuk Gong Moo Sool"
+],
+"links": 4
+},
+{
+"name": "Yau Kung Moon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yin Style Baguazhang",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yongmudo",
+"aliases": [
+"Yongmoodo"
+],
+"links": 4
+},
+{
+"name": "Yoseikan Aikido",
+"aliases": [],
+"links": 4
+},
+{
+"name": "ōzumō",
+"aliases": [
+"Grand Sumo Tournaments",
+"Ozumo",
+"professional sumo",
+"Professional sumo"
+],
+"links": 4
+},
+{
+"name": "Aikido Yuishinkai",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Alpagut",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bassula",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Boabom",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bokuden-ryū",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cheibi",
+"aliases": [
+"Cheibi Gad-Ga",
+"Gad-Ga",
+"Gadga",
+"GadGa"
+],
+"links": 3
+},
+{
+"name": "Chuōjiǎo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Danmyé",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Debus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Dhanurveda",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Extreme Martial Arts",
+"aliases": [
+"XMA"
+],
+"links": 3
+},
+{
+"name": "Gwonbeop",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Han Mu Do",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hapki yusul",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jieitaikakutōjutsu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jikishinkage-ryu Naginatajutsu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "judo at the 1985 Summer Universiade",
+"aliases": [],
+"links": 3
+},
+{
+"name": "judo at the 1995 Summer Universiade",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kalarippayattu stick fighting",
+"aliases": [],
+"links": 3
+},
+{
+"name": "kirikaeshi",
+"aliases": [
+"uchikaeshi"
+],
+"links": 3
+},
+{
+"name": "Koei-Kan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kokikai",
+"aliases": [],
+"links": 3
+},
+{
+"name": "LudoSport",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Merpati Putih",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mok Gar",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nikyō",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nitōryū",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Peresean",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shindenkai",
+"aliases": [
+"International Shindenkaikan Organization",
+"Shinden Kai Kan",
+"Shinden Kaikan",
+"Shindenkai Karate",
+"Shindenkai Kickboxing",
+"Shindenkaikan"
+],
+"links": 3
+},
+{
+"name": "silat gayong",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Taikiken",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Zen Nihon kendō renmei Jōdō",
+"aliases": [
+"Seitei Jōdō"
+],
+"links": 3
+},
+{
+"name": "Bakti Negara",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Branches of Wing Chun",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Brazilian martial arts",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Butthan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Capoeira Contemporânea",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Combate de Sumisión Karive",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fu Style Baguazhang",
+"aliases": [
+"Fu Style Wudang Fist"
+],
+"links": 2
+},
+{
+"name": "Gouging",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gulun Kung Fu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Han Moo Do",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hasegawa Eishin-ryū",
+"aliases": [
+"Hasegawa Eishin-ryu"
+],
+"links": 2
+},
+{
+"name": "Hiraken",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hokutoryu Ju-Jutsu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kali Ilustrisimo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kanjin sumo",
+"aliases": [
+"fund-raising sumo",
+"kanjin zumō"
+],
+"links": 2
+},
+{
+"name": "karatedo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kenko Kempo Karate",
+"aliases": [
+"Kenko Kempo"
+],
+"links": 2
+},
+{
+"name": "kisha no mitsumono",
+"aliases": [
+"kisha mitsumono"
+],
+"links": 2
+},
+{
+"name": "Kitsune ken",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Koshiki Karate",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kyōhachi Ryū",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lawang Sakepeng",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Leopard Kung Fu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Meitei martial arts",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Perisai Diri",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rider Kick",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sayoc Kali",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shaolin Kempo Karate",
+"aliases": [
+"SKK"
+],
+"links": 2
+},
+{
+"name": "Shou Bo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "silek sitaralak",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sqay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "striking",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tang Shou Tao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tsuki waza",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tunggal Hati Seminari",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ulu Ambek",
+"aliases": [],
+"links": 2
+},
+{
+"name": "wheelchair karate",
+"aliases": [],
+"links": 2
+},
+{
+"name": "women's sumo",
+"aliases": [
+"gir's sumo",
+"new sumo"
+],
+"links": 2
+},
+{
+"name": "Yuejiaquan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zhaobao t'ai chi ch'uan",
+"aliases": [],
+"links": 2
+}
+]

@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "build:data": "python3 scripts/build_categories.py",
-    "test": "tsx --test src/lib/*.test.ts"
+    "test": "tsx --test src/lib/*.test.ts",
+    "fetch:wikidata": "python3 scripts/fetch_wikidata.py"
   },
   "dependencies": {
     "@fontsource-variable/jetbrains-mono": "^5.3.0",

@@ -1,0 +1,870 @@
+[
+{
+"name": "Siamese",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Persian cat",
+"aliases": [
+"Persian"
+],
+"links": 61
+},
+{
+"name": "Abyssinian",
+"aliases": [
+"Abyssinian cat"
+],
+"links": 55
+},
+{
+"name": "Maine coon",
+"aliases": [
+"American longhair",
+"Maine coon cat"
+],
+"links": 51
+},
+{
+"name": "Bengal cat",
+"aliases": [
+"Bengal"
+],
+"links": 49
+},
+{
+"name": "Turkish Angora",
+"aliases": [
+"Turkish Angora cats"
+],
+"links": 49
+},
+{
+"name": "Manx",
+"aliases": [],
+"links": 48
+},
+{
+"name": "British Shorthair",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Sphynx",
+"aliases": [
+"Canadian Hairless",
+"Canadian Sphynx"
+],
+"links": 47
+},
+{
+"name": "Norwegian Forest Cat",
+"aliases": [
+"NFC",
+"Wegie"
+],
+"links": 46
+},
+{
+"name": "Russian Blue",
+"aliases": [
+"Angel ruso"
+],
+"links": 46
+},
+{
+"name": "Ragdoll",
+"aliases": [
+"Ragdoll cat"
+],
+"links": 44
+},
+{
+"name": "Birman cat",
+"aliases": [
+"Sacred Cat of Burma"
+],
+"links": 43
+},
+{
+"name": "Burmese",
+"aliases": [
+"Burmese cat"
+],
+"links": 42
+},
+{
+"name": "Scottish Fold",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Siberian",
+"aliases": [
+"Siberian cat",
+"Siberian forest cat"
+],
+"links": 42
+},
+{
+"name": "Savannah",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Chartreux",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Korat",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Bombay",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Egyptian Mau",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Ocicat",
+"aliases": [],
+"links": 37
+},
+{
+"name": "American Curl",
+"aliases": [
+"American Curl Longhair"
+],
+"links": 36
+},
+{
+"name": "Balinese cat",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Devon Rex",
+"aliases": [],
+"links": 36
+},
+{
+"name": "European Shorthair",
+"aliases": [
+"Celtic",
+"pelo corto celta"
+],
+"links": 36
+},
+{
+"name": "Turkish Van",
+"aliases": [
+"swimming cat",
+"Turkish cat",
+"Turkish Vankedisi"
+],
+"links": 36
+},
+{
+"name": "American Shorthair",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Cornish Rex",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Himalayan",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Somali",
+"aliases": [
+"Somali cat"
+],
+"links": 33
+},
+{
+"name": "Japanese Bobtail",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Exotic Shorthair",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Cymric",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Munchkin cat",
+"aliases": [
+"Kangaroo cat",
+"Sausage cat"
+],
+"links": 29
+},
+{
+"name": "Tonkinese",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Oriental Shorthair",
+"aliases": [
+"Orientale"
+],
+"links": 28
+},
+{
+"name": "snowshoe",
+"aliases": [
+"snowshoe cat"
+],
+"links": 28
+},
+{
+"name": "Peterbald",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Singapura",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Donskoy cat",
+"aliases": [
+"Don Hairless",
+"Don Sphynx",
+"Russian Hairless"
+],
+"links": 26
+},
+{
+"name": "American Wirehair",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Selkirk Rex",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Burmilla",
+"aliases": [],
+"links": 24
+},
+{
+"name": "German Rex",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kurilian Bobtail",
+"aliases": [
+"Kurile Island Bobtail",
+"Kurilian Bobtail cat"
+],
+"links": 24
+},
+{
+"name": "American Bobtail",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Havana Brown",
+"aliases": [
+"Swiss Mountain Cats"
+],
+"links": 23
+},
+{
+"name": "Pixie-bob",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Aegean cat",
+"aliases": [],
+"links": 22
+},
+{
+"name": "British Longhair",
+"aliases": [
+"Britannica",
+"Highland Straight",
+"Highlander"
+],
+"links": 22
+},
+{
+"name": "Chausie",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Toyger",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Asian",
+"aliases": [
+"Malayan"
+],
+"links": 21
+},
+{
+"name": "Australian Mist",
+"aliases": [
+"Aussie cat",
+"Spotted Mist"
+],
+"links": 21
+},
+{
+"name": "Brazilian Shorthair",
+"aliases": [],
+"links": 21
+},
+{
+"name": "LaPerm",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ragamuffin",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Serengeti cat",
+"aliases": [
+"Serengeti"
+],
+"links": 20
+},
+{
+"name": "Sokoke",
+"aliases": [
+"African Shorthair",
+"Sokoke Forest Cat"
+],
+"links": 20
+},
+{
+"name": "Thai",
+"aliases": [
+"Applehead",
+"Classical Siamese",
+"Old-Style Siamese",
+"Old-style Siamese cat",
+"Thai cat",
+"Traditional Siamese",
+"Wichianmat",
+"Wichien Maat"
+],
+"links": 20
+},
+{
+"name": "California Spangled",
+"aliases": [
+"California Spangled Cat"
+],
+"links": 18
+},
+{
+"name": "Javanese",
+"aliases": [
+"Javanese cat"
+],
+"links": 18
+},
+{
+"name": "Nebelung",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Arabian Mau",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Dragon Li",
+"aliases": [
+"China Li Hua",
+"Chinese Li Hua",
+"Li Hua",
+"Li Hua Mao",
+"Li Hua Mau",
+"Li Mao"
+],
+"links": 17
+},
+{
+"name": "Neva Masquerade",
+"aliases": [
+"Neva Masquerade cat"
+],
+"links": 17
+},
+{
+"name": "Tiffanie",
+"aliases": [
+"Asian longhair",
+"Asian semi longhair",
+"Asian semi-longhair",
+"Burmilla longhair"
+],
+"links": 17
+},
+{
+"name": "Oriental Longhair",
+"aliases": [
+"British angora",
+"JAV",
+"Javanese",
+"Javanese cat",
+"Mandarin",
+"OLH",
+"Oriental Longhair cat"
+],
+"links": 16
+},
+{
+"name": "Ukrainian Levkoy",
+"aliases": [],
+"links": 16
+},
+{
+"name": "York Chocolate",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bambino",
+"aliases": [
+"Bambino Sphynx",
+"Mèo Bambino"
+],
+"links": 15
+},
+{
+"name": "domestic short-haired cat",
+"aliases": [
+"alley cat",
+"domestic shorthair",
+"house cat",
+"house cat, shorthair",
+"housecat"
+],
+"links": 15
+},
+{
+"name": "Khao Manee",
+"aliases": [
+"Diamond Eye"
+],
+"links": 15
+},
+{
+"name": "Chantilly",
+"aliases": [
+"Chantilly cat",
+"Chantilly-Tiffany",
+"Chantilly/Tiffany",
+"Foreign Longhair"
+],
+"links": 14
+},
+{
+"name": "Lykoi Cat",
+"aliases": [
+"Lykoi",
+"werewolf cat",
+"wolf cat"
+],
+"links": 14
+},
+{
+"name": "Ojos Azules",
+"aliases": [
+"Ojos Azules cat"
+],
+"links": 14
+},
+{
+"name": "Colorpoint Shorthair",
+"aliases": [],
+"links": 13
+},
+{
+"name": "domestic long-haired cat",
+"aliases": [
+"domestic longhair",
+"house cat, longhair"
+],
+"links": 12
+},
+{
+"name": "Minskin",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Minuet cat",
+"aliases": [
+"Napoleon"
+],
+"links": 12
+},
+{
+"name": "Aphrodite's Giant",
+"aliases": [
+"Aphrodite",
+"Aphrodite Giant",
+"Aphrodite's Giant cat"
+],
+"links": 10
+},
+{
+"name": "Raas",
+"aliases": [
+"Busok",
+"Madura cat",
+"Raas cat"
+],
+"links": 10
+},
+{
+"name": "Mekong Bobtail",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Seychellois",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ural rex",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Anatoli",
+"aliases": [],
+"links": 8
+},
+{
+"name": "FoldEx cat",
+"aliases": [
+"FoldEx",
+"Foldex"
+],
+"links": 8
+},
+{
+"name": "Foreign White",
+"aliases": [
+"White Siamese"
+],
+"links": 8
+},
+{
+"name": "Highlander cat",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Karelian Bobtail",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Oregon Rex",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rex mutation",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Traditional Persian",
+"aliases": [
+"Old-style Longhair",
+"Original Longhair",
+"Traditional Longhair"
+],
+"links": 8
+},
+{
+"name": "Ashera",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Oriental Bicolour",
+"aliases": [],
+"links": 7
+},
+{
+"name": "squitten",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Suphalak",
+"aliases": [
+"Feline catus"
+],
+"links": 7
+},
+{
+"name": "Toybob",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kinkalow",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Safari",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Skookum",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ussuri",
+"aliases": [
+"Ussuri cat"
+],
+"links": 5
+},
+{
+"name": "American Ringtail",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bohemian Rex",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ceylon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "chinchilla Persian",
+"aliases": [
+"chinchilla",
+"chinchilla Persian cat",
+"persian chinchilla cat",
+"Shaded Silver",
+"silver Persian"
+],
+"links": 4
+},
+{
+"name": "Kanaani cat",
+"aliases": [
+"Kanaani"
+],
+"links": 4
+},
+{
+"name": "Kanaani cat",
+"aliases": [],
+"links": 4
+},
+{
+"name": "moggy",
+"aliases": [
+"DLH",
+"DMH",
+"Domestic Longhair",
+"Domestic Mediumhair",
+"Domestic Shorthair",
+"DSH",
+"moggie"
+],
+"links": 4
+},
+{
+"name": "Russian White, Black and Tabby",
+"aliases": [],
+"links": 4
+},
+{
+"name": "British Semi-longhair",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Elf cat",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jianzhou cat",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mandalay",
+"aliases": [],
+"links": 3
+},
+{
+"name": "American burmese",
+"aliases": [],
+"links": 2
+},
+{
+"name": "dwelf",
+"aliases": [],
+"links": 2
+},
+{
+"name": "European Burmese",
+"aliases": [
+"British Burmese",
+"English Burmese",
+"European Burmese cat",
+"Traditional Burmese"
+],
+"links": 2
+},
+{
+"name": "genetta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kohana",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lambkin",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Modern Siamese",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Owyhee Bob",
+"aliases": [
+"Owyhee Bob cat",
+"Owyhee Bobs"
+],
+"links": 2
+},
+{
+"name": "Suffolk",
+"aliases": [
+"suffolk cat",
+"suffolk cats"
+],
+"links": 2
+},
+{
+"name": "Tennessee Rex",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Thai Lilac",
+"aliases": [
+"Thai Blue Point",
+"Thai Lilac Point"
+],
+"links": 2
+},
+{
+"name": "Altai",
+"aliases": [
+"ABE",
+"Altai Blue-Eyed",
+"Altai cat",
+"Altay"
+],
+"links": 1
+},
+{
+"name": "California Rex",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Deutsche Langhaarkatze",
+"aliases": [],
+"links": 1
+},
+{
+"name": "golden cat",
+"aliases": [
+"sunshine cat"
+],
+"links": 1
+},
+{
+"name": "Himalayan Persian",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kashmir cat",
+"aliases": [
+"Kashmir"
+],
+"links": 1
+},
+{
+"name": "Kohona",
+"aliases": [],
+"links": 1
+},
+{
+"name": "mixed breed cat",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pantherina",
+"aliases": [
+"Pantherina cat"
+],
+"links": 1
+}
+]

@@ -1,0 +1,4296 @@
+[
+{
+"name": "poker",
+"aliases": [],
+"links": 106
+},
+{
+"name": "contract bridge",
+"aliases": [
+"bridge",
+"bridge game",
+"game of bridge"
+],
+"links": 70
+},
+{
+"name": "blackjack",
+"aliases": [
+"Card Games/Blackjack",
+"twenty-one"
+],
+"links": 64
+},
+{
+"name": "Magic: The Gathering",
+"aliases": [
+"M:TG",
+"Magic",
+"Magic TCG",
+"Magic The Gathering",
+"Magic:The Gathering",
+"MagicTCG",
+"MagicTheGathering",
+"MTG"
+],
+"links": 53
+},
+{
+"name": "Uno",
+"aliases": [
+"UNO!",
+"UNO!™",
+"UNO™"
+],
+"links": 49
+},
+{
+"name": "Texas hold 'em",
+"aliases": [
+"hold 'em",
+"holdem",
+"Texas holdem"
+],
+"links": 44
+},
+{
+"name": "solitaire",
+"aliases": [
+"patience",
+"patience card game",
+"solitaire card game"
+],
+"links": 41
+},
+{
+"name": "baccarat",
+"aliases": [
+"baccara"
+],
+"links": 38
+},
+{
+"name": "Rummy",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Canasta",
+"aliases": [],
+"links": 33
+},
+{
+"name": "collectible card game",
+"aliases": [
+"CCG",
+"customizable card game",
+"expandable card game",
+"TCG",
+"trading card game"
+],
+"links": 33
+},
+{
+"name": "hanafuda",
+"aliases": [
+"hwatu"
+],
+"links": 33
+},
+{
+"name": "whist",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Pokémon Trading Card Game",
+"aliases": [
+"Pokemon TCG",
+"Pokemon Trading Card Game",
+"Pokémon TCG"
+],
+"links": 31
+},
+{
+"name": "Skat",
+"aliases": [
+"Scat"
+],
+"links": 31
+},
+{
+"name": "Omaha hold 'em",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Professional eater",
+"aliases": [
+"banana split",
+"bullshit",
+"cheat",
+"I Doubt It",
+"Verish' Ne Verish'"
+],
+"links": 24
+},
+{
+"name": "tarot card game",
+"aliases": [
+"tarocchi",
+"taroccho",
+"tarock",
+"tarot",
+"tarot card games"
+],
+"links": 24
+},
+{
+"name": "Yu-Gi-Oh! Trading Card Game",
+"aliases": [
+"Yu Gi Oh card game",
+"Yu Gi Oh trading card game"
+],
+"links": 24
+},
+{
+"name": "FreeCell",
+"aliases": [],
+"links": 22
+},
+{
+"name": "seven-card stud",
+"aliases": [
+"7-card stud",
+"Down-The-River",
+"Seven-Toed Pete"
+],
+"links": 22
+},
+{
+"name": "Black Lady",
+"aliases": [
+"American Hearts",
+"Black Lady Hearts",
+"Black Maria",
+"Black Widow",
+"Rickety Kate",
+"Slippery Anne"
+],
+"links": 21
+},
+{
+"name": "Briscola",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Klondike",
+"aliases": [
+"American Patience",
+"Canfield",
+"Demon Patience",
+"Fascination",
+"Patience",
+"Solitaire",
+"Triangle"
+],
+"links": 21
+},
+{
+"name": "Scopa",
+"aliases": [],
+"links": 21
+},
+{
+"name": "7 Wonders",
+"aliases": [
+"Seven Wonders"
+],
+"links": 20
+},
+{
+"name": "Dominion",
+"aliases": [],
+"links": 20
+},
+{
+"name": "five card draw",
+"aliases": [
+"Five-card draw poker"
+],
+"links": 20
+},
+{
+"name": "karuta",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Spades",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tarot of Marseilles",
+"aliases": [],
+"links": 20
+},
+{
+"name": "belote",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Munchkin",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Black Peter",
+"aliases": [],
+"links": 18
+},
+{
+"name": "cribbage",
+"aliases": [
+"crib"
+],
+"links": 18
+},
+{
+"name": "War",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Cards Against Humanity",
+"aliases": [
+"CAH"
+],
+"links": 17
+},
+{
+"name": "deck-building game",
+"aliases": [
+"deck builder",
+"deck-building card game",
+"deckbuilding game"
+],
+"links": 17
+},
+{
+"name": "Hearts",
+"aliases": [
+"Calamity Jane",
+"Slippery Bitch"
+],
+"links": 17
+},
+{
+"name": "online poker",
+"aliases": [
+"Internet poker"
+],
+"links": 17
+},
+{
+"name": "Piquet",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Splendor",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Bezique",
+"aliases": [],
+"links": 16
+},
+{
+"name": "French tarot",
+"aliases": [
+"jeu de tarot",
+"tarot"
+],
+"links": 16
+},
+{
+"name": "Mau-Mau",
+"aliases": [
+"Macau"
+],
+"links": 16
+},
+{
+"name": "strip poker",
+"aliases": [],
+"links": 16
+},
+{
+"name": "trick-taking game",
+"aliases": [
+"trick-and-meld game"
+],
+"links": 16
+},
+{
+"name": "twenty-one",
+"aliases": [
+"blackjack"
+],
+"links": 16
+},
+{
+"name": "Crazy Eights",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gin rummy",
+"aliases": [
+"Gin"
+],
+"links": 15
+},
+{
+"name": "Hanabi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "oh, hell",
+"aliases": [
+"ah hell",
+"contract whist",
+"oh hell",
+"wist"
+],
+"links": 15
+},
+{
+"name": "Take 5",
+"aliases": [
+"6 nimmt!",
+"6 takes",
+"Take 6",
+"Take 6!"
+],
+"links": 15
+},
+{
+"name": "Tressette",
+"aliases": [],
+"links": 15
+},
+{
+"name": "World of Warcraft Trading Card Game",
+"aliases": [
+"WoW TCG"
+],
+"links": 15
+},
+{
+"name": "Bohnanza",
+"aliases": [],
+"links": 14
+},
+{
+"name": "five-card stud",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Go-Stop",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Illuminati",
+"aliases": [
+"The Illuminati"
+],
+"links": 14
+},
+{
+"name": "Preferans",
+"aliases": [
+"Russian Preference",
+"Russian Préférence"
+],
+"links": 14
+},
+{
+"name": "Razz",
+"aliases": [],
+"links": 14
+},
+{
+"name": "sixty-six",
+"aliases": [
+"Paderbörnern"
+],
+"links": 14
+},
+{
+"name": "stud poker",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Visconti-Sforza tarot",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Chinese poker",
+"aliases": [
+"Chinese_poker"
+],
+"links": 13
+},
+{
+"name": "Go Fish",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Old maid",
+"aliases": [],
+"links": 13
+},
+{
+"name": "ombre",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pinochle",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Sette e Mezzo",
+"aliases": [
+"Seven and a Half"
+],
+"links": 13
+},
+{
+"name": "Sevens",
+"aliases": [
+"Parliament"
+],
+"links": 13
+},
+{
+"name": "Spider",
+"aliases": [
+"Roosevelt's Favorite",
+"Roosevelt's Favourite"
+],
+"links": 13
+},
+{
+"name": "Truco",
+"aliases": [],
+"links": 13
+},
+{
+"name": "video poker",
+"aliases": [],
+"links": 13
+},
+{
+"name": "As-Nas",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Caribbean stud poker",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Euchre",
+"aliases": [],
+"links": 12
+},
+{
+"name": "faro",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Harry Potter Trading Card Game",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Jass",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Koi-Koi",
+"aliases": [
+"Koi Koi",
+"Koikoi"
+],
+"links": 12
+},
+{
+"name": "Mille Bornes",
+"aliases": [],
+"links": 12
+},
+{
+"name": "three-card monte",
+"aliases": [
+"find the lady",
+"monte",
+"three card monte",
+"three-card trick"
+],
+"links": 12
+},
+{
+"name": "écarté",
+"aliases": [],
+"links": 12
+},
+{
+"name": "badugi",
+"aliases": [
+"badougi"
+],
+"links": 11
+},
+{
+"name": "Cardfight!! Vanguard",
+"aliases": [],
+"links": 11
+},
+{
+"name": "collectible card video game",
+"aliases": [
+"CCG",
+"collectable card video game",
+"DCCG",
+"digital collectible card game",
+"OCCG",
+"online collectible card game"
+],
+"links": 11
+},
+{
+"name": "Lansquenet",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Russian bank",
+"aliases": [
+"Crapette",
+"Touch",
+"Tunj"
+],
+"links": 11
+},
+{
+"name": "Shithead",
+"aliases": [
+"Danish",
+"Karma",
+"Palace",
+"Shed"
+],
+"links": 11
+},
+{
+"name": "Cassino",
+"aliases": [
+"Casino"
+],
+"links": 10
+},
+{
+"name": "Dou Di Zhu",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kabufuda",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kemps",
+"aliases": [
+"Canes"
+],
+"links": 10
+},
+{
+"name": "Manille",
+"aliases": [],
+"links": 10
+},
+{
+"name": "mus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Schafkopf",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Scum",
+"aliases": [
+"Arsehole",
+"Janitor",
+"Kings",
+"Kings and Assholes",
+"Landlord",
+"President",
+"Rich Man Poor Man",
+"Scumbag",
+"Warlords and Scumbags"
+],
+"links": 10
+},
+{
+"name": "Tichu",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Trente et Quarante",
+"aliases": [
+"Rouge-et-Noir"
+],
+"links": 10
+},
+{
+"name": "Vampire: The Eternal Struggle",
+"aliases": [],
+"links": 10
+},
+{
+"name": "24 game",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Conquian",
+"aliases": [
+"Coon Can"
+],
+"links": 9
+},
+{
+"name": "Doppelkopf",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gnav",
+"aliases": [],
+"links": 9
+},
+{
+"name": "happy families",
+"aliases": [],
+"links": 9
+},
+{
+"name": "KeyForge",
+"aliases": [
+"Key Forge"
+],
+"links": 9
+},
+{
+"name": "minchiate",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Phase 10",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Saboteur",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sanguosha",
+"aliases": [
+"Legends of the Three Kingdoms",
+"Three Kingdoms Kill"
+],
+"links": 9
+},
+{
+"name": "Schnapsen",
+"aliases": [],
+"links": 9
+},
+{
+"name": "The Great Dalmuti",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tute",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Big Two",
+"aliases": [
+"Big 2"
+],
+"links": 8
+},
+{
+"name": "Buraco",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Call of Cthulhu: The Card Game",
+"aliases": [
+"Call of Cthulhu Collectible Card Game"
+],
+"links": 8
+},
+{
+"name": "competitive karuta",
+"aliases": [
+"kyogi karuta"
+],
+"links": 8
+},
+{
+"name": "Daifugō",
+"aliases": [
+"Capitalist",
+"Daihinmin",
+"President",
+"Tycoon"
+],
+"links": 8
+},
+{
+"name": "duplicate bridge",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Eleusis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Future Card Buddyfight",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Karnöffel",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lost Cities",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Quartets",
+"aliases": [
+"Quartet",
+"Quartett"
+],
+"links": 8
+},
+{
+"name": "Sedma",
+"aliases": [],
+"links": 8
+},
+{
+"name": "SKIP-BO",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Top Trumps",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Weiß Schwarz",
+"aliases": [
+"AT-X Card Game",
+"Weiss Schwarz"
+],
+"links": 8
+},
+{
+"name": "Aluette",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Barbu",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bastra",
+"aliases": [
+"Pastra"
+],
+"links": 7
+},
+{
+"name": "Battle Spirits Trading Card Game",
+"aliases": [
+"Battle Spirits TCG"
+],
+"links": 7
+},
+{
+"name": "Blind man's bluff",
+"aliases": [
+"Good For You",
+"Indian head",
+"Indian poker",
+"Oklahoma forehead",
+"squaw poker"
+],
+"links": 7
+},
+{
+"name": "Boston",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Botifarra",
+"aliases": [],
+"links": 7
+},
+{
+"name": "burro",
+"aliases": [],
+"links": 7
+},
+{
+"name": "draw poker",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Halli Galli",
+"aliases": [
+"Tutti Frutti"
+],
+"links": 7
+},
+{
+"name": "Just One",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ligretto",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Luck & Logic",
+"aliases": [
+"Luck and Logic"
+],
+"links": 7
+},
+{
+"name": "Macao",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Madiao",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mao",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mariáš",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Oicho-Kabu",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Piedmontese tarot",
+"aliases": [
+"Tarocco Piemontese",
+"Tarot of Piedmont"
+],
+"links": 7
+},
+{
+"name": "Pyramid",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Race for the Galaxy",
+"aliases": [],
+"links": 7
+},
+{
+"name": "rubber bridge",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sicilian tarot",
+"aliases": [
+"Tarocco Siciliano"
+],
+"links": 7
+},
+{
+"name": "Spellfire",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Spoons",
+"aliases": [
+"1-2-3 Pass",
+"Donkey",
+"Pig"
+],
+"links": 7
+},
+{
+"name": "The Mind",
+"aliases": [],
+"links": 7
+},
+{
+"name": "uta-garuta",
+"aliases": [
+"hyakunin isshu karuta",
+"karuta"
+],
+"links": 7
+},
+{
+"name": "Watten",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Yablon",
+"aliases": [
+"Red dog poker"
+],
+"links": 7
+},
+{
+"name": "7 Wonders Duel",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Aces Up",
+"aliases": [
+"Firing Squad"
+],
+"links": 6
+},
+{
+"name": "Bolognese tarot",
+"aliases": [
+"Tarocco Bolognese"
+],
+"links": 6
+},
+{
+"name": "Catan Card Game",
+"aliases": [
+"Settlers of Catan",
+"The Settlers of Catan: The Card Game"
+],
+"links": 6
+},
+{
+"name": "Chinchón",
+"aliases": [
+"Chinchon"
+],
+"links": 6
+},
+{
+"name": "Continental Rummy",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Court piece",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cucumber",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Doom Trooper",
+"aliases": [
+"Doomtrooper"
+],
+"links": 6
+},
+{
+"name": "Egyptian Ratscrew",
+"aliases": [
+"Card Games/Egyptian Ratscrew"
+],
+"links": 6
+},
+{
+"name": "Four Color Cards",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lorum",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Minibridge",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Napoleon",
+"aliases": [
+"Nap"
+],
+"links": 6
+},
+{
+"name": "Oblique Strategies",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pasur",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Russian Schnapsen",
+"aliases": [
+"Thousand Schnapsen"
+],
+"links": 6
+},
+{
+"name": "slapjack",
+"aliases": [
+"slap jack"
+],
+"links": 6
+},
+{
+"name": "Spit",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tablanet",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Thirty-one",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Three card poker",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Wizard",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Yaniv",
+"aliases": [
+"Dhumbal",
+"Jhyap"
+],
+"links": 6
+},
+{
+"name": "2/1 game forcing",
+"aliases": [],
+"links": 5
+},
+{
+"name": "500 rum",
+"aliases": [
+"500 rummy",
+"Michigan rummy",
+"Persian rummy",
+"pinochle rummy",
+"rummy 500"
+],
+"links": 5
+},
+{
+"name": "A Game of Thrones",
+"aliases": [],
+"links": 5
+},
+{
+"name": "all fours",
+"aliases": [
+"seven up"
+],
+"links": 5
+},
+{
+"name": "auction bridge",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Basset",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Beggar-My-Neighbour",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Blüchern",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bouillotte",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bräus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chicago",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Clock patience",
+"aliases": [
+"Clock solitaire"
+],
+"links": 5
+},
+{
+"name": "coinche",
+"aliases": [
+"belote coinchée"
+],
+"links": 5
+},
+{
+"name": "Disney Lorcana",
+"aliases": [
+"Lorcana"
+],
+"links": 5
+},
+{
+"name": "Flesh & Blood",
+"aliases": [
+"FAB",
+"FaB"
+],
+"links": 5
+},
+{
+"name": "Forbidden Island",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Forest Shuffle",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Golf",
+"aliases": [
+"Cambio",
+"Crazy Nines",
+"Dutch",
+"Hara Kiri",
+"Pablo",
+"Polish Poker",
+"Polish Polka",
+"Turtle"
+],
+"links": 5
+},
+{
+"name": "Illuminati: New World Order",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jaipur",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nain Jaune",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Netrunner",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Northwestern blot",
+"aliases": [
+"Northwestern blotting"
+],
+"links": 5
+},
+{
+"name": "One Card",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Open-face Chinese poker",
+"aliases": [
+"OFCP"
+],
+"links": 5
+},
+{
+"name": "Pan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Poker Squares",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Polignac",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Primero",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rams",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rat-a-Tat Cat",
+"aliases": [],
+"links": 5
+},
+{
+"name": "roguelike deck-building game",
+"aliases": [
+"deck-building rogue-like",
+"roguelike deck-building video game",
+"roguelike deckbuilder"
+],
+"links": 5
+},
+{
+"name": "Sequence",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Shards of Alara",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Stýrivolt",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sueca",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sushi Go!",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Swiss 1JJ Tarot",
+"aliases": [],
+"links": 5
+},
+{
+"name": "The Crew: The Quest for Planet Nine",
+"aliases": [
+"The Crew"
+],
+"links": 5
+},
+{
+"name": "Trappola",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Triomphe",
+"aliases": [
+"Triomphe/trionfa"
+],
+"links": 5
+},
+{
+"name": "Ulti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "WIXOSS",
+"aliases": [],
+"links": 5
+},
+{
+"name": "zole",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zwicken",
+"aliases": [],
+"links": 5
+},
+{
+"name": "52 pickup",
+"aliases": [
+"52-card pickup"
+],
+"links": 4
+},
+{
+"name": "7th Edition",
+"aliases": [
+"Seventh Edition"
+],
+"links": 4
+},
+{
+"name": "8th Edition",
+"aliases": [
+"Eighth Edition"
+],
+"links": 4
+},
+{
+"name": "Antiquities",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aquarian Age",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bella Sara",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Blind Hookey",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bohemian Schneider",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bura",
+"aliases": [
+"Thirty-One"
+],
+"links": 4
+},
+{
+"name": "Calabresella",
+"aliases": [],
+"links": 4
+},
+{
+"name": "carioca",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cego",
+"aliases": [
+"Ceco"
+],
+"links": 4
+},
+{
+"name": "Ceki",
+"aliases": [],
+"links": 4
+},
+{
+"name": "chlust",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Colour whist",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Coucou",
+"aliases": [],
+"links": 4
+},
+{
+"name": "dedicated deck card game",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Diamant",
+"aliases": [
+"Incan Gold"
+],
+"links": 4
+},
+{
+"name": "Dune CCG",
+"aliases": [],
+"links": 4
+},
+{
+"name": "escoba",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Force of Will Trading Card Game",
+"aliases": [
+"Force of Will",
+"FoW",
+"FoW TCG"
+],
+"links": 4
+},
+{
+"name": "Gong Zhu",
+"aliases": [
+"Gongzhu"
+],
+"links": 4
+},
+{
+"name": "guiñote",
+"aliases": [
+"bresca real"
+],
+"links": 4
+},
+{
+"name": "Huapian",
+"aliases": [
+"Ang-a-phiau",
+"gung zai zi",
+"Yanghua"
+],
+"links": 4
+},
+{
+"name": "King",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Knightmare Chess",
+"aliases": [
+"Nightmare Chess",
+"Tempête sur l'échiquier"
+],
+"links": 4
+},
+{
+"name": "Kuhn poker",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Königrufen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Köpknack",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lanterloo",
+"aliases": [
+"Loo"
+],
+"links": 4
+},
+{
+"name": "Legends",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lorwyn",
+"aliases": [],
+"links": 4
+},
+{
+"name": "lowball",
+"aliases": [
+"low poker"
+],
+"links": 4
+},
+{
+"name": "Macau",
+"aliases": [
+"Macao",
+"Macaua",
+"Makaua",
+"Makaó"
+],
+"links": 4
+},
+{
+"name": "Machiavelli",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mariage",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mauscheln",
+"aliases": [
+"Maus",
+"Vierblatt"
+],
+"links": 4
+},
+{
+"name": "Monopoly Deal",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Monster Collection",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ninety-nine",
+"aliases": [],
+"links": 4
+},
+{
+"name": "O'NO 99",
+"aliases": [
+"Double Play"
+],
+"links": 4
+},
+{
+"name": "Once Upon a Time",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Panguingue",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Paskahousu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Poch",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pope Joan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Quadrille",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Scarto",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Silesian Lottery",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sim City: The Card Game",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Skitgubbe",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sleeping Queens",
+"aliases": [],
+"links": 4
+},
+{
+"name": "sousem",
+"aliases": [
+"Canadian stud",
+"Scandinavian stud",
+"soko",
+"sökö"
+],
+"links": 4
+},
+{
+"name": "Speed",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Starship Catan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "straight",
+"aliases": [
+"Run"
+],
+"links": 4
+},
+{
+"name": "Stress",
+"aliases": [],
+"links": 4
+},
+{
+"name": "stuss",
+"aliases": [
+"Jewish Faro"
+],
+"links": 4
+},
+{
+"name": "tam cúc",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tarocchini",
+"aliases": [],
+"links": 4
+},
+{
+"name": "The Binding of Isaac: Four Souls",
+"aliases": [],
+"links": 4
+},
+{
+"name": "The Lord of the Rings Trading Card Game",
+"aliases": [
+"LOTR TCG"
+],
+"links": 4
+},
+{
+"name": "The X-Files Collectible Card Game",
+"aliases": [],
+"links": 4
+},
+{
+"name": "tổ tôm",
+"aliases": [
+"shrimps' nest"
+],
+"links": 4
+},
+{
+"name": "Unlimited Edition",
+"aliases": [
+"Unlimited"
+],
+"links": 4
+},
+{
+"name": "Unmatched",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Uno Flip!",
+"aliases": [
+"Uno Flip"
+],
+"links": 4
+},
+{
+"name": "Up Front",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Urza's Saga",
+"aliases": [
+"Urza Saga"
+],
+"links": 4
+},
+{
+"name": "Visions",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Weatherlight",
+"aliases": [],
+"links": 4
+},
+{
+"name": ".hack//Enemy",
+"aliases": [],
+"links": 3
+},
+{
+"name": "4th Edition",
+"aliases": [
+"Fourth edition"
+],
+"links": 3
+},
+{
+"name": "5th Edition",
+"aliases": [
+"Fifth Edition"
+],
+"links": 3
+},
+{
+"name": "6th Edition",
+"aliases": [
+"Classic",
+"Sixth Edition"
+],
+"links": 3
+},
+{
+"name": "9th Edition",
+"aliases": [
+"Ninth Edition"
+],
+"links": 3
+},
+{
+"name": "A Game of Thrones: Second Edition",
+"aliases": [
+"A Game of Thrones: The Card Game Second Edition",
+"AGoT"
+],
+"links": 3
+},
+{
+"name": "ace–ten game",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Alliances",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Apples to Apples",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Arabian Nights",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Avacyn Restored",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Balloon Cup",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bassadewitz",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bauernschnapsen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bavarian Tarock",
+"aliases": [
+"Bavarian tarot"
+],
+"links": 3
+},
+{
+"name": "Beleaguered Castle",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bestia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Binokel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bourré",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Brandeln",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Brede Mette",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Brelan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Brus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Brusquembille",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bruus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "buta no shippo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Byggkasino",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cabo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Canfield",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Castle Combo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Century: Spice Road",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cenzr",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Challengers!",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chicago",
+"aliases": [
+"Four-deal Bridge",
+"Short Bridge"
+],
+"links": 3
+},
+{
+"name": "Chinese Blackjack",
+"aliases": [
+"21-point",
+"ban-luck"
+],
+"links": 3
+},
+{
+"name": "Cockroach Poker",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Contract rummy",
+"aliases": [
+"12-Step Rummy"
+],
+"links": 3
+},
+{
+"name": "Daikaijū Monogatari: The Miracle of the Zone",
+"aliases": [
+"Daikaijuu Monogatari: Miracle of the Zone"
+],
+"links": 3
+},
+{
+"name": "Double Exposure Blackjack",
+"aliases": [
+"Black Jack Double Exposure",
+"Double Exposure",
+"See-Thru 21"
+],
+"links": 3
+},
+{
+"name": "Droggn",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Drużbart",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Elfern",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Evolution: The Origin of Species",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Faraway",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ferme",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fifteen Lake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Flip 7",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gaigel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "German Solo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "German whist",
+"aliases": [
+"Chinese whist",
+"Honeymoon Whist"
+],
+"links": 3
+},
+{
+"name": "Gloom",
+"aliases": [
+"Cthulhu Gloom"
+],
+"links": 3
+},
+{
+"name": "Goulash",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Grasobern",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Guillotine",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gundam War Collectible Card Game",
+"aliases": [
+"Gundam War"
+],
+"links": 3
+},
+{
+"name": "Hero Realms",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Homelands",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Horus Heresy",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ice Age",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Imperial Settlers",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Inazuma Eleven TCG",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Independent Chip Model",
+"aliases": [
+"ICM"
+],
+"links": 3
+},
+{
+"name": "Indian Rummy",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jo-Jotte",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Juckerspiel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Julepe",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kille",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Knack",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Knektpass",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Krypkille",
+"aliases": [],
+"links": 3
+},
+{
+"name": "le her",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Legend of the Five Rings",
+"aliases": [
+"L5R"
+],
+"links": 3
+},
+{
+"name": "Lemon",
+"aliases": [
+"Atlantis",
+"Chanhassen",
+"James Bond"
+],
+"links": 3
+},
+{
+"name": "Lexicon",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Limited Edition",
+"aliases": [
+"Limited"
+],
+"links": 3
+},
+{
+"name": "Living Card Game",
+"aliases": [
+"Expandable card game",
+"LCG"
+],
+"links": 3
+},
+{
+"name": "Marjapussi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Match Attax",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mirage",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mistigri",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Monte Bank",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mulle",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Musta Maija",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Myths and Legends",
+"aliases": [
+"Mitos y Leyendas",
+"MyL"
+],
+"links": 3
+},
+{
+"name": "Ninety-nine",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Noddy",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Norseman's knock",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Odin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "officers' skat",
+"aliases": [
+"two-player Skat"
+],
+"links": 3
+},
+{
+"name": "Onze et demie",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pedro",
+"aliases": [
+"High Five"
+],
+"links": 3
+},
+{
+"name": "Perlaggen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pit",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pitch",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Planechase",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Polish Red Dog",
+"aliases": [
+"Stitch"
+],
+"links": 3
+},
+{
+"name": "Préférence",
+"aliases": [
+"Preference"
+],
+"links": 3
+},
+{
+"name": "Quadrat",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Quinze",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rammeln",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ravnica: City of Guilds",
+"aliases": [
+"Ravnica"
+],
+"links": 3
+},
+{
+"name": "Reversis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Revised Edition",
+"aliases": [
+"3rd Edition",
+"Revised"
+],
+"links": 3
+},
+{
+"name": "Riftbound: League of Legends Trading Card Game",
+"aliases": [
+"Riftbound",
+"Riftbound: League of Legends"
+],
+"links": 3
+},
+{
+"name": "Ristikontra",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Robbers' rummy",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Roppyakken",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Scharwenzel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Schatz der Drachen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shadowmoor",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shuffle track",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Six-plus hold 'em",
+"aliases": [
+"short-deck hold 'em",
+"Six-plus hold'em/Short-deck hold 'em"
+],
+"links": 3
+},
+{
+"name": "Sjavs",
+"aliases": [],
+"links": 3
+},
+{
+"name": "snip-snap-snorum",
+"aliases": [
+"snip snap snorem",
+"snip-snap-snorem"
+],
+"links": 3
+},
+{
+"name": "Solo whist",
+"aliases": [],
+"links": 3
+},
+{
+"name": "spite and malice",
+"aliases": [
+"Spite & Malice"
+],
+"links": 3
+},
+{
+"name": "Svängknack",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Swedish whist",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Switch",
+"aliases": [],
+"links": 3
+},
+{
+"name": "TAKI",
+"aliases": [
+"Super TAKI",
+"SuperTAKI"
+],
+"links": 3
+},
+{
+"name": "Tatteln",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tempeln",
+"aliases": [
+"Stoß"
+],
+"links": 3
+},
+{
+"name": "Tempest",
+"aliases": [],
+"links": 3
+},
+{
+"name": "The Dark",
+"aliases": [],
+"links": 3
+},
+{
+"name": "The Simpsons Trading Card Game",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Thunee",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tien len",
+"aliases": [
+"Tiến lên",
+"Vietnamese cards"
+],
+"links": 3
+},
+{
+"name": "Toepen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Touring",
+"aliases": [
+"Touring card game"
+],
+"links": 3
+},
+{
+"name": "Trex",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tri Peaks",
+"aliases": [
+"Three Peaks",
+"Triple Peaks"
+],
+"links": 3
+},
+{
+"name": "Trio",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Trionfo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Troggu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Twenty-eight",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Twenty-five",
+"aliases": [
+"Five and Ten",
+"Five Cards",
+"Five Fingers",
+"Five-cards",
+"Spoilt Five"
+],
+"links": 3
+},
+{
+"name": "Unglued",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Unhinged",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vira",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Wallachen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Warhammer: Invasion",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Warlords",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Waterworks",
+"aliases": [
+"Waterworks Classic"
+],
+"links": 3
+},
+{
+"name": "Zwanzigerrufen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "10th Edition",
+"aliases": [
+"Tenth Edition"
+],
+"links": 2
+},
+{
+"name": "8-Game",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Accordion",
+"aliases": [
+"Tower of Babel"
+],
+"links": 2
+},
+{
+"name": "ace wins all",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Adrenalyn XL",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Agnes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Alkort",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Alpha",
+"aliases": [
+"Alpha Edition",
+"Limited Edition Alpha"
+],
+"links": 2
+},
+{
+"name": "Alsós",
+"aliases": [
+"Alsos"
+],
+"links": 2
+},
+{
+"name": "Amazons",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ani-Mayhem",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Anomia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Arcadia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Australian Patience",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Authors",
+"aliases": [
+"The Game of Authors"
+],
+"links": 2
+},
+{
+"name": "Babylon 5 Collectible Card Game",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Baloot",
+"aliases": [],
+"links": 2
+},
+{
+"name": "bank",
+"aliases": [],
+"links": 2
+},
+{
+"name": "banka bäver",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bartok",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bauerchen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bauernfangen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bauernheinrich",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bauerntarock",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Belle, Flux et Trente-et-Un",
+"aliases": [
+"Belle, Fluss und Einunddreißig",
+"Best, Flush and Thirty-One"
+],
+"links": 2
+},
+{
+"name": "Berserk",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bester Bube",
+"aliases": [
+"Bester Bauer",
+"Fiefkarten",
+"Lenter"
+],
+"links": 2
+},
+{
+"name": "Beta",
+"aliases": [
+"Beta Edition",
+"Limited Edition Beta"
+],
+"links": 2
+},
+{
+"name": "Bettelmann",
+"aliases": [],
+"links": 2
+},
+{
+"name": "bid whist",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bierlachs",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bieten",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bingo",
+"aliases": [
+"bango"
+],
+"links": 2
+},
+{
+"name": "Biriba",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Birthday",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bismarck",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Black Maria",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Blackjack Switch",
+"aliases": [
+"Black Jack Switch"
+],
+"links": 2
+},
+{
+"name": "Blattla",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bloomburrow",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Blue Moon",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bohemian Watten",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bolachen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "bonking",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Booleo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Botifarra",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bottle Imp",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Boží požehnání",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bridge whist",
+"aliases": [
+"straight bridge"
+],
+"links": 2
+},
+{
+"name": "Brisca",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Brús",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Buffy the Vampire Slayer Collectible Card Game",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bête",
+"aliases": [
+"Beste",
+"Homme",
+"l'Homme",
+"la Beste",
+"La bête"
+],
+"links": 2
+},
+{
+"name": "Calculation",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Car Wars The Card Game",
+"aliases": [
+"Car Wars: The Card Game"
+],
+"links": 2
+},
+{
+"name": "catch the ten",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Caylus Magna Carta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Champions of Kamigawa",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chez Geek",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chkobba",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chor Voli",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chratze",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chrononauts",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cicera bigia",
+"aliases": [
+"Ciccera biccera",
+"Cicera"
+],
+"links": 2
+},
+{
+"name": "Cockroach Salad",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Coldsnap",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Comet",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Conflux",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Counting Patience",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Crazy pineapple",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Credo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cuarenta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cuttle",
+"aliases": [
+"Combat"
+],
+"links": 2
+},
+{
+"name": "Dark Ascension",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dark Eden",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Davoserjazz",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dealer's choice",
+"aliases": [],
+"links": 2
+},
+{
+"name": "debertz",
+"aliases": [
+"deberts"
+],
+"links": 2
+},
+{
+"name": "Dixie",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dragon's Maze",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dragonwood",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dreeg",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dreierles",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dreierschnapsen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dupa Biskupa",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dvorak",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Eight Cards",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Einwerfen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Elimination Blackjack",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Enflé",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Epic Card Game",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Eralash",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Eventide",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Evolution: Random Mutations",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Exodus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Experiment",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Femkort",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Femkortskille",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fipsen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Forty-fives",
+"aliases": [
+"Auction 120s",
+"Auction Forty-Fives",
+"Forte Fives",
+"Forty-Five",
+"Growl",
+"Maw",
+"Spoil Five",
+"Strong Fives"
+],
+"links": 2
+},
+{
+"name": "From the Vault",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fun Facts",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Future Sight",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Galician Tarok",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gaps",
+"aliases": [
+"Blanket",
+"Blue Moon",
+"Montana",
+"Montana Aces",
+"Red Moon",
+"Spaces",
+"Station",
+"Vacancies"
+],
+"links": 2
+},
+{
+"name": "Gatecrash",
+"aliases": [],
+"links": 2
+},
+{
+"name": "German Schafkopf",
+"aliases": [],
+"links": 2
+},
+{
+"name": "German Tarok",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gilet",
+"aliases": [
+"Gile"
+],
+"links": 2
+},
+{
+"name": "Gilten",
+"aliases": [
+"Giltspiel"
+],
+"links": 2
+},
+{
+"name": "Gilé",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Golden Creature Card",
+"aliases": [
+"Battle of Golden Monster",
+"Golden Monster Battle"
+],
+"links": 2
+},
+{
+"name": "Goldrausch",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Good Thirteen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gou Ji",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Grass",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Großtarock",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Guandan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hahndreier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hana-Awase",
+"aliases": [],
+"links": 2
+},
+{
+"name": "heads up poker",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Herz zu Herz",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Herzeln",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hoc Mazarin",
+"aliases": [
+"Hoc"
+],
+"links": 2
+},
+{
+"name": "Hund",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hungarian Tarokk",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Höllfahren",
+"aliases": [],
+"links": 2
+},
+{
+"name": "illustrated tarot",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Indian",
+"aliases": [
+"Indian Poker"
+],
+"links": 2
+},
+{
+"name": "Innistrad",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Invasion",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Israeli whist",
+"aliases": [],
+"links": 2
+},
+{
+"name": "It's a Wonderful World",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jabberwocky",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jaggln",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Just 4 Fun",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kaiserspiel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kaldheim",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kaschlan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kein Stich",
+"aliases": [],
+"links": 2
+},
+{
+"name": "King",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Klaberjass",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Klammern",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kodilj",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Konter a Matt",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kosakeln",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kuku",
+"aliases": [],
+"links": 2
+},
+{
+"name": "La Fallera Calavera",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lascaux",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Leaf Fight",
+"aliases": [
+"LEAF FIGHT TCG",
+"LFTCG"
+],
+"links": 2
+},
+{
+"name": "Letzter",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Little Lots",
+"aliases": [
+"Eight Packet Patience"
+],
+"links": 2
+},
+{
+"name": "Loba",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lupfen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Magic 2010",
+"aliases": [
+"Magic: The Gathering 2010 Core Set"
+],
+"links": 2
+},
+{
+"name": "Magic 2011",
+"aliases": [
+"Magic: The Gathering 2011 Core Set"
+],
+"links": 2
+},
+{
+"name": "Majesty: For the Realm",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Malaysian pontoon",
+"aliases": [
+"pontoon"
+],
+"links": 2
+},
+{
+"name": "Mate",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Matzlfangen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Maw",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Memoarrr!",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mercadian Masques",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mighty",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Minnesota whist",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mirrodin",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Modern Masters",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mona",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mooki Island",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Morningtide",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mucken",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mulatschak",
+"aliases": [],
+"links": 2
+},
+{
+"name": "My Aunt, Your Ant",
+"aliases": [
+"Meine Tante, Deine Tante"
+],
+"links": 2
+},
+{
+"name": "My Little Pony Collectible Card Game",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Müller Matz",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Napoleon",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nertz",
+"aliases": [
+"Racing Demon"
+],
+"links": 2
+},
+{
+"name": "Neunkart",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Neunzehnerrufen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "New Phyrexia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Newmarket",
+"aliases": [
+"boodle",
+"Newmarket horses",
+"stops"
+],
+"links": 2
+},
+{
+"name": "Oma Skat",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Onslaught",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Page One",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pandoer",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pandur",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Panko card game",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Patruni e sutta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Penneech",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pilotta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pixies",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Planeshift",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Point Salad",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Point Tarock",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pok Deng",
+"aliases": [],
+"links": 2
+},
+{
+"name": "poka",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pollack",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Polskpas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pontoon",
+"aliases": [
+"Vingt-Un"
+],
+"links": 2
+},
+{
+"name": "Pop's Card Game",
+"aliases": [
+"Three thirteen"
+],
+"links": 2
+},
+{
+"name": "Port Royal",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Priffe",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Quadrette",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Queen Nazarene",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Quodlibet",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rabouge",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rage",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rage",
+"aliases": [],
+"links": 2
+},
+{
+"name": "rank",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ranter-Go-Round",
+"aliases": [
+"Chase the ace"
+],
+"links": 2
+},
+{
+"name": "Red and Black",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Remigio",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ristiseiska",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Romestecq",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ronfa",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rosbiratschka",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rouge et noir",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rumpel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rutersju",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rödskägg",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Saunigl",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Scars of Mirrodin",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Scherwenzel",
+"aliases": [
+"Scharwenzel"
+],
+"links": 2
+},
+{
+"name": "Schieberamsch",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Schlafmütze",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Schlauch",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Schweinchen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Schwimmen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Scourge",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Scout",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sedmice",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Seotda",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shanghai rum",
+"aliases": [],
+"links": 2
+},
+{
+"name": "shedding-type game",
+"aliases": [
+"outplay game",
+"stop type game"
+],
+"links": 2
+},
+{
+"name": "Sheepshead",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shelem",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sheriff of Nottingham",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Siebenschräm",
+"aliases": [
+"7 Schräm"
+],
+"links": 2
+},
+{
+"name": "Sizette",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Skwitz",
+"aliases": [],
+"links": 2
+},
+{
+"name": "skærvindsel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sleuth",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Slovenian Tarok",
+"aliases": [
+"Tarocco"
+],
+"links": 2
+},
+{
+"name": "Snap",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Solo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Solo 66",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Star Wars Trading Card Game",
+"aliases": [
+"Star Wars TCG",
+"Star Wars: The Trading Card Game",
+"Star Wars: Trading Card Game",
+"SWTCG"
+],
+"links": 2
+},
+{
+"name": "Star Wars: Destiny",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Stargate Trading Card Game",
+"aliases": [
+"Stargate TCG"
+],
+"links": 2
+},
+{
+"name": "Sticheln",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sticheln",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Streets of New Capenna",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Strohmandeln",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Stronghold",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Super Fun 21",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Supergol",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Svoyi Koziri",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Taco Cat Goat Cheese Pizza",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Taco Kitten Pizza",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Take 5!",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Takoyaki",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tapp-Tarock",
+"aliases": [
+"Viennese tarot"
+],
+"links": 2
+},
+{
+"name": "Targi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Taroc l'Hombre",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Teen patti",
+"aliases": [],
+"links": 2
+},
+{
+"name": "The Herring-Bone",
+"aliases": [
+"Braid"
+],
+"links": 2
+},
+{
+"name": "the king of hearts has five sons",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Time Spiral",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tippen",
+"aliases": [
+"Dreekort",
+"Drei Karten",
+"Dreiblatt",
+"Kleinpréférence",
+"Labet",
+"Trekort"
+],
+"links": 2
+},
+{
+"name": "Tong-its",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tonk",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Torment",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tournament Schafkopf",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tournay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Treppenrommé",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Trischaken",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Trischettn",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Troccas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "troefcall",
+"aliases": [],
+"links": 2
+},
+{
+"name": "truc",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Truc y flou",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tuppi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Two-ten-jack",
+"aliases": [
+"2 Ten Jack"
+],
+"links": 2
+},
+{
+"name": "Ultimate Werewolf",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Urza's Legacy",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Veto",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Viennese Grosstarock",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Vieux Garçon",
+"aliases": [
+"Le Puant"
+],
+"links": 2
+},
+{
+"name": "vint",
+"aliases": [
+"Russian whist"
+],
+"links": 2
+},
+{
+"name": "Vogelspiel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Voller Hund",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Wendish Schafkopf",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Whot!",
+"aliases": [],
+"links": 2
+},
+{
+"name": "wiezen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Windmill",
+"aliases": [
+"Propeller",
+"Propellor",
+"Whirligig"
+],
+"links": 2
+},
+{
+"name": "Witch's Brew",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Wyatt Earp",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Württemberg tarot",
+"aliases": [
+"Tapp"
+],
+"links": 2
+},
+{
+"name": "Zendikar",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zwickern",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zwikken",
+"aliases": [],
+"links": 2
+}
+]

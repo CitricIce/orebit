@@ -132,6 +132,112 @@ def phrase_score(text: str) -> float:
     return max(0.0, min(zipf_frequency(w, "en") for w in words) - PHRASE_PENALTY * (len(words) - 1))
 
 
+WIKIDATA_DIR = ROOT / "data" / "wikidata"
+PEOPLE = {"painters", "composers"}
+# Official labels that nobody types.
+ORIGIN_LABELS = re.compile(r"\s+\b(PDO|PGI|PAT|DOP|IGP|TSG|AOC|AOP|DOC|DOCG|DO|STG)\b\.?$", re.I)
+# Entries that slip into a class but aren't what the category means.
+BANNED = {
+    "pasta": re.compile(r"\b(alla|all'|with|soup|dumplings?|sauce|salad|terre|mafia|baked|fried)\b", re.I),
+    "cocktails": re.compile(r"\b(bar|hotel|restaurant|lounge|club)$", re.I),
+    "breads": re.compile(r"\b(bakery|company)\b", re.I),
+}
+MAX_NEW_WORDS = 4
+MAX_NEW_CHARS = 32
+
+
+def tidy_wikidata(cid: str, item: dict) -> tuple[str, list[str]] | None:
+    """Clean a Wikidata item into (display name, aliases), or None to skip."""
+    names = []
+    for n in [item["name"], *item["aliases"]]:
+        for part in re.split(r"\s+/\s+", n):
+            part = ORIGIN_LABELS.sub("", part).strip()
+            if part and not part.lower().startswith(("category:", "list of", "template:")):
+                names.append(part)
+    if not names:
+        return None
+    name, aliases = names[0], names[1:]
+    banned = BANNED.get(cid)
+    if banned and banned.search(name):
+        return None
+    if len(name.split()) > MAX_NEW_WORDS or len(name) > MAX_NEW_CHARS:
+        # Keep the item only if one of its other names is short enough.
+        short = next((a for a in aliases if len(a.split()) <= MAX_NEW_WORDS and len(a) <= MAX_NEW_CHARS), None)
+        if not short:
+            return None
+        aliases = [name, *[a for a in aliases if a != short]]
+        name = short
+    return name[0].upper() + name[1:], aliases
+
+
+def wikidata_tier(links: int) -> int:
+    """Tier for an answer only Wikidata knows about, by how many Wikipedia
+    language editions cover it. The famous ones are already hand-sorted."""
+    if links >= 30:
+        return 3
+    if links >= 10:
+        return 4
+    return 5
+
+
+def merge_wikidata(cid: str, title: str, rows: list[dict]) -> int:
+    """Fold data/wikidata/<cid>.json into the hand-sorted rows.
+
+    Items that match an existing answer (by any name) add their alternate
+    names as aliases. New items become new answers in the rare tiers.
+    Returns how many answers were added.
+    """
+    path = WIKIDATA_DIR / f"{cid}.json"
+    if not path.exists():
+        return 0
+    items = json.loads(path.read_text(encoding="utf-8"))
+
+    def key(n: str) -> str:
+        return strip_plural(normalize(n))
+
+    generic = {strip_plural(w) for w in normalize_words(title)} | {key(title)}
+    owner: dict[str, int] = {}
+    for i, row in enumerate(rows):
+        for n in [row["name"], *row["aliases"]]:
+            owner.setdefault(key(n), i)
+
+    def usable(k: str) -> bool:
+        return len(k) >= 3 and k not in owner and k not in generic
+
+    added = 0
+    for item in items:
+        tidy = tidy_wikidata(cid, item)
+        if not tidy:
+            continue
+        name, extra = tidy
+        names = [name, *extra]
+        keys = [key(n) for n in names]
+        hit = next((owner[k] for k in keys if k in owner), None)
+        if hit is not None:
+            for n, k in zip(names, keys):
+                if usable(k):
+                    rows[hit]["aliases"].append(n)
+                    owner[k] = hit
+            continue
+        if not usable(key(name)):
+            continue
+        idx = len(rows)
+        row = {"name": name, "aliases": [], "override": wikidata_tier(item["links"])}
+        rows.append(row)
+        owner[key(name)] = idx
+        for n, k in zip(names[1:], keys[1:]):
+            if usable(k):
+                row["aliases"].append(n)
+                owner[k] = idx
+        if cid in PEOPLE:
+            surname = name.split()[-1]
+            if usable(key(surname)) and len(key(surname)) >= 4:
+                row["aliases"].append(surname)
+                owner[key(surname)] = idx
+        added += 1
+    return added
+
+
 def familiarity(name: str, aliases: list[str]) -> float:
     # Aliases count too ("golden" for Golden Retriever), except very short
     # ones like "lab" or "car" that are mostly other words.
@@ -206,6 +312,9 @@ def build_category(raw: dict) -> dict:
                 print(f"  warning: {cid}: '{n}' matches both '{owner[k]}' and '{row['name']}'")
             owner.setdefault(k, row["name"])
 
+    added = merge_wikidata(cid, raw["meta"]["title"], rows)
+    if added:
+        print(f"  {cid}: +{added} answers from Wikidata")
     add_head_noun_aliases(rows)
 
     for row in rows:

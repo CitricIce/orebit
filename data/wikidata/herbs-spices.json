@@ -1,0 +1,2481 @@
+[
+{
+"name": "tomato",
+"aliases": [
+"garden tomato",
+"love apple",
+"Solanum lycopersicum",
+"tomato plant"
+],
+"links": 208
+},
+{
+"name": "table salt",
+"aliases": [
+"culinary salt",
+"dietary salt",
+"dietary sodium",
+"edible salt",
+"salt",
+"sodium chloride, dietary"
+],
+"links": 202
+},
+{
+"name": "Allium sativum",
+"aliases": [
+"garlic",
+"garlic plant",
+"hardneck garlic",
+"softneck garlic"
+],
+"links": 189
+},
+{
+"name": "common sunflower",
+"aliases": [
+"Helianthus annuus",
+"sunflower"
+],
+"links": 139
+},
+{
+"name": "chili pepper",
+"aliases": [
+"chile",
+"chile pepper",
+"chili",
+"chilli",
+"chilli pepper",
+"hot pepper",
+"spicy chili pepper",
+"spicy pepper"
+],
+"links": 125
+},
+{
+"name": "Foeniculum vulgare",
+"aliases": [
+"Fennel"
+],
+"links": 125
+},
+{
+"name": "basil",
+"aliases": [
+"Ocimum basilicum"
+],
+"links": 123
+},
+{
+"name": "cinnamon",
+"aliases": [
+"canel",
+"canella"
+],
+"links": 123
+},
+{
+"name": "parsley",
+"aliases": [
+"garden parsley",
+"Petroselinum crispum"
+],
+"links": 121
+},
+{
+"name": "Artocarpus heterophyllus",
+"aliases": [
+"Artocarpus macrocrapon",
+"jack tree",
+"jackfruit",
+"jackfruit tree",
+"nangka Tree"
+],
+"links": 118
+},
+{
+"name": "Theobroma cacao",
+"aliases": [
+"cacao species",
+"cacao tree",
+"chocolate tree",
+"cocoa plant"
+],
+"links": 117
+},
+{
+"name": "Anethum graveolens",
+"aliases": [
+"dill"
+],
+"links": 114
+},
+{
+"name": "Carum carvi",
+"aliases": [
+"caraway",
+"caraway plant",
+"meridian fennel",
+"Persian cumin",
+"wild caraway"
+],
+"links": 109
+},
+{
+"name": "liquorice",
+"aliases": [
+"Glycyrrhiza glabra"
+],
+"links": 107
+},
+{
+"name": "Origanum vulgare",
+"aliases": [
+"oregano",
+"wild marjoram"
+],
+"links": 105
+},
+{
+"name": "Cichorium intybus",
+"aliases": [
+"chicory",
+"Cichorium sylvestre",
+"common chicory"
+],
+"links": 96
+},
+{
+"name": "Camellia sinensis",
+"aliases": [
+"tea",
+"tea plant",
+"tea shrub"
+],
+"links": 95
+},
+{
+"name": "Cannabis sativa",
+"aliases": [
+"grass",
+"hashish",
+"hemp",
+"marijuana",
+"Mary Jane",
+"MJ",
+"pot"
+],
+"links": 93
+},
+{
+"name": "saffron",
+"aliases": [],
+"links": 93
+},
+{
+"name": "Azadirachta indica",
+"aliases": [
+"neem",
+"neem tree"
+],
+"links": 91
+},
+{
+"name": "Allium ursinum",
+"aliases": [
+"broad-leaved garlic",
+"buckrams",
+"ramsons",
+"ramsons garlic",
+"ransoms",
+"wild garlic"
+],
+"links": 88
+},
+{
+"name": "nutmeg",
+"aliases": [
+"nutmeg seed"
+],
+"links": 88
+},
+{
+"name": "Centaurea cyanus",
+"aliases": [
+"bachelor's button",
+"C. cyanus",
+"Cornflower",
+"cornflower"
+],
+"links": 81
+},
+{
+"name": "Melissa officinalis",
+"aliases": [
+"balm",
+"balm mint",
+"bee balm",
+"common balm",
+"lemon balm"
+],
+"links": 81
+},
+{
+"name": "Apium graveolens",
+"aliases": [
+"smallage",
+"wild celery"
+],
+"links": 80
+},
+{
+"name": "tarragon",
+"aliases": [
+"Artemisia dracunculus"
+],
+"links": 80
+},
+{
+"name": "medicinal plant",
+"aliases": [
+"drug plant",
+"medicinal herb",
+"medicinal herbs",
+"medicinal plants",
+"plants, medicinal"
+],
+"links": 79
+},
+{
+"name": "cardamom",
+"aliases": [
+"cardamom seeds",
+"cardamon",
+"cardamum",
+"ground cadamom"
+],
+"links": 74
+},
+{
+"name": "Morus alba",
+"aliases": [
+"Russian mulberry",
+"silkworm mulberry",
+"white mulberry"
+],
+"links": 72
+},
+{
+"name": "Cucurbita pepo",
+"aliases": [
+"field pumpkin"
+],
+"links": 69
+},
+{
+"name": "Berberis vulgaris",
+"aliases": [
+"barberry",
+"common barberry",
+"European barberry"
+],
+"links": 65
+},
+{
+"name": "Melia azedarach",
+"aliases": [
+"bead tree",
+"berry tree",
+"Cape lilac",
+"China berry",
+"China tree",
+"China-berry",
+"Chinaberry",
+"Chinaberry tree",
+"Indian lilac",
+"lelah",
+"paraiso",
+"Persian lilac",
+"pride of India",
+"seringa",
+"syringa berrytree",
+"Texas umbrella tree",
+"white cedar"
+],
+"links": 62
+},
+{
+"name": "Cupressus sempervirens",
+"aliases": [
+"Mediterranean Cypress"
+],
+"links": 61
+},
+{
+"name": "Mentha spicata",
+"aliases": [
+"common mint",
+"garden mint",
+"lamb mint J",
+"mackerel mint",
+"spearmint"
+],
+"links": 61
+},
+{
+"name": "vanilla",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Malus sylvestris",
+"aliases": [
+"crab apple",
+"European crab apple"
+],
+"links": 59
+},
+{
+"name": "paprika",
+"aliases": [],
+"links": 59
+},
+{
+"name": "yerba mate",
+"aliases": [
+"Ilex paraguariensis",
+"Ilex paraguayensis",
+"mate",
+"maté",
+"Paraguay tea",
+"yerba maté"
+],
+"links": 59
+},
+{
+"name": "garam masala",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Levisticum officinale",
+"aliases": [
+"lovage",
+"wild celery"
+],
+"links": 57
+},
+{
+"name": "Plantanus orientalis",
+"aliases": [
+"Chinar",
+"Oriental Plane",
+"Platanus orientalis"
+],
+"links": 57
+},
+{
+"name": "Ferula assa-foetida",
+"aliases": [
+"asafoetida",
+"Hing"
+],
+"links": 56
+},
+{
+"name": "Celtis australis",
+"aliases": [
+"European hackberry",
+"European nettle tree",
+"honeyberry",
+"lote tree",
+"Mediterranean hackberry",
+"southern nettle tree"
+],
+"links": 54
+},
+{
+"name": "Jasminum officinale",
+"aliases": [
+"common jasmine"
+],
+"links": 49
+},
+{
+"name": "Butea monosperma",
+"aliases": [
+"bastard teak",
+"Flame of the Forest",
+"flame-of-the-forest",
+"palash",
+"palasha"
+],
+"links": 48
+},
+{
+"name": "jalapeño",
+"aliases": [
+"jalapeno",
+"jalapeno pepper",
+"jalapeño pepper"
+],
+"links": 47
+},
+{
+"name": "Cardamine pratensis",
+"aliases": [
+"cuckooflower",
+"lady's smock",
+"mayflower",
+"milkmaids"
+],
+"links": 46
+},
+{
+"name": "Cicuta virosa",
+"aliases": [
+"cowbane",
+"northern water hemlock"
+],
+"links": 46
+},
+{
+"name": "Hibiscus cannabinus",
+"aliases": [
+"Deccan hemp",
+"ibišek konopovitý",
+"Java jute",
+"kenaf",
+"Kenaf"
+],
+"links": 46
+},
+{
+"name": "Aleurites moluccanus",
+"aliases": [
+"Aleurites moluccana",
+"buah keras",
+"candleberry",
+"Candlenut",
+"godou",
+"Indian walnut",
+"Kekuna tree",
+"kemiri",
+"kukui nut tree",
+"nuez de la India",
+"varnish tree"
+],
+"links": 45
+},
+{
+"name": "Alpinia galanga",
+"aliases": [],
+"links": 45
+},
+{
+"name": "sea salt",
+"aliases": [
+"bay salt",
+"salt",
+"solar salt"
+],
+"links": 45
+},
+{
+"name": "Corylus colurna",
+"aliases": [
+"Turkish filbert",
+"Turkish hazel"
+],
+"links": 44
+},
+{
+"name": "curry powder",
+"aliases": [],
+"links": 43
+},
+{
+"name": "celery",
+"aliases": [
+"Chinese celery",
+"leaf celery"
+],
+"links": 42
+},
+{
+"name": "bay leaf",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Diospyros lotus",
+"aliases": [
+"Date plum"
+],
+"links": 41
+},
+{
+"name": "Lagerstroemia indica",
+"aliases": [
+"cannonball",
+"carrion tree",
+"common crape myrtle",
+"crape myrtle",
+"crape-myrtle",
+"crapemyrtle",
+"crepe myrtle",
+"crepe-myrtle",
+"crepemyrtle",
+"Indian crape myrtle",
+"June rose",
+"lilac of the south"
+],
+"links": 40
+},
+{
+"name": "Sichuan pepper",
+"aliases": [
+"Chinese coriander",
+"Sichuan peppercorn"
+],
+"links": 40
+},
+{
+"name": "peppercorn",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Matteuccia struthiopteris",
+"aliases": [
+"ostrich fern"
+],
+"links": 38
+},
+{
+"name": "bhut jolokia",
+"aliases": [
+"bih jolokia",
+"ghost chili",
+"ghost pepper",
+"Naga jolokia",
+"red naga chili",
+"U-morok"
+],
+"links": 37
+},
+{
+"name": "Himalayan salt",
+"aliases": [
+"pink Himalayan salt"
+],
+"links": 36
+},
+{
+"name": "cayenne pepper",
+"aliases": [
+"aleva",
+"bird pepper",
+"Capsicum annuum 'Cayenne'",
+"Capsicum annuum var. acuminatum",
+"cow-horn pepper",
+"Guinea spice",
+"long Cayenne",
+"red hot chili pepper",
+"red pepper"
+],
+"links": 35
+},
+{
+"name": "Millettia pinnata",
+"aliases": [
+"Indian beech",
+"Indian Beech Tree",
+"Pongame oiltree",
+"Pongamia"
+],
+"links": 35
+},
+{
+"name": "asafoetida",
+"aliases": [
+"Devil's dung",
+"stinking gum"
+],
+"links": 34
+},
+{
+"name": "Carolina Reaper",
+"aliases": [
+"Capsicum chinense 'Carolina Reaper'"
+],
+"links": 34
+},
+{
+"name": "five-spice powder",
+"aliases": [
+"wu xiang fen",
+"wuxiang fen",
+"wuxiangfen"
+],
+"links": 34
+},
+{
+"name": "habanero",
+"aliases": [
+"habanero chili",
+"habanero pepper"
+],
+"links": 34
+},
+{
+"name": "Acacia pycnantha",
+"aliases": [
+"golden wattle"
+],
+"links": 33
+},
+{
+"name": "agarwood",
+"aliases": [
+"aloes wood",
+"aloeswood",
+"eaglewood",
+"gharuwood",
+"oud",
+"oudh"
+],
+"links": 33
+},
+{
+"name": "Melaleuca leucadendra",
+"aliases": [
+"Weeping Paperbark"
+],
+"links": 33
+},
+{
+"name": "ras el hanout",
+"aliases": [
+"rass el hanout"
+],
+"links": 33
+},
+{
+"name": "za'atar",
+"aliases": [
+"za'tar",
+"zaatar",
+"zatar"
+],
+"links": 33
+},
+{
+"name": "berbere",
+"aliases": [],
+"links": 32
+},
+{
+"name": "bouquet garni",
+"aliases": [
+"Cookbook:Bouquet Garni"
+],
+"links": 32
+},
+{
+"name": "Castanea mollissima",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Alkanna tinctoria",
+"aliases": [
+"alkanet",
+"dyer's alkanet",
+"dyer's bugloss",
+"dyers' bugloss",
+"Languedoc bugloss",
+"orchanet",
+"Spanish bugloss"
+],
+"links": 31
+},
+{
+"name": "piri piri",
+"aliases": [
+"African bird's eye",
+"peri-peri",
+"pili pili",
+"piripiri"
+],
+"links": 31
+},
+{
+"name": "Quercus infectoria",
+"aliases": [
+"Aleppo oak"
+],
+"links": 31
+},
+{
+"name": "Phoenix sylvestris",
+"aliases": [
+"Date-sugar palm",
+"East Indian wine palm",
+"India date palm",
+"Indian date",
+"sugar date palm",
+"Sugar date palm",
+"Wild date palm"
+],
+"links": 30
+},
+{
+"name": "Tabasco pepper",
+"aliases": [
+"Capsicum frutescens 'Tabasco'",
+"Capsicum frutescens cv. Tabasco"
+],
+"links": 30
+},
+{
+"name": "black garlic",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Herbes de Provence",
+"aliases": [],
+"links": 29
+},
+{
+"name": "juniper berry",
+"aliases": [
+"Juniperi pseudo-fructus"
+],
+"links": 29
+},
+{
+"name": "Boesenbergia rotunda",
+"aliases": [],
+"links": 28
+},
+{
+"name": "chamomile",
+"aliases": [
+"camomile"
+],
+"links": 28
+},
+{
+"name": "silphium",
+"aliases": [
+"laserwort",
+"silphion"
+],
+"links": 28
+},
+{
+"name": "gari",
+"aliases": [
+"pickled ginger",
+"sushi ginger"
+],
+"links": 27
+},
+{
+"name": "thyme",
+"aliases": [],
+"links": 26
+},
+{
+"name": "vanilla sugar",
+"aliases": [],
+"links": 26
+},
+{
+"name": "chili powder",
+"aliases": [
+"chile powder",
+"chili powder blend",
+"chilli powder",
+"powdered chili"
+],
+"links": 25
+},
+{
+"name": "bird's eye chili",
+"aliases": [
+"bird eye chili",
+"bird's chili",
+"Capsicum annuum 'Bird's Eye'",
+"Thai chili"
+],
+"links": 24
+},
+{
+"name": "Symplocarpus foetidus",
+"aliases": [
+"Symplocarpus foetidus ex"
+],
+"links": 24
+},
+{
+"name": "Aesculus indica",
+"aliases": [
+"Himalayas horse chestnut",
+"Indian horse chestnut"
+],
+"links": 23
+},
+{
+"name": "iodised salt",
+"aliases": [
+"iodated salt",
+"iodized salt"
+],
+"links": 23
+},
+{
+"name": "shichimi",
+"aliases": [
+"7 spice",
+"seven spice",
+"shichi-mi tōgarashi",
+"shichimi togarashi"
+],
+"links": 23
+},
+{
+"name": "Chaat masala",
+"aliases": [
+"Chat Masala"
+],
+"links": 22
+},
+{
+"name": "kala namak",
+"aliases": [
+"bire noon",
+"black Indian salt",
+"black salt",
+"Himalayan black salt",
+"kala loon",
+"sulemani namak"
+],
+"links": 22
+},
+{
+"name": "lignum vitae",
+"aliases": [
+"guaiacum",
+"guayacan"
+],
+"links": 22
+},
+{
+"name": "masala",
+"aliases": [],
+"links": 22
+},
+{
+"name": "mahleb",
+"aliases": [
+"mahalepi",
+"mahlab"
+],
+"links": 21
+},
+{
+"name": "mustard seed",
+"aliases": [
+"mustard plant grain",
+"Sinapis grain"
+],
+"links": 21
+},
+{
+"name": "baharat",
+"aliases": [
+"Bahārāt",
+"bahārāt"
+],
+"links": 20
+},
+{
+"name": "spice mix",
+"aliases": [
+"spice blend",
+"spice mixture"
+],
+"links": 20
+},
+{
+"name": "Thai basil",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Vegeta",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Khmeli suneli",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Piper retrofractum",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Styrax japonicus",
+"aliases": [
+"Japanese snowbell"
+],
+"links": 19
+},
+{
+"name": "Entada phaseoloides",
+"aliases": [
+"Matchbox bean"
+],
+"links": 18
+},
+{
+"name": "ginger",
+"aliases": [
+"ginger rhizome",
+"ginger root",
+"ginger spice"
+],
+"links": 18
+},
+{
+"name": "ginseng",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Sophora tomentosa",
+"aliases": [],
+"links": 18
+},
+{
+"name": "aromatic plant",
+"aliases": [
+"aromatic vegetable"
+],
+"links": 17
+},
+{
+"name": "celery salt",
+"aliases": [],
+"links": 17
+},
+{
+"name": "chili oil",
+"aliases": [],
+"links": 17
+},
+{
+"name": "clove",
+"aliases": [
+"Caryophylli Flos",
+"clove flower",
+"cloves"
+],
+"links": 17
+},
+{
+"name": "fines herbes",
+"aliases": [],
+"links": 17
+},
+{
+"name": "gomashio",
+"aliases": [
+"gomasio"
+],
+"links": 17
+},
+{
+"name": "mitmita",
+"aliases": [],
+"links": 17
+},
+{
+"name": "panch phoron",
+"aliases": [
+"Pancha Phutana"
+],
+"links": 17
+},
+{
+"name": "Acer laevigatum",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Aleppo pepper",
+"aliases": [
+"Halaby pepper"
+],
+"links": 16
+},
+{
+"name": "culinary herb",
+"aliases": [
+"herb",
+"herbs"
+],
+"links": 16
+},
+{
+"name": "gruit",
+"aliases": [
+"gruyt"
+],
+"links": 16
+},
+{
+"name": "Padrón peppers",
+"aliases": [
+"Padron peppers"
+],
+"links": 16
+},
+{
+"name": "pink peppercorn",
+"aliases": [
+"baie rose",
+"pink berries",
+"pink berry",
+"pink pepper"
+],
+"links": 16
+},
+{
+"name": "Advieh",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bridelia stipularis",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Camassia quamash",
+"aliases": [
+"common camas",
+"common camash",
+"qamas",
+"quamash",
+"small camas"
+],
+"links": 15
+},
+{
+"name": "Espelette pepper",
+"aliases": [
+"Espelette chili pepper"
+],
+"links": 15
+},
+{
+"name": "medicinal mushrooms",
+"aliases": [
+"Medicinal fungi"
+],
+"links": 15
+},
+{
+"name": "Nemophila menziesii",
+"aliases": [
+"Baby blue eyes"
+],
+"links": 15
+},
+{
+"name": "tandoori masala",
+"aliases": [],
+"links": 15
+},
+{
+"name": "bumbu",
+"aliases": [],
+"links": 14
+},
+{
+"name": "hawaij",
+"aliases": [
+"hawayej",
+"hawayij"
+],
+"links": 14
+},
+{
+"name": "poblano",
+"aliases": [
+"Chile poblano"
+],
+"links": 14
+},
+{
+"name": "Red Savina",
+"aliases": [],
+"links": 14
+},
+{
+"name": "amchoor",
+"aliases": [
+"aamchur",
+"amchur",
+"mango powder"
+],
+"links": 13
+},
+{
+"name": "garlic salt",
+"aliases": [],
+"links": 13
+},
+{
+"name": "fleur de sel",
+"aliases": [],
+"links": 12
+},
+{
+"name": "garlic",
+"aliases": [
+"bulb of garlic",
+"head of garlic"
+],
+"links": 12
+},
+{
+"name": "kosher salt",
+"aliases": [
+"koshering salt"
+],
+"links": 12
+},
+{
+"name": "Malagueta pepper",
+"aliases": [
+"Capsicum frutescens var. malagueta"
+],
+"links": 12
+},
+{
+"name": "sesame seed candy",
+"aliases": [
+"Beniseed candy",
+"Kantun ridi"
+],
+"links": 12
+},
+{
+"name": "tabil",
+"aliases": [
+"tabel"
+],
+"links": 12
+},
+{
+"name": "allspice",
+"aliases": [
+"Jamaica pepper"
+],
+"links": 11
+},
+{
+"name": "facing heaven pepper",
+"aliases": [],
+"links": 11
+},
+{
+"name": "recado rojo",
+"aliases": [
+"achiote paste"
+],
+"links": 11
+},
+{
+"name": "solo garlic",
+"aliases": [
+"monobulb garlic",
+"pearl garlic",
+"single bulb garlic",
+"single clove garlic"
+],
+"links": 11
+},
+{
+"name": "cayenne pepper",
+"aliases": [
+"cayenne pepper powder",
+"caynne powder"
+],
+"links": 10
+},
+{
+"name": "crushed red pepper",
+"aliases": [
+"CRP",
+"red pepper flakes"
+],
+"links": 10
+},
+{
+"name": "Erős Pista",
+"aliases": [
+"Eros Pista",
+"Erös Pista",
+"Strong Steve"
+],
+"links": 10
+},
+{
+"name": "Fibraurea tinctoria",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kampot pepper",
+"aliases": [
+"Indochina pepper",
+"Indochinese pepper"
+],
+"links": 10
+},
+{
+"name": "lemon pepper",
+"aliases": [
+"lemon pepper seasoning"
+],
+"links": 10
+},
+{
+"name": "pudding spice",
+"aliases": [
+"mixed spice"
+],
+"links": 10
+},
+{
+"name": "seasoned salt",
+"aliases": [
+"flavored salt",
+"flavoured salt"
+],
+"links": 10
+},
+{
+"name": "sumac",
+"aliases": [
+"Sicilian sumac",
+"sumach",
+"sumaq"
+],
+"links": 10
+},
+{
+"name": "Capsicum annuum var. glabriusculum",
+"aliases": [
+"Chiltepin"
+],
+"links": 9
+},
+{
+"name": "curing salt",
+"aliases": [
+"Pink salt",
+"Prague powder"
+],
+"links": 9
+},
+{
+"name": "pasilla chile",
+"aliases": [
+"chilaca",
+"chile negro"
+],
+"links": 9
+},
+{
+"name": "peperoncino",
+"aliases": [
+"pepperoncino"
+],
+"links": 9
+},
+{
+"name": "Sharena sol",
+"aliases": [],
+"links": 9
+},
+{
+"name": "wasabi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Banana pepper",
+"aliases": [
+"banana chili",
+"yellow wax pepper"
+],
+"links": 8
+},
+{
+"name": "cinnamon sugar",
+"aliases": [],
+"links": 8
+},
+{
+"name": "garlic powder",
+"aliases": [],
+"links": 8
+},
+{
+"name": "jerk spice",
+"aliases": [
+"Jamaican jerk seasoning",
+"Jamaican jerk spice",
+"jerk seasoning"
+],
+"links": 8
+},
+{
+"name": "jugyeom",
+"aliases": [
+"bamboo salt"
+],
+"links": 8
+},
+{
+"name": "onion powder",
+"aliases": [],
+"links": 8
+},
+{
+"name": "pumpkin pie spice",
+"aliases": [
+"pumpkin spice"
+],
+"links": 8
+},
+{
+"name": "Quatre épices",
+"aliases": [
+"Quatre epices"
+],
+"links": 8
+},
+{
+"name": "Alleppey Green Cardamom",
+"aliases": [],
+"links": 7
+},
+{
+"name": "alligator pepper",
+"aliases": [
+"hepper pepper",
+"mbongo spice"
+],
+"links": 7
+},
+{
+"name": "asín tibuok",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Baklouti pepper",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cascabel chili",
+"aliases": [
+"Capsicum annuum var. cerasiforme"
+],
+"links": 7
+},
+{
+"name": "coriander seed",
+"aliases": [
+"coriander"
+],
+"links": 7
+},
+{
+"name": "Fresno pepper",
+"aliases": [
+"Capsicum annuum 'Fresno'",
+"Fresno chile pepper"
+],
+"links": 7
+},
+{
+"name": "Maojian tea",
+"aliases": [
+"Green Tip",
+"Tippy Green",
+"Yu Maofeng"
+],
+"links": 7
+},
+{
+"name": "New Mexico chile",
+"aliases": [
+"Capsicum annuum 'New Mexico group'",
+"Green chile",
+"Hatch chile",
+"New Mexico chile pepper",
+"New Mexico chili",
+"Red chile"
+],
+"links": 7
+},
+{
+"name": "Old Bay Seasoning",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pequin pepper",
+"aliases": [
+"piquín pepper"
+],
+"links": 7
+},
+{
+"name": "siling haba",
+"aliases": [
+"finger chili",
+"long chili",
+"siling mahaba",
+"sword chili"
+],
+"links": 7
+},
+{
+"name": "white pepper",
+"aliases": [
+"white peppercorn"
+],
+"links": 7
+},
+{
+"name": "Wintergreen",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Aromat",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Calabrian chili pepper",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dead Sea salt",
+"aliases": [],
+"links": 6
+},
+{
+"name": "filé",
+"aliases": [
+"File",
+"File powder",
+"Filé powder"
+],
+"links": 6
+},
+{
+"name": "Idli podi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Korean brining salt",
+"aliases": [
+"Korean sea salt"
+],
+"links": 6
+},
+{
+"name": "Montreal steak seasoning",
+"aliases": [],
+"links": 6
+},
+{
+"name": "sesame seed",
+"aliases": [],
+"links": 6
+},
+{
+"name": "smoked salt",
+"aliases": [],
+"links": 6
+},
+{
+"name": "soup vegetables",
+"aliases": [
+"soup greens"
+],
+"links": 6
+},
+{
+"name": "Spice rub",
+"aliases": [],
+"links": 6
+},
+{
+"name": "star anise",
+"aliases": [
+"badiam",
+"staranise"
+],
+"links": 6
+},
+{
+"name": "Urfa biber",
+"aliases": [
+"isot",
+"isot pepper",
+"Urfa pepper"
+],
+"links": 6
+},
+{
+"name": "vadouvan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ají dulce",
+"aliases": [
+"Aji dulce"
+],
+"links": 5
+},
+{
+"name": "Anaheim pepper",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Basilico Genovese PDO",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bishop's Crown",
+"aliases": [
+"Christmas bell"
+],
+"links": 5
+},
+{
+"name": "Cucurbita pepo var. styriaca",
+"aliases": [
+"Styrian oil pumpkin"
+],
+"links": 5
+},
+{
+"name": "Infinity chilli",
+"aliases": [],
+"links": 5
+},
+{
+"name": "parsley",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pimentón de la Vera",
+"aliases": [
+"Paprika from La Vera, Spain"
+],
+"links": 5
+},
+{
+"name": "Qâlat daqqa",
+"aliases": [
+"Qalat daqqa"
+],
+"links": 5
+},
+{
+"name": "Spatholobus littoralis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Aglio rosso di Sulmona",
+"aliases": [],
+"links": 4
+},
+{
+"name": "baker's ammonia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "black pepper",
+"aliases": [
+"black peppercorn"
+],
+"links": 4
+},
+{
+"name": "butter salt",
+"aliases": [],
+"links": 4
+},
+{
+"name": "caraway seeds",
+"aliases": [
+"caraway fruit",
+"caraway seed"
+],
+"links": 4
+},
+{
+"name": "Coorg Green Cardamom",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Er jing tiao",
+"aliases": [],
+"links": 4
+},
+{
+"name": "ginger garlic masala",
+"aliases": [
+"ginger garlic paste"
+],
+"links": 4
+},
+{
+"name": "Ibarra chili pepper",
+"aliases": [],
+"links": 4
+},
+{
+"name": "jimbu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kampot sea salt",
+"aliases": [],
+"links": 4
+},
+{
+"name": "kōrēgusu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "mugwort",
+"aliases": [],
+"links": 4
+},
+{
+"name": "oregano",
+"aliases": [],
+"links": 4
+},
+{
+"name": "tataki gobō",
+"aliases": [],
+"links": 4
+},
+{
+"name": "turmeric",
+"aliases": [
+"ground turmeric",
+"powdered turmeric",
+"turmeric powder"
+],
+"links": 4
+},
+{
+"name": "Zafferano dell'Aquila PDO",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aglaophotis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aglio Bianco Polesano PDO",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aglio di Voghiera PDO",
+"aliases": [],
+"links": 3
+},
+{
+"name": "alaea salt",
+"aliases": [
+"Hawaiian red salt"
+],
+"links": 3
+},
+{
+"name": "celery powder",
+"aliases": [],
+"links": 3
+},
+{
+"name": "chilhuacle negro",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chimayó pepper",
+"aliases": [
+"Capsicum annuum 'Chimayó'"
+],
+"links": 3
+},
+{
+"name": "Creole mustard",
+"aliases": [],
+"links": 3
+},
+{
+"name": "fish pepper",
+"aliases": [],
+"links": 3
+},
+{
+"name": "flake salt",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Huáng bǎi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kari Gosse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Korean chili pepper",
+"aliases": [
+"Korean dark green pepper",
+"Korean red pepper"
+],
+"links": 3
+},
+{
+"name": "Lawry's",
+"aliases": [
+"Lawry's The Prime Rib"
+],
+"links": 3
+},
+{
+"name": "lemon zest",
+"aliases": [
+"grated lemon peel",
+"lemon peel"
+],
+"links": 3
+},
+{
+"name": "lignum nephriticum",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lomagne white garlic",
+"aliases": [],
+"links": 3
+},
+{
+"name": "mint",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pickling salt",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pimentón de Mallorca",
+"aliases": [
+"Paprika Tap de Cortí"
+],
+"links": 3
+},
+{
+"name": "Pimentón de Murcia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "popcorn seasoning",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Prunus dulcis",
+"aliases": [
+"almond",
+"almond tree",
+"Prunus amygdalus"
+],
+"links": 3
+},
+{
+"name": "Sandia pepper",
+"aliases": [
+"Capsicum annuum 'Sandia'",
+"Sandia chile pepper"
+],
+"links": 3
+},
+{
+"name": "Snow Mountain Garlic",
+"aliases": [],
+"links": 3
+},
+{
+"name": "strewing herb",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Trinitario",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aglio di Caraglio PAT",
+"aliases": [
+"Aj 'd Caraj"
+],
+"links": 2
+},
+{
+"name": "Ailsa Craig tomato",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ajo Morado de Las Pedroñeras",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Alegrías riojanas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "anise seed",
+"aliases": [
+"aniseed",
+"aniseseed"
+],
+"links": 2
+},
+{
+"name": "Azafrán de la Mancha",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bafat",
+"aliases": [],
+"links": 2
+},
+{
+"name": "beau monde seasoning",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Big Jim pepper",
+"aliases": [
+"Capsicum annuum 'Big Jim'"
+],
+"links": 2
+},
+{
+"name": "Black Pearl pepper",
+"aliases": [
+"'Black Pearl' ornamental pepper",
+"Black Pearl ornamental pepper",
+"Capsicum annuum 'Black Pearl'"
+],
+"links": 2
+},
+{
+"name": "Cajun Seasoning",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cherry pepper",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chicory from Goriška",
+"aliases": [],
+"links": 2
+},
+{
+"name": "cumin seed",
+"aliases": [],
+"links": 2
+},
+{
+"name": "fennel fruit",
+"aliases": [
+"fennel",
+"fennel seed",
+"fennel seeds"
+],
+"links": 2
+},
+{
+"name": "ginger bread spice",
+"aliases": [
+"gingerbread spice-mix"
+],
+"links": 2
+},
+{
+"name": "ginger pickle",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gisovu Tea",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hakata Salt",
+"aliases": [
+"Hakata no Shio"
+],
+"links": 2
+},
+{
+"name": "Hot snack",
+"aliases": [],
+"links": 2
+},
+{
+"name": "húng lìu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "jakhya",
+"aliases": [
+"dog mustard",
+"wild mustard"
+],
+"links": 2
+},
+{
+"name": "Jin Qian Cao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Keen's",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Maggie",
+"aliases": [
+"Maggie tomato"
+],
+"links": 2
+},
+{
+"name": "Maldon sea salt",
+"aliases": [],
+"links": 2
+},
+{
+"name": "minced ginger",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Moshio salt",
+"aliases": [],
+"links": 2
+},
+{
+"name": "mulling spice",
+"aliases": [],
+"links": 2
+},
+{
+"name": "mustard powder",
+"aliases": [],
+"links": 2
+},
+{
+"name": "New Mexico No. 9",
+"aliases": [
+"Capsicum annuum 'New Mexico No. 9'",
+"No. 9",
+"Number 9 pepper",
+"NuMex No. 9"
+],
+"links": 2
+},
+{
+"name": "NuMex 'Twilight'",
+"aliases": [
+"Capsicum annuum 'NuMex Twilight'",
+"Capsicum annuum 'Twilight'",
+"Capsicum annuum cv. Twilight",
+"NuMex Twilight"
+],
+"links": 2
+},
+{
+"name": "Paprika Žitava",
+"aliases": [],
+"links": 2
+},
+{
+"name": "pestèda",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Piffi allkrydda",
+"aliases": [],
+"links": 2
+},
+{
+"name": "piment de Bresse",
+"aliases": [
+"Capsicum annuum"
+],
+"links": 2
+},
+{
+"name": "powder-douce",
+"aliases": [
+"poudre-douce"
+],
+"links": 2
+},
+{
+"name": "recado",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rocoto red",
+"aliases": [],
+"links": 2
+},
+{
+"name": "rommelkruid",
+"aliases": [],
+"links": 2
+},
+{
+"name": "sel gris",
+"aliases": [
+"Celtic salt",
+"Celtic sea salt",
+"grey salt",
+"sels gris"
+],
+"links": 2
+},
+{
+"name": "Taioro",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Takanotsume",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Thursday salt",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tomata del Perelló",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ubhejane",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Valencian Tomato",
+"aliases": [],
+"links": 2
+},
+{
+"name": "wild herb",
+"aliases": [],
+"links": 2
+},
+{
+"name": "World Herbal Forest",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Wybert",
+"aliases": [],
+"links": 2
+},
+{
+"name": "xawaash",
+"aliases": [],
+"links": 2
+},
+{
+"name": "ʻinamona",
+"aliases": [
+"inamona"
+],
+"links": 2
+},
+{
+"name": "Aji-Shio",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ají caballero",
+"aliases": [
+"Aji caballero"
+],
+"links": 1
+},
+{
+"name": "Anglesey sea salt",
+"aliases": [
+"halen môn"
+],
+"links": 1
+},
+{
+"name": "Apaxtleco chili pepper",
+"aliases": [
+"Chile apaxtleco"
+],
+"links": 1
+},
+{
+"name": "Buknu",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cascabella pepper",
+"aliases": [],
+"links": 1
+},
+{
+"name": "cassia bud",
+"aliases": [
+"cassia buds",
+"Chinese cassia bud"
+],
+"links": 1
+},
+{
+"name": "Chilmol",
+"aliases": [],
+"links": 1
+},
+{
+"name": "cilantro",
+"aliases": [
+"Chinese parsley",
+"coriander",
+"coriander leaf"
+],
+"links": 1
+},
+{
+"name": "cubeb",
+"aliases": [
+"Java pepper",
+"tailed pepper"
+],
+"links": 1
+},
+{
+"name": "cyclic salt",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Dedo de Moca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "ginger powder",
+"aliases": [
+"ground ginger"
+],
+"links": 1
+},
+{
+"name": "grains of paradise",
+"aliases": [
+"Aframomum melegueta seeds",
+"fom wisa",
+"Guinea grains",
+"melegueta pepper",
+"ossame"
+],
+"links": 1
+},
+{
+"name": "green chili",
+"aliases": [
+"green chile",
+"green chile pepper",
+"green chili pepper",
+"green chilli",
+"green chilli pepper"
+],
+"links": 1
+},
+{
+"name": "green pepper",
+"aliases": [
+"green peppercorn"
+],
+"links": 1
+},
+{
+"name": "herbal pepper",
+"aliases": [],
+"links": 1
+},
+{
+"name": "herbal salt",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Himo tougarashi",
+"aliases": [
+"Himo pepper"
+],
+"links": 1
+},
+{
+"name": "Ichimi tougarashi",
+"aliases": [
+"ichimi"
+],
+"links": 1
+},
+{
+"name": "Indonesian bay leaf",
+"aliases": [
+"Asian bay leaf",
+"Indian baywatch"
+],
+"links": 1
+},
+{
+"name": "Ishigakijima Chili Oil",
+"aliases": [
+"Ishigaki Chili Oil",
+"Ishigaki Island Chili Oil"
+],
+"links": 1
+},
+{
+"name": "Jamaican hot red",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Jeeravan Masala",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kashmiri masala",
+"aliases": [],
+"links": 1
+},
+{
+"name": "lemon powder",
+"aliases": [],
+"links": 1
+},
+{
+"name": "mignonettes",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mirchi",
+"aliases": [
+"Lalmirchi"
+],
+"links": 1
+},
+{
+"name": "mushroom seasoning",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Nanfia",
+"aliases": [],
+"links": 1
+},
+{
+"name": "NuMex ʽBig Jim’",
+"aliases": [
+"Big Jim",
+"Capsicum annuum 'Española Improved'",
+"Capsicum annuum cv. Big Jim",
+"NuMex Big Jim"
+],
+"links": 1
+},
+{
+"name": "Oriel Sea Salt",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Paprika of Kalocsa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Paprika of Szeged",
+"aliases": [],
+"links": 1
+},
+{
+"name": "pink garlic of Brignoles",
+"aliases": [],
+"links": 1
+},
+{
+"name": "refined salt",
+"aliases": [],
+"links": 1
+},
+{
+"name": "rosemary",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Safran de Mund AOC",
+"aliases": [],
+"links": 1
+},
+{
+"name": "salt of Guérande",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sancho",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Scalogno di Romagna PGI",
+"aliases": [],
+"links": 1
+},
+{
+"name": "shallot",
+"aliases": [
+"French red shallot"
+],
+"links": 1
+},
+{
+"name": "sivri biber",
+"aliases": [
+"acı biber",
+"kıl biber"
+],
+"links": 1
+},
+{
+"name": "Szegedi paprika",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Taco seasoning",
+"aliases": [],
+"links": 1
+},
+{
+"name": "TAM Mild Jalapeño",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tamaro",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Topan salt",
+"aliases": [],
+"links": 1
+},
+{
+"name": "truffle salt",
+"aliases": [],
+"links": 1
+}
+]

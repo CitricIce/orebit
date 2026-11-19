@@ -1,0 +1,3519 @@
+[
+{
+"name": "Sachertorte",
+"aliases": [
+"Cookbook:Sachertorte"
+],
+"links": 65
+},
+{
+"name": "cheesecake",
+"aliases": [
+"cheese cake"
+],
+"links": 58
+},
+{
+"name": "mochi",
+"aliases": [
+"glutinous rice cake"
+],
+"links": 56
+},
+{
+"name": "cupcake",
+"aliases": [
+"alian cupcake",
+"cup cake",
+"patty cake"
+],
+"links": 51
+},
+{
+"name": "chocolate cake",
+"aliases": [
+"cake flavored with chocolate"
+],
+"links": 47
+},
+{
+"name": "torte",
+"aliases": [
+"cake",
+"multilayer cake",
+"multilayer tart",
+"multilayered cake",
+"multilayered tart",
+"tart"
+],
+"links": 47
+},
+{
+"name": "madeleine",
+"aliases": [],
+"links": 45
+},
+{
+"name": "sponge cake",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Black Forest cake",
+"aliases": [
+"Black forest gateau",
+"Black Forest gâteau",
+"Schwarzwälder Kirschtorte",
+"Schwarzwälderkirschtorte"
+],
+"links": 42
+},
+{
+"name": "mille-feuille",
+"aliases": [
+"cream slice",
+"custard slice",
+"milfey",
+"vanilla slice"
+],
+"links": 42
+},
+{
+"name": "carrot cake",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Dobos torte",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Gugelhupf",
+"aliases": [],
+"links": 38
+},
+{
+"name": "wedding cake",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Yule log",
+"aliases": [
+"Bûche de Noël"
+],
+"links": 37
+},
+{
+"name": "Swiss roll",
+"aliases": [
+"cream roll",
+"jelly roll",
+"roll cake",
+"roulade",
+"sweet roulade"
+],
+"links": 36
+},
+{
+"name": "tarte Tatin",
+"aliases": [],
+"links": 35
+},
+{
+"name": "basbousa",
+"aliases": [
+"Basbusa"
+],
+"links": 34
+},
+{
+"name": "Baumkuchen",
+"aliases": [],
+"links": 34
+},
+{
+"name": "daifuku",
+"aliases": [
+"daifuku mochi",
+"daifukumochi"
+],
+"links": 34
+},
+{
+"name": "ketupat",
+"aliases": [
+"kupat"
+],
+"links": 34
+},
+{
+"name": "birthday cake",
+"aliases": [
+"Devrajsah"
+],
+"links": 33
+},
+{
+"name": "Kyiv cake",
+"aliases": [
+"Kiev cake"
+],
+"links": 33
+},
+{
+"name": "nian gao",
+"aliases": [
+"bánh tổ",
+"Chinese New Year's cake",
+"New Year cake",
+"rice cake",
+"tinn-kué",
+"tiⁿ-koé",
+"year cake"
+],
+"links": 33
+},
+{
+"name": "red velvet cake",
+"aliases": [],
+"links": 32
+},
+{
+"name": "kulich",
+"aliases": [
+"kulichi"
+],
+"links": 31
+},
+{
+"name": "rum baba",
+"aliases": [],
+"links": 30
+},
+{
+"name": "tteok",
+"aliases": [
+"rice cake",
+"ttŏk"
+],
+"links": 30
+},
+{
+"name": "Fanta Cake",
+"aliases": [
+"Fantakuchen"
+],
+"links": 29
+},
+{
+"name": "castella",
+"aliases": [
+"kasutera"
+],
+"links": 28
+},
+{
+"name": "fruitcake",
+"aliases": [
+"fruit cake"
+],
+"links": 28
+},
+{
+"name": "šakotis",
+"aliases": [
+"raguolis"
+],
+"links": 28
+},
+{
+"name": "Battenberg cake",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Cassata siciliana PAT",
+"aliases": [
+"Sweet"
+],
+"links": 27
+},
+{
+"name": "Christmas cake",
+"aliases": [],
+"links": 27
+},
+{
+"name": "angel food cake",
+"aliases": [
+"angel cake"
+],
+"links": 26
+},
+{
+"name": "babka",
+"aliases": [
+"baba",
+"babka cake",
+"boba",
+"bobka",
+"Easter babka"
+],
+"links": 26
+},
+{
+"name": "ice cream cake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Linzertorte",
+"aliases": [
+"Linz cake",
+"Linz tart",
+"Linzer torte"
+],
+"links": 26
+},
+{
+"name": "opera cake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "pound cake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "tres leches cake",
+"aliases": [
+"three milks cake"
+],
+"links": 26
+},
+{
+"name": "marble cake",
+"aliases": [],
+"links": 25
+},
+{
+"name": "mochi ice cream",
+"aliases": [],
+"links": 25
+},
+{
+"name": "pineapple cake",
+"aliases": [
+"Fengli Su",
+"Ong Lai Soo",
+"pineapple pastry",
+"pineapple shortcake",
+"ông-lâi-soo"
+],
+"links": 25
+},
+{
+"name": "trdelník",
+"aliases": [
+"trdelaich",
+"trdelnik"
+],
+"links": 25
+},
+{
+"name": "lamington",
+"aliases": [],
+"links": 24
+},
+{
+"name": "panforte",
+"aliases": [],
+"links": 24
+},
+{
+"name": "kürtőskalács",
+"aliases": [
+"chimney cake",
+"kurtosh kalach",
+"stovepipe cake"
+],
+"links": 23
+},
+{
+"name": "pryanik",
+"aliases": [
+"pernik",
+"perník",
+"piernik",
+"prianyk"
+],
+"links": 23
+},
+{
+"name": "apple cake",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Esterházy torte",
+"aliases": [
+"Esterhazy torte"
+],
+"links": 22
+},
+{
+"name": "Génoise cake",
+"aliases": [
+"Genoise cake",
+"génoise"
+],
+"links": 22
+},
+{
+"name": "lebkuchen",
+"aliases": [
+"honigkuchen",
+"pfefferkuchen"
+],
+"links": 22
+},
+{
+"name": "ostkaka",
+"aliases": [
+"Swedish cheesecake"
+],
+"links": 22
+},
+{
+"name": "sakuramochi",
+"aliases": [
+"sakura mochi"
+],
+"links": 22
+},
+{
+"name": "banana cake",
+"aliases": [],
+"links": 21
+},
+{
+"name": "botamochi",
+"aliases": [
+"ohagi"
+],
+"links": 21
+},
+{
+"name": "bundt cake",
+"aliases": [
+"Babka",
+"Napfkuchen"
+],
+"links": 21
+},
+{
+"name": "chiffon cake",
+"aliases": [],
+"links": 21
+},
+{
+"name": "cremeschnitte",
+"aliases": [],
+"links": 21
+},
+{
+"name": "financier",
+"aliases": [],
+"links": 21
+},
+{
+"name": "frog cake",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Jaffa Cakes",
+"aliases": [
+"cakes",
+"Pim's"
+],
+"links": 21
+},
+{
+"name": "lontong",
+"aliases": [],
+"links": 21
+},
+{
+"name": "princess cake",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Smörgåstårta",
+"aliases": [],
+"links": 21
+},
+{
+"name": "St. Honoré cake",
+"aliases": [
+"gateau St Honore",
+"gâteau St Honoré",
+"gâteau St-Honoré",
+"St Honoratus cake",
+"St Honoré cake",
+"St. Honoratus cake",
+"St. Honore cake"
+],
+"links": 21
+},
+{
+"name": "Twinkie",
+"aliases": [],
+"links": 21
+},
+{
+"name": "dacquoise",
+"aliases": [],
+"links": 20
+},
+{
+"name": "layer cake",
+"aliases": [
+"sandwich cake"
+],
+"links": 20
+},
+{
+"name": "rice cake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "tompouce",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Torta caprese",
+"aliases": [],
+"links": 20
+},
+{
+"name": "warabimochi",
+"aliases": [
+"warabi mochi"
+],
+"links": 20
+},
+{
+"name": "Buccellato PAT",
+"aliases": [
+"Buccellato",
+"Piccillato"
+],
+"links": 19
+},
+{
+"name": "butter cake",
+"aliases": [],
+"links": 19
+},
+{
+"name": "cake pop",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Ensaïmada",
+"aliases": [],
+"links": 19
+},
+{
+"name": "kladdkaka",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Kransekake",
+"aliases": [
+"kransekage",
+"kransekaka",
+"overflødighedshorn"
+],
+"links": 19
+},
+{
+"name": "Miguelitos",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Prekmurska gibanica",
+"aliases": [],
+"links": 19
+},
+{
+"name": "shortcake",
+"aliases": [
+"strawberry shortcake"
+],
+"links": 19
+},
+{
+"name": "spekkoek",
+"aliases": [
+"lapis legit",
+"spekuk"
+],
+"links": 19
+},
+{
+"name": "Welsh cake",
+"aliases": [
+"bakestone",
+"griddle cake",
+"pic"
+],
+"links": 19
+},
+{
+"name": "Boston cream pie",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Devil's food cake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "funnel cake",
+"aliases": [
+"carnival cake",
+"funnel fries"
+],
+"links": 18
+},
+{
+"name": "Garash cake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Kusa mochi",
+"aliases": [
+"Yomogi mochi"
+],
+"links": 18
+},
+{
+"name": "streuselkuchen",
+"aliases": [
+"crumb cake"
+],
+"links": 18
+},
+{
+"name": "upside-down cake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Aachener Printen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "choco pie",
+"aliases": [],
+"links": 17
+},
+{
+"name": "dried fruit bread",
+"aliases": [],
+"links": 17
+},
+{
+"name": "gâteau Basque",
+"aliases": [
+"Gateau Basque"
+],
+"links": 17
+},
+{
+"name": "molten chocolate cake",
+"aliases": [
+"chocolate lava cake",
+"lava cake"
+],
+"links": 17
+},
+{
+"name": "Napoleon cake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "pandan cake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Prinzregententorte",
+"aliases": [],
+"links": 17
+},
+{
+"name": "puto",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Viennetta",
+"aliases": [],
+"links": 17
+},
+{
+"name": "avocado cake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Colomba di Pasqua",
+"aliases": [
+"Colomba pasquale",
+"Easter dove"
+],
+"links": 16
+},
+{
+"name": "Eierschecke",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Far Breton",
+"aliases": [],
+"links": 16
+},
+{
+"name": "German chocolate cake",
+"aliases": [
+"German's chocolate cake"
+],
+"links": 16
+},
+{
+"name": "Kubdari",
+"aliases": [],
+"links": 16
+},
+{
+"name": "rum ball",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Spettekaka",
+"aliases": [
+"spettkaka"
+],
+"links": 16
+},
+{
+"name": "Bika Ambon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Light cheese cake",
+"aliases": [
+"Cheesecake",
+"Japanese style cheesecake"
+],
+"links": 15
+},
+{
+"name": "Pastel de choclo",
+"aliases": [
+"corn pie"
+],
+"links": 15
+},
+{
+"name": "puffed rice cake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Punschkrapfen",
+"aliases": [],
+"links": 15
+},
+{
+"name": "uirō",
+"aliases": [
+"uirō-mochi"
+],
+"links": 15
+},
+{
+"name": "Basque-style cheesecake",
+"aliases": [
+"Basque cheesecake",
+"burnt Basque cheesecake",
+"San Sebastian"
+],
+"links": 14
+},
+{
+"name": "Bienenstich",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bolo de mel",
+"aliases": [],
+"links": 14
+},
+{
+"name": "clementine cake",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Eccles cake",
+"aliases": [
+"Fly Cake",
+"Fly Pie",
+"Raisin cake",
+"Squashed Fly Cake"
+],
+"links": 14
+},
+{
+"name": "Madeira cake",
+"aliases": [],
+"links": 14
+},
+{
+"name": "monkey bread",
+"aliases": [],
+"links": 14
+},
+{
+"name": "plum cake",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Simnel cake",
+"aliases": [],
+"links": 14
+},
+{
+"name": "strawberry cake",
+"aliases": [
+"strawberry tart"
+],
+"links": 14
+},
+{
+"name": "Tarta de Santiago",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Amandine",
+"aliases": [],
+"links": 13
+},
+{
+"name": "chocolate fondant",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Donauwelle",
+"aliases": [
+"Schneewittchenkuchen",
+"Schneewittchentorte"
+],
+"links": 13
+},
+{
+"name": "Frankfurter Kranz",
+"aliases": [],
+"links": 13
+},
+{
+"name": "fruitcake",
+"aliases": [
+"Keks"
+],
+"links": 13
+},
+{
+"name": "kagami mochi",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Savarin",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Toruń gingerbread",
+"aliases": [],
+"links": 13
+},
+{
+"name": "biko",
+"aliases": [
+"Bíko"
+],
+"links": 12
+},
+{
+"name": "black bun",
+"aliases": [
+"Scotch bun"
+],
+"links": 12
+},
+{
+"name": "coffee cake",
+"aliases": [
+"coffee cakes"
+],
+"links": 12
+},
+{
+"name": "Halloween cake",
+"aliases": [],
+"links": 12
+},
+{
+"name": "hanabiramochi",
+"aliases": [
+"hanabira mochi"
+],
+"links": 12
+},
+{
+"name": "Herman cake",
+"aliases": [
+"Hermann"
+],
+"links": 12
+},
+{
+"name": "kashiwa mochi",
+"aliases": [
+"kashiwamochi"
+],
+"links": 12
+},
+{
+"name": "Lobiani",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Medivnyk",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Moon Pie",
+"aliases": [
+"MoonPie"
+],
+"links": 12
+},
+{
+"name": "panpepato",
+"aliases": [
+"pampepato"
+],
+"links": 12
+},
+{
+"name": "Placenta cake",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Rigó Jancsi",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tula gingerbread",
+"aliases": [],
+"links": 12
+},
+{
+"name": "ube cake",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Vínarterta",
+"aliases": [
+"Randalín"
+],
+"links": 12
+},
+{
+"name": "white sugar sponge cake",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Zuger Kirschtorte",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Zwetschgenkuchen",
+"aliases": [
+"Pflaumenkuchen"
+],
+"links": 12
+},
+{
+"name": "blackout cake",
+"aliases": [
+"Brooklyn Blackout cake"
+],
+"links": 11
+},
+{
+"name": "gâteau nantais",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kek Lapis Sarawak",
+"aliases": [
+"Sarawak layer cake"
+],
+"links": 11
+},
+{
+"name": "Mona de Pascua",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Pantxineta",
+"aliases": [],
+"links": 11
+},
+{
+"name": "spit cake",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zelten",
+"aliases": [],
+"links": 11
+},
+{
+"name": "agemochi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "baekseolgi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Dundee cake",
+"aliases": [],
+"links": 10
+},
+{
+"name": "flourless chocolate cake",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Genoa cake",
+"aliases": [
+"Genoa"
+],
+"links": 10
+},
+{
+"name": "Goheimochi",
+"aliases": [
+"Gohei mochi"
+],
+"links": 10
+},
+{
+"name": "gooey butter cake",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Hishi mochi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "hummingbird cake",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Međimurska gibanica",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Portokalopita",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sobao",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Torta Tre Monti",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Yubeshi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "zundamochi",
+"aliases": [
+"zunda mochi"
+],
+"links": 10
+},
+{
+"name": "akumaki",
+"aliases": [
+"alkaline rice dumpling"
+],
+"links": 9
+},
+{
+"name": "beer cake",
+"aliases": [],
+"links": 9
+},
+{
+"name": "bukkumi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Butterkuchen",
+"aliases": [
+"Zuckerkuchen"
+],
+"links": 9
+},
+{
+"name": "chipa guasu",
+"aliases": [],
+"links": 9
+},
+{
+"name": "flódni",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gâteau de Savoie",
+"aliases": [],
+"links": 9
+},
+{
+"name": "injeolmi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Misérable cake",
+"aliases": [],
+"links": 9
+},
+{
+"name": "paper wrapped cake",
+"aliases": [],
+"links": 9
+},
+{
+"name": "pizza di Pasqua",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sfouf",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Siru-tteok",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Torma",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Torta setteveli",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Water chestnut cake",
+"aliases": [],
+"links": 9
+},
+{
+"name": "angel cake",
+"aliases": [],
+"links": 8
+},
+{
+"name": "bánh bò",
+"aliases": [
+"banh bo"
+],
+"links": 8
+},
+{
+"name": "Chapssal-tteok",
+"aliases": [
+"Chaltteok",
+"Glutinous rice cake"
+],
+"links": 8
+},
+{
+"name": "Ciambella PAT",
+"aliases": [
+"Boslan",
+"Ciambella",
+"Ciorchiedo",
+"ring-shaped cake",
+"Zambëla"
+],
+"links": 8
+},
+{
+"name": "jeolpyeon",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Joffre cake",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Khobz tounes",
+"aliases": [],
+"links": 8
+},
+{
+"name": "kuzumochi",
+"aliases": [
+"kuzu mochi"
+],
+"links": 8
+},
+{
+"name": "Malay sponge cake",
+"aliases": [
+"Ma Lai Gao",
+"Ma Lai Go",
+"Mah Lai Gao"
+],
+"links": 8
+},
+{
+"name": "Mendiant",
+"aliases": [],
+"links": 8
+},
+{
+"name": "merveilleux",
+"aliases": [],
+"links": 8
+},
+{
+"name": "parkin",
+"aliases": [
+"perkin"
+],
+"links": 8
+},
+{
+"name": "pavê",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Poffert",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Putri salju cake",
+"aliases": [],
+"links": 8
+},
+{
+"name": "sheet cake",
+"aliases": [],
+"links": 8
+},
+{
+"name": "space cake",
+"aliases": [],
+"links": 8
+},
+{
+"name": "tipsy cake",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Yukimi Daifuku",
+"aliases": [],
+"links": 8
+},
+{
+"name": "bupyeon",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Chocolate crackles",
+"aliases": [],
+"links": 7
+},
+{
+"name": "chocolate fudge cake",
+"aliases": [
+"fudge cake"
+],
+"links": 7
+},
+{
+"name": "coconut cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "doberge cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "foam cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Fraisier",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Garae-tteok",
+"aliases": [],
+"links": 7
+},
+{
+"name": "hot milk cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kagemand",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Leningradsky cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "liver cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mimosa",
+"aliases": [],
+"links": 7
+},
+{
+"name": "mujigae-tteok",
+"aliases": [
+"Saekpyeon",
+"Saektteok"
+],
+"links": 7
+},
+{
+"name": "onion cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pukis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pão de Ló",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Raisin cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "red bean cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "smetannik",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Spandauer",
+"aliases": [],
+"links": 7
+},
+{
+"name": "yakimochi",
+"aliases": [
+"yaki mochi"
+],
+"links": 7
+},
+{
+"name": "Amish Friendship Bread",
+"aliases": [
+"Amish cinnamon bread"
+],
+"links": 6
+},
+{
+"name": "banh khot",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Berlingozzo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cornuleţe",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Gerbeaud cake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Gâteau battu",
+"aliases": [],
+"links": 6
+},
+{
+"name": "gâteau du Vully",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Jeungpyeon",
+"aliases": [
+"Sultteok"
+],
+"links": 6
+},
+{
+"name": "Jewish apple cake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Karydopita",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kue mangkok",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kvæfjord cake",
+"aliases": [
+"kvæfjordkake",
+"verdens beste"
+],
+"links": 6
+},
+{
+"name": "marry girl cake",
+"aliases": [
+"dowry cake",
+"gaa neoi bing",
+"jia nu bing",
+"jianubing"
+],
+"links": 6
+},
+{
+"name": "Queen Elizabeth cake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "reindling",
+"aliases": [
+"reinling"
+],
+"links": 6
+},
+{
+"name": "Sans rival",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sbrisolona",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Speckkuchen",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Torta paesana",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Vasina torta",
+"aliases": [
+"Vasa's cake"
+],
+"links": 6
+},
+{
+"name": "walnut pastry",
+"aliases": [
+"Chinese walnut cookie"
+],
+"links": 6
+},
+{
+"name": "White cake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "yema cake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "ampaw",
+"aliases": [
+"pop rice",
+"puffed rice",
+"puffed rice cake"
+],
+"links": 5
+},
+{
+"name": "Bizcocho Dominicano",
+"aliases": [
+"Dominican cake"
+],
+"links": 5
+},
+{
+"name": "Bulla cake",
+"aliases": [
+"Bulla"
+],
+"links": 5
+},
+{
+"name": "butter mochi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chocotorta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dhikri",
+"aliases": [],
+"links": 5
+},
+{
+"name": "dirt cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fat rascal",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Friesentorte",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gansito",
+"aliases": [],
+"links": 5
+},
+{
+"name": "heavy cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "kankoromochi",
+"aliases": [
+"kankoro-mochi"
+],
+"links": 5
+},
+{
+"name": "Krantz cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lady Baltimore cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Laklak",
+"aliases": [],
+"links": 5
+},
+{
+"name": "layered cream cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Malakoff",
+"aliases": [],
+"links": 5
+},
+{
+"name": "mamón",
+"aliases": [],
+"links": 5
+},
+{
+"name": "napoleonbakelse",
+"aliases": [
+"Napoleonskake"
+],
+"links": 5
+},
+{
+"name": "New York-style cheesecake",
+"aliases": [
+"cheesecake",
+"New York cheesecake"
+],
+"links": 5
+},
+{
+"name": "Num ansom",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Osmanthus cake",
+"aliases": [
+"Osmanthus jelly"
+],
+"links": 5
+},
+{
+"name": "Pischinger",
+"aliases": [],
+"links": 5
+},
+{
+"name": "qizha",
+"aliases": [],
+"links": 5
+},
+{
+"name": "rock cake",
+"aliases": [
+"rock bun"
+],
+"links": 5
+},
+{
+"name": "snack cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "sole-cake",
+"aliases": [
+"kheviin boov",
+"Ul boov"
+],
+"links": 5
+},
+{
+"name": "spice cake",
+"aliases": [
+"spice bread",
+"spiced cake"
+],
+"links": 5
+},
+{
+"name": "tahinopita",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tirolerkuchen",
+"aliases": [],
+"links": 5
+},
+{
+"name": "torta 900",
+"aliases": [
+"cake 900",
+"torta Novecento"
+],
+"links": 5
+},
+{
+"name": "torta Barozzi",
+"aliases": [
+"torta nera"
+],
+"links": 5
+},
+{
+"name": "Umegaemochi",
+"aliases": [
+"Umegae Mochi"
+],
+"links": 5
+},
+{
+"name": "Akafuku Mochi",
+"aliases": [
+"Akafuku",
+"Akafukumochi"
+],
+"links": 4
+},
+{
+"name": "Apam Johol",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Belokranjska povitica",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Berner Haselnusslebkuchen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Biscuit cake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bolo de bolacha",
+"aliases": [
+"biscuit cake"
+],
+"links": 4
+},
+{
+"name": "Bolu kojo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Boulou",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Buccellato di Lucca",
+"aliases": [
+"Buccellato"
+],
+"links": 4
+},
+{
+"name": "buckwheat gateau",
+"aliases": [
+"buckwheat torte"
+],
+"links": 4
+},
+{
+"name": "Chantilly cake",
+"aliases": [
+"Chantilly cream cake"
+],
+"links": 4
+},
+{
+"name": "Colin the Caterpillar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Delimanjoo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "depression cake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ding Dong",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fyrstekake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hostess CupCake",
+"aliases": [
+"Hostess"
+],
+"links": 4
+},
+{
+"name": "Ikomochi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ketupat kandangan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Korzinochki",
+"aliases": [],
+"links": 4
+},
+{
+"name": "lampet",
+"aliases": [
+"lappet"
+],
+"links": 4
+},
+{
+"name": "Liegnitzer Bomben",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mané pelado",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Marlenka",
+"aliases": [],
+"links": 4
+},
+{
+"name": "mille crêpe",
+"aliases": [
+"mille crêpe cake",
+"mille crêpes"
+],
+"links": 4
+},
+{
+"name": "Moffle",
+"aliases": [],
+"links": 4
+},
+{
+"name": "muchi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "pandispanya",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Plazma cake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "putugal",
+"aliases": [],
+"links": 4
+},
+{
+"name": "reform torta",
+"aliases": [
+"reforma torta"
+],
+"links": 4
+},
+{
+"name": "Rogel",
+"aliases": [
+"Rogel cake"
+],
+"links": 4
+},
+{
+"name": "Russischer Zupfkuchen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "stack cake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sweet Peanut sticky rice",
+"aliases": [],
+"links": 4
+},
+{
+"name": "tea loaf",
+"aliases": [],
+"links": 4
+},
+{
+"name": "torta tenerina",
+"aliases": [],
+"links": 4
+},
+{
+"name": "wacky cake",
+"aliases": [
+"crazy cake",
+"Joe cake",
+"WW II cake"
+],
+"links": 4
+},
+{
+"name": "walnut and coffee cake",
+"aliases": [
+"coffee and walnut cake"
+],
+"links": 4
+},
+{
+"name": "Wheel Pie",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yeotgangjeong",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Abekawamochi",
+"aliases": [
+"Abekawa mochi"
+],
+"links": 3
+},
+{
+"name": "bacon cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Berner Honiglebkuchen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bibikkan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bolo de fubá",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bolo Souza Leão",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Brunsviger",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Brânzoaică",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Castel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "century egg pastry",
+"aliases": [],
+"links": 3
+},
+{
+"name": "chimaki",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Concorde",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Confetti cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "cuca",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cut cake",
+"aliases": [
+"Qiegao"
+],
+"links": 3
+},
+{
+"name": "Galette des rois",
+"aliases": [],
+"links": 3
+},
+{
+"name": "gâteau breton",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gåsebryst",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hee pan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "hobak-tteok",
+"aliases": [
+"pumpkin rice cake"
+],
+"links": 3
+},
+{
+"name": "Hyōrokumochi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "kaminari-okoshi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ketupat sotong",
+"aliases": [
+"glutinous rice stuffed squid"
+],
+"links": 3
+},
+{
+"name": "Kue bolu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lam Cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "lemon cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "lotus-seed-paste mooncake",
+"aliases": [
+"lotus-cream mooncake"
+],
+"links": 3
+},
+{
+"name": "LPG cake",
+"aliases": [
+"LPG-Kuchen"
+],
+"links": 3
+},
+{
+"name": "Manggong Cake",
+"aliases": [
+"Foshan Blind Pie"
+],
+"links": 3
+},
+{
+"name": "Moelleux au chocolat",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mokary",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Moskva slices",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nerikuri",
+"aliases": [
+"Karaimo-mochi",
+"Nettabo",
+"Nettakuri"
+],
+"links": 3
+},
+{
+"name": "Omegi-tteok",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pan di Spagna",
+"aliases": [
+"pandispagna"
+],
+"links": 3
+},
+{
+"name": "pancake layer cake",
+"aliases": [
+"pancake cake"
+],
+"links": 3
+},
+{
+"name": "peach castella",
+"aliases": [
+"momo castella",
+"momo kasutera"
+],
+"links": 3
+},
+{
+"name": "Phoskitos",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pineapple upside-down cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Président",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pudingový koláč",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sacripantina",
+"aliases": [
+"torta sacripantina"
+],
+"links": 3
+},
+{
+"name": "sand cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Schmandkuchen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sernik",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sesame seed cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Solothurner Torte",
+"aliases": [],
+"links": 3
+},
+{
+"name": "soufflé-style cheesecake",
+"aliases": [
+"japanese cheesecake"
+],
+"links": 3
+},
+{
+"name": "Sugee cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Taki no Yakimochi",
+"aliases": [
+"Taki no Yaki Mochi"
+],
+"links": 3
+},
+{
+"name": "Tetyorki cookies",
+"aliases": [],
+"links": 3
+},
+{
+"name": "torta paradiso",
+"aliases": [
+"Italian paradise cake",
+"la torta paradiso",
+"torta del paradiso"
+],
+"links": 3
+},
+{
+"name": "Tottenham cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "trileçe",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tupig",
+"aliases": [
+"Intemtem",
+"Kangkanen",
+"Tinupig"
+],
+"links": 3
+},
+{
+"name": "turrón de doña pepa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "valašský frgál",
+"aliases": [
+"valašské frgály"
+],
+"links": 3
+},
+{
+"name": "velikonoční beránek",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Victoria sponge",
+"aliases": [
+"Victoria sandwich cake",
+"Victoria sponge cake"
+],
+"links": 3
+},
+{
+"name": "walnut cake",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Walnut cake with egg yolk glaze",
+"aliases": [],
+"links": 3
+},
+{
+"name": "whole-wheat chocolate cake with nuts",
+"aliases": [
+"1-2 chocolate cake"
+],
+"links": 3
+},
+{
+"name": "Šumienkový zákusok",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Agnes Bernauer torte",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Angel pie",
+"aliases": [
+"enzeru pai"
+],
+"links": 2
+},
+{
+"name": "ankoro mochi",
+"aliases": [
+"ankoromochi"
+],
+"links": 2
+},
+{
+"name": "Anna's torte",
+"aliases": [
+"Anna torte",
+"Annatorte"
+],
+"links": 2
+},
+{
+"name": "Areias",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Argentine cake",
+"aliases": [
+"Argentine cake of Dolores",
+"Dolores cake"
+],
+"links": 2
+},
+{
+"name": "awa mochi",
+"aliases": [
+"awamochi"
+],
+"links": 2
+},
+{
+"name": "awa-okoshi",
+"aliases": [
+"awaokoshi"
+],
+"links": 2
+},
+{
+"name": "baby castella",
+"aliases": [
+"bebī kasutera"
+],
+"links": 2
+},
+{
+"name": "banana castella",
+"aliases": [
+"banana kasutera"
+],
+"links": 2
+},
+{
+"name": "beko mochi",
+"aliases": [
+"bekomochi"
+],
+"links": 2
+},
+{
+"name": "Beomuri",
+"aliases": [
+"Beomuri-tteok"
+],
+"links": 2
+},
+{
+"name": "Bica",
+"aliases": [],
+"links": 2
+},
+{
+"name": "bingtteok",
+"aliases": [],
+"links": 2
+},
+{
+"name": "boussou la tmessou",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Brazil nut cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "bublanina",
+"aliases": [
+"Czech bubble cake"
+],
+"links": 2
+},
+{
+"name": "Butter mochi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "bánh bó",
+"aliases": [
+"banh bo"
+],
+"links": 2
+},
+{
+"name": "cacen ddu",
+"aliases": [
+"torta negra galesa"
+],
+"links": 2
+},
+{
+"name": "Cake Creusois",
+"aliases": [
+"Gâteau Creusois"
+],
+"links": 2
+},
+{
+"name": "Charente galette",
+"aliases": [
+"Charente cookie"
+],
+"links": 2
+},
+{
+"name": "Checkerboard Cake",
+"aliases": [
+"Chessboard Cake"
+],
+"links": 2
+},
+{
+"name": "Chōgorō-mochi",
+"aliases": [
+"Chōgorōmochi"
+],
+"links": 2
+},
+{
+"name": "concave cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Corn pudding",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ellen Svinhufvud cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Engadiner Torte",
+"aliases": [],
+"links": 2
+},
+{
+"name": "erotic cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Flaona",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Framboisier",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fudge Rounds",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fudgie the Whale",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Funing big cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Futermelok",
+"aliases": [],
+"links": 2
+},
+{
+"name": "gobōmochi",
+"aliases": [
+"gobō-mochi"
+],
+"links": 2
+},
+{
+"name": "Gâteau au yaourt",
+"aliases": [],
+"links": 2
+},
+{
+"name": "gâteau de ménage",
+"aliases": [
+"household cake"
+],
+"links": 2
+},
+{
+"name": "Gâteau de Saint-Genix",
+"aliases": [],
+"links": 2
+},
+{
+"name": "habutae mochi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "hajnowski marcinek",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Halwat el lambout",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Happy Cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Henba Mochi",
+"aliases": [
+"Henbamochi"
+],
+"links": 2
+},
+{
+"name": "Ho Hos",
+"aliases": [],
+"links": 2
+},
+{
+"name": "ichigo daifuku",
+"aliases": [
+"strawberry daifuku",
+"strawberry mochi"
+],
+"links": 2
+},
+{
+"name": "Igamochi",
+"aliases": [
+"Iga-mochi"
+],
+"links": 2
+},
+{
+"name": "itokirimochi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "iwa-okoshi",
+"aliases": [
+"iwaokoshi"
+],
+"links": 2
+},
+{
+"name": "Ji dan gao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kamakura Custar",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kashamochi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ketupat palas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kikyō Shingen Mochi",
+"aliases": [
+"Kikyou Shingen Mochi"
+],
+"links": 2
+},
+{
+"name": "kkultteok",
+"aliases": [
+"Honey rice cake",
+"Honey tteok",
+"Kkul tteok"
+],
+"links": 2
+},
+{
+"name": "Kujira Mochi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kōri-mochi",
+"aliases": [
+"kōrimochi"
+],
+"links": 2
+},
+{
+"name": "lotus seed paste cake",
+"aliases": [
+"lotus-cream cake"
+],
+"links": 2
+},
+{
+"name": "Louise cake",
+"aliases": [
+"lady's caprice",
+"Louise slice",
+"Louise square"
+],
+"links": 2
+},
+{
+"name": "Mae West",
+"aliases": [],
+"links": 2
+},
+{
+"name": "manqué",
+"aliases": [],
+"links": 2
+},
+{
+"name": "marsipankake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nagamochi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Napoleonshat",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Num akor",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ofuku Mochi",
+"aliases": [
+"Ofukumochi"
+],
+"links": 2
+},
+{
+"name": "okoshi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "orange cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "panianky",
+"aliases": [
+"baryshni",
+"konyky"
+],
+"links": 2
+},
+{
+"name": "Patay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Prasselkuchen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "punten",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Puto Calasiao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "rainbow cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Robert E. Lee cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Saint-Epvre",
+"aliases": [],
+"links": 2
+},
+{
+"name": "San Blas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "sawamochi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "School cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shingen Mochi",
+"aliases": [
+"Shingenmochi"
+],
+"links": 2
+},
+{
+"name": "shio-anbin",
+"aliases": [],
+"links": 2
+},
+{
+"name": "shōyu mochi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Skendriette",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Skikrate",
+"aliases": [],
+"links": 2
+},
+{
+"name": "slagroomtaart",
+"aliases": [],
+"links": 2
+},
+{
+"name": "soft gingerbread",
+"aliases": [],
+"links": 2
+},
+{
+"name": "spinach cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sweet Potato Cupcake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tart",
+"aliases": [
+"taruto"
+],
+"links": 2
+},
+{
+"name": "tochi mochi",
+"aliases": [
+"tochimochi"
+],
+"links": 2
+},
+{
+"name": "torta Elvezia",
+"aliases": [
+"torta Elvetia",
+"torta Helvetia"
+],
+"links": 2
+},
+{
+"name": "tortionata",
+"aliases": [
+"tortionata di Lodi",
+"tortjonata"
+],
+"links": 2
+},
+{
+"name": "toto",
+"aliases": [
+"toe-toe bulla",
+"tuoto"
+],
+"links": 2
+},
+{
+"name": "Tsuitachi Mochi",
+"aliases": [
+"Tsuitachimochi"
+],
+"links": 2
+},
+{
+"name": "tteokmyeon",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Uba-ga-mochi",
+"aliases": [
+"Ubagamochi"
+],
+"links": 2
+},
+{
+"name": "vanilla cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "wine cake",
+"aliases": [
+"Colombian black cake",
+"Colombian wine cake"
+],
+"links": 2
+},
+{
+"name": "yasunagamochi",
+"aliases": [
+"yasunaga mochi"
+],
+"links": 2
+},
+{
+"name": "yeasted vanilla sponge cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zuppa Romana",
+"aliases": [],
+"links": 2
+},
+{
+"name": "aburi-mochi",
+"aliases": [
+"aburimochi"
+],
+"links": 1
+},
+{
+"name": "AKAI SAIRO",
+"aliases": [],
+"links": 1
+},
+{
+"name": "almond cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "anekaeshi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Awa uiro",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Baarer Räbentorte",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bananas Foster cheesecake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "bell castella",
+"aliases": [
+"suzu castella"
+],
+"links": 1
+},
+{
+"name": "Bolla de chicharrones",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bolo de batata-doce",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bolo preto",
+"aliases": [],
+"links": 1
+},
+{
+"name": "bolo-rainha",
+"aliases": [
+"Portuguese queen cake",
+"queen cake"
+],
+"links": 1
+},
+{
+"name": "bolu kemojo",
+"aliases": [],
+"links": 1
+},
+{
+"name": "bongko mento",
+"aliases": [],
+"links": 1
+},
+{
+"name": "botamochi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Brazilian carrot cake",
+"aliases": [
+"carrot cake with chocolate glaze"
+],
+"links": 1
+},
+{
+"name": "Bundesrat-Schaffner-Torte",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bündner Torte",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cake dress",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cake of Hungary",
+"aliases": [],
+"links": 1
+},
+{
+"name": "carrot gingerbread",
+"aliases": [],
+"links": 1
+},
+{
+"name": "cherry Bakewell",
+"aliases": [
+"Bakewell cake",
+"Bakewell tart",
+"cherry Bakewell tart"
+],
+"links": 1
+},
+{
+"name": "chocolate cheesecake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "ciambellone",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cocco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "coffee-flavored cake",
+"aliases": [
+"coffee cake"
+],
+"links": 1
+},
+{
+"name": "Delicje Szampańskie",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Djamilah",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Dolly Varden cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Doyō mochi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Five-nuts pastry",
+"aliases": [],
+"links": 1
+},
+{
+"name": "freeze-dried mochi",
+"aliases": [
+"Hoshi-mochi"
+],
+"links": 1
+},
+{
+"name": "fuchagi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "futokoro mochi",
+"aliases": [
+"futokoromochi"
+],
+"links": 1
+},
+{
+"name": "gagodoh",
+"aliases": [],
+"links": 1
+},
+{
+"name": "grynkaka",
+"aliases": [],
+"links": 1
+},
+{
+"name": "gâteau de Sirop",
+"aliases": [
+"syrup cake"
+],
+"links": 1
+},
+{
+"name": "Gülüt cake",
+"aliases": [
+"Gülüt keki"
+],
+"links": 1
+},
+{
+"name": "Harlequin",
+"aliases": [
+"Harlekýn"
+],
+"links": 1
+},
+{
+"name": "jambo mochi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "kakaran dango",
+"aliases": [],
+"links": 1
+},
+{
+"name": "kasutera kamaboko",
+"aliases": [
+"castella kamaboko"
+],
+"links": 1
+},
+{
+"name": "kelemben",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ketupat betumis",
+"aliases": [],
+"links": 1
+},
+{
+"name": "kirisansho",
+"aliases": [],
+"links": 1
+},
+{
+"name": "kirizashō",
+"aliases": [
+"kiri-zansho"
+],
+"links": 1
+},
+{
+"name": "kokusen",
+"aliases": [
+"Hida kokusen"
+],
+"links": 1
+},
+{
+"name": "komochi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "kwarktaart",
+"aliases": [],
+"links": 1
+},
+{
+"name": "lemon spongecake",
+"aliases": [
+"lemon half moon"
+],
+"links": 1
+},
+{
+"name": "lenja pita",
+"aliases": [
+"lazy pie"
+],
+"links": 1
+},
+{
+"name": "lentog",
+"aliases": [],
+"links": 1
+},
+{
+"name": "lontong pical",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lotus seed paste pastry",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Maksuba",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Marshall",
+"aliases": [
+"Marshall Cake"
+],
+"links": 1
+},
+{
+"name": "Miche",
+"aliases": [],
+"links": 1
+},
+{
+"name": "minyon",
+"aliases": [
+"mignon"
+],
+"links": 1
+},
+{
+"name": "miodownik",
+"aliases": [],
+"links": 1
+},
+{
+"name": "mousse cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mung bean paste pastry",
+"aliases": [
+"Green bean paste pastry"
+],
+"links": 1
+},
+{
+"name": "nantu",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Noti",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Num kom",
+"aliases": [],
+"links": 1
+},
+{
+"name": "nut cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Oatmeal Creme Pie",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Orion Choco-Pie",
+"aliases": [],
+"links": 1
+},
+{
+"name": "oroshi mochi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "pinsuyaki",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pork cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pão de Ló de Ovar",
+"aliases": [],
+"links": 1
+},
+{
+"name": "qudrat qadir",
+"aliases": [
+"kudrit kader"
+],
+"links": 1
+},
+{
+"name": "ricotta cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ritual Christmas prianyky of Sloboda Ukraine",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rouyot",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Samoborska kremšnita",
+"aliases": [],
+"links": 1
+},
+{
+"name": "seigaku mochi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Shingen mochi",
+"aliases": [
+"Shingenmochi"
+],
+"links": 1
+},
+{
+"name": "smoked salmon cheesecake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sorundatårta",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Spanish Madeleine",
+"aliases": [
+"Madeleine"
+],
+"links": 1
+},
+{
+"name": "Ssuktteok",
+"aliases": [],
+"links": 1
+},
+{
+"name": "tanuki cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "tapak kuda",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tateishimochi",
+"aliases": [
+"Tateishi Mochi"
+],
+"links": 1
+},
+{
+"name": "Tepek",
+"aliases": [],
+"links": 1
+},
+{
+"name": "tomato soup cake",
+"aliases": [
+"Believe It or Not Cake",
+"Halloween Cake",
+"Love Apple Cake",
+"Rosy Spice Cake",
+"You'll Be Surprised Cake"
+],
+"links": 1
+},
+{
+"name": "Tongshao cake",
+"aliases": [
+"copper spoon cake"
+],
+"links": 1
+},
+{
+"name": "torta di fioretto",
+"aliases": [
+"focaccia fioretto",
+"fügascia de fiorétt"
+],
+"links": 1
+},
+{
+"name": "uguisu mochi",
+"aliases": [
+"uguisumochi"
+],
+"links": 1
+},
+{
+"name": "verretta",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vienna cream puff",
+"aliases": [
+"Indianer cake"
+],
+"links": 1
+},
+{
+"name": "Vitamin Castella",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Walnut and almond cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "white chocolate cake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "white chocolate cheesecake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Wigg",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Wikipedia Day NYC 2024 Spherical Wikicake",
+"aliases": [],
+"links": 1
+},
+{
+"name": "yakyū castella",
+"aliases": [
+"yakyū kasutera"
+],
+"links": 1
+},
+{
+"name": "yomogi mochi",
+"aliases": [
+"yomogimochi"
+],
+"links": 1
+}
+]

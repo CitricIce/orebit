@@ -1,0 +1,1680 @@
+[
+{
+"name": "spaghetti",
+"aliases": [
+"spaghetti noodle"
+],
+"links": 94
+},
+{
+"name": "samosa",
+"aliases": [
+"sambosa",
+"sambosak",
+"sambusa",
+"samuza",
+"singada",
+"singhara",
+"smoosa",
+"somaas",
+"somasi",
+"somosa",
+"somucha"
+],
+"links": 91
+},
+{
+"name": "macaroni",
+"aliases": [],
+"links": 72
+},
+{
+"name": "pelmeni",
+"aliases": [],
+"links": 63
+},
+{
+"name": "ravioli",
+"aliases": [],
+"links": 57
+},
+{
+"name": "gnocchi",
+"aliases": [
+"Italian dumpling"
+],
+"links": 53
+},
+{
+"name": "pierogi",
+"aliases": [
+"vareniki",
+"varenyky"
+],
+"links": 49
+},
+{
+"name": "empanada",
+"aliases": [
+"empada",
+"pastel"
+],
+"links": 47
+},
+{
+"name": "manti",
+"aliases": [
+"manta",
+"mantu",
+"manty",
+"mantı"
+],
+"links": 46
+},
+{
+"name": "tortellini",
+"aliases": [],
+"links": 45
+},
+{
+"name": "spring roll",
+"aliases": [
+"spring rolls"
+],
+"links": 44
+},
+{
+"name": "dango",
+"aliases": [],
+"links": 41
+},
+{
+"name": "wonton",
+"aliases": [],
+"links": 41
+},
+{
+"name": "baozi",
+"aliases": [
+"bao",
+"pao"
+],
+"links": 40
+},
+{
+"name": "penne",
+"aliases": [
+"mostaccioli"
+],
+"links": 40
+},
+{
+"name": "tagliatelle",
+"aliases": [],
+"links": 40
+},
+{
+"name": "varenyky",
+"aliases": [
+"pyrohy"
+],
+"links": 40
+},
+{
+"name": "vermicelli",
+"aliases": [
+"fideo"
+],
+"links": 40
+},
+{
+"name": "fettuccine",
+"aliases": [],
+"links": 39
+},
+{
+"name": "jiaozi",
+"aliases": [
+"gaau ji",
+"giyose",
+"guotie",
+"jiǎo",
+"jiǎozi",
+"potstickers"
+],
+"links": 39
+},
+{
+"name": "fusilli",
+"aliases": [
+"rotini"
+],
+"links": 38
+},
+{
+"name": "spätzle",
+"aliases": [],
+"links": 38
+},
+{
+"name": "cannelloni",
+"aliases": [],
+"links": 37
+},
+{
+"name": "dim sum",
+"aliases": [
+"dimsum"
+],
+"links": 37
+},
+{
+"name": "chebureki",
+"aliases": [
+"chiburekki",
+"ciberek"
+],
+"links": 36
+},
+{
+"name": "farfalle",
+"aliases": [
+"bow-tie pasta",
+"butterfly pasta"
+],
+"links": 35
+},
+{
+"name": "linguine",
+"aliases": [
+"trenette"
+],
+"links": 33
+},
+{
+"name": "orzo",
+"aliases": [
+"risoni"
+],
+"links": 32
+},
+{
+"name": "cellophane noodles",
+"aliases": [
+"crystal noodles",
+"glass noodles"
+],
+"links": 31
+},
+{
+"name": "rigatoni",
+"aliases": [],
+"links": 30
+},
+{
+"name": "bucatini",
+"aliases": [
+"perciatelli"
+],
+"links": 29
+},
+{
+"name": "egg tart",
+"aliases": [
+"egg custard tart"
+],
+"links": 29
+},
+{
+"name": "mandu",
+"aliases": [
+"dumpling"
+],
+"links": 28
+},
+{
+"name": "orecchiette",
+"aliases": [],
+"links": 27
+},
+{
+"name": "bigoli",
+"aliases": [],
+"links": 26
+},
+{
+"name": "uszka",
+"aliases": [
+"mini pierogies"
+],
+"links": 25
+},
+{
+"name": "xiaolongbao",
+"aliases": [],
+"links": 25
+},
+{
+"name": "pizzoccheri",
+"aliases": [],
+"links": 24
+},
+{
+"name": "pappardelle",
+"aliases": [],
+"links": 23
+},
+{
+"name": "egg barley",
+"aliases": [
+"egg drops",
+"tarhonya",
+"tarhoňa"
+],
+"links": 22
+},
+{
+"name": "cha siu bao",
+"aliases": [
+"char siu bao",
+"roast pork bun"
+],
+"links": 21
+},
+{
+"name": "Khuushuur",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Maultasche",
+"aliases": [],
+"links": 21
+},
+{
+"name": "pici",
+"aliases": [],
+"links": 21
+},
+{
+"name": "popiah",
+"aliases": [
+"baobing",
+"Lumpia",
+"runbing"
+],
+"links": 21
+},
+{
+"name": "shumai",
+"aliases": [
+"pork dumpling",
+"shao mai",
+"shaomai",
+"siew mai",
+"siu mai"
+],
+"links": 21
+},
+{
+"name": "capellini",
+"aliases": [],
+"links": 20
+},
+{
+"name": "conchiglie",
+"aliases": [],
+"links": 20
+},
+{
+"name": "agnolotti",
+"aliases": [
+"Agnelot",
+"agnolotto"
+],
+"links": 19
+},
+{
+"name": "Songpyeon",
+"aliases": [],
+"links": 19
+},
+{
+"name": "tortelloni",
+"aliases": [],
+"links": 19
+},
+{
+"name": "ziti",
+"aliases": [],
+"links": 19
+},
+{
+"name": "lazanki",
+"aliases": [],
+"links": 18
+},
+{
+"name": "trofie",
+"aliases": [
+"Trofiette"
+],
+"links": 18
+},
+{
+"name": "cavatelli",
+"aliases": [],
+"links": 17
+},
+{
+"name": "fios de ovos",
+"aliases": [
+"angel hair"
+],
+"links": 17
+},
+{
+"name": "kreplach",
+"aliases": [],
+"links": 17
+},
+{
+"name": "bánh cuốn",
+"aliases": [
+"bánh mướt",
+"bánh ướt"
+],
+"links": 16
+},
+{
+"name": "fregula",
+"aliases": [
+"fregola"
+],
+"links": 16
+},
+{
+"name": "gujia",
+"aliases": [
+"gujhia",
+"purukiya"
+],
+"links": 16
+},
+{
+"name": "Kalduny",
+"aliases": [],
+"links": 16
+},
+{
+"name": "mafaldine",
+"aliases": [
+"mafalda",
+"mafalde",
+"reginette"
+],
+"links": 16
+},
+{
+"name": "Schlutzkrapfen",
+"aliases": [
+"cajinci",
+"crafuncins",
+"mezzelune",
+"ravioli tirolesi"
+],
+"links": 16
+},
+{
+"name": "strozzapreti",
+"aliases": [],
+"links": 16
+},
+{
+"name": "tagliolini",
+"aliases": [
+"taglierini",
+"taglioni",
+"tajarin"
+],
+"links": 16
+},
+{
+"name": "alphabet pasta",
+"aliases": [
+"alfabeto",
+"Alphabetti Spaghetti"
+],
+"links": 15
+},
+{
+"name": "har gow",
+"aliases": [
+"ha gau",
+"ha gow",
+"ha kau",
+"Hakkao",
+"shrimp bonnet",
+"xiajiao"
+],
+"links": 15
+},
+{
+"name": "pastina",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ba-wan",
+"aliases": [
+"Bah-huê",
+"Bah-oân",
+"Bah-uan",
+"Bah-uân",
+"Bah-înn",
+"Jou-yuan",
+"meatball mochi",
+"Rou-Yuan"
+],
+"links": 14
+},
+{
+"name": "Gemelli",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Pamonha",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Passatelli",
+"aliases": [],
+"links": 14
+},
+{
+"name": "testaroli",
+"aliases": [
+"testarolo"
+],
+"links": 14
+},
+{
+"name": "cappelletti",
+"aliases": [],
+"links": 13
+},
+{
+"name": "casoncelli",
+"aliases": [
+"casonsei",
+"casonziei",
+"ciaroncie"
+],
+"links": 13
+},
+{
+"name": "Kenkey",
+"aliases": [],
+"links": 13
+},
+{
+"name": "nikuman",
+"aliases": [
+"chūka man",
+"chūkaman"
+],
+"links": 13
+},
+{
+"name": "rotelle",
+"aliases": [
+"wagon wheels"
+],
+"links": 13
+},
+{
+"name": "salteña",
+"aliases": [
+"Argentina"
+],
+"links": 13
+},
+{
+"name": "siopao",
+"aliases": [
+"salapao"
+],
+"links": 13
+},
+{
+"name": "anelli",
+"aliases": [
+"anelletti"
+],
+"links": 12
+},
+{
+"name": "Campanelle",
+"aliases": [
+"gigli"
+],
+"links": 12
+},
+{
+"name": "corzetti",
+"aliases": [
+"croxetti"
+],
+"links": 12
+},
+{
+"name": "Farfel",
+"aliases": [],
+"links": 12
+},
+{
+"name": "garganelli",
+"aliases": [],
+"links": 12
+},
+{
+"name": "maltagliati",
+"aliases": [],
+"links": 12
+},
+{
+"name": "radiatori",
+"aliases": [
+"radiatore"
+],
+"links": 12
+},
+{
+"name": "Tortelli",
+"aliases": [],
+"links": 12
+},
+{
+"name": "tortiglioni",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Casunziei",
+"aliases": [
+"casanzes",
+"casonciei",
+"csanzöi"
+],
+"links": 11
+},
+{
+"name": "crab rangoon",
+"aliases": [
+"crab puffs"
+],
+"links": 11
+},
+{
+"name": "ditalini",
+"aliases": [
+"tubettini"
+],
+"links": 11
+},
+{
+"name": "fileja",
+"aliases": [],
+"links": 11
+},
+{
+"name": "lasagnette",
+"aliases": [],
+"links": 11
+},
+{
+"name": "rice noodle roll",
+"aliases": [
+"steamed rice roll"
+],
+"links": 11
+},
+{
+"name": "shengjian mantou",
+"aliases": [
+"pan-fried cabbage and pork bun",
+"Shengjianbao"
+],
+"links": 11
+},
+{
+"name": "shrimp toast",
+"aliases": [
+"prawn toast",
+"sesame prawn toast"
+],
+"links": 11
+},
+{
+"name": "spaghetti alla chitarra",
+"aliases": [
+"maccheroni alla chitarra",
+"Tonnarelli"
+],
+"links": 11
+},
+{
+"name": "stringozzi",
+"aliases": [
+"strangozzi",
+"umbricelli"
+],
+"links": 11
+},
+{
+"name": "trenette",
+"aliases": [],
+"links": 11
+},
+{
+"name": "acini di pepe",
+"aliases": [],
+"links": 10
+},
+{
+"name": "bavette",
+"aliases": [],
+"links": 10
+},
+{
+"name": "cavatappi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "fiori",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Fusi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Gnudi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "paccheri",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pasta mollicata",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sebada",
+"aliases": [],
+"links": 10
+},
+{
+"name": "stuffed pasta",
+"aliases": [
+"filled pasta",
+"pasta with filling"
+],
+"links": 10
+},
+{
+"name": "Taro dumpling",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Busiate",
+"aliases": [
+"busiati"
+],
+"links": 9
+},
+{
+"name": "Casarecce",
+"aliases": [],
+"links": 9
+},
+{
+"name": "eo-mandu",
+"aliases": [
+"fish dumpling"
+],
+"links": 9
+},
+{
+"name": "fagottini",
+"aliases": [],
+"links": 9
+},
+{
+"name": "sedani",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tangbao",
+"aliases": [
+"Guantang Baozi",
+"Guantangbao"
+],
+"links": 9
+},
+{
+"name": "Tofu skin roll",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Agnolini",
+"aliases": [
+"agnolini Mantovani",
+"agnulì",
+"agnulìn"
+],
+"links": 8
+},
+{
+"name": "Crozets de Savoie",
+"aliases": [],
+"links": 8
+},
+{
+"name": "lanterne",
+"aliases": [],
+"links": 8
+},
+{
+"name": "lasagne sheet",
+"aliases": [],
+"links": 8
+},
+{
+"name": "malloreddus",
+"aliases": [
+"gnocchetti Sardi"
+],
+"links": 8
+},
+{
+"name": "pipe rigate",
+"aliases": [
+"cornetti",
+"Galet"
+],
+"links": 8
+},
+{
+"name": "rotini",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Šúľance",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Anolini",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Boraki",
+"aliases": [
+"Alboraki",
+"Tatar-boraki"
+],
+"links": 7
+},
+{
+"name": "Corunda",
+"aliases": [
+"Corundas"
+],
+"links": 7
+},
+{
+"name": "culurgiones",
+"aliases": [],
+"links": 7
+},
+{
+"name": "gnocchi alla romana",
+"aliases": [],
+"links": 7
+},
+{
+"name": "gyoza",
+"aliases": [
+"gyōza"
+],
+"links": 7
+},
+{
+"name": "Lorighittas",
+"aliases": [],
+"links": 7
+},
+{
+"name": "mitarashi dango",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pansotti",
+"aliases": [
+"pansoti"
+],
+"links": 7
+},
+{
+"name": "sagnarelli",
+"aliases": [
+"sagne",
+"sagnette",
+"tagliolini"
+],
+"links": 7
+},
+{
+"name": "scialatelli",
+"aliases": [
+"scialatielli",
+"sciliatielli",
+"scivatieddi"
+],
+"links": 7
+},
+{
+"name": "tortello amaro di Castel Goffredo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "troccoli",
+"aliases": [],
+"links": 7
+},
+{
+"name": "şehriye",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Calamarata",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Filindeu",
+"aliases": [
+"God's yarns"
+],
+"links": 6
+},
+{
+"name": "Foglie d'ulivo",
+"aliases": [
+"foglie di ulivo"
+],
+"links": 6
+},
+{
+"name": "Manicotti",
+"aliases": [],
+"links": 6
+},
+{
+"name": "stelline",
+"aliases": [],
+"links": 6
+},
+{
+"name": "anellini",
+"aliases": [],
+"links": 5
+},
+{
+"name": "bakpau",
+"aliases": [],
+"links": 5
+},
+{
+"name": "banana pasta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "barbine",
+"aliases": [],
+"links": 5
+},
+{
+"name": "bean vermicelli",
+"aliases": [
+"bean thread noodles",
+"bean threads",
+"Chinese vermicelli"
+],
+"links": 5
+},
+{
+"name": "bánh bột lọc",
+"aliases": [],
+"links": 5
+},
+{
+"name": "capunti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cencioni",
+"aliases": [],
+"links": 5
+},
+{
+"name": "chaoshou",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chichi dango",
+"aliases": [],
+"links": 5
+},
+{
+"name": "dangmyeon",
+"aliases": [
+"Korean glass noodles",
+"sweet potato noodles"
+],
+"links": 5
+},
+{
+"name": "Empanadilla",
+"aliases": [],
+"links": 5
+},
+{
+"name": "fedelini",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Galician empanada",
+"aliases": [],
+"links": 5
+},
+{
+"name": "garlic chives pocket",
+"aliases": [
+"jiucai hezi"
+],
+"links": 5
+},
+{
+"name": "Kasnudeln",
+"aliases": [
+"Carinthian noodles"
+],
+"links": 5
+},
+{
+"name": "Lumpiang keso",
+"aliases": [],
+"links": 5
+},
+{
+"name": "occhi di lupo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pillus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pumpkin tortelli",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Raviole du Dauphiné",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sorrentinos",
+"aliases": [],
+"links": 5
+},
+{
+"name": "tripoline",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Youmian",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Campanian pasta",
+"aliases": [
+"pasta campana"
+],
+"links": 4
+},
+{
+"name": "cascatelli",
+"aliases": [],
+"links": 4
+},
+{
+"name": "chicken riggies",
+"aliases": [],
+"links": 4
+},
+{
+"name": "dinamita",
+"aliases": [],
+"links": 4
+},
+{
+"name": "egg noodle",
+"aliases": [],
+"links": 4
+},
+{
+"name": "foi thong",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gnocchi alla sorrentina",
+"aliases": [
+"Gnocchi in the style of Sorrento"
+],
+"links": 4
+},
+{
+"name": "Maccheroncini di Campofilone PGI",
+"aliases": [
+"maccheroncini"
+],
+"links": 4
+},
+{
+"name": "Pasta all'Ortolana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "sacchettoni",
+"aliases": [
+"beggar's purse pasta",
+"sacchetti"
+],
+"links": 4
+},
+{
+"name": "Sharkfin and prawn dumpling in superior soup",
+"aliases": [],
+"links": 4
+},
+{
+"name": "shiratama",
+"aliases": [
+"shiratama dango"
+],
+"links": 4
+},
+{
+"name": "Shui jiao",
+"aliases": [],
+"links": 4
+},
+{
+"name": "stroncatura",
+"aliases": [
+"struncatura"
+],
+"links": 4
+},
+{
+"name": "toasted ravioli",
+"aliases": [
+"fried ravioli",
+"T-rav"
+],
+"links": 4
+},
+{
+"name": "bryndzové pirohy",
+"aliases": [
+"Ruthenian dumplings"
+],
+"links": 3
+},
+{
+"name": "Cappellacci di zucca ferraresi PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Costrada",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Creste di gallo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "egg pasta",
+"aliases": [],
+"links": 3
+},
+{
+"name": "fusilli bucati",
+"aliases": [],
+"links": 3
+},
+{
+"name": "gogges",
+"aliases": [
+"goges",
+"gogga",
+"goggizes",
+"goglies",
+"stripta makaronia"
+],
+"links": 3
+},
+{
+"name": "Italian stuffed pasta",
+"aliases": [
+"Italian filled pasta"
+],
+"links": 3
+},
+{
+"name": "Niflettes",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pasta di Gragnano PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pljukanci",
+"aliases": [
+"makaruni",
+"Žbirići"
+],
+"links": 3
+},
+{
+"name": "red bean paste bun",
+"aliases": [
+"red bean bun"
+],
+"links": 3
+},
+{
+"name": "Ruthenian pierogi",
+"aliases": [
+"Ruthenian dumplings"
+],
+"links": 3
+},
+{
+"name": "sasa dango",
+"aliases": [
+"onna-dango",
+"otoko-dango"
+],
+"links": 3
+},
+{
+"name": "scarpinocc",
+"aliases": [],
+"links": 3
+},
+{
+"name": "zhēngjiao",
+"aliases": [
+"zhēngjiǎo"
+],
+"links": 3
+},
+{
+"name": "Ankake spaghetti",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Botchan dango",
+"aliases": [],
+"links": 2
+},
+{
+"name": "caccavelle",
+"aliases": [],
+"links": 2
+},
+{
+"name": "conchiglioni",
+"aliases": [
+"giant shells",
+"jumbo shells"
+],
+"links": 2
+},
+{
+"name": "Crouzets",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Curzoli",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Danjiao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "doubao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "fen hao zi",
+"aliases": [
+"bunmoja",
+"fěn hào zi"
+],
+"links": 2
+},
+{
+"name": "Hanazono Dango",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hot snack",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Huo guo dun fen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "ika shūmai",
+"aliases": [
+"ika shumai",
+"ika shuumai"
+],
+"links": 2
+},
+{
+"name": "keiran sōmen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kibi dango",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kibi dango",
+"aliases": [],
+"links": 2
+},
+{
+"name": "linguettine",
+"aliases": [],
+"links": 2
+},
+{
+"name": "lumache",
+"aliases": [],
+"links": 2
+},
+{
+"name": "maccheroni alla molinara",
+"aliases": [
+"alla mugnaia"
+],
+"links": 2
+},
+{
+"name": "Midarashi dango",
+"aliases": [
+"Midarashi"
+],
+"links": 2
+},
+{
+"name": "Minestra imbottita PAT",
+"aliases": [
+"Spoja lorda"
+],
+"links": 2
+},
+{
+"name": "myōga bochi",
+"aliases": [
+"myōgabochi"
+],
+"links": 2
+},
+{
+"name": "nō manjū",
+"aliases": [
+"no manju",
+"Noh manju"
+],
+"links": 2
+},
+{
+"name": "parmatieddi",
+"aliases": [
+"palmatielli",
+"parmi",
+"parmitieddi"
+],
+"links": 2
+},
+{
+"name": "pasta al zozzona",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Patacucci",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Piracicaba pamonha",
+"aliases": [
+"pamonha of Piracicaba",
+"pamonhas of Piracicaba",
+"Piracicaba corn cake"
+],
+"links": 2
+},
+{
+"name": "potato gnocchi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "strascinati",
+"aliases": [],
+"links": 2
+},
+{
+"name": "strichetti",
+"aliases": [],
+"links": 2
+},
+{
+"name": "suan tang shui jiao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tripolini",
+"aliases": [],
+"links": 2
+},
+{
+"name": "uroko dango",
+"aliases": [
+"fish scale dumplings",
+"tsubaki dango"
+],
+"links": 2
+},
+{
+"name": "ì-mī",
+"aliases": [
+"Yi Mian",
+"yi-noodle",
+"Yih Noodle"
+],
+"links": 2
+},
+{
+"name": "Šurlice",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ashikaga shūmai",
+"aliases": [
+"Ashikaga shumai",
+"Ashikaga shuumai"
+],
+"links": 1
+},
+{
+"name": "broken vermicelli",
+"aliases": [],
+"links": 1
+},
+{
+"name": "chestnut tagliatelle",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Chicken feet",
+"aliases": [
+"Fung Zaau"
+],
+"links": 1
+},
+{
+"name": "Dalle terre liberate dalla mafia",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Deep-fried wonton",
+"aliases": [
+"caau wan tan"
+],
+"links": 1
+},
+{
+"name": "denpun dango",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Explorador",
+"aliases": [
+"Explorador cartagenero"
+],
+"links": 1
+},
+{
+"name": "Gilun",
+"aliases": [],
+"links": 1
+},
+{
+"name": "gnocchi di zucca",
+"aliases": [
+"pumpkin gnocchi"
+],
+"links": 1
+},
+{
+"name": "harusame noodles",
+"aliases": [
+"cup harusame",
+"harusame noodle",
+"harusame soup",
+"soup harusame"
+],
+"links": 1
+},
+{
+"name": "Herahera dango",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Hitokuchi gyoza",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Hörnli / Cornettes / Cornetti",
+"aliases": [],
+"links": 1
+},
+{
+"name": "kakaran dango",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kakkō Dango",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kalsonnes b'rishta",
+"aliases": [],
+"links": 1
+},
+{
+"name": "koulouria",
+"aliases": [],
+"links": 1
+},
+{
+"name": "lebbencs",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Maxim Pasta",
+"aliases": [],
+"links": 1
+},
+{
+"name": "pennoni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "quadrefiore",
+"aliases": [],
+"links": 1
+},
+{
+"name": "riccioli",
+"aliases": [],
+"links": 1
+},
+{
+"name": "rombi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "shōyu dango",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sorrentinos argentinos",
+"aliases": [
+"Sorrentino"
+],
+"links": 1
+},
+{
+"name": "soup harusame",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Spighe",
+"aliases": [],
+"links": 1
+},
+{
+"name": "stortini",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Swabian Spätzle",
+"aliases": [],
+"links": 1
+},
+{
+"name": "trenne",
+"aliases": [
+"trennette"
+],
+"links": 1
+},
+{
+"name": "tuffoli",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Turkish mantı",
+"aliases": [
+"Kayseri mantısı",
+"Turkish manti"
+],
+"links": 1
+},
+{
+"name": "Velveeta Shells & Cheese",
+"aliases": [],
+"links": 1
+},
+{
+"name": "zoodle",
+"aliases": [
+"zucchini noodles"
+],
+"links": 1
+}
+]

@@ -1,0 +1,8758 @@
+[
+{
+"name": "Toyota",
+"aliases": [
+"TOYOTA JIDOSHA KABUSHIKI KAISHA"
+],
+"links": 149
+},
+{
+"name": "Volkswagen",
+"aliases": [],
+"links": 124
+},
+{
+"name": "Mercedes-Benz",
+"aliases": [
+"Mercedes Benz"
+],
+"links": 121
+},
+{
+"name": "BMW",
+"aliases": [
+"B.M.W.",
+"Bavarian Motor Works",
+"Bayerische Motorenwerke",
+"Bayrische Motoren Werke"
+],
+"links": 118
+},
+{
+"name": "Ford Motor Company",
+"aliases": [
+"FoMoCo",
+"Ford Motor Corporation",
+"Ford Motors"
+],
+"links": 116
+},
+{
+"name": "Audi AG",
+"aliases": [
+"Audi"
+],
+"links": 115
+},
+{
+"name": "Renault",
+"aliases": [
+"Groupe Renault",
+"Renault S.A.",
+"Renault SA"
+],
+"links": 110
+},
+{
+"name": "Honda",
+"aliases": [
+"Honda Giken Kogyo K.K.",
+"Honda Giken Kōgyō",
+"Honda Motor Co., Ltd.",
+"Honda Motor Company, Ltd."
+],
+"links": 105
+},
+{
+"name": "Donkervoort",
+"aliases": [
+"Donkervoort Automobielen"
+],
+"links": 103
+},
+{
+"name": "Ferrari",
+"aliases": [],
+"links": 98
+},
+{
+"name": "Porsche",
+"aliases": [
+"Dr. Ing. h.c. F. Porsche AG",
+"Porsche AG"
+],
+"links": 91
+},
+{
+"name": "General Motors",
+"aliases": [
+"General Motors Corporation",
+"GM"
+],
+"links": 90
+},
+{
+"name": "Nissan",
+"aliases": [
+"Nissan Jidōsha Kabushiki-gaisha",
+"Nissan Motor Co.",
+"Nissan Motor Co. Ltd.",
+"Nissan Motor Co., Ltd.",
+"Nissan Motor Company",
+"Nissan Motor Company Ltd",
+"Nissan Motors"
+],
+"links": 90
+},
+{
+"name": "Fiat",
+"aliases": [
+"Fabbrica Italiana Automobili Torino"
+],
+"links": 88
+},
+{
+"name": "Opel",
+"aliases": [
+"Opel Automobile GmbH"
+],
+"links": 88
+},
+{
+"name": "Lamborghini",
+"aliases": [
+"Automobili Lamborghini S.p.A.",
+"Lamborghini S.p.A."
+],
+"links": 87
+},
+{
+"name": "Chevrolet",
+"aliases": [],
+"links": 86
+},
+{
+"name": "Suzuki Motor Corporation",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Mazda",
+"aliases": [
+"Matsuda Kabushiki-gaisha",
+"Mazda Motor",
+"Mazda Motor Corporation"
+],
+"links": 82
+},
+{
+"name": "Kia",
+"aliases": [
+"Kia Corp",
+"Kia Corporation",
+"Kia motors",
+"Kia Motors",
+"Kia Motors Corporation",
+"KN",
+"Kyungsung Precision Industry"
+],
+"links": 80
+},
+{
+"name": "Škoda Auto",
+"aliases": [
+"Automobilový koncern ŠKODA a.s.",
+"SKODA",
+"Skoda",
+"Skoda Auto",
+"Škoda",
+"ŠKODA AUTO a.s.",
+"Škoda Auto a.s.",
+"ŠKODA, automobilová a.s."
+],
+"links": 80
+},
+{
+"name": "Alfa Romeo",
+"aliases": [
+"Alfa",
+"Anonima Lombarda Fabbrica Automobili"
+],
+"links": 77
+},
+{
+"name": "Citroën",
+"aliases": [
+"Automobiles Citroën S.A."
+],
+"links": 77
+},
+{
+"name": "Hyundai Motor Company",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Mercedes-Benz Group",
+"aliases": [
+"Daimler",
+"Daimler AG",
+"Daimler Benz",
+"Daimler Chrysler",
+"Daimler-Benz",
+"DaimlerChrysler",
+"MBG"
+],
+"links": 73
+},
+{
+"name": "Togg",
+"aliases": [
+"Turkey's Automobile Joint Venture Group Inc."
+],
+"links": 72
+},
+{
+"name": "Jaguar Cars",
+"aliases": [
+"Jaguar"
+],
+"links": 69
+},
+{
+"name": "Volkswagen Group",
+"aliases": [
+"Volkswagen",
+"VOLKSWAGEN AG",
+"VOLKSWAGEN AKTIENGESELLSCHAFT",
+"Volkswagen Aktiengesellschaft",
+"VW",
+"VW AG"
+],
+"links": 69
+},
+{
+"name": "Aston Martin Lagonda",
+"aliases": [
+"Aston Martin",
+"Aston Martin Holdings",
+"Aston Martin Lagonda Global Holdings",
+"Aston Martin Lagonda Holdings",
+"Aston Martin Lagonda Holdings plc",
+"Aston Martin Lagonda Limited"
+],
+"links": 68
+},
+{
+"name": "Cadillac",
+"aliases": [
+"Cadillac Motor Car Division"
+],
+"links": 68
+},
+{
+"name": "Jeep",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Land Rover",
+"aliases": [
+"Land Rover Ltd."
+],
+"links": 67
+},
+{
+"name": "Maserati",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Stellantis North America",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Rolls-Royce Motor Cars",
+"aliases": [
+"Rolls-Royce",
+"Rolls-Royce Motor Cars Limited"
+],
+"links": 62
+},
+{
+"name": "Bentley",
+"aliases": [
+"Bentley Motors"
+],
+"links": 61
+},
+{
+"name": "Lancia",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Mitsubishi Motors",
+"aliases": [
+"Mitsubishi Jidosha",
+"Mitsubishi Jidosha Kogyo KK",
+"Mitsubishi Jidōsha Kōgyō",
+"Mitsubishi Motors Corporation"
+],
+"links": 61
+},
+{
+"name": "Subaru",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Lexus",
+"aliases": [],
+"links": 59
+},
+{
+"name": "SEAT",
+"aliases": [
+"SEAT SA",
+"SEAT, S.A.",
+"Sociedad Española de Automóviles de Turismo"
+],
+"links": 58
+},
+{
+"name": "Dodge",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Volvo Cars",
+"aliases": [
+"Volvo",
+"Volvo Car AB"
+],
+"links": 54
+},
+{
+"name": "Buick",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Dacia",
+"aliases": [
+"Automobile Dacia",
+"S.C. Automobile Dacia S.A."
+],
+"links": 53
+},
+{
+"name": "Isuzu",
+"aliases": [
+"Isuzu Jidōsha Kabushiki-Kaisha",
+"Isuzu Motors"
+],
+"links": 53
+},
+{
+"name": "Lada",
+"aliases": [],
+"links": 53
+},
+{
+"name": "GAZ",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Groupe PSA",
+"aliases": [
+"PSA",
+"PSA Peugeot Citroën",
+"PSA Peugeot Talbot Citroën"
+],
+"links": 52
+},
+{
+"name": "Acura",
+"aliases": [
+"Acura brand"
+],
+"links": 49
+},
+{
+"name": "AvtoVAZ",
+"aliases": [
+"AutoVAZ",
+"AwtoWAS",
+"VAZ",
+"Volga Automobile Plant",
+"Volzhsky Avtomobilny Zavod"
+],
+"links": 49
+},
+{
+"name": "Geely",
+"aliases": [
+"Geely Holding Group",
+"Zhejiang Geely Holding Group",
+"Zhejiang Geely Holding Group Co., Ltd."
+],
+"links": 49
+},
+{
+"name": "smart",
+"aliases": [
+"Micro Compact Car",
+"Swatch Mercedes Art"
+],
+"links": 49
+},
+{
+"name": "Stellantis",
+"aliases": [],
+"links": 49
+},
+{
+"name": "KTM",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Daihatsu",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Koenigsegg",
+"aliases": [
+"Koenigsegg AB",
+"Koenigsegg Automotive",
+"Koenigsegg Automotive AB"
+],
+"links": 47
+},
+{
+"name": "Lincoln Motor Company",
+"aliases": [
+"Lincoln Ford"
+],
+"links": 47
+},
+{
+"name": "Holden",
+"aliases": [
+"General Motors-Holden's Ltd",
+"GM Holden Ltd",
+"Holden Ltd"
+],
+"links": 46
+},
+{
+"name": "Hummer",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Lotus Cars",
+"aliases": [
+"Lotus Cars Limited"
+],
+"links": 46
+},
+{
+"name": "Maybach",
+"aliases": [],
+"links": 46
+},
+{
+"name": "BYD Auto",
+"aliases": [
+"Build Your Dreams"
+],
+"links": 45
+},
+{
+"name": "Pontiac",
+"aliases": [
+"Pontiac automobiles",
+"Pontiac cars"
+],
+"links": 45
+},
+{
+"name": "Vauxhall",
+"aliases": [
+"General Motors UK Limited",
+"GMUK",
+"Vauxhall Motors"
+],
+"links": 45
+},
+{
+"name": "ELBO",
+"aliases": [
+"ELVO",
+"Hellenic Vehicle Industry"
+],
+"links": 44
+},
+{
+"name": "Infiniti",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Saab Automobile",
+"aliases": [
+"Project 92",
+"Saab",
+"Saab Automobile AB",
+"Svenska Aeroplan Aktiebolaget",
+"X9248"
+],
+"links": 44
+},
+{
+"name": "Alpine",
+"aliases": [
+"Alpine-Renault",
+"Société des automobiles Alpine SAS"
+],
+"links": 43
+},
+{
+"name": "DAF",
+"aliases": [
+"DAF Trucks"
+],
+"links": 43
+},
+{
+"name": "ZiL",
+"aliases": [
+"AMO ZiL",
+"Zavod imeni Likhachova"
+],
+"links": 43
+},
+{
+"name": "KG Mobility",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Mahindra & Mahindra",
+"aliases": [
+"Mahindra",
+"Mahindra & Mahindra Limited",
+"Mahindra and Mahindra"
+],
+"links": 41
+},
+{
+"name": "Pagani Automobili",
+"aliases": [
+"Pagani Automobili S.p.A.",
+"Pagani S.p.A."
+],
+"links": 41
+},
+{
+"name": "Fiat Chrysler Automobiles",
+"aliases": [
+"FCA"
+],
+"links": 40
+},
+{
+"name": "Mercedes-AMG",
+"aliases": [
+"AMG",
+"Mercedes-AMG GmbH"
+],
+"links": 40
+},
+{
+"name": "Messerschmitt",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Mini",
+"aliases": [],
+"links": 39
+},
+{
+"name": "NSU Motorenwerke",
+"aliases": [
+"NSU",
+"NSU Motorenwerke AG"
+],
+"links": 38
+},
+{
+"name": "American Motors Corporation",
+"aliases": [
+"AMC",
+"American Motors"
+],
+"links": 37
+},
+{
+"name": "Dongfeng Motor Corporation",
+"aliases": [
+"DFC",
+"Dongfeng Motor"
+],
+"links": 37
+},
+{
+"name": "McLaren Automotive",
+"aliases": [
+"McLaren",
+"McLaren Automotive Limited",
+"McLaren Cars",
+"McLaren Cars Limited",
+"TAG McLaren Research & Development Limited"
+],
+"links": 37
+},
+{
+"name": "Rolls-Royce Limited",
+"aliases": [
+"Rolls Royce Limited"
+],
+"links": 37
+},
+{
+"name": "Auto Union",
+"aliases": [
+"Auto Union AG"
+],
+"links": 36
+},
+{
+"name": "GMC",
+"aliases": [
+"GMC automobiles",
+"GMC vehicles"
+],
+"links": 36
+},
+{
+"name": "Hino Motors",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Ikarus",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Oldsmobile",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Simca",
+"aliases": [
+"Simca vehicles"
+],
+"links": 36
+},
+{
+"name": "Studebaker",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Chery",
+"aliases": [
+"Chery Automobile",
+"Chirey",
+"Qirui"
+],
+"links": 35
+},
+{
+"name": "Maruti Suzuki",
+"aliases": [
+"Maruti Suzuki India Limited",
+"Maruti Udyog",
+"Maruti Udyog Limited"
+],
+"links": 35
+},
+{
+"name": "Matra",
+"aliases": [
+"Capra",
+"Mécanique Aviation Traction"
+],
+"links": 35
+},
+{
+"name": "Proton",
+"aliases": [
+"PHB",
+"PROTON Holdings",
+"PROTON Holdings Berhad",
+"Proton Holdings Berhad",
+"PROTON Holdings Bhd"
+],
+"links": 35
+},
+{
+"name": "UAZ",
+"aliases": [
+"Ulyanovsky Avtomobilny Zavod"
+],
+"links": 35
+},
+{
+"name": "Great Wall Motor",
+"aliases": [
+"Great Wall",
+"Great Wall Motor Company Limited",
+"Great Wall Motors",
+"GWM"
+],
+"links": 34
+},
+{
+"name": "Hyundai Motor Group",
+"aliases": [
+"'''Hyundai Motor Group",
+"Hyundai Automotive Group"
+],
+"links": 34
+},
+{
+"name": "Datsun",
+"aliases": [
+"Datson"
+],
+"links": 33
+},
+{
+"name": "DS Automobiles",
+"aliases": [
+"DS"
+],
+"links": 33
+},
+{
+"name": "Renault Korea Motors",
+"aliases": [
+"Renault Korea",
+"Renault Samsung"
+],
+"links": 33
+},
+{
+"name": "Abarth",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Brabus",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Changan Automobile",
+"aliases": [
+"Chanag'an"
+],
+"links": 32
+},
+{
+"name": "Cooper Car Company",
+"aliases": [
+"CCC F1 team",
+"CCC Formula One team",
+"Cooper F1 team",
+"Cooper Formula One team"
+],
+"links": 32
+},
+{
+"name": "DKW",
+"aliases": [
+"Des-Knaben-Wunsch",
+"Deutsche Kinder-Wagen"
+],
+"links": 32
+},
+{
+"name": "FAW Group",
+"aliases": [
+"China FAW Group Corporation Limited",
+"FAW Group Corporation",
+"First Automobile Works"
+],
+"links": 32
+},
+{
+"name": "Setra",
+"aliases": [
+"Daimler Buses",
+"Kässbohrer Fahrzeugwerke"
+],
+"links": 32
+},
+{
+"name": "XPeng",
+"aliases": [
+"Xiaopeng Motors",
+"XPeng Inc",
+"XPeng Motors"
+],
+"links": 32
+},
+{
+"name": "BMW M",
+"aliases": [
+"BMW M GmbH",
+"BMW Motorsport"
+],
+"links": 31
+},
+{
+"name": "De Tomaso",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Horch",
+"aliases": [
+"August Horch & Cie",
+"Horch AG"
+],
+"links": 31
+},
+{
+"name": "Minsk Automobile Plant",
+"aliases": [
+"MAZ",
+"Minski Autamabilny Zavod",
+"Minsky Avtomobilny Zavod"
+],
+"links": 31
+},
+{
+"name": "Scion",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Daimler-Benz AG",
+"aliases": [
+"Mercedes-Benz"
+],
+"links": 30
+},
+{
+"name": "Dallara",
+"aliases": [],
+"links": 30
+},
+{
+"name": "GM Korea",
+"aliases": [
+"General Motors Korea",
+"GM Daewoo",
+"한국GM"
+],
+"links": 30
+},
+{
+"name": "Nio Inc.",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Plymouth",
+"aliases": [
+"Plymouth automobiles",
+"Plymouth vehicles"
+],
+"links": 30
+},
+{
+"name": "Wanderer",
+"aliases": [
+"Wanderer Werke",
+"Wanderer Werke A.G."
+],
+"links": 30
+},
+{
+"name": "British Leyland",
+"aliases": [
+"BL"
+],
+"links": 29
+},
+{
+"name": "DeLorean Motor Company",
+"aliases": [
+"DMC"
+],
+"links": 29
+},
+{
+"name": "Hanomag",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Ligier",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Packard",
+"aliases": [
+"Packard Motor Car Company"
+],
+"links": 29
+},
+{
+"name": "Rimac Automobili",
+"aliases": [
+"Rimac Concept S"
+],
+"links": 29
+},
+{
+"name": "Spyker Cars",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Subaru Corporation",
+"aliases": [
+"Fuji Heavy Industries",
+"Fuji Jūkōgyō Kabushiki-gaisha"
+],
+"links": 29
+},
+{
+"name": "ARO",
+"aliases": [
+"Auto Romania"
+],
+"links": 28
+},
+{
+"name": "British Motor Corporation",
+"aliases": [
+"BMC",
+"The British Motor Corporation Limited"
+],
+"links": 28
+},
+{
+"name": "Fiat S.p.A.",
+"aliases": [
+"Fabbrica Italiana Automobili Torino",
+"Fiat"
+],
+"links": 28
+},
+{
+"name": "Iran Khodro",
+"aliases": [
+"IKCO",
+"Iran Khodro Company",
+"Iran National"
+],
+"links": 28
+},
+{
+"name": "Perodua",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Polestar",
+"aliases": [
+"Polestar Performance AB",
+"Polestar Racing"
+],
+"links": 28
+},
+{
+"name": "Riga Autobus Factory",
+"aliases": [
+"RAF",
+"Rīgas Autobusu Fabrika"
+],
+"links": 28
+},
+{
+"name": "Saturn Corporation",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Talbot",
+"aliases": [
+"Talbot automobiles"
+],
+"links": 28
+},
+{
+"name": "Zeekr",
+"aliases": [
+"Zhejiang Zeekr Intelligent Technology Co., Ltd."
+],
+"links": 28
+},
+{
+"name": "Alpina",
+"aliases": [
+"Alpina Burkard Bovensiepen"
+],
+"links": 27
+},
+{
+"name": "Caterham Cars",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Mercury",
+"aliases": [
+"Ford Motor Company. Mercury Division",
+"Mercury automobile",
+"Mercury Division"
+],
+"links": 27
+},
+{
+"name": "Morris Motors",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Polaris",
+"aliases": [
+"Polaris Inc.",
+"Polaris Industries Inc."
+],
+"links": 27
+},
+{
+"name": "Ram Trucks",
+"aliases": [
+"Ram"
+],
+"links": 27
+},
+{
+"name": "Wartburg",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Zastava Automobiles",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Audi Sport",
+"aliases": [
+"Audi Sport GmbH"
+],
+"links": 26
+},
+{
+"name": "Autobianchi",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Bertone",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Daimler Company",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Hongqi",
+"aliases": [
+"Red Flag"
+],
+"links": 26
+},
+{
+"name": "Morgan Motor Company",
+"aliases": [
+"Morgan"
+],
+"links": 26
+},
+{
+"name": "Panhard",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Volga",
+"aliases": [],
+"links": 26
+},
+{
+"name": "ZAZ",
+"aliases": [
+"Zaporizhzhia Automobile building plant"
+],
+"links": 26
+},
+{
+"name": "Chrysler",
+"aliases": [
+"Chrysler brand"
+],
+"links": 25
+},
+{
+"name": "Daimler Motors Corporation",
+"aliases": [
+"Daimler-Motoren-Gesellschaft",
+"DMG"
+],
+"links": 25
+},
+{
+"name": "Edsel",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Genesis Motor",
+"aliases": [
+"Genesis",
+"Genesis Motors"
+],
+"links": 25
+},
+{
+"name": "Italdesign Giugiaro",
+"aliases": [
+"italdesign"
+],
+"links": 25
+},
+{
+"name": "March Engineering",
+"aliases": [
+"March 761",
+"March Champ",
+"March F1 team",
+"March Formula One team"
+],
+"links": 25
+},
+{
+"name": "Nash Motors",
+"aliases": [
+"Nash Motors Company"
+],
+"links": 25
+},
+{
+"name": "Pegaso",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Rivian Automotive",
+"aliases": [
+"Avera Automotive",
+"Mainstream Motors"
+],
+"links": 25
+},
+{
+"name": "Triumph",
+"aliases": [
+"Triumph Motor Company"
+],
+"links": 25
+},
+{
+"name": "Van Hool",
+"aliases": [
+"Van Hool NV"
+],
+"links": 25
+},
+{
+"name": "Adler",
+"aliases": [
+"Adler Works formerly known as Heinrich Kleyer",
+"Adlerwerke vorm. H. Kleyer"
+],
+"links": 24
+},
+{
+"name": "Automobiles Gonfaronnaises Sportives",
+"aliases": [
+"AGS F1",
+"Automobiles Gonfaronaises Sportives"
+],
+"links": 24
+},
+{
+"name": "Brilliance Auto",
+"aliases": [
+"Brilliance",
+"Brilliance Auto Group",
+"Brilliance Automotive Group",
+"Huachen",
+"Huachen Automotive Group",
+"Huachen Automotive Group Holdings"
+],
+"links": 24
+},
+{
+"name": "Bugatti",
+"aliases": [
+"Automobiles Ettore Bugatti"
+],
+"links": 24
+},
+{
+"name": "Cupra",
+"aliases": [
+"Seat Cupra"
+],
+"links": 24
+},
+{
+"name": "Gordini",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Hindustan Motors",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Hudson Motor Car Company",
+"aliases": [],
+"links": 24
+},
+{
+"name": "JAC Group",
+"aliases": [
+"Anhui Jianghuai Automobile Co., Ltd.",
+"JAC Motors"
+],
+"links": 24
+},
+{
+"name": "Leapmotor",
+"aliases": [
+"Zhejiang Leapmotor Technology Co., Ltd."
+],
+"links": 24
+},
+{
+"name": "Roewe",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Armstrong Whitworth",
+"aliases": [
+"Armstrong, Whitworth & Co Ltd",
+"Armstrong-Whitworth",
+"Sir W G Armstrong Whitworth & Co Ltd"
+],
+"links": 23
+},
+{
+"name": "Autosan",
+"aliases": [
+"Autosan S.A."
+],
+"links": 23
+},
+{
+"name": "Bristol Cars",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Foton Motor",
+"aliases": [
+"Beiqi Foton Motor Co., Ltd",
+"Foton"
+],
+"links": 23
+},
+{
+"name": "International Harvester",
+"aliases": [
+"IH",
+"IHC",
+"International Harvester Company",
+"International Trucks",
+"The International Harvester Company"
+],
+"links": 23
+},
+{
+"name": "Karmann",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lucid Motors",
+"aliases": [
+"Atieva"
+],
+"links": 23
+},
+{
+"name": "Mitsuoka Motor",
+"aliases": [
+"Mitsuoka",
+"Mitsuoka Motor Co., Ltd."
+],
+"links": 23
+},
+{
+"name": "Tofaş",
+"aliases": [
+"Türk Otomobil Fabrikası Anonim Şirketi"
+],
+"links": 23
+},
+{
+"name": "AC Cars",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Alfa Romeo Tonale",
+"aliases": [
+"Dodge Hornet"
+],
+"links": 22
+},
+{
+"name": "Ariel Motor Company",
+"aliases": [
+"Ariel Motor Company Ltd"
+],
+"links": 22
+},
+{
+"name": "Automobili Turismo e Sport",
+"aliases": [
+"ATS F1 team",
+"ATS Formula One team"
+],
+"links": 22
+},
+{
+"name": "Avia",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Delage",
+"aliases": [],
+"links": 22
+},
+{
+"name": "DeSoto",
+"aliases": [
+"De Soto automobiles",
+"De Soto Motor Corporation",
+"DeSoto Motor Corporation"
+],
+"links": 22
+},
+{
+"name": "Duesenberg",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Industrieverband Fahrzeugbau",
+"aliases": [
+"IFA",
+"Industrial Association for Vehicle Construction"
+],
+"links": 22
+},
+{
+"name": "Isotta Fraschini",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Maḥmīyat Umm al-Rayḥān",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Osella",
+"aliases": [
+"Osella F1 team",
+"Osella Formula One team",
+"Osella Squadra Corse"
+],
+"links": 22
+},
+{
+"name": "SSC North America",
+"aliases": [
+"Shelby SuperCars"
+],
+"links": 22
+},
+{
+"name": "Steyr-Daimler-Puch",
+"aliases": [
+"Steyr Bus GmbH"
+],
+"links": 22
+},
+{
+"name": "Volvo Buses",
+"aliases": [
+"Volvo Bussar"
+],
+"links": 22
+},
+{
+"name": "Ansaldo",
+"aliases": [
+"Ansaldo Trasporti",
+"Gio. Ansaldo & C."
+],
+"links": 21
+},
+{
+"name": "Barkas",
+"aliases": [
+"Framo"
+],
+"links": 21
+},
+{
+"name": "BMW i",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Cisitalia",
+"aliases": [],
+"links": 21
+},
+{
+"name": "English Racing Automobiles",
+"aliases": [
+"ERA",
+"ERA F1 team",
+"ERA Formula One team"
+],
+"links": 21
+},
+{
+"name": "Lagonda",
+"aliases": [],
+"links": 21
+},
+{
+"name": "MG Motor",
+"aliases": [
+"Morris Garages"
+],
+"links": 21
+},
+{
+"name": "Renault–Nissan–Mitsubishi Alliance",
+"aliases": [
+"Renault-Nissan"
+],
+"links": 21
+},
+{
+"name": "REO Motor Car Company",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Wolseley Motor Company",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Abt Sportsline",
+"aliases": [
+"ABT Schaeffler Audi Sport",
+"Audi Sport ABT"
+],
+"links": 20
+},
+{
+"name": "Aichi",
+"aliases": [
+"Aichi Aircraft Company",
+"Aichi Kokuki",
+"Aichi Kokuki Co., Ltd.",
+"Aichi Machine Industry Co., Ltd.",
+"Aichi Tokei Denki Seizo Co., Ltd.",
+"Aichi Watch and Electric Manufacturing Company"
+],
+"links": 20
+},
+{
+"name": "Alvis Car and Engineering Company Ltd",
+"aliases": [
+"Alvis"
+],
+"links": 20
+},
+{
+"name": "Ascari Cars",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Eagle",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Geely Auto",
+"aliases": [
+"Geely",
+"Geely Automobile",
+"Geely Automobile Holdings Limited",
+"Geely Automobile Holdings Ltd."
+],
+"links": 20
+},
+{
+"name": "Gumpert",
+"aliases": [
+"German sports car manufacturer"
+],
+"links": 20
+},
+{
+"name": "Hafei Motor Co.",
+"aliases": [
+"Hafei",
+"HAFEI MOTOR",
+"Hafei Motor Co., Ltd"
+],
+"links": 20
+},
+{
+"name": "Humber Limited",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Innocenti",
+"aliases": [],
+"links": 20
+},
+{
+"name": "LuAZ",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lynk & Co",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nanjing Automobile",
+"aliases": [
+"Nanjing Automobile Corporation"
+],
+"links": 20
+},
+{
+"name": "Noble Automotive",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Officine Meccaniche",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ora",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Rootes Group",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Saipa",
+"aliases": [
+"Saipa Corporation",
+"Saipa Khodro",
+"Saipa Motor Co"
+],
+"links": 20
+},
+{
+"name": "Talbot-Lago",
+"aliases": [],
+"links": 20
+},
+{
+"name": "AITO",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Alenia Aermacchi",
+"aliases": [],
+"links": 19
+},
+{
+"name": "AM General",
+"aliases": [
+"AM General Corporation",
+"AM General LLC"
+],
+"links": 19
+},
+{
+"name": "Armstrong Siddeley",
+"aliases": [
+"Armstrong Siddeley Motors Ltd",
+"Armstrong-Siddeley"
+],
+"links": 19
+},
+{
+"name": "Carroll Shelby International",
+"aliases": [
+"Shelby American, Inc",
+"Shelby diecast collectibles"
+],
+"links": 19
+},
+{
+"name": "De Dion–Bouton",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Detroit Diesel",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Dino",
+"aliases": [
+"Ferrari Dino"
+],
+"links": 19
+},
+{
+"name": "Eisenacher Motorenwerk",
+"aliases": [
+"EMW"
+],
+"links": 19
+},
+{
+"name": "Farman Aviation Works",
+"aliases": [],
+"links": 19
+},
+{
+"name": "FSC Żuk",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Geo",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Isdera",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Jensen Motors",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Panoz Auto Development",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Riley Motor",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Ruf Automobile",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Saleen",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Think Global",
+"aliases": [
+"Pivco"
+],
+"links": 19
+},
+{
+"name": "Vignale",
+"aliases": [
+"Carrozzeria Vignale"
+],
+"links": 19
+},
+{
+"name": "Wuling Motors",
+"aliases": [
+"Wuling Motors Holdings Limited"
+],
+"links": 19
+},
+{
+"name": "Zaporozhets",
+"aliases": [
+"ZAZ Zaporozhets"
+],
+"links": 19
+},
+{
+"name": "Aiways",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Breguet Aviation",
+"aliases": [
+"Louis Breguet Aviation Workshops"
+],
+"links": 18
+},
+{
+"name": "Daewoo Motors",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Dongfeng Stellantis",
+"aliases": [
+"Dongfeng Peugeot-Citroën Automobile",
+"DPCA",
+"Shenlong"
+],
+"links": 18
+},
+{
+"name": "Faraday Future",
+"aliases": [
+"Faraday Future Inc."
+],
+"links": 18
+},
+{
+"name": "FSO Warszawa",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Haval",
+"aliases": [
+"GWM Haval"
+],
+"links": 18
+},
+{
+"name": "Oltcit",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Pierce-Arrow",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Polski FIAT",
+"aliases": [
+"FSO",
+"Polski-Fiat"
+],
+"links": 18
+},
+{
+"name": "Qoros",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Spyker",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Stanley Motor Carriage Company",
+"aliases": [],
+"links": 18
+},
+{
+"name": "ZX Auto",
+"aliases": [
+"Hebei Zhongxing Automobile Co Ltd"
+],
+"links": 18
+},
+{
+"name": "Agrale",
+"aliases": [
+"Agrale Brazil"
+],
+"links": 17
+},
+{
+"name": "AJS",
+"aliases": [
+"AJS Motorcycles Ltd"
+],
+"links": 17
+},
+{
+"name": "Alex von Falkenhausen Motorenbau",
+"aliases": [
+"AFM F1 constructor",
+"AFM Formula One constructor",
+"Alex von Falkenhausen F1 constructor",
+"Alex von Falkenhausen Formula One constructor",
+"von Falkenhausen F1 constructor",
+"von Falkenhausen Formula One constructor"
+],
+"links": 17
+},
+{
+"name": "Amphicar",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Arcfox",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Aurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Austin-Healey",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Baojun",
+"aliases": [],
+"links": 17
+},
+{
+"name": "BAW",
+"aliases": [
+"Beijing Automobile Works",
+"Beijing Automobile Works Co., Ltd."
+],
+"links": 17
+},
+{
+"name": "El Nasr Automotive Manufacturing Company",
+"aliases": [
+"El Nasr",
+"Nasr",
+"Nasr Automotive"
+],
+"links": 17
+},
+{
+"name": "Fabryka Samochodów Małolitrażowych",
+"aliases": [
+"FSM"
+],
+"links": 17
+},
+{
+"name": "Facel Vega",
+"aliases": [
+"Facel",
+"Facel S.A.",
+"Facel SA",
+"Facel Véga",
+"Facel-Vega"
+],
+"links": 17
+},
+{
+"name": "Gillet",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ginetta Cars",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Goliath",
+"aliases": [
+"Goliath-Werke Borgward & Co."
+],
+"links": 17
+},
+{
+"name": "Higer",
+"aliases": [
+"Higer Bus"
+],
+"links": 17
+},
+{
+"name": "Hillman",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Imperia",
+"aliases": [
+"Impéria",
+"Impéria Automobiles"
+],
+"links": 17
+},
+{
+"name": "Imperial",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Itala",
+"aliases": [
+"Ceirano Matteo & C. Vetture Marca Itala",
+"Itala Fabbrica Automobili"
+],
+"links": 17
+},
+{
+"name": "Jaecoo",
+"aliases": [
+"Lucano"
+],
+"links": 17
+},
+{
+"name": "Kaiser Motors",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kojima Engineering",
+"aliases": [
+"Kojima F1 team",
+"Kojima Formula One team"
+],
+"links": 17
+},
+{
+"name": "Laurin & Klement",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Marcos Engineering",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Monteverdi",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Oakland Motor Car Company",
+"aliases": [],
+"links": 17
+},
+{
+"name": "OSCA",
+"aliases": [
+"Officine Specializzate Costruzione Automobili"
+],
+"links": 17
+},
+{
+"name": "SAIC Volkswagen",
+"aliases": [
+"SAIC Volkswagen Automobile Co., Ltd.",
+"SAIC Volkswagen Automotive Co., Ltd",
+"Shanghai Volkswagen"
+],
+"links": 17
+},
+{
+"name": "Simson",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sunbeam",
+"aliases": [
+"Sunbeam Motor Car Company Limited"
+],
+"links": 17
+},
+{
+"name": "Toyota Gazoo Racing",
+"aliases": [
+"Gazoo Racing",
+"GR",
+"TGR",
+"Toyota GR",
+"Toyota Racing"
+],
+"links": 17
+},
+{
+"name": "Trumpchi",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Volkswagen do Brasil",
+"aliases": [
+"Volkswagen Brazil",
+"Volkswagen do Brasil Ltda."
+],
+"links": 17
+},
+{
+"name": "Willys",
+"aliases": [
+"Willis Motor Company",
+"Willys – Overland Motors",
+"Willys–Overland Motors"
+],
+"links": 17
+},
+{
+"name": "Abadal",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Asia Motors",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Avatr Technology",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Brough Superior",
+"aliases": [],
+"links": 16
+},
+{
+"name": "ErAZ",
+"aliases": [],
+"links": 16
+},
+{
+"name": "FAW-Volkswagen",
+"aliases": [
+"FAW-Volkswagen Automotive Co. Ltd"
+],
+"links": 16
+},
+{
+"name": "Fiat Professional",
+"aliases": [
+"Fiat LCV",
+"Fiat Light Commercial Vehicles",
+"Fiat Veicoli Commerciali"
+],
+"links": 16
+},
+{
+"name": "Ford Germany",
+"aliases": [
+"Ford of Germany"
+],
+"links": 16
+},
+{
+"name": "Ford of Europe",
+"aliases": [
+"Ford Europe"
+],
+"links": 16
+},
+{
+"name": "Ford Otosan",
+"aliases": [
+"Otosan"
+],
+"links": 16
+},
+{
+"name": "FSO Syrena",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Glas",
+"aliases": [
+"Hans Glas GmbH"
+],
+"links": 16
+},
+{
+"name": "Iso Rivolta",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Jetour",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Karsan",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lanchester Motor Company",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Laraki",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nagant",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nysa",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Omoda",
+"aliases": [
+"Ecoda"
+],
+"links": 16
+},
+{
+"name": "Piëch Automotive",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Rambler",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Seres Auto",
+"aliases": [
+"DFSK",
+"DFSK Motor",
+"Dongfeng Sokon",
+"Seres Auto Hubei",
+"Seres Automobile",
+"Seres Hubei"
+],
+"links": 16
+},
+{
+"name": "Siemens-Schuckert",
+"aliases": [
+"Siemens & Schuckert",
+"Siemens and Schuckert",
+"Siemens Schuckertwerke AG"
+],
+"links": 16
+},
+{
+"name": "Standard Motor Company",
+"aliases": [],
+"links": 16
+},
+{
+"name": "VDL Nedcar",
+"aliases": [
+"NedCar"
+],
+"links": 16
+},
+{
+"name": "Vector Motors",
+"aliases": [
+"Vector Motors Corporation"
+],
+"links": 16
+},
+{
+"name": "Veritas",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Argus Motoren",
+"aliases": [],
+"links": 15
+},
+{
+"name": "BMW Dixi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Busscar",
+"aliases": [
+"Carrocerias Nielson"
+],
+"links": 15
+},
+{
+"name": "China South Industries Group",
+"aliases": [
+"China South Industries Group Co Ltd",
+"China South Industries Group Corporation",
+"CSGC"
+],
+"links": 15
+},
+{
+"name": "Hansa",
+"aliases": [
+"Hansa-Automobil Gesellschaft m.b.H.",
+"Hansa-Lloyd-Werke A. G."
+],
+"links": 15
+},
+{
+"name": "IM Motors",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jetta",
+"aliases": [
+"Jetta brand",
+"Jetta car brand"
+],
+"links": 15
+},
+{
+"name": "LaSalle",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lea-Francis",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Reliant",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Rinspeed",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sevel",
+"aliases": [
+"Società europea veicoli leggeri"
+],
+"links": 15
+},
+{
+"name": "Soueast",
+"aliases": [
+"Dongnan Motor Co., Ltd",
+"Soueast Motors",
+"South East Motor Co., Ltd."
+],
+"links": 15
+},
+{
+"name": "Stellantis Europe",
+"aliases": [
+"FCA Italy",
+"FGA",
+"Fiat Chrysler Automobiles Italy",
+"Fiat Group Automobiles"
+],
+"links": 15
+},
+{
+"name": "Stutz Motor Company",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Abbott-Detroit",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Albion Motors",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Allard Motor Company",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Carlsson",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Checker Motors Corporation",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Commer",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Fangchengbao",
+"aliases": [
+"Fang Cheng Bao"
+],
+"links": 14
+},
+{
+"name": "Force Motors",
+"aliases": [
+"Bajaj Tempo"
+],
+"links": 14
+},
+{
+"name": "Fábrica Nacional de Motores",
+"aliases": [
+"Fabrica Nacional de Motores"
+],
+"links": 14
+},
+{
+"name": "Gemballa",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Geometry",
+"aliases": [
+"Geely Geome",
+"Geely Geometry",
+"Geome"
+],
+"links": 14
+},
+{
+"name": "Haima Automobile",
+"aliases": [
+"Haima Automobile Group Co., Ltd"
+],
+"links": 14
+},
+{
+"name": "HQM Sachsenring GmbH",
+"aliases": [
+"Sachsenring"
+],
+"links": 14
+},
+{
+"name": "Industrias Kaiser Argentina",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Jiangling Motors",
+"aliases": [
+"Jiangling",
+"JMC"
+],
+"links": 14
+},
+{
+"name": "Lister Cars",
+"aliases": [
+"Lister Motor Company Ltd."
+],
+"links": 14
+},
+{
+"name": "Luxgen",
+"aliases": [
+"Luxgen Motor Co., Ltd."
+],
+"links": 14
+},
+{
+"name": "Marmon Motor Car Company",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Mercedes-Benz EQ",
+"aliases": [],
+"links": 14
+},
+{
+"name": "SAIC General Motors",
+"aliases": [
+"SAIC GM",
+"Shanghai General Mtoros",
+"Shanghai GM"
+],
+"links": 14
+},
+{
+"name": "Troller Veículos Especiais",
+"aliases": [
+"Troller Veiculos Especiais"
+],
+"links": 14
+},
+{
+"name": "Velorex",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Wallyscar",
+"aliases": [],
+"links": 14
+},
+{
+"name": "AC Schnitzer",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Anzani",
+"aliases": [
+"Fabbrica Motori Anzani"
+],
+"links": 13
+},
+{
+"name": "Automobiles L. Rosengart",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Automobilwerk Eisenach",
+"aliases": [
+"AWE",
+"Eisenacher Motoren Werke",
+"EMW",
+"VEB Automobilwerk Eisenach"
+],
+"links": 13
+},
+{
+"name": "Automotive Industries",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Beijing Benz",
+"aliases": [
+"Beijing Benz DaimlerChrysler"
+],
+"links": 13
+},
+{
+"name": "Bitter Automobile",
+"aliases": [
+"Bitter Cars"
+],
+"links": 13
+},
+{
+"name": "Bizzarrini",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Blériot",
+"aliases": [
+"Bleriot",
+"Bleriot Aeronautique",
+"Blériot Aéronautique"
+],
+"links": 13
+},
+{
+"name": "British Motor Holdings",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Carrozzeria Fissore",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Changhe",
+"aliases": [],
+"links": 13
+},
+{
+"name": "DR Automobiles Groupe",
+"aliases": [
+"DR",
+"DR Motor Company"
+],
+"links": 13
+},
+{
+"name": "Fisker",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Ford of Britain",
+"aliases": [
+"British Ford",
+"Ford Britain",
+"Ford UK",
+"Ford United Kingdom"
+],
+"links": 13
+},
+{
+"name": "FSR Tarpan",
+"aliases": [],
+"links": 13
+},
+{
+"name": "GAC Aion",
+"aliases": [
+"Aion",
+"GAC NE",
+"GAC New Energy"
+],
+"links": 13
+},
+{
+"name": "Hennessey Performance Engineering",
+"aliases": [
+"HPE"
+],
+"links": 13
+},
+{
+"name": "Hupmobile",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Irmscher",
+"aliases": [],
+"links": 13
+},
+{
+"name": "IzhAvto",
+"aliases": [
+"Lada Izhevsk"
+],
+"links": 13
+},
+{
+"name": "Jiangsu Yueda Kia Motors",
+"aliases": [
+"Dongfeng Yueda Kia",
+"Dongfeng Yueda Kia Motors"
+],
+"links": 13
+},
+{
+"name": "Landwind",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Lorraine-Dietrich",
+"aliases": [
+"De Dietrich et Cie",
+"Lorraine"
+],
+"links": 13
+},
+{
+"name": "Luxeed",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Maico",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Microcar",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mowag",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Nuffield Organization",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Overland Automobile",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Radical Sportscars",
+"aliases": [
+"Radical Sportcars"
+],
+"links": 13
+},
+{
+"name": "Scuderia Cameron Glickenhaus",
+"aliases": [
+"Glickenhaus",
+"SCG"
+],
+"links": 13
+},
+{
+"name": "Seres Group",
+"aliases": [
+"Chongqing Sokon",
+"Chongqing Sokon Industrial Group Co",
+"Sokon"
+],
+"links": 13
+},
+{
+"name": "Stoewer",
+"aliases": [
+"Stower"
+],
+"links": 13
+},
+{
+"name": "Sungri Motors",
+"aliases": [
+"Sungri Motor",
+"Sungri Motor Complex",
+"Sungri Motor Works",
+"Tochkon Motor Company"
+],
+"links": 13
+},
+{
+"name": "Switch Mobility",
+"aliases": [
+"Optare"
+],
+"links": 13
+},
+{
+"name": "Tec-Mec",
+"aliases": [
+"Studio Tecnica Meccanica"
+],
+"links": 13
+},
+{
+"name": "Acadian vehicles",
+"aliases": [
+"Acadian brand"
+],
+"links": 12
+},
+{
+"name": "Alta",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Biscúter",
+"aliases": [
+"Biscuter"
+],
+"links": 12
+},
+{
+"name": "Brasier",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Chrysler Europe",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Delaunay-Belleville",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Elcat Oy",
+"aliases": [
+"Elcat"
+],
+"links": 12
+},
+{
+"name": "Excalibur",
+"aliases": [],
+"links": 12
+},
+{
+"name": "FAW Tianjin",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Ford do Brasil",
+"aliases": [
+"Companhia Ford Industrial do Brasil",
+"Ford Brasil",
+"Ford Brazil"
+],
+"links": 12
+},
+{
+"name": "Gordon-Keeble",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Gutbrod",
+"aliases": [],
+"links": 12
+},
+{
+"name": "HiPhi",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Magyar Suzuki",
+"aliases": [
+"Magyar Suzuki Corporation"
+],
+"links": 12
+},
+{
+"name": "Mastretta",
+"aliases": [
+"Mastretta Cars"
+],
+"links": 12
+},
+{
+"name": "Maxwell Motor Company",
+"aliases": [
+"Maxwell automobile"
+],
+"links": 12
+},
+{
+"name": "Melkus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Mercedes",
+"aliases": [
+"Mercedes brand"
+],
+"links": 12
+},
+{
+"name": "Mors",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Mosler Automotive",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Oyak Renault",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Pars Khodro",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Peel Engineering Company",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Peerless",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Peugeot Sport",
+"aliases": [
+"Marlboro Peugeot Total",
+"Peugeot Talbot Sport"
+],
+"links": 12
+},
+{
+"name": "Scripps-Booth",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Shanghai Maple",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Singer Motors",
+"aliases": [
+"Singer"
+],
+"links": 12
+},
+{
+"name": "TANK",
+"aliases": [
+"GWM Tank"
+],
+"links": 12
+},
+{
+"name": "Unic",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Valmet Automotive",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Venucia",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Wey",
+"aliases": [],
+"links": 12
+},
+{
+"name": "White Motor Company",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Winton Motor Carriage Company",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Yulon Motor",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Zhiguli",
+"aliases": [
+"Jiguli",
+"Lada Nova",
+"Lada Riva",
+"Lada Signet"
+],
+"links": 12
+},
+{
+"name": "ÖAF",
+"aliases": [
+"Austro-Fiat",
+"Österreichische Austro-Fiat",
+"Österreichische Automobil-Fabrik"
+],
+"links": 12
+},
+{
+"name": "ABC Motors",
+"aliases": [
+"All British Engine Company"
+],
+"links": 11
+},
+{
+"name": "Adria Mobil",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Aeolus",
+"aliases": [
+"Dongfeng Aeolus",
+"Dongfeng Fengshen",
+"Fengshen"
+],
+"links": 11
+},
+{
+"name": "Aero",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Aquila Italiana",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Arzani-Volpini",
+"aliases": [
+"Arzani-Volpini F1 team",
+"Arzani-Volpini Formula One team"
+],
+"links": 11
+},
+{
+"name": "Austin Rover Group",
+"aliases": [
+"Austin Rover"
+],
+"links": 11
+},
+{
+"name": "Ballot",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bandini Automobili",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Barreiros",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Byton",
+"aliases": [
+"Future Mobility Corporation"
+],
+"links": 11
+},
+{
+"name": "Casalini",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Changfeng Motor",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Chevron Cars",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dangel",
+"aliases": [],
+"links": 11
+},
+{
+"name": "DB",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ebro",
+"aliases": [
+"Ebro Ecopower"
+],
+"links": 11
+},
+{
+"name": "Edwin Foden, Sons & Co.",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Elfin Sports Cars",
+"aliases": [
+"Elfin Sports Cars Pty Ltd"
+],
+"links": 11
+},
+{
+"name": "Everus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Excelsior Motor Company",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Fafnir",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ford Australia",
+"aliases": [
+"Ford of Australia"
+],
+"links": 11
+},
+{
+"name": "GAC Fiat Chrysler",
+"aliases": [
+"GAC FCA",
+"GAC Fiat Automobiles Co., Ltd."
+],
+"links": 11
+},
+{
+"name": "GAC Honda",
+"aliases": [
+"ghac.cn",
+"Guangqi Honda"
+],
+"links": 11
+},
+{
+"name": "GAC Toyota",
+"aliases": [
+"GTMC"
+],
+"links": 11
+},
+{
+"name": "GAZ Group",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Global Electric Motorcars",
+"aliases": [
+"GEM",
+"GEM Vehicles"
+],
+"links": 11
+},
+{
+"name": "Hawtai",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Henry Ford Company",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Industrija motornih vozil",
+"aliases": [
+"Adria Mobil",
+"IMV",
+"Revoz"
+],
+"links": 11
+},
+{
+"name": "Invicta",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ioniq",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Jonway Automobile",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Karosserie Baur",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kutaisi Auto Mechanical Plant",
+"aliases": [],
+"links": 11
+},
+{
+"name": "LDV",
+"aliases": [
+"LDV Group now part of SAIC group"
+],
+"links": 11
+},
+{
+"name": "Le Zèbre",
+"aliases": [
+"Le Zebre"
+],
+"links": 11
+},
+{
+"name": "Locomobile Company of America",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Maextro",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Napier & Son",
+"aliases": [
+"D. Napier & Son",
+"D. Napier and Son",
+"Napier and Son"
+],
+"links": 11
+},
+{
+"name": "North German Automobile and Engine",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Premier Automobiles Limited",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Puma",
+"aliases": [
+"Puma Automóveis Ltda."
+],
+"links": 11
+},
+{
+"name": "Renault Russia",
+"aliases": [
+"Avtoframos"
+],
+"links": 11
+},
+{
+"name": "S.P.A.",
+"aliases": [
+"Societa Piemontese Automobili",
+"Società Piemontese Automobili",
+"SPA"
+],
+"links": 11
+},
+{
+"name": "SeAZ",
+"aliases": [],
+"links": 11
+},
+{
+"name": "SG Automotive",
+"aliases": [],
+"links": 11
+},
+{
+"name": "TagAZ",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Thames Ironworks and Shipbuilding Company",
+"aliases": [
+"Thames Iron Works"
+],
+"links": 11
+},
+{
+"name": "Thomas Built Buses",
+"aliases": [
+"Thomas",
+"Thomas Built Buses, Inc.",
+"Thomas buses"
+],
+"links": 11
+},
+{
+"name": "Trnavské automobilové závody",
+"aliases": [
+"Trnavske automobilove zavody"
+],
+"links": 11
+},
+{
+"name": "Troll",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Viking",
+"aliases": [
+"Viking General Motors"
+],
+"links": 11
+},
+{
+"name": "Vivinus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zinoro",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zust",
+"aliases": [],
+"links": 11
+},
+{
+"name": "9ff",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Alldays & Onions",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Anadolu Isuzu",
+"aliases": [
+"Anadolu Isuzu Automotive Industry & Trading A.S."
+],
+"links": 10
+},
+{
+"name": "Arash Motor Company",
+"aliases": [
+"Farboud Limited"
+],
+"links": 10
+},
+{
+"name": "Asüna",
+"aliases": [
+"Asuna vehicles"
+],
+"links": 10
+},
+{
+"name": "Ateliers de Construction Mecanique l'Aster",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Automobili Stanguellini",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Baker Motor Vehicle",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bignan",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bugatti Rimac",
+"aliases": [
+"Bugatti Rimac LLC"
+],
+"links": 10
+},
+{
+"name": "Carrosserie Hess",
+"aliases": [
+"Carrosserie Hess AG"
+],
+"links": 10
+},
+{
+"name": "Ceirano GB & C",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Crosley",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Dadi Auto",
+"aliases": [
+"Dadi Automobile Group Co., Ltd."
+],
+"links": 10
+},
+{
+"name": "Diatto",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Durkopp Adler",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Egg",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Eicher",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Elmore",
+"aliases": [
+"Elmore automobile"
+],
+"links": 10
+},
+{
+"name": "Elva",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Esemka",
+"aliases": [
+"PT Solo Manufaktur Kreasi",
+"Solo Manufaktur Kreasi"
+],
+"links": 10
+},
+{
+"name": "Fabryka Samochodów Ciężarowych",
+"aliases": [
+"FSC"
+],
+"links": 10
+},
+{
+"name": "FCA Srbija",
+"aliases": [
+"FCA Serbia",
+"Fiat automobili Srbija"
+],
+"links": 10
+},
+{
+"name": "Fiat Industrial",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Ford Performance Vehicles",
+"aliases": [
+"FPV"
+],
+"links": 10
+},
+{
+"name": "Gonow",
+"aliases": [
+"GAC Gonow"
+],
+"links": 10
+},
+{
+"name": "GTA Motor",
+"aliases": [
+"kobee"
+],
+"links": 10
+},
+{
+"name": "Hyundai Motor India Limited",
+"aliases": [
+"HMIL"
+],
+"links": 10
+},
+{
+"name": "Inokom",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Jinbei",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kaipan",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kantanka Automobile",
+"aliases": [
+"Kantanka",
+"Kantanka cars",
+"Kantanka vehicles"
+],
+"links": 10
+},
+{
+"name": "Lada Zapad Tolyatti",
+"aliases": [
+"GM-AVTOVAZ"
+],
+"links": 10
+},
+{
+"name": "Marquette",
+"aliases": [
+"Marquette automobiles",
+"Marquette Motor Car Company"
+],
+"links": 10
+},
+{
+"name": "Merkur",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Neckar",
+"aliases": [
+"NSU-Fiat"
+],
+"links": 10
+},
+{
+"name": "Panther Westwinds",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Premier Automotive Group",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rickenbacker",
+"aliases": [
+"Rickenbacker Motor Company"
+],
+"links": 10
+},
+{
+"name": "Robur",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rover",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Scout",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Selve",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shineray Group",
+"aliases": [
+"Shineray"
+],
+"links": 10
+},
+{
+"name": "Stebro",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Stelato",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Volkswagen Autoeuropa",
+"aliases": [],
+"links": 10
+},
+{
+"name": "William Beardmore and Company",
+"aliases": [
+"W. Beardmore"
+],
+"links": 10
+},
+{
+"name": "Youngman",
+"aliases": [
+"YONG MAN"
+],
+"links": 10
+},
+{
+"name": "Alcyon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Antoinette",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Artega Automobile",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Aspid",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ateliers Germain",
+"aliases": [
+"Germain"
+],
+"links": 9
+},
+{
+"name": "Automobiles Grégoire",
+"aliases": [
+"Automobiles Gregoire",
+"Gregoire"
+],
+"links": 9
+},
+{
+"name": "Autozam",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Auverland",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bucciali",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bulgarrenault",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Canoo",
+"aliases": [
+"Canoo Inc.",
+"Canoo Technologies Inc.",
+"Evelozcity"
+],
+"links": 9
+},
+{
+"name": "Carbodies Limited",
+"aliases": [
+"Carbodies"
+],
+"links": 9
+},
+{
+"name": "Cartercar",
+"aliases": [
+"Cartercar Company"
+],
+"links": 9
+},
+{
+"name": "Chiribiri",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Coda Automotive",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Compagnie Nationale Excelsior",
+"aliases": [
+"Automobiles Excelsior SA",
+"Excelsior"
+],
+"links": 9
+},
+{
+"name": "David",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ford Argentina",
+"aliases": [
+"Ford Motor Argentina",
+"Ford Motor Company of Argentina"
+],
+"links": 9
+},
+{
+"name": "Ford France",
+"aliases": [
+"Ford Motor Company",
+"Ford of France",
+"Ford SAF"
+],
+"links": 9
+},
+{
+"name": "Ford Romania",
+"aliases": [
+"Ford Otosan Romania",
+"Ford Otosan Romania SRL"
+],
+"links": 9
+},
+{
+"name": "Fornasari",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Framo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "GAC Mitsubishi",
+"aliases": [
+"GAC Mitsubishi Motors"
+],
+"links": 9
+},
+{
+"name": "Gardner-Serpollet",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Hotchkiss Grégoire",
+"aliases": [
+"Hotchkiss Gregoire"
+],
+"links": 9
+},
+{
+"name": "Hycan",
+"aliases": [
+"GAC Nio New Energy Automobile Technology",
+"Hycan Automobile Technology"
+],
+"links": 9
+},
+{
+"name": "Kaiser Jeep",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Kaiyi Auto",
+"aliases": [
+"Cowin",
+"Cowin Auto",
+"Yibin Kaiyi Automobile Co., Ltd."
+],
+"links": 9
+},
+{
+"name": "Kia Motors Slovakia",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lepas",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Leyat",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Litex Motors",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Local Motors",
+"aliases": [],
+"links": 9
+},
+{
+"name": "LTI",
+"aliases": [
+"London Taxis International",
+"London Taxis International Limited"
+],
+"links": 9
+},
+{
+"name": "Léon Bollée Automobiles",
+"aliases": [
+"Leon Bollee Automobiles"
+],
+"links": 9
+},
+{
+"name": "McLaughlin Motor Car Company",
+"aliases": [
+"GM Canada",
+"McLaughlin Carriage Co.",
+"McLaughlin Carriage Works",
+"McLaughlin Motor Car Co. Ltd."
+],
+"links": 9
+},
+{
+"name": "Motobloc",
+"aliases": [
+"Société Centrale de Constructions Mécaniques"
+],
+"links": 9
+},
+{
+"name": "NAMI",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Nanjing Fiat Automobile",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Neue Automobil Gesellschaft",
+"aliases": [
+"N.A.G.",
+"NAG",
+"NAG-Presto",
+"NAG-Protos",
+"Nationale Automobil-Gesellschaft",
+"Neue Automobil-Gesellschaft",
+"Neue Automobilgesellschaft"
+],
+"links": 9
+},
+{
+"name": "Nissan Motor Ibérica",
+"aliases": [
+"Motor Ibérica S.A.",
+"Nissan Motor Iberica"
+],
+"links": 9
+},
+{
+"name": "Nyayo Car",
+"aliases": [],
+"links": 9
+},
+{
+"name": "PhoenixEV",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pope Manufacturing Company",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Qvale",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ralf-Stetysz",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ranger",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Rising Auto",
+"aliases": [
+"R",
+"Roewe R"
+],
+"links": 9
+},
+{
+"name": "Rovin",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ruston & Hornsby",
+"aliases": [
+"Ruston and Hornsby"
+],
+"links": 9
+},
+{
+"name": "Somaca",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Studebaker-Packard Corporation",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Timor Putra Nasional",
+"aliases": [
+"Timor"
+],
+"links": 9
+},
+{
+"name": "URO",
+"aliases": [
+"URO VAMTAC"
+],
+"links": 9
+},
+{
+"name": "VLF Automotive",
+"aliases": [
+"VLF",
+"VLF Automotive LLC"
+],
+"links": 9
+},
+{
+"name": "Wuling",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Zimmer",
+"aliases": [],
+"links": 9
+},
+{
+"name": "AC Propulsion",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ader",
+"aliases": [],
+"links": 8
+},
+{
+"name": "AGA",
+"aliases": [],
+"links": 8
+},
+{
+"name": "American Austin Car Company",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Arnolt",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Arrival",
+"aliases": [
+"Arrival Limited",
+"Arrival Ltd"
+],
+"links": 8
+},
+{
+"name": "ASA",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Austro-Tatra",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Automobiles René Bonnet",
+"aliases": [
+"Automobiles Rene Bonnet"
+],
+"links": 8
+},
+{
+"name": "Avtotor",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Belsize Motors",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Brabham Automotive",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Buick Gran Sport",
+"aliases": [
+"Buick GS"
+],
+"links": 8
+},
+{
+"name": "Calthorpe cars",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Campion Cycle Company",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Carrozzeria Marazzi",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Century",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Chalmers Automobile",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Chamonix",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Columbia Automobile Company",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cottereau vehicles",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cyklon",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Dansk Automobil Byggeri",
+"aliases": [
+"DAB",
+"DAB-Silkeborg",
+"Danish Automobile Building",
+"Leyland-DAB",
+"Scania Busser Silkeborg",
+"Vest-Busscar Silkeborg"
+],
+"links": 8
+},
+{
+"name": "Diamond-Star Motors",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Donald Healey Motor Company",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Dongfeng Liuzhou Motor Company",
+"aliases": [
+"Dongfeng Liuzhou Motor"
+],
+"links": 8
+},
+{
+"name": "Durant",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Durant Motors",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Egy-Tech Engineering",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Egyptian German Automotive Company",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Emgrand",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Eunos",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Fuldamobil",
+"aliases": [],
+"links": 8
+},
+{
+"name": "General Motors Europe",
+"aliases": [
+"GM Europe"
+],
+"links": 8
+},
+{
+"name": "Gillet Herstal",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Grecav",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gurgel",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Guy Motors",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hesketh Motorcycles",
+"aliases": [
+"Hesketh"
+],
+"links": 8
+},
+{
+"name": "Holland Car",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Intermeccanica",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Jordan Motor Car Company",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Karl Kässbohrer Fahrzeugwerke",
+"aliases": [
+"Kässbohrer Fahrzeugwerke"
+],
+"links": 8
+},
+{
+"name": "Kleinschnittger",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lion-Peugeot",
+"aliases": [],
+"links": 8
+},
+{
+"name": "London EV Company",
+"aliases": [
+"LEVC",
+"London Electric Vehicle Company"
+],
+"links": 8
+},
+{
+"name": "Loremo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Matford",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mercedes-Benz U.S. International",
+"aliases": [],
+"links": 8
+},
+{
+"name": "MTX",
+"aliases": [
+"Metalex"
+],
+"links": 8
+},
+{
+"name": "Muntz Car Company",
+"aliases": [
+"Muntz"
+],
+"links": 8
+},
+{
+"name": "National Pescara",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Nazzaro",
+"aliases": [
+"Nazzaro & C.Fabbrica di Automobili"
+],
+"links": 8
+},
+{
+"name": "Nesselsdorfer Wagenbau-Fabriks-Gesellschaft",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Onvo",
+"aliases": [
+"NIO",
+"On Voyage"
+],
+"links": 8
+},
+{
+"name": "Peerless",
+"aliases": [
+"Peerless Cars Ltd."
+],
+"links": 8
+},
+{
+"name": "Riich",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ruxton",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Shuanghuan Auto",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sizaire-Naudin",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sol",
+"aliases": [
+"Sehol"
+],
+"links": 8
+},
+{
+"name": "Spyker N.V.",
+"aliases": [],
+"links": 8
+},
+{
+"name": "SS Cars Ltd",
+"aliases": [],
+"links": 8
+},
+{
+"name": "TAS vehicles",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tecnologia Automotiva Catarinense",
+"aliases": [
+"CAB Motors"
+],
+"links": 8
+},
+{
+"name": "Terraplane",
+"aliases": [
+"Hudson Terraplane"
+],
+"links": 8
+},
+{
+"name": "Turcat-Méry",
+"aliases": [
+"Turcat-Mery"
+],
+"links": 8
+},
+{
+"name": "Ultima Sports",
+"aliases": [],
+"links": 8
+},
+{
+"name": "UMM",
+"aliases": [
+"União Metalo-Mecânica"
+],
+"links": 8
+},
+{
+"name": "Vest Buss",
+"aliases": [
+"Vest-Busscar Stryn",
+"Vest-Karosseri"
+],
+"links": 8
+},
+{
+"name": "Victoria",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Volkswagen Investment Co., Ltd.",
+"aliases": [
+"Volkswagen China",
+"Volkswagen Group China"
+],
+"links": 8
+},
+{
+"name": "Volkswagen Slovakia",
+"aliases": [
+"Volkswagen Slovensko"
+],
+"links": 8
+},
+{
+"name": "WiLL",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Adami",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Adolf Bleichert & Co.",
+"aliases": [
+"Bleichert Transport systems"
+],
+"links": 7
+},
+{
+"name": "Aero Minor",
+"aliases": [],
+"links": 7
+},
+{
+"name": "AFA",
+"aliases": [],
+"links": 7
+},
+{
+"name": "ALP",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Apal",
+"aliases": [],
+"links": 7
+},
+{
+"name": "APIS",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Arab American Vehicles",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Argyll Motors Ltd",
+"aliases": [
+"Hozier Engineering Company"
+],
+"links": 7
+},
+{
+"name": "Arrol-Johnston",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Astra Daihatsu Motor",
+"aliases": [],
+"links": 7
+},
+{
+"name": "AUDI",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Auto Avio Costruzioni",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Autocars Co.",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Automobile Craiova",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Automobiles Bellanger Frères",
+"aliases": [
+"Automobiles Bellanger Freres"
+],
+"links": 7
+},
+{
+"name": "Avia Vehicles",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Baja Bug",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Barabus TKR",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bavarian Auto Group",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Berna",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Binz",
+"aliases": [
+"Binz GmbH & Co. KG"
+],
+"links": 7
+},
+{
+"name": "Bollack Netter and Co",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bowler Offroad",
+"aliases": [
+"Bowler Manufacturing"
+],
+"links": 7
+},
+{
+"name": "Briggs Automotive Company",
+"aliases": [
+"BAC Mono"
+],
+"links": 7
+},
+{
+"name": "Brissonneau et Lotz",
+"aliases": [
+"Brissonneau & Lotz",
+"Brissonneau and Lotz"
+],
+"links": 7
+},
+{
+"name": "Brixia-Zust",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bromme",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Burton",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Carver",
+"aliases": [
+"Carver Europe B.V.",
+"Carver vehicles"
+],
+"links": 7
+},
+{
+"name": "Centralne Warsztaty Samochodowe",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Chater-Lea",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cole Motor Car Company",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Comil",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Corre La Licorne",
+"aliases": [
+"Corre-La Licorne",
+"La Licorne",
+"Licorne"
+],
+"links": 7
+},
+{
+"name": "Cottin & Desgouttes",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Covini Engineering",
+"aliases": [],
+"links": 7
+},
+{
+"name": "De La Chapelle",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Denzel",
+"aliases": [],
+"links": 7
+},
+{
+"name": "DeWitt Motor Company",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Dorcen",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Dort Motor Car Company",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Egyptian Light Transport Manufacturing Company",
+"aliases": [
+"Ramses Gamila"
+],
+"links": 7
+},
+{
+"name": "Elizalde",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Enzmann",
+"aliases": [],
+"links": 7
+},
+{
+"name": "FAMO",
+"aliases": [
+"Fahrzeug- und Motoren-Werke"
+],
+"links": 7
+},
+{
+"name": "FASA-Renault",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ford Motor Company of Canada",
+"aliases": [
+"Ford Canada",
+"Ford of Canada"
+],
+"links": 7
+},
+{
+"name": "Foxtron",
+"aliases": [
+"Foxtron Vehicle Technologies Co., Ltd."
+],
+"links": 7
+},
+{
+"name": "GB Corp",
+"aliases": [
+"Ghabbour"
+],
+"links": 7
+},
+{
+"name": "General Motors Egypt",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Georges Irat",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Giannini Automobili",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Gilbern",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Gladiator Cycle Company",
+"aliases": [
+"Gladiator vehicles"
+],
+"links": 7
+},
+{
+"name": "Guangzhou Peugeot Automobile Company",
+"aliases": [
+"Guangzhou Peugeot"
+],
+"links": 7
+},
+{
+"name": "Heibao",
+"aliases": [
+"Heibao Auto"
+],
+"links": 7
+},
+{
+"name": "HiPhi X",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hurtan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "IAME Rastrojero",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kissel Motor Car Company",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Krieger Company of Electric Vehicles",
+"aliases": [],
+"links": 7
+},
+{
+"name": "LaFayette Motors",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lexus F",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Little Motor Car Company",
+"aliases": [
+"Little"
+],
+"links": 7
+},
+{
+"name": "Mars",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Maurer-Union",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Meteor",
+"aliases": [
+"Meteor vehicles"
+],
+"links": 7
+},
+{
+"name": "Mia electric",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mobius Motors",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mochet",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Modec",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Moreland Motor Truck Company",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Métallurgique",
+"aliases": [
+"Metallurgique"
+],
+"links": 7
+},
+{
+"name": "Namco",
+"aliases": [
+"National Motor Company",
+"National Motor Company of Greece"
+],
+"links": 7
+},
+{
+"name": "National Motor Vehicle Company",
+"aliases": [],
+"links": 7
+},
+{
+"name": "New-Map",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Obvio!",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Officine Stampaggi Industriali",
+"aliases": [
+"O.S.I.",
+"OSI"
+],
+"links": 7
+},
+{
+"name": "Pic-Pic",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pipe",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Protos of Nonnendamm",
+"aliases": [],
+"links": 7
+},
+{
+"name": "PTV",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Rainier Motor Car Company",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ranz",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Renault do Brasil",
+"aliases": [
+"Renault do Brasil Automoveis"
+],
+"links": 7
+},
+{
+"name": "Renntech",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Rolland-Pilain",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Rox Motor",
+"aliases": [
+"Jishi",
+"Polestones"
+],
+"links": 7
+},
+{
+"name": "Siddeley-Deasy",
+"aliases": [
+"Siddeley-Deasy Motorcar Company Limited"
+],
+"links": 7
+},
+{
+"name": "Speranza Motors",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Squire Car Manufacturing Company",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Subaru of Indiana Automotive, Inc.",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tawon Car",
+"aliases": [
+"PT Super Gasindo Jaya",
+"Super Gasindo Jaya"
+],
+"links": 7
+},
+{
+"name": "Thomas B. Jeffery Company",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tomcar",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tushek&Spigel Supercars",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Unison",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Venirauto",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Volkswagen Automotive Co., Ltd.",
+"aliases": [
+"Volkswagen",
+"Volkswagen Anhui"
+],
+"links": 7
+},
+{
+"name": "Walter vehicles",
+"aliases": [
+"Walter Fiat"
+],
+"links": 7
+},
+{
+"name": "Wikov",
+"aliases": [
+"Wichterle a Kovářík a.s.",
+"Wikov CZ"
+],
+"links": 7
+},
+{
+"name": "Wilson-Pilcher",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Woojin Industrial Systems",
+"aliases": [
+"WJIS"
+],
+"links": 7
+},
+{
+"name": "Yes! Roadster",
+"aliases": [],
+"links": 7
+},
+{
+"name": "ABC",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Aberdonia Cars",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ace",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Advance Motor Manufacturing Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Alexander Leutner & Co.",
+"aliases": [],
+"links": 6
+},
+{
+"name": "American Simplex",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ampere",
+"aliases": [
+"Ampere Electricity, Ampere SAS"
+],
+"links": 6
+},
+{
+"name": "Anglo-Dane",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ansaldo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Apperson",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ariès",
+"aliases": [
+"Aries"
+],
+"links": 6
+},
+{
+"name": "Arnold",
+"aliases": [],
+"links": 6
+},
+{
+"name": "ArtLine Racing",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Australian Motor Industries",
+"aliases": [],
+"links": 6
+},
+{
+"name": "AutoAlliance Thailand",
+"aliases": [
+"AAT",
+"Auto Alliance Thailand"
+],
+"links": 6
+},
+{
+"name": "Automobiles Bernardet",
+"aliases": [
+"Établissement Bernardet Frères"
+],
+"links": 6
+},
+{
+"name": "Automobiles Talbot France",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Avanti",
+"aliases": [
+"Avanti Automotive Corporation",
+"Avanti II",
+"AVX"
+],
+"links": 6
+},
+{
+"name": "B Engineering",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Baughan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Beijing Jeep",
+"aliases": [
+"Beijing Jeep Corporation"
+],
+"links": 6
+},
+{
+"name": "Belga Rise",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Biotechnia Ellinikon Trikyklon",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bjering",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bolide",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bricklin SV-1",
+"aliases": [],
+"links": 6
+},
+{
+"name": "BrightDrop",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Brouhot vehicles",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Brush Motor Car Company",
+"aliases": [
+"Brush Runabout Company"
+],
+"links": 6
+},
+{
+"name": "Bulgaralpine",
+"aliases": [],
+"links": 6
+},
+{
+"name": "C. Benz Söhne vehicles",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Caparo Vehicle Technologies",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Castro vehicles",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chapuis-Dornier",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Charron-Laycock",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ciimo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Citroën Racing",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Clénet Coachworks",
+"aliases": [
+"Clenet Coachworks"
+],
+"links": 6
+},
+{
+"name": "Constantinesco",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Coventry Victor",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cudell",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Czinger",
+"aliases": [
+"Czinger Vehicles"
+],
+"links": 6
+},
+{
+"name": "DAC",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Daimler Truck North America",
+"aliases": [
+"Daimler Truck North America LLC"
+],
+"links": 6
+},
+{
+"name": "Darmont",
+"aliases": [],
+"links": 6
+},
+{
+"name": "David Brown Automotive",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Derby",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Derways",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Devaux Coupe",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Donnet",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Du Pont Motors",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eucort",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eurocar",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eysink",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Farus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Faun-Werke",
+"aliases": [],
+"links": 6
+},
+{
+"name": "FAW Toyota Motor",
+"aliases": [
+"FTCC",
+"SFTM",
+"Sichuan FAW Toyota Motor"
+],
+"links": 6
+},
+{
+"name": "Flandria",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Flint",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Flxible",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ford Motor Company of Japan",
+"aliases": [
+"Ford Japan",
+"Ford Japan Limited"
+],
+"links": 6
+},
+{
+"name": "Ford Raptor",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Frontenac Motor Corporation",
+"aliases": [],
+"links": 6
+},
+{
+"name": "GEA Westfalia Separator",
+"aliases": [],
+"links": 6
+},
+{
+"name": "General Motors do Brasil",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Georges Richard",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Gobron-Brillié",
+"aliases": [
+"Gobron-Brillie"
+],
+"links": 6
+},
+{
+"name": "Guangzhou Automobile Industry Group",
+"aliases": [
+"GAIG"
+],
+"links": 6
+},
+{
+"name": "Hackett",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hannoversche Waggonfabrik",
+"aliases": [
+"Hannoversche Waggonfabrik AG"
+],
+"links": 6
+},
+{
+"name": "Hanomag-Henschel",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Haynes Automobile Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Henriod",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hermes-Simplex",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Honda of the UK Manufacturing",
+"aliases": [],
+"links": 6
+},
+{
+"name": "HRG Engineering Company",
+"aliases": [
+"HRG"
+],
+"links": 6
+},
+{
+"name": "Hyptec",
+"aliases": [
+"Hyper"
+],
+"links": 6
+},
+{
+"name": "Hyundai Assan Otomotiv",
+"aliases": [],
+"links": 6
+},
+{
+"name": "IndoMobil Group",
+"aliases": [],
+"links": 6
+},
+{
+"name": "JDM",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Jehle",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ji Yue",
+"aliases": [
+"Jiyue"
+],
+"links": 6
+},
+{
+"name": "Junior F.J.T.A.",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Karenjy",
+"aliases": [],
+"links": 6
+},
+{
+"name": "KGM Commercial",
+"aliases": [
+"Edison Motors",
+"KG Mobility Commercial",
+"KGMC"
+],
+"links": 6
+},
+{
+"name": "Knaus Tabbert Group",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Knox Automobile",
+"aliases": [],
+"links": 6
+},
+{
+"name": "La Cuadra",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lambert Automobile Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Locost",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lozier",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lucchini Engineering",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Marlin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Marot-Gardon",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Maudslay Motor Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mercedes-Maybach",
+"aliases": [
+"Maybach",
+"MAYBACH",
+"Mercedes Maybach"
+],
+"links": 6
+},
+{
+"name": "Messier",
+"aliases": [],
+"links": 6
+},
+{
+"name": "MI-VAL",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Micro-Vett",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Nanjing Vehicle",
+"aliases": [
+"Nanjing IVECO Motor Co.",
+"Nanjing Vehicle Co., Ltd",
+"Naveco",
+"NAVECO",
+"naveco.com.cn"
+],
+"links": 6
+},
+{
+"name": "Nardi",
+"aliases": [
+"Nardi & Danese"
+],
+"links": 6
+},
+{
+"name": "Neander",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Niutron",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Nota Sports and Racing Cars",
+"aliases": [
+"Nota"
+],
+"links": 6
+},
+{
+"name": "Orient Express",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Paris-Rhône",
+"aliases": [
+"Paris-Rhone"
+],
+"links": 6
+},
+{
+"name": "Playboy Automobile Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Polarsun Automobile",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pope-Waverley",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Portaro",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Powell Manufacturing Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Premier Motor Manufacturing Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pretis vehicles",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Prinetti & Stucchi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Puli",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Radior",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Rae",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Rex-Acme",
+"aliases": [
+"Rex"
+],
+"links": 6
+},
+{
+"name": "Rickman Motorcycles",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Rockne",
+"aliases": [],
+"links": 6
+},
+{
+"name": "SCAT",
+"aliases": [
+"Società Ceirano Automobili Torino"
+],
+"links": 6
+},
+{
+"name": "Scutum Logistic",
+"aliases": [
+"Scutum Logistics",
+"Silence"
+],
+"links": 6
+},
+{
+"name": "Selden Motor Vehicle Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shamrock",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sharp's Commercials",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Simca do Brasil",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Smith Electric Vehicles",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sofasa",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Spark Racing Technology",
+"aliases": [
+"SPARK"
+],
+"links": 6
+},
+{
+"name": "Star Motor Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Steinmetz Opel Tuning",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Stevens-Duryea",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sunbeam-Talbot",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Thornycroft",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tiger Racing",
+"aliases": [
+"Tiger"
+],
+"links": 6
+},
+{
+"name": "Tornax",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tracta",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tucker Corporation",
+"aliases": [
+"Tucker"
+],
+"links": 6
+},
+{
+"name": "Tulio Crespi S.A.",
+"aliases": [
+"Crespi Competicion"
+],
+"links": 6
+},
+{
+"name": "Vanderhall Motor Works",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Velie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Volkswagen R",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Waaijenberg",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Wegmann & Co.",
+"aliases": [
+"Wegmann"
+],
+"links": 6
+},
+{
+"name": "Zhengzhou Nissan Automobile Company",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Élan Motorsport Technologies",
+"aliases": [
+"Elan Motorsport Technologies"
+],
+"links": 6
+},
+{
+"name": "Ɛ̃fini",
+"aliases": [],
+"links": 6
+},
+{
+"name": "ADK",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Aerocarene",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Alatac",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Alba",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Alba",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Alfi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Allright",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Alpha Sports",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Altena",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Alva",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Amilcar Italiana",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Arab",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Argo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Arimofa",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Arista",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Artés de Arcos",
+"aliases": [
+"Artes de Arcos"
+],
+"links": 5
+},
+{
+"name": "Aspa",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Asquith",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Astra Automobile & Waggon Factory _",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Atomette",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Audibert & Lavirotte",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Austral",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Australian Six",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Automobiles Lombard",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Automobiles Robert Serf",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Awtowelo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Baby-Brousse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Balkania",
+"aliases": [
+"Mahindra Hellas A.E."
+],
+"links": 5
+},
+{
+"name": "Barley Motor Car Co.",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Beijing",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Berkeley Cars",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Blakely Auto Works",
+"aliases": [],
+"links": 5
+},
+{
+"name": "BMW US Manufacturing Company",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bollinger Motors",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bordrin",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bratislavské automobilové závody",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Briscoe",
+"aliases": [],
+"links": 5
+},
+{
+"name": "British Salmson",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Buffum",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chappe et Gessalin",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chevrolet El Morocco",
+"aliases": [],
+"links": 5
+},
+{
+"name": "CIME",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Clipper",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Clyno",
+"aliases": [],
+"links": 5
+},
+{
+"name": "CMN",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Coadou et Fleury",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Columbus Buggy Company",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Comarth",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Costruzioni Meccaniche di Saronno",
+"aliases": [
+"Officine Meccaniche di Saronno",
+"Saronno"
+],
+"links": 5
+},
+{
+"name": "Cournil",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Covert",
+"aliases": [
+"B. V. Covert and Company"
+],
+"links": 5
+},
+{
+"name": "Crouch Cars",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Csonka",
+"aliases": [],
+"links": 5
+},
+{
+"name": "CTA-Arsenal",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cunningham cars",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dallas",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dart",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dayton Electric",
+"aliases": [],
+"links": 5
+},
+{
+"name": "De Bazelaire",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Delamare-Deboutteville",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Deutsche Industriewerke",
+"aliases": [
+"Deutsche Industrie-Werke GmbH"
+],
+"links": 5
+},
+{
+"name": "Devin Cars",
+"aliases": [],
+"links": 5
+},
+{
+"name": "DIM",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Doriot, Flandrin & Parant",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dual-Ghia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dutton Cars",
+"aliases": [],
+"links": 5
+},
+{
+"name": "D’Yrsan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "E-M-F Company",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ebro",
+"aliases": [
+"Ebro Suv"
+],
+"links": 5
+},
+{
+"name": "EdisonFuture",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Elder",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Enfield Automotive",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Entreposto",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Erskine",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Escol motorcycles",
+"aliases": [
+"Escol"
+],
+"links": 5
+},
+{
+"name": "Estonia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Evante",
+"aliases": [],
+"links": 5
+},
+{
+"name": "FAW Oley",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fendt Caravan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ferves",
+"aliases": [],
+"links": 5
+},
+{
+"name": "FH vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fial",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fiat India",
+"aliases": [
+"FCA India Automobiles"
+],
+"links": 5
+},
+{
+"name": "FN",
+"aliases": [
+"Fabrique Nationale d’Armes de Guerre"
+],
+"links": 5
+},
+{
+"name": "Fondu vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ford of Spain",
+"aliases": [
+"Ford de España"
+],
+"links": 5
+},
+{
+"name": "Ford Union",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Forthing",
+"aliases": [
+"Dongfeng Fengxing"
+],
+"links": 5
+},
+{
+"name": "Fratelli Ceirano",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fusi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "General Motors Thailand",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gleagle",
+"aliases": [],
+"links": 5
+},
+{
+"name": "GMC Denali",
+"aliases": [
+"Denali GMC"
+],
+"links": 5
+},
+{
+"name": "Göricke vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "haresh Kumar",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Heine-Velox",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hercules",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hering & Richard",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hinstin",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hobby-Wohnwagenwerk",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Honda Canada",
+"aliases": [
+"Honda of Canada"
+],
+"links": 5
+},
+{
+"name": "Hopium",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Huasong",
+"aliases": [
+"Brilliance Huasong"
+],
+"links": 5
+},
+{
+"name": "Hyundai Motor Manufacturing Czech",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hyundai Motor Manufacturing Rus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Iris",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jackson Automobile Company",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jago",
+"aliases": [],
+"links": 5
+},
+{
+"name": "James Cunningham, Son and Company",
+"aliases": [
+"James Cunningham, Son and Co."
+],
+"links": 5
+},
+{
+"name": "Jeantaud",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jetcar",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jewett",
+"aliases": [],
+"links": 5
+},
+{
+"name": "JPL",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Keeton",
+"aliases": [
+"Keeton Motor Company"
+],
+"links": 5
+},
+{
+"name": "Lafitte vehicles",
+"aliases": [
+"Lafitte"
+],
+"links": 5
+},
+{
+"name": "Lawil S.p.A.",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Leahead",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Linghui",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Little Midland",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lloyd Cars Ltd",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lomax",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lurquin-Coudert",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Marchese",
+"aliases": [],
+"links": 5
+},
+{
+"name": "MAVA-Renault",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Maybach Manufaktur",
+"aliases": [
+"Maybach"
+],
+"links": 5
+},
+{
+"name": "MBM vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "McFarlan Automobile",
+"aliases": [],
+"links": 5
+},
+{
+"name": "MEBEA",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mercedes-Benz Mexico",
+"aliases": [
+"Mercedes Benz Mexico"
+],
+"links": 5
+},
+{
+"name": "Metrocab",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Modiran Vehicle Manufacturing Company",
+"aliases": [],
+"links": 5
+},
+{
+"name": "MOL Trucks",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mototri Contal",
+"aliases": [],
+"links": 5
+},
+{
+"name": "MTM - Motoren Technik Mayer",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nissan Motor Manufacturing UK",
+"aliases": [],
+"links": 5
+},
+{
+"name": "O-We-Go",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Oméga-Six",
+"aliases": [
+"Omega-Six"
+],
+"links": 5
+},
+{
+"name": "Orca Engineering",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Orix vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Oscar vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pasquali vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Passport",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pellandini Cars",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pragoti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Puma",
+"aliases": [],
+"links": 5
+},
+{
+"name": "RAESR",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rayton Fissore",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Reichenberger Automobil Fabrik",
+"aliases": [
+"RAF"
+],
+"links": 5
+},
+{
+"name": "Renault Argentina",
+"aliases": [
+"Renault Argentina S.A."
+],
+"links": 5
+},
+{
+"name": "Renault Pars",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Röhr vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "S.C.A.P.",
+"aliases": [],
+"links": 5
+},
+{
+"name": "SAIC",
+"aliases": [
+"Shangjie"
+],
+"links": 5
+},
+{
+"name": "Sava",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Scaldia vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Scania-Vabis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Schütte-Lanz",
+"aliases": [
+"Airship Builder Schutte-Lanz",
+"Luftschiffbau Schütte-Lanz",
+"Schutte-Lanz"
+],
+"links": 5
+},
+{
+"name": "Sensaud de Lavaud",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sero Electric",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sheffield-Simplex",
+"aliases": [
+"Sheffield Simplex",
+"Sheffield Simplex Motor Works",
+"Sheffield-Simplex Motor Works"
+],
+"links": 5
+},
+{
+"name": "Sheridan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sherman",
+"aliases": [
+"Roy Sherman"
+],
+"links": 5
+},
+{
+"name": "Siata Española S.A.",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sizaire Frères",
+"aliases": [
+"Sizaire Freres"
+],
+"links": 5
+},
+{
+"name": "Sizaire-Berwick",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Slaby-Beringer",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Società Torinese Automobili Rapid",
+"aliases": [
+"S.T.A.R.",
+"Societa Torinese Automobili Rapid"
+],
+"links": 5
+},
+{
+"name": "Sofia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sono Motors",
+"aliases": [
+"Sono"
+],
+"links": 5
+},
+{
+"name": "Springuel",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Star",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Straker-Squire",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Studebaker-Garford",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Superformance",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sénéchal automobiles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tan Chong Motor Holdings Berhad",
+"aliases": [
+"Tan Chong Motor",
+"Tan Chong Motor Holdings Bhd.",
+"TCMH"
+],
+"links": 5
+},
+{
+"name": "Th. Schneider",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Theologou",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tokyu Kogyo Kurogane",
+"aliases": [
+"Kurogane"
+],
+"links": 5
+},
+{
+"name": "Tornado Cars",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Town Life",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Toyopet",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Toyota Argentina",
+"aliases": [
+"TASA",
+"Toyota Argentina S.A."
+],
+"links": 5
+},
+{
+"name": "Toyota Motor Manufacturing Canada",
+"aliases": [
+"TMMC"
+],
+"links": 5
+},
+{
+"name": "Toyota Motor Manufacturing Kentucky",
+"aliases": [
+"TMMK"
+],
+"links": 5
+},
+{
+"name": "Toyota Motor Manufacturing Turkey",
+"aliases": [
+"TMMT"
+],
+"links": 5
+},
+{
+"name": "Toyota Motor Manufacturing UK",
+"aliases": [
+"TMUK",
+"Toyota Motor Manufacturing Ltd"
+],
+"links": 5
+},
+{
+"name": "Toyota South Africa Motors",
+"aliases": [
+"TSAM"
+],
+"links": 5
+},
+{
+"name": "Unitas-Tatra vehicles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Vemac Car Company",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Volkswagen Argentina",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Volkswagen de México",
+"aliases": [
+"Volkswagen de Mexico",
+"Volkswagen Mexico"
+],
+"links": 5
+},
+{
+"name": "VOMAG",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Wolsit",
+"aliases": [
+"Wolseley Italiana"
+],
+"links": 5
+},
+{
+"name": "Yellow Cab Manufacturing Company",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zeta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "A. G. Alfieri",
+"aliases": [],
+"links": 4
+},
+{
+"name": "AAG",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Accles-Turrell",
+"aliases": [],
+"links": 4
+},
+{
+"name": "ACE EV Group",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Adams",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Addison",
+"aliases": [],
+"links": 4
+},
+{
+"name": "AG für Akkumulatoren- und Automobilbau",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Air Navigation and Engineering Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ajax",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Albany",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Albatros",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Alpena Flyer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Altmann",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Amazonas Motos Especiais",
+"aliases": [],
+"links": 4
+},
+{
+"name": "America",
+"aliases": [],
+"links": 4
+},
+{
+"name": "American Motor Car Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Amherst",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Amor",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Andre Py",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Antoine",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Apex Motors",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Apollo",
+"aliases": [
+"Chicago Recording Scale Company"
+],
+"links": 4
+},
+{
+"name": "Aquila Racing Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Arden Automobilbau",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ardex",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Arista",
+"aliases": [],
+"links": 4
+},
+{
+"name": "ASA Aluminium Body",
+"aliases": [
+"Nestor Salerno"
+],
+"links": 4
+},
+{
+"name": "Ashley Laminates",
+"aliases": [],
+"links": 4
+},
+{
+"name": "ASS",
+"aliases": [
+"Automobiles Sans Soupapes"
+],
+"links": 4
+},
+{
+"name": "Atalanta Motors",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ateliers d’Automobiles et d’Aviation",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ateliers Teixeira Automobiles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Atlantic",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Atterbury vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aurea",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Auto-Mixte",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Autobleu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Autokinitoviomihania Ellados",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Automeccanica",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Automobiles ERAD",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Automobiles Rally",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Automotive Design and Development",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Autovia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "AV Motors",
+"aliases": [
+"AV"
+],
+"links": 4
+},
+{
+"name": "Avolette",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bamby Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bell Brothers",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ben Hur",
+"aliases": [
+"Ben Hur Motor Company"
+],
+"links": 4
+},
+{
+"name": "Birchfield",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Blackhawk",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bohse vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bouquet, Garcin & Schivre",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brew-Hatcher",
+"aliases": [
+"B & H"
+],
+"links": 4
+},
+{
+"name": "Bright Automotive",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brossel Frères",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Browniekar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brütsch",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Buckler Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Buffalo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Buffalo Electric Carriage",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Buffalo Electric Vehicle Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bugatti Automobili",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bungartz Butz",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Burney",
+"aliases": [
+"Streamline Cars"
+],
+"links": 4
+},
+{
+"name": "California Motor Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Carbon Motors Corporation",
+"aliases": [
+"Carbon Motors"
+],
+"links": 4
+},
+{
+"name": "Cedre",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Central Motors",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chaigneau-Brasier",
+"aliases": [
+"Richard-Brasier"
+],
+"links": 4
+},
+{
+"name": "Chainless",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chambers Motors",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Champion",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Charron, Girardot et Voigt",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chrysler Fevre Argentina S.A.",
+"aliases": [],
+"links": 4
+},
+{
+"name": "City Transformer",
+"aliases": [
+"CT"
+],
+"links": 4
+},
+{
+"name": "Clément-Talbot",
+"aliases": [
+"Clement-Talbot"
+],
+"links": 4
+},
+{
+"name": "Coey",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Colda",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Commonwealth",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Commuter Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Compagnie Française de Matériel Ferroviaire",
+"aliases": [
+"C.F.M.F.",
+"Monica"
+],
+"links": 4
+},
+{
+"name": "Compañía Balear de Automóviles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Correja",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Covin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Crawford Automobile",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Crow-Elkhart",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cubitt",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Custoca",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cutting",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dala7",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dauer Sportwagen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Davis Motorcar Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dax Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "De Dietrich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "De Riancey",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Deal",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Delaugère et Clayette",
+"aliases": [
+"Delaugere et Clayette"
+],
+"links": 4
+},
+{
+"name": "Delin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Desande",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dethleffs",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dewan Farooque Motors",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Diar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Diaz y Grilló vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dixie Flyer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Doninvest",
+"aliases": [],
+"links": 4
+},
+{
+"name": "DS-Malterre",
+"aliases": [],
+"links": 4
+},
+{
+"name": "DZT Tymińscy",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Edelsbrunner Automobile München",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Effa Motors",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ego vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ehrhardt-Szawe",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Eichler & Bachmann",
+"aliases": [],
+"links": 4
+},
+{
+"name": "El Fenix",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Elaris",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Elbil Norge",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Elcar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Electromobile",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ellemobil",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Empire",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Emporiki Autokiniton",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Equus Automotive",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ermini vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Esther",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Etsong Vehicle Manufacturing",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Eudelin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "EVO",
+"aliases": [
+"DR EVO"
+],
+"links": 4
+},
+{
+"name": "Excelsior",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Excelsior-Mascot",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Falcon Motorsports",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Falcon-Knight",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Farman automobiles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Felber vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "FIF",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Florentia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fonlupt",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ford Italia",
+"aliases": [
+"Ford Italy"
+],
+"links": 4
+},
+{
+"name": "Ford Lio Ho Motor",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fram vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fredonia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Freight Rover",
+"aliases": [],
+"links": 4
+},
+{
+"name": "friction drive car",
+"aliases": [
+"Abbey"
+],
+"links": 4
+},
+{
+"name": "Friend",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gadabout",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gardner Douglas",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gatter Autowerk Reichstadt",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gautier–Wehrlé",
+"aliases": [],
+"links": 4
+},
+{
+"name": "General Motors Japan",
+"aliases": [
+"GM Japan"
+],
+"links": 4
+},
+{
+"name": "General Motors of Argentina",
+"aliases": [
+"General Motors Argentina",
+"GM Argentina"
+],
+"links": 4
+},
+{
+"name": "General Motors of Canada",
+"aliases": [
+"General Motors Canada",
+"GM Canada"
+],
+"links": 4
+},
+{
+"name": "Gillet-Forest",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Giocattolo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Glasspar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Glide",
+"aliases": [
+"Bartholomew Company"
+],
+"links": 4
+},
+{
+"name": "GM Vietnam",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gordon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Grade Automobilwerke",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Grinnall Specialist Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Grivel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Grofri",
+"aliases": [],
+"links": 4
+},
+{
+"name": "GTM Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Guerry et Bourguignon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hammer-Sommer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hampton",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hanzer vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Havers",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hawk",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Helbé",
+"aliases": [
+"Helbe"
+],
+"links": 4
+},
+{
+"name": "Helios AG",
+"aliases": [],
+"links": 4
+},
+{
+"name": "HICOM Automotive Manufacturers",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hoffman",
+"aliases": [
+"Hoffman Automobile and Manufacturing Company"
+],
+"links": 4
+},
+{
+"name": "Hol-Tan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Holden Special Vehicles",
+"aliases": [
+"HSV"
+],
+"links": 4
+},
+{
+"name": "Honda Türkiye",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hulas Motors",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Humber Motorcycles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "ICH-X",
+"aliases": [
+"ICKX"
+],
+"links": 4
+},
+{
+"name": "Ideal",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Imperia motorcycles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Inter-State",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Iroquois Motor Car Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Isuzu Astra Motor Indonesia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Isuzu HICOM Malaysia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Itar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ivel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "J-P Wimille",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Jack Sport",
+"aliases": [
+"Utilia"
+],
+"links": 4
+},
+{
+"name": "Jakovlev & Frese vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "James",
+"aliases": [
+"J&M Motor Car Company"
+],
+"links": 4
+},
+{
+"name": "Janoir",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Joel-Rosenthal",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Jousset",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Juho",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Juwel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "K-1 vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Keinath",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kerman Motor",
+"aliases": [
+"K.M.C",
+"Kerman Khodro",
+"Kerman Motor Company",
+"KMC",
+"Modiran Pars"
+],
+"links": 4
+},
+{
+"name": "Kieft Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kiitokori",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Krampers",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kühlstein",
+"aliases": [],
+"links": 4
+},
+{
+"name": "La Buire",
+"aliases": [],
+"links": 4
+},
+{
+"name": "La Française Diamant",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lacoste & Battmann",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Le Cabri",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Leichtbau Maier",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Libelle",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Liberty Motor Car",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lincoln Motor Car Works",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Linser",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lion",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Loryc vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Luc Court",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lufbery",
+"aliases": [],
+"links": 4
+},
+{
+"name": "M2",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Malicet et Blin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "MAN Auto-Uzbekistan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Manta Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Marc Nordon Racing",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Marino vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Marion-Handley",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Marlei",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Marr",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Marsonetto vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Martin Motors",
+"aliases": [],
+"links": 4
+},
+{
+"name": "McIntyre Automobile",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mekong Auto",
+"aliases": [
+"Mekong Auto Corporation"
+],
+"links": 4
+},
+{
+"name": "Meyra",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Michigan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Micro Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Middleby Auto Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Midland Motor Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Moon Motor Car",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Motor Manufacturing Company",
+"aliases": [
+"M.M.C. vehicles"
+],
+"links": 4
+},
+{
+"name": "Méray vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nacional Sitjes vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "National Sewing Machine Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nelson",
+"aliases": [],
+"links": 4
+},
+{
+"name": "New British",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nissan Motor Australia",
+"aliases": [
+"Nissan Australia"
+],
+"links": 4
+},
+{
+"name": "Nobel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Olympian",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Opperman",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Orel vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Orion",
+"aliases": [],
+"links": 4
+},
+{
+"name": "OScar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Otro Ford",
+"aliases": [],
+"links": 4
+},
+{
+"name": "P. Morisse et Cie",
+"aliases": [
+"Morisse"
+],
+"links": 4
+},
+{
+"name": "Pan-Car",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Partin Manufacturing Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Paterson",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Patria motorcycles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Penn",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Perl vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Petropoulos",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Petters Limited",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pieper",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pilot-Wagen",
+"aliases": [
+"Pilot",
+"Pilot-Wagen AG",
+"Pilotmotorenwerke",
+"Pilotmotorenwerke Bannewitz",
+"Pilotwagen"
+],
+"links": 4
+},
+{
+"name": "Poncin vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pope-Tribune",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Popp vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Queen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Reliable Dayton",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Reliance",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Renault España",
+"aliases": [
+"Renault Spain"
+],
+"links": 4
+},
+{
+"name": "Renault Tanger Méditerranée",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Replicar Hellas",
+"aliases": [
+"Beetlekitcars",
+"RCH"
+],
+"links": 4
+},
+{
+"name": "Reva",
+"aliases": [],
+"links": 4
+},
+{
+"name": "RFW",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ricart vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ricart-Espana vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rollin Motors",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rolux",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ronart Cars",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Roush Performance",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Royal Motor Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ruska",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Russell Motor Car Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rutenber Motor Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "S. Sandford",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Samcor",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Schacht",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Schuckert & Co.",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Scootacar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Seagrave Fire Apparatus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sebring",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Secqueville-Hoyau",
+"aliases": [],
+"links": 4
+},
+{
+"name": "SGMW Motor Indonesia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Shanghai Wanfeng Auto Group",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Shawmut Motor Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sigma vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Silver Hawk",
+"aliases": [],
+"links": 4
+},
+{
+"name": "SIMA-Violet",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Simplicia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sinogold",
+"aliases": [],
+"links": 4
+},
+{
+"name": "SiTech",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Slate Auto",
+"aliases": [
+"Re:Car",
+"Slate, Inc."
+],
+"links": 4
+},
+{
+"name": "Société Parisienne",
+"aliases": [
+"Societe Parisienne"
+],
+"links": 4
+},
+{
+"name": "Soriano-Pedroso",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Spijkstaal",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sportequipe",
+"aliases": [
+"DR Sportequipe"
+],
+"links": 4
+},
+{
+"name": "St. Louis Motor Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Standard",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Stearns Steam Carriage Company",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Steiger",
+"aliases": [
+"Maschinenfabrik Walther Steiger & Co"
+],
+"links": 4
+},
+{
+"name": "Stewart Motor Corporation",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sylva Autokits",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Szawe vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Talbot-Darracq",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tarrant automobile",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tazzari",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Techrules",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Telo Trucks",
+"aliases": [
+"TELO",
+"Telo Trucks Inc"
+],
+"links": 4
+},
+{
+"name": "Tenet",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Thrige-Titan",
+"aliases": [
+"Thrige"
+],
+"links": 4
+},
+{
+"name": "Tiny",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tourey",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Toyota Kirloskar Motor Private Limited",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Traum vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Trident Cars",
+"aliases": [
+"Trident"
+],
+"links": 4
+},
+{
+"name": "Tunisian Company of Automotive Industry",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Twentieth Century Motor Car Corporation",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Valveless",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Van Clee vehicles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "VELAM",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Vinaxuki",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Vincke",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Volkswagen Sarajevo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Western Tool Works",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Whippet",
+"aliases": [
+"Willys Whippet"
+],
+"links": 4
+},
+{
+"name": "Wilson Automobile",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Windhoff Bahn- und Anlagentechnik",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Woodrow",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yale",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yudo Auto",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Zakład Samochodów Dostawczych",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aistaland",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Allen Kingston",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aurore",
+"aliases": [],
+"links": 3
+},
+{
+"name": "BSA cars",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Carville",
+"aliases": [],
+"links": 3
+},
+{
+"name": "DODO",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Enka",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Envoy",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Exlantix",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fibravan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Huajing",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Joker",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Linxys",
+"aliases": [],
+"links": 3
+},
+{
+"name": "list of Mercedes-Benz vehicles",
+"aliases": [],
+"links": 3
+},
+{
+"name": "MAS Cars",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mega",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Merlin vehicles",
+"aliases": [],
+"links": 3
+},
+{
+"name": "MG marque",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ostermann vehicles",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pocco",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ravon",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rugby",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sbarro",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Selex Competition",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Yugo",
+"aliases": [],
+"links": 3
+}
+]

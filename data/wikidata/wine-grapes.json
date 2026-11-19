@@ -1,0 +1,8899 @@
+[
+{
+"name": "Cabernet Sauvignon",
+"aliases": [
+"Cab Sauv"
+],
+"links": 54
+},
+{
+"name": "Pinot noir",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Chardonnay",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Sauvignon blanc",
+"aliases": [
+"Vitis vinifera ’Sauvignon Blanc’"
+],
+"links": 47
+},
+{
+"name": "Riesling",
+"aliases": [
+"Johannisberger",
+"Rossling",
+"White Riesling"
+],
+"links": 46
+},
+{
+"name": "Merlot",
+"aliases": [
+"Alicante",
+"Alicante noir",
+"Begney",
+"Bidal",
+"Bidalhe",
+"Bigney",
+"Bigney rouge",
+"Bini",
+"Bini Ruzh",
+"Bioney",
+"Black Alicante",
+"Bordeleza belcha",
+"Bégney",
+"Crabutet",
+"Crabutet noir",
+"Crabutet noir merlau",
+"Hebigney",
+"Higney",
+"Higney rouge",
+"Langon",
+"Lecchumskij",
+"Medoc noir",
+"Merlau",
+"Merlaut",
+"Merlaut noir",
+"Merle",
+"Merle Petite",
+"Merleau",
+"Merlo",
+"Merlot black",
+"Merlot blauer",
+"Merlot crni",
+"Merlot nero",
+"Merlot noir",
+"Merlott",
+"Merlou",
+"Merlô",
+"Médoc noir",
+"Odzalesi",
+"Odzhaleshi",
+"Odzhaleshi Legkhumskii",
+"Petit Merle",
+"Picard",
+"Pikard",
+"Plan medre",
+"Planet Medok",
+"Plant du Medoc",
+"Plant du Médoc",
+"Plant Medoc",
+"Plant Médoc",
+"Saint-Macaire",
+"Same de la Canan",
+"Same dou Flaube",
+"Seme de la Canau",
+"Seme Dou Flube",
+"Semilhon rouge",
+"Semilhoum rouge",
+"Semilhoun rouge",
+"Semillon rouge",
+"Sud des Graves",
+"Sème de la Canau",
+"Sème Dou Flube",
+"Sémillon rouge",
+"Vidal",
+"Vini Ticinesi",
+"Vitrai",
+"Vitraille"
+],
+"links": 45
+},
+{
+"name": "Syrah",
+"aliases": [
+"Shiraz",
+"Shiraz grape"
+],
+"links": 39
+},
+{
+"name": "Gewürztraminer",
+"aliases": [
+"Gewurztraminer"
+],
+"links": 36
+},
+{
+"name": "Pinot gris",
+"aliases": [
+"Grauburgunder",
+"Pinot grigio",
+"Szürkebarát"
+],
+"links": 36
+},
+{
+"name": "Cabernet Franc",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Chenin blanc",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Grenache",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Tempranillo",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Zinfandel",
+"aliases": [
+"Crljenak Kaštelanski",
+"Primitivo",
+"Zin",
+"ZPC"
+],
+"links": 31
+},
+{
+"name": "Nebbiolo",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Silvaner",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Grüner Veltliner",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Müller-Thurgau",
+"aliases": [],
+"links": 28
+},
+{
+"name": "sultana",
+"aliases": [
+"Sultanina",
+"Sultanina Alba",
+"Sultanina Bela",
+"Sultanina Bianca",
+"Sultanina Bijela",
+"Sultanina Blanca",
+"Sultanina Blanche",
+"Sultanina grape",
+"Thompson Seedless"
+],
+"links": 28
+},
+{
+"name": "Gamay",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Malbec",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Sangiovese",
+"aliases": [
+"Brunello",
+"Brunello grape",
+"Prugnolo",
+"Prugnolo Gentile",
+"Prugnolo Gentile di Montepulciano",
+"Prugnolo Rosso"
+],
+"links": 26
+},
+{
+"name": "Sémillon",
+"aliases": [
+"Semillon",
+"Semillon grape",
+"Teisor"
+],
+"links": 26
+},
+{
+"name": "Carignan",
+"aliases": [
+"Bovale Grande",
+"Carignan grape"
+],
+"links": 25
+},
+{
+"name": "Carménère",
+"aliases": [
+"Carmenere"
+],
+"links": 25
+},
+{
+"name": "Saperavi",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Trebbiano",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Barbera",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Pinot blanc",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Rkatsiteli",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Albariño",
+"aliases": [
+"Albarino",
+"Alvarinho",
+"Alvarinho grape",
+"Azal Blanco"
+],
+"links": 22
+},
+{
+"name": "Nero d'Avola",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Petit Verdot",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Pinot meunier",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Viognier",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Aligoté",
+"aliases": [
+"Aligote"
+],
+"links": 20
+},
+{
+"name": "Corvina",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Italian Riesling",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kadarka",
+"aliases": [
+"Kadarka Kek"
+],
+"links": 20
+},
+{
+"name": "Mourvèdre",
+"aliases": [
+"Mataró",
+"Mourvedre"
+],
+"links": 20
+},
+{
+"name": "Aglianico",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Chasselas",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Cinsaut",
+"aliases": [
+"Cinsault"
+],
+"links": 19
+},
+{
+"name": "Furmint",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Muscat of Alexandria",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Pinotage",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Alicante Bouschet",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Macabeo",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Vranec",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Zweigelt",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Blauer Portugieser",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Blaufränkisch",
+"aliases": [
+"Kekfrankos",
+"Kékfrankos",
+"Lemberger"
+],
+"links": 17
+},
+{
+"name": "Mavrud",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Negroamaro",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Palomino",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Assyrtiko",
+"aliases": [
+"Vitis vinifera ’Asýrtiko’"
+],
+"links": 16
+},
+{
+"name": "Dolcetto",
+"aliases": [
+"Dolcetto grape"
+],
+"links": 16
+},
+{
+"name": "Garganega",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Vermentino",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Agiorgitiko",
+"aliases": [
+"Vitis vinifera ’Agiorgítiko’"
+],
+"links": 15
+},
+{
+"name": "Arneis",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Colombard",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Giulio Questi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Hárslevelű",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kerner",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Pedro Ximénez",
+"aliases": [
+"Pedro Ximenez"
+],
+"links": 15
+},
+{
+"name": "Tannat",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Torrontés",
+"aliases": [
+"Torrontes",
+"Torrontés Sanjuanino"
+],
+"links": 15
+},
+{
+"name": "Xinomavro",
+"aliases": [
+"Vitis vinifera ’Xinómavro’"
+],
+"links": 15
+},
+{
+"name": "Airén",
+"aliases": [
+"Airen"
+],
+"links": 14
+},
+{
+"name": "Bobal",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Canaiolo",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Fetească albă",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Fetească regală",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Plavac Mali",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Rondinella",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Savagnin",
+"aliases": [
+"Savagnin blanc"
+],
+"links": 14
+},
+{
+"name": "Žilavka",
+"aliases": [
+"Jilavka",
+"Mostarska",
+"Zilavka Mostarska"
+],
+"links": 14
+},
+{
+"name": "Băbească Neagră",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mencia",
+"aliases": [
+"Jaen du Dão",
+"Mencia grape"
+],
+"links": 13
+},
+{
+"name": "Montepulciano",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Muscat Ottonel",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Roussanne",
+"aliases": [],
+"links": 13
+},
+{
+"name": "St. Laurent",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Verdicchio",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Bastardo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Blatina",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dornfelder",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Fetească neagră",
+"aliases": [
+"Fetească"
+],
+"links": 12
+},
+{
+"name": "Graciano",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Grenache Blanc",
+"aliases": [
+"garnatxa blanca"
+],
+"links": 12
+},
+{
+"name": "Lagrein",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Marsanne",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Mavrodafni",
+"aliases": [
+"Vitis vinifera ’Mavrodáfni’"
+],
+"links": 12
+},
+{
+"name": "Muscat Blanc à Petits Grains",
+"aliases": [
+"Muscat Blanc a Petits Grains",
+"Muscat Canelli",
+"White Frontignan"
+],
+"links": 12
+},
+{
+"name": "Pecorino",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Ruby Roman",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Scheurebe",
+"aliases": [
+"Sämling 8"
+],
+"links": 12
+},
+{
+"name": "Verdejo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Abouriou",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Alexandrouli",
+"aliases": [
+"Aleksandroouly",
+"Aleksandrouli",
+"Aleksandrouli Shavi",
+"Kabistona",
+"Kabistoni"
+],
+"links": 11
+},
+{
+"name": "Durif",
+"aliases": [
+"Petite Sirah"
+],
+"links": 11
+},
+{
+"name": "Frappato",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Glera",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Grillo",
+"aliases": [
+"Riddu"
+],
+"links": 11
+},
+{
+"name": "Marselan",
+"aliases": [
+"INRA 1810-68"
+],
+"links": 11
+},
+{
+"name": "Melon de Bourgogne",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Molinara",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Mtsvane",
+"aliases": [
+"Mtsvane Kakhetian"
+],
+"links": 11
+},
+{
+"name": "Parellada",
+"aliases": [
+"Vitis vinifera 'Parellada'"
+],
+"links": 11
+},
+{
+"name": "Pošip",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Sercial",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tinta Barroca",
+"aliases": [
+"Tinta Grossa"
+],
+"links": 11
+},
+{
+"name": "Touriga Nacional",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Albana",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Aramon",
+"aliases": [
+"Aramon grape",
+"Aramon noir"
+],
+"links": 10
+},
+{
+"name": "Auxerrois Blanc",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Black Muscat",
+"aliases": [
+"Aleatico",
+"Black Hamburg",
+"Black Hamburg grape",
+"Black Muscat grape",
+"Black Muscat of Alexandria",
+"Black of Alexandria",
+"Ceuro",
+"Esperione",
+"Fekete Muskotaly",
+"Gamburg",
+"Gulabi",
+"Mai gui san",
+"Muscat Hamburg",
+"Muscat Hamburg grape",
+"Muskat Hamburg",
+"Muskat Hambursky",
+"Muskat Trollinger",
+"Muskateller Trollinger",
+"Myrodato",
+"Trollinger Muscateller Blau",
+"Trollinger Muskat"
+],
+"links": 10
+},
+{
+"name": "Cardinal",
+"aliases": [
+"Cardinal grape"
+],
+"links": 10
+},
+{
+"name": "Elbling",
+"aliases": [
+"Elbling grape"
+],
+"links": 10
+},
+{
+"name": "Falanghina",
+"aliases": [
+"Biancazita",
+"Biancozita",
+"Biancuzita",
+"Falanchina",
+"Falanchina Bianca",
+"Falanghina Verace",
+"Falenghina",
+"Falernina",
+"Falerno Veronese",
+"Fallanchina",
+"Fallanghina",
+"Folanghina",
+"Montecalvo",
+"Montellese",
+"Uva Falerna"
+],
+"links": 10
+},
+{
+"name": "Folle blanche",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Loureira",
+"aliases": [
+"Loureiro",
+"Loureiro Blanco",
+"Loureiro Blanco grape",
+"Loureiro Branco"
+],
+"links": 10
+},
+{
+"name": "Marzemino",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Mavro",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Muscadelle",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Trollinger",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tsolikouri",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Verdelho",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Xynisteri",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Aleatico",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ancellotta",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ansonica",
+"aliases": [
+"Inzolia"
+],
+"links": 9
+},
+{
+"name": "Athiri",
+"aliases": [
+"Vitis vinifera ’Athíri’"
+],
+"links": 9
+},
+{
+"name": "Bacchus Weiss",
+"aliases": [
+"Bacchus",
+"Bacchus grape",
+"Bacchus Weiss grape"
+],
+"links": 9
+},
+{
+"name": "Cortese",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Croatina",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Fiano",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Freisa",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gouais blanc",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Greco",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Grolleau",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Irsai Olivér",
+"aliases": [
+"Irsai Oliver"
+],
+"links": 9
+},
+{
+"name": "Mandilaria",
+"aliases": [
+"Vitis vinifera ’Mandilariá’"
+],
+"links": 9
+},
+{
+"name": "Pinot Noir Précoce",
+"aliases": [
+"Pinot Noir Precoce"
+],
+"links": 9
+},
+{
+"name": "Piquepoul",
+"aliases": [
+"Picpoul"
+],
+"links": 9
+},
+{
+"name": "Raboso",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ribolla Gialla",
+"aliases": [
+"Rebula"
+],
+"links": 9
+},
+{
+"name": "Sagrantino",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sauvignon vert",
+"aliases": [
+"Sauvignonasse"
+],
+"links": 9
+},
+{
+"name": "table grape variety",
+"aliases": [
+"table grape"
+],
+"links": 9
+},
+{
+"name": "Tinta Cão",
+"aliases": [
+"Tinta Cao",
+"Tinto Cao",
+"Tinto Cão"
+],
+"links": 9
+},
+{
+"name": "öküzgözü",
+"aliases": [
+"Okuezgoezue",
+"Okuzgozu"
+],
+"links": 9
+},
+{
+"name": "Acolon",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Baga",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Boal",
+"aliases": [
+"Malvasia Fina",
+"Malvasia Fina grape"
+],
+"links": 8
+},
+{
+"name": "Bourboulenc",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ciliegiolo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Clairette blanche",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Erbaluce",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Fernão Pires",
+"aliases": [
+"Maria Gomes"
+],
+"links": 8
+},
+{
+"name": "Gaglioppo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gamaret",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Grechetto",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Neuburger",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Négrette",
+"aliases": [
+"Negrette"
+],
+"links": 8
+},
+{
+"name": "Ojaleshi",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pamid",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pearl of Csaba",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Poulsard",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Prié blanc",
+"aliases": [
+"Prie blanc"
+],
+"links": 8
+},
+{
+"name": "Prokupac",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ruché",
+"aliases": [
+"Ruche"
+],
+"links": 8
+},
+{
+"name": "Souzão",
+"aliases": [
+"Sezão"
+],
+"links": 8
+},
+{
+"name": "Sumoll",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Teroldego",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tinta Amarela",
+"aliases": [
+"Trincadeira"
+],
+"links": 8
+},
+{
+"name": "Tinta Negra Mole",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Treixadura",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Trepat",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Uva di Troia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Vernaccia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Zierfandler",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Abbuoto",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Alfrocheiro Preto",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Arbane",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Arinto",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Black Corinth",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bombino Bianco",
+"aliases": [
+"Bombino",
+"Bombino Bianco grape"
+],
+"links": 7
+},
+{
+"name": "Corvinone",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Dattier de Beyrouth",
+"aliases": [
+"Afus Ali",
+"Rosaki",
+"Waltham cross"
+],
+"links": 7
+},
+{
+"name": "Fer",
+"aliases": [
+"Fer servadou"
+],
+"links": 7
+},
+{
+"name": "Frühroter Veltliner",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Fumin",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Grignolino",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Gros Manseng",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Jacquère",
+"aliases": [
+"Jacquere"
+],
+"links": 7
+},
+{
+"name": "Khikhvi",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kotsifali",
+"aliases": [
+"Kotsifali grape",
+"Vitis vinifera ’Kotsifáli’"
+],
+"links": 7
+},
+{
+"name": "Kövérszőlő",
+"aliases": [
+"Grasă de Cotnari"
+],
+"links": 7
+},
+{
+"name": "Len de l'El",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Nosiola",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ortega",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Petit Manseng",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Petite Arvine",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Prieto Picudo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Red Globe",
+"aliases": [
+"Olmo 10-23 D"
+],
+"links": 7
+},
+{
+"name": "Refosco",
+"aliases": [
+"Refosco Nostrano"
+],
+"links": 7
+},
+{
+"name": "Rhoditis",
+"aliases": [
+"Roditis",
+"Vitis vinifera ’Rodítis’"
+],
+"links": 7
+},
+{
+"name": "Rieslaner",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Roter Veltliner",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Siegerrebe",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Stanušina Crna",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Touriga Francesa",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Vespolina",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Žametovka",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Abrusco",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Albillo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Altesse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Argaman",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Aubun",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Babić",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Baroque",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Blauburger",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bogdanuša",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bombino Nero",
+"aliases": [
+"Bombino",
+"Bombino Nero grape"
+],
+"links": 6
+},
+{
+"name": "Brachetto",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cabernet Dorsa",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cabernet Mitos",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Caiño tinto",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Caladoc",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Castelão",
+"aliases": [
+"Periquita"
+],
+"links": 6
+},
+{
+"name": "Counoise",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dimiat",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dobričić",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Domina",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Douce noir",
+"aliases": [
+"Bonarda Piemontese",
+"Charbono"
+],
+"links": 6
+},
+{
+"name": "Espadeiro",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hondarrabi Zuri",
+"aliases": [
+"Courbu blanc",
+"Courbu blanc grape",
+"Txakoli"
+],
+"links": 6
+},
+{
+"name": "Italia",
+"aliases": [
+"Doña Sofia",
+"Idéal",
+"Italia grape",
+"Italian Muscat",
+"Moscatel Italia",
+"Moscatel Italiano",
+"Moschato Rozaki",
+"Muscat d'Italie",
+"Pirovano 65",
+"Uva Italia"
+],
+"links": 6
+},
+{
+"name": "Krstač",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kéknyelű",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Listán negro",
+"aliases": [
+"Listan negro",
+"Mission"
+],
+"links": 6
+},
+{
+"name": "Lledoner Pelut",
+"aliases": [
+"Garnacha peluda",
+"Garnacha peluda grape",
+"Lledoner Pelut grape"
+],
+"links": 6
+},
+{
+"name": "Madeleine Angevine",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Maratheftiko",
+"aliases": [
+"Aloupostaphylo",
+"Mavrospourtiko",
+"Pampakia",
+"Vambakadha",
+"Vambakina"
+],
+"links": 6
+},
+{
+"name": "Maraština",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Morio Muscat",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Moschofilero",
+"aliases": [
+"Vitis vinifera ’Moschofílero’"
+],
+"links": 6
+},
+{
+"name": "Nerello Mascalese",
+"aliases": [
+"Nerello Mascalese grape"
+],
+"links": 6
+},
+{
+"name": "Nuragus di Cagliari DOC",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Palava",
+"aliases": [
+"Pálava"
+],
+"links": 6
+},
+{
+"name": "Passerina",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Picolit",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pigato",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Robola",
+"aliases": [
+"Vitis vinifera ’Rompóla’"
+],
+"links": 6
+},
+{
+"name": "Rotgipfler",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Savatiano",
+"aliases": [
+"Vitis vinifera ’Savvatianó’"
+],
+"links": 6
+},
+{
+"name": "Shine Muscat",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Terret noir",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tourbat",
+"aliases": [
+"Tourbat grape"
+],
+"links": 6
+},
+{
+"name": "Verdiso",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Verduzzo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Verduzzo Trevigiano",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Albalonga",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Albarola",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Albarossa",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Alibernet",
+"aliases": [
+"Odesa black",
+"Odessa black"
+],
+"links": 5
+},
+{
+"name": "Alvarelhão",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Amigne",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Areni Sev",
+"aliases": [
+"Areni",
+"Areni Sev grape"
+],
+"links": 5
+},
+{
+"name": "Arrouya",
+"aliases": [
+"Arrouya grape",
+"Arrouya Noir",
+"Arrouya Noir grape"
+],
+"links": 5
+},
+{
+"name": "Avana",
+"aliases": [
+"Avana grape",
+"Avanà"
+],
+"links": 5
+},
+{
+"name": "Bayan Shirey",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bical",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bondola",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bouvier",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Boğazkere",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bronner",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Caecuban wine",
+"aliases": [],
+"links": 5
+},
+{
+"name": "callet",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cayetana",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Caíño blanco",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cereza",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chinuri",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dinka",
+"aliases": [
+"Kövidinka"
+],
+"links": 5
+},
+{
+"name": "Doña Blanca",
+"aliases": [
+"Siria",
+"Síria"
+],
+"links": 5
+},
+{
+"name": "Dunkelfelder",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Duras",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Durella",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ehrenfelser",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ezerjó",
+"aliases": [
+"Ezerjo"
+],
+"links": 5
+},
+{
+"name": "Flame Seedless",
+"aliases": [
+"F32-137"
+],
+"links": 5
+},
+{
+"name": "Garanoir",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Godello",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Juhfark",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kalecik Karası",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lacrima",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Madrasa",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Malagousia",
+"aliases": [
+"Malagouzia",
+"Vitis vinifera ’Malagouziá’"
+],
+"links": 5
+},
+{
+"name": "Malvar",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Manseng Noir",
+"aliases": [
+"Espadeiro Mole",
+"Manseng Noir grape"
+],
+"links": 5
+},
+{
+"name": "Mauzac",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Merlot blanc",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Merseguera",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mondeuse Noire",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Moscato Giallo",
+"aliases": [
+"Yellow Muscat"
+],
+"links": 5
+},
+{
+"name": "Pais",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Parraleta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pelaverga",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Perle",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Perricone",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Petit Meslier",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Refosco dal Peduncolo Rosso",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ruby Cabernet",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rufete",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Schiava",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Schioppettino",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Susumaniello",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tamjanika",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Timorasso",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Valdiguié",
+"aliases": [
+"Valdiguie"
+],
+"links": 5
+},
+{
+"name": "Verdeca",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zalema",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zéta",
+"aliases": [
+"Zeta"
+],
+"links": 5
+},
+{
+"name": "Agh Shani",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aidini",
+"aliases": [
+"Aedani"
+],
+"links": 4
+},
+{
+"name": "Alarije",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Albaranzeuli Nero",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Alphonse-lavallée",
+"aliases": [
+"Alphonse-lavallee",
+"Ribier"
+],
+"links": 4
+},
+{
+"name": "André",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Antão Vaz",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Argant",
+"aliases": [
+"Argant grape",
+"Gaensfuesser Blau",
+"Gaensfuesser Blau grape"
+],
+"links": 4
+},
+{
+"name": "Arnsburger",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Arrufiac",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aspiran Noir",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aubin blanc",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Avesso",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Azal tinto",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Barbaroux",
+"aliases": [
+"Barbarossa",
+"Barbaroux Rs"
+],
+"links": 4
+},
+{
+"name": "Beaunoir",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Beba",
+"aliases": [
+"Eva Beba"
+],
+"links": 4
+},
+{
+"name": "Bosco",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brun Argenté",
+"aliases": [
+"Brun Argente"
+],
+"links": 4
+},
+{
+"name": "Busuioacă de Bohotin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chasselas de Moissac",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Coda di Volpe",
+"aliases": [
+"Caprettone"
+],
+"links": 4
+},
+{
+"name": "Colorino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cornalin d'Aoste",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Coronation",
+"aliases": [
+"Coronation grape",
+"Sovereign Coronation",
+"Summerland 361"
+],
+"links": 4
+},
+{
+"name": "Criolla Grande",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Crouchen",
+"aliases": [
+"Cape Riesling",
+"Clare Riesling"
+],
+"links": 4
+},
+{
+"name": "Cserszegi Fűszeres",
+"aliases": [],
+"links": 4
+},
+{
+"name": "César",
+"aliases": [
+"Cesar"
+],
+"links": 4
+},
+{
+"name": "Debina",
+"aliases": [
+"Vitis vinifera ’Ntempína’"
+],
+"links": 4
+},
+{
+"name": "Dureza",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Faberrebe",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fortana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Freisamer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Goldriesling",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gouget noir",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Grand Noir de la Calmette",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Grapput",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Helfensteiner",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Heroldrebe",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hondarribi Beltza",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Humagne Blanche",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Huxelrebe",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kanzler",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Knipperlé",
+"aliases": [
+"Knipperle"
+],
+"links": 4
+},
+{
+"name": "Liatiko",
+"aliases": [
+"Vitis vinifera ’Liátiko’"
+],
+"links": 4
+},
+{
+"name": "Limnio",
+"aliases": [
+"Vitis vinifera ’Limnió’"
+],
+"links": 4
+},
+{
+"name": "Madeleine Royale",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Magliocco Canino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Malvasia Nera di Brindisi",
+"aliases": [
+"Malvasia Nera di Brindisi grape"
+],
+"links": 4
+},
+{
+"name": "Mammolo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Manto negro",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Monica",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Montonico Bianco",
+"aliases": [
+"Montonico"
+],
+"links": 4
+},
+{
+"name": "Moristel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mtevandidi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mujuretuli",
+"aliases": [
+"Keduretuli",
+"Mudshurestuli",
+"Mudzhuretuli"
+],
+"links": 4
+},
+{
+"name": "Muscardin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Muscat a Petits Grains Noirs",
+"aliases": [
+"Muscat a Petits Grains Noirs grape"
+],
+"links": 4
+},
+{
+"name": "Muscat Rouge à Petits Grains",
+"aliases": [
+"Brown Muscat",
+"Muscat Rouge a Petits Grains"
+],
+"links": 4
+},
+{
+"name": "Negoska",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nerello Cappuccio",
+"aliases": [
+"Nerello Cappuccio grape"
+],
+"links": 4
+},
+{
+"name": "Nobling",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ondenc",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pedral",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Peloursin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Picardan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pineau d'Aunis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pione",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Plavay",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rabigato",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ramisco",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Reichensteiner",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Romorantin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Schönburger",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sciascinoso",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Scuppernong",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Siroka Melniska",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Smederevka",
+"aliases": [
+"Dimyat"
+],
+"links": 4
+},
+{
+"name": "Souvignier gris",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Taburno Piedirosso Sannio DOC",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tauberschwarz",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tavkveri",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Terrano",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Terret gris",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tressot",
+"aliases": [
+"Tressot noir"
+],
+"links": 4
+},
+{
+"name": "Trousseau gris",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Téoulier",
+"aliases": [
+"Teoulier"
+],
+"links": 4
+},
+{
+"name": "Tămâioasă Românească",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Usakhelauri",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Vespaiola",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Würzer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Çavuş",
+"aliases": [
+"Chaouch Blanc",
+"Chaouch Blanc grape"
+],
+"links": 4
+},
+{
+"name": "Affenthaler",
+"aliases": [
+"Affenthaler grape",
+"Blauer Affenthaler",
+"Blauer Affenthaler grape"
+],
+"links": 3
+},
+{
+"name": "Albaranzeuli Bianco",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Alcañón",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aramon Gris",
+"aliases": [
+"Aramon Gris grape"
+],
+"links": 3
+},
+{
+"name": "Arbois",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Arinarnoa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Arvesiniadu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Asprinio bianco",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aubin vert",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aurelius",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Avarengo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Baboso negro",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bachet Noir",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Baratuciat",
+"aliases": [
+"Baratuciat grape"
+],
+"links": 3
+},
+{
+"name": "Bianchello",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bianchetta Genovese",
+"aliases": [
+"Bianchetta Genovese grape",
+"Genovese grape"
+],
+"links": 3
+},
+{
+"name": "Bianchetta Trevigiana",
+"aliases": [
+"Bianchetta Trevigiana grape",
+"Vernazzola"
+],
+"links": 3
+},
+{
+"name": "Biancolella",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bonamico",
+"aliases": [
+"Bonamico grape"
+],
+"links": 3
+},
+{
+"name": "Borba Blanca",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Braquet",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Brun Fourca",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bukettraube",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Béquignol noir",
+"aliases": [
+"Bequignol Noir",
+"Bequignol Noir grape"
+],
+"links": 3
+},
+{
+"name": "Cabernet Cubin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cabernet Dorio",
+"aliases": [
+"Cabernet Dorio grape"
+],
+"links": 3
+},
+{
+"name": "Cabernet Jura",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cabernet Moravia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Calitor",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Camaralet",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Canari noir",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Carricante",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Castets",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Catanese nero",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Charas",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chasan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chatus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chechipeshi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chelva",
+"aliases": [
+"Montúa"
+],
+"links": 3
+},
+{
+"name": "Cheshi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cienna",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Clairette rose",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Claverie",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Clevner",
+"aliases": [
+"Clevner grape",
+"Klevner"
+],
+"links": 3
+},
+{
+"name": "Cococciola",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Completer",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Dakapo",
+"aliases": [
+"Dakapo grape"
+],
+"links": 3
+},
+{
+"name": "Damaschino",
+"aliases": [
+"Damaschino grape"
+],
+"links": 3
+},
+{
+"name": "Dameron",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Deckrot",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Diolinoir",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Drupeggio",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Durize",
+"aliases": [
+"Durize grape"
+],
+"links": 3
+},
+{
+"name": "Dzhevat Kara",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ehrenbreitsteiner",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ekim Kara",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Encruzado",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Etraire de la Dui",
+"aliases": [
+"Beccu de l'Adui",
+"Beccu de l’Aduï",
+"Etraire",
+"Etraire de l'adny",
+"Etraire de l'adui",
+"Etraire de la Dot",
+"Etraire de la du",
+"Etraire de la duy",
+"Gros persan",
+"Grosse Etraire",
+"Grosse Étraire",
+"Étraire",
+"Étraire de la Dot",
+"Étraire de la Dui",
+"Étraire de la Duy",
+"Étraire de la Dû",
+"Étraire de l’Adny",
+"Étraire de l’Aduï"
+],
+"links": 3
+},
+{
+"name": "Findling",
+"aliases": [],
+"links": 3
+},
+{
+"name": "fogoneu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Forastera",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Franc Noir de la Haute-Saône",
+"aliases": [
+"Franc Noir de la Haute-Saone"
+],
+"links": 3
+},
+{
+"name": "Gamay Blanc Gloriod",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Garnacha Roja",
+"aliases": [
+"Garnacha Roja grape",
+"Garnatxa roja",
+"Grenache Gris"
+],
+"links": 3
+},
+{
+"name": "Garnacha Tinta",
+"aliases": [
+"Cannonau",
+"Garnacha Tinta grape",
+"Tai rosso",
+"Tocai Rosso"
+],
+"links": 3
+},
+{
+"name": "Garrido Fino",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Genovese",
+"aliases": [
+"Genovese grape"
+],
+"links": 3
+},
+{
+"name": "Girò di Cagliari DOC",
+"aliases": [
+"Giro"
+],
+"links": 3
+},
+{
+"name": "Graisse",
+"aliases": [
+"Blanquette",
+"Blanquette grise",
+"Cargo saoumo",
+"Cargo saumo",
+"Chalosse",
+"Cholosse",
+"Clairette egreneuse",
+"Clairette égreneuse",
+"Cotiblanc",
+"Cotilblanc",
+"Gras",
+"Gras blanc",
+"Grecho",
+"Gros blanc",
+"Jalosse",
+"Mendic",
+"Plant de graisse",
+"Plant de Grecho",
+"Plant de Mun",
+"President",
+"Président",
+"Ramassaou blanc",
+"Ramassou blanc",
+"Taloche",
+"Tizourine bou-aferara blanc",
+"Tizourine bou-afrara"
+],
+"links": 3
+},
+{
+"name": "Grecanico Dorato",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gringet",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Grk Bijeli",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Grolleau Gris",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Juan García",
+"aliases": [
+"Juan Garcia"
+],
+"links": 3
+},
+{
+"name": "Jurançon",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Juwel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Karasakız",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kefessia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kernling",
+"aliases": [
+"Kernling grape"
+],
+"links": 3
+},
+{
+"name": "Kisi",
+"aliases": [
+"Kisi grape"
+],
+"links": 3
+},
+{
+"name": "Kokur Belyi",
+"aliases": [
+"Kokur Belyi grape"
+],
+"links": 3
+},
+{
+"name": "Kratošija",
+"aliases": [
+"Kratosija"
+],
+"links": 3
+},
+{
+"name": "Lauzet",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Listan Prieto",
+"aliases": [
+"Mission"
+],
+"links": 3
+},
+{
+"name": "Luglienga",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lumassina",
+"aliases": [
+"Lumassina grape"
+],
+"links": 3
+},
+{
+"name": "Maceratino",
+"aliases": [
+"Ribona"
+],
+"links": 3
+},
+{
+"name": "Malbo Gentile",
+"aliases": [
+"Malbo Gentile grape"
+],
+"links": 3
+},
+{
+"name": "Malingre Précoce",
+"aliases": [
+"Malingre Precoce"
+],
+"links": 3
+},
+{
+"name": "Malvasia Bianca di Candia",
+"aliases": [
+"Malvasia Bianca di Candia grape"
+],
+"links": 3
+},
+{
+"name": "Malvasia di Candia Aromatica",
+"aliases": [
+"Malvasia di Candia Aromatica grape"
+],
+"links": 3
+},
+{
+"name": "Malvasia di Casorzo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Malvasia di Sardegna",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Malvasia di Schierano",
+"aliases": [
+"Malvasia di Schierano grape"
+],
+"links": 3
+},
+{
+"name": "Mantonico bianco",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mavrotragano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Merille",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Meslier-Saint-François",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Milgranet",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Molette",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mondeuse Blanche",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mornen noir",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Moscato di Scanzo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mourisco tinto",
+"aliases": [
+"Marufo",
+"Marufo grape",
+"Mourisco"
+],
+"links": 3
+},
+{
+"name": "Muscaris grape",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Muscat Bailey A",
+"aliases": [
+"Muscat Bailey A grape"
+],
+"links": 3
+},
+{
+"name": "Muscat fleur d’oranger",
+"aliases": [
+"Muscat fleur d’oranger grape"
+],
+"links": 3
+},
+{
+"name": "Muscat Rose à Petits Grains",
+"aliases": [
+"Muscat Rose a Petits Grains"
+],
+"links": 3
+},
+{
+"name": "Niabell",
+"aliases": [
+"California concord grapes"
+],
+"links": 3
+},
+{
+"name": "Nuragus",
+"aliases": [
+"Nuragus grape"
+],
+"links": 3
+},
+{
+"name": "Optima",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Orléans",
+"aliases": [
+"Orleans"
+],
+"links": 3
+},
+{
+"name": "Ortrugo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Othello",
+"aliases": [
+"Othello grape"
+],
+"links": 3
+},
+{
+"name": "Papazkarası",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pardillo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pascal blanc",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Persan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Petit rouge",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Peurion",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pignoletto",
+"aliases": [
+"Pignoletto grape"
+],
+"links": 3
+},
+{
+"name": "Pignolo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Piquepoul Noir",
+"aliases": [
+"Pical Polho",
+"Picalpolho",
+"Piquepoul Noir grape"
+],
+"links": 3
+},
+{
+"name": "Portan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rabo de Ovelha",
+"aliases": [
+"Rabo de' Ovelha"
+],
+"links": 3
+},
+{
+"name": "Regner",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rollo",
+"aliases": [
+"Paga Debiti",
+"Pagadebiti",
+"Rollo grape",
+"Uva baresana"
+],
+"links": 3
+},
+{
+"name": "Rossese nero",
+"aliases": [
+"Rossese",
+"Rossese nero grape"
+],
+"links": 3
+},
+{
+"name": "Rossignola",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rotberger",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Roublot",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rouge du Pays",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Roussin de Morgex",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rubin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sacy",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Saint-Pierre Doré",
+"aliases": [
+"Saint-Pierre Dore"
+],
+"links": 3
+},
+{
+"name": "Sauvignon gris",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Savagnin Rose",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sciacarello",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Servant",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ségalin",
+"aliases": [
+"Segalin"
+],
+"links": 3
+},
+{
+"name": "Tazzelenghe",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Terrantez",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Terret blanc",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tibouren",
+"aliases": [
+"Tibouren grape"
+],
+"links": 3
+},
+{
+"name": "Tinta Carvalha",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tinta Francisca",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tintilia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Traminer",
+"aliases": [
+"Traminer grape"
+],
+"links": 3
+},
+{
+"name": "Trebbiano di Soave",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Uva Rara",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Verdesse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vien de Nus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vilana",
+"aliases": [
+"Belana",
+"Velana",
+"Vitis vinifera ’Vilána’"
+],
+"links": 3
+},
+{
+"name": "Viosinho",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vital",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vugava",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vuillermin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Wildbacher",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Zilga",
+"aliases": [
+"Zilga grape"
+],
+"links": 3
+},
+{
+"name": "Ġellewża",
+"aliases": [
+"Gelleuza"
+],
+"links": 3
+},
+{
+"name": "Žlahtina",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Abondant",
+"aliases": [
+"Abondant Blanc",
+"Abondant grape"
+],
+"links": 2
+},
+{
+"name": "Acitana",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Addoraca",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Agadai",
+"aliases": [
+"Agadai grape"
+],
+"links": 2
+},
+{
+"name": "Aglianicone",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Albanella",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Albanello bianco",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Alionza",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Alyi Terskii",
+"aliases": [
+"Alyi Terskii grape"
+],
+"links": 2
+},
+{
+"name": "Amlakhu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Aragnan blanc",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Aramon Blanc",
+"aliases": [
+"Aramon Blanc grape"
+],
+"links": 2
+},
+{
+"name": "Aranel",
+"aliases": [
+"Aranel grape"
+],
+"links": 2
+},
+{
+"name": "Arriloba",
+"aliases": [
+"Arriloba grape"
+],
+"links": 2
+},
+{
+"name": "Autumn Royal",
+"aliases": [
+"Autumn Royal grape",
+"Autumn Royal Seedless"
+],
+"links": 2
+},
+{
+"name": "Azal Branco",
+"aliases": [
+"Azal",
+"Azal grape"
+],
+"links": 2
+},
+{
+"name": "Azal branco",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Balcic",
+"aliases": [
+"Balcic grape"
+],
+"links": 2
+},
+{
+"name": "Barbera Sarda",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Baron",
+"aliases": [
+"Baron grape"
+],
+"links": 2
+},
+{
+"name": "Barsaglina",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bashkirskii Rannii",
+"aliases": [
+"Bashkirskii Rannii grape"
+],
+"links": 2
+},
+{
+"name": "Batoca",
+"aliases": [
+"Batoca grape"
+],
+"links": 2
+},
+{
+"name": "Bellone",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bianco d'Alessano",
+"aliases": [
+"Bianco d'Alessano grape"
+],
+"links": 2
+},
+{
+"name": "Biancone di Portoferraio",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bigolona",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Blanc Dame",
+"aliases": [
+"Blanc Dame grape"
+],
+"links": 2
+},
+{
+"name": "Bonda",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bouillet",
+"aliases": [
+"Bouillet grape"
+],
+"links": 2
+},
+{
+"name": "Bouteillan Noir",
+"aliases": [
+"Bouteillan Noir grape"
+],
+"links": 2
+},
+{
+"name": "Bovale Sardo",
+"aliases": [
+"Bovale Sardo grape"
+],
+"links": 2
+},
+{
+"name": "Brancellao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Branco Escola",
+"aliases": [
+"Branco Escola grape",
+"Branco-Escola",
+"Branco-Escola grape"
+],
+"links": 2
+},
+{
+"name": "Budai zöld",
+"aliases": [
+"Budai zold",
+"Budai zöld grape"
+],
+"links": 2
+},
+{
+"name": "Béclan",
+"aliases": [
+"Beclan",
+"Béclan grape"
+],
+"links": 2
+},
+{
+"name": "Bíborkadarka",
+"aliases": [
+"Biborkadarka",
+"Bíborkadarka grape"
+],
+"links": 2
+},
+{
+"name": "Cabaret Noir",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cabernet Carbon",
+"aliases": [
+"Cabernet Carbon grape"
+],
+"links": 2
+},
+{
+"name": "Cabernet Gernischt",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Calitor Blanc",
+"aliases": [
+"Calitor Blanc grape"
+],
+"links": 2
+},
+{
+"name": "Calitor Gris",
+"aliases": [
+"Calitor Gris grape"
+],
+"links": 2
+},
+{
+"name": "Carcajolo Blanc",
+"aliases": [
+"Carcajolo Blanc grape"
+],
+"links": 2
+},
+{
+"name": "Carcajolo Noir",
+"aliases": [
+"Carcajolo Noir grape"
+],
+"links": 2
+},
+{
+"name": "Carignan Blanc",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Carminoir",
+"aliases": [
+"Carminoir grape"
+],
+"links": 2
+},
+{
+"name": "Cascal",
+"aliases": [
+"Cascal grape"
+],
+"links": 2
+},
+{
+"name": "Catalanesca bianca",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Catarratto Bianco comune",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Catarratto Bianco lucido",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cesanese Comune",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chasselas Rose",
+"aliases": [
+"Chasselas Rose grape"
+],
+"links": 2
+},
+{
+"name": "Chenanson",
+"aliases": [
+"Chenanson grape"
+],
+"links": 2
+},
+{
+"name": "Chenel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Colombana Nera",
+"aliases": [
+"Colombana Nera grape"
+],
+"links": 2
+},
+{
+"name": "Colombaud",
+"aliases": [
+"Colombaud du Var",
+"Colombaud grape"
+],
+"links": 2
+},
+{
+"name": "Cornifesto",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Courbu Noir",
+"aliases": [
+"Courbu Noir grape"
+],
+"links": 2
+},
+{
+"name": "Courbu Petit",
+"aliases": [
+"Courbu Petit grape",
+"Petit Courbu"
+],
+"links": 2
+},
+{
+"name": "Crimson Seedless",
+"aliases": [
+"C 102-26"
+],
+"links": 2
+},
+{
+"name": "Crljenak kaštelanski",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Crovassa",
+"aliases": [
+"Crovassa grape"
+],
+"links": 2
+},
+{
+"name": "Derechero",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dindarella",
+"aliases": [
+"Dindarella grape",
+"Dindarella Rizza",
+"Dindarella Veronese"
+],
+"links": 2
+},
+{
+"name": "Docal Tinto",
+"aliases": [
+"Docal Tinto grape"
+],
+"links": 2
+},
+{
+"name": "Doce",
+"aliases": [
+"Docal De Refoios",
+"Doce grape",
+"Doçal de Refóios",
+"Doçal de Refóios grape"
+],
+"links": 2
+},
+{
+"name": "Donzelinho branco",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Doral",
+"aliases": [
+"Doral grape"
+],
+"links": 2
+},
+{
+"name": "Douce Noire grise",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Douradinha",
+"aliases": [
+"Douradinha grape",
+"Talia"
+],
+"links": 2
+},
+{
+"name": "Egiodola",
+"aliases": [
+"Egiodola grape"
+],
+"links": 2
+},
+{
+"name": "Ekigaïna",
+"aliases": [
+"Ekigaïna grape"
+],
+"links": 2
+},
+{
+"name": "Emir wine",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Emperor",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Escanyavella",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Esganoso",
+"aliases": [
+"Esganoso de Lima",
+"Esganoso grape"
+],
+"links": 2
+},
+{
+"name": "Favorita",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ferrón",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fontanara",
+"aliases": [
+"Fontanara grape"
+],
+"links": 2
+},
+{
+"name": "Forcallat tinta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gamay Beaujolais",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gamay Teinturier De Bouze",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gamay teinturier de Chaudenay",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gamay Teinturier Freaux",
+"aliases": [
+"Gamay Freaux",
+"Gamay Teinturier Freaux grape"
+],
+"links": 2
+},
+{
+"name": "Ganson",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Goldburger",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Goron de Bovernier",
+"aliases": [
+"Goron de Bovernier grape"
+],
+"links": 2
+},
+{
+"name": "Goruli Mtsvane",
+"aliases": [
+"Goruli Mtsvane grape"
+],
+"links": 2
+},
+{
+"name": "Gramon",
+"aliases": [
+"Gramon grape"
+],
+"links": 2
+},
+{
+"name": "Greco Bianco Di Novara",
+"aliases": [
+"Greco Bianco Di Novara grape"
+],
+"links": 2
+},
+{
+"name": "Greco Nero",
+"aliases": [
+"Greco Nero grape"
+],
+"links": 2
+},
+{
+"name": "Groppello di Mocasina",
+"aliases": [
+"Groppello di Mocasina grape"
+],
+"links": 2
+},
+{
+"name": "Groppello Di Mocasina",
+"aliases": [
+"Groppello Di Mocasina grape",
+"Groppello di Santo Stefano"
+],
+"links": 2
+},
+{
+"name": "Groppello Gentile",
+"aliases": [
+"Groppello Gentile grape"
+],
+"links": 2
+},
+{
+"name": "Guarnaccia",
+"aliases": [
+"Guarnaccia grape"
+],
+"links": 2
+},
+{
+"name": "Hebén",
+"aliases": [
+"Gibi"
+],
+"links": 2
+},
+{
+"name": "Hegel",
+"aliases": [
+"Hegel grape"
+],
+"links": 2
+},
+{
+"name": "Helios",
+"aliases": [
+"Helios grape"
+],
+"links": 2
+},
+{
+"name": "Hibou Rouge",
+"aliases": [
+"Eyholzer",
+"Hibou Rouge grape"
+],
+"links": 2
+},
+{
+"name": "Hoelder",
+"aliases": [
+"Hoelder grape"
+],
+"links": 2
+},
+{
+"name": "Honigler",
+"aliases": [
+"Honigler grape"
+],
+"links": 2
+},
+{
+"name": "Hron",
+"aliases": [],
+"links": 2
+},
+{
+"name": "In memory of Strelyaeva",
+"aliases": [
+"In memory of Strelyaeva grape"
+],
+"links": 2
+},
+{
+"name": "Iza Zaliwska",
+"aliases": [
+"Iza Zaliwska grape"
+],
+"links": 2
+},
+{
+"name": "Izsaki Sarfeher",
+"aliases": [
+"Arany Sarfeher",
+"Izsaki Sarfeher grape"
+],
+"links": 2
+},
+{
+"name": "Jaén tinto",
+"aliases": [
+"Jaen tinto"
+],
+"links": 2
+},
+{
+"name": "Joubertin",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jurançon",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jurançon blanc",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jutrzenka",
+"aliases": [
+"Jutrzenka grape"
+],
+"links": 2
+},
+{
+"name": "Karalahna",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Krasnostop Zolotovsky",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Labrusco",
+"aliases": [
+"Labrusco grape"
+],
+"links": 2
+},
+{
+"name": "Lagorthi",
+"aliases": [
+"Vitis vinifera ’Lagórthi’"
+],
+"links": 2
+},
+{
+"name": "Lambrusca di Alessandria",
+"aliases": [
+"Lambrusca di Alessandria grape"
+],
+"links": 2
+},
+{
+"name": "Lambrusco a Foglia Frastagliata",
+"aliases": [
+"Lambrusco a Foglia Frastagliata grape"
+],
+"links": 2
+},
+{
+"name": "Lambrusco Grasparossa",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lambrusco Montericco",
+"aliases": [
+"Lambrusco Montericco grape"
+],
+"links": 2
+},
+{
+"name": "Lambrusco Salamino",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lambrusco Viadanese",
+"aliases": [
+"Grappello Ruberti"
+],
+"links": 2
+},
+{
+"name": "Lameiro",
+"aliases": [
+"Lameiro grape"
+],
+"links": 2
+},
+{
+"name": "Liliorila",
+"aliases": [
+"Liliorila grape"
+],
+"links": 2
+},
+{
+"name": "Listán de Huelva",
+"aliases": [
+"Listan de Huelva"
+],
+"links": 2
+},
+{
+"name": "Loureira Tinta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lydia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Magaracha Rannii",
+"aliases": [
+"Magaracha Rannii grape"
+],
+"links": 2
+},
+{
+"name": "Magdeleine noire des Charentes",
+"aliases": [
+"Magdeleine noire des Charentes grape"
+],
+"links": 2
+},
+{
+"name": "Magliocco Dolce",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Malvasia Bianca di Basilicata",
+"aliases": [
+"Malvasia Bianca di Basilicata grape"
+],
+"links": 2
+},
+{
+"name": "Malvasia del Lazio",
+"aliases": [
+"Malvasia del Lazio grape"
+],
+"links": 2
+},
+{
+"name": "Malvasia Di Sardegna Rosada",
+"aliases": [
+"Malvasia Di Sardegna Rosada grape"
+],
+"links": 2
+},
+{
+"name": "Malvasia Dubrovacka",
+"aliases": [
+"Malvasia Dubrovacka grape"
+],
+"links": 2
+},
+{
+"name": "Malvasia Istriana",
+"aliases": [
+"Malvasia Istriana grape"
+],
+"links": 2
+},
+{
+"name": "Malvasia Nera di Basilicata",
+"aliases": [
+"Malvasia Nera di Basilicata grape"
+],
+"links": 2
+},
+{
+"name": "Malvasia Nera di Lecce",
+"aliases": [
+"Malvasia Nera di Lecce grape"
+],
+"links": 2
+},
+{
+"name": "Mandó",
+"aliases": [
+"Mandó grape"
+],
+"links": 2
+},
+{
+"name": "Mariensteiner",
+"aliases": [
+"Mariensteiner grape"
+],
+"links": 2
+},
+{
+"name": "Mars grape",
+"aliases": [
+"A 1508",
+"Ark. 1508",
+"Arkansas 1508",
+"Mars seedless grape"
+],
+"links": 2
+},
+{
+"name": "Mathiász Jánosné muskotály",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mauzac Rose",
+"aliases": [
+"Mauzac Rose grape"
+],
+"links": 2
+},
+{
+"name": "Mayolet",
+"aliases": [
+"Mayolet grape"
+],
+"links": 2
+},
+{
+"name": "Medina",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Misket Cherven",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mission",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Molinera",
+"aliases": [
+"Red Malaga"
+],
+"links": 2
+},
+{
+"name": "Monerac",
+"aliases": [
+"Monerac grape"
+],
+"links": 2
+},
+{
+"name": "Montepila",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Montils",
+"aliases": [
+"Montils grape"
+],
+"links": 2
+},
+{
+"name": "Montù",
+"aliases": [
+"Montu"
+],
+"links": 2
+},
+{
+"name": "Mopr",
+"aliases": [
+"Mopr grape"
+],
+"links": 2
+},
+{
+"name": "Moreto",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Morrastel Bouschet",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Muscat Précoce de Saumur",
+"aliases": [
+"Muscat Precoce de Saumur"
+],
+"links": 2
+},
+{
+"name": "Muscat Queen of Vineyards",
+"aliases": [
+"Koenigin der Weingaerten grape"
+],
+"links": 2
+},
+{
+"name": "Narince",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nascetta",
+"aliases": [
+"Nascetta grape"
+],
+"links": 2
+},
+{
+"name": "Nasco",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Negrara",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ner d'Ala",
+"aliases": [
+"Ner d'Ala grape"
+],
+"links": 2
+},
+{
+"name": "Neretto di Bairo",
+"aliases": [
+"Neretto di Bairo grape"
+],
+"links": 2
+},
+{
+"name": "Neronet",
+"aliases": [
+"Neronet grape"
+],
+"links": 2
+},
+{
+"name": "Neyret",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nieddera",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nocera",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Obeidi",
+"aliases": [
+"Obeidi grape"
+],
+"links": 2
+},
+{
+"name": "Oeillade noire",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Oesterreichisch Weiss",
+"aliases": [
+"Oesterreichisch Weiss grape",
+"Österreichisch-Weiß"
+],
+"links": 2
+},
+{
+"name": "Oseleta",
+"aliases": [
+"Oselina",
+"Useleta"
+],
+"links": 2
+},
+{
+"name": "Osteiner",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pampanuto",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pannónia kincse",
+"aliases": [
+"Pannonia kincse grape",
+"Pannónia kincse grape"
+],
+"links": 2
+},
+{
+"name": "Parkent grape",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pascale di Cagliari",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pedro Giménez",
+"aliases": [
+"Pedro Gimenez"
+],
+"links": 2
+},
+{
+"name": "Perdea",
+"aliases": [
+"Perdea grape"
+],
+"links": 2
+},
+{
+"name": "Petit Bouschet",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Piccola nera",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pinot Liébault",
+"aliases": [
+"Pinot Liebault grape"
+],
+"links": 2
+},
+{
+"name": "Pinotin",
+"aliases": [
+"Pinotin grape"
+],
+"links": 2
+},
+{
+"name": "Piquepoul Blanc",
+"aliases": [
+"Picapolla",
+"Picpouille",
+"Picpoul",
+"Picpoul blanc",
+"Piquepoul"
+],
+"links": 2
+},
+{
+"name": "Piquepoul gris",
+"aliases": [
+"Piquepoul gris grape"
+],
+"links": 2
+},
+{
+"name": "Pizzutella",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Plant de Brunel",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Plant Robert",
+"aliases": [
+"Plant Robert grape"
+],
+"links": 2
+},
+{
+"name": "Planta nova",
+"aliases": [
+"Planta nova grape"
+],
+"links": 2
+},
+{
+"name": "Pollera nera",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Portugieser grau",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Portugieser grün",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Portugieser Rot",
+"aliases": [
+"Portugieser Rot grape"
+],
+"links": 2
+},
+{
+"name": "Premetta",
+"aliases": [
+"Premetta grape"
+],
+"links": 2
+},
+{
+"name": "Prensal",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Prunelard",
+"aliases": [
+"Prunelard grape"
+],
+"links": 2
+},
+{
+"name": "Pölöskei Muskat",
+"aliases": [
+"Poloskei Muskat",
+"Pölöskei Muskat grape"
+],
+"links": 2
+},
+{
+"name": "Quagliano",
+"aliases": [
+"Quagliano grape"
+],
+"links": 2
+},
+{
+"name": "Raboso piave",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Raboso veronese",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Raffiat de Moncade",
+"aliases": [
+"Raffiat de Moncade grape"
+],
+"links": 2
+},
+{
+"name": "Ranfol",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rebo",
+"aliases": [
+"Rebo grape"
+],
+"links": 2
+},
+{
+"name": "Retagliado bianco",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ribier",
+"aliases": [
+"Ribier grape"
+],
+"links": 2
+},
+{
+"name": "Rimava",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rome",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Romeiko",
+"aliases": [
+"Mavroromeiko"
+],
+"links": 2
+},
+{
+"name": "Roussin",
+"aliases": [
+"Roussin grape"
+],
+"links": 2
+},
+{
+"name": "Rubinet",
+"aliases": [
+"Rubinet grape"
+],
+"links": 2
+},
+{
+"name": "Räuschling",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rèze",
+"aliases": [
+"Reze"
+],
+"links": 2
+},
+{
+"name": "Sary Pandas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Semebat",
+"aliases": [
+"Semebat grape"
+],
+"links": 2
+},
+{
+"name": "Septimer",
+"aliases": [
+"Septimer grape"
+],
+"links": 2
+},
+{
+"name": "Sercial",
+"aliases": [
+"Esganoso de Castelo de Paiva",
+"Sercial grape"
+],
+"links": 2
+},
+{
+"name": "Servanin",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sibirkovy",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Silcher",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sirius",
+"aliases": [
+"Sirius grape"
+],
+"links": 2
+},
+{
+"name": "Skhilathubani",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Soyaki",
+"aliases": [
+"Soyaki grape"
+],
+"links": 2
+},
+{
+"name": "Tamarez",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Taminga",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tarrango",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Teinturier",
+"aliases": [
+"Teinturier du Cher",
+"Teinturier grape"
+],
+"links": 2
+},
+{
+"name": "Teleki 8 B",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tempranillo blanco",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Thrapsathiri",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tilki Kuyrugu",
+"aliases": [
+"Tilki Kuyrugu grape"
+],
+"links": 2
+},
+{
+"name": "Torrontés Riojano",
+"aliases": [
+"Torrontes Riojano"
+],
+"links": 2
+},
+{
+"name": "Trebbiano Giallo",
+"aliases": [
+"Trebbiano Giallo grape"
+],
+"links": 2
+},
+{
+"name": "Trebbiano Romagnolo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Turan",
+"aliases": [
+"Turan grape",
+"Turán"
+],
+"links": 2
+},
+{
+"name": "Uva di Puglia PGI",
+"aliases": [
+"Apulia grape",
+"Uva di Puglia IGP"
+],
+"links": 2
+},
+{
+"name": "Uva quebranta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Valentino nero",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Verdea",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Verdil",
+"aliases": [
+"Verdil grape"
+],
+"links": 2
+},
+{
+"name": "Vermentino nero",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Vidadillo",
+"aliases": [
+"Vidadillo de Almonacid",
+"Vidadillo grape"
+],
+"links": 2
+},
+{
+"name": "Vidiano",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Vigiriega",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Vitovska",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Voltis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Weldra",
+"aliases": [],
+"links": 2
+},
+{
+"name": "wine grape variety",
+"aliases": [
+"wine grape",
+"wine-grape variety"
+],
+"links": 2
+},
+{
+"name": "abondance",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Adakarası",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Adelfraenkisch",
+"aliases": [
+"Adelfraenkisch grape"
+],
+"links": 1
+},
+{
+"name": "admirable de Courtiller",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Agat Donskoi",
+"aliases": [
+"Agat Donskoi grape"
+],
+"links": 1
+},
+{
+"name": "Agianniotiko",
+"aliases": [
+"Agianniotiko grape"
+],
+"links": 1
+},
+{
+"name": "Aglianico del Vulture",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Agni",
+"aliases": [
+"Agni grape"
+],
+"links": 1
+},
+{
+"name": "Agudelo",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Aidani Mavro",
+"aliases": [
+"Aidani Mavro grape"
+],
+"links": 1
+},
+{
+"name": "Alb mare",
+"aliases": [
+"Alb mare grape"
+],
+"links": 1
+},
+{
+"name": "Alb Rotund",
+"aliases": [
+"Alb Rotund grape"
+],
+"links": 1
+},
+{
+"name": "Alba mustoasa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Alba verde",
+"aliases": [
+"Alba verde grape"
+],
+"links": 1
+},
+{
+"name": "Alba zaharoasa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Albana Bianca",
+"aliases": [
+"Albana Bianca grape",
+"Riminese"
+],
+"links": 1
+},
+{
+"name": "Albarín blanco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Albarín negro",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Albillo Mayor",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Albinos",
+"aliases": [
+"Albinos grape"
+],
+"links": 1
+},
+{
+"name": "Albisoara",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Albut marunt",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Aleksandr",
+"aliases": [
+"Aleksandr grape"
+],
+"links": 1
+},
+{
+"name": "Alicante",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Allobrogicum",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Almeria",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Alpha",
+"aliases": [
+"Alpha grape"
+],
+"links": 1
+},
+{
+"name": "Alunica",
+"aliases": [],
+"links": 1
+},
+{
+"name": "America",
+"aliases": [
+"America grape"
+],
+"links": 1
+},
+{
+"name": "Amos",
+"aliases": [
+"Amos grape"
+],
+"links": 1
+},
+{
+"name": "Anita",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Arbane",
+"aliases": [
+"Arbane grape",
+"Arbanne",
+"Arbanne Blanche"
+],
+"links": 1
+},
+{
+"name": "Arengh",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Arevshat",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Argessis",
+"aliases": [
+"Argessis grape"
+],
+"links": 1
+},
+{
+"name": "Ariana",
+"aliases": [
+"Ariana grape"
+],
+"links": 1
+},
+{
+"name": "Arilla",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Aromína",
+"aliases": [
+"Aromina",
+"Aromína grape"
+],
+"links": 1
+},
+{
+"name": "Artaban",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Aspiran Bouschet",
+"aliases": [
+"Aspiran Bouschet grape"
+],
+"links": 1
+},
+{
+"name": "Assario Branco",
+"aliases": [
+"Assario Branco grape"
+],
+"links": 1
+},
+{
+"name": "August Getsh",
+"aliases": [
+"Getsh"
+],
+"links": 1
+},
+{
+"name": "August Giant",
+"aliases": [
+"August Giant grape"
+],
+"links": 1
+},
+{
+"name": "Augusta",
+"aliases": [
+"Augusta grape"
+],
+"links": 1
+},
+{
+"name": "Auriu De Stefanesti",
+"aliases": [
+"Auriu De Stefanesti grape"
+],
+"links": 1
+},
+{
+"name": "Autuchon",
+"aliases": [
+"Autuchon grape"
+],
+"links": 1
+},
+{
+"name": "Azal rouge",
+"aliases": [
+"Azal rouge grape"
+],
+"links": 1
+},
+{
+"name": "Azur",
+"aliases": [
+"Azur grape"
+],
+"links": 1
+},
+{
+"name": "Babeasca Grise",
+"aliases": [
+"Babeasca Grise grape"
+],
+"links": 1
+},
+{
+"name": "Bacchus Noir",
+"aliases": [
+"Bacchus",
+"Bacchus Bidault",
+"Bacchus Noir grape"
+],
+"links": 1
+},
+{
+"name": "Baghis Yurdzeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Balaban Alb",
+"aliases": [
+"Balaban Alb grape"
+],
+"links": 1
+},
+{
+"name": "Balaban Roz",
+"aliases": [
+"Balaban Roz grape"
+],
+"links": 1
+},
+{
+"name": "Balzac blanc",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bambal",
+"aliases": [
+"Bambal grape"
+],
+"links": 1
+},
+{
+"name": "Barbarossa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Barbera Bianca",
+"aliases": [
+"Barbera Bianca grape"
+],
+"links": 1
+},
+{
+"name": "Barbera bianca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Barbera del Sannio",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bargène",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bariadorgia",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Barmet",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Barthainer Gruen",
+"aliases": [
+"Barthainer Gruen grape",
+"Gruner Barthainer"
+],
+"links": 1
+},
+{
+"name": "Basicata",
+"aliases": [
+"Basicata grape"
+],
+"links": 1
+},
+{
+"name": "Basicata",
+"aliases": [
+"Alb",
+"Basicata grape"
+],
+"links": 1
+},
+{
+"name": "Bastardo Magarachskii",
+"aliases": [
+"Bastardo Magarachskii grape"
+],
+"links": 1
+},
+{
+"name": "Batiki",
+"aliases": [
+"Batiki grape"
+],
+"links": 1
+},
+{
+"name": "Beglaris Yurdzeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bekari",
+"aliases": [
+"Bekari grape"
+],
+"links": 1
+},
+{
+"name": "Benedicto",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bequignol Blanc",
+"aliases": [
+"Bequignol Blanc grape"
+],
+"links": 1
+},
+{
+"name": "Bequignol Gris",
+"aliases": [
+"Bequignol Gris grape"
+],
+"links": 1
+},
+{
+"name": "Berbecel",
+"aliases": [
+"Alb mic",
+"Berbecel grape"
+],
+"links": 1
+},
+{
+"name": "Berckmans",
+"aliases": [
+"Berckmans grape"
+],
+"links": 1
+},
+{
+"name": "Bermejuela",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bermestia Bianca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bervedino",
+"aliases": [
+"Bervedino grape"
+],
+"links": 1
+},
+{
+"name": "Besgano bianco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bia Blanc",
+"aliases": [
+"Bia Blanc grape"
+],
+"links": 1
+},
+{
+"name": "Bia blanc",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Biancone",
+"aliases": [
+"Biancone grape"
+],
+"links": 1
+},
+{
+"name": "Biancu Gentile",
+"aliases": [
+"Biancu Gentile grape"
+],
+"links": 1
+},
+{
+"name": "Bicane",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Black Queen",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Black rose",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Blanca de Monterrei",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Blatterle",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Blaue Zimmettraube",
+"aliases": [
+"Blaue Zimmettraube grape",
+"Blaue Zimttraube",
+"Blaue Zimttraube grape"
+],
+"links": 1
+},
+{
+"name": "Blauer Arbst",
+"aliases": [
+"Blauer Arbst grape"
+],
+"links": 1
+},
+{
+"name": "Blauer Urban",
+"aliases": [
+"Blauer Urban grape"
+],
+"links": 1
+},
+{
+"name": "Boglárka",
+"aliases": [
+"Boglarka",
+"Boglárka grape",
+"Buttercup"
+],
+"links": 1
+},
+{
+"name": "Bonarda di Gattinara",
+"aliases": [
+"Bonarda di Gattinara grape"
+],
+"links": 1
+},
+{
+"name": "Borosica",
+"aliases": [
+"Borosica grape"
+],
+"links": 1
+},
+{
+"name": "Boscanata",
+"aliases": [
+"Boscanata grape"
+],
+"links": 1
+},
+{
+"name": "Boscanata",
+"aliases": [
+"Boscanata grape"
+],
+"links": 1
+},
+{
+"name": "Boschera",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bourgogne Gros",
+"aliases": [
+"Bourgogne Gros grape",
+"Planscher"
+],
+"links": 1
+},
+{
+"name": "Bovale Grande",
+"aliases": [
+"Bovale Grande grape"
+],
+"links": 1
+},
+{
+"name": "Bracciola Nera",
+"aliases": [
+"Bracciola Nera grape"
+],
+"links": 1
+},
+{
+"name": "Bracciola nera",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Branco Lexítimo",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Breslava",
+"aliases": [
+"Breslava grape"
+],
+"links": 1
+},
+{
+"name": "Brestovitsa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Breval",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bric",
+"aliases": [
+"Bric grape"
+],
+"links": 1
+},
+{
+"name": "Brilliant",
+"aliases": [
+"Brilliant grape"
+],
+"links": 1
+},
+{
+"name": "Brugnola",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Brustiano bianco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Brustiano faux",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Bubbierasco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Buket",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Burger",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Buvaki",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Caberinta",
+"aliases": [
+"Caberinta grape"
+],
+"links": 1
+},
+{
+"name": "Cabernet Cantor",
+"aliases": [
+"Cabernet Cantor grape"
+],
+"links": 1
+},
+{
+"name": "Cabernet Carol",
+"aliases": [
+"Cabernet Carol grape"
+],
+"links": 1
+},
+{
+"name": "Cabernet Eidos",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cabernet Pfeffer",
+"aliases": [
+"Cabernet Pfeffer grape"
+],
+"links": 1
+},
+{
+"name": "Cabernet volos",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cabertin",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cacchione",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Caddiu",
+"aliases": [
+"Caddiu grape"
+],
+"links": 1
+},
+{
+"name": "Calabrese Montenuovo",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Calandro",
+"aliases": [
+"Calandro grape"
+],
+"links": 1
+},
+{
+"name": "Calardis Musqué",
+"aliases": [
+"Calardis Musqué grape"
+],
+"links": 1
+},
+{
+"name": "Calardis Royal",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Calardis Soleil",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Caloria",
+"aliases": [
+"Caloria grape"
+],
+"links": 1
+},
+{
+"name": "Camaraou noir",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Camarate",
+"aliases": [
+"Camarate grape"
+],
+"links": 1
+},
+{
+"name": "Campi Flegrei Piedirosso",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Canada",
+"aliases": [
+"Canada grape"
+],
+"links": 1
+},
+{
+"name": "Canari",
+"aliases": [
+"Canari grape"
+],
+"links": 1
+},
+{
+"name": "Canina Nera",
+"aliases": [
+"Canina Nera grape"
+],
+"links": 1
+},
+{
+"name": "Caprettone",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Carignan Gris",
+"aliases": [
+"Carignan Gris grape"
+],
+"links": 1
+},
+{
+"name": "Carmine",
+"aliases": [
+"Carmine grape"
+],
+"links": 1
+},
+{
+"name": "Carrasquín",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Casarsa",
+"aliases": [
+"Cazarsa"
+],
+"links": 1
+},
+{
+"name": "Casavecchia",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cascarolo bianco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Castañal",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cegléd szépe",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Centesimino",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cerason",
+"aliases": [
+"Cerason grape"
+],
+"links": 1
+},
+{
+"name": "Cesanese",
+"aliases": [
+"Cesanese grape"
+],
+"links": 1
+},
+{
+"name": "Cesanese d’Affile",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cetatuia",
+"aliases": [
+"Cetatuia grape"
+],
+"links": 1
+},
+{
+"name": "Cetinka",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Champanel",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Charmont",
+"aliases": [
+"Charmont grape"
+],
+"links": 1
+},
+{
+"name": "Charmont",
+"aliases": [
+"Charmont grape"
+],
+"links": 1
+},
+{
+"name": "Chasselas de Baneasa",
+"aliases": [
+"Chasselas de Baneasa grape"
+],
+"links": 1
+},
+{
+"name": "Chavush",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cherna Perla",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cherna Rezekie",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Chernomorski Briyant",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Chernomorski Eliksir",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Chiparati",
+"aliases": [
+"Chiparati grape"
+],
+"links": 1
+},
+{
+"name": "Chuberi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ciclopica",
+"aliases": [
+"Ciclopica grape"
+],
+"links": 1
+},
+{
+"name": "Cimighiera",
+"aliases": [
+"Cimighiera grape"
+],
+"links": 1
+},
+{
+"name": "Cividin Bianco",
+"aliases": [
+"Cividin Bianco grape",
+"Cividino",
+"Cividino Bianco del Friuli"
+],
+"links": 1
+},
+{
+"name": "Clarin",
+"aliases": [
+"Clarin grape"
+],
+"links": 1
+},
+{
+"name": "Coada groasa",
+"aliases": [
+"Coada groasa grape"
+],
+"links": 1
+},
+{
+"name": "Coarna Neagra",
+"aliases": [
+"Coarna Neagra grape"
+],
+"links": 1
+},
+{
+"name": "Coarna Neagra Aromata",
+"aliases": [
+"Coarna Neagra Aromata grape"
+],
+"links": 1
+},
+{
+"name": "Coarna Neagra Selectionata",
+"aliases": [
+"Coarna Neagra Selectionata grape"
+],
+"links": 1
+},
+{
+"name": "Coarna Rosie",
+"aliases": [
+"Coarna Rosie grape",
+"Tata Pisicei"
+],
+"links": 1
+},
+{
+"name": "Coarnă albă aromată",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Coda di Pecora",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Codivarta",
+"aliases": [
+"Codivarta grape"
+],
+"links": 1
+},
+{
+"name": "Codreanca",
+"aliases": [
+"Codreanca grape",
+"Kodrianka",
+"Kodrjanka",
+"Kodryanka",
+"Kodryanka grape"
+],
+"links": 1
+},
+{
+"name": "Colerain",
+"aliases": [
+"Colerain grape"
+],
+"links": 1
+},
+{
+"name": "Complexa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Corbeasca",
+"aliases": [
+"Corbeasca grape"
+],
+"links": 1
+},
+{
+"name": "Cornacchia",
+"aliases": [
+"Cornacchia grape",
+"Fintendo",
+"Fintendo grape"
+],
+"links": 1
+},
+{
+"name": "Corvinone Veronese",
+"aliases": [
+"Corvinone Veronese grape"
+],
+"links": 1
+},
+{
+"name": "Cottage",
+"aliases": [
+"Cottage grape"
+],
+"links": 1
+},
+{
+"name": "Cr 2",
+"aliases": [
+"Cr 2 grape"
+],
+"links": 1
+},
+{
+"name": "Craita",
+"aliases": [
+"Craita grape"
+],
+"links": 1
+},
+{
+"name": "Crimposie",
+"aliases": [
+"Crimposie grape"
+],
+"links": 1
+},
+{
+"name": "Crimposie Selectionata",
+"aliases": [
+"Cramposie Selectionata",
+"Crimposie Selectionata grape"
+],
+"links": 1
+},
+{
+"name": "Criolla",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Criolla Chica",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Croton",
+"aliases": [
+"Croton grape"
+],
+"links": 1
+},
+{
+"name": "Crovin",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Cruciulita",
+"aliases": [
+"Cruciulita grape",
+"Galbena verde"
+],
+"links": 1
+},
+{
+"name": "Csoka Szoeloe",
+"aliases": [
+"Csoka Szoeloe grape"
+],
+"links": 1
+},
+{
+"name": "Cygne blanc",
+"aliases": [],
+"links": 1
+},
+{
+"name": "César",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Côdega do Larinho",
+"aliases": [
+"Codega do Larinho",
+"Côdega do Larinho grape"
+],
+"links": 1
+},
+{
+"name": "Danlas",
+"aliases": [
+"Danlas grape"
+],
+"links": 1
+},
+{
+"name": "Daroyi",
+"aliases": [
+"doroyi"
+],
+"links": 1
+},
+{
+"name": "Dedatyurdzeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Delizia di Vaprio",
+"aliases": [
+"Delizia di Vaprio grape"
+],
+"links": 1
+},
+{
+"name": "Diamant",
+"aliases": [
+"Diamant grape"
+],
+"links": 1
+},
+{
+"name": "Diminichiu alb",
+"aliases": [
+"Diminichiu alb grape"
+],
+"links": 1
+},
+{
+"name": "Diminichiu roz",
+"aliases": [
+"Diminichiu roz grape"
+],
+"links": 1
+},
+{
+"name": "Dingač",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Divico",
+"aliases": [
+"Divico grape"
+],
+"links": 1
+},
+{
+"name": "Docais",
+"aliases": [
+"Docais grape"
+],
+"links": 1
+},
+{
+"name": "Dodrelyabi",
+"aliases": [
+"Dodrelyabi grape",
+"Ochiul boului"
+],
+"links": 1
+},
+{
+"name": "Donzelinho Tinto",
+"aliases": [
+"Donzelinho Tinto grape",
+"Donzellinho do Castello"
+],
+"links": 1
+},
+{
+"name": "Doradilla",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Douce noir",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Doukkali",
+"aliases": [
+"Doukkali grape"
+],
+"links": 1
+},
+{
+"name": "Doux d’Henri",
+"aliases": [
+"Doux d'Henry",
+"Doux d’Henri grape"
+],
+"links": 1
+},
+{
+"name": "Downing",
+"aliases": [
+"Downing grape"
+],
+"links": 1
+},
+{
+"name": "Dracut Amber",
+"aliases": [
+"Dracut Amber grape"
+],
+"links": 1
+},
+{
+"name": "Drezza",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Drnekuša",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Droujba",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Dunaj",
+"aliases": [
+"Dunaj grape"
+],
+"links": 1
+},
+{
+"name": "Děvín",
+"aliases": [
+"Devin",
+"Devin grape",
+"Děvín grape"
+],
+"links": 1
+},
+{
+"name": "Early Muscat",
+"aliases": [
+"Early Muscat grape"
+],
+"links": 1
+},
+{
+"name": "Early Ohio",
+"aliases": [
+"Early Ohio grape"
+],
+"links": 1
+},
+{
+"name": "Early Victor",
+"aliases": [
+"Early Victor grape"
+],
+"links": 1
+},
+{
+"name": "Eclipse",
+"aliases": [
+"Eclipse grape",
+"Riehl 10",
+"RIEHL'S NEW EARLY GRAPE"
+],
+"links": 1
+},
+{
+"name": "Ederena",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ekigaina",
+"aliases": [
+"Ekigaina grape"
+],
+"links": 1
+},
+{
+"name": "Elbling Rot",
+"aliases": [
+"Elbling Rot grape",
+"Roter Elbling"
+],
+"links": 1
+},
+{
+"name": "Empire State",
+"aliases": [
+"Empire State grape"
+],
+"links": 1
+},
+{
+"name": "Enfariné noir",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Epuroaica",
+"aliases": [
+"Epuroaica grape"
+],
+"links": 1
+},
+{
+"name": "Erilon",
+"aliases": [
+"Erilon grape"
+],
+"links": 1
+},
+{
+"name": "Esgana Cao",
+"aliases": [
+"Esgana Cao grape"
+],
+"links": 1
+},
+{
+"name": "Esganinho",
+"aliases": [
+"Esganinho grape"
+],
+"links": 1
+},
+{
+"name": "Etoile I",
+"aliases": [
+"Etoile I grape",
+"Étoile I",
+"Étoile I grape"
+],
+"links": 1
+},
+{
+"name": "Etoile II",
+"aliases": [
+"Etoile II grape"
+],
+"links": 1
+},
+{
+"name": "Eumelan",
+"aliases": [
+"Eumelan grape"
+],
+"links": 1
+},
+{
+"name": "Ezerfürtű",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Fehér gohér",
+"aliases": [
+"Fehér gohér grape"
+],
+"links": 1
+},
+{
+"name": "Felicia",
+"aliases": [
+"Felicia grape"
+],
+"links": 1
+},
+{
+"name": "Feteasca Regala",
+"aliases": [
+"Feteasca Regala grape",
+"Fetească Muskatnaia"
+],
+"links": 1
+},
+{
+"name": "Fetească",
+"aliases": [
+"Feteasca",
+"Fetească grape"
+],
+"links": 1
+},
+{
+"name": "Fetita",
+"aliases": [
+"Fetita grape"
+],
+"links": 1
+},
+{
+"name": "Feunate",
+"aliases": [
+"Feunate grape"
+],
+"links": 1
+},
+{
+"name": "Firtigaia",
+"aliases": [
+"Firtigaia grape"
+],
+"links": 1
+},
+{
+"name": "Floriánka",
+"aliases": [
+"Floriánka grape"
+],
+"links": 1
+},
+{
+"name": "Floréal",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Focsaneanca",
+"aliases": [
+"Focsaneanca grape"
+],
+"links": 1
+},
+{
+"name": "Fogarina",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Folignan",
+"aliases": [
+"Folignan grape"
+],
+"links": 1
+},
+{
+"name": "Forastera",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Formosa",
+"aliases": [
+"Formosa grape"
+],
+"links": 1
+},
+{
+"name": "Francuse",
+"aliases": [
+"Francuse grape"
+],
+"links": 1
+},
+{
+"name": "Fratava",
+"aliases": [
+"Fratava grape"
+],
+"links": 1
+},
+{
+"name": "Frontenac blanc",
+"aliases": [
+"Frontenac blanc grape"
+],
+"links": 1
+},
+{
+"name": "Galbena de Odobesti",
+"aliases": [
+"Galbena de Odobesti grape"
+],
+"links": 1
+},
+{
+"name": "Galotta",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gamay del Trasimeno",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gamay Precoce Noir",
+"aliases": [
+"Gamay Precoce Noir grape"
+],
+"links": 1
+},
+{
+"name": "Gamba di Pernice",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Garofanata",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Garró",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gascon",
+"aliases": [
+"Gascon grape"
+],
+"links": 1
+},
+{
+"name": "Geisenheim 318-57",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gelbhoelzer Blau",
+"aliases": [
+"Gelbhoelzer Blau grape"
+],
+"links": 1
+},
+{
+"name": "Gelu",
+"aliases": [
+"Gelu grape"
+],
+"links": 1
+},
+{
+"name": "Generosa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Geneva",
+"aliases": [
+"Geneva grape"
+],
+"links": 1
+},
+{
+"name": "Giacchè",
+"aliases": [
+"Giacche",
+"Giacche grape",
+"Giacchè grape"
+],
+"links": 1
+},
+{
+"name": "Giró blanc",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Goff",
+"aliases": [
+"Goff grape"
+],
+"links": 1
+},
+{
+"name": "Grabitoare",
+"aliases": [
+"Grabitoare grape"
+],
+"links": 1
+},
+{
+"name": "Gran negro",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Grando",
+"aliases": [
+"Grando grape"
+],
+"links": 1
+},
+{
+"name": "Green Hungarian",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Grein Golden",
+"aliases": [
+"Grein Golden grape"
+],
+"links": 1
+},
+{
+"name": "Grisa nera",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Grolleau Blanc",
+"aliases": [
+"Grolleau Blanc grape"
+],
+"links": 1
+},
+{
+"name": "Groppello",
+"aliases": [
+"Groppello Bianco",
+"Groppello grape"
+],
+"links": 1
+},
+{
+"name": "Gros Cabernet",
+"aliases": [
+"Gros Cabernet grape"
+],
+"links": 1
+},
+{
+"name": "Gros Verdot",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gruenfraenkisch",
+"aliases": [
+"Gruenfraenkisch grape"
+],
+"links": 1
+},
+{
+"name": "Gueuche noir",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gutenborner",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Gyoengyrizling",
+"aliases": [
+"Gyoengyrizling grape",
+"Perlriesling"
+],
+"links": 1
+},
+{
+"name": "Hadisi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Hamvas",
+"aliases": [
+"Hamvas grape"
+],
+"links": 1
+},
+{
+"name": "Happenbach",
+"aliases": [
+"Happenbach grape"
+],
+"links": 1
+},
+{
+"name": "Headlight",
+"aliases": [
+"Headlight grape"
+],
+"links": 1
+},
+{
+"name": "Hebros",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Herbemont",
+"aliases": [
+"Herbemont grape"
+],
+"links": 1
+},
+{
+"name": "Hercules",
+"aliases": [
+"Hercules grape"
+],
+"links": 1
+},
+{
+"name": "Hetera",
+"aliases": [
+"Hetera grape"
+],
+"links": 1
+},
+{
+"name": "Hibia",
+"aliases": [
+"Hibia grape"
+],
+"links": 1
+},
+{
+"name": "Hibou Blanc",
+"aliases": [
+"Hibou",
+"Hibou Blanc grape",
+"Hibou Blanc Hivernais"
+],
+"links": 1
+},
+{
+"name": "Hidalgo",
+"aliases": [
+"Hidalgo grape"
+],
+"links": 1
+},
+{
+"name": "Himbertscha",
+"aliases": [
+"Himbertscha grape"
+],
+"links": 1
+},
+{
+"name": "Hron",
+"aliases": [
+"Hron grape"
+],
+"links": 1
+},
+{
+"name": "Ichkimar",
+"aliases": [
+"Echkiemar",
+"Ichkimar grape",
+"Ickimar",
+"Itchkimar",
+"Itshkimar",
+"Kishmishi"
+],
+"links": 1
+},
+{
+"name": "Ignea",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Impero",
+"aliases": [
+"Impero grape"
+],
+"links": 1
+},
+{
+"name": "Impigno",
+"aliases": [
+"Impigno grape"
+],
+"links": 1
+},
+{
+"name": "Incrocio Bruni 54",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ingram’s Muscat",
+"aliases": [
+"Ingram’s Muscat grape"
+],
+"links": 1
+},
+{
+"name": "Iordan",
+"aliases": [
+"Iordan Alb",
+"Iordan Ananas",
+"Iordan grape",
+"Iordana"
+],
+"links": 1
+},
+{
+"name": "Iordan",
+"aliases": [
+"Baldoaie",
+"Baldoale",
+"Baldouie",
+"Iordan grape"
+],
+"links": 1
+},
+{
+"name": "Iordan",
+"aliases": [
+"Iordan grape"
+],
+"links": 1
+},
+{
+"name": "Ironclad",
+"aliases": [
+"Diogenes",
+"Ironclad grape"
+],
+"links": 1
+},
+{
+"name": "Iveria",
+"aliases": [],
+"links": 1
+},
+{
+"name": "James",
+"aliases": [
+"James grape"
+],
+"links": 1
+},
+{
+"name": "Jampal",
+"aliases": [
+"Jampal grape"
+],
+"links": 1
+},
+{
+"name": "Janesville",
+"aliases": [
+"Janesville grape"
+],
+"links": 1
+},
+{
+"name": "Jewel",
+"aliases": [
+"Jewel grape",
+"Jewell"
+],
+"links": 1
+},
+{
+"name": "Jubileum 75",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Jubiläumsrebe",
+"aliases": [
+"Jubilaumsrebe",
+"Jubiläumsrebe grape"
+],
+"links": 1
+},
+{
+"name": "Julski biser",
+"aliases": [
+"Julski biser grape"
+],
+"links": 1
+},
+{
+"name": "Kabar",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kakhis Yurdzeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kamenoruzak Bily",
+"aliases": [
+"Kamenoruzak Bily grape"
+],
+"links": 1
+},
+{
+"name": "Kapistoni Tsitsiliani",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Karabraimis",
+"aliases": [
+"Karabraimis grape"
+],
+"links": 1
+},
+{
+"name": "Kensington",
+"aliases": [
+"Kensington grape"
+],
+"links": 1
+},
+{
+"name": "Klarnica",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kofranka",
+"aliases": [
+"Kofranka grape"
+],
+"links": 1
+},
+{
+"name": "Kolokitas Avgulatos",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kolor",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kozanitis",
+"aliases": [
+"Kozanitis grape"
+],
+"links": 1
+},
+{
+"name": "Kozma Pálné muskotály",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Kraljevina",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Krassato",
+"aliases": [
+"Krassato grape"
+],
+"links": 1
+},
+{
+"name": "Kreaca",
+"aliases": [
+"Creata de Banat",
+"Creață de Banat",
+"Kreaca grape"
+],
+"links": 1
+},
+{
+"name": "Lado",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lady",
+"aliases": [
+"Lady grape"
+],
+"links": 1
+},
+{
+"name": "Lady Washington",
+"aliases": [
+"Lady Washington grape"
+],
+"links": 1
+},
+{
+"name": "Lafnetscha",
+"aliases": [
+"Lafnetscha grape"
+],
+"links": 1
+},
+{
+"name": "Lagarino bianco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lambrusco Maestri",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lambrusco Marani",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Laska",
+"aliases": [
+"Laska grape"
+],
+"links": 1
+},
+{
+"name": "Laurot",
+"aliases": [
+"Laurot grape"
+],
+"links": 1
+},
+{
+"name": "LE-K/1",
+"aliases": [
+"LE-K/1 grape"
+],
+"links": 1
+},
+{
+"name": "Lekuri Yurdzeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lena",
+"aliases": [
+"Lena grape"
+],
+"links": 1
+},
+{
+"name": "Limniona",
+"aliases": [
+"Limniona grape"
+],
+"links": 1
+},
+{
+"name": "Lisztes Feher",
+"aliases": [
+"Lisztes Feher grape",
+"Slavita"
+],
+"links": 1
+},
+{
+"name": "Lival",
+"aliases": [
+"Lival grape"
+],
+"links": 1
+},
+{
+"name": "Loureira tinta",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Lucile",
+"aliases": [
+"Lucile grape",
+"Lucille"
+],
+"links": 1
+},
+{
+"name": "Lutie",
+"aliases": [
+"Lutie grape"
+],
+"links": 1
+},
+{
+"name": "Magarach Ruby",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Malian",
+"aliases": [
+"Malian grape"
+],
+"links": 1
+},
+{
+"name": "Malvasia",
+"aliases": [
+"Malvasia grape"
+],
+"links": 1
+},
+{
+"name": "Malvasia bianca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Malvasia Fina",
+"aliases": [
+"Malvasia Fina grape"
+],
+"links": 1
+},
+{
+"name": "Malvasia Fina Roxa",
+"aliases": [
+"Malvasia Fina Roxa grape"
+],
+"links": 1
+},
+{
+"name": "Mancin",
+"aliases": [
+"Mancin grape"
+],
+"links": 1
+},
+{
+"name": "Manito",
+"aliases": [
+"Manito grape"
+],
+"links": 1
+},
+{
+"name": "Manteudo",
+"aliases": [
+"Manteudo grape"
+],
+"links": 1
+},
+{
+"name": "Marawi",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Marble grape",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Marengo",
+"aliases": [
+"Marengo grape"
+],
+"links": 1
+},
+{
+"name": "Marion",
+"aliases": [
+"Marion grape",
+"Marion port"
+],
+"links": 1
+},
+{
+"name": "Marlen",
+"aliases": [
+"Marlen grape"
+],
+"links": 1
+},
+{
+"name": "Marsigliana Nera",
+"aliases": [
+"Marsigliana Nera grape"
+],
+"links": 1
+},
+{
+"name": "Marzemina bianca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Maticha",
+"aliases": [
+"Maticha grape"
+],
+"links": 1
+},
+{
+"name": "Maturana blanca",
+"aliases": [
+"Maturano",
+"Ribadavia"
+],
+"links": 1
+},
+{
+"name": "Mauzac noir",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mavroudi Arachovis",
+"aliases": [
+"Mavroudi Arachovis grape"
+],
+"links": 1
+},
+{
+"name": "McPike",
+"aliases": [
+"McPike grape"
+],
+"links": 1
+},
+{
+"name": "Mennas",
+"aliases": [
+"Mennas grape"
+],
+"links": 1
+},
+{
+"name": "Mereshnik",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Merlic",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Michele Palieri",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Milia",
+"aliases": [
+"Milia grape"
+],
+"links": 1
+},
+{
+"name": "Minella bianca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mireille",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Misket Kailashki",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Misket Plevenski",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Misket Trakiyski",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Missouri Riesling",
+"aliases": [
+"Grein 1",
+"Missouri Riesling grape"
+],
+"links": 1
+},
+{
+"name": "Mkvivi Yurdzeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Modrý Janek",
+"aliases": [
+"Modrý Janek grape"
+],
+"links": 1
+},
+{
+"name": "Mohrenkonigin",
+"aliases": [
+"Mohrenkonigin grape"
+],
+"links": 1
+},
+{
+"name": "Mollard",
+"aliases": [
+"Mollard grape"
+],
+"links": 1
+},
+{
+"name": "Monarch",
+"aliases": [
+"Monarch grape"
+],
+"links": 1
+},
+{
+"name": "Monemvassia",
+"aliases": [
+"Monemvassia grape"
+],
+"links": 1
+},
+{
+"name": "Montua",
+"aliases": [
+"Diagalves",
+"Diagalves grape",
+"Montua grape"
+],
+"links": 1
+},
+{
+"name": "Moore Early",
+"aliases": [
+"Moore Early grape"
+],
+"links": 1
+},
+{
+"name": "Morasca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Moravia agria",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Moravia dulce",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Morillon",
+"aliases": [
+"Morillon grape"
+],
+"links": 1
+},
+{
+"name": "Mornen noir",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Moscato di Terracina",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Moscato Di Terracina",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Moschomavro",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mourvaison",
+"aliases": [
+"Mourvaison grape"
+],
+"links": 1
+},
+{
+"name": "Moyer",
+"aliases": [
+"Moyer grape",
+"Moyer's Early Red"
+],
+"links": 1
+},
+{
+"name": "Mueller Thurgau Rot",
+"aliases": [
+"Mueller Thurgau Rot grape"
+],
+"links": 1
+},
+{
+"name": "Mureto",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Musallas",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Muskattrollinger",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Mustoasa de Maderat",
+"aliases": [
+"Mustoasa de Maderat grape"
+],
+"links": 1
+},
+{
+"name": "Narma",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Natela",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Nativa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ne ross",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Neagra",
+"aliases": [
+"Neagra grape"
+],
+"links": 1
+},
+{
+"name": "Neagra batuta mustoasa",
+"aliases": [
+"Neagra batuta mustoasa grape"
+],
+"links": 1
+},
+{
+"name": "Nectar",
+"aliases": [
+"Nectar grape"
+],
+"links": 1
+},
+{
+"name": "Negrara trentina",
+"aliases": [
+"Negrara trentina grape"
+],
+"links": 1
+},
+{
+"name": "Negru boia",
+"aliases": [
+"Negru boia grape"
+],
+"links": 1
+},
+{
+"name": "Negru lung",
+"aliases": [
+"Negru lung grape"
+],
+"links": 1
+},
+{
+"name": "Neo Muscat",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Neretta cuneese",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Nerettia cuneese",
+"aliases": [
+"Nerettia cuneese grape"
+],
+"links": 1
+},
+{
+"name": "Nero buono di Cori",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Nero Cappuccio",
+"aliases": [
+"Cappuccio Nero"
+],
+"links": 1
+},
+{
+"name": "Nielluccio",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Nitranka",
+"aliases": [
+"Nitranka grape"
+],
+"links": 1
+},
+{
+"name": "Noria",
+"aliases": [
+"Noria grape"
+],
+"links": 1
+},
+{
+"name": "Ohanes grape",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Olšava",
+"aliases": [
+"Olšava grape"
+],
+"links": 1
+},
+{
+"name": "Ora",
+"aliases": [
+"Ora grape"
+],
+"links": 1
+},
+{
+"name": "Orangetraube",
+"aliases": [
+"Orangetraube grape"
+],
+"links": 1
+},
+{
+"name": "Oraniensteiner",
+"aliases": [
+"Oraniensteiner grape"
+],
+"links": 1
+},
+{
+"name": "Padeiro",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pagadebit",
+"aliases": [
+"Pagadebit grape"
+],
+"links": 1
+},
+{
+"name": "Palas",
+"aliases": [
+"Palas grape"
+],
+"links": 1
+},
+{
+"name": "Pallagrello bianco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pallagrello nero",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Palù",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pardina",
+"aliases": [
+"Pardina grape"
+],
+"links": 1
+},
+{
+"name": "Pasaresc",
+"aliases": [
+"Pasaresc grape"
+],
+"links": 1
+},
+{
+"name": "Pavana",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pecsi Szagos",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pepella",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Perine",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Perlette",
+"aliases": [
+"Perlette grape"
+],
+"links": 1
+},
+{
+"name": "Perlona",
+"aliases": [
+"Perlona grape"
+],
+"links": 1
+},
+{
+"name": "Perruno",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pinard",
+"aliases": [
+"Pinard grape"
+],
+"links": 1
+},
+{
+"name": "Pinela",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pinella",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pinello",
+"aliases": [
+"Pinello grape"
+],
+"links": 1
+},
+{
+"name": "Pinot de juillet",
+"aliases": [
+"Pinot de juillet grape"
+],
+"links": 1
+},
+{
+"name": "Pinot nova",
+"aliases": [
+"Pinot nova grape"
+],
+"links": 1
+},
+{
+"name": "Piquepoul Bouschet",
+"aliases": [
+"Piquepoul Bouschet grape"
+],
+"links": 1
+},
+{
+"name": "piros bakator",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Plassa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Pleven",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Plop",
+"aliases": [
+"Plop grape"
+],
+"links": 1
+},
+{
+"name": "Poama boiereasca",
+"aliases": [
+"Poama boiereasca grape"
+],
+"links": 1
+},
+{
+"name": "Poama moale",
+"aliases": [
+"Poama moale grape"
+],
+"links": 1
+},
+{
+"name": "Pocklington",
+"aliases": [
+"Pocklington grape"
+],
+"links": 1
+},
+{
+"name": "Pola",
+"aliases": [
+"Pola grape"
+],
+"links": 1
+},
+{
+"name": "Preto Martinho",
+"aliases": [
+"Preto Martinho grape"
+],
+"links": 1
+},
+{
+"name": "Primera",
+"aliases": [
+"Primera grape"
+],
+"links": 1
+},
+{
+"name": "Primus",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Prinzipal",
+"aliases": [
+"Prinzipal grape"
+],
+"links": 1
+},
+{
+"name": "Prior",
+"aliases": [
+"Prior grape"
+],
+"links": 1
+},
+{
+"name": "Privlačka bilina",
+"aliases": [
+"bilina"
+],
+"links": 1
+},
+{
+"name": "Prunent",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Prunesta",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Purcsin",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Reberger",
+"aliases": [
+"Reberger grape"
+],
+"links": 1
+},
+{
+"name": "Retico",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ribol",
+"aliases": [
+"Ribol grape"
+],
+"links": 1
+},
+{
+"name": "Riesel",
+"aliases": [
+"Riesel grape"
+],
+"links": 1
+},
+{
+"name": "Rieslina",
+"aliases": [
+"Rieslina grape"
+],
+"links": 1
+},
+{
+"name": "Riesling Rot",
+"aliases": [
+"Riesling Rot grape",
+"Roter Riesling"
+],
+"links": 1
+},
+{
+"name": "Rinot",
+"aliases": [
+"Rinot grape"
+],
+"links": 1
+},
+{
+"name": "Riparia Gloire de Montpellier",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rizamat",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Robal",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rochester",
+"aliases": [
+"Rochester grape"
+],
+"links": 1
+},
+{
+"name": "Rollo",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Roobernet",
+"aliases": [
+"Roobernet grape"
+],
+"links": 1
+},
+{
+"name": "Rosa",
+"aliases": [
+"Rosa grape"
+],
+"links": 1
+},
+{
+"name": "Rossara",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rossese bianco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rossola nera",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rossolino nero",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rouge de Diolly",
+"aliases": [
+"Rouge de Diolly grape"
+],
+"links": 1
+},
+{
+"name": "Roupeiro",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Roussette d’Ayze",
+"aliases": [
+"Roussette d’Ayze grape"
+],
+"links": 1
+},
+{
+"name": "Rovello bianco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rubel",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rubienne",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ruby Seedless",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Rubín",
+"aliases": [
+"Rubín grape"
+],
+"links": 1
+},
+{
+"name": "Rudava",
+"aliases": [
+"Rudava grape"
+],
+"links": 1
+},
+{
+"name": "Ruen",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ruling",
+"aliases": [
+"Ruling grape"
+],
+"links": 1
+},
+{
+"name": "Rusalka",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sabro",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Saint Macaire",
+"aliases": [
+"Saint Macaire grape"
+],
+"links": 1
+},
+{
+"name": "San Giuseppe nero",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sao Mamede",
+"aliases": [
+"Sao Mamede grape"
+],
+"links": 1
+},
+{
+"name": "Saorin",
+"aliases": [
+"Saorin grape"
+],
+"links": 1
+},
+{
+"name": "Saphira",
+"aliases": [
+"Saphira grape"
+],
+"links": 1
+},
+{
+"name": "Sarba",
+"aliases": [
+"Sarba grape"
+],
+"links": 1
+},
+{
+"name": "Sarfeher",
+"aliases": [
+"Sarfeher grape"
+],
+"links": 1
+},
+{
+"name": "Sarfeher",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Satin Noir",
+"aliases": [
+"VB 91-26-29"
+],
+"links": 1
+},
+{
+"name": "Sauvitage",
+"aliases": [
+"Sauvitage grape"
+],
+"links": 1
+},
+{
+"name": "Savilon",
+"aliases": [
+"Savilon grape"
+],
+"links": 1
+},
+{
+"name": "Scuturatoare",
+"aliases": [
+"Scuturatoare grape"
+],
+"links": 1
+},
+{
+"name": "Select",
+"aliases": [
+"Select grape"
+],
+"links": 1
+},
+{
+"name": "Semidano",
+"aliases": [
+"Semidano grape"
+],
+"links": 1
+},
+{
+"name": "Septemvriyski Rubin",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sevar",
+"aliases": [
+"Sevar grape"
+],
+"links": 1
+},
+{
+"name": "Sevka",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sgavetta",
+"aliases": [
+"Sgavetta grape"
+],
+"links": 1
+},
+{
+"name": "Shalistin",
+"aliases": [
+"Shalistin grape"
+],
+"links": 1
+},
+{
+"name": "Shasla Misketova",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Shavi Yurdzeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "shavkapito",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Shishveli",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sideboard",
+"aliases": [
+"Sideboard grape"
+],
+"links": 1
+},
+{
+"name": "Silvaner Blau",
+"aliases": [
+"Blauer Silvaner grape",
+"Silvaner Blau grape"
+],
+"links": 1
+},
+{
+"name": "Silvaner Rot",
+"aliases": [
+"Silvaner Rot grape"
+],
+"links": 1
+},
+{
+"name": "Sirame",
+"aliases": [
+"Salomé",
+"Sirame grape"
+],
+"links": 1
+},
+{
+"name": "Siranush",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sissi",
+"aliases": [
+"Sissi grape"
+],
+"links": 1
+},
+{
+"name": "Sjriak",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Slankamenka Bela",
+"aliases": [
+"Majarca Alba",
+"Slankamenka Bela grape"
+],
+"links": 1
+},
+{
+"name": "Smarnica",
+"aliases": [
+"Smarnica grape",
+"Šmarnica grape"
+],
+"links": 1
+},
+{
+"name": "Spergola",
+"aliases": [],
+"links": 1
+},
+{
+"name": "St Leonard",
+"aliases": [],
+"links": 1
+},
+{
+"name": "St. Georgen",
+"aliases": [
+"Saint Georgen",
+"St. Georgen grape"
+],
+"links": 1
+},
+{
+"name": "St. Vincent",
+"aliases": [
+"St. Vincent grape"
+],
+"links": 1
+},
+{
+"name": "St. Vincent grape",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Stephanie",
+"aliases": [
+"Stephanie grape"
+],
+"links": 1
+},
+{
+"name": "Storgoziya",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sumoll Blanc",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sungurlarski Biser",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Super Ran Bolgar",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Susac Crni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Síria",
+"aliases": [
+"Siria",
+"Siria grape",
+"Síria grape"
+],
+"links": 1
+},
+{
+"name": "Taferielt",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tai",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Taiga",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Takao",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Talisman",
+"aliases": [
+"Kesha 1",
+"Talisman grape",
+"Talizman"
+],
+"links": 1
+},
+{
+"name": "Tamaioara",
+"aliases": [
+"Tamaioara grape"
+],
+"links": 1
+},
+{
+"name": "Tamaioasa buna",
+"aliases": [
+"Tamaioasa buna grape"
+],
+"links": 1
+},
+{
+"name": "Tamaioasa caineasca",
+"aliases": [
+"Tamaioasa caineasca grape"
+],
+"links": 1
+},
+{
+"name": "Tata iepurelui",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tata oii",
+"aliases": [
+"Tata oii grape"
+],
+"links": 1
+},
+{
+"name": "Tavkveri",
+"aliases": [
+"Tavkveri grape"
+],
+"links": 1
+},
+{
+"name": "Terez",
+"aliases": [
+"Terez grape",
+"Theresa",
+"Theresa grape"
+],
+"links": 1
+},
+{
+"name": "Termarina rossa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Terrano",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Terzi 1",
+"aliases": [
+"Terzi 1 grape"
+],
+"links": 1
+},
+{
+"name": "Therona",
+"aliases": [
+"Therona grape"
+],
+"links": 1
+},
+{
+"name": "Thita Kakhuri",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Thita Kartluri",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Thita Rachuli",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tiganca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tigvoasa",
+"aliases": [
+"Tigvoasa grape"
+],
+"links": 1
+},
+{
+"name": "Tinta Miuda",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tkbili Yurdzeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Torrontes Sanjuanino",
+"aliases": [
+"Torrontes Sanjuanino grape"
+],
+"links": 1
+},
+{
+"name": "Torysa",
+"aliases": [
+"Torysa grape"
+],
+"links": 1
+},
+{
+"name": "Trakiyska Slava",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Transparent",
+"aliases": [
+"Transparent grape"
+],
+"links": 1
+},
+{
+"name": "Trebbiano Spoletino",
+"aliases": [
+"Trebbiano Spoletino grape"
+],
+"links": 1
+},
+{
+"name": "Trebbiano toscano",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Trevisana nera",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Trnjak",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Trobat",
+"aliases": [
+"Trobat grape"
+],
+"links": 1
+},
+{
+"name": "Trousseau",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tsalenjikhis Tetri",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tsimlyanskii Chernyi",
+"aliases": [
+"Tsimlyanskii Chernyi grape"
+],
+"links": 1
+},
+{
+"name": "Tsitsiliani Kapistoni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Tsulukidzis Tetra",
+"aliases": [
+"Rachuli Tetra",
+"Rachuli Tetra grape",
+"Tsulukidzis Tetra grape"
+],
+"links": 1
+},
+{
+"name": "Tyrian",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Ulster",
+"aliases": [
+"Ulster grape",
+"Ulster Prolific"
+],
+"links": 1
+},
+{
+"name": "Urban Rot",
+"aliases": [
+"Urban Rot grape"
+],
+"links": 1
+},
+{
+"name": "Uva Longanesi",
+"aliases": [
+"Uva Longanesi grape"
+],
+"links": 1
+},
+{
+"name": "Uva Tosca",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Uvalino",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vandal Cliche",
+"aliases": [
+"Vandal Cliche grape"
+],
+"links": 1
+},
+{
+"name": "Vardisperi Yurdzeni",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Varna Muscat",
+"aliases": [
+"Muscat of Varna grape",
+"Varna Muscat grape"
+],
+"links": 1
+},
+{
+"name": "Vega",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Veltliner Rotweiss",
+"aliases": [
+"Veltliner Rotweiss grape",
+"Veltlínské červenobílé grape"
+],
+"links": 1
+},
+{
+"name": "Verdelho rouge",
+"aliases": [
+"Verdelho rouge grape"
+],
+"links": 1
+},
+{
+"name": "Verdello",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vergennes",
+"aliases": [
+"Vergennes grape"
+],
+"links": 1
+},
+{
+"name": "Veritas",
+"aliases": [
+"Veritas grape"
+],
+"links": 1
+},
+{
+"name": "Vernaccia di Oristano",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vernaccia Nera",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vertzami",
+"aliases": [
+"Vertzami grape"
+],
+"links": 1
+},
+{
+"name": "Vesna",
+"aliases": [
+"Vesna grape"
+],
+"links": 1
+},
+{
+"name": "Victoria",
+"aliases": [
+"Victoria grape"
+],
+"links": 1
+},
+{
+"name": "Vidoc",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vie grasa",
+"aliases": [
+"Vie grasa grape"
+],
+"links": 1
+},
+{
+"name": "Vijariego Blanco",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Villaris",
+"aliases": [
+"Villaris grape"
+],
+"links": 1
+},
+{
+"name": "Vir",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vitra",
+"aliases": [
+"Vitra grape"
+],
+"links": 1
+},
+{
+"name": "Vlachiko",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Vrboska",
+"aliases": [
+"Vrboska grape"
+],
+"links": 1
+},
+{
+"name": "Váh",
+"aliases": [
+"Váh grape"
+],
+"links": 1
+},
+{
+"name": "Walter",
+"aliases": [
+"Walter grape"
+],
+"links": 1
+},
+{
+"name": "Wildmuskat",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Wilmington Red",
+"aliases": [
+"Wilmington Red grape",
+"Wyoming",
+"Wyoming grape",
+"Wyoming Red"
+],
+"links": 1
+},
+{
+"name": "Witberger",
+"aliases": [
+"Witberger grape"
+],
+"links": 1
+},
+{
+"name": "Woodruff",
+"aliases": [
+"Woodruff grape",
+"Woodruff red"
+],
+"links": 1
+},
+{
+"name": "Yubileinyi",
+"aliases": [
+"Yubileinyi grape"
+],
+"links": 1
+},
+{
+"name": "Zala gyöngye",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Zelen",
+"aliases": [
+"Zelen grape"
+],
+"links": 1
+},
+{
+"name": "Éva",
+"aliases": [
+"Éva grape"
+],
+"links": 1
+}
+]

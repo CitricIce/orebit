@@ -1,0 +1,102 @@
+.title {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: clamp(60px, 12vw, 140px);
+  font-weight: 800;
+  line-height: 0.9;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  filter: drop-shadow(0 4px 24px rgb(255 140 60 / 0.35)) drop-shadow(0 1px 0 rgb(80 30 60 / 0.6));
+  animation: title-in 1s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+@keyframes title-in {
+  from {
+    opacity: 0;
+    letter-spacing: 0.3em;
+  }
+}
+
+.letters {
+  display: inline-flex;
+  align-items: center;
+  padding-left: 0.12em;
+}
+
+.rest {
+  background: linear-gradient(180deg, #fff8ec 0%, #ffd18a 45%, #ff8a3c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* The asteroid O: a touch wider than a letter so the ring has room. */
+.o {
+  width: 1.02em;
+  height: 1.02em;
+  margin: -0.06em 0.04em 0 -0.08em;
+  overflow: visible;
+  flex: none;
+}
+
+.ring {
+  fill: none;
+  stroke-width: 4.5;
+}
+
+/* A spark of light that travels around the orbit. */
+.spark {
+  fill: none;
+  stroke: #fffaf0;
+  stroke-width: 5;
+  stroke-linecap: round;
+  stroke-dasharray: 5 95;
+  filter: drop-shadow(0 0 3px #ffd18a);
+  animation: orbit 4.5s linear infinite;
+}
+
+@keyframes orbit {
+  to {
+    stroke-dashoffset: -100;
+  }
+}
+
+.rock {
+  transform-origin: 50px 50px;
+  animation: bob 6s ease-in-out infinite alternate;
+}
+
+@keyframes bob {
+  from {
+    transform: rotate(-3deg) translateY(0);
+  }
+  to {
+    transform: rotate(3deg) translateY(-1.5px);
+  }
+}
+
+.glint {
+  transform-origin: 72px 50px;
+  animation: glint 2s ease-in-out infinite;
+}
+
+@keyframes glint {
+  0%,
+  100% {
+    opacity: 0.5;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.25);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .title,
+  .spark,
+  .rock,
+  .glint {
+    animation: none;
+  }
+}

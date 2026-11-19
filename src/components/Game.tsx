@@ -19,6 +19,7 @@ import { normalize } from "@/lib/match";
 import DrillShaft from "./DrillShaft";
 import Summary from "./Summary";
 import HowToPlay from "./HowToPlay";
+import GameTitle from "./GameTitle";
 import SpaceWorld, { type World } from "./SpaceWorld";
 import { APPROACH_MS, DESCENT_AT, LAUNCH_MS, stopFor } from "@/lib/journey";
 import s from "./Game.module.css";
@@ -351,7 +352,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       return (
         <>
           <section className={s.briefing} data-briefing="true">
-            <h1 className={s.gameTitle}>Orebit</h1>
+            <GameTitle />
             <p className={s.briefSub}>
               <span className={s.kicker}>Survey #{day.number}</span>
               <span>

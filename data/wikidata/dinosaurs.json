@@ -1,0 +1,8927 @@
+[
+{
+"name": "Tyrannosaurus",
+"aliases": [],
+"links": 108
+},
+{
+"name": "Archaeopteryx",
+"aliases": [
+"Urvogel"
+],
+"links": 93
+},
+{
+"name": "Triceratops",
+"aliases": [
+"Triceratopses"
+],
+"links": 81
+},
+{
+"name": "Stegosaurus",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Velociraptor",
+"aliases": [
+"Raptor",
+"Velociraptors"
+],
+"links": 78
+},
+{
+"name": "Spinosaurus",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Diplodocus",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Brachiosaurus",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Apatosaurus",
+"aliases": [
+"Atlantosaurus"
+],
+"links": 74
+},
+{
+"name": "Allosaurus",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Iguanodon",
+"aliases": [
+"iguanadon",
+"iguanodonts"
+],
+"links": 68
+},
+{
+"name": "Ankylosaurus",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Ceratosaurus",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Parasaurolophus",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Argentinosaurus",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Carnotaurus",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Albertosaurus",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Compsognathus",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Deinonychus",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Dilophosaurus",
+"aliases": [
+"dilophosaur"
+],
+"links": 50
+},
+{
+"name": "Edmontosaurus",
+"aliases": [
+"Anatosaurus",
+"Anatotitan",
+"Thespesius",
+"Trachodon",
+"Ugrunaaluk"
+],
+"links": 50
+},
+{
+"name": "Eoraptor",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Pachycephalosaurus",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Acrocanthosaurus",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Carcharodontosaurus",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Baryonyx",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Massospondylus",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Coelophysis",
+"aliases": [
+"Longosaurus",
+"Rioarribasaurus"
+],
+"links": 47
+},
+{
+"name": "Oviraptor",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Plateosaurus",
+"aliases": [
+"Dimodosaurus",
+"Sellosaurus"
+],
+"links": 47
+},
+{
+"name": "Tarbosaurus",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Abelisaurus",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Microraptor",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Styracosaurus",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Euoplocephalus",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Gallimimus",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Megalosaurus",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Corythosaurus",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Kentrosaurus",
+"aliases": [
+"Doryphorosaurus",
+"Kentrurosaurus"
+],
+"links": 44
+},
+{
+"name": "Protoceratops",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Barosaurus",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Brontosaurus",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Mamenchisaurus",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Psittacosaurus",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Camarasaurus",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Gordosaurus",
+"aliases": [
+"Gordo",
+"Gorgosaurus"
+],
+"links": 42
+},
+{
+"name": "Ornithomimus",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Camptosaurus",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Lambeosaurus",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Maiasaura",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Supersaurus",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Avimimus",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Daspletosaurus",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Torosaurus",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Alamosaurus",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Amphicoelias",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Torvosaurus",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Hesperornis",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Pachyrhinosaurus",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Sauroposeidon",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Struthiomimus",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Therizinosaurus",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Deinocheirus",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Edmontonia",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Hypsilophodon",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Ouranosaurus",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Saurolophus",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Achillobator",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Centrosaurus",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Dromaeosaurus",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Gastornis",
+"aliases": [
+"Diatryma"
+],
+"links": 35
+},
+{
+"name": "Heterodontosaurus",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Lesothosaurus",
+"aliases": [
+"possibly Fabrosaurus"
+],
+"links": 35
+},
+{
+"name": "Suchomimus",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Tuojiangosaurus",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Gigantoraptor",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Giraffatitan",
+"aliases": [
+"Brachiosaurus"
+],
+"links": 34
+},
+{
+"name": "Irritator",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Scelidosaurus",
+"aliases": [
+"Scelidosauridae"
+],
+"links": 34
+},
+{
+"name": "Shantungosaurus",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Staurikosaurus",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Utahraptor",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Barapasaurus",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Confuciusornis",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Huayangosaurus",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Sinornithosaurus",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Sinosauropteryx",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Titanis",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Yutyrannus",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Agilisaurus",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Alioramus",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Anchisaurus",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Chasmosaurus",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Majungasaurus",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Mapusaurus",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Minmi",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Mononykus",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Acanthopholis",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Ichthyornis",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Leaellynasaura",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Megaraptor",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Monolophosaurus",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Ornitholestes",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Rahonavis",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Saltasaurus",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Titanosaurus",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Achelousaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Alvarezsaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Bambiraptor",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Buitreraptor",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Caudipteryx",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Cetiosaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Dryosaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Hadrosaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Masiakasaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Phorusrhacos",
+"aliases": [
+"terror birds"
+],
+"links": 30
+},
+{
+"name": "Polacanthus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Sauropelta",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Saurophaganax",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Saurornithoides",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Scutellosaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Segnosaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Tenontosaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Thecodontosaurus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Zuniceratops",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Agustinia",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Antarctosaurus",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Bactrosaurus",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Gastonia",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Homalocephale",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Hypacrosaurus",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Pentaceratops",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Sinraptor",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Stegoceras",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Tsintaosaurus",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Unenlagia",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Wuerhosaurus",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Adasaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Aeolosaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Aerosteon",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Alxasaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Concavenator",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Dicraeosaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Eustreptospondylus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Gasosaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Lythronax",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Muttaburrasaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Nanotyrannus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Noasaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Olorotitan",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Pisanosaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Pyroraptor",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Rajasaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Sinoceratops",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Thescelosaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Yangchuanosaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Zhuchengtyrannus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Zupaysaurus",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Agathaumas",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Agujaceratops",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Aucasaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Beipiaosaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Dacentrurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Dreadnoughtus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Dryptosaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Einiosaurus",
+"aliases": [
+"Einiosaur"
+],
+"links": 27
+},
+{
+"name": "Europasaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Gojirasaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Gryposaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Micropachycephalosaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Nodosaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Omeisaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Pachycephalosaurus spinifer",
+"aliases": [
+"Stygimoloch"
+],
+"links": 27
+},
+{
+"name": "Paralititan",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Rapetosaurus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Rugops",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Shuvuuia",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Vulcanodon",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Alectrosaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Altirhinus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Amargasaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Anchiceratops",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Atlascopcosaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Bruhathkayosaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Dinornis",
+"aliases": [
+"giant moa"
+],
+"links": 26
+},
+{
+"name": "Fukuiraptor",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Mussaurdes",
+"aliases": [
+"Mussaurus"
+],
+"links": 26
+},
+{
+"name": "Nanuqsaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Panoplosaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Pelecanimimus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Piatnitzkysaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Pinacosaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Proceratosaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Riojasaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Saichania",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Scipionyx",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Siamosaurus",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Zalmoxes",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Adamantisaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Brachytrachelopan",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Cedarosaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Charonosaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Chindesaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Diamantinasaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Dracorex",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Epidexipteryx",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Futalognkosaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Hylaeosaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Jobaria",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Juravenator",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kritosaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Monoclonius",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Neovenator",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Oxalaia",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Qianzhousaurus",
+"aliases": [
+"Pinocchio rex"
+],
+"links": 25
+},
+{
+"name": "Raptorex",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Saurornitholestes",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Shunosaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ultrasaurus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Achillesaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Ampelosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Aragosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Argyrosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Astrodon",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Aurornis",
+"aliases": [
+"Aurornis xui"
+],
+"links": 24
+},
+{
+"name": "Avaceratops",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Borealopelta",
+"aliases": [
+"Suncor nodosaur"
+],
+"links": 24
+},
+{
+"name": "Byronosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Chirostenotes",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Eotyrannus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Haplocanthosaurus",
+"aliases": [
+"Haplacanthosaurus"
+],
+"links": 24
+},
+{
+"name": "Harpymimus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Hesperosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Indosuchus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Isisaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kosmoceratops",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lufengosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Magyarosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mahakala",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Megapnosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Miragaia",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Nemegtosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Orodromeus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Patagosaurus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Prenocephale",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Procompsognathus",
+"aliases": [
+"compys"
+],
+"links": 24
+},
+{
+"name": "Prosaurolophus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Tarchia",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Teratophoneus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Yamaceratops",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Aardonyx",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Albertaceratops",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Andesaurus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Anserimimus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Archaeornithomimus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Arrhinoceratops",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Eotriceratops",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Euhelopus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Halszkaraptor",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Ichthyovenator",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Jeholornis",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Jinfengopteryx",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Kelenken",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Kryptops",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Liliensternus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Melanorosaurus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Microceratus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Microvenator",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Opisthocoelicaudia",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Parksosaurus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Protarchaeopteryx",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Rhabdodon",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Segisaurus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Turiasaurus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Wintonotitan",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Zephyrosaurus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Abydosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Aepisaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Alaskacephale",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Amurosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Anatotitan",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Anthropornis",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Archaeodontosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Bahariasaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Bonitasaura",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Chaoyangsaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Chilantaisaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Conchoraptor",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Dromiceiomimus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Dromornis",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Garudimimus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Gigantosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Guaibasaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Haplocheirus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Incisivosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lexovisaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Linheraptor",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Nothronychus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Nyasasaurus",
+"aliases": [
+"Lake Nyasa lizard"
+],
+"links": 22
+},
+{
+"name": "Protoavis",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Quaesitosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sarcosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Scansoriopteryx",
+"aliases": [
+"Epidendrosaurus"
+],
+"links": 22
+},
+{
+"name": "Siamotyrannus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sinosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Telmatosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Titanoceratops",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Udanoceratops",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Utahceratops",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Variraptor",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Wannanosaurus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Appalachiosaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Archaeoceratops",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Atrociraptor",
+"aliases": [
+"Atrociraptors"
+],
+"links": 21
+},
+{
+"name": "Aublysodon",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bajadasaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Brachyceratops",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Brontornis",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Chungkingosaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Cristatusaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Dakotaraptor",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Deltadromeus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Diabloceratops",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Dracovenator",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Emausaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Epachthosaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Epanterias",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Goyocephale",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Indosaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Janenschia",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Kileskus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Labocania",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Montanoceratops",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Nedoceratops",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Oryctodromeus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Prenoceratops",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Probactrosaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Puertasaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Rebbachisaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Sinornithoides",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Stokesosaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tarascosaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Teratornis",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tianyulong",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tsaagan",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Turanoceratops",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tylocephale",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Velocisaurus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Yaverlandia",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Zanabazar junior",
+"aliases": [
+"Zanabazar"
+],
+"links": 21
+},
+{
+"name": "Albertonykus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Altispinax",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ammosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Anabisetia",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Animantarx",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Aralosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Borogovia",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Caenagnathasia",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ceratops",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Chialingosaurus",
+"aliases": [
+"Chialingosaurus kuani"
+],
+"links": 20
+},
+{
+"name": "Chilesaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Coahuilaceratops",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Dubreuillosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Elmisaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Erlikosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Gargoyleosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Glacialisaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Hesperonychus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Huaxiagnathus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Itemirus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Koreaceratops",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Liaoceratops",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Limusaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lurdusaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lusotitan",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Malawisaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Minotaurasaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nipponosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ozraptor",
+"aliases": [
+"Ozraptors"
+],
+"links": 20
+},
+{
+"name": "Panphagia",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Pegomastax",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Pelorosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Qantassaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Sinocalliopteryx",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Sinovenator",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Struthiosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tangvayosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tornieria",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Vorombe",
+"aliases": [
+"Vorombe titan"
+],
+"links": 20
+},
+{
+"name": "Waimanu",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Wendiceratops",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Xiongguanlong",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Zapalasaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Zizhongosaurus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Aletopelta",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Algoasaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Altispinax dunkeri",
+"aliases": [
+"Becklespinax"
+],
+"links": 19
+},
+{
+"name": "Amtocephale",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Andalgalornis",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Anomalopteryx",
+"aliases": [
+"Anomalopteryx didiformis",
+"Bush moa",
+"Lesser moa",
+"Little bush moa"
+],
+"links": 19
+},
+{
+"name": "Aviatyrannis",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Cerasinops",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Changyuraptor",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Eocursor",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Eolambia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Eucnemesaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Fruitadens",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Gigantspinosaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Graciliraptor",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Heyuannia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Jaxartosaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lapparentosaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lessemsaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Mantellisaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Marshosaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Nemegtomaia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Neuquenraptor",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Othnielia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Paranthodon",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Parvicursor",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Piveteausaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Regaliceratops",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Rinchenia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Santanaraptor",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Siats",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Sphaerotholus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Stegouros",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Talos",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Vagaceratops",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Wakinosaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Xenoceratops",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Xenotarsosaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Xuanhuaceratops",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Yunnanosaurus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Zuolong",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Albalophosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Antrodemus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Arenysaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Asiaceratops",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Asiatosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Auroraceratops",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Austrosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Avisaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Banji",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Bothriospondylus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Brachylophosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Brontomerus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ceratonykus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Cetiosauriscus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Chuandongocoelurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Chubutisaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Deinodon",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Draconyx",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Drinker nisti",
+"aliases": [
+"Drinker"
+],
+"links": 18
+},
+{
+"name": "Duriavenator",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Dysalotosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Echinodon",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ekrixinatosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Eosinopteryx",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Falcarius",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Fukuisaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Genyodectes",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Gilmoreosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Gobisaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Graciliceratops",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Hypselosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Iguanacolossus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Isanosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Khaan",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lanzhousaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Laquintasaura",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Leshansaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Linhenykus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mascarenotus",
+"aliases": [
+"Mascarene owls"
+],
+"links": 18
+},
+{
+"name": "Mendozasaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mirischia",
+"aliases": [
+"Mirischia asymmetrica"
+],
+"links": 18
+},
+{
+"name": "Mullerornis",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Nanshiungosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ostafrikasaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Patagonykus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Pelagornis",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Presbyornis",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Qiaowanlong",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Richardoestesia",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Sciurumimus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Serendipaceratops",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Sinornithomimus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Spinophorosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Stenopelix",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Tatankaceratops",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Timimus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Trigonosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Valdosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Xuanhanosaurus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Zhenyuanlong",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Zhuchengceratops",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Acheroraptor",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Acristavus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Adeopapposaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Aepyornithomimus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Agnosphitys",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Anodontosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Anoplosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Antetonitrus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Aorun",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Arstanosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Baptornis",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Blikanasaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Chromogisaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Coloradisaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Datousaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Dracoraptor",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Dravidosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Dromaeosauroides",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Enigmosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Eoabelisaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ferganasaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Gansus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Geranosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Gondwanatitan",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Hulsanpes",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Hungarosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Iliosuchus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ilokelesia",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jainosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jakapil",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jeyawati",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kol",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kotasaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Liaoningosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ligabueino",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lokiceratops",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Losillasaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lycorhinus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Magnirostris",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Magnosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Maip",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Mymoorapelta",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Neuquensaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Nomingia",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Notoceratops",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Nuthetes",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ornimegalonyx",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ornithodesmus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Othnielosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Paronychodon",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Pedopenna",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Rhoetosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Rinconsaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ruyangosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sanjuansaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Savannasaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Tanycolagreus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Tapuiasaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Tethyshadros",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Timurlengia",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Xiaosaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Yuxisaurus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Adratiklit",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Adzebill",
+"aliases": [
+"Aptornis"
+],
+"links": 16
+},
+{
+"name": "Ajancingenia",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Angolatitan",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Aquilops",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Asiatyrannus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Atacamatitan",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Atlantosaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bagaraatan",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bannykus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Caihong",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Camarillasaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Cedarpelta",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Chuanjiesaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Claosaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Colepiocephale",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Condorraptor",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Crichtonsaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Demandasaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Dracopelta",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Eshanosaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Fukuititan",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Galeamopus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Gravitholus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Hanssuesia",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Helioceratops",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Huabeisaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Kairuku",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Khankhuuluu",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Klamelisaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lamaceratops",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lamplughsaura",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Latenivenatrix",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Limaysaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Machairasaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nanosaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nanyangosaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Niobrarasaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Orkoraptor",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Panamericansaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Pawpawsaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Petrobrasaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Phuwiangosaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Proa",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Rapator",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sauroniops",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Secernosaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Seitaad",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Shenzhousaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Spicomellus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Spinostropheus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Tameryraptor",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Teyuwasu",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Uberabatitan",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Unquillosaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Vallibonavenatrix",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Wellnhoferia",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Xixiasaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Zhejiangosaurus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Albinykus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Amargatitanis",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Amygdalodon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Atsinganosaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Baurutitan",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Berthasaura",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Betasuchus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bicentenaria",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Buriolestes",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Caenagnathus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Camposaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Caseosaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ceratosuchops",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Chenanisaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Craspedodon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Cruxicheiros",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dahalokely",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dakotadon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dongyangosaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dyslocosaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Efraasia",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Erliansaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gobiceratops",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gongxianosaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gyposaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Hypselospinus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Iberospinus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kaatedocus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kinnareemimus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lametasaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Llukalkan",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Maxakalisaurus",
+"aliases": [
+"Maxakalisaurus topai"
+],
+"links": 15
+},
+{
+"name": "Monkonosaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Notocolossus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ohmdenosaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Paraphysornis",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Patagopteryx",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Penelopognathus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Pycnonemosaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Qinlingosaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Rayososaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sarcolestes",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Shaochilong",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Silvisaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Similicaudipteryx",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Stenonychosaurus",
+"aliases": [
+"S. inequalis"
+],
+"links": 15
+},
+{
+"name": "Suskityrannus",
+"aliases": [
+"Zunityrannus"
+],
+"links": 15
+},
+{
+"name": "Tanius",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Tatisaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Trachodon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Traukutitan",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ulughbegsaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Urbacodon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Velafrons",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Veterupristisaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Walgettosuchus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Wiehenvenator",
+"aliases": [
+"Das Monster von Minden",
+"The Minden Monster",
+"Wiehenvenator albati"
+],
+"links": 15
+},
+{
+"name": "Yandusaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Zhongyuansaurus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Abdarainurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ahvaytum",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Alcovasaurus",
+"aliases": [
+"Natronasaurus"
+],
+"links": 14
+},
+{
+"name": "Angulomastacator",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Aratasaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Arkansaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Australodocus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Australotitan",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bashanosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Berberosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bissektipelta",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bravoceratops",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Camelotia",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Chingkankousaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Compsosuchus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Daanosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Daxiatitan",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Dineobellator",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Dolichosuchus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Dryptosauroides",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Equijubus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Euronychodon",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ferganocephale",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Fukuivenator",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Galveosaurus",
+"aliases": [
+"Galvesaurus"
+],
+"links": 14
+},
+{
+"name": "Geminiraptor",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Gideonmantellia",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Gobivenator",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Hoplitosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Huanansaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Huanghetitan",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Hypsibema",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ignavusaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Inkayacu",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Jiangjunosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Jubbulpuria",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Kelmayisaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Kerberosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Leonerasaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Levnesovia",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ligabuesaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Lingwulong",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Linhevenator",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Magnapaulia",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Manidens",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Mansourasaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Mercuriceratops",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Narambuenatitan",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Nedcolbertia",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Nodocephalosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Osmakasaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Pachyornis",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Paludititan",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Pantydraco",
+"aliases": [
+"Pant-y-draco"
+],
+"links": 14
+},
+{
+"name": "Pectinodon",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Podokesaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Psilopterus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Rahiolisaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ratchasimasaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Regnosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Scolosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Shanag",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Shixinggia",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Shri",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Sonorasaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Streptospondylus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Suchosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Suuwassea",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Szechuanosaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Tastavinsaurus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Taurovenator",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ziapelta",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Albertadromeus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Alnashetri",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Alpkarakush",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Arackar",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Arcusaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Astrophocaudia",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Asylosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Austroposeidon",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Bagualosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Bainoceratops",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Baotianmansaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Bihariosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Blasisaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Bonapartenykus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Bonatitan",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Boreonykus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Calamosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cedrorestes",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Changchunsaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Chondrosteosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Chuxiongosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Coeluroides",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Craterosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Crittendenceratops",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Dongbeititan",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Duonychus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Duriatitan",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Dysganus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Elrhazosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Erketu",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Genusaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Haya",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Hesperornithoides",
+"aliases": [
+"WDC DML 001"
+],
+"links": 13
+},
+{
+"name": "Hippodraco",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Jiangshanosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Jiangxisaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kangnasaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Karongasaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Koparion",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kulceratops",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kulindadromeus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kumimanu",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Laevisuchus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Laplatasaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Lophostropheus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Luanchuanraptor",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Luoyanggia",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Lusitanosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Machairoceratops",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mandschurosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mochlodon",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mongolosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Murusraptor",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Muyelensaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Neimongosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Neosodon",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Nopcsaspondylus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Ornithopsis",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pamparaptor",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pararhabdodon",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Philovenator",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Phuwiangvenator",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Poekilopleuron",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pterospondylus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pukyongosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Quetecsaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Quilmesaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Riparovenator",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Sarmientosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Shamosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Shanxia",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Sierraceratops",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Stellasaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Tazoudasaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Theiophytalia",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Tianchisaurus",
+"aliases": [
+"Tianchiasaurus"
+],
+"links": 13
+},
+{
+"name": "Tochisaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Tonganosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Tongtianlong",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Valdoraptor",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Venenosaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Vespersaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Vitakridrinda",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Wulong",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Xuwulong",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Yongjinglong",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Yuanmousaurus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Albertavenator",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Anasazisaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Apatoraptor",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Arcovenator",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Borealosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Burianosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Cathartesaura",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Chinshakiangosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Cionodon",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Comahuesaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dandakosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dashanpusaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Delapparentia",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Devincenzia",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dollodon",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dystrophaeus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Elaltitan",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Elopteryx",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Enigmacursor",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Eomamenchisaurus",
+"aliases": [
+"Eomamenchisaurus yuanmouensis",
+"L 'eomamenchisauro"
+],
+"links": 12
+},
+{
+"name": "Epichirostenotes",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Epidendrosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Erectopus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Glyptodontopelta",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Gnathovorax",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Gongbusaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Guemesia",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Heptasteornis",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hexing",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hexinlusaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hierosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Histriasaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hongshanornis",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hongshanosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hualianceratops",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Inosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Jintasaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Jixiangornis",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Joaquinraptor",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Kaijiangosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Koshisaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Kurupi",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Laosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Liubangosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Loricatosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Loricosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Lusovenator",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Macrogryphosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Malarguesaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Mexidracon",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Morinosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Nankangia",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Natovenator",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Nebulasaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Ojoraptorsaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Oplosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Orthomerus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Pampadromaeus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Pellegrinisaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Phaedrolosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Pitekunsaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Polyonax",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Pradhania",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Qiupalong",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Rhinorex",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Rukwatitan",
+"aliases": [
+"Rukwatitan bisepultus"
+],
+"links": 12
+},
+{
+"name": "Sauroplites",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Shuangmiaosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Sinusonasus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Sonidosaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Spiclypeus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Spondylosoma",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Strigogyps",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tachiraptor",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tataouinea",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tendaguria",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Trierarchuncus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tsagantegia",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Ugrunaaluk",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Volkheimeria",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Xixiposaurus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Yehuecauhceratops",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Afromimus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Alexornis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Amanzia",
+"aliases": [
+"Amanzia greppini"
+],
+"links": 11
+},
+{
+"name": "Analong",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Anomalipes",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Apatodon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Archaeocursor",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Barrosasaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bienosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bolong",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Brodavis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Caletodraco",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Choyrodon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Clasmodosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Cnemiornis",
+"aliases": [
+"New Zealand goose"
+],
+"links": 11
+},
+{
+"name": "Diplotomodon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dzharatitanis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Enantiornis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Eocarcharia",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Eotrachodon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Europatitan",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Foraminacephale",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Gannansaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Hagryphus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Huehuecanauhtlus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ibirania",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Imperobator",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ischioceratops",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Iuticosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Jinbeisaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Longipteryx",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Macrurosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Martharaptor",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Mesembriornis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Mosaiceratops",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ornithomimoides",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Overosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Owenodon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Palaeeudyptes",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Panguraptor",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Patagopelta",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Patagornis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Peloroplites",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Physornis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Plateosauravus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Platytholus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Probrachylophosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Prodeinodon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Propanoplosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Protognathosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Pulaosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ruehleia",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Sanxiasaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Sasayamagnomus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Shidaisaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Siamodon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Siluosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Spectrovenator",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Stegopelta",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tambatitanis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tehuelchesaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Terminocavus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Texacephale",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tianzhenosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tichosteus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tlatolophus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Uteodon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Velocipes",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Viavenator",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Willinakaqe",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Wulagasaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Xianshanosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Yamatosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Yimenosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Yingshanosaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ypupiara",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zapsalis",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zhanghenglong",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Abditosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Adynomosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Aetonyx",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Andrewsornis",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Aquilarhinus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Arrudatitan",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Asiamericana",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Augustynolophus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Avimaia",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Brasilotitan",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Brohisaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Calamospondylus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Canardia",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Changchengornis",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chebsaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chiayusaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chuanqilong",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chucarosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cratoavis",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Crichtonpelta",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cumnoria",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Daemonosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Dalianraptor",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Daliansaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Denversaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Dzharacursor",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Elemgasem",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Emuarius",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Erythrovenator",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Europelta",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Ferenceratops",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Ferrisaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Fosterovenator",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Gongpoquansaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Gonkoken",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Huadanosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Huinculsaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Iani",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Igai",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Isaberrysaura",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Jaculinykus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Juncitarsus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kholumolumo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Koleken",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Koutalisaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kukufeldia",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Lajasvenator",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Leptorhynchos",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Leyesaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Lucianovenator",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Maleriraptor",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Mbiresaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Menefeeceratops",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Merosaurus",
+"aliases": [
+"Dornraptor"
+],
+"links": 10
+},
+{
+"name": "Mnyamawamtuka",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Morrosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Nambalia",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Notohypsilophodon",
+"aliases": [
+"Notohypshilophodon"
+],
+"links": 10
+},
+{
+"name": "Nurosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Osteodontornis",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Ostromia",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pachystruthio",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pakisaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Palaeopteryx",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Paralitherizinosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Paraxenisaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pendraig",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pengornis",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Procariama",
+"aliases": [
+"Procariama simplex"
+],
+"links": 10
+},
+{
+"name": "Qianjiangsaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Qingxiusaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Riojavenatrix",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sanpasaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sarahsaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sellacoxa",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shingopana",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shishugounykus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sirindhorna",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Syngonosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tamarro",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tawa",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Texasetes",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Thyreosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tyrannomimus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Uriash",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Weewarrasaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Xinjiangtitan",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Yuanmouraptor",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Yuanyanglong",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Yueosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Zigongosaurus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Zuoyunlong",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Abavornis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Alcmonavis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Apteribis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Archaeornithura",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Archaeospheniscus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ardetosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Baalsaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bagualia",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bashunosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bicharracosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bullockornis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Campylodoniscus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Choconsaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Coahuilasaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Copepteryx",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Damalasaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Diluvicursor",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Diogenornis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Eleutherornis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Eousdryosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Eucamerotus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Eucercosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Falcatakely",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Fona",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Fusuisaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Fylax",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Garganornis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Garumbatitan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gobititan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Irisosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Issi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Istiorachis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Jamaican Ibis",
+"aliases": [
+"Jamaican flightless ibis",
+"Xenicibis xympithecus"
+],
+"links": 9
+},
+{
+"name": "Jinyunpelta",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Jiutaisaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Kazaklambia",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Kundurosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Liaoningvenator",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Morelladon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Navajoceratops",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Navaornis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Nhandumirim",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ningyuansaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Normanniasaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Oblitosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ondogurvel",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ornatops",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ornatotholus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Padillasaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Palaelodus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Paleopsilopterus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Parahesperornis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Phyllodon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Plesiohadros",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pleurocoelus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Potamornis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pulanesaura",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Punatitan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Qijianglong",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Qiupanykus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Rapaxavis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Rhadinosaurus",
+"aliases": [
+"Rhadinososaurus"
+],
+"links": 9
+},
+{
+"name": "Rugocaudia",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sibirotitan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sinocoelurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Soriatitan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tatankacephalus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Taveirosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tienshanosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Titanomachya",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tototlmimus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Transylvanosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Trimucrodon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Vectipelta",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Vouivria",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Wudingloong",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Wyleyia",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Xenoposeidon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Yizhousaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Zaraapelta",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Angaturama",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Astigmasaura",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Australornis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bathornis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bayosaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bravasaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bustingorrytitan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Canadaga",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Changmiania",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cruralispennia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Datonglong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Diclonius",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Diuqin",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Eoalulavis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Eoenantiornis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Furcatoceratops",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Galleonosaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gandititan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gargantuavis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Heishansaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hesperonyx",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Huallasaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Huaxiazhoulong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Huayracursor",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hypnovenator",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Invictarx",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Janavis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Jinchuanloong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Katepensaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kelumapusaura",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kemkemia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kunmingosaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Latirhinus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lavocatavis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lohuecotitan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Malefica",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Marmarospondylus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Meroktenos",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Messelirrisor",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Microcoelus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Minimocursor",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Nanantius",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Napaisaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Neogyps",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Noguerornis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Nullotitan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Obelignathus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pachysuchus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Palaeospheniscus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Petrustitan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Phoeniconaias",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Polacanthoides",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ponerosteus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Proplanicoxa",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sahaliyania",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Schleitheimia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Shanyangosaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Taleta",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Taohelong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Teinurosaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tengrisaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tharosaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Thecospondylus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tralkasaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tuebingosaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Vectidromeus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Vectiraptor",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Vitakrisaurus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Wamweracaudia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Xiangyunloong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Yandangornis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Yantaloong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Yunganglong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Yunmenglong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Aegialornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ambiortus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Anatalavis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Annakacygna",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Apatornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bauxitornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Beipiaognathus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Brevirostruavis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Camarasaurus lewisi",
+"aliases": [
+"Cathetosaurus"
+],
+"links": 7
+},
+{
+"name": "Ceratocaudia",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Chakisaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cratonavis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cryptogyps",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cuspirostrisornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Dachongosaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Dongyangopelta",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Eopengornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Eurotrochilus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Foskeia",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Fukuipteryx",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Garrigatitan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Gremlin",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hamititan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hoazinavis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Huaxiaosaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Incolornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ischyrosaurus",
+"aliases": [
+"Ischyrotherium"
+],
+"links": 7
+},
+{
+"name": "Iyuku",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Jianchangornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Junornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kaijutitan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kank",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Khulsanurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kuszholia",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Liaoxiornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Liassaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mahuidacursor",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Maleevus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Menucocelsior",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Microhadrosaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Migmanychion",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Musankwa",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Narindasaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Notatesseraeraptor",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Oohkotokia",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Otogosaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Paluxysaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Paraptenodytes",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pareisactus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pilmatueia",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Portellsaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Qiliania",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Qunkasaura",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Rhomaleopakhus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sidersaura",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Silutitan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Smitanosaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Stegosaurides",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Stephanosaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tanystrosuchus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Thambetochen",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Thecocoelurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Thespesius",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tietasaura",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tongnanlong",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Torotix",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Triunfosaurus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Udelartitan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Yixianornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Yungavolucris",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Zhongjianornis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Anteavis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Balochisaurus",
+"aliases": [
+"Balochi lizard"
+],
+"links": 6
+},
+{
+"name": "Beiguornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Caieiria",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chiappeavis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chongmingia",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chromeornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cimolopteryx",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Claorhynchus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cryptovolans",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dynatoaetus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Enaliornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eocathayornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eoceratops",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eogranivora",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eugongbusaurus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Explorornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Fumicollis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Halimornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hollanda",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hortalotarsus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Huashanosaurus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ilbandornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Jiangxititan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kompsornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Krzyzanowskisaurus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Largirostrornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lectavis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Liaoningotitan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Limenavis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Limnofregata",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Liptornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lithornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Magnamanus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Manipulonyx",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Marisaurus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Martinavis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Masillastega",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mirusavis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Namibiavis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Orosaurus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Parvavis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Polarornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Proornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pteropelyx",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ruixinia",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sektensaurus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shengjingornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shuangbaisaurus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shuilingornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Stilt-owl",
+"aliases": [
+"Grallistrix"
+],
+"links": 6
+},
+{
+"name": "Sulaimanisaurus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sylviornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tingmiatornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tytthostonyx",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Vescornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Yumenornis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Zhuchengtitan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ahshislesaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Almas",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ampelognathus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Aphanapteryx",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Australotadorna",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bellulornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Calvarius",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Camptodontornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chaetoptila",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Changmaornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Changzuiornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chaoyangia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chienkosaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chupkaornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cretaaviculus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dapingfangornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Darwinsaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dianchungosaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Diaphorapteryx",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Duntroonornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Elbretornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Elektorornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Elsornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Eocypselus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Eostrix",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ergilornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Flexomornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fulengia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gigantohierax",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gigantoscelus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gracilornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gresslyosaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hakawai",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Heterorhea",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hokkaidornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Horshamosaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Iteravis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jibeinia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jiuquanornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Judinornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Khetranisaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kischinskinia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kizylkumavis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kunpengornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lancanjiangosaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lenesornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Longchengornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Longicrusavis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mancalla",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mantellodon",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Manu",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Megacervixosaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Megapaloelodus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mesetasaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Microdontosaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Miopelecanus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Miotadorna",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Monoenantiornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Muriwaimanu",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Musivavis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mystiornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nannococcyx",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Necropsar",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Neophrontops",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nesotrochis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ngexisaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Omnivoropteryx",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Opisthodactylus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Orienantius",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ornithotarsus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Oshanosaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Otogornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Palaeortyx",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Paracrax",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Parahongshanornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pasquiaornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Patagorhacos",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Perudyptes",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Piscivoravis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Piscivorenantiornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Proardea",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Protopelicanus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pterygornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Qianlong",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Qianshanornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Qinornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Remiornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Resoviaornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rhynchaeites",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Salmila",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sazavis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Shiriyanetta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sinanas",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Spheroolithus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Taubatornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Teviornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Therosaurus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tongoenas",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Utetitan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Xiangornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Xinghaiornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Yuornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zeltornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zhyraornis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Abitusavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Afrovenator",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aidemedia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Alamitornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Amplibuteo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Anatosaurus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Anchigyps",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Antarcticavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Australlus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aviraptor",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Castignovolucris",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Catenoleimus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cerebavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Colymboides",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Coniornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dalingheornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dasornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dingavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dunhuangia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dunstanetta",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Elornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Eoplophysis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Eretiscus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Erythromachus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Evgenavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Feitianius",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fissuravis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fortipesavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gallornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Garganoaetus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Geranopterus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Graculavus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hanwulosaurus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hinasuri",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hoazinoides",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Holbotia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Houornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Huxleysaurus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Jinzhouornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kaiika",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kaririavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kookne",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kuiornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Linyiornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lithoptila",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lonchodytes",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Maaqwi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Magnusavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Marplesornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Masillatrogon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Matanas",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Matuku",
+"aliases": [
+"Saint Bathans heron"
+],
+"links": 4
+},
+{
+"name": "Meemannavis",
+"aliases": [
+"Meemannavis ductrix"
+],
+"links": 4
+},
+{
+"name": "Megaloolithus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mengciusornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mifunesaurus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Minerva",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mionetta",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nahmavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nambashag",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Neimengornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Novavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Omosaurus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pachysauriscus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Palaeoscinis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Palaeotodus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Parvigrus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Perugyps",
+"aliases": [
+"Peruvian vulture"
+],
+"links": 4
+},
+{
+"name": "Petralca",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Picavus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Platydyptes",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pleistorallus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Primapus",
+"aliases": [
+"Sister taxon: Aegialornis"
+],
+"links": 4
+},
+{
+"name": "Primophaps",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Prophaethon",
+"aliases": [
+"Prophaethontidae"
+],
+"links": 4
+},
+{
+"name": "Pseudaptenodytes",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Quercypsitta",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Saltillomimus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Saltriosaurus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sceloglaux",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Septencoracias",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Shangyang",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Similiyanornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Vangulifer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yatenavis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yuanjiawaornis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Afrocygnus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aizenogyps",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Andhrasaurus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aristosaurus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Berruornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Brasilogyps",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bugenasaura",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cairanoolithus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chassternbergia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chenoanas",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Conflicto",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Crosnoornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Danielsraptor",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Diatryma",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Dryornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Elaphrocnemus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Eoanseranas",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Eocoracias",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Euryapteryx",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Eutreptornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fluvioviridavis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fulgurotherium",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Giganhinga",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gigantornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Grabauornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gurilynia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jacamatia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Janipes",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Khinganornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kurrartapu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lanasaurus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Leakeyornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Linxiavis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Longmornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Macranhinga",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Madrynornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Manuherikia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Messelastur",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Messelornis",
+"aliases": [
+"Messelornithidae"
+],
+"links": 3
+},
+{
+"name": "Microenantiornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Miobaptus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mioglareola",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Miomancalla",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Miosurnia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Neococcyx",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Oligosaurus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Paakniwatavis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Palaeoephippiorhynchus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Paludiavis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Panraogallus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Paracathartes",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Parargornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pikaihao",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pinpanetta",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pleistovultur",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Plotopterum",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Primotrogon",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Protoazin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pseudodontornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Querandiornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Quercymegapodius",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Raphus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Saldamosaurus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sangonghesaurus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Scaniacypselus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shandongornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shenzhouraptor",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Taubacrex",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Thiornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tianyuornis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tonsala",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tsidiiyazhi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ugrosaurus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vastanavis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vectisaurus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Wieslochia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Wilaru",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Zhongyuanus",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Zhylgaia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Aenigmatorhynchus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Allgoviachen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Amanuensis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Amazonsaurus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ameripodius",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Anabernicula",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ankonetta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Antarctoboenus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Archaeopsittacus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Arenicolumba",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Arikarornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Avolatavis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Badistornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bambolinetta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Beg",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Belgirallus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bountyphaps",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Boutakioutichnium",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Breviceratops",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Calciavis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Charminetta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chaunoides",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Clymenoptilon",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Colymbiculus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Consoravis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cryptosaurus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cyrilavis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Delphinornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dendroolithus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Didanodon",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dinotyrannus",
+"aliases": [
+"Dinotyrannu"
+],
+"links": 2
+},
+{
+"name": "Diomedeoides",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dynamopterus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Empeirodytes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Eofringillirostrum",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Eogrus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Eopelecanus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Eremarida",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Eurofluvioviridavis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fendusaurus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Foro",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Galligeranoides",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ganzhousaurus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gobicathartes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gryponyx",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Guegoolithus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hadrogyps",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Halcyornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Heliadornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Huoshanornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hydrotherikornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Iberomesornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jurapteryx",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kuntur",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kupoupou",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Laricola",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lepidus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Linquornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lirainosaurus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lukousaurus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lutavis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Minutornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Miodytes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Miogallus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mioneophron",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mioquerquedula",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Murgonornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Natunaornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Neanis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nipponoolithus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nogusunna",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Oligocolius",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Oraristrix",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pakudyptes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Palaeoborus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Palaeochenoides",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Palaeogrus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Palaeohierax",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Palaeophasianus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pandanaris",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Paracoracias",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Paraortygoides",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pelargopappus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Plesiocathartes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pliogyps",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pliolymbus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Plioperdix",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Primoptynx",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Primozygodactylus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Propelargus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Pseudocrypturus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Psittacomimus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Psittacopes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rhamphastosula",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rhenanorallus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rocasaurus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rupephaps",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sequiwaimanu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shanshanosaurus huoyanshanensis",
+"aliases": [
+"Shanshanosaurus"
+],
+"links": 2
+},
+{
+"name": "Siamodracon",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sobniogallus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Stenornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tawasaurus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Telecrex",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tereingaornis",
+"aliases": [
+"Moisley's penguin"
+],
+"links": 2
+},
+{
+"name": "Thegornis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tristraguloolithus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tynskya",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ukugyps",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Vanolimicola",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Waltonavis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Xenorhynchopsis",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Xiaotingia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Youngoolithus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ypresiglaux",
+"aliases": [],
+"links": 2
+}
+]

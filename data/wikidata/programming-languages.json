@@ -1,0 +1,4332 @@
+[
+{
+"name": "PHP",
+"aliases": [
+"PHP Hypertext Preprocessor",
+"PHP programming language"
+],
+"links": 166
+},
+{
+"name": "C",
+"aliases": [
+"C language",
+"C programming language"
+],
+"links": 165
+},
+{
+"name": "Python",
+"aliases": [
+"Python computer language",
+"Python language",
+"Python programming language",
+"Python Programming Language",
+"Python.org"
+],
+"links": 164
+},
+{
+"name": "JavaScript",
+"aliases": [],
+"links": 163
+},
+{
+"name": "Java",
+"aliases": [
+"java programming language"
+],
+"links": 159
+},
+{
+"name": "C++",
+"aliases": [],
+"links": 149
+},
+{
+"name": "Cascading Style Sheets",
+"aliases": [],
+"links": 135
+},
+{
+"name": "C#",
+"aliases": [
+"Microsoft Java"
+],
+"links": 115
+},
+{
+"name": "SQL",
+"aliases": [
+"Structural Query Language"
+],
+"links": 111
+},
+{
+"name": "Perl",
+"aliases": [
+"Pearl",
+"Perl/CGI",
+"Practical Extraction and Reporting Language"
+],
+"links": 105
+},
+{
+"name": "Ruby",
+"aliases": [
+"rb",
+"Ruby language",
+"Ruby programming language"
+],
+"links": 101
+},
+{
+"name": "XML",
+"aliases": [
+"eXtensible Markup Language",
+"Extensible Markup Language"
+],
+"links": 101
+},
+{
+"name": "Pascal",
+"aliases": [
+"Pascal programming language"
+],
+"links": 100
+},
+{
+"name": "BASIC",
+"aliases": [
+"BASIC programming language",
+"Beginners’ All-purpose Symbolic Instruction Code",
+"Symbolic Instruction Code"
+],
+"links": 95
+},
+{
+"name": "Lua",
+"aliases": [
+"Lua language"
+],
+"links": 95
+},
+{
+"name": "Classic Visual Basic",
+"aliases": [
+"VB",
+"Visual Basic"
+],
+"links": 92
+},
+{
+"name": "Fortran",
+"aliases": [],
+"links": 91
+},
+{
+"name": "assembly language",
+"aliases": [
+"asm",
+"assembler language",
+"assembly",
+"assembly code"
+],
+"links": 86
+},
+{
+"name": "COBOL",
+"aliases": [
+"Common Business-Oriented Language"
+],
+"links": 81
+},
+{
+"name": "Lisp",
+"aliases": [
+"ISO/IEC 13816",
+"JIS X 3012",
+"List Processor",
+"LISt Processor"
+],
+"links": 81
+},
+{
+"name": "MATLAB",
+"aliases": [
+"Matrix Laboratory"
+],
+"links": 81
+},
+{
+"name": "Ada",
+"aliases": [
+"Ada programming language"
+],
+"links": 79
+},
+{
+"name": "machine code",
+"aliases": [
+"machine language"
+],
+"links": 78
+},
+{
+"name": "R",
+"aliases": [
+"GNU R",
+"GNU S",
+"R language",
+"R programming language"
+],
+"links": 77
+},
+{
+"name": "Haskell",
+"aliases": [
+"Haskell programming language",
+"hs"
+],
+"links": 71
+},
+{
+"name": "Go",
+"aliases": [
+"Go programming language"
+],
+"links": 69
+},
+{
+"name": "Prolog",
+"aliases": [
+"Programming in Logic"
+],
+"links": 68
+},
+{
+"name": "Rust",
+"aliases": [
+"Rust language",
+"Rust programming language"
+],
+"links": 66
+},
+{
+"name": "Scratch",
+"aliases": [
+"scratch.mit.edu"
+],
+"links": 65
+},
+{
+"name": "Kotlin",
+"aliases": [],
+"links": 63
+},
+{
+"name": "high-level programming language",
+"aliases": [
+"high-level language",
+"HLL"
+],
+"links": 59
+},
+{
+"name": "ALGOL",
+"aliases": [
+"ALGO rithmic L anguage"
+],
+"links": 58
+},
+{
+"name": "scripting language",
+"aliases": [
+"embeddable language",
+"embedded language",
+"extension language",
+"glue language",
+"script language"
+],
+"links": 58
+},
+{
+"name": "Swift",
+"aliases": [
+"Apple Swift",
+"Swift language",
+"Swift programming language",
+"Swift.org",
+"Swiftlang"
+],
+"links": 58
+},
+{
+"name": "Visual Basic .NET",
+"aliases": [
+"VB.NET",
+"Visual Basic"
+],
+"links": 57
+},
+{
+"name": "ActionScript",
+"aliases": [
+"AS",
+"AS3"
+],
+"links": 55
+},
+{
+"name": "TeX",
+"aliases": [],
+"links": 54
+},
+{
+"name": "AWK",
+"aliases": [],
+"links": 53
+},
+{
+"name": "GNU Octave",
+"aliases": [
+"OCTAVE"
+],
+"links": 53
+},
+{
+"name": "Smalltalk",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Active Server Pages",
+"aliases": [
+"ASP",
+"ASP.Net",
+"Classic ASP"
+],
+"links": 51
+},
+{
+"name": "Brainfuck",
+"aliases": [
+"BF",
+"brainfsck",
+"branflakes"
+],
+"links": 51
+},
+{
+"name": "Logo",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Objective-C",
+"aliases": [
+"Obj-C programming language",
+"Objc",
+"Objective C programming language",
+"Objective-C programming language"
+],
+"links": 51
+},
+{
+"name": "Scala",
+"aliases": [
+"Scala programming language"
+],
+"links": 51
+},
+{
+"name": "APL",
+"aliases": [
+"A Programming Language",
+"A programming language",
+"APL language",
+"APL programming language",
+"APL programming language family",
+"Array Processing Language",
+"X3J10"
+],
+"links": 50
+},
+{
+"name": "low-level programming language",
+"aliases": [
+"low-level language",
+"machine-oriented language"
+],
+"links": 50
+},
+{
+"name": "D",
+"aliases": [
+"D language",
+"D programming language",
+"Dlang"
+],
+"links": 49
+},
+{
+"name": "Tcl",
+"aliases": [
+"Tool Command Language"
+],
+"links": 48
+},
+{
+"name": "Mathematica",
+"aliases": [
+"mma",
+"Wolfram Mathematica"
+],
+"links": 46
+},
+{
+"name": "TypeScript",
+"aliases": [
+".ts",
+"TS"
+],
+"links": 46
+},
+{
+"name": "XSLT",
+"aliases": [
+"Extensible Stylesheet Language Transformations",
+"XSL Transformations"
+],
+"links": 46
+},
+{
+"name": "PowerShell",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Visual Basic Script",
+"aliases": [
+"Microsoft Visual Basic Scripting Edition",
+"VBS",
+"VBScript",
+"VBScript Programming"
+],
+"links": 43
+},
+{
+"name": "Erlang",
+"aliases": [],
+"links": 42
+},
+{
+"name": "OCaml",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Clojure",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Forth",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Visual Basic for Applications",
+"aliases": [
+"VBA"
+],
+"links": 41
+},
+{
+"name": "Dart",
+"aliases": [
+"ECMA-408",
+"Google Dart"
+],
+"links": 40
+},
+{
+"name": "Apache Groovy",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Sed",
+"aliases": [],
+"links": 39
+},
+{
+"name": "SPARQL",
+"aliases": [
+"Simple Protocol RDF Query Language",
+"SPARQL Protocol and RDF Query Language",
+"SPARQL Query Language"
+],
+"links": 39
+},
+{
+"name": "ABAP",
+"aliases": [
+"ABAP/4",
+"Advanced Business Application Programming",
+"Allgemeiner Berichts Aufbereitungs Prozessor",
+"Allgemeiner Berichts-Aufbereitungs-Prozessor"
+],
+"links": 38
+},
+{
+"name": "B",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Gambas",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Julia",
+"aliases": [
+"Julia programming language",
+"JuliaLang",
+"The Julia Language"
+],
+"links": 38
+},
+{
+"name": "PL/I",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Simula",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Common Lisp",
+"aliases": [
+"CL"
+],
+"links": 37
+},
+{
+"name": "F#",
+"aliases": [
+"F Sharp",
+"FSharp"
+],
+"links": 37
+},
+{
+"name": "Java Development Kit",
+"aliases": [
+"Java 2 Software Development Kit"
+],
+"links": 37
+},
+{
+"name": "Maple",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Turbo Pascal",
+"aliases": [],
+"links": 36
+},
+{
+"name": "XPath",
+"aliases": [
+"XML Path Language"
+],
+"links": 36
+},
+{
+"name": "BCPL",
+"aliases": [
+"Basic Combined Programming Language"
+],
+"links": 35
+},
+{
+"name": "esoteric programming language",
+"aliases": [
+"esolang",
+"esoteric language"
+],
+"links": 35
+},
+{
+"name": "PL/SQL",
+"aliases": [
+"PL SQL",
+"PL-SQL",
+"Procedural Language/Structured Query Language"
+],
+"links": 35
+},
+{
+"name": "Scilab",
+"aliases": [],
+"links": 35
+},
+{
+"name": "ABC",
+"aliases": [
+"ABC programming language",
+"JSON"
+],
+"links": 34
+},
+{
+"name": "make",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Object Pascal",
+"aliases": [],
+"links": 34
+},
+{
+"name": "QBasic",
+"aliases": [],
+"links": 34
+},
+{
+"name": "ML",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Processing",
+"aliases": [
+"p5",
+"Proce55ing"
+],
+"links": 33
+},
+{
+"name": "REXX",
+"aliases": [
+"Restructured Extended Executor"
+],
+"links": 33
+},
+{
+"name": "VisiCalc",
+"aliases": [],
+"links": 33
+},
+{
+"name": "XQuery",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Apache Ant",
+"aliases": [
+"Ant"
+],
+"links": 32
+},
+{
+"name": "AutoIt",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Elixir",
+"aliases": [],
+"links": 32
+},
+{
+"name": "WebAssembly",
+"aliases": [
+"WASM",
+"wasm",
+"Wasm",
+"WebASM"
+],
+"links": 32
+},
+{
+"name": "assembler",
+"aliases": [
+"assembly program"
+],
+"links": 31
+},
+{
+"name": "WebGL",
+"aliases": [
+"Web Graphics Library"
+],
+"links": 31
+},
+{
+"name": "AppleScript",
+"aliases": [],
+"links": 30
+},
+{
+"name": "FreeBASIC",
+"aliases": [
+"fbc"
+],
+"links": 30
+},
+{
+"name": "visual programming language",
+"aliases": [
+"block coding",
+"block-based coding",
+"graphical language",
+"graphical programming language",
+"visual language",
+"VPL"
+],
+"links": 30
+},
+{
+"name": "Bourne shell",
+"aliases": [
+"/bin/sh",
+"sh"
+],
+"links": 29
+},
+{
+"name": "OpenCL",
+"aliases": [
+"Open Computing Language"
+],
+"links": 29
+},
+{
+"name": "Zig",
+"aliases": [
+"Zig language",
+"Zig programming language",
+"Ziglang"
+],
+"links": 29
+},
+{
+"name": "Common Intermediate Language",
+"aliases": [
+"CIL",
+"MSIL"
+],
+"links": 28
+},
+{
+"name": "G-code",
+"aliases": [],
+"links": 28
+},
+{
+"name": "JScript",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Modula-2",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Simulink",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Vala",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Visual FoxPro",
+"aliases": [
+"Microsoft Visual FoxPro"
+],
+"links": 28
+},
+{
+"name": "XML User Interface Language",
+"aliases": [
+"ZOOL"
+],
+"links": 28
+},
+{
+"name": "AutoHotkey",
+"aliases": [
+"AHK",
+"Auto Hot Key",
+"Auto Hotkey"
+],
+"links": 27
+},
+{
+"name": "Boo",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Extensible Application Markup Language",
+"aliases": [
+"XAML"
+],
+"links": 26
+},
+{
+"name": "Plankalkül",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Sass",
+"aliases": [
+".sass",
+"syntactically awesome style sheets"
+],
+"links": 26
+},
+{
+"name": "Standard ML",
+"aliases": [
+"SML"
+],
+"links": 26
+},
+{
+"name": "Altair BASIC",
+"aliases": [],
+"links": 25
+},
+{
+"name": "C--",
+"aliases": [
+"C minus minus"
+],
+"links": 25
+},
+{
+"name": "CoffeeScript",
+"aliases": [],
+"links": 25
+},
+{
+"name": "extended Backus–Naur form",
+"aliases": [
+"EBNF"
+],
+"links": 25
+},
+{
+"name": "INTERCAL",
+"aliases": [],
+"links": 25
+},
+{
+"name": "interpreted language",
+"aliases": [
+"interpreted programming language"
+],
+"links": 25
+},
+{
+"name": "Mathcad",
+"aliases": [],
+"links": 25
+},
+{
+"name": "RPG",
+"aliases": [
+"IBM RPG",
+"Report Program Generator"
+],
+"links": 25
+},
+{
+"name": "C shell",
+"aliases": [
+"csh",
+"Csh",
+"csh.1",
+"tcsh"
+],
+"links": 24
+},
+{
+"name": "C++11",
+"aliases": [
+"C++ 2011",
+"C++0x",
+"ISO/IEC 14882:2011"
+],
+"links": 24
+},
+{
+"name": "Hack",
+"aliases": [],
+"links": 24
+},
+{
+"name": "J#",
+"aliases": [
+"Visual J#"
+],
+"links": 24
+},
+{
+"name": "ladder logic",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Malbolge",
+"aliases": [],
+"links": 24
+},
+{
+"name": "A+",
+"aliases": [
+"A",
+"A plus programming language"
+],
+"links": 23
+},
+{
+"name": "bc",
+"aliases": [
+"Basic Calculator",
+"UNIX bc"
+],
+"links": 23
+},
+{
+"name": "Clipper",
+"aliases": [],
+"links": 23
+},
+{
+"name": "general-purpose programming language",
+"aliases": [
+"GPL"
+],
+"links": 23
+},
+{
+"name": "LOLCODE",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Netwide Assembler",
+"aliases": [
+"NASM"
+],
+"links": 23
+},
+{
+"name": "Oberon",
+"aliases": [],
+"links": 23
+},
+{
+"name": "SCUMM",
+"aliases": [
+"Script Creation Utility for Maniac Mansion"
+],
+"links": 23
+},
+{
+"name": "SNOBOL",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Squeak",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Whitespace",
+"aliases": [],
+"links": 23
+},
+{
+"name": "x86 assembly language",
+"aliases": [
+"16-bit x86 assembly programming",
+"32-bit x86 assembly programming",
+"64-bit x86 assembly programming",
+"AT&T syntax",
+"Intel assembly",
+"Intel assembly syntax",
+"Intel syntax",
+"X86 asm",
+"X86 assembly",
+"X86 Assembly",
+"X86 assembly programming in long mode",
+"X86 assembly programming in protected mode",
+"X86 assembly programming in real mode",
+"X86-assembly",
+"X86-assembly language in longmode",
+"X86-assembly language in protected mode",
+"X86-assembly language in realmode"
+],
+"links": 23
+},
+{
+"name": "CLU",
+"aliases": [],
+"links": 22
+},
+{
+"name": "compiled language",
+"aliases": [
+"compiled",
+"compiled programming language"
+],
+"links": 22
+},
+{
+"name": "Dylan",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Haxe",
+"aliases": [],
+"links": 22
+},
+{
+"name": "KornShell",
+"aliases": [
+"ast-ksh",
+"ksh",
+"ksh93"
+],
+"links": 22
+},
+{
+"name": "QuickBASIC",
+"aliases": [
+"Microsoft BASIC Professional Development System",
+"Microsoft QuickBASIC",
+"QB"
+],
+"links": 22
+},
+{
+"name": "Ren'Py",
+"aliases": [
+"rpy"
+],
+"links": 22
+},
+{
+"name": "Svelte",
+"aliases": [
+"sveltejs"
+],
+"links": 22
+},
+{
+"name": "Synchronized Multimedia Integration Language",
+"aliases": [
+"SMIL"
+],
+"links": 22
+},
+{
+"name": "Transact-SQL",
+"aliases": [
+"T-SQL"
+],
+"links": 22
+},
+{
+"name": "ALGOL 60",
+"aliases": [
+"ALGOrithmic Language 1960"
+],
+"links": 21
+},
+{
+"name": "ALGOL 68",
+"aliases": [
+"ALGOrithmic Language 1968"
+],
+"links": 21
+},
+{
+"name": "ANSI C",
+"aliases": [
+"C89",
+"C90",
+"ISO/IEC 9899:1990"
+],
+"links": 21
+},
+{
+"name": "Befunge",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Cython",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Job Control Language",
+"aliases": [
+"JCL"
+],
+"links": 21
+},
+{
+"name": "Microsoft Small Basic",
+"aliases": [
+"Small Basic"
+],
+"links": 21
+},
+{
+"name": "Miranda",
+"aliases": [],
+"links": 21
+},
+{
+"name": "occam",
+"aliases": [],
+"links": 21
+},
+{
+"name": "OpenGL Shading Language",
+"aliases": [
+"GLSL",
+"GLslang"
+],
+"links": 21
+},
+{
+"name": "Pawn",
+"aliases": [
+".pwn as another C++"
+],
+"links": 21
+},
+{
+"name": "Racket",
+"aliases": [
+"DrRacket",
+"DrScheme",
+"PLT Scheme"
+],
+"links": 21
+},
+{
+"name": "REBOL",
+"aliases": [
+"Relative Expression-Based Object Language"
+],
+"links": 21
+},
+{
+"name": "Stata",
+"aliases": [],
+"links": 21
+},
+{
+"name": "C++20",
+"aliases": [
+"ISO/IEC 14882:2020"
+],
+"links": 20
+},
+{
+"name": "Carbon",
+"aliases": [
+"Carbon language",
+"Carbon programming language",
+"Carbon-Lang",
+"Carbonlang"
+],
+"links": 20
+},
+{
+"name": "CPL",
+"aliases": [
+"Cambridge Programming Language",
+"Combined Programming Language"
+],
+"links": 20
+},
+{
+"name": "dynamic programming language",
+"aliases": [
+"dynamic language"
+],
+"links": 20
+},
+{
+"name": "Icon",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nim",
+"aliases": [
+"Nim programming language",
+"Nimrod"
+],
+"links": 20
+},
+{
+"name": "Oz",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Printer Command Language",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Solidity",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Visual J++",
+"aliases": [
+"Microsoft Visual J++"
+],
+"links": 20
+},
+{
+"name": "4th-generation programming language",
+"aliases": [
+"4GL",
+"4th generation language",
+"fourth-generation programming language"
+],
+"links": 19
+},
+{
+"name": "AspectJ",
+"aliases": [],
+"links": 19
+},
+{
+"name": "AutoLISP",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Business Process Execution Language",
+"aliases": [
+"BPEL",
+"BPEL4WS",
+"WS-BPEL"
+],
+"links": 19
+},
+{
+"name": "Ceylon",
+"aliases": [
+"Eclipse Ceylon"
+],
+"links": 19
+},
+{
+"name": "Elm",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Emacs Lisp",
+"aliases": [
+".el",
+"Elisp"
+],
+"links": 19
+},
+{
+"name": "Game Maker Language",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Limbo",
+"aliases": [],
+"links": 19
+},
+{
+"name": "MetaPost",
+"aliases": [],
+"links": 19
+},
+{
+"name": "multi-paradigm programming language",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Portlet",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Raku",
+"aliases": [
+"Perl 6",
+"Perl6"
+],
+"links": 19
+},
+{
+"name": "Server Side Includes",
+"aliases": [
+"Server-parsed HTML",
+"SHTML",
+"SSI"
+],
+"links": 19
+},
+{
+"name": "Singularity",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Snap!",
+"aliases": [
+"BYOB",
+"Construye tus propios bloques"
+],
+"links": 19
+},
+{
+"name": "Blitz BASIC",
+"aliases": [
+"Blitz2D",
+"BlitzBasic",
+"BlitzMax",
+"BlitzPlus",
+"Monkey"
+],
+"links": 18
+},
+{
+"name": "Delphi",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Google Apps Script",
+"aliases": [
+"GAS"
+],
+"links": 18
+},
+{
+"name": "Microsoft BASIC",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Modula",
+"aliases": [],
+"links": 18
+},
+{
+"name": "NetLogo",
+"aliases": [],
+"links": 18
+},
+{
+"name": "S",
+"aliases": [],
+"links": 18
+},
+{
+"name": "SuperCollider",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Turbo C++",
+"aliases": [
+"Borland Turbo C++",
+"tcc"
+],
+"links": 18
+},
+{
+"name": "Wolfram Language",
+"aliases": [
+".m",
+".nb",
+".wl",
+"Mathematica",
+"Mathematica language",
+"Wolfram"
+],
+"links": 18
+},
+{
+"name": "AMOS",
+"aliases": [
+"AMOS BASIC",
+"AMOS BASIC programming language",
+"AMOS Pro",
+"AMOS Professional",
+"Easy AMOS"
+],
+"links": 17
+},
+{
+"name": "Caml",
+"aliases": [
+"Categorical Abstract Machine Language"
+],
+"links": 17
+},
+{
+"name": "CLIPS",
+"aliases": [
+"C Language Integrated Production System"
+],
+"links": 17
+},
+{
+"name": "High Level Shader Language",
+"aliases": [
+"High-level shading language",
+"HLSL"
+],
+"links": 17
+},
+{
+"name": "Io",
+"aliases": [],
+"links": 17
+},
+{
+"name": "J",
+"aliases": [
+"J Language",
+"J Programming Language"
+],
+"links": 17
+},
+{
+"name": "m4",
+"aliases": [
+"UNIX m4"
+],
+"links": 17
+},
+{
+"name": "Mercury",
+"aliases": [
+"Mercury programming language"
+],
+"links": 17
+},
+{
+"name": "Microsoft Macro Assembler",
+"aliases": [
+"MASM"
+],
+"links": 17
+},
+{
+"name": "Modelica",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Paradox",
+"aliases": [
+"Borland Paradox",
+"Corel Paradox",
+"Corel Paradox 8",
+"Paradox 8",
+"Paradox Database 8"
+],
+"links": 17
+},
+{
+"name": "PL/M",
+"aliases": [
+"PL/M-86"
+],
+"links": 17
+},
+{
+"name": "QML",
+"aliases": [
+"Qt Meta-object Language"
+],
+"links": 17
+},
+{
+"name": "Self",
+"aliases": [],
+"links": 17
+},
+{
+"name": "TECO",
+"aliases": [
+"Tape Editor and COrrector",
+"Text Editor and COrrector"
+],
+"links": 17
+},
+{
+"name": "BETA",
+"aliases": [
+"chhattisgarhi"
+],
+"links": 16
+},
+{
+"name": "C++/CLI",
+"aliases": [
+"C plus plus/CLI",
+"C++/Common Language Infrastructure"
+],
+"links": 16
+},
+{
+"name": "C++14",
+"aliases": [
+"C++ 2014",
+"ISO/IEC 14882:2014"
+],
+"links": 16
+},
+{
+"name": "Crystal",
+"aliases": [
+"Crystal Lang",
+"Crystal Language"
+],
+"links": 16
+},
+{
+"name": "Csound",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Euphoria",
+"aliases": [
+"Robert Craig"
+],
+"links": 16
+},
+{
+"name": "GNU Guile",
+"aliases": [
+"GEL",
+"GNU Extension Language",
+"Guile"
+],
+"links": 16
+},
+{
+"name": "Inform",
+"aliases": [],
+"links": 16
+},
+{
+"name": "JOVIAL",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lean",
+"aliases": [
+"Lean prover"
+],
+"links": 16
+},
+{
+"name": "Piet",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Rocq prover",
+"aliases": [
+"Coq"
+],
+"links": 16
+},
+{
+"name": "root",
+"aliases": [
+"BLUE"
+],
+"links": 16
+},
+{
+"name": "WEB",
+"aliases": [],
+"links": 16
+},
+{
+"name": "3rd-generation programming language",
+"aliases": [
+"3GL",
+"third-generation programming language"
+],
+"links": 15
+},
+{
+"name": "Cg",
+"aliases": [
+"C for Graphics"
+],
+"links": 15
+},
+{
+"name": "Clean",
+"aliases": [],
+"links": 15
+},
+{
+"name": "DarkBASIC",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Interactive Data Language",
+"aliases": [
+"IDL"
+],
+"links": 15
+},
+{
+"name": "MUMPS",
+"aliases": [
+"M",
+"Multi-User Multi-Programming System"
+],
+"links": 15
+},
+{
+"name": "page description language",
+"aliases": [
+"PCL",
+"PDL",
+"printer control language"
+],
+"links": 15
+},
+{
+"name": "Pike",
+"aliases": [],
+"links": 15
+},
+{
+"name": "PureBasic",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Blockly",
+"aliases": [
+"Google Blockly"
+],
+"links": 14
+},
+{
+"name": "C99",
+"aliases": [
+"C9X",
+"ISO/IEC 9899:1999"
+],
+"links": 14
+},
+{
+"name": "CICS",
+"aliases": [
+"Customer Information Control System"
+],
+"links": 14
+},
+{
+"name": "Curl",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Curry",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Datalog",
+"aliases": [],
+"links": 14
+},
+{
+"name": "DRAKON",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Factor",
+"aliases": [],
+"links": 14
+},
+{
+"name": "FoxPro",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Hewlett-Packard Graphics Language",
+"aliases": [
+"HP-GL",
+"HP-GL/2",
+"HPGL"
+],
+"links": 14
+},
+{
+"name": "Karel",
+"aliases": [
+"Karel the Robot"
+],
+"links": 14
+},
+{
+"name": "KTurtle",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Maclisp",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Max",
+"aliases": [
+"Max/MSP"
+],
+"links": 14
+},
+{
+"name": "Modula-3",
+"aliases": [
+"Modula3"
+],
+"links": 14
+},
+{
+"name": "Mojo",
+"aliases": [
+"Mojo Lang",
+"Mojo language",
+"Mojo programming language"
+],
+"links": 14
+},
+{
+"name": "object-based language",
+"aliases": [
+"object-oriented language",
+"object-oriented programming language",
+"OOP",
+"OOP programming language"
+],
+"links": 14
+},
+{
+"name": "OpenOffice Basic",
+"aliases": [],
+"links": 14
+},
+{
+"name": "PowerBASIC",
+"aliases": [
+"Turob Basic"
+],
+"links": 14
+},
+{
+"name": "Q#",
+"aliases": [
+"Q Sharp"
+],
+"links": 14
+},
+{
+"name": "Turbo Basic",
+"aliases": [
+"PowerBASIC"
+],
+"links": 14
+},
+{
+"name": "UCSD Pascal",
+"aliases": [],
+"links": 14
+},
+{
+"name": "A#",
+"aliases": [],
+"links": 13
+},
+{
+"name": "BLISS",
+"aliases": [],
+"links": 13
+},
+{
+"name": "C23",
+"aliases": [
+"ISO/IEC 9899:2024"
+],
+"links": 13
+},
+{
+"name": "CLISP",
+"aliases": [
+"GNU clisp",
+"GNU CLISP"
+],
+"links": 13
+},
+{
+"name": "COMAL",
+"aliases": [],
+"links": 13
+},
+{
+"name": "FLOW-MATIC",
+"aliases": [
+"B-0",
+"Business Language version 0"
+],
+"links": 13
+},
+{
+"name": "High Level Assembly",
+"aliases": [
+"High Level Assembler",
+"HLA"
+],
+"links": 13
+},
+{
+"name": "Integer BASIC",
+"aliases": [],
+"links": 13
+},
+{
+"name": "ScratchJr",
+"aliases": [
+"Scratch Junior"
+],
+"links": 13
+},
+{
+"name": "Shakespeare",
+"aliases": [
+"Shakespeare Programming Language",
+"SPL"
+],
+"links": 13
+},
+{
+"name": "Sinclair BASIC",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Agda",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Applesoft BASIC",
+"aliases": [
+"badgear NT POINT BREAK"
+],
+"links": 12
+},
+{
+"name": "Asymptote",
+"aliases": [],
+"links": 12
+},
+{
+"name": "C11",
+"aliases": [
+"C1X",
+"ISO/IEC 9899:2011"
+],
+"links": 12
+},
+{
+"name": "Cobra",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Commodore BASIC",
+"aliases": [
+"CBM-BASIC",
+"PET Basic"
+],
+"links": 12
+},
+{
+"name": "GAP",
+"aliases": [
+"Groups, Algorithms and Programming"
+],
+"links": 12
+},
+{
+"name": "HQ9+",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Idris",
+"aliases": [],
+"links": 12
+},
+{
+"name": "PL/pgSQL",
+"aliases": [],
+"links": 12
+},
+{
+"name": "QB64",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Stackless Python",
+"aliases": [],
+"links": 12
+},
+{
+"name": "SystemVerilog",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Unobtrusive JavaScript",
+"aliases": [],
+"links": 12
+},
+{
+"name": "UnrealScript",
+"aliases": [
+"UScript"
+],
+"links": 12
+},
+{
+"name": "yawl",
+"aliases": [
+"Yet Another Workflow Language"
+],
+"links": 12
+},
+{
+"name": "2nd-generation programming language",
+"aliases": [
+"2GL",
+"second-generation programming language"
+],
+"links": 11
+},
+{
+"name": "ALGOL W",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Amiga E",
+"aliases": [],
+"links": 11
+},
+{
+"name": "AMPL",
+"aliases": [
+"A Mathematical Programming Language",
+"AMPL programming language"
+],
+"links": 11
+},
+{
+"name": "Argus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Atari BASIC",
+"aliases": [],
+"links": 11
+},
+{
+"name": "BBC BASIC",
+"aliases": [],
+"links": 11
+},
+{
+"name": "C++03",
+"aliases": [
+"ISO/IEC 14882:2003"
+],
+"links": 11
+},
+{
+"name": "CHILL",
+"aliases": [
+"CCITT High Level Language"
+],
+"links": 11
+},
+{
+"name": "Clarion",
+"aliases": [],
+"links": 11
+},
+{
+"name": "dialect",
+"aliases": [
+"computer language dialect",
+"dialect of a computer language",
+"dialect of a programming language",
+"dialect of computer language",
+"dialect of programming language",
+"language dialect",
+"programming dialect",
+"programming language dialect"
+],
+"links": 11
+},
+{
+"name": "FRACTRAN",
+"aliases": [],
+"links": 11
+},
+{
+"name": "HyperTalk",
+"aliases": [],
+"links": 11
+},
+{
+"name": "IBM BASIC",
+"aliases": [
+"BASICA"
+],
+"links": 11
+},
+{
+"name": "inline assembler",
+"aliases": [
+"__asm__",
+"inline asm",
+"inline assembly"
+],
+"links": 11
+},
+{
+"name": "Java Agent Development Framework",
+"aliases": [
+"JADE"
+],
+"links": 11
+},
+{
+"name": "LiveCode",
+"aliases": [
+"MetaCard",
+"Revolution"
+],
+"links": 11
+},
+{
+"name": "Mesa",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Mizar",
+"aliases": [
+"Mizar system"
+],
+"links": 11
+},
+{
+"name": "MSX BASIC",
+"aliases": [],
+"links": 11
+},
+{
+"name": "MXML",
+"aliases": [
+"Macromedia Flex Markup Language"
+],
+"links": 11
+},
+{
+"name": "Pharo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Quartz Composer",
+"aliases": [],
+"links": 11
+},
+{
+"name": "structured text",
+"aliases": [
+"ST",
+"STX"
+],
+"links": 11
+},
+{
+"name": "Unified Parallel C",
+"aliases": [
+"UPC"
+],
+"links": 11
+},
+{
+"name": "Unlambda",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Xojo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "1st-generation programming language",
+"aliases": [
+"1GL",
+"first-generation programming language"
+],
+"links": 10
+},
+{
+"name": "Alef",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Alice",
+"aliases": [
+"Alice ML"
+],
+"links": 10
+},
+{
+"name": "Alice",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Arc",
+"aliases": [],
+"links": 10
+},
+{
+"name": "asm.js",
+"aliases": [],
+"links": 10
+},
+{
+"name": "autocode",
+"aliases": [],
+"links": 10
+},
+{
+"name": "BeanShell",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Charm++",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cyclone",
+"aliases": [],
+"links": 10
+},
+{
+"name": "E",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Expect",
+"aliases": [],
+"links": 10
+},
+{
+"name": "GraalVM",
+"aliases": [
+"Graal",
+"GraalVM Community Edition",
+"Oracle Enterprise Edition",
+"Oracle GraalVM"
+],
+"links": 10
+},
+{
+"name": "LPC",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Nyquist",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Visual Prolog",
+"aliases": [],
+"links": 10
+},
+{
+"name": "4DOS",
+"aliases": [
+"JP Software 4DOS"
+],
+"links": 9
+},
+{
+"name": "A++",
+"aliases": [
+"abstraction plus reference plus synthesis"
+],
+"links": 9
+},
+{
+"name": "action language",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Address programming language",
+"aliases": [
+"APL"
+],
+"links": 9
+},
+{
+"name": "ALGOL 58",
+"aliases": [
+"ALGOrithmic Language 1958"
+],
+"links": 9
+},
+{
+"name": "Altera Hardware Description Language",
+"aliases": [],
+"links": 9
+},
+{
+"name": "ARexx",
+"aliases": [],
+"links": 9
+},
+{
+"name": "C++ Technical Report 1",
+"aliases": [
+"ISO/IEC TR 19768:2007",
+"TR1"
+],
+"links": 9
+},
+{
+"name": "Close to Metal",
+"aliases": [
+"Close-to-the-Metal",
+"CTM",
+"Data Parallel Virtual Machine",
+"THIN",
+"Thin Hardware INterface"
+],
+"links": 9
+},
+{
+"name": "COMIT",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Dartmouth BASIC",
+"aliases": [],
+"links": 9
+},
+{
+"name": "DataFlex",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Etoys",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Fantom",
+"aliases": [],
+"links": 9
+},
+{
+"name": "FP",
+"aliases": [],
+"links": 9
+},
+{
+"name": "GFA BASIC",
+"aliases": [],
+"links": 9
+},
+{
+"name": "GNU Common Lisp",
+"aliases": [
+"gcl",
+"GCL"
+],
+"links": 9
+},
+{
+"name": "Haml",
+"aliases": [
+"HTML Abstraction Markup Language"
+],
+"links": 9
+},
+{
+"name": "Information Processing Language",
+"aliases": [
+"IPL"
+],
+"links": 9
+},
+{
+"name": "Instruction list",
+"aliases": [],
+"links": 9
+},
+{
+"name": "InterSystems Caché",
+"aliases": [
+"Caché",
+"InterSystems Cache"
+],
+"links": 9
+},
+{
+"name": "ISWIM",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Jakarta Expression Language",
+"aliases": [
+"EL 1.1",
+"EL 2.1",
+"EL 2.2",
+"EL 3.0",
+"EL 3.1",
+"Expression Language",
+"Unified Expression Language"
+],
+"links": 9
+},
+{
+"name": "JavaFX Script",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Linden Scripting Language",
+"aliases": [
+"LSL"
+],
+"links": 9
+},
+{
+"name": "NScripter",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Opa",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Oxygene",
+"aliases": [],
+"links": 9
+},
+{
+"name": "probabilistic programming",
+"aliases": [
+"PPL",
+"probabilistic programming language",
+"probabilistic relational programming language"
+],
+"links": 9
+},
+{
+"name": "SAS Language",
+"aliases": [
+"SAS"
+],
+"links": 9
+},
+{
+"name": "SETL",
+"aliases": [],
+"links": 9
+},
+{
+"name": "simulation language",
+"aliases": [
+"Sim. programming language",
+"Simulation programming language"
+],
+"links": 9
+},
+{
+"name": "SolidThinking Embed",
+"aliases": [
+"VisSim"
+],
+"links": 9
+},
+{
+"name": "Squirrel",
+"aliases": [],
+"links": 9
+},
+{
+"name": "SWI-Prolog",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tiny BASIC",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Turing tarpit",
+"aliases": [
+"Turing tar-pit"
+],
+"links": 9
+},
+{
+"name": "Uniface",
+"aliases": [],
+"links": 9
+},
+{
+"name": "V",
+"aliases": [
+"The V Programming Language",
+"V Language",
+"V programming language",
+"vlang"
+],
+"links": 9
+},
+{
+"name": "very high-level programming language",
+"aliases": [],
+"links": 9
+},
+{
+"name": "XL",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Zebra",
+"aliases": [
+"Zebra Programming Language",
+"ZPL"
+],
+"links": 9
+},
+{
+"name": "5th-generation programming language",
+"aliases": [
+"5GL",
+"fifth-generation programming language"
+],
+"links": 8
+},
+{
+"name": "Action!",
+"aliases": [],
+"links": 8
+},
+{
+"name": "C++/CX",
+"aliases": [
+"C++ component extensions"
+],
+"links": 8
+},
+{
+"name": "C17",
+"aliases": [
+"C18",
+"ISO/IEC 9899:2018"
+],
+"links": 8
+},
+{
+"name": "Cilk",
+"aliases": [
+"Cilk Plus",
+"Cilk++"
+],
+"links": 8
+},
+{
+"name": "ColdFusion Markup Language",
+"aliases": [
+"CFML"
+],
+"links": 8
+},
+{
+"name": "Cω",
+"aliases": [
+"Comega",
+"Cw"
+],
+"links": 8
+},
+{
+"name": "Data Language Interface",
+"aliases": [
+"Data Language/I",
+"Data Language/Interface",
+"Data Language/One",
+"DL/I"
+],
+"links": 8
+},
+{
+"name": "DYNAMO",
+"aliases": [],
+"links": 8
+},
+{
+"name": "functional programming language",
+"aliases": [
+"functional language",
+"functional languages"
+],
+"links": 8
+},
+{
+"name": "GAUSS",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Geometric Description Language",
+"aliases": [],
+"links": 8
+},
+{
+"name": "GNU Prolog",
+"aliases": [
+"Calypso",
+"gprolog"
+],
+"links": 8
+},
+{
+"name": "GPSS",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hollywood",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hy",
+"aliases": [],
+"links": 8
+},
+{
+"name": "IDEF1X",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Incr Tcl",
+"aliases": [
+"itcl"
+],
+"links": 8
+},
+{
+"name": "Jess",
+"aliases": [],
+"links": 8
+},
+{
+"name": "JOSS",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Liberty BASIC",
+"aliases": [
+"LB"
+],
+"links": 8
+},
+{
+"name": "LotusScript",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lustre",
+"aliases": [],
+"links": 8
+},
+{
+"name": "MBASIC",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Metamath",
+"aliases": [
+"Metamath Proof Explorer",
+"metamath.org"
+],
+"links": 8
+},
+{
+"name": "mIRC scripting language",
+"aliases": [
+"mIRC"
+],
+"links": 8
+},
+{
+"name": "Nemerle",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ook!",
+"aliases": [],
+"links": 8
+},
+{
+"name": "OpenQASM",
+"aliases": [
+"Open Quantum Assembly Language"
+],
+"links": 8
+},
+{
+"name": "PEARL",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Planner",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rapira",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ratfor",
+"aliases": [
+"Rational Fortran"
+],
+"links": 8
+},
+{
+"name": "rc",
+"aliases": [
+"rc shell",
+"run commands"
+],
+"links": 8
+},
+{
+"name": "REALBasic",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ring",
+"aliases": [],
+"links": 8
+},
+{
+"name": "RPL",
+"aliases": [],
+"links": 8
+},
+{
+"name": "SPARK",
+"aliases": [
+"SPADE Ada Kernel"
+],
+"links": 8
+},
+{
+"name": "TI-BASIC",
+"aliases": [],
+"links": 8
+},
+{
+"name": "TTCN",
+"aliases": [
+"Testing and Test Control Notation"
+],
+"links": 8
+},
+{
+"name": "Wiring",
+"aliases": [],
+"links": 8
+},
+{
+"name": "WMLScript",
+"aliases": [],
+"links": 8
+},
+{
+"name": "XACML",
+"aliases": [
+"Extensible Access Control Markup Language"
+],
+"links": 8
+},
+{
+"name": "Yorick",
+"aliases": [],
+"links": 8
+},
+{
+"name": "4th Dimension",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Basic4android",
+"aliases": [
+"B4A"
+],
+"links": 7
+},
+{
+"name": "CHICKEN",
+"aliases": [
+"Chicken Scheme",
+"CHICKEN Scheme"
+],
+"links": 7
+},
+{
+"name": "CHIP-8",
+"aliases": [],
+"links": 7
+},
+{
+"name": "ChucK",
+"aliases": [],
+"links": 7
+},
+{
+"name": "CLIST",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Connected Device Configuration",
+"aliases": [
+"CDC"
+],
+"links": 7
+},
+{
+"name": "DIGITAL Command Language",
+"aliases": [
+"DCL"
+],
+"links": 7
+},
+{
+"name": "EGL",
+"aliases": [
+"Enterprise Generation Language"
+],
+"links": 7
+},
+{
+"name": "Falcon",
+"aliases": [
+"The Falcon Programming Language"
+],
+"links": 7
+},
+{
+"name": "Fortress",
+"aliases": [],
+"links": 7
+},
+{
+"name": "free-form language",
+"aliases": [],
+"links": 7
+},
+{
+"name": "General Algebraic Modeling System",
+"aliases": [
+"GAMS"
+],
+"links": 7
+},
+{
+"name": "GnuCOBOL",
+"aliases": [
+"GNU Cobol",
+"OpenCOBOL"
+],
+"links": 7
+},
+{
+"name": "Grasshopper 3d",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Harbour",
+"aliases": [],
+"links": 7
+},
+{
+"name": "High Performance Fortran",
+"aliases": [
+"HPF"
+],
+"links": 7
+},
+{
+"name": "IBM Informix-4GL",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Interlisp",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Interpress",
+"aliases": [],
+"links": 7
+},
+{
+"name": "ISLISP",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Joy",
+"aliases": [],
+"links": 7
+},
+{
+"name": "JSFuck",
+"aliases": [],
+"links": 7
+},
+{
+"name": "KiriKiri",
+"aliases": [
+"KAG",
+"krkr"
+],
+"links": 7
+},
+{
+"name": "Lingo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Locomotive BASIC",
+"aliases": [],
+"links": 7
+},
+{
+"name": "MIT/GNU Scheme",
+"aliases": [
+"MIT Scheme",
+"mit-scheme"
+],
+"links": 7
+},
+{
+"name": "nesC",
+"aliases": [],
+"links": 7
+},
+{
+"name": "newLISP",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Object REXX",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Objective-J",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Openmodelica",
+"aliases": [],
+"links": 7
+},
+{
+"name": "PARI/GP",
+"aliases": [],
+"links": 7
+},
+{
+"name": "PBASIC",
+"aliases": [],
+"links": 7
+},
+{
+"name": "PL/0",
+"aliases": [],
+"links": 7
+},
+{
+"name": "PureScript",
+"aliases": [],
+"links": 7
+},
+{
+"name": "QuakeC",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Red",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sather",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Seed7",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sieve",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Stencyl",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Stylus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "systems programming language",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Turbo-BASIC XL",
+"aliases": [],
+"links": 7
+},
+{
+"name": "TurboWarp",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Turing",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Unicon",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Visual Objects",
+"aliases": [],
+"links": 7
+},
+{
+"name": "X10",
+"aliases": [],
+"links": 7
+},
+{
+"name": "XProc",
+"aliases": [],
+"links": 7
+},
+{
+"name": "3DMLW",
+"aliases": [],
+"links": 6
+},
+{
+"name": "ABSYS",
+"aliases": [],
+"links": 6
+},
+{
+"name": "AIMMS",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Amiga Basic",
+"aliases": [
+"AmigaBASIC"
+],
+"links": 6
+},
+{
+"name": "Atari Microsoft BASIC",
+"aliases": [],
+"links": 6
+},
+{
+"name": "ATLAS Transformation Language",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Autocoder",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Automatically Programmed Tool",
+"aliases": [
+"APT"
+],
+"links": 6
+},
+{
+"name": "Bubble",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Catrobat",
+"aliases": [
+"Catroid",
+"Pocket Code"
+],
+"links": 6
+},
+{
+"name": "CMU Common Lisp",
+"aliases": [
+"CMUCL"
+],
+"links": 6
+},
+{
+"name": "Component Pascal",
+"aliases": [],
+"links": 6
+},
+{
+"name": "concatenative programming language",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cypher Query Language",
+"aliases": [
+"CQL",
+"Cypher"
+],
+"links": 6
+},
+{
+"name": "educational programming language",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Epson Standard Code for Printers",
+"aliases": [
+"ESC/P",
+"Escape/P"
+],
+"links": 6
+},
+{
+"name": "FAUST",
+"aliases": [
+"faust.grame.fr"
+],
+"links": 6
+},
+{
+"name": "Flowgorithm",
+"aliases": [],
+"links": 6
+},
+{
+"name": "FOCAL",
+"aliases": [
+"FOrmula CALculator"
+],
+"links": 6
+},
+{
+"name": "FreeFem++",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Genie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Gremlin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "HAL/S",
+"aliases": [
+"A",
+"HAL/S-360",
+"HAL/S-FC",
+"High-order Assembly Language/Shuttl"
+],
+"links": 6
+},
+{
+"name": "JAL",
+"aliases": [
+"Just Another Language"
+],
+"links": 6
+},
+{
+"name": "Just BASIC",
+"aliases": [],
+"links": 6
+},
+{
+"name": "K",
+"aliases": [
+"K Language",
+"K Programming Language"
+],
+"links": 6
+},
+{
+"name": "Keysight VEE",
+"aliases": [
+"Agilent VEE",
+"HP VEE",
+"Visual Engineering Environment"
+],
+"links": 6
+},
+{
+"name": "KiXtart",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kojo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lasso",
+"aliases": [],
+"links": 6
+},
+{
+"name": "LibreOffice Basic",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Linda",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Magik",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Managed Extensions for C++",
+"aliases": [
+"Managed C++"
+],
+"links": 6
+},
+{
+"name": "MetaQuotes Language",
+"aliases": [
+"MQL",
+"MQL4",
+"MQL5"
+],
+"links": 6
+},
+{
+"name": "Microsoft Pascal",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mozart Programming System",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Music Macro Language",
+"aliases": [
+"MML"
+],
+"links": 6
+},
+{
+"name": "Not eXactly C",
+"aliases": [
+"NXC"
+],
+"links": 6
+},
+{
+"name": "Open Programming Language",
+"aliases": [
+"OPL"
+],
+"links": 6
+},
+{
+"name": "P4",
+"aliases": [],
+"links": 6
+},
+{
+"name": "PicoLisp",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Qalb",
+"aliases": [
+"Alb",
+"Qlb"
+],
+"links": 6
+},
+{
+"name": "QUEL",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Reaktor",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Refal",
+"aliases": [
+"Recursive functions algorithmic language"
+],
+"links": 6
+},
+{
+"name": "RGSS",
+"aliases": [
+"Ruby Game Scripting System"
+],
+"links": 6
+},
+{
+"name": "S-PLUS",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Script.NET",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Short Code",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Stan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "StarLogo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "TADS",
+"aliases": [
+"Text Adventure Development System"
+],
+"links": 6
+},
+{
+"name": "TLA+",
+"aliases": [
+"TLA⁺"
+],
+"links": 6
+},
+{
+"name": "Transaction Application Language",
+"aliases": [
+"TAL"
+],
+"links": 6
+},
+{
+"name": "True BASIC",
+"aliases": [],
+"links": 6
+},
+{
+"name": "TTCN-3",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Vimscript",
+"aliases": [
+"VimL"
+],
+"links": 6
+},
+{
+"name": "Visual DialogScript",
+"aliases": [],
+"links": 6
+},
+{
+"name": "WordBASIC",
+"aliases": [],
+"links": 6
+},
+{
+"name": "WQL",
+"aliases": [],
+"links": 6
+},
+{
+"name": "XBase++",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Xtend",
+"aliases": [],
+"links": 6
+},
+{
+"name": "ALTRAN",
+"aliases": [],
+"links": 5
+},
+{
+"name": "AngelScript",
+"aliases": [],
+"links": 5
+},
+{
+"name": "ASIC",
+"aliases": [
+"ASIC programming language"
+],
+"links": 5
+},
+{
+"name": "AspectC++",
+"aliases": [],
+"links": 5
+},
+{
+"name": "ATS",
+"aliases": [],
+"links": 5
+},
+{
+"name": "B4X",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ballerina",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Boomerang",
+"aliases": [],
+"links": 5
+},
+{
+"name": "C/AL",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chapel",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chipmunk Basic",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Coral 66",
+"aliases": [
+"Computer On-line Real-time Applications Language",
+"CORAL"
+],
+"links": 5
+},
+{
+"name": "CycL",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dafny",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Embedded C",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Esterel",
+"aliases": [],
+"links": 5
+},
+{
+"name": "FALSE",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fenix Project",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fjölnir",
+"aliases": [
+"Fjoelnir",
+"Fjolnir"
+],
+"links": 5
+},
+{
+"name": "FL",
+"aliases": [],
+"links": 5
+},
+{
+"name": "FlagShip",
+"aliases": [],
+"links": 5
+},
+{
+"name": "FORMAC",
+"aliases": [],
+"links": 5
+},
+{
+"name": "FutureBASIC",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Generative Modelling Language",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gleam",
+"aliases": [
+"GleamLang"
+],
+"links": 5
+},
+{
+"name": "GT.M",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gödel",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hope",
+"aliases": [],
+"links": 5
+},
+{
+"name": "HTML scripting",
+"aliases": [],
+"links": 5
+},
+{
+"name": "imperative programming language",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Iota and Jot",
+"aliases": [
+"Iota, Jot"
+],
+"links": 5
+},
+{
+"name": "Kent Recursive Calculator",
+"aliases": [
+"KRC"
+],
+"links": 5
+},
+{
+"name": "Knowledge Interchange Format",
+"aliases": [
+"KIF",
+"SUO-KIF"
+],
+"links": 5
+},
+{
+"name": "Kodu Game Lab",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Linotte",
+"aliases": [],
+"links": 5
+},
+{
+"name": "LiveScript",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lucid",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lush",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Maxscript",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Microsoft Visual Programming Language",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Newsqueak",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Not Quite C",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Open Shading Language",
+"aliases": [],
+"links": 5
+},
+{
+"name": "OpenEdge Advanced Business Language",
+"aliases": [
+"Progress",
+"Progress 4GL"
+],
+"links": 5
+},
+{
+"name": "PascalABC.NET",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pizza",
+"aliases": [],
+"links": 5
+},
+{
+"name": "PLEX",
+"aliases": [
+"Programming Language for EXchanges"
+],
+"links": 5
+},
+{
+"name": "Power Fx",
+"aliases": [
+"Microsoft Power Fx"
+],
+"links": 5
+},
+{
+"name": "procedural programming language",
+"aliases": [
+"procedural language"
+],
+"links": 5
+},
+{
+"name": "Pyrex",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Reason",
+"aliases": [
+"ReasonML"
+],
+"links": 5
+},
+{
+"name": "Sawzall",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Scriptol",
+"aliases": [],
+"links": 5
+},
+{
+"name": "shading language",
+"aliases": [],
+"links": 5
+},
+{
+"name": "SIMSCRIPT",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Speedcoding",
+"aliases": [
+"Speedcode"
+],
+"links": 5
+},
+{
+"name": "STOS BASIC",
+"aliases": [],
+"links": 5
+},
+{
+"name": "SuperBASIC",
+"aliases": [],
+"links": 5
+},
+{
+"name": "TACL",
+"aliases": [
+"Tandem Advanced Command Language"
+],
+"links": 5
+},
+{
+"name": "Text Processing Utility",
+"aliases": [
+"DEC Text Processing Utility",
+"TPU"
+],
+"links": 5
+},
+{
+"name": "TMG",
+"aliases": [
+"TransMoGrifier"
+],
+"links": 5
+},
+{
+"name": "Tom",
+"aliases": [],
+"links": 5
+},
+{
+"name": "TRAC",
+"aliases": [
+"Text Reckoning And Compiling"
+],
+"links": 5
+},
+{
+"name": "transaction control language",
+"aliases": [
+"TCL"
+],
+"links": 5
+},
+{
+"name": "UCBLogo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "URBI",
+"aliases": [],
+"links": 5
+},
+{
+"name": "vvvv",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Windows App Studio",
+"aliases": [
+"Windows Phone App Studio"
+],
+"links": 5
+},
+{
+"name": "X++",
+"aliases": [],
+"links": 5
+},
+{
+"name": "XOTcl",
+"aliases": [],
+"links": 5
+},
+{
+"name": "ZPL",
+"aliases": [],
+"links": 5
+},
+{
+"name": "ABC ALGOL",
+"aliases": [],
+"links": 4
+},
+{
+"name": "ACL2",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Active Oberon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "adenine",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Advice taker",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aldor",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Analitik",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Atlas Autocode",
+"aliases": [
+"AA"
+],
+"links": 4
+},
+{
+"name": "Averest",
+"aliases": [],
+"links": 4
+},
+{
+"name": "BASIC A+",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Basic For Qt",
+"aliases": [
+"KBasic"
+],
+"links": 4
+},
+{
+"name": "Bluespec, Inc.",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bosque",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Business Basic",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cangjie",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Casio BASIC",
+"aliases": [
+"BASIC"
+],
+"links": 4
+},
+{
+"name": "Chinese BASIC",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cilk Plus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cirq",
+"aliases": [],
+"links": 4
+},
+{
+"name": "coarray Fortran",
+"aliases": [
+"CAF",
+"co-array Fortran",
+"F--"
+],
+"links": 4
+},
+{
+"name": "Concurrent ML",
+"aliases": [
+"CML"
+],
+"links": 4
+},
+{
+"name": "Control Language",
+"aliases": [
+"CL",
+"CLLE",
+"IBM i Control Language"
+],
+"links": 4
+},
+{
+"name": "Cool",
+"aliases": [
+"Classroom Object Oriented Language"
+],
+"links": 4
+},
+{
+"name": "COWSEL",
+"aliases": [
+"COntrolled Working SpacE Language",
+"POP-1"
+],
+"links": 4
+},
+{
+"name": "Cuneiform",
+"aliases": [],
+"links": 4
+},
+{
+"name": "declarative programming language",
+"aliases": [
+"declarative language"
+],
+"links": 4
+},
+{
+"name": "DIBOL",
+"aliases": [
+"Digital's Business Oriented Language"
+],
+"links": 4
+},
+{
+"name": "Draco",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dragon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Easy Programming Language",
+"aliases": [
+"EPL"
+],
+"links": 4
+},
+{
+"name": "Embedded Java",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Flapjax",
+"aliases": [],
+"links": 4
+},
+{
+"name": "GeneXus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gforth",
+"aliases": [
+"GNU Forth"
+],
+"links": 4
+},
+{
+"name": "Go!",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gofer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Handel-C",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hop",
+"aliases": [
+"Hop.js"
+],
+"links": 4
+},
+{
+"name": "Hot Soup Processor",
+"aliases": [
+"HSP"
+],
+"links": 4
+},
+{
+"name": "JADE",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Jasmin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kawa",
+"aliases": [
+"GNU Kawa",
+"Kawa Scheme"
+],
+"links": 4
+},
+{
+"name": "lightweight programming language",
+"aliases": [
+"lightweight language"
+],
+"links": 4
+},
+{
+"name": "Logtalk",
+"aliases": [
+"StackPortal-Labs"
+],
+"links": 4
+},
+{
+"name": "LSE",
+"aliases": [],
+"links": 4
+},
+{
+"name": "MAD",
+"aliases": [
+"GOM",
+"MAD/I",
+"Michigan Algorithm Decoder"
+],
+"links": 4
+},
+{
+"name": "MATH-MATIC",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Maya Embedded Language",
+"aliases": [
+"MEL"
+],
+"links": 4
+},
+{
+"name": "MIVA Script",
+"aliases": [],
+"links": 4
+},
+{
+"name": "MPD",
+"aliases": [],
+"links": 4
+},
+{
+"name": "NATURAL",
+"aliases": [],
+"links": 4
+},
+{
+"name": "NewtonScript",
+"aliases": [],
+"links": 4
+},
+{
+"name": "ObjectPAL",
+"aliases": [
+"Object-Oriented Paradox Application Language"
+],
+"links": 4
+},
+{
+"name": "Pascal Script",
+"aliases": [
+"CajScript",
+"IFPS3",
+"Innerfuse Pascal Script",
+"RemObjects Pascal Script"
+],
+"links": 4
+},
+{
+"name": "PILOT",
+"aliases": [
+"Programmed Instruction, Learning, Or Teaching"
+],
+"links": 4
+},
+{
+"name": "PL360",
+"aliases": [
+"PL/360"
+],
+"links": 4
+},
+{
+"name": "Printer Job Language",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Processing.js",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Project Builder",
+"aliases": [],
+"links": 4
+},
+{
+"name": "PWCT",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Python for S60",
+"aliases": [
+"PyS60"
+],
+"links": 4
+},
+{
+"name": "QuickPascal",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Robik",
+"aliases": [
+"Robic"
+],
+"links": 4
+},
+{
+"name": "RPython",
+"aliases": [],
+"links": 4
+},
+{
+"name": "SASL",
+"aliases": [
+"St Andrews Standard Language",
+"St Andrews Static Language"
+],
+"links": 4
+},
+{
+"name": "scientific programming language",
+"aliases": [
+"scientific language"
+],
+"links": 4
+},
+{
+"name": "SLIP",
+"aliases": [
+"Symmetric LIst Processor"
+],
+"links": 4
+},
+{
+"name": "SmallBASIC",
+"aliases": [
+"Small Basic"
+],
+"links": 4
+},
+{
+"name": "SQL/PSM",
+"aliases": [],
+"links": 4
+},
+{
+"name": "SR",
+"aliases": [],
+"links": 4
+},
+{
+"name": "stack-oriented programming language",
+"aliases": [
+"stack-based language",
+"stack-based programming language",
+"stack-oriented language"
+],
+"links": 4
+},
+{
+"name": "Standard ML of New Jersey",
+"aliases": [
+"SML/NJ",
+"smlnj"
+],
+"links": 4
+},
+{
+"name": "SYCL",
+"aliases": [],
+"links": 4
+},
+{
+"name": "synchronous programming language",
+"aliases": [],
+"links": 4
+},
+{
+"name": "T",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tea",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Telescript",
+"aliases": [],
+"links": 4
+},
+{
+"name": "test script",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Thue",
+"aliases": [],
+"links": 4
+},
+{
+"name": "TinyScheme",
+"aliases": [],
+"links": 4
+},
+{
+"name": "TouchDesigner",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ubercode",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ur/Web",
+"aliases": [
+"Ur"
+],
+"links": 4
+},
+{
+"name": "wxBasic",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Wyvern",
+"aliases": [],
+"links": 4
+},
+{
+"name": "xHarbour",
+"aliases": [],
+"links": 4
+},
+{
+"name": "XSB",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Zonnon",
+"aliases": [],
+"links": 4
+}
+]

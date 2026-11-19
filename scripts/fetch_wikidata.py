@@ -1,0 +1,189 @@
+#!/usr/bin/env python3
+"""Pull extra answers and alternate names from Wikidata.
+
+For each category below, this asks Wikidata's public query service for
+every matching item (every dog breed, every cheese, every dinosaur genus)
+with its English name, English alternate names and how many Wikipedia
+language editions cover it (a rough fame score). Results are saved to
+data/wikidata/<category>.json and committed, so normal builds work offline.
+build_categories.py merges them: items already in the hand-sorted lists
+gain their alternate names, and new items join the rare tiers.
+
+Run with:  npm run fetch:wikidata            (all categories)
+           npm run fetch:wikidata -- cheeses  (one category)
+"""
+
+from __future__ import annotations
+
+import json
+import os
+import re
+import ssl
+import sys
+import time
+import unicodedata
+import urllib.parse
+import urllib.request
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+OUT_DIR = ROOT / "data" / "wikidata"
+ENDPOINT = "https://query.wikidata.org/sparql"
+USER_AGENT = "orebit-data-builder/1.0 (category answer lists)"
+
+
+def inst(q: str) -> str:
+    return f"?item wdt:P31 wd:{q} ."
+
+
+def tree(q: str) -> str:
+    """Instances or subclasses of q, at any depth (food types are often subclasses)."""
+    return f"?item (wdt:P31|wdt:P279)/wdt:P279* wd:{q} ."
+
+
+def taxa(parent: str, rank: str = "Q7432") -> str:
+    """Taxa under a parent taxon at a given rank (species by default)."""
+    return f"?item wdt:P171+ wd:{parent} ; wdt:P105 wd:{rank} ."
+
+
+def people(occupation: str) -> str:
+    return f"?item wdt:P31 wd:Q5 ; wdt:P106 wd:{occupation} ."
+
+
+def dishes_from(country: str, cuisine: str) -> str:
+    return (
+        f"{tree('Q746549')} {{ ?item wdt:P495 wd:{country} }} UNION {{ ?item wdt:P2012 wd:{cuisine} }}"
+    )
+
+
+# Each category: one or more (pattern, minimum sitelinks) pairs.
+# The minimum drops entries so obscure nobody could reasonably know them.
+SOURCES: dict[str, list[tuple[str, int]]] = {
+    "dog-breeds": [(inst("Q39367"), 1)],
+    "cat-breeds": [(inst("Q43577"), 1)],
+    "horse-breeds": [(inst("Q1160573"), 2)],
+    "cheeses": [(tree("Q10943"), 1)],
+    "breads": [(tree("Q7802"), 1)],
+    "cocktails": [(tree("Q134768"), 1)],
+    "cakes": [(tree("Q13276"), 1)],
+    "pasta": [(tree("Q178"), 1)],
+    "herbs-spices": [(tree("Q42527"), 1), (tree("Q207123"), 2)],
+    "wine-grapes": [(inst("Q958314"), 1)],
+    "gemstones": [(tree("Q83437"), 1)],
+    "board-games": [(inst("Q131436"), 5)],
+    "card-games": [(tree("Q142714"), 2)],
+    "programming-languages": [(tree("Q9143"), 4)],
+    "car-brands": [(inst("Q786820"), 4), (inst("Q10429667"), 3)],
+    "martial-arts": [(tree("Q11417"), 2)],
+    "string-instruments": [(tree("Q1798603"), 2)],
+    "greek-roman-gods": [(tree("Q22989102"), 2), (tree("Q11688446"), 2)],
+    "norse-mythology": [(tree("Q16513881"), 1)],
+    "japanese-foods": [(dishes_from("Q17", "Q234138"), 2)],
+    "mexican-foods": [(dishes_from("Q96", "Q207965"), 2)],
+    "candy": [(tree("Q185583"), 3), (tree("Q1361086"), 2)],
+    "solar-system": [
+        (inst("Q2537"), 2),
+        (inst("Q2199"), 1),
+        (f"?item wdt:P31/wdt:P279* wd:Q3559 .", 6),
+        (inst("Q3863"), 15),
+    ],
+    "sharks": [(taxa("Q7372"), 1)],
+    "snakes": [(taxa("Q2102"), 2)],
+    "primates": [(taxa("Q7380"), 2)],
+    "cetaceans": [(taxa("Q160"), 1)],
+    "birds-of-prey": [
+        (taxa("Q21736"), 3),
+        (taxa("Q25370"), 3),
+        (taxa("Q25222"), 3),
+        (taxa("Q20639356"), 2),
+    ],
+    "dinosaurs": [(taxa("Q430", "Q34740") + " ?item wdt:P31 wd:Q23038290 .", 2)],
+    "painters": [(people("Q1028181"), 45)],
+    "composers": [(people("Q36834") + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1960)", 35)],
+}
+
+QUERY = """
+SELECT ?item ?label ?links ?sci (GROUP_CONCAT(DISTINCT ?alt; separator="\\u001f") AS ?alts) WHERE {{
+  {pattern}
+  ?item wikibase:sitelinks ?links .
+  FILTER(?links >= {minimum})
+  ?item rdfs:label ?label . FILTER(LANG(?label) = "en")
+  OPTIONAL {{ ?item skos:altLabel ?alt . FILTER(LANG(?alt) = "en") }}
+  OPTIONAL {{ ?item wdt:P225 ?sci }}
+}}
+GROUP BY ?item ?label ?links ?sci
+"""
+
+LATIN = re.compile(r"^[\w\s'’&+#.,!:/()\-–]+$")
+
+
+def ssl_context() -> ssl.SSLContext:
+    for var in ("SSL_CERT_FILE", "REQUESTS_CA_BUNDLE", "CURL_CA_BUNDLE"):
+        path = os.environ.get(var)
+        if path and Path(path).exists():
+            return ssl.create_default_context(cafile=path)
+    return ssl.create_default_context()
+
+
+def run(query: str) -> list[dict]:
+    data = urllib.parse.urlencode({"query": query, "format": "json"}).encode()
+    req = urllib.request.Request(
+        ENDPOINT, data=data, headers={"User-Agent": USER_AGENT, "Accept": "application/sparql-results+json"}
+    )
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(req, timeout=90, context=ssl_context()) as resp:
+                return json.load(resp)["results"]["bindings"]
+        except Exception as err:  # noqa: BLE001 - retry anything, report the last one
+            if attempt == 3:
+                raise
+            print(f"    retrying after {err}")
+            time.sleep(5 * (attempt + 1))
+    return []
+
+
+def clean(name: str) -> str | None:
+    name = re.sub(r"\s*\([^)]*\)\s*", " ", name).strip()  # drop "(dog)", "(cheese)"
+    name = re.sub(r"\s+", " ", name)
+    if not name or len(name) > 48 or re.fullmatch(r"Q\d+", name):
+        return None
+    plain = unicodedata.normalize("NFKD", name)
+    plain = "".join(c for c in plain if not unicodedata.combining(c))
+    if not LATIN.match(plain) or not re.search(r"[A-Za-z]", plain):
+        return None
+    return name
+
+
+def fetch(cid: str) -> list[dict]:
+    items: dict[str, dict] = {}
+    for pattern, minimum in SOURCES[cid]:
+        rows = run(QUERY.format(pattern=pattern, minimum=minimum))
+        for b in rows:
+            qid = b["item"]["value"].rsplit("/", 1)[-1]
+            label = clean(b["label"]["value"])
+            if not label:
+                continue
+            alts = [clean(a) for a in b.get("alts", {}).get("value", "").split("\u001f") if a]
+            sci = clean(b["sci"]["value"]) if "sci" in b else None
+            names = [n for n in [*alts, sci] if n and n.lower() != label.lower()]
+            entry = items.setdefault(qid, {"name": label, "aliases": [], "links": int(b["links"]["value"])})
+            entry["aliases"] = sorted(set(entry["aliases"]) | set(names), key=str.lower)
+        time.sleep(1.5)
+    out = sorted(items.values(), key=lambda e: (-e["links"], e["name"].lower()))
+    return out
+
+
+def main() -> None:
+    wanted = sys.argv[1:] or list(SOURCES)
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    for cid in wanted:
+        if cid not in SOURCES:
+            sys.exit(f"Unknown category: {cid}")
+        print(f"  {cid} ...", flush=True)
+        items = fetch(cid)
+        (OUT_DIR / f"{cid}.json").write_text(json.dumps(items, ensure_ascii=False, indent=0) + "\n", encoding="utf-8")
+        print(f"  {cid}: {len(items)} items")
+
+
+if __name__ == "__main__":
+    main()

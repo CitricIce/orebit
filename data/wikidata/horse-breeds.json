@@ -1,0 +1,3346 @@
+[
+{
+"name": "Arabian horse",
+"aliases": [
+"Arab horse",
+"Arabian",
+"washin"
+],
+"links": 71
+},
+{
+"name": "mustang",
+"aliases": [
+"mustangs"
+],
+"links": 56
+},
+{
+"name": "Thoroughbred",
+"aliases": [
+"Thoroughbred breed",
+"Thoroughbred horse",
+"Thoroughbred racehorse"
+],
+"links": 51
+},
+{
+"name": "Akhal-Teke",
+"aliases": [
+"Akhal-teke horse"
+],
+"links": 49
+},
+{
+"name": "Lipizzaner",
+"aliases": [
+"Lipizzan",
+"Lipizzan horse"
+],
+"links": 49
+},
+{
+"name": "Friesian horse",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Andalusian horse",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Appaloosa",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Icelandic horse",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Shetland pony",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Clydesdale horse",
+"aliases": [
+"Clydesdale"
+],
+"links": 41
+},
+{
+"name": "American Quarter Horse",
+"aliases": [
+"Quarter horse"
+],
+"links": 37
+},
+{
+"name": "Standardbred",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Percheron",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Mongolian horse",
+"aliases": [
+"breed"
+],
+"links": 33
+},
+{
+"name": "Haflinger",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Morgan horse",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Shire horse",
+"aliases": [
+"Shire"
+],
+"links": 32
+},
+{
+"name": "Konik",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Karabakh horse",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Falabella",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Barb horse",
+"aliases": [
+"Berber horse"
+],
+"links": 27
+},
+{
+"name": "Bashkir horse",
+"aliases": [
+"Bashkir",
+"Bashkir pony"
+],
+"links": 27
+},
+{
+"name": "Belgian Draught",
+"aliases": [
+"Brabander",
+"Brabant",
+"Brabants trekpaard",
+"Brabançon",
+"Cheval de trait belge"
+],
+"links": 27
+},
+{
+"name": "Fjord horse",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Hackney horse",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Yakutian horse",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Holsteiner horse",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Trakehner",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Anglo-Arabian",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Ardennes horse",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Camargue horse",
+"aliases": [
+"Camarguais"
+],
+"links": 23
+},
+{
+"name": "Hanoverian horse",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Hucul pony",
+"aliases": [
+"Hucul horse",
+"Hucul Ponies",
+"Huțan",
+"Huțul"
+],
+"links": 23
+},
+{
+"name": "Lusitano",
+"aliases": [
+"Lusitano horse"
+],
+"links": 23
+},
+{
+"name": "Russian Don",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Brumby",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Connemara pony",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Orlov Trotter",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Exmoor pony",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Welsh Pony and Cob",
+"aliases": [
+"Welsh pony"
+],
+"links": 21
+},
+{
+"name": "American Saddlebred",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Cleveland Bay",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kabarda horse",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Marwari horse",
+"aliases": [],
+"links": 20
+},
+{
+"name": "American Paint Horse",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Budyonny horse",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Finnhorse",
+"aliases": [
+"Finnish Horse",
+"Finnish Universal"
+],
+"links": 19
+},
+{
+"name": "Gypsy Vanner horse",
+"aliases": [
+"Gypsy Cob",
+"Irish Cob",
+"Tinker"
+],
+"links": 19
+},
+{
+"name": "New Forest pony",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Tennessee Walking Horse",
+"aliases": [
+"'Walker",
+"Tennessee walker",
+"TWH",
+"Walker",
+"Walking horse"
+],
+"links": 19
+},
+{
+"name": "Gotland Pony",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Selle Français",
+"aliases": [
+"Selle Francais"
+],
+"links": 18
+},
+{
+"name": "Sorraia",
+"aliases": [
+"Sorraia horse"
+],
+"links": 18
+},
+{
+"name": "Caspian horse",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Nonius horse",
+"aliases": [
+"nonius"
+],
+"links": 17
+},
+{
+"name": "Noriker horse",
+"aliases": [
+"Norico-Pinzgauer"
+],
+"links": 17
+},
+{
+"name": "Oldenburg horse",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Suffolk Punch",
+"aliases": [
+"Punch",
+"Suffolk",
+"Suffolk horse"
+],
+"links": 17
+},
+{
+"name": "Alter Real",
+"aliases": [],
+"links": 16
+},
+{
+"name": "American Cream Draft",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Boulonnais",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Criollo horse",
+"aliases": [
+"Criollo",
+"Crioulo"
+],
+"links": 16
+},
+{
+"name": "Dartmoor Pony",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Pottok",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Vladimir Heavy Draft",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Zaniskari",
+"aliases": [
+"Zanskari"
+],
+"links": 16
+},
+{
+"name": "Banker horse",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Breton horse",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dutch Warmblood",
+"aliases": [
+"Koninklijk Warmbloed Paard Nederland",
+"KWPN"
+],
+"links": 15
+},
+{
+"name": "Dølehest",
+"aliases": [
+"Dole",
+"Dole Gudbrandsdal",
+"Dolehest",
+"Döle Gudbrandsdal",
+"Dølahest"
+],
+"links": 15
+},
+{
+"name": "Ferghana horse",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Highland pony",
+"aliases": [
+"Garron"
+],
+"links": 15
+},
+{
+"name": "Knabstrupper",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Shagya Arabian",
+"aliases": [
+"Shagya arab"
+],
+"links": 15
+},
+{
+"name": "Žemaitukas",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Altai horse",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bosnian Mountain Horse",
+"aliases": [
+"Bosniak",
+"Bosnian Pony"
+],
+"links": 14
+},
+{
+"name": "Dales pony",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Estonian horse",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Faroe pony",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Fell pony",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Heck horse",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Kathiawari",
+"aliases": [
+"Kathiawari horse"
+],
+"links": 14
+},
+{
+"name": "Kazakh horse",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Nisean horse",
+"aliases": [
+"Nesaian horse",
+"Nisaean horse",
+"Nisaian horse",
+"Nisayan horse"
+],
+"links": 14
+},
+{
+"name": "Paso Fino",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Rocky Mountain Horse",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Turkoman horse",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Azteca horse",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Furioso-North Star",
+"aliases": [
+"Mezőhegyes Halfbred"
+],
+"links": 13
+},
+{
+"name": "Irish Draught",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Jutland horse",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Missouri Fox Trotter",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mérens horse",
+"aliases": [
+"Merens horse"
+],
+"links": 13
+},
+{
+"name": "Peruvian Paso",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Russian Trotter",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Tersk horse",
+"aliases": [
+"Tersky"
+],
+"links": 13
+},
+{
+"name": "Aegidienberger",
+"aliases": [],
+"links": 12
+},
+{
+"name": "American Bashkir Curly",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Asturcón",
+"aliases": [
+"Asturcon"
+],
+"links": 12
+},
+{
+"name": "Black Forest Horse",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Boer pony",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dülmener",
+"aliases": [
+"Dülmen Pony"
+],
+"links": 12
+},
+{
+"name": "Frederiksborg horse",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Freiberger",
+"aliases": [
+"Cheval du Jura",
+"Franc-Montagnard",
+"Franches-Montagnes",
+"Jura"
+],
+"links": 12
+},
+{
+"name": "Iomud",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Irish Sport Horse",
+"aliases": [
+"Irish Hunter"
+],
+"links": 12
+},
+{
+"name": "Kustanair",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Međimurje horse",
+"aliases": [
+"Murakoz horse"
+],
+"links": 12
+},
+{
+"name": "Pindos Pony",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Poitevin horse",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Waler horse",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Abaco Barb",
+"aliases": [
+"Abaco Spanish Colonial Horse"
+],
+"links": 11
+},
+{
+"name": "Albanian horse",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Australian Pony",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bardigiano",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Canadian horse",
+"aliases": [],
+"links": 11
+},
+{
+"name": "French Trotter",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Garrano",
+"aliases": [
+"Garrano horse"
+],
+"links": 11
+},
+{
+"name": "Gidran",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kyrgyz Horse",
+"aliases": [
+"Kirgiz Horse"
+],
+"links": 11
+},
+{
+"name": "Mallorquín",
+"aliases": [
+"Mallorquin"
+],
+"links": 11
+},
+{
+"name": "Mangalarga Marchador",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Manipuri pony",
+"aliases": [
+"Manipuri horse",
+"Meetei horse",
+"Meetei pony",
+"Meitei horse",
+"Meitei pony"
+],
+"links": 11
+},
+{
+"name": "Maremmano",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Menorquín horse",
+"aliases": [
+"Menorquin horse"
+],
+"links": 11
+},
+{
+"name": "Murgese",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Nokota horse",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Nordlandshest/Lyngshest",
+"aliases": [],
+"links": 11
+},
+{
+"name": "North Swedish Horse",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Pony of the Americas",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Skyros Pony",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Swedish Warmblood",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tori horse",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Yonaguni horse",
+"aliases": [
+"Yonaguni pony"
+],
+"links": 11
+},
+{
+"name": "American Shetland Pony",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Australian Stock Horse",
+"aliases": [
+"Stockhorse"
+],
+"links": 10
+},
+{
+"name": "Bali Pony",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chincoteague pony",
+"aliases": [
+"Assateague",
+"Assateague horse",
+"Assateague pony",
+"Chincoteague",
+"Chincoteague horse",
+"wild pony"
+],
+"links": 10
+},
+{
+"name": "Dutch Draft",
+"aliases": [
+"Dutch Heavy Draft",
+"Zeeland Horse"
+],
+"links": 10
+},
+{
+"name": "Gelderland horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Giara horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Hispano-Árabe",
+"aliases": [
+"Hispano-Arabe"
+],
+"links": 10
+},
+{
+"name": "Hokkaido Pony",
+"aliases": [
+"Dosanko pony"
+],
+"links": 10
+},
+{
+"name": "Java Pony",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Jeju horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Karabair",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kerry Bog Pony",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kiso",
+"aliases": [
+"Kiso Horse"
+],
+"links": 10
+},
+{
+"name": "Kladruber",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Latvian horse",
+"aliases": [
+"Latvijas šķirne"
+],
+"links": 10
+},
+{
+"name": "Posavac horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rhenish-German Cold-Blood",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sable Island Pony",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Schleswig horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Soviet Heavy Draft",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Spiti Horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Timor Pony",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tokara horse",
+"aliases": [
+"Tokara pony"
+],
+"links": 10
+},
+{
+"name": "Trait du Nord",
+"aliases": [
+"Ardennais du Nord"
+],
+"links": 10
+},
+{
+"name": "Vyatka horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Westphalian horse",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Wielkopolski",
+"aliases": [],
+"links": 10
+},
+{
+"name": "American Walking Pony",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Auxois",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Campolina",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Czech warm blood",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Eriskay Pony",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Galiceno",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Galician Pony",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Galloway pony",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Groningen horse",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Italian Heavy Draft",
+"aliases": [
+"TPR"
+],
+"links": 9
+},
+{
+"name": "Landais pony",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lithuanian Heavy Draught",
+"aliases": [
+"Lithuanian Coldblood"
+],
+"links": 9
+},
+{
+"name": "Lokai",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lundy",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Misaki",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Miyako horse",
+"aliases": [
+"Miyako pony"
+],
+"links": 9
+},
+{
+"name": "Morab",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Namib Desert Horse",
+"aliases": [
+"The feral horses of Garub"
+],
+"links": 9
+},
+{
+"name": "Norman Cob",
+"aliases": [
+"Cob Normand"
+],
+"links": 9
+},
+{
+"name": "Ostfriesen and Alt-Oldenburger",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Riwoche horse",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sumbawa Pony",
+"aliases": [
+"Bima"
+],
+"links": 9
+},
+{
+"name": "Ukrainian Riding Horse",
+"aliases": [
+"Ukrainian Saddle Horse"
+],
+"links": 9
+},
+{
+"name": "Adaev",
+"aliases": [],
+"links": 8
+},
+{
+"name": "American Miniature Horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Anglo-Norman horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Basuto pony",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Batak Pony",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Belgian Warmblood",
+"aliases": [
+"Belgisch Warmbloed",
+"Belgisch warmbloed paard",
+"BWP"
+],
+"links": 8
+},
+{
+"name": "Byelorussian Harness",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Chilean horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Coldblood trotter",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Colorado Ranger",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Comtois horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Corsican horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Danish Warmblood",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Deliboz",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Dongola horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Florida Cracker Horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "French Saddle Pony",
+"aliases": [],
+"links": 8
+},
+{
+"name": "German Riding Pony",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hackney pony",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Indian Half-Bred",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Karachay horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kentucky Mountain Saddle Horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kurdish horse",
+"aliases": [
+"Kurd horse"
+],
+"links": 8
+},
+{
+"name": "Losino horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Messara",
+"aliases": [
+"Cretan horse"
+],
+"links": 8
+},
+{
+"name": "Neapolitan horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Norfolk Trotter",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pintabian",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rhinelander horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Riding Pony",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Russian Heavy Draft",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Salerno horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sandalwood Pony",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sardinian Anglo-Arab",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Silesian horse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Taishuh",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tibetan pony",
+"aliases": [
+"Tibetan horse"
+],
+"links": 8
+},
+{
+"name": "Welsh cob",
+"aliases": [
+"Welsh D"
+],
+"links": 8
+},
+{
+"name": "Abyssinian horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "American creme and white horse registry",
+"aliases": [],
+"links": 7
+},
+{
+"name": "AraAppaloosa",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Australian Pony",
+"aliases": [
+"Australian Riding Pony"
+],
+"links": 7
+},
+{
+"name": "Baluchi horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bavarian Warmblood",
+"aliases": [
+"Bayrisches Warmblut"
+],
+"links": 7
+},
+{
+"name": "Brandenburger",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Carthusian",
+"aliases": [
+"Cartujano"
+],
+"links": 7
+},
+{
+"name": "Chara",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Croatian Coldblood",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Danube Delta horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "East Bulgarian",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Einsiedler",
+"aliases": [
+"Cavallo della Madonna"
+],
+"links": 7
+},
+{
+"name": "Foutanké",
+"aliases": [
+"Fouta",
+"Foutanke"
+],
+"links": 7
+},
+{
+"name": "German Classic Pony",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Guba",
+"aliases": [
+"Azerbaijan horse"
+],
+"links": 7
+},
+{
+"name": "Henson horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hequ horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hungarian Sport Horse",
+"aliases": [
+"Hungarian Warmblood"
+],
+"links": 7
+},
+{
+"name": "Kiger Mustang",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kinsky horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kisber Felver",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mangalarga",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mecklenburger",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Monterufolino",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Noma pony",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Novokirghiz",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ob pony",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pampa Horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Peneia Pony",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pleven horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Quarab",
+"aliases": [],
+"links": 7
+},
+{
+"name": "San Fratello horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Senner",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Spotted Saddle horse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Warlander",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Welsh Mountain Pony",
+"aliases": [
+"Welsh A"
+],
+"links": 7
+},
+{
+"name": "Wild horses of Livno",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Württemberger",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Zweibrücker",
+"aliases": [],
+"links": 7
+},
+{
+"name": "American Indian horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Anadolu Pony",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Arab-Barb",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Arabo-friesian",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Arenberg-Nordkirchen",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Balikun horse",
+"aliases": [
+"Chinese Kazakh Horse"
+],
+"links": 6
+},
+{
+"name": "Caballo Polo Argentino",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Camarillo White Horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Campeiro",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Canadian Rustic Pony",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Catria horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cayuse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dutch harness horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "French Anglo Arab",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hispano-Bretón",
+"aliases": [
+"Hispano-Breton"
+],
+"links": 6
+},
+{
+"name": "Irish Hobby",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kaimanawa horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kalmyk horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Malopolski",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Monchino",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Newfoundland pony",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Panje",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Persano horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Poney du Logone",
+"aliases": [
+"Kirdi",
+"Lakka",
+"Mbaï",
+"Pagan",
+"Poney de la Kabia",
+"Poney Hoho",
+"Poney Mousseye",
+"Poney Musey",
+"Sara"
+],
+"links": 6
+},
+{
+"name": "Pura Raza Española",
+"aliases": [
+"PRE"
+],
+"links": 6
+},
+{
+"name": "Quarter pony",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sarcidano horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Slovenian Cold-blood",
+"aliases": [
+"Slovenian Cold-blooded Horse",
+"Slovenian Coldblood"
+],
+"links": 6
+},
+{
+"name": "Sokolsky horse",
+"aliases": [
+"Sokólski"
+],
+"links": 6
+},
+{
+"name": "Spanish Jennet Horse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Spanish Mustang",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tawleed",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Voronej",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Windsor Grey",
+"aliases": [],
+"links": 6
+},
+{
+"name": "American Warmblood",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Andravida horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Anglo-Kabarda",
+"aliases": [],
+"links": 5
+},
+{
+"name": "AQPS",
+"aliases": [
+"Autre Que Pur Sang",
+"French chaser"
+],
+"links": 5
+},
+{
+"name": "Araber-Haflinger",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Arravani",
+"aliases": [
+"Macedonian pacer horse"
+],
+"links": 5
+},
+{
+"name": "Australian Draught Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Australian Warmblood",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Austrian Warmblood",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Auvergne horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Axios horses",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bangladesh native horse",
+"aliases": [
+"Bangladeshi native horse"
+],
+"links": 5
+},
+{
+"name": "Bhimthadi horse",
+"aliases": [
+"Deccani"
+],
+"links": 5
+},
+{
+"name": "Bhutia Horse",
+"aliases": [
+"Bhotia horse"
+],
+"links": 5
+},
+{
+"name": "Blazer horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Brazilian Sport Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "British Spotted pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "British Warmblood",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Calabrese horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Carolina Marsh Tacky",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Castillonnais",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Charolais horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chinese Guoxia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Choctaw Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cumberland Island horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Czechoslovakian Small Riding Pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Danish Sport Pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dareshuri",
+"aliases": [
+"Dareshoori",
+"Shirazi"
+],
+"links": 5
+},
+{
+"name": "Dzhab",
+"aliases": [
+"Betpakdalin",
+"Jabe"
+],
+"links": 5
+},
+{
+"name": "Emscherbrücher",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Esperia Pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Estonian Draft",
+"aliases": [
+"Eston-Arden"
+],
+"links": 5
+},
+{
+"name": "Flemish Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Friesian Sporthorse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gayoe",
+"aliases": [
+"kuda-Gayo"
+],
+"links": 5
+},
+{
+"name": "Guangxi",
+"aliases": [
+"Guangxi pony"
+],
+"links": 5
+},
+{
+"name": "Guizhou pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hessisches Warmblut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Indonesian Racing Horse",
+"aliases": [
+"Kuda Pacu Indonesia"
+],
+"links": 5
+},
+{
+"name": "Italian Trotter",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jaca Navarra",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kundido horse",
+"aliases": [
+"Kundudo horse"
+],
+"links": 5
+},
+{
+"name": "Lac La Croix Indian Pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lavradeiro",
+"aliases": [
+"Wild Horse of Roraima"
+],
+"links": 5
+},
+{
+"name": "M'Bayar",
+"aliases": [
+"Baol",
+"Mbayar",
+"Poney Mbayar"
+],
+"links": 5
+},
+{
+"name": "Marismeño",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mezen horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Narym Pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "National Show Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nez Perce Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nooitgedacht pony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "NorthAmerican Sportpony",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Northeastern horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Old English Black",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Orlov-Rostopchin Sport Horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Palatinate-Ardennes",
+"aliases": [
+"Palatine Ardennes",
+"Pfalz-Ardenner"
+],
+"links": 5
+},
+{
+"name": "Pantaneiro",
+"aliases": [
+"Bahiano",
+"Mimoseano",
+"Poconeano"
+],
+"links": 5
+},
+{
+"name": "Poney de selle belge",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Purosangue Orientale",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Racking horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Retuerta horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rottaler",
+"aliases": [
+"Rottaler Pferd",
+"Rottaler Warmblut"
+],
+"links": 5
+},
+{
+"name": "Sella Italiano",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Siciliano indigeno",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Spanish Sport Horse",
+"aliases": [
+"CDE"
+],
+"links": 5
+},
+{
+"name": "Spanish-Norman horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Swiss Warmblood",
+"aliases": [
+"Cavallo della Svizzera",
+"CH-Warmblut",
+"Demi-Sang CH",
+"Demi-Sang Suisse",
+"Neue Einsiedler",
+"Schweizer Warmblut",
+"Swiss Saddle Horse"
+],
+"links": 5
+},
+{
+"name": "Tolfetano",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tusheti horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Uzunyayla",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Virginia Highlander",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Vlaamperd",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Welara",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Welsh Pony of Cob Type",
+"aliases": [
+"Welsh Pony"
+],
+"links": 5
+},
+{
+"name": "Yili horse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zangersheide",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Altwürttemberger",
+"aliases": [],
+"links": 4
+},
+{
+"name": "American Drum Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Amurski horse",
+"aliases": [
+"Manchurian pony"
+],
+"links": 4
+},
+{
+"name": "Andean",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bagual",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Baixadeiro",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Barraquand horse",
+"aliases": [
+"Vercors horse"
+],
+"links": 4
+},
+{
+"name": "Basque Mountain Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bhirum pony",
+"aliases": [
+"Nigerian Pony"
+],
+"links": 4
+},
+{
+"name": "Bidet breton",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bobo horse",
+"aliases": [
+"Bobodi"
+],
+"links": 4
+},
+{
+"name": "Boer Pony",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brazilian pony",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Burguete horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Burmese Pony",
+"aliases": [
+"Burmese Horse"
+],
+"links": 4
+},
+{
+"name": "Carneddau pony",
+"aliases": [
+"Carneddau ponies"
+],
+"links": 4
+},
+{
+"name": "Cavallo Appenninico",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cavallo Romano della Maremma Laziale",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cheval du Morvan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cheval lorrain",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chinese Mongolian",
+"aliases": [
+"Chinese Mongolian horse"
+],
+"links": 4
+},
+{
+"name": "Coffin Bay Pony",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Costa Rican Saddle Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Deli pony",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dutch Miniature",
+"aliases": [
+"Nederlands Mini Paarden"
+],
+"links": 4
+},
+{
+"name": "Egyptian Arabian",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Finnish Warmblood",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fleuve",
+"aliases": [
+"Cheval du Fleuve",
+"Naru Gor"
+],
+"links": 4
+},
+{
+"name": "Georgian Grande Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "German Warmblood",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hack horses",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Half-bred horses of Dombes",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hebridean pony",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Heihe horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hirzai",
+"aliases": [
+"Nukra Stallion"
+],
+"links": 4
+},
+{
+"name": "Hrvatski toplokrvnjak",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Indian Country Bred",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kandachime",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Karacabey horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Karelian horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kuc felinski",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kuznet",
+"aliases": [],
+"links": 4
+},
+{
+"name": "La Hague horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Liebenthaler",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lijiang pony",
+"aliases": [
+"Lijiang ponies"
+],
+"links": 4
+},
+{
+"name": "Limousin horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ljutomer Trotter",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lombok Pony",
+"aliases": [],
+"links": 4
+},
+{
+"name": "M'Par",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Miquelon horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mountain Pleasure Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Narragansett Pacer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Navarrin horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ngua Noi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Novoolexandrian Draught",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Oberlander horse",
+"aliases": [
+"South German Coldblood"
+],
+"links": 4
+},
+{
+"name": "Petiso Argentino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pirenenc Català",
+"aliases": [
+"Cavall Pirenenc Català"
+],
+"links": 4
+},
+{
+"name": "Polish Halfbred Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Puruca",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Samolaco horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Shan Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Spanish Trotter",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Strelets",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sudan Country-Bred",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Swedish Ardennes",
+"aliases": [],
+"links": 4
+},
+{
+"name": "tatar horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tiger horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Trochador",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tuva",
+"aliases": [
+"Tuva horse"
+],
+"links": 4
+},
+{
+"name": "Ujumqin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Western Sudan pony",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yorkshire Coach Horse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yushu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Abaga",
+"aliases": [
+"Black Abaga"
+],
+"links": 3
+},
+{
+"name": "Abeya",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Abtenauer",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ader",
+"aliases": [],
+"links": 3
+},
+{
+"name": "American Belgian Draft",
+"aliases": [
+"Belgian",
+"Belgian Draft",
+"Belgian Heavy Draft"
+],
+"links": 3
+},
+{
+"name": "Angevin horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Anglo European",
+"aliases": [
+"AES",
+"Anglo European Stud Book"
+],
+"links": 3
+},
+{
+"name": "Argentinian Warmblood",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Avelignese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Baladi horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bale horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Barock Pinto",
+"aliases": [
+"Friesian Pinto",
+"Pinto Barock",
+"Pinto Friesian"
+],
+"links": 3
+},
+{
+"name": "Beberbecker",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Beledougou",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Belgian Sport Horse",
+"aliases": [
+"sBs"
+],
+"links": 3
+},
+{
+"name": "Berrichon horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Canadian Pacer",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Canadian Warmblood",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Canik",
+"aliases": [],
+"links": 3
+},
+{
+"name": "castilian horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cauchois horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cavallo del Delta",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cerbat Mustang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chaidamu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chakouyi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Charentais horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chernomor",
+"aliases": [
+"Black Sea Horse",
+"Cherkassky"
+],
+"links": 3
+},
+{
+"name": "Cheval des Marquises",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chumbivilcas",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Corlay horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Crioulo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cuban Paso",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cuban trotter",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Darkhad",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Datong horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Edelbluthaflinger",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Edles Warmblut",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Erlenbach horse",
+"aliases": [
+"Erlenbacher"
+],
+"links": 3
+},
+{
+"name": "Hegardt Horse",
+"aliases": [
+"Stroebel Horse"
+],
+"links": 3
+},
+{
+"name": "Iberoamericano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jinjiang",
+"aliases": [
+"Jinhong"
+],
+"links": 3
+},
+{
+"name": "Kushum",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lesbos horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Maine",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Merlerault horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Moyle horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nangchen horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nivernais horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "North American Single-Footing Horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pentro horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Persian plateau horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Polesskaya horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Polish Arabian horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Polish Coldblood",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pryor Mountain Mustang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pónei da Terceira",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rhodos pony",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rodope horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Romanian Sporthorse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Selale",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shandan horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sri Lankan pony",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Thai Pony",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Unmol Horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Venezuelan Criollo",
+"aliases": [
+"Llanero"
+],
+"links": 3
+},
+{
+"name": "Ventasso horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Walkaloosa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "warmblood trotter",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Zabaikal",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Zanthe horse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Abstang",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Aenos",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Alaca",
+"aliases": [],
+"links": 2
+},
+{
+"name": "American Sugarbush Harlequin Draft",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Augeron horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bachmat",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Baguio",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bajau",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Baltic Ardennes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ban-ei Race Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Basseri horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Belgian Trotter",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bergmann",
+"aliases": [
+"Argentine Mode Pony"
+],
+"links": 2
+},
+{
+"name": "Bolivian Pony",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Borneo Pony",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Brennou horse",
+"aliases": [
+"Brandin horse"
+],
+"links": 2
+},
+{
+"name": "British Miniature Horse",
+"aliases": [
+"Miniature Toy Horse"
+],
+"links": 2
+},
+{
+"name": "Canadian Sport Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Carrossier noir du Cotentin",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chinese Kazakh Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Conestoga Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Constantine Barb",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cuban Pinto",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Estonian Sport Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Galshar",
+"aliases": [],
+"links": 2
+},
+{
+"name": "German Part-bred Shetland Pony",
+"aliases": [],
+"links": 2
+},
+{
+"name": "German Trotter",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Goonhilly",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Henan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hınıs",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Iranian Arabian",
+"aliases": [
+"Asil Horse"
+],
+"links": 2
+},
+{
+"name": "Israeli Local Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jaf",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jata",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Javakhuri Harness Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jianchang",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kachchhi-Sindhit",
+"aliases": [
+"Makra"
+],
+"links": 2
+},
+{
+"name": "Kafa",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kuningan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lippitt Morgan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lofoten pony",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Luxembourg Warmblood",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Makassar",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Malakan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Marajoara",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Merak-Saktenpata",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Miniature Shetland pony",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Montana Traveler",
+"aliases": [
+"Montana Travler"
+],
+"links": 2
+},
+{
+"name": "Morna",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Morocco Spotted Horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mossi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Muniqi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Myngad",
+"aliases": [
+"Myangad"
+],
+"links": 2
+},
+{
+"name": "Namaqua Pony",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Oran Barb",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Paraguayan Criollo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Polish Riding Pony",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Priangan horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Qatgani",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Romanian draft horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sachsen-Anhaltiner Warmblut",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Slovak Warmblood",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Slovenian warmblood",
+"aliases": [],
+"links": 2
+},
+{
+"name": "South African Miniature",
+"aliases": [],
+"links": 2
+},
+{
+"name": "South African Warmblood",
+"aliases": [
+"Sa warm blood"
+],
+"links": 2
+},
+{
+"name": "Sport Horse Breeding of Great Britain",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Stara Planina",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Studbook La Silla",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tatar Pony",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Trote y Galope",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Turkish Arabian horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Uruguayan Criollo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ushi-uma",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Waziri",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Wenshan",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Xilingol horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Yabu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Yuta horse",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zhongdian",
+"aliases": [],
+"links": 2
+}
+]

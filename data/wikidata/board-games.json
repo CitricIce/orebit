@@ -1,0 +1,1847 @@
+[
+{
+"name": "chess",
+"aliases": [
+"chess game",
+"international chess",
+"modern European chess",
+"Western chess"
+],
+"links": 270
+},
+{
+"name": "backgammon",
+"aliases": [],
+"links": 105
+},
+{
+"name": "checkers",
+"aliases": [
+"draughts"
+],
+"links": 98
+},
+{
+"name": "Monopoly",
+"aliases": [
+"Monopoly game"
+],
+"links": 81
+},
+{
+"name": "mahjong",
+"aliases": [
+"mah-jongg",
+"mahjongg"
+],
+"links": 64
+},
+{
+"name": "xiangqi",
+"aliases": [
+"Chinese chess",
+"elephant chess",
+"elephant game",
+"Hsiang ch’i",
+"Xiang Qi"
+],
+"links": 63
+},
+{
+"name": "chaturanga",
+"aliases": [],
+"links": 54
+},
+{
+"name": "The Settlers of Catan",
+"aliases": [
+"Catan",
+"Settlers of Catan"
+],
+"links": 42
+},
+{
+"name": "snakes and ladders",
+"aliases": [],
+"links": 41
+},
+{
+"name": "correspondence chess",
+"aliases": [
+"correspondence chess game"
+],
+"links": 40
+},
+{
+"name": "nine men's morris",
+"aliases": [
+"Cowboy checkers",
+"Marelles",
+"Merelles",
+"Merels",
+"Merrills",
+"Mill",
+"Mills",
+"Mlynek",
+"Morelles",
+"Nine Man Morris",
+"Ninepenny Marl",
+"The Mill Game"
+],
+"links": 40
+},
+{
+"name": "Battleship",
+"aliases": [
+"Battleships",
+"Sea Battle"
+],
+"links": 38
+},
+{
+"name": "Risk",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Senet",
+"aliases": [
+"Senat"
+],
+"links": 37
+},
+{
+"name": "Royal Game of Ur",
+"aliases": [
+"Aasha",
+"Game of Twenty Squares",
+"Game of Ur"
+],
+"links": 36
+},
+{
+"name": "Pachisi",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Ludo",
+"aliases": [
+"Ludo sport",
+"Ludosport"
+],
+"links": 32
+},
+{
+"name": "Chinese checkers",
+"aliases": [
+"Chinese chequers",
+"Stern-halma",
+"Sternhalma"
+],
+"links": 30
+},
+{
+"name": "Rummikub",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Mensch ärgere dich nicht",
+"aliases": [
+"Man, don't get angry!",
+"Man, don't get annoyed",
+"Pachisi"
+],
+"links": 28
+},
+{
+"name": "Connect Four",
+"aliases": [
+"Hx5c"
+],
+"links": 27
+},
+{
+"name": "Stratego",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Ticket to Ride",
+"aliases": [
+"TTR"
+],
+"links": 27
+},
+{
+"name": "Mastermind",
+"aliases": [
+"Bulls and Cows",
+"Hit & Blow",
+"Master Mind",
+"Pegs, Bulls and Cows"
+],
+"links": 26
+},
+{
+"name": "peg solitaire",
+"aliases": [
+"Brainvita",
+"Hi-Q",
+"Marble Solitaire",
+"Sailor’s Solitaire",
+"Solitaire",
+"Solo Goli",
+"Solo Noble"
+],
+"links": 26
+},
+{
+"name": "Diplomacy",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Game of the Goose",
+"aliases": [
+"Goose game",
+"Royal Game of the Goose"
+],
+"links": 25
+},
+{
+"name": "Trivial Pursuit",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Puerto Rico",
+"aliases": [],
+"links": 23
+},
+{
+"name": "alquerque",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Oware",
+"aliases": [
+"Awari",
+"Wari"
+],
+"links": 22
+},
+{
+"name": "Pandemic",
+"aliases": [],
+"links": 22
+},
+{
+"name": "tafl games",
+"aliases": [
+"hnefatafl games"
+],
+"links": 22
+},
+{
+"name": "Twister",
+"aliases": [],
+"links": 21
+},
+{
+"name": "7 Wonders",
+"aliases": [
+"Seven Wonders"
+],
+"links": 20
+},
+{
+"name": "Abalone",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Codenames",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Quoridor",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Agricola",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Blokus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "hexagonal chess",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Power Grid",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Quarto",
+"aliases": [
+"Quarto!"
+],
+"links": 18
+},
+{
+"name": "Renju",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Arkham Horror",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Fanorona",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Splendor",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Tantrix",
+"aliases": [],
+"links": 17
+},
+{
+"name": "three-dimensional chess",
+"aliases": [
+"3D chess"
+],
+"links": 17
+},
+{
+"name": "A Game of Thrones",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Axis & Allies",
+"aliases": [
+"Axis and Allies"
+],
+"links": 16
+},
+{
+"name": "bagh-chal",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Blood Bowl",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ludus latrunculorum",
+"aliases": [
+"latrones",
+"latrunculi",
+"Latrunculus"
+],
+"links": 16
+},
+{
+"name": "Caylus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Hounds and Jackals",
+"aliases": [
+"58 holes",
+"fifty-eight holes",
+"Game of Hounds and Jackals"
+],
+"links": 15
+},
+{
+"name": "Kalah",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Pentago",
+"aliases": [],
+"links": 15
+},
+{
+"name": "The Game of Life",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Twilight Struggle",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Wingspan",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bao",
+"aliases": [
+"bao la kiswahili"
+],
+"links": 14
+},
+{
+"name": "Illuminati",
+"aliases": [
+"The Illuminati"
+],
+"links": 14
+},
+{
+"name": "Mehen",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Parchís",
+"aliases": [
+"Parchis"
+],
+"links": 14
+},
+{
+"name": "Scotland Yard",
+"aliases": [],
+"links": 14
+},
+{
+"name": "tabula",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Alhambra",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Congkak",
+"aliases": [],
+"links": 13
+},
+{
+"name": "El Grande",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Fox games",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Jungle",
+"aliases": [
+"Animals Chess",
+"Dou Shou Qi",
+"Jungle Chess",
+"The Jungle Game"
+],
+"links": 13
+},
+{
+"name": "Lasca",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Liar's Dice",
+"aliases": [
+"Perudo"
+],
+"links": 13
+},
+{
+"name": "ludus duodecim scriptorum",
+"aliases": [
+"duodecim scripta",
+"Game of twelve markings",
+"Ludus XII scripta"
+],
+"links": 13
+},
+{
+"name": "Sevens",
+"aliases": [
+"Parliament"
+],
+"links": 13
+},
+{
+"name": "Stone Age",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Subbuteo",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Thurn and Taxis",
+"aliases": [
+"Thurn und Taxis"
+],
+"links": 13
+},
+{
+"name": "crokinole",
+"aliases": [],
+"links": 12
+},
+{
+"name": "HeroQuest",
+"aliases": [
+"Hero Quest"
+],
+"links": 12
+},
+{
+"name": "Luzhanqi",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Mordheim",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Okey",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Scythe",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Small World",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Talisman",
+"aliases": [],
+"links": 12
+},
+{
+"name": "three-player chess",
+"aliases": [
+"three-handed",
+"three-man",
+"three-way chess"
+],
+"links": 12
+},
+{
+"name": "Dobble",
+"aliases": [
+"Spot it!"
+],
+"links": 11
+},
+{
+"name": "Dōbutsu shōgi",
+"aliases": [
+"Let's Catch the Lion!"
+],
+"links": 11
+},
+{
+"name": "Ghosts",
+"aliases": [
+"Geister",
+"Good & Bad Ghosts"
+],
+"links": 11
+},
+{
+"name": "GIPF",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Hare and Tortoise",
+"aliases": [],
+"links": 11
+},
+{
+"name": "international draughts",
+"aliases": [
+"international checkers",
+"Polish draughts"
+],
+"links": 11
+},
+{
+"name": "Kingdom Builder",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Labyrinth",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Through the Ages: A Story of Civilization",
+"aliases": [
+"Through the Ages",
+"TTA"
+],
+"links": 11
+},
+{
+"name": "YINSH",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zooloretto",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Afrikan tähti",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Descent: Journeys in the Dark",
+"aliases": [],
+"links": 10
+},
+{
+"name": "DVONN",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Focus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Gloomhaven",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Memoir '44",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Niagara",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rithmomachia",
+"aliases": [
+"Arithmomachia",
+"Rithmomachy",
+"Rythmomachy",
+"The Philosophers' Game"
+],
+"links": 10
+},
+{
+"name": "San Juan",
+"aliases": [],
+"links": 10
+},
+{
+"name": "shatar",
+"aliases": [
+"Mongolia chess",
+"Mongolian chess"
+],
+"links": 10
+},
+{
+"name": "Space Hulk",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Surakarta",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Takenoko",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Terra Mystica",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tikal",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Triominoes",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Word chain",
+"aliases": [],
+"links": 10
+},
+{
+"name": "ZÈRTZ",
+"aliases": [
+"ZERTZ"
+],
+"links": 10
+},
+{
+"name": "Acquire",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Auf Achse",
+"aliases": [],
+"links": 9
+},
+{
+"name": "bagatelle",
+"aliases": [
+"Corinthian Bagatelle"
+],
+"links": 9
+},
+{
+"name": "Civilization",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Doom: The Boardgame",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Elfenland",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Keltis",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Machi Koro",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Manhattan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Mū Tōrere",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pallanguzhi",
+"aliases": [
+"Pallankuli, Pallanguli"
+],
+"links": 9
+},
+{
+"name": "Pass the Pigs",
+"aliases": [
+"Pig Mania!"
+],
+"links": 9
+},
+{
+"name": "Pente",
+"aliases": [
+"Go Bang",
+"Gobang"
+],
+"links": 9
+},
+{
+"name": "Phutball",
+"aliases": [
+"Philosopher's Football"
+],
+"links": 9
+},
+{
+"name": "Pictionary",
+"aliases": [],
+"links": 9
+},
+{
+"name": "PÜNCT",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ricochet Robots",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Taboo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tigris and Euphrates",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Top Secret Spies",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tric Trac",
+"aliases": [
+"Backgammon",
+"Tric-Trac",
+"Trictrac"
+],
+"links": 9
+},
+{
+"name": "Tzaar",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Villa Paletti",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Alias",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Android: Netrunner",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Anti-Monopoly",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bezzerwizzer",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bul",
+"aliases": [
+"Boolik",
+"Buul",
+"Puluc"
+],
+"links": 8
+},
+{
+"name": "Colt Express",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Game of the Amazons",
+"aliases": [
+"Game of Amazons"
+],
+"links": 8
+},
+{
+"name": "Havannah",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hotel",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Istanbul",
+"aliases": [],
+"links": 8
+},
+{
+"name": "King of Tokyo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Le Havre",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Modern Art",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Neutron",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pachisi",
+"aliases": [
+"parcheesi set"
+],
+"links": 8
+},
+{
+"name": "Russian draughts",
+"aliases": [
+"Russian checkers"
+],
+"links": 8
+},
+{
+"name": "Saint Petersburg",
+"aliases": [],
+"links": 8
+},
+{
+"name": "TAMSK",
+"aliases": [],
+"links": 8
+},
+{
+"name": "The Castles of Burgundy",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Twilight Imperium",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Yota",
+"aliases": [
+"Yote"
+],
+"links": 8
+},
+{
+"name": "aeroplane chess",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Agon",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Amun-Re",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Breakthrough",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Coloretto",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cranium",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Daldøs",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Domineering",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Dune: Imperium",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Enchanted Forest",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Galaxy Trucker",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hoity Toity",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Imperial",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Java",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Junta",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lamlameta",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Looping Louie",
+"aliases": [
+"Loopin' Louie"
+],
+"links": 7
+},
+{
+"name": "Mangala",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Marrakech",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mechs vs. Minions",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mexican Train",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Neuroshima Hex!",
+"aliases": [
+"Neuroshima Hex! 3.0"
+],
+"links": 7
+},
+{
+"name": "RoboRally",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Scattergories",
+"aliases": [],
+"links": 7
+},
+{
+"name": "score four",
+"aliases": [
+"Connect Four Advanced"
+],
+"links": 7
+},
+{
+"name": "Taj Mahal",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tak",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The Landlord's Game",
+"aliases": [
+"Brer Fox an' Brer Rabbit",
+"Landlord Game"
+],
+"links": 7
+},
+{
+"name": "The Pillars of the Earth",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The Princes of Florence",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The Witcher Adventure Game",
+"aliases": [
+"Wiedźmin: Gra Przygodowa"
+],
+"links": 7
+},
+{
+"name": "TransAmerica",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Zombies!!!",
+"aliases": [],
+"links": 7
+},
+{
+"name": "1830: The Game of Railroads and Robber Barons",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Adji-boto",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ashta Chamma",
+"aliases": [
+"Chowka bhara"
+],
+"links": 6
+},
+{
+"name": "Ashtapada",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ba-awa",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Banqi",
+"aliases": [
+"Blind Chess",
+"Dark Chess",
+"Half Chess"
+],
+"links": 6
+},
+{
+"name": "Battle Masters",
+"aliases": [
+"Claymore Saga",
+"Knight Strife",
+"Masters of War",
+"the Claymore Saga"
+],
+"links": 6
+},
+{
+"name": "BattleLore",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bauernroulette",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bomb Busters",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Brass: Lancashire",
+"aliases": [
+"Brass"
+],
+"links": 6
+},
+{
+"name": "business chess",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Café International",
+"aliases": [
+"Cafe International"
+],
+"links": 6
+},
+{
+"name": "Can't Stop",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Canadian Checkers",
+"aliases": [
+"Canadian draughts"
+],
+"links": 6
+},
+{
+"name": "Cartagena",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cascadia",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cosmic Encounter",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Crocodile Dentist",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Djambi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dune",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eclipse",
+"aliases": [
+"Eclipse: New Dawn for the Galaxy"
+],
+"links": 6
+},
+{
+"name": "egg dance",
+"aliases": [],
+"links": 6
+},
+{
+"name": "EinStein würfelt nicht!",
+"aliases": [
+"EinStein does not play dice"
+],
+"links": 6
+},
+{
+"name": "Eldritch Horror",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Europa Universalis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Flames of War",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Formula D",
+"aliases": [
+"Formula Dé"
+],
+"links": 6
+},
+{
+"name": "Great Western Trail",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hare games",
+"aliases": [
+"Catch the Alien",
+"Catch the Giant",
+"French Military Game",
+"Game of Dwarves",
+"Hare and hounds",
+"Pumpkin Hunter",
+"Rodent Roundup",
+"The Devil among tailors",
+"The Soldiers' Game"
+],
+"links": 6
+},
+{
+"name": "Ingenious",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kamisado",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Layli Goobalay",
+"aliases": [
+"Layli Goobaly"
+],
+"links": 6
+},
+{
+"name": "Lost Ruins of Arnak",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Metro",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mexica",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mouse Trap",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Operation",
+"aliases": [
+"Operation game"
+],
+"links": 6
+},
+{
+"name": "Qubic",
+"aliases": [
+"3D tic-tac-toe"
+],
+"links": 6
+},
+{
+"name": "Railway Rivals",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Root",
+"aliases": [
+"Root: A Game of Woodland Might and Right"
+],
+"links": 6
+},
+{
+"name": "Salta",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shadows Over Camelot",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shengguan Tu",
+"aliases": [
+"Promoting Officials",
+"Table of Bureaucratic Promotion"
+],
+"links": 6
+},
+{
+"name": "Sherlock Holmes Consulting Detective",
+"aliases": [
+"Consulting Detective",
+"SHCD",
+"Sherlock Holmes"
+],
+"links": 6
+},
+{
+"name": "Sho",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shogun",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shove ha'penny",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sky Team",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Space Crusade",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tables game",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Take It Easy",
+"aliases": [
+"Take it Easy!"
+],
+"links": 6
+},
+{
+"name": "Teeko",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Terrace",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Torres",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ubongo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Um Reifenbreite",
+"aliases": [],
+"links": 6
+},
+{
+"name": "War of the Ring",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Zombicide",
+"aliases": [],
+"links": 6
+},
+{
+"name": "13 Dead End Drive",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Adugo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ali Guli Mane",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Balderdash",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Barbarossa",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Betrayal at House on the Hill",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Blood Rage",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Britannia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Car Wars",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cathedral",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chapayev",
+"aliases": [
+"Chapaev"
+],
+"links": 5
+},
+{
+"name": "Civilization: The Boardgame",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Clans",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Commander Chess",
+"aliases": [
+"co tu lenh",
+"cờ tư lệnh"
+],
+"links": 5
+},
+{
+"name": "Concept",
+"aliases": [
+"Yerkish charades"
+],
+"links": 5
+},
+{
+"name": "Das Bohnenspiel",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dorfromantik: The Board Game",
+"aliases": [
+"Dorfromantik"
+],
+"links": 5
+},
+{
+"name": "Dungeon!",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fearsome Floors",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Five Tribes: The Djinns of Naqala",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Forbidden Island",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fresco",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hawalis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hecatomb",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Heroscape",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hungry Hungry Hippos",
+"aliases": [],
+"links": 5
+},
+{
+"name": "jacquet",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kensington",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Key Largo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Khanhoo",
+"aliases": [
+"Kanhu"
+],
+"links": 5
+},
+{
+"name": "Living Forest",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lord of the Rings",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Louis XIV",
+"aliases": [],
+"links": 5
+},
+{
+"name": "LYNGK",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mage Knight",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Malefiz",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mississippi Queen",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mysterium",
+"aliases": [],
+"links": 5
+},
+{
+"name": "ouk chatrang",
+"aliases": [
+"Cambodian chess",
+"ouk chaktrang"
+],
+"links": 5
+},
+{
+"name": "patrol chess",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pictures",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pig",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ra",
+"aliases": [
+"Reiner Knizia's Ra"
+],
+"links": 5
+},
+{
+"name": "Robinson Crusoe: Adventures on the Cursed Island",
+"aliases": [],
+"links": 5
+},
+{
+"name": "San Marco",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sequence",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Shax",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Shogun",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sorry!",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Suffragetto",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sushi Go!",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Thai checkers",
+"aliases": [
+"Mak-hot",
+"Makhos",
+"Thai droughts"
+],
+"links": 5
+},
+{
+"name": "The Crew: The Quest for Planet Nine",
+"aliases": [
+"The Crew"
+],
+"links": 5
+},
+{
+"name": "The game of fortress and siege",
+"aliases": [],
+"links": 5
+},
+{
+"name": "The Legends of Andor",
+"aliases": [
+"Andor",
+"Legends of Andor"
+],
+"links": 5
+},
+{
+"name": "The Quacks of Quedlinburg",
+"aliases": [],
+"links": 5
+},
+{
+"name": "The Voyages of Marco Polo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Thud",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Trouble",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tsuro",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Village",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Warhammer Quest",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Warzone",
+"aliases": [],
+"links": 5
+},
+{
+"name": "World of Warcraft: The Board Game",
+"aliases": [],
+"links": 5
+}
+]

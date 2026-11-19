@@ -103,30 +103,6 @@
   padding-top: 1vh;
 }
 
-.gameTitle {
-  margin: 0;
-  font-family: var(--sans);
-  font-size: clamp(60px, 12vw, 140px);
-  font-weight: 800;
-  line-height: 0.9;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  padding-left: 0.12em;
-  background: linear-gradient(180deg, #fff8ec 0%, #ffd18a 45%, #ff8a3c 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  filter: drop-shadow(0 4px 24px rgb(255 140 60 / 0.35)) drop-shadow(0 1px 0 rgb(80 30 60 / 0.6));
-  animation: title-in 1s cubic-bezier(0.2, 0.8, 0.2, 1) both;
-}
-
-@keyframes title-in {
-  from {
-    opacity: 0;
-    letter-spacing: 0.3em;
-  }
-}
-
 .briefSub {
   margin: 14px 0 0;
   display: grid;
@@ -809,7 +785,6 @@
 
 @media (prefers-reduced-motion: reduce) {
   .countNum,
-  .gameTitle,
   .liftBtn,
   .liftBtn::before,
   .ore,

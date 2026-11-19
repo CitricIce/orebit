@@ -1,0 +1,509 @@
+[
+{
+"name": "Thor",
+"aliases": [
+"Donar",
+"Thunor",
+"Ðunor",
+"Þunor",
+"Þórr"
+],
+"links": 105
+},
+{
+"name": "Odin",
+"aliases": [
+"Othin",
+"Wodin"
+],
+"links": 100
+},
+{
+"name": "Freyja",
+"aliases": [
+"Freia",
+"Freya",
+"Freyia",
+"Vanadis",
+"Vanadís"
+],
+"links": 80
+},
+{
+"name": "Loki",
+"aliases": [
+"Hveðrungr",
+"Logi",
+"Loki Laufeyjarson",
+"Loki Laufeyson"
+],
+"links": 79
+},
+{
+"name": "Frigg",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Baldur",
+"aliases": [
+"Balder",
+"Baldr"
+],
+"links": 68
+},
+{
+"name": "Tyr",
+"aliases": [
+"Tui",
+"Týr"
+],
+"links": 62
+},
+{
+"name": "Æsir",
+"aliases": [
+"Aesier",
+"Asier",
+"Áss",
+"Ēse",
+"Ōs"
+],
+"links": 62
+},
+{
+"name": "Hel",
+"aliases": [
+"Hela",
+"Hell"
+],
+"links": 57
+},
+{
+"name": "Heimdall",
+"aliases": [
+"Heimdal",
+"Heimdali",
+"Heimdallr",
+"Heimdalr",
+"Vindhlér"
+],
+"links": 55
+},
+{
+"name": "Njord",
+"aliases": [
+"Niord",
+"Njörðr"
+],
+"links": 54
+},
+{
+"name": "Freyr",
+"aliases": [
+"Frey"
+],
+"links": 53
+},
+{
+"name": "Bragi",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Forseti",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Höðr",
+"aliases": [
+"Hodhr",
+"Høder"
+],
+"links": 46
+},
+{
+"name": "Iðunn",
+"aliases": [
+"Idun",
+"Iduna",
+"Idunn",
+"Idunna",
+"Ithun",
+"Ithunn",
+"Iðun",
+"Iðuna",
+"Iðunna"
+],
+"links": 46
+},
+{
+"name": "Ægir",
+"aliases": [
+"Hlér"
+],
+"links": 46
+},
+{
+"name": "Ull",
+"aliases": [
+"Ullr"
+],
+"links": 43
+},
+{
+"name": "Víðarr",
+"aliases": [
+"Vidar",
+"Vidarr",
+"Vithar",
+"Vitharr"
+],
+"links": 43
+},
+{
+"name": "Mímir",
+"aliases": [
+"Mim",
+"Mimir"
+],
+"links": 41
+},
+{
+"name": "Skaði",
+"aliases": [
+"Skade",
+"Skadi",
+"Skathi",
+"Öndurdís",
+"Öndurguð"
+],
+"links": 41
+},
+{
+"name": "Hœnir",
+"aliases": [
+"Honir",
+"Hænir"
+],
+"links": 39
+},
+{
+"name": "Sól",
+"aliases": [
+"Sol",
+"Sunna"
+],
+"links": 39
+},
+{
+"name": "Jörð",
+"aliases": [
+"Erda",
+"Jord"
+],
+"links": 37
+},
+{
+"name": "Rán",
+"aliases": [
+"Ran"
+],
+"links": 37
+},
+{
+"name": "Váli",
+"aliases": [
+"Áli"
+],
+"links": 37
+},
+{
+"name": "Hermod",
+"aliases": [
+"Hermodeus",
+"Hermód"
+],
+"links": 36
+},
+{
+"name": "Nanna",
+"aliases": [
+"Nanna Nepsdottir",
+"Nanna Nepsdóttir"
+],
+"links": 36
+},
+{
+"name": "Sigyn",
+"aliases": [
+"Sigryn",
+"Siguna",
+"Sigunn"
+],
+"links": 35
+},
+{
+"name": "Kvasir",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Gerðr",
+"aliases": [
+"Gerd"
+],
+"links": 33
+},
+{
+"name": "Fulla",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Gefjon",
+"aliases": [
+"Gefjun"
+],
+"links": 32
+},
+{
+"name": "Dellingr",
+"aliases": [
+"Delling"
+],
+"links": 31
+},
+{
+"name": "Vili",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Óðr",
+"aliases": [
+"Od",
+"Odhr",
+"Odr",
+"Odur",
+"Oðr",
+"Wothuz",
+"Wōþuz",
+"Ód",
+"Ódr"
+],
+"links": 28
+},
+{
+"name": "Hlín",
+"aliases": [
+"Hlin"
+],
+"links": 27
+},
+{
+"name": "Snotra",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Lóðurr",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Eir",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Vár",
+"aliases": [
+"Var"
+],
+"links": 25
+},
+{
+"name": "Laufey",
+"aliases": [
+"Nal",
+"Nál"
+],
+"links": 24
+},
+{
+"name": "Lofn",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Meili",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Vör",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Gná",
+"aliases": [
+"Gna"
+],
+"links": 23
+},
+{
+"name": "Sjöfn",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Vé",
+"aliases": [
+"Ve"
+],
+"links": 23
+},
+{
+"name": "Syn",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sága",
+"aliases": [
+"Saga"
+],
+"links": 21
+},
+{
+"name": "Móði",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Magni",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Gaut",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Kári",
+"aliases": [
+"Kari"
+],
+"links": 11
+},
+{
+"name": "Njörun",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ríg",
+"aliases": [
+"Rig"
+],
+"links": 11
+},
+{
+"name": "Annar",
+"aliases": [
+"Onar",
+"Ónar"
+],
+"links": 10
+},
+{
+"name": "Fjörgyn",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Glenr",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ilmr",
+"aliases": [
+"Ilm"
+],
+"links": 8
+},
+{
+"name": "Ásynjur",
+"aliases": [
+"Asynjur",
+"Ásynja"
+],
+"links": 8
+},
+{
+"name": "Fjörgynn",
+"aliases": [
+"Fjorgynn"
+],
+"links": 5
+},
+{
+"name": "Nepr",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ingunar-Freyr",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sister-wife of Njörðr",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Þorgerðr Hölgabrúðr",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Alako",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Alfadur",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Irpa",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Sons of Odin",
+"aliases": [
+"son of Odin",
+"the son of Odin",
+"the sons of Odin"
+],
+"links": 1
+},
+{
+"name": "Veraldur",
+"aliases": [],
+"links": 1
+},
+{
+"name": "Öku-Thor",
+"aliases": [],
+"links": 1
+}
+]

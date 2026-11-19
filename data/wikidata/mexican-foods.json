@@ -1,0 +1,675 @@
+[
+{
+"name": "taco",
+"aliases": [
+"chicken tacos",
+"fish tacos",
+"ground beef tacos",
+"shrimp tacos",
+"Tacos",
+"tacos al pastor",
+"tacos carne asada",
+"tacos de chorizo"
+],
+"links": 73
+},
+{
+"name": "burrito",
+"aliases": [],
+"links": 59
+},
+{
+"name": "nachos",
+"aliases": [],
+"links": 56
+},
+{
+"name": "chili",
+"aliases": [
+"chili con carne"
+],
+"links": 50
+},
+{
+"name": "quesadilla",
+"aliases": [],
+"links": 44
+},
+{
+"name": "enchilada",
+"aliases": [],
+"links": 43
+},
+{
+"name": "fajita",
+"aliases": [],
+"links": 36
+},
+{
+"name": "pico de gallo",
+"aliases": [
+"encebollado",
+"salsa cruda",
+"salsa fresca"
+],
+"links": 28
+},
+{
+"name": "wrap",
+"aliases": [
+"roll",
+"tunnbrödsrulle"
+],
+"links": 28
+},
+{
+"name": "chipotle",
+"aliases": [
+"chilpotle",
+"Chipotle pepper"
+],
+"links": 27
+},
+{
+"name": "chimichanga",
+"aliases": [
+"bufriedo",
+"chivichanga",
+"deep-fried burrito"
+],
+"links": 24
+},
+{
+"name": "pozole",
+"aliases": [
+"pozoluquis"
+],
+"links": 23
+},
+{
+"name": "wafer cookie",
+"aliases": [
+"galletas suizas",
+"oblaten",
+"oblatne",
+"oblea"
+],
+"links": 19
+},
+{
+"name": "tostada",
+"aliases": [],
+"links": 18
+},
+{
+"name": "chiles en nogada",
+"aliases": [],
+"links": 17
+},
+{
+"name": "huevos rancheros",
+"aliases": [],
+"links": 17
+},
+{
+"name": "pan de muerto",
+"aliases": [],
+"links": 17
+},
+{
+"name": "refried beans",
+"aliases": [],
+"links": 17
+},
+{
+"name": "birria",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Menudo",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Taco al pastor",
+"aliases": [
+"Taco de trompo",
+"Tacos al pastor",
+"Tacos de trompo"
+],
+"links": 14
+},
+{
+"name": "taquito",
+"aliases": [
+"flauta",
+"taco dorado"
+],
+"links": 14
+},
+{
+"name": "Calavera",
+"aliases": [
+"Sugar skull"
+],
+"links": 12
+},
+{
+"name": "tlayuda",
+"aliases": [],
+"links": 12
+},
+{
+"name": "carnitas",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Champurrado",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Sope",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Clamato",
+"aliases": [],
+"links": 10
+},
+{
+"name": "concha",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Lime soup",
+"aliases": [
+"sopa de lima"
+],
+"links": 10
+},
+{
+"name": "Mexican rice",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rompope",
+"aliases": [],
+"links": 10
+},
+{
+"name": "totopo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "wheat tortilla",
+"aliases": [
+"flour tortilla"
+],
+"links": 10
+},
+{
+"name": "bolillo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Chile relleno",
+"aliases": [],
+"links": 9
+},
+{
+"name": "gordita",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Memela",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sonoran hot dog",
+"aliases": [],
+"links": 9
+},
+{
+"name": "tortilla soup",
+"aliases": [],
+"links": 9
+},
+{
+"name": "walnut soup",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Aguachile",
+"aliases": [
+"agua chile",
+"agua chiles",
+"aguachiles",
+"aguas chile",
+"aguas chiles"
+],
+"links": 8
+},
+{
+"name": "alambre",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Caldo tlalpeño",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Capirotada",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Huachinango a la Veracruzana",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Huevos motuleños",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Machaca",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Torta Ahogada",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cabrito",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cemita",
+"aliases": [
+"Cema",
+"Sema",
+"Semita"
+],
+"links": 7
+},
+{
+"name": "Corunda",
+"aliases": [
+"Corundas"
+],
+"links": 7
+},
+{
+"name": "elote",
+"aliases": [
+"corn on the cob",
+"Mexican corn",
+"Mexican street corn",
+"street corn"
+],
+"links": 7
+},
+{
+"name": "Guajolota",
+"aliases": [],
+"links": 7
+},
+{
+"name": "maize bread",
+"aliases": [
+"corn bread",
+"mealie bread"
+],
+"links": 7
+},
+{
+"name": "Mole poblano",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pambazo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Taco pizza",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Arroz a la tumbada",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Arroz poblano",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Caldo de siete mares",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Korean taco",
+"aliases": [],
+"links": 6
+},
+{
+"name": "quesabirria",
+"aliases": [
+"quesotacos",
+"red tacos"
+],
+"links": 6
+},
+{
+"name": "Tinga",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Al ajillo",
+"aliases": [
+"Ajijo"
+],
+"links": 5
+},
+{
+"name": "Caldo Xóchitl",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cocol",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Discada",
+"aliases": [
+"cowboy wok",
+"plowdisc cooker"
+],
+"links": 5
+},
+{
+"name": "Gansito",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mexican bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nopalito",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Paste",
+"aliases": [
+"pastes"
+],
+"links": 5
+},
+{
+"name": "Puntas",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sincronizada",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bionico",
+"aliases": [],
+"links": 4
+},
+{
+"name": "chahuis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chicharrón en salsa",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Flauta",
+"aliases": [
+"tacos dorados"
+],
+"links": 4
+},
+{
+"name": "Huevos a la mexicana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rajas con crema",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Burro percherón",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Calabacitas con puerco",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Caldo de pollo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Carlos V chocolate bar",
+"aliases": [
+"Carlos V"
+],
+"links": 3
+},
+{
+"name": "Cochinito de Piloncillo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "danger dog",
+"aliases": [
+"bacon-wrapped hot dog"
+],
+"links": 3
+},
+{
+"name": "Encacahuatado",
+"aliases": [],
+"links": 3
+},
+{
+"name": "escabeche oriental",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Manchamanteles",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mazapán de la Rosa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mexican pizza",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mextlapique",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Morisqueta",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pulpo a la campechana",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Relleno Negro",
+"aliases": [
+"Chilmole"
+],
+"links": 3
+},
+{
+"name": "Sinaloan sushi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "birote",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Borracho beans",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Carne polaca",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chanclas poblanas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chicharrón de la Ramos",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chilpachole",
+"aliases": [],
+"links": 2
+},
+{
+"name": "chocolate sandwich",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cortadillo norteño",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cueritos",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Enfrijoladas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "huevos al albañil",
+"aliases": [
+"bricklayer-style eggs"
+],
+"links": 2
+},
+{
+"name": "Huevos divorciados",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jaibas rellenas",
+"aliases": [],
+"links": 2
+},
+{
+"name": "marquesote",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mollete",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nieve",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Plátanos rellenos",
+"aliases": [
+"Platanos rellenos"
+],
+"links": 2
+},
+{
+"name": "Tacos de lengua",
+"aliases": [
+"beef tongue tacos",
+"tongue tacos"
+],
+"links": 2
+},
+{
+"name": "Tacos gobernador",
+"aliases": [
+"Governor tacos",
+"the governor's tacos"
+],
+"links": 2
+},
+{
+"name": "Tikin Xic",
+"aliases": [],
+"links": 2
+}
+]
