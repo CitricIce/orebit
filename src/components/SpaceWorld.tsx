@@ -24,6 +24,10 @@ type PlanetState = "ahead" | "visible" | "passed";
  * of the image height. Measured from the paths below. */
 const ROCK_SURFACE = [0.06, 0.0726, 0.0489];
 
+/** Slope of each rock's surface at the landing spot, in degrees clockwise.
+ * The landed rocket tilts by this much so it stands square to the ground. */
+const ROCK_TILT = [-2.9, -12, -5.3];
+
 const ROCK_PATHS = [
   "M104 12 C140 10 172 34 184 70 C196 106 186 146 156 170 C128 192 84 194 52 176 C22 160 8 124 14 90 C20 54 46 28 74 18 C84 14 94 12 104 12 Z",
   "M96 16 C132 6 176 26 188 64 C198 98 180 120 182 146 C184 172 150 192 112 188 C76 186 40 182 22 150 C6 122 14 92 24 66 C36 38 66 24 96 16 Z",
@@ -205,12 +209,14 @@ function RingedPlanet() {
   );
 }
 
-/** Surface heights (y in the 200-unit drawing) where crystal clusters sit,
- * for each outline: [left x, left y, right x, right y]. Measured from paths. */
-const CRYSTAL_SPOTS: [number, number, number, number][] = [
-  [72, 18.2, 146, 21.4],
-  [72, 23.4, 146, 19.2],
-  [72, 16.9, 146, 23.7],
+/** Where crystal clusters grow on each outline, measured from the paths:
+ * [x, surface y, surface slope in degrees] for the left and right cluster.
+ * Each cluster turns by the slope so it grows straight out of the rock. */
+type Spot = [number, number, number];
+const CRYSTAL_SPOTS: [Spot, Spot][] = [
+  [[72, 18.7, -21.1], [146, 22.1, 30.1]],
+  [[72, 23.9, -22.2], [146, 19.7, 22.6]],
+  [[72, 17.4, -22.9], [146, 24.4, 33.4]],
 ];
 
 /** Craters: [cx, cy, r]. Kept away from the landing spot at the top center. */
@@ -234,9 +240,10 @@ function seededDots(seed: number, n: number): [number, number, number, boolean][
 }
 
 /** A crystal cluster growing out of the surface at (x, y). */
-function Crystals({ x, y, ore, flip, glow }: { x: number; y: number; ore: string; flip?: boolean; glow: string }) {
+function Crystals({ spot, ore, flip, glow }: { spot: Spot; ore: string; flip?: boolean; glow: string }) {
+  const [x, y, angle] = spot;
   return (
-    <g transform={`translate(${x} ${y + 1}) scale(${flip ? -0.65 : 0.65} 0.65)`}>
+    <g transform={`translate(${x} ${y}) rotate(${angle}) translate(0 1.2) scale(${flip ? -0.65 : 0.65} 0.65)`}>
       <ellipse cx="0" cy="-3" rx="11" ry="7" fill={ore} opacity="0.45" filter={glow} />
       <path d="M-6 0 L-4 -13 L-1 0 Z" fill={ore} />
       <path d="M-4 -13 L-1 0 L-3 0 Z" fill="#fff" opacity="0.45" />
@@ -254,7 +261,7 @@ function Asteroid({ i }: { i: number }) {
   const ore = stop.ore;
   const shape = i % ROCK_PATHS.length;
   const path = ROCK_PATHS[shape];
-  const [lx, ly, rx, ry] = CRYSTAL_SPOTS[shape];
+  const [left, right] = CRYSTAL_SPOTS[shape];
   const dots = useMemo(() => seededDots(i + 3, 70), [i]);
   return (
     <svg className={s.rockSvg} viewBox="0 0 200 200" style={{ "--ore": ore } as React.CSSProperties}>
@@ -325,8 +332,8 @@ function Asteroid({ i }: { i: number }) {
       </g>
       {/* Sunlit rim along the upper-right edge */}
       <path d={path} fill="none" stroke={`url(#${u("rim")})`} strokeWidth="2.4" />
-      <Crystals x={lx} y={ly} ore={ore} glow={`url(#${u("glow")})`} />
-      <Crystals x={rx} y={ry} ore={ore} flip glow={`url(#${u("glow")})`} />
+      <Crystals spot={left} ore={ore} glow={`url(#${u("glow")})`} />
+      <Crystals spot={right} ore={ore} flip glow={`url(#${u("glow")})`} />
     </svg>
   );
 }
@@ -365,7 +372,14 @@ export default function SpaceWorld({
   const rocket = rocketState(world);
 
   return createPortal(
-    <div className={s.world} data-world={world} data-time={time} data-armed={armed && world === "ground"} aria-hidden="true">
+    <div
+      className={s.world}
+      data-world={world}
+      data-time={time}
+      data-armed={armed && world === "ground"}
+      style={{ "--tilt": `${ROCK_TILT[Math.max(0, target) % ROCK_TILT.length]}deg` } as React.CSSProperties}
+      aria-hidden="true"
+    >
       <div className={s.starsFar} />
       <div className={s.stars} />
       <div className={s.sky} data-s={earth}>

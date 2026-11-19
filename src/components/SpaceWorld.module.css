@@ -267,7 +267,9 @@
   height: 160px;
   margin-left: -32px;
   z-index: 3;
-  transition: bottom 1s ease;
+  /* Pivot between the feet (80% down the element). */
+  transform-origin: 50% 80%;
+  transition: bottom 1s ease, rotate 1.2s ease;
 }
 
 .rocket[data-s="rise"] {
@@ -277,24 +279,26 @@
 
 .rocket[data-s="cruise"] {
   bottom: 46vh;
-  transition: bottom 1.8s cubic-bezier(0.45, 0, 0.25, 1);
+  transition: bottom 1.8s cubic-bezier(0.45, 0, 0.25, 1), rotate 1.2s ease;
 }
 
 /* Feet sit 32px above the element's bottom, so this puts them at 74vh. */
 .rocket[data-s="descent"],
 .rocket[data-s="landed"] {
   bottom: calc(26vh - 32px);
+  /* Stand square to the rock's surface, which slopes at the landing spot. */
+  rotate: var(--tilt, 0deg);
 }
 
 /* Coasting behind the mission report: the rocket fades so it doesn't
    compete with the results. */
 .world[data-world="space"] .rocket {
   opacity: 0;
-  transition: bottom 1.8s ease, opacity 1s ease 0.4s;
+  transition: bottom 1.8s ease, opacity 1s ease 0.4s, rotate 1.2s ease;
 }
 
 .rocket[data-s="descent"] {
-  transition: bottom 2.6s cubic-bezier(0.3, 0, 0.25, 1);
+  transition: bottom 2.6s cubic-bezier(0.3, 0, 0.25, 1), rotate 2.6s cubic-bezier(0.3, 0, 0.25, 1);
 }
 
 .rocketSvg {
