@@ -1,5 +1,6 @@
 "use client";
 
+import { useSvgIds } from "@/lib/client/useSvgIds";
 import { FAR, FAR_BACK, FAR_RIDGE, MID, MID_RIDGE, NEAR, NEAR_FLORA, NEAR_RIDGE } from "@/lib/terrain";
 import s from "./Landscape.module.css";
 
@@ -54,6 +55,7 @@ const FORE_PLANTS: { left: string; size: number; kind: Kind; flip?: boolean }[] 
 ];
 
 function ForePlant({ left, size, kind, flip, i }: (typeof FORE_PLANTS)[number] & { i: number }) {
+  const u = useSvgIds();
   return (
     <svg
       className={s.forePlant}
@@ -61,11 +63,11 @@ function ForePlant({ left, size, kind, flip, i }: (typeof FORE_PLANTS)[number] &
       style={{ left, width: size, height: size * 1.2, transform: flip ? "scaleX(-1)" : undefined }}
     >
       <defs>
-        <filter id={`fp-glow-${i}`} x="-100%" y="-100%" width="300%" height="300%">
+        <filter id={u(`fp-glow-${i}`)} x="-100%" y="-100%" width="300%" height="300%">
           <feGaussianBlur stdDeviation="2.5" />
         </filter>
       </defs>
-      <Plant kind={kind} glow={`url(#fp-glow-${i})`} />
+      <Plant kind={kind} glow={`url(#${u(`fp-glow-${i}`)})`} />
     </svg>
   );
 }
@@ -75,61 +77,62 @@ function ForePlant({ left, size, kind, flip, i }: (typeof FORE_PLANTS)[number] &
  * ground) each drop away at their own speed when the rocket lifts off.
  */
 export default function Landscape({ state }: { state: "here" | "falling" | "gone" }) {
+  const u = useSvgIds();
   return (
     <div className={s.land} data-s={state}>
       <svg className={s.far} viewBox="0 0 1600 300" preserveAspectRatio="xMidYMax slice">
         <defs>
-          <linearGradient id="ls-far" x1="0" y1="0" x2="0" y2="1">
+          <linearGradient id={u("ls-far")} x1="0" y1="0" x2="0" y2="1">
             <stop offset="0" stopColor="#d77a9c" />
             <stop offset="0.6" stopColor="#b8608f" />
             <stop offset="1" stopColor="#f2a083" />
           </linearGradient>
-          <linearGradient id="ls-far-back" x1="0" y1="0" x2="0" y2="1">
+          <linearGradient id={u("ls-far-back")} x1="0" y1="0" x2="0" y2="1">
             <stop offset="0" stopColor="#e99aa4" />
             <stop offset="1" stopColor="#ffbe8e" />
           </linearGradient>
-          <linearGradient id="ls-rim" x1="0" y1="0" x2="1" y2="0">
+          <linearGradient id={u("ls-rim")} x1="0" y1="0" x2="1" y2="0">
             <stop offset="0" stopColor="#ffd3a0" stopOpacity="0" />
             <stop offset="0.7" stopColor="#ffd3a0" stopOpacity="0.5" />
             <stop offset="1" stopColor="#fff0d0" stopOpacity="0.9" />
           </linearGradient>
         </defs>
-        <path d={FAR_BACK} fill="url(#ls-far-back)" opacity="0.75" />
-        <path d={FAR} fill="url(#ls-far)" />
-        <path d={FAR_RIDGE} fill="none" stroke="url(#ls-rim)" strokeWidth="2" />
+        <path d={FAR_BACK} fill={`url(#${u("ls-far-back")})`} opacity="0.75" />
+        <path d={FAR} fill={`url(#${u("ls-far")})`} />
+        <path d={FAR_RIDGE} fill="none" stroke={`url(#${u("ls-rim")})`} strokeWidth="2" />
       </svg>
 
       <svg className={s.mid} viewBox="0 0 1600 220" preserveAspectRatio="xMidYMax slice">
         <defs>
-          <linearGradient id="ls-mid" x1="0" y1="0" x2="0" y2="1">
+          <linearGradient id={u("ls-mid")} x1="0" y1="0" x2="0" y2="1">
             <stop offset="0" stopColor="#7a4a92" />
             <stop offset="1" stopColor="#3b2a66" />
           </linearGradient>
-          <linearGradient id="ls-haze" x1="0" y1="0" x2="0" y2="1">
+          <linearGradient id={u("ls-haze")} x1="0" y1="0" x2="0" y2="1">
             <stop offset="0.55" stopColor="#f2a083" stopOpacity="0" />
             <stop offset="1" stopColor="#d77a9c" stopOpacity="0.55" />
           </linearGradient>
         </defs>
-        <path d={MID} fill="url(#ls-mid)" />
-        <path d={MID_RIDGE} fill="none" stroke="url(#ls-rim)" strokeWidth="2.5" />
-        <rect width="1600" height="220" fill="url(#ls-haze)" />
+        <path d={MID} fill={`url(#${u("ls-mid")})`} />
+        <path d={MID_RIDGE} fill="none" stroke={`url(#${u("ls-rim")})`} strokeWidth="2.5" />
+        <rect width="1600" height="220" fill={`url(#${u("ls-haze")})`} />
       </svg>
 
       <svg className={s.near} viewBox="0 0 1600 160" preserveAspectRatio="xMidYMax slice">
         <defs>
-          <linearGradient id="ls-near" x1="0" y1="0" x2="0" y2="1">
+          <linearGradient id={u("ls-near")} x1="0" y1="0" x2="0" y2="1">
             <stop offset="0" stopColor="#226068" />
             <stop offset="1" stopColor="#123048" />
           </linearGradient>
-          <filter id="ls-glow" x="-100%" y="-100%" width="300%" height="300%">
+          <filter id={u("ls-glow")} x="-100%" y="-100%" width="300%" height="300%">
             <feGaussianBlur stdDeviation="3" />
           </filter>
         </defs>
-        <path d={NEAR} fill="url(#ls-near)" />
-        <path d={NEAR_RIDGE} fill="none" stroke="url(#ls-rim)" strokeWidth="2" opacity="0.8" />
+        <path d={NEAR} fill={`url(#${u("ls-near")})`} />
+        <path d={NEAR_RIDGE} fill="none" stroke={`url(#${u("ls-rim")})`} strokeWidth="2" opacity="0.8" />
         {NEAR_FLORA.map((p, i) => (
           <g key={i} transform={`translate(${p.x} ${p.y}) scale(${p.s * 1.6})`}>
-            <Plant kind={p.kind} glow="url(#ls-glow)" />
+            <Plant kind={p.kind} glow={`url(#${u("ls-glow")})`} />
           </g>
         ))}
       </svg>
@@ -137,12 +140,12 @@ export default function Landscape({ state }: { state: "here" | "falling" | "gone
       <div className={s.ground}>
         <svg className={s.groundSvg} viewBox="0 0 1600 130" preserveAspectRatio="none">
           <defs>
-            <linearGradient id="ls-ground" x1="0" y1="0" x2="0" y2="1">
+            <linearGradient id={u("ls-ground")} x1="0" y1="0" x2="0" y2="1">
               <stop offset="0" stopColor="#173048" />
               <stop offset="1" stopColor="#070f1a" />
             </linearGradient>
           </defs>
-          <path d="M0 22 C200 6 420 24 600 14 L1000 14 C1180 24 1400 6 1600 20 L1600 130 L0 130 Z" fill="url(#ls-ground)" />
+          <path d="M0 22 C200 6 420 24 600 14 L1000 14 C1180 24 1400 6 1600 20 L1600 130 L0 130 Z" fill={`url(#${u("ls-ground")})`} />
           <path
             d="M0 22 C200 6 420 24 600 14 L1000 14 C1180 24 1400 6 1600 20"
             fill="none"
@@ -207,13 +210,13 @@ export default function Landscape({ state }: { state: "here" | "falling" | "gone
         ))}
         <svg className={s.pad} viewBox="0 0 160 120">
           <defs>
-            <linearGradient id="ls-metal" x1="0" x2="0" y1="0" y2="1">
+            <linearGradient id={u("ls-metal")} x1="0" x2="0" y1="0" y2="1">
               <stop offset="0" stopColor="#6c6680" />
               <stop offset="1" stopColor="#2a2535" />
             </linearGradient>
           </defs>
           {/* Tower */}
-          <rect x="22" y="8" width="10" height="94" fill="url(#ls-metal)" />
+          <rect x="22" y="8" width="10" height="94" fill={`url(#${u("ls-metal")})`} />
           <path
             d="M22 14 L32 26 M32 26 L22 38 M22 38 L32 50 M32 50 L22 62 M22 62 L32 74 M32 74 L22 86 M22 86 L32 98"
             stroke="#1b1724"
@@ -223,7 +226,7 @@ export default function Landscape({ state }: { state: "here" | "falling" | "gone
           <rect x="32" y="56" width="20" height="3" fill="#6c6680" />
           <circle className={s.beacon} cx="27" cy="6" r="3" fill="#ff4b5c" />
           {/* Platform */}
-          <path d="M20 100 H140 L134 112 H26 Z" fill="url(#ls-metal)" />
+          <path d="M20 100 H140 L134 112 H26 Z" fill={`url(#${u("ls-metal")})`} />
           <rect x="20" y="99" width="120" height="2" fill="#ffb547" opacity="0.8" />
           <circle className={s.light} cx="34" cy="106" r="1.8" fill="#6ff3e6" />
           <circle className={s.light} cx="126" cy="106" r="1.8" fill="#6ff3e6" style={{ animationDelay: "0.6s" }} />

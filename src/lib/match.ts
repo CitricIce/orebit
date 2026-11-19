@@ -3,14 +3,49 @@
  * scripts/build_categories.py so build-time dedupe and runtime lookups agree.
  */
 
-export function normalize(text: string): string {
+const ROMAN: Record<string, string> = {
+  i: "1", ii: "2", iii: "3", iv: "4", v: "5", vi: "6", vii: "7", viii: "8", ix: "9", x: "10",
+  xi: "11", xii: "12", xiii: "13", xiv: "14", xv: "15", xvi: "16", xvii: "17", xviii: "18", xix: "19", xx: "20",
+};
+const NUMBER_WORDS = [
+  "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
+  "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty",
+];
+const ORDINALS = [
+  "", "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth",
+  "eleventh", "twelfth", "thirteenth", "fourteenth", "fifteenth", "sixteenth", "seventeenth", "eighteenth",
+  "nineteenth", "twentieth",
+];
+const NUMBERS: Record<string, string> = { ...ROMAN };
+NUMBER_WORDS.forEach((w, n) => (NUMBERS[w] = String(n)));
+ORDINALS.forEach((w, n) => {
+  if (w) NUMBERS[w] = String(n);
+});
+for (let n = 1; n <= 20; n++) {
+  NUMBERS[`${n}${n === 1 ? "st" : n === 2 ? "nd" : n === 3 ? "rd" : "th"}`] = String(n);
+}
+
+/** Little words people add or drop without meaning anything different. */
+const FILLER = new Set(["the", "a", "an", "of", "and", "part"]);
+
+/**
+ * Words of a name after cleanup: lowercase, no accents or punctuation,
+ * numbers in one form (IV, four, fourth and 4 all become "4") and filler
+ * words dropped. Must match normalize_words() in scripts/build_categories.py.
+ */
+export function normalizeWords(text: string): string[] {
   let t = text.normalize("NFKD").replace(/[̀-ͯ]/g, "");
   t = t.toLowerCase();
   t = t.replace(/&/g, " and ").replace(/\+/g, " plus ").replace(/#/g, " sharp ");
   t = t.replace(/['’ʻ`]/g, "");
   t = t.replace(/[^a-z0-9]+/g, " ").trim();
-  if (t.startsWith("the ")) t = t.slice(4);
-  return t.replace(/ /g, "");
+  const words = t ? t.split(" ").map((w) => NUMBERS[w] ?? w) : [];
+  const kept = words.filter((w) => !FILLER.has(w));
+  return kept.length ? kept : words;
+}
+
+export function normalize(text: string): string {
+  return normalizeWords(text).join("");
 }
 
 export function stripPlural(key: string): string {
@@ -69,6 +104,7 @@ export function buildIndex<T extends Matchable>(answers: T[]): AnswerIndex<T> {
 }
 
 function allowedTypos(len: number): number {
+  if (len >= 12) return 3;
   if (len >= 9) return 2;
   if (len >= 5) return 1;
   return 0;
@@ -88,6 +124,17 @@ export function findAnswer<T extends Matchable>(index: AnswerIndex<T>, guess: st
   for (const c of candidates) {
     const hit = index.exact.get(c);
     if (hit) return hit;
+  }
+
+  // "Cheddar cheese", "pug dog": try the guess with one extra word dropped.
+  const words = normalizeWords(guess);
+  if (words.length >= 2) {
+    for (let i = 0; i < words.length; i++) {
+      const rest = words.filter((_, j) => j !== i).join("");
+      if (rest.length < 4) continue;
+      const hit = index.exact.get(stripPlural(rest));
+      if (hit) return hit;
+    }
   }
 
   const key = stripPlural(raw);

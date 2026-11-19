@@ -37,17 +37,79 @@ PHRASE_PENALTY = 0.6
 STOPWORDS = {"the", "of", "and", "de", "la", "di", "du", "le"}
 
 
-def normalize(text: str) -> str:
-    """Must match normalize() in src/lib/match.ts."""
+ROMAN = {
+    "i": "1", "ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6", "vii": "7", "viii": "8", "ix": "9", "x": "10",
+    "xi": "11", "xii": "12", "xiii": "13", "xiv": "14", "xv": "15", "xvi": "16", "xvii": "17", "xviii": "18",
+    "xix": "19", "xx": "20",
+}
+NUMBER_WORDS = [
+    "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
+    "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty",
+]
+ORDINALS = [
+    "", "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth",
+    "eleventh", "twelfth", "thirteenth", "fourteenth", "fifteenth", "sixteenth", "seventeenth", "eighteenth",
+    "nineteenth", "twentieth",
+]
+NUMBERS = dict(ROMAN)
+NUMBERS.update({w: str(n) for n, w in enumerate(NUMBER_WORDS)})
+NUMBERS.update({w: str(n) for n, w in enumerate(ORDINALS) if w})
+for _n in range(1, 21):
+    NUMBERS[str(_n) + {1: "st", 2: "nd", 3: "rd"}.get(_n, "th")] = str(_n)
+FILLER = {"the", "a", "an", "of", "and", "part"}
+
+
+def normalize_words(text: str) -> list[str]:
+    """Must match normalizeWords() in src/lib/match.ts."""
     t = unicodedata.normalize("NFKD", text)
     t = "".join(c for c in t if not unicodedata.combining(c))
     t = t.lower()
     t = t.replace("&", " and ").replace("+", " plus ").replace("#", " sharp ")
-    t = re.sub(r"['’ʻ`]", "", t)
+    t = re.sub("['’ʻ`]", "", t)
     t = re.sub(r"[^a-z0-9]+", " ", t).strip()
-    if t.startswith("the "):
-        t = t[4:]
-    return t.replace(" ", "")
+    words = [NUMBERS.get(w, w) for w in t.split()] if t else []
+    kept = [w for w in words if w not in FILLER]
+    return kept or words
+
+
+def normalize(text: str) -> str:
+    """Must match normalize() in src/lib/match.ts."""
+    return "".join(normalize_words(text))
+
+
+def add_head_noun_aliases(rows: list[dict]) -> None:
+    """Let "goblin" count for Goblin Shark and "cairn" for Cairn Terrier.
+
+    A word that starts or ends many names in a category (shark, terrier,
+    comet, queso) is a head noun. A name with one also gets an alias without
+    it, as long as that alias is unique and doesn't clash with another name.
+    """
+    taken = {strip_plural(normalize(n)) for r in rows for n in [r["name"], *r["aliases"]]}
+    words = [normalize_words(r["name"]) for r in rows]
+    lasts: dict[str, int] = {}
+    firsts: dict[str, int] = {}
+    for w in words:
+        if len(w) >= 2:
+            lasts[w[-1]] = lasts.get(w[-1], 0) + 1
+            firsts[w[0]] = firsts.get(w[0], 0) + 1
+    floor = max(3, len(rows) * 0.03)
+    owners: dict[str, set[int]] = {}
+    for i, w in enumerate(words):
+        if len(w) < 2:
+            continue
+        options = []
+        if lasts.get(w[-1], 0) >= floor:
+            options.append(w[:-1])
+        if firsts.get(w[0], 0) >= floor:
+            options.append(w[1:])
+        for rest in options:
+            key = strip_plural("".join(rest))
+            if len(key) >= 4 and key not in taken:
+                owners.setdefault(key, set()).add(i)
+    for key, who in owners.items():
+        if len(who) == 1:
+            i = next(iter(who))
+            rows[i]["aliases"] = [*rows[i]["aliases"], key]
 
 
 def strip_plural(key: str) -> str:
@@ -143,6 +205,8 @@ def build_category(raw: dict) -> dict:
             if k in owner and owner[k] != row["name"]:
                 print(f"  warning: {cid}: '{n}' matches both '{owner[k]}' and '{row['name']}'")
             owner.setdefault(k, row["name"])
+
+    add_head_noun_aliases(rows)
 
     for row in rows:
         row["zipf"] = familiarity(row["name"], row["aliases"])

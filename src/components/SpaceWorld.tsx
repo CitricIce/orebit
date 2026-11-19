@@ -1,5 +1,6 @@
 "use client";
 
+import { useSvgIds } from "@/lib/client/useSvgIds";
 import { useMemo } from "react";
 import { createPortal } from "react-dom";
 import { STOPS } from "@/lib/journey";
@@ -70,50 +71,51 @@ function seeded(n: number, seed: number): number[] {
 }
 
 function Rocket() {
+  const u = useSvgIds();
   return (
     <svg className={s.rocketSvg} viewBox="0 0 80 200">
       <defs>
-        <linearGradient id="sw-hull" x1="0" x2="1">
+        <linearGradient id={u("sw-hull")} x1="0" x2="1">
           <stop offset="0" stopColor="#4b465c" />
           <stop offset="0.28" stopColor="#c9c3d8" />
           <stop offset="0.5" stopColor="#f6f3fc" />
           <stop offset="0.82" stopColor="#9c95ae" />
           <stop offset="1" stopColor="#ffd2a6" />
         </linearGradient>
-        <linearGradient id="sw-nose" x1="0" x2="1">
+        <linearGradient id={u("sw-nose")} x1="0" x2="1">
           <stop offset="0" stopColor="#b8431f" />
           <stop offset="0.5" stopColor="#ff9a3c" />
           <stop offset="1" stopColor="#ffd28a" />
         </linearGradient>
-        <linearGradient id="sw-fin" x1="0" x2="1" y1="0" y2="1">
+        <linearGradient id={u("sw-fin")} x1="0" x2="1" y1="0" y2="1">
           <stop offset="0" stopColor="#ff9a3c" />
           <stop offset="1" stopColor="#8a2a1a" />
         </linearGradient>
-        <radialGradient id="sw-glass" cx="0.35" cy="0.3" r="0.8">
+        <radialGradient id={u("sw-glass")} cx="0.35" cy="0.3" r="0.8">
           <stop offset="0" stopColor="#d6fffb" />
           <stop offset="0.35" stopColor="#5fd8e8" />
           <stop offset="1" stopColor="#123a6b" />
         </radialGradient>
-        <linearGradient id="sw-nozzle" x1="0" x2="1">
+        <linearGradient id={u("sw-nozzle")} x1="0" x2="1">
           <stop offset="0" stopColor="#24202e" />
           <stop offset="0.5" stopColor="#6b6478" />
           <stop offset="1" stopColor="#2a2535" />
         </linearGradient>
-        <linearGradient id="sw-plume" x1="0" y1="0" x2="0" y2="1">
+        <linearGradient id={u("sw-plume")} x1="0" y1="0" x2="0" y2="1">
           <stop offset="0" stopColor="#ffffff" />
           <stop offset="0.25" stopColor="#ffe08a" />
           <stop offset="0.6" stopColor="#ff7a3c" stopOpacity="0.85" />
           <stop offset="1" stopColor="#ff3b8a" stopOpacity="0" />
         </linearGradient>
-        <filter id="sw-blur" x="-50%" y="-20%" width="200%" height="140%">
+        <filter id={u("sw-blur")} x="-50%" y="-20%" width="200%" height="140%">
           <feGaussianBlur stdDeviation="3" />
         </filter>
       </defs>
 
       <g className={s.flameScale}>
         <g className={s.flame}>
-          <path d="M27 156 Q40 214 53 156 Z" fill="url(#sw-plume)" filter="url(#sw-blur)" opacity="0.9" />
-          <path d="M31 156 Q40 196 49 156 Z" fill="url(#sw-plume)" />
+          <path d="M27 156 Q40 214 53 156 Z" fill={`url(#${u("sw-plume")})`} filter={`url(#${u("sw-blur")})`} opacity="0.9" />
+          <path d="M31 156 Q40 196 49 156 Z" fill={`url(#${u("sw-plume")})`} />
           <path d="M35 156 Q40 178 45 156 Z" fill="#fffdf2" />
           <ellipse cx="40" cy="170" rx="3" ry="2" fill="#fff" opacity="0.8" />
           <ellipse cx="40" cy="181" rx="2.2" ry="1.6" fill="#fff" opacity="0.6" />
@@ -129,18 +131,18 @@ function Rocket() {
       </g>
 
       {/* Swept fins, back then front */}
-      <path d="M26 104 C14 116 8 132 6 152 L16 150 C18 140 22 132 27 128 Z" fill="url(#sw-fin)" />
-      <path d="M54 104 C66 116 72 132 74 152 L64 150 C62 140 58 132 53 128 Z" fill="url(#sw-fin)" />
+      <path d="M26 104 C14 116 8 132 6 152 L16 150 C18 140 22 132 27 128 Z" fill={`url(#${u("sw-fin")})`} />
+      <path d="M54 104 C66 116 72 132 74 152 L64 150 C62 140 58 132 53 128 Z" fill={`url(#${u("sw-fin")})`} />
       <path d="M6 152 L16 150" stroke="#ffd28a" strokeWidth="1.5" />
       <path d="M74 152 L64 150" stroke="#ffd28a" strokeWidth="1.5" />
 
       {/* Engine bell */}
-      <path d="M29 140 H51 L55 157 H25 Z" fill="url(#sw-nozzle)" />
+      <path d="M29 140 H51 L55 157 H25 Z" fill={`url(#${u("sw-nozzle")})`} />
       <ellipse cx="40" cy="157" rx="15" ry="2.5" fill="#ff9a3c" opacity="0.7" />
 
       {/* Hull */}
-      <path d="M40 4 C58 24 60 74 55 142 H25 C20 74 22 24 40 4 Z" fill="url(#sw-hull)" />
-      <path d="M40 4 C51 15 55 26 57 36 C47 32 33 32 23 36 C25 26 29 15 40 4 Z" fill="url(#sw-nose)" />
+      <path d="M40 4 C58 24 60 74 55 142 H25 C20 74 22 24 40 4 Z" fill={`url(#${u("sw-hull")})`} />
+      <path d="M40 4 C51 15 55 26 57 36 C47 32 33 32 23 36 C25 26 29 15 40 4 Z" fill={`url(#${u("sw-nose")})`} />
       <path d="M55 142 C60 74 58 24 40 4" fill="none" stroke="#ffe0bd" strokeWidth="1.2" opacity="0.8" />
 
       {/* Panel seams and stripe */}
@@ -152,7 +154,7 @@ function Rocket() {
 
       {/* Cockpit */}
       <ellipse cx="40" cy="54" rx="10.5" ry="12.5" fill="#2a2535" />
-      <ellipse cx="40" cy="54" rx="8" ry="10" fill="url(#sw-glass)" />
+      <ellipse cx="40" cy="54" rx="8" ry="10" fill={`url(#${u("sw-glass")})`} />
       <path d="M35 48 C36 45 39 44 42 44" stroke="#fff" strokeWidth="1.6" strokeLinecap="round" fill="none" opacity="0.85" />
 
       {/* Centre fin and chevrons */}
@@ -170,37 +172,39 @@ function Rocket() {
 }
 
 function RingedPlanet() {
+  const u = useSvgIds();
   return (
     <svg className={s.giant} viewBox="0 0 200 200">
       <defs>
-        <radialGradient id="sw-giant" cx="0.38" cy="0.32" r="0.75">
+        <radialGradient id={u("sw-giant")} cx="0.38" cy="0.32" r="0.75">
           <stop offset="0" stopColor="#ffd9b8" />
           <stop offset="0.45" stopColor="#c87aa6" />
           <stop offset="1" stopColor="#3a2560" />
         </radialGradient>
-        <linearGradient id="sw-ring" x1="0" x2="1">
+        <linearGradient id={u("sw-ring")} x1="0" x2="1">
           <stop offset="0" stopColor="#ffd3a0" stopOpacity="0.1" />
           <stop offset="0.5" stopColor="#fff0d8" stopOpacity="0.85" />
           <stop offset="1" stopColor="#ffd3a0" stopOpacity="0.15" />
         </linearGradient>
-        <clipPath id="sw-front">
+        <clipPath id={u("sw-front")}>
           <rect x="0" y="100" width="200" height="100" />
         </clipPath>
       </defs>
-      <ellipse cx="100" cy="100" rx="92" ry="22" fill="none" stroke="url(#sw-ring)" strokeWidth="7" transform="rotate(-18 100 100)" />
-      <circle cx="100" cy="100" r="52" fill="url(#sw-giant)" />
+      <ellipse cx="100" cy="100" rx="92" ry="22" fill="none" stroke={`url(#${u("sw-ring")})`} strokeWidth="7" transform="rotate(-18 100 100)" />
+      <circle cx="100" cy="100" r="52" fill={`url(#${u("sw-giant")})`} />
       <path d="M52 92 C80 84 120 84 150 94" stroke="#f3b7c0" strokeWidth="5" fill="none" opacity="0.35" />
       <path d="M50 108 C82 100 118 100 152 110" stroke="#7a4a92" strokeWidth="6" fill="none" opacity="0.4" />
-      <g clipPath="url(#sw-front)" transform="rotate(-18 100 100)">
-        <ellipse cx="100" cy="100" rx="92" ry="22" fill="none" stroke="url(#sw-ring)" strokeWidth="7" />
+      <g clipPath={`url(#${u("sw-front")})`} transform="rotate(-18 100 100)">
+        <ellipse cx="100" cy="100" rx="92" ry="22" fill="none" stroke={`url(#${u("sw-ring")})`} strokeWidth="7" />
       </g>
     </svg>
   );
 }
 
 function Asteroid({ i }: { i: number }) {
+  const u = useSvgIds();
   const [light, mid, dark] = STOPS[i].rock;
-  const id = `sw-rock-${i}`;
+  const id = u(`sw-rock-${i}`);
   return (
     <svg className={s.rockSvg} viewBox="0 0 200 200">
       <defs>

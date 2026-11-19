@@ -1,5 +1,6 @@
 "use client";
 
+import { useSvgIds } from "@/lib/client/useSvgIds";
 import { useMemo } from "react";
 import { TIERS, type TierId } from "@/lib/tiers";
 import s from "./DrillShaft.module.css";
@@ -19,6 +20,7 @@ export default function DrillShaft({
   lastHit: { id: number; tier: TierId } | null;
   heat: number;
 }) {
+  const u = useSvgIds();
   const marks = useMemo(() => {
     const out: number[] = [];
     const from = Math.max(0, Math.floor((depth - 260) / MARK_EVERY) * MARK_EVERY);
@@ -55,24 +57,24 @@ export default function DrillShaft({
       <div className={s.rig}>
         <svg className={s.drill} viewBox="0 0 40 96">
           <defs>
-            <linearGradient id="drill-body" x1="0" x2="1">
+            <linearGradient id={u("drill-body")} x1="0" x2="1">
               <stop offset="0" stopColor="#6b6578" />
               <stop offset="0.5" stopColor="#d9d3e6" />
               <stop offset="1" stopColor="#4a4456" />
             </linearGradient>
-            <linearGradient id="drill-hot" x1="0" y1="0" x2="0" y2="1">
+            <linearGradient id={u("drill-hot")} x1="0" y1="0" x2="0" y2="1">
               <stop offset="0" stopColor="#ffb547" stopOpacity="0" />
               <stop offset="1" stopColor="#ff6a2b" />
             </linearGradient>
           </defs>
-          <rect x="10" y="0" width="20" height="50" rx="3" fill="url(#drill-body)" />
+          <rect x="10" y="0" width="20" height="50" rx="3" fill={`url(#${u("drill-body")})`} />
           <g className={s.threads}>
             {[8, 18, 28, 38].map((y) => (
               <path key={y} d={`M10 ${y} L30 ${y + 6}`} stroke="#2a2533" strokeWidth="2" />
             ))}
           </g>
-          <path d="M8 50 H32 L20 94 Z" fill="url(#drill-body)" />
-          <path className={s.hot} d="M8 50 H32 L20 94 Z" fill="url(#drill-hot)" />
+          <path d="M8 50 H32 L20 94 Z" fill={`url(#${u("drill-body")})`} />
+          <path className={s.hot} d="M8 50 H32 L20 94 Z" fill={`url(#${u("drill-hot")})`} />
         </svg>
         <div key={lastHit?.id ?? 0} className={s.sparks}>
           {sparks.map((p, i) => (

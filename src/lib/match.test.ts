@@ -50,6 +50,27 @@ test("small typos count on longer names", () => {
   assert.equal(find("chery"), "Cherry");
 });
 
+test("numbers, filler words and extra words are forgiven", () => {
+  const plays = buildIndex([
+    { name: "Henry IV", aliases: ["henry the fourth", "henry iv part 1", "henry iv part 2"] },
+    { name: "Henry V", aliases: ["henry the fifth"] },
+    { name: "Richard III", aliases: [] },
+    { name: "The Merchant of Venice", aliases: [] },
+    { name: "Cheddar", aliases: [] },
+  ]);
+  const f = (g: string) => findAnswer(plays, g)?.name ?? null;
+  assert.equal(f("henry IV part 1"), "Henry IV");
+  assert.equal(f("Henry 4 part one"), "Henry IV");
+  assert.equal(f("henry iv pt 1"), "Henry IV");
+  assert.equal(f("henry 4"), "Henry IV");
+  assert.equal(f("henry fifth"), "Henry V");
+  assert.equal(f("richard 3"), "Richard III");
+  assert.equal(f("richard the third"), "Richard III");
+  assert.equal(f("merchant venice"), "The Merchant of Venice");
+  assert.equal(f("cheddar cheese"), "Cheddar");
+  assert.equal(normalize("Henry IV, Part 1"), normalize("henry 4 part one"));
+});
+
 test("short words need to be exact, and ties are rejected", () => {
   assert.equal(find("mal"), null);
   assert.equal(find("kali"), null);
