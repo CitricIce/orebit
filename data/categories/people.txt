@@ -4,7 +4,8 @@
 title: Clothing
 prompt: Name as many items of clothing as you can
 --- 1
-Shirt | t-shirt | tshirt | tee
+Shirt
+T-shirt | tshirt | tee
 Pants | trousers
 Jeans
 Dress
@@ -28,7 +29,9 @@ Mittens
 Hat
 Cap | baseball cap
 Beanie
-Underwear | knickers | boxers | briefs
+Underwear | knickers
+Boxers | boxer shorts
+Briefs
 Bra
 Pajamas | pyjamas | pjs
 Nightgown | nightie
