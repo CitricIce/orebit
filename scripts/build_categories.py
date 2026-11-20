@@ -144,7 +144,11 @@ BANNED = {
     "pasta": re.compile(r"\b(alla|all'|with|soup|dumplings?|sauce|salad|terre|mafia|baked|fried)\b", re.I),
     "cocktails": re.compile(r"\b(bar|hotel|restaurant|lounge|club)$", re.I),
     "breads": re.compile(r"\b(bakery|company)\b", re.I),
-    "fast-food": re.compile(r"\b(restaurant|oldest|park|museum)\b|.+ mcdonald's$", re.I),
+    "fast-food": re.compile(
+        r"\b(restaurant|restaurants|oldest|park|museum)\b|.+ mcdonald's$"
+        r"|^(snack bar|kebab shop|hot dog stand|friterie|domino's pizza|potbelly sandwich shop|church's texas chicken)$",
+        re.I,
+    ),
     "instruments": re.compile(r"\b(microphone|soundbar|speaker|amplifier|foghorn|horn signal|siren)\b", re.I),
     "holidays": re.compile(r"^public holiday$|\d{4}", re.I),
 }

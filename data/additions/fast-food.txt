@@ -1,0 +1,2002 @@
+# aliases for existing answers
+--- 2
+McDonald's | mcdonald's | macca's | mickey d's | mickey ds | mcd | mcds | maccy d's | maccy ds | maccies | mcdonals | mcdonalds restaurant | mc donalds | mcdonald | mickey dees
+Burger King | bk | burgerking | burger kings | hungry jacks burger king
+KFC | kentucky | kentucky fried | k f c | kentucky fried chicken restaurant
+Subway | subways | subway sandwiches
+Wendy's | wendy | wendies
+Taco Bell | tacobell | taco bel
+Pizza Hut | pizzahut
+Domino's | dominoes | dominos pizza
+Starbucks | starbuck | star bucks | starbucks coffee | sbux
+Dunkin' | dunkin doughnuts | dunkin donut | dunkins | dunkin dounuts
+Chick-fil-A | chickfila | chick fila | chik fil a | chic fil a | chick-fil-a | chickfilet | chick fil et | chik-fil-a | chick filla
+Popeyes | popeye's | popeye | popeyes chicken | popeyes louisiana chicken
+Five Guys | 5 guys | five guys burgers
+In-N-Out | in and out | in n out burger | innout | in & out | in-and-out | in n' out
+Shake Shack | shakeshack
+Chipotle | chipotle mexican grill | chipolte | chipotle grill
+Panera Bread | panera breads
+Papa John's | papa john | papa johns pizza
+Little Caesars | little caesar's | little caesar | little ceasars | little caesars pizza | little ceasar's
+Arby's | arby | arbies
+Sonic | sonic drive in
+Jack in the Box | jack n the box | jackinthebox | jack in a box
+Carl's Jr. | carls junior | carl's jr | carls
+Hardee's | hardees | hardys
+Dairy Queen | dq | dairy queens | dairyqueen
+Whataburger | what a burger | whataburgers
+White Castle | whitecastle
+Culver's | culvers
+Del Taco | deltaco
+Panda Express | panda
+Wingstop | wing stop
+Buffalo Wild Wings | bww | b dubs | bdubs | b-dubs | buffalo wings | bw3s | buffalo wild wing
+Raising Cane's | canes | cane's | raising cains | raising canes chicken
+Jersey Mike's | jersey mikes | jersey mike's subs | jersey mike
+Jimmy John's | jimmy johns | jimmy john
+Firehouse Subs | firehouse
+Quiznos | quizno's | quiznos subs | quizno
+Krispy Kreme | krispy creme | krispie kreme | crispy cream | krispy kreme doughnuts | krispy kreme donuts | krispy creme donuts
+Tim Hortons | tim horton's | tim hortons | timmies | timmy's | timmys | tim horton | tims | timmy ho's
+Baskin-Robbins | baskin robins | baskins robbins | baskin | 31 flavors | baskin-robbins 31
+Cold Stone Creamery | coldstone | cold stone ice cream
+Denny's | denny | dennies
+IHOP | i hop | international house of pancakes | ihop restaurant
+Waffle House | wafflehouse
+Applebee's | applebees | applebee | apple bees | applebys
+Chili's | chilis | chili | chilli's | chillis
+Olive Garden | the olive garden | olivegarden
+Red Lobster | redlobster
+Outback Steakhouse | outback steak house
+TGI Fridays | tgif | tgi friday's | tgi friday | t.g.i. friday's | thank god it's friday | tgi fridays restaurant | fridays restaurant
+Hooters | hooter
+Cracker Barrel | crackerbarrel | cracker barrel old country store
+Cheesecake Factory | the cheesecake factory | cheese cake factory
+Nando's | nandos | nando | nandos chicken | nando's peri peri
+Greggs | gregs | greggs bakery | greggs the baker
+Pret A Manger | pret a manger | pret-a-manger | pret a monger
+Costa | costa coffee | costas
+Wagamama | wagamamas | wagamama's | wagamamma
+Jollibee | jolly bee | jollibe | jolibee
+Taco John's | taco johns
+Long John Silver's | long john silvers | ljs | long john silver
+A&W | a and w | a & w | a&w root beer | a w
+Steak 'n Shake | steak n shake | steak and shake | steaknshake | steak 'n' shake
+Zaxby's | zaxbys | zaxby
+Bojangles | bojangles' | bojangle's | bojangle | bojangles chicken
+Church's Chicken | churchs chicken | churchs | church's
+El Pollo Loco | el polo loco
+Qdoba | qdoba mexican eats | q doba
+Moe's | moes | moe's southwest grill | moes southwest grill
+Noodles & Company | noodles and company | noodles and co | noodles
+Pollo Tropical | polo tropical
+Smashburger | smash burger
+Krystal | krystals | krystal burger
+Checkers | checkers drive in
+Rally's | rallys
+Portillo's | portillos | portillo
+Cook Out | cookout | cook-out
+Golden Corral | golden coral
+Ruby Tuesday | ruby tuesdays | ruby tuesday's
+Red Robin | red robins | red robin gourmet burgers
+P.F. Chang's | pf changs | pf chang | p f changs | p.f. changs
+Texas Roadhouse | texas road house
+LongHorn Steakhouse | longhorn | long horn steakhouse | longhorn steak house
+Benihana | benihanna
+Boston Market | boston chicken
+Bob Evans | bob evan's
+Friendly's | friendlys
+Ruth's Chris | ruths chris | ruth's chris steak house | ruth chris
+Sbarro | sbarros | sbarro pizza
+Cinnabon | cinnabons | cinabon | cinnabun
+Auntie Anne's | auntie annes | aunt annie's | aunt annies | auntie anne's pretzels | auntie anns
+Jamba | jamba juice
+Smoothie King | smoothieking
+Tropical Smoothie Cafe | tropical smoothie | tropical smoothie café
+Caribou Coffee | caribou
+Peet's Coffee | peets | peet's | peets coffee
+Dutch Bros | dutch brothers | dutch bros coffee | dutch bro's
+Freddy's | freddys | freddy's frozen custard
+Dave's Hot Chicken | daves hot chicken | dave's
+Slim Chickens | slim chicken
+Marco's Pizza | marcos pizza | marcos
+Jet's Pizza | jets pizza | jet's
+McAlister's | mcalisters | mcalister's deli
+Potbelly | pot belly | potbelly sandwiches
+Schlotzsky's | schlotzskys | schlotzsky
+Wetzel's Pretzels | wetzels pretzels | wetzels
+Wimpy | wimpy's | wimpys
+Pizza Express | pizzaexpress
+Yo! Sushi | yo sushi
+Itsu | itsu sushi
+Frankie & Benny's | frankie and bennys | frankie & bennys | frankie and benny's
+Toby Carvery | tobys carvery | toby's carvery
+Bella Italia | bella italias
+MOS Burger | mos | mos burgers
+CoCo Ichibanya | coco ichiban | coco curry | coco ichibanya curry house | coco's curry
+Hungry Jack's | hungry jacks | hungry jack | hjs
+Red Rooster | red roosters
+Guzman y Gomez | guzman | guzman y gomes | guzman and gomez
+Mary Brown's | mary browns | mary brown's chicken
+Harvey's | harveys
+Swiss Chalet | swiss chalets
+Mister Donut | mr donut | mr. donut
+Gong Cha | gongcha | gong cha tea
+Johnny Rockets | johnny rocket
+Nathan's Famous | nathans | nathan's | nathans famous | nathan's hot dogs
+Max Hamburgers | max burgers | max burger
+Roy Rogers Restaurants | roy rogers
+Shakey's Pizza | shakeys | shakeys pizza
+Cicis | cicis pizza | cici's | cici's pizza | cicis pizza buffet
+Fazoli's | fazolis
+Captain D's | captain ds | captain d's seafood
+Baja Fresh | baja fresh mexican grill
+TOGO'S | togos
+Häagen-Dazs | haagen dazs | hagen daz | haagen-dazs
+Ben & Jerry's | ben and jerrys | ben & jerrys | ben and jerry's
+Marugame Seimen | marugame
+Lotteria | lotte ria
+Mang Inasal | mang inasal chicken
+Carvel | carvel ice cream
+Taco Cabana | tacocabana
+Wienerschnitzel | wiener schnitzel | der wienerschnitzel
+Penn Station | penn station subs
+Sweetgreen | sweet green
+Cava | cava grill
+Planet Hollywood | planet hollywood restaurant
+Heart Attack Grill | heart attack
+Vkusno i Tochka | vkusno i tochka
+Hesburger | hese
+Dodo Pizza | dodo
+Mixue | mixue ice cream
+Nordsee | nord see
+
+--- 2
+Chuck E. Cheese | chuck e cheese | chuck e. cheese's | chuck e cheeses | chucky cheese | chuckee cheese | chuck-e-cheese | chuck e cheese's pizza
+Pizza Inn
+Papa Murphy's | papa murphys | papa murphy's take n bake
+Red Lobster
+Bob's Big Boy | big boy | bobs big boy
+Krystal
+Chuy's | chuys
+Panda Express
+Wahlburgers | wahlburger
+Carrabba's | carrabbas | carrabba's italian grill
+Maggiano's | maggianos | maggiano's little italy
+BJ's Restaurant | bjs restaurant | bj's brewhouse | bjs brewhouse | bj's restaurant and brewhouse
+Buca di Beppo | buca
+Hard Rock Cafe | hard rock café | hard rock
+Rainforest Cafe | rainforest café | rain forest cafe
+Dave & Buster's | dave and busters | dave & busters | dave and buster's | d&b
+Joe's Crab Shack | joes crab shack
+Bonefish Grill | bonefish
+Bahama Breeze
+Famous Dave's | famous daves
+Sonny's BBQ | sonnys bbq | sonny's barbecue
+Logan's Roadhouse | logans roadhouse | logans
+O'Charley's | ocharleys | o charleys
+Ponderosa | ponderosa steakhouse
+Sizzler | sizzlers
+Bonanza | bonanza steakhouse
+Shoney's | shoneys
+Village Inn
+Marie Callender's | marie callenders
+Kona Grill
+Eat'n Park | eat n park | eat'n park
+First Watch
+Another Broken Egg | another broken egg cafe
+Huddle House
+Biscuitville
+Le Peep
+The Capital Grille | capital grille
+Morton's | mortons | morton's the steakhouse
+Fogo de Chão | fogo de chao | fogo
+Texas de Brazil
+Fleming's | flemings | fleming's steakhouse
+Smith & Wollensky | smith and wollensky
+Saltgrass Steak House | saltgrass
+Black Angus | black angus steakhouse
+Yard House
+Twin Peaks | twin peaks restaurant
+Tilted Kilt
+Bar Louie
+Miller's Ale House | millers ale house | ale house
+Old Chicago | old chicago pizza
+Uno Pizzeria | uno | pizzeria uno | uno's | unos | uno pizzeria & grill
+Round Table Pizza | round table
+Mod Pizza | mod
+Blaze Pizza | blaze
+Pieology
+Hungry Howie's | hungry howies
+Donatos | donatos pizza
+Godfather's Pizza | godfathers pizza | godfathers
+Hunt Brothers Pizza | hunt brothers
+Casey's | caseys | casey's general store
+Pizza Ranch
+Mountain Mike's | mountain mikes
+Rosati's | rosatis
+Giordano's | giordanos
+Lou Malnati's | lou malnatis | malnatis
+Pizzeria Regina
+Bertucci's | bertuccis
+California Pizza Kitchen | cpk | california pizza
+Villa Italian Kitchen | villa pizza
+Pizza Pizza
+Pizza Nova
+Boston Pizza
+Panago
+Pizza 73
+Little Italy | little italy pizza
+Telepizza | tele pizza
+Pizza Hut Express
+Papa Gino's | papa ginos
+Mr. Gatti's | mr gattis | gattis pizza
+Peter Piper Pizza | peter piper
+Toppers Pizza | toppers
+Happy Joe's | happy joes
+Cousins Subs
+Which Wich | which wich superior sandwiches
+Charleys Philly Steaks | charleys | charley's | charleys cheesesteaks
+Jason's Deli | jasons deli
+Corner Bakery | corner bakery cafe
+Au Bon Pain
+Le Pain Quotidien
+Einstein Bros. Bagels | einstein bros | einstein brothers | einstein bagels | einstein bros bagels
+Bruegger's | brueggers | bruegger's bagels
+Manhattan Bagel
+Noah's Bagels | noahs bagels
+Wawa
+Sheetz
+QuikTrip | qt | quik trip
+Buc-ee's | bucees | buc ees | bucky's
+7-Eleven | 7 eleven | seven eleven | 711 | 7/11
+Circle K
+Arctic Circle
+Zippy's | zippys
+L&L Hawaiian Barbecue | l&l | l and l | l&l bbq | l and l hawaiian bbq
+Pancheros | pancheros mexican grill
+Chronic Tacos
+Taco Bueno
+Taco Bell Cantina
+Rubio's | rubios | rubio's coastal grill
+Chevys | chevys fresh mex | chevy's
+On the Border | on the border mexican grill
+El Torito
+Abuelo's | abuelos
+Uncle Julio's | uncle julios
+Cafe Rio | café rio
+Costa Vida
+Barberitos
+Tijuana Flats
+Tropical Sno
+Taco Time | tacotime
+Torchy's Tacos | torchys | torchy's | torchys tacos
+Velvet Taco
+Condado Tacos | condado
+Freebirds | freebirds world burrito
+Salsarita's | salsaritas
+Willy's Mexicana Grill | willys
+Hot Head Burritos | hot head
+Pinkberry
+Red Mango
+Menchie's | menchies | menchie's frozen yogurt
+Yogurtland | yogurt land
+TCBY | t.c.b.y. | the country's best yogurt
+Sweet Frog | sweetfrog | sweet frog frozen yogurt
+16 Handles | sixteen handles
+Orange Leaf | orange leaf frozen yogurt
+Llaollao
+Rita's | ritas | rita's italian ice | ritas italian ice
+Bahama Buck's | bahama bucks
+Kona Ice
+Andy's Frozen Custard | andys frozen custard | andy's
+Kopp's | kopps
+Shake Shack
+Abbott's Frozen Custard | abbotts
+Dippin' Dots | dippin dots | dipping dots
+Bruster's Ice Cream | brusters | bruster's
+Friendly's
+Swensen's | swensens
+Thrifty Ice Cream | thrifty
+Tasti D-Lite | tasti d lite
+Jeni's | jenis | jeni's splendid ice creams
+Salt & Straw | salt and straw
+Handel's | handels | handel's ice cream
+Graeter's | graeters
+Blue Bunny
+Marble Slab Creamery | marble slab
+MaggieMoo's | maggie moos | maggiemoos
+Amorino
+Grom
+Crumbl | crumbl cookies | crumble cookies | crumble
+Insomnia Cookies | insomnia cookie
+Great American Cookies | great american cookie company
+Mrs. Fields | mrs fields | mrs. fields cookies
+Nestle Toll House Cafe | toll house cafe
+Duck Donuts | duck donut
+Shipley Do-Nuts | shipley donuts | shipleys | shipley's
+Tim Horton's
+Voodoo Doughnut | voodoo donuts | voodoo doughnuts
+Daylight Donuts
+Yum Yum Donuts | yum yum
+Dunkin'
+LaMar's Donuts | lamars donuts
+Honey Dew Donuts | honey dew
+Coffee Time
+Country Style | country style donuts
+Robin's Donuts | robins donuts
+Beavertails | beaver tails
+Nothing Bundt Cakes | nothing bundt | nothing but cakes
+Sprinkles | sprinkles cupcakes
+Magnolia Bakery | magnolia
+Paris Baguette
+Tous les Jours | tous les jours bakery
+Cheesecake Factory
+Pinkbox Doughnuts | pinkbox
+Kolache Factory
+Pretzelmaker | pretzel maker
+Pretzel Time
+Hot Dog on a Stick
+Orange Julius | orange julius smoothie
+Mrs. Winner's | mrs winners
+Coffee Bean & Tea Leaf | coffee bean | coffee bean and tea leaf | the coffee bean
+Tully's Coffee | tullys
+Scooter's Coffee | scooters coffee | scooters
+Black Rifle Coffee | black rifle
+7 Brew | seven brew | 7 brew coffee
+Ziggi's Coffee | ziggis
+PJ's Coffee | pjs coffee
+Philz Coffee | philz
+Blue Bottle Coffee | blue bottle
+Intelligentsia | intelligentsia coffee
+Stumptown | stumptown coffee
+La Colombe | la colombe coffee
+Gloria Jean's | gloria jeans | gloria jean's coffees
+The Human Bean | human bean
+Kaldi's Coffee | kaldis
+Second Cup
+Van Houtte
+Bridgehead
+Blenz | blenz coffee
+JJ Bean
+Coffee Republic
+Caffè Nero | caffe nero | cafe nero | nero | caffè nero coffee
+Esquires | esquires coffee
+Black Sheep Coffee | black sheep
+Starbucks Reserve
+Tchibo
+Segafredo | segafredo zanetti
+Lavazza
+Illy | illy caffè
+Café Coffee Day | cafe coffee day | ccd | coffee day
+Barista | barista coffee
+Chaayos
+Third Wave Coffee
+Blue Tokai
+Doutor | doutor coffee
+Komeda's Coffee | komeda | komeda coffee
+Ediya | ediya coffee
+Twosome Place | a twosome place
+Hollys Coffee | hollys | holly's coffee
+Paik's Coffee | paiks coffee
+Mega Coffee | megacoffee
+Compose Coffee
+Luckin Coffee | luckin
+Cotti Coffee | cotti
+Highlands Coffee | highlands
+Trung Nguyen | trung nguyen coffee
+Phúc Long | phuc long
+Kopi Kenangan
+Jco | j.co | j.co donuts | jco donuts
+Juan Valdez | juan valdez cafe
+Tostao | tostao café
+Oxxo
+Cafe Amazon | café amazon
+Zus Coffee | zus
+Old Town White Coffee | oldtown white coffee | old town
+Tealive
+Chatime | cha time
+CoCo Fresh Tea | coco tea | coco bubble tea | coco fresh tea & juice
+Kung Fu Tea | kungfu tea
+Sharetea | share tea
+Tiger Sugar
+Xing Fu Tang
+The Alley | the alley tea
+Yi Fang | yifang | yi fang taiwan fruit tea
+Heytea | hey tea | hey tea
+Nayuki | nai xue | nayuki tea
+Chagee | cha ji | chagee tea
+Machi Machi
+Boba Guys
+Happy Lemon
+Tiger Tea
+Presotea
+8tea5
+Boba Tea Company
+Moge Tee | moge tea
+Teavana
+David's Tea | davids tea | davidstea
+T2
+Bubbleology
+Mooboo
+Molly Tea
+Mixue
+Kaspa's | kaspas | kaspas desserts
+Creams Cafe | creams | creams café
+Heavenly Desserts
+Sloane's | sloanes
+Cookies & Cream
+Kaspas
+Grom
+Tim Hortons
+Booster Juice
+Jugo Juice
+Boost Juice | boost
+Joe & the Juice | joe and the juice | joe & juice
+Pressed Juicery | pressed
+Robeks | robeks juice
+Planet Smoothie
+Clean Juice
+Nekter | nekter juice bar
+Juice It Up
+Playa Bowls
+Rush Bowls
+Vitality Bowls
+Grabbagreen
+Saladworks
+Salata
+Just Salad
+Tender Greens
+Mendocino Farms
+Dig | dig inn
+Honeygrow
+Cosi | così
+Roti | roti modern mediterranean
+Garbanzo | garbanzo mediterranean
+Zoës Kitchen | zoes kitchen | zoës
+Taziki's | tazikis
+Pita Pit | pita pit
+Pita Pit | pitapit
+Pita Land
+Halal Guys | the halal guys
+Naf Naf Grill | naf naf
+Daphne's | daphnes | daphnes greek cafe
+Garden Fresh | souplantation | sweet tomatoes
+Piccadilly | piccadilly cafeteria
+Luby's | lubys
+Furr's | furrs
+Old Country Buffet | ocb
+HomeTown Buffet | hometown buffet
+Ryan's | ryans | ryan's steakhouse
+Shoney's
+K&W Cafeteria | k&w | k and w
+Morrison's Cafeteria | morrisons cafeteria
+
+--- 2
+Chick-fil-A
+Jack in the Box
+Arby's
+Long John Silver's
+Captain D's
+Arthur Treacher's | arthur treachers
+Skipper's | skippers
+Ivar's | ivars
+H. Salt | h salt fish and chips
+Harry Ramsden's | harry ramsdens
+Bubba Gump | bubba gump shrimp | bubba gump shrimp company
+Red Lobster
+Legal Sea Foods | legal seafoods | legal sea food
+McCormick & Schmick's | mccormick and schmicks | mccormick & schmicks
+Landry's | landrys | landry's seafood
+Pappadeaux | pappadeaux seafood kitchen
+Pappasito's | pappasitos
+Bonchon | bon chon | bonchon chicken
+Kyochon | kyochon chicken | kyo chon
+bb.q Chicken | bbq chicken | bb q chicken | bbq olive chicken | bbq olive
+Pelicana | pelicana chicken
+Nene Chicken
+Hooters
+Wing Zone
+Wings Over | wings over
+Wing It On
+Pluckers | pluckers wing bar
+Hurricane Grill & Wings | hurricane wings
+Quaker Steak & Lube | quaker steak | quaker steak and lube
+Roosters | roosters wings
+Wild Wing Cafe
+WingStreet
+Wingers
+Epic Wings
+Detroit Wing Company
+Atomic Wings
+Wing Snob
+Bush's Chicken | bushs chicken | bush's
+Lee's Famous Recipe | lees famous recipe | lee's chicken | lee's famous recipe chicken
+Golden Chick
+Hartz Chicken | hartz
+Krispy Krunchy Chicken | krispy krunchy
+Mrs. Winner's
+Grandy's | grandys
+Babe's Chicken | babes chicken
+Gus's Fried Chicken | gus's | gus fried chicken
+Hattie B's | hattie bs | hattie b's hot chicken
+Prince's Hot Chicken | princes hot chicken
+Howlin' Ray's | howlin rays
+Pollo Campero | campero
+Pollo Granjero
+Pollo Feliz
+Pollo Regio
+Pollo Loco
+Chicken Express
+Champs Chicken | champs
+Lee's Sandwiches
+Banh Mi Boys
+Chicken Salad Chick | chicken salad chick
+Guthrie's | guthries
+Huey Magoo's | huey magoos
+PDQ
+Raising Cane's
+Layne's Chicken Fingers | laynes | layne's
+Golden Krust | golden krust caribbean bakery
+Juici Patties | juici
+Tastee Patties | tastee
+Island Grill
+Royal Castle
+Mr. Biggs
+Chicken Inn
+Galito's | galitos
+Barcelos | barcelos flame grilled chicken
+Steers
+Debonairs Pizza | debonairs
+Wimpy
+Spur | spur steak ranches
+Ocean Basket
+Fishaways
+Chicken Licken | chicken lickin
+Hungry Lion
+Roman's Pizza | romans pizza | romans
+Pedros | pedro's chicken
+Mugg & Bean | mugg and bean
+Seattle Coffee Company
+Vida e Caffè | vida e caffe | vida
+Nando's
+Kauai
+Simply Asia
+Panarottis
+John Dory's | john dorys
+Mochachos
+RocoMamas | roco mamas
+Burger Lab
+Kenny Rogers Roasters | kenny rogers | kenny rogers chicken
+Chicken Delight
+St-Hubert | st hubert | st-hubert bbq | saint hubert
+Mary Brown's
+Popeyes
+Lick's | licks | licks homeburgers
+Fatburger | fat burger
+Johnny Rockets
+Bareburger
+Burgerim
+BurgerFi
+Habit Burger | the habit | habit burger grill | the habit burger grill
+Umami Burger | umami
+Fuddruckers | fuddrucker's | fudds
+Elevation Burger
+Five Guys
+Steak Escape
+Farmer Boys | farmer boy
+Wayback Burgers | wayback | jake's wayback burgers
+Burger Fi
+Burgerville
+Dick's Drive-In | dicks drive in | dick's
+Kewpee | kewpee hamburgers
+Mooyah | mooyah burgers
+Hopdoddy | hopdoddy burger bar
+Shake Shack
+Good Times | good times burgers | good times burgers & frozen custard
+Rally's
+Bob's Big Boy
+Frisch's | frisch's big boy | frischs
+Back Yard Burgers
+Hardee's
+Milo's Hamburgers | milos | milo's
+Jack's
+Cook Out
+Snappy Lunch
+Char-Grill
+Zesto
+Sonic
+B.GOOD | b good | bgood
+Mighty Taco
+Taco Bell
+Burger Chef
+Red Barn
+Gino's Hamburgers | ginos
+Wimpy Grills
+Rax | rax roast beef
+Roy Rogers Restaurants
+Lum's | lums
+Sambo's | sambos
+Howard Johnson's | howard johnsons | hojo's | hojos | howard johnson
+Chock Full o' Nuts | chock full o nuts
+Horn & Hardart | horn and hardart | automat
+Burger Queen
+Druther's | druthers
+Arctic Circle
+Dog n Suds | dog 'n suds
+Nathan's Famous
+Gray's Papaya | grays papaya
+Papaya King
+Pink's Hot Dogs | pinks hot dogs | pinks
+Portillo's
+Superdawg
+Weenie Beenie
+Hot Doug's | hot dougs
+Skyline Chili | skyline
+Gold Star Chili | gold star
+Steak Escape
+Philly's Best
+Penn Station
+Primo Hoagies | primo hoagies
+Capriotti's | capriottis | capriotti's sandwich shop
+Wawa
+Jimmy John's
+Jersey Mike's
+Firehouse Subs
+Blimpie
+Erbert & Gerbert's | erbert and gerberts
+Port of Subs
+Togo's
+Larry's Giant Subs | larrys giant subs
+Lenny's | lenny's sub shop | lennys
+Planet Sub
+Mr. Hero | mr hero
+D'Angelo | dangelo | d'angelo sandwich shop
+Earl of Sandwich | earl of sandwich
+Newk's | newks | newk's eatery
+Panera Bread
+Zaxby's
+Schlotzsky's
+Jason's Deli
+Potbelly
+Primanti Bros. | primanti brothers | primantis | primanti bros
+Ike's Love & Sandwiches | ikes | ike's sandwiches
+Sub Station II
+Subway
+
+--- 3
+Pret A Manger
+Greggs
+Nando's
+Wagamama
+Pizza Express
+Costa
+Leon
+Itsu
+Wasabi
+Yo! Sushi
+Wimpy
+Harvester
+Toby Carvery
+Frankie & Benny's
+Zizzi
+Prezzo
+Bella Italia
+Ask Italian | ask
+Pizza Hut
+Franco Manca
+Honest Burgers | honest burger
+Byron | byron burger | byron burgers
+GBK | gourmet burger kitchen
+Patty & Bun | patty and bun
+Meat Liquor | meatliquor
+Bleecker Burger | bleecker
+Shake Shack
+Five Guys
+Burger King
+German Doner Kebab
+Chicken Cottage
+Dixy Chicken
+Morley's | morleys | morley's chicken
+Chicken Shop
+Sam's Chicken | sams chicken
+Perfect Fried Chicken | pfc
+Kennedy Fried Chicken
+Favorite Chicken | favourite chicken | favorite | favourite
+Wingstop
+Bird | bird fried chicken
+Absurd Bird
+Tortilla | tortilla burritos
+Chipotle
+Barburrito
+Benito's Hat | benitos hat
+Wahaca
+Las Iguanas | las iguanas restaurant
+Chiquito | chiquitos | chiquito's
+Taco Bell
+Tossed
+Pod | pod food
+Crussh | crussh juice bar
+Abokado
+Eat | eat.
+Tossed
+Pure | pure food
+Joe & the Juice
+Gail's | gails | gail's bakery
+Paul | paul bakery | paul boulangerie
+Patisserie Valerie | patisserie valerie
+Le Pain Quotidien
+Côte | cote | cote brasserie
+Café Rouge | cafe rouge
+Carluccio's | carluccios
+Strada
+Pizza Hut Delivery
+Papa John's
+Domino's
+Pizza GoGo
+Fireaway | fireaway pizza
+Pizza Pilgrims
+Rosa's Thai Cafe | rosas thai | rosa's thai
+Busaba | busaba eathai
+Giggling Squid
+Banana Tree
+Tampopo
+Wok to Walk | wok to walk
+Chopstix | chopstix noodle bar
+Ping Pong | ping pong dim sum
+Dishoom
+Mowgli | mowgli street food
+Turtle Bay
+Cosy Club
+Browns | browns brasserie
+Miller & Carter | miller and carter
+Hawksmoor
+Gaucho
+Beefeater
+Brewers Fayre
+Hungry Horse
+Flaming Grill
+Sizzling Pubs
+Wetherspoons | wetherspoon | spoons | jd wetherspoon | weatherspoons | wetherspoon's
+Vintage Inns
+Chef & Brewer | chef and brewer
+Table Table
+Little Chef
+Happy Eater
+Bella Pasta
+Garfunkel's | garfunkels
+Ed's Easy Diner | eds easy diner | eds diner
+Slug & Lettuce | slug and lettuce
+All Bar One
+TGI Fridays
+Hard Rock Cafe
+Planet Hollywood
+Rainforest Cafe
+Five Guys
+Krispy Kreme
+Starbucks
+Costa
+Caffè Nero
+Coffee#1 | coffee 1 | coffee number one
+Puccino's | puccinos
+Harris + Hoole | harris and hoole
+Soho Coffee | soho coffee co
+Department of Coffee
+Ole & Steen | ole and steen | lagkagehuset
+Leon
+Tim Hortons
+Taco Bell
+Wendy's
+Popeyes
+Burger King
+KFC
+McDonald's
+Subway
+Dunkin'
+Baskin-Robbins
+Ben & Jerry's
+Häagen-Dazs
+Kaspa's
+Creams Cafe
+Shakeaway | shake away
+Moo Moo | moomoo
+Crepeaffaire | crepe affaire
+Millie's Cookies | millies cookies | millies
+Ben's Cookies | bens cookies
+Auntie Anne's
+Cinnabon
+Krispy Kreme
+Spudulike | spud u like
+Harry Ramsden's
+Poppies | poppies fish and chips
+Burger & Lobster | burger and lobster
+Bill's | bills | bill's restaurant
+Giraffe | giraffe restaurant
+Byron
+Jamie's Italian | jamies italian | jamie oliver's
+Gordon Ramsay Street Burger | gordon ramsay burger | street burger
+Boojum
+Supermac's | supermacs | super macs | super mac's
+Abrakebabra
+Four Star Pizza | 4 star pizza
+Apache Pizza | apache
+Eddie Rockets | eddie rocket's | eddies
+Insomnia Coffee | insomnia coffee company
+Bewley's | bewleys
+Butlers Chocolate Cafe | butlers
+Milano | milano pizza
+Bunsen
+Quick | quick burger
+Flunch
+Buffalo Grill
+Courtepaille
+Hippopotamus | hippo
+Léon de Bruxelles | leon de bruxelles
+Paul
+Brioche Dorée | brioche doree
+Pomme de Pain
+Class'Croute | class croute
+Pizza Hut
+Del Arte
+O'Tacos | otacos | o tacos
+Big Fernand
+Columbus Café | columbus cafe
+Cojean
+Exki
+Le Pain Quotidien
+Panos
+Pitaya | pitaya thai street food
+Bagelstein
+Nordsee
+Kochlöffel | kochloffel
+Vapiano
+L'Osteria | losteria
+Block House | blockhouse
+Maredo
+Hans im Glück | hans im gluck | hans im glueck
+Burgermeister
+Peter Pane
+Backwerk | back werk
+Ditsch
+Wienerwald | wiener wald
+Dean & David | dean and david
+Coffee Fellows
+Balzac Coffee
+Tchibo
+Einstein Kaffee
+Kamps
+Le Crobag | crobag
+Yormas
+Joey's Pizza | joeys pizza
+Smiley's | smileys
+Call a Pizza
+Pizza Hut
+Telepizza
+Pans & Company | pans and company
+Bocatta
+Rodilla
+100 Montaditos | cien montaditos | 100 montaditos
+Lizarran
+Foster's Hollywood | fosters hollywood
+La Tagliatella | tagliatella
+Goiko | goiko grill
+Taco Bell
+Vips
+Starbucks
+Granier
+Autogrill
+Spizzico
+Rossopomodoro
+Old Wild West
+Roadhouse Grill | roadhouse
+Cioccolatitaliani
+Venchi
+Grom
+Amorino
+La Piadineria | piadineria
+Chef Express
+Telepizza
+H3 | h3 hamburgology
+Pastéis de Belém | pasteis de belem
+Febo | de febo | febo automatiek
+Smullers
+Kwalitaria
+Manneken Pis Frites
+New York Pizza | nypizza
+La Place
+Bram Ladage
+Wok to Walk
+Loetje
+Van der Valk
+Le Pain Quotidien
+Panos
+Pizza Hut
+Hesburger
+Max Hamburgers
+Sibylla
+Frasses
+Bastard Burgers | bastard
+Sunset Boulevard
+Burger Joint
+Espresso House | espressohouse
+Wayne's Coffee | waynes coffee
+Joe & the Juice
+Peppes Pizza
+Dolly Dimple's | dolly dimples
+Kotipizza | koti pizza
+Robert's Coffee | roberts coffee
+Rax Pizza Buffet
+Jensen's Bøfhus | jensens bofhus
+Sunset
+Burger King
+Pizza Hut
+Nordsee
+Wienerwald
+Akakiko
+Vapiano
+Trzesniewski
+Leberkas-Pepi
+Bitzinger
+Coop Restaurant
+Migros Restaurant
+Holy Cow!
+Brezelkönig | brezelkonig
+Spettacolo
+Pizza Hut
+Vkusno i Tochka
+Teremok | теремок
+Kroshka Kartoshka | krosha kartoshka
+Chainaya Lozhka
+Shokoladnitsa | shokoladnitsa coffee
+Coffee House
+Stardogs
+Rostic's
+Dodo Pizza
+Mak.by
+Pizza Celentano | celentano
+Puzata Hata | puzata khata
+Lviv Croissants | lviv croissants
+Aroma Kava
+North Fish
+Sbarro
+Burger King
+Dominos
+Maxi Burger
+Pizza Dominium
+Telepizza
+Da Grasso
+Bafra Kebab
+Sphinx | sphinx restaurant
+Costa
+Green Caffè Nero | green caffe nero
+Coffee Heaven
+Bob's | bobs | bob's burgers brazil
+Habib's | habibs
+Giraffas
+Spoleto
+China in Box
+Ragazzo
+Divino Fogão | divino fogao
+Viena
+Madero
+Coco Bambu
+Fran's Café | frans cafe
+Rei do Mate
+Chiquinho Sorvetes | chiquinho
+Cacau Show
+Kopenhagen
+Pollo Campero
+Pollo Tropical
+Pollo Granjero
+Little Caesars
+Carl's Jr.
+El Corral | hamburguesas el corral
+Frisby
+Crepes & Waffles | crepes and waffles
+Juan Valdez
+Kokoriko
+Sandwich Qbano | sandwich cubano
+Presto
+Oma | oma cafe
+Bembos
+Norky's | norkys
+Pardos Chicken | pardos
+Rokys | rokys pollos
+La Lucha
+Tanta
+Pizza Raúl | pizza raul
+Café Martínez | cafe martinez
+Havanna | havanna cafe
+Freddo | freddo helados
+Grido | grido helado
+Mostaza
+Bonafide
+La Americana
+Café Havanna
+Doggis
+Juan Maestro
+Telepizza
+Telepizza
+Burger King
+Taco Inn
+El Fogoncito
+Sanborns
+Vips
+El Portón | el porton
+Toks | restaurantes toks
+Wings Army
+Potzollcalli
+Italianni's | italiannis
+La Mansión
+Sushi Itto
+Carl's Jr.
+Tim Hortons
+Cielito Querido Café | cielito querido
+Punta del Cielo
+Café Punta del Cielo
+The Italian Coffee Company | italian coffee
+Coffee Factory
+Krispy Kreme
+Dunkin'
+Bisquets Obregón | bisquets obregon
+El Globo
+Holanda | helados holanda
+Nutrisa
+Santa Clara | santa clara heladeria
+La Michoacana | paleteria la michoacana | michoacana
+Tortas Locas Hipocampo
+El Pollo Loco
+Super Salads
+Taco Bell
+Domino's
+
+--- 4
+Jollibee
+Chowking | chow king
+Mang Inasal
+Greenwich | greenwich pizza
+Red Ribbon | red ribbon bakeshop
+Goldilocks | goldilocks bakeshop
+Max's | max's restaurant | maxs | max's fried chicken
+Andok's | andoks
+Bonchon
+Army Navy | army navy burger
+Potato Corner
+Kenny Rogers Roasters
+Shakey's Pizza
+Yellow Cab Pizza | yellow cab
+Angel's Burger | angels burger
+Minute Burger
+Burger Machine
+Tokyo Tokyo
+Pancake House
+Kuya J
+Mesa
+Gerry's Grill | gerrys grill
+Chooks-to-Go | chooks to go | chooks
+Baliwag Lechon Manok | baliwag
+Zark's Burgers | zarks
+Tropical Hut
+Bigby's | bigbys
+Wendy's
+Krispy Kreme
+Mister Donut
+Dunkin'
+J.Co
+Bread Talk | breadtalk
+Toast Box | toastbox
+Ya Kun Kaya Toast | ya kun | yakun
+Old Chang Kee | old chang kee curry puff
+Killiney Kopitiam | killiney
+Kopitiam
+Din Tai Fung | dintaifung | din tai fung dumplings
+Crystal Jade
+Paradise Dynasty
+Tim Ho Wan | tim ho wan dim sum
+Swensen's
+Long John Silver's
+Texas Chicken | texas chicken
+Marrybrown | marry brown
+4Fingers | 4 fingers | four fingers crispy chicken
+Popeyes
+Burger King
+Ramly Burger | ramly
+Secret Recipe
+Nando's
+Sushi King
+PappaRich | pappa rich
+Pizza Hut
+Domino's
+OldTown White Coffee
+Kenny Rogers Roasters
+Richeese Factory | richeese
+Hoka Hoka Bento | hokben | hoka hoka
+CFC | california fried chicken
+A&W
+Es Teh Indonesia
+Janji Jiwa | kopi janji jiwa
+Kopi Kenangan
+Solaria
+Bakmi GM | bakmi gm
+D'Crepes | dcrepes
+J.Co
+Mie Gacoan
+Sederhana | rumah makan sederhana | padang sederhana
+Ayam Geprek Bensu
+Rocket Chicken
+Olive Fried Chicken
+Waroeng Steak
+Pizza Hut
+Burger King
+McDonald's
+Café Amazon
+Black Canyon Coffee | black canyon
+MK Restaurants | mk suki | mk
+Bar B Q Plaza | bar b q plaza | barbq plaza
+S&P | s&p restaurant | s and p
+Fuji Restaurant | fuji
+Chester's | chesters | chester's grill | chester's chicken
+Five Star Chicken | five star | 5 star chicken
+Sukishi
+Oishi | oishi buffet
+Ootoya | ootoya japanese
+Yayoi | yayoiken
+After You | after you dessert cafe
+Swensen's
+Dairy Queen
+Pizza Company | the pizza company
+Mos Burger
+Lotteria
+Jollibee
+Pho 24
+Highlands Coffee
+Trung Nguyen
+Phúc Long
+The Coffee House
+Cộng Cà Phê | cong caphe | cong ca phe | cong
+Katinat
+Golden Gate
+Kichi-Kichi | kichi kichi
+Gogi House | gogi
+Pizza 4P's | pizza 4ps | 4ps
+Lotteria
+Paris Baguette
+Tous les Jours
+BBQ Chicken
+Kyochon
+Bonchon
+Goobne | goobne chicken
+Mom's Touch | moms touch
+Nene Chicken
+Pelicana
+Hosigi Two Chicken | hosigi
+Isaac Toast | isaac
+Bonjuk | bon juk
+Kimbap Cheonguk | kimbap heaven | kimbap cheonguk
+Sulbing | sul bing | sulbing dessert cafe
+Paik's
+Hongkong Banjum
+Mr. Pizza | mr pizza
+Pizza Maru
+Frank Burger
+No Brand Burger
+Lotteria
+Starbucks
+Ediya
+Mega Coffee
+Compose Coffee
+Twosome Place
+Angel-in-us | angel in us | angelinus
+Caffe Bene | caffebene | caffe bene
+Hollys Coffee
+Coffee Bean & Tea Leaf
+Gong Cha
+Yoshinoya
+Sukiya
+Matsuya | matsuya foods
+Nakau
+Tenya | tendon tenya
+Coco Ichibanya
+Mos Burger
+Freshness Burger
+First Kitchen
+Lotteria
+Dom Dom
+Becker's | beckers
+Mister Donut
+Doutor
+Komeda's Coffee
+Tully's Coffee
+Excelsior Caffé | excelsior caffe
+Pronto | pronto cafe
+Saint Marc Café | saint marc cafe | st marc
+Hoshino Coffee | hoshino
+Ueshima Coffee | ueshima
+Kura Sushi | kura | kura revolving sushi | kura sushi bar
+Sushiro
+Hama Sushi | hamazushi
+Kappa Sushi
+Genki Sushi
+Uobei
+Saizeriya | saizeriya italian
+Gusto | skylark gusto
+Jonathan's | jonathans
+Bamiyan
+Joyfull
+Royal Host
+Denny's
+Coco's | coco's restaurant
+Bikkuri Donkey | bikkuri donkey
+Steak Gusto
+Ikinari Steak | ikinari
+Pepper Lunch | pepperlunch
+Ichiran | ichiran ramen
+Ippudo | ippudo ramen
+Tenkaippin | tenka ippin
+Kourakuen
+Hidakaya
+Gyoza no Ohsho | ohsho | gyoza no osho | osho
+Ringer Hut
+Hotto Motto
+Origin Bento | origin bentou
+Hokka Hokka Tei
+Marugame Seimen
+Hanamaru Udon | hanamaru
+Yudetaro
+Fuji Soba
+Tonkatsu Wako | wako
+Katsuya
+Tenya
+Ootoya
+Yayoi
+Gindaco | gindako | tsukiji gindaco
+Pablo | pablo cheese tart
+Beard Papa's | beard papa | beard papas
+Cozy Corner | ginza cozy corner
+Fujiya | fujiya restaurant
+Haidilao
+Xiabu Xiabu | xiabuxiabu
+Dicos | dicos chicken
+Zhengxin Chicken Steak | zhengxin
+Hualai Shi | wallace | hua lai shi
+Country Style Cooking Restaurant | csc | xiangcunji | country style cooking
+Laoxiangji
+Zhen Gong Fu | real kungfu | kungfu restaurant | zhen kung fu
+Malan Lamian | ma lan la mian
+Ajisen Ramen | ajisen
+Yonghe King | yonghe dawang | yonghe
+Quanjude | quan ju de
+Little Sheep | xiao fei yang
+Tai Er | taier | tai er pickled fish
+Xibei | xibei youmian cun
+Green Tea Restaurant | green tea
+Grandma's Home | wai po jia
+Luckin Coffee
+Cotti Coffee
+Heytea
+Nayuki
+Chagee
+Mixue
+Coco Fresh Tea
+Yi Dian Dian | 1点点 | yidiandian | 1 dian dian
+Gu Ming | guming
+Auntea Jenny | hu shang a yi | auntie jenny
+Shuyi Tealicious | shuyi | shu yi
+Tianlala
+Manner Coffee | manner
+Pacific Coffee | pacific
+Café de Coral | cafe de coral
+Maxim's | maxims | maxim's mx | mx
+Fairwood | fairwood fast food
+Tsui Wah | tsui wah restaurant
+Tam Jai | tamjai | tam jai samgor | tamjai yunnan mixian
+Tai Hing | tai hing roast
+Kee Wah | kee wah bakery
+Hui Lau Shan | hui lau shan dessert
+Honeymoon Dessert | honeymoon
+Mammy Pancake
+Din Tai Fung
+85°C Bakery Cafe | 85c | 85 degrees | 85c bakery | 85 degrees bakery | 85 degree
+Mr. Brown Coffee | mr brown
+Louisa Coffee | louisa
+Cama Café | cama cafe
+Comebuy
+Chun Shui Tang | chun shui tang tea house
+50 Lan | 50嵐 | wushi lan
+Ten Ren | ten ren tea | ten ren's tea
+TKK Fried Chicken | tkk
+Mos Burger
+Bafang Yunji | bafang | bafang dumplings | ba fang yun ji
+Wow Momo
+Faasos | faaso's
+Haldiram's | haldirams | haldiram
+Bikanervala | bikaner wala | bikano
+Saravana Bhavan | hotel saravana bhavan | saravana bhavan
+Sagar Ratna
+Adyar Ananda Bhavan | a2b | adyar ananda
+Jumbo King | jumboking
+Goli Vada Pav | goli
+Barbeque Nation | bbq nation | barbecue nation
+Mainland China
+Paradise Biryani | paradise
+Behrouz Biryani | behrouz
+Biryani Blues
+Chai Point
+Chaayos
+Chai Sutta Bar | chai sutta
+MTR | mtr restaurant | mavalli tiffin rooms
+Vaango
+Domino's
+Pizza Hut
+La Pino'z | la pinoz | la pinos
+Smokin' Joe's | smokin joes
+US Pizza | u.s. pizza
+Mad Over Donuts | mod donuts | mad over donuts
+Theobroma
+Kwality Walls
+Naturals Ice Cream | naturals
+Baskin-Robbins
+Havmor
+Amul
+Wat-a-Burger | wat a burger
+Burger Singh | burger singh
+Biggies Burger | biggies
+Café Coffee Day
+Barista
+Costa
+Tim Hortons
+Starbucks
+Student Biryani | student biryani
+Hardee's
+Kababjees | kababjees fried chicken
+Cheezious
+Broadway Pizza | broadway
+Butt Karahi
+Bundu Khan | bundu khan restaurant
+Optp | o.p.t.p | one potato two potato
+Howdy
+Johnny & Jugnu | johnny and jugnu
+Ranchers | ranchers cafe
+Pizza Hut
+Albaik | al baik | al-baik | albaik chicken | el baik
+Herfy
+Kudu | kudu restaurant
+Al Tazaj
+Shawarmer | shawarmer
+Maestro Pizza | maestro
+Hamburgini
+Burgerizzr | burgerizzr
+Dr. Cafe | dr cafe | dr. café
+Barn's | barns | barn's coffee
+Half Million | half million coffee
+Tim Hortons
+Joe & the Juice
+Raising Cane's
+Shake Shack
+Five Guys
+Operation Falafel | operation falafel
+Zaatar w Zeit | zaatar w zeit | zaatar wa zeit
+Malak Al Tawouk | malak el tawouk | malak al tawook
+Barbar | barbar restaurant
+Kababji
+Roadster Diner | roadster
+Buffalo Burger
+Cook Door | cookdoor | cook door egypt
+Mo'men | momen | mo men
+Abou Tarek | koshary abou tarek
+Gad | gad restaurant
+Hardee's
+Burgeranch
+Aroma Espresso Bar | aroma | aroma espresso
+Cafe Hillel | café hillel
+Cofix
+Arcaffe
+Moses | moses burger
+Max Brenner | max brenner chocolate bar
+Domino's
+Pizza Hut
+Big Chefs
+Simit Sarayı | simit sarayi
+Tavuk Dünyası | tavuk dunyasi
+Burger King
+Kahve Dünyası | kahve dunyasi
+Mado | mado ice cream | mado dondurma
+Midpoint
+HD İskender | hd iskender
+Köfteci Yusuf | kofteci yusuf
+Little Caesars
+Popeyes
+Arby's
+Sbarro
+
+--- 4
+Hungry Jack's
+Red Rooster
+Oporto
+Guzman y Gomez
+Zambrero | zambreros
+Mad Mex
+Grill'd | grilld | grilled burgers | grill'd burgers
+Betty's Burgers | bettys burgers | betty's
+Lord of the Fries | lotf | lord of the fries
+Schnitz | schnitz restaurant
+Chicken Treat
+Nando's
+Noodle Box | noodlebox
+Roll'd | rolld
+Sushi Sushi
+Sushi Hub
+Pie Face | pieface
+Muffin Break
+Michel's Patisserie | michels patisserie | michel's
+Brumby's | brumbys | brumby's bakery
+Bakers Delight | baker's delight
+Banjo's | banjos | banjo's bakery
+Donut King
+Gloria Jean's
+The Coffee Club | coffee club
+Hudsons Coffee | hudsons
+Zarraffa's | zarraffas | zarraffa's coffee
+Dôme | dome cafe
+Boost Juice
+Chatime
+Gong Cha
+Sumo Salad
+Subway
+Domino's
+Crust Pizza | crust | crust gourmet pizza
+Pizza Capers | pizza capers
+Eagle Boys | eagle boys pizza
+La Porchetta
+Pizza Hut
+Hog's Breath Cafe | hogs breath | hog's breath | hogs breath cafe
+Lone Star | lone star rib house
+Rashays | rashays
+Sizzler
+Montezuma's | montezumas
+San Churro | san churro
+Max Brenner
+Pancake Parlour | the pancake parlour
+Pancakes on the Rocks | pancakes on the rocks
+Kingsleys Chicken | kingsleys
+El Jannah | el jannah chicken
+Frangos | frangos
+Ogalo
+Chargrill Charlie's | chargrill charlies
+Jesters | jesters pies
+Ribs & Burgers | ribs and burgers
+Burger Urge | burgerurge
+Huxtaburger | huxtaburger
+Fishbowl
+Salsa's Fresh Mex | salsas | salsa's
+Taco Bill | taco bill
+Spudbar | spud bar
+Soul Origin
+Jamaica Blue
+McCafé | mccafe | mc cafe
+KFC
+Burger Fuel | burgerfuel | burger fuel
+Wendy's
+Hell Pizza | hell | hell pizza nz
+Pizza Hut
+St Pierre's Sushi | st pierres | st pierre's
+Columbus Coffee
+Robert Harris | robert harris cafe
+Mexicali Fresh | mexicali
+Burger Wisconsin
+Georgie Pie | georgie pie
+Lone Star
+Speight's Ale House | speights
+Cobb & Co | cobb and co
+Valentines | valentines buffet
+
+--- 4
+Harvey's
+Swiss Chalet
+Mary Brown's
+A&W
+Tim Hortons
+New York Fries | ny fries | newyork fries
+Smoke's Poutinerie | smokes poutinerie | smoke's
+Mr. Sub
+Pizza Pizza
+Pizza Nova
+Pizza 73
+Boston Pizza
+Panago
+Little Caesars
+241 Pizza | 2 for 1 pizza
+Pizza Hut
+Montana's | montanas | montana's bbq
+East Side Mario's | east side marios | east sides
+Kelsey's | kelseys
+The Keg | keg | the keg steakhouse | keg steakhouse
+Milestones | milestones grill
+Earls | earls kitchen | earl's
+Cactus Club | cactus club cafe | cactus
+Moxie's | moxies
+Joey | joey restaurants | joeys
+Browns Socialhouse | browns social house
+Original Joe's | original joes
+Denny's
+Ricky's | rickys | ricky's all day grill
+Cora | cora breakfast | chez cora
+Eggsmart | egg smart
+Sunset Grill | sunset grill
+Golden Griddle
+White Spot | whitespot
+Triple O's | triple o | triple os
+Fatburger
+Five Guys
+Mucho Burrito | mucho
+Quesada | quesada burritos
+Chipotle
+Barburrito
+Freshii
+Booster Juice
+Jugo Juice
+Second Cup
+Coffee Time
+Country Style
+Timothy's | timothys | timothy's world coffee
+Blenz
+JJ Bean
+Bridgehead
+Williams Fresh Cafe | williams
+Tim Horton
+Cinnabon
+Yogen Früz | yogen fruz
+Marble Slab Creamery
+Laura Secord
+Rocky Mountain Chocolate Factory | rocky mountain chocolate
+BeaverTails
+Cinnzeo
+Thai Express
+Manchu Wok | manchu wok
+Edo Japan | edo
+Teriyaki Experience
+Opa! | opa souvlaki | opa
+Osmow's | osmows
+Basha | basha shawarma
+Paramount Fine Foods | paramount
+Lafleur | restaurants lafleur
+La Belle Province | belle province
+Valentine | restaurant valentine
+Ashton | chez ashton
+Benny & Co | benny and co
+Scores | rôtisserie scores
+Mikes | restaurant mikes | mike's
+Pacini
+Normandin | restaurant normandin
+Allô Mon Coco | allo mon coco
+Ben & Florentine | ben and florentine
+Tutti Frutti | tutti frutti breakfast
+Van Houtte
+Café Dépôt | cafe depot
+Juliette & Chocolat | juliette et chocolat
+Chocolats Favoris | chocolat favoris
+Krispy Kreme
+Sushi Shop | sushi shop canada
+Subway
+Big Smoke Burger | big smoke
+Burger Priest | the burger's priest | burgers priest
+Hero Certified Burgers | hero burger | hero burgers
+Mary Browns
+Chesters
+Church's Texas Chicken
+Popeyes
+Wendy's
+Arby's
+Taco Bell
+Dairy Queen
+Orange Julius
+Chuck E. Cheese
+Montana's
+Kelseys
+Swiss Chalet
+Harvey's
+St-Hubert
+
+--- 4
+Bob Evans
+Perkins
+Village Inn
+Denny's
+IHOP
+Waffle House
+Huddle House
+Cracker Barrel
+Golden Corral
+Shoney's
+Frisch's
+Bob's Big Boy
+Mimi's Cafe | mimis cafe | mimi's
+Black Bear Diner | black bear
+Original Pancake House | the original pancake house
+Snooze | snooze an am eatery
+Broken Yolk | the broken yolk cafe
+Peg's Glorified Ham n Eggs
+Kerby Lane
+Metro Diner
+Waffle Shop
+Wafflehouse
+Perkins Restaurant & Bakery
+Lyon's | lyons
+Norms | norm's | norms restaurant
+Coco's Bakery | coco's bakery restaurant
+Marie Callender's
+Carrows | carrow's
+Elmer's | elmers
+JB's | jb's restaurants
+Country Kitchen
+Bakers Square | baker's square
+Baker's Drive-Thru | bakers drive thru
+Cotton Patch Cafe | cotton patch
+Taco Casa
+Taco Mayo
+Taco Tico
+Taco Bueno
+El Chico | el chico cafe
+Pancho's Mexican Buffet | panchos
+Garcia's | garcias
+Carlos O'Kelly's | carlos okellys
+Don Pablo's | don pablos
+Chi-Chi's | chi chis | chichis
+El Fenix | el fenix
+Casa Olé | casa ole
+Pappasito's
+Taco Palenque
+Chili's
+On The Border
+Abuelo's
+Uncle Julio's
+Applebee's
+TGI Fridays
+Ruby Tuesday
+O'Charley's
+Bennigan's | bennigans
+Houlihan's | houlihans
+Max & Erma's | max and ermas
+Damon's | damons | damon's grill
+Champps | champps americana
+Fuddruckers
+Johnny Carino's | johnny carinos | carinos
+Romano's Macaroni Grill | macaroni grill | romanos macaroni grill
+Olive Garden
+Maggiano's
+Buca di Beppo
+Carrabba's
+Bertucci's
+Spaghetti Warehouse | spaghetti warehouse
+Old Spaghetti Factory | the old spaghetti factory | spaghetti factory
+Piccadilly
+Fazoli's
+Sbarro
+Pizza Inn
+Mazzio's | mazzios
+CiCi's
+Chuck E. Cheese
+ShowBiz Pizza | showbiz | show biz pizza
+Pizza Hut
+Marco's Pizza
+Papa Murphy's
+Jet's Pizza
+Hungry Howie's
+Little Caesars
+Pizza Ranch
+Imo's Pizza | imos | imo's
+LaRosa's | larosas | la rosa's
+Ledo Pizza | ledo
+Aurelio's | aurelios
+Monical's | monicals
+Pagliai's
+Old Chicago
+Snappy Tomato | snappy tomato pizza
+Pizza Factory
+Straw Hat Pizza | straw hat
+Garlic Jim's | garlic jims
+Me-n-Ed's | me n eds
+Mountain Mike's
+Pizza Guys
+Westshore Pizza
+Simple Simon's | simple simons
+Pie Five | pie five pizza
+&pizza | and pizza
+Pizza Studio
+Blaze Pizza
+MOD Pizza
+Pieology
+PizzaRev | pizza rev
+Your Pie | your pie pizza
+Rapid Fired Pizza
+Ruby's Diner | rubys diner | ruby's
+Mel's Drive-In | mels drive in | mel's diner | mels
+Johnny Rockets
+Steak 'n Shake
+Freddy's
+Culver's
+Andy's Frozen Custard
+Sonic
+Checkers
+Krystal
+White Castle
+Hardee's
+Carl's Jr.
+Wendy's
+Whataburger
+In-N-Out
+Five Guys
+Smashburger
+Red Robin
+BurgerFi
+Habit Burger
+Shake Shack
+Fatburger
+Wahlburgers
+Umami Burger
+Hopdoddy
+Mooyah
+Elevation Burger
+Burger 21
+Good Times
+Farmer Boys
+Wayback Burgers
+Back Yard Burgers
+Jack's
+Cook Out
+Zesto
+Kewpee
+Dick's Drive-In
+Burgerville
+Original Tommy's | tommys | tommy's | tommys burgers | original tommys
+Cassell's
+Hamburger Hamlet
+Tam's Burgers
+Astro Burger
+The Counter | counter burger
+Islands | islands restaurant | islands fine burgers
+Red Robin
+Bob's Big Boy
+Rally's
+Del Taco
+Jack in the Box
+El Pollo Loco
+Rubio's
+Taco Bell
+Baja Fresh
+Chipotle
+Qdoba
+Moe's
+Taco John's
+Taco Time
+Taco Cabana
+Torchy's Tacos
+Velvet Taco
+Tacodeli
+Fuzzy's Taco Shop | fuzzys taco shop | fuzzy's
+Taco Bueno
+Taco Bell
+Panda Express
+P.F. Chang's
+Pei Wei | pei wei asian kitchen
+Pick Up Stix | pick up sticks
+Manchu Wok
+Teriyaki Madness | teriyaki madness
+Flame Broiler | the flame broiler
+Yoshiharu
+Waba Grill | waba
+Samurai Sam's | samurai sams
+Sarku Japan | sarku
+Bento Box
+Kona Grill
+Benihana
+Kobe Steakhouse
+Ra Sushi
+Blue Sushi Sake Grill
+Kura Sushi
+Genki Sushi
+Gyu-Kaku | gyu kaku | gyukaku
+Kpot | k pot
+Gen Korean BBQ | gen korean bbq | gen
+Cupbop
+Bibibop | bibibop asian grill
+Chopt
+Sweetgreen
+Cava
+Panera Bread
+Corner Bakery
+Cosi
+Potbelly
+McAlister's
+Jason's Deli
+Schlotzsky's
+Newk's
+Zoës Kitchen
+Firehouse Subs
+Jersey Mike's
+Jimmy John's
+Which Wich
+Subway
+Quiznos
+Blimpie
+Penn Station
+Capriotti's
+Charleys Philly Steaks
+Jimmy John's
+Wawa
+Sheetz
+QuikTrip
+Casey's
+Buc-ee's
+Kwik Trip | kwik trip
+Royal Farms | royal farms chicken | rofo
+Maverik
+Holiday | holiday stationstores
+RaceTrac | race trac
+Thorntons
+Speedway
+Love's | loves | love's travel stop
+Pilot | pilot flying j
+TA | travelcenters of america
+Kum & Go | kum and go
+Cumberland Farms | cumbies | cumberland
+Stewart's Shops | stewarts | stewart's
+Rutter's | rutters
+GetGo | get go
+Weigel's | weigels
+Twice Daily
+Huddle House
+Waffle House
+Krispy Kreme
+Dunkin'
+Tim Hortons
+Shipley Do-Nuts
+Daylight Donuts
+Winchell's Donuts
+Randy's Donuts | randys donuts | randy's
+Stan's Donuts
+Top Pot | top pot doughnuts
+Blue Star Donuts
+Federal Donuts | federal donuts
+Sugar Shack
+Dunkin
+Krispy Kreme
+Hurts Donut | hurts donut company
+Psycho Donuts
+Donut Connection
+Tim Hortons
+
+--- 5
+Wienerschnitzel
+Nathan's Famous
+Portillo's
+Hot Dog on a Stick
+Dog Haus | doghaus
+Portillo's
+Superdawg
+Gray's Papaya
+Papaya King
+Pink's Hot Dogs
+Five Guys
+Skyline Chili
+Gold Star Chili
+Steak Escape
+Philly Pretzel Factory | philly pretzel
+Wetzel's Pretzels
+Auntie Anne's
+Pretzelmaker
+Ben's Soft Pretzels | bens pretzels
+Cinnabon
+Great American Cookies
+Mrs. Fields
+Crumbl
+Insomnia Cookies
+Tiff's Treats | tiffs treats
+Kilwins | kilwin's
+Rocky Mountain Chocolate Factory
+Godiva | godiva chocolatier
+Lindt | lindt chocolate shop
+See's Candies | sees candies | see's
+Ghirardelli | ghirardelli chocolate
+Hershey's Chocolate World
+Sugar Factory
+Dylan's Candy Bar
+IT'SUGAR | itsugar | it sugar
+Duck Donuts
+Nothing Bundt Cakes
+Smallcakes | small cakes
+Sprinkles
+Gigi's Cupcakes | gigis cupcakes
+Crave Cupcakes
+Georgetown Cupcake
+Magnolia Bakery
+Carlo's Bake Shop | carlos bakery | carlo's bakery | cake boss bakery
+Levain | levain bakery
+Milk Bar | milk bar bakery | momofuku milk bar
+Paris Baguette
+Tous les Jours
+85°C Bakery Cafe
+Porto's | portos | porto's bakery
+Le Pain Quotidien
+Au Bon Pain
+La Madeleine | la madeleine french bakery
+Corner Bakery
+Great Harvest Bread | great harvest
+Kneaders | kneaders bakery
+Breadsmith
+Einstein Bros. Bagels
+Bruegger's
+Noah's Bagels
+Manhattan Bagel
+Big Apple Bagels
+Panera Bread
+Tropical Smoothie Cafe
+Smoothie King
+Jamba
+Planet Smoothie
+Robeks
+Clean Juice
+Nekter
+Juice It Up
+Playa Bowls
+Pressed Juicery
+Joe & the Juice
+Orange Julius
+Dippin' Dots
+Rita's
+Kona Ice
+Bahama Buck's
+Andy's Frozen Custard
+Culver's
+Freddy's
+Kopp's
+Abbott's Frozen Custard
+Dairy Queen
+Baskin-Robbins
+Cold Stone Creamery
+Marble Slab Creamery
+MaggieMoo's
+Ben & Jerry's
+Häagen-Dazs
+Carvel
+Friendly's
+Bruster's Ice Cream
+Graeter's
+Handel's
+Jeni's
+Salt & Straw
+Van Leeuwen | van leeuwen ice cream
+Ample Hills
+Molly Moon's | molly moons
+Sweet Rose
+Halo Top Scoop Shop
+Swensen's
+Braum's | braums | braum's ice cream
+Blue Bell
+Tillamook
+Tasti D-Lite
+Yogurtland
+Menchie's
+Pinkberry
+Red Mango
+TCBY
+Sweet Frog
+16 Handles
+Orange Leaf
+Yogurt Mountain
+U-Swirl | u swirl
+Golden Spoon | golden spoon frozen yogurt
+Llaollao
+Sloan's | sloans ice cream
+Afters Ice Cream | afters
+Creamistry
+Sub Zero Ice Cream | sub zero
+Snowfox
+Holy Cow
+Sno Biz
+Bahama Buck's
+Rita's
+Cinnabon
+Auntie Anne's
+
