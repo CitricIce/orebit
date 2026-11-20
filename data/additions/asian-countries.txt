@@ -1,0 +1,56 @@
+# asian-countries additions: official/alternate names, short forms and common misspellings.
+--- 2
+China | prc | peoples republic of china | mainland china | chine | chyna
+Japan | nippon | nihon | japn
+India | bharat | republic of india | indai
+South Korea | south corea | s korea | korea south | republic of korea | rok | sth korea | southkorea
+North Korea | n korea | dprk | korea north | democratic peoples republic of korea | nth korea | north corea | northkorea
+Thailand | siam | thailnd | tailand | thialand
+Vietnam | viet nam | vietman | veitnam | vietnamn | socialist republic of vietnam
+Philippines | phillipines | philipines | phillippines | philippenes | phillipenes | philippine | filipinas | republic of the philippines
+Indonesia | indonisia | indonsia | indoneisa | indo
+Malaysia | malasia | malaysa | maylasia | malayasia
+Singapore | singapur | singapura | singapre | singpore
+Pakistan | pakistsn | pakastan | pakisatn
+Afghanistan | afganistan | afghanastan | afghanisthan | afgahnistan | afghan
+Iran | persia | islamic republic of iran | irann
+Iraq | irak | iraqi
+Saudi Arabia | saudi | ksa | saudia arabia | saudi arabien | kingdom of saudi arabia | saudiarabia | sadi arabia
+Israel | isreal | isarel | state of israel
+Turkey | türkiye | turky | turkei | turkiye republic | republic of turkey
+Russia | russian federation | rusia | russland | russsia
+Bangladesh | bangledesh | bangaldesh | bangladash | bangladeh
+Sri Lanka | ceylon | srilanka | shri lanka | sri lanaka
+Taiwan | republic of china | roc | chinese taipei | formosa | taiwann
+Myanmar | burma | myanmer | mayanmar | myanamar | union of myanmar
+United Arab Emirates | uae | emirates | the emirates | u.a.e. | united arab emirate | arab emirates
+Nepal | nepall | nepaul
+Mongolia | mongolie | mongola | outer mongolia
+Cambodia | kampuchea | cambodja | camboida | combodia
+Laos | lao | lao pdr | laos pdr | lao peoples democratic republic
+Syria | syrian arab republic | sirya | siria
+Lebanon | lebanen | lebannon | liban
+Jordan | hashemite kingdom of jordan | jordon
+Qatar | quatar | katar | qater
+Kuwait | kuwiat | kuweit
+Yemen | yeman | yemin
+--- 3
+Kazakhstan | kazakstan | kazahkstan | kazakhistan | kazackstan | kazachstan | qazaqstan
+Uzbekistan | uzbekhistan | uzbeckistan | usbekistan | uzbekstan
+Turkmenistan | turkmenstan | turkmenia | turkministan
+Kyrgyzstan | kyrgystan | kirgizstan | kyrgyz republic | kirghizia | kirgistan | kyrgyzistan | kyrgizstan | kirgizia | krygyzstan
+Tajikistan | tadjikistan | tajikstan | tadzhikistan | tajakistan
+Bhutan | butan | bhuttan
+Maldives | the maldives | maldive islands | maldivs | maldieves
+Brunei | brunei darussalam | brunai | brunie
+Timor-Leste | east timor | timor | timor leste | timorleste | democratic republic of timor-leste
+Oman | sultanate of oman
+Bahrain | bahrein | barhain | bahran
+Palestine | palestinian territories | state of palestine | palestina | west bank and gaza
+Georgia | sakartvelo | georgia country
+Armenia | hayastan | armenie
+Azerbaijan | azerbajan | azerbaidjan | azerbijan | azerbaijian | azerbaycan
+Hong Kong | hongkong | hk
+Macau | macao
+Cyprus | cypress | kypros
+--- 5
