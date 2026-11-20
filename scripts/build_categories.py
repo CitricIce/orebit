@@ -28,6 +28,9 @@ except ImportError:  # pragma: no cover
 ROOT = Path(__file__).resolve().parent.parent
 SRC_DIR = ROOT / "data" / "categories"
 OUT_FILE = ROOT / "src" / "data" / "categories.json"
+# Extra answers for a category, one file per category id, in the same
+# "--- N" tier format as the category files (no header lines needed).
+ADDITIONS_DIR = ROOT / "data" / "additions"
 
 # Share of answers in each tier, most familiar first. Must sum to 1.
 # Share of the non-Stone answers in Iron, Cobalt, Gold and Crystal.
@@ -290,6 +293,29 @@ def parse_file(path: Path) -> list[dict]:
     return cats
 
 
+def parse_additions(path: Path) -> list[dict]:
+    """Rows from a data/additions file. Lines before any "--- N" go to tier 4."""
+    rows: list[dict] = []
+    section = 4
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        m = re.fullmatch(r"---\s*([1-5])", line)
+        if m:
+            section = int(m.group(1))
+            continue
+        override = None
+        m = re.search(r"\s@([1-5])$", line)
+        if m:
+            override = int(m.group(1))
+            line = line[: m.start()].strip()
+        names = [p.strip() for p in line.split("|") if p.strip()]
+        if names:
+            rows.append({"name": names[0], "aliases": names[1:], "override": override or section})
+    return rows
+
+
 def build_category(raw: dict) -> dict:
     cid = raw["id"]
     if not re.fullmatch(r"[a-z0-9-]+", cid):
@@ -418,23 +444,39 @@ def main() -> None:
     dupes = {i for i in ids if ids.count(i) > 1}
     if dupes:
         sys.exit(f"Duplicate category ids: {sorted(dupes)}")
+    known = set(ids)
+    for path in sorted(ADDITIONS_DIR.glob("*.txt")):
+        if path.stem not in known:
+            sys.exit(f"{path.relative_to(ROOT)}: no category with id '{path.stem}'")
+    for raw in raws:
+        extra = ADDITIONS_DIR / f"{raw['id']}.txt"
+        if extra.exists():
+            raw["rows"] += parse_additions(extra)
+
+    # --only id[,id...] builds just those categories; --out path writes elsewhere.
+    # Helpers use these to check one category without touching the real build.
+    only = set(sys.argv[sys.argv.index("--only") + 1].split(",")) if "--only" in sys.argv else None
+    out_file = Path(sys.argv[sys.argv.index("--out") + 1]) if "--out" in sys.argv else OUT_FILE
+    if only:
+        raws = [r for r in raws if r["id"] in only]
 
     cats = [build_category(r) for r in sorted(raws, key=lambda r: r["id"])]
     check_easy_enough(cats)
-    OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    OUT_FILE.write_text(
+    out_file.parent.mkdir(parents=True, exist_ok=True)
+    out_file.write_text(
         json.dumps({"version": 2, "categories": cats}, ensure_ascii=False, separators=(",", ":")) + "\n",
         encoding="utf-8",
     )
     total = sum(len(c["answers"]) for c in cats)
     print(
-        f"Built {len(cats)} categories with {total} answers -> {OUT_FILE.relative_to(ROOT)}"
+        f"Built {len(cats)} categories with {total} answers -> {out_file}"
     )
     if "-v" in sys.argv:
         for c in cats:
             star = next(a["name"] for a in c["answers"] if a["tier"] == STARCORE_TIER)
             print(f"  {c['id']:<40} {len(c['answers']):>5} answers   starcore: {star}")
-    check_calendar({c["id"] for c in cats})
+    if not only:
+        check_calendar({c["id"] for c in cats})
 
 
 if __name__ == "__main__":

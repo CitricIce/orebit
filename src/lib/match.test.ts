@@ -134,3 +134,22 @@ test("no day has two categories from the same overlap group", async () => {
     }
   }
 });
+
+test("every saved player guess still finds its answer", async () => {
+  const { readdirSync, readFileSync } = await import("node:fs");
+  const dir = new URL("../../data/guesses/", import.meta.url);
+  for (const file of readdirSync(dir).filter((f) => f.endsWith(".txt"))) {
+    const id = file.slice(0, -4);
+    const cat = catalog.categories.find((c) => c.id === id);
+    assert.ok(cat, `data/guesses/${file}: no such category`);
+    const index = buildIndex(cat.answers);
+    for (const raw of readFileSync(new URL(file, dir), "utf8").split("\n")) {
+      const line = raw.trim();
+      if (!line || line.startsWith("#")) continue;
+      const [guess, expected] = line.split("=>").map((s) => s.trim());
+      const hit = findAnswer(index, guess);
+      assert.ok(hit, `${id}: "${guess}" matches nothing`);
+      if (expected) assert.equal(hit.name, expected, `${id}: "${guess}"`);
+    }
+  }
+});
