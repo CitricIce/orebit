@@ -4,10 +4,11 @@ import "@fontsource-variable/space-grotesk";
 import "@fontsource-variable/jetbrains-mono";
 import "./globals.css";
 import SiteHeader from "@/components/SiteHeader";
+import { SITE_URL } from "@/lib/site";
 import s from "./layout.module.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: "Orebit · the daily asteroid dig",
     template: "%s · Orebit",
