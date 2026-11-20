@@ -59,6 +59,49 @@ export function loadAllDays(): Record<string, DayRecord> {
   return read<Record<string, DayRecord>>(DAYS_KEY, {});
 }
 
+// Pages stay mounted in the background between visits, so anything showing
+// saved runs subscribes here instead of reading storage once.
+const listeners = new Set<() => void>();
+const EMPTY: Record<string, DayRecord> = {};
+let lastRaw: string | null = null;
+let lastDays: Record<string, DayRecord> = EMPTY;
+
+function notify(): void {
+  for (const l of listeners) l();
+}
+
+export function subscribeDays(listener: () => void): () => void {
+  listeners.add(listener);
+  window.addEventListener("storage", listener);
+  return () => {
+    listeners.delete(listener);
+    window.removeEventListener("storage", listener);
+  };
+}
+
+/** Saved runs, the same object until storage changes. */
+export function daysSnapshot(): Record<string, DayRecord> {
+  let raw: string | null = null;
+  try {
+    raw = localStorage.getItem(DAYS_KEY);
+  } catch {
+    return EMPTY;
+  }
+  if (raw !== lastRaw) {
+    lastRaw = raw;
+    try {
+      lastDays = raw ? (JSON.parse(raw) as Record<string, DayRecord>) : EMPTY;
+    } catch {
+      lastDays = EMPTY;
+    }
+  }
+  return lastDays;
+}
+
+export function serverDaysSnapshot(): Record<string, DayRecord> {
+  return EMPTY;
+}
+
 export function loadDay(date: string): DayRecord | null {
   return loadAllDays()[date] ?? null;
 }
@@ -67,6 +110,7 @@ export function saveDay(record: DayRecord): void {
   const all = loadAllDays();
   all[record.date] = record;
   write(DAYS_KEY, all);
+  notify();
 }
 
 /** Grace period after the timer for a slow network on the final guess. */

@@ -1,0 +1,4750 @@
+[
+{
+"name": "beer",
+"aliases": [
+"Beers",
+"brew"
+],
+"links": 232
+},
+{
+"name": "wine",
+"aliases": [
+"vino"
+],
+"links": 231
+},
+{
+"name": "vodka",
+"aliases": [],
+"links": 121
+},
+{
+"name": "whisky",
+"aliases": [
+"whiskey"
+],
+"links": 117
+},
+{
+"name": "champagne",
+"aliases": [
+"French sparkling wine"
+],
+"links": 97
+},
+{
+"name": "rum",
+"aliases": [
+"rums"
+],
+"links": 97
+},
+{
+"name": "cocktail",
+"aliases": [
+"cocktail recipe"
+],
+"links": 86
+},
+{
+"name": "cider",
+"aliases": [
+"alcoholic cider",
+"hard apple cider",
+"hard cider"
+],
+"links": 84
+},
+{
+"name": "sake",
+"aliases": [
+"Japanese rice wine",
+"nihonshu",
+"saki",
+"saké",
+"seishu"
+],
+"links": 84
+},
+{
+"name": "brandy",
+"aliases": [],
+"links": 83
+},
+{
+"name": "tequila",
+"aliases": [],
+"links": 83
+},
+{
+"name": "cognac",
+"aliases": [
+"french brandy"
+],
+"links": 80
+},
+{
+"name": "liqueur",
+"aliases": [
+"liqueurs"
+],
+"links": 79
+},
+{
+"name": "liquor",
+"aliases": [
+"distilled beverage",
+"distilled drink",
+"distilled spirit",
+"distilled spirits",
+"hard liquor",
+"spirit",
+"spirit drink",
+"spirits"
+],
+"links": 76
+},
+{
+"name": "gin",
+"aliases": [],
+"links": 75
+},
+{
+"name": "absinthe",
+"aliases": [],
+"links": 74
+},
+{
+"name": "mead",
+"aliases": [
+"medd"
+],
+"links": 70
+},
+{
+"name": "Mojito",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Port Wine",
+"aliases": [
+"Port",
+"Vinho do Porto"
+],
+"links": 65
+},
+{
+"name": "red wine",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Guinness",
+"aliases": [
+"Arthur Guinness Son & Co.",
+"Guinness & Co."
+],
+"links": 63
+},
+{
+"name": "palm wine",
+"aliases": [
+"Pammi"
+],
+"links": 62
+},
+{
+"name": "sangria",
+"aliases": [],
+"links": 62
+},
+{
+"name": "mulled wine",
+"aliases": [
+"spiced wine"
+],
+"links": 57
+},
+{
+"name": "white wine",
+"aliases": [],
+"links": 57
+},
+{
+"name": "sherry",
+"aliases": [
+"sherry wine"
+],
+"links": 56
+},
+{
+"name": "sparkling wine",
+"aliases": [
+"bubbly",
+"Mousseux"
+],
+"links": 56
+},
+{
+"name": "Bloody Mary",
+"aliases": [],
+"links": 55
+},
+{
+"name": "vermouth",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Arak",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Martini",
+"aliases": [],
+"links": 53
+},
+{
+"name": "ale",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Calvados",
+"aliases": [],
+"links": 52
+},
+{
+"name": "bourbon whiskey",
+"aliases": [
+"bourbon",
+"whiskey bourbon"
+],
+"links": 51
+},
+{
+"name": "boza",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Scotch whisky",
+"aliases": [
+"Scotch",
+"Scotch whiskey"
+],
+"links": 49
+},
+{
+"name": "lager",
+"aliases": [],
+"links": 48
+},
+{
+"name": "pilsner",
+"aliases": [
+"pils",
+"pilsen",
+"pilsener"
+],
+"links": 48
+},
+{
+"name": "Piña Colada",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Rakia",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Cuba libre",
+"aliases": [
+"Rum and Coke"
+],
+"links": 47
+},
+{
+"name": "ouzo",
+"aliases": [],
+"links": 47
+},
+{
+"name": "rakı",
+"aliases": [
+"raki",
+"Turkish raki"
+],
+"links": 47
+},
+{
+"name": "soju",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Merlot",
+"aliases": [
+"Alicante",
+"Alicante noir",
+"Begney",
+"Bidal",
+"Bidalhe",
+"Bigney",
+"Bigney rouge",
+"Bini",
+"Bini Ruzh",
+"Bioney",
+"Black Alicante",
+"Bordeleza belcha",
+"Bégney",
+"Crabutet",
+"Crabutet noir",
+"Crabutet noir merlau",
+"Hebigney",
+"Higney",
+"Higney rouge",
+"Langon",
+"Lecchumskij",
+"Medoc noir",
+"Merlau",
+"Merlaut",
+"Merlaut noir",
+"Merle",
+"Merle Petite",
+"Merleau",
+"Merlo",
+"Merlot black",
+"Merlot blauer",
+"Merlot crni",
+"Merlot nero",
+"Merlot noir",
+"Merlott",
+"Merlou",
+"Merlô",
+"Médoc noir",
+"Odzalesi",
+"Odzhaleshi",
+"Odzhaleshi Legkhumskii",
+"Petit Merle",
+"Picard",
+"Pikard",
+"Plan medre",
+"Planet Medok",
+"Plant du Medoc",
+"Plant du Médoc",
+"Plant Medoc",
+"Plant Médoc",
+"Saint-Macaire",
+"Same de la Canan",
+"Same dou Flaube",
+"Seme de la Canau",
+"Seme Dou Flube",
+"Semilhon rouge",
+"Semilhoum rouge",
+"Semilhoun rouge",
+"Semillon rouge",
+"Sud des Graves",
+"Sème de la Canau",
+"Sème Dou Flube",
+"Sémillon rouge",
+"Vidal",
+"Vini Ticinesi",
+"Vitrai",
+"Vitraille"
+],
+"links": 45
+},
+{
+"name": "eggnog",
+"aliases": [
+"brandy egg nog",
+"egg toddy"
+],
+"links": 44
+},
+{
+"name": "grappa",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Irish coffee",
+"aliases": [],
+"links": 44
+},
+{
+"name": "rosé wine",
+"aliases": [
+"blush",
+"blush wine",
+"rosado",
+"rosato",
+"rose",
+"rose wine",
+"rosé"
+],
+"links": 44
+},
+{
+"name": "wheat beer",
+"aliases": [
+"Kiihle blonde",
+"Weiss Bier"
+],
+"links": 44
+},
+{
+"name": "Jägermeister",
+"aliases": [
+"Jaegermeister"
+],
+"links": 43
+},
+{
+"name": "Madeira wine",
+"aliases": [
+"madeira"
+],
+"links": 43
+},
+{
+"name": "margarita",
+"aliases": [],
+"links": 43
+},
+{
+"name": "caipirinha",
+"aliases": [],
+"links": 42
+},
+{
+"name": "fortified wine",
+"aliases": [],
+"links": 42
+},
+{
+"name": "grog",
+"aliases": [],
+"links": 42
+},
+{
+"name": "mirin",
+"aliases": [],
+"links": 42
+},
+{
+"name": "slivovitz",
+"aliases": [
+"plum brandy",
+"Schlivowitz",
+"slivovica",
+"slivovice",
+"slivovitsa",
+"slivovitza",
+"slivovka",
+"traditional plum spirit",
+"śliwowica",
+"Šljivovica",
+"šljivovica",
+"șliboviță"
+],
+"links": 42
+},
+{
+"name": "Akvavit",
+"aliases": [
+"akevitt",
+"aquavit"
+],
+"links": 41
+},
+{
+"name": "Armagnac",
+"aliases": [],
+"links": 41
+},
+{
+"name": "gin and tonic",
+"aliases": [
+"G and T",
+"gin tonic"
+],
+"links": 41
+},
+{
+"name": "Johnnie Walker",
+"aliases": [],
+"links": 41
+},
+{
+"name": "limoncello",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Absolut Vodka",
+"aliases": [
+"Absolut"
+],
+"links": 40
+},
+{
+"name": "moonshine",
+"aliases": [
+"hooch",
+"mountain dew",
+"Tennessee white whiskey",
+"white lightning"
+],
+"links": 40
+},
+{
+"name": "stout",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Bacardi",
+"aliases": [],
+"links": 39
+},
+{
+"name": "chacha",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Corona",
+"aliases": [
+"Corona beer",
+"Corona Extra",
+"Corona. Extra"
+],
+"links": 39
+},
+{
+"name": "Daiquiri",
+"aliases": [],
+"links": 39
+},
+{
+"name": "apéritif",
+"aliases": [
+"aperitif",
+"apertif"
+],
+"links": 38
+},
+{
+"name": "Budweiser",
+"aliases": [
+"Bud"
+],
+"links": 38
+},
+{
+"name": "Cosmopolitan",
+"aliases": [
+"cosmo"
+],
+"links": 38
+},
+{
+"name": "elixir of life",
+"aliases": [
+"Elixir Vitae"
+],
+"links": 38
+},
+{
+"name": "mezcal",
+"aliases": [
+"mescal"
+],
+"links": 38
+},
+{
+"name": "Pilsner Urquell",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Sambuca",
+"aliases": [],
+"links": 38
+},
+{
+"name": "cachaça",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Chianti DOCG",
+"aliases": [
+"Chianti and Chianti Classico",
+"Chianti Classico"
+],
+"links": 37
+},
+{
+"name": "Pisco Sour",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Advocaat",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Campari",
+"aliases": [
+"Campari Bitter"
+],
+"links": 36
+},
+{
+"name": "pisco",
+"aliases": [],
+"links": 36
+},
+{
+"name": "amaretto",
+"aliases": [
+"amaretto liqueur"
+],
+"links": 35
+},
+{
+"name": "Baileys Irish Cream",
+"aliases": [
+"Baileys"
+],
+"links": 35
+},
+{
+"name": "bitters",
+"aliases": [
+"bitter-tasting spirit drink"
+],
+"links": 35
+},
+{
+"name": "chicha",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Curaçao",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Irish whiskey",
+"aliases": [],
+"links": 35
+},
+{
+"name": "pulque",
+"aliases": [
+"anas non ha fidanzata"
+],
+"links": 35
+},
+{
+"name": "Sex on the Beach",
+"aliases": [],
+"links": 35
+},
+{
+"name": "spritz",
+"aliases": [
+"Spritz Veneziano"
+],
+"links": 35
+},
+{
+"name": "Cointreau",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Dom Pérignon",
+"aliases": [
+"Dom Perignon"
+],
+"links": 34
+},
+{
+"name": "kirsch",
+"aliases": [
+"Kirschwasser"
+],
+"links": 34
+},
+{
+"name": "Long Island iced tea",
+"aliases": [
+"Long Island Ice Tea"
+],
+"links": 34
+},
+{
+"name": "Marsala DOC",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Negroni",
+"aliases": [],
+"links": 34
+},
+{
+"name": "porter",
+"aliases": [
+"porter beer"
+],
+"links": 34
+},
+{
+"name": "Prosecco DOC",
+"aliases": [],
+"links": 34
+},
+{
+"name": "shōchū",
+"aliases": [],
+"links": 34
+},
+{
+"name": "French wine",
+"aliases": [
+"Viticulture",
+"Viticulture en France"
+],
+"links": 33
+},
+{
+"name": "ice wine",
+"aliases": [
+"Eiswein",
+"icewine"
+],
+"links": 33
+},
+{
+"name": "makgeolli",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Pálinka",
+"aliases": [
+"Palinka"
+],
+"links": 33
+},
+{
+"name": "schnapps",
+"aliases": [
+"schnaps",
+"Sznaps"
+],
+"links": 33
+},
+{
+"name": "Tequila Sunrise",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Tokaji",
+"aliases": [
+"Tokay"
+],
+"links": 33
+},
+{
+"name": "White Russian",
+"aliases": [],
+"links": 33
+},
+{
+"name": "arrack",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Becherovka",
+"aliases": [
+"Karlsbader Becherbitter"
+],
+"links": 32
+},
+{
+"name": "Bellini",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Bock",
+"aliases": [],
+"links": 32
+},
+{
+"name": "India Pale Ale",
+"aliases": [
+"Indian Pale Ale",
+"IPA",
+"IPA Beer"
+],
+"links": 32
+},
+{
+"name": "Manhattan",
+"aliases": [
+"Manhattan cocktail"
+],
+"links": 32
+},
+{
+"name": "Stella Artois",
+"aliases": [],
+"links": 32
+},
+{
+"name": "baijiu",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Mai Tai",
+"aliases": [
+"maitai"
+],
+"links": 31
+},
+{
+"name": "Maraschino",
+"aliases": [
+"maraschino liqueur"
+],
+"links": 31
+},
+{
+"name": "perry",
+"aliases": [
+"pear cider"
+],
+"links": 31
+},
+{
+"name": "snake wine",
+"aliases": [],
+"links": 31
+},
+{
+"name": "glogg",
+"aliases": [
+"glögg",
+"Glögi",
+"Gløgg"
+],
+"links": 30
+},
+{
+"name": "Kahlúa",
+"aliases": [
+"Kahlua"
+],
+"links": 30
+},
+{
+"name": "rice wine",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Smirnoff",
+"aliases": [
+"Smirnoff Vodka",
+"Smirnov vodka"
+],
+"links": 30
+},
+{
+"name": "Trappist beer",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Amarula",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Barolo DOCG",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Cava",
+"aliases": [
+"Cava wine"
+],
+"links": 29
+},
+{
+"name": "Chartreuse",
+"aliases": [],
+"links": 29
+},
+{
+"name": "dessert wine",
+"aliases": [
+"pudding wine",
+"sweet wine"
+],
+"links": 29
+},
+{
+"name": "Georgian wine",
+"aliases": [],
+"links": 29
+},
+{
+"name": "German wine",
+"aliases": [
+"German wine culture",
+"wine culture in Germany",
+"wine in Germany"
+],
+"links": 29
+},
+{
+"name": "Old Fashioned",
+"aliases": [
+"Old fashioned cocktail",
+"Old-fashioned cocktail"
+],
+"links": 29
+},
+{
+"name": "pastis",
+"aliases": [
+"pastaga"
+],
+"links": 29
+},
+{
+"name": "smoked beer",
+"aliases": [
+"Rauchbier"
+],
+"links": 29
+},
+{
+"name": "Americano",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Aperol",
+"aliases": [],
+"links": 28
+},
+{
+"name": "awamori",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Heineken",
+"aliases": [
+"Heineken Lager Beer",
+"Heineken Pilsener"
+],
+"links": 28
+},
+{
+"name": "jenever",
+"aliases": [
+"Dutch gin",
+"genever",
+"genièvre",
+"Holland gin"
+],
+"links": 28
+},
+{
+"name": "Kölsch",
+"aliases": [],
+"links": 28
+},
+{
+"name": "lambic",
+"aliases": [
+"lambiek",
+"lambik"
+],
+"links": 28
+},
+{
+"name": "Metaxa",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Riga Black Balsam",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Screwdriver",
+"aliases": [
+"Screwdriver cocktail"
+],
+"links": 28
+},
+{
+"name": "triple sec",
+"aliases": [
+"Curaçao triple sec"
+],
+"links": 28
+},
+{
+"name": "Bénédictine",
+"aliases": [
+"Benedictine"
+],
+"links": 27
+},
+{
+"name": "fruit wine",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Kalimotxo",
+"aliases": [],
+"links": 27
+},
+{
+"name": "low-alcohol beer",
+"aliases": [
+"light beer",
+"near beer",
+"near-beer",
+"non-alcoholic beer",
+"small ale",
+"small beer",
+"zero-alcohol beer"
+],
+"links": 27
+},
+{
+"name": "Żubrówka",
+"aliases": [],
+"links": 27
+},
+{
+"name": "aguardiente",
+"aliases": [
+"aguardente",
+"burning water",
+"fiery water",
+"firewater"
+],
+"links": 26
+},
+{
+"name": "Altbier",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Angostura bitters",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Black Russian",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Jameson",
+"aliases": [
+"Jameson Irish Whiskey"
+],
+"links": 26
+},
+{
+"name": "Kir",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Moscow mule",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Singapore Sling",
+"aliases": [
+"gin sling"
+],
+"links": 26
+},
+{
+"name": "Skol",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Spanish wine",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Beaujolais nouveau",
+"aliases": [],
+"links": 25
+},
+{
+"name": "beer in Germany",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Finlandia Vodka",
+"aliases": [],
+"links": 25
+},
+{
+"name": "orange flower water",
+"aliases": [
+"orange blossom water"
+],
+"links": 25
+},
+{
+"name": "pale ale",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Retsina",
+"aliases": [],
+"links": 25
+},
+{
+"name": "sacramental wine",
+"aliases": [
+"altar wine",
+"Communion wine",
+"liturgical wine",
+"wine for consecration"
+],
+"links": 25
+},
+{
+"name": "Saperavi",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Staropramen",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Unicum",
+"aliases": [],
+"links": 25
+},
+{
+"name": "B-52",
+"aliases": [
+"B52",
+"Bifi",
+"Bifty"
+],
+"links": 24
+},
+{
+"name": "Beaujolais wine",
+"aliases": [],
+"links": 24
+},
+{
+"name": "digestif",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Drambuie",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Jim Beam",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Jupiler",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Leffe",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Maotai",
+"aliases": [
+"Moutai"
+],
+"links": 24
+},
+{
+"name": "orujo",
+"aliases": [],
+"links": 24
+},
+{
+"name": "radler",
+"aliases": [
+"Shandy Gaff"
+],
+"links": 24
+},
+{
+"name": "banana beer",
+"aliases": [
+"Omubisi"
+],
+"links": 23
+},
+{
+"name": "Berliner Weisse",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Captain Morgan",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Espresso martini",
+"aliases": [
+"Vodka espresso"
+],
+"links": 23
+},
+{
+"name": "Federweisser",
+"aliases": [
+"Federweisse",
+"Federweißer",
+"Sturm",
+"Vin bourru"
+],
+"links": 23
+},
+{
+"name": "Havana Club",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Huangjiu",
+"aliases": [],
+"links": 23
+},
+{
+"name": "kogel mogel",
+"aliases": [],
+"links": 23
+},
+{
+"name": "kriek",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Mastika",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Mimosa",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Patxaran",
+"aliases": [],
+"links": 23
+},
+{
+"name": "rye beer",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Whiskey Sour",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Ballantine's",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Brennivín",
+"aliases": [
+"Brennivin"
+],
+"links": 22
+},
+{
+"name": "Brunello di Montalcino DOCG",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Carajillo",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Chimay",
+"aliases": [
+"Chimay beer"
+],
+"links": 22
+},
+{
+"name": "crème de cassis",
+"aliases": [
+"creme de cassis"
+],
+"links": 22
+},
+{
+"name": "elixir",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Greek wine",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Malaga",
+"aliases": [
+"Malaga wine"
+],
+"links": 22
+},
+{
+"name": "Malibu",
+"aliases": [
+"Malibu liqueur",
+"Malibu Rum"
+],
+"links": 22
+},
+{
+"name": "orange wine",
+"aliases": [
+"amber wine",
+"skin-contact white wine",
+"skin-fermented white wine"
+],
+"links": 22
+},
+{
+"name": "Sidecar",
+"aliases": [],
+"links": 22
+},
+{
+"name": "umeshu",
+"aliases": [
+"plum wine"
+],
+"links": 22
+},
+{
+"name": "Vana Tallinn",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Velkopopovický Kozel",
+"aliases": [],
+"links": 22
+},
+{
+"name": "alcopop",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ararat",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Azerbaijani wine",
+"aliases": [
+"Winemaking in Azerbaijan"
+],
+"links": 21
+},
+{
+"name": "Barbaresco DOCG",
+"aliases": [],
+"links": 21
+},
+{
+"name": "bitter",
+"aliases": [
+"best bitter",
+"English bitter"
+],
+"links": 21
+},
+{
+"name": "Bombay Sapphire",
+"aliases": [
+"Bombay Gin",
+"Bombay Sapphire gin",
+"Bombay Spirits Company"
+],
+"links": 21
+},
+{
+"name": "caffè corretto",
+"aliases": [
+"caffe corretto",
+"espresso corretto"
+],
+"links": 21
+},
+{
+"name": "Grey Goose",
+"aliases": [],
+"links": 21
+},
+{
+"name": "ratafia",
+"aliases": [
+"Rataña"
+],
+"links": 21
+},
+{
+"name": "Rochefort",
+"aliases": [
+"Rochefort Brewery"
+],
+"links": 21
+},
+{
+"name": "Sazerac",
+"aliases": [
+"drinks",
+"drinl"
+],
+"links": 21
+},
+{
+"name": "schwarzbier",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tsipouro",
+"aliases": [],
+"links": 21
+},
+{
+"name": "XXXX",
+"aliases": [
+"Castlemaine XXXX",
+"Fourex",
+"X X Xxxx Xxxx"
+],
+"links": 21
+},
+{
+"name": "Argentine wine",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Boukha",
+"aliases": [
+"Tunisia"
+],
+"links": 20
+},
+{
+"name": "Chablis wine",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Chhaang",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Commandaria",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Galliano",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Goldwasser",
+"aliases": [
+"Danziger Goldwasser"
+],
+"links": 20
+},
+{
+"name": "Grand Marnier",
+"aliases": [],
+"links": 20
+},
+{
+"name": "helles",
+"aliases": [
+"hell"
+],
+"links": 20
+},
+{
+"name": "Martini",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Mint Julep",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Märzen",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Orval",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Rioja",
+"aliases": [],
+"links": 20
+},
+{
+"name": "sahti",
+"aliases": [],
+"links": 20
+},
+{
+"name": "shandy",
+"aliases": [
+"beer drink",
+"shandygaff"
+],
+"links": 20
+},
+{
+"name": "spritzer",
+"aliases": [
+"Fröccs"
+],
+"links": 20
+},
+{
+"name": "Stolichnaya",
+"aliases": [
+"Stoli"
+],
+"links": 20
+},
+{
+"name": "table wine",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tej",
+"aliases": [],
+"links": 20
+},
+{
+"name": "zivania",
+"aliases": [
+"zivana"
+],
+"links": 20
+},
+{
+"name": "Ţuică",
+"aliases": [
+"tsuica",
+"tsuika",
+"tuica",
+"tzuica",
+"tzuika"
+],
+"links": 20
+},
+{
+"name": "Alexander",
+"aliases": [
+"Princess Mary"
+],
+"links": 19
+},
+{
+"name": "applejack",
+"aliases": [
+"apple brandy"
+],
+"links": 19
+},
+{
+"name": "barley wine",
+"aliases": [
+"barleywine"
+],
+"links": 19
+},
+{
+"name": "Caol Ila Distillery",
+"aliases": [
+"Caol Ila",
+"Caol Ìle",
+"Ruadhphort"
+],
+"links": 19
+},
+{
+"name": "Chilean wine",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Dunkel",
+"aliases": [],
+"links": 19
+},
+{
+"name": "French 75",
+"aliases": [
+"jeuxde"
+],
+"links": 19
+},
+{
+"name": "Gose",
+"aliases": [],
+"links": 19
+},
+{
+"name": "highball",
+"aliases": [],
+"links": 19
+},
+{
+"name": "hippocrass",
+"aliases": [
+"hipocras",
+"hypocras"
+],
+"links": 19
+},
+{
+"name": "Hungarian wine",
+"aliases": [
+"wine of Hungary"
+],
+"links": 19
+},
+{
+"name": "Japanese whisky",
+"aliases": [
+"Japanese whiskey"
+],
+"links": 19
+},
+{
+"name": "passito",
+"aliases": [
+"dried grape wine",
+"Raisin wine",
+"straw wine"
+],
+"links": 19
+},
+{
+"name": "rye whiskey",
+"aliases": [
+"rye"
+],
+"links": 19
+},
+{
+"name": "Tia Maria",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Tiger Beer",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Vesper",
+"aliases": [
+"Vesper Martini"
+],
+"links": 19
+},
+{
+"name": "Agua de Valencia",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Amarone della Valpolicella DOCG",
+"aliases": [
+"Amarone"
+],
+"links": 18
+},
+{
+"name": "Asti DOCG",
+"aliases": [
+"Asti",
+"Asti Spumante"
+],
+"links": 18
+},
+{
+"name": "Australian wine",
+"aliases": [],
+"links": 18
+},
+{
+"name": "beer in the Czech Republic",
+"aliases": [],
+"links": 18
+},
+{
+"name": "crème de menthe",
+"aliases": [
+"creme de menthe",
+"mint cream"
+],
+"links": 18
+},
+{
+"name": "Frangelico",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Gordon's London Dry Gin",
+"aliases": [
+"Alexander Gordon & Co.",
+"Gordon's Gin"
+],
+"links": 18
+},
+{
+"name": "IBA official cocktail",
+"aliases": [
+"list of IBA official cocktails"
+],
+"links": 18
+},
+{
+"name": "Karlovačko",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Kilkenny",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lapin Kulta",
+"aliases": [],
+"links": 18
+},
+{
+"name": "long drink",
+"aliases": [
+"Longdrink"
+],
+"links": 18
+},
+{
+"name": "Ožujsko",
+"aliases": [],
+"links": 18
+},
+{
+"name": "poitín",
+"aliases": [
+"poitin",
+"poteen"
+],
+"links": 18
+},
+{
+"name": "Prošek",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Rhône wine",
+"aliases": [
+"Rhone wine"
+],
+"links": 18
+},
+{
+"name": "shooter",
+"aliases": [
+"Shot"
+],
+"links": 18
+},
+{
+"name": "Taedonggang",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Tennessee whiskey",
+"aliases": [
+"Tennessee whisky"
+],
+"links": 18
+},
+{
+"name": "The Famous Grouse",
+"aliases": [
+"Famous Grouse"
+],
+"links": 18
+},
+{
+"name": "Tom Collins",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Wild Turkey",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Zombie",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Achel Brewery",
+"aliases": [],
+"links": 17
+},
+{
+"name": "American wine",
+"aliases": [
+"United States wine",
+"US wine",
+"wine",
+"wine from the United States",
+"wine in the United States",
+"wines from the United States",
+"wines of the United States"
+],
+"links": 17
+},
+{
+"name": "Apfelwein",
+"aliases": [
+"Apple wine",
+"Most",
+"Viez"
+],
+"links": 17
+},
+{
+"name": "Canadian whisky",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Dortmunder Export",
+"aliases": [],
+"links": 17
+},
+{
+"name": "draught beer",
+"aliases": [
+"draft beer",
+"keg beer"
+],
+"links": 17
+},
+{
+"name": "eau-de-vie",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Estrella Damm",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Fernet",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Feuerzangenbowle",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Free Beer",
+"aliases": [
+"Vores Øl"
+],
+"links": 17
+},
+{
+"name": "gimlet",
+"aliases": [],
+"links": 17
+},
+{
+"name": "grasshopper",
+"aliases": [],
+"links": 17
+},
+{
+"name": "gueuze",
+"aliases": [
+"Brussels champagne",
+"geuze"
+],
+"links": 17
+},
+{
+"name": "Horilka",
+"aliases": [
+"Pertsivka"
+],
+"links": 17
+},
+{
+"name": "hot toddy",
+"aliases": [
+"hot whiskey"
+],
+"links": 17
+},
+{
+"name": "Kamikaze",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Krupnik",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Michelada",
+"aliases": [],
+"links": 17
+},
+{
+"name": "nalewka",
+"aliases": [
+"nalyvka"
+],
+"links": 17
+},
+{
+"name": "Newcastle Brown Ale",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Romanian wine",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Rusty Nail",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sauternes",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Singha",
+"aliases": [],
+"links": 17
+},
+{
+"name": "sorghum beer",
+"aliases": [
+"bantu beer",
+"chapalo",
+"dolo",
+"kaffir beer",
+"millet beer",
+"Millet beer",
+"pombe",
+"tchapalo",
+"utshwala"
+],
+"links": 17
+},
+{
+"name": "sour",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Southern Comfort",
+"aliases": [
+"SoCo"
+],
+"links": 17
+},
+{
+"name": "Tanqueray",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Tepache",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Tullamore Dew",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Underberg",
+"aliases": [],
+"links": 17
+},
+{
+"name": "White Lady",
+"aliases": [],
+"links": 17
+},
+{
+"name": "anisette",
+"aliases": [
+"anis"
+],
+"links": 16
+},
+{
+"name": "Aqua vitae",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Beefeater Gin",
+"aliases": [
+"Beefeater"
+],
+"links": 16
+},
+{
+"name": "brown ale",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Caesar",
+"aliases": [
+"Bloody Caesar",
+"Red Eye"
+],
+"links": 16
+},
+{
+"name": "Cahors wine",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Dubonnet",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Gammel Dansk",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Godfather",
+"aliases": [
+"God Father",
+"The Godfather"
+],
+"links": 16
+},
+{
+"name": "Grodziskie",
+"aliases": [
+"Grätzer"
+],
+"links": 16
+},
+{
+"name": "Irish cream",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Israeli wine",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lemon Drop",
+"aliases": [
+"Lemon Drop Martini"
+],
+"links": 16
+},
+{
+"name": "Moldovan wine",
+"aliases": [],
+"links": 16
+},
+{
+"name": "murta",
+"aliases": [
+"mirto"
+],
+"links": 16
+},
+{
+"name": "Muscadet",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Queimada",
+"aliases": [],
+"links": 16
+},
+{
+"name": "saison",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Shaoxing wine",
+"aliases": [],
+"links": 16
+},
+{
+"name": "South African wine",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sovetskoye Shampanskoye",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Umqombothi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "vin santo",
+"aliases": [
+"holy wine",
+"vinsanto"
+],
+"links": 16
+},
+{
+"name": "Vino Nobile di Montepulciano DOCG",
+"aliases": [
+"Montepulciano"
+],
+"links": 16
+},
+{
+"name": "Angel Face",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Aviation",
+"aliases": [],
+"links": 15
+},
+{
+"name": "blended whiskey",
+"aliases": [
+"blended whisky"
+],
+"links": 15
+},
+{
+"name": "Blue Lagoon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Borovička",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Brahma",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Châteauneuf-du-Pape AOC",
+"aliases": [
+"Chateauneuf-du-Pape AOC"
+],
+"links": 15
+},
+{
+"name": "Fenny",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Fernet-Branca",
+"aliases": [],
+"links": 15
+},
+{
+"name": "La Trappe",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lumumba",
+"aliases": [
+"Lugumba"
+],
+"links": 15
+},
+{
+"name": "medovukha",
+"aliases": [],
+"links": 15
+},
+{
+"name": "natural wine",
+"aliases": [],
+"links": 15
+},
+{
+"name": "nocino",
+"aliases": [],
+"links": 15
+},
+{
+"name": "pale lager",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Posca",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Red Stripe",
+"aliases": [],
+"links": 15
+},
+{
+"name": "single malt whisky",
+"aliases": [
+"single malt"
+],
+"links": 15
+},
+{
+"name": "Slovenian wine",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Tongba",
+"aliases": [],
+"links": 15
+},
+{
+"name": "triphala",
+"aliases": [
+"san-le-chiang",
+"san-lê-chiang",
+"sanlejiang"
+],
+"links": 15
+},
+{
+"name": "Txakoli",
+"aliases": [
+"chacolí"
+],
+"links": 15
+},
+{
+"name": "zwickelbier",
+"aliases": [
+"Kellerbier"
+],
+"links": 15
+},
+{
+"name": "Amaro Averna",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bardolino DOC",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Boulevardier",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Brandy Alexander",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Clover Club Cocktail",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Crusta",
+"aliases": [
+"Brandy Crusta"
+],
+"links": 14
+},
+{
+"name": "Cynar",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Foster's",
+"aliases": [
+"Foster's Lager"
+],
+"links": 14
+},
+{
+"name": "Harvey Wallbanger",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Khamr",
+"aliases": [
+"Alcohol in Islam",
+"drinking in Islam"
+],
+"links": 14
+},
+{
+"name": "Lillet",
+"aliases": [],
+"links": 14
+},
+{
+"name": "liqueur coffee",
+"aliases": [
+"coffee cocktail"
+],
+"links": 14
+},
+{
+"name": "May wine",
+"aliases": [
+"Maibowle",
+"Maitrank",
+"Maiwein",
+"Waldmeisterbowle"
+],
+"links": 14
+},
+{
+"name": "Midori",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Montepulciano d'Abruzzo DOC",
+"aliases": [
+"Montepulciano"
+],
+"links": 14
+},
+{
+"name": "Murphy's Irish Stout",
+"aliases": [],
+"links": 14
+},
+{
+"name": "New Zealand wine",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Orgasm",
+"aliases": [],
+"links": 14
+},
+{
+"name": "raksi",
+"aliases": [
+"rakshi"
+],
+"links": 14
+},
+{
+"name": "rectified spirit",
+"aliases": [
+"ethyl alcohol of agricultural origin",
+"neutral spirits",
+"rectified alcohol"
+],
+"links": 14
+},
+{
+"name": "Sagres beer",
+"aliases": [],
+"links": 14
+},
+{
+"name": "sloe gin",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Sotol",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Swiss wine",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Tinto de verano",
+"aliases": [],
+"links": 14
+},
+{
+"name": "vin jaune",
+"aliases": [],
+"links": 14
+},
+{
+"name": "vodka martini",
+"aliases": [],
+"links": 14
+},
+{
+"name": "wine in China",
+"aliases": [
+"Chinese viticulture",
+"Chinese wine",
+"viticulture in China"
+],
+"links": 14
+},
+{
+"name": "Albanian wine",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Appletini",
+"aliases": [
+"Apple martini"
+],
+"links": 13
+},
+{
+"name": "Belvedere",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Between the Sheets",
+"aliases": [],
+"links": 13
+},
+{
+"name": "bière de garde",
+"aliases": [
+"biere de garde"
+],
+"links": 13
+},
+{
+"name": "Bramble",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Brazilian wine",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cerasuolo di Vittoria DOCG",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cerveza Quilmes",
+"aliases": [
+"Quilmes cerveza"
+],
+"links": 13
+},
+{
+"name": "Christmas beer",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Château Pétrus",
+"aliases": [
+"Petrus",
+"Pétrus"
+],
+"links": 13
+},
+{
+"name": "corn whiskey",
+"aliases": [
+"Corn Squeezin’s"
+],
+"links": 13
+},
+{
+"name": "Dark 'N' Stormy",
+"aliases": [],
+"links": 13
+},
+{
+"name": "dubbel",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Gin Fizz",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Goldstar beer",
+"aliases": [],
+"links": 13
+},
+{
+"name": "grain whisky",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Grant's",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Horse's Neck",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kingfisher",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Krambambuli",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Lao-Lao",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Liebfraumilch",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Monkey Gland",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Moscato d'Asti DOCG",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Planter's Punch",
+"aliases": [],
+"links": 13
+},
+{
+"name": "real ale",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Ribera del Duero",
+"aliases": [
+"Ribera del Duero DO"
+],
+"links": 13
+},
+{
+"name": "Saint-Émilion AOC",
+"aliases": [
+"Saint-Emilion AOC"
+],
+"links": 13
+},
+{
+"name": "Sancerre",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Sea Breeze",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Sheridan's",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Soave DOC",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Somersby",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Starka",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Strega",
+"aliases": [],
+"links": 13
+},
+{
+"name": "toso",
+"aliases": [
+"doso-ju",
+"o-toso",
+"otoso"
+],
+"links": 13
+},
+{
+"name": "tripel",
+"aliases": [
+"tripel beer"
+],
+"links": 13
+},
+{
+"name": "Turkish wine",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Ukrainian wine",
+"aliases": [],
+"links": 13
+},
+{
+"name": "varietal wine",
+"aliases": [
+"varietal"
+],
+"links": 13
+},
+{
+"name": "Zhigulevskoye",
+"aliases": [
+"Žiguli"
+],
+"links": 13
+},
+{
+"name": "Zlatý Bažant",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Algerian wine",
+"aliases": [],
+"links": 12
+},
+{
+"name": "anise drink",
+"aliases": [
+"anise-flavoured spirit",
+"anise-flavoured spirit drink",
+"aniseed-flavoured spirit",
+"aniseed-flavoured spirit drink"
+],
+"links": 12
+},
+{
+"name": "Ara",
+"aliases": [],
+"links": 12
+},
+{
+"name": "arkhi",
+"aliases": [
+"milk vodka"
+],
+"links": 12
+},
+{
+"name": "Bacardi",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Bacardi Breezer",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Barraquito",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Black Velvet",
+"aliases": [],
+"links": 12
+},
+{
+"name": "brem",
+"aliases": [],
+"links": 12
+},
+{
+"name": "brännvin",
+"aliases": [],
+"links": 12
+},
+{
+"name": "California wine",
+"aliases": [
+"California wines",
+"Californian wines",
+"wine",
+"wines",
+"wines from California"
+],
+"links": 12
+},
+{
+"name": "Canadian wine",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Casino",
+"aliases": [
+"Casino cocktail"
+],
+"links": 12
+},
+{
+"name": "Cerveza Sol",
+"aliases": [
+"Sol"
+],
+"links": 12
+},
+{
+"name": "chūhai",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Cutty Sark",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Czech wine",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Delirium Tremens",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Est! Est!! Est!!! di Montefiascone DOC",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Estrella Galicia",
+"aliases": [
+"La Estrella de Galicia"
+],
+"links": 12
+},
+{
+"name": "Gambrinus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "ginjinha",
+"aliases": [
+"Ginja"
+],
+"links": 12
+},
+{
+"name": "Graves",
+"aliases": [],
+"links": 12
+},
+{
+"name": "habushu",
+"aliases": [
+"Habu Sake",
+"Okinawan Snake Wine"
+],
+"links": 12
+},
+{
+"name": "Hemingway Special",
+"aliases": [
+"Hemingway daiquiri",
+"papa doble"
+],
+"links": 12
+},
+{
+"name": "Jose Cuervo",
+"aliases": [
+"Tequila Jose Cuervo"
+],
+"links": 12
+},
+{
+"name": "Kaoliang wine",
+"aliases": [
+"Baijiu",
+"Gaoliang chiew",
+"Gaoliang jiu",
+"Gaoliang liquor",
+"Gaoliang wine",
+"Kaoliang chiew",
+"Kaoliang jiu",
+"Kaoliang liquor",
+"Sorghum liquor",
+"Sorghum wine"
+],
+"links": 12
+},
+{
+"name": "Kir Royal",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Korean alcoholic drinks",
+"aliases": [
+"sul",
+"Traditional Korean alcoholic beverages"
+],
+"links": 12
+},
+{
+"name": "Korn",
+"aliases": [
+"Doppelkorn",
+"Kornbrand"
+],
+"links": 12
+},
+{
+"name": "Koskenkorva Viina",
+"aliases": [
+"Koskenkorva",
+"Koskenkorvan viina",
+"Koskenkorvan Viina",
+"Kossu"
+],
+"links": 12
+},
+{
+"name": "Lacryma Christi Vesuvio DOC",
+"aliases": [
+"Lachryma Christi"
+],
+"links": 12
+},
+{
+"name": "Magners Irish Cider",
+"aliases": [
+"Bulmers Irish Cider"
+],
+"links": 12
+},
+{
+"name": "malt beer",
+"aliases": [
+"malt"
+],
+"links": 12
+},
+{
+"name": "Mama Juana",
+"aliases": [
+"mamajuana"
+],
+"links": 12
+},
+{
+"name": "Mijiu",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Paloma",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Paradise",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Porto flip",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Rob Roy",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Sirop de Picon",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Slovak wine",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Snaps",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Steinbier",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Three Horses Beer",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Vin de liqueur",
+"aliases": [
+"Mistela"
+],
+"links": 12
+},
+{
+"name": "Whisky and Coke",
+"aliases": [
+"Jack and Coke"
+],
+"links": 12
+},
+{
+"name": "Wyborowa",
+"aliases": [],
+"links": 12
+},
+{
+"name": "abbey beer",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Abricotine",
+"aliases": [
+"Crème d'Abricot",
+"Eau-de-vie d’abricot du Valais"
+],
+"links": 11
+},
+{
+"name": "amaro",
+"aliases": [
+"Italian bitter"
+],
+"links": 11
+},
+{
+"name": "American whiskey",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Armenian wine",
+"aliases": [
+"winemaking in Armenia"
+],
+"links": 11
+},
+{
+"name": "aromatised wine",
+"aliases": [
+"aperitif wine",
+"aromatized wine",
+"wine-based aperitif"
+],
+"links": 11
+},
+{
+"name": "Bacardi 151",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bombardino",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Carling",
+"aliases": [
+"Carling Brewery"
+],
+"links": 11
+},
+{
+"name": "Chambord",
+"aliases": [],
+"links": 11
+},
+{
+"name": "cheongju",
+"aliases": [
+"clear rice wine",
+"refined rice wine",
+"Sake in Korea",
+"yakju"
+],
+"links": 11
+},
+{
+"name": "Chopin Vodka",
+"aliases": [],
+"links": 11
+},
+{
+"name": "craft beer",
+"aliases": [
+"microbrew"
+],
+"links": 11
+},
+{
+"name": "Côtes du Rhône AOC",
+"aliases": [
+"Cotes du Rhone AOC"
+],
+"links": 11
+},
+{
+"name": "Desperados",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dewar's",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Efes Pilsen",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Egri bikavér",
+"aliases": [
+"Egri Bikaver"
+],
+"links": 11
+},
+{
+"name": "Erguotou",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Falernian wine",
+"aliases": [],
+"links": 11
+},
+{
+"name": "fizz",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Flanders Oud Bruin",
+"aliases": [
+"Oudenaards bruin"
+],
+"links": 11
+},
+{
+"name": "Flanders red ale",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Floc de Gascogne",
+"aliases": [],
+"links": 11
+},
+{
+"name": "French Connection",
+"aliases": [],
+"links": 11
+},
+{
+"name": "hugo drink",
+"aliases": [
+"Hugo Spritz"
+],
+"links": 11
+},
+{
+"name": "ice beer",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Japanese wine",
+"aliases": [],
+"links": 11
+},
+{
+"name": "John Collins",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Jägerbomb",
+"aliases": [],
+"links": 11
+},
+{
+"name": "karsk",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Khvanchkara",
+"aliases": [],
+"links": 11
+},
+{
+"name": "malt liquor",
+"aliases": [],
+"links": 11
+},
+{
+"name": "malt whisky",
+"aliases": [],
+"links": 11
+},
+{
+"name": "mild ale",
+"aliases": [
+"young ale"
+],
+"links": 11
+},
+{
+"name": "Moroccan wine",
+"aliases": [],
+"links": 11
+},
+{
+"name": "muscatel",
+"aliases": [
+"muscadel",
+"muscadine",
+"muscat wine"
+],
+"links": 11
+},
+{
+"name": "Noilly Prat",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Pauwel Kwak",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Pineau des Charentes",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Poncha",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Porn star martini",
+"aliases": [
+"Maverick Martini",
+"Passion star martini",
+"Pornstar",
+"Pornstar martini"
+],
+"links": 11
+},
+{
+"name": "punsch",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Rueda",
+"aliases": [
+"Rueda DO"
+],
+"links": 11
+},
+{
+"name": "Russian Standard",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Rías Baixas",
+"aliases": [
+"Rias Baixas"
+],
+"links": 11
+},
+{
+"name": "Shiraz wine",
+"aliases": [
+"Syrah"
+],
+"links": 11
+},
+{
+"name": "Smithwick's",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Somontano",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Spam musubi",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Speyside single malt whisky",
+"aliases": [
+"Speyside Scotch",
+"Speyside single malt Scotch",
+"Speyside single malts",
+"Speyside whisky"
+],
+"links": 11
+},
+{
+"name": "steam beer",
+"aliases": [
+"Anchor steam",
+"California Common"
+],
+"links": 11
+},
+{
+"name": "Stinger",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tsikoudia",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tuak",
+"aliases": [
+"Palm wine"
+],
+"links": 11
+},
+{
+"name": "Tunisian wine",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Vat 69",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Vernaccia di San Gimignano DOCG",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Aglianico del Vulture DOC",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Alchermes",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Amontillado",
+"aliases": [],
+"links": 10
+},
+{
+"name": "banana wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Basi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bee's Knees",
+"aliases": [
+"Bees Knees"
+],
+"links": 10
+},
+{
+"name": "beer in Poland",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Beerenauslese",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Beerenburg",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bintang Beer",
+"aliases": [],
+"links": 10
+},
+{
+"name": "blended malt whisky",
+"aliases": [
+"blended malt",
+"pure malt",
+"vatted malt"
+],
+"links": 10
+},
+{
+"name": "Blue Hawaiian",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Brandy de Jerez",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bulgarian wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bärenfang",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Champagne Cocktail",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chang",
+"aliases": [
+"Chang Classic"
+],
+"links": 10
+},
+{
+"name": "chicha de jora",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cobra Beer",
+"aliases": [
+"Cobra Beer Brewery",
+"Cobra Beer Brewing"
+],
+"links": 10
+},
+{
+"name": "Conditum",
+"aliases": [
+"Kondeton",
+"Piperatum"
+],
+"links": 10
+},
+{
+"name": "Croatian wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "crémant",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cîroc",
+"aliases": [
+"Ciroc",
+"Cîroc Vodka"
+],
+"links": 10
+},
+{
+"name": "Côte-Rôtie AOC",
+"aliases": [
+"Cote-Rotie AOC"
+],
+"links": 10
+},
+{
+"name": "Danish wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Egyptian wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "flip",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Fucking Hell",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Gavi DOCG",
+"aliases": [],
+"links": 10
+},
+{
+"name": "gentian",
+"aliases": [
+"Gentian schnapps",
+"Gentian spirit"
+],
+"links": 10
+},
+{
+"name": "Golden Dream",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Grimbergen",
+"aliases": [],
+"links": 10
+},
+{
+"name": "hard seltzer",
+"aliases": [
+"hard sparkling water",
+"spiked seltzer"
+],
+"links": 10
+},
+{
+"name": "Himbeergeist",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Islay single malt whisky",
+"aliases": [
+"Islay Scotch",
+"Islay single malt Scotch",
+"Islay whisky"
+],
+"links": 10
+},
+{
+"name": "Karhu",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kitron",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Late harvest wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Layered drink",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Licor Beirão",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Luxembourg wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Manzanilla",
+"aliases": [
+"Manzanilla de Sanlucar DO"
+],
+"links": 10
+},
+{
+"name": "Montilla-Moriles",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Moskovskaya vodka",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Navarra",
+"aliases": [
+"Navarra DO"
+],
+"links": 10
+},
+{
+"name": "New World wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Old ale",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Orvieto DOC",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pisang Ambon",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Polish wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "pomace brandy",
+"aliases": [
+"grape marc",
+"grape marc spirit"
+],
+"links": 10
+},
+{
+"name": "Pommeau",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Provence wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Putinka",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rebujito",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rioja Alta",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rompope",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rossini",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Rumtopf",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Serbian wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "sima",
+"aliases": [
+"Finnish spring mead"
+],
+"links": 10
+},
+{
+"name": "Singani",
+"aliases": [
+"Chuflai",
+"Chuflay"
+],
+"links": 10
+},
+{
+"name": "Skyy Vodka",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Swedish wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "The Last Word",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Trockenbeerenauslese",
+"aliases": [],
+"links": 10
+},
+{
+"name": "U-Boot",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Uruguayan wine",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Zundert",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Affligem beer",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Amaro Ramazzotti",
+"aliases": [
+"Ramazzotti"
+],
+"links": 9
+},
+{
+"name": "Austrian wine",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Baltika",
+"aliases": [],
+"links": 9
+},
+{
+"name": "beer cocktail",
+"aliases": [],
+"links": 9
+},
+{
+"name": "beer in Italy",
+"aliases": [
+"Italian beer"
+],
+"links": 9
+},
+{
+"name": "Blanquette de Limoux",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Brachetto d'Acqui DOCG",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bronx",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bucanero Brewery S.A.",
+"aliases": [
+"Cubanero"
+],
+"links": 9
+},
+{
+"name": "Canadian Club",
+"aliases": [
+"CC"
+],
+"links": 9
+},
+{
+"name": "Canchanchara",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Canelaz",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Carmignano DOCG",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Cauim",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Changaa",
+"aliases": [],
+"links": 9
+},
+{
+"name": "chocolate liqueur",
+"aliases": [
+"chocolate liquor"
+],
+"links": 9
+},
+{
+"name": "clairet",
+"aliases": [],
+"links": 9
+},
+{
+"name": "corn beer",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Cruzcampo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Death in the Afternoon",
+"aliases": [
+"Hemingway",
+"Hemingway Champagne"
+],
+"links": 9
+},
+{
+"name": "Derby",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Dutch wine",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Engelszell beer",
+"aliases": [],
+"links": 9
+},
+{
+"name": "flaming beverage",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Four Roses",
+"aliases": [],
+"links": 9
+},
+{
+"name": "French Martini",
+"aliases": [],
+"links": 9
+},
+{
+"name": "fruit beer",
+"aliases": [],
+"links": 9
+},
+{
+"name": "fruit brandy",
+"aliases": [
+"fruit spirit"
+],
+"links": 9
+},
+{
+"name": "German sparkling wine",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ginger wine",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Génépi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Hanky-Panky cocktail",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Harp Lager",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Haut-Médoc AOC",
+"aliases": [
+"Haut-Medoc AOC"
+],
+"links": 9
+},
+{
+"name": "Hendrick's Gin",
+"aliases": [],
+"links": 9
+},
+{
+"name": "hurricane",
+"aliases": [
+"Hurricane cocktail",
+"hurricane cocktail"
+],
+"links": 9
+},
+{
+"name": "Jagertee",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Kamenitza",
+"aliases": [],
+"links": 9
+},
+{
+"name": "kilju",
+"aliases": [
+"sugar wine"
+],
+"links": 9
+},
+{
+"name": "Kizlyarka",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lav pivo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Louis Roederer cuvée Cristal",
+"aliases": [
+"Louis Roederer cuvee Cristal"
+],
+"links": 9
+},
+{
+"name": "Louis XIII de Rémy Martin",
+"aliases": [
+"Louis XIII de Remy Martin"
+],
+"links": 9
+},
+{
+"name": "Maker's Mark",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Martinez",
+"aliases": [
+"Martinez cocktail"
+],
+"links": 9
+},
+{
+"name": "Mary Pickford",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Mexican wine",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Montsant",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Mukuzani",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Old Cuban",
+"aliases": [],
+"links": 9
+},
+{
+"name": "orange bitters",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pelinkovac",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pink Lady",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pito",
+"aliases": [
+"Pito drink"
+],
+"links": 9
+},
+{
+"name": "Queen Mary",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Recioto della Valpolicella DOCG",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Rotspon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Samuel Adams",
+"aliases": [
+"Sam Adams"
+],
+"links": 9
+},
+{
+"name": "sour beer",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tesgüino",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tiger bone wine",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tom and Jerry",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tripel Karmeliet",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tsinandali wine",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Victoria Bitter",
+"aliases": [
+"VB"
+],
+"links": 9
+},
+{
+"name": "Vieux Carré",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Vikingfjord",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Yellow Bird",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Żubr",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Żywiec",
+"aliases": [],
+"links": 9
+},
+{
+"name": "7 and 7",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Alicante",
+"aliases": [],
+"links": 8
+},
+{
+"name": "American pale ale",
+"aliases": [
+"APA"
+],
+"links": 8
+},
+{
+"name": "Anjou wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "baekseju",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Balché",
+"aliases": [
+"Balche"
+],
+"links": 8
+},
+{
+"name": "balsam",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Barbera d'Asti DOCG",
+"aliases": [],
+"links": 8
+},
+{
+"name": "beer in France",
+"aliases": [],
+"links": 8
+},
+{
+"name": "beer in Ireland",
+"aliases": [],
+"links": 8
+},
+{
+"name": "beer in Sweden",
+"aliases": [
+"Swedish beer"
+],
+"links": 8
+},
+{
+"name": "Bell's whisky",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bierzo",
+"aliases": [
+"Bierzo DOP"
+],
+"links": 8
+},
+{
+"name": "biodynamic wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Black and Tan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Blanche de Namur",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Boerenjongens",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bokbunja ju",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Caipiroska",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cara Pils",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cariñena",
+"aliases": [
+"Carinena Designation of Origin",
+"Designation of Origin Carinena"
+],
+"links": 8
+},
+{
+"name": "Catalan wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "coffee liqueur",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Coquito",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Corpse Reviver",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cviček",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Doburoku",
+"aliases": [
+"Nigori"
+],
+"links": 8
+},
+{
+"name": "Dos Equis",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Duvel",
+"aliases": [
+"Duvel beer"
+],
+"links": 8
+},
+{
+"name": "Erbaluce di Caluso DOCG",
+"aliases": [],
+"links": 8
+},
+{
+"name": "export",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Falernum",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Fitou AOC",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Fix",
+"aliases": [
+"Fix beer",
+"FIX HELLAS"
+],
+"links": 8
+},
+{
+"name": "Franciacorta DOCG",
+"aliases": [
+"Franciacorta"
+],
+"links": 8
+},
+{
+"name": "Frascati DOC",
+"aliases": [
+"Frascati"
+],
+"links": 8
+},
+{
+"name": "Gattinara DOCG",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gibson",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hermitage AOC",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hock",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ibwatu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Imperial",
+"aliases": [
+"Cerveza Imperial"
+],
+"links": 8
+},
+{
+"name": "Irish Car Bomb",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Irouléguy AOC",
+"aliases": [
+"Irouleguy AOC"
+],
+"links": 8
+},
+{
+"name": "Jack Rose",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Jura wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Jurançon AOC",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kindzmarauli",
+"aliases": [],
+"links": 8
+},
+{
+"name": "kuchikamizake",
+"aliases": [],
+"links": 8
+},
+{
+"name": "La Mancha",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lakka",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lebanese wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lech",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Margaux AOC",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mateus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Minttu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Morellino di Scansano DOCG",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mulsum",
+"aliases": [
+"honey wine"
+],
+"links": 8
+},
+{
+"name": "Namibian wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "New York Sour",
+"aliases": [],
+"links": 8
+},
+{
+"name": "organic wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Paper Plane",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Passoã",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Penedès",
+"aliases": [
+"DO Penedes",
+"DO Penedès",
+"Penedes"
+],
+"links": 8
+},
+{
+"name": "Pessac-Léognan",
+"aliases": [
+"Pessac-Leognan"
+],
+"links": 8
+},
+{
+"name": "Pouilly-Fumé",
+"aliases": [
+"Pouilly-Fume"
+],
+"links": 8
+},
+{
+"name": "Prince of Wales",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pruno",
+"aliases": [
+"prison wine"
+],
+"links": 8
+},
+{
+"name": "pumpkin ale",
+"aliases": [
+"pumpkin beer"
+],
+"links": 8
+},
+{
+"name": "Ramos Gin Fizz",
+"aliases": [
+"New Orleans fizz",
+"Ramos fizz"
+],
+"links": 8
+},
+{
+"name": "Ratzeputz",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Realgar wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ribeiro",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ricard",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rose",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Russian Spring Punch",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Saint-Estèphe AOC",
+"aliases": [
+"Saint-Estephe AOC"
+],
+"links": 8
+},
+{
+"name": "Sato",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Scotch and soda",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sobieski Vodka",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Spätlese",
+"aliases": [],
+"links": 8
+},
+{
+"name": "St. Erhard",
+"aliases": [],
+"links": 8
+},
+{
+"name": "still wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Strongbow",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Suze",
+"aliases": [],
+"links": 8
+},
+{
+"name": "svagdricka",
+"aliases": [
+"light drink",
+"low drink",
+"soft drink",
+"weak drink"
+],
+"links": 8
+},
+{
+"name": "Swedish bitters",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tamagozake",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Teacher's Highland Cream",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tejuino",
+"aliases": [
+"Tejuíno"
+],
+"links": 8
+},
+{
+"name": "Ti'Punch",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Toro",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Tuxedo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Valpolicella DOC",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Vienna Lager",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Vietnamese wine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Vin gris",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Waragi",
+"aliases": [],
+"links": 8
+},
+{
+"name": "wine from the United Kingdom",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Wódka Żołądkowa Gorzka",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Zagorka",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Zirbenlikör",
+"aliases": [],
+"links": 8
+}
+]

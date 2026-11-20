@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useMemo } from "react";
 import { computeStats } from "@/lib/client/storage";
+import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
 import { formatShortDate } from "@/lib/dates";
 import { formatMeters, ores, TIER_LIST } from "@/lib/tiers";
@@ -10,7 +11,8 @@ import s from "./Pages.module.css";
 
 export default function StatsView() {
   const mounted = useMounted();
-  const stats = useMemo(() => (mounted ? computeStats() : null), [mounted]);
+  const days = useDays();
+  const stats = useMemo(() => (mounted ? computeStats(days) : null), [mounted, days]);
   if (!stats) return null;
 
   if (stats.played === 0) {

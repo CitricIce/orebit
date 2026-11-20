@@ -110,3 +110,10 @@ test("the calendar starts on launch day", async () => {
   const { LAUNCH_DATE } = await import("./dates");
   assert.equal(calendar.start, LAUNCH_DATE);
 });
+
+test("a typo still counts when the guess has an extra word", () => {
+  const desserts = buildIndex(catalog.categories.find((c) => c.id === "desserts")!.answers);
+  assert.equal(findAnswer(desserts, "strawberry cheescake")?.name, "Cheesecake");
+  assert.equal(findAnswer(desserts, "chocolate brownee")?.name, "Brownie");
+  assert.equal(findAnswer(desserts, "tirimasu")?.name, "Tiramisu");
+});

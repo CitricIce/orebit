@@ -1,0 +1,2918 @@
+[
+{
+"name": "pizza",
+"aliases": [
+"pie",
+"pizza pie"
+],
+"links": 168
+},
+{
+"name": "spaghetti",
+"aliases": [
+"spaghetti noodle"
+],
+"links": 94
+},
+{
+"name": "tiramisu",
+"aliases": [],
+"links": 83
+},
+{
+"name": "lasagna",
+"aliases": [
+"lasagne"
+],
+"links": 81
+},
+{
+"name": "macaroni",
+"aliases": [],
+"links": 72
+},
+{
+"name": "risotto",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Nutella",
+"aliases": [],
+"links": 64
+},
+{
+"name": "carbonara",
+"aliases": [
+"pasta alla carbonara",
+"spaghetti alla carbonara",
+"spaghetti carbonara"
+],
+"links": 58
+},
+{
+"name": "Caesar salad",
+"aliases": [],
+"links": 57
+},
+{
+"name": "ravioli",
+"aliases": [],
+"links": 57
+},
+{
+"name": "gnocchi",
+"aliases": [
+"Italian dumpling"
+],
+"links": 53
+},
+{
+"name": "panettone",
+"aliases": [],
+"links": 52
+},
+{
+"name": "bolognese sauce",
+"aliases": [
+"ragù bolognese"
+],
+"links": 49
+},
+{
+"name": "focaccia",
+"aliases": [
+"stuffed focaccia"
+],
+"links": 49
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "bruschetta",
+"aliases": [],
+"links": 45
+},
+{
+"name": "carpaccio",
+"aliases": [],
+"links": 45
+},
+{
+"name": "sponge cake",
+"aliases": [],
+"links": 45
+},
+{
+"name": "tortellini",
+"aliases": [],
+"links": 45
+},
+{
+"name": "calzone",
+"aliases": [
+"stocking",
+"trouser"
+],
+"links": 44
+},
+{
+"name": "cannoli",
+"aliases": [
+"sicilian cannolo"
+],
+"links": 44
+},
+{
+"name": "tomato sauce",
+"aliases": [
+"pasta sauce",
+"spaghetti sauce",
+"Sunday gravy"
+],
+"links": 44
+},
+{
+"name": "apple strudel",
+"aliases": [],
+"links": 43
+},
+{
+"name": "bread roll",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Kinder Surprise",
+"aliases": [
+"Kinder egg",
+"Kinder Sorpresa"
+],
+"links": 43
+},
+{
+"name": "Caprese salad",
+"aliases": [
+"Insalata Caprese"
+],
+"links": 42
+},
+{
+"name": "ciabatta",
+"aliases": [],
+"links": 42
+},
+{
+"name": "gelato",
+"aliases": [
+"Italian ice cream"
+],
+"links": 41
+},
+{
+"name": "minestrone",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Ferrero Rocher",
+"aliases": [],
+"links": 40
+},
+{
+"name": "penne",
+"aliases": [
+"mostaccioli"
+],
+"links": 40
+},
+{
+"name": "Pizza Margherita",
+"aliases": [],
+"links": 40
+},
+{
+"name": "prosciutto",
+"aliases": [
+"Italian raw ham",
+"pršut"
+],
+"links": 40
+},
+{
+"name": "Savoiarde PAT",
+"aliases": [
+"boudoir",
+"Naples biscuits",
+"savoiardi",
+"sponge finger"
+],
+"links": 40
+},
+{
+"name": "tagliatelle",
+"aliases": [],
+"links": 40
+},
+{
+"name": "fettuccine",
+"aliases": [],
+"links": 39
+},
+{
+"name": "frittata",
+"aliases": [],
+"links": 39
+},
+{
+"name": "ossobuco",
+"aliases": [
+"ossobuco alla milanese"
+],
+"links": 39
+},
+{
+"name": "breadstick",
+"aliases": [
+"breadsticks"
+],
+"links": 38
+},
+{
+"name": "fusilli",
+"aliases": [
+"rotini"
+],
+"links": 38
+},
+{
+"name": "zabaione",
+"aliases": [
+"sabayon",
+"zabaglione",
+"zabajone"
+],
+"links": 38
+},
+{
+"name": "cannelloni",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Granita PAT",
+"aliases": [
+"Scirobetta"
+],
+"links": 37
+},
+{
+"name": "Pandoro",
+"aliases": [],
+"links": 37
+},
+{
+"name": "panini",
+"aliases": [
+"grilled sandwich",
+"Italian sandwich",
+"panini sandwich"
+],
+"links": 37
+},
+{
+"name": "brittle",
+"aliases": [
+"grillage",
+"seed brittle"
+],
+"links": 35
+},
+{
+"name": "farfalle",
+"aliases": [
+"bow-tie pasta",
+"butterfly pasta"
+],
+"links": 35
+},
+{
+"name": "garlic bread",
+"aliases": [
+"garlic bread roll"
+],
+"links": 35
+},
+{
+"name": "Neapolitan pizza",
+"aliases": [
+"Neapolitan",
+"pizza napoletana"
+],
+"links": 35
+},
+{
+"name": "linguine",
+"aliases": [
+"trenette"
+],
+"links": 33
+},
+{
+"name": "Saltimbocca",
+"aliases": [
+"Saltinbocca"
+],
+"links": 33
+},
+{
+"name": "spaghetti aglio e olio",
+"aliases": [],
+"links": 33
+},
+{
+"name": "amatriciana sauce",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Biancomangiare PAT",
+"aliases": [],
+"links": 32
+},
+{
+"name": "ice cream cone",
+"aliases": [
+"Ice Cream Cones"
+],
+"links": 32
+},
+{
+"name": "orzo",
+"aliases": [
+"risoni"
+],
+"links": 32
+},
+{
+"name": "spaghetti alla puttanesca",
+"aliases": [],
+"links": 32
+},
+{
+"name": "antipasto",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Caponata",
+"aliases": [
+"Cookbook:Caponata"
+],
+"links": 30
+},
+{
+"name": "rigatoni",
+"aliases": [],
+"links": 30
+},
+{
+"name": "bucatini",
+"aliases": [
+"perciatelli"
+],
+"links": 29
+},
+{
+"name": "cacio e pepe",
+"aliases": [],
+"links": 29
+},
+{
+"name": "quince cheese",
+"aliases": [
+"marmelada",
+"quince paste"
+],
+"links": 29
+},
+{
+"name": "Fettuccine Alfredo",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Gibanica",
+"aliases": [],
+"links": 28
+},
+{
+"name": "panzanella",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Cassata siciliana PAT",
+"aliases": [
+"Sweet"
+],
+"links": 27
+},
+{
+"name": "orecchiette",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Piadina",
+"aliases": [],
+"links": 27
+},
+{
+"name": "bigoli",
+"aliases": [],
+"links": 26
+},
+{
+"name": "deviled egg",
+"aliases": [
+"dressed egg",
+"stuffed egg"
+],
+"links": 26
+},
+{
+"name": "head cheese",
+"aliases": [
+"brawn"
+],
+"links": 26
+},
+{
+"name": "Neapolitan ice cream",
+"aliases": [
+"Harlequin ice cream",
+"neapolitan ice"
+],
+"links": 26
+},
+{
+"name": "Pissaladière",
+"aliases": [
+"pissaladiere",
+"Pissalandrea",
+"Pissalandrea or Pissaladière"
+],
+"links": 26
+},
+{
+"name": "ragù",
+"aliases": [
+"ragu"
+],
+"links": 26
+},
+{
+"name": "Arrabbiata sauce",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Biscotti",
+"aliases": [
+"Cantuccio"
+],
+"links": 25
+},
+{
+"name": "Marinara sauce",
+"aliases": [],
+"links": 25
+},
+{
+"name": "pasta salad",
+"aliases": [
+"noodle salad"
+],
+"links": 25
+},
+{
+"name": "pizza quattro formaggi",
+"aliases": [
+"Four-Cheese Pizza",
+"Quattro formaggi pizza"
+],
+"links": 25
+},
+{
+"name": "ribollita",
+"aliases": [],
+"links": 25
+},
+{
+"name": "panforte",
+"aliases": [],
+"links": 24
+},
+{
+"name": "pizzoccheri",
+"aliases": [],
+"links": 24
+},
+{
+"name": "spaghetti alle vongole",
+"aliases": [],
+"links": 24
+},
+{
+"name": "tomato purée",
+"aliases": [
+"passata",
+"tomato preserves"
+],
+"links": 24
+},
+{
+"name": "Gianduja",
+"aliases": [],
+"links": 23
+},
+{
+"name": "meat pie",
+"aliases": [],
+"links": 23
+},
+{
+"name": "pappardelle",
+"aliases": [],
+"links": 23
+},
+{
+"name": "pizza capricciosa",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Prosciutto di Parma PDO",
+"aliases": [],
+"links": 23
+},
+{
+"name": "sfogliatelle",
+"aliases": [],
+"links": 23
+},
+{
+"name": "farinata",
+"aliases": [
+"socca"
+],
+"links": 22
+},
+{
+"name": "parmigiana",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Stracciatella",
+"aliases": [
+"stracciatella gelato",
+"stracciatella ice cream"
+],
+"links": 22
+},
+{
+"name": "marron glacé",
+"aliases": [
+"marron glace"
+],
+"links": 21
+},
+{
+"name": "pasta e fagioli",
+"aliases": [
+"pasta fagioli",
+"pasta fasul",
+"pasta fazool"
+],
+"links": 21
+},
+{
+"name": "pici",
+"aliases": [],
+"links": 21
+},
+{
+"name": "pizza quattro stagioni",
+"aliases": [
+"four seasons pizza",
+"la quattro stagioni",
+"pizza 4 stagioni",
+"pizza alle quattro stagioni",
+"quattro stagioni"
+],
+"links": 21
+},
+{
+"name": "Sicilian pizza",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Vitello tonnato",
+"aliases": [],
+"links": 21
+},
+{
+"name": "capellini",
+"aliases": [],
+"links": 20
+},
+{
+"name": "conchiglie",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kinder Joy",
+"aliases": [
+"Kinder Merendero"
+],
+"links": 20
+},
+{
+"name": "Pasta alla Norma",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Torta caprese",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Zuccotto",
+"aliases": [],
+"links": 20
+},
+{
+"name": "zuppa inglese",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Acquacotta",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Agliata",
+"aliases": [],
+"links": 19
+},
+{
+"name": "agnolotti",
+"aliases": [
+"Agnelot",
+"agnolotto"
+],
+"links": 19
+},
+{
+"name": "Buccellato PAT",
+"aliases": [
+"Buccellato",
+"Piccillato"
+],
+"links": 19
+},
+{
+"name": "crostini",
+"aliases": [
+"crostino"
+],
+"links": 19
+},
+{
+"name": "frico",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Frittelle",
+"aliases": [
+"fritole",
+"Frittole",
+"fritule"
+],
+"links": 19
+},
+{
+"name": "Milanesa",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Panzerotti PAT",
+"aliases": [],
+"links": 19
+},
+{
+"name": "pizza marinara",
+"aliases": [
+"marinara pizza"
+],
+"links": 19
+},
+{
+"name": "Semmelknödel",
+"aliases": [],
+"links": 19
+},
+{
+"name": "tortelloni",
+"aliases": [],
+"links": 19
+},
+{
+"name": "wafer cookie",
+"aliases": [
+"galletas suizas",
+"oblaten",
+"oblatne",
+"oblea"
+],
+"links": 19
+},
+{
+"name": "Cioppino",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mostaccino",
+"aliases": [
+"Moustasì"
+],
+"links": 18
+},
+{
+"name": "Salame turco PAT",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Struffoli",
+"aliases": [],
+"links": 18
+},
+{
+"name": "trofie",
+"aliases": [
+"Trofiette"
+],
+"links": 18
+},
+{
+"name": "cavatelli",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ciambotta",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Crostata",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kinder Chocolate",
+"aliases": [
+"Kinder Cioccolato"
+],
+"links": 17
+},
+{
+"name": "Lampredotto",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Neapolitan ragù",
+"aliases": [
+"Neapolitan ragu"
+],
+"links": 17
+},
+{
+"name": "Porchetta PAT",
+"aliases": [
+"di Poggio Bustone",
+"di Viterbo",
+"Purcheta"
+],
+"links": 17
+},
+{
+"name": "Semifreddo",
+"aliases": [],
+"links": 17
+},
+{
+"name": "stuffed squash",
+"aliases": [
+"Kousa Mahshi",
+"Punjene tikvice",
+"stuffed zucchinis"
+],
+"links": 17
+},
+{
+"name": "Supplì",
+"aliases": [
+"Suppli"
+],
+"links": 17
+},
+{
+"name": "Taralli PAT",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Zeppole",
+"aliases": [
+"Zeppola"
+],
+"links": 17
+},
+{
+"name": "bombolone",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Colomba di Pasqua",
+"aliases": [
+"Colomba pasquale",
+"Easter dove"
+],
+"links": 16
+},
+{
+"name": "fregula",
+"aliases": [
+"fregola"
+],
+"links": 16
+},
+{
+"name": "fried calamari",
+"aliases": [
+"fried squid"
+],
+"links": 16
+},
+{
+"name": "mafaldine",
+"aliases": [
+"mafalda",
+"mafalde",
+"reginette"
+],
+"links": 16
+},
+{
+"name": "Pane carasau",
+"aliases": [],
+"links": 16
+},
+{
+"name": "pastéis de Bacalhau",
+"aliases": [
+"pasteis de Bacalhau"
+],
+"links": 16
+},
+{
+"name": "pizelle",
+"aliases": [
+"Pizzelle"
+],
+"links": 16
+},
+{
+"name": "Scacciata PAT",
+"aliases": [
+"Scacciata"
+],
+"links": 16
+},
+{
+"name": "strozzapreti",
+"aliases": [],
+"links": 16
+},
+{
+"name": "stuffed tomatoes",
+"aliases": [
+"stuffed tomato"
+],
+"links": 16
+},
+{
+"name": "tagliolini",
+"aliases": [
+"taglierini",
+"taglioni",
+"tajarin"
+],
+"links": 16
+},
+{
+"name": "timballo",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Amaretto macaron",
+"aliases": [
+"Amaretti",
+"Amaretto"
+],
+"links": 15
+},
+{
+"name": "Cacciucco",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Carrozza",
+"aliases": [
+"Carrozza sandwich",
+"mozzarella in carrozza"
+],
+"links": 15
+},
+{
+"name": "Cassoeula",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Giandujotto PAT",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Pasta con le sarde",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Pasta di mandorle PAT",
+"aliases": [
+"Pasta reale"
+],
+"links": 15
+},
+{
+"name": "pastina",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Piccata",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Seafood pizza",
+"aliases": [],
+"links": 15
+},
+{
+"name": "stracciatella",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bistecca alla fiorentina",
+"aliases": [
+"Florentine steak",
+"steak Florentine"
+],
+"links": 14
+},
+{
+"name": "cacciatore",
+"aliases": [
+"cacciatora"
+],
+"links": 14
+},
+{
+"name": "Cappon magro",
+"aliases": [],
+"links": 14
+},
+{
+"name": "castagnaccio",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Gemelli",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Passatelli",
+"aliases": [],
+"links": 14
+},
+{
+"name": "pasta al pomodoro",
+"aliases": [
+"Neapolitan spaghetti",
+"spaghetti alla napoletana",
+"tomato pasta"
+],
+"links": 14
+},
+{
+"name": "Spumoni",
+"aliases": [],
+"links": 14
+},
+{
+"name": "testaroli",
+"aliases": [
+"testarolo"
+],
+"links": 14
+},
+{
+"name": "cappelletti",
+"aliases": [],
+"links": 13
+},
+{
+"name": "casoncelli",
+"aliases": [
+"casonsei",
+"casonziei",
+"ciaroncie"
+],
+"links": 13
+},
+{
+"name": "cornetto",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cotoletta",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Fiadone",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Frutti di Martorana PAT",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kinder",
+"aliases": [],
+"links": 13
+},
+{
+"name": "panelle",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pastiera",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pignolata di Messina PAT",
+"aliases": [],
+"links": 13
+},
+{
+"name": "rotelle",
+"aliases": [
+"wagon wheels"
+],
+"links": 13
+},
+{
+"name": "anelli",
+"aliases": [
+"anelletti"
+],
+"links": 12
+},
+{
+"name": "arrosticini",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Campanelle",
+"aliases": [
+"gigli"
+],
+"links": 12
+},
+{
+"name": "chicken marsala",
+"aliases": [],
+"links": 12
+},
+{
+"name": "corzetti",
+"aliases": [
+"croxetti"
+],
+"links": 12
+},
+{
+"name": "garganelli",
+"aliases": [],
+"links": 12
+},
+{
+"name": "maltagliati",
+"aliases": [],
+"links": 12
+},
+{
+"name": "pan loaf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "panpepato",
+"aliases": [
+"pampepato"
+],
+"links": 12
+},
+{
+"name": "Pappa",
+"aliases": [],
+"links": 12
+},
+{
+"name": "pasta alla gricia",
+"aliases": [
+"spaghetti alla gricia"
+],
+"links": 12
+},
+{
+"name": "pizzetta",
+"aliases": [],
+"links": 12
+},
+{
+"name": "radiatori",
+"aliases": [
+"radiatore"
+],
+"links": 12
+},
+{
+"name": "Risotto alla milanese",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Scaloppine",
+"aliases": [
+"scaloppini"
+],
+"links": 12
+},
+{
+"name": "Tartufo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tortelli",
+"aliases": [],
+"links": 12
+},
+{
+"name": "tortiglioni",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Baccalà alla vicentina",
+"aliases": [
+"Baccala alla vicentina"
+],
+"links": 11
+},
+{
+"name": "Brudet",
+"aliases": [
+"brodet"
+],
+"links": 11
+},
+{
+"name": "Cassatella di Sant'Agata",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Casunziei",
+"aliases": [
+"casanzes",
+"casonciei",
+"csanzöi"
+],
+"links": 11
+},
+{
+"name": "Cioccolato di Modica PGI",
+"aliases": [
+"Chocolate of Modica",
+"cioccolata modicana",
+"Modica Chocolate"
+],
+"links": 11
+},
+{
+"name": "ditalini",
+"aliases": [
+"tubettini"
+],
+"links": 11
+},
+{
+"name": "fileja",
+"aliases": [],
+"links": 11
+},
+{
+"name": "gnocco fritto",
+"aliases": [
+"crescentina"
+],
+"links": 11
+},
+{
+"name": "Italian ice",
+"aliases": [],
+"links": 11
+},
+{
+"name": "lasagnette",
+"aliases": [],
+"links": 11
+},
+{
+"name": "michetta",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Neapolitan sauce",
+"aliases": [
+"Napoli sauce"
+],
+"links": 11
+},
+{
+"name": "pasticciotto",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Penne alla vodka",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Prosciutto di San Daniele PDO",
+"aliases": [
+"prosciutto of San Daniele"
+],
+"links": 11
+},
+{
+"name": "spaghetti alla chitarra",
+"aliases": [
+"maccheroni alla chitarra",
+"Tonnarelli"
+],
+"links": 11
+},
+{
+"name": "stringozzi",
+"aliases": [
+"strangozzi",
+"umbricelli"
+],
+"links": 11
+},
+{
+"name": "Tramezzino",
+"aliases": [],
+"links": 11
+},
+{
+"name": "trenette",
+"aliases": [],
+"links": 11
+},
+{
+"name": "wedding soup",
+"aliases": [
+"Italian wedding soup"
+],
+"links": 11
+},
+{
+"name": "Zelten",
+"aliases": [],
+"links": 11
+},
+{
+"name": "acini di pepe",
+"aliases": [],
+"links": 10
+},
+{
+"name": "bavette",
+"aliases": [],
+"links": 10
+},
+{
+"name": "bollito misto",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Buridda",
+"aliases": [],
+"links": 10
+},
+{
+"name": "cavatappi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Coppia Ferrarese PGI",
+"aliases": [],
+"links": 10
+},
+{
+"name": "fiori",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Genoa cake",
+"aliases": [
+"Genoa"
+],
+"links": 10
+},
+{
+"name": "Gnudi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Orzotto",
+"aliases": [],
+"links": 10
+},
+{
+"name": "paccheri",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pasta mollicata",
+"aliases": [],
+"links": 10
+},
+{
+"name": "pinza",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sebada",
+"aliases": [],
+"links": 10
+},
+{
+"name": "stuffed pasta",
+"aliases": [
+"filled pasta",
+"pasta with filling"
+],
+"links": 10
+},
+{
+"name": "Acqua pazza",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Anelletti al forno",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Carne pizzaiola",
+"aliases": [
+"Pizzaiola"
+],
+"links": 9
+},
+{
+"name": "Casarecce",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Coda alla vaccinara",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Colatura di Alici",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Eurocrem",
+"aliases": [],
+"links": 9
+},
+{
+"name": "fagottini",
+"aliases": [],
+"links": 9
+},
+{
+"name": "macaroni soup",
+"aliases": [],
+"links": 9
+},
+{
+"name": "pancotto",
+"aliases": [],
+"links": 9
+},
+{
+"name": "pizza di Pasqua",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Roman pizza",
+"aliases": [],
+"links": 9
+},
+{
+"name": "sedani",
+"aliases": [],
+"links": 9
+},
+{
+"name": "spaghetti alla Nerano",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Torta Bertolina",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Torta setteveli",
+"aliases": [],
+"links": 9
+},
+{
+"name": "walnut soup",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Agnolini",
+"aliases": [
+"agnolini Mantovani",
+"agnulì",
+"agnulìn"
+],
+"links": 8
+},
+{
+"name": "Bagnun",
+"aliases": [],
+"links": 8
+},
+{
+"name": "bocconotto",
+"aliases": [
+"boconotto"
+],
+"links": 8
+},
+{
+"name": "Ciambella PAT",
+"aliases": [
+"Boslan",
+"Ciambella",
+"Ciorchiedo",
+"ring-shaped cake",
+"Zambëla"
+],
+"links": 8
+},
+{
+"name": "Ciceri e Tria",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cuccìa PAT",
+"aliases": [
+"Cuccia",
+"Cuccìa"
+],
+"links": 8
+},
+{
+"name": "Culatello di Zibello PDO",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Italian tomato pie",
+"aliases": [
+"tomato pie"
+],
+"links": 8
+},
+{
+"name": "lanterne",
+"aliases": [],
+"links": 8
+},
+{
+"name": "lasagne sheet",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Maccu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "malloreddus",
+"aliases": [
+"gnocchetti Sardi"
+],
+"links": 8
+},
+{
+"name": "maritozzo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Neccio",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pane di Altamura PDO",
+"aliases": [],
+"links": 8
+},
+{
+"name": "pinsa",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rafanata",
+"aliases": [],
+"links": 8
+},
+{
+"name": "risi e bisi",
+"aliases": [
+"rice and peas"
+],
+"links": 8
+},
+{
+"name": "rotini",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sarde in saor PAT",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sgabeo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Abbamele",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Anolini",
+"aliases": [],
+"links": 7
+},
+{
+"name": "baci di dama",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Biscuit Tortoni",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Brutti e buoni",
+"aliases": [
+"Brutti ma buoni",
+"Bruttiboni",
+"Mandorlati di San Clemente"
+],
+"links": 7
+},
+{
+"name": "Bustrengo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cabrito",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cavallucci",
+"aliases": [],
+"links": 7
+},
+{
+"name": "culurgiones",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Focaccia di Recco col formaggio PGI",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Frìttuli",
+"aliases": [
+"Frittuli"
+],
+"links": 7
+},
+{
+"name": "Giurgiulena",
+"aliases": [],
+"links": 7
+},
+{
+"name": "gnocchi alla romana",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lorighittas",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mondeghili",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mustacciuoli",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Olive bread",
+"aliases": [
+"olivenbrot"
+],
+"links": 7
+},
+{
+"name": "panada",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pansotti",
+"aliases": [
+"pansoti"
+],
+"links": 7
+},
+{
+"name": "Pantesca salad",
+"aliases": [],
+"links": 7
+},
+{
+"name": "panuozzo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "parrozzo",
+"aliases": [
+"pan rozzo"
+],
+"links": 7
+},
+{
+"name": "Pignolo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pizza bagel",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pizza dolce di Beridde",
+"aliases": [
+"diamanti romani",
+"pizza ebraica"
+],
+"links": 7
+},
+{
+"name": "Rigatoni con la pajata",
+"aliases": [],
+"links": 7
+},
+{
+"name": "sagnarelli",
+"aliases": [
+"sagne",
+"sagnette",
+"tagliolini"
+],
+"links": 7
+},
+{
+"name": "sanguinaccio dolce",
+"aliases": [],
+"links": 7
+},
+{
+"name": "scialatelli",
+"aliases": [
+"scialatielli",
+"sciliatielli",
+"scivatieddi"
+],
+"links": 7
+},
+{
+"name": "Torta pasqualina",
+"aliases": [],
+"links": 7
+},
+{
+"name": "tortello amaro di Castel Goffredo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Treccia d'oro",
+"aliases": [],
+"links": 7
+},
+{
+"name": "trippa alla fiorentina",
+"aliases": [],
+"links": 7
+},
+{
+"name": "troccoli",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Vastedda",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Zuppa pavese",
+"aliases": [],
+"links": 7
+},
+{
+"name": "'Mpanatigghi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Baccalà alla lucana",
+"aliases": [],
+"links": 6
+},
+{
+"name": "baccalà mantecato",
+"aliases": [],
+"links": 6
+},
+{
+"name": "baked ziti",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Berlingozzo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Borlengo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cartellate",
+"aliases": [],
+"links": 6
+},
+{
+"name": "ciccioli",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cotoletta alla bolognese",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Crocetta of Caltanissetta",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Filindeu",
+"aliases": [
+"God's yarns"
+],
+"links": 6
+},
+{
+"name": "Foglie d'ulivo",
+"aliases": [
+"foglie di ulivo"
+],
+"links": 6
+},
+{
+"name": "olive all'ascolana",
+"aliases": [
+"olive ascolane ripiene"
+],
+"links": 6
+},
+{
+"name": "pagliata",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pane coi santi",
+"aliases": [
+"pan co' santi",
+"pan coi santi",
+"pan dei santi"
+],
+"links": 6
+},
+{
+"name": "pasta e ceci",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pissarei e fasö",
+"aliases": [],
+"links": 6
+},
+{
+"name": "pizza pugliese",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Polpettone di melanzane",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ricciarelli",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sardenaira",
+"aliases": [
+"piscialandrea",
+"pissadella",
+"pissalandrea",
+"pizza all'Andrea",
+"pizzalandrea"
+],
+"links": 6
+},
+{
+"name": "Sartù di riso",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sbrisolona",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sfincione",
+"aliases": [],
+"links": 6
+},
+{
+"name": "stelline",
+"aliases": [],
+"links": 6
+},
+{
+"name": "sugolo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tigella",
+"aliases": [],
+"links": 6
+},
+{
+"name": "torta della nonna",
+"aliases": [
+"grandma's cake"
+],
+"links": 6
+},
+{
+"name": "Torta paesana",
+"aliases": [],
+"links": 6
+},
+{
+"name": "U' pastizz rtunnar PAT",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Vincisgrassi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "zuppa toscana",
+"aliases": [],
+"links": 6
+},
+{
+"name": "'Nzuddi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Amaretti di Saronno",
+"aliases": [],
+"links": 5
+},
+{
+"name": "anellini",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bacio Perugina",
+"aliases": [],
+"links": 5
+},
+{
+"name": "barbine",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bisciola PAT",
+"aliases": [
+"pan di fich",
+"panettone Valtellinese"
+],
+"links": 5
+},
+{
+"name": "Bruscitti",
+"aliases": [
+"Bruscitt",
+"Brüscitt",
+"Brüscitti"
+],
+"links": 5
+},
+{
+"name": "Caldume",
+"aliases": [],
+"links": 5
+},
+{
+"name": "capunti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cencioni",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cima alla Genovese",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cremino",
+"aliases": [],
+"links": 5
+},
+{
+"name": "crostini Toscani",
+"aliases": [
+"black crostini",
+"crostini di fegatini",
+"crostini neri"
+],
+"links": 5
+},
+{
+"name": "Cupeta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "diavola pizza",
+"aliases": [],
+"links": 5
+},
+{
+"name": "erbazzone",
+"aliases": [
+"scarpasòun"
+],
+"links": 5
+},
+{
+"name": "Lacabòn",
+"aliases": [
+"Lacabon"
+],
+"links": 5
+},
+{
+"name": "mortadella sandwich",
+"aliases": [],
+"links": 5
+},
+{
+"name": "occhi di lupo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ossa di morto PAT",
+"aliases": [
+"Bone of the dead",
+"Dead man's bones",
+"Ossa i mortu"
+],
+"links": 5
+},
+{
+"name": "pane frattau",
+"aliases": [],
+"links": 5
+},
+{
+"name": "panissa",
+"aliases": [
+"paniscia",
+"panizza"
+],
+"links": 5
+},
+{
+"name": "pardulas",
+"aliases": [
+"casadinas"
+],
+"links": 5
+},
+{
+"name": "Piada dei morti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pillus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pinzimonio",
+"aliases": [],
+"links": 5
+},
+{
+"name": "presnitz",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Prosciutto di Norcia PGI",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Prosciutto Toscano PDO",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pumpkin tortelli",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pupi di zucchero PAT",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rollatini",
+"aliases": [
+"rolatini"
+],
+"links": 5
+},
+{
+"name": "Sfinci di San Giuseppe",
+"aliases": [
+"Sicilian doughnut",
+"St Joseph doughnut"
+],
+"links": 5
+},
+{
+"name": "spezzatino",
+"aliases": [],
+"links": 5
+},
+{
+"name": "tapulone",
+"aliases": [
+"tapolòn"
+],
+"links": 5
+},
+{
+"name": "Torcetti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "torta 900",
+"aliases": [
+"cake 900",
+"torta Novecento"
+],
+"links": 5
+},
+{
+"name": "torta Barozzi",
+"aliases": [
+"torta nera"
+],
+"links": 5
+},
+{
+"name": "tortelli cremaschi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "tripoline",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Trippa alla romana",
+"aliases": [],
+"links": 5
+},
+{
+"name": "veneziana",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Vinschgauer",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Acquasale",
+"aliases": [],
+"links": 4
+},
+{
+"name": "beccafico sardines",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bensone",
+"aliases": [],
+"links": 4
+},
+{
+"name": "bigoli con l'anatra",
+"aliases": [
+"bigoi co' l'arna"
+],
+"links": 4
+},
+{
+"name": "Bigoli in salsa",
+"aliases": [],
+"links": 4
+},
+{
+"name": "biscuits of Saint Martin",
+"aliases": [
+"San Martino"
+],
+"links": 4
+},
+{
+"name": "brigidino di Lamporecchio",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brovada PDO",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Buccellato di Lucca",
+"aliases": [
+"Buccellato"
+],
+"links": 4
+},
+{
+"name": "Carne Salada del Trentino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "cassatelle",
+"aliases": [
+"cappidduzzi",
+"casateddi",
+"ravioli dolci",
+"Ravioli dolci siciliani"
+],
+"links": 4
+},
+{
+"name": "Ciambella romagnola",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ciambellino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Confetti di Sulmona",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cosi di ficu PAT",
+"aliases": [
+"Cosi duci"
+],
+"links": 4
+},
+{
+"name": "Cuddura",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gelo di melone PAT",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gnocchi alla sorrentina",
+"aliases": [
+"Gnocchi in the style of Sorrento"
+],
+"links": 4
+},
+{
+"name": "gubana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Iris",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Maccheroncini di Campofilone PGI",
+"aliases": [
+"maccheroncini"
+],
+"links": 4
+},
+{
+"name": "Nocciolini di Canzo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pan meino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Panbrioche",
+"aliases": [],
+"links": 4
+},
+{
+"name": "panigaccio",
+"aliases": [
+"panigacci, panigazzo, panigazzi"
+],
+"links": 4
+},
+{
+"name": "Panone",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pasta all'Ortolana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pastasciutta antifascista",
+"aliases": [
+"Anti-fascist pasta"
+],
+"links": 4
+},
+{
+"name": "pecora alla callara",
+"aliases": [
+"pecora alla cottora"
+],
+"links": 4
+},
+{
+"name": "Pitina",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Plasmon biscuit",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Polenta e osei",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Prosciutto di Modena PDO",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rollò",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rosticciana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "sacchettoni",
+"aliases": [
+"beggar's purse pasta",
+"sacchetti"
+],
+"links": 4
+},
+{
+"name": "Salampatata",
+"aliases": [],
+"links": 4
+},
+{
+"name": "scarcella",
+"aliases": [],
+"links": 4
+},
+{
+"name": "stroncatura",
+"aliases": [
+"struncatura"
+],
+"links": 4
+},
+{
+"name": "sugo alla puttanesca",
+"aliases": [
+"puttanesca"
+],
+"links": 4
+},
+{
+"name": "Tiella",
+"aliases": [],
+"links": 4
+},
+{
+"name": "torta tenerina",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Zucchine alla scapece",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Zucchini flower fritters",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Zuppa alla modenese",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Befanini PAT",
+"aliases": [
+"Befanotti"
+],
+"links": 3
+},
+{
+"name": "Bicciolani di Vercelli",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Biscotti del Lagaccio",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Biscottini di Prosto",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bossolà bresciano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "brioscia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cappellacci di zucca ferraresi PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "cassatella di Agira",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ceglie biscuit",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cicerchiata",
+"aliases": [],
+"links": 3
+},
+{
+"name": "coniglio alla sanremese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cuccalar",
+"aliases": [],
+"links": 3
+},
+{
+"name": "deep-fried pizza",
+"aliases": [
+"pizza fritta"
+],
+"links": 3
+},
+{
+"name": "focaccia barese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Focaccia novese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "friselle",
+"aliases": [
+"fresella",
+"frisa",
+"frise",
+"frisedda",
+"friseddha",
+"friseddhre"
+],
+"links": 3
+},
+{
+"name": "frittelle",
+"aliases": [],
+"links": 3
+},
+{
+"name": "fritto misto alla piemontese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "fusilli bucati",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Genovese foccacia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Graffe napoletane",
+"aliases": [
+"zeppole di patate"
+],
+"links": 3
+},
+{
+"name": "Holy Spina",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Italian stuffed pasta",
+"aliases": [
+"Italian filled pasta"
+],
+"links": 3
+},
+{
+"name": "Lagane e cicciari",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nocciolini di Chivasso",
+"aliases": [],
+"links": 3
+},
+{
+"name": "paletta Biellese",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pan di ramerino",
+"aliases": [
+"pane di ramerino",
+"rosemary bread"
+],
+"links": 3
+},
+{
+"name": "Pan di Spagna",
+"aliases": [
+"pandispagna"
+],
+"links": 3
+},
+{
+"name": "Pane di Matera PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pane nero di Castelvetrano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Panfocaccia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pasta di Gragnano PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "paste di meliga",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Penia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Piparelle PAT",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pistiddu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pizza al metro",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pizza bianca",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pizza di scarola",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pizzarello",
+"aliases": [
+"Pizzarello food",
+"Pizzaridd"
+],
+"links": 3
+},
+{
+"name": "pizzolo",
+"aliases": [
+"pizzolo Siciliano",
+"pizzòlu"
+],
+"links": 3
+},
+{
+"name": "Porchetta di Ariccia PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pork jelly",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Prosciutto di Sauris",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Prosciutto Veneto Berico-Euganeo PDO",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pumpkin flower fritter",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rame di Napoli",
+"aliases": [],
+"links": 3
+},
+{
+"name": "raviola di ricotta of Caltanissetta",
+"aliases": [
+"raviola di ricotta nissena"
+],
+"links": 3
+},
+{
+"name": "risotto alla pilota",
+"aliases": [],
+"links": 3
+},
+{
+"name": "roccocò",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sacripantina",
+"aliases": [
+"torta sacripantina"
+],
+"links": 3
+},
+{
+"name": "sardella",
+"aliases": [],
+"links": 3
+},
+{
+"name": "scarpinocc",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Scattone",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Schiaccia briaca",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Schuettelbrot",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sciatt",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sformato",
+"aliases": [],
+"links": 3
+},
+{
+"name": "spaghetti alla siracusana",
+"aliases": [
+"spaghetti Syracuse style",
+"spaghettini alla siracusana",
+"Syracuse Spaghetti"
+],
+"links": 3
+},
+{
+"name": "strucchi",
+"aliases": [
+"struccoletti",
+"struchi",
+"strucoli",
+"struki",
+"Štruklji"
+],
+"links": 3
+},
+{
+"name": "Torta delle rose",
+"aliases": [],
+"links": 3
+},
+{
+"name": "torta paradiso",
+"aliases": [
+"Italian paradise cake",
+"la torta paradiso",
+"torta del paradiso"
+],
+"links": 3
+},
+{
+"name": "Tortelli alla lastra di Corezzo PAT",
+"aliases": [],
+"links": 3
+},
+{
+"name": "tortelli di patate",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Valle d'Aosta Jambon de Bosses PDO",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Zuppa gallurese",
+"aliases": [],
+"links": 3
+}
+]

@@ -1,0 +1,1927 @@
+[
+{
+"name": "Wii",
+"aliases": [
+"Nintendo Wii",
+"Revolution"
+],
+"links": 87
+},
+{
+"name": "PlayStation 3",
+"aliases": [
+"PS3",
+"Sony PlayStation 3",
+"Sony PS3"
+],
+"links": 82
+},
+{
+"name": "Nintendo Entertainment System",
+"aliases": [
+"Comboy",
+"Famicom",
+"Family Computer",
+"Hyundai Comboy",
+"NES",
+"Nintendo 8 Bit",
+"Nintendo 8-bit",
+"Nintendo Famicom",
+"Nintendo Family Computer",
+"Tata Famicom"
+],
+"links": 71
+},
+{
+"name": "PlayStation Portable",
+"aliases": [
+"Play Station Portable",
+"PS Portable",
+"PSP",
+"PSP-1000",
+"PSP-1006",
+"PSP-2006",
+"PSP-3000",
+"Sony PSP"
+],
+"links": 71
+},
+{
+"name": "Nintendo DS",
+"aliases": [
+"Developers' System",
+"Double Screen",
+"Dual Screen",
+"IiQue DS",
+"iQue Dual Screen",
+"N DS",
+"Nintendo Developers' System",
+"Nintendo Double Screen",
+"Nintendo Dual Screen",
+"Project Nitro"
+],
+"links": 68
+},
+{
+"name": "Nintendo GameCube",
+"aliases": [
+"Dolphin",
+"Game Cube",
+"GameCube",
+"Gamecube",
+"GC",
+"GCN",
+"NGC"
+],
+"links": 66
+},
+{
+"name": "Nintendo 64",
+"aliases": [
+"Famicom 64",
+"Family Computer 64",
+"FC 64",
+"FC-64",
+"FC64",
+"N 64",
+"N-64",
+"N64",
+"Nintendo Ultra 64",
+"NINTENDO64",
+"Project Reality",
+"Ultra 64",
+"Ultra-64"
+],
+"links": 65
+},
+{
+"name": "PlayStation Vita",
+"aliases": [
+"PSV",
+"PSVita",
+"Psvita",
+"PSVITA",
+"Vita"
+],
+"links": 62
+},
+{
+"name": "Super Nintendo Entertainment System",
+"aliases": [
+"Nintendo 16-bit",
+"Nintendo SNES",
+"Nintendo Super-NES",
+"SFC",
+"SNES",
+"SNES 16-bit",
+"Super Comboy",
+"Super Famicom",
+"Super Family Computer",
+"Super NES",
+"Super Nintendo",
+"Super Nintendo 16-bit"
+],
+"links": 62
+},
+{
+"name": "Wii U",
+"aliases": [
+"Nintendo Wii U",
+"Nintendo WiiU",
+"Project Café",
+"WiiU"
+],
+"links": 62
+},
+{
+"name": "Game Boy",
+"aliases": [
+"1989 Game Boy",
+"1989 Gameboy",
+"Game Boy Classic",
+"Gameboy",
+"Gameboy Classic",
+"GB",
+"GB Classic",
+"Nintendo Game Boy",
+"Nintendo Gameboy",
+"Nintendo GB"
+],
+"links": 61
+},
+{
+"name": "Nintendo 3DS",
+"aliases": [
+"3DS",
+"iQue 3DS",
+"N 3DS",
+"N3DS"
+],
+"links": 55
+},
+{
+"name": "Game Boy Color",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Atari 2600",
+"aliases": [
+"1977 Atari VCS",
+"Sears Tele-Games Video Arcade",
+"Sears Video Arcade",
+"Video Computer System"
+],
+"links": 52
+},
+{
+"name": "Xbox Series X and Series S",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Odyssey",
+"aliases": [
+"Magnavox Odyssey",
+"Odyssee"
+],
+"links": 49
+},
+{
+"name": "Game & Watch series",
+"aliases": [
+"G & W",
+"G & W line",
+"G & W series",
+"G and W",
+"G and W line",
+"G and W series",
+"G&W",
+"G&W line",
+"G&W series",
+"Game & Watch",
+"Game & Watch line",
+"Game and Watch",
+"Game and Watch series",
+"Game Watch",
+"Nintendo G & W",
+"Nintendo G & W line",
+"Nintendo G & W series",
+"Nintendo G and W",
+"Nintendo G and W series",
+"Nintendo G&W",
+"Nintendo G&W line",
+"Nintendo G&W series",
+"Nintendo Game & Watch",
+"Nintendo Game & Watch line",
+"Nintendo Game & Watch series",
+"Nintendo Game and Watch",
+"Nintendo Game and Watch series"
+],
+"links": 43
+},
+{
+"name": "Atari Jaguar",
+"aliases": [
+"Jaguar",
+"Jaguar 64",
+"Jaguar64"
+],
+"links": 42
+},
+{
+"name": "Atari 5200",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Nintendo DSi",
+"aliases": [
+"DSi",
+"iQue DSi",
+"NDSi"
+],
+"links": 39
+},
+{
+"name": "Atari 7800",
+"aliases": [],
+"links": 38
+},
+{
+"name": "handheld game console",
+"aliases": [
+"handheld game device",
+"handheld game system",
+"handheld gaming console",
+"handheld gaming device",
+"handheld gaming system",
+"handheld video game console",
+"handheld video gaming console",
+"pocket console",
+"pocket game console",
+"pocket gaming console",
+"pocket video game console",
+"pocket video gaming console",
+"portable console",
+"portable game console",
+"portable gaming console",
+"portable video game console",
+"portable video gaming console"
+],
+"links": 38
+},
+{
+"name": "3DO",
+"aliases": [
+"3DO Interactive Multiplayer"
+],
+"links": 36
+},
+{
+"name": "Game Boy Advance SP",
+"aliases": [
+"Game Boy Advance Special",
+"GBA SP",
+"GBA Special",
+"GBASP"
+],
+"links": 36
+},
+{
+"name": "N-Gage",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Virtual Boy",
+"aliases": [
+"Nintendo Virtual Boy",
+"VR 32",
+"VR32"
+],
+"links": 35
+},
+{
+"name": "Atari Lynx",
+"aliases": [
+"Lynx"
+],
+"links": 34
+},
+{
+"name": "Amiga CD32",
+"aliases": [
+"CD32"
+],
+"links": 33
+},
+{
+"name": "ColecoVision",
+"aliases": [
+"CBS ColecoVision"
+],
+"links": 33
+},
+{
+"name": "Intellivision",
+"aliases": [
+"Mattel Electronic's Intellivision"
+],
+"links": 33
+},
+{
+"name": "Nintendo DS Lite",
+"aliases": [],
+"links": 33
+},
+{
+"name": "SG-1000",
+"aliases": [
+"Sega Computer Videogame SG-1000",
+"Sega Game 1000"
+],
+"links": 33
+},
+{
+"name": "TurboGrafx-16",
+"aliases": [
+"PC Engine",
+"PC-Engine",
+"PCE",
+"TG16",
+"TurboGrafx 16",
+"TurboGrafx-16 Entertainment SuperSystem"
+],
+"links": 33
+},
+{
+"name": "Color TV-Game",
+"aliases": [
+"Color TV Game",
+"Color TV-Game series"
+],
+"links": 32
+},
+{
+"name": "Game Boy Micro",
+"aliases": [
+"GB Micro",
+"GB micro",
+"GBM",
+"Nintendo Game Boy Micro",
+"Oxy"
+],
+"links": 30
+},
+{
+"name": "Neo Geo",
+"aliases": [
+"MULTI VIDEO SYSTEM",
+"MVS",
+"Neo Geo AES",
+"Neo Geo MVS"
+],
+"links": 30
+},
+{
+"name": "Nintendo 2DS",
+"aliases": [
+"2DS",
+"N 2DS",
+"N2DS"
+],
+"links": 30
+},
+{
+"name": "Ouya",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Apple Pippin",
+"aliases": [
+"Apple Pippin platform",
+"PiPP!N"
+],
+"links": 29
+},
+{
+"name": "Philips CD-i",
+"aliases": [
+"CD-i",
+"CD-I",
+"CDI",
+"Compact Disc Interactive",
+"Philips Compact Disc Interactive"
+],
+"links": 29
+},
+{
+"name": "Vectrex",
+"aliases": [
+"GCE Vectrex"
+],
+"links": 29
+},
+{
+"name": "WonderSwan",
+"aliases": [],
+"links": 29
+},
+{
+"name": "CDTV",
+"aliases": [
+"Commodore Dynamic Total Vision"
+],
+"links": 28
+},
+{
+"name": "Fairchild Channel F",
+"aliases": [
+"Channel F"
+],
+"links": 28
+},
+{
+"name": "Famicom Disk System",
+"aliases": [
+"FCDS",
+"FDS",
+"NFCDS",
+"NFDS",
+"Nintendo Famicom Disk System",
+"Nintendo Family Computer Disk System",
+"Nintendo FCDS",
+"Nintendo FDS"
+],
+"links": 27
+},
+{
+"name": "Nintendo Switch Lite",
+"aliases": [
+"NS Lite",
+"NSL",
+"SL",
+"Switch Lite"
+],
+"links": 27
+},
+{
+"name": "Gizmondo",
+"aliases": [
+"Gametraq"
+],
+"links": 26
+},
+{
+"name": "Pokémon Mini",
+"aliases": [
+"Nintendo Pokémon Mini",
+"Pokemon mini",
+"Pokemon Mini"
+],
+"links": 26
+},
+{
+"name": "Magnavox Odyssey 2",
+"aliases": [
+"Magnavox Odyssey²",
+"Odyssey 2",
+"Odyssey2",
+"Philips Odyssey 2",
+"Philips Odyssey²",
+"Philips Videopac G7000",
+"Videopac",
+"Videopac G7000"
+],
+"links": 25
+},
+{
+"name": "Microvision",
+"aliases": [
+"MB Microvision",
+"Milton Bradley Microvision"
+],
+"links": 25
+},
+{
+"name": "NES Classic Edition",
+"aliases": [
+"Famicom Classic",
+"Famicom Classic Edition",
+"Famicom Mini",
+"Family Computer Classic",
+"Family Computer Classic Edition",
+"Family Computer Mini",
+"Mini NES",
+"NES Classic",
+"NES Classic Mini",
+"NES Mini",
+"Nintendo Classic Mini: Family Computer",
+"Nintendo Classic Mini: NES",
+"Nintendo Entertainment System Classic",
+"Nintendo Entertainment System Classic Edition"
+],
+"links": 25
+},
+{
+"name": "PC-FX",
+"aliases": [],
+"links": 25
+},
+{
+"name": "PocketStation",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Amazon Fire TV",
+"aliases": [
+"Fire TV",
+"Fire TV Cube",
+"Fire TV Stick",
+"Fire TV Stick 4K",
+"Fire TV Stick 4K Max",
+"fireTV"
+],
+"links": 24
+},
+{
+"name": "Arcadia 2001",
+"aliases": [
+"Emerson Arcadia 2001"
+],
+"links": 24
+},
+{
+"name": "Coleco Telstar series",
+"aliases": [],
+"links": 24
+},
+{
+"name": "GP2X",
+"aliases": [
+"GPX2"
+],
+"links": 24
+},
+{
+"name": "Neo Geo Pocket",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Super Game Boy",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Super NES Classic Edition",
+"aliases": [
+"Nintendo Classic Mini: Super Famicom",
+"SNES Classic",
+"SNES Classic Mini",
+"SNES Mini"
+],
+"links": 24
+},
+{
+"name": "Zeebo",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Amstrad GX4000",
+"aliases": [
+"GX4000"
+],
+"links": 23
+},
+{
+"name": "Casio Loopy",
+"aliases": [
+"Loopy",
+"My Seal Computer",
+"SV-100"
+],
+"links": 23
+},
+{
+"name": "FM Towns Marty",
+"aliases": [
+"Fujitsu FM Towns Marty"
+],
+"links": 23
+},
+{
+"name": "Playdia",
+"aliases": [
+"BA-X",
+"Bandai Playdia",
+"Playdia QIS",
+"Playdia Quick Interactive System"
+],
+"links": 23
+},
+{
+"name": "Xperia Play",
+"aliases": [],
+"links": 23
+},
+{
+"name": "iQue Player",
+"aliases": [],
+"links": 22
+},
+{
+"name": "PV-1000",
+"aliases": [
+"Casio PV-1000"
+],
+"links": 22
+},
+{
+"name": "RCA Studio II",
+"aliases": [
+"RCA Studio 2",
+"Studio 2",
+"Studio II"
+],
+"links": 22
+},
+{
+"name": "Xbox Series X",
+"aliases": [
+"SX",
+"XSX"
+],
+"links": 22
+},
+{
+"name": "Commodore 64 Games System",
+"aliases": [
+"C64GS"
+],
+"links": 21
+},
+{
+"name": "PSP Go",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Bally Astrocade",
+"aliases": [
+"Astrocade",
+"Bally Arcade",
+"Bally Computer System",
+"The Professional Arcade"
+],
+"links": 19
+},
+{
+"name": "Cassette Vision",
+"aliases": [
+"Epoch Cassette Vision"
+],
+"links": 19
+},
+{
+"name": "Game Boy family",
+"aliases": [
+"Game Boy line",
+"Game Boy product family",
+"Game Boy product line",
+"Game Boy product series",
+"Game Boy series"
+],
+"links": 19
+},
+{
+"name": "home video game console",
+"aliases": [
+"home console",
+"home game console",
+"stationary console",
+"stationary game console",
+"stationary video game console"
+],
+"links": 19
+},
+{
+"name": "Pandora",
+"aliases": [
+"OpenPandora Pandora"
+],
+"links": 19
+},
+{
+"name": "Atari VCS",
+"aliases": [
+"2021 Atari VCS",
+"Project Ataribox"
+],
+"links": 18
+},
+{
+"name": "Entex Adventure Vision",
+"aliases": [
+"Adventure Vision",
+"AVIS",
+"Entex Electronic Arcade"
+],
+"links": 18
+},
+{
+"name": "GP2X Wiz",
+"aliases": [
+"GP3X",
+"Myungtendo"
+],
+"links": 18
+},
+{
+"name": "GP32",
+"aliases": [],
+"links": 18
+},
+{
+"name": "HyperScan",
+"aliases": [
+"Mattel HyperScan"
+],
+"links": 18
+},
+{
+"name": "Intellivision Amico",
+"aliases": [],
+"links": 18
+},
+{
+"name": "PSX",
+"aliases": [
+"Sony PSX"
+],
+"links": 18
+},
+{
+"name": "Atari XEGS",
+"aliases": [
+"Atari XE Video Game System"
+],
+"links": 17
+},
+{
+"name": "Game Boy Pocket",
+"aliases": [
+"Gameboy Pocket"
+],
+"links": 17
+},
+{
+"name": "Game.com",
+"aliases": [
+"GCOM",
+"Tiger Game.com"
+],
+"links": 17
+},
+{
+"name": "handheld electronic game",
+"aliases": [
+"dedicated handheld",
+"Handheld Electronic LCD",
+"LCD game"
+],
+"links": 17
+},
+{
+"name": "Interton Video Computer 4000",
+"aliases": [
+"INTERTON ELECTRONIC VC 4000 VIDEO COMPUTER",
+"Interton VC 4000",
+"VC 4000",
+"Video Computer 4000",
+"VIDEO COMPUTER VC 4000"
+],
+"links": 17
+},
+{
+"name": "Mega Drive Mini",
+"aliases": [
+"Sega Genesis Mini",
+"Sega Genesis/Mega Drive Mini",
+"Sega Mega Drive Mini"
+],
+"links": 17
+},
+{
+"name": "Neo Geo CD",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Nvidia Shield TV",
+"aliases": [
+"Nvidia Shield",
+"Shield Android TV",
+"Shield Console"
+],
+"links": 17
+},
+{
+"name": "Pioneer LaserActive",
+"aliases": [
+"CLD-A100",
+"LD-ROM² System"
+],
+"links": 17
+},
+{
+"name": "Tapwave Zodiac",
+"aliases": [
+"Tapwave Zodiac 1",
+"Tapwave Zodiac 2",
+"Zodiac 1",
+"Zodiac 2"
+],
+"links": 17
+},
+{
+"name": "VMU",
+"aliases": [
+"Dreamcast VMS",
+"Dreamcast VMU",
+"Visual Memory System",
+"Visual Memory Unit"
+],
+"links": 17
+},
+{
+"name": "Watara Supervision",
+"aliases": [
+"Hartung SV-100",
+"QuickShot Supervision",
+"Supervision",
+"Tiger Boy"
+],
+"links": 17
+},
+{
+"name": "APF TV Fun series",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Dingoo A320",
+"aliases": [],
+"links": 16
+},
+{
+"name": "New Nintendo 2DS XL",
+"aliases": [
+"N2DS XL",
+"New 2DS XL",
+"NN2DS XL"
+],
+"links": 16
+},
+{
+"name": "TurboExpress",
+"aliases": [
+"PC Engine GT"
+],
+"links": 16
+},
+{
+"name": "APF-M1000",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Nintendo DSi XL",
+"aliases": [
+"DSi XL"
+],
+"links": 15
+},
+{
+"name": "Super A'Can",
+"aliases": [
+"Funtech Super Acan",
+"Super Acan"
+],
+"links": 15
+},
+{
+"name": "N-Gage QD",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Nintendo Entertainment System hardware clone",
+"aliases": [
+"Famiclone"
+],
+"links": 14
+},
+{
+"name": "Odyssey series",
+"aliases": [
+"versions of the Odyssey"
+],
+"links": 14
+},
+{
+"name": "PC Engine SuperGrafx",
+"aliases": [
+"SuperGrafx"
+],
+"links": 14
+},
+{
+"name": "PolyStation",
+"aliases": [
+"Game Player",
+"PS Kid",
+"PSMan"
+],
+"links": 14
+},
+{
+"name": "TV Tennis Electrotennis",
+"aliases": [
+"Electrotennis",
+"Epoch Electrotennis",
+"Epoch TV Tennis",
+"Epoch TV Tennis Electrotennis",
+"first Japanese video game console",
+"TV Tennis",
+"video game console"
+],
+"links": 14
+},
+{
+"name": "Video Pinball series",
+"aliases": [
+"Atari Video Pinball",
+"Atari Video Pinball series",
+"Video Pinball"
+],
+"links": 14
+},
+{
+"name": "Xbox Series S",
+"aliases": [
+"Microsoft Xbox Series S",
+"XBSS"
+],
+"links": 14
+},
+{
+"name": "Barcode Battler",
+"aliases": [
+"BB",
+"CARD BATTLE SYSTEM"
+],
+"links": 13
+},
+{
+"name": "Epoch Game Pocket Computer",
+"aliases": [
+"Epoch GPC",
+"Game Pocket Computer",
+"GPC",
+"Gēmupokekon",
+"Pokekon"
+],
+"links": 13
+},
+{
+"name": "Flipper Zero",
+"aliases": [],
+"links": 13
+},
+{
+"name": "GameStick",
+"aliases": [
+"Game Stick"
+],
+"links": 13
+},
+{
+"name": "Super Cassette Vision",
+"aliases": [
+"Epoch Super Cassette Vision"
+],
+"links": 13
+},
+{
+"name": "Action Max",
+"aliases": [
+"WoW Action Max"
+],
+"links": 12
+},
+{
+"name": "Atari Flashback series",
+"aliases": [
+"Atari FB",
+"Atari FB series",
+"Atari Flashback",
+"FB",
+"FB series",
+"Flashback"
+],
+"links": 12
+},
+{
+"name": "Atari Panther",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Bandai Super Vision 8000",
+"aliases": [
+"Super Vision 8000",
+"SV8000",
+"TV Jack 8000"
+],
+"links": 12
+},
+{
+"name": "C64 Direct-to-TV",
+"aliases": [
+"C64DTV"
+],
+"links": 12
+},
+{
+"name": "dedicated console",
+"aliases": [
+"dedicated game console",
+"dedicated gaming console",
+"dedicated home console",
+"dedicated home game console",
+"dedicated home video game console",
+"dedicated video game console",
+"early console"
+],
+"links": 12
+},
+{
+"name": "Entex Select-A-Game",
+"aliases": [
+"S-A-G",
+"SAG"
+],
+"links": 12
+},
+{
+"name": "Halcyon",
+"aliases": [],
+"links": 12
+},
+{
+"name": "microconsole",
+"aliases": [],
+"links": 12
+},
+{
+"name": "NES-101",
+"aliases": [
+"NES 2",
+"NES Control Deck",
+"NES Top Loader",
+"New NES",
+"New-style NES",
+"Nintendo Entertainment System Control Deck"
+],
+"links": 12
+},
+{
+"name": "R-Zone",
+"aliases": [
+"Tiger R-Zone"
+],
+"links": 12
+},
+{
+"name": "Sega TeraDrive",
+"aliases": [
+"STT",
+"TeraDrive",
+"TT"
+],
+"links": 12
+},
+{
+"name": "Super NES CD-ROM",
+"aliases": [
+"Nintendo Play Station",
+"Nintendo PlayStation",
+"PlayStation",
+"SFC-CD",
+"SFDS",
+"SNES CD",
+"SNES Disk System",
+"SNES PlayStation",
+"SNES-CD",
+"Sony/Nintendo Play Station",
+"Super Disc",
+"Super Famicom CD",
+"Super Famicom CD-ROM",
+"Super Famicom Disk System",
+"Super Famicom Play Station",
+"Super Famicom PlayStation",
+"Super Family Computer Disk System",
+"Super FDS",
+"Super NES CD",
+"Super NES Disk System",
+"Super Nintendo Play Station",
+"Super Nintendo PlayStation"
+],
+"links": 12
+},
+{
+"name": "Vii",
+"aliases": [
+"Sport Vii",
+"Vii Sports"
+],
+"links": 12
+},
+{
+"name": "WowCube",
+"aliases": [],
+"links": 12
+},
+{
+"name": "CAANOO",
+"aliases": [
+"GP2X CAANOO"
+],
+"links": 11
+},
+{
+"name": "Gamate",
+"aliases": [
+"Bit Corporation Gamate",
+"Bitcorp Gamate"
+],
+"links": 11
+},
+{
+"name": "Mega Duck",
+"aliases": [
+"Cougar Boy",
+"Mega Duck WG-108",
+"Timlex Mega Duck"
+],
+"links": 11
+},
+{
+"name": "Neo-Geo X",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Philips Tele-Game series",
+"aliases": [
+"Philips Tele-Game",
+"Philips Tele-Spiel",
+"Philips Tele-Spiel series"
+],
+"links": 11
+},
+{
+"name": "Tomy Tutor",
+"aliases": [
+"Grandstand Tutor",
+"Pyuta",
+"Pyūta"
+],
+"links": 11
+},
+{
+"name": "V.Flash",
+"aliases": [
+"V.FLASH HOME EDUTAINMENT SYSTEM",
+"V.Smile Pro",
+"VTech V.Flash"
+],
+"links": 11
+},
+{
+"name": "V.Smile",
+"aliases": [
+"V.SMILE TV LEARNING SYSTEM",
+"Vsmile",
+"VSmile",
+"VTech Vsmile",
+"VTech VSmile"
+],
+"links": 11
+},
+{
+"name": "VTech CreatiVision",
+"aliases": [
+"Dick Smith Wizzard"
+],
+"links": 11
+},
+{
+"name": "1292 Advanced Programmable Video System",
+"aliases": [
+"1292 APVS",
+"APVS"
+],
+"links": 10
+},
+{
+"name": "BSS 01",
+"aliases": [
+"Bildschirmspiel 01",
+"BSS01",
+"RFT TV-Spiel",
+"TV-Spiel"
+],
+"links": 10
+},
+{
+"name": "Canon de 155 C modèle 1917 Schneider",
+"aliases": [],
+"links": 10
+},
+{
+"name": "EVO Smart Console",
+"aliases": [
+"EVO",
+"Evo: Phase One"
+],
+"links": 10
+},
+{
+"name": "Game Wave Family Entertainment System",
+"aliases": [
+"Game Wave",
+"GW",
+"GWFES"
+],
+"links": 10
+},
+{
+"name": "mylo",
+"aliases": [
+"My Life Online",
+"Sony My Life Online",
+"Sony mylo"
+],
+"links": 10
+},
+{
+"name": "Pokémon Pikachu",
+"aliases": [
+"Pocket Pikachu",
+"Pokemon Pikachu"
+],
+"links": 10
+},
+{
+"name": "Sharp Nintendo Television",
+"aliases": [
+"C1",
+"C1 NES TV",
+"Game Television",
+"My Computer TV C1"
+],
+"links": 10
+},
+{
+"name": "Twin Famicom",
+"aliases": [],
+"links": 10
+},
+{
+"name": "XaviXPort consoles",
+"aliases": [
+"DIS",
+"Domyos Interactive System",
+"XaviX"
+],
+"links": 10
+},
+{
+"name": "XGP",
+"aliases": [
+"Extreme Game Player"
+],
+"links": 10
+},
+{
+"name": "1chipMSX",
+"aliases": [],
+"links": 9
+},
+{
+"name": "APF Imagination Machine",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Coleco Gemini",
+"aliases": [],
+"links": 9
+},
+{
+"name": "GameKing",
+"aliases": [
+"Timetop GameKing"
+],
+"links": 9
+},
+{
+"name": "Micro Genius",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Nintendo DS family",
+"aliases": [
+"DS family",
+"DS line",
+"DS series",
+"Nintendo DS line",
+"Nintendo DS series"
+],
+"links": 9
+},
+{
+"name": "Panasonic M2",
+"aliases": [
+"3DO M2"
+],
+"links": 9
+},
+{
+"name": "PC-50X Family",
+"aliases": [
+"SD-050",
+"SD-070",
+"SD-090"
+],
+"links": 9
+},
+{
+"name": "Sega Mark III",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sega Mega Jet",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Shield Tablet",
+"aliases": [
+"Shield Tablet K1"
+],
+"links": 9
+},
+{
+"name": "TurboDuo",
+"aliases": [
+"PC Engine Duo"
+],
+"links": 9
+},
+{
+"name": "TurboGrafx-16 Mini",
+"aliases": [
+"PC Engine Core Grafx Mini",
+"PC Engine Mini"
+],
+"links": 9
+},
+{
+"name": "TV VADER",
+"aliases": [
+"Epoch TV VADER",
+"Epoch TV Vader",
+"EPOCH TV VADER",
+"Epoch TV-Vader"
+],
+"links": 9
+},
+{
+"name": "VTech Socrates",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Wii Mini",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ameprod Television Game 10",
+"aliases": [
+"Ameprod TVG-10",
+"Television Game 10",
+"TVG-10"
+],
+"links": 8
+},
+{
+"name": "Analogue Pocket",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cybiko",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gakken Compact Vision TV Boy",
+"aliases": [
+"Compact Vision TV Boy",
+"Gakken COMPACT VISION"
+],
+"links": 8
+},
+{
+"name": "GPD Win",
+"aliases": [],
+"links": 8
+},
+{
+"name": "GPD XD",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Merlin",
+"aliases": [
+"Merlin – the Electronic Wizard",
+"Merlin, the Electronic Wizard"
+],
+"links": 8
+},
+{
+"name": "Minimig",
+"aliases": [
+"Mini Amiga"
+],
+"links": 8
+},
+{
+"name": "Philips Videopac+ G7400",
+"aliases": [
+"Videopac+ G7400"
+],
+"links": 8
+},
+{
+"name": "Ping-O-Tronic",
+"aliases": [
+"Sèleco Ping-O-Tronic",
+"Zanussi Ping-O-Tronic"
+],
+"links": 8
+},
+{
+"name": "PSP 3000",
+"aliases": [
+"PlayStation Portable 3000"
+],
+"links": 8
+},
+{
+"name": "Telejogo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Telejogo II",
+"aliases": [
+"Telejogo 2"
+],
+"links": 8
+},
+{
+"name": "TIC-80",
+"aliases": [
+"TIC80"
+],
+"links": 8
+},
+{
+"name": "Uzebox",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Zemmix",
+"aliases": [
+"Daewoo Electronics Zemmix",
+"Daewoo Zemmix"
+],
+"links": 8
+},
+{
+"name": "Amstrad Mega PC",
+"aliases": [
+"Mega PC"
+],
+"links": 7
+},
+{
+"name": "Arduboy",
+"aliases": [
+"Bateske Arduboy"
+],
+"links": 7
+},
+{
+"name": "Atari Home Pong series",
+"aliases": [
+"Ataril Home Pong",
+"Home Pong",
+"Sears Tele-Games",
+"Sears Tele-Games series",
+"Tele-Games"
+],
+"links": 7
+},
+{
+"name": "BBC Bridge Companion",
+"aliases": [],
+"links": 7
+},
+{
+"name": "DigiBLAST",
+"aliases": [
+"digiBLAST personal media center"
+],
+"links": 7
+},
+{
+"name": "fantasy console",
+"aliases": [
+"fantasy computer",
+"fantasy video game console"
+],
+"links": 7
+},
+{
+"name": "GCW Zero",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hartung Game Master",
+"aliases": [
+"Game Tronic",
+"Super Game",
+"Systema 2000"
+],
+"links": 7
+},
+{
+"name": "Palmtex Portable Videogame System",
+"aliases": [
+"Palmsized Videogame System",
+"PVS",
+"PVS Command Console",
+"Super Micro"
+],
+"links": 7
+},
+{
+"name": "PSP Slim",
+"aliases": [
+"PlayStation Portable Slim",
+"PlayStation Portable Slim and Lite",
+"PSP S&L",
+"PSP Slim & Lite",
+"PSP Slim and Lite",
+"PSP-2000"
+],
+"links": 7
+},
+{
+"name": "Telescore 750",
+"aliases": [
+"Telescore SEB 750"
+],
+"links": 7
+},
+{
+"name": "Telstar Arcade",
+"aliases": [
+"Cleco Telstar Arcade"
+],
+"links": 7
+},
+{
+"name": "Turnir",
+"aliases": [
+"Teleigra"
+],
+"links": 7
+},
+{
+"name": "TV Boy",
+"aliases": [],
+"links": 7
+},
+{
+"name": "VideoSport MK2",
+"aliases": [
+"MK2"
+],
+"links": 7
+},
+{
+"name": "Zone",
+"aliases": [
+"AtGames Reactor",
+"Sega Reactor",
+"Sega Zone"
+],
+"links": 7
+},
+{
+"name": "ZX Spectrum Vega",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Atari Flashback 2",
+"aliases": [
+"Atari Flashback Two",
+"Flashback 2",
+"Flashback Two"
+],
+"links": 6
+},
+{
+"name": "Brick Game",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Children's Discovery System",
+"aliases": [
+"CDS"
+],
+"links": 6
+},
+{
+"name": "Game Brain",
+"aliases": [
+"Atari C-700",
+"Atari Game Brain",
+"C-700"
+],
+"links": 6
+},
+{
+"name": "Konix Multisystem",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Leapfrog Didj",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mega Drive Mini 2",
+"aliases": [
+"Mega Drive Mini II",
+"SEGA Genesis Mini 2",
+"SEGA Mega Drive Mini 2"
+],
+"links": 6
+},
+{
+"name": "Mi2",
+"aliases": [
+"Pocket Dream Console Touch"
+],
+"links": 6
+},
+{
+"name": "MOJO",
+"aliases": [
+"M.O.J.O.",
+"Project Mojo"
+],
+"links": 6
+},
+{
+"name": "Pocket Dream Console",
+"aliases": [],
+"links": 6
+},
+{
+"name": "RetroN",
+"aliases": [
+"RetroN 3"
+],
+"links": 6
+},
+{
+"name": "Telstar Marksman",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Terebikko",
+"aliases": [
+"See 'n Say",
+"Terebikko Video Communication System"
+],
+"links": 6
+},
+{
+"name": "View-Master Interactive Vision",
+"aliases": [
+"VMIV"
+],
+"links": 6
+},
+{
+"name": "ApeXtreme",
+"aliases": [
+"Apex Extreme"
+],
+"links": 5
+},
+{
+"name": "Atari 2700",
+"aliases": [
+"Atari Remote Control VCS"
+],
+"links": 5
+},
+{
+"name": "Bandai LCD Solarpower",
+"aliases": [
+"LCD Solarpower"
+],
+"links": 5
+},
+{
+"name": "Bandai RX-78",
+"aliases": [
+"RX-78"
+],
+"links": 5
+},
+{
+"name": "Coleco Sonic",
+"aliases": [
+"PlayPal",
+"Pocket Gear"
+],
+"links": 5
+},
+{
+"name": "Design Master Senshi Mangajukuu",
+"aliases": [
+"Denshi Manga Juku",
+"Denshi Mangajuku",
+"Design Master"
+],
+"links": 5
+},
+{
+"name": "Digi Casse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Elektronika IM",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Famicom Titler",
+"aliases": [
+"AN-510",
+"Famicom Editor"
+],
+"links": 5
+},
+{
+"name": "Gameroom Tele-Pong",
+"aliases": [
+"Entex Gameroom Tele-Pong",
+"ENTEX Gameroom Tele-Pong"
+],
+"links": 5
+},
+{
+"name": "handheld TV game",
+"aliases": [
+"Platform / Plug 'n' Play Game",
+"plug and play game",
+"plug-'n'-play game",
+"TV game"
+],
+"links": 5
+},
+{
+"name": "Interton Video 2800",
+"aliases": [
+"Video 2800"
+],
+"links": 5
+},
+{
+"name": "Leapster",
+"aliases": [],
+"links": 5
+},
+{
+"name": "MoMA Eve",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Panasonic Jungle",
+"aliases": [
+"Jungle"
+],
+"links": 5
+},
+{
+"name": "Pelican VG Pocket",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Power Player Super Joy III",
+"aliases": [
+"Power Games",
+"Power Joy",
+"Power Player",
+"XA-76-1E"
+],
+"links": 5
+},
+{
+"name": "Romtec Colorvision",
+"aliases": [
+"Colorvision"
+],
+"links": 5
+},
+{
+"name": "Tandy Video Information System",
+"aliases": [
+"T VIS",
+"Tandy VIS",
+"TVIS",
+"VIS"
+],
+"links": 5
+},
+{
+"name": "Tomytronic 3D",
+"aliases": [],
+"links": 5
+},
+{
+"name": "TV Scoreboard",
+"aliases": [
+"RadioShack TV Scoreboard",
+"Radioshack TV Scoreboard",
+"Tandy TV Scoreboard"
+],
+"links": 5
+},
+{
+"name": "Xbox One S",
+"aliases": [
+"X One S",
+"XOne S"
+],
+"links": 5
+},
+{
+"name": "Xbox One X",
+"aliases": [
+"One X",
+"Project Scorpio",
+"X One X",
+"XOne X"
+],
+"links": 5
+}
+]

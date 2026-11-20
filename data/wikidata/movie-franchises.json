@@ -1,0 +1,679 @@
+[
+{
+"name": "Star Wars",
+"aliases": [],
+"links": 185
+},
+{
+"name": "Pokémon",
+"aliases": [],
+"links": 126
+},
+{
+"name": "Dragon Ball",
+"aliases": [
+"DB",
+"Dragon Ball franchise"
+],
+"links": 114
+},
+{
+"name": "Tom and Jerry",
+"aliases": [
+"Tom & Jerry"
+],
+"links": 112
+},
+{
+"name": "Star Trek",
+"aliases": [
+"Star Trek franchise",
+"StarTrek"
+],
+"links": 108
+},
+{
+"name": "Barbie",
+"aliases": [
+"Barbie franchise",
+"Barbie Millicent Roberts",
+"Barbie product line"
+],
+"links": 92
+},
+{
+"name": "Marvel Cinematic Universe",
+"aliases": [
+"Earth-199999",
+"Marvel",
+"MCU"
+],
+"links": 81
+},
+{
+"name": "Bleach",
+"aliases": [],
+"links": 77
+},
+{
+"name": "The Smurfs",
+"aliases": [
+"Les Schtroumpfs"
+],
+"links": 76
+},
+{
+"name": "Scooby-Doo",
+"aliases": [
+"Scooby Doo"
+],
+"links": 72
+},
+{
+"name": "Angry Birds",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Glee",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Harry Potter",
+"aliases": [
+"Harry Potter film series",
+"Harry Potter films",
+"Harry Potter movies"
+],
+"links": 68
+},
+{
+"name": "Final Fantasy",
+"aliases": [
+"FF",
+"Final Fantasy franchise"
+],
+"links": 60
+},
+{
+"name": "Pirates of the Caribbean",
+"aliases": [
+"PotC films",
+"PotC series"
+],
+"links": 60
+},
+{
+"name": "Resident Evil",
+"aliases": [
+"Biohazard",
+"Biohazard series",
+"RE",
+"Resident Evil series"
+],
+"links": 59
+},
+{
+"name": "Fast & Furious",
+"aliases": [
+"The Fast and the Furious"
+],
+"links": 58
+},
+{
+"name": "Digimon",
+"aliases": [
+"Digimon: Digital Monsters",
+"Digital Monsters"
+],
+"links": 54
+},
+{
+"name": "Yu-Gi-Oh!",
+"aliases": [
+"Yugioh"
+],
+"links": 53
+},
+{
+"name": "DC Extended Universe",
+"aliases": [
+"DCEU",
+"JLU",
+"Justice League Universe"
+],
+"links": 50
+},
+{
+"name": "War and Peace",
+"aliases": [
+"Vojna i mir"
+],
+"links": 49
+},
+{
+"name": "One-Punch Man",
+"aliases": [
+"One Punch Man",
+"OPM",
+"Wanpanman"
+],
+"links": 48
+},
+{
+"name": "X-Men",
+"aliases": [
+"FoX-Men",
+"X-Men film series",
+"X-Men films",
+"XCU"
+],
+"links": 48
+},
+{
+"name": "Calvin and Hobbes",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Transformers",
+"aliases": [
+"Transformer franchise",
+"Transformers franchise"
+],
+"links": 47
+},
+{
+"name": "list of Marvel Cinematic Universe films",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Power Rangers",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Toy Story",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Animal Crossing",
+"aliases": [
+"Animal Crossing series"
+],
+"links": 43
+},
+{
+"name": "Big Brother",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Code Geass",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Metal Gear",
+"aliases": [
+"Metal Gear Series",
+"MG"
+],
+"links": 42
+},
+{
+"name": "Mission: Impossible",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Wallace & Gromit",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Despicable Me",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Jurassic Park",
+"aliases": [
+"Jurassic World"
+],
+"links": 39
+},
+{
+"name": "list of James Bond films",
+"aliases": [
+"007 film",
+"007 film series",
+"007 films",
+"Bond film",
+"Bond film series",
+"Bond films",
+"James Bond film",
+"James Bond film series"
+],
+"links": 39
+},
+{
+"name": "The Pink Panther",
+"aliases": [
+"Pink Panther"
+],
+"links": 39
+},
+{
+"name": "Saw",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Ghost in the Shell",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Stargate",
+"aliases": [
+"Stargate franchise",
+"The Stargate Franchise"
+],
+"links": 37
+},
+{
+"name": "Terminator",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Trigun",
+"aliases": [
+"TRIGUN Badlands Rumble"
+],
+"links": 34
+},
+{
+"name": "Alvin and the Chipmunks",
+"aliases": [
+"Chipmunks",
+"David Seville and the Chipmunks",
+"The Chipmunks"
+],
+"links": 33
+},
+{
+"name": "Battlestar Galactica",
+"aliases": [
+"BSG"
+],
+"links": 33
+},
+{
+"name": "Disney Princess",
+"aliases": [
+"Princess line"
+],
+"links": 33
+},
+{
+"name": "Indiana Jones",
+"aliases": [],
+"links": 33
+},
+{
+"name": "My Little Pony",
+"aliases": [
+"Hasbro",
+"Serie"
+],
+"links": 33
+},
+{
+"name": "Gundam",
+"aliases": [],
+"links": 32
+},
+{
+"name": "The Decalogue",
+"aliases": [
+"Decalogue"
+],
+"links": 32
+},
+{
+"name": "VeggieTales",
+"aliases": [],
+"links": 32
+},
+{
+"name": "DC Universe",
+"aliases": [
+"DCEU",
+"DCU"
+],
+"links": 31
+},
+{
+"name": "Dr. Slump",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Extreme Championship Wrestling",
+"aliases": [
+"Eastern Championship Wrestling",
+"ECW"
+],
+"links": 31
+},
+{
+"name": "Monster High",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Planet of the Apes",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Shrek",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Transformers",
+"aliases": [
+"Bayformers"
+],
+"links": 31
+},
+{
+"name": "American Pie",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Resident Evil",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Rocky",
+"aliases": [],
+"links": 30
+},
+{
+"name": "The X Factor",
+"aliases": [
+"X Factor"
+],
+"links": 30
+},
+{
+"name": "Alvin and the Chipmunks in film",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lupin III",
+"aliases": [
+"Lupin the 3rd",
+"Lupin the Third",
+"Rupan Sansei"
+],
+"links": 29
+},
+{
+"name": "The Amazing Race",
+"aliases": [
+"Amazing Race"
+],
+"links": 29
+},
+{
+"name": "A Nightmare on Elm Street",
+"aliases": [
+"Nightmare on Elm Street"
+],
+"links": 28
+},
+{
+"name": "Arrowverse",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Kung Fu Panda",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Liberation",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Super Sentai Series",
+"aliases": [],
+"links": 28
+},
+{
+"name": "The Twilight Saga",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Die Nibelungen",
+"aliases": [
+"Siegfried"
+],
+"links": 27
+},
+{
+"name": "Final Destination",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Police Academy",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Sony's Spider-Man Universe",
+"aliases": [
+"Earth-TRN688",
+"Sony Pictures Universe of Marvel Characters",
+"Sony's Marvel Universe",
+"Sony's Universe of Marvel Characters",
+"SPUMC",
+"Venom-verse"
+],
+"links": 27
+},
+{
+"name": "Bourne franchise",
+"aliases": [
+"Bourne",
+"Bourne film franchise",
+"Bourne film series",
+"Bourne films"
+],
+"links": 26
+},
+{
+"name": "Masters of the Universe",
+"aliases": [
+"He-Man and the Masters of the Universe"
+],
+"links": 26
+},
+{
+"name": "Slayers",
+"aliases": [],
+"links": 26
+},
+{
+"name": "G.I. Joe",
+"aliases": [
+"G I Joe",
+"GI Joe"
+],
+"links": 25
+},
+{
+"name": "John Wick",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Marvel Cinematic Universe Phase One",
+"aliases": [
+"Avengers Assembled"
+],
+"links": 25
+},
+{
+"name": "Pretty Cure",
+"aliases": [
+"PreCure"
+],
+"links": 25
+},
+{
+"name": "The Hunger Games",
+"aliases": [
+"Hunger Games",
+"THG"
+],
+"links": 25
+},
+{
+"name": "Umineko When They Cry",
+"aliases": [
+"Umineko no Naku Koro ni"
+],
+"links": 25
+},
+{
+"name": "Marvel One-Shots",
+"aliases": [
+"Marvel Studios One-Shots"
+],
+"links": 24
+},
+{
+"name": "Batman in film",
+"aliases": [
+"Batman film",
+"Batman in movies"
+],
+"links": 23
+},
+{
+"name": "Che",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Loose Change",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Mad Max",
+"aliases": [
+"Mad Max franchise",
+"Mad Max saga",
+"Mad Max series"
+],
+"links": 23
+},
+{
+"name": "MonsterVerse",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Halloween",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Home Alone",
+"aliases": [
+"Home Alone film series",
+"Home Alone movie series",
+"Home Alone series"
+],
+"links": 22
+},
+{
+"name": "The Chronicles of Narnia",
+"aliases": [
+"Narnia movies"
+],
+"links": 22
+},
+{
+"name": "Assassin's Creed: Lineage",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Die Deutsche Wochenschau",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Fantastic Beasts",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Marvel Cinematic Universe Phase Two",
+"aliases": [
+"Marvel Cinematic Universe: Phase Two",
+"Phase 2 of the Marvel Cinematic Universe",
+"Phase Two of the Marvel Cinematic Universe"
+],
+"links": 21
+},
+{
+"name": "The Simpsons shorts",
+"aliases": [
+"The Tracey Ullman shorts"
+],
+"links": 21
+},
+{
+"name": "Marvel Cinematic Universe Phase Four",
+"aliases": [
+"Marvel Cinematic Universe: Phase Four",
+"Marvel Cinematic Universe:Phase Four",
+"Phase 4",
+"Phase 4 of the Marvel Cinematic Universe",
+"Phase Four",
+"Phase Four of the Marvel Cinematic Universe"
+],
+"links": 20
+},
+{
+"name": "Predator",
+"aliases": [],
+"links": 20
+},
+{
+"name": "The Texas Chainsaw Massacre",
+"aliases": [
+"Texas Chainsaw Massacre"
+],
+"links": 20
+}
+]

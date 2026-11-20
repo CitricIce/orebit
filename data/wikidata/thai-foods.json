@@ -1,0 +1,468 @@
+[
+{
+"name": "fish sauce",
+"aliases": [
+"yúlù"
+],
+"links": 54
+},
+{
+"name": "pad thai",
+"aliases": [],
+"links": 42
+},
+{
+"name": "tom yum",
+"aliases": [
+"tom yam"
+],
+"links": 42
+},
+{
+"name": "thali",
+"aliases": [],
+"links": 36
+},
+{
+"name": "green curry",
+"aliases": [
+"kaeng khiao wan",
+"Thai green curry"
+],
+"links": 26
+},
+{
+"name": "tom kha kai",
+"aliases": [
+"tom kha gai"
+],
+"links": 26
+},
+{
+"name": "Hainanese chicken rice",
+"aliases": [],
+"links": 25
+},
+{
+"name": "massaman curry",
+"aliases": [
+"kaeng masaman",
+"kaeng massaman",
+"masaman",
+"matsaman"
+],
+"links": 22
+},
+{
+"name": "phat kaphrao",
+"aliases": [
+"pad kaprao",
+"pad kra pao",
+"pad krapao",
+"pad krapow"
+],
+"links": 20
+},
+{
+"name": "red curry",
+"aliases": [
+"kaeng phet"
+],
+"links": 19
+},
+{
+"name": "khao soi",
+"aliases": [
+"khao soy"
+],
+"links": 16
+},
+{
+"name": "som tam",
+"aliases": [
+"som tum"
+],
+"links": 15
+},
+{
+"name": "khao phat",
+"aliases": [
+"fried rice",
+"Thai fried rice"
+],
+"links": 14
+},
+{
+"name": "Mu kratha",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Nam ngiao",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Nasi Kerabu",
+"aliases": [
+"khao jam",
+"khao yam",
+"khao yum"
+],
+"links": 14
+},
+{
+"name": "Thai curry",
+"aliases": [
+"kaeng"
+],
+"links": 14
+},
+{
+"name": "stir-fried ice cream",
+"aliases": [
+"ice cream roll",
+"ice pan ice cream",
+"rolled ice cream"
+],
+"links": 13
+},
+{
+"name": "yellow curry",
+"aliases": [
+"kaeng kari"
+],
+"links": 13
+},
+{
+"name": "drunken noodles",
+"aliases": [
+"pad kee mao",
+"pad ki mao",
+"pad kimao"
+],
+"links": 12
+},
+{
+"name": "Kaeng pa",
+"aliases": [
+"forest curry",
+"Gaeng pa",
+"jungle curry"
+],
+"links": 12
+},
+{
+"name": "Phanaeng curry",
+"aliases": [
+"panang",
+"panang curry",
+"phanaeng",
+"Phanaeng",
+"phanang",
+"phanang curry"
+],
+"links": 12
+},
+{
+"name": "Cucur cake",
+"aliases": [
+"Cucur",
+"Kue cucur"
+],
+"links": 11
+},
+{
+"name": "Kaeng som",
+"aliases": [
+"gaeng som",
+"Thai sour curry"
+],
+"links": 11
+},
+{
+"name": "khao phat amerikan",
+"aliases": [],
+"links": 11
+},
+{
+"name": "phat si io",
+"aliases": [
+"Pad See Ew",
+"Pad Si Ew"
+],
+"links": 11
+},
+{
+"name": "rice noodle roll",
+"aliases": [
+"steamed rice roll"
+],
+"links": 11
+},
+{
+"name": "steamed curry",
+"aliases": [],
+"links": 11
+},
+{
+"name": "khao kha mu",
+"aliases": [
+"ka moo",
+"ka mu",
+"kao ka moo",
+"kao ka mu",
+"kha moo",
+"kha mu",
+"kha mu phalo",
+"khao kha moo"
+],
+"links": 10
+},
+{
+"name": "pla ra",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pumpkin-coconut custard",
+"aliases": [],
+"links": 10
+},
+{
+"name": "tom yum kung",
+"aliases": [
+"Tom yam kung",
+"Tom yum goong"
+],
+"links": 10
+},
+{
+"name": "Khanom bueang",
+"aliases": [
+"Thai crepes"
+],
+"links": 9
+},
+{
+"name": "Khanom chan",
+"aliases": [
+"Steamed layer cake"
+],
+"links": 9
+},
+{
+"name": "nam tok",
+"aliases": [],
+"links": 9
+},
+{
+"name": "thong yip",
+"aliases": [
+"thong yib"
+],
+"links": 9
+},
+{
+"name": "kaeng khae",
+"aliases": [],
+"links": 8
+},
+{
+"name": "mi krop",
+"aliases": [
+"mee crob",
+"mee grob",
+"mee krob",
+"meecrob",
+"meegrob",
+"meekrob"
+],
+"links": 8
+},
+{
+"name": "Thai suki",
+"aliases": [
+"suki"
+],
+"links": 8
+},
+{
+"name": "kaeng tai pla",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Khai yat sai",
+"aliases": [],
+"links": 7
+},
+{
+"name": "phat phrik khing",
+"aliases": [
+"pad prik king"
+],
+"links": 7
+},
+{
+"name": "Roti sai mai",
+"aliases": [
+"Ayutthaya's cotton candy",
+"roti-wrapped candy floss"
+],
+"links": 7
+},
+{
+"name": "thong yot",
+"aliases": [
+"buah tanjung",
+"thong yod",
+"tong yod"
+],
+"links": 7
+},
+{
+"name": "boat noodles",
+"aliases": [
+"kuai tiao ruea"
+],
+"links": 6
+},
+{
+"name": "kaeng hang le",
+"aliases": [],
+"links": 6
+},
+{
+"name": "khao khluk kapi",
+"aliases": [
+"Rice Mixed with Shrimp paste"
+],
+"links": 6
+},
+{
+"name": "Khao mu daeng",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kuaitiao khua kai",
+"aliases": [],
+"links": 6
+},
+{
+"name": "rat na",
+"aliases": [
+"rad na",
+"ratna"
+],
+"links": 6
+},
+{
+"name": "suea rong hai",
+"aliases": [
+"crying tiger",
+"crying tiger beef"
+],
+"links": 6
+},
+{
+"name": "Akhuni",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mamuang kuan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "nam pla",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Yam khai dao",
+"aliases": [],
+"links": 5
+},
+{
+"name": "foi thong",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Khanom khuai ling",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Khanom tan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Khanom thuai",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Khanom tom",
+"aliases": [
+"Khanom kho"
+],
+"links": 4
+},
+{
+"name": "Kleeb lamduan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nam phrik long ruea",
+"aliases": [],
+"links": 4
+},
+{
+"name": "pu phat phong kari",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Thai salads",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Thong ek",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tom khlong",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kaeng thepho",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ketupat sotong",
+"aliases": [
+"glutinous rice stuffed squid"
+],
+"links": 3
+},
+{
+"name": "Khanom babin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tom som",
+"aliases": [],
+"links": 3
+}
+]

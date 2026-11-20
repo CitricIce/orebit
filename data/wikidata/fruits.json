@@ -1,0 +1,3913 @@
+[
+{
+"name": "apple",
+"aliases": [
+"apple fruit"
+],
+"links": 242
+},
+{
+"name": "banana",
+"aliases": [
+"banana fruit",
+"bananas"
+],
+"links": 228
+},
+{
+"name": "grape",
+"aliases": [
+"grapes"
+],
+"links": 197
+},
+{
+"name": "orange",
+"aliases": [
+"citrus orange",
+"orange fruit"
+],
+"links": 164
+},
+{
+"name": "mango",
+"aliases": [
+"Mangifera indica",
+"mangoes"
+],
+"links": 149
+},
+{
+"name": "Artocarpus heterophyllus",
+"aliases": [
+"Artocarpus macrocrapon",
+"jack tree",
+"jackfruit",
+"jackfruit tree",
+"nangka Tree"
+],
+"links": 118
+},
+{
+"name": "Citrus",
+"aliases": [
+"Papeda"
+],
+"links": 112
+},
+{
+"name": "pomelo",
+"aliases": [
+"Citrus maxima",
+"pommelo",
+"pummelo",
+"shaddock"
+],
+"links": 109
+},
+{
+"name": "raisin",
+"aliases": [
+"dried raisin",
+"raisins"
+],
+"links": 104
+},
+{
+"name": "kiwifruit",
+"aliases": [
+"Chinese gooseberry",
+"kiwi",
+"kiwi fruit"
+],
+"links": 99
+},
+{
+"name": "Prunus domestica",
+"aliases": [
+"plum tree"
+],
+"links": 96
+},
+{
+"name": "Nephelium lappaceum",
+"aliases": [
+"ramboostan",
+"rambutan"
+],
+"links": 91
+},
+{
+"name": "plum",
+"aliases": [
+"plums"
+],
+"links": 88
+},
+{
+"name": "Ribes",
+"aliases": [],
+"links": 87
+},
+{
+"name": "apricot",
+"aliases": [
+"apricot fruit"
+],
+"links": 83
+},
+{
+"name": "cranberry",
+"aliases": [
+"cranberries",
+"fox-musked blueberry",
+"Vaccinium subg. Oxycoccus"
+],
+"links": 82
+},
+{
+"name": "pitahaya",
+"aliases": [
+"dragon fruit",
+"pitaya"
+],
+"links": 82
+},
+{
+"name": "raspberry",
+"aliases": [
+"hindberry",
+"raspberries"
+],
+"links": 81
+},
+{
+"name": "lime",
+"aliases": [
+"green lemon",
+"lime fruit",
+"sour lime"
+],
+"links": 74
+},
+{
+"name": "walnut",
+"aliases": [
+"Juglans regia"
+],
+"links": 74
+},
+{
+"name": "durian",
+"aliases": [],
+"links": 73
+},
+{
+"name": "guava",
+"aliases": [],
+"links": 70
+},
+{
+"name": "cumquat",
+"aliases": [
+"citrus fruit",
+"kumquat"
+],
+"links": 67
+},
+{
+"name": "hazelnut",
+"aliases": [
+"cobnut",
+"European hazelnut",
+"filbert"
+],
+"links": 63
+},
+{
+"name": "blackberry",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Ananas",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Citrus hystrix",
+"aliases": [
+"kaffir lime",
+"makrut lime",
+"Mauritius papeda",
+"porcupine orange",
+"Thai bai makrut",
+"Thai lime"
+],
+"links": 59
+},
+{
+"name": "dried fruit",
+"aliases": [],
+"links": 58
+},
+{
+"name": "berry",
+"aliases": [
+"berries",
+"berry fruit",
+"forest fruits",
+"soft fruit",
+"soft fruits"
+],
+"links": 57
+},
+{
+"name": "cooking banana",
+"aliases": [
+"green banana",
+"plantains"
+],
+"links": 55
+},
+{
+"name": "date",
+"aliases": [],
+"links": 53
+},
+{
+"name": "pine nut",
+"aliases": [
+"pignoli",
+"piñon nut"
+],
+"links": 53
+},
+{
+"name": "persimmon",
+"aliases": [
+"kaki",
+"Persimmons"
+],
+"links": 52
+},
+{
+"name": "Solanum betaceum",
+"aliases": [
+"tamarillo"
+],
+"links": 52
+},
+{
+"name": "blueberry",
+"aliases": [
+"Vaccinium Cyanococcus",
+"Vaccinium sect. Cyanococcus"
+],
+"links": 50
+},
+{
+"name": "olive",
+"aliases": [],
+"links": 49
+},
+{
+"name": "pear",
+"aliases": [
+"pears"
+],
+"links": 47
+},
+{
+"name": "Riesling",
+"aliases": [
+"Johannisberger",
+"Rossling",
+"White Riesling"
+],
+"links": 46
+},
+{
+"name": "pomegranate",
+"aliases": [
+"grenadine fruit",
+"grenadine fruits",
+"pomegranate fruit"
+],
+"links": 45
+},
+{
+"name": "melon",
+"aliases": [
+"melon fruit",
+"melons"
+],
+"links": 42
+},
+{
+"name": "areca nut",
+"aliases": [
+"Areca catechu",
+"betel nut"
+],
+"links": 41
+},
+{
+"name": "coconut",
+"aliases": [
+"coco nut",
+"cocoanut",
+"coconut fruit",
+"coconuts"
+],
+"links": 38
+},
+{
+"name": "almond",
+"aliases": [],
+"links": 37
+},
+{
+"name": "blood orange",
+"aliases": [
+"blood oranges",
+"raspberry orange"
+],
+"links": 36
+},
+{
+"name": "nectarine",
+"aliases": [
+"nectarines"
+],
+"links": 36
+},
+{
+"name": "prune",
+"aliases": [
+"dried plum",
+"prunes"
+],
+"links": 36
+},
+{
+"name": "goji",
+"aliases": [
+"goji berry",
+"wolfberry"
+],
+"links": 35
+},
+{
+"name": "lemon",
+"aliases": [],
+"links": 35
+},
+{
+"name": "mandarin orange",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Apple of Discord",
+"aliases": [
+"Golden Apple of Discord"
+],
+"links": 34
+},
+{
+"name": "kola nut",
+"aliases": [
+"Cola"
+],
+"links": 34
+},
+{
+"name": "umeboshi",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Malus domestica 'Granny Smith'",
+"aliases": [
+"Granny Smith",
+"Granny Smith apple"
+],
+"links": 32
+},
+{
+"name": "carambola",
+"aliases": [
+"Chinese gooseberry",
+"star fruit"
+],
+"links": 31
+},
+{
+"name": "cherry tomato",
+"aliases": [
+"Lycopersicon esculentum var. cerasiforme",
+"Lycopersicon lycopersicum var. cerasiforme",
+"Solanum lycopersicum var. cerasiforme"
+],
+"links": 31
+},
+{
+"name": "peach",
+"aliases": [
+"fruit of peach trees",
+"peach fruit",
+"peachfruit"
+],
+"links": 31
+},
+{
+"name": "banana chip",
+"aliases": [
+"banana crisp"
+],
+"links": 30
+},
+{
+"name": "fig",
+"aliases": [
+"fig fruit"
+],
+"links": 30
+},
+{
+"name": "Golden Delicious",
+"aliases": [
+"Malus domestica 'Golden Delicious'"
+],
+"links": 30
+},
+{
+"name": "pineberry",
+"aliases": [],
+"links": 28
+},
+{
+"name": "sultana",
+"aliases": [
+"Sultanina",
+"Sultanina Alba",
+"Sultanina Bela",
+"Sultanina Bianca",
+"Sultanina Bijela",
+"Sultanina Blanca",
+"Sultanina Blanche",
+"Sultanina grape",
+"Thompson Seedless"
+],
+"links": 28
+},
+{
+"name": "passionfruit",
+"aliases": [
+"Passion fruit",
+"passion fruit",
+"passion-fruit"
+],
+"links": 27
+},
+{
+"name": "Fuji",
+"aliases": [
+"Fuji apple",
+"Malus domestica var. Fuji"
+],
+"links": 26
+},
+{
+"name": "Carignan",
+"aliases": [
+"Bovale Grande",
+"Carignan grape"
+],
+"links": 25
+},
+{
+"name": "McIntosh",
+"aliases": [
+"McIntosh Red"
+],
+"links": 24
+},
+{
+"name": "Ugli fruit",
+"aliases": [
+"Ugli"
+],
+"links": 24
+},
+{
+"name": "Wikidata Sandbox",
+"aliases": [
+"Bar",
+"Foo"
+],
+"links": 24
+},
+{
+"name": "honeydew",
+"aliases": [
+"Cucumis melo var. inodorus",
+"honeydew melon",
+"honeymelon",
+"Inodorus Group"
+],
+"links": 23
+},
+{
+"name": "pineapple",
+"aliases": [
+"anana",
+"ananas"
+],
+"links": 23
+},
+{
+"name": "chestnut",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Gala",
+"aliases": [],
+"links": 22
+},
+{
+"name": "oroblanco",
+"aliases": [
+"Oro Blanco",
+"oroblanco grapefruit",
+"sweetie"
+],
+"links": 22
+},
+{
+"name": "peanut",
+"aliases": [],
+"links": 22
+},
+{
+"name": "watermelon",
+"aliases": [],
+"links": 22
+},
+{
+"name": "currant",
+"aliases": [
+"black raisin",
+"Corinth raisin",
+"Corinthian raisin"
+],
+"links": 21
+},
+{
+"name": "nut",
+"aliases": [
+"culinary nut",
+"dry fruit",
+"dry nut",
+"edible nut",
+"food nut",
+"nuts",
+"nuts as food"
+],
+"links": 21
+},
+{
+"name": "Williams' bon chrétien",
+"aliases": [
+"Bartlett",
+"Bartlett pear",
+"Pyrus communis 'Williams Bon Chrétien'",
+"Williams",
+"Williams Christ",
+"Williams pear",
+"Williams' bon chrétien pear"
+],
+"links": 21
+},
+{
+"name": "Jonagold",
+"aliases": [
+"N.Y. 43013-1"
+],
+"links": 20
+},
+{
+"name": "preserved lemon",
+"aliases": [
+"lemon pickle"
+],
+"links": 20
+},
+{
+"name": "avocado",
+"aliases": [
+"alligator pear",
+"avocado pear",
+"avocadoes",
+"avocados"
+],
+"links": 19
+},
+{
+"name": "Jonathan",
+"aliases": [
+"Malus domestica var. Jonathan"
+],
+"links": 19
+},
+{
+"name": "tropical fruit",
+"aliases": [
+"subtropical fruit",
+"tropical and subtropical fruit",
+"tropical product"
+],
+"links": 19
+},
+{
+"name": "white currant",
+"aliases": [
+"whitecurrant"
+],
+"links": 19
+},
+{
+"name": "Antonovka",
+"aliases": [
+"Possarts Nalivia"
+],
+"links": 18
+},
+{
+"name": "Cox's Orange Pippin",
+"aliases": [
+"Cox",
+"Cox Orange",
+"Malus domestica 'Cox's Orange Pippin'",
+"Russet Pippin"
+],
+"links": 18
+},
+{
+"name": "Gulkand",
+"aliases": [
+"Gulqand"
+],
+"links": 18
+},
+{
+"name": "Kalamata",
+"aliases": [],
+"links": 18
+},
+{
+"name": "strawberry",
+"aliases": [
+"strawberries"
+],
+"links": 18
+},
+{
+"name": "tomato",
+"aliases": [
+"love apple",
+"tomatoes"
+],
+"links": 18
+},
+{
+"name": "apricot kernel",
+"aliases": [
+"apricot seed"
+],
+"links": 17
+},
+{
+"name": "beechnut",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Belle de Boskoop",
+"aliases": [
+"Boskoop"
+],
+"links": 17
+},
+{
+"name": "Idared",
+"aliases": [],
+"links": 17
+},
+{
+"name": "square watermelon",
+"aliases": [
+"cube watermelon"
+],
+"links": 17
+},
+{
+"name": "Alphonso",
+"aliases": [
+"Aapoos",
+"Alphonso Mango",
+"Hafoos",
+"Hapuz"
+],
+"links": 16
+},
+{
+"name": "dekopon",
+"aliases": [
+"hallabong",
+"shiranui",
+"Sumo Citrus"
+],
+"links": 16
+},
+{
+"name": "dried apricot",
+"aliases": [
+"kuraga",
+"Turkish apricot",
+"uruk",
+"uryuk"
+],
+"links": 16
+},
+{
+"name": "limequat",
+"aliases": [
+"Citrus floridana"
+],
+"links": 16
+},
+{
+"name": "bilberry",
+"aliases": [
+"European blueberry"
+],
+"links": 15
+},
+{
+"name": "Braeburn",
+"aliases": [],
+"links": 15
+},
+{
+"name": "cashew nut",
+"aliases": [
+"cashew"
+],
+"links": 15
+},
+{
+"name": "dried persimmon",
+"aliases": [
+"gotgam",
+"hoshigaki",
+"shìbǐng"
+],
+"links": 15
+},
+{
+"name": "Gros Michel banana",
+"aliases": [],
+"links": 15
+},
+{
+"name": "canned tomato",
+"aliases": [
+"canned tomatoes",
+"tinned tomato",
+"tinned tomatoes"
+],
+"links": 14
+},
+{
+"name": "Conference pear",
+"aliases": [
+"Conference"
+],
+"links": 14
+},
+{
+"name": "macadamia nut",
+"aliases": [
+"macadamia"
+],
+"links": 14
+},
+{
+"name": "Medjool",
+"aliases": [
+"Majdool",
+"Medjoul"
+],
+"links": 14
+},
+{
+"name": "papaya",
+"aliases": [
+"papaw",
+"pawpaw"
+],
+"links": 14
+},
+{
+"name": "Reinette",
+"aliases": [
+"Rennet apple"
+],
+"links": 14
+},
+{
+"name": "White Transparent",
+"aliases": [
+"Baltic Sea apple",
+"Bely Naliv"
+],
+"links": 14
+},
+{
+"name": "chenpi",
+"aliases": [
+"aged mikan orange peel",
+"Aurantii Nobilis Pericarpium",
+"chen pi",
+"chimpi",
+"Citrus unshiu peel",
+"Mandarin orange peel"
+],
+"links": 13
+},
+{
+"name": "citrus fruit",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cripps Pink",
+"aliases": [
+"Pink Lady"
+],
+"links": 13
+},
+{
+"name": "Gravenstein",
+"aliases": [
+"Grávštýnské",
+"Malus domestica 'Gravenstein'"
+],
+"links": 13
+},
+{
+"name": "Hami melon",
+"aliases": [
+"Chinese Hami melon",
+"snow melon"
+],
+"links": 13
+},
+{
+"name": "huckleberry",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Jazz",
+"aliases": [
+"Jazz apple",
+"Scifresh"
+],
+"links": 13
+},
+{
+"name": "latundan banana",
+"aliases": [
+"apple banana",
+"silk banana",
+"tundan banana"
+],
+"links": 13
+},
+{
+"name": "plum tomato",
+"aliases": [
+"paste tomato"
+],
+"links": 13
+},
+{
+"name": "roasted chestnuts",
+"aliases": [],
+"links": 13
+},
+{
+"name": "sugar-apple",
+"aliases": [
+"custard apple",
+"sugar apple",
+"Sugar Apples",
+"sweetsop"
+],
+"links": 13
+},
+{
+"name": "beefsteak tomato",
+"aliases": [
+"beef tomato"
+],
+"links": 12
+},
+{
+"name": "Deglet Noor",
+"aliases": [
+"Deglet Nour"
+],
+"links": 12
+},
+{
+"name": "Muscat Blanc à Petits Grains",
+"aliases": [
+"Muscat Blanc a Petits Grains",
+"Muscat Canelli",
+"White Frontignan"
+],
+"links": 12
+},
+{
+"name": "quince",
+"aliases": [
+"quince fruit",
+"quince pear"
+],
+"links": 12
+},
+{
+"name": "San Marzano tomato",
+"aliases": [],
+"links": 12
+},
+{
+"name": "sapote",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Topaz",
+"aliases": [],
+"links": 12
+},
+{
+"name": "breadfruit",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Duchess of Oldenburg",
+"aliases": [
+"Charlamowsky"
+],
+"links": 11
+},
+{
+"name": "Elstar",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Galia",
+"aliases": [
+"Galia melon",
+"sarda"
+],
+"links": 11
+},
+{
+"name": "grated coconut",
+"aliases": [
+"coconut flakes",
+"desiccated coconut",
+"dried coconut"
+],
+"links": 11
+},
+{
+"name": "Saba banana",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Abate Fetel",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Ajwa",
+"aliases": [
+"Ajwah"
+],
+"links": 10
+},
+{
+"name": "Alkmene",
+"aliases": [
+"Early Windsor"
+],
+"links": 10
+},
+{
+"name": "Ananasrenette",
+"aliases": [
+"Ananas Reinette",
+"Ananas Renette"
+],
+"links": 10
+},
+{
+"name": "aport",
+"aliases": [
+"Malus domestica 'Aport'"
+],
+"links": 10
+},
+{
+"name": "Citrus leiocarpa",
+"aliases": [
+"Bingyul",
+"Koji orange",
+"Kōji"
+],
+"links": 10
+},
+{
+"name": "Comice",
+"aliases": [
+"Doyenné du Comice"
+],
+"links": 10
+},
+{
+"name": "grapefruit",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Honeycrisp",
+"aliases": [
+"MN1711"
+],
+"links": 10
+},
+{
+"name": "James Grieve",
+"aliases": [],
+"links": 10
+},
+{
+"name": "king coconut",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Melba apple",
+"aliases": [
+"Melba"
+],
+"links": 10
+},
+{
+"name": "Mutsu",
+"aliases": [
+"Crispin"
+],
+"links": 10
+},
+{
+"name": "Navel orange",
+"aliases": [],
+"links": 10
+},
+{
+"name": "prickly pear",
+"aliases": [
+"cactus pear",
+"Cactus Pears",
+"Indian fig",
+"opuntia",
+"tuna"
+],
+"links": 10
+},
+{
+"name": "Santa Claus melon",
+"aliases": [
+"Christmas melon"
+],
+"links": 10
+},
+{
+"name": "Shampion",
+"aliases": [
+"Champion",
+"Šampion"
+],
+"links": 10
+},
+{
+"name": "soursop",
+"aliases": [
+"durian belanda",
+"guanabana",
+"guyabano",
+"lampun",
+"Soursops",
+"tearb barung",
+"Western custard-apple fruit"
+],
+"links": 10
+},
+{
+"name": "Spartan",
+"aliases": [
+"Malus pumila 'Spartan'"
+],
+"links": 10
+},
+{
+"name": "tklapi",
+"aliases": [
+"tqlapi"
+],
+"links": 10
+},
+{
+"name": "Arbequina",
+"aliases": [],
+"links": 9
+},
+{
+"name": "banana passionfruit",
+"aliases": [
+"curuba",
+"parcha",
+"purpuro",
+"tumbo"
+],
+"links": 9
+},
+{
+"name": "Bellflower",
+"aliases": [
+"Belle Flavoise",
+"Lincoln Pippin",
+"Linnoeus Pippin",
+"Yellow Bellflower"
+],
+"links": 9
+},
+{
+"name": "Chanh muối",
+"aliases": [],
+"links": 9
+},
+{
+"name": "cider apple",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Citrus tachibana",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Concorde",
+"aliases": [
+"Concorde pear"
+],
+"links": 9
+},
+{
+"name": "creamed coconut",
+"aliases": [],
+"links": 9
+},
+{
+"name": "frantoio",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gloster",
+"aliases": [
+"Gloster 69"
+],
+"links": 9
+},
+{
+"name": "King of the Pippins",
+"aliases": [
+"Golden Winter Pearmain",
+"Malus domestica 'King of the Pippins'",
+"Reine de Reinettes"
+],
+"links": 9
+},
+{
+"name": "Northern Spy",
+"aliases": [],
+"links": 9
+},
+{
+"name": "pasilla chile",
+"aliases": [
+"chilaca",
+"chile negro"
+],
+"links": 9
+},
+{
+"name": "stone fruit",
+"aliases": [],
+"links": 9
+},
+{
+"name": "table grape variety",
+"aliases": [
+"table grape"
+],
+"links": 9
+},
+{
+"name": "Adams Pearmain",
+"aliases": [
+"Adam's Pearmain",
+"Hanging Pearmain",
+"Matchless",
+"Norfolk Pippin",
+"Norfolk Russet",
+"Rough Pippin"
+],
+"links": 8
+},
+{
+"name": "Akane",
+"aliases": [
+"Primerouge",
+"Tokyo Rose"
+],
+"links": 8
+},
+{
+"name": "Baumann's Reinette",
+"aliases": [
+"Baumanns Reinette"
+],
+"links": 8
+},
+{
+"name": "Beurré Hardy",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Blenheim Orange",
+"aliases": [
+"Kempster’s Pippin",
+"Northwick Pippin",
+"Woodstock Pippin"
+],
+"links": 8
+},
+{
+"name": "Cortland",
+"aliases": [],
+"links": 8
+},
+{
+"name": "D'Anjou",
+"aliases": [
+"Anjou",
+"Anjou pear",
+"Beurré d'Anjou",
+"D'Anjou pear",
+"d'Anjou pear",
+"green Anjou pear",
+"green D'Anjou pear",
+"green d'Anjou pear",
+"Pyrus communis 'D'Anjou'"
+],
+"links": 8
+},
+{
+"name": "Discovery",
+"aliases": [],
+"links": 8
+},
+{
+"name": "fried plantain",
+"aliases": [
+"dodo",
+"kelewele",
+"kɔkɔɔ a y'akye"
+],
+"links": 8
+},
+{
+"name": "Geheimrat Dr. Oldenburg",
+"aliases": [
+"Geheimrat Doktor Oldenburg"
+],
+"links": 8
+},
+{
+"name": "Gir Kesar",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ingrid Marie",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Japanese style peanuts",
+"aliases": [
+"Cracker nuts"
+],
+"links": 8
+},
+{
+"name": "Kanzi",
+"aliases": [
+"Nicoter"
+],
+"links": 8
+},
+{
+"name": "Landsberger Reinette",
+"aliases": [
+"Surprise"
+],
+"links": 8
+},
+{
+"name": "Musang King",
+"aliases": [],
+"links": 8
+},
+{
+"name": "pistachio nut",
+"aliases": [
+"pistachio",
+"pistacio"
+],
+"links": 8
+},
+{
+"name": "Poire à la Beaujolaise",
+"aliases": [
+"Poire a la Beaujolaise"
+],
+"links": 8
+},
+{
+"name": "pomelo",
+"aliases": [
+"pommelo",
+"pummelo",
+"shaddock"
+],
+"links": 8
+},
+{
+"name": "Pêra Rocha",
+"aliases": [
+"Pera Rocha",
+"Rocha pear"
+],
+"links": 8
+},
+{
+"name": "Ralls Janet",
+"aliases": [
+"Genet",
+"Geneton",
+"Geniton",
+"Gennetin",
+"Genneting",
+"Ginet",
+"Indiana Janetting",
+"Jefferson Pippin",
+"Jeniton",
+"Jennett",
+"Malus domestica 'Ralls Janet'",
+"Missouri Janet",
+"Never Fail",
+"Neverfail",
+"Ralls",
+"Ralls Genet",
+"Raul's Genetting",
+"Raule's Genet",
+"Raule's Janet",
+"Raule's Jannating",
+"Rawl's Janet",
+"Rawle's Genet",
+"Red Never Fail",
+"Red Neverfail",
+"Rock Remain",
+"Rock Rimmon",
+"Rockremain",
+"Rockrimmon Rowle's Janet",
+"Royal Janette",
+"Winter Genneting",
+"Winter Jounetting",
+"Yellow Janette"
+],
+"links": 8
+},
+{
+"name": "Rambo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ribston Pippin",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ruché",
+"aliases": [
+"Ruche"
+],
+"links": 8
+},
+{
+"name": "Worcester Pearmain",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Åkerö",
+"aliases": [
+"Akero"
+],
+"links": 8
+},
+{
+"name": "Alexander Lucas",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Annurca",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Api",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bangina palli",
+"aliases": [
+"Benishan",
+"Mangifera indica 'Banganapalli'"
+],
+"links": 7
+},
+{
+"name": "Bramley",
+"aliases": [
+"Bramley apple",
+"Bramley's",
+"Bramley's Seedling",
+"Bramleys"
+],
+"links": 7
+},
+{
+"name": "Canada Reinette",
+"aliases": [
+"Reinette du Canada"
+],
+"links": 7
+},
+{
+"name": "Chaunsa",
+"aliases": [],
+"links": 7
+},
+{
+"name": "cherimoyer",
+"aliases": [
+"cherimoya",
+"custard apple"
+],
+"links": 7
+},
+{
+"name": "Dasheri",
+"aliases": [
+"Dasheri mango"
+],
+"links": 7
+},
+{
+"name": "Delbarestivale",
+"aliases": [
+"Ambassy",
+"D'Estivale",
+"Dalili",
+"Delcorf",
+"Delcorf Estivale",
+"Estivale",
+"Monidel"
+],
+"links": 7
+},
+{
+"name": "dried cranberry",
+"aliases": [
+"craisin"
+],
+"links": 7
+},
+{
+"name": "Egremont Russet",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Florina",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Glockenapfel",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Grimes Golden",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kanpei",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Karmijn de Sonnaville",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Katy",
+"aliases": [
+"Katia",
+"Katie",
+"Katja",
+"Katje"
+],
+"links": 7
+},
+{
+"name": "Koroneiki",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Langra",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lobo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lord Lambourne",
+"aliases": [],
+"links": 7
+},
+{
+"name": "marinated olives",
+"aliases": [
+"table olives"
+],
+"links": 7
+},
+{
+"name": "Mazafati",
+"aliases": [
+"Dátil Mazafati"
+],
+"links": 7
+},
+{
+"name": "Melrose",
+"aliases": [],
+"links": 7
+},
+{
+"name": "mulberry",
+"aliases": [
+"mulberry fruit"
+],
+"links": 7
+},
+{
+"name": "Peasgood's Nonsuch",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pinova",
+"aliases": [
+"Corail",
+"Piñata",
+"Sonata"
+],
+"links": 7
+},
+{
+"name": "Redlove Era",
+"aliases": [],
+"links": 7
+},
+{
+"name": "sloe",
+"aliases": [
+"blackthorn drupe",
+"sloeberry"
+],
+"links": 7
+},
+{
+"name": "Winter Banana",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Amrapali",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Beauty of Bath",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ben Davis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bizzarria",
+"aliases": [
+"Citrus Bizzarria"
+],
+"links": 6
+},
+{
+"name": "blue tomato",
+"aliases": [
+"Black tomato",
+"Purple tomato"
+],
+"links": 6
+},
+{
+"name": "breba",
+"aliases": [],
+"links": 6
+},
+{
+"name": "byeonggyul",
+"aliases": [
+"Citrus platymamma"
+],
+"links": 6
+},
+{
+"name": "Calville Blanc d'Hiver",
+"aliases": [
+"White Winter Calville"
+],
+"links": 6
+},
+{
+"name": "Cameo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cellini",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Charentais melon",
+"aliases": [
+"Melons de Cavaillon"
+],
+"links": 6
+},
+{
+"name": "cooking apple",
+"aliases": [
+"cooker",
+"culinary apple"
+],
+"links": 6
+},
+{
+"name": "Cosmic Crisp",
+"aliases": [
+"WA 38"
+],
+"links": 6
+},
+{
+"name": "Dangyuja",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Doyenné de Mérode",
+"aliases": [],
+"links": 6
+},
+{
+"name": "dried cherry",
+"aliases": [],
+"links": 6
+},
+{
+"name": "dried pear",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Filippa",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Golden Noble",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Italia",
+"aliases": [
+"Doña Sofia",
+"Idéal",
+"Italia grape",
+"Italian Muscat",
+"Moscatel Italia",
+"Moscatel Italiano",
+"Moschato Rozaki",
+"Muscat d'Italie",
+"Pirovano 65",
+"Uva Italia"
+],
+"links": 6
+},
+{
+"name": "Kandil Sinap",
+"aliases": [
+"Kandyl' Sinap",
+"Sinap kandille"
+],
+"links": 6
+},
+{
+"name": "Kidd's Orange Red",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kiyomi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lady Williams",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Laxton's Superb",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Litchi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Macoun",
+"aliases": [],
+"links": 6
+},
+{
+"name": "marron",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Montmorency cherry",
+"aliases": [
+"Common red Kentish"
+],
+"links": 6
+},
+{
+"name": "Opal",
+"aliases": [
+"Malus domestica var. Opal",
+"UEB 32642"
+],
+"links": 6
+},
+{
+"name": "Papirovka",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Picual",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pomodorino del Piennolo del Vesuvio",
+"aliases": [
+"Pomodorino Vesuviano"
+],
+"links": 6
+},
+{
+"name": "Prunus domestica 'Hauszwetsche'",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Red Astrachan",
+"aliases": [
+"Beauty of Wales"
+],
+"links": 6
+},
+{
+"name": "Rome",
+"aliases": [
+"Gillett's Seedling",
+"Rome apple"
+],
+"links": 6
+},
+{
+"name": "Rubin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Signe Tillisch",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Summerred",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Totapuri",
+"aliases": [
+"Bangalore",
+"Bangolara",
+"Collector",
+"Gilli",
+"Ginimoothi",
+"Kili Mooku",
+"Kilimooku",
+"Mukku",
+"Ottu",
+"Parrot face",
+"Sandersha"
+],
+"links": 6
+},
+{
+"name": "Transparente de Croncels",
+"aliases": [
+"Malus domestica 'Transparente de Croncels'"
+],
+"links": 6
+},
+{
+"name": "true plantains",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Wagener",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Wealthy",
+"aliases": [
+"Malus domestica 'Wealthy'"
+],
+"links": 6
+},
+{
+"name": "Alexander",
+"aliases": [
+"Aport",
+"Aporta",
+"Oporto"
+],
+"links": 5
+},
+{
+"name": "Allington Pippin",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ambrosia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Areni Sev",
+"aliases": [
+"Areni",
+"Areni Sev grape"
+],
+"links": 5
+},
+{
+"name": "Arlet",
+"aliases": [
+"Swiss Gourmet"
+],
+"links": 5
+},
+{
+"name": "açai berry",
+"aliases": [
+"acai",
+"acai berry",
+"acai fruit",
+"assai",
+"açaí",
+"açaí berry",
+"açaí fruit"
+],
+"links": 5
+},
+{
+"name": "Baldwin apple",
+"aliases": [
+"Baldwin",
+"Calville Butter",
+"Felch",
+"Pecker",
+"Woodpecker"
+],
+"links": 5
+},
+{
+"name": "Bismarck apple",
+"aliases": [
+"Bismarck"
+],
+"links": 5
+},
+{
+"name": "bitter almond",
+"aliases": [],
+"links": 5
+},
+{
+"name": "bitter melon",
+"aliases": [
+"balsam-pear",
+"bitter gourd",
+"bitter squash",
+"goya",
+"karela",
+"peria"
+],
+"links": 5
+},
+{
+"name": "Bogatyr",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Boiken",
+"aliases": [],
+"links": 5
+},
+{
+"name": "bush tomato",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Campanino",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cayetana",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Clivia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cold-hardy citrus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Court Pendu Plat",
+"aliases": [
+"Court-Pendu rouge",
+"De Graine",
+"Milharenque",
+"Wise Apple",
+"Wollaton Pippin"
+],
+"links": 5
+},
+{
+"name": "dewberry",
+"aliases": [],
+"links": 5
+},
+{
+"name": "dried fig",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Duncan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Edelborsdorfer",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ellison's Orange",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Empire",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fiesta",
+"aliases": [
+"Red Pippin",
+"T 31/13"
+],
+"links": 5
+},
+{
+"name": "fruit of Maloideae",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gascoyne's Scarlet",
+"aliases": [],
+"links": 5
+},
+{
+"name": "gold kiwifruit",
+"aliases": [
+"gold kiwi",
+"golden kiwi",
+"golden kiwifruit",
+"yellow kiwi",
+"yellow kiwifruit"
+],
+"links": 5
+},
+{
+"name": "Golden Reinette",
+"aliases": [
+"English Pippin"
+],
+"links": 5
+},
+{
+"name": "Goldrenette Freiherr von Berlepsch",
+"aliases": [
+"Berlepsch",
+"Freiherr von Berlepsch"
+],
+"links": 5
+},
+{
+"name": "grape tomato",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Grenadier",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hawthornden apple",
+"aliases": [
+"Hawthornden",
+"Lincolnshire Pippin",
+"Lord Kingston",
+"Old Hawthorndean",
+"Shoreditch White",
+"Wheelers Kernel"
+],
+"links": 5
+},
+{
+"name": "Heirloom tomato",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Himsagar",
+"aliases": [
+"Mangifera indica 'Himsagar'"
+],
+"links": 5
+},
+{
+"name": "Hojiblanca",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Indo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jamba",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Joséphine de Malines",
+"aliases": [
+"Josephine pear"
+],
+"links": 5
+},
+{
+"name": "Kaiser Wilhelm",
+"aliases": [],
+"links": 5
+},
+{
+"name": "kerisik",
+"aliases": [
+"Toasted coconut butter",
+"Toasted coconut paste"
+],
+"links": 5
+},
+{
+"name": "Khalas",
+"aliases": [],
+"links": 5
+},
+{
+"name": "komikan",
+"aliases": [
+"Sakurajima komikan orange"
+],
+"links": 5
+},
+{
+"name": "Lacrima",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Leccino",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Liberty",
+"aliases": [
+"NY 55140-19"
+],
+"links": 5
+},
+{
+"name": "litchi",
+"aliases": [
+"lychee"
+],
+"links": 5
+},
+{
+"name": "Melon",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mutterapfel",
+"aliases": [
+"Mother"
+],
+"links": 5
+},
+{
+"name": "Newtown Pippin",
+"aliases": [
+"Albemarle Pippin",
+"Yellow Newtown"
+],
+"links": 5
+},
+{
+"name": "Ontario",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Passe-Crassane",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pear ercolina",
+"aliases": [
+"ercolina",
+"Ercolina"
+],
+"links": 5
+},
+{
+"name": "pecan nut",
+"aliases": [
+"pecan"
+],
+"links": 5
+},
+{
+"name": "Piarom date",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Picholine",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Prinz Albrecht von Preussen",
+"aliases": [
+"Albrechtapfel",
+"Albrechtappel",
+"Albrechtsapfel",
+"Prinz Albrecht"
+],
+"links": 5
+},
+{
+"name": "Reinette Simirenko",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rote Sternrenette",
+"aliases": [
+"Reinette Rouge Etoilee"
+],
+"links": 5
+},
+{
+"name": "South Tyrolean Apple PGI",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sukkari",
+"aliases": [
+"Sukkary"
+],
+"links": 5
+},
+{
+"name": "Suntan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "table apple",
+"aliases": [
+"dessert apple",
+"eater",
+"eating apple"
+],
+"links": 5
+},
+{
+"name": "Winesap",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Winston",
+"aliases": [
+"Winter King",
+"Wintercheer"
+],
+"links": 5
+},
+{
+"name": "Abdul Wahidi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Alfa pear",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Anna",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Arancia Rossa di Sicilia PGI",
+"aliases": [
+"blood oranges",
+"Sicilian blood orange",
+"sicilian oranges"
+],
+"links": 4
+},
+{
+"name": "Ariane",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Aurora Golden Gala",
+"aliases": [
+"8S6923"
+],
+"links": 4
+},
+{
+"name": "Australian lime",
+"aliases": [],
+"links": 4
+},
+{
+"name": "bacupari",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Berner Rosen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bidni",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bittenfelder",
+"aliases": [],
+"links": 4
+},
+{
+"name": "blackcurrant",
+"aliases": [
+"black currant"
+],
+"links": 4
+},
+{
+"name": "Bosana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cailletier",
+"aliases": [
+"Niçoise",
+"Taggiasca"
+],
+"links": 4
+},
+{
+"name": "Carabao",
+"aliases": [
+"Manila mango"
+],
+"links": 4
+},
+{
+"name": "Carola",
+"aliases": [
+"Kalco"
+],
+"links": 4
+},
+{
+"name": "Charles Ross",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Citrus suavissima",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Citrus sulcata",
+"aliases": [
+"Sanboken"
+],
+"links": 4
+},
+{
+"name": "Claygate Pearmain",
+"aliases": [],
+"links": 4
+},
+{
+"name": "climacteric fruit",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cox’s Pomona",
+"aliases": [
+"Cox Pomona",
+"Cox's Pomon"
+],
+"links": 4
+},
+{
+"name": "currant",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Danziger Kantapfel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Devonshire Quarrenden",
+"aliases": [],
+"links": 4
+},
+{
+"name": "dried mango",
+"aliases": [],
+"links": 4
+},
+{
+"name": "dried mixed fruits",
+"aliases": [
+"tuttifrutti"
+],
+"links": 4
+},
+{
+"name": "Dumelow's Seedling",
+"aliases": [
+"Beauty",
+"Belle de Vennes",
+"Doncklaer",
+"Dumelow's Crab",
+"Wellington"
+],
+"links": 4
+},
+{
+"name": "Durondeau",
+"aliases": [
+"Durondeau pear"
+],
+"links": 4
+},
+{
+"name": "Empeltre",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Esopus Spitzenburg",
+"aliases": [
+"Aesopus Spitzenburgh"
+],
+"links": 4
+},
+{
+"name": "Fazli",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Figue de Marseille",
+"aliases": [],
+"links": 4
+},
+{
+"name": "fruit leather",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Goldspur",
+"aliases": [],
+"links": 4
+},
+{
+"name": "gooseberry",
+"aliases": [
+"European gooseberry"
+],
+"links": 4
+},
+{
+"name": "Gordal Sevillana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "green banana",
+"aliases": [
+"unripe banana"
+],
+"links": 4
+},
+{
+"name": "Grenoble walnut",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Handicraft walnut",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Haralson",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Heimeldinger",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Honeygold",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Irwin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "jackfruit",
+"aliases": [
+"jack fruit",
+"jackfruit-tree fruit",
+"nangka fruit"
+],
+"links": 4
+},
+{
+"name": "Jonadel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Julie",
+"aliases": [
+"Saint Julian"
+],
+"links": 4
+},
+{
+"name": "Limone Costa d'Amalfi PGI",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Limone di Siracusa PGI",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Limón de Pica",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lucques",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mabroom",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mantet",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Manzanilla",
+"aliases": [
+"Manzanilla olive"
+],
+"links": 4
+},
+{
+"name": "Margil",
+"aliases": [
+"Fail-Me-Never",
+"Herefordshire Margil",
+"Muskat Renette",
+"Never Fail",
+"Small Ribston"
+],
+"links": 4
+},
+{
+"name": "medlar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Minister von Hammerstein",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mio",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nashik grape",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nocellara del Belice PDO",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Olallieberry",
+"aliases": [
+"olallaberry",
+"olalliberry",
+"Olallie",
+"ollalaberry",
+"ollaliberry",
+"ollalieberry"
+],
+"links": 4
+},
+{
+"name": "Oliva Ascolana del Piceno PDO",
+"aliases": [],
+"links": 4
+},
+{
+"name": "pickled fruit",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pilot",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Piros",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Plátano de Canarias",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pohorka",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Purpurroter Cousinot",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Red Autumn Calville",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Red Pariner",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Reinette de Champagne",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rheinischer Bohnapfel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rhode Island Greening",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Roma tomato",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Roxbury Russet",
+"aliases": [
+"Boston Russet",
+"Putnam Russet",
+"Sylvan Russet"
+],
+"links": 4
+},
+{
+"name": "Rubinette",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Salustiana",
+"aliases": [
+"Citrus sinensis cv. Salustiana",
+"Salustiana orange"
+],
+"links": 4
+},
+{
+"name": "Santana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Santorini tomato",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Savstaholm",
+"aliases": [
+"Malus domestica 'Savstaholm'"
+],
+"links": 4
+},
+{
+"name": "Schweizer Orange",
+"aliases": [],
+"links": 4
+},
+{
+"name": "seedless watermelon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Starking Delicious",
+"aliases": [
+"Double Red Delicious",
+"Starking"
+],
+"links": 4
+},
+{
+"name": "Summer Rambour",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Taiwan banana",
+"aliases": [
+"Banana production in Taiwan"
+],
+"links": 4
+},
+{
+"name": "Tamarindus indica",
+"aliases": [
+"tamarind",
+"tamarind fruit"
+],
+"links": 4
+},
+{
+"name": "Tommy Atkins",
+"aliases": [],
+"links": 4
+},
+{
+"name": "tonburi",
+"aliases": [
+"field caviar",
+"land caviar",
+"mountain caviar"
+],
+"links": 4
+},
+{
+"name": "Uttwiler Spätlese",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Weirouge",
+"aliases": [
+"Red Moon"
+],
+"links": 4
+},
+{
+"name": "Zuccalmaglios Renette",
+"aliases": [
+"Von Zuccalmaglios Renette"
+],
+"links": 4
+},
+{
+"name": "Adersleber Kalvill",
+"aliases": [
+"Adersleber Calville"
+],
+"links": 3
+},
+{
+"name": "Aglandau",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Alfriston",
+"aliases": [
+"Shepherd's Pippin"
+],
+"links": 3
+},
+{
+"name": "Alice",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Altländer Pfannkuchenapfel",
+"aliases": [
+"Altlander Pfannkuchenapfel"
+],
+"links": 3
+},
+{
+"name": "Amanishiki",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Angelys",
+"aliases": [
+"Angélys"
+],
+"links": 3
+},
+{
+"name": "Aori",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Araucaria angustifolia nut",
+"aliases": [
+"araucaria nut",
+"araucaria pine nut",
+"pinhão",
+"piñón"
+],
+"links": 3
+},
+{
+"name": "Araucaria araucana nut",
+"aliases": [
+"piñón"
+],
+"links": 3
+},
+{
+"name": "Araucaria nut",
+"aliases": [
+"piñón",
+"piñónes"
+],
+"links": 3
+},
+{
+"name": "Aroma",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Assam Lemon",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Astrachan Large Fruited",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ataulfo mango cultivar",
+"aliases": [
+"Mangifera indica 'Ataulfo'"
+],
+"links": 3
+},
+{
+"name": "Atlas",
+"aliases": [],
+"links": 3
+},
+{
+"name": "autumn apple",
+"aliases": [
+"mid-season apple"
+],
+"links": 3
+},
+{
+"name": "Bacuri",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bailey's Marvel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Barry",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bashkirskiy Izumrud",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bashkirskiy Krasavets",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Beacon",
+"aliases": [
+"Malus domestica 'Beacon'"
+],
+"links": 3
+},
+{
+"name": "Bec d'Oie",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bergamote Esperen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Biesterfelder-Renette",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bombay",
+"aliases": [],
+"links": 3
+},
+{
+"name": "bouye",
+"aliases": [
+"monkey bread",
+"pain de singe"
+],
+"links": 3
+},
+{
+"name": "Brazil nut",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Burgundy",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Böhmischer Roter Jungfernapfel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Calanda peach PDO",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Campari tomato",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Canetera",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Carrasquenya",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cerignola",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Charas",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chisel Jersey",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Citrus erythrosa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Citrus natsudaidai",
+"aliases": [
+"Natsumikan"
+],
+"links": 3
+},
+{
+"name": "Collina",
+"aliases": [],
+"links": 3
+},
+{
+"name": "cooking pear",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cornish Gilliflower",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Crane Melon",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cripps Red",
+"aliases": [
+"Joya apple",
+"Sundowner apple"
+],
+"links": 3
+},
+{
+"name": "Cromelor",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Dicolor",
+"aliases": [
+"Di Color pear",
+"Dicolor pear"
+],
+"links": 3
+},
+{
+"name": "Dorsett Golden",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Doyenné d'Alençon",
+"aliases": [
+"Doyenné gris d'hiver nouveau",
+"Doyenné marbré",
+"Saint Michel d'hiver"
+],
+"links": 3
+},
+{
+"name": "Dried apples",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Eiser rouge",
+"aliases": [
+"Roter Eiserapfel"
+],
+"links": 3
+},
+{
+"name": "Elektra",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Elton Beauty",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Erwin Baur",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Eva",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Evelina",
+"aliases": [],
+"links": 3
+},
+{
+"name": "farga",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fico Bianco del Cilento PDO",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Finkenwerder",
+"aliases": [
+"Finkenwerder Prinz"
+],
+"links": 3
+},
+{
+"name": "Fresco",
+"aliases": [
+"CPRO #47",
+"Wellant",
+"Wellants"
+],
+"links": 3
+},
+{
+"name": "Ftimi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fukunishiki",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fukutami",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Geheimrat Breuhahn",
+"aliases": [
+"Breuhan"
+],
+"links": 3
+},
+{
+"name": "Gelbe Sächsische Renette",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gemlik olive",
+"aliases": [
+"Gemlik"
+],
+"links": 3
+},
+{
+"name": "Giromon",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Glanz-Reinette",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Glenn",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Goro",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Greensleeves",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Grushovka Moskovskaya",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gubener Warraschke",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gul Richard",
+"aliases": [
+"Gelber Richard"
+],
+"links": 3
+},
+{
+"name": "Gute Graue",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Harivanga",
+"aliases": [
+"Haribhanga"
+],
+"links": 3
+},
+{
+"name": "Hatsuaki",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Helios",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Horei",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Horneburger Pfannkuchen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Itrana",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jacques Lebel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jakob Fischer",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Jersey Black",
+"aliases": [
+"Black American",
+"Black Jersey",
+"Dodge's Black",
+"Small Black"
+],
+"links": 3
+},
+{
+"name": "Jonagored",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Juan García",
+"aliases": [
+"Juan Garcia"
+],
+"links": 3
+},
+{
+"name": "Junami",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kaji Nemu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kawachi bankan",
+"aliases": [
+"Citrus kawachiensis",
+"Mishokan",
+"Uwa Gold"
+],
+"links": 3
+},
+{
+"name": "Kensington Pride",
+"aliases": [
+"Bowen"
+],
+"links": 3
+},
+{
+"name": "Kent",
+"aliases": [
+"Kent mango"
+],
+"links": 3
+},
+{
+"name": "Khenizi",
+"aliases": [
+"Khanezi",
+"Khenaizi"
+],
+"links": 3
+},
+{
+"name": "Kim",
+"aliases": [],
+"links": 3
+},
+{
+"name": "King Byerd",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kinrei",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Knebusch",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Korbinian apple",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Korei",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kougetsu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Krugers Dickstiel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kunenbo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kyokko",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lane's Prince Albert",
+"aliases": [
+"Albert Lanskii"
+],
+"links": 3
+},
+{
+"name": "Limone di Sorrento PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Limone Femminello del Gargano PGI",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Linda",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Liveland Raspberry apple",
+"aliases": [
+"Liveland Raspberry",
+"Livland Raspberry",
+"Lowland Raspberry",
+"Lowland Raspberry apple",
+"Malus domestica Borkh."
+],
+"links": 3
+},
+{
+"name": "Lodi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "loquat",
+"aliases": [
+"Loquat fruit"
+],
+"links": 3
+},
+{
+"name": "Luikenapfel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lundbytorp",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Maibiers Parmäne",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mairac",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Malaga Raisins PDO",
+"aliases": [
+"Malaga raisins"
+],
+"links": 3
+},
+{
+"name": "Mallika",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Malta orange",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Maluma",
+"aliases": [],
+"links": 3
+},
+{
+"name": "mango ice cream",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Manks Codlin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Megumi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Meslalla",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mission",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mr. Peanut",
+"aliases": [
+"Bartholomew Richard Fitzgerald-Smythe",
+"Mr. P. Nut Planter",
+"P. Nut Planter"
+],
+"links": 3
+},
+{
+"name": "Mulgoba",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nabali olive",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Newton Wonder",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Olive de Nice",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Osteen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Palmer",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Peacotum",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pear tomato",
+"aliases": [
+"teardrop tomato"
+],
+"links": 3
+},
+{
+"name": "Pistacchio di Raffadali",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pistacchio Verde di Bronte PDO",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Poma de Girona",
+"aliases": [
+"IGP Poma de Girona"
+],
+"links": 3
+},
+{
+"name": "Potts' Seedling",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Reanda",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Redgold",
+"aliases": [
+"Stark Redgold"
+],
+"links": 3
+},
+{
+"name": "Reglindis",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Remo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Retina",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rewena",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rosa de Barbastro",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rowan berry",
+"aliases": [
+"Rowanberries",
+"Sorbus aucuparia fruit"
+],
+"links": 3
+},
+{
+"name": "Royal",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ruhm aus Kirchwerder",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Safran",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Saint Martin's",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Schweizer Wasserbirne",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sekai Ichi",
+"aliases": [
+"Aori No.4",
+"Sekai ichi'"
+],
+"links": 3
+},
+{
+"name": "sevillenca",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shin Indo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shinko",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Shinsei",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sindhri",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Soldat laboureur",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Splendour",
+"aliases": [
+"Starksplendor"
+],
+"links": 3
+},
+{
+"name": "Stayman",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sturmer Pippin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "sweet lemon",
+"aliases": [
+"sweet lime"
+],
+"links": 3
+},
+{
+"name": "taqua banana",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tentation",
+"aliases": [
+"Delblush"
+],
+"links": 3
+},
+{
+"name": "Tom Putt",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Triomphe de Vienne",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tsugaru",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vanda",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Victoria pineapple",
+"aliases": [
+"Queen Victoria Pineapple"
+],
+"links": 3
+},
+{
+"name": "Vilallonga",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Vista Bella",
+"aliases": [],
+"links": 3
+},
+{
+"name": "White Astrachan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "White Winter Pearmain",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Wijcik McIntosh",
+"aliases": [
+"McIntosh Wijcik",
+"Wijcik"
+],
+"links": 3
+},
+{
+"name": "William Crump",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Wilstedter",
+"aliases": [],
+"links": 3
+},
+{
+"name": "windfall fruit",
+"aliases": [
+"fallen fruit",
+"fallen fruits",
+"fruit drop",
+"fruit fall",
+"fruit falling"
+],
+"links": 3
+},
+{
+"name": "Wyken Pippin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "youngberry",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Zabergau Renette",
+"aliases": [
+"Zabergäurenette"
+],
+"links": 3
+},
+{
+"name": "Zitronenapfel",
+"aliases": [],
+"links": 3
+}
+]

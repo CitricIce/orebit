@@ -6,6 +6,7 @@ import type { DayResponse, RevealResponse } from "@/lib/api-types";
 import { formatLongDate } from "@/lib/dates";
 import { formatMeters, ores, rankFor, RANKS, TIERS, type TierId } from "@/lib/tiers";
 import { computeStats, totalDepth, type DayRecord } from "@/lib/client/storage";
+import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
 import { shareImage, shareText } from "@/lib/client/share";
 import RevealList from "./RevealList";
@@ -38,7 +39,8 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
   const nextRank = RANKS.find((r) => r.min > total);
   const countdown = useNextDailyCountdown(mode === "daily");
   const mounted = useMounted();
-  const streak = useMemo(() => (mounted ? computeStats().currentStreak : 0), [mounted]);
+  const days = useDays();
+  const streak = useMemo(() => (mounted ? computeStats(days).currentStreak : 0), [mounted, days]);
   const [copied, setCopied] = useState<string | null>(null);
   const [tab, setTab] = useState(0);
   const [reveals, setReveals] = useState<Record<number, RevealResponse>>({});

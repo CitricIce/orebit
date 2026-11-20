@@ -1,0 +1,934 @@
+[
+{
+"name": "Minecraft",
+"aliases": [],
+"links": 156
+},
+{
+"name": "Grand Theft Auto V",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Grand Theft Auto: San Andreas",
+"aliases": [],
+"links": 88
+},
+{
+"name": "Roblox",
+"aliases": [],
+"links": 88
+},
+{
+"name": "Grand Theft Auto IV",
+"aliases": [],
+"links": 79
+},
+{
+"name": "Super Mario Bros.",
+"aliases": [
+"SMB",
+"SMB 1",
+"SMB.",
+"SMB. 1",
+"SMB1",
+"Super Mario Bros. 1",
+"Super Mario Brothers"
+],
+"links": 79
+},
+{
+"name": "Grand Theft Auto: Vice City",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Grand Theft Auto III",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Pokémon Go",
+"aliases": [
+"Pokemon Go"
+],
+"links": 75
+},
+{
+"name": "Grand Theft Auto VI",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Half-Life",
+"aliases": [
+"Half-Life 1",
+"HL",
+"HL1",
+"HλLF-LIFE"
+],
+"links": 72
+},
+{
+"name": "Team Fortress 2",
+"aliases": [],
+"links": 72
+},
+{
+"name": "League of Legends",
+"aliases": [
+"League",
+"LoL"
+],
+"links": 69
+},
+{
+"name": "Clash of Clans",
+"aliases": [
+"CoC"
+],
+"links": 68
+},
+{
+"name": "Genshin Impact",
+"aliases": [
+"Genshin",
+"Yuanshen"
+],
+"links": 62
+},
+{
+"name": "Half-Life 2",
+"aliases": [
+"Half Life 2",
+"Half-Life II",
+"HL2"
+],
+"links": 62
+},
+{
+"name": "Call of Duty 4: Modern Warfare",
+"aliases": [
+"Call of Duty 4",
+"Call of Duty: Modern Warfare",
+"COD4",
+"Modern Warfare",
+"MW1"
+],
+"links": 60
+},
+{
+"name": "Dota 2",
+"aliases": [
+"Defense of the Ancients 2",
+"DOTA2"
+],
+"links": 60
+},
+{
+"name": "Pong",
+"aliases": [
+"Atari Pong"
+],
+"links": 60
+},
+{
+"name": "Portal",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Red Dead Redemption 2",
+"aliases": [
+"RDR II",
+"RDR2",
+"Red Dead Redemption II"
+],
+"links": 60
+},
+{
+"name": "The Sims",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Assassin's Creed",
+"aliases": [
+"AC1",
+"Assassin's Creed I"
+],
+"links": 59
+},
+{
+"name": "Cyberpunk 2077",
+"aliases": [
+"Cyberpunk"
+],
+"links": 58
+},
+{
+"name": "Undertale",
+"aliases": [
+"UT"
+],
+"links": 57
+},
+{
+"name": "The Sims 3",
+"aliases": [
+"Sims 3"
+],
+"links": 55
+},
+{
+"name": "Age of Empires II: The Age of Kings",
+"aliases": [
+"Age of Empires 2: The Age of Kings",
+"Age of Kings",
+"AoE 2",
+"AoE II",
+"AOE2",
+"AoE2",
+"AoK",
+"The Age of Kings"
+],
+"links": 54
+},
+{
+"name": "BioShock",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Second Life",
+"aliases": [
+"2L",
+"2nd Life",
+"SecondLife",
+"SL"
+],
+"links": 54
+},
+{
+"name": "The Witcher 3: Wild Hunt",
+"aliases": [
+"The Witcher 3",
+"The Witcher III",
+"The Witcher III: Wild Hunt",
+"TW3",
+"Wild Hunt",
+"Witcher 3"
+],
+"links": 54
+},
+{
+"name": "Call of Duty: Modern Warfare 2",
+"aliases": [
+"2009 Call of Duty: Modern Warfare 2",
+"Call of Duty Modern Warfare 2",
+"Call of Duty：Modern Warfare 2",
+"Modern Warfare 2",
+"MW2"
+],
+"links": 53
+},
+{
+"name": "The Sims 2",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Travian",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Call of Duty: World at War",
+"aliases": [
+"Call of Duty - World at War",
+"Call of Duty 5",
+"Call of Duty World at War",
+"Final Fronts",
+"WAW",
+"World at War"
+],
+"links": 52
+},
+{
+"name": "Far Cry 3",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Space Invaders",
+"aliases": [],
+"links": 52
+},
+{
+"name": "The Legend of Zelda: Breath of the Wild",
+"aliases": [
+"BotW",
+"Breath of the Wild",
+"The Legend of Zelda: BotW",
+"Zelda: Breath of the Wild"
+],
+"links": 52
+},
+{
+"name": "The Sims 4",
+"aliases": [
+"Sims 4",
+"TS4"
+],
+"links": 52
+},
+{
+"name": "Super Mario 64",
+"aliases": [
+"M 64",
+"M64",
+"Mario 64",
+"SM 64",
+"Super Mario Bros. 6",
+"Super Mario Bros. 64",
+"Super Mario Brothers 6",
+"Super Mario Brothers 64"
+],
+"links": 51
+},
+{
+"name": "Warcraft III: Reign of Chaos",
+"aliases": [
+"Reign of Chaos",
+"The Reign of Chaos",
+"WAR3",
+"Warcraft III",
+"Warcraft III: The Reign of Chaos"
+],
+"links": 51
+},
+{
+"name": "Max Payne",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Red Dead Redemption",
+"aliases": [
+"RDR",
+"RDR1"
+],
+"links": 50
+},
+{
+"name": "Resident Evil 4",
+"aliases": [
+"2005 Resident Evil 4",
+"Biohazard 4"
+],
+"links": 50
+},
+{
+"name": "Spore",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Terraria",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Valorant",
+"aliases": [
+"Project A"
+],
+"links": 50
+},
+{
+"name": "Age of Empires",
+"aliases": [
+"Age of Empires 1",
+"AoE",
+"AoE1"
+],
+"links": 49
+},
+{
+"name": "Call of Duty: Modern Warfare 3",
+"aliases": [
+"Call of Duty Modern Warfare 3",
+"Call of Duty: MW3",
+"COD8",
+"COD:MW3",
+"Modern Warfare 3"
+],
+"links": 49
+},
+{
+"name": "Final Fantasy VII",
+"aliases": [
+"FF7",
+"FFVII",
+"Final Fantasy 7",
+"Final Fantasy Seven"
+],
+"links": 49
+},
+{
+"name": "Metal Gear Solid",
+"aliases": [
+"Metal Gear 3",
+"MGS",
+"MGS1"
+],
+"links": 49
+},
+{
+"name": "Subway Surfers",
+"aliases": [
+"Subway Surf"
+],
+"links": 48
+},
+{
+"name": "Agar.io",
+"aliases": [
+"Agario"
+],
+"links": 47
+},
+{
+"name": "Candy Crush Saga",
+"aliases": [
+"Candy Crush"
+],
+"links": 47
+},
+{
+"name": "Need for Speed: Most Wanted",
+"aliases": [
+"Most Wanted",
+"Most Wanted 2005",
+"Need for Speed: Most Wanted 2005",
+"Need for Speed: Most Wanted 5-1-0",
+"NFS:MW",
+"NFSMW"
+],
+"links": 47
+},
+{
+"name": "Far Cry",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Mafia II",
+"aliases": [
+"Mafia 2"
+],
+"links": 46
+},
+{
+"name": "Stardew Valley",
+"aliases": [
+"SDV",
+"Sprout Valley",
+"Stardew"
+],
+"links": 46
+},
+{
+"name": "Super Mario Bros. 3",
+"aliases": [
+"Mario 3",
+"Mario Bros. 3",
+"SMB 3",
+"SMB3",
+"Super Mario 3",
+"Super Mario Bros 3",
+"Super Mario Brothers 3"
+],
+"links": 46
+},
+{
+"name": "Tamagotchi",
+"aliases": [
+"tama gacchi",
+"tama gatchi",
+"tama gotchi",
+"tamagacchi",
+"tamagatchi"
+],
+"links": 46
+},
+{
+"name": "War Thunder",
+"aliases": [
+"World of Planes",
+"WT"
+],
+"links": 46
+},
+{
+"name": "World of Tanks",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Assassin's Creed II",
+"aliases": [
+"AC2",
+"Assassin's Creed 2"
+],
+"links": 45
+},
+{
+"name": "Assassin's Creed IV: Black Flag",
+"aliases": [
+"AC4",
+"Assassin's Creed IV Black Flag",
+"Assassins Creed 4"
+],
+"links": 45
+},
+{
+"name": "Call of Duty 2",
+"aliases": [
+"COD2"
+],
+"links": 45
+},
+{
+"name": "Far Cry 4",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Far Cry 5",
+"aliases": [
+"FC5"
+],
+"links": 45
+},
+{
+"name": "God of War",
+"aliases": [
+"2005 God of War",
+"GoW"
+],
+"links": 45
+},
+{
+"name": "RuneScape",
+"aliases": [
+"RS",
+"RS3",
+"Rscape",
+"RuneScape 3"
+],
+"links": 45
+},
+{
+"name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+"aliases": [
+"S.T.A.L.K.E.R",
+"Stalker"
+],
+"links": 45
+},
+{
+"name": "The Elder Scrolls IV: Oblivion",
+"aliases": [
+"Elder Scrolls 4",
+"Elder Scrolls 4: Oblivion",
+"Elder Scrolls IV",
+"Elder Scrolls IV: Oblivion",
+"Oblivion",
+"TES IV"
+],
+"links": 45
+},
+{
+"name": "Wii Sports",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Age of Mythology",
+"aliases": [
+"AoM"
+],
+"links": 44
+},
+{
+"name": "Apex Legends",
+"aliases": [
+"AL"
+],
+"links": 44
+},
+{
+"name": "Call of Duty 3",
+"aliases": [
+"COD3"
+],
+"links": 44
+},
+{
+"name": "Call of Duty: Black Ops II",
+"aliases": [
+"Black Ops 2",
+"Black Ops II",
+"BO2",
+"Call of Duty: Black Ops 2",
+"CoD:BO2",
+"COD:BO2"
+],
+"links": 44
+},
+{
+"name": "Final Fantasy X",
+"aliases": [
+"FF10",
+"FFX",
+"Final Fantasy 10"
+],
+"links": 44
+},
+{
+"name": "Need for Speed: Carbon",
+"aliases": [
+"Carbon",
+"Need for Speed Carbon",
+"NFS: Carbon",
+"NFSC"
+],
+"links": 44
+},
+{
+"name": "Quake",
+"aliases": [
+"Quake 1",
+"Quake 64",
+"Quake I"
+],
+"links": 44
+},
+{
+"name": "Resident Evil",
+"aliases": [
+"1996 Resident Evil",
+"Bio Hazard",
+"Resident Evil 1"
+],
+"links": 44
+},
+{
+"name": "Age of Empires III",
+"aliases": [
+"AoE 3",
+"AoE III",
+"AoE3"
+],
+"links": 43
+},
+{
+"name": "Assassin's Creed: Brotherhood",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Battlefield 3",
+"aliases": [
+"BF3",
+"Bf3"
+],
+"links": 43
+},
+{
+"name": "Call of Duty: Advanced Warfare",
+"aliases": [
+"Advanced Warfare",
+"Call of Duty 11",
+"COD:AW"
+],
+"links": 43
+},
+{
+"name": "Civilization",
+"aliases": [
+"Sid Meier's Civilization"
+],
+"links": 43
+},
+{
+"name": "Diablo",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Final Fantasy VIII",
+"aliases": [
+"FFVIII"
+],
+"links": 43
+},
+{
+"name": "Mario Kart Wii",
+"aliases": [
+"MK Wii",
+"MKW"
+],
+"links": 43
+},
+{
+"name": "Silent Hill 2",
+"aliases": [],
+"links": 43
+},
+{
+"name": "The Witcher",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Tomb Raider",
+"aliases": [
+"1996 Tomb Raider",
+"Tomb Raider: Gold"
+],
+"links": 43
+},
+{
+"name": "Bully",
+"aliases": [
+"Canis Canem Edit"
+],
+"links": 42
+},
+{
+"name": "Crysis",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Ghost of Tsushima",
+"aliases": [
+"GoT"
+],
+"links": 42
+},
+{
+"name": "Left 4 Dead 2",
+"aliases": [
+"L4D2"
+],
+"links": 42
+},
+{
+"name": "Mario Kart 8",
+"aliases": [
+"Mario Kart U",
+"Mario Kart Wii U",
+"MK 8",
+"MK8"
+],
+"links": 42
+},
+{
+"name": "Myst",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Resident Evil 2",
+"aliases": [
+"1998 Resident Evil 2",
+"Biohazard 2",
+"RE 2",
+"RE2"
+],
+"links": 42
+},
+{
+"name": "Spacewar!",
+"aliases": [
+"Spacewar"
+],
+"links": 42
+},
+{
+"name": "Super Mario Odyssey",
+"aliases": [
+"Mario Odyssey"
+],
+"links": 42
+},
+{
+"name": "The Battle for Wesnoth",
+"aliases": [],
+"links": 42
+},
+{
+"name": "The Legend of Zelda: Ocarina of Time",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Assassin's Creed: Revelations",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Cuphead",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Final Fantasy",
+"aliases": [
+"FF",
+"FF1",
+"Final Fantasy 1",
+"Final Fantasy I"
+],
+"links": 41
+},
+{
+"name": "Five Nights at Freddy's",
+"aliases": [
+"Five Nights at Freddys",
+"FNaF"
+],
+"links": 41
+},
+{
+"name": "Hearthstone",
+"aliases": [
+"Hearthstone: Heroes of Warcraft",
+"Heroes of Warcraft"
+],
+"links": 41
+},
+{
+"name": "Need for Speed: Underground",
+"aliases": [
+"Need for Speed Underground",
+"NFSU"
+],
+"links": 41
+},
+{
+"name": "Outlast",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Resident Evil 3: Nemesis",
+"aliases": [
+"1999 Resident Evil 3",
+"Biohazard 3: Last Escape",
+"RE3"
+],
+"links": 41
+},
+{
+"name": "Rome: Total War",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Sonic the Hedgehog",
+"aliases": [
+"Sega Genesis Sonic the Hedgehog",
+"Sega Mega Drive Sonic the Hedgehog",
+"Sonic 1",
+"Sonic 1 Genesis",
+"Sonic 1 Mega Drive",
+"Sonic I",
+"Sonic the Hedgehog 1",
+"Sonic the Hedgehog I"
+],
+"links": 41
+},
+{
+"name": "Super Mario Bros. 2",
+"aliases": [
+"Mario 2",
+"Mario Bros 2",
+"Mario Bros. 2",
+"SMB 2",
+"SMB2",
+"Super Mario 2",
+"Super Mario Bros 2",
+"Super Mario Brothers 2",
+"Super Mario USA"
+],
+"links": 41
+},
+{
+"name": "Tomb Raider",
+"aliases": [
+"2013 Tomb Raider"
+],
+"links": 41
+},
+{
+"name": "Battlefield 4",
+"aliases": [
+"BF4"
+],
+"links": 40
+},
+{
+"name": "Civilization VI",
+"aliases": [
+"Civ 6",
+"Civ VI",
+"Civ6",
+"Civilisation 6",
+"Civilisation VI",
+"Civilization 6",
+"Civilization6",
+"Sid Meier's Civilization VI",
+"Sid Meier’s Civilization VI"
+],
+"links": 40
+},
+{
+"name": "Europa Universalis IV",
+"aliases": [
+"EU4",
+"Europa Universalis 4"
+],
+"links": 40
+},
+{
+"name": "Far Cry 2",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Final Fantasy XII",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Life Is Strange",
+"aliases": [
+"What If"
+],
+"links": 40
+},
+{
+"name": "Mass Effect 2",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Minesweeper",
+"aliases": [],
+"links": 40
+}
+]

@@ -104,8 +104,8 @@ export function buildIndex<T extends Matchable>(answers: T[]): AnswerIndex<T> {
 }
 
 function allowedTypos(len: number): number {
-  if (len >= 12) return 3;
-  if (len >= 9) return 2;
+  if (len >= 11) return 3;
+  if (len >= 8) return 2;
   if (len >= 5) return 1;
   return 0;
 }
@@ -128,33 +128,38 @@ export function findAnswer<T extends Matchable>(index: AnswerIndex<T>, guess: st
 
   // "Cheddar cheese", "pug dog": try the guess with one extra word dropped.
   const words = normalizeWords(guess);
+  const shorter: string[] = [];
   if (words.length >= 2) {
     for (let i = 0; i < words.length; i++) {
-      const rest = words.filter((_, j) => j !== i).join("");
+      const rest = stripPlural(words.filter((_, j) => j !== i).join(""));
       if (rest.length < 4) continue;
-      const hit = index.exact.get(stripPlural(rest));
+      const hit = index.exact.get(rest);
       if (hit) return hit;
+      shorter.push(rest);
     }
   }
 
-  const key = stripPlural(raw);
-  const max = allowedTypos(key.length);
-  if (max === 0) return null;
-
-  let best = max + 1;
+  // Typos, on the whole guess or on it with one word dropped
+  // ("strawberry cheescake" finds Cheesecake).
+  let best = Infinity;
   let winners = new Set<T>();
-  for (const entry of index.keys) {
-    const entryMax = Math.min(max, allowedTypos(entry.key.length));
-    if (entryMax === 0) continue;
-    const d = editDistance(key, entry.key, entryMax);
-    if (d > entryMax) continue;
-    if (d < best) {
-      best = d;
-      winners = new Set([entry.answer]);
-    } else if (d === best) {
-      winners.add(entry.answer);
+  for (const key of [stripPlural(raw), ...shorter]) {
+    const max = allowedTypos(key.length);
+    if (max === 0) continue;
+    for (const entry of index.keys) {
+      const entryMax = Math.min(max, allowedTypos(entry.key.length));
+      if (entryMax === 0) continue;
+      const d = editDistance(key, entry.key, entryMax);
+      if (d > entryMax) continue;
+      if (d < best) {
+        best = d;
+        winners = new Set([entry.answer]);
+      } else if (d === best) {
+        winners.add(entry.answer);
+      }
     }
   }
-  if (best <= max && winners.size === 1) return [...winners][0];
+  if (winners.size === 1) return [...winners][0];
   return null;
 }
+

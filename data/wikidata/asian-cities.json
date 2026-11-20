@@ -1,0 +1,9617 @@
+[
+{
+"name": "Moscow",
+"aliases": [
+"City of Moscow",
+"Moscow, Russia",
+"Moscow, Russian Federation",
+"Moscow, Russian SFSR",
+"Moscow, Soviet Union",
+"Moscow, USSR",
+"Moskovĭ",
+"Moskva Federal City, Russia",
+"Moskva, Rossiya",
+"Moskva, Russia",
+"Moskve",
+"Moskvi",
+"Moskvë",
+"Mosky"
+],
+"links": 338
+},
+{
+"name": "Singapore",
+"aliases": [
+"Garden City",
+"Lion City",
+"Republic of Singapore",
+"S'pore",
+"sg",
+"Singapore City"
+],
+"links": 333
+},
+{
+"name": "Beijing",
+"aliases": [
+"Beeijing",
+"Bei Jing Shi",
+"Beijing Shi",
+"Beiping",
+"BJ",
+"Bākgīng",
+"Chi",
+"Chi-ch'eng",
+"Chi-cheng",
+"Chi-ch’êng",
+"Chung-tu",
+"Chungtu",
+"Ji",
+"Jicheng",
+"Khanbalik",
+"Khanbaliq",
+"Pak-kiann",
+"Pe-king",
+"Pei-ching",
+"Pei-p'ing",
+"Pei-ping",
+"Peip'ing",
+"Peiping",
+"Pekin",
+"Peking Shi",
+"Poh-cin",
+"Shun-t'ien",
+"Shun-tien",
+"Shuntian",
+"Shuntian Fu",
+"Shuntianfu",
+"Yan-ching",
+"Yanjing",
+"Yanking",
+"Zhongdu"
+],
+"links": 306
+},
+{
+"name": "Hong Kong",
+"aliases": [
+"HKSAR",
+"Hong Kong SAR",
+"Hong Kong SAR, China",
+"Hong Kong Special Administrative Region",
+"Hong Kong, China",
+"Hongkong"
+],
+"links": 304
+},
+{
+"name": "Tokyo",
+"aliases": [
+"Edo",
+"Jedo",
+"Tokei",
+"Tokio",
+"Tokyo Metropolis",
+"Tokyo Metropolitan prefecture",
+"Tokyo Prefecture",
+"Tokyo, Japan",
+"Tokyo-to",
+"Tôkyô",
+"Tôkyô-to",
+"Tōkyō-to",
+"Yedo"
+],
+"links": 304
+},
+{
+"name": "Istanbul",
+"aliases": [],
+"links": 290
+},
+{
+"name": "Edirne",
+"aliases": [
+"Adrianopolis",
+"Edirne City",
+"Hadrianopolis"
+],
+"links": 283
+},
+{
+"name": "Saint Petersburg",
+"aliases": [
+"Petersburg",
+"Sankt-Peterburg",
+"St Petersburg",
+"St.Petersburg"
+],
+"links": 273
+},
+{
+"name": "Bangkok",
+"aliases": [
+"Bangkok, Thailand",
+"Krung Thep",
+"Sia-Yut'hia"
+],
+"links": 263
+},
+{
+"name": "Kyoto",
+"aliases": [
+"Kyoto City",
+"Meacum",
+"Meako"
+],
+"links": 260
+},
+{
+"name": "Ho Chi Minh City",
+"aliases": [
+"Gia Định",
+"HCM City",
+"HCMC",
+"Ho Chi Minh",
+"Hôchiminh Ville",
+"Prey Nokor",
+"Sai Gon",
+"Saigon",
+"Saïgon",
+"Sài Gòn",
+"Thành Phố Hồ Chí Minh",
+"Thành-Phô Hồ Chí Minh"
+],
+"links": 257
+},
+{
+"name": "Baghdad",
+"aliases": [
+"Bagdat",
+"Baghdād"
+],
+"links": 251
+},
+{
+"name": "Shanghai",
+"aliases": [
+"Hu",
+"Municipality of Shanghai",
+"Pearl of the Orient",
+"Shang Hai",
+"Shang Hai Shi",
+"Shang-hai",
+"Shanghae",
+"Shanghai City",
+"Shanghai Municipality",
+"Shanghai, China",
+"Shen",
+"Xanghae",
+"Zanghae"
+],
+"links": 251
+},
+{
+"name": "Damascus",
+"aliases": [
+"Jasmine city",
+"Mint of Damascus",
+"Sham city"
+],
+"links": 243
+},
+{
+"name": "Đồng Hới",
+"aliases": [
+"Dong Hoi"
+],
+"links": 230
+},
+{
+"name": "Macau",
+"aliases": [
+"Aomen",
+"Macao S.A.R.",
+"Macao SAR",
+"Macao SAR, China",
+"Macao Special Administrative Region",
+"Macau SAR",
+"Macau SAR, China",
+"Macau Special Administrative Region"
+],
+"links": 226
+},
+{
+"name": "Dubai",
+"aliases": [
+"Dubai city",
+"Dubai, Emirate of Dubai",
+"Dubai, UAE",
+"Dubai, United Arab Emirates"
+],
+"links": 219
+},
+{
+"name": "Astana",
+"aliases": [
+"Akmola",
+"Akmolinsk",
+"Aqmola",
+"Nur-Sultan",
+"Tselinograd"
+],
+"links": 218
+},
+{
+"name": "Kuala Lumpur",
+"aliases": [
+"Federal Territory of Kuala Lumpur",
+"K.L.",
+"KL"
+],
+"links": 214
+},
+{
+"name": "Yerevan",
+"aliases": [
+"Erivan",
+"Iravan",
+"Irevan",
+"Ravan",
+"Revan",
+"The Pink City"
+],
+"links": 214
+},
+{
+"name": "Beirut",
+"aliases": [
+"Beyrout"
+],
+"links": 213
+},
+{
+"name": "Manila",
+"aliases": [
+"City of Manila",
+"Pearl of the Orient",
+"Queen City of the Pacific and others"
+],
+"links": 208
+},
+{
+"name": "Karachi",
+"aliases": [
+"Crotchey",
+"Heart of Pakistan",
+"Karatchi",
+"Kurrachee",
+"The Lighting City"
+],
+"links": 206
+},
+{
+"name": "Hanoi",
+"aliases": [
+"Dong Do",
+"Ha Noi",
+"Hà Nội",
+"Thang Long",
+"Tonkin",
+"Đại La"
+],
+"links": 203
+},
+{
+"name": "Pyongyang",
+"aliases": [
+"Capital of Revolution",
+"Pyeongyang",
+"P’yŏng-yang",
+"Ryugyong"
+],
+"links": 202
+},
+{
+"name": "Taipei",
+"aliases": [
+"City of Taipei",
+"Tai Pei",
+"Taibei",
+"Taihoku",
+"Taipak",
+"Taipei City",
+"Tanshoui",
+"The City of Azaleas",
+"Thoipet",
+"Thòi-pet",
+"Tâi-pak"
+],
+"links": 200
+},
+{
+"name": "Kathmandu",
+"aliases": [
+"Cadmendu",
+"Catmandir",
+"Catmeduour",
+"City of Temples",
+"Kadmendu",
+"Kantipur",
+"Kasthamandap",
+"Kathmandu Metropolitan City",
+"Kathmandu Valley",
+"Katmandir",
+"Katmandou",
+"Katmandu",
+"Khatmandu",
+"Káthmándú",
+"Yambu",
+"Yen"
+],
+"links": 199
+},
+{
+"name": "Islamabad",
+"aliases": [],
+"links": 196
+},
+{
+"name": "Amman",
+"aliases": [
+"Aman",
+"Amman, Jordan",
+"Ammon",
+"Mint of Philadelphia",
+"Philadelphia",
+"ʿAmmān"
+],
+"links": 194
+},
+{
+"name": "Tel Aviv",
+"aliases": [
+"Tel Aviv City",
+"Tel Aviv Jaffa",
+"Tel Aviv, Israel",
+"Tel Aviv-Jaffa",
+"Tel Aviv-Jafo",
+"Tel Aviv-Yaffo",
+"Tel Aviv-Yafo",
+"Tel-aviv",
+"Tel-Aviv",
+"Tel-Aviv Jaffa",
+"Tel-Aviv Yafo",
+"TLV"
+],
+"links": 191
+},
+{
+"name": "Ashgabat",
+"aliases": [
+"'Ishqabad",
+"Ak-Gaudan",
+"Aschchabad",
+"Ashabad",
+"Ashkabad",
+"Ashkabat",
+"Ashqabad",
+"Askabad",
+"Askhabad",
+"Ishqabad",
+"Ishqabat",
+"Konjikala"
+],
+"links": 187
+},
+{
+"name": "Bishkek",
+"aliases": [
+"Pishpek"
+],
+"links": 187
+},
+{
+"name": "Phnom Penh",
+"aliases": [],
+"links": 181
+},
+{
+"name": "Wuhan",
+"aliases": [
+"Wu Han",
+"Wuhan, Hubei Province"
+],
+"links": 180
+},
+{
+"name": "Lviv",
+"aliases": [
+"L'vov",
+"Lemberik",
+"Leopol",
+"Lvov",
+"Lwow",
+"Lwów"
+],
+"links": 177
+},
+{
+"name": "Vientiane",
+"aliases": [
+"Bientani",
+"Nakhon Viangchan",
+"urban Vientiane",
+"Viang chan",
+"Viangchan",
+"Vien Chang",
+"Vienchan",
+"Vieng-Cæn",
+"Viengchan",
+"Vientane",
+"Vieṅ Čan",
+"Vieṅg-Čăn",
+"Vyentyan",
+"Wei-t'ien",
+"Wiangcan",
+"Wīangčhan"
+],
+"links": 175
+},
+{
+"name": "Sanaa",
+"aliases": [
+"San'a'",
+"Sana",
+"Sana'a",
+"Ṣanʻāʼ",
+"Ṣanʿāʾ"
+],
+"links": 173
+},
+{
+"name": "Guangzhou",
+"aliases": [
+"Can-ton",
+"Canton",
+"Guang",
+"Guang Zhou Shi",
+"Guangzhou Shi",
+"Kuang",
+"Kuang-chou",
+"Kwang",
+"Kwang-tong",
+"Kwangchow",
+"Kwangtong",
+"Kwongchow",
+"P'an",
+"P'an-yu",
+"P'an-yü",
+"Pan",
+"Pan-yu",
+"Pan-yü",
+"Panyu",
+"Pun-yü",
+"Punyü",
+"Yang-ch'eng",
+"Yang-cheng",
+"Yang-ch’êng",
+"Yangcheng"
+],
+"links": 171
+},
+{
+"name": "Thimphu",
+"aliases": [
+"Thimpu"
+],
+"links": 170
+},
+{
+"name": "Kuwait City",
+"aliases": [
+"Al Kuwait",
+"al-Kuwait",
+"Kuwait"
+],
+"links": 169
+},
+{
+"name": "Manama",
+"aliases": [
+"al-Manāmah"
+],
+"links": 169
+},
+{
+"name": "Kazan",
+"aliases": [
+"Qazan"
+],
+"links": 164
+},
+{
+"name": "Medina",
+"aliases": [
+"Al-Madīnah al-Munawwarah",
+"Madīnah",
+"The Luminous City",
+"The Radiant City"
+],
+"links": 164
+},
+{
+"name": "Jeddah",
+"aliases": [
+"Jidda"
+],
+"links": 163
+},
+{
+"name": "Nha Trang",
+"aliases": [],
+"links": 163
+},
+{
+"name": "Sapporo",
+"aliases": [
+"sat poro pet"
+],
+"links": 161
+},
+{
+"name": "Hiroshima",
+"aliases": [
+"City of Hiroshima",
+"Hiroshima City"
+],
+"links": 159
+},
+{
+"name": "Muscat",
+"aliases": [
+"Maskat",
+"Muskat"
+],
+"links": 159
+},
+{
+"name": "Novosibirsk",
+"aliases": [],
+"links": 159
+},
+{
+"name": "Volgograd",
+"aliases": [
+"Stalingrad",
+"Tsaritsyn"
+],
+"links": 159
+},
+{
+"name": "Naypyidaw",
+"aliases": [
+"Nay Pyi Taw",
+"Naypyitaw"
+],
+"links": 158
+},
+{
+"name": "Kaliningrad",
+"aliases": [
+"Königsberg",
+"Tuwangeste",
+"Tuwangste",
+"Twangste",
+"Twankste",
+"Twongst",
+"Twoyngst"
+],
+"links": 157
+},
+{
+"name": "Tianjin",
+"aliases": [
+"Municipality of Tianjin",
+"Tianjin Municipality",
+"Tien-tsin",
+"Tientsin"
+],
+"links": 156
+},
+{
+"name": "Malé",
+"aliases": [
+"Malé City"
+],
+"links": 155
+},
+{
+"name": "Colombo",
+"aliases": [],
+"links": 153
+},
+{
+"name": "Yangon",
+"aliases": [
+"Rangoon City",
+"Yangon City",
+"Yangon Region"
+],
+"links": 152
+},
+{
+"name": "Aleppo",
+"aliases": [
+"Alebbo",
+"Alep",
+"Aleppo City",
+"Aleppo, Aleppo",
+"Aleppo, Mount Simeon",
+"Aleppo, Syria",
+"Halab"
+],
+"links": 150
+},
+{
+"name": "Yekaterinburg",
+"aliases": [
+"Ekaterinburg"
+],
+"links": 150
+},
+{
+"name": "Samarkand",
+"aliases": [
+"Samarcand",
+"Samarqand",
+"Summarkund",
+"Summarkùnd"
+],
+"links": 148
+},
+{
+"name": "Saratov",
+"aliases": [
+"Saratoff"
+],
+"links": 148
+},
+{
+"name": "Jaipur",
+"aliases": [
+"Pink City"
+],
+"links": 146
+},
+{
+"name": "Nizhny Novgorod",
+"aliases": [
+"Gerkiy",
+"Gorky",
+"Nether Novgorod",
+"Nijni-Novgorod",
+"NiNo",
+"Nizhny"
+],
+"links": 146
+},
+{
+"name": "Ahmedabad",
+"aliases": [
+"Ahmadabad",
+"Amdavad",
+"Ashaval",
+"Karnavati",
+"Manchester of the East"
+],
+"links": 145
+},
+{
+"name": "Lahore",
+"aliases": [
+"LHR"
+],
+"links": 144
+},
+{
+"name": "Vũng Tàu",
+"aliases": [
+"Cape Saint Jacques",
+"Vung Tau",
+"Vũng Tàu city"
+],
+"links": 144
+},
+{
+"name": "Xi'an",
+"aliases": [
+"Chang-ngan",
+"Changan",
+"Hsi'an",
+"Hsi-an",
+"Hsi-an-fu",
+"Hsian",
+"Kansan",
+"Kenjan",
+"Kenjanfu",
+"Khumdan",
+"Khumdán",
+"Kingchao",
+"Kingchao-fu",
+"Quen-zan",
+"Quen-zan-fu",
+"Quenzan",
+"Quenzanfu",
+"Si-ngan",
+"Si-ngan Fu",
+"Si-ngan-fu",
+"Sian",
+"Singan",
+"Singan-fu",
+"Xi An",
+"Xi'an Fu",
+"Xi'anfu",
+"Xian",
+"Xianfu",
+"Xi’an City",
+"Xi’an, China"
+],
+"links": 143
+},
+{
+"name": "Isfahan",
+"aliases": [
+"Aspadāna",
+"Culture City Of Iran",
+"Hispahan",
+"IFN",
+"Isfahān",
+"Ispahân",
+"Ispahān",
+"Sepahan",
+"Spahan",
+"Spahān"
+],
+"links": 142
+},
+{
+"name": "Nanjing",
+"aliases": [
+"Jiangning",
+"Kiang-ning",
+"Kiangning",
+"Nan Jing",
+"Nan-king",
+"Nankin"
+],
+"links": 142
+},
+{
+"name": "Agra",
+"aliases": [
+"Agra, India",
+"Agrah"
+],
+"links": 141
+},
+{
+"name": "Da Nang",
+"aliases": [
+"Da Nang City",
+"Tourane",
+"Turon"
+],
+"links": 141
+},
+{
+"name": "Zhengzhou",
+"aliases": [
+"Cheng-chow"
+],
+"links": 139
+},
+{
+"name": "Omsk",
+"aliases": [],
+"links": 138
+},
+{
+"name": "Bursa",
+"aliases": [
+"Broussa"
+],
+"links": 137
+},
+{
+"name": "Samara",
+"aliases": [
+"Kuibishev",
+"Kuybyshev",
+"Samara, Russia"
+],
+"links": 137
+},
+{
+"name": "Shenzhen",
+"aliases": [
+"Sham Chun"
+],
+"links": 137
+},
+{
+"name": "Antalya",
+"aliases": [
+"Adalia",
+"ANT",
+"Attalia",
+"AYT"
+],
+"links": 136
+},
+{
+"name": "Lhasa",
+"aliases": [
+"Barantola",
+"Lasa",
+"Lassa",
+"Lhasa City",
+"Lhasa Prefecture",
+"Lhasa Prefecture-Level City",
+"Lhasa, Tibet",
+"Lhassa",
+"Lhása",
+"Lla-Ssa"
+],
+"links": 136
+},
+{
+"name": "Perm",
+"aliases": [
+"Molotov",
+"Molotow"
+],
+"links": 135
+},
+{
+"name": "Haifa",
+"aliases": [
+"Hayfa",
+"Hefa",
+"H̱aifa"
+],
+"links": 134
+},
+{
+"name": "Kobe",
+"aliases": [
+"Kobe City",
+"Kobe-shi",
+"Koube",
+"Koube-shi",
+"Kōbe",
+"Kōbe-shi"
+],
+"links": 134
+},
+{
+"name": "Irkutsk",
+"aliases": [
+"Erhuu",
+"Erhüü"
+],
+"links": 132
+},
+{
+"name": "Hangzhou",
+"aliases": [
+"Campsay",
+"Cansay",
+"Cassay",
+"Han-chau",
+"Hanceu",
+"Hang",
+"Hang Chou",
+"Hang-ch'eng",
+"Hang-chau",
+"Hang-chau Fu",
+"Hang-chau-fu",
+"Hang-chou",
+"Hang-Chow",
+"Hang-chow",
+"Hang-tchew",
+"Hangchau",
+"Hangcheng",
+"Hangchew",
+"Hangchou",
+"Hangchow",
+"Hangtchew",
+"Hangzhou City",
+"Hangzhou fu",
+"Hangzhou Fu",
+"Hangzhou Municipality",
+"Hangzhoufu",
+"Khansa",
+"Khansá",
+"Khanzai",
+"Khinsa",
+"Khinsá",
+"Khinzai",
+"Kinsai",
+"Kinsay",
+"Lin'an",
+"Lin-ngan",
+"Linan",
+"Quinsai",
+"Quinsay",
+"Quinzai",
+"Quinzay",
+"Yuch"
+],
+"links": 131
+},
+{
+"name": "Astrakhan",
+"aliases": [
+"Astracan"
+],
+"links": 130
+},
+{
+"name": "Bukhara",
+"aliases": [
+"Bokhara",
+"Bokhàra",
+"Bouchara",
+"Boukhara",
+"Buxoro"
+],
+"links": 128
+},
+{
+"name": "Gaza City",
+"aliases": [
+"Azza",
+"Gaza",
+"Ghazzah",
+"Ġazzah",
+"ʕazza",
+"ʻazza"
+],
+"links": 128
+},
+{
+"name": "Fukuoka",
+"aliases": [
+"Fukuoka City"
+],
+"links": 127
+},
+{
+"name": "Grozny",
+"aliases": [
+"Groznyy"
+],
+"links": 127
+},
+{
+"name": "Lucknow",
+"aliases": [
+"City of Nawabs",
+"Constantinople of the East",
+"Golden City of India",
+"Lakhnau",
+"Lucnow",
+"Shiraz-i-Hind"
+],
+"links": 126
+},
+{
+"name": "Smolensk",
+"aliases": [
+"Smoleńsk"
+],
+"links": 125
+},
+{
+"name": "Veliky Novgorod",
+"aliases": [
+"Novgorod",
+"Nowgorod",
+"Nowgorod-Weliki",
+"Velikiy Novgorod"
+],
+"links": 125
+},
+{
+"name": "Krasnoyarsk",
+"aliases": [],
+"links": 123
+},
+{
+"name": "Ürümqi",
+"aliases": [
+"Dihua",
+"Dihuacheng",
+"Ouroumtsi",
+"Ti-hua",
+"Ti-hua-ch'eng",
+"Ti-hua-ch'êng",
+"Ti-hua-cheng",
+"Tihwa",
+"Urumtsi",
+"Wu-lu-mu-ch'i",
+"Wu-lu-mu-ch'i Shih",
+"Wu-lu-mu-ch'i-shih",
+"Wu-lu-mu-chi",
+"Wu-lu-mu-chi Shih",
+"Wu-lu-mu-chi-shih",
+"Wulumuqi",
+"Wulumuqi Shi",
+"Wulumuqishi"
+],
+"links": 123
+},
+{
+"name": "Khabarovsk",
+"aliases": [],
+"links": 122
+},
+{
+"name": "Bhopal",
+"aliases": [
+"Bhojpal",
+"Bhoopal",
+"Bhupal",
+"City of Lakes"
+],
+"links": 121
+},
+{
+"name": "Chandigarh",
+"aliases": [
+"The city beautiful"
+],
+"links": 121
+},
+{
+"name": "Trabzon",
+"aliases": [
+"Tarabossan",
+"Terabesoun",
+"Trabizond",
+"Trabuzan",
+"Trapesunta",
+"Trapezounta",
+"Trapezous",
+"Trapezunt",
+"Trapezus",
+"Trapisonda",
+"Trapizon",
+"Trebesun",
+"Trebisonda",
+"Trebizond",
+"Trebizonde",
+"Tribisonde"
+],
+"links": 121
+},
+{
+"name": "Gaziantep",
+"aliases": [
+"Ain-Tab",
+"Aintab",
+"Antep"
+],
+"links": 120
+},
+{
+"name": "Yaroslavl",
+"aliases": [
+"Jaroslav"
+],
+"links": 120
+},
+{
+"name": "Mosul",
+"aliases": [
+"Mosūl"
+],
+"links": 119
+},
+{
+"name": "Patna",
+"aliases": [
+"Batana",
+"Pataliputra",
+"Pataliputta",
+"Patan",
+"Patnā",
+"Pātaliputra",
+"Pātaliputta"
+],
+"links": 119
+},
+{
+"name": "Voronezh",
+"aliases": [
+"Voronezh, Russia",
+"Voronezh, Voronezh Oblast"
+],
+"links": 119
+},
+{
+"name": "Makhachkala",
+"aliases": [
+"Makhachkala, Dagestan",
+"Makhachkala, Russia"
+],
+"links": 118
+},
+{
+"name": "Shenyang",
+"aliases": [
+"Feng Tian Fu",
+"Fengtian Fu",
+"Muk-den",
+"Mukden",
+"Shen Yang",
+"Sheng jing",
+"Shengjing"
+],
+"links": 118
+},
+{
+"name": "Kayseri",
+"aliases": [
+"Caesarea",
+"Caesarea in Cappadocia",
+"Caesarea Mazaca",
+"Eusebia",
+"Eusebia at the Argaeus",
+"Kaisariyah",
+"Mazaca",
+"Mazaka"
+],
+"links": 117
+},
+{
+"name": "Konya",
+"aliases": [
+"Mint of Iconium"
+],
+"links": 115
+},
+{
+"name": "Antakya",
+"aliases": [],
+"links": 114
+},
+{
+"name": "Tomsk",
+"aliases": [],
+"links": 114
+},
+{
+"name": "Kochi",
+"aliases": [
+"Cochin",
+"Kochi, India"
+],
+"links": 113
+},
+{
+"name": "Pskov",
+"aliases": [
+"Pihkova",
+"Pihkva",
+"Plescow",
+"Pleskau",
+"Pleskava",
+"Pleskov",
+"Pleskow",
+"Pscovia",
+"Pskof",
+"Pskovas",
+"Pskovo",
+"Pskow",
+"Psków",
+"Pszkov"
+],
+"links": 112
+},
+{
+"name": "Kandahar",
+"aliases": [
+"Candahar",
+"Qandahar"
+],
+"links": 111
+},
+{
+"name": "Thiruvananthapuram",
+"aliases": [
+"Thiruvanathapuram",
+"Trivandrum"
+],
+"links": 111
+},
+{
+"name": "Ulyanovsk",
+"aliases": [
+"Simbirsk",
+"Sinbirsk"
+],
+"links": 111
+},
+{
+"name": "Aden",
+"aliases": [],
+"links": 110
+},
+{
+"name": "Homs",
+"aliases": [
+"Emesa",
+"Hems",
+"Hims"
+],
+"links": 110
+},
+{
+"name": "Kunming",
+"aliases": [
+"Kunming City"
+],
+"links": 110
+},
+{
+"name": "Kanpur",
+"aliases": [
+"Cawnpoor",
+"Cawnpore",
+"Katampur",
+"Kānpur",
+"Leather City of India",
+"Manchester of the East"
+],
+"links": 109
+},
+{
+"name": "Peshawar",
+"aliases": [
+"Pechaver",
+"Pekhawar",
+"Peshawer",
+"Peshawur",
+"Pesháwar"
+],
+"links": 109
+},
+{
+"name": "Qingdao",
+"aliases": [
+"Tsing-tao",
+"Tsingtao",
+"Çingtao"
+],
+"links": 109
+},
+{
+"name": "Surat",
+"aliases": [
+"Navi surat",
+"Sūrat",
+"Western Presidency"
+],
+"links": 109
+},
+{
+"name": "Vladimir",
+"aliases": [
+"Vladimir upon Klyazma",
+"Vladimir, Russia"
+],
+"links": 109
+},
+{
+"name": "Daegu",
+"aliases": [
+"Daegu Metropolitan City",
+"Taegu"
+],
+"links": 108
+},
+{
+"name": "Herat",
+"aliases": [
+"Alexandria",
+"Alexandria Ariana",
+"Heraut"
+],
+"links": 108
+},
+{
+"name": "Kursk",
+"aliases": [],
+"links": 108
+},
+{
+"name": "Cà Mau",
+"aliases": [
+"Ca Mau",
+"Ca Mau city",
+"Cà Mau City"
+],
+"links": 107
+},
+{
+"name": "Tver",
+"aliases": [
+"Kalinin"
+],
+"links": 107
+},
+{
+"name": "Belgorod",
+"aliases": [],
+"links": 106
+},
+{
+"name": "Changchun",
+"aliases": [
+"Hsinking",
+"Xinjing"
+],
+"links": 106
+},
+{
+"name": "Changsha",
+"aliases": [
+"Ch'ang-sha",
+"Ch'ang-sha Shih",
+"Ch'ing-yang",
+"Chang-sha",
+"Chang-sha Shih",
+"Changsha Shi",
+"Changsha, China",
+"Changsha, Hunan",
+"Ching-yang",
+"Lin-hsiang",
+"Linxiang",
+"Qingyang",
+"T'an",
+"T'an-chou",
+"Tan",
+"Tanzhou"
+],
+"links": 106
+},
+{
+"name": "Izhevsk",
+"aliases": [
+"Izhkar"
+],
+"links": 106
+},
+{
+"name": "Ryazan",
+"aliases": [],
+"links": 106
+},
+{
+"name": "Barnaul",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Basra",
+"aliases": [
+"Al Basrah",
+"Al Baṣrah",
+"Basrah",
+"Bassorah"
+],
+"links": 105
+},
+{
+"name": "Cheboksary",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Erbil",
+"aliases": [
+"Arbela",
+"Arbil",
+"Hawler",
+"Hewler",
+"Irbil"
+],
+"links": 105
+},
+{
+"name": "Jinan",
+"aliases": [
+"An",
+"Chi-nan",
+"Chi-nan Fu",
+"Chi-nan-foo",
+"Chi-nan-fu",
+"Chinangli",
+"Chingli",
+"Lin-tsze",
+"Linzi",
+"Lixia",
+"Luo",
+"Luoyi",
+"P'ing-yuen",
+"Po-hai",
+"Qi",
+"Qizhou",
+"Ts'ien-sh'ing",
+"Tse",
+"Tse-nan",
+"Tse-nan Foo",
+"Tse-nan Fu",
+"Tsi-nan",
+"Tsinan"
+],
+"links": 105
+},
+{
+"name": "Maykop",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Orenburg",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Petrozavodsk",
+"aliases": [
+"Petroskoi"
+],
+"links": 105
+},
+{
+"name": "Bhubaneswar",
+"aliases": [
+"BBSR",
+"Bhubaneshwar"
+],
+"links": 104
+},
+{
+"name": "Dalian",
+"aliases": [],
+"links": 104
+},
+{
+"name": "Nagpur",
+"aliases": [
+"Nagpoor",
+"Nagpore"
+],
+"links": 104
+},
+{
+"name": "Saransk",
+"aliases": [],
+"links": 104
+},
+{
+"name": "Elista",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Fuzhou",
+"aliases": [
+"Banyan City",
+"Ch'ang-lo",
+"Changle",
+"Foochow",
+"Foochow Foo",
+"Fou-tchew",
+"Foutchew",
+"Fu Zhou Shi",
+"Fu-chou",
+"Fu-chou Fu",
+"Fu-chou-fu",
+"Fuchew",
+"Fuchew-fu",
+"Fuchou",
+"Fuzhou Fu",
+"Fuzhoufu",
+"Hockchew",
+"Hocsieu",
+"Jung",
+"Jung-ch'eng",
+"Jung-cheng",
+"Jung-ch’êng",
+"Rong",
+"Rongcheng",
+"Ye",
+"Yeh"
+],
+"links": 103
+},
+{
+"name": "Kaluga",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Karaganda",
+"aliases": [
+"Karagandy",
+"Qaraghandy"
+],
+"links": 103
+},
+{
+"name": "Saitama",
+"aliases": [
+"Saitama City"
+],
+"links": 103
+},
+{
+"name": "Tyre",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Tula",
+"aliases": [
+"Tula, Russia"
+],
+"links": 102
+},
+{
+"name": "Ulan-Ude",
+"aliases": [
+"Udinsk",
+"Udinskoye",
+"Ulan Ude",
+"Verkheoudinsk",
+"Verkhneudinsk"
+],
+"links": 102
+},
+{
+"name": "Derbent",
+"aliases": [
+"Darband",
+"Derbend"
+],
+"links": 101
+},
+{
+"name": "Diyarbakır",
+"aliases": [
+"Amid",
+"Diarbekir",
+"Mint of Amid"
+],
+"links": 101
+},
+{
+"name": "Ganja",
+"aliases": [
+"Elisabethpol",
+"Ganca",
+"Kirovabad"
+],
+"links": 101
+},
+{
+"name": "Osh",
+"aliases": [
+"Oš",
+"Ush",
+"Uš"
+],
+"links": 101
+},
+{
+"name": "Gyumri",
+"aliases": [
+"Alexandropol",
+"Gümrü"
+],
+"links": 100
+},
+{
+"name": "Mandalay",
+"aliases": [
+"Ratanapura",
+"Yadanabon"
+],
+"links": 100
+},
+{
+"name": "Penza",
+"aliases": [
+"Pensa"
+],
+"links": 100
+},
+{
+"name": "Suzhou",
+"aliases": [
+"Soo Chow",
+"Soochoo",
+"Soochow",
+"Soutchew",
+"Su-chou",
+"Suchew",
+"Suchow",
+"Suzhou City",
+"Suzhou City, Jiangsu Province",
+"Suzhou, China",
+"Suzhou, Jiangsu",
+"Woo",
+"Wu"
+],
+"links": 100
+},
+{
+"name": "Şanlıurfa",
+"aliases": [
+"Edessa",
+"Orrhoe",
+"Sanliurfa",
+"Urfa"
+],
+"links": 100
+},
+{
+"name": "Agartala",
+"aliases": [],
+"links": 99
+},
+{
+"name": "Beersheba",
+"aliases": [
+"Be'er Sheva",
+"Beer Sheba",
+"Beer Sheva",
+"Bir al-Sabi"
+],
+"links": 99
+},
+{
+"name": "Gangtok",
+"aliases": [],
+"links": 99
+},
+{
+"name": "Pattaya",
+"aliases": [
+"Phatthaya"
+],
+"links": 99
+},
+{
+"name": "Ashdod",
+"aliases": [],
+"links": 98
+},
+{
+"name": "Gwangju",
+"aliases": [
+"Gwangju City"
+],
+"links": 98
+},
+{
+"name": "Ivano-Frankivsk",
+"aliases": [
+"Ivano-Frankivs'k",
+"Stanislau",
+"Stanislav",
+"Stanislavov",
+"Stanislaw",
+"Stanislawow",
+"Stanisle",
+"Stanislev",
+"Stanislo",
+"Stanisławów",
+"Stanyslaviv"
+],
+"links": 98
+},
+{
+"name": "Lanzhou",
+"aliases": [
+"Lan-chou",
+"Lan-chou-fu",
+"Lan-chow",
+"Lan-chow-fu",
+"Lanchow",
+"Lantcheou"
+],
+"links": 98
+},
+{
+"name": "Nagano",
+"aliases": [
+"Nagano City"
+],
+"links": 98
+},
+{
+"name": "Stavropol",
+"aliases": [
+"Voroshilovsk"
+],
+"links": 98
+},
+{
+"name": "Guwahati",
+"aliases": [
+"Gauhati",
+"Gauhāti",
+"Gowhatty",
+"Guvāhāṭī",
+"Guwāhāti",
+"Pragjyotisha"
+],
+"links": 97
+},
+{
+"name": "Kirov",
+"aliases": [
+"Khlynov",
+"Vyatka"
+],
+"links": 97
+},
+{
+"name": "Mysore",
+"aliases": [
+"Mysuru"
+],
+"links": 97
+},
+{
+"name": "Nanchang",
+"aliases": [
+"Hong",
+"Hongzhou",
+"Hung",
+"Hung-chou",
+"Nan-ch'ang",
+"Nan-chang",
+"Nanchang City",
+"Nanchang Municipality",
+"Nanchang Shi"
+],
+"links": 97
+},
+{
+"name": "Nara",
+"aliases": [],
+"links": 97
+},
+{
+"name": "Phan Thiết",
+"aliases": [
+"PhanThiet"
+],
+"links": 97
+},
+{
+"name": "Srinagar",
+"aliases": [
+"Serinagor",
+"Shrinagar",
+"Shrînâgar",
+"Sirinagor",
+"Sri Nagar",
+"Srinigar",
+"Srīnagar",
+"summer capital of kashmir"
+],
+"links": 97
+},
+{
+"name": "Taganrog",
+"aliases": [
+"Tahanrih",
+"Tahanroh"
+],
+"links": 97
+},
+{
+"name": "Bryansk",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Daejeon",
+"aliases": [
+"Taejŏn"
+],
+"links": 96
+},
+{
+"name": "Hefei",
+"aliases": [
+"Hofei",
+"Luzhou"
+],
+"links": 96
+},
+{
+"name": "Madurai",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Mersin",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Raipur",
+"aliases": [
+"Raipoor",
+"Ryepoor"
+],
+"links": 96
+},
+{
+"name": "Shimla",
+"aliases": [
+"Queen of Hills",
+"Simla"
+],
+"links": 96
+},
+{
+"name": "Shymkent",
+"aliases": [
+"Chimkent"
+],
+"links": 96
+},
+{
+"name": "Syktyvkar",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Amasya",
+"aliases": [
+"Amas ia",
+"Amasya City",
+"Mint of Amas ia"
+],
+"links": 95
+},
+{
+"name": "Eskişehir",
+"aliases": [
+"Eski-Shehr",
+"Eskisehir"
+],
+"links": 95
+},
+{
+"name": "Jodhpur",
+"aliases": [
+"Blue City",
+"Jodhana",
+"Sun City"
+],
+"links": 95
+},
+{
+"name": "Novorossiysk",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Ranchi",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Shijiazhuang",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Tambov",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Ahvaz",
+"aliases": [
+"Ahvâz",
+"Al-Ahvaz"
+],
+"links": 94
+},
+{
+"name": "Chiba",
+"aliases": [],
+"links": 94
+},
+{
+"name": "Chita",
+"aliases": [],
+"links": 94
+},
+{
+"name": "Erzurum",
+"aliases": [],
+"links": 94
+},
+{
+"name": "Kashgar",
+"aliases": [
+"City of Kashgar",
+"Kachgar",
+"Kashgar City",
+"Kashghar",
+"Kashi Shi",
+"Qeshqer",
+"Shule",
+"Su-lo"
+],
+"links": 94
+},
+{
+"name": "Van",
+"aliases": [
+"Van, Turkey"
+],
+"links": 94
+},
+{
+"name": "Yoshkar-Ola",
+"aliases": [
+"Krasnokokshaysk",
+"Tsaryovokokshaysk",
+"Yoshkar Ola"
+],
+"links": 94
+},
+{
+"name": "Darjeeling",
+"aliases": [],
+"links": 93
+},
+{
+"name": "Dehradun",
+"aliases": [
+"D.Dun",
+"Dehra Dun",
+"Dera Dun",
+"Deradun"
+],
+"links": 93
+},
+{
+"name": "Taiyuan",
+"aliases": [
+"Bing",
+"T'ai-yuan",
+"T'ai-yuan Shih",
+"T'ai-yuan-fu",
+"Tai-yuan",
+"Tai-yuan Shih",
+"Tai-yuan-fu",
+"Taiyuan Shi"
+],
+"links": 93
+},
+{
+"name": "Vadodara",
+"aliases": [
+"Badouda",
+"Banyan City",
+"Capital Of Gujarat",
+"Chandan Vati",
+"Sayaji Nagari",
+"Vadpadrak",
+"Vatpatrak"
+],
+"links": 93
+},
+{
+"name": "Çanakkale",
+"aliases": [
+"Çanakkale City"
+],
+"links": 93
+},
+{
+"name": "Chiang Mai",
+"aliases": [
+"Chiang Mai City Municipality",
+"Chiang-Mai"
+],
+"links": 92
+},
+{
+"name": "Denizli",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Karbala",
+"aliases": [
+"Kerbela"
+],
+"links": 92
+},
+{
+"name": "Kitakyūshū",
+"aliases": [
+"Kitakyushu",
+"Kitakyushu City",
+"Kitakyushu-shi",
+"Kitakyūshū City",
+"Kitakyūshū-shi"
+],
+"links": 92
+},
+{
+"name": "Mazar-i-Sharif",
+"aliases": [
+"Mazar e Sharif",
+"Mazar i Sharif",
+"Mazar-e-Sharif",
+"Mazari-Sharif"
+],
+"links": 92
+},
+{
+"name": "Nanning",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Niigata",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Samarra",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Samsun",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Sidon",
+"aliases": [
+"Mint of Sidon",
+"Zidon"
+],
+"links": 92
+},
+{
+"name": "Ulsan",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Coimbatore",
+"aliases": [
+"Cotton City",
+"Kovai",
+"Koyambuthur",
+"Koyampuththur"
+],
+"links": 91
+},
+{
+"name": "Guiyang",
+"aliases": [
+"Kweiyang"
+],
+"links": 91
+},
+{
+"name": "Gwalior",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Haiphong",
+"aliases": [
+"Hai Phong"
+],
+"links": 91
+},
+{
+"name": "Kanazawa",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Yazd",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Haikou",
+"aliases": [
+"Hai Kou",
+"Haikou City",
+"Hoi Hao",
+"Hoi Haou",
+"Hoihaou",
+"Hoihow"
+],
+"links": 90
+},
+{
+"name": "Kagoshima",
+"aliases": [],
+"links": 90
+},
+{
+"name": "Kahramanmaraş",
+"aliases": [
+"Germanicia Caesarea",
+"Germanikeia",
+"Kahramanmaras",
+"Kahramanmarash",
+"Mar'ash",
+"Maras",
+"Marash",
+"Maraş",
+"Markash",
+"Markasi",
+"Marqasi"
+],
+"links": 90
+},
+{
+"name": "Kerch",
+"aliases": [
+"Boğaziçi",
+"Keriç",
+"Kerç",
+"Pantikápaion"
+],
+"links": 90
+},
+{
+"name": "Kumamoto",
+"aliases": [],
+"links": 90
+},
+{
+"name": "Shizuoka",
+"aliases": [
+"Sizuoka"
+],
+"links": 90
+},
+{
+"name": "Sumgait",
+"aliases": [
+"Sumgayit"
+],
+"links": 90
+},
+{
+"name": "Batman",
+"aliases": [
+"Batman City"
+],
+"links": 89
+},
+{
+"name": "Gandhinagar",
+"aliases": [],
+"links": 89
+},
+{
+"name": "Hama",
+"aliases": [
+"Epiphanea",
+"Epiphaneia, Syria",
+"Epiphania",
+"Hamah",
+"Hamath",
+"Mint of Epiphaneia, Syria"
+],
+"links": 89
+},
+{
+"name": "Kirkuk",
+"aliases": [
+"Karkuk",
+"Kerkûk"
+],
+"links": 89
+},
+{
+"name": "Kozhikode",
+"aliases": [
+"Calicut"
+],
+"links": 89
+},
+{
+"name": "Mangaluru",
+"aliases": [
+"Kodiyala",
+"Maikal",
+"Mangalapuram",
+"Mangalore",
+"Mangaluru, India",
+"Mangaluru, Karnataka",
+"Manglur"
+],
+"links": 89
+},
+{
+"name": "Naha",
+"aliases": [
+"Napa"
+],
+"links": 89
+},
+{
+"name": "Najaf",
+"aliases": [
+"Al-Najaf Al-Ashraf",
+"An Najaf",
+"An Najaf Al Ashraf"
+],
+"links": 89
+},
+{
+"name": "Nishapur",
+"aliases": [
+"Abarshahr",
+"Aparshahr",
+"Neyshabur",
+"Nisapur",
+"Nishabur",
+"Raēvant"
+],
+"links": 89
+},
+{
+"name": "Ajmer",
+"aliases": [
+"Ajaymeru",
+"Ajmer City",
+"Ajmer sarif"
+],
+"links": 88
+},
+{
+"name": "Aqaba",
+"aliases": [
+"Akaba",
+"Al Aqaba",
+"al-ʻAqabah",
+"ʻAqabah"
+],
+"links": 88
+},
+{
+"name": "Luoyang",
+"aliases": [
+"Jingluo",
+"Loyang",
+"Luoyi",
+"Shendu",
+"Xijing"
+],
+"links": 88
+},
+{
+"name": "Nashik",
+"aliases": [
+"Nasik"
+],
+"links": 88
+},
+{
+"name": "Nukus",
+"aliases": [
+"Nókis"
+],
+"links": 88
+},
+{
+"name": "Xining",
+"aliases": [
+"Hsi-ning",
+"Hsi-ning Shih",
+"Hsi-ning-fu",
+"Qingtang cheng",
+"Sining",
+"Sining-fu",
+"Xining Fu",
+"Xining Shi",
+"Xiningfu"
+],
+"links": 88
+},
+{
+"name": "Ashkelon",
+"aliases": [
+"Ascalon",
+"Ashqelon",
+"Mint of Ascalon"
+],
+"links": 87
+},
+{
+"name": "Hamamatsu",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Imphal",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Latakia",
+"aliases": [
+"Latakiyah",
+"Lattaki"
+],
+"links": 87
+},
+{
+"name": "Rasht",
+"aliases": [
+"Racht",
+"Rascht",
+"Recht",
+"Resht"
+],
+"links": 87
+},
+{
+"name": "Sinop",
+"aliases": [
+"Sinop City",
+"Sinope"
+],
+"links": 87
+},
+{
+"name": "Tikrit",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Aurangabad",
+"aliases": [
+"Aurangābād",
+"Chhatrapati Sambhajinagar"
+],
+"links": 86
+},
+{
+"name": "Hamadan",
+"aliases": [
+"Hamedan"
+],
+"links": 86
+},
+{
+"name": "Sharjah",
+"aliases": [],
+"links": 86
+},
+{
+"name": "Suwon",
+"aliases": [
+"Suwon-si"
+],
+"links": 86
+},
+{
+"name": "Tarsus",
+"aliases": [
+"Mint of Tarsus"
+],
+"links": 86
+},
+{
+"name": "Vijayawada",
+"aliases": [
+"Bezawada"
+],
+"links": 86
+},
+{
+"name": "Bandar Abbas",
+"aliases": [
+"Bandar-e Abbas",
+"Gombroon"
+],
+"links": 85
+},
+{
+"name": "Dammam",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Dongguan",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Kermanshah",
+"aliases": [
+"Bakhtaran",
+"Bākhtarān",
+"Kermānshāhān",
+"Qahremānshahr"
+],
+"links": 85
+},
+{
+"name": "Meerut",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Okayama",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Urmia",
+"aliases": [
+"Urumia",
+"Urumiah",
+"Urumiya"
+],
+"links": 85
+},
+{
+"name": "Xiamen",
+"aliases": [
+"Aimoey",
+"Amoy",
+"Hiamen",
+"Hsiamen",
+"Siamen",
+"Xia-men"
+],
+"links": 85
+},
+{
+"name": "Yuzhno-Sakhalinsk",
+"aliases": [
+"Toyohara",
+"Vladimirovka"
+],
+"links": 85
+},
+{
+"name": "Adıyaman",
+"aliases": [
+"Adıyaman City",
+"Hısnımansur"
+],
+"links": 84
+},
+{
+"name": "Fukushima",
+"aliases": [
+"Hukushima"
+],
+"links": 84
+},
+{
+"name": "Ghazni",
+"aliases": [
+"Gajani",
+"Ghuzni"
+],
+"links": 84
+},
+{
+"name": "Siem Reap",
+"aliases": [
+"Great Gate to Angkor"
+],
+"links": 84
+},
+{
+"name": "Srivijayapuram",
+"aliases": [
+"Port Blair",
+"Sri Vijay Puram",
+"Sri Vijaya Puram"
+],
+"links": 84
+},
+{
+"name": "Udaipur",
+"aliases": [
+"Oodeypore",
+"Udaipur City",
+"Udayapura"
+],
+"links": 84
+},
+{
+"name": "Abadan",
+"aliases": [
+"Ābadān"
+],
+"links": 83
+},
+{
+"name": "Aktau",
+"aliases": [
+"Aqtau"
+],
+"links": 83
+},
+{
+"name": "Aktobe",
+"aliases": [
+"Aktjubinsk",
+"Aktubinsk",
+"Aktyubinsk",
+"Aqtobe"
+],
+"links": 83
+},
+{
+"name": "Biên Hòa",
+"aliases": [
+"Bien Hoa"
+],
+"links": 83
+},
+{
+"name": "Erzincan",
+"aliases": [
+"Erzincan City",
+"Erzingan"
+],
+"links": 83
+},
+{
+"name": "Fergana",
+"aliases": [
+"Farghana",
+"Farghona",
+"Ferghana",
+"New Margelan",
+"Novi Margelan"
+],
+"links": 83
+},
+{
+"name": "Hohhot",
+"aliases": [
+"Guihua",
+"Guisui",
+"Huhehaote",
+"Hushi",
+"Höh hot",
+"Höh Hot",
+"Höhhot",
+"Khökh Khot",
+"Kui-hua",
+"Kui-hua-cheng",
+"Kuku Khoto",
+"Kuku-khoto",
+"Kwei-hwa",
+"Kwei-hwa-cheng",
+"Kwei-hwa-ching",
+"Kwei-kwa-cheng",
+"Kwei-sui",
+"Kweihua",
+"Qingshi"
+],
+"links": 83
+},
+{
+"name": "Jabalpur",
+"aliases": [
+"Jubbulpore"
+],
+"links": 83
+},
+{
+"name": "Kurgan",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Raqqa",
+"aliases": [
+"ar-Rakka",
+"ar-Raqa",
+"ar-Raqqa",
+"ar-Raqqah",
+"Leontopolis",
+"Rakka",
+"Raqa",
+"Raqqah"
+],
+"links": 83
+},
+{
+"name": "Tokat",
+"aliases": [
+"Dazimon",
+"Tokat City"
+],
+"links": 83
+},
+{
+"name": "Adapazarı",
+"aliases": [
+"Adapazarı district"
+],
+"links": 82
+},
+{
+"name": "Aomori",
+"aliases": [],
+"links": 82
+},
+{
+"name": "Atyrau",
+"aliases": [
+"Guryev"
+],
+"links": 82
+},
+{
+"name": "Aydın",
+"aliases": [
+"Aydin"
+],
+"links": 82
+},
+{
+"name": "Bukan",
+"aliases": [],
+"links": 82
+},
+{
+"name": "Cherkessk",
+"aliases": [],
+"links": 82
+},
+{
+"name": "Cần Thơ",
+"aliases": [
+"Thành phố Cần Thơ"
+],
+"links": 82
+},
+{
+"name": "Faridabad",
+"aliases": [
+"Farīdābād"
+],
+"links": 82
+},
+{
+"name": "Jamshedpur",
+"aliases": [
+"Tatanagar"
+],
+"links": 82
+},
+{
+"name": "Khujand",
+"aliases": [
+"Chujand",
+"Judzhand",
+"Juyand",
+"Khodjent",
+"Khojent",
+"Khudzhand",
+"Leninabad"
+],
+"links": 82
+},
+{
+"name": "Kuching",
+"aliases": [
+"City of Kuching",
+"Kuching City"
+],
+"links": 82
+},
+{
+"name": "Yevpatoriya",
+"aliases": [
+"Eupatoria",
+"Yevpatoria",
+"Yevpatoriia"
+],
+"links": 82
+},
+{
+"name": "Akita",
+"aliases": [],
+"links": 81
+},
+{
+"name": "Aligarh",
+"aliases": [
+"Aligarh, Uttar Pradesh",
+"Allygurh",
+"Coel",
+"Col",
+"Kol",
+"Ramgarh",
+"Ramghur"
+],
+"links": 81
+},
+{
+"name": "Bingöl",
+"aliases": [
+"Bingöl City"
+],
+"links": 81
+},
+{
+"name": "Foshan",
+"aliases": [],
+"links": 81
+},
+{
+"name": "George Town",
+"aliases": [
+"Penang City"
+],
+"links": 81
+},
+{
+"name": "Hakodate",
+"aliases": [],
+"links": 81
+},
+{
+"name": "Iğdır",
+"aliases": [
+"Iğdır City"
+],
+"links": 81
+},
+{
+"name": "Kerman",
+"aliases": [
+"Carmania",
+"Kermun",
+"Kermān",
+"Kirman"
+],
+"links": 81
+},
+{
+"name": "Kota Kinabalu",
+"aliases": [
+"Jesselton",
+"Nature Resort City"
+],
+"links": 81
+},
+{
+"name": "Matsuyama",
+"aliases": [
+"Matsuyama, Ehime",
+"Matsuyama, Japan"
+],
+"links": 81
+},
+{
+"name": "Shahrisabz",
+"aliases": [
+"Kesh",
+"Kish",
+"Shakhrisyabz"
+],
+"links": 81
+},
+{
+"name": "Tainan",
+"aliases": [
+"Fucheng",
+"Hú-siânn",
+"Nanying",
+"Tai-wan",
+"Tainan City",
+"Tainan, Taiwan",
+"Thaiwan",
+"Thòi-nàm",
+"Tâi-lâm"
+],
+"links": 81
+},
+{
+"name": "Ujjain",
+"aliases": [
+"Oojein, Malwa",
+"Ujjayini",
+"Ujjayinī"
+],
+"links": 81
+},
+{
+"name": "Amol",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Gifu",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Multan",
+"aliases": [
+"Mooltan",
+"Moultan"
+],
+"links": 80
+},
+{
+"name": "Taichung",
+"aliases": [
+"Taichung City",
+"Taichū",
+"Taizhong",
+"Thòi-chûng",
+"Tâi-tiong"
+],
+"links": 80
+},
+{
+"name": "Yinchuan",
+"aliases": [
+"City of Yinchuan",
+"Ninghia",
+"Ningsia",
+"Ningxia",
+"Yinchuan City",
+"Yinchuan Shi"
+],
+"links": 80
+},
+{
+"name": "Al Ain",
+"aliases": [
+"Garden City",
+"The Spring"
+],
+"links": 79
+},
+{
+"name": "Andijan",
+"aliases": [
+"Andijon"
+],
+"links": 79
+},
+{
+"name": "Dispur",
+"aliases": [
+"Guwahati Tea Auction Centre"
+],
+"links": 79
+},
+{
+"name": "Guilin",
+"aliases": [
+"Kweilin"
+],
+"links": 79
+},
+{
+"name": "Hyderabad",
+"aliases": [
+"Hyderabad, Pakistan",
+"Hyderabad, Sindh",
+"Neroon Kot",
+"Nerun Kot",
+"Nerunkot"
+],
+"links": 79
+},
+{
+"name": "Muş",
+"aliases": [
+"Muş City"
+],
+"links": 79
+},
+{
+"name": "Ningbo",
+"aliases": [
+"Ming-chou",
+"Mingchow",
+"Mingzhou",
+"Nhingpo",
+"Nimpo",
+"Ning-po",
+"Ningpo",
+"Yin Hsien",
+"Yin-hsien",
+"Yinxian"
+],
+"links": 79
+},
+{
+"name": "Pavlodar",
+"aliases": [
+"Imakia",
+"Imakiya",
+"Imekia",
+"Jamisch",
+"Khakan Kimak",
+"Khakan-Kimak",
+"Pavldar",
+"Yamakkiyya",
+"Yimakiya",
+"Yimäkiya"
+],
+"links": 79
+},
+{
+"name": "Sari",
+"aliases": [
+"Sari, Iran",
+"Shahr-i-Sari",
+"Shari-Sari",
+"Sāri"
+],
+"links": 79
+},
+{
+"name": "Tiruchirappalli",
+"aliases": [
+"Tiruchi",
+"Trichinopoli",
+"Trichinopoly",
+"Trichy"
+],
+"links": 79
+},
+{
+"name": "Arak",
+"aliases": [
+"Arak, Iran"
+],
+"links": 78
+},
+{
+"name": "Ghaziabad",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Jalalabad",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Karaman",
+"aliases": [
+"Karaman City",
+"Laranda"
+],
+"links": 78
+},
+{
+"name": "Mardin",
+"aliases": [
+"Maride",
+"Moha"
+],
+"links": 78
+},
+{
+"name": "Morioka",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Nizhny Tagil",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Pokhara",
+"aliases": [
+"Lekhnath",
+"Pokhara Lekhnath Metropolitan City"
+],
+"links": 78
+},
+{
+"name": "Shantou",
+"aliases": [
+"Shantou Shi",
+"Souatoou",
+"Swatow"
+],
+"links": 78
+},
+{
+"name": "Ta'if",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Tekirdağ",
+"aliases": [
+"Rodosto",
+"Tekfur Dagh",
+"Tekirdag"
+],
+"links": 78
+},
+{
+"name": "Biysk",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Gorgan",
+"aliases": [
+"Astarabad",
+"Astrabad",
+"Gurgen"
+],
+"links": 77
+},
+{
+"name": "Kamakura",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Kufa",
+"aliases": [
+"al-Kūfa"
+],
+"links": 77
+},
+{
+"name": "Murom",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Naberezhnye Chelny",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Osmaniye",
+"aliases": [
+"Osmaniye City"
+],
+"links": 77
+},
+{
+"name": "Qazvin",
+"aliases": [
+"Ghazvin",
+"Kasbin"
+],
+"links": 77
+},
+{
+"name": "Rajkot",
+"aliases": [
+"Rajcote",
+"Rajcote, India",
+"Rajkot, India"
+],
+"links": 77
+},
+{
+"name": "Semey",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Thane",
+"aliases": [
+"Kukin Tan",
+"Kukin Tana",
+"Tana Mayambu",
+"Thana",
+"Thané",
+"Thānā"
+],
+"links": 77
+},
+{
+"name": "Almetyevsk",
+"aliases": [
+"Älmät"
+],
+"links": 76
+},
+{
+"name": "Bolu",
+"aliases": [
+"Bolu City"
+],
+"links": 76
+},
+{
+"name": "Isparta",
+"aliases": [
+"Isparta City"
+],
+"links": 76
+},
+{
+"name": "Jhansi",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Oral",
+"aliases": [
+"Uralsk"
+],
+"links": 76
+},
+{
+"name": "Qaem Shahr",
+"aliases": [
+"Ghaemshahr",
+"Qa'em-Shahr",
+"Qaemshahr",
+"Shāhi",
+"Ŝāhi"
+],
+"links": 76
+},
+{
+"name": "Rize",
+"aliases": [
+"Rhizaeum",
+"Rhizaion",
+"Rhizus",
+"Rize City",
+"Rizeon"
+],
+"links": 76
+},
+{
+"name": "Siirt",
+"aliases": [
+"Siirt City"
+],
+"links": 76
+},
+{
+"name": "Surgut",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Taraz",
+"aliases": [
+"Dzhambul",
+"Yangi",
+"Zhambyl"
+],
+"links": 76
+},
+{
+"name": "Wuxi",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Armavir",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Balıkesir",
+"aliases": [
+"Balikesir"
+],
+"links": 75
+},
+{
+"name": "Bushehr",
+"aliases": [
+"Antiochia in Persis",
+"Bandar Bushehr",
+"Boushehr",
+"Busehr",
+"Bushire"
+],
+"links": 75
+},
+{
+"name": "Netanya",
+"aliases": [
+"Natanya",
+"Nathania",
+"Natāniyā",
+"Netanja"
+],
+"links": 75
+},
+{
+"name": "Oskemen",
+"aliases": [
+"Ust-Kamenogorsk"
+],
+"links": 75
+},
+{
+"name": "Rybinsk",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Sulaymaniyah",
+"aliases": [
+"Silemani",
+"Slemani",
+"Sulaimani"
+],
+"links": 75
+},
+{
+"name": "Yalova",
+"aliases": [
+"Yalova City"
+],
+"links": 75
+},
+{
+"name": "Zahedan",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Zhuhai",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Ağrı",
+"aliases": [
+"Ağrı City",
+"Karaköse"
+],
+"links": 74
+},
+{
+"name": "Bikaner",
+"aliases": [
+"Bekaner"
+],
+"links": 74
+},
+{
+"name": "Giresun",
+"aliases": [
+"Cerasonte",
+"Giresun City"
+],
+"links": 74
+},
+{
+"name": "Ipoh",
+"aliases": [],
+"links": 74
+},
+{
+"name": "Khasavyurt",
+"aliases": [],
+"links": 74
+},
+{
+"name": "Namangan",
+"aliases": [],
+"links": 74
+},
+{
+"name": "Puri",
+"aliases": [
+"Jaggannatha",
+"Juggernaut",
+"Sri Jagannath Dham"
+],
+"links": 74
+},
+{
+"name": "Toyama",
+"aliases": [
+"Toyama-shi"
+],
+"links": 74
+},
+{
+"name": "Engels",
+"aliases": [
+"Kosakenstadt"
+],
+"links": 73
+},
+{
+"name": "Gaya",
+"aliases": [
+"Gyah"
+],
+"links": 73
+},
+{
+"name": "Jahrom",
+"aliases": [],
+"links": 73
+},
+{
+"name": "Kyzylorda",
+"aliases": [
+"Ak-Mechet",
+"Fort-Perovsky",
+"Kyzyl-Orda",
+"Kzyl-Orda",
+"Perovsk",
+"Qyzylorda"
+],
+"links": 73
+},
+{
+"name": "Navi Mumbai",
+"aliases": [
+"New Bombay",
+"New Mumbai"
+],
+"links": 73
+},
+{
+"name": "Nevşehir",
+"aliases": [
+"Muşkara",
+"Neapolis",
+"Nevşehir City"
+],
+"links": 73
+},
+{
+"name": "Sanandaj",
+"aliases": [
+"Sanandaj, Iran",
+"Sanandaj, Kurdistan"
+],
+"links": 73
+},
+{
+"name": "Türkmenabat",
+"aliases": [
+"Amul",
+"Chardzhou",
+"Leninsk",
+"Çärjew",
+"Āmul"
+],
+"links": 73
+},
+{
+"name": "Zonguldak",
+"aliases": [
+"Sandraka",
+"Sandrake",
+"Zonguldak City"
+],
+"links": 73
+},
+{
+"name": "Achinsk",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Kırşehir",
+"aliases": [
+"Kırşehir City"
+],
+"links": 72
+},
+{
+"name": "Mytishchi",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Novocherkassk",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Orsk",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Sagamihara",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Sergiyev Posad",
+"aliases": [
+"Sergiev Posad",
+"Zagorsk"
+],
+"links": 72
+},
+{
+"name": "Sterlitamak",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Uşak",
+"aliases": [
+"Uşak City"
+],
+"links": 72
+},
+{
+"name": "Deir ez-Zor",
+"aliases": [
+"Dayr al-Zūr",
+"Dayr az-Zawr",
+"Deir ez Zor",
+"Der Ezzor",
+"Der-ez-Zor"
+],
+"links": 71
+},
+{
+"name": "Düzce",
+"aliases": [
+"Düzce City"
+],
+"links": 71
+},
+{
+"name": "Karabük",
+"aliases": [
+"Karabük City"
+],
+"links": 71
+},
+{
+"name": "Khorramabad",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Kilis",
+"aliases": [
+"Kilis City"
+],
+"links": 71
+},
+{
+"name": "Kota",
+"aliases": [
+"Kotah"
+],
+"links": 71
+},
+{
+"name": "Sakai",
+"aliases": [
+"Sakai-shi"
+],
+"links": 71
+},
+{
+"name": "Sylhet",
+"aliases": [
+"Srihatta nagara",
+"Sylhet Mahanagar",
+"Sylhet town",
+"The city of Srihatta"
+],
+"links": 71
+},
+{
+"name": "Takamatsu",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Tartus",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Toyota",
+"aliases": [
+"Koromo",
+"Toyota City",
+"Toyota-shi"
+],
+"links": 71
+},
+{
+"name": "Ōita-shi",
+"aliases": [
+"Oita",
+"Oita City",
+"Oita-shi",
+"Ooita-shi",
+"Ōita City"
+],
+"links": 71
+},
+{
+"name": "Kastamonu",
+"aliases": [
+"Kastamonu City",
+"Tumana"
+],
+"links": 70
+},
+{
+"name": "Kollam",
+"aliases": [
+"Coylan",
+"Coylang",
+"Desinganadu",
+"Kollam, India",
+"Kollam, Kerala",
+"Land of Cashewnuts",
+"Quilon",
+"Tarshish"
+],
+"links": 70
+},
+{
+"name": "Kostanay",
+"aliases": [
+"Kоstanay",
+"Qostanai"
+],
+"links": 70
+},
+{
+"name": "Mary",
+"aliases": [
+"Merv"
+],
+"links": 70
+},
+{
+"name": "Otsu",
+"aliases": [
+"Otsu City",
+"Otsu-shi"
+],
+"links": 70
+},
+{
+"name": "Solapur",
+"aliases": [
+"Solāpur"
+],
+"links": 70
+},
+{
+"name": "Stary Oskol",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Tangshan",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Tokushima",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Wakayama",
+"aliases": [
+"Wakayama City",
+"Wakayama-shi"
+],
+"links": 70
+},
+{
+"name": "Asahikawa",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Gurgaon",
+"aliases": [
+"Gurugram"
+],
+"links": 69
+},
+{
+"name": "Himeji",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Idlib",
+"aliases": [
+"Edlib, Syria",
+"Idleb",
+"Idleb, Syria",
+"Idlib, Idlib",
+"Idlib, Syria"
+],
+"links": 69
+},
+{
+"name": "Kōchi-shi",
+"aliases": [
+"Kochi",
+"Kochi City",
+"Kochi-shi"
+],
+"links": 69
+},
+{
+"name": "Niğde",
+"aliases": [
+"Niğde City"
+],
+"links": 69
+},
+{
+"name": "Salavat",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Tabuk",
+"aliases": [
+"Tabouk",
+"Tabuk, Saudi Arabia"
+],
+"links": 69
+},
+{
+"name": "Turkistan",
+"aliases": [
+"Hazrat-i Turkestan",
+"Turkestan",
+"Turkiston",
+"Türkistan",
+"Yasi"
+],
+"links": 69
+},
+{
+"name": "Yamagata",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Yokosuka",
+"aliases": [
+"Yokosuka-shi"
+],
+"links": 69
+},
+{
+"name": "Zanjan",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Cuttack",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Gujranwala",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Kaifeng",
+"aliases": [
+"Bian",
+"Bianjing",
+"Bianliang",
+"Bianzhou",
+"Daliang",
+"Dongjing",
+"Eastern Capital",
+"K'ai-feng",
+"K'ai-feng Shih",
+"K'ai-feng-fu",
+"Kai-feng",
+"Kai-feng Shih",
+"Kai-feng-fu",
+"Kai-fong",
+"Kaifeng Shi",
+"Kaifengfu",
+"Kaifoung",
+"Kaï-feng",
+"Kaïfoung",
+"Pien",
+"Pien-ching",
+"Pien-chou",
+"Pien-liang",
+"Ta-liang",
+"Tung-ching"
+],
+"links": 68
+},
+{
+"name": "Kaspiysk",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Mito",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Miyazaki",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Nizhnevartovsk",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Shah Alam",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Shimonoseki",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Termez",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Tottori",
+"aliases": [
+"Tottori City"
+],
+"links": 68
+},
+{
+"name": "Yozgat",
+"aliases": [
+"Yozgat City"
+],
+"links": 68
+},
+{
+"name": "Zlatoust",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Asansol",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Bam",
+"aliases": [
+"Bam, Iran"
+],
+"links": 67
+},
+{
+"name": "Bareilly",
+"aliases": [
+"Bareily",
+"Bareli",
+"Bareli Sharif"
+],
+"links": 67
+},
+{
+"name": "Belgaum",
+"aliases": [
+"Belagavi",
+"Belgaon"
+],
+"links": 67
+},
+{
+"name": "Daşoguz",
+"aliases": [
+"Dashkhovuz",
+"Dashoguz",
+"Daşhowuz",
+"Tashauz"
+],
+"links": 67
+},
+{
+"name": "Fukui",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Jamnagar",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Kofu",
+"aliases": [
+"Kofu City",
+"Kofu-shi",
+"Kōfu",
+"Kōfu-shi"
+],
+"links": 67
+},
+{
+"name": "Kota Bharu",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Kırıkkale",
+"aliases": [
+"Kırıkkale City"
+],
+"links": 67
+},
+{
+"name": "Abbottabad",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Amagasaki",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Balakovo",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Baotou",
+"aliases": [
+"Baotou Shi",
+"Pao-t'ou",
+"Pao-t'ou Shih",
+"Pao-tou",
+"Pao-tou Shih"
+],
+"links": 66
+},
+{
+"name": "Changzhou",
+"aliases": [
+"Chángzhōu"
+],
+"links": 66
+},
+{
+"name": "Hamhung",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Khulna",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Neftekamsk",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Piranshahr",
+"aliases": [
+"Piranshar"
+],
+"links": 66
+},
+{
+"name": "Quanzhou",
+"aliases": [
+"Ch'uan-chou",
+"Ch'üan-chou",
+"Chin-chiu",
+"Chinchew",
+"Chinchu",
+"Choanchiu",
+"Chuan Chiew",
+"Chuan Chou",
+"Chuanchow",
+"Cyuanjhou",
+"Sintschieuw",
+"Tsuan-tsiu",
+"Tsuantchew"
+],
+"links": 66
+},
+{
+"name": "Ta'izz",
+"aliases": [
+"Taiz"
+],
+"links": 66
+},
+{
+"name": "Turpan",
+"aliases": [
+"T'u-lu-fan",
+"T'u-lu-fan Shih",
+"T'u-lu-fan-shih",
+"Tourfan",
+"Tourpan",
+"Tulufan",
+"Tulufan Shi",
+"Tulufanshi",
+"Turfan",
+"Turfan City",
+"Turpan City"
+],
+"links": 66
+},
+{
+"name": "Utsunomiya",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Warangal",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Wenzhou",
+"aliases": [
+"Wen-chau",
+"Wentchew",
+"Yung-Chia Ch'eng",
+"Yung-Chia Cheng"
+],
+"links": 66
+},
+{
+"name": "Yamaguchi",
+"aliases": [
+"Yamaguti"
+],
+"links": 66
+},
+{
+"name": "Ahilyanagar",
+"aliases": [
+"Ahmadnagrar"
+],
+"links": 65
+},
+{
+"name": "Battambang",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Daraa",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Dimitrovgrad",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Gorakhpur",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Holon",
+"aliases": [
+"Children's City",
+"H̱olon"
+],
+"links": 65
+},
+{
+"name": "Kashan",
+"aliases": [
+"Kachan",
+"Kāshān"
+],
+"links": 65
+},
+{
+"name": "Matsue",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Matsumoto",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Nampo",
+"aliases": [
+"Namp'o",
+"Nampho",
+"Nampho City",
+"Nampho-si",
+"Nampo-si"
+],
+"links": 65
+},
+{
+"name": "Nizhnekamsk",
+"aliases": [
+"Tubän Kama"
+],
+"links": 65
+},
+{
+"name": "Petropavl",
+"aliases": [
+"Petropavlovsk"
+],
+"links": 65
+},
+{
+"name": "Saga",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Takasaki",
+"aliases": [
+"Takasaki-shi"
+],
+"links": 65
+},
+{
+"name": "Thrissur",
+"aliases": [
+"Thrichur",
+"Thrissivaperur",
+"Thrissur, Kerala"
+],
+"links": 65
+},
+{
+"name": "Anshan",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Bat Yam",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Bataysk",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Bhagalpur",
+"aliases": [
+"Baugelepoor",
+"Baugelpoor",
+"Bhaugulpore",
+"Boglipore"
+],
+"links": 64
+},
+{
+"name": "Lijiang",
+"aliases": [
+"Li-chiang",
+"Likiang"
+],
+"links": 64
+},
+{
+"name": "Nakhon Ratchasima",
+"aliases": [
+"Khorat",
+"Korat",
+"Nakhon Ratchasima City Municipality"
+],
+"links": 64
+},
+{
+"name": "Nasiriyah",
+"aliases": [
+"An-Nasiriyah",
+"Naserya"
+],
+"links": 64
+},
+{
+"name": "Semnan",
+"aliases": [
+"Semnan, Iran"
+],
+"links": 64
+},
+{
+"name": "Thanjavur",
+"aliases": [
+"Tanjore",
+"Tanjore, Thanjai"
+],
+"links": 64
+},
+{
+"name": "Tsu",
+"aliases": [
+"Tu"
+],
+"links": 64
+},
+{
+"name": "Yantai",
+"aliases": [
+"Chefoo",
+"Chi-Fu",
+"Tchefou",
+"Yentai",
+"Zhifu"
+],
+"links": 64
+},
+{
+"name": "Al Hudaydah",
+"aliases": [
+"Hodeda",
+"Hodeida",
+"Hodeidah",
+"Hudaida"
+],
+"links": 63
+},
+{
+"name": "Beppu",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Birjand",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Bojnord",
+"aliases": [
+"Bojnurd",
+"Bojnurd, Iran"
+],
+"links": 63
+},
+{
+"name": "Chongjin",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Dandong",
+"aliases": [
+"Andong",
+"Antung"
+],
+"links": 63
+},
+{
+"name": "Fukuyama",
+"aliases": [
+"Fukuyama-shi"
+],
+"links": 63
+},
+{
+"name": "Funabashi",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Fushun",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Hội An",
+"aliases": [
+"Hoi An"
+],
+"links": 63
+},
+{
+"name": "Jeonju",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Jilin City",
+"aliases": [
+"Chi-lin",
+"Chi-lin City",
+"Chi-lin Shih",
+"Jilin",
+"Jilin Shi",
+"Ki-rin",
+"Kirin"
+],
+"links": 63
+},
+{
+"name": "Kamyshin",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Kokshetau",
+"aliases": [
+"Kökshetaū"
+],
+"links": 63
+},
+{
+"name": "Lalitpur",
+"aliases": [
+"Baddan",
+"Lalita",
+"Lalita Patan",
+"Lalitpur Metropolitan City",
+"Lalitpur, Nepal",
+"Lalitpura",
+"Manigal",
+"Nekbal",
+"Nekbal City",
+"Nepal",
+"Nepal City",
+"Patan",
+"Patan Lalitpur",
+"Patana",
+"Pātan",
+"Pātana",
+"Pāṭana",
+"Yala"
+],
+"links": 63
+},
+{
+"name": "Patiala",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Qarshi",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Qiqihar",
+"aliases": [
+"Chichihar",
+"Cicigar",
+"Qiqiha'er",
+"Qiqihaer",
+"Tsitcikar",
+"Tsitsihar",
+"Tzitzikar"
+],
+"links": 63
+},
+{
+"name": "Salem",
+"aliases": [
+"Salem, Tamil Nadu"
+],
+"links": 63
+},
+{
+"name": "Saqqez",
+"aliases": [
+"Saghez",
+"Saqez",
+"Saqiz",
+"Saqqiz",
+"Seqiz"
+],
+"links": 63
+},
+{
+"name": "Shahr-e Kord",
+"aliases": [
+"Shahr Kord",
+"Shahr-e-kord",
+"Shahrekord"
+],
+"links": 63
+},
+{
+"name": "Urgench",
+"aliases": [
+"Urganch"
+],
+"links": 63
+},
+{
+"name": "Yangzhou",
+"aliases": [
+"Yang-chou",
+"Yangchou",
+"Yangchow"
+],
+"links": 63
+},
+{
+"name": "Zhongshan",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Abha",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Ajman",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Bahawalpur",
+"aliases": [
+"Bahawal Pur"
+],
+"links": 62
+},
+{
+"name": "Datong",
+"aliases": [
+"Datong Shi"
+],
+"links": 62
+},
+{
+"name": "Hachiōji-shi",
+"aliases": [
+"Hachioji",
+"Hachioji City",
+"Hachioji-shi",
+"Hachiōji"
+],
+"links": 62
+},
+{
+"name": "Hasakah",
+"aliases": [
+"al-Hasaka",
+"al-Hasakah",
+"al-Ḥasaka",
+"Hasaka",
+"Hasakeh",
+"Hassakeh",
+"Hassaké",
+"Ḥasake"
+],
+"links": 62
+},
+{
+"name": "Jiangmen",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Kanchipuram",
+"aliases": [
+"Condjeveram",
+"Conjeevaram",
+"Conjeveram",
+"Kancheepuram"
+],
+"links": 62
+},
+{
+"name": "Nishinomiya",
+"aliases": [
+"Nishinomiya City",
+"Nishinomiya-shi"
+],
+"links": 62
+},
+{
+"name": "Novocheboksarsk",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Seongnam",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Siliguri",
+"aliases": [
+"Shiliguri"
+],
+"links": 62
+},
+{
+"name": "Volzhsky",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Wonsan",
+"aliases": [
+"Wŏnsan"
+],
+"links": 62
+},
+{
+"name": "Xuzhou",
+"aliases": [
+"Hsü-chou",
+"Pengcheng",
+"Süchow",
+"Xúzhōu"
+],
+"links": 62
+},
+{
+"name": "Çorlu",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Alwar",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Berezniki",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Bhilai",
+"aliases": [
+"Bhilai Nagar"
+],
+"links": 61
+},
+{
+"name": "Chaozhou",
+"aliases": [
+"Chaochow",
+"Chiuchow",
+"Diê-ziu",
+"Teochew",
+"Tiô-chiu",
+"Tiô-tsiu"
+],
+"links": 61
+},
+{
+"name": "Irbid",
+"aliases": [
+"Arabella",
+"Arbela"
+],
+"links": 61
+},
+{
+"name": "Ramadi",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Rubtsovsk",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Saharanpur",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Sejong",
+"aliases": [
+"Sejong City",
+"Sejong smart city",
+"Sejong Special Self-Governing City"
+],
+"links": 61
+},
+{
+"name": "Yasuj",
+"aliases": [
+"Yasouj"
+],
+"links": 61
+},
+{
+"name": "Baoding",
+"aliases": [
+"Baoding Shi"
+],
+"links": 60
+},
+{
+"name": "Gyeongju",
+"aliases": [
+"Kyongiu",
+"Kyongju",
+"Kyŏngju"
+],
+"links": 60
+},
+{
+"name": "Hachinohe",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Huizhou",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Kamensk-Uralsky",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Kurume",
+"aliases": [
+"Kurume-shi"
+],
+"links": 60
+},
+{
+"name": "Liuzhou",
+"aliases": [
+"Liuchow"
+],
+"links": 60
+},
+{
+"name": "Musashino",
+"aliases": [
+"Musasino"
+],
+"links": 60
+},
+{
+"name": "Novomoskovsk",
+"aliases": [
+"Bobriki",
+"Stalinogorsk"
+],
+"links": 60
+},
+{
+"name": "Pāksē",
+"aliases": [
+"Pak se",
+"Pakxé"
+],
+"links": 60
+},
+{
+"name": "Rason",
+"aliases": [
+"Najin Sŏnbong-si",
+"Rajin-Sŏnbong"
+],
+"links": 60
+},
+{
+"name": "Toyohashi",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Uji",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Balkanabat",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Burayda",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Ilam",
+"aliases": [
+"Ilam, Iran"
+],
+"links": 59
+},
+{
+"name": "Kashiwa",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Kawagoe",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Kure",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Kōriyama",
+"aliases": [
+"Koriyama",
+"Kōriyama-shi"
+],
+"links": 59
+},
+{
+"name": "Moradabad",
+"aliases": [
+"Muradabad"
+],
+"links": 59
+},
+{
+"name": "Okazaki",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Otaru",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Shakhty",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Zhangjiajie",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Akola",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Anyang",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Barishal",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Chōfu",
+"aliases": [
+"Chofu",
+"Chofu City",
+"Chofu-shi",
+"Chōfu-shi"
+],
+"links": 58
+},
+{
+"name": "Fallujah",
+"aliases": [
+"Falluja"
+],
+"links": 58
+},
+{
+"name": "Hillah",
+"aliases": [
+"Al Hillah",
+"Hilla"
+],
+"links": 58
+},
+{
+"name": "Ichinomiya",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Ise",
+"aliases": [
+"Ujiyamada"
+],
+"links": 58
+},
+{
+"name": "Kasugai",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Kurashiki",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Kushiro",
+"aliases": [
+"Kusiro"
+],
+"links": 58
+},
+{
+"name": "Mawlamyine",
+"aliases": [
+"Maulmain",
+"Moulmayn",
+"Moulmein"
+],
+"links": 58
+},
+{
+"name": "Mitaka",
+"aliases": [
+"Mitaka City"
+],
+"links": 58
+},
+{
+"name": "Novokuybyshevsk",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Novy Urengoy",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Odawara",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Oktyabrsky",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Vijayapura",
+"aliases": [
+"Bijapur"
+],
+"links": 58
+},
+{
+"name": "Aizuwakamatsu",
+"aliases": [
+"Aizu-Wakamatsu",
+"Wakamatsu"
+],
+"links": 57
+},
+{
+"name": "Duhok",
+"aliases": [
+"Dihok",
+"Dohuk",
+"Nohadra"
+],
+"links": 57
+},
+{
+"name": "Goyang",
+"aliases": [
+"Goyang-si"
+],
+"links": 57
+},
+{
+"name": "Huainan",
+"aliases": [
+"Huainan Shi"
+],
+"links": 57
+},
+{
+"name": "Kasukabe",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Machida",
+"aliases": [
+"Matida"
+],
+"links": 57
+},
+{
+"name": "Nantong",
+"aliases": [
+"City of Nantong",
+"Nan-tung",
+"Nangtong Shi",
+"Nantong City",
+"Nantung",
+"Nantungchow"
+],
+"links": 57
+},
+{
+"name": "Sasebo",
+"aliases": [
+"Sasebo City",
+"Sasebo-shi"
+],
+"links": 57
+},
+{
+"name": "Sheberghan",
+"aliases": [
+"Sheberghān",
+"Shebirghan",
+"Shibarghan",
+"Shibirghan"
+],
+"links": 57
+},
+{
+"name": "Suzuka",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Taoyuan",
+"aliases": [
+"Taoyuan City",
+"Taoyuan County, Taiwan",
+"Thohng",
+"Thoyen",
+"Thò-yèn",
+"Thô-hn̂g",
+"to rhan",
+"Toien",
+"Torhan",
+"toˇ ienˇ",
+"Tōen",
+"Tōshien"
+],
+"links": 57
+},
+{
+"name": "Wuhu",
+"aliases": [
+"Wou-hou",
+"Wu-hu"
+],
+"links": 57
+},
+{
+"name": "Yokkaichi",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Zhanjiang",
+"aliases": [
+"Chankiang",
+"Kwangchouwan",
+"Tsamkong",
+"Tsankiang"
+],
+"links": 57
+},
+{
+"name": "Anqing",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Atsugi",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Berdsk",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Chengde",
+"aliases": [
+"Chengde Prefecture",
+"Chengde Shi",
+"Jehol",
+"Rehe"
+],
+"links": 56
+},
+{
+"name": "Cox's Bazar",
+"aliases": [
+"Cox's Bazaar",
+"Palongkee",
+"Panowa"
+],
+"links": 56
+},
+{
+"name": "Dezful",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Gangneung",
+"aliases": [
+"Kangnŭng"
+],
+"links": 56
+},
+{
+"name": "Hiratsuka",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Hirosaki",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Iwaki",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Iwakuni",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Khan Yunis",
+"aliases": [
+"Chan Junis",
+"Khan Younes",
+"Khan Younis"
+],
+"links": 56
+},
+{
+"name": "Kodaira",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Koshigaya",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Lashkar Gah",
+"aliases": [
+"Bost",
+"Bust",
+"Lashkargah"
+],
+"links": 56
+},
+{
+"name": "Narita",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Noyabrsk",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Obihiro",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Pul-e Khomri",
+"aliases": [
+"Pol-e Khomri",
+"Puli Khumri"
+],
+"links": 56
+},
+{
+"name": "Qinhuangdao",
+"aliases": [
+"Chinwangtao"
+],
+"links": 56
+},
+{
+"name": "Temirtau",
+"aliases": [
+"Temirtaū"
+],
+"links": 56
+},
+{
+"name": "Tsukuba",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Yichang",
+"aliases": [
+"I-chang",
+"I-tchang",
+"Itchang"
+],
+"links": 56
+},
+{
+"name": "Zhangzhou",
+"aliases": [
+"Chiang-chiu",
+"Chiangchew",
+"Chincheo",
+"Tchang-teheou",
+"Tsiang-tsiu"
+],
+"links": 56
+},
+{
+"name": "Akashi",
+"aliases": [
+"Akashi city",
+"Akashi-shi"
+],
+"links": 55
+},
+{
+"name": "Anjō",
+"aliases": [
+"Anjo",
+"Anjo City",
+"Anjo-shi",
+"Anjō-shi"
+],
+"links": 55
+},
+{
+"name": "Babol",
+"aliases": [
+"Bârfrüsh"
+],
+"links": 55
+},
+{
+"name": "Beit Shemesh",
+"aliases": [
+"Bet Shemesh"
+],
+"links": 55
+},
+{
+"name": "Borujerd",
+"aliases": [
+"Boroojerd",
+"Boroujerd",
+"Borudjerd",
+"Borugerd",
+"Brujerd",
+"Burujird"
+],
+"links": 55
+},
+{
+"name": "Fuchū",
+"aliases": [
+"Fuchu City",
+"Fuchu-shi",
+"Fuchū-shi"
+],
+"links": 55
+},
+{
+"name": "Fuji",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Fujisawa",
+"aliases": [
+"Fujisawa-shi",
+"Hujisawa"
+],
+"links": 55
+},
+{
+"name": "Ha'il",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Hat Yai",
+"aliases": [
+"Hat Yai City Municipality"
+],
+"links": 55
+},
+{
+"name": "Ichikawa",
+"aliases": [
+"Itikawa"
+],
+"links": 55
+},
+{
+"name": "Izumo",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Koganei",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Maoming",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Matsudo",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Muzaffarpur",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Nanyang",
+"aliases": [
+"Nanyang, Henan"
+],
+"links": 55
+},
+{
+"name": "Nishitōkyō-shi",
+"aliases": [
+"Nishitokyo",
+"Nishitokyo City",
+"Nishitokyo-shi",
+"Nishitōkyō"
+],
+"links": 55
+},
+{
+"name": "Okinawa",
+"aliases": [
+"Okinawa City"
+],
+"links": 55
+},
+{
+"name": "Ray",
+"aliases": [
+"al-Rayy",
+"Ray, Iran",
+"Rayy",
+"Rey",
+"Rhages"
+],
+"links": 55
+},
+{
+"name": "Seversk",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Shaoguan",
+"aliases": [
+"Ch'u-chiang",
+"Ch'ü-chiang",
+"Chaou-choo",
+"Chaou-choo-foo",
+"Kukong",
+"Qujiang",
+"Seochew",
+"Shao-chou",
+"Shao-chou Fu",
+"Shao-chou-fu",
+"Shao-kuan",
+"Shaozhou",
+"Shaozhou Fu",
+"Shaozhoufu",
+"Shau-chew",
+"Shau-chew-fu",
+"Shau-chew-fû",
+"Shau-kuan",
+"Shauchew",
+"Shaukuan",
+"Shiuchow",
+"Shiuchow Foo",
+"Shiuchowfoo",
+"Shiukwan",
+"Xaocheu"
+],
+"links": 55
+},
+{
+"name": "Suita",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Tachikawa",
+"aliases": [
+"Tatikawa"
+],
+"links": 55
+},
+{
+"name": "Yonago",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Zhaoqing",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Zibo",
+"aliases": [
+"Tzu-po",
+"Tzu-po Shih",
+"Tzu-po-shih",
+"Zibo City",
+"Zibo Shi",
+"Ziboshi"
+],
+"links": 55
+},
+{
+"name": "Abiko",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Baqubah",
+"aliases": [
+"Baqouba"
+],
+"links": 54
+},
+{
+"name": "Bengbu",
+"aliases": [
+"Bengbu Shi",
+"Pengpu"
+],
+"links": 54
+},
+{
+"name": "Dhahran",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Ekibastuz",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Hengyang",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Hirakata",
+"aliases": [
+"Hirakata, Japan",
+"Hirakata, Osaka"
+],
+"links": 54
+},
+{
+"name": "Isesaki",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Ishinomaki",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Karamay",
+"aliases": [
+"Karamai"
+],
+"links": 54
+},
+{
+"name": "Kashmar",
+"aliases": [
+"Bosht",
+"Bousht",
+"Kashmir",
+"Keshmar",
+"Keshmir",
+"Posht",
+"Pousht",
+"Soltanabad",
+"Soltanabad, Razavi Khorasan",
+"Soltanieh",
+"Torshiz",
+"Torthith"
+],
+"links": 54
+},
+{
+"name": "Klang",
+"aliases": [
+"Kelang"
+],
+"links": 54
+},
+{
+"name": "Kuala Terengganu",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Margilan",
+"aliases": [
+"Margelan",
+"Marghilon",
+"Marguelane"
+],
+"links": 54
+},
+{
+"name": "Nevinnomyssk",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Novoshakhtinsk",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Seremban",
+"aliases": [
+"Seremban City"
+],
+"links": 54
+},
+{
+"name": "Sinuiju",
+"aliases": [
+"Shingishu",
+"Sinuiju-si"
+],
+"links": 54
+},
+{
+"name": "Udon Thani",
+"aliases": [
+"Udon Thani City Municipality"
+],
+"links": 54
+},
+{
+"name": "Weihai",
+"aliases": [
+"Oie-Hai-Oie",
+"Port Edward",
+"Wei Hai",
+"Wei Hai Wei",
+"Wei-hai",
+"Wei-hai-wei",
+"Weihaiwei"
+],
+"links": 54
+},
+{
+"name": "Xianyang",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Ōme",
+"aliases": [
+"Ome",
+"Ome City",
+"Ōme City"
+],
+"links": 54
+},
+{
+"name": "Ōta-shi",
+"aliases": [
+"Ota",
+"Ota City",
+"Ota-shi",
+"Ōta"
+],
+"links": 54
+},
+{
+"name": "Asaka",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Beihai",
+"aliases": [
+"Pak Hoi",
+"Pak-hoi",
+"Pakhoi"
+],
+"links": 53
+},
+{
+"name": "Benxi",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Chuncheon",
+"aliases": [
+"Ch'unch'ŏn",
+"Chun Chon City",
+"Chunchŏn"
+],
+"links": 53
+},
+{
+"name": "Cizre",
+"aliases": [
+"Jizre"
+],
+"links": 53
+},
+{
+"name": "Erode",
+"aliases": [
+"Turmeric City"
+],
+"links": 53
+},
+{
+"name": "Ganzhou",
+"aliases": [
+"Can-tcheou",
+"Cane-tcheou",
+"Kan-chew",
+"Kanchow"
+],
+"links": 53
+},
+{
+"name": "Heihe",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Higashiōsaka-shi",
+"aliases": [
+"Higashiosaka",
+"Higashiosaka City",
+"Higashiosaka-shi",
+"Higashiōsaka"
+],
+"links": 53
+},
+{
+"name": "Imabari",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Kaysone Phomvihane",
+"aliases": [
+"Kaisǭn Phomvihān City",
+"Kaysone Phomvihane City",
+"Kaysone Phomvihane District",
+"Khanthabouli",
+"Khanthaboury District",
+"Muang Kaysone Phomvihane",
+"Muang Khanthabouli",
+"Savannakhet District"
+],
+"links": 53
+},
+{
+"name": "Kitami",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Kopeysk",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Meizhou",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Nagaoka",
+"aliases": [
+"Nagaoka-shi"
+],
+"links": 53
+},
+{
+"name": "Nanping",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Shaoxing",
+"aliases": [
+"Kuaiji",
+"Shanyin",
+"Shao-hing",
+"Shao-hing-foo",
+"Shao-hing-fu",
+"Shao-hsing",
+"Shao-hsing Foo",
+"Shao-hsing-fu",
+"Shaohing",
+"Shaohsing",
+"Shaoshing",
+"Shaoxing Fu",
+"Shaoxingfu"
+],
+"links": 53
+},
+{
+"name": "Sukkur",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Tama",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Ulhasnagar",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Weifang",
+"aliases": [
+"Wei-fang Shih",
+"Wei-fang-shih",
+"Weifang Shi",
+"Weifangshi"
+],
+"links": 53
+},
+{
+"name": "Zhangjiakou",
+"aliases": [
+"Cang-tia-kchou",
+"Chang-chia K'ou",
+"Chang-chia-k'ou",
+"Changchiakow",
+"Changkiakow",
+"Chighulaltu Qaghalgha",
+"Chuulalt Khaalga",
+"Imiyangga Jase",
+"Kalagan",
+"Kalgan",
+"Khaalgan",
+"Qaalgan",
+"Qaghalgha",
+"Zhangjia Kou"
+],
+"links": 53
+},
+{
+"name": "Zhangye",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Ashikaga",
+"aliases": [
+"Asikaga"
+],
+"links": 52
+},
+{
+"name": "Biratnagar",
+"aliases": [
+"Gograha"
+],
+"links": 52
+},
+{
+"name": "Daqing",
+"aliases": [
+"Taching"
+],
+"links": 52
+},
+{
+"name": "Higashimurayama",
+"aliases": [
+"Higashi-Murayama",
+"Higasimurayama"
+],
+"links": 52
+},
+{
+"name": "Hikone",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Jiujiang",
+"aliases": [
+"Chiang-ch'ou",
+"Chiang-chou",
+"Chiu-chiang",
+"Chiu-chiang Fu",
+"Chiu-chiang-fu",
+"Dingjiang",
+"Hsun-yang",
+"Hun-yang",
+"Jiangzhou",
+"Jiujiang Fu",
+"Jiujiangfu",
+"Keang Chow",
+"Keang-Chow",
+"Keangchow",
+"Kew Keang",
+"Kew Keang Foo",
+"Kew Keang Fu",
+"Kew-keang Foo",
+"Kewkiang",
+"Kioukiang",
+"Kiu Kiang",
+"Kiukiang",
+"Kiukiang Foo",
+"Kiukiang Fu",
+"Kui Keang",
+"Sin-Yang",
+"Ting-chiang",
+"Ting-Keang",
+"Xunyang"
+],
+"links": 52
+},
+{
+"name": "Jizzakh",
+"aliases": [
+"Jizzax"
+],
+"links": 52
+},
+{
+"name": "Kut",
+"aliases": [
+"Al Kut",
+"Kut El Amara"
+],
+"links": 52
+},
+{
+"name": "Larkana",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Longyan",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Marugame",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Mudanjiang",
+"aliases": [
+"Mutankiang"
+],
+"links": 52
+},
+{
+"name": "Najran",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Nishio",
+"aliases": [
+"Nisio"
+],
+"links": 52
+},
+{
+"name": "Numazu",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Pervouralsk",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Putian",
+"aliases": [
+"Henghua",
+"Henghwa",
+"Hing Hoa",
+"Hing-hua̍",
+"Hinghoa",
+"Hinghua",
+"Hsing-hua",
+"P'u-tien",
+"Pu-tien",
+"Pó-chéng",
+"Xinghua"
+],
+"links": 52
+},
+{
+"name": "Rangpur",
+"aliases": [
+"Rangpur, Bangladesh"
+],
+"links": 52
+},
+{
+"name": "Tomakomai",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Toyonaka",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Urayasu",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Xiangyang",
+"aliases": [
+"Xiangfan"
+],
+"links": 52
+},
+{
+"name": "Yao",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Akishima",
+"aliases": [
+"Akisima"
+],
+"links": 51
+},
+{
+"name": "Bergama",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Cheongju",
+"aliases": [
+"Chongju"
+],
+"links": 51
+},
+{
+"name": "Ebetsu",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Eslamshahr",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Handa",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Hatsukaichi",
+"aliases": [
+"Hatukaiti"
+],
+"links": 51
+},
+{
+"name": "Hino",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Hisar",
+"aliases": [
+"Hissar"
+],
+"links": 51
+},
+{
+"name": "Ichihara",
+"aliases": [
+"Itihara"
+],
+"links": 51
+},
+{
+"name": "Iizuka",
+"aliases": [
+"Iizuka-shi"
+],
+"links": 51
+},
+{
+"name": "Iwata",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Jalgaon",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Jeju",
+"aliases": [
+"Jeju City",
+"Juju-si"
+],
+"links": 51
+},
+{
+"name": "Jingzhou",
+"aliases": [
+"Kingchow"
+],
+"links": 51
+},
+{
+"name": "Jounieh",
+"aliases": [
+"Jounie"
+],
+"links": 51
+},
+{
+"name": "Jōetsu-shi",
+"aliases": [
+"Joetsu",
+"Joetsu City",
+"Joetsu-shi",
+"Jōetsu"
+],
+"links": 51
+},
+{
+"name": "Kashihara",
+"aliases": [
+"Kasihara"
+],
+"links": 51
+},
+{
+"name": "Kokubunji",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Kumagaya",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Liaoyang",
+"aliases": [
+"Liao-yang"
+],
+"links": 51
+},
+{
+"name": "Navoiy",
+"aliases": [
+"Navoiy Shahri"
+],
+"links": 51
+},
+{
+"name": "Petaling Jaya",
+"aliases": [
+"PJ"
+],
+"links": 51
+},
+{
+"name": "Pohang",
+"aliases": [
+"Po'hang",
+"Po-Hang"
+],
+"links": 51
+},
+{
+"name": "Shushtar",
+"aliases": [
+"Shūstar",
+"Toustar"
+],
+"links": 51
+},
+{
+"name": "Tai'an",
+"aliases": [
+"Municipality of Tai'an",
+"Tai-an-fu"
+],
+"links": 51
+},
+{
+"name": "Taizhou",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Takaoka",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Takatsuki",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Yingkou",
+"aliases": [
+"Newchwang",
+"Niu-chuang",
+"Niutchouang",
+"Niuzhuang",
+"Yinkoa"
+],
+"links": 51
+},
+{
+"name": "Yueyang",
+"aliases": [
+"Yochow",
+"Yuezhou"
+],
+"links": 51
+},
+{
+"name": "Zunyi",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Ageo",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Amarah",
+"aliases": [
+"Al-Amarah"
+],
+"links": 50
+},
+{
+"name": "Bago",
+"aliases": [
+"Pegu"
+],
+"links": 50
+},
+{
+"name": "Changde",
+"aliases": [
+"Changteh"
+],
+"links": 50
+},
+{
+"name": "Chigasaki",
+"aliases": [
+"Chigasaki-shi"
+],
+"links": 50
+},
+{
+"name": "Dibrugarh",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Faizabad",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Huanggang",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Itami",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Jiaxing",
+"aliases": [
+"Kashing",
+"Kia-hing",
+"Kia-hsing",
+"Kiahing",
+"Kiahsing"
+],
+"links": 50
+},
+{
+"name": "Jingdezhen",
+"aliases": [
+"Ching-te-chen",
+"Ching-tê-chên",
+"King-te-chen",
+"King-te-tchin",
+"King-teh-chen",
+"Kingtechen",
+"Kingtehchen"
+],
+"links": 50
+},
+{
+"name": "Jining",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Jiuquan",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Khoy",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Kishiwada",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Komaki",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Kuwana",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Nefteyugansk",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Niihama",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Sargodha",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Shigatse",
+"aliases": [
+"Rikaze",
+"Shigatse City",
+"Shigatse Prefecture",
+"Shigatse Special Prefecture",
+"Shigatzé",
+"Xigaze",
+"Xigazê"
+],
+"links": 50
+},
+{
+"name": "Shiyan",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Toyokawa",
+"aliases": [
+"Toyokawa-shi"
+],
+"links": 50
+},
+{
+"name": "Yancheng",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Zhenjiang",
+"aliases": [
+"Beifu",
+"Chen-chiang",
+"Chenkiang",
+"Chingkiang",
+"Chinkiang",
+"Dantu",
+"Guyang",
+"Jingkou",
+"Runzhou",
+"Tchingkiang",
+"Tchinkiang",
+"Yi",
+"Zhufang"
+],
+"links": 50
+},
+{
+"name": "Buôn Ma Thuột",
+"aliases": [
+"Ban Me Thout",
+"Ban Me Thuot",
+"Ban Mê Thuột",
+"Buon Ma Thout",
+"Buon Ma Thuot",
+"Buon Me Thuot",
+"Buonmathuot",
+"Buôn Ma Thuột city",
+"Buôn Mê Thuột",
+"Lac Giao"
+],
+"links": 49
+},
+{
+"name": "Cangzhou",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Durgapur",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Fujieda",
+"aliases": [
+"Hujieda"
+],
+"links": 49
+},
+{
+"name": "Heyuan",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Higashikurume",
+"aliases": [
+"Higashi-kurume",
+"Kurume"
+],
+"links": 49
+},
+{
+"name": "Huaibei",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Huangshi",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Hōfu-shi",
+"aliases": [
+"Hofu",
+"Hofu City",
+"Hofu-shi",
+"Hōfu"
+],
+"links": 49
+},
+{
+"name": "Ikoma",
+"aliases": [
+"Kitaikoma"
+],
+"links": 49
+},
+{
+"name": "İnegöl",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Jiamusi",
+"aliases": [
+"built up area",
+"Kiamusze"
+],
+"links": 49
+},
+{
+"name": "Jieyang",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Jinzhou",
+"aliases": [
+"Chinchow"
+],
+"links": 49
+},
+{
+"name": "Jubail",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Kakogawa",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Karatsu",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Kisarazu",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Langfang",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Lianyungang",
+"aliases": [
+"Haichow"
+],
+"links": 49
+},
+{
+"name": "Liaocheng",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Ma'anshan",
+"aliases": [
+"Maanshan"
+],
+"links": 49
+},
+{
+"name": "Matsusaka",
+"aliases": [
+"Matusaka"
+],
+"links": 49
+},
+{
+"name": "Nazilli",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Onomichi",
+"aliases": [
+"Onomiti"
+],
+"links": 49
+},
+{
+"name": "Ratlam",
+"aliases": [
+"Ratnapuri"
+],
+"links": 49
+},
+{
+"name": "Rohtak",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Sanming",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Seto",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Ube",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Xiangtan",
+"aliases": [
+"Xiangtan, China"
+],
+"links": 49
+},
+{
+"name": "Xinyang",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Yamato",
+"aliases": [
+"Tsurumi"
+],
+"links": 49
+},
+{
+"name": "Yan'an",
+"aliases": [
+"Yanan"
+],
+"links": 49
+},
+{
+"name": "Yangjiang",
+"aliases": [
+"Yangkiang",
+"Yeungkong"
+],
+"links": 49
+},
+{
+"name": "Zhuzhou",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Baoji",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Bhiwandi",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Chittorgarh",
+"aliases": [
+"Chittaurgarh",
+"Chittor"
+],
+"links": 48
+},
+{
+"name": "Chuzhou",
+"aliases": [
+"Chuzhou Shi"
+],
+"links": 48
+},
+{
+"name": "Fuyang",
+"aliases": [
+"Fou-Yang",
+"Yingchow"
+],
+"links": 48
+},
+{
+"name": "Hitachi",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Jinhua",
+"aliases": [
+"Chin-hua",
+"Chinhua",
+"Jinhua, China",
+"Jinhua, Zhejiang",
+"Kinhoa"
+],
+"links": 48
+},
+{
+"name": "Kottayam",
+"aliases": [
+"Land of three Ls"
+],
+"links": 48
+},
+{
+"name": "Lüleburgaz",
+"aliases": [
+"Luleburgaz"
+],
+"links": 48
+},
+{
+"name": "Mianyang",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Mishima",
+"aliases": [
+"Mishima-shi",
+"Misima"
+],
+"links": 48
+},
+{
+"name": "Myitkyina",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Narashino",
+"aliases": [
+"Narashino City",
+"Narasino"
+],
+"links": 48
+},
+{
+"name": "Oyama",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Sabzevar",
+"aliases": [
+"Beihagh",
+"Beyhaq",
+"Sabzawār",
+"Sabzevār"
+],
+"links": 48
+},
+{
+"name": "Sandakan",
+"aliases": [
+"Elopura"
+],
+"links": 48
+},
+{
+"name": "Sittwe",
+"aliases": [
+"Akyab"
+],
+"links": 48
+},
+{
+"name": "Sōka-shi",
+"aliases": [
+"Soka",
+"Soka City",
+"Soka-shi",
+"Sōka"
+],
+"links": 48
+},
+{
+"name": "Taizhou",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Tongling",
+"aliases": [
+"Tongling Shi"
+],
+"links": 48
+},
+{
+"name": "Yibin",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Zama",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Al Diwaniyah",
+"aliases": [
+"Ad Diwaniyah"
+],
+"links": 47
+},
+{
+"name": "Angren",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Anseong",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Anshun",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Bardhaman",
+"aliases": [
+"Burdwan"
+],
+"links": 47
+},
+{
+"name": "Ezhou",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Fuxin",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Gimhae",
+"aliases": [
+"Kimhae"
+],
+"links": 47
+},
+{
+"name": "Higashihiroshima",
+"aliases": [
+"Higasihirosima"
+],
+"links": 47
+},
+{
+"name": "Huai'an",
+"aliases": [
+"Huaian",
+"Hwaian"
+],
+"links": 47
+},
+{
+"name": "Ichinoseki",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Inazawa",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Jaunpur",
+"aliases": [
+"Iionpoor",
+"Jaunapura",
+"Jionpoor",
+"Juanpore"
+],
+"links": 47
+},
+{
+"name": "Jhang",
+"aliases": [
+"Jhang Maghiāna",
+"Jhang Sadar",
+"Jhang Sadr"
+],
+"links": 47
+},
+{
+"name": "Jiayuguan City",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Jizan",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Kariya",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Khost",
+"aliases": [
+"Khowst"
+],
+"links": 47
+},
+{
+"name": "Lu'an",
+"aliases": [
+"Liuan",
+"Luan City"
+],
+"links": 47
+},
+{
+"name": "Midyat",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Miri",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Miyakonojō",
+"aliases": [
+"Miyakonojo",
+"Miyakonojo City",
+"Miyakonojo-shi",
+"Miyakonojō-shi"
+],
+"links": 47
+},
+{
+"name": "Nagareyama",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Negombo",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Neyagawa",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Nonthaburi",
+"aliases": [
+"Nonthaburi City Municipality",
+"Nonthaburi, Thailand"
+],
+"links": 47
+},
+{
+"name": "Paju",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Pingdingshan",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Qingyuan",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Siping",
+"aliases": [
+"Siping, Jilin"
+],
+"links": 47
+},
+{
+"name": "Taguig",
+"aliases": [
+"City of Taguig",
+"Taguig City",
+"Taguig, Metro Manila"
+],
+"links": 47
+},
+{
+"name": "Tsuchiura",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Tsuruoka",
+"aliases": [
+"Turuoka"
+],
+"links": 47
+},
+{
+"name": "Xinxiang",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Xuchang",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Yatsushiro",
+"aliases": [
+"Yatsushiro-shi"
+],
+"links": 47
+},
+{
+"name": "Anyang",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Chandannagar",
+"aliases": [
+"Chandernagore"
+],
+"links": 46
+},
+{
+"name": "Chifeng",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Dawei",
+"aliases": [
+"Tavoy"
+],
+"links": 46
+},
+{
+"name": "Ebina",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Fujinomiya",
+"aliases": [
+"Hujinomiya"
+],
+"links": 46
+},
+{
+"name": "Geoje",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Gonbad-e Kavus",
+"aliases": [
+"Gonbad-e Kavous",
+"Gonbad-e Qabus"
+],
+"links": 46
+},
+{
+"name": "Hegang",
+"aliases": [
+"Hegang City"
+],
+"links": 46
+},
+{
+"name": "Ikeda",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Jiaozuo",
+"aliases": [
+"Shanyang"
+],
+"links": 46
+},
+{
+"name": "Jixi",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Kakegawa",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Kozan",
+"aliases": [
+"Sis"
+],
+"links": 46
+},
+{
+"name": "Kusatsu",
+"aliases": [
+"Kusatu"
+],
+"links": 46
+},
+{
+"name": "Liupanshui",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Misato",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Nasushiobara",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Niiza",
+"aliases": [
+"Niiza City",
+"Niiza-shi"
+],
+"links": 46
+},
+{
+"name": "Ningde",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Nizamabad",
+"aliases": [
+"Nizāmābād"
+],
+"links": 46
+},
+{
+"name": "Noda",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Oshu",
+"aliases": [
+"Oshu City",
+"Oshu-shi"
+],
+"links": 46
+},
+{
+"name": "Panjin",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Riffa",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Saijo",
+"aliases": [
+"Saijo City",
+"Saijo-shi",
+"Saijō",
+"Saijō-shi"
+],
+"links": 46
+},
+{
+"name": "Sakura",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Sanmenxia",
+"aliases": [
+"Sanmenhsia"
+],
+"links": 46
+},
+{
+"name": "Sariwon",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Satna",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Shanwei",
+"aliases": [
+"Swabue"
+],
+"links": 46
+},
+{
+"name": "Shūnan-shi",
+"aliases": [
+"Shunan",
+"Shunan City",
+"Shunan-shi",
+"Shūnan"
+],
+"links": 46
+},
+{
+"name": "Subang Jaya",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Wonju",
+"aliases": [
+"Wonju-si",
+"Wŏnju-si"
+],
+"links": 46
+},
+{
+"name": "Wuwei",
+"aliases": [
+"Wuwei, Gansu"
+],
+"links": 46
+},
+{
+"name": "Yeosu",
+"aliases": [
+"Yŏsu"
+],
+"links": 46
+},
+{
+"name": "Zhoushan",
+"aliases": [
+"Chusan",
+"Chusan Islands",
+"Zhoushan Islands"
+],
+"links": 46
+},
+{
+"name": "Ōgaki-shi",
+"aliases": [
+"Ogaki",
+"Ogaki City",
+"Ogaki-shi",
+"Ōgaki"
+],
+"links": 46
+},
+{
+"name": "Begusarai",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Bilaspur",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Changzhi",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Chungju",
+"aliases": [
+"Ch'ungju-si"
+],
+"links": 45
+},
+{
+"name": "Daitō-shi",
+"aliases": [
+"Daito City",
+"Daito-shi",
+"Daitō"
+],
+"links": 45
+},
+{
+"name": "Gimpo",
+"aliases": [
+"Kimpo"
+],
+"links": 45
+},
+{
+"name": "Gumi",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Gunpo",
+"aliases": [
+"Kunp'o"
+],
+"links": 45
+},
+{
+"name": "Hadano",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Hanzhong",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Higashiōmi-shi",
+"aliases": [
+"Higashiomi",
+"Higashiomi City",
+"Higashiomi-shi",
+"Higashiōmi"
+],
+"links": 45
+},
+{
+"name": "Huzhou",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Ibb",
+"aliases": [
+"Abb"
+],
+"links": 45
+},
+{
+"name": "Isehara",
+"aliases": [
+"Isehara, Japan",
+"Isehara-machi",
+"Isehara-shi"
+],
+"links": 45
+},
+{
+"name": "Kanggye",
+"aliases": [
+"Kanggye City",
+"Kanggye-si"
+],
+"links": 45
+},
+{
+"name": "Khobar",
+"aliases": [
+"Al Khobar",
+"Al-Khobar",
+"AlKhobar"
+],
+"links": 45
+},
+{
+"name": "Masjed Soleyman",
+"aliases": [
+"Masjed Solayman",
+"Masjid-i-Sulaiman",
+"Masjid-i-Suleiman"
+],
+"links": 45
+},
+{
+"name": "Mokpo",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Nagahama",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Nanchong",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Qujing",
+"aliases": [
+"Kütsing"
+],
+"links": 45
+},
+{
+"name": "Sakakah",
+"aliases": [
+"Sakaka",
+"Sakaka, Saudi Arabia",
+"Sakākā"
+],
+"links": 45
+},
+{
+"name": "Shangqiu",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Suzhou",
+"aliases": [
+"Suzhou, Anhui"
+],
+"links": 45
+},
+{
+"name": "Tochigi",
+"aliases": [
+"Totigi"
+],
+"links": 45
+},
+{
+"name": "Tōkai-shi",
+"aliases": [
+"Tokai",
+"Tokai City",
+"Tokai-shi",
+"Tōkai"
+],
+"links": 45
+},
+{
+"name": "Ueda",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Wuzhou",
+"aliases": [
+"Ng Chow",
+"Wu Zhou",
+"Wuchow",
+"Wuzhou Shi"
+],
+"links": 45
+},
+{
+"name": "Xianning",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Yanbu",
+"aliases": [
+"Yambo",
+"Yambu",
+"Yanbu' al Bahr",
+"Yenbo"
+],
+"links": 45
+},
+{
+"name": "Yichun",
+"aliases": [
+"Yichun, Heilongjiang"
+],
+"links": 45
+},
+{
+"name": "Yiyang",
+"aliases": [
+"Yiyang City"
+],
+"links": 45
+},
+{
+"name": "Yunfu",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Zhaotong",
+"aliases": [
+"Chaotung"
+],
+"links": 45
+},
+{
+"name": "Baoshan",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Behbahan",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Birgunj",
+"aliases": [
+"Birganj"
+],
+"links": 44
+},
+{
+"name": "Dezhou",
+"aliases": [
+"Dezhou City",
+"Dézhōu",
+"Tehchow"
+],
+"links": 44
+},
+{
+"name": "Dongying",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Durg",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Fujimi",
+"aliases": [
+"Hujimi"
+],
+"links": 44
+},
+{
+"name": "Guigang",
+"aliases": [
+"Guixian"
+],
+"links": 44
+},
+{
+"name": "Gujrat",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Hengshui",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Iruma",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Izumi",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Kakamigahara",
+"aliases": [
+"Kakamigahara-shi"
+],
+"links": 44
+},
+{
+"name": "Kamagaya",
+"aliases": [
+"Kamagaya-shi"
+],
+"links": 44
+},
+{
+"name": "Khamis Mushait",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Khon Kaen",
+"aliases": [
+"Khon Kaen City Municipality",
+"Khon Kaen, Thailand"
+],
+"links": 44
+},
+{
+"name": "Koga",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Komatsu",
+"aliases": [
+"Komatsu-shi",
+"Komatu"
+],
+"links": 44
+},
+{
+"name": "Mingora",
+"aliases": [
+"Mangora",
+"Mingaora",
+"Mingawara"
+],
+"links": 44
+},
+{
+"name": "Minoh",
+"aliases": [
+"Minoh City",
+"Minoh-shi",
+"Minoo City",
+"Minoo-shi"
+],
+"links": 44
+},
+{
+"name": "Mira-Bhayandar",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Motihari",
+"aliases": [
+"Mutgari"
+],
+"links": 44
+},
+{
+"name": "Pingliang",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Pingxiang",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Polatlı",
+"aliases": [
+"Polatli"
+],
+"links": 44
+},
+{
+"name": "Rizhao",
+"aliases": [
+"Jihchao"
+],
+"links": 44
+},
+{
+"name": "Sano",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Shihezi",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Siverek",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Tajimi",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Tianshui",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Toda",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Tondabayashi",
+"aliases": [
+"Tondabayasi"
+],
+"links": 44
+},
+{
+"name": "Tulkarm",
+"aliases": [
+"Tulkarem"
+],
+"links": 44
+},
+{
+"name": "Viranşehir",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Yachiyo",
+"aliases": [
+"Yatiyo"
+],
+"links": 44
+},
+{
+"name": "Yongzhou",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Zigong",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Asan",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Baiyin",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Bharatpur",
+"aliases": [
+"Bharatpur, Rajasthan",
+"Bhartpur",
+"Bhurtpoor",
+"Bhurtpore"
+],
+"links": 43
+},
+{
+"name": "Chamdo",
+"aliases": [
+"Changdu",
+"Qamdo",
+"Tsiamdo"
+],
+"links": 43
+},
+{
+"name": "Chirchiq",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Cuddalore",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Deyang",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Fukaya",
+"aliases": [
+"Hukaya"
+],
+"links": 43
+},
+{
+"name": "Ginowan",
+"aliases": [
+"Ginowan, Okinawa"
+],
+"links": 43
+},
+{
+"name": "Habikino",
+"aliases": [
+"Minamiōsaka"
+],
+"links": 43
+},
+{
+"name": "Hebi",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Huludao",
+"aliases": [
+"Huludao City",
+"Huludao Shi",
+"Jinxi City"
+],
+"links": 43
+},
+{
+"name": "Jinchang",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Jingmen",
+"aliases": [
+"Jingmen Shi",
+"King-men",
+"Kingmen"
+],
+"links": 43
+},
+{
+"name": "Jinju",
+"aliases": [
+"Jinju-si"
+],
+"links": 43
+},
+{
+"name": "Kadoma",
+"aliases": [
+"Kadoma-shi"
+],
+"links": 43
+},
+{
+"name": "Kampong Cham",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Karimnagar",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Kawanishi",
+"aliases": [
+"Kawanishi-shi",
+"Kawanisi"
+],
+"links": 43
+},
+{
+"name": "Kōnosu-shi",
+"aliases": [
+"Konosu",
+"Konosu City",
+"Konosu-shi",
+"Kōnosu"
+],
+"links": 43
+},
+{
+"name": "Leshan",
+"aliases": [
+"Jiading"
+],
+"links": 43
+},
+{
+"name": "Nabatieh",
+"aliases": [
+"Nabatiye etازدد"
+],
+"links": 43
+},
+{
+"name": "Nadiad",
+"aliases": [
+"Nadiad, Gujarat"
+],
+"links": 43
+},
+{
+"name": "Nam Định",
+"aliases": [
+"Nam Dinh",
+"Nam Định city",
+"Nam Định, Nam Định"
+],
+"links": 43
+},
+{
+"name": "Neijiang",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Nobeoka",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Purnia",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Puyang",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Satara",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Shaoyang",
+"aliases": [
+"Baoqing"
+],
+"links": 43
+},
+{
+"name": "Toride",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Umm Qasr",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Vasai-Virar",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Weinan",
+"aliases": [
+"Wei-nan",
+"Wei-nan Shih",
+"Wei-nan-shih",
+"Weinan City",
+"Weinan Prefecture",
+"Weinan Shi",
+"Weinanshi"
+],
+"links": 43
+},
+{
+"name": "Yaizu",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Zaozhuang",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Al-Ahsa Oasis",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Bharatpur",
+"aliases": [
+"Bharatpur, Nepal"
+],
+"links": 42
+},
+{
+"name": "Gwangju",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Hitachinaka",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Inzai",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Isahaya",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Jincheng",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Kirishima",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Matsubara",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Moriguchi",
+"aliases": [
+"Moriguti"
+],
+"links": 42
+},
+{
+"name": "Nagqu",
+"aliases": [
+"Hei He",
+"Heihe",
+"Na Pichu",
+"Na-ptchu",
+"Nagchu",
+"Nagchu City",
+"Nagchu Prefecture",
+"Nagqu City",
+"Naqu",
+"Naqu City",
+"Naqu Prefecture"
+],
+"links": 42
+},
+{
+"name": "Najafabad",
+"aliases": [
+"Najaf Abad",
+"Nejafābād",
+"Nejebad"
+],
+"links": 42
+},
+{
+"name": "Nyingchi",
+"aliases": [
+"Linzhi",
+"Nyangchi",
+"Nyingtri"
+],
+"links": 42
+},
+{
+"name": "Osan",
+"aliases": [
+"Osan-si"
+],
+"links": 42
+},
+{
+"name": "Panzhihua",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Pu'er City",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Pyeongtaek",
+"aliases": [
+"Pyeongtaek, Gyeonggi",
+"Pyeongtaek, South Korea"
+],
+"links": 42
+},
+{
+"name": "Sanda",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Sayama",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Shuangyashan",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Sirjan",
+"aliases": [
+"Sīrjān"
+],
+"links": 42
+},
+{
+"name": "Uijeongbu",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Wuhai",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Xiaogan",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Yulin",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Ōnojō-shi",
+"aliases": [
+"Onojo",
+"Onojo City",
+"Onojo-shi"
+],
+"links": 42
+},
+{
+"name": "Andimeshk",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Arar",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Berhampore",
+"aliases": [
+"Baharampur"
+],
+"links": 41
+},
+{
+"name": "Danzhou",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Dharashiv",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Douma",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Ereğli",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Fangchenggang",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Fujimino",
+"aliases": [
+"Hujimino"
+],
+"links": 41
+},
+{
+"name": "Gimcheon",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Gongju",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Guangyuan",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Gunsan",
+"aliases": [
+"Gunsan-si",
+"Kunsan"
+],
+"links": 41
+},
+{
+"name": "Haeju",
+"aliases": [
+"Haeju City",
+"Haeju-si"
+],
+"links": 41
+},
+{
+"name": "Hanam",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Huaihua",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Hyesan",
+"aliases": [
+"Hyesan City",
+"Hyesan-si"
+],
+"links": 41
+},
+{
+"name": "Icheon",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Kasuga",
+"aliases": [
+"Kasuga-shi"
+],
+"links": 41
+},
+{
+"name": "Kuki",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Luohe",
+"aliases": [
+"Loho",
+"Luohe Shi"
+],
+"links": 41
+},
+{
+"name": "Olmaliq",
+"aliases": [
+"Almalyk"
+],
+"links": 41
+},
+{
+"name": "Palakkad",
+"aliases": [
+"Palghat"
+],
+"links": 41
+},
+{
+"name": "Patnos",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Pyongsong",
+"aliases": [
+"P'yŏngsŏng",
+"Phyongsong",
+"Phyongsong City",
+"Pyongsong-si"
+],
+"links": 41
+},
+{
+"name": "Qingyang",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Qinzhou",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Samawah",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Sambhal",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Seogwipo",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Sibu",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Suihua",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Suining",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Suqian",
+"aliases": [
+"Sutsien",
+"Sùqiān"
+],
+"links": 41
+},
+{
+"name": "Tongchuan",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Urasoe",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Uruma",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Ya'an",
+"aliases": [
+"Yaan"
+],
+"links": 41
+},
+{
+"name": "Yangquan",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Ōmuta-shi",
+"aliases": [
+"Omuta City",
+"Omuta-shi",
+"Ōmuta"
+],
+"links": 41
+},
+{
+"name": "Chaoyang",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Chenzhou",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Dera Ghazi Khan",
+"aliases": [
+"Dera Ghazi Khan City"
+],
+"links": 40
+},
+{
+"name": "Dingxi",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Hakusan",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Huangshan",
+"aliases": [
+"Huangshan City"
+],
+"links": 40
+},
+{
+"name": "Iksan",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Izeh",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Jinzhong",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Kaechon",
+"aliases": [
+"Kaechon City"
+],
+"links": 40
+},
+{
+"name": "Kharagpur",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Körfez",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Malayer",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Medinipur",
+"aliases": [
+"Midnapore"
+],
+"links": 40
+},
+{
+"name": "Namyangju",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Osaki",
+"aliases": [
+"Osaki City",
+"Osaki-shi"
+],
+"links": 40
+},
+{
+"name": "Qitaihe",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Quzhou",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Taitung City",
+"aliases": [
+"Pusong",
+"Pusung",
+"Taidong",
+"Taidung",
+"Taitung"
+],
+"links": 40
+},
+{
+"name": "Tanchon",
+"aliases": [
+"Tanchon City",
+"Tanchon-si"
+],
+"links": 40
+},
+{
+"name": "Tieling",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Tongliao",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Yulin",
+"aliases": [
+"city of Yulin",
+"Yu-lin",
+"Yu-lin Shih",
+"Yu-lin-shih",
+"Yulin City",
+"Yulin Prefecture",
+"Yulin Shi"
+],
+"links": 40
+},
+{
+"name": "Bhiwani",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Bijie",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Chikushino",
+"aliases": [
+"Chikusino",
+"Tikusino"
+],
+"links": 39
+},
+{
+"name": "Dazhou",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Fasa",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Guri",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Gwangmyeong",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Gwangyang",
+"aliases": [
+"Gwangyang-si"
+],
+"links": 39
+},
+{
+"name": "Ichalkaranji",
+"aliases": [
+"Manchester of Maharashtra"
+],
+"links": 39
+},
+{
+"name": "Khomeyni Shahr",
+"aliases": [
+"Homayoon Shahr",
+"Homāyūnshahr",
+"Khomeynī Shahr",
+"Khomeynīshahr",
+"Sedeh"
+],
+"links": 39
+},
+{
+"name": "Lincang",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Malda",
+"aliases": [
+"Ingraj Bazar",
+"Malda Town",
+"Maldah",
+"Maldaha"
+],
+"links": 39
+},
+{
+"name": "Mandya",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Nizip",
+"aliases": [
+"Nisib"
+],
+"links": 39
+},
+{
+"name": "Saharsa",
+"aliases": [],
+"links": 39
+},
+{
+"name": "San Juan",
+"aliases": [
+"City of San Juan",
+"San Juan City",
+"San Juan, Metro Manila"
+],
+"links": 39
+},
+{
+"name": "Sangli",
+"aliases": [
+"Sangali"
+],
+"links": 39
+},
+{
+"name": "Sheikhupura",
+"aliases": [
+"Kot Dayal Das",
+"Qila Sheikhupura"
+],
+"links": 39
+},
+{
+"name": "Xinyu",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Yeongju",
+"aliases": [
+"Yeongju-si",
+"Yŏngju-si"
+],
+"links": 39
+},
+{
+"name": "Yingtan",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Ahar",
+"aliases": [],
+"links": 38
+},
+{
+"name": "al-Bab",
+"aliases": [
+"al-Bab City",
+"al-Bab, Aleppo",
+"al-Bab, Syria"
+],
+"links": 38
+},
+{
+"name": "Edremit",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Godhra",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Gyeongsan",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Hassan",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Jalpaiguri",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Kani",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Kazo",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Kimchaek",
+"aliases": [
+"Kim Chaek City",
+"Kimchaek-si"
+],
+"links": 38
+},
+{
+"name": "Loudi",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Mandsaur",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Manzhouli",
+"aliases": [
+"Manchouli"
+],
+"links": 38
+},
+{
+"name": "Mehsana",
+"aliases": [
+"Mahesana"
+],
+"links": 38
+},
+{
+"name": "Samandağ",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Tawau",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Tongren",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Uiwang",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Yangju",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Ünye",
+"aliases": [
+"Oinaion",
+"Unye"
+],
+"links": 38
+},
+{
+"name": "Anju",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Bazhong",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Butwal",
+"aliases": [
+"Butwal Sub-Metropolitan City",
+"Butwal Upmahanagarpalika",
+"Butwāl"
+],
+"links": 37
+},
+{
+"name": "Dorud",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Guang'an",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Haldia",
+"aliases": [
+"Haldiya"
+],
+"links": 37
+},
+{
+"name": "Hpa-An",
+"aliases": [
+"Pa-An"
+],
+"links": 37
+},
+{
+"name": "Jecheon",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Longnan",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Mahabubnagar",
+"aliases": [
+"Mahbūbnagar"
+],
+"links": 37
+},
+{
+"name": "Marivan",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Menemen",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Sahiwal",
+"aliases": [
+"Montgomery"
+],
+"links": 37
+},
+{
+"name": "Shangluo",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Shizuishan",
+"aliases": [
+"Chetsouidze",
+"Ché-tsui-dze",
+"Shih-tsui-tzu",
+"Shizuishan Shi",
+"Shizuizi"
+],
+"links": 37
+},
+{
+"name": "Shuozhou",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Siheung",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Torbat-e Heydarieh",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Yeoju",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Baranagar",
+"aliases": [
+"Baranagore"
+],
+"links": 36
+},
+{
+"name": "Dera Ismail Khan",
+"aliases": [
+"D. I. Khan",
+"DI Khan",
+"Ḍera Ismaīl K͟hān"
+],
+"links": 36
+},
+{
+"name": "Dhamar",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Dharan",
+"aliases": [
+"Dharan Upmahanagarpalika"
+],
+"links": 36
+},
+{
+"name": "Guyuan",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Hunchun",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Nakhon Si Thammarat",
+"aliases": [
+"Nakhon Si Thammarat City Municipality"
+],
+"links": 36
+},
+{
+"name": "Nonsan",
+"aliases": [
+"Nonsan-si"
+],
+"links": 36
+},
+{
+"name": "Pali",
+"aliases": [
+"Pali, Rajasthan"
+],
+"links": 36
+},
+{
+"name": "Pocheon",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Seosan",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Shahin Shahr",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Tongyeong",
+"aliases": [
+"Yongyeong-si"
+],
+"links": 36
+},
+{
+"name": "Yangsan",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Barasat",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Beed",
+"aliases": [
+"Bid"
+],
+"links": 35
+},
+{
+"name": "Bhatpara",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Jacobabad",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Jiyuan",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Krishnanagar",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Mirpur Khas",
+"aliases": [
+"Mirpurkhas"
+],
+"links": 35
+},
+{
+"name": "Nabadwip",
+"aliases": [
+"Oxford of East",
+"Spiritual Capital of The World"
+],
+"links": 35
+},
+{
+"name": "Nawabshah",
+"aliases": [
+"Nawab Shah"
+],
+"links": 35
+},
+{
+"name": "Serampore",
+"aliases": [
+"Serampur",
+"Shreerampore",
+"Shreerampur",
+"Shrirampore",
+"Shrirampur",
+"Sreerampore",
+"Sreerampur",
+"Srirampore",
+"Srirampur"
+],
+"links": 35
+},
+{
+"name": "Shahreza",
+"aliases": [
+"Qomsheh",
+"Qomīsheh",
+"Qowmsheh",
+"Qumisheh",
+"Shahrezā",
+"Shahriza"
+],
+"links": 35
+},
+{
+"name": "Suncheon",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Torbat-e Jam",
+"aliases": [
+"Buzhgan",
+"Torbat-e Sheikh Jam"
+],
+"links": 35
+},
+{
+"name": "Wuzhong",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Zhongwei",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Hugli-Chuchura",
+"aliases": [
+"Hooghly-Chinsurah"
+],
+"links": 34
+},
+{
+"name": "Itoshima",
+"aliases": [
+"Itosima"
+],
+"links": 34
+},
+{
+"name": "Lianzhou",
+"aliases": [
+"Lian",
+"Lianxian"
+],
+"links": 34
+},
+{
+"name": "Puning",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Sinpo",
+"aliases": [
+"Shinpo",
+"Sinpho",
+"Sinpho City",
+"Sinpo City",
+"Sinpo-si"
+],
+"links": 34
+},
+{
+"name": "Unaizah",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Ziyang",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Bettiah",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Chiniot",
+"aliases": [
+"Chiniotis"
+],
+"links": 33
+},
+{
+"name": "Dangjin",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Hoeryong",
+"aliases": [
+"Hoeryeong",
+"Hoeryeong-si",
+"Hoeryŏng"
+],
+"links": 33
+},
+{
+"name": "Panvel",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Salamiyah",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Songrim",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Tacheng",
+"aliases": [
+"Chöchek",
+"Tacheng Shi"
+],
+"links": 33
+},
+{
+"name": "Tuy Hòa",
+"aliases": [
+"Tuy Hoa"
+],
+"links": 33
+},
+{
+"name": "Yuyao City",
+"aliases": [
+"Yuyao"
+],
+"links": 33
+},
+{
+"name": "Ödemiş district",
+"aliases": [
+"Odemis",
+"Ödemiş ilçesi"
+],
+"links": 33
+},
+{
+"name": "Chongju",
+"aliases": [
+"Chongju-si",
+"Jeongju",
+"Jongju",
+"Jongju-si"
+],
+"links": 32
+},
+{
+"name": "Dum Dum",
+"aliases": [
+"Dam Dam",
+"Dum Dum Cantonment"
+],
+"links": 32
+},
+{
+"name": "Nazarabad",
+"aliases": [
+"Naz̧arābād-e Bozorg"
+],
+"links": 32
+},
+{
+"name": "Raiganj",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Sacheon",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Tumxuk",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Aral",
+"aliases": [
+"Ala'er"
+],
+"links": 31
+},
+{
+"name": "Gaozhou",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Kadirli",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Khafji",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Lufeng",
+"aliases": [
+"Lufeng Cita",
+"Lufeng Shi"
+],
+"links": 31
+},
+{
+"name": "Naihati",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Bhimdatta",
+"aliases": [
+"Mahendranagar"
+],
+"links": 30
+},
+{
+"name": "Kamarhati",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Luoding",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Manpo",
+"aliases": [
+"Manpho",
+"Manpho-si",
+"Manpo City",
+"Manpo-si"
+],
+"links": 30
+},
+{
+"name": "Panihati",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Pingxiang",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Robat Karim",
+"aliases": [
+"Shahriar"
+],
+"links": 30
+},
+{
+"name": "Ulanhot",
+"aliases": [
+"Wulanhaote"
+],
+"links": 30
+},
+{
+"name": "Xingning",
+"aliases": [
+"Hingning"
+],
+"links": 30
+},
+{
+"name": "Yangchun",
+"aliases": [
+"Yeungchun"
+],
+"links": 30
+},
+{
+"name": "Barrackpore",
+"aliases": [
+"Barrackpur"
+],
+"links": 29
+},
+{
+"name": "Dharwad",
+"aliases": [
+"Dharwar",
+"Hubballi-Dharwad",
+"Hubli-Dharwad",
+"Oxford of Karnataka",
+"Vidyakashi"
+],
+"links": 29
+},
+{
+"name": "Guiping",
+"aliases": [
+"Guiping Shi"
+],
+"links": 29
+},
+{
+"name": "Hafar Al-Batin",
+"aliases": [
+"Hafar al Batin"
+],
+"links": 29
+},
+{
+"name": "Masan",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Uluberia",
+"aliases": [
+"Uluberiya"
+],
+"links": 29
+},
+{
+"name": "Wujiaqu",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Yingde",
+"aliases": [
+"Ingtak",
+"Ying-te",
+"Ying-te Shih",
+"Ying-te-shih",
+"Yingde Shi",
+"Yingdeshi",
+"Yingtak",
+"Yngtak"
+],
+"links": 29
+},
+{
+"name": "Gongyi",
+"aliases": [
+"Gong County, Henan",
+"Gongyi Shi"
+],
+"links": 28
+},
+{
+"name": "Hancheng",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Huichon",
+"aliases": [
+"Huichon City",
+"Huichon-si",
+"Hŭich'ŏn",
+"Hŭich'ŏn-si",
+"Hŭichʻŏn",
+"Hŭichʻŏn-si"
+],
+"links": 28
+},
+{
+"name": "Hòa Bình",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Jaramana",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Ji'an",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Ruili",
+"aliases": [
+"Ruili Shi"
+],
+"links": 28
+},
+{
+"name": "Samjiyon",
+"aliases": [
+"Samjiyon-si",
+"Samjiyŏn"
+],
+"links": 28
+},
+{
+"name": "Tokchon",
+"aliases": [
+"Tokchon City",
+"Tokchon-si",
+"Tŏkch'ŏn"
+],
+"links": 28
+},
+{
+"name": "Châu Đốc",
+"aliases": [
+"Chau Doc",
+"Thị Xã Châu Đốc"
+],
+"links": 27
+},
+{
+"name": "Dhangadhi",
+"aliases": [
+"Dhangadhi Upmahanagarpalika",
+"Dhangarhi"
+],
+"links": 27
+},
+{
+"name": "Greater Noida",
+"aliases": [
+"Greater Noida City"
+],
+"links": 27
+},
+{
+"name": "Kusong",
+"aliases": [
+"Kusong-si"
+],
+"links": 27
+},
+{
+"name": "Leiyang",
+"aliases": [
+"Leiyang City",
+"Ray Yang"
+],
+"links": 27
+},
+{
+"name": "Maheshtala",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Rajpur Sonarpur",
+"aliases": [
+"Sonarpur"
+],
+"links": 27
+},
+{
+"name": "Ruzhou",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Santipur",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Wenling",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Bansberia",
+"aliases": [
+"Bansberiya",
+"Banshberia",
+"Banshberiya"
+],
+"links": 26
+},
+{
+"name": "Laiyang",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Mandi Bahauddin",
+"aliases": [
+"M B.Din",
+"M.B.Din",
+"Mandi Baha ud Din",
+"Mandi Baha-ud-din",
+"MB.Din"
+],
+"links": 26
+},
+{
+"name": "Munchon",
+"aliases": [
+"Munchon City",
+"Munchon-si",
+"Munchŏn City",
+"Munchŏn-si"
+],
+"links": 26
+},
+{
+"name": "Sunchon",
+"aliases": [
+"Sunchon City"
+],
+"links": 26
+},
+{
+"name": "Taoyuan District",
+"aliases": [
+"Taoyuan",
+"Tauyuan",
+"Tauywan",
+"Thohng",
+"Thô-hn̂g",
+"Tōen",
+"Tōshien"
+],
+"links": 26
+},
+{
+"name": "Tianchang",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Tieli",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Uttarpara Kotrung",
+"aliases": [
+"Uttarpara"
+],
+"links": 26
+},
+{
+"name": "Al-Faw",
+"aliases": [
+"Al-Fāw",
+"Fao"
+],
+"links": 25
+},
+{
+"name": "Baidyabati",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Bally",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Beiliu",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Brahmanbaria",
+"aliases": [
+"B-Baria"
+],
+"links": 25
+},
+{
+"name": "Gongzhuling",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Habra",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Lahad Datu",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Seiyun",
+"aliases": [
+"Sei'un"
+],
+"links": 25
+},
+{
+"name": "Yidu",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Bangaon",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Bidhannagar",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Cẩm Phả",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Linjiang",
+"aliases": [
+"Linjiang Shi"
+],
+"links": 24
+},
+{
+"name": "Rui'an",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Sopore",
+"aliases": [
+"Sopur"
+],
+"links": 24
+},
+{
+"name": "Yongcheng",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Yueqing",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Basirhat",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Kartepe",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Arambagh",
+"aliases": [
+"Arambag"
+],
+"links": 22
+},
+{
+"name": "Kanchrapara",
+"aliases": [],
+"links": 22
+},
+{
+"name": "North Dum Dum",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Pak Kret",
+"aliases": [
+"Pak Kret City Municipality",
+"Pakkred"
+],
+"links": 22
+},
+{
+"name": "South Dum Dum",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Chakradharpur",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Champdani",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Kalyani",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Khardah",
+"aliases": [
+"Khardaha"
+],
+"links": 21
+},
+{
+"name": "Madhyamgram",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Qurayyat",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Titagarh",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Çayırova",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Halisahar",
+"aliases": [
+"Halishahar"
+],
+"links": 20
+},
+{
+"name": "Konnagar",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Rishra",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tando Allahyar",
+"aliases": [],
+"links": 20
+}
+]

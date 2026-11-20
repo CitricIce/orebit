@@ -1,0 +1,2481 @@
+[
+{
+"name": "euro",
+"aliases": [],
+"links": 242
+},
+{
+"name": "United States dollar",
+"aliases": [
+"American dollar",
+"American dollars",
+"American money",
+"buck",
+"dollar",
+"dollars",
+"greenback",
+"U. S. Dollar",
+"U.S. Dollar",
+"United States dollars",
+"US dollar",
+"US dollars",
+"USA dollar",
+"USA dollars",
+"USD"
+],
+"links": 189
+},
+{
+"name": "Bitcoin",
+"aliases": [],
+"links": 154
+},
+{
+"name": "yen",
+"aliases": [
+"Japanese yen"
+],
+"links": 148
+},
+{
+"name": "pound sterling",
+"aliases": [
+"British pound",
+"GBP",
+"Great British pound",
+"livre sterling",
+"pence",
+"penny",
+"pound",
+"pounds",
+"quid",
+"sterling"
+],
+"links": 121
+},
+{
+"name": "renminbi",
+"aliases": [
+"Chinese Yuan",
+"yuan",
+"yuan renminbi",
+"yuan RMB"
+],
+"links": 117
+},
+{
+"name": "Azerbaijani manat",
+"aliases": [
+"Azerbaijan manat",
+"AZN",
+"manat"
+],
+"links": 111
+},
+{
+"name": "Chilean peso",
+"aliases": [],
+"links": 109
+},
+{
+"name": "Russian ruble",
+"aliases": [
+"RUB",
+"ruble"
+],
+"links": 109
+},
+{
+"name": "Swiss franc",
+"aliases": [
+"CHF",
+"Chf",
+"Confœderatio Helvetica Franc",
+"Franc",
+"Franc suisse",
+"Franco svizzero",
+"Schweizer Franken",
+"Swiss franco",
+"Swiss francs",
+"Swiss Frank",
+"Swiss Franken"
+],
+"links": 98
+},
+{
+"name": "Indian rupee",
+"aliases": [
+"INR",
+"Rupaya",
+"Rupee"
+],
+"links": 95
+},
+{
+"name": "Australian dollar",
+"aliases": [
+"AUD",
+"Aussie dollar",
+"dollar",
+"dollars",
+"the Australian dollar"
+],
+"links": 92
+},
+{
+"name": "hryvnia",
+"aliases": [
+"hryvnya",
+"UAH",
+"Ukrainian hryvnia"
+],
+"links": 92
+},
+{
+"name": "Turkish lira",
+"aliases": [
+"TRL",
+"TRY"
+],
+"links": 92
+},
+{
+"name": "Armenian dram",
+"aliases": [
+"AMD",
+"dram"
+],
+"links": 83
+},
+{
+"name": "Canadian dollar",
+"aliases": [
+"CAD",
+"dollar of Canada"
+],
+"links": 83
+},
+{
+"name": "new shekel",
+"aliases": [
+"ILS",
+"Israeli new shekel",
+"Israeli new sheqel",
+"new Israeli shekel",
+"new Israeli sheqel",
+"new sheqel",
+"NIS",
+"shekel"
+],
+"links": 83
+},
+{
+"name": "złoty",
+"aliases": [
+"PLN",
+"Polish zloty",
+"Polish złoty",
+"zloty",
+"zł"
+],
+"links": 83
+},
+{
+"name": "Danish krone",
+"aliases": [
+"kr"
+],
+"links": 82
+},
+{
+"name": "forint",
+"aliases": [
+"Ft",
+"HUF",
+"Hungarian forint"
+],
+"links": 82
+},
+{
+"name": "Swedish krona",
+"aliases": [
+"SEK"
+],
+"links": 82
+},
+{
+"name": "Albanian lek",
+"aliases": [
+"ALL",
+"Lek"
+],
+"links": 79
+},
+{
+"name": "rupiah",
+"aliases": [
+"Indonesian rupiah"
+],
+"links": 79
+},
+{
+"name": "Belarusian ruble",
+"aliases": [
+"third Belarusian ruble"
+],
+"links": 78
+},
+{
+"name": "Norwegian krone",
+"aliases": [
+"kr",
+"krone",
+"NOK"
+],
+"links": 78
+},
+{
+"name": "ruble",
+"aliases": [
+"rouble"
+],
+"links": 78
+},
+{
+"name": "won",
+"aliases": [
+"KRW",
+"south korea won",
+"the won"
+],
+"links": 78
+},
+{
+"name": "baht",
+"aliases": [
+"Siamese tical",
+"Thai baht",
+"THB",
+"tical"
+],
+"links": 77
+},
+{
+"name": "Kazakhstani tenge",
+"aliases": [],
+"links": 77
+},
+{
+"name": "afghani",
+"aliases": [
+"Afghan afghani",
+"AFN"
+],
+"links": 76
+},
+{
+"name": "New Zealand dollar",
+"aliases": [
+"dollar",
+"dollars",
+"NZD"
+],
+"links": 76
+},
+{
+"name": "Georgian lari",
+"aliases": [
+"GEL",
+"Lari"
+],
+"links": 75
+},
+{
+"name": "Iranian rial",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Brazilian real",
+"aliases": [],
+"links": 74
+},
+{
+"name": "ngultrum",
+"aliases": [
+"Bhutan currency",
+"Bhutanese ngultrum",
+"BTN"
+],
+"links": 74
+},
+{
+"name": "rand",
+"aliases": [
+"South African rand"
+],
+"links": 74
+},
+{
+"name": "Romanian leu",
+"aliases": [
+"L",
+"leu românesc",
+"RON"
+],
+"links": 74
+},
+{
+"name": "Icelandic króna",
+"aliases": [
+"Icelandic krona",
+"ISK",
+"kr",
+"króna"
+],
+"links": 73
+},
+{
+"name": "Pakistani rupee",
+"aliases": [
+"PKR"
+],
+"links": 73
+},
+{
+"name": "Singapore dollar",
+"aliases": [
+"dollar",
+"dollars",
+"Ringgit Singapore",
+"SGD"
+],
+"links": 73
+},
+{
+"name": "Bulgarian lev",
+"aliases": [
+"BGJ",
+"BGK",
+"BGL",
+"BGN",
+"Lev",
+"lev"
+],
+"links": 72
+},
+{
+"name": "Deutsche Mark",
+"aliases": [
+"D-Mark",
+"DE-Mark",
+"DEM",
+"Deutschmark",
+"DM",
+"German mark"
+],
+"links": 72
+},
+{
+"name": "Bangladeshi taka",
+"aliases": [
+"BDT",
+"taka 12272"
+],
+"links": 71
+},
+{
+"name": "Czech koruna",
+"aliases": [
+"CZK"
+],
+"links": 71
+},
+{
+"name": "Serbian dinar",
+"aliases": [
+"dinar",
+"RSD",
+"Serbia dinar"
+],
+"links": 71
+},
+{
+"name": "Argentine convertible peso",
+"aliases": [
+"ARS",
+"peso convertible Argentina"
+],
+"links": 70
+},
+{
+"name": "dinar",
+"aliases": [
+"denar"
+],
+"links": 70
+},
+{
+"name": "kwanza",
+"aliases": [
+"Angolan kwanza",
+"AOA",
+"Kz"
+],
+"links": 70
+},
+{
+"name": "Saudi riyal",
+"aliases": [
+"riyal",
+"SAR"
+],
+"links": 70
+},
+{
+"name": "Macedonian denar",
+"aliases": [
+"denar",
+"MKD",
+"North Macedonian denar"
+],
+"links": 69
+},
+{
+"name": "North Korean won",
+"aliases": [],
+"links": 69
+},
+{
+"name": "peso",
+"aliases": [
+"currency of Mexico",
+"Mexican centavo",
+"Mexican new peso",
+"Mexican nuevo peso",
+"Mexican peso",
+"MXN"
+],
+"links": 69
+},
+{
+"name": "Nepalese rupee",
+"aliases": [
+"NPR",
+"Rupee"
+],
+"links": 68
+},
+{
+"name": "Eastern Caribbean dollar",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Egyptian pound",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Hong Kong dollar",
+"aliases": [
+"dollar",
+"dollars",
+"HKD"
+],
+"links": 67
+},
+{
+"name": "Tajikistani somoni",
+"aliases": [
+"currency of Tajikistan",
+"Somoni",
+"Tajik Somoni",
+"TJS"
+],
+"links": 66
+},
+{
+"name": "Mongolian tögrög",
+"aliases": [
+"Mongolian tughrik",
+"Mongolian tugrik"
+],
+"links": 65
+},
+{
+"name": "United Arab Emirates dirham",
+"aliases": [
+"AED",
+"Dirham",
+"Emirati dirham",
+"U.A.E. dirham",
+"UAE dirham"
+],
+"links": 65
+},
+{
+"name": "Algerian dinar",
+"aliases": [
+"dinar",
+"DZD"
+],
+"links": 64
+},
+{
+"name": "Dirham",
+"aliases": [
+"Denar",
+"Dinar",
+"Dirahm",
+"Dirhem"
+],
+"links": 64
+},
+{
+"name": "Kuwaiti dinar",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Malaysian ringgit",
+"aliases": [
+"MYR",
+"Ringgit Malaysia",
+"RM"
+],
+"links": 64
+},
+{
+"name": "Iraqi dinar",
+"aliases": [
+"ID"
+],
+"links": 63
+},
+{
+"name": "Kyrgyz som",
+"aliases": [
+"som"
+],
+"links": 63
+},
+{
+"name": "Lao kip",
+"aliases": [
+"kip",
+"LAK"
+],
+"links": 63
+},
+{
+"name": "Moroccan dirham",
+"aliases": [
+"Maza"
+],
+"links": 63
+},
+{
+"name": "Philippine peso",
+"aliases": [
+"peso",
+"Philippine piso",
+"PHP",
+"piso",
+"the Philippine peso"
+],
+"links": 63
+},
+{
+"name": "CFA franc",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Moldovan leu",
+"aliases": [
+"leu",
+"MDL"
+],
+"links": 62
+},
+{
+"name": "Uzbek som",
+"aliases": [
+"soʻm",
+"Uzbek sum",
+"UZS"
+],
+"links": 62
+},
+{
+"name": "convertible mark",
+"aliases": [
+"mark"
+],
+"links": 61
+},
+{
+"name": "Ghana cedi",
+"aliases": [
+"cedi",
+"GHS"
+],
+"links": 61
+},
+{
+"name": "Jordanian dinar",
+"aliases": [
+"Dinar"
+],
+"links": 61
+},
+{
+"name": "Vietnamese đồng",
+"aliases": [
+"VND",
+"đồng"
+],
+"links": 61
+},
+{
+"name": "bir",
+"aliases": [
+"ETB",
+"Ethiopian birr",
+"Ethiopian dollar"
+],
+"links": 60
+},
+{
+"name": "Botswana pula",
+"aliases": [],
+"links": 60
+},
+{
+"name": "naira",
+"aliases": [
+"NGN",
+"Nigerian naira"
+],
+"links": 60
+},
+{
+"name": "Sri Lankan rupee",
+"aliases": [
+"LKR",
+"SLRs",
+"Sri Lanka Rupee",
+"Sri Lankan rupees",
+"Tamil rupee"
+],
+"links": 60
+},
+{
+"name": "Turkmenistan new manat",
+"aliases": [
+"TMT",
+"Turkmenistani new manat"
+],
+"links": 60
+},
+{
+"name": "Brunei dollar",
+"aliases": [
+"BND"
+],
+"links": 59
+},
+{
+"name": "New Taiwan dollar",
+"aliases": [
+"NTD",
+"TWD"
+],
+"links": 59
+},
+{
+"name": "Faroese króna",
+"aliases": [
+"Faroese krona"
+],
+"links": 57
+},
+{
+"name": "Kenyan shilling",
+"aliases": [
+"Shilling"
+],
+"links": 57
+},
+{
+"name": "kyat",
+"aliases": [
+"Burmese kyat",
+"K",
+"Ks",
+"MMK",
+"Myanmar kyat"
+],
+"links": 57
+},
+{
+"name": "Syrian pound",
+"aliases": [
+"LS",
+"Syrian lira"
+],
+"links": 57
+},
+{
+"name": "Colombian peso",
+"aliases": [
+"Colomb peso",
+"peso"
+],
+"links": 56
+},
+{
+"name": "Cuban peso",
+"aliases": [
+"CUP"
+],
+"links": 56
+},
+{
+"name": "Qatari riyal",
+"aliases": [
+"Qatar riyal"
+],
+"links": 56
+},
+{
+"name": "Surinamese dollar",
+"aliases": [
+"SRD"
+],
+"links": 56
+},
+{
+"name": "Ugandan shilling",
+"aliases": [
+"Uganda shilling",
+"UGX",
+"USh"
+],
+"links": 56
+},
+{
+"name": "Bahraini dinar",
+"aliases": [],
+"links": 55
+},
+{
+"name": "lilangeni",
+"aliases": [
+"emalangeni",
+"Eswatini lilangeni",
+"Swazi lilangeni",
+"Swaziland lilangeni"
+],
+"links": 55
+},
+{
+"name": "Maldivian rufiyaa",
+"aliases": [
+"rufiyaa"
+],
+"links": 55
+},
+{
+"name": "Mauritanian ouguiya",
+"aliases": [
+"MRU",
+"ouguiya",
+"UM"
+],
+"links": 55
+},
+{
+"name": "Nuevo sol",
+"aliases": [
+"PEN"
+],
+"links": 55
+},
+{
+"name": "Yemeni rial",
+"aliases": [
+"rial",
+"YER"
+],
+"links": 55
+},
+{
+"name": "Bahamian dollar",
+"aliases": [
+"BSD"
+],
+"links": 54
+},
+{
+"name": "Gibraltar pound",
+"aliases": [
+"GIP"
+],
+"links": 54
+},
+{
+"name": "kina",
+"aliases": [
+"Papua New Guinean kina",
+"PGK"
+],
+"links": 54
+},
+{
+"name": "Lebanese pound",
+"aliases": [
+"1000 lira",
+"LBP"
+],
+"links": 54
+},
+{
+"name": "Liberian dollar",
+"aliases": [],
+"links": 54
+},
+{
+"name": "riel",
+"aliases": [
+"Cambodian riel",
+"KHR"
+],
+"links": 54
+},
+{
+"name": "Tanzanian shilling",
+"aliases": [
+"Shilingi",
+"Tanzanian schilling",
+"Tanzanian shilingi",
+"TSh",
+"TZS"
+],
+"links": 54
+},
+{
+"name": "thaler",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Barbadian dollar",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Burundian franc",
+"aliases": [
+"BIF"
+],
+"links": 53
+},
+{
+"name": "dalasi",
+"aliases": [
+"Gambian dalasi",
+"GMD"
+],
+"links": 53
+},
+{
+"name": "gourde",
+"aliases": [
+"Haitian Gourde",
+"HTG"
+],
+"links": 53
+},
+{
+"name": "Honduran lempira",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Libyan dinar",
+"aliases": [
+"dinar",
+"LYD"
+],
+"links": 53
+},
+{
+"name": "loti",
+"aliases": [
+"Lesotho loti",
+"LSL"
+],
+"links": 53
+},
+{
+"name": "Malawian kwacha",
+"aliases": [
+"Kwacha",
+"Malawi kwacha",
+"MWK"
+],
+"links": 53
+},
+{
+"name": "Mozambican metical",
+"aliases": [
+"Metical"
+],
+"links": 53
+},
+{
+"name": "Namibian dollar",
+"aliases": [
+"NAD"
+],
+"links": 53
+},
+{
+"name": "Paraguayan guaraní",
+"aliases": [
+"Guarani",
+"Paraguayan guarani"
+],
+"links": 53
+},
+{
+"name": "Seychellois rupee",
+"aliases": [
+"Rupee",
+"Seychelles Rupee",
+"SRe"
+],
+"links": 53
+},
+{
+"name": "Zambian Kwacha",
+"aliases": [
+"ZMW"
+],
+"links": 53
+},
+{
+"name": "ariary",
+"aliases": [
+"Madagascan ariary",
+"Malagasy ariary"
+],
+"links": 52
+},
+{
+"name": "denarius",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Djiboutian franc",
+"aliases": [
+"DJF",
+"Djibouti Franc"
+],
+"links": 52
+},
+{
+"name": "Fijian dollar",
+"aliases": [
+"Fijan dollar",
+"Fiji Dollar"
+],
+"links": 52
+},
+{
+"name": "Guinean franc",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Mauritian rupee",
+"aliases": [
+"Mauritius rupee",
+"MUR",
+"Rupee"
+],
+"links": 52
+},
+{
+"name": "Omani rial",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Panamanian balboa",
+"aliases": [],
+"links": 52
+},
+{
+"name": "quetzal",
+"aliases": [
+"GTQ",
+"Guatemala quetzal"
+],
+"links": 52
+},
+{
+"name": "Rwandan franc",
+"aliases": [
+"FRw",
+"RF",
+"RWF"
+],
+"links": 52
+},
+{
+"name": "South Sudanese pound",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Transnistrian ruble",
+"aliases": [
+"Pridnestrovian ruble"
+],
+"links": 52
+},
+{
+"name": "Belize dollar",
+"aliases": [
+"BZD"
+],
+"links": 51
+},
+{
+"name": "boliviano",
+"aliases": [
+"BOB",
+"Bolivian boliviano",
+"second boliviano"
+],
+"links": 51
+},
+{
+"name": "Cape Verdean escudo",
+"aliases": [
+"Cape Verde escudo"
+],
+"links": 51
+},
+{
+"name": "Jamaican dollar",
+"aliases": [
+"Jay",
+"JMD"
+],
+"links": 51
+},
+{
+"name": "leone",
+"aliases": [
+"Sierra Leonean leone",
+"SLE",
+"SLL"
+],
+"links": 51
+},
+{
+"name": "nakfa",
+"aliases": [
+"Eritrean nakfa",
+"Nkf"
+],
+"links": 51
+},
+{
+"name": "Nicaraguan córdoba",
+"aliases": [
+"Cordoba Oro",
+"Mariana Montserrat",
+"NIC",
+"Nicaraguan cordoba",
+"NIO"
+],
+"links": 51
+},
+{
+"name": "CFP Franc",
+"aliases": [
+"franc",
+"Franc Pacifique",
+"Pacific Franc",
+"XPF"
+],
+"links": 50
+},
+{
+"name": "Congolese franc",
+"aliases": [
+"Belgian Congolese franc",
+"CDF",
+"Franc Congolais"
+],
+"links": 50
+},
+{
+"name": "Guyanese dollar",
+"aliases": [
+"Money of Guyana"
+],
+"links": 50
+},
+{
+"name": "Sudanese pound",
+"aliases": [],
+"links": 50
+},
+{
+"name": "São Tomé and Príncipe dobra",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Tongan paʻanga",
+"aliases": [
+"Pa anga",
+"Pa'anga",
+"Tonga paʻanga"
+],
+"links": 50
+},
+{
+"name": "Tunisian dinar",
+"aliases": [
+"Tunis dinar"
+],
+"links": 50
+},
+{
+"name": "Uruguayan peso",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Vanuatu vatus",
+"aliases": [
+"Vatu"
+],
+"links": 50
+},
+{
+"name": "West African CFA franc",
+"aliases": [
+"BCEAO franc"
+],
+"links": 50
+},
+{
+"name": "Akçe",
+"aliases": [
+"Akça"
+],
+"links": 49
+},
+{
+"name": "Aruban florin",
+"aliases": [
+"Afl.",
+"AWG"
+],
+"links": 49
+},
+{
+"name": "Bermudian dollar",
+"aliases": [
+"BMD"
+],
+"links": 49
+},
+{
+"name": "Costa Rican colón",
+"aliases": [
+"Costa Rican colon",
+"CRC"
+],
+"links": 49
+},
+{
+"name": "Samoan tālā",
+"aliases": [
+"Samoan Tala",
+"Tala",
+"Tālā",
+"WST"
+],
+"links": 49
+},
+{
+"name": "solidus",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Central African CFA franc",
+"aliases": [
+"franc CFA"
+],
+"links": 48
+},
+{
+"name": "Manx pound",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Somali shilling",
+"aliases": [
+"Currency of somalia",
+"Sh.So."
+],
+"links": 48
+},
+{
+"name": "Trinidad and Tobago dollar",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Comorian franc",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Dominican peso",
+"aliases": [
+"Dominican peso oro",
+"peso oro"
+],
+"links": 46
+},
+{
+"name": "Macanese pataca",
+"aliases": [
+"MOP"
+],
+"links": 46
+},
+{
+"name": "Hungarian pengő",
+"aliases": [
+"pengő"
+],
+"links": 45
+},
+{
+"name": "Solomon Islands dollar",
+"aliases": [
+"Solomon Dollar"
+],
+"links": 45
+},
+{
+"name": "Cayman Islands dollar",
+"aliases": [
+"Dollar"
+],
+"links": 43
+},
+{
+"name": "Yugoslav dinar",
+"aliases": [],
+"links": 43
+},
+{
+"name": "aureus",
+"aliases": [],
+"links": 42
+},
+{
+"name": "groschen",
+"aliases": [
+"groschen coin"
+],
+"links": 42
+},
+{
+"name": "Somaliland shilling",
+"aliases": [],
+"links": 42
+},
+{
+"name": "as",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Falkland Islands pound",
+"aliases": [
+"FKP"
+],
+"links": 41
+},
+{
+"name": "Guernsey pound",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Czechoslovak koruna",
+"aliases": [
+"CSK"
+],
+"links": 40
+},
+{
+"name": "obol",
+"aliases": [
+"obelus",
+"obolus"
+],
+"links": 40
+},
+{
+"name": "Netherlands Antillean guilder",
+"aliases": [
+"ANG",
+"f",
+"Gulden",
+"NAf",
+"NAƒ"
+],
+"links": 39
+},
+{
+"name": "convertible peso",
+"aliases": [
+"chavito",
+"CUC"
+],
+"links": 38
+},
+{
+"name": "guinea",
+"aliases": [
+"Guineas"
+],
+"links": 37
+},
+{
+"name": "Saint Helena pound",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Artsakh dram",
+"aliases": [
+"Nagorno-Karabakh dram"
+],
+"links": 36
+},
+{
+"name": "kopeck",
+"aliases": [
+"Kopek"
+],
+"links": 36
+},
+{
+"name": "Tuvaluan dollar",
+"aliases": [
+"Tuvalu dollar",
+"TVD"
+],
+"links": 36
+},
+{
+"name": "Abkhazian apsar",
+"aliases": [
+"apsar",
+"apsark"
+],
+"links": 35
+},
+{
+"name": "Cook Islands dollar",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Vatican lira",
+"aliases": [
+"VAL"
+],
+"links": 35
+},
+{
+"name": "pfennig",
+"aliases": [
+"penny"
+],
+"links": 34
+},
+{
+"name": "rai stone",
+"aliases": [
+"fei stone",
+"Yapese stone money"
+],
+"links": 33
+},
+{
+"name": "Austro-Hungarian krone",
+"aliases": [
+"Austrian crown",
+"Austrian korona",
+"Austro-Hungarian coroana",
+"Austro-Hungarian coroană",
+"Austro-Hungarian corona",
+"Austro-Hungarian crown",
+"Austro-Hungarian korona",
+"Austro-Hungarian koruna",
+"Austro-Hungarian krona",
+"Austro-Hungarian krune"
+],
+"links": 32
+},
+{
+"name": "German mark",
+"aliases": [],
+"links": 32
+},
+{
+"name": "hyperpyron",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Kiribati dollar",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Salvadoran colón",
+"aliases": [
+"Colon",
+"Colón",
+"Salvadoran colon",
+"Salvadorean colon",
+"Salvadorean colón"
+],
+"links": 32
+},
+{
+"name": "tetradrachm",
+"aliases": [],
+"links": 32
+},
+{
+"name": "East Timor centavo coins",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Sammarinese lira",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Spanish dollar",
+"aliases": [
+"piece of eight",
+"Pillar dollar"
+],
+"links": 30
+},
+{
+"name": "écu",
+"aliases": [
+"ecu",
+"Ecu",
+"Ecus",
+"French ecu",
+"French Écu",
+"French écu",
+"Écus"
+],
+"links": 30
+},
+{
+"name": "Austro-Hungarian gulden",
+"aliases": [
+"Austrian florin",
+"Austrian Florin",
+"Austro-Hungarian florin",
+"Austro-Hungarian forint"
+],
+"links": 28
+},
+{
+"name": "Rentenmark",
+"aliases": [
+"German Rentenmark"
+],
+"links": 28
+},
+{
+"name": "Ecuadorian sucre",
+"aliases": [
+"sucre"
+],
+"links": 27
+},
+{
+"name": "Monegasque franc",
+"aliases": [
+"MCF"
+],
+"links": 27
+},
+{
+"name": "Caribbean guilder",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Armenian rouble",
+"aliases": [
+"Armenian ruble"
+],
+"links": 25
+},
+{
+"name": "gold dinar",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Manchukuo yuan",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Iranian toman",
+"aliases": [],
+"links": 24
+},
+{
+"name": "quadrans",
+"aliases": [
+"teruncius"
+],
+"links": 24
+},
+{
+"name": "quinarius",
+"aliases": [
+"quinarii"
+],
+"links": 24
+},
+{
+"name": "sultani",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Zimbabwe ZiG",
+"aliases": [
+"ZiG",
+"Zimbabwean gold"
+],
+"links": 24
+},
+{
+"name": "argenteus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Bohemian and Moravian koruna",
+"aliases": [
+"Bohemian and Moravian crown"
+],
+"links": 23
+},
+{
+"name": "semis",
+"aliases": [],
+"links": 23
+},
+{
+"name": "siliqua",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Korean won",
+"aliases": [
+"Korean Empire won"
+],
+"links": 22
+},
+{
+"name": "pound Scots",
+"aliases": [
+"pounds Scots",
+"Scots pound",
+"Scottish pound"
+],
+"links": 22
+},
+{
+"name": "Tremissis",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Yugoslav krone",
+"aliases": [
+"krone"
+],
+"links": 22
+},
+{
+"name": "African Monetary Union",
+"aliases": [
+"afriq",
+"afro"
+],
+"links": 21
+},
+{
+"name": "Danzig gulden",
+"aliases": [],
+"links": 21
+},
+{
+"name": "East African shilling",
+"aliases": [],
+"links": 21
+},
+{
+"name": "French Indochinese piastre",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Montenegrin perper",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Palestine pound",
+"aliases": [],
+"links": 21
+},
+{
+"name": "spesmilo",
+"aliases": [
+"10 spescentoj",
+"100 spesdekoj",
+"1000 spesoj"
+],
+"links": 21
+},
+{
+"name": "Eco",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ecuadorian centavo coins",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ottoman lira",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Spanish escudo",
+"aliases": [
+"escudo"
+],
+"links": 20
+},
+{
+"name": "zaire",
+"aliases": [
+"Congolese zaire",
+"Zairean zaire",
+"zaïre"
+],
+"links": 20
+},
+{
+"name": "ancient drachma",
+"aliases": [
+"hellenic drachma"
+],
+"links": 19
+},
+{
+"name": "Chechen naxar",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Conventionsthaler",
+"aliases": [
+"Konventionstaler",
+"Konventionsthaler"
+],
+"links": 19
+},
+{
+"name": "Khaleeji",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Kraków złoty",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Moldovan cupon",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Biafran pound",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Confederate States dollar",
+"aliases": [],
+"links": 18
+},
+{
+"name": "French denier",
+"aliases": [],
+"links": 18
+},
+{
+"name": "German East African rupie",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Korean yen",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Republika Srpska dinar",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Straits dollar",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Tuvan akşa",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Afghan rupee",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Maltese scudo",
+"aliases": [
+"Coins of the Order of Saint John of Jerusalem"
+],
+"links": 17
+},
+{
+"name": "Newfoundland dollar",
+"aliases": [
+"NFD"
+],
+"links": 17
+},
+{
+"name": "Polish marka",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Swedish riksdaler",
+"aliases": [
+"riksdaler"
+],
+"links": 17
+},
+{
+"name": "Sycee",
+"aliases": [
+"yuanbao"
+],
+"links": 17
+},
+{
+"name": "Algerian franc",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Angolan escudo",
+"aliases": [],
+"links": 16
+},
+{
+"name": "cash",
+"aliases": [
+"Chinese cash",
+"wen"
+],
+"links": 16
+},
+{
+"name": "Chilean escudo",
+"aliases": [
+"Escudo"
+],
+"links": 16
+},
+{
+"name": "cistophorus",
+"aliases": [
+"cistophor"
+],
+"links": 16
+},
+{
+"name": "fals",
+"aliases": [
+"felus"
+],
+"links": 16
+},
+{
+"name": "Greek phoenix",
+"aliases": [
+"phoenix"
+],
+"links": 16
+},
+{
+"name": "grivna",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Hawaiian dollar",
+"aliases": [
+"dala"
+],
+"links": 16
+},
+{
+"name": "Old Taiwan dollar",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Portuguese real",
+"aliases": [
+"reais",
+"real",
+"reis",
+"réis"
+],
+"links": 16
+},
+{
+"name": "SUCRE",
+"aliases": [
+"Sistema Unico de Compensacion Regional",
+"Sistema Único de Compensación Regional",
+"XSU"
+],
+"links": 16
+},
+{
+"name": "Taiwanese yen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Tunisian franc",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Vereinsthaler",
+"aliases": [],
+"links": 16
+},
+{
+"name": "aes grave",
+"aliases": [],
+"links": 15
+},
+{
+"name": "liard",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Liechtenstein frank",
+"aliases": [],
+"links": 15
+},
+{
+"name": "livre tournois",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Zanzibari rupee",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Argentine real",
+"aliases": [
+"argentinian real",
+"Real",
+"real"
+],
+"links": 14
+},
+{
+"name": "Austrian krone",
+"aliases": [],
+"links": 14
+},
+{
+"name": "denga",
+"aliases": [],
+"links": 14
+},
+{
+"name": "groat",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Hungarian korona",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Japanese military yen",
+"aliases": [
+"JMY"
+],
+"links": 14
+},
+{
+"name": "Malawian pound",
+"aliases": [
+"pound"
+],
+"links": 14
+},
+{
+"name": "ryō",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Saar franc",
+"aliases": [],
+"links": 14
+},
+{
+"name": "scyphate",
+"aliases": [],
+"links": 14
+},
+{
+"name": "silver as an investment",
+"aliases": [
+"silver",
+"silver as currency",
+"XAG"
+],
+"links": 14
+},
+{
+"name": "South Vietnamese đồng",
+"aliases": [
+"VNCHD"
+],
+"links": 14
+},
+{
+"name": "Transcaucasian ruble",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Biatec",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cambodian franc",
+"aliases": [],
+"links": 13
+},
+{
+"name": "East African rupee",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Fiume krone",
+"aliases": [],
+"links": 13
+},
+{
+"name": "German ostmark",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Greenlandic krone",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Japanese mon",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Krajina dinar",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kronenthaler",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Liechtenstein krone",
+"aliases": [],
+"links": 13
+},
+{
+"name": "New Turkish lira",
+"aliases": [
+"Denemek",
+"İkinci Türk Lirası",
+"Türk lirası",
+"YTL"
+],
+"links": 13
+},
+{
+"name": "Prussian thaler",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Reichsthaler",
+"aliases": [],
+"links": 13
+},
+{
+"name": "skilling",
+"aliases": [],
+"links": 13
+},
+{
+"name": "soldo",
+"aliases": [],
+"links": 13
+},
+{
+"name": "South Korean hwan",
+"aliases": [],
+"links": 13
+},
+{
+"name": "aes rude",
+"aliases": [],
+"links": 12
+},
+{
+"name": "aes signatum",
+"aliases": [],
+"links": 12
+},
+{
+"name": "bes",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Burmese rupee",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Equatorial Guinean peseta",
+"aliases": [
+"Guinean peseta",
+"Peseta guineana"
+],
+"links": 12
+},
+{
+"name": "franga",
+"aliases": [],
+"links": 12
+},
+{
+"name": "French West African franc",
+"aliases": [],
+"links": 12
+},
+{
+"name": "German ostruble",
+"aliases": [
+"Ostruble"
+],
+"links": 12
+},
+{
+"name": "Hungarian adópengő",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hyderabadi rupee",
+"aliases": [
+"Hali",
+"Osmania sicca"
+],
+"links": 12
+},
+{
+"name": "Italian Somaliland rupia",
+"aliases": [
+"Somali rupia"
+],
+"links": 12
+},
+{
+"name": "Italian Somaliland somalo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "knife money",
+"aliases": [
+"chin-tao",
+"daobi",
+"daoqian",
+"jindao",
+"kin tao",
+"kin-tao",
+"kin-tau",
+"kine tao",
+"kine-tao",
+"tao-chien",
+"tao-pi"
+],
+"links": 12
+},
+{
+"name": "Malayan dollar",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Netherlands Indies guilder",
+"aliases": [
+"Dutch East Indies guilder"
+],
+"links": 12
+},
+{
+"name": "New Hebrides franc",
+"aliases": [],
+"links": 12
+},
+{
+"name": "North Vietnamese đồng",
+"aliases": [
+"đồng"
+],
+"links": 12
+},
+{
+"name": "Portuguese Timorese pataca",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Roman scudo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Saar mark",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Sarawak dollar",
+"aliases": [],
+"links": 12
+},
+{
+"name": "sextans",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Stavraton",
+"aliases": [],
+"links": 12
+},
+{
+"name": "victoriatus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Aksumite currency",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Alderney pound",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Angolan angolar",
+"aliases": [],
+"links": 11
+},
+{
+"name": "basilikon",
+"aliases": [
+"doukaton"
+],
+"links": 11
+},
+{
+"name": "coins and postage stamps of Sealand",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Eritrean tallero",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Iranian qiran",
+"aliases": [
+"kran",
+"qerun"
+],
+"links": 11
+},
+{
+"name": "Jamaican pound",
+"aliases": [
+"Pound"
+],
+"links": 11
+},
+{
+"name": "Joachimsthaler",
+"aliases": [
+"Tolar"
+],
+"links": 11
+},
+{
+"name": "Korean mun",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Korean yang",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Mexican real",
+"aliases": [],
+"links": 11
+},
+{
+"name": "North Yemeni rial",
+"aliases": [],
+"links": 11
+},
+{
+"name": "quattrino",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Rhodesia and Nyasaland pound",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Rwanda and Burundi franc",
+"aliases": [],
+"links": 11
+},
+{
+"name": "som",
+"aliases": [
+"soum",
+"sum"
+],
+"links": 11
+},
+{
+"name": "Southern Rhodesian pound",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zimbabwean dollar",
+"aliases": [
+"2019 Zimbabwean dollar",
+"5th Zimbabwean dollar",
+"fifth Zimbabwean dollar",
+"Real Time Gross Settlement dollar",
+"Zimdollar",
+"ZWL"
+],
+"links": 11
+},
+{
+"name": "Argentine peso ley",
+"aliases": [
+"peso ley 18188",
+"peso ley argentino"
+],
+"links": 10
+},
+{
+"name": "baiocco",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cambodian tical",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Danish rigsdaler",
+"aliases": [
+"rixdollar"
+],
+"links": 10
+},
+{
+"name": "French Indian rupee",
+"aliases": [
+"roupie",
+"rupee"
+],
+"links": 10
+},
+{
+"name": "Italian East African lira",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Luccan pound",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Mongolian dollar",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Nova Scotian dollar",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Paraguayan peso",
+"aliases": [],
+"links": 10
+},
+{
+"name": "pim weight",
+"aliases": [
+"payim",
+"pim"
+],
+"links": 10
+},
+{
+"name": "Portuguese Indian escudo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sardinian lira",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Slovak koruna",
+"aliases": [],
+"links": 10
+},
+{
+"name": "sovereign bolivar",
+"aliases": [
+"bolivar",
+"Bs.S",
+"VES"
+],
+"links": 10
+},
+{
+"name": "São Tomé and Príncipe escudo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "örtug",
+"aliases": [
+"ortig"
+],
+"links": 10
+}
+]

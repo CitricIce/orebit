@@ -30,9 +30,9 @@ SRC_DIR = ROOT / "data" / "categories"
 OUT_FILE = ROOT / "src" / "data" / "categories.json"
 
 # Share of answers in each tier, most familiar first. Must sum to 1.
-TIER_SHARES = [0.30, 0.25, 0.20, 0.15, 0.10]
+# Share of the non-Stone answers in Iron, Cobalt, Gold and Crystal.
+DEEPER_SHARES = [0.15, 0.20, 0.25, 0.40]
 STARCORE_TIER = 6
-AUTO_STARCORE_PERCENTILE = 0.88
 PHRASE_PENALTY = 0.6
 STOPWORDS = {"the", "of", "and", "de", "la", "di", "du", "le"}
 
@@ -327,43 +327,42 @@ def build_category(raw: dict) -> dict:
         row["zipf"] = familiarity(row["name"], row["aliases"])
 
     # Most familiar first. Ties go to the shorter name.
-    ranked = sorted(rows, key=lambda r: (-r["zipf"], len(r["name"])))
-    n = len(ranked)
+    # Stone is exactly the hand-written "--- 1" list: the answers almost
+    # everyone thinks of. Everything else is ranked from most to least likely
+    # (hand tier first, then how common the name is) and split by
+    # DEEPER_SHARES, so Crystal, the deep cuts, is always the biggest tier.
+    stone = [r for r in rows if r["override"] == 1]
+    rest = sorted(
+        (r for r in rows if r["override"] != 1),
+        key=lambda r: (r["override"] or 3, -r["zipf"], len(r["name"])),
+    )
+    tiers: dict[int, int] = {id(r): 1 for r in stone}
+    bounds, acc = [], 0.0
+    for share in DEEPER_SHARES:
+        acc += share
+        bounds.append(acc)
+    for i, row in enumerate(rest):
+        pct = (i + 0.5) / len(rest)
+        tiers[id(row)] = next(t for t, b in enumerate(bounds, 2) if pct <= b + 1e-9)
 
     starcore_name = raw["meta"].get("starcore")
     if starcore_name:
         sk = strip_plural(normalize(starcore_name))
         star = next(
-            (r for r in ranked if any(strip_plural(normalize(n)) == sk for n in [r["name"], *r["aliases"]])),
+            (r for r in rows if any(strip_plural(normalize(n)) == sk for n in [r["name"], *r["aliases"]])),
             None,
         )
         if star is None:
             sys.exit(f"{cid}: starcore '{starcore_name}' is not in the answer list")
     else:
-        star = ranked[min(n - 1, int(n * AUTO_STARCORE_PERCENTILE))]
+        # The most findable deep cut: the first answer in the Crystal tier.
+        star = next((r for r in rest if tiers[id(r)] == 5), rest[-1] if rest else rows[-1])
+    tiers[id(star)] = STARCORE_TIER
 
-    bounds = []
-    acc = 0.0
-    for share in TIER_SHARES:
-        acc += share
-        bounds.append(acc)
-
-    answers = []
-    for i, row in enumerate(ranked):
-        pct = (i + 0.5) / n
-        tier = next(t for t, b in enumerate(bounds, 1) if pct <= b + 1e-9)
-        if row["override"]:
-            tier = row["override"]
-        if row is star:
-            tier = STARCORE_TIER
-        answers.append(
-            {
-                "name": row["name"],
-                "aliases": row["aliases"],
-                "tier": tier,
-                "familiarity": row["zipf"],
-            }
-        )
+    answers = [
+        {"name": r["name"], "aliases": r["aliases"], "tier": tiers[id(r)], "familiarity": r["zipf"]}
+        for r in stone + rest
+    ]
 
     return {
         "id": cid,

@@ -1,16 +1,16 @@
 "use client";
 
 import Link from "next/link";
-import { useMemo } from "react";
 import { addDays, dayNumber, formatShortDate, LAUNCH_DATE, localToday } from "@/lib/dates";
 import { formatMeters, rankFor } from "@/lib/tiers";
-import { loadAllDays, totalDepth, type DayRecord } from "@/lib/client/storage";
+import { totalDepth } from "@/lib/client/storage";
+import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
 import s from "./Pages.module.css";
 
 export default function ArchiveList() {
   const mounted = useMounted();
-  const days = useMemo<Record<string, DayRecord>>(() => (mounted ? loadAllDays() : {}), [mounted]);
+  const days = useDays();
   if (!mounted) return null;
   const today = localToday();
 

@@ -1,0 +1,4538 @@
+[
+{
+"name": "Rome",
+"aliases": [
+"Capital of the World",
+"City of Marble",
+"City of Seven Hills",
+"Eternal City",
+"Rome, Italy",
+"The Capital of the World",
+"The City of Marble",
+"The Eternal City"
+],
+"links": 344
+},
+{
+"name": "Moscow",
+"aliases": [
+"City of Moscow",
+"Moscow, Russia",
+"Moscow, Russian Federation",
+"Moscow, Russian SFSR",
+"Moscow, Soviet Union",
+"Moscow, USSR",
+"Moskovĭ",
+"Moskva Federal City, Russia",
+"Moskva, Rossiya",
+"Moskva, Russia",
+"Moskve",
+"Moskvi",
+"Moskvë",
+"Mosky"
+],
+"links": 338
+},
+{
+"name": "Helsinki",
+"aliases": [
+"Helsingia",
+"Helsingin kaupunki",
+"Hesa",
+"Stadi"
+],
+"links": 293
+},
+{
+"name": "Istanbul",
+"aliases": [],
+"links": 290
+},
+{
+"name": "Athens",
+"aliases": [
+"Athenae",
+"Athens city"
+],
+"links": 289
+},
+{
+"name": "Warsaw",
+"aliases": [],
+"links": 288
+},
+{
+"name": "Amsterdam",
+"aliases": [
+"A'dam",
+"Amsterdam, Netherlands",
+"Amsterdam, NL",
+"Amsterdam, North Holland",
+"Mokum"
+],
+"links": 285
+},
+{
+"name": "Edirne",
+"aliases": [
+"Adrianopolis",
+"Edirne City",
+"Hadrianopolis"
+],
+"links": 283
+},
+{
+"name": "Stockholm",
+"aliases": [
+"Sthlm",
+"STHLM"
+],
+"links": 279
+},
+{
+"name": "Saint Petersburg",
+"aliases": [
+"Petersburg",
+"Sankt-Peterburg",
+"St Petersburg",
+"St.Petersburg"
+],
+"links": 273
+},
+{
+"name": "Prague",
+"aliases": [
+"City of Prague",
+"Hlavní město Praha"
+],
+"links": 270
+},
+{
+"name": "Copenhagen",
+"aliases": [
+"Copenhagen, Denmark",
+"CPH",
+"Hafn",
+"KBH",
+"Kbh.",
+"Kobenhavn",
+"Kopenhagen",
+"Köbenhavn"
+],
+"links": 245
+},
+{
+"name": "Oslo",
+"aliases": [
+"NOOSL",
+"Oslo, Norway"
+],
+"links": 245
+},
+{
+"name": "Brussels",
+"aliases": [
+"Brussels City",
+"City of Brussels"
+],
+"links": 240
+},
+{
+"name": "Munich",
+"aliases": [
+"Monachium",
+"Muenchen",
+"Munich, Germany",
+"Münich"
+],
+"links": 240
+},
+{
+"name": "Bucharest",
+"aliases": [
+"Bucharest, Romania",
+"Bucuresti",
+"Bucureşti",
+"București",
+"Little Paris",
+"Paris of the East"
+],
+"links": 238
+},
+{
+"name": "Dublin",
+"aliases": [
+"City of Dublin",
+"Dublin city",
+"Dublin, Ireland"
+],
+"links": 238
+},
+{
+"name": "Minsk",
+"aliases": [
+"Mensk",
+"Miensk",
+"Minskas",
+"Mińsk"
+],
+"links": 232
+},
+{
+"name": "Venice",
+"aliases": [
+"Serenissima",
+"Venetia",
+"Venexia",
+"Venice, Italy"
+],
+"links": 232
+},
+{
+"name": "Belgrade",
+"aliases": [
+"Belgrade, Serbia",
+"City of Belgrade"
+],
+"links": 230
+},
+{
+"name": "Hamburg",
+"aliases": [
+"Free and Hanseatic City of Hamburg",
+"Hamburg, Freie und Hansestadt",
+"Hamburg, Germany"
+],
+"links": 230
+},
+{
+"name": "Tallinn",
+"aliases": [
+"Kolywan",
+"Lindanäs",
+"Lyndanisse",
+"Reuel",
+"Revel",
+"Rewel",
+"Tallinn, Estonia"
+],
+"links": 230
+},
+{
+"name": "Vilnius",
+"aliases": [
+"Vilnia",
+"Vilno",
+"Vilnyus",
+"Vilnė",
+"Viĺnia",
+"Viļņa"
+],
+"links": 230
+},
+{
+"name": "Tbilisi",
+"aliases": [
+"Tbilisi, Georgia",
+"Tbilissi",
+"Tiflis",
+"Tpilisi",
+"Tpilissi"
+],
+"links": 229
+},
+{
+"name": "Bratislava",
+"aliases": [],
+"links": 226
+},
+{
+"name": "Milan",
+"aliases": [
+"Mailand",
+"Milan, Italy",
+"Milan, Lombardy",
+"Milano, Italy"
+],
+"links": 226
+},
+{
+"name": "Riga",
+"aliases": [
+"Rige",
+"Riia",
+"Rija",
+"Rīgõ"
+],
+"links": 225
+},
+{
+"name": "Astana",
+"aliases": [
+"Akmola",
+"Akmolinsk",
+"Aqmola",
+"Nur-Sultan",
+"Tselinograd"
+],
+"links": 218
+},
+{
+"name": "Reykjavík",
+"aliases": [
+"Reykjavik",
+"Reykjavikurborg",
+"Reykjavíkurborg"
+],
+"links": 218
+},
+{
+"name": "Sarajevo",
+"aliases": [
+"Bosna-Serai",
+"City of Sarajevo"
+],
+"links": 218
+},
+{
+"name": "Zagreb",
+"aliases": [],
+"links": 218
+},
+{
+"name": "Florence",
+"aliases": [
+"Florence Municipality",
+"Florence, Italy",
+"Florence, Tuscany"
+],
+"links": 214
+},
+{
+"name": "Frankfurt",
+"aliases": [
+"Francfort",
+"Frankfurt am Main",
+"Frankfurt am Main, Germany",
+"Frankfurt, Germany",
+"Kreisfreie Stadt Frankfurt am Main"
+],
+"links": 212
+},
+{
+"name": "Bern",
+"aliases": [
+"Berna",
+"Berne",
+"city of Bern"
+],
+"links": 207
+},
+{
+"name": "Naples",
+"aliases": [
+"Neapolis"
+],
+"links": 207
+},
+{
+"name": "Ljubljana",
+"aliases": [
+"Labacum",
+"Ljubljana, Slovenia",
+"Lublana"
+],
+"links": 206
+},
+{
+"name": "Nicosia",
+"aliases": [
+"Ledra",
+"Ledrae",
+"Ledroi",
+"Ledron",
+"Lefkosa",
+"Lefkosia",
+"Leucopolis",
+"Leucosia",
+"Leucotheon",
+"Leukoi Theoi",
+"Leuteon",
+"Nicosie"
+],
+"links": 204
+},
+{
+"name": "Geneva",
+"aliases": [
+"Geneva GE",
+"Genf"
+],
+"links": 200
+},
+{
+"name": "Lyon",
+"aliases": [
+"City of Lyon",
+"Commune-Affranchie"
+],
+"links": 197
+},
+{
+"name": "Skopje",
+"aliases": [
+"Escópia",
+"Shkup",
+"Shkupi",
+"Skoplje",
+"Üsküb"
+],
+"links": 197
+},
+{
+"name": "Chișinău",
+"aliases": [
+"Chisinau",
+"Chisnau",
+"Chişinău",
+"Keshenev",
+"Keshinov",
+"Khisinau",
+"Kischinew",
+"Kischiniov",
+"Kiscinev",
+"Kishinef",
+"Kishinev",
+"Kishinëv",
+"Kiszyniów",
+"Kişinev",
+"Kišinìv",
+"Kyshyniv"
+],
+"links": 195
+},
+{
+"name": "Strasbourg",
+"aliases": [
+"Schdroosburi",
+"Strasburg",
+"Strosburi",
+"Strossburig"
+],
+"links": 194
+},
+{
+"name": "Edinburgh",
+"aliases": [
+"Athens of the North",
+"Auld Reekie",
+"City of Edinburgh",
+"Edina",
+"Edinburgh, Scotland",
+"Modern Athens"
+],
+"links": 192
+},
+{
+"name": "Podgorica",
+"aliases": [
+"Burguriçe",
+"Capital of Montenegro"
+],
+"links": 192
+},
+{
+"name": "Cologne",
+"aliases": [
+"Cologne, Germany",
+"Colonia Claudia Ara Agrippinensium - in Laitn",
+"Kreisfreie Stadt Köln",
+"Kölle"
+],
+"links": 190
+},
+{
+"name": "Kraków",
+"aliases": [
+"Cracovie",
+"Krakiv",
+"Krakkó",
+"Krako",
+"Krakov",
+"Krakova",
+"Krakoy",
+"Krakuv",
+"Kroke",
+"Royal Capital City of Kraków",
+"Royal City of Kraków"
+],
+"links": 185
+},
+{
+"name": "Bordeaux",
+"aliases": [
+"Bordele",
+"Bordeu",
+"Bordèu",
+"Burdigala",
+"Commune-Franklin"
+],
+"links": 184
+},
+{
+"name": "Liverpool",
+"aliases": [
+"City of Liverpool",
+"Liverpool, England",
+"Liverpool, Merseyside",
+"Liverpool, UK"
+],
+"links": 184
+},
+{
+"name": "Dresden",
+"aliases": [
+"Drezda",
+"Elbflorenz",
+"Kreisfreie Stadt Dresden"
+],
+"links": 183
+},
+{
+"name": "Stuttgart",
+"aliases": [],
+"links": 183
+},
+{
+"name": "Genoa",
+"aliases": [
+"Genoa, Italy",
+"Genova, Italy",
+"Zena"
+],
+"links": 180
+},
+{
+"name": "Turin",
+"aliases": [
+"Turin, Italy"
+],
+"links": 180
+},
+{
+"name": "Lviv",
+"aliases": [
+"L'vov",
+"Lemberik",
+"Leopol",
+"Lvov",
+"Lwow",
+"Lwów"
+],
+"links": 177
+},
+{
+"name": "Durrës",
+"aliases": [
+"Durres"
+],
+"links": 176
+},
+{
+"name": "Glasgow",
+"aliases": [
+"Glasgow, Scotland",
+"Glasgow, UK"
+],
+"links": 176
+},
+{
+"name": "Luxembourg",
+"aliases": [
+"City of Luxembourg",
+"Luxembourg City",
+"Luxemburg"
+],
+"links": 176
+},
+{
+"name": "Toulouse",
+"aliases": [
+"Pink City",
+"Toulouse, France",
+"Toulouse, Occitania"
+],
+"links": 176
+},
+{
+"name": "Nice",
+"aliases": [
+"Nice, Côte d'Azur",
+"Nice, French Riviera",
+"Nissa",
+"Niça"
+],
+"links": 175
+},
+{
+"name": "Palermo",
+"aliases": [
+"Palermo, Italy"
+],
+"links": 175
+},
+{
+"name": "Düsseldorf",
+"aliases": [
+"Duesseldorf"
+],
+"links": 174
+},
+{
+"name": "Gdańsk",
+"aliases": [
+"Dantzick",
+"Dantzig",
+"Gdansk",
+"Gedanum"
+],
+"links": 172
+},
+{
+"name": "Hanover",
+"aliases": [
+"Hannober",
+"Hannover",
+"Hannover, Germany",
+"Hanover, Germany"
+],
+"links": 172
+},
+{
+"name": "Rotterdam",
+"aliases": [
+"R'dam",
+"Roffa",
+"Rotjeknor"
+],
+"links": 170
+},
+{
+"name": "Leipzig",
+"aliases": [],
+"links": 169
+},
+{
+"name": "Bremen",
+"aliases": [
+"City Municipality of Bremen",
+"Hansestadt Bremen"
+],
+"links": 164
+},
+{
+"name": "Kazan",
+"aliases": [
+"Qazan"
+],
+"links": 164
+},
+{
+"name": "Belfast",
+"aliases": [
+"Beal Feirste",
+"Belfast, Northern Ireland",
+"Béal Feirste"
+],
+"links": 163
+},
+{
+"name": "Bonn",
+"aliases": [
+"Bonn, Germany",
+"Bonn, West Germany",
+"Federal City of Bonn"
+],
+"links": 163
+},
+{
+"name": "Cardiff",
+"aliases": [
+"Cardiff, South Glamorgan",
+"Cardiff, UK",
+"Cardiff, United Kingdom",
+"Cardiff, Wales"
+],
+"links": 163
+},
+{
+"name": "Katowice",
+"aliases": [
+"Kattowitz"
+],
+"links": 163
+},
+{
+"name": "Lille",
+"aliases": [
+"Lile",
+"Rijsel",
+"Rysel"
+],
+"links": 162
+},
+{
+"name": "Gothenburg",
+"aliases": [
+"Gothenburg, Sweden",
+"Göteborg"
+],
+"links": 161
+},
+{
+"name": "Salzburg",
+"aliases": [],
+"links": 161
+},
+{
+"name": "Novosibirsk",
+"aliases": [],
+"links": 159
+},
+{
+"name": "Thessaloniki",
+"aliases": [
+"Salonica",
+"Saloniki",
+"Thessalonica"
+],
+"links": 159
+},
+{
+"name": "Volgograd",
+"aliases": [
+"Stalingrad",
+"Tsaritsyn"
+],
+"links": 159
+},
+{
+"name": "Nuremberg",
+"aliases": [
+"Kreisfreie Stadt Nürnberg",
+"Nüremberg",
+"Nürnberg"
+],
+"links": 158
+},
+{
+"name": "Pristina",
+"aliases": [
+"Prishtina",
+"Prishtinë",
+"Priştina",
+"Priština"
+],
+"links": 158
+},
+{
+"name": "Kaliningrad",
+"aliases": [
+"Königsberg",
+"Tuwangeste",
+"Tuwangste",
+"Twangste",
+"Twankste",
+"Twongst",
+"Twoyngst"
+],
+"links": 157
+},
+{
+"name": "Rouen",
+"aliases": [
+"Rotomagus"
+],
+"links": 156
+},
+{
+"name": "Graz",
+"aliases": [
+"Bairisch-Grätz",
+"Bayrisch-Grätz",
+"Gradec",
+"Graecia",
+"Gratz",
+"Grez",
+"Grätz"
+],
+"links": 155
+},
+{
+"name": "Dortmund",
+"aliases": [],
+"links": 153
+},
+{
+"name": "Potsdam",
+"aliases": [
+"Imperial City of Potsdam"
+],
+"links": 152
+},
+{
+"name": "Sevastopol",
+"aliases": [
+"Aqyar",
+"Sebastopol",
+"Sevastopil",
+"Sevastopol'",
+"Sewastupolis",
+"Sewastúpolis"
+],
+"links": 151
+},
+{
+"name": "Basel",
+"aliases": [
+"Basel BS",
+"Basle",
+"Bâle"
+],
+"links": 150
+},
+{
+"name": "Bergen",
+"aliases": [],
+"links": 150
+},
+{
+"name": "Innsbruck",
+"aliases": [
+"Innsbruck Stadt",
+"Landeshauptstadt Innsbruck"
+],
+"links": 150
+},
+{
+"name": "Mainz",
+"aliases": [
+"Maguncia",
+"Mayence",
+"Mogontiacum"
+],
+"links": 150
+},
+{
+"name": "Yekaterinburg",
+"aliases": [
+"Ekaterinburg"
+],
+"links": 150
+},
+{
+"name": "Cambridge",
+"aliases": [],
+"links": 149
+},
+{
+"name": "Malmö",
+"aliases": [],
+"links": 149
+},
+{
+"name": "Saratov",
+"aliases": [
+"Saratoff"
+],
+"links": 148
+},
+{
+"name": "Brno",
+"aliases": [
+"Statutory City of Brno"
+],
+"links": 147
+},
+{
+"name": "Ghent",
+"aliases": [],
+"links": 147
+},
+{
+"name": "Heidelberg",
+"aliases": [],
+"links": 147
+},
+{
+"name": "Montpellier",
+"aliases": [],
+"links": 147
+},
+{
+"name": "Nizhny Novgorod",
+"aliases": [
+"Gerkiy",
+"Gorky",
+"Nether Novgorod",
+"Nijni-Novgorod",
+"NiNo",
+"Nizhny"
+],
+"links": 146
+},
+{
+"name": "Szczecin",
+"aliases": [],
+"links": 146
+},
+{
+"name": "Bristol",
+"aliases": [
+"Bristol, England",
+"Bristol, Gloucestershire",
+"Bristol, UK"
+],
+"links": 145
+},
+{
+"name": "Dnipro",
+"aliases": [
+"Dnepr",
+"Dnepropetróvsk",
+"Dnipropetrovsk",
+"Katerynoslav",
+"Novorossiysk",
+"Sicheslav",
+"Yekaterinoslav"
+],
+"links": 145
+},
+{
+"name": "Kaunas",
+"aliases": [
+"Kauen",
+"Kovna",
+"Kovne",
+"Kovno",
+"Kowno"
+],
+"links": 145
+},
+{
+"name": "Aachen",
+"aliases": [
+"Aix la Chapelle",
+"Aix-la-Chapelle",
+"Oche"
+],
+"links": 144
+},
+{
+"name": "Grenoble",
+"aliases": [],
+"links": 144
+},
+{
+"name": "Erfurt",
+"aliases": [],
+"links": 143
+},
+{
+"name": "Linz",
+"aliases": [],
+"links": 143
+},
+{
+"name": "Kiel",
+"aliases": [],
+"links": 142
+},
+{
+"name": "Magdeburg",
+"aliases": [
+"MD"
+],
+"links": 142
+},
+{
+"name": "Poznań",
+"aliases": [],
+"links": 142
+},
+{
+"name": "Verona",
+"aliases": [],
+"links": 142
+},
+{
+"name": "Porto",
+"aliases": [
+"Porto Municipality"
+],
+"links": 141
+},
+{
+"name": "Lausanne",
+"aliases": [
+"City of Lausanne",
+"Lausanne VD",
+"Olympic Capital"
+],
+"links": 140
+},
+{
+"name": "Catania",
+"aliases": [],
+"links": 139
+},
+{
+"name": "Messina",
+"aliases": [
+"Messana",
+"Missina"
+],
+"links": 139
+},
+{
+"name": "Łódź",
+"aliases": [
+"Litzmannstadt",
+"Lodsch",
+"Lodz",
+"Lodz'",
+"Lodzh",
+"Lodž",
+"Łodzi"
+],
+"links": 139
+},
+{
+"name": "Omsk",
+"aliases": [],
+"links": 138
+},
+{
+"name": "Trieste",
+"aliases": [
+"Trst"
+],
+"links": 138
+},
+{
+"name": "Bursa",
+"aliases": [
+"Broussa"
+],
+"links": 137
+},
+{
+"name": "Samara",
+"aliases": [
+"Kuibishev",
+"Kuybyshev",
+"Samara, Russia"
+],
+"links": 137
+},
+{
+"name": "Antalya",
+"aliases": [
+"Adalia",
+"ANT",
+"Attalia",
+"AYT"
+],
+"links": 136
+},
+{
+"name": "Dijon",
+"aliases": [],
+"links": 136
+},
+{
+"name": "Leeds",
+"aliases": [],
+"links": 136
+},
+{
+"name": "Lübeck",
+"aliases": [
+"Hanseatic City of Lübeck",
+"Kreisfreie Stadt Lübeck",
+"Lybeck"
+],
+"links": 136
+},
+{
+"name": "Besançon",
+"aliases": [
+"Besac"
+],
+"links": 135
+},
+{
+"name": "Padua",
+"aliases": [
+"Padova",
+"Pàva"
+],
+"links": 135
+},
+{
+"name": "Perm",
+"aliases": [
+"Molotov",
+"Molotow"
+],
+"links": 135
+},
+{
+"name": "Essen",
+"aliases": [
+"Essen, North Rhine-Westphalia"
+],
+"links": 134
+},
+{
+"name": "Saarbrücken",
+"aliases": [
+"Saarbrucken",
+"Saarbrück"
+],
+"links": 134
+},
+{
+"name": "Karlsruhe",
+"aliases": [
+"Carlsruhe",
+"KA"
+],
+"links": 133
+},
+{
+"name": "Bergamo",
+"aliases": [
+"City of Bergamo"
+],
+"links": 132
+},
+{
+"name": "Irkutsk",
+"aliases": [
+"Erhuu",
+"Erhüü"
+],
+"links": 132
+},
+{
+"name": "Astrakhan",
+"aliases": [
+"Astracan"
+],
+"links": 130
+},
+{
+"name": "Trier",
+"aliases": [
+"Augusta Treverorum",
+"Triers"
+],
+"links": 130
+},
+{
+"name": "Aberdeen",
+"aliases": [
+"Aberdeen, Scotland",
+"Aiberdeen",
+"Aiberdein",
+"Granite City",
+"Obar Dheathain",
+"The Silver City"
+],
+"links": 129
+},
+{
+"name": "Perugia",
+"aliases": [],
+"links": 129
+},
+{
+"name": "York",
+"aliases": [
+"Eburācum",
+"Jorvik",
+"Jórvík"
+],
+"links": 129
+},
+{
+"name": "Aarhus",
+"aliases": [
+"Aarhuus",
+"Arhus",
+"Århus"
+],
+"links": 128
+},
+{
+"name": "Maastricht",
+"aliases": [],
+"links": 128
+},
+{
+"name": "Mannheim",
+"aliases": [
+"Mannem",
+"Mannheim Germany",
+"Mannheim, Germany",
+"Monnem",
+"Universitätsstadt Mannheim"
+],
+"links": 128
+},
+{
+"name": "Duisburg",
+"aliases": [],
+"links": 127
+},
+{
+"name": "Freiburg im Breisgau",
+"aliases": [
+"Freiburg",
+"Freiburg i. B.",
+"Freiburg i. Br.",
+"Freiburg/Breisgau",
+"Stadt Freiburg"
+],
+"links": 127
+},
+{
+"name": "Grozny",
+"aliases": [
+"Groznyy"
+],
+"links": 127
+},
+{
+"name": "Klaipėda",
+"aliases": [
+"Memel"
+],
+"links": 127
+},
+{
+"name": "Ravenna",
+"aliases": [],
+"links": 127
+},
+{
+"name": "Ulm",
+"aliases": [
+"Ulm alb-Donau"
+],
+"links": 127
+},
+{
+"name": "Angers",
+"aliases": [
+"Fruits-Sucrés",
+"Gaie-Vallée",
+"Peu-de-Fonds"
+],
+"links": 126
+},
+{
+"name": "Münster",
+"aliases": [
+"Muenster",
+"Munster"
+],
+"links": 126
+},
+{
+"name": "Trondheim",
+"aliases": [
+"Drontheim",
+"Kaupangen",
+"Nidaros",
+"Trondhem",
+"Trondhjem"
+],
+"links": 126
+},
+{
+"name": "Augsburg",
+"aliases": [
+"Augusta Vindelicorum",
+"Auguste Vindelicor",
+"Kreisfreie Stadt Augsburg",
+"Mixed Imperial City of Augsburg"
+],
+"links": 125
+},
+{
+"name": "Göttingen",
+"aliases": [],
+"links": 125
+},
+{
+"name": "Le Havre",
+"aliases": [
+"Havre",
+"Le Havre-Marat"
+],
+"links": 125
+},
+{
+"name": "Parma",
+"aliases": [],
+"links": 125
+},
+{
+"name": "Simferopol",
+"aliases": [
+"Akmescit",
+"Symferopil"
+],
+"links": 125
+},
+{
+"name": "Smolensk",
+"aliases": [
+"Smoleńsk"
+],
+"links": 125
+},
+{
+"name": "Taranto",
+"aliases": [
+"Taras",
+"Tarentum"
+],
+"links": 125
+},
+{
+"name": "Veliky Novgorod",
+"aliases": [
+"Novgorod",
+"Nowgorod",
+"Nowgorod-Weliki",
+"Velikiy Novgorod"
+],
+"links": 125
+},
+{
+"name": "Zaporizhzhia",
+"aliases": [
+"Aleksandrovsk",
+"Oleksandrivsk",
+"Zaporizhia",
+"Zaporizhzhya"
+],
+"links": 125
+},
+{
+"name": "Clermont-Ferrand",
+"aliases": [
+"Ferrand"
+],
+"links": 124
+},
+{
+"name": "Lublin",
+"aliases": [
+"Lublino",
+"Lyublin"
+],
+"links": 124
+},
+{
+"name": "Reims",
+"aliases": [],
+"links": 124
+},
+{
+"name": "Saint-Étienne",
+"aliases": [
+"Armes-Ville",
+"Canton-d'Armes",
+"Commune-d'Armes",
+"Libre-Ville",
+"Sant Estève",
+"St. Etienne",
+"St. Étienne"
+],
+"links": 124
+},
+{
+"name": "Cluj-Napoca",
+"aliases": [
+"Cluj",
+"Kluyzenburg",
+"Kluzh",
+"Kluž",
+"Kolozhvar",
+"Kolozvar",
+"Muang Kone",
+"Muang Kuan",
+"Napoca"
+],
+"links": 123
+},
+{
+"name": "Krasnoyarsk",
+"aliases": [],
+"links": 123
+},
+{
+"name": "Metz",
+"aliases": [
+"Divodurum"
+],
+"links": 123
+},
+{
+"name": "Nottingham",
+"aliases": [
+"Nottingham, East Midlands",
+"Nottingham, England",
+"Nottingham, Nottinghamshire"
+],
+"links": 123
+},
+{
+"name": "Orléans",
+"aliases": [
+"Cenabum",
+"civitas Aurelianensis",
+"civitas Aurelianorum",
+"Genabum",
+"Orelianum",
+"Orleans",
+"Orliens"
+],
+"links": 123
+},
+{
+"name": "Ancona",
+"aliases": [],
+"links": 122
+},
+{
+"name": "Batumi",
+"aliases": [
+"Batoum"
+],
+"links": 122
+},
+{
+"name": "Bolzano",
+"aliases": [
+"Bozen"
+],
+"links": 122
+},
+{
+"name": "Chemnitz",
+"aliases": [],
+"links": 122
+},
+{
+"name": "Halle",
+"aliases": [
+"Halle a. d. Saale",
+"Halle an der Saale",
+"Halle, Saxony-Anhalt",
+"Halle/Saale"
+],
+"links": 122
+},
+{
+"name": "Khabarovsk",
+"aliases": [],
+"links": 122
+},
+{
+"name": "Nancy",
+"aliases": [
+"Nanzig"
+],
+"links": 122
+},
+{
+"name": "Regensburg",
+"aliases": [
+"Ratisbo",
+"Ratisbon"
+],
+"links": 122
+},
+{
+"name": "Schwerin",
+"aliases": [],
+"links": 122
+},
+{
+"name": "Sheffield",
+"aliases": [
+"Sheffield, England",
+"Sheffield, South Yorkshire"
+],
+"links": 122
+},
+{
+"name": "Brest",
+"aliases": [],
+"links": 121
+},
+{
+"name": "Livorno",
+"aliases": [
+"Leghorn",
+"Livorno, Italy"
+],
+"links": 121
+},
+{
+"name": "Trabzon",
+"aliases": [
+"Tarabossan",
+"Terabesoun",
+"Trabizond",
+"Trabuzan",
+"Trapesunta",
+"Trapezounta",
+"Trapezous",
+"Trapezunt",
+"Trapezus",
+"Trapisonda",
+"Trapizon",
+"Trebesun",
+"Trebisonda",
+"Trebizond",
+"Trebizonde",
+"Tribisonde"
+],
+"links": 121
+},
+{
+"name": "Bruges",
+"aliases": [],
+"links": 120
+},
+{
+"name": "Gaziantep",
+"aliases": [
+"Ain-Tab",
+"Aintab",
+"Antep"
+],
+"links": 120
+},
+{
+"name": "Newcastle upon Tyne",
+"aliases": [],
+"links": 120
+},
+{
+"name": "Plzeň",
+"aliases": [],
+"links": 120
+},
+{
+"name": "Syracuse",
+"aliases": [
+"Siracusa",
+"Syracus",
+"Syracusa",
+"Syracusae",
+"Syracuse, Sicily"
+],
+"links": 120
+},
+{
+"name": "Würzburg",
+"aliases": [
+"Kreisfreie Stadt Würzburg",
+"Wuerzburg",
+"Wörtzburch"
+],
+"links": 120
+},
+{
+"name": "Yaroslavl",
+"aliases": [
+"Jaroslav"
+],
+"links": 120
+},
+{
+"name": "Caen",
+"aliases": [],
+"links": 119
+},
+{
+"name": "Kassel",
+"aliases": [
+"Cassel"
+],
+"links": 119
+},
+{
+"name": "Modena",
+"aliases": [],
+"links": 119
+},
+{
+"name": "Nîmes",
+"aliases": [
+"Nismes"
+],
+"links": 119
+},
+{
+"name": "Reggio Calabria",
+"aliases": [
+"City of Reggio Calabria",
+"Reggio",
+"Reggio di Calabria",
+"Rhegio"
+],
+"links": 119
+},
+{
+"name": "Southampton",
+"aliases": [
+"Soton",
+"Southampton, Hampshire",
+"Southampton, UK"
+],
+"links": 119
+},
+{
+"name": "Tours",
+"aliases": [
+"Tours, Centre",
+"Tours, France",
+"Tours, Indre-et-Loire"
+],
+"links": 119
+},
+{
+"name": "Voronezh",
+"aliases": [
+"Voronezh, Russia",
+"Voronezh, Voronezh Oblast"
+],
+"links": 119
+},
+{
+"name": "Bielefeld",
+"aliases": [],
+"links": 118
+},
+{
+"name": "Makhachkala",
+"aliases": [
+"Makhachkala, Dagestan",
+"Makhachkala, Russia"
+],
+"links": 118
+},
+{
+"name": "Brunswick",
+"aliases": [
+"Braunschweig"
+],
+"links": 117
+},
+{
+"name": "Kayseri",
+"aliases": [
+"Caesarea",
+"Caesarea in Cappadocia",
+"Caesarea Mazaca",
+"Eusebia",
+"Eusebia at the Argaeus",
+"Kaisariyah",
+"Mazaca",
+"Mazaka"
+],
+"links": 117
+},
+{
+"name": "Klagenfurt am Wörthersee",
+"aliases": [],
+"links": 117
+},
+{
+"name": "Rimini",
+"aliases": [],
+"links": 117
+},
+{
+"name": "Eindhoven",
+"aliases": [
+"Eindhoven, North Brabant"
+],
+"links": 116
+},
+{
+"name": "Koblenz",
+"aliases": [
+"Coblence",
+"Coblenz"
+],
+"links": 116
+},
+{
+"name": "Ostrava",
+"aliases": [],
+"links": 116
+},
+{
+"name": "Perpignan",
+"aliases": [
+"Perpinhan",
+"Perpinyà"
+],
+"links": 116
+},
+{
+"name": "Groningen",
+"aliases": [],
+"links": 115
+},
+{
+"name": "Jena",
+"aliases": [],
+"links": 115
+},
+{
+"name": "Konya",
+"aliases": [
+"Mint of Iconium"
+],
+"links": 115
+},
+{
+"name": "Leicester",
+"aliases": [
+"Leicester, England"
+],
+"links": 115
+},
+{
+"name": "Monza",
+"aliases": [],
+"links": 115
+},
+{
+"name": "Mulhouse",
+"aliases": [
+"Milhüsa",
+"Mìlhüüsa",
+"Mülhausen",
+"Mülhausen im Elsass"
+],
+"links": 115
+},
+{
+"name": "Odense",
+"aliases": [],
+"links": 115
+},
+{
+"name": "Split",
+"aliases": [
+"Spalato",
+"Spalatum"
+],
+"links": 115
+},
+{
+"name": "Timișoara",
+"aliases": [
+"Temesvar",
+"Temesvár",
+"Temeswar",
+"Timisoara",
+"Timişoara"
+],
+"links": 115
+},
+{
+"name": "Wuppertal",
+"aliases": [],
+"links": 115
+},
+{
+"name": "Antakya",
+"aliases": [],
+"links": 114
+},
+{
+"name": "Cork",
+"aliases": [
+"Corcaigh",
+"Cork City",
+"Cork Liberties",
+"Corke",
+"Corke Lib.",
+"Corke Liberties",
+"Corke Libts."
+],
+"links": 114
+},
+{
+"name": "Ferrara",
+"aliases": [],
+"links": 114
+},
+{
+"name": "Tomsk",
+"aliases": [],
+"links": 114
+},
+{
+"name": "Szeged",
+"aliases": [
+"Segedin",
+"Segedo",
+"Segedyn",
+"Segedín",
+"Seghedin",
+"Seghedino",
+"Szegedin"
+],
+"links": 113
+},
+{
+"name": "Vicenza",
+"aliases": [],
+"links": 113
+},
+{
+"name": "Alicante",
+"aliases": [
+"Alacant"
+],
+"links": 112
+},
+{
+"name": "Bydgoszcz",
+"aliases": [
+"Bromberg",
+"Bydgostia"
+],
+"links": 112
+},
+{
+"name": "Ingolstadt",
+"aliases": [],
+"links": 112
+},
+{
+"name": "Piacenza",
+"aliases": [],
+"links": 112
+},
+{
+"name": "Pskov",
+"aliases": [
+"Pihkova",
+"Pihkva",
+"Plescow",
+"Pleskau",
+"Pleskava",
+"Pleskov",
+"Pleskow",
+"Pscovia",
+"Pskof",
+"Pskovas",
+"Pskovo",
+"Pskow",
+"Psków",
+"Pszkov"
+],
+"links": 112
+},
+{
+"name": "Gelsenkirchen",
+"aliases": [
+"Swiftkirchen"
+],
+"links": 111
+},
+{
+"name": "Portsmouth",
+"aliases": [
+"Portsmouth, England",
+"Portsmouth, Hampshire"
+],
+"links": 111
+},
+{
+"name": "Ulyanovsk",
+"aliases": [
+"Simbirsk",
+"Sinbirsk"
+],
+"links": 111
+},
+{
+"name": "Aalborg",
+"aliases": [
+"Ålborg"
+],
+"links": 110
+},
+{
+"name": "Bochum",
+"aliases": [],
+"links": 110
+},
+{
+"name": "Limoges",
+"aliases": [
+"Lemòtges",
+"Limòtges"
+],
+"links": 110
+},
+{
+"name": "Novi Sad",
+"aliases": [
+"Ujvidek",
+"Újvidék"
+],
+"links": 110
+},
+{
+"name": "Plymouth",
+"aliases": [
+"Plymouth Devon, England",
+"Plymouth, England"
+],
+"links": 110
+},
+{
+"name": "Pécs",
+"aliases": [
+"Pecs"
+],
+"links": 110
+},
+{
+"name": "Salerno",
+"aliases": [],
+"links": 110
+},
+{
+"name": "Tiraspol",
+"aliases": [
+"Tyraspol"
+],
+"links": 110
+},
+{
+"name": "Wolfsburg",
+"aliases": [],
+"links": 110
+},
+{
+"name": "Białystok",
+"aliases": [
+"Balstogė",
+"Baltstogė",
+"Bialystok",
+"Biełastok",
+"Bjalistok",
+"Byalistok",
+"Byelastok",
+"Byelostok"
+],
+"links": 109
+},
+{
+"name": "Constanța",
+"aliases": [],
+"links": 109
+},
+{
+"name": "Haarlem",
+"aliases": [
+"Haarlem, North Holland",
+"Haerlem"
+],
+"links": 109
+},
+{
+"name": "Vladimir",
+"aliases": [
+"Vladimir upon Klyazma",
+"Vladimir, Russia"
+],
+"links": 109
+},
+{
+"name": "Iași",
+"aliases": [],
+"links": 108
+},
+{
+"name": "Košice",
+"aliases": [
+"Kassa"
+],
+"links": 108
+},
+{
+"name": "Kursk",
+"aliases": [],
+"links": 108
+},
+{
+"name": "Kutaisi",
+"aliases": [],
+"links": 108
+},
+{
+"name": "Miskolc",
+"aliases": [
+"Miškovec"
+],
+"links": 108
+},
+{
+"name": "Offenbach am Main",
+"aliases": [
+"Offenbach",
+"Offenbach/Main"
+],
+"links": 108
+},
+{
+"name": "Prato",
+"aliases": [],
+"links": 108
+},
+{
+"name": "Sassari",
+"aliases": [
+"Sàsser",
+"Tàtari"
+],
+"links": 108
+},
+{
+"name": "Aix-en-Provence",
+"aliases": [
+"Ais de Prouvènço",
+"Aix"
+],
+"links": 107
+},
+{
+"name": "Burgas",
+"aliases": [
+"Bourgas"
+],
+"links": 107
+},
+{
+"name": "Novara",
+"aliases": [],
+"links": 107
+},
+{
+"name": "Rijeka",
+"aliases": [
+"Fiume",
+"Pflaum"
+],
+"links": 107
+},
+{
+"name": "Tver",
+"aliases": [
+"Kalinin"
+],
+"links": 107
+},
+{
+"name": "Vitebsk",
+"aliases": [
+"Vicebsk",
+"Vicebska",
+"Vitebskas",
+"Vitsyebsk",
+"Wizebsk"
+],
+"links": 107
+},
+{
+"name": "Belgorod",
+"aliases": [],
+"links": 106
+},
+{
+"name": "Coventry",
+"aliases": [
+"Coventry, England, UK",
+"Coventry, England, United Kingdom",
+"Coventry, Warwickshire",
+"Coventry, West Midlands"
+],
+"links": 106
+},
+{
+"name": "Delft",
+"aliases": [],
+"links": 106
+},
+{
+"name": "Gdynia",
+"aliases": [
+"Gdingen",
+"Gdiniô"
+],
+"links": 106
+},
+{
+"name": "Izhevsk",
+"aliases": [
+"Izhkar"
+],
+"links": 106
+},
+{
+"name": "Osnabrück",
+"aliases": [],
+"links": 106
+},
+{
+"name": "Reggio Emilia",
+"aliases": [
+"Lepidum Regium",
+"Regium Lepidi",
+"Regium Lepidum"
+],
+"links": 106
+},
+{
+"name": "Ryazan",
+"aliases": [],
+"links": 106
+},
+{
+"name": "Sibiu",
+"aliases": [
+"Cibinium",
+"Hermannstadt",
+"Nagyszeben",
+"Sibiiu"
+],
+"links": 106
+},
+{
+"name": "Terni",
+"aliases": [],
+"links": 106
+},
+{
+"name": "Barnaul",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Cheboksary",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Chernivtsi",
+"aliases": [
+"Cernivtsi",
+"Cernwitze Bukovina",
+"Chernovits",
+"Chernovitsy",
+"Chernovitz",
+"Chernívtsi",
+"Csernovic",
+"Czernovicum",
+"Tchernovtsi",
+"Tjernivtsi",
+"Tjernovtsy",
+"Tschernovitz",
+"Tschernowzy",
+"Tsernivtsi",
+"Tsernovtso",
+"Tshernivtsi",
+"Txernivtsi",
+"Tšernivtsi",
+"Tšernovtsõ",
+"Çernivtsi",
+"Černivci",
+"Černovcy",
+"Černovice"
+],
+"links": 105
+},
+{
+"name": "Erlangen",
+"aliases": [
+"Medical Valley"
+],
+"links": 105
+},
+{
+"name": "Maribor",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Maykop",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Namur",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Orenburg",
+"aliases": [],
+"links": 105
+},
+{
+"name": "Petrozavodsk",
+"aliases": [
+"Petroskoi"
+],
+"links": 105
+},
+{
+"name": "Le Mans",
+"aliases": [
+"Cenomanensium",
+"Croix-Gazonfière",
+"Denis-des-Coudrais",
+"Saint-Georges-du-Plain",
+"Sainte-Croix"
+],
+"links": 104
+},
+{
+"name": "Saransk",
+"aliases": [],
+"links": 104
+},
+{
+"name": "Breda",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Brest",
+"aliases": [
+"Bieraście",
+"Brest-Litovsk",
+"Brest-on-the-Bug",
+"Brisk",
+"Byerastsye",
+"Litovsk"
+],
+"links": 103
+},
+{
+"name": "Elista",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Heilbronn",
+"aliases": [
+"Heilbronn am Neckar"
+],
+"links": 103
+},
+{
+"name": "Kaluga",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Karaganda",
+"aliases": [
+"Karagandy",
+"Qaraghandy"
+],
+"links": 103
+},
+{
+"name": "Mönchengladbach",
+"aliases": [
+"Kreisfreie Stadt Mönchengladbach",
+"Mönchen-Gladbach",
+"München-Gladbach"
+],
+"links": 103
+},
+{
+"name": "Saint-Denis",
+"aliases": [
+"Saint Denis, Réunion",
+"Saint-Denis de La Réunion",
+"Saint-Denis-de-la-Réunion"
+],
+"links": 103
+},
+{
+"name": "Vinnytsia",
+"aliases": [
+"Vinica",
+"Vinnica",
+"Vinnitsa",
+"Vinnycja",
+"Vinnytsa",
+"Vinnytsya",
+"Winnica"
+],
+"links": 103
+},
+{
+"name": "Zwolle",
+"aliases": [
+"Zwolle, Overijssel"
+],
+"links": 103
+},
+{
+"name": "Örebro",
+"aliases": [],
+"links": 103
+},
+{
+"name": "Brașov",
+"aliases": [
+"Brasov",
+"Brassó",
+"Braşov",
+"Kronstadt"
+],
+"links": 102
+},
+{
+"name": "Cottbus",
+"aliases": [
+"Chóśebuz"
+],
+"links": 102
+},
+{
+"name": "Hrodna",
+"aliases": [
+"Gardinas",
+"Garten",
+"Grodne",
+"Grodno",
+"Horadnia",
+"Horodne",
+"Hurodno"
+],
+"links": 102
+},
+{
+"name": "Norwich",
+"aliases": [
+"Norwich, England",
+"Norwich, Norfolk"
+],
+"links": 102
+},
+{
+"name": "Olomouc",
+"aliases": [
+"Olmütz"
+],
+"links": 102
+},
+{
+"name": "Paderborn",
+"aliases": [],
+"links": 102
+},
+{
+"name": "Toruń",
+"aliases": [
+"Thorn",
+"Torun"
+],
+"links": 102
+},
+{
+"name": "Tula",
+"aliases": [
+"Tula, Russia"
+],
+"links": 102
+},
+{
+"name": "Ulan-Ude",
+"aliases": [
+"Udinsk",
+"Udinskoye",
+"Ulan Ude",
+"Verkheoudinsk",
+"Verkhneudinsk"
+],
+"links": 102
+},
+{
+"name": "Uzhhorod",
+"aliases": [
+"Ugohrad",
+"Ungvár",
+"Ungwar",
+"Uzhgorod",
+"Užhorod"
+],
+"links": 102
+},
+{
+"name": "Almere",
+"aliases": [
+"Almere, Flevoland",
+"Almere, Netherlands"
+],
+"links": 101
+},
+{
+"name": "Derbent",
+"aliases": [
+"Darband",
+"Derbend"
+],
+"links": 101
+},
+{
+"name": "Diyarbakır",
+"aliases": [
+"Amid",
+"Diarbekir",
+"Mint of Amid"
+],
+"links": 101
+},
+{
+"name": "Dundee",
+"aliases": [
+"City of Dundee",
+"Dùn Dè",
+"Dùn Dèagh",
+"juteopolis"
+],
+"links": 101
+},
+{
+"name": "Heraklion",
+"aliases": [
+"Candia",
+"Heraclion",
+"Irakleion",
+"Iraklion"
+],
+"links": 101
+},
+{
+"name": "Hildesheim",
+"aliases": [],
+"links": 101
+},
+{
+"name": "Krefeld",
+"aliases": [
+"Crefeld"
+],
+"links": 101
+},
+{
+"name": "Linköping",
+"aliases": [
+"Linkeboda",
+"Staden vid Stångån"
+],
+"links": 101
+},
+{
+"name": "Oberhausen",
+"aliases": [],
+"links": 101
+},
+{
+"name": "Rzeszów",
+"aliases": [
+"J-Town",
+"Raishov",
+"Raysha",
+"Rayshe",
+"Reichshof",
+"Reisha",
+"Resovia",
+"Riashiv",
+"Risha",
+"Rzeszow",
+"Zheshov",
+"Zheshuv",
+"Zhezhov",
+"Řesov",
+"Řešov",
+"Žesova",
+"Žešova"
+],
+"links": 101
+},
+{
+"name": "Winterthur",
+"aliases": [
+"Winterthur ZH"
+],
+"links": 101
+},
+{
+"name": "Bremerhaven",
+"aliases": [
+"BHV"
+],
+"links": 100
+},
+{
+"name": "Derby",
+"aliases": [
+"Derby, Derbyshire",
+"Derby, East Midlands",
+"Derby, England",
+"Derby, United Kingdom"
+],
+"links": 100
+},
+{
+"name": "Leverkusen",
+"aliases": [],
+"links": 100
+},
+{
+"name": "Ludwigshafen",
+"aliases": [
+"Ludwigshafen am Rhein",
+"Ludwigshafen, Germany",
+"Ludwigshafen/Rhein"
+],
+"links": 100
+},
+{
+"name": "Nouméa",
+"aliases": [
+"Noumea"
+],
+"links": 100
+},
+{
+"name": "Oldenburg",
+"aliases": [],
+"links": 100
+},
+{
+"name": "Oradea",
+"aliases": [
+"Grosswardein",
+"Groysvardein",
+"Magnovaradinum",
+"Nagy-Varad",
+"Nagy-Várad",
+"Nagyvárad",
+"Oradea-Mare",
+"Varat",
+"Vel'ký Varadín",
+"Veliki Varadin",
+"Velky Varadin"
+],
+"links": 100
+},
+{
+"name": "Patras",
+"aliases": [
+"Mint of Patrae",
+"Patra",
+"Patrae",
+"Patrai",
+"Patras, Greece"
+],
+"links": 100
+},
+{
+"name": "Penza",
+"aliases": [
+"Pensa"
+],
+"links": 100
+},
+{
+"name": "Pforzheim",
+"aliases": [],
+"links": 100
+},
+{
+"name": "Şanlıurfa",
+"aliases": [
+"Edessa",
+"Orrhoe",
+"Sanliurfa",
+"Urfa"
+],
+"links": 100
+},
+{
+"name": "Annecy",
+"aliases": [],
+"links": 99
+},
+{
+"name": "Fürth",
+"aliases": [
+"Jerusalem of Franconia"
+],
+"links": 99
+},
+{
+"name": "Gomel",
+"aliases": [
+"Gomel'",
+"Gomelis",
+"Gomij",
+"Homel",
+"Homel'",
+"Homiel",
+"Homieĺ",
+"Homl",
+"Homlye",
+"Homyel",
+"Homyel'"
+],
+"links": 99
+},
+{
+"name": "Mahilyow",
+"aliases": [
+"Mahileu",
+"Mahiliou",
+"Mahilioŭ",
+"Mogilev",
+"Mogilev-na-Dniepr",
+"Mohilev",
+"Mohliv",
+"Mohylew",
+"Mohyliv",
+"Mohylów",
+"Molev"
+],
+"links": 99
+},
+{
+"name": "Ternopil",
+"aliases": [
+"Cernopol",
+"Tarnepol",
+"Tarnopol",
+"Tarnopolis",
+"Ternopil'",
+"Ternopilis",
+"Ternopilj",
+"Ternopilo",
+"Ternopol'",
+"Ternópil"
+],
+"links": 99
+},
+{
+"name": "Banja Luka",
+"aliases": [
+"Banjaluka"
+],
+"links": 98
+},
+{
+"name": "Boulogne-Billancourt",
+"aliases": [
+"Boulbi",
+"Boulogne",
+"Boulogne-sur-Seine"
+],
+"links": 98
+},
+{
+"name": "Forlì",
+"aliases": [
+"Forli"
+],
+"links": 98
+},
+{
+"name": "Helsingborg",
+"aliases": [],
+"links": 98
+},
+{
+"name": "Ivano-Frankivsk",
+"aliases": [
+"Ivano-Frankivs'k",
+"Stanislau",
+"Stanislav",
+"Stanislavov",
+"Stanislaw",
+"Stanislawow",
+"Stanisle",
+"Stanislev",
+"Stanislo",
+"Stanisławów",
+"Stanyslaviv"
+],
+"links": 98
+},
+{
+"name": "Niš",
+"aliases": [
+"Nis",
+"Nissa"
+],
+"links": 98
+},
+{
+"name": "Piraeus",
+"aliases": [
+"Athens port"
+],
+"links": 98
+},
+{
+"name": "Reutlingen",
+"aliases": [],
+"links": 98
+},
+{
+"name": "Stavropol",
+"aliases": [
+"Voroshilovsk"
+],
+"links": 98
+},
+{
+"name": "Västerås",
+"aliases": [
+"Vasteras"
+],
+"links": 98
+},
+{
+"name": "Šiauliai",
+"aliases": [
+"Schaulen",
+"Schavli",
+"Shaulyai",
+"Shavel",
+"Shavl",
+"Shavli",
+"Shawli",
+"Shiaulai",
+"Siauliai",
+"Silaliai",
+"Szawle",
+"Šauļi",
+"Šiaulių",
+"Šiaulē"
+],
+"links": 98
+},
+{
+"name": "Gera",
+"aliases": [],
+"links": 97
+},
+{
+"name": "Kirov",
+"aliases": [
+"Khlynov",
+"Vyatka"
+],
+"links": 97
+},
+{
+"name": "Kryvyi Rih",
+"aliases": [
+"Krivoy Rog",
+"Kryvyy Rih"
+],
+"links": 97
+},
+{
+"name": "Taganrog",
+"aliases": [
+"Tahanrih",
+"Tahanroh"
+],
+"links": 97
+},
+{
+"name": "Tilburg",
+"aliases": [
+"Gemeente Tilburg"
+],
+"links": 97
+},
+{
+"name": "Bryansk",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Lutsk",
+"aliases": [
+"Loetsk",
+"Luc'k",
+"Luceoria",
+"Luck",
+"Lucka",
+"Luckas",
+"Luts'k",
+"Lutzk",
+"Luytsk",
+"Luzk",
+"Łuck",
+"Łućk"
+],
+"links": 96
+},
+{
+"name": "Mersin",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Neuss",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Shymkent",
+"aliases": [
+"Chimkent"
+],
+"links": 96
+},
+{
+"name": "Syktyvkar",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Amasya",
+"aliases": [
+"Amas ia",
+"Amasya City",
+"Mint of Amas ia"
+],
+"links": 95
+},
+{
+"name": "Częstochowa",
+"aliases": [
+"Chenstochov",
+"Chenstokhov",
+"Chenstokhova",
+"Chestokhova",
+"Czestochowa",
+"Tschenstochau",
+"Tshenstokhov",
+"Čenstochová"
+],
+"links": 95
+},
+{
+"name": "Enschede",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Eskişehir",
+"aliases": [
+"Eski-Shehr",
+"Eskisehir"
+],
+"links": 95
+},
+{
+"name": "Novorossiysk",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Solingen",
+"aliases": [
+"Solich",
+"Solich, NRW",
+"Solingen, North Rhine-Westphalia",
+"Solingen, NRW"
+],
+"links": 95
+},
+{
+"name": "Tambov",
+"aliases": [],
+"links": 95
+},
+{
+"name": "Chita",
+"aliases": [],
+"links": 94
+},
+{
+"name": "Craiova",
+"aliases": [
+"Krajowa"
+],
+"links": 94
+},
+{
+"name": "Erzurum",
+"aliases": [],
+"links": 94
+},
+{
+"name": "Exeter",
+"aliases": [
+"Exeter, Devon",
+"Exeter, England"
+],
+"links": 94
+},
+{
+"name": "Kecskemét",
+"aliases": [
+"Kecskemet"
+],
+"links": 94
+},
+{
+"name": "Leuven",
+"aliases": [],
+"links": 94
+},
+{
+"name": "Limassol",
+"aliases": [],
+"links": 94
+},
+{
+"name": "Mülheim an der Ruhr",
+"aliases": [
+"Mülheim",
+"Mülheim/Ruhr"
+],
+"links": 94
+},
+{
+"name": "Van",
+"aliases": [
+"Van, Turkey"
+],
+"links": 94
+},
+{
+"name": "Yoshkar-Ola",
+"aliases": [
+"Krasnokokshaysk",
+"Tsaryovokokshaysk",
+"Yoshkar Ola"
+],
+"links": 94
+},
+{
+"name": "Hamm",
+"aliases": [
+"Kreisfreie Stadt Hamm"
+],
+"links": 93
+},
+{
+"name": "Olsztyn",
+"aliases": [
+"Allenstein",
+"Dajtki"
+],
+"links": 93
+},
+{
+"name": "Ruse",
+"aliases": [
+"Rustchuk"
+],
+"links": 93
+},
+{
+"name": "Çanakkale",
+"aliases": [
+"Çanakkale City"
+],
+"links": 93
+},
+{
+"name": "Denizli",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Hagen",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Newport",
+"aliases": [
+"Casnewydd",
+"Newport, Gwent",
+"Newport, Monmouthshire",
+"Newport, South Wales",
+"Newport-on-Usk"
+],
+"links": 92
+},
+{
+"name": "Samsun",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Siegen",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Badalona",
+"aliases": [
+"Badalona, Barcelona",
+"Badalona, Catalonia"
+],
+"links": 91
+},
+{
+"name": "Gloucester",
+"aliases": [],
+"links": 91
+},
+{
+"name": "L'Hospitalet de Llobregat",
+"aliases": [
+"Hospitalet",
+"Hospitalet de Llobregat",
+"L'Hospitalet",
+"L’Hospitalet de Llobregat"
+],
+"links": 91
+},
+{
+"name": "Liberec",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Recklinghausen",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Bergisch Gladbach",
+"aliases": [],
+"links": 90
+},
+{
+"name": "Kahramanmaraş",
+"aliases": [
+"Germanicia Caesarea",
+"Germanikeia",
+"Kahramanmaras",
+"Kahramanmarash",
+"Mar'ash",
+"Maras",
+"Marash",
+"Maraş",
+"Markash",
+"Markasi",
+"Marqasi"
+],
+"links": 90
+},
+{
+"name": "Kerch",
+"aliases": [
+"Boğaziçi",
+"Keriç",
+"Kerç",
+"Pantikápaion"
+],
+"links": 90
+},
+{
+"name": "Nyíregyháza",
+"aliases": [
+"Nyiregyhaza"
+],
+"links": 90
+},
+{
+"name": "Sosnowiec",
+"aliases": [
+"Sosnovets",
+"Sosnovice",
+"Sosnovits",
+"Sosnovitz",
+"Sosnovitze",
+"Sosnovyets",
+"Sosnowez"
+],
+"links": 90
+},
+{
+"name": "Arad",
+"aliases": [
+"Arad, Romania"
+],
+"links": 89
+},
+{
+"name": "Batman",
+"aliases": [
+"Batman City"
+],
+"links": 89
+},
+{
+"name": "Galați",
+"aliases": [
+"Galac",
+"Galacz",
+"Galati",
+"Galatz",
+"Galaţi"
+],
+"links": 89
+},
+{
+"name": "Kielce",
+"aliases": [
+"Kel'tse",
+"Kel'tsy",
+"Kelts",
+"Keltz",
+"Kilts",
+"Kiltz"
+],
+"links": 89
+},
+{
+"name": "Larissa",
+"aliases": [
+"Larisa",
+"Larissa, Thessaly",
+"Lárisa",
+"Mint of Larissa, Thessaly",
+"Yenişehir"
+],
+"links": 89
+},
+{
+"name": "Remscheid",
+"aliases": [
+"Kreisfreie Stadt Remscheid"
+],
+"links": 89
+},
+{
+"name": "Bottrop",
+"aliases": [],
+"links": 88
+},
+{
+"name": "Moers",
+"aliases": [],
+"links": 88
+},
+{
+"name": "Stoke-on-Trent",
+"aliases": [
+"Stoke",
+"The Potteries"
+],
+"links": 88
+},
+{
+"name": "Kragujevac",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Lincoln",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Sinop",
+"aliases": [
+"Sinop City",
+"Sinope"
+],
+"links": 87
+},
+{
+"name": "Tarsus",
+"aliases": [
+"Mint of Tarsus"
+],
+"links": 86
+},
+{
+"name": "Villeurbanne",
+"aliases": [],
+"links": 86
+},
+{
+"name": "Gliwice",
+"aliases": [
+"Gleiwitz"
+],
+"links": 85
+},
+{
+"name": "Herne",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Ploiești",
+"aliases": [
+"Ploesti",
+"Ploiesti",
+"Ploieşti"
+],
+"links": 85
+},
+{
+"name": "Tuzla",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Worcester",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Yuzhno-Sakhalinsk",
+"aliases": [
+"Toyohara",
+"Vladimirovka"
+],
+"links": 85
+},
+{
+"name": "Adıyaman",
+"aliases": [
+"Adıyaman City",
+"Hısnımansur"
+],
+"links": 84
+},
+{
+"name": "Castellón de la Plana",
+"aliases": [
+"Castello de la Plana",
+"Castellon de la Plana",
+"Castelló de la Plana"
+],
+"links": 84
+},
+{
+"name": "Middlesbrough",
+"aliases": [
+"Middlesbrough, England",
+"Middlesbrough, North Yorkshire"
+],
+"links": 84
+},
+{
+"name": "Peterborough",
+"aliases": [],
+"links": 84
+},
+{
+"name": "Pleven",
+"aliases": [
+"Plevna"
+],
+"links": 84
+},
+{
+"name": "Stara Zagora",
+"aliases": [
+"The linden city",
+"Zara"
+],
+"links": 84
+},
+{
+"name": "Aktau",
+"aliases": [
+"Aqtau"
+],
+"links": 83
+},
+{
+"name": "Aktobe",
+"aliases": [
+"Aktjubinsk",
+"Aktubinsk",
+"Aktyubinsk",
+"Aqtobe"
+],
+"links": 83
+},
+{
+"name": "Erzincan",
+"aliases": [
+"Erzincan City",
+"Erzingan"
+],
+"links": 83
+},
+{
+"name": "Giugliano in Campania",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Kurgan",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Sabadell",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Salzgitter",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Tokat",
+"aliases": [
+"Dazimon",
+"Tokat City"
+],
+"links": 83
+},
+{
+"name": "Adapazarı",
+"aliases": [
+"Adapazarı district"
+],
+"links": 82
+},
+{
+"name": "Atyrau",
+"aliases": [
+"Guryev"
+],
+"links": 82
+},
+{
+"name": "Aydın",
+"aliases": [
+"Aydin"
+],
+"links": 82
+},
+{
+"name": "Cherkessk",
+"aliases": [],
+"links": 82
+},
+{
+"name": "Yevpatoriya",
+"aliases": [
+"Eupatoria",
+"Yevpatoria",
+"Yevpatoriia"
+],
+"links": 82
+},
+{
+"name": "Bingöl",
+"aliases": [
+"Bingöl City"
+],
+"links": 81
+},
+{
+"name": "Iğdır",
+"aliases": [
+"Iğdır City"
+],
+"links": 81
+},
+{
+"name": "Radom",
+"aliases": [],
+"links": 81
+},
+{
+"name": "Sunderland",
+"aliases": [],
+"links": 81
+},
+{
+"name": "Bielsko-Biała",
+"aliases": [
+"Bielsko-Biala"
+],
+"links": 80
+},
+{
+"name": "Bytom",
+"aliases": [
+"Beuthen",
+"Beuthen in Oberschlesien"
+],
+"links": 80
+},
+{
+"name": "Gorzów Wielkopolski",
+"aliases": [
+"Gorzów",
+"Landsberg",
+"Landsberg an der Warthe",
+"Lãdzberch"
+],
+"links": 79
+},
+{
+"name": "Muş",
+"aliases": [
+"Muş City"
+],
+"links": 79
+},
+{
+"name": "Pavlodar",
+"aliases": [
+"Imakia",
+"Imakiya",
+"Imekia",
+"Jamisch",
+"Khakan Kimak",
+"Khakan-Kimak",
+"Pavldar",
+"Yamakkiyya",
+"Yimakiya",
+"Yimäkiya"
+],
+"links": 79
+},
+{
+"name": "Rustavi",
+"aliases": [],
+"links": 79
+},
+{
+"name": "Zabrze",
+"aliases": [
+"Hindenburg",
+"Hindenburg/Oberschlesien",
+"Zobrze"
+],
+"links": 79
+},
+{
+"name": "Brăila",
+"aliases": [
+"Braila"
+],
+"links": 78
+},
+{
+"name": "Karaman",
+"aliases": [
+"Karaman City",
+"Laranda"
+],
+"links": 78
+},
+{
+"name": "Mardin",
+"aliases": [
+"Maride",
+"Moha"
+],
+"links": 78
+},
+{
+"name": "Nizhny Tagil",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Pitești",
+"aliases": [
+"Pitesti",
+"Piteşti"
+],
+"links": 78
+},
+{
+"name": "Tekirdağ",
+"aliases": [
+"Rodosto",
+"Tekfur Dagh",
+"Tekirdag"
+],
+"links": 78
+},
+{
+"name": "Biysk",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Elbląg",
+"aliases": [
+"Elbing"
+],
+"links": 77
+},
+{
+"name": "Kamianets-Podilskyi",
+"aliases": [
+"Camenița",
+"Kamaniçe",
+"Kamenetz-Podolsk",
+"Kamianets-Podilsky",
+"Kamieniec Podolski",
+"Kamyanets-Podilskyy"
+],
+"links": 77
+},
+{
+"name": "Koszalin",
+"aliases": [
+"Kòszalëno",
+"Köslin"
+],
+"links": 77
+},
+{
+"name": "Murom",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Naberezhnye Chelny",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Osmaniye",
+"aliases": [
+"Osmaniye City"
+],
+"links": 77
+},
+{
+"name": "Semey",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Subotica",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Tychy",
+"aliases": [
+"Tichau"
+],
+"links": 77
+},
+{
+"name": "Zenica",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Almetyevsk",
+"aliases": [
+"Älmät"
+],
+"links": 76
+},
+{
+"name": "Bacău",
+"aliases": [
+"Bakau",
+"Barchau",
+"Bákó"
+],
+"links": 76
+},
+{
+"name": "Baia Mare",
+"aliases": [
+"Baia-Mare",
+"Baja Mare",
+"Frauenbach",
+"Nagybana",
+"Nagybanya",
+"Nagybánya"
+],
+"links": 76
+},
+{
+"name": "Bolu",
+"aliases": [
+"Bolu City"
+],
+"links": 76
+},
+{
+"name": "Chorzów",
+"aliases": [
+"Chorzow",
+"Königshütte"
+],
+"links": 76
+},
+{
+"name": "Isparta",
+"aliases": [
+"Isparta City"
+],
+"links": 76
+},
+{
+"name": "Móstoles",
+"aliases": [
+"Mostoles"
+],
+"links": 76
+},
+{
+"name": "Oral",
+"aliases": [
+"Uralsk"
+],
+"links": 76
+},
+{
+"name": "Rize",
+"aliases": [
+"Rhizaeum",
+"Rhizaion",
+"Rhizus",
+"Rize City",
+"Rizeon"
+],
+"links": 76
+},
+{
+"name": "Siirt",
+"aliases": [
+"Siirt City"
+],
+"links": 76
+},
+{
+"name": "Surgut",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Taraz",
+"aliases": [
+"Dzhambul",
+"Yangi",
+"Zhambyl"
+],
+"links": 76
+},
+{
+"name": "Armavir",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Balıkesir",
+"aliases": [
+"Balikesir"
+],
+"links": 75
+},
+{
+"name": "Oskemen",
+"aliases": [
+"Ust-Kamenogorsk"
+],
+"links": 75
+},
+{
+"name": "Rybinsk",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Satu Mare",
+"aliases": [
+"Sakmir",
+"Saktmar",
+"Sathmar",
+"Satmar",
+"Satmarinum",
+"Satmer",
+"Satul Mare",
+"Szatmar",
+"Szatmar-Nemeti",
+"Szatmarnemeti",
+"Szatmár",
+"Szatmár-Németi",
+"Szatmárnémeti",
+"Sătmar"
+],
+"links": 75
+},
+{
+"name": "Sliven",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Witten",
+"aliases": [],
+"links": 75
+},
+{
+"name": "Yalova",
+"aliases": [
+"Yalova City"
+],
+"links": 75
+},
+{
+"name": "Ağrı",
+"aliases": [
+"Ağrı City",
+"Karaköse"
+],
+"links": 74
+},
+{
+"name": "Giresun",
+"aliases": [
+"Cerasonte",
+"Giresun City"
+],
+"links": 74
+},
+{
+"name": "Khasavyurt",
+"aliases": [],
+"links": 74
+},
+{
+"name": "Płock",
+"aliases": [
+"Plock"
+],
+"links": 74
+},
+{
+"name": "Târgu Mureș",
+"aliases": [
+"Maros-Vasarhely",
+"Maros-Vásárhely",
+"Marosvásárhely",
+"Mures-Osorhei",
+"Mureș-Oșorhei",
+"Naymarkt",
+"Neumarkt",
+"Neumarkt am Mieresch",
+"Novum Forum Siculorum",
+"Osorheiu",
+"Oșorheiu",
+"Szekelyvasarhely",
+"Székelyvásárhely",
+"Targul Muresului",
+"Tirgu Mures",
+"Târgul Mureșului",
+"Tîrgu Mureș",
+"Ujszekelyvasar",
+"Ujvasar",
+"Vásárhely",
+"Újszékelyvásár",
+"Újvásár"
+],
+"links": 74
+},
+{
+"name": "Babruysk",
+"aliases": [
+"Babrujsk",
+"Bobruysk"
+],
+"links": 73
+},
+{
+"name": "Bolton",
+"aliases": [
+"Bolton, Lancashire"
+],
+"links": 73
+},
+{
+"name": "East Berlin",
+"aliases": [
+"Berlin Hauptstadt der DDR",
+"Berlin, Hauptstadt der DDR",
+"Berlin-Ost",
+"Ostberlin",
+"Soviet sector of Berlin",
+"Soviet zone of Berlin"
+],
+"links": 73
+},
+{
+"name": "Engels",
+"aliases": [
+"Kosakenstadt"
+],
+"links": 73
+},
+{
+"name": "Kalisz",
+"aliases": [
+"Kalisch"
+],
+"links": 73
+},
+{
+"name": "Kyzylorda",
+"aliases": [
+"Ak-Mechet",
+"Fort-Perovsky",
+"Kyzyl-Orda",
+"Kzyl-Orda",
+"Perovsk",
+"Qyzylorda"
+],
+"links": 73
+},
+{
+"name": "Nevşehir",
+"aliases": [
+"Muşkara",
+"Neapolis",
+"Nevşehir City"
+],
+"links": 73
+},
+{
+"name": "Preston",
+"aliases": [],
+"links": 73
+},
+{
+"name": "Swindon",
+"aliases": [
+"Swindon, England"
+],
+"links": 73
+},
+{
+"name": "Zonguldak",
+"aliases": [
+"Sandraka",
+"Sandrake",
+"Zonguldak City"
+],
+"links": 73
+},
+{
+"name": "Achinsk",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Berdiansk",
+"aliases": [
+"Berdyansk"
+],
+"links": 72
+},
+{
+"name": "Kırşehir",
+"aliases": [
+"Kırşehir City"
+],
+"links": 72
+},
+{
+"name": "Mytishchi",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Novocherkassk",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Orsk",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Sergiyev Posad",
+"aliases": [
+"Sergiev Posad",
+"Zagorsk"
+],
+"links": 72
+},
+{
+"name": "Sterlitamak",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Suceava",
+"aliases": [
+"Sotschen",
+"Szucsáva"
+],
+"links": 72
+},
+{
+"name": "Uşak",
+"aliases": [
+"Uşak City"
+],
+"links": 72
+},
+{
+"name": "Düzce",
+"aliases": [
+"Düzce City"
+],
+"links": 71
+},
+{
+"name": "Eastbourne",
+"aliases": [
+"Eastbourne, Sussex"
+],
+"links": 71
+},
+{
+"name": "Karabük",
+"aliases": [
+"Karabük City"
+],
+"links": 71
+},
+{
+"name": "Kilis",
+"aliases": [
+"Kilis City"
+],
+"links": 71
+},
+{
+"name": "Kastamonu",
+"aliases": [
+"Kastamonu City",
+"Tumana"
+],
+"links": 70
+},
+{
+"name": "Kostanay",
+"aliases": [
+"Kоstanay",
+"Qostanai"
+],
+"links": 70
+},
+{
+"name": "Milton Keynes",
+"aliases": [
+"Milton Keynes, Buckinghamshire"
+],
+"links": 70
+},
+{
+"name": "Stary Oskol",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Wałbrzych",
+"aliases": [
+"Waldenburg"
+],
+"links": 70
+},
+{
+"name": "Dąbrowa Górnicza",
+"aliases": [
+"Dombrowa"
+],
+"links": 69
+},
+{
+"name": "Huddersfield",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Niğde",
+"aliases": [
+"Niğde City"
+],
+"links": 69
+},
+{
+"name": "Ruda Śląska",
+"aliases": [
+"Ruda",
+"Ruda in Oberschlesien",
+"Ruda Ślionska"
+],
+"links": 69
+},
+{
+"name": "Salavat",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Turkistan",
+"aliases": [
+"Hazrat-i Turkestan",
+"Turkestan",
+"Turkiston",
+"Türkistan",
+"Yasi"
+],
+"links": 69
+},
+{
+"name": "Anderlecht",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Barysaw",
+"aliases": [
+"Barisava",
+"Barysavas",
+"Barysaŭ",
+"Baryssau",
+"Borisov",
+"Borysów"
+],
+"links": 68
+},
+{
+"name": "Kaspiysk",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Nizhnevartovsk",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Pinsk",
+"aliases": [
+"Pińsk"
+],
+"links": 68
+},
+{
+"name": "Yozgat",
+"aliases": [
+"Yozgat City"
+],
+"links": 68
+},
+{
+"name": "Zlatoust",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Kırıkkale",
+"aliases": [
+"Kırıkkale City"
+],
+"links": 67
+},
+{
+"name": "Slough",
+"aliases": [
+"Slough, Berkshire"
+],
+"links": 67
+},
+{
+"name": "Balakovo",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Neftekamsk",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Włocławek",
+"aliases": [
+"Leslau",
+"Wloclawek"
+],
+"links": 66
+},
+{
+"name": "Bijeljina",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Cheltenham",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Dimitrovgrad",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Nikopol",
+"aliases": [
+"Nikopol, Dnipropetrovsk",
+"Nikopol, Ekaterinoslav",
+"Nikopol, Ukraine",
+"Nikopol, Yekaterinoslav",
+"Nikopolʹ",
+"Nykopil",
+"Nykopilʹ"
+],
+"links": 65
+},
+{
+"name": "Nizhnekamsk",
+"aliases": [
+"Tubän Kama"
+],
+"links": 65
+},
+{
+"name": "Petropavl",
+"aliases": [
+"Petropavlovsk"
+],
+"links": 65
+},
+{
+"name": "Baranavichy",
+"aliases": [
+"Baranavičy",
+"Baranovichi",
+"Baranoviechi"
+],
+"links": 64
+},
+{
+"name": "Bataysk",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Buzău",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Kamyshin",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Kokshetau",
+"aliases": [
+"Kökshetaū"
+],
+"links": 63
+},
+{
+"name": "Novi Pazar",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Brighton and Hove",
+"aliases": [
+"City of Brighton and Hove",
+"The City of Brighton and Hove"
+],
+"links": 62
+},
+{
+"name": "Novocheboksarsk",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Volzhsky",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Çorlu",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Berezniki",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Rubtsovsk",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Kamensk-Uralsky",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Novomoskovsk",
+"aliases": [
+"Bobriki",
+"Stalinogorsk"
+],
+"links": 60
+},
+{
+"name": "Saint-Paul",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Warrington",
+"aliases": [
+"Wallington",
+"Warrington, Cheshire"
+],
+"links": 60
+},
+{
+"name": "Shakhty",
+"aliases": [],
+"links": 59
+},
+{
+"name": "West Bromwich",
+"aliases": [
+"West Brom.",
+"Westbromwich"
+],
+"links": 59
+},
+{
+"name": "Novokuybyshevsk",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Novy Urengoy",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Oktyabrsky",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Salford",
+"aliases": [
+"Salford, Greater Manchester"
+],
+"links": 58
+},
+{
+"name": "Wigan",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Mazyr",
+"aliases": [
+"Mozyr",
+"Mozyrz"
+],
+"links": 57
+},
+{
+"name": "Berdsk",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Noyabrsk",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Rotherham",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Temirtau",
+"aliases": [
+"Temirtaū"
+],
+"links": 56
+},
+{
+"name": "Seversk",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Ekibastuz",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Nevinnomyssk",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Novoshakhtinsk",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Cizre",
+"aliases": [
+"Jizre"
+],
+"links": 53
+},
+{
+"name": "Kopeysk",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Pervouralsk",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Bergama",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Birkenhead",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Frederiksberg",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Nefteyugansk",
+"aliases": [],
+"links": 50
+},
+{
+"name": "İnegöl",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Nazilli",
+"aliases": [],
+"links": 49
+},
+{
+"name": "St Helens",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Lüleburgaz",
+"aliases": [
+"Luleburgaz"
+],
+"links": 48
+},
+{
+"name": "Basingstoke",
+"aliases": [
+"Basingstoke, England",
+"Basingstoke, Hampshire"
+],
+"links": 47
+},
+{
+"name": "Midyat",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Telford",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Kozan",
+"aliases": [
+"Sis"
+],
+"links": 46
+},
+{
+"name": "Peristeri",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Kallithea",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Polatlı",
+"aliases": [
+"Polatli"
+],
+"links": 44
+},
+{
+"name": "Siverek",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Viranşehir",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Solihull",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Ereğli",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Patnos",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Körfez",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Nizip",
+"aliases": [
+"Nisib"
+],
+"links": 39
+},
+{
+"name": "Edremit",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Samandağ",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Ünye",
+"aliases": [
+"Oinaion",
+"Unye"
+],
+"links": 38
+},
+{
+"name": "Menemen",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Ödemiş district",
+"aliases": [
+"Odemis",
+"Ödemiş ilçesi"
+],
+"links": 33
+},
+{
+"name": "Kadirli",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Kartepe",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Çayırova",
+"aliases": [],
+"links": 21
+}
+]

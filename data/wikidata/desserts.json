@@ -1,0 +1,6731 @@
+[
+{
+"name": "ice cream",
+"aliases": [
+"cream ice"
+],
+"links": 156
+},
+{
+"name": "baklava",
+"aliases": [
+"pakhlava"
+],
+"links": 89
+},
+{
+"name": "doughnut",
+"aliases": [
+"donut",
+"donuts",
+"doughnuts"
+],
+"links": 86
+},
+{
+"name": "tiramisu",
+"aliases": [],
+"links": 83
+},
+{
+"name": "cookie",
+"aliases": [
+"biscuit",
+"cookies",
+"cracker"
+],
+"links": 72
+},
+{
+"name": "French toast",
+"aliases": [
+"eggy bread",
+"fried bread",
+"gypsy toast",
+"omelette bread"
+],
+"links": 72
+},
+{
+"name": "pudding",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Sachertorte",
+"aliases": [
+"Cookbook:Sachertorte"
+],
+"links": 65
+},
+{
+"name": "sorbet",
+"aliases": [],
+"links": 64
+},
+{
+"name": "rice pudding",
+"aliases": [
+"milk rice"
+],
+"links": 63
+},
+{
+"name": "chocolate brownie",
+"aliases": [
+"brownie",
+"chocolate fudge brownie",
+"fudge brownie"
+],
+"links": 59
+},
+{
+"name": "apple pie",
+"aliases": [],
+"links": 54
+},
+{
+"name": "crème brûlée",
+"aliases": [
+"burnt cream",
+"creme brulee",
+"trinity cream"
+],
+"links": 52
+},
+{
+"name": "macaron",
+"aliases": [],
+"links": 52
+},
+{
+"name": "panettone",
+"aliases": [],
+"links": 52
+},
+{
+"name": "haggis",
+"aliases": [
+"hagese",
+"haggeis",
+"hagws"
+],
+"links": 49
+},
+{
+"name": "aspic",
+"aliases": [
+"kholodets"
+],
+"links": 48
+},
+{
+"name": "congee",
+"aliases": [
+"conjee",
+"juk",
+"rice porridge"
+],
+"links": 48
+},
+{
+"name": "custard",
+"aliases": [],
+"links": 48
+},
+{
+"name": "ice pop",
+"aliases": [
+"freezer pop",
+"Ice Block",
+"Ice Drop",
+"Ice Lolly",
+"Ice Pops",
+"Icy Pole",
+"popsicle"
+],
+"links": 48
+},
+{
+"name": "chocolate cake",
+"aliases": [
+"cake flavored with chocolate"
+],
+"links": 47
+},
+{
+"name": "dulce de leche",
+"aliases": [
+"caramel cream",
+"caramel jam",
+"caramel spread",
+"caramelized condensed milk",
+"caramelized milk",
+"condensed milk jam",
+"confiture de lait",
+"doce de leite",
+"milk candy",
+"milk caramel jam",
+"milk caramel spread",
+"milk jam",
+"milk spread"
+],
+"links": 46
+},
+{
+"name": "gelatin dessert",
+"aliases": [
+"jello",
+"jelly"
+],
+"links": 46
+},
+{
+"name": "Kulfi",
+"aliases": [
+"Cookbook:Kulfi",
+"kulfis",
+"qulfi"
+],
+"links": 46
+},
+{
+"name": "knafeh",
+"aliases": [
+"kanafeh"
+],
+"links": 45
+},
+{
+"name": "laddu",
+"aliases": [
+"laddoo"
+],
+"links": 45
+},
+{
+"name": "Oreo",
+"aliases": [],
+"links": 45
+},
+{
+"name": "crème caramel",
+"aliases": [
+"baked custard",
+"caramel custard",
+"custard pudding",
+"flan",
+"leche flan"
+],
+"links": 44
+},
+{
+"name": "compote",
+"aliases": [
+"compôte"
+],
+"links": 43
+},
+{
+"name": "banana split",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Black Forest cake",
+"aliases": [
+"Black forest gateau",
+"Black Forest gâteau",
+"Schwarzwälder Kirschtorte",
+"Schwarzwälderkirschtorte"
+],
+"links": 42
+},
+{
+"name": "gelato",
+"aliases": [
+"Italian ice cream"
+],
+"links": 41
+},
+{
+"name": "falooda",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Christmas pudding",
+"aliases": [
+"plum pudding"
+],
+"links": 39
+},
+{
+"name": "dondurma",
+"aliases": [
+"Dövme dondurma",
+"Maraş dondurması",
+"Turkish ice cream"
+],
+"links": 39
+},
+{
+"name": "fortune cookie",
+"aliases": [],
+"links": 39
+},
+{
+"name": "tulumba",
+"aliases": [
+"bamiyeh",
+"tulumba tatlısı"
+],
+"links": 39
+},
+{
+"name": "affogato",
+"aliases": [],
+"links": 38
+},
+{
+"name": "frozen yogurt",
+"aliases": [
+"frogurt",
+"froyo",
+"frozen yoghurt"
+],
+"links": 38
+},
+{
+"name": "pavlova",
+"aliases": [
+"pavlova cake"
+],
+"links": 38
+},
+{
+"name": "profiterole",
+"aliases": [
+"cream puff"
+],
+"links": 38
+},
+{
+"name": "stollen",
+"aliases": [
+"christstollen",
+"kerststol",
+"paasstol",
+"stol"
+],
+"links": 38
+},
+{
+"name": "zabaione",
+"aliases": [
+"sabayon",
+"zabaglione",
+"zabajone"
+],
+"links": 38
+},
+{
+"name": "Berliner",
+"aliases": [
+"Berliner Pfannkuchen"
+],
+"links": 37
+},
+{
+"name": "Granita PAT",
+"aliases": [
+"Scirobetta"
+],
+"links": 37
+},
+{
+"name": "Pandoro",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Yule log",
+"aliases": [
+"Bûche de Noël"
+],
+"links": 37
+},
+{
+"name": "tarte Tatin",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Bavarian cream",
+"aliases": [],
+"links": 34
+},
+{
+"name": "sundae",
+"aliases": [
+"ice cream sundae"
+],
+"links": 34
+},
+{
+"name": "aşure",
+"aliases": [
+"ashura porridge",
+"Barbara",
+"Noah's pudding",
+"Varvara"
+],
+"links": 33
+},
+{
+"name": "charlotte",
+"aliases": [],
+"links": 33
+},
+{
+"name": "hardtack",
+"aliases": [
+"biscuit",
+"brewis",
+"cabin bread",
+"hard biscuit",
+"hard bread",
+"hard tack",
+"pilot bread",
+"sea biscuit",
+"sea bread",
+"ship's biscuit",
+"shipbiscuit"
+],
+"links": 33
+},
+{
+"name": "parfait",
+"aliases": [],
+"links": 33
+},
+{
+"name": "rosogolla",
+"aliases": [
+"Rasagola",
+"rasgulla",
+"rasgullah",
+"roshogolla"
+],
+"links": 33
+},
+{
+"name": "trifle",
+"aliases": [],
+"links": 33
+},
+{
+"name": "clafoutis",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Yorkshire pudding",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Baked Alaska",
+"aliases": [
+"glace au four",
+"Norwegian omelette",
+"omelette a la norvegienne",
+"omelette surprise",
+"omelette à la norvégienne"
+],
+"links": 31
+},
+{
+"name": "cracker",
+"aliases": [],
+"links": 31
+},
+{
+"name": "crispbread",
+"aliases": [
+"crisp bread"
+],
+"links": 31
+},
+{
+"name": "Peach Melba",
+"aliases": [],
+"links": 31
+},
+{
+"name": "samanu",
+"aliases": [
+"sumanak"
+],
+"links": 31
+},
+{
+"name": "turrón",
+"aliases": [
+"torrone",
+"torró",
+"turron"
+],
+"links": 31
+},
+{
+"name": "fried ice cream",
+"aliases": [],
+"links": 30
+},
+{
+"name": "pastry cream",
+"aliases": [
+"confectioners' custard",
+"creme pat",
+"crème pâtissière"
+],
+"links": 30
+},
+{
+"name": "qatayef",
+"aliases": [
+"qatayef dumplings"
+],
+"links": 30
+},
+{
+"name": "rum baba",
+"aliases": [],
+"links": 30
+},
+{
+"name": "soft serve",
+"aliases": [
+"Mr. Whippy",
+"soft ice cream",
+"soft serve ice cream"
+],
+"links": 30
+},
+{
+"name": "crème anglaise",
+"aliases": [
+"creme anglaise"
+],
+"links": 29
+},
+{
+"name": "mämmi",
+"aliases": [
+"mämmä",
+"mämy"
+],
+"links": 29
+},
+{
+"name": "shaved ice",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Cendol",
+"aliases": [
+"Cendoi"
+],
+"links": 28
+},
+{
+"name": "crema catalana",
+"aliases": [],
+"links": 28
+},
+{
+"name": "floating island",
+"aliases": [
+"œufs à la neige"
+],
+"links": 28
+},
+{
+"name": "Kadayif",
+"aliases": [
+"Engelshaar",
+"Kadayifi",
+"Kadayıf"
+],
+"links": 28
+},
+{
+"name": "oliebol",
+"aliases": [
+"oliebollen",
+"olykoek",
+"olykoke"
+],
+"links": 28
+},
+{
+"name": "pączki",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Ras malai",
+"aliases": [],
+"links": 28
+},
+{
+"name": "chocolate chip cookie",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Christmas cake",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Crêpe Suzette",
+"aliases": [
+"Crepe Suzette"
+],
+"links": 27
+},
+{
+"name": "Ma'amoul",
+"aliases": [],
+"links": 27
+},
+{
+"name": "McFlurry",
+"aliases": [],
+"links": 27
+},
+{
+"name": "qurabiya",
+"aliases": [
+"kurabiye"
+],
+"links": 27
+},
+{
+"name": "Halo-halo",
+"aliases": [],
+"links": 26
+},
+{
+"name": "hamantash",
+"aliases": [
+"hamantashen",
+"hamentasch",
+"hamentaschen",
+"hamentash",
+"hamentashen",
+"homentash",
+"oznei Haman"
+],
+"links": 26
+},
+{
+"name": "head cheese",
+"aliases": [
+"brawn"
+],
+"links": 26
+},
+{
+"name": "ice cream cake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Jin deui",
+"aliases": [
+"benne ball",
+"sesame seed ball",
+"sesame seed laddu",
+"Zin Deoi"
+],
+"links": 26
+},
+{
+"name": "mango sticky rice",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Neapolitan ice cream",
+"aliases": [
+"Harlequin ice cream",
+"neapolitan ice"
+],
+"links": 26
+},
+{
+"name": "youtiao",
+"aliases": [
+"Yau Char Kwai"
+],
+"links": 26
+},
+{
+"name": "bingsu",
+"aliases": [
+"pat-bingsu"
+],
+"links": 25
+},
+{
+"name": "buñuelo",
+"aliases": [
+"birmuelo",
+"bolinho",
+"bonuelo"
+],
+"links": 25
+},
+{
+"name": "chocolate ice cream",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kugel",
+"aliases": [],
+"links": 25
+},
+{
+"name": "mochi ice cream",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Alaskan ice cream",
+"aliases": [
+"akutaq",
+"Alascan ice cream",
+"Eskimo ice cream",
+"Native ice cream"
+],
+"links": 24
+},
+{
+"name": "Asida",
+"aliases": [
+"aseeda",
+"assida",
+"assîda"
+],
+"links": 24
+},
+{
+"name": "bread pudding",
+"aliases": [],
+"links": 24
+},
+{
+"name": "panforte",
+"aliases": [],
+"links": 24
+},
+{
+"name": "semolina pudding",
+"aliases": [
+"Semolina porridge"
+],
+"links": 24
+},
+{
+"name": "Vanillekipferl",
+"aliases": [
+"Hókifli"
+],
+"links": 24
+},
+{
+"name": "bebinca",
+"aliases": [
+"bebinka",
+"bibik"
+],
+"links": 23
+},
+{
+"name": "crumble",
+"aliases": [],
+"links": 23
+},
+{
+"name": "frangipane",
+"aliases": [],
+"links": 23
+},
+{
+"name": "kogel mogel",
+"aliases": [],
+"links": 23
+},
+{
+"name": "palmier",
+"aliases": [],
+"links": 23
+},
+{
+"name": "powidl",
+"aliases": [],
+"links": 23
+},
+{
+"name": "pryanik",
+"aliases": [
+"pernik",
+"perník",
+"piernik",
+"prianyk"
+],
+"links": 23
+},
+{
+"name": "Soan papdi",
+"aliases": [
+"Sohan papdi"
+],
+"links": 23
+},
+{
+"name": "Spaghettieis",
+"aliases": [],
+"links": 23
+},
+{
+"name": "acarajé",
+"aliases": [],
+"links": 22
+},
+{
+"name": "apple cake",
+"aliases": [],
+"links": 22
+},
+{
+"name": "arare",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Bastani",
+"aliases": [
+"Bastani Sonnati",
+"Bastani Sonnati Zaferani",
+"Iranian ice cream",
+"Persian ice cream",
+"Saffron ice cream"
+],
+"links": 22
+},
+{
+"name": "kakigōri",
+"aliases": [],
+"links": 22
+},
+{
+"name": "lebkuchen",
+"aliases": [
+"honigkuchen",
+"pfefferkuchen"
+],
+"links": 22
+},
+{
+"name": "oatcake",
+"aliases": [],
+"links": 22
+},
+{
+"name": "senbei",
+"aliases": [
+"sembei"
+],
+"links": 22
+},
+{
+"name": "spotted dick",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Stracciatella",
+"aliases": [
+"stracciatella gelato",
+"stracciatella ice cream"
+],
+"links": 22
+},
+{
+"name": "vanilla ice cream",
+"aliases": [],
+"links": 22
+},
+{
+"name": "cranachan",
+"aliases": [],
+"links": 21
+},
+{
+"name": "ice cream sandwich",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Jell-O",
+"aliases": [
+"Jello"
+],
+"links": 21
+},
+{
+"name": "Makroudh",
+"aliases": [],
+"links": 21
+},
+{
+"name": "sandwich cookie",
+"aliases": [
+"cookie sandwich",
+"mouse-poultry",
+"round sandwich biscuit",
+"sandwich biscuit"
+],
+"links": 21
+},
+{
+"name": "bananas Foster",
+"aliases": [],
+"links": 20
+},
+{
+"name": "green tea ice cream",
+"aliases": [
+"green tea iced cream",
+"green-tea ice cream",
+"green-tea iced cream",
+"matcha ice cream"
+],
+"links": 20
+},
+{
+"name": "Torta caprese",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Umm Ali",
+"aliases": [],
+"links": 20
+},
+{
+"name": "white pudding",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Zuccotto",
+"aliases": [],
+"links": 20
+},
+{
+"name": "zuppa inglese",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Achappam",
+"aliases": [
+"honeycomb cookie",
+"rose cookie"
+],
+"links": 19
+},
+{
+"name": "Anzac biscuit",
+"aliases": [],
+"links": 19
+},
+{
+"name": "banana pudding",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Christmas cookies",
+"aliases": [
+"christmas cookie"
+],
+"links": 19
+},
+{
+"name": "Cronut",
+"aliases": [],
+"links": 19
+},
+{
+"name": "douhua",
+"aliases": [
+"doufuhua",
+"soybean pudding",
+"tahwa",
+"taufufa",
+"teu faˇ",
+"tofu brains",
+"tofu flower",
+"tofu pudding",
+"tāu-hoa",
+"tāu-hoe"
+],
+"links": 19
+},
+{
+"name": "Ensaïmada",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Faloodeh",
+"aliases": [
+"Fālūdhaj"
+],
+"links": 19
+},
+{
+"name": "Frittelle",
+"aliases": [
+"fritole",
+"Frittole",
+"fritule"
+],
+"links": 19
+},
+{
+"name": "Hedgehog slice",
+"aliases": [
+"Arretjescake",
+"batik cake",
+"Kek Batik"
+],
+"links": 19
+},
+{
+"name": "kazandibi",
+"aliases": [],
+"links": 19
+},
+{
+"name": "kladdkaka",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Miguelitos",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Mont Blanc",
+"aliases": [],
+"links": 19
+},
+{
+"name": "pişmaniye",
+"aliases": [
+"saray helvası"
+],
+"links": 19
+},
+{
+"name": "St. Lucia bun",
+"aliases": [
+"lussecat",
+"St Lucia bun"
+],
+"links": 19
+},
+{
+"name": "Tufahije",
+"aliases": [],
+"links": 19
+},
+{
+"name": "tutti frutti",
+"aliases": [
+"tutti-frutti"
+],
+"links": 19
+},
+{
+"name": "wafer cookie",
+"aliases": [
+"galletas suizas",
+"oblaten",
+"oblatne",
+"oblea"
+],
+"links": 19
+},
+{
+"name": "cobbler",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Cornetto",
+"aliases": [
+"Drumstick"
+],
+"links": 18
+},
+{
+"name": "Cuajada",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Devil's food cake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Eton mess",
+"aliases": [
+"Harrow mess"
+],
+"links": 18
+},
+{
+"name": "fruit curd",
+"aliases": [],
+"links": 18
+},
+{
+"name": "koeksister",
+"aliases": [],
+"links": 18
+},
+{
+"name": "moin moin",
+"aliases": [
+"Mai Mai",
+"moi moi",
+"moi-moi",
+"moin-moin",
+"Moy Moy",
+"Moyin Moyin",
+"steamed bean pudding"
+],
+"links": 18
+},
+{
+"name": "risalamande",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Salame turco PAT",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Struffoli",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Aachener Printen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "almond tofu",
+"aliases": [
+"almond float",
+"almond jelly",
+"annin dofu",
+"xingren doufu"
+],
+"links": 17
+},
+{
+"name": "butter cookie",
+"aliases": [
+"danish butter cookie",
+"danish cookie"
+],
+"links": 17
+},
+{
+"name": "chinsuko",
+"aliases": [],
+"links": 17
+},
+{
+"name": "fios de ovos",
+"aliases": [
+"angel hair"
+],
+"links": 17
+},
+{
+"name": "graham cracker",
+"aliases": [],
+"links": 17
+},
+{
+"name": "ice cream bar",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kugelis",
+"aliases": [],
+"links": 17
+},
+{
+"name": "molten chocolate cake",
+"aliases": [
+"chocolate lava cake",
+"lava cake"
+],
+"links": 17
+},
+{
+"name": "Poire belle Hélène",
+"aliases": [
+"Poire belle Helene"
+],
+"links": 17
+},
+{
+"name": "rosette",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Semifreddo",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sfenj",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sopaipilla",
+"aliases": [
+"Sopapillas"
+],
+"links": 17
+},
+{
+"name": "strawberry ice cream",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Taralli PAT",
+"aliases": [],
+"links": 17
+},
+{
+"name": "tzimmes",
+"aliases": [
+"tsimmes"
+],
+"links": 17
+},
+{
+"name": "Viennetta",
+"aliases": [],
+"links": 17
+},
+{
+"name": "şekerpare",
+"aliases": [],
+"links": 17
+},
+{
+"name": "açaí na tigela",
+"aliases": [
+"Açaí bowl"
+],
+"links": 16
+},
+{
+"name": "bombolone",
+"aliases": [],
+"links": 16
+},
+{
+"name": "booza",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Chocolate pizza",
+"aliases": [
+"Chocolate pizza dish"
+],
+"links": 16
+},
+{
+"name": "coffee jelly",
+"aliases": [],
+"links": 16
+},
+{
+"name": "cream puff",
+"aliases": [],
+"links": 16
+},
+{
+"name": "flapjack",
+"aliases": [
+"cereal bar",
+"granola bar",
+"muesli bar"
+],
+"links": 16
+},
+{
+"name": "German chocolate cake",
+"aliases": [
+"German's chocolate cake"
+],
+"links": 16
+},
+{
+"name": "kalburabastı",
+"aliases": [
+"hurmašica",
+"kalbura bastı",
+"ormašica",
+"urmašica"
+],
+"links": 16
+},
+{
+"name": "klenät",
+"aliases": [
+"fattigmann",
+"kleina",
+"klejner"
+],
+"links": 16
+},
+{
+"name": "kourabiedes",
+"aliases": [
+"kourabiethes",
+"qurabiya"
+],
+"links": 16
+},
+{
+"name": "Makówki",
+"aliases": [
+"Makowki"
+],
+"links": 16
+},
+{
+"name": "pistachio ice cream",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sablé",
+"aliases": [
+"Sable"
+],
+"links": 16
+},
+{
+"name": "Thirteen desserts",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ais Kacang",
+"aliases": [
+"ABK",
+"Air Batu Kacang"
+],
+"links": 15
+},
+{
+"name": "batik cake",
+"aliases": [
+"Arretje Nof",
+"Arretjes",
+"Arretjescake",
+"Hedgehog slice",
+"Kalter Hund",
+"Kek Batik"
+],
+"links": 15
+},
+{
+"name": "Bika Ambon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "carrot pudding",
+"aliases": [],
+"links": 15
+},
+{
+"name": "chocolate mousse",
+"aliases": [],
+"links": 15
+},
+{
+"name": "chocolate pudding",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Couque de Dinant",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dadiah",
+"aliases": [
+"yogurt"
+],
+"links": 15
+},
+{
+"name": "Dutch baby pancake",
+"aliases": [
+"Dutch baby"
+],
+"links": 15
+},
+{
+"name": "Flaugnarde",
+"aliases": [],
+"links": 15
+},
+{
+"name": "güllaç",
+"aliases": [],
+"links": 15
+},
+{
+"name": "kaju katli",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kaki no tane",
+"aliases": [
+"Kaki-peanuts",
+"Kaki-pi",
+"Kakipii"
+],
+"links": 15
+},
+{
+"name": "Malasada",
+"aliases": [],
+"links": 15
+},
+{
+"name": "nankhatai",
+"aliases": [
+"naan khatai",
+"nan khatai",
+"nuncatie"
+],
+"links": 15
+},
+{
+"name": "saltine cracker",
+"aliases": [
+"saltine",
+"soda cracker"
+],
+"links": 15
+},
+{
+"name": "sandesh",
+"aliases": [
+"Bengali cookies",
+"Bengali Sandesh"
+],
+"links": 15
+},
+{
+"name": "syllabub",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Teh Talua",
+"aliases": [
+"Teh Telur"
+],
+"links": 15
+},
+{
+"name": "TUC",
+"aliases": [],
+"links": 15
+},
+{
+"name": "whoopie pie",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Zerde",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bambalouni",
+"aliases": [],
+"links": 14
+},
+{
+"name": "bombe glacée",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bubur cha cha",
+"aliases": [],
+"links": 14
+},
+{
+"name": "café liégeois",
+"aliases": [
+"cafe liegeois"
+],
+"links": 14
+},
+{
+"name": "castagnaccio",
+"aliases": [],
+"links": 14
+},
+{
+"name": "chantilly cream",
+"aliases": [],
+"links": 14
+},
+{
+"name": "diples",
+"aliases": [
+"thiples"
+],
+"links": 14
+},
+{
+"name": "faworki",
+"aliases": [],
+"links": 14
+},
+{
+"name": "hong dou tang",
+"aliases": [
+"hong dou sha",
+"red bean soup"
+],
+"links": 14
+},
+{
+"name": "Keşkül",
+"aliases": [],
+"links": 14
+},
+{
+"name": "kolak",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Malva pudding",
+"aliases": [],
+"links": 14
+},
+{
+"name": "momiji manjū",
+"aliases": [
+"momiji manju"
+],
+"links": 14
+},
+{
+"name": "mote con huesillo",
+"aliases": [
+"mote con huesillos"
+],
+"links": 14
+},
+{
+"name": "Nanaimo bar",
+"aliases": [],
+"links": 14
+},
+{
+"name": "natillas",
+"aliases": [
+"custard"
+],
+"links": 14
+},
+{
+"name": "Panellets",
+"aliases": [],
+"links": 14
+},
+{
+"name": "picarón",
+"aliases": [
+"picarones"
+],
+"links": 14
+},
+{
+"name": "Plombières",
+"aliases": [],
+"links": 14
+},
+{
+"name": "rocky road ice cream",
+"aliases": [
+"rocky road"
+],
+"links": 14
+},
+{
+"name": "slatko",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Spumoni",
+"aliases": [],
+"links": 14
+},
+{
+"name": "basundi",
+"aliases": [],
+"links": 13
+},
+{
+"name": "beer ice cream",
+"aliases": [],
+"links": 13
+},
+{
+"name": "cat tongues",
+"aliases": [],
+"links": 13
+},
+{
+"name": "chocolate fondant",
+"aliases": [],
+"links": 13
+},
+{
+"name": "coconut bar",
+"aliases": [
+"coconut pudding"
+],
+"links": 13
+},
+{
+"name": "Cookies and Cream",
+"aliases": [
+"cookies & cream"
+],
+"links": 13
+},
+{
+"name": "Frutti di Martorana PAT",
+"aliases": [],
+"links": 13
+},
+{
+"name": "garlic ice cream",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Lemon curd",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mazamorra",
+"aliases": [
+"masamorra"
+],
+"links": 13
+},
+{
+"name": "nun's puffs",
+"aliases": [
+"nun's farts"
+],
+"links": 13
+},
+{
+"name": "pastafrola",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Quindim",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Ritz Crackers",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Rømmegrøt",
+"aliases": [
+"Römmegraut",
+"Römmegröt",
+"Rømmegraut"
+],
+"links": 13
+},
+{
+"name": "Sellu",
+"aliases": [
+"zemmita, zemita"
+],
+"links": 13
+},
+{
+"name": "sholezard",
+"aliases": [],
+"links": 13
+},
+{
+"name": "snow skin mooncake",
+"aliases": [
+"crystal mooncake",
+"ice skin mooncake",
+"snowy mooncake"
+],
+"links": 13
+},
+{
+"name": "stir-fried ice cream",
+"aliases": [
+"ice cream roll",
+"ice pan ice cream",
+"rolled ice cream"
+],
+"links": 13
+},
+{
+"name": "Toruń gingerbread",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Amlu",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Apfelküchle",
+"aliases": [],
+"links": 12
+},
+{
+"name": "bacon ice cream",
+"aliases": [],
+"links": 12
+},
+{
+"name": "blondie",
+"aliases": [
+"blonde brownie",
+"blondie bar",
+"butterscotch brownie"
+],
+"links": 12
+},
+{
+"name": "bread and butter pudding",
+"aliases": [],
+"links": 12
+},
+{
+"name": "bülbülyuvası",
+"aliases": [
+"bülbül yuvası"
+],
+"links": 12
+},
+{
+"name": "Carac",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Chinese almond biscuit",
+"aliases": [
+"Chinese almond cake",
+"Chinese almond cookie"
+],
+"links": 12
+},
+{
+"name": "cold sweet soup",
+"aliases": [
+"cold soup"
+],
+"links": 12
+},
+{
+"name": "Ekmek kadayıfı",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Espasol",
+"aliases": [],
+"links": 12
+},
+{
+"name": "flummery",
+"aliases": [],
+"links": 12
+},
+{
+"name": "frozen custard",
+"aliases": [],
+"links": 12
+},
+{
+"name": "fruit fool",
+"aliases": [
+"fool"
+],
+"links": 12
+},
+{
+"name": "Getuk",
+"aliases": [
+"gêthuk"
+],
+"links": 12
+},
+{
+"name": "Hertzoggie",
+"aliases": [
+"Hertzog Cookie",
+"Hertzogkoekie"
+],
+"links": 12
+},
+{
+"name": "hoşaf",
+"aliases": [
+"hosaf",
+"hoshaf"
+],
+"links": 12
+},
+{
+"name": "ice milk",
+"aliases": [
+"iced milk"
+],
+"links": 12
+},
+{
+"name": "jeonbok-juk",
+"aliases": [
+"abalone rice porridge"
+],
+"links": 12
+},
+{
+"name": "kūčiukai",
+"aliases": [
+"slizhyki"
+],
+"links": 12
+},
+{
+"name": "Nauryz kozhe",
+"aliases": [
+"March soup",
+"Nauryz koje",
+"Nooruz kozhe"
+],
+"links": 12
+},
+{
+"name": "panpepato",
+"aliases": [
+"pampepato"
+],
+"links": 12
+},
+{
+"name": "pfeffernusse",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Plombir",
+"aliases": [],
+"links": 12
+},
+{
+"name": "rainbow cookie",
+"aliases": [],
+"links": 12
+},
+{
+"name": "roti tissue",
+"aliases": [
+"roti helikopter",
+"roti tisu",
+"tissue prata"
+],
+"links": 12
+},
+{
+"name": "Serradura",
+"aliases": [
+"Pudín de Macao",
+"Pudín de serrín"
+],
+"links": 12
+},
+{
+"name": "Springerle",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tartufo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tula gingerbread",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Zalabiyeh",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Assidat zgougou",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Cassatella di Sant'Agata",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Cherries jubilee",
+"aliases": [],
+"links": 11
+},
+{
+"name": "cherry ice cream",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dame blanche",
+"aliases": [
+"coupe Dänemark"
+],
+"links": 11
+},
+{
+"name": "fried Coke",
+"aliases": [],
+"links": 11
+},
+{
+"name": "frozen dessert",
+"aliases": [
+"Frozen Desserts & Novelties",
+"ice confection"
+],
+"links": 11
+},
+{
+"name": "Hallongrotta",
+"aliases": [
+"Raspberry thumbprint cookies",
+"Thumbprint cookies"
+],
+"links": 11
+},
+{
+"name": "ham chim peng",
+"aliases": [
+"bánh tiêu",
+"haam ji peng",
+"ham ji peng",
+"hum chim peng",
+"hum ji peng"
+],
+"links": 11
+},
+{
+"name": "Haupia",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Hawaian shave ice",
+"aliases": [],
+"links": 11
+},
+{
+"name": "hujiao bing",
+"aliases": [
+"bánh tiêu"
+],
+"links": 11
+},
+{
+"name": "Italian ice",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kalb-el-louz",
+"aliases": [
+"qalb el louz"
+],
+"links": 11
+},
+{
+"name": "Kemalpaşa dessert",
+"aliases": [
+"Kemal Pasha dessert"
+],
+"links": 11
+},
+{
+"name": "koloocheh",
+"aliases": [],
+"links": 11
+},
+{
+"name": "mahua",
+"aliases": [],
+"links": 11
+},
+{
+"name": "pestil",
+"aliases": [
+"fruit leather"
+],
+"links": 11
+},
+{
+"name": "pestiños",
+"aliases": [],
+"links": 11
+},
+{
+"name": "quince dessert",
+"aliases": [
+"ayva tatlısı"
+],
+"links": 11
+},
+{
+"name": "smultring",
+"aliases": [],
+"links": 11
+},
+{
+"name": "sticky toffee pudding",
+"aliases": [
+"sticky date pudding",
+"STP"
+],
+"links": 11
+},
+{
+"name": "Sütlü Nuriye",
+"aliases": [
+"Nuriye dessert"
+],
+"links": 11
+},
+{
+"name": "tinutuan porridge",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tiết canh",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tocino de cielo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "vispipuuro",
+"aliases": [
+"klappgröt",
+"klappkräm",
+"mannavaht",
+"Russedessert",
+"vispgröt"
+],
+"links": 11
+},
+{
+"name": "Xuixo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zelten",
+"aliases": [],
+"links": 11
+},
+{
+"name": "şambali",
+"aliases": [
+"sambali",
+"Şam tatlısı",
+"şambalı"
+],
+"links": 11
+},
+{
+"name": "Ada pradhaman",
+"aliases": [
+"Ada prathhaman"
+],
+"links": 10
+},
+{
+"name": "Afikoman",
+"aliases": [],
+"links": 10
+},
+{
+"name": "arroz caldo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bilo-bilo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Calippo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chocolate chip cookie dough ice cream",
+"aliases": [],
+"links": 10
+},
+{
+"name": "chè",
+"aliases": [
+"che"
+],
+"links": 10
+},
+{
+"name": "crab ice cream",
+"aliases": [],
+"links": 10
+},
+{
+"name": "dulce de batata",
+"aliases": [
+"doce de batata doce"
+],
+"links": 10
+},
+{
+"name": "flourless chocolate cake",
+"aliases": [],
+"links": 10
+},
+{
+"name": "freeze-dried ice cream",
+"aliases": [
+"astronaut ice cream",
+"space ice cream"
+],
+"links": 10
+},
+{
+"name": "grape ice cream",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Jodenkoek",
+"aliases": [
+"Dutch cookie",
+"Jew cookie"
+],
+"links": 10
+},
+{
+"name": "Leibniz-Keks",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Mint chocolate chip",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Okpa",
+"aliases": [],
+"links": 10
+},
+{
+"name": "peanut butter cookie",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pumpkin-coconut custard",
+"aliases": [],
+"links": 10
+},
+{
+"name": "sale pisang",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shemai",
+"aliases": [],
+"links": 10
+},
+{
+"name": "snickerdoodle",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Solero",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Summer pudding",
+"aliases": [],
+"links": 10
+},
+{
+"name": "supangle",
+"aliases": [
+"Supanglez"
+],
+"links": 10
+},
+{
+"name": "Tilslørte bondepiker",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Zimtstern",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Arctic roll",
+"aliases": [],
+"links": 9
+},
+{
+"name": "bici bici",
+"aliases": [
+"Bici bici dessert"
+],
+"links": 9
+},
+{
+"name": "Bird's Custard",
+"aliases": [],
+"links": 9
+},
+{
+"name": "blodpalt",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bubur ketan hitam",
+"aliases": [],
+"links": 9
+},
+{
+"name": "cajeta",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Chhoah-peng",
+"aliases": [
+"Baobing",
+"shaved ice",
+"Sod-ben",
+"Tshuah-ping",
+"Tsua-bing"
+],
+"links": 9
+},
+{
+"name": "chocolate covered fruit",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Cơm rượu",
+"aliases": [],
+"links": 9
+},
+{
+"name": "es teler",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Filloas",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Frumenty",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Goxua",
+"aliases": [],
+"links": 9
+},
+{
+"name": "hoşmerim",
+"aliases": [],
+"links": 9
+},
+{
+"name": "jelly doughnut",
+"aliases": [
+"jam doughnut"
+],
+"links": 9
+},
+{
+"name": "Kalathappam",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Khanom chan",
+"aliases": [
+"Steamed layer cake"
+],
+"links": 9
+},
+{
+"name": "Khapse",
+"aliases": [
+"Khapsey"
+],
+"links": 9
+},
+{
+"name": "Kirschenmichel",
+"aliases": [
+"Kerschemischel",
+"Kirschenmännla",
+"Kirschenplotzer",
+"Kirschpfanne"
+],
+"links": 9
+},
+{
+"name": "Knickerbocker glory",
+"aliases": [],
+"links": 9
+},
+{
+"name": "mango float",
+"aliases": [
+"crema de mangga",
+"mango graham float",
+"mango icebox cake",
+"mango refrigerator cake",
+"mango royale"
+],
+"links": 9
+},
+{
+"name": "Mantecadas de Astorga",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Popsicle",
+"aliases": [],
+"links": 9
+},
+{
+"name": "potato doughnut",
+"aliases": [
+"potato donut",
+"spudnut"
+],
+"links": 9
+},
+{
+"name": "pumpkin dessert",
+"aliases": [
+"kabak tatlısı"
+],
+"links": 9
+},
+{
+"name": "Put chai ko",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Quesada Pasiega",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Salceson",
+"aliases": [],
+"links": 9
+},
+{
+"name": "scrapple",
+"aliases": [
+"pan-rabbit",
+"panhaas",
+"panhoss",
+"Pannhaas",
+"pannhas"
+],
+"links": 9
+},
+{
+"name": "Sheki halva",
+"aliases": [],
+"links": 9
+},
+{
+"name": "somlói galuska",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sussex Pond Pudding",
+"aliases": [
+"Blackeyed Susan",
+"Kentish well pudding",
+"well pudding"
+],
+"links": 9
+},
+{
+"name": "Torta setteveli",
+"aliases": [],
+"links": 9
+},
+{
+"name": "twisted doughnut",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Yemas de Santa Teresa",
+"aliases": [],
+"links": 9
+},
+{
+"name": "99 Flake",
+"aliases": [
+"ninety-nine"
+],
+"links": 8
+},
+{
+"name": "bienmesabe",
+"aliases": [],
+"links": 8
+},
+{
+"name": "blue moon",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bremer Klaben",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Burgo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Butter Pecan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "butter tart",
+"aliases": [],
+"links": 8
+},
+{
+"name": "bánh chuối",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Café gourmand",
+"aliases": [
+"Cafe gourmand"
+],
+"links": 8
+},
+{
+"name": "Capirotada",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Chips Ahoy!",
+"aliases": [
+"Chips More!",
+"Choco Chips"
+],
+"links": 8
+},
+{
+"name": "clootie dumpling",
+"aliases": [
+"cloutie"
+],
+"links": 8
+},
+{
+"name": "Coffee ice cream",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cream cracker",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Dawet Ayu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "drisheen",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Edy's Pie",
+"aliases": [
+"Eskimo Pie"
+],
+"links": 8
+},
+{
+"name": "Feqqas",
+"aliases": [],
+"links": 8
+},
+{
+"name": "hodu-gwaja",
+"aliases": [
+"hodo-gwaja",
+"walnut cake",
+"walnut cookie",
+"walnut pastry"
+],
+"links": 8
+},
+{
+"name": "Intxaursaltsa",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Jiuniang",
+"aliases": [
+"láozāo"
+],
+"links": 8
+},
+{
+"name": "Kaasstengels",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Khanom bua loi",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Klondike bar",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Magenbrot",
+"aliases": [],
+"links": 8
+},
+{
+"name": "maja blanca",
+"aliases": [],
+"links": 8
+},
+{
+"name": "mantecado",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mantecol",
+"aliases": [],
+"links": 8
+},
+{
+"name": "merveilleux",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Moustalevria",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Neccio",
+"aliases": [],
+"links": 8
+},
+{
+"name": "ox-tongue pastry",
+"aliases": [
+"Chinese doughnut",
+"horse-ear pastry"
+],
+"links": 8
+},
+{
+"name": "pavê",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Poire à la Beaujolaise",
+"aliases": [
+"Poire a la Beaujolaise"
+],
+"links": 8
+},
+{
+"name": "Sgabeo",
+"aliases": [],
+"links": 8
+},
+{
+"name": "spicy porridge",
+"aliases": [
+"bubur sambas"
+],
+"links": 8
+},
+{
+"name": "steak and kidney pudding",
+"aliases": [],
+"links": 8
+},
+{
+"name": "strawberry pasta",
+"aliases": [
+"strawberry spaghetti"
+],
+"links": 8
+},
+{
+"name": "sweet potato haupia pie",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Thua khiao tom namtan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "ube ice cream",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Yukimi Daifuku",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Abbamele",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Antwerps Handje",
+"aliases": [
+"Antwerpse Handjes"
+],
+"links": 7
+},
+{
+"name": "baci di dama",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bakewell pudding",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Barazek",
+"aliases": [
+"barazeq"
+],
+"links": 7
+},
+{
+"name": "Biscuit Tortoni",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Boston cream doughnut",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Brutti e buoni",
+"aliases": [
+"Brutti ma buoni",
+"Bruttiboni",
+"Mandorlati di San Clemente"
+],
+"links": 7
+},
+{
+"name": "Bustrengo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "caramel shortbread",
+"aliases": [
+"caramel shortcake",
+"caramel slice",
+"caramel squares",
+"Millionaire's shortbread",
+"Millionaire's slice",
+"Millionaires' shortbread",
+"Millionaires' slice"
+],
+"links": 7
+},
+{
+"name": "Chandrakala",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cheez-It",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Chiboust cream",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Chireta",
+"aliases": [],
+"links": 7
+},
+{
+"name": "coca de San Juan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Donut hole",
+"aliases": [
+"donut hole treat",
+"donut hole treats",
+"doughnut hole"
+],
+"links": 7
+},
+{
+"name": "Giurgiulena",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Gogoşi",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Goldfish",
+"aliases": [
+"Goldfish cracker",
+"Pepperidge Farm Goldfish"
+],
+"links": 7
+},
+{
+"name": "hobak-juk",
+"aliases": [
+"pumpkin porridge"
+],
+"links": 7
+},
+{
+"name": "honey toast",
+"aliases": [],
+"links": 7
+},
+{
+"name": "jatjuk",
+"aliases": [
+"pine nut porridge"
+],
+"links": 7
+},
+{
+"name": "Jaynagarer Moa",
+"aliases": [
+"Jaynagarer Moya",
+"Joynagarer Moa",
+"Joynagarer Moya",
+"Moa",
+"Moya"
+],
+"links": 7
+},
+{
+"name": "kluai buat chi",
+"aliases": [
+"banana in coconut milk",
+"kluay buat chee"
+],
+"links": 7
+},
+{
+"name": "Koe'sister",
+"aliases": [],
+"links": 7
+},
+{
+"name": "krentjebrij",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mango pomelo sago",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Maxibon",
+"aliases": [],
+"links": 7
+},
+{
+"name": "military biscuit",
+"aliases": [],
+"links": 7
+},
+{
+"name": "moczka",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mövenpick Ice Cream",
+"aliases": [],
+"links": 7
+},
+{
+"name": "nonnevot",
+"aliases": [],
+"links": 7
+},
+{
+"name": "oatmeal cookie",
+"aliases": [
+"Lace Cookies"
+],
+"links": 7
+},
+{
+"name": "Paparajotes",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pepeçura",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Phirni",
+"aliases": [
+"firni",
+"Phirin"
+],
+"links": 7
+},
+{
+"name": "Pinni",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pootharekulu",
+"aliases": [
+"paper sweet"
+],
+"links": 7
+},
+{
+"name": "pouding chômeur",
+"aliases": [
+"pouding chomeur"
+],
+"links": 7
+},
+{
+"name": "Raspberry Ripple",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Rice pudding cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Roti sai mai",
+"aliases": [
+"Ayutthaya's cotton candy",
+"roti-wrapped candy floss"
+],
+"links": 7
+},
+{
+"name": "sandbakelse",
+"aliases": [],
+"links": 7
+},
+{
+"name": "sanguinaccio dolce",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sharots",
+"aliases": [
+"Armenian snickers",
+"Kaghtsr sujukh",
+"Sujukh",
+"Sweet sujukh"
+],
+"links": 7
+},
+{
+"name": "shika-senbei",
+"aliases": [
+"deer biscuit",
+"deer cracker",
+"deer snack"
+],
+"links": 7
+},
+{
+"name": "Shuangbaotai",
+"aliases": [],
+"links": 7
+},
+{
+"name": "sorbetes",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Special K",
+"aliases": [
+"Kellogg Special K"
+],
+"links": 7
+},
+{
+"name": "sugar cookie",
+"aliases": [],
+"links": 7
+},
+{
+"name": "thong yot",
+"aliases": [
+"buah tanjung",
+"thong yod",
+"tong yod"
+],
+"links": 7
+},
+{
+"name": "Timbits",
+"aliases": [
+"doughnut hole"
+],
+"links": 7
+},
+{
+"name": "torpedo dessert",
+"aliases": [],
+"links": 7
+},
+{
+"name": "turrón de Alicante",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Zaazaa",
+"aliases": [
+"shake"
+],
+"links": 7
+},
+{
+"name": "şöbiyet",
+"aliases": [],
+"links": 7
+},
+{
+"name": "'Mpanatigghi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Aam papad",
+"aliases": [],
+"links": 6
+},
+{
+"name": "aletria",
+"aliases": [],
+"links": 6
+},
+{
+"name": "animal cracker",
+"aliases": [
+"animal cookie"
+],
+"links": 6
+},
+{
+"name": "Bath Oliver",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Berliner Luft",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bingfen",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Black raspberry ice cream",
+"aliases": [],
+"links": 6
+},
+{
+"name": "blood tongue",
+"aliases": [
+"zungenwurst"
+],
+"links": 6
+},
+{
+"name": "bánh rán",
+"aliases": [
+"banh ran",
+"bánh cam"
+],
+"links": 6
+},
+{
+"name": "cabinet pudding",
+"aliases": [],
+"links": 6
+},
+{
+"name": "calzón roto",
+"aliases": [
+"calzones rotos"
+],
+"links": 6
+},
+{
+"name": "caramel nougat",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Carolina",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cartellate",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chajá",
+"aliases": [],
+"links": 6
+},
+{
+"name": "cheese pudding",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chipwich",
+"aliases": [],
+"links": 6
+},
+{
+"name": "chocolate tart",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chremslach",
+"aliases": [
+"Chremsel, chremzel, chremsl, chremzl"
+],
+"links": 6
+},
+{
+"name": "chè trôi nước",
+"aliases": [],
+"links": 6
+},
+{
+"name": "corn cookie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Crocetta of Caltanissetta",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Death by Chocolate",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Drabbelkoek",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ducat buns",
+"aliases": [
+"buchtičky s krémem",
+"dukátové buchtičky"
+],
+"links": 6
+},
+{
+"name": "Filipinos",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Flour kurabiye",
+"aliases": [
+"Un kurabiyesi"
+],
+"links": 6
+},
+{
+"name": "fruit pizza",
+"aliases": [],
+"links": 6
+},
+{
+"name": "gevulde koek",
+"aliases": [
+"gevulde koeken"
+],
+"links": 6
+},
+{
+"name": "Girl Scout Cookies",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Good Humor",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Götterspeise",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hokey pokey",
+"aliases": [],
+"links": 6
+},
+{
+"name": "icebox cake",
+"aliases": [
+"chocolate ripple cake",
+"log"
+],
+"links": 6
+},
+{
+"name": "Jammie Dodgers",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Jewish apple cake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "jokpyeon",
+"aliases": [
+"jellied trotters"
+],
+"links": 6
+},
+{
+"name": "Khoresht mast",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kokis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Krofne",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kulolo",
+"aliases": [
+"Hawaiʻi"
+],
+"links": 6
+},
+{
+"name": "layali lubnan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Laz böreği",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Luxemburgerli",
+"aliases": [
+"Luxembourger"
+],
+"links": 6
+},
+{
+"name": "Malaga ice cream",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Molotof",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pane coi santi",
+"aliases": [
+"pan co' santi",
+"pan coi santi",
+"pan dei santi"
+],
+"links": 6
+},
+{
+"name": "Peanut pie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Polvorosa",
+"aliases": [
+"Panderito",
+"Pandero",
+"Polvorosas"
+],
+"links": 6
+},
+{
+"name": "Pon de Ring",
+"aliases": [
+"Mochi donuts"
+],
+"links": 6
+},
+{
+"name": "pudim abade de priscos",
+"aliases": [
+"Abbot of Priscos pudding",
+"Bacon Pudding",
+"Portuguese bacon pudding"
+],
+"links": 6
+},
+{
+"name": "Putu piring",
+"aliases": [
+"Kueh tutu"
+],
+"links": 6
+},
+{
+"name": "Queso ice cream",
+"aliases": [],
+"links": 6
+},
+{
+"name": "red pudding",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Romeu and Julieta",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Rượu nếp",
+"aliases": [],
+"links": 6
+},
+{
+"name": "saffron pancake",
+"aliases": [
+"Gotland pancake",
+"Gotlandspannkaka",
+"saffranspannkaka"
+],
+"links": 6
+},
+{
+"name": "Sagu",
+"aliases": [],
+"links": 6
+},
+{
+"name": "sugolo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "suspiro de limeña",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sweet coal",
+"aliases": [
+"Coal candy"
+],
+"links": 6
+},
+{
+"name": "Sì",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tahini cookie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tamina",
+"aliases": [
+"Takneta",
+"Tamena",
+"Taqnata"
+],
+"links": 6
+},
+{
+"name": "taro ball",
+"aliases": [
+"ōo-înn"
+],
+"links": 6
+},
+{
+"name": "Tibok-tibok",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tiel carnival cake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tigelada",
+"aliases": [],
+"links": 6
+},
+{
+"name": "timphan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "tube rice pudding",
+"aliases": [
+"Tâng-á-bí-ko"
+],
+"links": 6
+},
+{
+"name": "Turkish style semolina dessert",
+"aliases": [
+"Irmik helva"
+],
+"links": 6
+},
+{
+"name": "vanilla sauce",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Vermicelles",
+"aliases": [],
+"links": 6
+},
+{
+"name": "zozulia",
+"aliases": [],
+"links": 6
+},
+{
+"name": "'Nzuddi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "An-doughnut",
+"aliases": [
+"an-donatsu"
+],
+"links": 5
+},
+{
+"name": "bamiyeh",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Binangkal",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Braune Kuchen",
+"aliases": [],
+"links": 5
+},
+{
+"name": "brisas do lis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Brown Betty",
+"aliases": [],
+"links": 5
+},
+{
+"name": "bubert",
+"aliases": [
+"semolina dessert"
+],
+"links": 5
+},
+{
+"name": "canistrelli",
+"aliases": [],
+"links": 5
+},
+{
+"name": "caramel ice cream",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Certosino",
+"aliases": [],
+"links": 5
+},
+{
+"name": "chapssal doughnut",
+"aliases": [
+"chapssal-doneot",
+"glutinous rice doughnut"
+],
+"links": 5
+},
+{
+"name": "choc ice",
+"aliases": [
+"ice cream bar"
+],
+"links": 5
+},
+{
+"name": "Chocolate salo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chocotorta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cider doughnut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Club Crackers",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Coconut doughnut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cookie cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cordial",
+"aliases": [
+"chocolate-covered cherry",
+"chocolate-covered fruit"
+],
+"links": 5
+},
+{
+"name": "Creme de papaya",
+"aliases": [
+"Creme de mamão",
+"Papaya cream"
+],
+"links": 5
+},
+{
+"name": "Cupeta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Daheen",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Deep fried Oreo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dilber dudağı",
+"aliases": [],
+"links": 5
+},
+{
+"name": "diplomat pudding",
+"aliases": [],
+"links": 5
+},
+{
+"name": "dump cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "es buah",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Frankfurter Brenten",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fánk",
+"aliases": [
+"Fank"
+],
+"links": 5
+},
+{
+"name": "Galamai",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Golden Opulence Sundae",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hato Sablé",
+"aliases": [
+"Hato Sablés",
+"Hato Sabure"
+],
+"links": 5
+},
+{
+"name": "Huevos moles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ice Kenkey",
+"aliases": [],
+"links": 5
+},
+{
+"name": "ijzerkoekje",
+"aliases": [
+"iron cookie",
+"Vlaardings ijzerkoekje"
+],
+"links": 5
+},
+{
+"name": "Izmir bomb",
+"aliases": [
+"İzmir bombası",
+"praline stuffed cookies"
+],
+"links": 5
+},
+{
+"name": "Jello salad",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jello shot",
+"aliases": [
+"Gelatin shot",
+"Jell-O shot",
+"Jelly shot"
+],
+"links": 5
+},
+{
+"name": "jijona",
+"aliases": [
+"turrón de jijona"
+],
+"links": 5
+},
+{
+"name": "juk",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Karsambaç",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kitchener bun",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kugel Yerushalmi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Laba congee",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Layered Rye Bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lille filled waffle",
+"aliases": [
+"gaufre fourrée"
+],
+"links": 5
+},
+{
+"name": "Mailänderli",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Maltose with biscuits",
+"aliases": [
+"Maltose crackers"
+],
+"links": 5
+},
+{
+"name": "Mango shaved ice",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Maple bacon donut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "memek",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Meuseukat",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mohnkuchen",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Natas do Céu",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nutter Butter",
+"aliases": [
+"Bis",
+"Nabisco"
+],
+"links": 5
+},
+{
+"name": "oatmeal raisin cookie",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Onigiri senbei",
+"aliases": [],
+"links": 5
+},
+{
+"name": "orelletes",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Osmanthus cake",
+"aliases": [
+"Osmanthus jelly"
+],
+"links": 5
+},
+{
+"name": "oyster cracker",
+"aliases": [
+"Oyster crackers"
+],
+"links": 5
+},
+{
+"name": "oyster ice cream",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Paddle Pop",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Paila ice cream",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Palitaw",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pease pudding",
+"aliases": [
+"pease porridge"
+],
+"links": 5
+},
+{
+"name": "Persimmon pudding",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Phu Thê Cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Piada dei morti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pichi-pichi",
+"aliases": [
+"pitsi-pitsi",
+"pitsi-pitsî"
+],
+"links": 5
+},
+{
+"name": "pistachio pudding",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Po'e",
+"aliases": [
+"Poke"
+],
+"links": 5
+},
+{
+"name": "sesame tofu",
+"aliases": [
+"goma tofu",
+"goma-dofu",
+"gomadofu"
+],
+"links": 5
+},
+{
+"name": "Sfinci di San Giuseppe",
+"aliases": [
+"Sicilian doughnut",
+"St Joseph doughnut"
+],
+"links": 5
+},
+{
+"name": "Shakoy",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sili ice cream",
+"aliases": [],
+"links": 5
+},
+{
+"name": "snow cone",
+"aliases": [],
+"links": 5
+},
+{
+"name": "sour cream doughnut",
+"aliases": [
+"sour cream donut"
+],
+"links": 5
+},
+{
+"name": "Stuffed cookie",
+"aliases": [],
+"links": 5
+},
+{
+"name": "suet pudding",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Superman",
+"aliases": [
+"Superman ice cream"
+],
+"links": 5
+},
+{
+"name": "tinginys",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tlačenka",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Toddy",
+"aliases": [
+"Toddy chocolate"
+],
+"links": 5
+},
+{
+"name": "Torcetti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "torta 900",
+"aliases": [
+"cake 900",
+"torta Novecento"
+],
+"links": 5
+},
+{
+"name": "torta Barozzi",
+"aliases": [
+"torta nera"
+],
+"links": 5
+},
+{
+"name": "Unnakai",
+"aliases": [
+"Kaayada",
+"Unnakkaay"
+],
+"links": 5
+},
+{
+"name": "vacherin",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Welf pudding",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Windbeutel",
+"aliases": [
+"cream puff"
+],
+"links": 5
+},
+{
+"name": "Xiaorou",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Şıllık",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Alajú",
+"aliases": [],
+"links": 4
+},
+{
+"name": "alani",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Almond soup",
+"aliases": [],
+"links": 4
+},
+{
+"name": "arrop i talladetes",
+"aliases": [
+"arrop i tallaetes"
+],
+"links": 4
+},
+{
+"name": "arroz zambito",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Baklawa El Bey",
+"aliases": [],
+"links": 4
+},
+{
+"name": "barongko pisang",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Berner Haselnusslebkuchen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Beypazarı kurusu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Biscuit cake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "biscuits of Saint Martin",
+"aliases": [
+"San Martino"
+],
+"links": 4
+},
+{
+"name": "blodpudding",
+"aliases": [
+"blood pudding"
+],
+"links": 4
+},
+{
+"name": "Bokkenpootje",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Borracho",
+"aliases": [],
+"links": 4
+},
+{
+"name": "brigidino di Lamporecchio",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brown Bobby",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brunsli",
+"aliases": [],
+"links": 4
+},
+{
+"name": "bubur kampiun",
+"aliases": [],
+"links": 4
+},
+{
+"name": "buko salad",
+"aliases": [
+"young coconut salad"
+],
+"links": 4
+},
+{
+"name": "cassatelle",
+"aliases": [
+"cappidduzzi",
+"casateddi",
+"ravioli dolci",
+"Ravioli dolci siciliani"
+],
+"links": 4
+},
+{
+"name": "Caycay",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Champús",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Charcoal biscuit",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Checkerboard Cookies",
+"aliases": [],
+"links": 4
+},
+{
+"name": "cheese cracker",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ciambellino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cosi di ficu PAT",
+"aliases": [
+"Cosi duci"
+],
+"links": 4
+},
+{
+"name": "crisp",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cuddura",
+"aliases": [],
+"links": 4
+},
+{
+"name": "curd-cheese doughnuts",
+"aliases": [
+"farmer's cheese doughnuts",
+"quark doughnuts"
+],
+"links": 4
+},
+{
+"name": "Ding Dong",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dom Rodrigo",
+"aliases": [
+"Bolo de Dom Rodrigos",
+"Dom Rodrigos"
+],
+"links": 4
+},
+{
+"name": "Doodhpak",
+"aliases": [],
+"links": 4
+},
+{
+"name": "doughnut sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Drumstick",
+"aliases": [],
+"links": 4
+},
+{
+"name": "duckanoo",
+"aliases": [
+"blue drawers",
+"duckunoo",
+"ducunu",
+"tie-a-leaf"
+],
+"links": 4
+},
+{
+"name": "Echaude",
+"aliases": [],
+"links": 4
+},
+{
+"name": "egg-coated bread",
+"aliases": [
+"bread in egg",
+"French toast"
+],
+"links": 4
+},
+{
+"name": "Eierkoek",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Erzurum kadaifi dolması",
+"aliases": [
+"Kadayıf"
+],
+"links": 4
+},
+{
+"name": "Fatias de Tomar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "foi thong",
+"aliases": [],
+"links": 4
+},
+{
+"name": "frozen banana",
+"aliases": [],
+"links": 4
+},
+{
+"name": "fruit kissel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "fırın sütlaç",
+"aliases": [
+"baked rice pudding"
+],
+"links": 4
+},
+{
+"name": "Gelo di melone PAT",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Halva ice cream",
+"aliases": [],
+"links": 4
+},
+{
+"name": "hanımgöbeği",
+"aliases": [
+"Lady's navel"
+],
+"links": 4
+},
+{
+"name": "Hydrox Corporation",
+"aliases": [
+"Hydrox Company"
+],
+"links": 4
+},
+{
+"name": "Jam tart",
+"aliases": [],
+"links": 4
+},
+{
+"name": "jangguk-juk",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Javanese doughnut",
+"aliases": [
+"donat jawa"
+],
+"links": 4
+},
+{
+"name": "Kalamai",
+"aliases": [],
+"links": 4
+},
+{
+"name": "kalitsounia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "kanji rumbi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Khanom khuai ling",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Khanom tan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Khanom tom",
+"aliases": [
+"Khanom kho"
+],
+"links": 4
+},
+{
+"name": "kheer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kleeb lamduan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "kletskop",
+"aliases": [
+"kletskoppen"
+],
+"links": 4
+},
+{
+"name": "krapfen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kōʻelepālau",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lemon ice cream",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Liegnitzer Bomben",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Linzer Augen",
+"aliases": [
+"Linzer Auge",
+"Linzer cookie",
+"Linzeraugen"
+],
+"links": 4
+},
+{
+"name": "list of apple dishes",
+"aliases": [],
+"links": 4
+},
+{
+"name": "mazamorra morada",
+"aliases": [],
+"links": 4
+},
+{
+"name": "mazapán de Toledo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mee Siput",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Meghli",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mein gon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "migaine",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Milkfish congee",
+"aliases": [],
+"links": 4
+},
+{
+"name": "moong dal halwa",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Míša",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nanakusa-gayu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nevzine dessert",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nilla Wafers",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nocciolini di Canzo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pan meino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Panone",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pastel de Gloria",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pastissets de moniato",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pathein halawa",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pazham Pradhaman",
+"aliases": [],
+"links": 4
+},
+{
+"name": "pijama",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pilipit",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Poutchine au sac",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Prinjolata",
+"aliases": [],
+"links": 4
+},
+{
+"name": "pudding à la mode",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Queen Maud fromage",
+"aliases": [
+"Dronning Maud-fromasj",
+"Dronning Maud-pudding",
+"Haugesund-dessert"
+],
+"links": 4
+},
+{
+"name": "queso helado",
+"aliases": [],
+"links": 4
+},
+{
+"name": "rice cracker",
+"aliases": [],
+"links": 4
+},
+{
+"name": "riz à l'impératrice",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rollò",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Russischer Zupfkuchen",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sablé Breton",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sabre St. Simon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "salty biscuit",
+"aliases": [
+"kiâm-piánn",
+"Penghu salty biscuit"
+],
+"links": 4
+},
+{
+"name": "Sampan congee",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Samsa dessert",
+"aliases": [
+"samsa"
+],
+"links": 4
+},
+{
+"name": "Sarim",
+"aliases": [],
+"links": 4
+},
+{
+"name": "sericaia",
+"aliases": [],
+"links": 4
+},
+{
+"name": "shirokuma",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Spoonbread",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Strawberries and cream",
+"aliases": [],
+"links": 4
+},
+{
+"name": "taai-taai",
+"aliases": [
+"taai taai",
+"taaitaai"
+],
+"links": 4
+},
+{
+"name": "tarak-juk",
+"aliases": [
+"milk porridge",
+"uyu-juk"
+],
+"links": 4
+},
+{
+"name": "taro purée",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tiger tail ice cream",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Twister",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Vyazma pryanik",
+"aliases": [],
+"links": 4
+},
+{
+"name": "yassı kadayıf",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Zhavoronki",
+"aliases": [
+"buski",
+"galushki",
+"saroki",
+"zhawruki"
+],
+"links": 4
+},
+{
+"name": "Ábrystir",
+"aliases": [
+"Abrystir"
+],
+"links": 4
+},
+{
+"name": "Abisinios",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Achira",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Acitrón",
+"aliases": [],
+"links": 3
+},
+{
+"name": "alfajor",
+"aliases": [
+"alfajores"
+],
+"links": 3
+},
+{
+"name": "Amy Rose Dudley Squat",
+"aliases": [],
+"links": 3
+},
+{
+"name": "arnadí",
+"aliases": [],
+"links": 3
+},
+{
+"name": "babahera",
+"aliases": [],
+"links": 3
+},
+{
+"name": "bacon sundae",
+"aliases": [],
+"links": 3
+},
+{
+"name": "bakpia pathok",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Berner Honiglebkuchen",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bicciolani di Vercelli",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bingka Kentang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Biscotti del Lagaccio",
+"aliases": [],
+"links": 3
+},
+{
+"name": "boba ice cream bar",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bolang-baling",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bossolà bresciano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "brioscia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Butter Brickle",
+"aliases": [],
+"links": 3
+},
+{
+"name": "cassatella di Agira",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ceglie biscuit",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chocolate Biscuit pudding",
+"aliases": [],
+"links": 3
+},
+{
+"name": "chocolate crinkle",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chongos zamoranos",
+"aliases": [],
+"links": 3
+},
+{
+"name": "cháo lòng",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cochinito de Piloncillo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Concorde",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cornish ice cream",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Cottage Pudding",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Coviglie",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Croquignoles",
+"aliases": [
+"Croxignoles"
+],
+"links": 3
+},
+{
+"name": "Cuca",
+"aliases": [
+"Catalina",
+"Chula",
+"Galleta catalina",
+"Galleta chula",
+"Galleta cuca",
+"Galleta del país",
+"Galleta liberal",
+"Galleta negra",
+"Galleta paledonia",
+"Galleta pera",
+"Liberal",
+"Paledonia",
+"Pera"
+],
+"links": 3
+},
+{
+"name": "dakjuk",
+"aliases": [],
+"links": 3
+},
+{
+"name": "dal badam chakki",
+"aliases": [
+"dal suphal chakki"
+],
+"links": 3
+},
+{
+"name": "dessert bar",
+"aliases": [],
+"links": 3
+},
+{
+"name": "dessert with spoon",
+"aliases": [
+"creamy dessert"
+],
+"links": 3
+},
+{
+"name": "doce de ovos",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Dock pudding",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Dole Whip",
+"aliases": [
+"Dole Soft Serve",
+"Pineapple whip"
+],
+"links": 3
+},
+{
+"name": "Dove Bar",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Dragon's Breath",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Duff",
+"aliases": [],
+"links": 3
+},
+{
+"name": "dulce de leche ice cream",
+"aliases": [],
+"links": 3
+},
+{
+"name": "dutchie",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Duvshaniot",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ebi senbei",
+"aliases": [
+"ebi sen",
+"ebisen",
+"ebisenbei"
+],
+"links": 3
+},
+{
+"name": "egg shrimp cracker",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Es puter",
+"aliases": [],
+"links": 3
+},
+{
+"name": "es tebak",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Espumilla",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Eve's pudding",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Figgy pudding",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Finskepinner",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Frejol colado",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Frosty Paws",
+"aliases": [
+"Fido Freeze",
+"Pet79"
+],
+"links": 3
+},
+{
+"name": "Frutas de Aragón",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Fryske dúmkes",
+"aliases": [
+"Frisian thumbs"
+],
+"links": 3
+},
+{
+"name": "Golden Gaytime",
+"aliases": [
+"Cookie Crumble"
+],
+"links": 3
+},
+{
+"name": "hina-arare",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Holy Spina",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hoppelpoppel",
+"aliases": [
+"Hoppel poppel"
+],
+"links": 3
+},
+{
+"name": "Hořické roll",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Ice cream cup",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ice cream-based dessert",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Imperial ruso",
+"aliases": [],
+"links": 3
+},
+{
+"name": "In a Biskit",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Indian ice cream",
+"aliases": [
+"sxusem"
+],
+"links": 3
+},
+{
+"name": "Janhagel",
+"aliases": [],
+"links": 3
+},
+{
+"name": "javanais",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kabuni",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kavala Almond Cookies",
+"aliases": [],
+"links": 3
+},
+{
+"name": "kaysefe",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Keukarah",
+"aliases": [],
+"links": 3
+},
+{
+"name": "khanfaroosh",
+"aliases": [
+"khanfaroush"
+],
+"links": 3
+},
+{
+"name": "Khanom babin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kharkivske biscuit",
+"aliases": [
+"Kharkiv biscuit",
+"Kharkivske pechyvo",
+"Soyuzne biscuit",
+"Soyuzne pechyvo",
+"Union biscuit"
+],
+"links": 3
+},
+{
+"name": "Kkwabaegi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Knafeh Nabulsiyeh",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kue putu mayang",
+"aliases": [],
+"links": 3
+},
+{
+"name": "kоłасzki",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lacquemant waffles",
+"aliases": [],
+"links": 3
+},
+{
+"name": "lamaniets",
+"aliases": [
+"lamantsy"
+],
+"links": 3
+},
+{
+"name": "Lorna Doone",
+"aliases": [],
+"links": 3
+},
+{
+"name": "majarete",
+"aliases": [],
+"links": 3
+},
+{
+"name": "mango ice cream",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Marquesita",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Masa podrida",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mazapán de la Rosa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Metro",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Milano",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mique",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Moelleux au chocolat",
+"aliases": [],
+"links": 3
+},
+{
+"name": "moon mist",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Moonlight",
+"aliases": [],
+"links": 3
+},
+{
+"name": "mus",
+"aliases": [
+"mos"
+],
+"links": 3
+},
+{
+"name": "Nambu sembei",
+"aliases": [
+"Nambu senbei",
+"Nanbu senbei"
+],
+"links": 3
+},
+{
+"name": "Nantong Xiting Cracker",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nesselrode pudding",
+"aliases": [
+"pouding Nesselrode"
+],
+"links": 3
+},
+{
+"name": "Nocciolini di Chivasso",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Nucrem",
+"aliases": [],
+"links": 3
+},
+{
+"name": "oiri",
+"aliases": [],
+"links": 3
+},
+{
+"name": "paste di meliga",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pera Sandesh",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pets de sœurs",
+"aliases": [
+"brown sugar rolls"
+],
+"links": 3
+},
+{
+"name": "Pio Quinto",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Piparelle PAT",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pistiddu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pork congee with preserved egg",
+"aliases": [
+"century eggs and pork congee",
+"preserved egg congee"
+],
+"links": 3
+},
+{
+"name": "postre Balcarce",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Puding Diraja",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pyshka",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Quaking pudding",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rame di Napoli",
+"aliases": [],
+"links": 3
+},
+{
+"name": "raviola di ricotta of Caltanissetta",
+"aliases": [
+"raviola di ricotta nissena"
+],
+"links": 3
+},
+{
+"name": "Revani",
+"aliases": [],
+"links": 3
+},
+{
+"name": "roccocò",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rosquillo",
+"aliases": [],
+"links": 3
+},
+{
+"name": "rožata",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rum raisin",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Russian ice cream",
+"aliases": [
+"ukrainian ice cream"
+],
+"links": 3
+},
+{
+"name": "Salpicón de frutas",
+"aliases": [
+"Colombian fruit cocktail",
+"Cumbalazo",
+"Salpicón",
+"Salpicón de Baudilia",
+"Salpicón payanés"
+],
+"links": 3
+},
+{
+"name": "sarı burma",
+"aliases": [
+"baklava roll",
+"rolled baklava"
+],
+"links": 3
+},
+{
+"name": "Schiaccia briaca",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Schmoo torte",
+"aliases": [],
+"links": 3
+},
+{
+"name": "screwball",
+"aliases": [],
+"links": 3
+},
+{
+"name": "serinakaker",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sno-ball",
+"aliases": [],
+"links": 3
+},
+{
+"name": "solozhenyk",
+"aliases": [],
+"links": 3
+},
+{
+"name": "souka senbei",
+"aliases": [
+"soka senbei"
+],
+"links": 3
+},
+{
+"name": "strucchi",
+"aliases": [
+"struccoletti",
+"struchi",
+"strucoli",
+"struki",
+"Štruklji"
+],
+"links": 3
+},
+{
+"name": "Sujahta Super Premium Ice Cream",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Sylheti rice pudding",
+"aliases": [
+"kir shinni"
+],
+"links": 3
+},
+{
+"name": "szarlotka",
+"aliases": [
+"sharlotka"
+],
+"links": 3
+},
+{
+"name": "Talenti",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Teaberry ice cream",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tembleque",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Termix",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tetyorki cookies",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Thayacha",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Torrija",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Torta delle rose",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Triscuit",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Trollkrem",
+"aliases": [],
+"links": 3
+},
+{
+"name": "ube crinkles",
+"aliases": [
+"purple yam crinkles"
+],
+"links": 3
+},
+{
+"name": "Un helvası",
+"aliases": [
+"Flour helva"
+],
+"links": 3
+},
+{
+"name": "uyutma",
+"aliases": [
+"incir uyutması"
+],
+"links": 3
+},
+{
+"name": "Vaniljekranse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "vlaflip",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Watermelon Bar",
+"aliases": [
+"Suika bar"
+],
+"links": 3
+},
+{
+"name": "Wheat Thins",
+"aliases": [],
+"links": 3
+},
+{
+"name": "whole-wheat chocolate cake with nuts",
+"aliases": [
+"1-2 chocolate cake"
+],
+"links": 3
+},
+{
+"name": "ölsupa",
+"aliases": [
+"ale soup",
+"beer soup"
+],
+"links": 3
+},
+{
+"name": "'Arikah",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Aboukir",
+"aliases": [],
+"links": 2
+},
+{
+"name": "agnello pasquale",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Ajigonomi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "apple compote",
+"aliases": [],
+"links": 2
+},
+{
+"name": "apple crumble",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Arnhemse meisjes",
+"aliases": [],
+"links": 2
+},
+{
+"name": "avoador",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Azuki Bar",
+"aliases": [],
+"links": 2
+},
+{
+"name": "baba-de-moça",
+"aliases": [
+"baba de moça",
+"maiden's kiss"
+],
+"links": 2
+},
+{
+"name": "Bada reuteuk",
+"aliases": [],
+"links": 2
+},
+{
+"name": "ballorieh",
+"aliases": [
+"ballourieh",
+"balourieh",
+"bellawrieh",
+"belloria"
+],
+"links": 2
+},
+{
+"name": "banana custard",
+"aliases": [
+"bananas and custard"
+],
+"links": 2
+},
+{
+"name": "banana custard",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Battalia pie",
+"aliases": [
+"battaglia pye"
+],
+"links": 2
+},
+{
+"name": "Berger Cookies",
+"aliases": [],
+"links": 2
+},
+{
+"name": "besan laddu",
+"aliases": [
+"gram flour laddu"
+],
+"links": 2
+},
+{
+"name": "Bica",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bingka Barandam",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Biscottini di Novara",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Biscotto salute",
+"aliases": [],
+"links": 2
+},
+{
+"name": "bitterkoekje",
+"aliases": [
+"bitterkoekjes"
+],
+"links": 2
+},
+{
+"name": "black sesame rice cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Bubur ase",
+"aliases": [
+"Ase porridge"
+],
+"links": 2
+},
+{
+"name": "budyń",
+"aliases": [
+"pudding",
+"steamed pudding"
+],
+"links": 2
+},
+{
+"name": "Buzynnyk",
+"aliases": [],
+"links": 2
+},
+{
+"name": "bánh gai",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cagionetti",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Caramanduca",
+"aliases": [],
+"links": 2
+},
+{
+"name": "carrot cake cookie",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cennet çamuru",
+"aliases": [
+"Mud of the Eden"
+],
+"links": 2
+},
+{
+"name": "chagayu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Changzhou sesame candy",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cherry Garcia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Chestnut hearts",
+"aliases": [
+"South Tyrolean chestnut hearts"
+],
+"links": 2
+},
+{
+"name": "Chhena Mudki",
+"aliases": [
+"Chhena Murki"
+],
+"links": 2
+},
+{
+"name": "Chhena Tadia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "choco monaka jumbo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "chocobanano",
+"aliases": [
+"chocobanana",
+"chocolate banana"
+],
+"links": 2
+},
+{
+"name": "chocolat liégeois",
+"aliases": [],
+"links": 2
+},
+{
+"name": "church window",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Coconut cookies",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Corico",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Costrada de Alcalá",
+"aliases": [
+"Costrada de Alcala"
+],
+"links": 2
+},
+{
+"name": "crema bruciata",
+"aliases": [],
+"links": 2
+},
+{
+"name": "crespillo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Crespillos",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Cuddrireddra PAT",
+"aliases": [],
+"links": 2
+},
+{
+"name": "culeca",
+"aliases": [],
+"links": 2
+},
+{
+"name": "delizia al limone",
+"aliases": [
+"delizia di Sorrento"
+],
+"links": 2
+},
+{
+"name": "doce de caju",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Dokchok",
+"aliases": [
+"dok chok",
+"dok jok",
+"dokjok"
+],
+"links": 2
+},
+{
+"name": "Dolceriso del Moro",
+"aliases": [],
+"links": 2
+},
+{
+"name": "double ice pops",
+"aliases": [
+"double pops",
+"twin pops"
+],
+"links": 2
+},
+{
+"name": "Dre-si",
+"aliases": [],
+"links": 2
+},
+{
+"name": "dream",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Encharcada",
+"aliases": [],
+"links": 2
+},
+{
+"name": "euneo-juk",
+"aliases": [
+"sweetfish porridge"
+],
+"links": 2
+},
+{
+"name": "fatcaron",
+"aliases": [
+"ttungkarong"
+],
+"links": 2
+},
+{
+"name": "Figgy duff",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Finocchini",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fraises Wilhelmine",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Frosty Boy",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Frozie cup",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Frustingo",
+"aliases": [
+"Fristingo"
+],
+"links": 2
+},
+{
+"name": "fudge cookie",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Fudgie the Whale",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Futermelok",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gangmaker",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Gari-gari kun",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Givré",
+"aliases": [
+"Givre"
+],
+"links": 2
+},
+{
+"name": "Goody good gum drops",
+"aliases": [
+"GGGD",
+"Goody goody gumdrop",
+"Goodygoodygumdrops"
+],
+"links": 2
+},
+{
+"name": "Grisbì",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Groaty pudding",
+"aliases": [],
+"links": 2
+},
+{
+"name": "guargüero",
+"aliases": [],
+"links": 2
+},
+{
+"name": "hasty pudding",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Hernhutter",
+"aliases": [],
+"links": 2
+},
+{
+"name": "heugimja-juk",
+"aliases": [
+"black sesame porridge"
+],
+"links": 2
+},
+{
+"name": "Hojaldres de Astorga",
+"aliases": [],
+"links": 2
+},
+{
+"name": "ice buko",
+"aliases": [
+"buko ice candy",
+"coconut popsicle"
+],
+"links": 2
+},
+{
+"name": "ichigo daifuku",
+"aliases": [
+"strawberry daifuku",
+"strawberry mochi"
+],
+"links": 2
+},
+{
+"name": "ingberlach",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Itoin Senbei",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Jagannath Ballabha",
+"aliases": [
+"Jagannath Ballav",
+"Jagannath Ballava"
+],
+"links": 2
+},
+{
+"name": "Jødekager",
+"aliases": [
+"Jewish cookie"
+],
+"links": 2
+},
+{
+"name": "Kabura Senbei",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kamby arro",
+"aliases": [
+"kamby arró"
+],
+"links": 2
+},
+{
+"name": "kawara senbei",
+"aliases": [
+"kawara sembei"
+],
+"links": 2
+},
+{
+"name": "keiran sōmen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Kerebiç",
+"aliases": [
+"Karabij"
+],
+"links": 2
+},
+{
+"name": "Kesaria Peda",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Khanom khai pla",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Khanom phra phai",
+"aliases": [],
+"links": 2
+},
+{
+"name": "kuih keria",
+"aliases": [
+"keria"
+],
+"links": 2
+},
+{
+"name": "Kumukunsi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Köje",
+"aliases": [
+"Koje"
+],
+"links": 2
+},
+{
+"name": "legumina",
+"aliases": [],
+"links": 2
+},
+{
+"name": "lemon bar",
+"aliases": [
+"Lemon square"
+],
+"links": 2
+},
+{
+"name": "Limber",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Lomnice Biscuits",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Long John",
+"aliases": [],
+"links": 2
+},
+{
+"name": "loukoumades",
+"aliases": [],
+"links": 2
+},
+{
+"name": "macaron de Cormery",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Macarons de Nancy",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Madlouqa",
+"aliases": [
+"Madlouah",
+"Madlouka",
+"Madluqa"
+],
+"links": 2
+},
+{
+"name": "mantecados de Portillo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mawlid sweets",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Meascia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "mel i mató",
+"aliases": [
+"mel i mato",
+"mel y mató"
+],
+"links": 2
+},
+{
+"name": "Mergpijpje",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Michel et Augustin",
+"aliases": [],
+"links": 2
+},
+{
+"name": "milk senbei",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mille-feuille Carsolina",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Minna di Virgini PAT",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Motichur Laddu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "mousseline cream",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Mr. Whippy",
+"aliases": [
+"Mister Whippy"
+],
+"links": 2
+},
+{
+"name": "Muhallabia",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Muyuchi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Narkeler naru",
+"aliases": [
+"coconut laddoo",
+"Coconut laddu"
+],
+"links": 2
+},
+{
+"name": "Nieve",
+"aliases": [],
+"links": 2
+},
+{
+"name": "nirasenbei",
+"aliases": [
+"nira-senbei"
+],
+"links": 2
+},
+{
+"name": "nochebueno",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Nucàtuli PAT",
+"aliases": [],
+"links": 2
+},
+{
+"name": "nure senbei",
+"aliases": [],
+"links": 2
+},
+{
+"name": "nân-e panjere",
+"aliases": [
+"khâtun-e panjere",
+"shirini-e panjere"
+],
+"links": 2
+},
+{
+"name": "Oblietjie",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Omoyu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Palua ladu",
+"aliases": [
+"Palua laddu",
+"Palua ladoo",
+"Paluo laddu",
+"Paluo ladoo",
+"Paluo ladu"
+],
+"links": 2
+},
+{
+"name": "Pan della Marchesa",
+"aliases": [],
+"links": 2
+},
+{
+"name": "panianky",
+"aliases": [
+"baryshni",
+"konyky"
+],
+"links": 2
+},
+{
+"name": "PaPiCO",
+"aliases": [],
+"links": 2
+},
+{
+"name": "payasam",
+"aliases": [],
+"links": 2
+},
+{
+"name": "pea flour cake",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Peanut tofu",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Persian doughnut",
+"aliases": [],
+"links": 2
+},
+{
+"name": "pidong",
+"aliases": [
+"Pi Dong",
+"skin jelly"
+],
+"links": 2
+},
+{
+"name": "Pinasugbo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Piragua",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Piyorin",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Piñonate",
+"aliases": [],
+"links": 2
+},
+{
+"name": "pletzel",
+"aliases": [
+"onion board",
+"onion flat",
+"platzel",
+"pletzl"
+],
+"links": 2
+},
+{
+"name": "plum compote",
+"aliases": [
+"plum jam"
+],
+"links": 2
+},
+{
+"name": "Poi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Poleá",
+"aliases": [
+"Polea"
+],
+"links": 2
+},
+{
+"name": "popsicle stick",
+"aliases": [
+"ice cream stick"
+],
+"links": 2
+},
+{
+"name": "Pradhaman",
+"aliases": [
+"prathhaman"
+],
+"links": 2
+},
+{
+"name": "Pražský koláč",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Prima",
+"aliases": [],
+"links": 2
+},
+{
+"name": "pudim",
+"aliases": [
+"pudim de leite"
+],
+"links": 2
+},
+{
+"name": "pudim de leite condensado",
+"aliases": [
+"Brazilian-style crème caramel flan",
+"milk puddings of Brazil"
+],
+"links": 2
+},
+{
+"name": "push-up ice cream",
+"aliases": [
+"push-up",
+"push-up pop"
+],
+"links": 2
+},
+{
+"name": "puto seco",
+"aliases": [],
+"links": 2
+},
+{
+"name": "ravioli dolci",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rhubarb Fool",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Rice crispies",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Roskette",
+"aliases": [
+"rosketi"
+],
+"links": 2
+},
+{
+"name": "Salčići",
+"aliases": [
+"salnjaci"
+],
+"links": 2
+},
+{
+"name": "San Antón rolls",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sandapao",
+"aliases": [],
+"links": 2
+},
+{
+"name": "sandie",
+"aliases": [
+"sablé"
+],
+"links": 2
+},
+{
+"name": "semiya payasam",
+"aliases": [
+"Semiya",
+"Vermicelli Payasam"
+],
+"links": 2
+},
+{
+"name": "Seventeen Ice",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sfinz",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sfoglio PAT",
+"aliases": [
+"sfogghiu"
+],
+"links": 2
+},
+{
+"name": "Sguta",
+"aliases": [],
+"links": 2
+},
+{
+"name": "sherbet",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Shikashika",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sospiro",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sou",
+"aliases": [
+"Sō"
+],
+"links": 2
+},
+{
+"name": "Splice",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Sulu muhallebi",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tako senbei",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tansan senbei",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tarte au sucre de Pérouges",
+"aliases": [],
+"links": 2
+},
+{
+"name": "tarte aux pralines",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tarte à la gomme",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Testa di moro",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Thin Mints",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tiger tail donut",
+"aliases": [
+"tiger tail",
+"tiger tail doughnut"
+],
+"links": 2
+},
+{
+"name": "Tiler Naru",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Timus",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Torrone di Caltanissetta PAT",
+"aliases": [
+"Turruni"
+],
+"links": 2
+},
+{
+"name": "Torró d'Ocata",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Torta Imperial",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Torta loca",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Torta nera di San Secondo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Torta parda",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Tramontana",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Treasure chest",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Turkish ring dessert",
+"aliases": [
+"Ring sweet"
+],
+"links": 2
+},
+{
+"name": "turrón de Agramunt",
+"aliases": [
+"torró d'Agramunt"
+],
+"links": 2
+},
+{
+"name": "uroko dango",
+"aliases": [
+"fish scale dumplings",
+"tsubaki dango"
+],
+"links": 2
+},
+{
+"name": "vacherin glacé",
+"aliases": [
+"frozen vacherin"
+],
+"links": 2
+},
+{
+"name": "Vinegar pie",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Vosí hnízdo",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Weespermop",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Westfälische Götterspeise",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Willisauer Ringli",
+"aliases": [],
+"links": 2
+},
+{
+"name": "wine cream",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zaunerstollen",
+"aliases": [],
+"links": 2
+},
+{
+"name": "Zlijevka",
+"aliases": [],
+"links": 2
+},
+{
+"name": "äggost",
+"aliases": [
+"Bohuslänsk äggost"
+],
+"links": 2
+},
+{
+"name": "şambaba dessert",
+"aliases": [],
+"links": 2
+}
+]

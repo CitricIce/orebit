@@ -1,0 +1,2154 @@
+[
+{
+"name": "hamburger",
+"aliases": [
+"beef hamburger",
+"burger",
+"hamburger sandwich",
+"Hamburgh ſauſage"
+],
+"links": 118
+},
+{
+"name": "hot dog",
+"aliases": [
+"coney",
+"frankfurter",
+"glizzy",
+"hotdog",
+"wiener"
+],
+"links": 90
+},
+{
+"name": "pancake",
+"aliases": [
+"flapjack",
+"griddlecake",
+"hotcake",
+"serguio massa"
+],
+"links": 67
+},
+{
+"name": "peanut butter",
+"aliases": [
+"PB"
+],
+"links": 66
+},
+{
+"name": "marshmallow",
+"aliases": [],
+"links": 60
+},
+{
+"name": "carbonara",
+"aliases": [
+"pasta alla carbonara",
+"spaghetti alla carbonara",
+"spaghetti carbonara"
+],
+"links": 58
+},
+{
+"name": "muffin",
+"aliases": [
+"Muffins"
+],
+"links": 53
+},
+{
+"name": "cupcake",
+"aliases": [
+"alian cupcake",
+"cup cake",
+"patty cake"
+],
+"links": 51
+},
+{
+"name": "banana bread",
+"aliases": [],
+"links": 50
+},
+{
+"name": "cheeseburger",
+"aliases": [],
+"links": 50
+},
+{
+"name": "M&M's",
+"aliases": [
+"M&M"
+],
+"links": 49
+},
+{
+"name": "Big Mac",
+"aliases": [],
+"links": 48
+},
+{
+"name": "ice pop",
+"aliases": [
+"freezer pop",
+"Ice Block",
+"Ice Drop",
+"Ice Lolly",
+"Ice Pops",
+"Icy Pole",
+"popsicle"
+],
+"links": 48
+},
+{
+"name": "Oreo",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Snickers",
+"aliases": [
+"Marathon"
+],
+"links": 45
+},
+{
+"name": "banana split",
+"aliases": [],
+"links": 42
+},
+{
+"name": "chicken nugget",
+"aliases": [
+"chicken nuggers",
+"nuggies"
+],
+"links": 42
+},
+{
+"name": "fortune cookie",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Mars",
+"aliases": [
+"Mars Bar",
+"Mars Candy",
+"Mars Candy Bar"
+],
+"links": 39
+},
+{
+"name": "frozen yogurt",
+"aliases": [
+"frogurt",
+"froyo",
+"frozen yoghurt"
+],
+"links": 38
+},
+{
+"name": "fudge",
+"aliases": [],
+"links": 38
+},
+{
+"name": "gumbo",
+"aliases": [],
+"links": 37
+},
+{
+"name": "onion ring",
+"aliases": [
+"onion rings"
+],
+"links": 37
+},
+{
+"name": "Waldorf salad",
+"aliases": [],
+"links": 36
+},
+{
+"name": "eggs Benedict",
+"aliases": [
+"eggs Benny"
+],
+"links": 34
+},
+{
+"name": "sundae",
+"aliases": [
+"ice cream sundae"
+],
+"links": 34
+},
+{
+"name": "Buffalo wings",
+"aliases": [
+"chicken wings",
+"hot wings",
+"wings"
+],
+"links": 33
+},
+{
+"name": "corn dog",
+"aliases": [
+"corndog"
+],
+"links": 33
+},
+{
+"name": "cornbread",
+"aliases": [],
+"links": 32
+},
+{
+"name": "red velvet cake",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Baked Alaska",
+"aliases": [
+"glace au four",
+"Norwegian omelette",
+"omelette a la norvegienne",
+"omelette surprise",
+"omelette à la norvégienne"
+],
+"links": 31
+},
+{
+"name": "cracker",
+"aliases": [],
+"links": 31
+},
+{
+"name": "pumpkin pie",
+"aliases": [],
+"links": 31
+},
+{
+"name": "s'more",
+"aliases": [
+"s'mores"
+],
+"links": 31
+},
+{
+"name": "fried ice cream",
+"aliases": [],
+"links": 30
+},
+{
+"name": "soft serve",
+"aliases": [
+"Mr. Whippy",
+"soft ice cream",
+"soft serve ice cream"
+],
+"links": 30
+},
+{
+"name": "club sandwich",
+"aliases": [
+"clubhouse sandwich"
+],
+"links": 29
+},
+{
+"name": "poke",
+"aliases": [
+"Ahi poke",
+"Poke Rice",
+"poki",
+"pokè",
+"poké"
+],
+"links": 29
+},
+{
+"name": "Fettuccine Alfredo",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Loco moco",
+"aliases": [],
+"links": 28
+},
+{
+"name": "BLT",
+"aliases": [
+"B.L.T.",
+"bacon, lettuce, and tomato",
+"bacon, lettuce, and tomato sandwich",
+"BLT sandwich"
+],
+"links": 27
+},
+{
+"name": "California roll",
+"aliases": [],
+"links": 27
+},
+{
+"name": "chocolate chip cookie",
+"aliases": [],
+"links": 27
+},
+{
+"name": "chowder",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Filet-O-Fish",
+"aliases": [
+"Crispy Fish Fillet Sandwich"
+],
+"links": 27
+},
+{
+"name": "angel food cake",
+"aliases": [
+"angel cake"
+],
+"links": 26
+},
+{
+"name": "hash brown",
+"aliases": [
+"hashbrown",
+"hashed brown"
+],
+"links": 26
+},
+{
+"name": "Candy apple",
+"aliases": [
+"toffee apple"
+],
+"links": 25
+},
+{
+"name": "chocolate chip",
+"aliases": [],
+"links": 25
+},
+{
+"name": "jelly bean",
+"aliases": [],
+"links": 25
+},
+{
+"name": "key lime pie",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Quarter Pounder",
+"aliases": [
+"QPC",
+"Quarter Pounder with cheese"
+],
+"links": 25
+},
+{
+"name": "Alaskan ice cream",
+"aliases": [
+"akutaq",
+"Alascan ice cream",
+"Eskimo ice cream",
+"Native ice cream"
+],
+"links": 24
+},
+{
+"name": "Chicago-style pizza",
+"aliases": [
+"Chicago style pizza"
+],
+"links": 24
+},
+{
+"name": "clam chowder",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Milky Way",
+"aliases": [],
+"links": 24
+},
+{
+"name": "peanut butter and jelly sandwich",
+"aliases": [
+"PB&J",
+"peanut butter & jam sandwich",
+"peanut butter & jelly sandwich",
+"peanut butter and jam sandwich"
+],
+"links": 24
+},
+{
+"name": "Cobb salad",
+"aliases": [],
+"links": 23
+},
+{
+"name": "military chocolate",
+"aliases": [],
+"links": 23
+},
+{
+"name": "cheesesteak",
+"aliases": [
+"cheese steak",
+"cheesesteak sandwich",
+"Philadelphia cheesesteak",
+"Philly cheesesteak",
+"steak and cheese"
+],
+"links": 22
+},
+{
+"name": "sloppy joe",
+"aliases": [],
+"links": 22
+},
+{
+"name": "blueberry pie",
+"aliases": [],
+"links": 21
+},
+{
+"name": "bundt cake",
+"aliases": [
+"Babka",
+"Napfkuchen"
+],
+"links": 21
+},
+{
+"name": "chiffon cake",
+"aliases": [],
+"links": 21
+},
+{
+"name": "dishwasher salmon",
+"aliases": [
+"fishwasher"
+],
+"links": 21
+},
+{
+"name": "frybread",
+"aliases": [
+"fry bread"
+],
+"links": 21
+},
+{
+"name": "Jell-O",
+"aliases": [
+"Jello"
+],
+"links": 21
+},
+{
+"name": "New York-style pizza",
+"aliases": [
+"New York style pizza"
+],
+"links": 21
+},
+{
+"name": "Smörgåstårta",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Twinkie",
+"aliases": [],
+"links": 21
+},
+{
+"name": "bananas Foster",
+"aliases": [],
+"links": 20
+},
+{
+"name": "bubblegum",
+"aliases": [
+"bubble gum"
+],
+"links": 20
+},
+{
+"name": "pecan pie",
+"aliases": [],
+"links": 20
+},
+{
+"name": "po' boy",
+"aliases": [
+"po boy",
+"po-boy"
+],
+"links": 20
+},
+{
+"name": "Pop-Tarts",
+"aliases": [],
+"links": 20
+},
+{
+"name": "pulled pork",
+"aliases": [],
+"links": 20
+},
+{
+"name": "spaghetti with meatballs",
+"aliases": [
+"Spaghetti and meatballs"
+],
+"links": 20
+},
+{
+"name": "banana pudding",
+"aliases": [],
+"links": 19
+},
+{
+"name": "cake pop",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Cronut",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Reuben sandwich",
+"aliases": [],
+"links": 19
+},
+{
+"name": "turducken",
+"aliases": [
+"three bird roast"
+],
+"links": 19
+},
+{
+"name": "Boston cream pie",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Cioppino",
+"aliases": [],
+"links": 18
+},
+{
+"name": "cobbler",
+"aliases": [],
+"links": 18
+},
+{
+"name": "crab cake",
+"aliases": [
+"crab cakes",
+"crabcake"
+],
+"links": 18
+},
+{
+"name": "Devil's food cake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "funnel cake",
+"aliases": [
+"carnival cake",
+"funnel fries"
+],
+"links": 18
+},
+{
+"name": "grits",
+"aliases": [
+"hominy grits"
+],
+"links": 18
+},
+{
+"name": "submarine sandwich",
+"aliases": [
+"filled roll",
+"grinder",
+"hero",
+"hero sandwich",
+"hoagie",
+"poorboy",
+"po’boy",
+"spukie",
+"sub",
+"sub sandwich",
+"wedge"
+],
+"links": 18
+},
+{
+"name": "chicken fingers",
+"aliases": [
+"chicken fillets",
+"chicken goujons",
+"chicken strips",
+"chicken tenders",
+"chicken tendies"
+],
+"links": 17
+},
+{
+"name": "chicken parmesan",
+"aliases": [
+"chicken parmigiana"
+],
+"links": 17
+},
+{
+"name": "Eggo",
+"aliases": [
+"Froffles"
+],
+"links": 17
+},
+{
+"name": "graham cracker",
+"aliases": [],
+"links": 17
+},
+{
+"name": "hushpuppy",
+"aliases": [],
+"links": 17
+},
+{
+"name": "lox",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Pop Rocks",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Tater Tots",
+"aliases": [
+"tots"
+],
+"links": 17
+},
+{
+"name": "tuna fish sandwich",
+"aliases": [
+"tuna sandwich"
+],
+"links": 17
+},
+{
+"name": "Chocolate pizza",
+"aliases": [
+"Chocolate pizza dish"
+],
+"links": 16
+},
+{
+"name": "fluffernutter",
+"aliases": [
+"liberty sandwich"
+],
+"links": 16
+},
+{
+"name": "German chocolate cake",
+"aliases": [
+"German's chocolate cake"
+],
+"links": 16
+},
+{
+"name": "rhubarb pie",
+"aliases": [],
+"links": 16
+},
+{
+"name": "sweet potato pie",
+"aliases": [],
+"links": 16
+},
+{
+"name": "chicken and waffles",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Detroit-style pizza",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dutch baby pancake",
+"aliases": [
+"Dutch baby"
+],
+"links": 15
+},
+{
+"name": "Graham bread",
+"aliases": [],
+"links": 15
+},
+{
+"name": "marshmallow creme",
+"aliases": [
+"marshmallow cream",
+"marshmallow fluff",
+"marshmallow paste"
+],
+"links": 15
+},
+{
+"name": "orange chicken",
+"aliases": [],
+"links": 15
+},
+{
+"name": "saltine cracker",
+"aliases": [
+"saltine",
+"soda cracker"
+],
+"links": 15
+},
+{
+"name": "whoopie pie",
+"aliases": [],
+"links": 15
+},
+{
+"name": "ambrosia",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Butterfinger",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Cincinnati chili",
+"aliases": [],
+"links": 14
+},
+{
+"name": "cream pie",
+"aliases": [],
+"links": 14
+},
+{
+"name": "monkey bread",
+"aliases": [],
+"links": 14
+},
+{
+"name": "mozzarella stick",
+"aliases": [
+"mozzarella sticks"
+],
+"links": 14
+},
+{
+"name": "mud pie",
+"aliases": [
+"Mississippi mud pie"
+],
+"links": 14
+},
+{
+"name": "rocky road ice cream",
+"aliases": [
+"rocky road"
+],
+"links": 14
+},
+{
+"name": "Salisbury steak",
+"aliases": [],
+"links": 14
+},
+{
+"name": "biscuit",
+"aliases": [
+"baking powder biscuit"
+],
+"links": 13
+},
+{
+"name": "caramel apple",
+"aliases": [],
+"links": 13
+},
+{
+"name": "corn chowder",
+"aliases": [],
+"links": 13
+},
+{
+"name": "lobster roll",
+"aliases": [],
+"links": 13
+},
+{
+"name": "maple sugar",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Monte Cristo sandwich",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Oysters Rockefeller",
+"aliases": [],
+"links": 13
+},
+{
+"name": "peanut butter, banana and bacon sandwich",
+"aliases": [
+"Elvis sandwich"
+],
+"links": 13
+},
+{
+"name": "stromboli",
+"aliases": [
+"garbage bread"
+],
+"links": 13
+},
+{
+"name": "Bacon Explosion",
+"aliases": [],
+"links": 12
+},
+{
+"name": "black and white cookie",
+"aliases": [],
+"links": 12
+},
+{
+"name": "blondie",
+"aliases": [
+"blonde brownie",
+"blondie bar",
+"butterscotch brownie"
+],
+"links": 12
+},
+{
+"name": "breakfast sandwich",
+"aliases": [],
+"links": 12
+},
+{
+"name": "cream of mushroom soup",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dagwood sandwich",
+"aliases": [
+"Dagwood"
+],
+"links": 12
+},
+{
+"name": "Fool's Gold Loaf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Moon Pie",
+"aliases": [
+"MoonPie"
+],
+"links": 12
+},
+{
+"name": "pan loaf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Philadelphia roll",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Snickers salad",
+"aliases": [],
+"links": 12
+},
+{
+"name": "bear claw",
+"aliases": [],
+"links": 11
+},
+{
+"name": "blackout cake",
+"aliases": [
+"Brooklyn Blackout cake"
+],
+"links": 11
+},
+{
+"name": "Bologna sandwich",
+"aliases": [],
+"links": 11
+},
+{
+"name": "crab rangoon",
+"aliases": [
+"crab puffs"
+],
+"links": 11
+},
+{
+"name": "Cuban bread",
+"aliases": [],
+"links": 11
+},
+{
+"name": "fried Coke",
+"aliases": [],
+"links": 11
+},
+{
+"name": "garlic knot",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Hershey's Kisses",
+"aliases": [
+"Hershey's Kiss"
+],
+"links": 11
+},
+{
+"name": "Hot Brown",
+"aliases": [
+"Hot Brown Sandwich"
+],
+"links": 11
+},
+{
+"name": "hot chicken",
+"aliases": [
+"Nashville hot chicken"
+],
+"links": 11
+},
+{
+"name": "Luther Burger",
+"aliases": [
+"donut burger",
+"Luther Burgers"
+],
+"links": 11
+},
+{
+"name": "McGriddles",
+"aliases": [],
+"links": 11
+},
+{
+"name": "meatball sandwich",
+"aliases": [
+"meatball sub"
+],
+"links": 11
+},
+{
+"name": "Penne alla vodka",
+"aliases": [],
+"links": 11
+},
+{
+"name": "popover",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Red beans and rice",
+"aliases": [],
+"links": 11
+},
+{
+"name": "saimin",
+"aliases": [],
+"links": 11
+},
+{
+"name": "salt potatoes",
+"aliases": [
+"boiled potatoes"
+],
+"links": 11
+},
+{
+"name": "tetrazzini",
+"aliases": [],
+"links": 11
+},
+{
+"name": "wedding soup",
+"aliases": [
+"Italian wedding soup"
+],
+"links": 11
+},
+{
+"name": "avocado toast",
+"aliases": [
+"smashed avo on toast"
+],
+"links": 10
+},
+{
+"name": "bean pie",
+"aliases": [
+"Muslim bean pie"
+],
+"links": 10
+},
+{
+"name": "biscuits and gravy",
+"aliases": [
+"biscuits with gravy",
+"gravy and biscuits"
+],
+"links": 10
+},
+{
+"name": "Blackberry pie",
+"aliases": [],
+"links": 10
+},
+{
+"name": "California-style pizza",
+"aliases": [
+"California pizza"
+],
+"links": 10
+},
+{
+"name": "chicken and dumplings",
+"aliases": [],
+"links": 10
+},
+{
+"name": "chicken à la King",
+"aliases": [
+"Chicken a la King"
+],
+"links": 10
+},
+{
+"name": "Chinese chicken salad",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chocolate chip cookie dough ice cream",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Extra",
+"aliases": [],
+"links": 10
+},
+{
+"name": "fried dough",
+"aliases": [
+"beaver tails",
+"doughboys",
+"elephant ears",
+"flying saucers",
+"fried bread",
+"fry bread",
+"fry dough",
+"frying saucers",
+"scones"
+],
+"links": 10
+},
+{
+"name": "gooey butter cake",
+"aliases": [],
+"links": 10
+},
+{
+"name": "hot dog bun",
+"aliases": [
+"Frankfurt roll",
+"frankfurter bun",
+"frankfurter roll",
+"hot dog roll"
+],
+"links": 10
+},
+{
+"name": "hummingbird cake",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Italian beef",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Johnnycake",
+"aliases": [
+"johnny bread",
+"Jonnycake",
+"journey cake",
+"Shawnee cake"
+],
+"links": 10
+},
+{
+"name": "Jucy Lucy",
+"aliases": [
+"Juicy Lucy"
+],
+"links": 10
+},
+{
+"name": "peanut butter cookie",
+"aliases": [],
+"links": 10
+},
+{
+"name": "quick bread",
+"aliases": [
+"aerated bread"
+],
+"links": 10
+},
+{
+"name": "slider",
+"aliases": [],
+"links": 10
+},
+{
+"name": "snickerdoodle",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Baby Ruth",
+"aliases": [],
+"links": 9
+},
+{
+"name": "cheese dog",
+"aliases": [],
+"links": 9
+},
+{
+"name": "chef salad",
+"aliases": [
+"chef's salad"
+],
+"links": 9
+},
+{
+"name": "clam dip",
+"aliases": [],
+"links": 9
+},
+{
+"name": "French dip sandwich",
+"aliases": [
+"Au Jus Sandwich",
+"Roast Beef Au Jus,"
+],
+"links": 9
+},
+{
+"name": "fried green tomatoes",
+"aliases": [],
+"links": 9
+},
+{
+"name": "fried-brain sandwich",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Heinz Tomato Ketchup",
+"aliases": [
+"Heinz Ketchup"
+],
+"links": 9
+},
+{
+"name": "horseshoe sandwich",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Johnny Marzetti",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Juicy Fruit",
+"aliases": [],
+"links": 9
+},
+{
+"name": "muffuletta",
+"aliases": [],
+"links": 9
+},
+{
+"name": "potato doughnut",
+"aliases": [
+"potato donut",
+"spudnut"
+],
+"links": 9
+},
+{
+"name": "scrapple",
+"aliases": [
+"pan-rabbit",
+"panhaas",
+"panhoss",
+"Pannhaas",
+"pannhas"
+],
+"links": 9
+},
+{
+"name": "Southern fried chicken",
+"aliases": [
+"fried chicken"
+],
+"links": 9
+},
+{
+"name": "Taco salad",
+"aliases": [],
+"links": 9
+},
+{
+"name": "tomato sandwich",
+"aliases": [],
+"links": 9
+},
+{
+"name": "baked bean sandwich",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Brunswick stew",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Butter Pecan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "cheese fries",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Chicago-style hot dog",
+"aliases": [
+"Chicago Dog",
+"Chicago hot dog",
+"Red Hot"
+],
+"links": 8
+},
+{
+"name": "chili dog",
+"aliases": [
+"Texas hot dog"
+],
+"links": 8
+},
+{
+"name": "Chips Ahoy!",
+"aliases": [
+"Chips More!",
+"Choco Chips"
+],
+"links": 8
+},
+{
+"name": "clam bake",
+"aliases": [
+"New England clam bake",
+"New England clambake"
+],
+"links": 8
+},
+{
+"name": "Cookie salad",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Country Captain",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Crab Louie",
+"aliases": [
+"Crab Louis Salad",
+"King of Salads"
+],
+"links": 8
+},
+{
+"name": "funeral potatoes",
+"aliases": [
+"cheesy hash browns",
+"hash brown casserole"
+],
+"links": 8
+},
+{
+"name": "glorified rice",
+"aliases": [],
+"links": 8
+},
+{
+"name": "grandma pizza",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Italian tomato pie",
+"aliases": [
+"tomato pie"
+],
+"links": 8
+},
+{
+"name": "Negimaki",
+"aliases": [],
+"links": 8
+},
+{
+"name": "pan pizza",
+"aliases": [],
+"links": 8
+},
+{
+"name": "patty melt",
+"aliases": [],
+"links": 8
+},
+{
+"name": "pork tenderloin sandwich",
+"aliases": [],
+"links": 8
+},
+{
+"name": "potato skins",
+"aliases": [
+"loaded skins"
+],
+"links": 8
+},
+{
+"name": "Rice Krispies Treats",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Watergate salad",
+"aliases": [
+"green fluff",
+"green goddess",
+"green goop",
+"green stuff",
+"pistachio delight",
+"shut the gate salad"
+],
+"links": 8
+},
+{
+"name": "Wrigley's Spearmint",
+"aliases": [
+"Spearmint"
+],
+"links": 8
+},
+{
+"name": "Almond Joy",
+"aliases": [],
+"links": 7
+},
+{
+"name": "beef on weck",
+"aliases": [
+"beef on weck sandwich",
+"beef on wick",
+"beef on wick sandwich"
+],
+"links": 7
+},
+{
+"name": "Boston cream doughnut",
+"aliases": [],
+"links": 7
+},
+{
+"name": "breakfast burrito",
+"aliases": [],
+"links": 7
+},
+{
+"name": "celery Victor",
+"aliases": [],
+"links": 7
+},
+{
+"name": "cheese dream",
+"aliases": [],
+"links": 7
+},
+{
+"name": "coconut cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Coney Island hot dog",
+"aliases": [
+"Coney",
+"Coney dog"
+],
+"links": 7
+},
+{
+"name": "country ham",
+"aliases": [],
+"links": 7
+},
+{
+"name": "doberge cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Doublemint",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Grape pie",
+"aliases": [],
+"links": 7
+},
+{
+"name": "green bean casserole",
+"aliases": [],
+"links": 7
+},
+{
+"name": "hot milk cake",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lobster Newberg",
+"aliases": [],
+"links": 7
+},
+{
+"name": "melt sandwich",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Michigan hot dog",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pie à la Mode",
+"aliases": [
+"Pie a la Mode"
+],
+"links": 7
+},
+{
+"name": "sausage bread",
+"aliases": [],
+"links": 7
+},
+{
+"name": "seven-layer salad",
+"aliases": [],
+"links": 7
+},
+{
+"name": "shoofly pie",
+"aliases": [
+"Montgomery pie"
+],
+"links": 7
+},
+{
+"name": "St. Paul sandwich",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Steak Diane",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Strawberry Delight",
+"aliases": [],
+"links": 7
+},
+{
+"name": "sushi burrito",
+"aliases": [
+"sushirrito"
+],
+"links": 7
+},
+{
+"name": "tamale pie",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Texas Toast",
+"aliases": [],
+"links": 7
+},
+{
+"name": "American chop suey",
+"aliases": [],
+"links": 6
+},
+{
+"name": "American goulash",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Amish Friendship Bread",
+"aliases": [
+"Amish cinnamon bread"
+],
+"links": 6
+},
+{
+"name": "Baconator",
+"aliases": [],
+"links": 6
+},
+{
+"name": "buckeye candy",
+"aliases": [],
+"links": 6
+},
+{
+"name": "butter burger",
+"aliases": [],
+"links": 6
+},
+{
+"name": "candy pumpkin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "chow-chow",
+"aliases": [
+"chow chow",
+"chowchow"
+],
+"links": 6
+},
+{
+"name": "corn cookie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "icebox cake",
+"aliases": [
+"chocolate ripple cake",
+"log"
+],
+"links": 6
+},
+{
+"name": "Jewish apple cake",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kulolo",
+"aliases": [
+"Hawaiʻi"
+],
+"links": 6
+},
+{
+"name": "Mr. Goodbar",
+"aliases": [],
+"links": 6
+},
+{
+"name": "New Jersey sloppy joe",
+"aliases": [
+"sloppy joe",
+"Sloppy joe"
+],
+"links": 6
+},
+{
+"name": "Peanut pie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Piki",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Seattle roll",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Senate bean soup",
+"aliases": [
+"U.S. Senate Bean Soup"
+],
+"links": 6
+},
+{
+"name": "she-crab soup",
+"aliases": [
+"crab soup"
+],
+"links": 6
+},
+{
+"name": "St. Louis-style pizza",
+"aliases": [],
+"links": 6
+},
+{
+"name": "stuffed crust pizza",
+"aliases": [
+"stuffed crust",
+"stuffed-crust pizza"
+],
+"links": 6
+},
+{
+"name": "Thanksgiving sandwich",
+"aliases": [
+"Gobbler",
+"Pilgrim",
+"Puritan"
+],
+"links": 6
+},
+{
+"name": "étouffée",
+"aliases": [
+"etouffee"
+],
+"links": 6
+},
+{
+"name": "Almond Roca",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Anadama bread",
+"aliases": [],
+"links": 5
+},
+{
+"name": "beach pizza",
+"aliases": [],
+"links": 5
+},
+{
+"name": "BK Stacker",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Brown Betty",
+"aliases": [],
+"links": 5
+},
+{
+"name": "butter mochi",
+"aliases": [],
+"links": 5
+},
+{
+"name": "chiffon pie",
+"aliases": [],
+"links": 5
+},
+{
+"name": "chili burger",
+"aliases": [],
+"links": 5
+},
+{
+"name": "chow mein sandwich",
+"aliases": [],
+"links": 5
+},
+{
+"name": "cider doughnut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cowboy beans",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Croissan'Wich",
+"aliases": [
+"Croissan Wich",
+"Croissanwich"
+],
+"links": 5
+},
+{
+"name": "Deep fried Oreo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "derby pie",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Desperation pie",
+"aliases": [],
+"links": 5
+},
+{
+"name": "dirt cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "French onion dip",
+"aliases": [],
+"links": 5
+},
+{
+"name": "fried clams",
+"aliases": [
+"deep-fried clam",
+"deep-fried clams",
+"fried clam"
+],
+"links": 5
+},
+{
+"name": "frogeye salad",
+"aliases": [
+"Frog's eye salad",
+"Frog-eye salad"
+],
+"links": 5
+},
+{
+"name": "Greek pizza",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hangtown fry",
+"aliases": [],
+"links": 5
+},
+{
+"name": "honey bun",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Idaho Spud",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jello salad",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Klobásník",
+"aliases": [
+"Klobasnek"
+],
+"links": 5
+},
+{
+"name": "Lady Baltimore cake",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Maple bacon donut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Maxwell Street Polish",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Michigan salad",
+"aliases": [],
+"links": 5
+},
+{
+"name": "New Haven-style pizza",
+"aliases": [
+"apizza"
+],
+"links": 5
+},
+{
+"name": "New York-style cheesecake",
+"aliases": [
+"cheesecake",
+"New York cheesecake"
+],
+"links": 5
+},
+{
+"name": "Onion roll",
+"aliases": [],
+"links": 5
+},
+{
+"name": "oyster cracker",
+"aliases": [
+"Oyster crackers"
+],
+"links": 5
+},
+{
+"name": "pastrami on rye",
+"aliases": [
+"pastrami sandwich"
+],
+"links": 5
+},
+{
+"name": "peanut butter cup",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Persimmon pudding",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pizza puff",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rainbow roll",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Seattle-style hot dog",
+"aliases": [
+"Hadley's Bagel Dogs",
+"Seattle Dog"
+],
+"links": 5
+},
+{
+"name": "Spider roll",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Superman",
+"aliases": [
+"Superman ice cream"
+],
+"links": 5
+},
+{
+"name": "taco soup",
+"aliases": [],
+"links": 5
+},
+{
+"name": "tavern sandwich",
+"aliases": [
+"loose meat",
+"loosemeat",
+"maid rite"
+],
+"links": 5
+},
+{
+"name": "Texas caviar",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Toddy",
+"aliases": [
+"Toddy chocolate"
+],
+"links": 5
+},
+{
+"name": "Adobe bread",
+"aliases": [
+"oven bread"
+],
+"links": 4
+},
+{
+"name": "Altoona-style pizza",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bagel and cream cheese",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Big Red",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bourbon chicken",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Brown Bobby",
+"aliases": [],
+"links": 4
+},
+{
+"name": "cascatelli",
+"aliases": [],
+"links": 4
+},
+{
+"name": "catfish stew",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chantilly cake",
+"aliases": [
+"Chantilly cream cake"
+],
+"links": 4
+},
+{
+"name": "Chicken Vesuvio",
+"aliases": [],
+"links": 4
+},
+{
+"name": "chislic",
+"aliases": [],
+"links": 4
+},
+{
+"name": "clam cake",
+"aliases": [
+"clam fritter"
+],
+"links": 4
+},
+{
+"name": "clams casino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cudighi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "depression cake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dodger Dog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "everything bagel",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fried pie",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kōʻelepālau",
+"aliases": [],
+"links": 4
+},
+{
+"name": "lemon ice box pie",
+"aliases": [],
+"links": 4
+},
+{
+"name": "livermush",
+"aliases": [],
+"links": 4
+},
+{
+"name": "meatball pizza",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mein gon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Parker House roll",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Quad City-style pizza",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sailor sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "shrimp and grits",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Shrimp Creole",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Southern chicken stew",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Spicy tuna roll",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Spoonbread",
+"aliases": [],
+"links": 4
+},
+{
+"name": "stack cake",
+"aliases": [],
+"links": 4
+},
+{
+"name": "steak sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "stick candy",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tuna casserole",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yaka mein",
+"aliases": [],
+"links": 4
+}
+]

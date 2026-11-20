@@ -1,0 +1,1724 @@
+[
+{
+"name": "omelette",
+"aliases": [
+"omelet"
+],
+"links": 94
+},
+{
+"name": "ratatouille",
+"aliases": [],
+"links": 76
+},
+{
+"name": "croissant",
+"aliases": [
+"butter croissant",
+"croissants"
+],
+"links": 75
+},
+{
+"name": "French toast",
+"aliases": [
+"eggy bread",
+"fried bread",
+"gypsy toast",
+"omelette bread"
+],
+"links": 72
+},
+{
+"name": "marzipan",
+"aliases": [
+"badem ezmesi"
+],
+"links": 69
+},
+{
+"name": "waffle",
+"aliases": [
+"dough-based cake"
+],
+"links": 68
+},
+{
+"name": "pancake",
+"aliases": [
+"flapjack",
+"griddlecake",
+"hotcake",
+"serguio massa"
+],
+"links": 67
+},
+{
+"name": "crêpe",
+"aliases": [
+"crepe",
+"crêpes"
+],
+"links": 64
+},
+{
+"name": "stew",
+"aliases": [
+"estouffade"
+],
+"links": 58
+},
+{
+"name": "foie gras",
+"aliases": [],
+"links": 57
+},
+{
+"name": "meringue",
+"aliases": [],
+"links": 57
+},
+{
+"name": "ravioli",
+"aliases": [],
+"links": 57
+},
+{
+"name": "pâté",
+"aliases": [
+"pate"
+],
+"links": 56
+},
+{
+"name": "éclair",
+"aliases": [
+"chocolate eclair",
+"eclair"
+],
+"links": 54
+},
+{
+"name": "gnocchi",
+"aliases": [
+"Italian dumpling"
+],
+"links": 53
+},
+{
+"name": "crème brûlée",
+"aliases": [
+"burnt cream",
+"creme brulee",
+"trinity cream"
+],
+"links": 52
+},
+{
+"name": "macaron",
+"aliases": [],
+"links": 52
+},
+{
+"name": "soufflé",
+"aliases": [
+"souffle"
+],
+"links": 51
+},
+{
+"name": "aspic",
+"aliases": [
+"kholodets"
+],
+"links": 48
+},
+{
+"name": "Beef Stroganoff",
+"aliases": [
+"Beef Stroganov"
+],
+"links": 48
+},
+{
+"name": "brioche",
+"aliases": [],
+"links": 48
+},
+{
+"name": "cabbage roll",
+"aliases": [
+"cabbage rolls",
+"stuffed cabbage"
+],
+"links": 48
+},
+{
+"name": "steak tartare",
+"aliases": [],
+"links": 48
+},
+{
+"name": "quiche",
+"aliases": [],
+"links": 46
+},
+{
+"name": "blini",
+"aliases": [
+"blin",
+"blinis",
+"blins",
+"bliny",
+"blynai"
+],
+"links": 45
+},
+{
+"name": "madeleine",
+"aliases": [],
+"links": 45
+},
+{
+"name": "mousse",
+"aliases": [],
+"links": 44
+},
+{
+"name": "bouillabaisse",
+"aliases": [],
+"links": 43
+},
+{
+"name": "mille-feuille",
+"aliases": [
+"cream slice",
+"custard slice",
+"milfey",
+"vanilla slice"
+],
+"links": 42
+},
+{
+"name": "poached egg",
+"aliases": [],
+"links": 41
+},
+{
+"name": "French onion soup",
+"aliases": [
+"onion soup"
+],
+"links": 40
+},
+{
+"name": "ganache",
+"aliases": [],
+"links": 40
+},
+{
+"name": "beef bourguignon",
+"aliases": [
+"beef Burgundy",
+"boeuf a la Bourguignonne",
+"boeuf à la Bourguignonne",
+"bœuf bourguignon"
+],
+"links": 39
+},
+{
+"name": "carrot cake",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Gugelhupf",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Niçard salad",
+"aliases": [
+"Niçois salad",
+"Niçoise salad",
+"salade niçoise"
+],
+"links": 38
+},
+{
+"name": "profiterole",
+"aliases": [
+"cream puff"
+],
+"links": 38
+},
+{
+"name": "coq au vin",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Yule log",
+"aliases": [
+"Bûche de Noël"
+],
+"links": 37
+},
+{
+"name": "cassoulet",
+"aliases": [],
+"links": 36
+},
+{
+"name": "croque-monsieur",
+"aliases": [
+"croque monsieur"
+],
+"links": 36
+},
+{
+"name": "brittle",
+"aliases": [
+"grillage",
+"seed brittle"
+],
+"links": 35
+},
+{
+"name": "tarte Tatin",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Bavarian cream",
+"aliases": [],
+"links": 34
+},
+{
+"name": "eggs Benedict",
+"aliases": [
+"eggs Benny"
+],
+"links": 34
+},
+{
+"name": "fricassee",
+"aliases": [],
+"links": 34
+},
+{
+"name": "gratin",
+"aliases": [],
+"links": 34
+},
+{
+"name": "pot-au-feu",
+"aliases": [],
+"links": 34
+},
+{
+"name": "charlotte",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Consommé",
+"aliases": [
+"Consomme"
+],
+"links": 33
+},
+{
+"name": "pain au chocolat",
+"aliases": [
+"chocolate bread",
+"chocolate pastry",
+"chocolatine"
+],
+"links": 33
+},
+{
+"name": "parfait",
+"aliases": [],
+"links": 33
+},
+{
+"name": "snail as food",
+"aliases": [
+"escargot",
+"snail flesh",
+"snail meat",
+"snails as food"
+],
+"links": 33
+},
+{
+"name": "tarte flambée",
+"aliases": [
+"tarte flambee"
+],
+"links": 33
+},
+{
+"name": "Biancomangiare PAT",
+"aliases": [],
+"links": 32
+},
+{
+"name": "clafoutis",
+"aliases": [],
+"links": 32
+},
+{
+"name": "bisque",
+"aliases": [],
+"links": 31
+},
+{
+"name": "canapé",
+"aliases": [
+"canape",
+"open sandwich"
+],
+"links": 31
+},
+{
+"name": "Peach Melba",
+"aliases": [],
+"links": 31
+},
+{
+"name": "beignet",
+"aliases": [],
+"links": 30
+},
+{
+"name": "kouign-amann",
+"aliases": [
+"kouign amann",
+"Kouign Amann"
+],
+"links": 30
+},
+{
+"name": "petit four",
+"aliases": [],
+"links": 30
+},
+{
+"name": "rum baba",
+"aliases": [],
+"links": 30
+},
+{
+"name": "vol-au-vent",
+"aliases": [],
+"links": 30
+},
+{
+"name": "cholent",
+"aliases": [
+"Dafina",
+"Hamin",
+"Tafina"
+],
+"links": 29
+},
+{
+"name": "crème anglaise",
+"aliases": [
+"creme anglaise"
+],
+"links": 29
+},
+{
+"name": "macaroon",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Vichyssoise",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Aligot",
+"aliases": [],
+"links": 28
+},
+{
+"name": "floating island",
+"aliases": [
+"œufs à la neige"
+],
+"links": 28
+},
+{
+"name": "Crêpe Suzette",
+"aliases": [
+"Crepe Suzette"
+],
+"links": 27
+},
+{
+"name": "galantine",
+"aliases": [],
+"links": 26
+},
+{
+"name": "opera cake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Pissaladière",
+"aliases": [
+"pissaladiere",
+"Pissalandrea",
+"Pissalandrea or Pissaladière"
+],
+"links": 26
+},
+{
+"name": "ragù",
+"aliases": [
+"ragu"
+],
+"links": 26
+},
+{
+"name": "amuse-bouche",
+"aliases": [
+"amuse bouche",
+"amuse gueule",
+"amuse-gueule"
+],
+"links": 25
+},
+{
+"name": "croquembouche",
+"aliases": [],
+"links": 25
+},
+{
+"name": "escalope",
+"aliases": [],
+"links": 25
+},
+{
+"name": "fougasse",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Dampfnudel",
+"aliases": [
+"Dampfnudeln"
+],
+"links": 24
+},
+{
+"name": "Paris–Brest",
+"aliases": [],
+"links": 24
+},
+{
+"name": "frangipane",
+"aliases": [],
+"links": 23
+},
+{
+"name": "palmier",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Canelé",
+"aliases": [
+"Canele"
+],
+"links": 22
+},
+{
+"name": "farinata",
+"aliases": [
+"socca"
+],
+"links": 22
+},
+{
+"name": "financier",
+"aliases": [],
+"links": 22
+},
+{
+"name": "galette",
+"aliases": [],
+"links": 22
+},
+{
+"name": "gratin dauphinois",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Génoise cake",
+"aliases": [
+"Genoise cake",
+"génoise"
+],
+"links": 22
+},
+{
+"name": "duxelles",
+"aliases": [],
+"links": 21
+},
+{
+"name": "St. Honoré cake",
+"aliases": [
+"gateau St Honore",
+"gâteau St Honoré",
+"gâteau St-Honoré",
+"St Honoratus cake",
+"St Honoré cake",
+"St. Honoratus cake",
+"St. Honore cake"
+],
+"links": 21
+},
+{
+"name": "tartiflette",
+"aliases": [],
+"links": 21
+},
+{
+"name": "bonbon",
+"aliases": [
+"bon-bon",
+"chocolates"
+],
+"links": 20
+},
+{
+"name": "dacquoise",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Duchess potatoes",
+"aliases": [],
+"links": 20
+},
+{
+"name": "duck confit",
+"aliases": [],
+"links": 20
+},
+{
+"name": "vegetable soup",
+"aliases": [],
+"links": 20
+},
+{
+"name": "agnolotti",
+"aliases": [
+"Agnelot",
+"agnolotto"
+],
+"links": 19
+},
+{
+"name": "Calisson",
+"aliases": [
+"Calissons"
+],
+"links": 19
+},
+{
+"name": "Escalivada",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Mont Blanc",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Piperade",
+"aliases": [
+"Piperrada"
+],
+"links": 19
+},
+{
+"name": "potage",
+"aliases": [
+"Pottage",
+"pottage"
+],
+"links": 19
+},
+{
+"name": "viennoiserie",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Baeckeoffe",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Blanquette de veau",
+"aliases": [],
+"links": 18
+},
+{
+"name": "confiture",
+"aliases": [],
+"links": 18
+},
+{
+"name": "gougère",
+"aliases": [
+"gougere"
+],
+"links": 18
+},
+{
+"name": "Lobster Thermidor",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Petit-Beurre",
+"aliases": [
+"Petit beurre"
+],
+"links": 18
+},
+{
+"name": "dried fruit bread",
+"aliases": [],
+"links": 17
+},
+{
+"name": "gâteau Basque",
+"aliases": [
+"Gateau Basque"
+],
+"links": 17
+},
+{
+"name": "lemon tart",
+"aliases": [
+"lemon pie"
+],
+"links": 17
+},
+{
+"name": "Napoleon cake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Poire belle Hélène",
+"aliases": [
+"Poire belle Helene"
+],
+"links": 17
+},
+{
+"name": "Porchetta PAT",
+"aliases": [
+"di Poggio Bustone",
+"di Viterbo",
+"Purcheta"
+],
+"links": 17
+},
+{
+"name": "crudités",
+"aliases": [
+"crudites"
+],
+"links": 16
+},
+{
+"name": "custard tart",
+"aliases": [
+"flans pâtissier"
+],
+"links": 16
+},
+{
+"name": "Far Breton",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Garbure",
+"aliases": [],
+"links": 16
+},
+{
+"name": "pastéis de Bacalhau",
+"aliases": [
+"pasteis de Bacalhau"
+],
+"links": 16
+},
+{
+"name": "Religieuse",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sablé",
+"aliases": [
+"Sable"
+],
+"links": 16
+},
+{
+"name": "stuffed tomatoes",
+"aliases": [
+"stuffed tomato"
+],
+"links": 16
+},
+{
+"name": "Tournedos Rossini",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Chicken Marengo",
+"aliases": [],
+"links": 15
+},
+{
+"name": "chocolate mousse",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Flaugnarde",
+"aliases": [],
+"links": 15
+},
+{
+"name": "pain aux raisins",
+"aliases": [
+"bread pastry",
+"French pastry",
+"sweet roll"
+],
+"links": 15
+},
+{
+"name": "pan-bagnat",
+"aliases": [
+"pan bagnat"
+],
+"links": 15
+},
+{
+"name": "pithivier",
+"aliases": [],
+"links": 15
+},
+{
+"name": "praline",
+"aliases": [
+"pralines"
+],
+"links": 15
+},
+{
+"name": "bombe glacée",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Brandade",
+"aliases": [],
+"links": 14
+},
+{
+"name": "café liégeois",
+"aliases": [
+"cafe liegeois"
+],
+"links": 14
+},
+{
+"name": "chantilly cream",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Plombières",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bourride",
+"aliases": [],
+"links": 13
+},
+{
+"name": "cat tongues",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Cotoletta",
+"aliases": [],
+"links": 13
+},
+{
+"name": "French tacos",
+"aliases": [
+"Lyonese tacos",
+"Lyonnese tacos",
+"tacos",
+"tacos lyonnais"
+],
+"links": 13
+},
+{
+"name": "pain d'épices",
+"aliases": [
+"pain d'épice"
+],
+"links": 13
+},
+{
+"name": "Pommes Anna",
+"aliases": [],
+"links": 13
+},
+{
+"name": "pommes dauphine",
+"aliases": [
+"dauphine potatoes"
+],
+"links": 13
+},
+{
+"name": "pressed duck",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Savarin",
+"aliases": [],
+"links": 13
+},
+{
+"name": "tartlet",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Veal Orloff",
+"aliases": [
+"French-style meat",
+"Veal Orlov",
+"Veal Prince Orloff",
+"Veal Prince Orlov"
+],
+"links": 13
+},
+{
+"name": "Bayonne ham",
+"aliases": [
+"Basque country ham",
+"cured ham"
+],
+"links": 12
+},
+{
+"name": "jambon-beurre",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Mesclun",
+"aliases": [],
+"links": 12
+},
+{
+"name": "pan loaf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Plombir",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Praline",
+"aliases": [],
+"links": 12
+},
+{
+"name": "shirred eggs",
+"aliases": [
+"baked eggs",
+"œufs cocotte"
+],
+"links": 12
+},
+{
+"name": "tripes à la mode de Caen",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Boeuf à la mode",
+"aliases": [
+"Boeuf a la mode"
+],
+"links": 11
+},
+{
+"name": "Dame blanche",
+"aliases": [
+"coupe Dänemark"
+],
+"links": 11
+},
+{
+"name": "gâteau nantais",
+"aliases": [],
+"links": 11
+},
+{
+"name": "jésuite",
+"aliases": [
+"jesuite"
+],
+"links": 11
+},
+{
+"name": "Navarin",
+"aliases": [],
+"links": 11
+},
+{
+"name": "pain de campagne",
+"aliases": [
+"campagne bread",
+"pains de campagne",
+"rustic bread",
+"rustic loaf"
+],
+"links": 11
+},
+{
+"name": "pâté aux pommes de terre",
+"aliases": [
+"pate aux pommes de terre"
+],
+"links": 11
+},
+{
+"name": "sugar pie",
+"aliases": [],
+"links": 11
+},
+{
+"name": "talo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tarte Tropézienne",
+"aliases": [
+"Tarte Tropezienne"
+],
+"links": 11
+},
+{
+"name": "Truffade",
+"aliases": [],
+"links": 11
+},
+{
+"name": "boule",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bredela",
+"aliases": [
+"Bredle",
+"Winachtsbredele"
+],
+"links": 10
+},
+{
+"name": "chestnut spread",
+"aliases": [
+"chestnut cream",
+"sweetened chestnut purée"
+],
+"links": 10
+},
+{
+"name": "chouquette",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Court-bouillon",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Duck à l'orange",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Kig ha farz",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Lyonnaise potatoes",
+"aliases": [],
+"links": 10
+},
+{
+"name": "pain de mie",
+"aliases": [],
+"links": 10
+},
+{
+"name": "stoemp",
+"aliases": [],
+"links": 10
+},
+{
+"name": "biscuit rose de Reims",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Cervelle de canut",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Daube",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Faluche",
+"aliases": [
+"North Bread",
+"Pain du Nord"
+],
+"links": 9
+},
+{
+"name": "Flamiche",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gâteau de Savoie",
+"aliases": [],
+"links": 9
+},
+{
+"name": "oeufs en meurette",
+"aliases": [
+"œufs en meurette"
+],
+"links": 9
+},
+{
+"name": "sole meunière",
+"aliases": [],
+"links": 9
+},
+{
+"name": "steak au poivre",
+"aliases": [
+"pepper steak"
+],
+"links": 9
+},
+{
+"name": "Vichy Pastilles",
+"aliases": [],
+"links": 9
+},
+{
+"name": "bouchee a la reine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "chausson aux pommes",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cotriade",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Coussin de Lyon",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Crozets de Savoie",
+"aliases": [],
+"links": 8
+},
+{
+"name": "matelote",
+"aliases": [
+"fisherman's coq au vin"
+],
+"links": 8
+},
+{
+"name": "Mendiant",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Poire à la Beaujolaise",
+"aliases": [
+"Poire a la Beaujolaise"
+],
+"links": 8
+},
+{
+"name": "pommes soufflées",
+"aliases": [
+"Pommes soufflees"
+],
+"links": 8
+},
+{
+"name": "Potjevleesch",
+"aliases": [],
+"links": 8
+},
+{
+"name": "potée",
+"aliases": [],
+"links": 8
+},
+{
+"name": "poule au pot",
+"aliases": [],
+"links": 8
+},
+{
+"name": "ragout fin",
+"aliases": [
+"fine ragout"
+],
+"links": 8
+},
+{
+"name": "Alicot",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Axoa",
+"aliases": [],
+"links": 7
+},
+{
+"name": "baby potato",
+"aliases": [
+"baby potatoes"
+],
+"links": 7
+},
+{
+"name": "Carambar",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Chiboust cream",
+"aliases": [],
+"links": 7
+},
+{
+"name": "crocchè",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Fraisier",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hachis Parmentier",
+"aliases": [],
+"links": 7
+},
+{
+"name": "jambon",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kaletez",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Norman Tart",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pain brié",
+"aliases": [
+"pain brie"
+],
+"links": 7
+},
+{
+"name": "Paupiette",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Quatre mendiants",
+"aliases": [],
+"links": 7
+},
+{
+"name": "stuffed mushrooms",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tourin",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Awara broth",
+"aliases": [
+"Broth of awara"
+],
+"links": 6
+},
+{
+"name": "Bamsemums",
+"aliases": [],
+"links": 6
+},
+{
+"name": "broyé du Poitou",
+"aliases": [
+"broyé poitevin"
+],
+"links": 6
+},
+{
+"name": "Conversation tart",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Crespéou",
+"aliases": [
+"Crespeou"
+],
+"links": 6
+},
+{
+"name": "croque-madame",
+"aliases": [
+"croque madame"
+],
+"links": 6
+},
+{
+"name": "friand",
+"aliases": [],
+"links": 6
+},
+{
+"name": "gâche vendéenne",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Péla",
+"aliases": [
+"Pela"
+],
+"links": 6
+},
+{
+"name": "Tarte Bourdaloue",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tourteau fromagé",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bar-le-duc jelly",
+"aliases": [],
+"links": 5
+},
+{
+"name": "canistrelli",
+"aliases": [],
+"links": 5
+},
+{
+"name": "galette-saucisse",
+"aliases": [],
+"links": 5
+},
+{
+"name": "homard à l'américaine",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hunter's chicken",
+"aliases": [],
+"links": 5
+},
+{
+"name": "languette",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Le petit pâté de Pézenas",
+"aliases": [],
+"links": 5
+},
+{
+"name": "orelletes",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Petit Salé",
+"aliases": [
+"Petit Sale"
+],
+"links": 5
+},
+{
+"name": "Puits d'amour",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pâté en croûte",
+"aliases": [
+"pate en croute"
+],
+"links": 5
+},
+{
+"name": "Raviole du Dauphiné",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Salambo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Soupe au pistou",
+"aliases": [],
+"links": 5
+},
+{
+"name": "vegetable stock",
+"aliases": [
+"clear vegetable broth",
+"vegetable broth"
+],
+"links": 5
+},
+{
+"name": "Bonbon la rouroute",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cacasse à cul nu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Chartreuse",
+"aliases": [],
+"links": 4
+},
+{
+"name": "chaud-froid",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cromesquis",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Echaude",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Fraise Tagada",
+"aliases": [],
+"links": 4
+},
+{
+"name": "freginat",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Jambonette",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mont d'Or chaud",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mussels marinière",
+"aliases": [
+"French mussels",
+"Mussels in white wine sauce"
+],
+"links": 4
+},
+{
+"name": "Oille",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pâté de campagne",
+"aliases": [],
+"links": 4
+},
+{
+"name": "riz à l'impératrice",
+"aliases": [],
+"links": 4
+},
+{
+"name": "rougail",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Salade lyonnaise",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Alléluia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "almond croissant",
+"aliases": [],
+"links": 3
+},
+{
+"name": "aziminu",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Bottarga de Martigues",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Chocolate marquise",
+"aliases": [],
+"links": 3
+},
+{
+"name": "chocolate-covered citrus peel",
+"aliases": [
+"chocolate-coated citrus peel",
+"chocolate-covered orange peel",
+"Orangette",
+"orangette"
+],
+"links": 3
+},
+{
+"name": "Concorde",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Countess",
+"aliases": [],
+"links": 3
+},
+{
+"name": "crab soup",
+"aliases": [
+"Krebssuppe",
+"écrevisses à la nage"
+],
+"links": 3
+},
+{
+"name": "Fallue",
+"aliases": [
+"falue"
+],
+"links": 3
+},
+{
+"name": "Gardiane de taureau",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gochtial",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hare à la royale",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kréma",
+"aliases": [
+"Krema"
+],
+"links": 3
+},
+{
+"name": "Malabar",
+"aliases": [],
+"links": 3
+},
+{
+"name": "marjolaine",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Miel d'Alsace",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Mirliton de Pont-Audemer",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Moelleux au chocolat",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Niflettes",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Paris ham",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pieds paquets",
+"aliases": [],
+"links": 3
+},
+{
+"name": "pompe à l'huile",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Poularde aux morilles",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Provence Honey",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Rougail saucisse",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Salade cauchoise",
+"aliases": [],
+"links": 3
+},
+{
+"name": "tablier de sapeur",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tarte à l'badrée",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Tarte à la tomate",
+"aliases": [
+"Tomato pie"
+],
+"links": 3
+},
+{
+"name": "warm goat cheese salad",
+"aliases": [
+"Chevre chaud",
+"Chèvre chaud"
+],
+"links": 3
+}
+]

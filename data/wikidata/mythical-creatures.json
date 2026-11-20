@@ -1,0 +1,9448 @@
+[
+{
+"name": "angel",
+"aliases": [],
+"links": 160
+},
+{
+"name": "dragon",
+"aliases": [
+"drake"
+],
+"links": 148
+},
+{
+"name": "devil",
+"aliases": [
+"Archdevil",
+"Deuce",
+"Diabolos",
+"Iblis",
+"Tempter",
+"the devil"
+],
+"links": 121
+},
+{
+"name": "Satan",
+"aliases": [
+"Lord of This World",
+"Sam Hill",
+"Satanas",
+"Shaytan"
+],
+"links": 121
+},
+{
+"name": "Gabriel",
+"aliases": [
+"Angel Gabriel",
+"Archangel Gabriel",
+"Gabriel the Archangel",
+"Gibril",
+"Jibril",
+"Left Hand of God",
+"Saint Gabriel",
+"St Gabriel",
+"St. Gabriel the Archangel",
+"strength of God",
+"the Angel Gabriel",
+"the Archangel Gabriel",
+"the Left Hand of God"
+],
+"links": 114
+},
+{
+"name": "vampire",
+"aliases": [
+"vampyre"
+],
+"links": 112
+},
+{
+"name": "Poseidon",
+"aliases": [
+"Poseidōn",
+"Posidon"
+],
+"links": 110
+},
+{
+"name": "mermaid",
+"aliases": [
+"merdaughter",
+"mergirl",
+"merlady",
+"mermaiden",
+"mermaids",
+"mermiss",
+"mermisteress",
+"mermother",
+"merqueen",
+"mersister",
+"merwoman"
+],
+"links": 105
+},
+{
+"name": "Michael",
+"aliases": [
+"Archangel Michael",
+"Michael the Archangel",
+"Mikael",
+"Right Hand of God",
+"Saint Michael",
+"Saint Michael the Archangel",
+"St Michael",
+"St Michael the Archangel",
+"St. Michael",
+"St. Michael the Archangel",
+"The Archangel Michael",
+"the Right Hand of God"
+],
+"links": 105
+},
+{
+"name": "unicorn",
+"aliases": [],
+"links": 103
+},
+{
+"name": "demon",
+"aliases": [
+"daemon",
+"daemonium",
+"fiend"
+],
+"links": 102
+},
+{
+"name": "Prometheus",
+"aliases": [],
+"links": 100
+},
+{
+"name": "Heracles",
+"aliases": [
+"Alcaeus",
+"Alcides",
+"Herakles",
+"Hercules"
+],
+"links": 99
+},
+{
+"name": "sphinx",
+"aliases": [],
+"links": 99
+},
+{
+"name": "Indra",
+"aliases": [
+"Ahihan",
+"Ahihán",
+"Indiran",
+"Indran",
+"Meghavahana",
+"Sakka",
+"Sakra",
+"Vajrapani",
+"Vasava",
+"Vritrahan"
+],
+"links": 98
+},
+{
+"name": "phoenix",
+"aliases": [
+"phenix",
+"phœnix"
+],
+"links": 97
+},
+{
+"name": "titan",
+"aliases": [
+"Titaness",
+"Titanesses",
+"Titans"
+],
+"links": 97
+},
+{
+"name": "Hestia",
+"aliases": [
+"Histia, Vesta"
+],
+"links": 96
+},
+{
+"name": "jinn",
+"aliases": [
+"djin",
+"djinn",
+"djinnee",
+"djinni",
+"djinny",
+"genie",
+"jann",
+"jawan",
+"jin",
+"jinnah",
+"jinnan",
+"jinni"
+],
+"links": 96
+},
+{
+"name": "Saraswati",
+"aliases": [
+"Sarada",
+"Sarasvati",
+"Sharada",
+"Vagdevi",
+"Vani",
+"Varahi"
+],
+"links": 96
+},
+{
+"name": "Cronus",
+"aliases": [
+"Cronos",
+"Kronos"
+],
+"links": 95
+},
+{
+"name": "zombie",
+"aliases": [
+"zonbi"
+],
+"links": 93
+},
+{
+"name": "Anubis",
+"aliases": [
+"Anpu",
+"Inpu"
+],
+"links": 92
+},
+{
+"name": "Hanuman",
+"aliases": [
+"Andaman",
+"Andoman",
+"Anjanagarbha Sambhuta",
+"Anjaneya",
+"Bajrang",
+"Bajrang bali",
+"Bhavishhyathchaturanana",
+"Chiranjeevi",
+"Dhruddavrat",
+"Handuman",
+"Hanumant",
+"Harimarkatamarkata",
+"Kalanabha",
+"Kamaroopin",
+"Kanchanabha",
+"Kapeeshwar",
+"Kapisenanayak",
+"Kapishvara",
+"Kesarinandan",
+"Kesarisuta",
+"Kesharinandan",
+"Lakshmanapranadata",
+"Lankapuravidahaka",
+"Lankineebhanjana",
+"Lokapujya",
+"Mahabala",
+"Mahakaya",
+"Maharavanamardana",
+"Manojavaya",
+"Marutatmaja",
+"Maruti",
+"Panchavaktra",
+"Paravidhyaparihara",
+"Pavanputra",
+"Pingalaksha",
+"Prasannatman",
+"Pratapavate",
+"Rakshovidhwansakaraka",
+"Ramachudamaniprada",
+"Ramaduta",
+"Ramakathalolaya",
+"Ratnakundala",
+"Sanjeevananagahatre",
+"Sankat mochan",
+"Sarvalokacharine",
+"Sarvamayavibhanana",
+"Sarvayantratmakaya",
+"Sitaramapada",
+"Sitaramapadaseva",
+"Vagmine",
+"Vajrakaya",
+"Vajranakha",
+"Vardhimainakapujita",
+"Vijitendriya",
+"Yogine"
+],
+"links": 92
+},
+{
+"name": "Neptune",
+"aliases": [
+"Neptunus",
+"Poseidon"
+],
+"links": 92
+},
+{
+"name": "fairy",
+"aliases": [
+"fae",
+"faerie",
+"faery",
+"fair folk",
+"fairies",
+"fairy folk",
+"fay",
+"fey",
+"good folk",
+"good neighbours",
+"wee folk"
+],
+"links": 91
+},
+{
+"name": "werewolf",
+"aliases": [
+"lycanthrope",
+"werwolves"
+],
+"links": 90
+},
+{
+"name": "Pegasus",
+"aliases": [],
+"links": 89
+},
+{
+"name": "centaur",
+"aliases": [
+"centaurs",
+"hippocentaur"
+],
+"links": 88
+},
+{
+"name": "Perseus",
+"aliases": [],
+"links": 87
+},
+{
+"name": "Atlas",
+"aliases": [],
+"links": 86
+},
+{
+"name": "Cerberus",
+"aliases": [
+"Cerberos",
+"Hound of Hades"
+],
+"links": 85
+},
+{
+"name": "cyclops",
+"aliases": [
+"Cyclopes"
+],
+"links": 83
+},
+{
+"name": "nymph",
+"aliases": [
+"nymphs"
+],
+"links": 83
+},
+{
+"name": "Yeti",
+"aliases": [
+"Abominable Snowman",
+"Dinanthropoides nivalis"
+],
+"links": 83
+},
+{
+"name": "griffin",
+"aliases": [
+"griffon",
+"gryphon"
+],
+"links": 82
+},
+{
+"name": "Minotaur",
+"aliases": [],
+"links": 82
+},
+{
+"name": "Rhea",
+"aliases": [
+"Rheia"
+],
+"links": 81
+},
+{
+"name": "elf",
+"aliases": [
+"elves"
+],
+"links": 80
+},
+{
+"name": "giant",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Lilith",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Lucifer",
+"aliases": [
+"Eosphoros",
+"Eôsphoros",
+"Helel",
+"Heosphoros",
+"Hêlēl",
+"Light-Bringer",
+"Morning Star",
+"The shining one"
+],
+"links": 80
+},
+{
+"name": "Garuda",
+"aliases": [
+"Gararh",
+"Garutman",
+"Tarkshya"
+],
+"links": 79
+},
+{
+"name": "Loki",
+"aliases": [
+"Hveðrungr",
+"Logi",
+"Loki Laufeyjarson",
+"Loki Laufeyson"
+],
+"links": 79
+},
+{
+"name": "monster",
+"aliases": [
+"monstrosity"
+],
+"links": 79
+},
+{
+"name": "Oceanus",
+"aliases": [
+"Okeanos"
+],
+"links": 79
+},
+{
+"name": "Arjuna",
+"aliases": [],
+"links": 78
+},
+{
+"name": "Cupid",
+"aliases": [
+"Amor",
+"Amore",
+"Cupido"
+],
+"links": 78
+},
+{
+"name": "Jesus in Islam",
+"aliases": [
+"Jesus"
+],
+"links": 78
+},
+{
+"name": "chimera",
+"aliases": [
+"chimaera",
+"chimæra"
+],
+"links": 76
+},
+{
+"name": "Loch Ness Monster",
+"aliases": [
+"Nessie",
+"Nessiteras rhombopteryx",
+"Nessy"
+],
+"links": 76
+},
+{
+"name": "Themis",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Hydra",
+"aliases": [
+"Lernaean Hydra",
+"Lernean Hydra",
+"Lernæan Hydra",
+"The Lernean Hydra"
+],
+"links": 73
+},
+{
+"name": "Baba Yaga",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Mnemosyne",
+"aliases": [
+"Mnemosynë"
+],
+"links": 69
+},
+{
+"name": "Raphael",
+"aliases": [
+"Raphael the Archangel",
+"Saint Raphael",
+"Saint Raphael the Archangel",
+"San Rafa"
+],
+"links": 69
+},
+{
+"name": "satyr",
+"aliases": [
+"satyros",
+"satyrs"
+],
+"links": 69
+},
+{
+"name": "Sobek",
+"aliases": [
+"Djedi",
+"Sebak",
+"Sebek",
+"Souchos",
+"Suchos"
+],
+"links": 69
+},
+{
+"name": "gorgon",
+"aliases": [
+"Gorgons"
+],
+"links": 67
+},
+{
+"name": "Leto",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Quetzalcoatl",
+"aliases": [],
+"links": 67
+},
+{
+"name": "siren",
+"aliases": [
+"siren song",
+"Sirens"
+],
+"links": 67
+},
+{
+"name": "archangel",
+"aliases": [
+"archangels"
+],
+"links": 66
+},
+{
+"name": "basilisk",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Goliath",
+"aliases": [
+"Calut",
+"Goliah",
+"Goliath the Gittite"
+],
+"links": 66
+},
+{
+"name": "Nephthys",
+"aliases": [
+"Neber-Het",
+"Nebthet"
+],
+"links": 66
+},
+{
+"name": "Styx",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Tethys",
+"aliases": [
+"Parthenope"
+],
+"links": 66
+},
+{
+"name": "Amphitrite",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Varuna",
+"aliases": [
+"Baruna"
+],
+"links": 65
+},
+{
+"name": "Leviathan",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Rubeus Hagrid",
+"aliases": [
+"Hagrid"
+],
+"links": 64
+},
+{
+"name": "Theia",
+"aliases": [
+"Basileia"
+],
+"links": 64
+},
+{
+"name": "Triton",
+"aliases": [],
+"links": 64
+},
+{
+"name": "harpies",
+"aliases": [
+"harpy",
+"The Harpies"
+],
+"links": 63
+},
+{
+"name": "Hyperion",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Phoebe",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Rāvaṇa",
+"aliases": [
+"Brahmaśāpī",
+"Daśānana",
+"Lankādhīśa",
+"Mahābāhu",
+"Rākṣasendra",
+"Rākṣasārī",
+"Tāraka",
+"Vīrabhadra",
+"Yajñabhāga",
+"Ātmarāma"
+],
+"links": 63
+},
+{
+"name": "Apophis",
+"aliases": [
+"Apep",
+"Aphoph"
+],
+"links": 62
+},
+{
+"name": "cherub",
+"aliases": [
+"Cherubim"
+],
+"links": 62
+},
+{
+"name": "Iapetos",
+"aliases": [
+"Iapetus"
+],
+"links": 62
+},
+{
+"name": "naiad",
+"aliases": [
+"naiads",
+"nais"
+],
+"links": 62
+},
+{
+"name": "Nemesis",
+"aliases": [
+"Rhamnousia",
+"Rhamnusia"
+],
+"links": 62
+},
+{
+"name": "Oceanids",
+"aliases": [
+"Oceanides"
+],
+"links": 62
+},
+{
+"name": "Pontus",
+"aliases": [
+"Pontos"
+],
+"links": 62
+},
+{
+"name": "Typhon",
+"aliases": [
+"Typhoeus"
+],
+"links": 62
+},
+{
+"name": "Echidna",
+"aliases": [
+"Mother of Monsters"
+],
+"links": 61
+},
+{
+"name": "Epimetheus",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Fenrir",
+"aliases": [
+"Fenrisulfr",
+"Fenrisúlfr",
+"Hróðvitnir",
+"Vanagandr",
+"Vánagandr"
+],
+"links": 61
+},
+{
+"name": "Loong",
+"aliases": [
+"Chinese dragon",
+"dragon",
+"long",
+"lung",
+"wingless dragon"
+],
+"links": 61
+},
+{
+"name": "dwarf",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Io",
+"aliases": [
+"Io and Zeus",
+"Phoronis"
+],
+"links": 60
+},
+{
+"name": "Neith",
+"aliases": [
+"nrt"
+],
+"links": 60
+},
+{
+"name": "Nereids",
+"aliases": [
+"Dorides",
+"Nereides"
+],
+"links": 60
+},
+{
+"name": "will o' the wisp",
+"aliases": [
+"Aarnivalkea",
+"aleya",
+"fifolet",
+"foxfire",
+"foxfires",
+"friar's lantern",
+"friar's lanterns",
+"hinkypunk",
+"hinkypunks",
+"hitodama",
+"hobby lantern",
+"ignis fatuus",
+"jack-o'-lantern",
+"jack-o'-lanterns",
+"spunkie",
+"spunkies",
+"will-o'-the-wisp",
+"will-o'-the-wisps",
+"will-o'-wisp",
+"will-o'-wisps"
+],
+"links": 60
+},
+{
+"name": "Chiron",
+"aliases": [
+"Cheiron"
+],
+"links": 59
+},
+{
+"name": "Coeus",
+"aliases": [
+"Polos",
+"Polus"
+],
+"links": 59
+},
+{
+"name": "Godzilla",
+"aliases": [
+"Atomic Terror",
+"Gojira",
+"King of the monsters"
+],
+"links": 59
+},
+{
+"name": "Jörmungandr",
+"aliases": [
+"Jormungand",
+"Jörmungand",
+"Midgard Serpent",
+"Midgard-serpent",
+"World Serpent"
+],
+"links": 59
+},
+{
+"name": "Nemean lion",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Azrael",
+"aliases": [
+"Izrail",
+"ʿIzrāīl"
+],
+"links": 58
+},
+{
+"name": "Chupacabra",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Hesperides",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Khnum",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Kreios",
+"aliases": [
+"Crius",
+"Krios"
+],
+"links": 58
+},
+{
+"name": "Nāga",
+"aliases": [
+"Naga",
+"Nâgas"
+],
+"links": 58
+},
+{
+"name": "Scylla",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Tefnut",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Calypso",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Metis",
+"aliases": [],
+"links": 57
+},
+{
+"name": "orc",
+"aliases": [
+"ork"
+],
+"links": 57
+},
+{
+"name": "Charybdis",
+"aliases": [
+"Kharybdis"
+],
+"links": 56
+},
+{
+"name": "Enki",
+"aliases": [],
+"links": 56
+},
+{
+"name": "golem",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Hapi",
+"aliases": [
+"Hapy",
+"Hep"
+],
+"links": 55
+},
+{
+"name": "King Kong",
+"aliases": [
+"Kong"
+],
+"links": 55
+},
+{
+"name": "ouroboros",
+"aliases": [
+"Tail-devourer",
+"Uroboros"
+],
+"links": 55
+},
+{
+"name": "Daphne",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Easter Bunny",
+"aliases": [
+"Easter Rabbit"
+],
+"links": 54
+},
+{
+"name": "Hecatoncheires",
+"aliases": [
+"Centimanes",
+"Hundred-Handers"
+],
+"links": 54
+},
+{
+"name": "kraken",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Njord",
+"aliases": [
+"Niord",
+"Njörðr"
+],
+"links": 54
+},
+{
+"name": "seraph",
+"aliases": [
+"seraphim"
+],
+"links": 54
+},
+{
+"name": "succubus",
+"aliases": [
+"Female Foocubus",
+"Female Lilim",
+"Female Lilin",
+"Female Sex Demon",
+"Female Sex Devil",
+"Female Sex Fiend",
+"succubi"
+],
+"links": 54
+},
+{
+"name": "dryad",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Jötnar",
+"aliases": [
+"Eoten",
+"Eotenas",
+"Ettens",
+"Giants",
+"Jötunn",
+"Jötuns"
+],
+"links": 53
+},
+{
+"name": "Lamia",
+"aliases": [
+"Lamiae"
+],
+"links": 53
+},
+{
+"name": "Nereus",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Polyphemus",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Argus Panoptes",
+"aliases": [
+"Argos",
+"Argus",
+"Panoptes"
+],
+"links": 52
+},
+{
+"name": "banshee",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Death",
+"aliases": [
+"Grim Reaper",
+"Reaper",
+"the Grim Reaper"
+],
+"links": 52
+},
+{
+"name": "Kurma",
+"aliases": [],
+"links": 52
+},
+{
+"name": "guardian angel",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Proteus",
+"aliases": [],
+"links": 51
+},
+{
+"name": "leprechaun",
+"aliases": [
+"leprechauns"
+],
+"links": 50
+},
+{
+"name": "Maia",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Nun",
+"aliases": [
+"Nu"
+],
+"links": 50
+},
+{
+"name": "Simurgh",
+"aliases": [
+"Saēna"
+],
+"links": 50
+},
+{
+"name": "Sleipnir",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Tiamat",
+"aliases": [
+"Ti'amat",
+"Ti'awath",
+"Tiawath",
+"Tiʾāmat"
+],
+"links": 50
+},
+{
+"name": "Wadjet",
+"aliases": [
+"Buto",
+"Udṓ",
+"Weʾd’ōjet"
+],
+"links": 50
+},
+{
+"name": "Buraq",
+"aliases": [
+"Al Borak",
+"Al-Borak",
+"Al-Burāq",
+"Alborak",
+"Borak"
+],
+"links": 49
+},
+{
+"name": "Ceto",
+"aliases": [
+"Kētō"
+],
+"links": 49
+},
+{
+"name": "Gangā",
+"aliases": [
+"Gaṅgā"
+],
+"links": 49
+},
+{
+"name": "Giants",
+"aliases": [
+"Gigantes"
+],
+"links": 49
+},
+{
+"name": "Nekhbet",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Phorcys",
+"aliases": [
+"Phorcus"
+],
+"links": 49
+},
+{
+"name": "Pleiades",
+"aliases": [
+"Atlantides",
+"Pleiads"
+],
+"links": 49
+},
+{
+"name": "Python",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Tyche",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Uriel",
+"aliases": [
+"Archangel Uriel",
+"Auriel",
+"Oriel",
+"Ouriel",
+"St. Uriel",
+"St. Uriel the Archangel"
+],
+"links": 49
+},
+{
+"name": "Callisto",
+"aliases": [
+"Kallisto"
+],
+"links": 48
+},
+{
+"name": "Dione",
+"aliases": [],
+"links": 48
+},
+{
+"name": "gnome",
+"aliases": [
+"gnomid",
+"gnomide",
+"nome"
+],
+"links": 48
+},
+{
+"name": "Mephistopheles",
+"aliases": [
+"Mephistophilis"
+],
+"links": 48
+},
+{
+"name": "Sun Wukong",
+"aliases": [
+"Ch'i-t'ien Ta-sheng",
+"Ch'i-t'ien Ta-shêng",
+"Douzhansheng Fo",
+"Handsome Monkey King",
+"Hsing-che",
+"Hsing-chê",
+"Ling-ming Shih-hou",
+"Lingming Shihou",
+"Mei Hou Wang",
+"Mei Hou-wang",
+"Mei Houwang",
+"Monkey",
+"Monkey King",
+"Qitian Dasheng",
+"Tou-chan-sheng Fo",
+"Tou-chan-shêng Fo",
+"Wu K'ung",
+"Wu Kong",
+"Wu Kung",
+"Wu-k'ung",
+"Wu-kung",
+"Wukong",
+"Xingzhe"
+],
+"links": 48
+},
+{
+"name": "yakṣa",
+"aliases": [
+"yaksha"
+],
+"links": 48
+},
+{
+"name": "Antaeus",
+"aliases": [
+"Antæus"
+],
+"links": 47
+},
+{
+"name": "Baphomet",
+"aliases": [
+"Bafometz",
+"Baphometh"
+],
+"links": 47
+},
+{
+"name": "Behemoth",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Echo",
+"aliases": [],
+"links": 47
+},
+{
+"name": "kitsune",
+"aliases": [],
+"links": 47
+},
+{
+"name": "scapegoat",
+"aliases": [
+"scapegoats"
+],
+"links": 47
+},
+{
+"name": "Abaddon",
+"aliases": [
+"Apollyon"
+],
+"links": 46
+},
+{
+"name": "Amalthea",
+"aliases": [],
+"links": 46
+},
+{
+"name": "angel in Islam",
+"aliases": [],
+"links": 46
+},
+{
+"name": "goblin",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Guinevere",
+"aliases": [
+"Guanhumara",
+"Guenevere",
+"Gwenevere",
+"Gwenhwyfar",
+"Gwenhwyvar"
+],
+"links": 46
+},
+{
+"name": "Lethe",
+"aliases": [
+"Lemosyne"
+],
+"links": 46
+},
+{
+"name": "Māra Pāpīyān",
+"aliases": [
+"Antaka",
+"Kāmadhāturāja",
+"Kṛṣṇa",
+"Māra",
+"Namuci",
+"Piṣuna",
+"Pramādabandhu",
+"Pāpīyān",
+"Varsavarti"
+],
+"links": 46
+},
+{
+"name": "nephilim",
+"aliases": [
+"fallen angels"
+],
+"links": 46
+},
+{
+"name": "Tlaloc",
+"aliases": [
+"Tlāloc"
+],
+"links": 46
+},
+{
+"name": "Ymir",
+"aliases": [
+"Aurgelmir",
+"Brimir"
+],
+"links": 46
+},
+{
+"name": "Ægir",
+"aliases": [
+"Hlér"
+],
+"links": 46
+},
+{
+"name": "Abzu",
+"aliases": [
+"Apsu",
+"Engar"
+],
+"links": 45
+},
+{
+"name": "Asmodeus",
+"aliases": [],
+"links": 45
+},
+{
+"name": "demigod",
+"aliases": [
+"demi-god"
+],
+"links": 45
+},
+{
+"name": "incubus",
+"aliases": [
+"Male Foocubus",
+"Male Lilim",
+"Male Lilin",
+"Male Sex Demon",
+"Male Sex Devil",
+"Male Sex Fiend"
+],
+"links": 45
+},
+{
+"name": "yōkai",
+"aliases": [
+"ayakashi",
+"mamono",
+"mononoke",
+"yokai",
+"yookai",
+"youkai",
+"yôkai"
+],
+"links": 45
+},
+{
+"name": "fenghuang",
+"aliases": [
+"Chinese phoenix",
+"feng-huang",
+"fong-hoang",
+"fong-whang"
+],
+"links": 44
+},
+{
+"name": "houri",
+"aliases": [
+"huri",
+"ḥawrāʾ",
+"ḥūr"
+],
+"links": 44
+},
+{
+"name": "manticore",
+"aliases": [
+"Manticora Satyral",
+"Mauricomorion"
+],
+"links": 44
+},
+{
+"name": "Morgan le Fay",
+"aliases": [
+"Morgaine",
+"Morgana",
+"Morgane",
+"Morgen"
+],
+"links": 44
+},
+{
+"name": "oni",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Pallas",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Rat",
+"aliases": [
+"hour of Rat",
+"shǐ",
+"year of Rat",
+"zǐ"
+],
+"links": 44
+},
+{
+"name": "Stymphalian birds",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Aegina",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Ino",
+"aliases": [
+"Leucothea",
+"Leucothoe",
+"Īnō"
+],
+"links": 43
+},
+{
+"name": "Karṇa",
+"aliases": [
+"Aṅgarāja",
+"Dānavīra",
+"Kaunteya",
+"Kavacakuṇḍaladhārī",
+"Paraśurāmaśiṣya",
+"Rādheya",
+"Rāśmirathi",
+"Sūryaputra",
+"Sūtaputra",
+"Vaikartana",
+"Vasuṣeṇa",
+"Vijaya",
+"Vṛṣa"
+],
+"links": 43
+},
+{
+"name": "Ladon",
+"aliases": [
+"Drakôn Hesperios",
+"Hesperian Dragon"
+],
+"links": 43
+},
+{
+"name": "Mazu",
+"aliases": [
+"Celestial Consort",
+"Celestial Empress",
+"Celestial Mother",
+"Celestial Princess",
+"Celestial Queen",
+"Heavenly Consort",
+"Heavenly Empress",
+"Heavenly Mother",
+"Heavenly Princess",
+"Heavenly Queen",
+"Lin Moniang",
+"Lin nü",
+"Lin Shinu",
+"Ma Tjo Poh",
+"Ma zu",
+"Mah Chor",
+"Meizhou Niangma",
+"Princess of Heaven",
+"Sea Goddess",
+"the Consort of Heaven",
+"the Empress of Heaven",
+"the Queen of Heaven",
+"Tian Fei",
+"Tian Hou",
+"Tianfei",
+"Tianhou",
+"Tianshang Shengmu"
+],
+"links": 43
+},
+{
+"name": "Oread",
+"aliases": [
+"Oreades",
+"Orestiad"
+],
+"links": 43
+},
+{
+"name": "Rakshasa",
+"aliases": [
+"rakshalar",
+"Rakshasalar"
+],
+"links": 43
+},
+{
+"name": "Rooster",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Achelous",
+"aliases": [
+"Acheloos",
+"Acheloüs",
+"Achilaos"
+],
+"links": 42
+},
+{
+"name": "Anahita",
+"aliases": [
+"Anahit",
+"Anahîta",
+"Anaitis",
+"Anáhitá",
+"Anāhīd",
+"Nāhīd"
+],
+"links": 42
+},
+{
+"name": "Arethusa",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Doris",
+"aliases": [],
+"links": 42
+},
+{
+"name": "fallen angel",
+"aliases": [],
+"links": 42
+},
+{
+"name": "tengu",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Astraeus",
+"aliases": [
+"Astraios"
+],
+"links": 41
+},
+{
+"name": "Eurydice",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Horse",
+"aliases": [],
+"links": 41
+},
+{
+"name": "qilin",
+"aliases": [
+"ch'i-lin",
+"chi-lin",
+"Chinese unicorn",
+"dragon-horse",
+"girin",
+"kirin",
+"ky-lin"
+],
+"links": 41
+},
+{
+"name": "Skaði",
+"aliases": [
+"Skade",
+"Skadi",
+"Skathi",
+"Öndurdís",
+"Öndurguð"
+],
+"links": 41
+},
+{
+"name": "Ceryneian Hind",
+"aliases": [
+"Cerynitis"
+],
+"links": 40
+},
+{
+"name": "Cretan Bull",
+"aliases": [
+"Marathonian bull"
+],
+"links": 40
+},
+{
+"name": "Garmr",
+"aliases": [
+"Garm"
+],
+"links": 40
+},
+{
+"name": "Goat",
+"aliases": [
+"Domestic goat"
+],
+"links": 40
+},
+{
+"name": "Monkey",
+"aliases": [
+"hou",
+"shen"
+],
+"links": 40
+},
+{
+"name": "Ox",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Pleione",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Pomona",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Rabbit",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Dog",
+"aliases": [],
+"links": 39
+},
+{
+"name": "faun",
+"aliases": [
+"Fauns"
+],
+"links": 39
+},
+{
+"name": "ogre",
+"aliases": [
+"Hogres",
+"Hogreſs",
+"ogress"
+],
+"links": 39
+},
+{
+"name": "Orthrus",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Surtr",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Talos",
+"aliases": [
+"Talus"
+],
+"links": 39
+},
+{
+"name": "Thaumas",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Uraeus",
+"aliases": [
+"Ouraeus"
+],
+"links": 39
+},
+{
+"name": "Airāvata",
+"aliases": [
+"Airaavath",
+"Airavata"
+],
+"links": 38
+},
+{
+"name": "Asopus",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Azazel",
+"aliases": [
+"Scapegoat"
+],
+"links": 38
+},
+{
+"name": "chthonic deities",
+"aliases": [
+"chthonian deities",
+"chthonian gods",
+"chthonian Greek deities",
+"chthonian Greek gods",
+"chthonic gods",
+"chthonic Greek deities",
+"chthonic Greek gods"
+],
+"links": 38
+},
+{
+"name": "domovoi",
+"aliases": [
+"damavik",
+"domovoy"
+],
+"links": 38
+},
+{
+"name": "Dragon",
+"aliases": [
+"long"
+],
+"links": 38
+},
+{
+"name": "Erymanthian Boar",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Mothman",
+"aliases": [
+"Indrid Cold"
+],
+"links": 38
+},
+{
+"name": "Nessus",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Pig",
+"aliases": [
+"Boar"
+],
+"links": 38
+},
+{
+"name": "Tiger",
+"aliases": [],
+"links": 38
+},
+{
+"name": "trickster",
+"aliases": [
+"trickery",
+"tricksters"
+],
+"links": 38
+},
+{
+"name": "Veles",
+"aliases": [
+"Volos"
+],
+"links": 38
+},
+{
+"name": "vodyanoy",
+"aliases": [
+"hastrman",
+"vadzianik",
+"vodník",
+"vodyanik",
+"vodyanoi"
+],
+"links": 38
+},
+{
+"name": "Śeṣa",
+"aliases": [
+"Ananta",
+"Ananta Śeṣa",
+"Anantabhoga",
+"Anantadeva",
+"Bhujagendra",
+"Phanīndra",
+"Saṅkarṣaṇa",
+"Ādiśeṣa",
+"Śeṣanāga"
+],
+"links": 38
+},
+{
+"name": "Agave",
+"aliases": [
+"Agaue"
+],
+"links": 37
+},
+{
+"name": "Belial",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Eurybia",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Eurynome",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Helle",
+"aliases": [
+"Athamantis",
+"Ellie"
+],
+"links": 37
+},
+{
+"name": "hippogriff",
+"aliases": [
+"hippogryph"
+],
+"links": 37
+},
+{
+"name": "homunculus",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Inachus",
+"aliases": [
+"Inachos"
+],
+"links": 37
+},
+{
+"name": "Marsyas",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Mongolian death worm",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Níðhöggr",
+"aliases": [
+"Nidhogg"
+],
+"links": 37
+},
+{
+"name": "Perses",
+"aliases": [
+"Persaeus",
+"Persaios"
+],
+"links": 37
+},
+{
+"name": "Purusha",
+"aliases": [],
+"links": 37
+},
+{
+"name": "roc",
+"aliases": [
+"rokh",
+"ruk",
+"rukh",
+"rukk"
+],
+"links": 37
+},
+{
+"name": "Rán",
+"aliases": [
+"Ran"
+],
+"links": 37
+},
+{
+"name": "Satis",
+"aliases": [
+"Satet",
+"Sathit",
+"Sati",
+"Satit",
+"Setet",
+"Setis"
+],
+"links": 37
+},
+{
+"name": "Svarog",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Thalassa",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Wendigo",
+"aliases": [
+"wetiko",
+"Windigo"
+],
+"links": 37
+},
+{
+"name": "Yuki-onna",
+"aliases": [
+"Oyasu",
+"Snow Ghost",
+"Woman of the Snow"
+],
+"links": 37
+},
+{
+"name": "Zahhak",
+"aliases": [
+"azdahāg",
+"Azhi Dahāka",
+"Aži Dahāka",
+"Bēvar Asp",
+"Dahhak",
+"Dahāg",
+"Zahak",
+"Zahhāk",
+"Zahāk"
+],
+"links": 37
+},
+{
+"name": "Alpheus",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Ananse",
+"aliases": [
+"Ananansa",
+"Anancy",
+"Anancyi",
+"Anansi Drew",
+"Anansi-Tori",
+"Anansie",
+"Anansiil",
+"Ananu",
+"Ananzi",
+"Ananſie",
+"Anase the Spider Man",
+"Annancy",
+"Aunt Nancy",
+"Aunt-nancy",
+"Ayiyi B'anansi",
+"Brother Anansi",
+"Compé Anansi",
+"Hanansi",
+"Kacou Ananzè",
+"Kompa Nanzi",
+"Kuent'i Nanzi",
+"Kwaku Ananse",
+"Kwaku Anansi",
+"Kweku Ananse",
+"Kweku Anansi",
+"Nanzi",
+"Pablo Barnansi",
+"Shi Maria"
+],
+"links": 36
+},
+{
+"name": "Asteria",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Auðumbla",
+"aliases": [
+"Adumbla",
+"Audhumbla",
+"Audhumla",
+"Auðhumbla",
+"Auðhumla",
+"Auðumla"
+],
+"links": 36
+},
+{
+"name": "Calydonian Boar",
+"aliases": [
+"Hus Kalydônios"
+],
+"links": 36
+},
+{
+"name": "changeling",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Enceladus",
+"aliases": [],
+"links": 36
+},
+{
+"name": "kappa",
+"aliases": [],
+"links": 36
+},
+{
+"name": "kelpie",
+"aliases": [
+"kaelpie",
+"water kelpie"
+],
+"links": 36
+},
+{
+"name": "Makara",
+"aliases": [
+"Makaras",
+"Mákara",
+"Mákaras"
+],
+"links": 36
+},
+{
+"name": "Menoetius",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Samael",
+"aliases": [
+"Blind God",
+"God of the Blind",
+"Lucifer",
+"Poison of God",
+"Severity of God",
+"Venom of God"
+],
+"links": 36
+},
+{
+"name": "Silenus",
+"aliases": [
+"Papposilenus"
+],
+"links": 36
+},
+{
+"name": "Snake",
+"aliases": [
+"snake in Chinese astrology"
+],
+"links": 36
+},
+{
+"name": "Taygete",
+"aliases": [],
+"links": 36
+},
+{
+"name": "undine",
+"aliases": [
+"ondine"
+],
+"links": 36
+},
+{
+"name": "wyvern",
+"aliases": [
+"wivern"
+],
+"links": 36
+},
+{
+"name": "Zhuque",
+"aliases": [
+"Chu Tước",
+"Chu-chhiok",
+"Chû-chiok",
+"Ciŏ-chiók",
+"Tsu-tshiok",
+"Vermilion Bird",
+"Zhūquè"
+],
+"links": 36
+},
+{
+"name": "Black Tortoise",
+"aliases": [
+"Black Tortoise of the North",
+"Black Turtle",
+"Black Warrior",
+"Genbu",
+"Huyền Vũ",
+"Hyeonmu",
+"Xuan Wu",
+"Xuánwǔ"
+],
+"links": 35
+},
+{
+"name": "cynocephaly",
+"aliases": [
+"cynocephalus"
+],
+"links": 35
+},
+{
+"name": "Frankenstein's monster",
+"aliases": [
+"Adam Frankenstei",
+"Frankenstein",
+"The Creature",
+"The Human Experiment"
+],
+"links": 35
+},
+{
+"name": "Reptilian",
+"aliases": [],
+"links": 35
+},
+{
+"name": "sea monster",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Sköll",
+"aliases": [],
+"links": 35
+},
+{
+"name": "tooth fairy",
+"aliases": [
+"the tooth fairy"
+],
+"links": 35
+},
+{
+"name": "Argos",
+"aliases": [
+"Argus"
+],
+"links": 34
+},
+{
+"name": "Azure Dragon",
+"aliases": [
+"Azure Dragon of the East",
+"Cheongnyong",
+"Qinglong",
+"Seiryū",
+"Thanh Long"
+],
+"links": 34
+},
+{
+"name": "Blade",
+"aliases": [
+"Daywalker",
+"Eric Brooks",
+"Eric Stokes Brooks",
+"Frank Blade",
+"Hannibal Francis Blade"
+],
+"links": 34
+},
+{
+"name": "Cacus",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Campe",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Ghaṭotkaca",
+"aliases": [],
+"links": 34
+},
+{
+"name": "hippocamp",
+"aliases": [
+"hippocampi",
+"hippocamps",
+"hippocampus",
+"hippokampoi",
+"sea-horse"
+],
+"links": 34
+},
+{
+"name": "Humbaba",
+"aliases": [
+"Huwawa"
+],
+"links": 34
+},
+{
+"name": "Hyades",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Mahishasura",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Rhodos",
+"aliases": [
+"Rhode"
+],
+"links": 34
+},
+{
+"name": "Shayatin",
+"aliases": [
+"devil in Islam",
+"devils in Islām",
+"Iblis",
+"Satan in Islam",
+"satans in Islām",
+"Shaitan",
+"Shaytan",
+"S̲h̲aiṭān",
+"the devil in Islam"
+],
+"links": 34
+},
+{
+"name": "White Tiger",
+"aliases": [
+"Baihu"
+],
+"links": 34
+},
+{
+"name": "Xenomorph",
+"aliases": [
+"alien monster",
+"extraterrestrial monster",
+"Internecivus raptus",
+"Linguafoeda acheronsis"
+],
+"links": 34
+},
+{
+"name": "Alkonost",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Egeria",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Hamadryad",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Jaṭāyu",
+"aliases": [
+"Aṣvākā",
+"Vāyuputra"
+],
+"links": 33
+},
+{
+"name": "Mušḫuššu",
+"aliases": [
+"Mushkhushshu",
+"wonderful serpent"
+],
+"links": 33
+},
+{
+"name": "Väinämöinen",
+"aliases": [
+"Wäinämöinen"
+],
+"links": 33
+},
+{
+"name": "Vāsuki",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Ariel",
+"aliases": [
+"Princess Ariel",
+"The Little Mermaid"
+],
+"links": 32
+},
+{
+"name": "cattle in religion and mythology",
+"aliases": [
+"legendary cattle",
+"legendary cow",
+"mythical cattle",
+"mythical cow",
+"mythological cattle",
+"mythological cow",
+"sacred cow"
+],
+"links": 32
+},
+{
+"name": "Hati Hróðvitnisson",
+"aliases": [
+"Hati",
+"Hati Hródvitnisson"
+],
+"links": 32
+},
+{
+"name": "Ifrit",
+"aliases": [
+"afarit",
+"afreet",
+"afrit",
+"afrite",
+"efreet",
+"efrite",
+"ifreet"
+],
+"links": 32
+},
+{
+"name": "Israfil",
+"aliases": [
+"Azrafil",
+"Esrafil",
+"Israfeel",
+"Israfel",
+"Isrāfīl"
+],
+"links": 32
+},
+{
+"name": "kikimora",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Meliae",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Melusine",
+"aliases": [
+"Melusina"
+],
+"links": 32
+},
+{
+"name": "Neck",
+"aliases": [
+"nixes",
+"Nixie",
+"Stromkarl"
+],
+"links": 32
+},
+{
+"name": "Nephele",
+"aliases": [
+"Nebula"
+],
+"links": 32
+},
+{
+"name": "Peitho",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Perse",
+"aliases": [
+"Persa",
+"Perseis"
+],
+"links": 32
+},
+{
+"name": "Ratatoskr",
+"aliases": [
+"Ratatosk"
+],
+"links": 32
+},
+{
+"name": "Thunderbird",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Benzaiten",
+"aliases": [
+"Benten"
+],
+"links": 31
+},
+{
+"name": "Bestla",
+"aliases": [],
+"links": 31
+},
+{
+"name": "bunyip",
+"aliases": [
+"The Billabong Monster",
+"Wemba Wemba",
+"Wowee"
+],
+"links": 31
+},
+{
+"name": "Caïssa",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Chaac",
+"aliases": [
+"Chaak"
+],
+"links": 31
+},
+{
+"name": "Chalchiuhtlicue",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Fáfnir",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Kinnara",
+"aliases": [
+"Jinnalaluo",
+"kimnaras"
+],
+"links": 31
+},
+{
+"name": "Leshy",
+"aliases": [
+"lesavik",
+"Leshiy",
+"liasun"
+],
+"links": 31
+},
+{
+"name": "Mares of Diomedes",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Melek Taus",
+"aliases": [
+"King Peacock",
+"Melek Taoos",
+"Peacock Angel"
+],
+"links": 31
+},
+{
+"name": "Melicertes",
+"aliases": [
+"Palaemon"
+],
+"links": 31
+},
+{
+"name": "Munkar and Nakir",
+"aliases": [
+"Munkar wa Nakīr",
+"Nakīr and Munkar",
+"Nakīr wa Munkar"
+],
+"links": 31
+},
+{
+"name": "Pazuzu",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Phoroneus",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Asia",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Clytie",
+"aliases": [],
+"links": 30
+},
+{
+"name": "dragon king",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Empusa",
+"aliases": [
+"Empousa"
+],
+"links": 30
+},
+{
+"name": "Kukulkan",
+"aliases": [
+"Kukulcan"
+],
+"links": 30
+},
+{
+"name": "Metatron",
+"aliases": [
+"Chancellor of Heaven",
+"Mattatron",
+"Recording Angel"
+],
+"links": 30
+},
+{
+"name": "Nammu",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Oenone",
+"aliases": [
+"Enone",
+"Oenonë",
+"Oinone"
+],
+"links": 30
+},
+{
+"name": "Ophion",
+"aliases": [
+"Ophioneus"
+],
+"links": 30
+},
+{
+"name": "Philyra",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Salmacis",
+"aliases": [],
+"links": 30
+},
+{
+"name": "sea serpent",
+"aliases": [
+"Megophias monstrosus",
+"Pelamis megophias",
+"Sea-Serpent"
+],
+"links": 30
+},
+{
+"name": "Syrinx",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Tomte",
+"aliases": [
+"elf",
+"elves",
+"gonk",
+"gonks",
+"nisse",
+"tomtenisse",
+"tonttu"
+],
+"links": 30
+},
+{
+"name": "Yamata no Orochi",
+"aliases": [
+"Orochi",
+"Yamata-no-Orochi"
+],
+"links": 30
+},
+{
+"name": "Yamunā",
+"aliases": [
+"Kālindī",
+"Yamī"
+],
+"links": 30
+},
+{
+"name": "Arion",
+"aliases": [
+"Areion"
+],
+"links": 29
+},
+{
+"name": "Belphegor",
+"aliases": [
+"Baal-Peor"
+],
+"links": 29
+},
+{
+"name": "Fomorians",
+"aliases": [
+"Corb",
+"Fomhoraigh",
+"Fomhóraigh",
+"Fomoire",
+"Fomor"
+],
+"links": 29
+},
+{
+"name": "Jersey Devil",
+"aliases": [
+"Leeds Devil",
+"New Jersey Devils"
+],
+"links": 29
+},
+{
+"name": "Klymene",
+"aliases": [
+"Clymene"
+],
+"links": 29
+},
+{
+"name": "Mothra",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Nehushtan",
+"aliases": [
+"Brasen Serpent",
+"Brazen Serpent",
+"Bronze Serpente",
+"Nechushtan",
+"Nohestan",
+"N’chushtan"
+],
+"links": 29
+},
+{
+"name": "Phlegethon",
+"aliases": [
+"Pyriphlegethon"
+],
+"links": 29
+},
+{
+"name": "preta",
+"aliases": [
+"hungry ghost"
+],
+"links": 29
+},
+{
+"name": "Scamander",
+"aliases": [
+"Karamenderes",
+"Scamandrus",
+"Skamandros",
+"Xanthos",
+"Xanthus"
+],
+"links": 29
+},
+{
+"name": "Vahana",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Vritra",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Astaroth",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Atargatis",
+"aliases": [
+"Aphrodite Derceto",
+"Ataratheh",
+"Dea Syriae",
+"Derceto",
+"Derketo"
+],
+"links": 28
+},
+{
+"name": "Firebird",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Glaucus",
+"aliases": [
+"Glaukos",
+"Marine Glaucus"
+],
+"links": 28
+},
+{
+"name": "Heiðrún",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Juturna",
+"aliases": [],
+"links": 28
+},
+{
+"name": "kobold",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Kumbhakarṇa",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Moon rabbit",
+"aliases": [
+"jade rabbit",
+"moon hare"
+],
+"links": 28
+},
+{
+"name": "Ogopogo",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Santa Muerte",
+"aliases": [
+"La niña blanca."
+],
+"links": 28
+},
+{
+"name": "Sedna",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Zu",
+"aliases": [
+"Anzu",
+"Imdugud"
+],
+"links": 28
+},
+{
+"name": "amphisbaena",
+"aliases": [
+"amfivena",
+"amphisbaenae",
+"amphisbaina",
+"amphisbene",
+"amphisboena",
+"amphisbona",
+"amphisbæna",
+"amphista",
+"amphivena",
+"anphivena"
+],
+"links": 27
+},
+{
+"name": "Aos Sí",
+"aliases": [
+"Aos Si",
+"Síd",
+"Síde",
+"Sídhe"
+],
+"links": 27
+},
+{
+"name": "bakeneko",
+"aliases": [
+"bake-neko"
+],
+"links": 27
+},
+{
+"name": "Bergelmir",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Bull of Heaven",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Castalia",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Druk",
+"aliases": [
+"Thunder Dragon"
+],
+"links": 27
+},
+{
+"name": "Ebisu",
+"aliases": [
+"Yebisu"
+],
+"links": 27
+},
+{
+"name": "Huldra",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Ixchel",
+"aliases": [
+"Chak Chel",
+"Ix Chel"
+],
+"links": 27
+},
+{
+"name": "Járnsaxa",
+"aliases": [
+"Jarnsaxa"
+],
+"links": 27
+},
+{
+"name": "King Ghidorah",
+"aliases": [
+"Ghidorah",
+"Ghidrah"
+],
+"links": 27
+},
+{
+"name": "Nilus",
+"aliases": [
+"Nile"
+],
+"links": 27
+},
+{
+"name": "Peneus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Putana",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Rhesus of Thrace",
+"aliases": [
+"Rhesus"
+],
+"links": 27
+},
+{
+"name": "Rodan",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Rokurokubi",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Svaðilfari",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Tarasque",
+"aliases": [
+"tarrasque"
+],
+"links": 27
+},
+{
+"name": "Thoosa",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Welsh Dragon",
+"aliases": [
+"Red Dragon",
+"Y Ddraig Goch"
+],
+"links": 27
+},
+{
+"name": "Alcyoneus",
+"aliases": [
+"Alkyoneus"
+],
+"links": 26
+},
+{
+"name": "Andvari",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Cabeiri",
+"aliases": [
+"Cabiri",
+"Kabeiri",
+"Kabeiroi",
+"Kabiri"
+],
+"links": 26
+},
+{
+"name": "Electra",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Gonggong",
+"aliases": [
+"Gong Gong",
+"Gong Gong Shi",
+"Gonggong Shi",
+"Great Kong",
+"Kanghui",
+"Kong Kong",
+"Kong-kong",
+"Koung Koung",
+"Koung-koung",
+"Kungkung"
+],
+"links": 26
+},
+{
+"name": "Gullinbursti",
+"aliases": [
+"Gullinborsti",
+"Slidrugtanni"
+],
+"links": 26
+},
+{
+"name": "Harut and Marut",
+"aliases": [],
+"links": 26
+},
+{
+"name": "huma bird",
+"aliases": [
+"homa",
+"huma"
+],
+"links": 26
+},
+{
+"name": "Indrajit",
+"aliases": [
+"Meghanāda",
+"Māyājī",
+"Vasavajit",
+"Śakrajit"
+],
+"links": 26
+},
+{
+"name": "jackalope",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Japanese dragon",
+"aliases": [
+"ryu",
+"ryū"
+],
+"links": 26
+},
+{
+"name": "Leucothea",
+"aliases": [
+"Ino",
+"Leucothoe"
+],
+"links": 26
+},
+{
+"name": "Lion of Saint Mark",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Manannán mac Lir",
+"aliases": [
+"Manannan mac Lir"
+],
+"links": 26
+},
+{
+"name": "merman",
+"aliases": [
+"merboy",
+"merbrother",
+"merfather",
+"merking",
+"merlad",
+"mermen",
+"mermister",
+"triton"
+],
+"links": 26
+},
+{
+"name": "Māui",
+"aliases": [
+"Maui"
+],
+"links": 26
+},
+{
+"name": "Smok Wawelski",
+"aliases": [
+"Wawel Dragon"
+],
+"links": 26
+},
+{
+"name": "Sæhrímnir",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Tatzelwurm",
+"aliases": [
+"Alpine dragon"
+],
+"links": 26
+},
+{
+"name": "Vibhīṣaṇa",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Zhu Bajie",
+"aliases": [
+"Bajie",
+"Bajie Zhu",
+"Jeo Palgye",
+"Pigsy",
+"Wuneng",
+"Zhu Ganglie",
+"Zhu Wuneng"
+],
+"links": 26
+},
+{
+"name": "Callirhoe",
+"aliases": [],
+"links": 25
+},
+{
+"name": "dhampir",
+"aliases": [],
+"links": 25
+},
+{
+"name": "elemental",
+"aliases": [
+"elemental spirit",
+"elementals",
+"elementary spirit",
+"nature spirit"
+],
+"links": 25
+},
+{
+"name": "Eridanos",
+"aliases": [],
+"links": 25
+},
+{
+"name": "fravashi",
+"aliases": [
+"fravaši",
+"Fravaši"
+],
+"links": 25
+},
+{
+"name": "Kingu",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Maruts",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Mimas",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Orithyia",
+"aliases": [
+"Oreithya",
+"Oreithyia"
+],
+"links": 25
+},
+{
+"name": "Pholus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Serpopard",
+"aliases": [],
+"links": 25
+},
+{
+"name": "shapeshifter",
+"aliases": [
+"shapeshifting creature"
+],
+"links": 25
+},
+{
+"name": "Tiberinus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ulūpī",
+"aliases": [
+"Uluci",
+"Ulupikā"
+],
+"links": 25
+},
+{
+"name": "Zimbabwe Bird",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ziz",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Adramelech",
+"aliases": [
+"Adrammelech"
+],
+"links": 24
+},
+{
+"name": "Amabie",
+"aliases": [],
+"links": 24
+},
+{
+"name": "bake-danuki",
+"aliases": [
+"bakedanuki",
+"tanuki"
+],
+"links": 24
+},
+{
+"name": "Barong",
+"aliases": [
+"Barongan"
+],
+"links": 24
+},
+{
+"name": "brownie",
+"aliases": [
+"broonie",
+"brùnaidh",
+"Bwbach",
+"Fenodyree",
+"gruagach",
+"Peallaidh",
+"Pellaidh"
+],
+"links": 24
+},
+{
+"name": "Electra",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Gambrinus",
+"aliases": [
+"Gambrivius",
+"Gampar",
+"Jan Primus"
+],
+"links": 24
+},
+{
+"name": "Glycon",
+"aliases": [
+"Glicó"
+],
+"links": 24
+},
+{
+"name": "Hatmehit",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Irāvān",
+"aliases": [
+"Arāvan",
+"Kuṭṭanatavara"
+],
+"links": 24
+},
+{
+"name": "Lady Midday",
+"aliases": [
+"Mid-day Witch",
+"Midday Girl",
+"Noon Witch",
+"Noon-day Witch",
+"Noonday Witch",
+"Polednice",
+"Poludnitsa",
+"Pscipolnitsa"
+],
+"links": 24
+},
+{
+"name": "Lamashtu",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Namazu",
+"aliases": [
+"Ōnamazu"
+],
+"links": 24
+},
+{
+"name": "Olympe Maxime",
+"aliases": [
+"Madame Maxime"
+],
+"links": 24
+},
+{
+"name": "Pishacha",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Pixiu",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Porphyrion",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Rainbow Serpent",
+"aliases": [
+"Andrénjinyi",
+"Bolung",
+"Cunmurra",
+"Dhakkan",
+"Galeru",
+"Goorialla",
+"Julunggul",
+"Julunggur",
+"Jurlungur",
+"Kajura",
+"Kanmare",
+"Kooremah",
+"Kunmanggur",
+"Langal",
+"Myndie",
+"Ngalmudj",
+"Ngalyod",
+"Numereji",
+"Taipan",
+"Takkan",
+"Tulloun",
+"Ungur",
+"Wanamangura",
+"Wanampi",
+"Witij",
+"Wititj",
+"Wonambi",
+"Wonungar",
+"Worombi",
+"Yero",
+"Yingarna",
+"Yulunggur",
+"Yurlunggur",
+"Yurlungur"
+],
+"links": 24
+},
+{
+"name": "Salacia",
+"aliases": [],
+"links": 24
+},
+{
+"name": "selkie",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Sirin",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Sterope",
+"aliases": [],
+"links": 24
+},
+{
+"name": "throne",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Titania",
+"aliases": [
+"Queen Titania",
+"Titania Regina"
+],
+"links": 24
+},
+{
+"name": "Yama-uba",
+"aliases": [
+"Yamamba",
+"Yamanba",
+"Yamauba"
+],
+"links": 24
+},
+{
+"name": "Abnoba",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Barachiel",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Blåhaj",
+"aliases": [
+"funny meme shark",
+"IKEA shark",
+"Klappar Haj",
+"Smolhaj"
+],
+"links": 23
+},
+{
+"name": "chollima",
+"aliases": [
+"cheollima",
+"qianlima",
+"senrima"
+],
+"links": 23
+},
+{
+"name": "Christmas elf",
+"aliases": [
+"Santa Claus' elf",
+"Santa's elf"
+],
+"links": 23
+},
+{
+"name": "cockatrice",
+"aliases": [],
+"links": 23
+},
+{
+"name": "European dragon",
+"aliases": [
+"Dragon"
+],
+"links": 23
+},
+{
+"name": "Gumiho",
+"aliases": [
+"Kumiho",
+"nine-tailed fox"
+],
+"links": 23
+},
+{
+"name": "Legion",
+"aliases": [
+"Legeon"
+],
+"links": 23
+},
+{
+"name": "Lelex",
+"aliases": [],
+"links": 23
+},
+{
+"name": "nekomata",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Nue",
+"aliases": [],
+"links": 23
+},
+{
+"name": "pixie",
+"aliases": [
+"pigsie",
+"piskey",
+"piskeys",
+"piskie",
+"piskies",
+"pixi",
+"pixies",
+"pixy",
+"pizkie"
+],
+"links": 23
+},
+{
+"name": "Polybotes",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Portunes",
+"aliases": [
+"Portunus"
+],
+"links": 23
+},
+{
+"name": "Selaphiel",
+"aliases": [
+"Archangel Seatiel",
+"Arcángel Selafiel",
+"Arcángel Selaphiel",
+"Saint Selaphiel",
+"Selafiel",
+"St. Selafiel"
+],
+"links": 23
+},
+{
+"name": "Tsukumogami",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Wadj-wer",
+"aliases": [],
+"links": 23
+},
+{
+"name": "warg",
+"aliases": [
+"vargr"
+],
+"links": 23
+},
+{
+"name": "wight",
+"aliases": [],
+"links": 23
+},
+{
+"name": "wild man",
+"aliases": [
+"wildman",
+"wodewose",
+"woodwose"
+],
+"links": 23
+},
+{
+"name": "Yemaja",
+"aliases": [
+"Iemanjá",
+"Yemanja",
+"Yemoja",
+"Yemọja"
+],
+"links": 23
+},
+{
+"name": "Bahamut",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Baku",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Bhoot",
+"aliases": [
+"Bhut",
+"Bhūta"
+],
+"links": 22
+},
+{
+"name": "Briareus",
+"aliases": [
+"Obriareus"
+],
+"links": 22
+},
+{
+"name": "Camazotz",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Camena",
+"aliases": [
+"Camenae",
+"Camenæ",
+"Camoena",
+"Casmena"
+],
+"links": 22
+},
+{
+"name": "Cetus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Dryope",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Hellhound",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Jegudiel",
+"aliases": [
+"Jehudiel"
+],
+"links": 22
+},
+{
+"name": "Merkabah",
+"aliases": [
+"Merkabah mysticism"
+],
+"links": 22
+},
+{
+"name": "Minthe",
+"aliases": [
+"Mentha",
+"Menthe",
+"Mint",
+"Mintha"
+],
+"links": 22
+},
+{
+"name": "Nemty",
+"aliases": [
+"Anti"
+],
+"links": 22
+},
+{
+"name": "Rangda",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sequana",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Skin-walker",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Slavic dragon",
+"aliases": [],
+"links": 22
+},
+{
+"name": "sylph",
+"aliases": [
+"sylphid",
+"sylphs"
+],
+"links": 22
+},
+{
+"name": "Valac",
+"aliases": [
+"aminnn",
+"Coolor",
+"Doolas",
+"doolin",
+"Ualac",
+"Valak",
+"Valek",
+"Volac",
+"Volach",
+"walak"
+],
+"links": 22
+},
+{
+"name": "Vegetable Lamb of Tartary",
+"aliases": [
+"Agnus scythicus",
+"Borametz"
+],
+"links": 22
+},
+{
+"name": "Aamon",
+"aliases": [
+"Amon",
+"Nahum"
+],
+"links": 21
+},
+{
+"name": "Ajatar",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Anguirus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Aura",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bannik",
+"aliases": [],
+"links": 21
+},
+{
+"name": "black dog",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Buchis",
+"aliases": [
+"Bakh",
+"Bakha"
+],
+"links": 21
+},
+{
+"name": "Celaeno",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Enipeus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Gamera",
+"aliases": [],
+"links": 21
+},
+{
+"name": "gremlin",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Grýla",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Halie",
+"aliases": [
+"Halia",
+"Halia of Rhodes"
+],
+"links": 21
+},
+{
+"name": "Jibril",
+"aliases": [
+"Gabriel in Islam",
+"God is the Creator",
+"Jibra'il",
+"thw god is the only"
+],
+"links": 21
+},
+{
+"name": "Laelaps",
+"aliases": [],
+"links": 21
+},
+{
+"name": "lindworm",
+"aliases": [
+"lindwurm",
+"lindwyrm"
+],
+"links": 21
+},
+{
+"name": "Mami Wata",
+"aliases": [
+"Mami Ouata",
+"Mami Watta",
+"Mammy Wata",
+"Mammy Water",
+"Mamy Wata"
+],
+"links": 21
+},
+{
+"name": "Mucilinda",
+"aliases": [
+"Mucalinda"
+],
+"links": 21
+},
+{
+"name": "nine-tailed fox",
+"aliases": [
+"9-tailed fox",
+"fox spirit"
+],
+"links": 21
+},
+{
+"name": "Oshun",
+"aliases": [
+"Oshun ikole"
+],
+"links": 21
+},
+{
+"name": "Potamoi",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Raziel",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Regin",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ryūjin",
+"aliases": [
+"Rinjin",
+"Ōwatatsumi"
+],
+"links": 21
+},
+{
+"name": "salamander",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Shahmaran",
+"aliases": [
+"Shah Maran",
+"Shahmeran",
+"Shaymaran"
+],
+"links": 21
+},
+{
+"name": "Sparta",
+"aliases": [
+"Sparte"
+],
+"links": 21
+},
+{
+"name": "Takṣaka",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tangaroa",
+"aliases": [
+"Takaroa",
+"Tanga-roa"
+],
+"links": 21
+},
+{
+"name": "Teumessian fox",
+"aliases": [],
+"links": 21
+},
+{
+"name": "The Beast",
+"aliases": [
+"Beast of Revelation",
+"Beast of the Apocalypse",
+"The Beast of Revelation",
+"The Beast of the Apocalypse",
+"Thērion"
+],
+"links": 21
+},
+{
+"name": "Tsuchinoko",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Uchchaihshravas",
+"aliases": [],
+"links": 21
+},
+{
+"name": "White Witch",
+"aliases": [
+"The White Witch of Narnia"
+],
+"links": 21
+},
+{
+"name": "Yeren",
+"aliases": [
+"Chinese Wildman"
+],
+"links": 21
+},
+{
+"name": "Yule cat",
+"aliases": [
+"Christmas cat",
+"Jólakötturinn"
+],
+"links": 21
+},
+{
+"name": "Akaname",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Alcyone",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Asena",
+"aliases": [],
+"links": 20
+},
+{
+"name": "chort",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Cloacina",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Crommyonian Sow",
+"aliases": [
+"Phaea",
+"Phaia"
+],
+"links": 20
+},
+{
+"name": "dokkaebi",
+"aliases": [
+"Korean goblin"
+],
+"links": 20
+},
+{
+"name": "Ersa",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Fontus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Fox spirit",
+"aliases": [
+"Huli jing"
+],
+"links": 20
+},
+{
+"name": "Gamayun",
+"aliases": [],
+"links": 20
+},
+{
+"name": "inugami",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kāliya",
+"aliases": [],
+"links": 20
+},
+{
+"name": "lake monster",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Maalik",
+"aliases": [
+"Malik",
+"Mālik"
+],
+"links": 20
+},
+{
+"name": "Mechagodzilla",
+"aliases": [
+"Mechagojira",
+"Mekagojira"
+],
+"links": 20
+},
+{
+"name": "Merope",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nehalennia",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nethuns",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Pontianak",
+"aliases": [
+"Kuntilanak"
+],
+"links": 20
+},
+{
+"name": "Sinope",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Taotie",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Trijata",
+"aliases": [
+"Trijātā"
+],
+"links": 20
+},
+{
+"name": "Tulpar",
+"aliases": [
+"Tolpar"
+],
+"links": 20
+},
+{
+"name": "Tāṭakā",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Vanth",
+"aliases": [],
+"links": 20
+},
+{
+"name": "vetala",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Veðrfölnir",
+"aliases": [
+"Vedrfölnir"
+],
+"links": 20
+},
+{
+"name": "werecat",
+"aliases": [
+"were-cat",
+"weretiger"
+],
+"links": 20
+},
+{
+"name": "Zilant",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Agathodaemon",
+"aliases": [
+"Agathodaimon",
+"Agathos daemon"
+],
+"links": 19
+},
+{
+"name": "Anchiroe",
+"aliases": [
+"Anchinoë"
+],
+"links": 19
+},
+{
+"name": "Atlahua",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Bael",
+"aliases": [],
+"links": 19
+},
+{
+"name": "bishop-fish",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Caca",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Champ",
+"aliases": [
+"Champy",
+"Tatoskok"
+],
+"links": 19
+},
+{
+"name": "Coco",
+"aliases": [
+"Coca",
+"Cuca",
+"Cucuy"
+],
+"links": 19
+},
+{
+"name": "Eidyia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Karkadann",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Klabautermann",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lir",
+"aliases": [
+"Lear",
+"Ler",
+"Lír"
+],
+"links": 19
+},
+{
+"name": "Marica",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Naunet",
+"aliases": [
+"Naounet"
+],
+"links": 19
+},
+{
+"name": "Nerites",
+"aliases": [],
+"links": 19
+},
+{
+"name": "nuckelavee",
+"aliases": [
+"nuckalavee"
+],
+"links": 19
+},
+{
+"name": "Parthenope",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Ridwan",
+"aliases": [
+"Radhouan",
+"Radouan",
+"Redhouan",
+"Redouan",
+"Ridhouan",
+"Ridouan",
+"Rofiat"
+],
+"links": 19
+},
+{
+"name": "Sha Wujing",
+"aliases": [
+"Sandy"
+],
+"links": 19
+},
+{
+"name": "Storsjöodjuret",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Sōjōbō",
+"aliases": [
+"Kurama Tengu"
+],
+"links": 19
+},
+{
+"name": "three-legged crow",
+"aliases": [
+"tripedal crow"
+],
+"links": 19
+},
+{
+"name": "Udug",
+"aliases": [
+"Utukku"
+],
+"links": 19
+},
+{
+"name": "Watcher",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Xuan Wu",
+"aliases": [
+"Dark Deity",
+"Dark Warrior",
+"Mysterious Warrior",
+"True Warrior Great Deity"
+],
+"links": 19
+},
+{
+"name": "Agares",
+"aliases": [
+"Agarat",
+"Agaros",
+"Agarus"
+],
+"links": 18
+},
+{
+"name": "Angel Moroni",
+"aliases": [
+"Moroni"
+],
+"links": 18
+},
+{
+"name": "Asag",
+"aliases": [
+"Azag"
+],
+"links": 18
+},
+{
+"name": "Astghik",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Aswang",
+"aliases": [
+"Asuwang"
+],
+"links": 18
+},
+{
+"name": "Bai Ze",
+"aliases": [
+"Hakutaku",
+"Pak Chak"
+],
+"links": 18
+},
+{
+"name": "Benthesikyme",
+"aliases": [
+"Benthesicyme"
+],
+"links": 18
+},
+{
+"name": "Borvo",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Chloris",
+"aliases": [
+"Flora"
+],
+"links": 18
+},
+{
+"name": "Cipactli",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Dullahan",
+"aliases": [
+"Dullaghan",
+"Durahan",
+"Gan Ceann"
+],
+"links": 18
+},
+{
+"name": "Greek water deities",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Hiisi",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Illuyanka",
+"aliases": [
+"Iluyanka"
+],
+"links": 18
+},
+{
+"name": "Iron Wolf",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Jophiel",
+"aliases": [
+"beauty of God",
+"Iophiel",
+"Yofiel",
+"Zophiel",
+"Zuriel"
+],
+"links": 18
+},
+{
+"name": "Kallikantzaros",
+"aliases": [
+"Karakondzhul"
+],
+"links": 18
+},
+{
+"name": "Lampetia",
+"aliases": [
+"Lampeto"
+],
+"links": 18
+},
+{
+"name": "Larunda",
+"aliases": [
+"Lara",
+"Laranda",
+"Larentina",
+"Larunde"
+],
+"links": 18
+},
+{
+"name": "Manananggal",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Manimekhala",
+"aliases": [
+"Manee Mekhala"
+],
+"links": 18
+},
+{
+"name": "Mera",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Metope",
+"aliases": [],
+"links": 18
+},
+{
+"name": "mythological bull",
+"aliases": [
+"mythical bull",
+"sacred bull"
+],
+"links": 18
+},
+{
+"name": "Nodens",
+"aliases": [
+"Nodons",
+"Nudens"
+],
+"links": 18
+},
+{
+"name": "Nyai Roro Kidul",
+"aliases": [
+"Ratu Laut Selatan"
+],
+"links": 18
+},
+{
+"name": "obake",
+"aliases": [
+"bakemono"
+],
+"links": 18
+},
+{
+"name": "Orseis",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Pallas",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Sulis",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Svartálfar",
+"aliases": [
+"black elves",
+"Dökkálfar",
+"Svartalfar"
+],
+"links": 18
+},
+{
+"name": "Tamamo-no-Mae",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Thalia",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Tiburtine Sibyl",
+"aliases": [
+"Albunea"
+],
+"links": 18
+},
+{
+"name": "Toell the Great",
+"aliases": [],
+"links": 18
+},
+{
+"name": "tsuchigumo",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ubume",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ushi-oni",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Wolves in folklore, religion and mythology",
+"aliases": [
+"legendary wolf",
+"mythical wolf",
+"mythological wolf"
+],
+"links": 18
+},
+{
+"name": "xiezhi",
+"aliases": [
+"Giải trãi",
+"Haai-zi",
+"Haechi",
+"Haetae",
+"Hāi-thuā",
+"Kaichi",
+"unicorn-goat",
+"unicorn-lion"
+],
+"links": 18
+},
+{
+"name": "Zashiki-warashi",
+"aliases": [],
+"links": 18
+},
+{
+"name": "amanojaku",
+"aliases": [
+"amanjaku"
+],
+"links": 17
+},
+{
+"name": "Apasmara",
+"aliases": [
+"Apasmāra"
+],
+"links": 17
+},
+{
+"name": "asura",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Baal-berith",
+"aliases": [
+"Berith",
+"El-berith"
+],
+"links": 17
+},
+{
+"name": "Barghest",
+"aliases": [
+"Barguest"
+],
+"links": 17
+},
+{
+"name": "Bixi",
+"aliases": [
+"baa haa",
+"Baxia",
+"bei hei",
+"bi hi",
+"bihui",
+"Guifu",
+"gwai fu",
+"Gwibu",
+"gwibu",
+"haka",
+"hiki",
+"kifu",
+"kui-hu",
+"pa-ha",
+"pi-hi",
+"tin haa"
+],
+"links": 17
+},
+{
+"name": "Brokkr",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Buer",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Cebren",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Cymopoleia",
+"aliases": [
+"Kymopoleia"
+],
+"links": 17
+},
+{
+"name": "Eligos",
+"aliases": [
+"Abigar",
+"Abigor",
+"Eligor"
+],
+"links": 17
+},
+{
+"name": "Elli",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Epimeliads",
+"aliases": [
+"Maliades",
+"Meliades"
+],
+"links": 17
+},
+{
+"name": "Himalia",
+"aliases": [],
+"links": 17
+},
+{
+"name": "household deity or spirit",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Huang Long",
+"aliases": [
+"Huanglong",
+"Yellow Dragon"
+],
+"links": 17
+},
+{
+"name": "Kaworu Nagisa",
+"aliases": [
+"Kaoru Nagisa",
+"Tabris",
+"the Fifth Child"
+],
+"links": 17
+},
+{
+"name": "komainu",
+"aliases": [
+"lion-dog"
+],
+"links": 17
+},
+{
+"name": "korpokkur",
+"aliases": [
+"koro-pok-guru",
+"koropokkur"
+],
+"links": 17
+},
+{
+"name": "Kur",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Liriope",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Mormo",
+"aliases": [
+"Mormolykeia"
+],
+"links": 17
+},
+{
+"name": "Mummu",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Noppera-bō",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Oannes",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Polevik",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Simoeis",
+"aliases": [
+"Simois"
+],
+"links": 17
+},
+{
+"name": "skunk ape",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Snow Lion",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Syrenka Warszawska",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Umibōzu",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Volturnus",
+"aliases": [
+"Vulturnus"
+],
+"links": 17
+},
+{
+"name": "yale",
+"aliases": [
+"centicore"
+],
+"links": 17
+},
+{
+"name": "Zadkiel",
+"aliases": [
+"Hesediel",
+"Tzadkiel",
+"Zadakiel",
+"Zedekiel"
+],
+"links": 17
+},
+{
+"name": "Ōwatatsumi",
+"aliases": [
+"Kaitō no Kami",
+"Watatsumi",
+"Watatsumi no Kami"
+],
+"links": 17
+},
+{
+"name": "Al",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Amarok",
+"aliases": [
+"Waheela"
+],
+"links": 16
+},
+{
+"name": "Ampelos",
+"aliases": [
+"Ampelus"
+],
+"links": 16
+},
+{
+"name": "Angel",
+"aliases": [
+"Angels in Neon Genesis Evangelion"
+],
+"links": 16
+},
+{
+"name": "Angel of the Lord",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Arges",
+"aliases": [
+"Acmonides",
+"Pyraemon"
+],
+"links": 16
+},
+{
+"name": "Beleth",
+"aliases": [
+"Bilet",
+"Bileth",
+"Bilith",
+"Byleth"
+],
+"links": 16
+},
+{
+"name": "Boann",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Brontes",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Cadborosaurus willsi",
+"aliases": [
+"Cadborosaurus"
+],
+"links": 16
+},
+{
+"name": "Catoblepas",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Dominions",
+"aliases": [
+"Dominion",
+"Kyriotetes",
+"Lordships"
+],
+"links": 16
+},
+{
+"name": "dragons in Greek mythology",
+"aliases": [
+"dracon"
+],
+"links": 16
+},
+{
+"name": "Dvalinn",
+"aliases": [
+"Dvalin"
+],
+"links": 16
+},
+{
+"name": "Each-uisge",
+"aliases": [],
+"links": 16
+},
+{
+"name": "fylgja",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Gashadokuro",
+"aliases": [
+"Odokuro"
+],
+"links": 16
+},
+{
+"name": "Goldhorn",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Grani",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Gullfaxi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Gullinkambi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "He Bo",
+"aliases": [
+"Hebo",
+"Hebo God",
+"Ho Pak"
+],
+"links": 16
+},
+{
+"name": "headless men",
+"aliases": [
+"akephaloi",
+"Blemmyes"
+],
+"links": 16
+},
+{
+"name": "Hildisvíni",
+"aliases": [
+"Hildisvini"
+],
+"links": 16
+},
+{
+"name": "hobgoblin",
+"aliases": [
+"Bogies"
+],
+"links": 16
+},
+{
+"name": "Ichthyocentaurs",
+"aliases": [],
+"links": 16
+},
+{
+"name": "jorōgumo",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Kamaitachi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "kasa-obake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Kirtimukha",
+"aliases": [
+"Kala",
+"Taotie"
+],
+"links": 16
+},
+{
+"name": "Macris",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Mama Qucha",
+"aliases": [
+"Mama Cocha"
+],
+"links": 16
+},
+{
+"name": "Nian",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nisroch",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nurikabe",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ocean Master",
+"aliases": [
+"Orm Marius"
+],
+"links": 16
+},
+{
+"name": "Pirene",
+"aliases": [
+"Peirene"
+],
+"links": 16
+},
+{
+"name": "Podarge",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Salmon of Knowledge",
+"aliases": [
+"bradán feasa"
+],
+"links": 16
+},
+{
+"name": "Samyaza",
+"aliases": [
+"Shemyazaz",
+"Sêmîazâz"
+],
+"links": 16
+},
+{
+"name": "Sariel",
+"aliases": [
+"Esdreel",
+"Jariel",
+"Juriel",
+"Sahariel",
+"Sarakiel",
+"Saraqael",
+"Sauriel",
+"Sera",
+"Seriel",
+"Sourial",
+"Suriel",
+"Suriyel",
+"Suruel",
+"Surufel",
+"Surya"
+],
+"links": 16
+},
+{
+"name": "serpent in the Bible",
+"aliases": [
+"Biblical serpent",
+"Nahash",
+"Nāḥāš",
+"serpents in the Bible"
+],
+"links": 16
+},
+{
+"name": "Shachihoko",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sindri",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sirona",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Steropes",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Stilbe",
+"aliases": [],
+"links": 16
+},
+{
+"name": "strix",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Zabaniyya",
+"aliases": [
+"Wardens of Hell",
+"Zabaniyah"
+],
+"links": 16
+},
+{
+"name": "Zmei Gorynich",
+"aliases": [
+"Gorynishche",
+"Zmey Gorynych"
+],
+"links": 16
+},
+{
+"name": "Adrasteia",
+"aliases": [
+"Adrasta",
+"Adrastea"
+],
+"links": 15
+},
+{
+"name": "Aethon",
+"aliases": [
+"Caucasian eagle",
+"Prometheus' eagle",
+"the eagle of Prometheus"
+],
+"links": 15
+},
+{
+"name": "Aganippe",
+"aliases": [],
+"links": 15
+},
+{
+"name": "akabeko",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Akashita",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ameonna",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Amikiri",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Anqa",
+"aliases": [
+"Al-Anqa Al-Mughrib",
+"Alanga",
+"Alangha",
+"Alanka",
+"Alankha",
+"Alanqa",
+"Anga",
+"Angha",
+"Anka",
+"Ankha",
+"Anqa Mughrib"
+],
+"links": 15
+},
+{
+"name": "Azukiarai",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Barbatos",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Basajaun",
+"aliases": [
+"Lord of the Woods"
+],
+"links": 15
+},
+{
+"name": "Bayard",
+"aliases": [
+"Baiardo",
+"Steed Bayard"
+],
+"links": 15
+},
+{
+"name": "Betty Ross",
+"aliases": [
+"Betty Banner",
+"Elizabeth Ross Banner",
+"Harpy",
+"Red She-Hulk"
+],
+"links": 15
+},
+{
+"name": "Canens",
+"aliases": [],
+"links": 15
+},
+{
+"name": "churel",
+"aliases": [
+"petni"
+],
+"links": 15
+},
+{
+"name": "Coventina",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Coyote",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Curupira",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dahu",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Delphyne",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Drekavac",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Godzilla",
+"aliases": [
+"Zilla"
+],
+"links": 15
+},
+{
+"name": "hag",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Haniel",
+"aliases": [
+"Anael",
+"Aniel",
+"Hanael",
+"Hananel"
+],
+"links": 15
+},
+{
+"name": "Huixtocihuatl",
+"aliases": [],
+"links": 15
+},
+{
+"name": "huldufólk",
+"aliases": [
+"hidden people",
+"huldufolk"
+],
+"links": 15
+},
+{
+"name": "Iku-Turso",
+"aliases": [
+"Iki-Tursas",
+"Iku-Tursas",
+"Meritursas",
+"Turisas",
+"Tursas"
+],
+"links": 15
+},
+{
+"name": "Ipos",
+"aliases": [
+"Aiperos",
+"Ayperos",
+"Ayporos",
+"Ipes"
+],
+"links": 15
+},
+{
+"name": "Isonade",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Leuce",
+"aliases": [
+"Leuke"
+],
+"links": 15
+},
+{
+"name": "Lysithea",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Marid",
+"aliases": [
+"Mareed"
+],
+"links": 15
+},
+{
+"name": "Mawu",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Nagaraja",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Nahuelito Barrera",
+"aliases": [
+"Nahuel Huapi Lake monster ouyea"
+],
+"links": 15
+},
+{
+"name": "Opochtli",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Paimon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "peryton",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Raijū",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Rakhsh",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Rephaite",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Salamis",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sandalphon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Thriae",
+"aliases": [
+"Thries"
+],
+"links": 15
+},
+{
+"name": "Titivillus",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Vrykolakas",
+"aliases": [
+"vourdoulakas"
+],
+"links": 15
+},
+{
+"name": "Wormwood",
+"aliases": [
+"Bitterness",
+"Star of Wormwood"
+],
+"links": 15
+},
+{
+"name": "Aatxe",
+"aliases": [
+"Aatxegorri"
+],
+"links": 14
+},
+{
+"name": "Abumi-guchi",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Abura-akago",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Aghasura",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Allocer",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Alseid",
+"aliases": [],
+"links": 14
+},
+{
+"name": "amphiptere",
+"aliases": [
+"Amphitere",
+"Amphithere",
+"Phipthere"
+],
+"links": 14
+},
+{
+"name": "angels in Christianity",
+"aliases": [
+"angel in Christianity",
+"Christian angel"
+],
+"links": 14
+},
+{
+"name": "Apam Napat",
+"aliases": [
+"Borz",
+"Burj",
+"Burz-i Abannaf"
+],
+"links": 14
+},
+{
+"name": "Ariel",
+"aliases": [
+"Arael",
+"Ariael"
+],
+"links": 14
+},
+{
+"name": "avalerion",
+"aliases": [
+"allerion"
+],
+"links": 14
+},
+{
+"name": "Ayida-Wedo",
+"aliases": [
+"Aida Wedo",
+"Aido Hwedo",
+"Anyi-ewo",
+"Ayida Wedo",
+"Ayida-Weddo",
+"Ayido Hwedo"
+],
+"links": 14
+},
+{
+"name": "Bake-kujira",
+"aliases": [
+"Bake Kujira",
+"Bakekujira",
+"Hone Kujira"
+],
+"links": 14
+},
+{
+"name": "Balaur",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Biscione",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bran the Blessed",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Cat Sìth",
+"aliases": [
+"Cat Sith"
+],
+"links": 14
+},
+{
+"name": "Clytius",
+"aliases": [
+"Klytios"
+],
+"links": 14
+},
+{
+"name": "Clíodhna",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Cyane",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Damysos",
+"aliases": [
+"Damysus"
+],
+"links": 14
+},
+{
+"name": "Druon Antigoon",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Gawr Gura",
+"aliases": [
+"Gura"
+],
+"links": 14
+},
+{
+"name": "Goatman",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Gulltoppr",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Harpina",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Hrym",
+"aliases": [
+"Hrymr",
+"Rym"
+],
+"links": 14
+},
+{
+"name": "humanzee",
+"aliases": [
+"human-chimpanzee hybrid",
+"human–chimpanzee hybrid"
+],
+"links": 14
+},
+{
+"name": "hungry ghost",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ida",
+"aliases": [
+"Ide"
+],
+"links": 14
+},
+{
+"name": "Idaea",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ittan-momen",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Jin Chan",
+"aliases": [
+"Chan Chu",
+"Money frog",
+"Money toad",
+"Three-legged frog"
+],
+"links": 14
+},
+{
+"name": "Kasha",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Kting voar",
+"aliases": [
+"Pseudonovibos spiralis",
+"Snake-eating cow"
+],
+"links": 14
+},
+{
+"name": "liver bird",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Lotis",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Loveland frog",
+"aliases": [
+"Frogman"
+],
+"links": 14
+},
+{
+"name": "mononoke",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Napaeae",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ningyo",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Norse dwarves",
+"aliases": [
+"Dvergar"
+],
+"links": 14
+},
+{
+"name": "Olokun",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Ophanim",
+"aliases": [
+"auphanim",
+"Galgal",
+"Galgalim",
+"Ofan",
+"Ofanim",
+"Ophan",
+"’Ōphannīm",
+"’Ōphān"
+],
+"links": 14
+},
+{
+"name": "Phaethusa",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Plouto",
+"aliases": [
+"Pluto"
+],
+"links": 14
+},
+{
+"name": "Powers",
+"aliases": [
+"Authorities",
+"Exusiasai"
+],
+"links": 14
+},
+{
+"name": "Principalities",
+"aliases": [
+"Archai",
+"Rulers"
+],
+"links": 14
+},
+{
+"name": "Puck",
+"aliases": [
+"Robin Goodfellow"
+],
+"links": 14
+},
+{
+"name": "Qareen",
+"aliases": [
+"Kareen",
+"Karin",
+"Qarin"
+],
+"links": 14
+},
+{
+"name": "Ronove",
+"aliases": [
+"Ronové",
+"Ronoweh"
+],
+"links": 14
+},
+{
+"name": "satori",
+"aliases": [],
+"links": 14
+},
+{
+"name": "sea monk",
+"aliases": [
+"monk-fish",
+"monkfish"
+],
+"links": 14
+},
+{
+"name": "sprite",
+"aliases": [
+"spirit"
+],
+"links": 14
+},
+{
+"name": "Tikoloshe",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Tuchulcha",
+"aliases": [],
+"links": 14
+},
+{
+"name": "táltos",
+"aliases": [
+"taltos"
+],
+"links": 14
+},
+{
+"name": "Virtues",
+"aliases": [
+"Dynameis",
+"Strongholds"
+],
+"links": 14
+},
+{
+"name": "Wolpertinger",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Yinglong",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Zeuxo",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Adamastor",
+"aliases": [
+"Monstrengo"
+],
+"links": 13
+},
+{
+"name": "Aello",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Ahti",
+"aliases": [
+"The King of the Sea",
+"The Sea Tsar"
+],
+"links": 13
+},
+{
+"name": "Aitvaras",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Al Basty",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Amefurikozō",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Amimitl",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Ancamna",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Aoandon",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Azhi Dahaka",
+"aliases": [
+"Avestan Great Snake",
+"Azhdaha",
+"Azhdahak",
+"Azhdakha",
+"Azhi Dahāka",
+"Ezhdeha",
+"Persian Dragon"
+],
+"links": 13
+},
+{
+"name": "Baobhan sith",
+"aliases": [],
+"links": 13
+},
+{
+"name": "boggart",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Caladrius",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Camael",
+"aliases": [
+"Chamael",
+"Chamuel",
+"Chemuel"
+],
+"links": 13
+},
+{
+"name": "Charun",
+"aliases": [
+"Charu",
+"Karun"
+],
+"links": 13
+},
+{
+"name": "Chelone",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Chinthe",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Clurichaun",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Crinisus",
+"aliases": [
+"Crimissus"
+],
+"links": 13
+},
+{
+"name": "Damasen",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Dea Matrona",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Duende",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Eikþyrnir",
+"aliases": [
+"Eikthyrnir"
+],
+"links": 13
+},
+{
+"name": "Enbilulu",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Erlang Shen",
+"aliases": [
+"Chuānzhǔ",
+"Chʽuan-chu",
+"Erlang",
+"Erlang of Guankou",
+"Guànkǒu Èrláng",
+"Kuan-kʽou Êrh-lang",
+"Li Erlang",
+"Lord of Sichuan",
+"Second-Lad God",
+"Yang Jian",
+"Èrláng Shén",
+"Êrh-lang",
+"Êrh-lang Shên"
+],
+"links": 13
+},
+{
+"name": "feathered serpent",
+"aliases": [
+"Quetzalcoatl"
+],
+"links": 13
+},
+{
+"name": "futakuchi-onna",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Grannus",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Gremory",
+"aliases": [
+"Gaeneron",
+"Gamori",
+"Gemon",
+"Gemori",
+"Gemyem",
+"Gomory"
+],
+"links": 13
+},
+{
+"name": "Heavenly host",
+"aliases": [
+"Host of Heaven",
+"sabaoth",
+"tzevaot",
+"tzva'ot"
+],
+"links": 13
+},
+{
+"name": "Hieromneme",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Hundun",
+"aliases": [
+"Hoene-tune",
+"Hun-tun",
+"Hun-tun Shih",
+"Hun-tun-shih",
+"Hundun Shi"
+],
+"links": 13
+},
+{
+"name": "Inkanyamba",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kanthaka",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Karkotaka",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kruto the Wend",
+"aliases": [
+"Cruto"
+],
+"links": 13
+},
+{
+"name": "Lagarfljót Worm",
+"aliases": [
+"Lagarfljot Worm"
+],
+"links": 13
+},
+{
+"name": "Lauma",
+"aliases": [
+"Laimé",
+"laumes",
+"the daughters of Laumé",
+"The Laume",
+"The Laumé"
+],
+"links": 13
+},
+{
+"name": "Lelantos",
+"aliases": [
+"Lelantus"
+],
+"links": 13
+},
+{
+"name": "Leyak",
+"aliases": [],
+"links": 13
+},
+{
+"name": "limnads",
+"aliases": [
+"limnatides",
+"Limnatides"
+],
+"links": 13
+},
+{
+"name": "Maera",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Manawydan fab Llŷr",
+"aliases": [
+"Manannán mac Lir",
+"Manawydan"
+],
+"links": 13
+},
+{
+"name": "Mujina",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Murmur",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Ocypete",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Orobas",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Penanggalan",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Peng",
+"aliases": [],
+"links": 13
+},
+{
+"name": "pig-faced women",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Rübezahl",
+"aliases": [
+"Krakonoš",
+"Ribesal"
+],
+"links": 13
+},
+{
+"name": "Shirime Portuguese",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Suvannamaccha",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Tarakasur",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Thyia",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Tsovinar",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Twrch Trwyth",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Xiangliu",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Zduhać",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Aba",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Abiku",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Aetna",
+"aliases": [
+"Aitne"
+],
+"links": 12
+},
+{
+"name": "Afanc",
+"aliases": [],
+"links": 12
+},
+{
+"name": "ahuizotl",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Akkorokamui",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Amazake-babaa",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Anakim",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Anytos",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Aobōzu",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Aosaginohi",
+"aliases": [],
+"links": 12
+},
+{
+"name": "apu",
+"aliases": [],
+"links": 12
+},
+{
+"name": "aspidochelone",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Balam",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Basan",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Berehynia",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Biollante",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Black Annis",
+"aliases": [
+"Black Agnes"
+],
+"links": 12
+},
+{
+"name": "Blue men of the Minch",
+"aliases": [
+"storm kelpies"
+],
+"links": 12
+},
+{
+"name": "Caim",
+"aliases": [
+"Camio"
+],
+"links": 12
+},
+{
+"name": "Callirhoe",
+"aliases": [
+"Callirrhoe"
+],
+"links": 12
+},
+{
+"name": "Ceroessa",
+"aliases": [
+"Keroessa"
+],
+"links": 12
+},
+{
+"name": "Cithaeronian Lion",
+"aliases": [
+"Lion of Cithaeron"
+],
+"links": 12
+},
+{
+"name": "Corcyra",
+"aliases": [
+"Korkyra"
+],
+"links": 12
+},
+{
+"name": "Cottus",
+"aliases": [
+"Kottus"
+],
+"links": 12
+},
+{
+"name": "Cyllene",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Daeira",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Daidarabotchi",
+"aliases": [
+"Daitarabochi"
+],
+"links": 12
+},
+{
+"name": "Damballa",
+"aliases": [
+"Dambala, Dambalah",
+"Damballah"
+],
+"links": 12
+},
+{
+"name": "Executioner",
+"aliases": [
+"Skurge"
+],
+"links": 12
+},
+{
+"name": "Fairy Queen",
+"aliases": [
+"Faerie Queene"
+],
+"links": 12
+},
+{
+"name": "Fand",
+"aliases": [
+"Fann"
+],
+"links": 12
+},
+{
+"name": "Forneus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Furfur",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Gigan",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Glasya-Labolas",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Gyges",
+"aliases": [
+"Gyas",
+"Gyes"
+],
+"links": 12
+},
+{
+"name": "Hitotsume-kozō",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hone-onna",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Indrik",
+"aliases": [
+"Indrik-Beast"
+],
+"links": 12
+},
+{
+"name": "King Shark",
+"aliases": [
+"Nanaue"
+],
+"links": 12
+},
+{
+"name": "Kiraman Katibin",
+"aliases": [
+"Hafadha",
+"Hafaza",
+"Hafidh",
+"Hafiz",
+"Kiraman Katibine",
+"Kiramen Katibin",
+"Kiramun Katibun",
+"Mutalaqqiyan",
+"Rakib 'atid",
+"Raqib atid"
+],
+"links": 12
+},
+{
+"name": "Korean dragon",
+"aliases": [
+"mireu",
+"yong"
+],
+"links": 12
+},
+{
+"name": "Kuzunoha",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Lampads",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Larissa",
+"aliases": [
+"Larisa"
+],
+"links": 12
+},
+{
+"name": "Lilin",
+"aliases": [
+"Lilim"
+],
+"links": 12
+},
+{
+"name": "Lizard Man of the Mississippi River",
+"aliases": [
+"lizard lick man",
+"Lizard Man of Lee County",
+"Lizard Man of Scape Ore Swamp"
+],
+"links": 12
+},
+{
+"name": "Llŷr",
+"aliases": [],
+"links": 12
+},
+{
+"name": "lutin",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Malphas",
+"aliases": [
+"Malpas"
+],
+"links": 12
+},
+{
+"name": "Manipogo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Meander",
+"aliases": [
+"Maeandros"
+],
+"links": 12
+},
+{
+"name": "Melia",
+"aliases": [],
+"links": 12
+},
+{
+"name": "mythical hybrid",
+"aliases": [
+"chimaera",
+"chimera",
+"mythological hybrid"
+],
+"links": 12
+},
+{
+"name": "Mökkurkálfi",
+"aliases": [
+"Mokkurkalfe"
+],
+"links": 12
+},
+{
+"name": "nurarihyon",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Old Man of the Sea",
+"aliases": [],
+"links": 12
+},
+{
+"name": "onocentaur",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Patasola",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Penghou",
+"aliases": [
+"Houkou",
+"Pénghoú"
+],
+"links": 12
+},
+{
+"name": "Pitys",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Potamides",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Potrimpo",
+"aliases": [
+"Autrimpo",
+"Natrimpe",
+"Potrimpus"
+],
+"links": 12
+},
+{
+"name": "processional giant",
+"aliases": [
+"giant"
+],
+"links": 12
+},
+{
+"name": "Redcap",
+"aliases": [
+"powrie"
+],
+"links": 12
+},
+{
+"name": "Spercheus",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Suijin",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Svyatogor",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Tikbalang",
+"aliases": [
+"Werehorse"
+],
+"links": 12
+},
+{
+"name": "Vellamo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Velue",
+"aliases": [
+"La Velue",
+"Peluda",
+"the Hairy One",
+"the Shaggy Beast"
+],
+"links": 12
+},
+{
+"name": "Venilia",
+"aliases": [
+"Venília"
+],
+"links": 12
+},
+{
+"name": "Śuri",
+"aliases": [
+"Soranus",
+"Suri",
+"Šuri"
+],
+"links": 12
+},
+{
+"name": "Abyzou",
+"aliases": [
+"Byzou",
+"Obizoth",
+"Obizuth",
+"Obyzouth"
+],
+"links": 11
+},
+{
+"name": "Agwé",
+"aliases": [
+"Agwe"
+],
+"links": 11
+},
+{
+"name": "Aim",
+"aliases": [
+"Aini",
+"Aym",
+"Duke Aim",
+"Haborym"
+],
+"links": 11
+},
+{
+"name": "Akateko",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Alp",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Alucard",
+"aliases": [
+"Adrian Fahrenheit Țepeș",
+"Castlevania Alucard",
+"Genya Arikado"
+],
+"links": 11
+},
+{
+"name": "Amaru",
+"aliases": [
+"Amaro",
+"Andean dragon",
+"Incan dragon",
+"Katari"
+],
+"links": 11
+},
+{
+"name": "Amy",
+"aliases": [
+"Amii",
+"Auns",
+"Hanar",
+"Hanni"
+],
+"links": 11
+},
+{
+"name": "Andras",
+"aliases": [],
+"links": 11
+},
+{
+"name": "angel in Judaism",
+"aliases": [
+"Malach",
+"Malakh"
+],
+"links": 11
+},
+{
+"name": "Antaboga",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ao",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Asanbosam",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Athos",
+"aliases": [
+"Athus"
+],
+"links": 11
+},
+{
+"name": "Aveta",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Babay",
+"aliases": [
+"Babai",
+"Bebok"
+],
+"links": 11
+},
+{
+"name": "Badalisc",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bifrons",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Boitatá",
+"aliases": [
+"Baitatá",
+"Batatal",
+"Biatatá",
+"Bitatá",
+"Boi-tatá",
+"Boitata",
+"M'boitatá",
+"MBoitatá"
+],
+"links": 11
+},
+{
+"name": "Bolla",
+"aliases": [
+"Kulshedra"
+],
+"links": 11
+},
+{
+"name": "bonnacon",
+"aliases": [
+"bonasus"
+],
+"links": 11
+},
+{
+"name": "Borysthenes",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Brizo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Brosno dragon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bune",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Capitoline she-wolf",
+"aliases": [
+"Lupa",
+"Roman she-wolf",
+"She-wolf"
+],
+"links": 11
+},
+{
+"name": "Colchian Dragon",
+"aliases": [
+"Drakon Kolchikos"
+],
+"links": 11
+},
+{
+"name": "Crinaeae",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Demogorgon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Devil in Christianity",
+"aliases": [
+"Diabolos",
+"Old Nick",
+"the devil"
+],
+"links": 11
+},
+{
+"name": "Double-headed serpent",
+"aliases": [
+"The Turquoise Mosaics"
+],
+"links": 11
+},
+{
+"name": "Emela-ntouka",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Enenra",
+"aliases": [
+"enraenra"
+],
+"links": 11
+},
+{
+"name": "fiery serpents",
+"aliases": [
+"litavets",
+"nalyot"
+],
+"links": 11
+},
+{
+"name": "Gandalf",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Goshurvan",
+"aliases": [
+"Ewagdad",
+"Gavaevodata",
+"Gaw-i Ewdad",
+"Goshorun"
+],
+"links": 11
+},
+{
+"name": "Haagenti",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Helhest",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Hieracosphinx",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Hippalectryon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Hippothoe",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Hrimthurs",
+"aliases": [
+"frost giants",
+"ice giants"
+],
+"links": 11
+},
+{
+"name": "Hylonome",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Jean de l'Ours",
+"aliases": [
+"John the Bear"
+],
+"links": 11
+},
+{
+"name": "Keshi",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Khalkotauroi",
+"aliases": [
+"Colchis Bulls"
+],
+"links": 11
+},
+{
+"name": "Kijimuna",
+"aliases": [],
+"links": 11
+},
+{
+"name": "kijo",
+"aliases": [
+"onibaba"
+],
+"links": 11
+},
+{
+"name": "kitsunebi",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Korrigan",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kurupi",
+"aliases": [
+"Kurupira"
+],
+"links": 11
+},
+{
+"name": "Lamia",
+"aliases": [],
+"links": 11
+},
+{
+"name": "landvættir",
+"aliases": [
+"landvættr",
+"landwight",
+"landwights"
+],
+"links": 11
+},
+{
+"name": "Leanan sídhe",
+"aliases": [
+"Leanan sidhe",
+"Leanhaun Shee"
+],
+"links": 11
+},
+{
+"name": "Longnü",
+"aliases": [
+"Dragon Girl",
+"Dragon Princess",
+"Longnu",
+"Longnv",
+"Longnyu",
+"Nāgakanyā"
+],
+"links": 11
+},
+{
+"name": "Mae Nak Phra Khanong",
+"aliases": [
+"Mae Nak"
+],
+"links": 11
+},
+{
+"name": "Marceline the Vampire Queen",
+"aliases": [
+"Mar",
+"Mar-Mar",
+"Marce",
+"Marceline",
+"Marceline Abadeer",
+"Marcy"
+],
+"links": 11
+},
+{
+"name": "Marchosias",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Mokumokuren",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Morax",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Morlock",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Naberius",
+"aliases": [
+"Nebiros"
+],
+"links": 11
+},
+{
+"name": "Nabia",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Nuppeppō",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ophiotaurus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ose",
+"aliases": [
+"Oso",
+"Osé",
+"Oze",
+"Voso"
+],
+"links": 11
+},
+{
+"name": "Pichal Peri",
+"aliases": [
+"pichhal pairī"
+],
+"links": 11
+},
+{
+"name": "Pruflas",
+"aliases": [
+"Pseudomonarchia Daemonum"
+],
+"links": 11
+},
+{
+"name": "Questing Beast",
+"aliases": [
+"Yipping Beast"
+],
+"links": 11
+},
+{
+"name": "Raguel",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Raróg",
+"aliases": [
+"Rarog"
+],
+"links": 11
+},
+{
+"name": "Red Boy",
+"aliases": [
+"Red Son"
+],
+"links": 11
+},
+{
+"name": "Samodiva",
+"aliases": [
+"Vila"
+],
+"links": 11
+},
+{
+"name": "sea goat",
+"aliases": [
+"Capricornus",
+"Sukhurmashu",
+"Susḫurmāšu"
+],
+"links": 11
+},
+{
+"name": "Shahbaz",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Spriggan",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Stolas",
+"aliases": [
+"Solas",
+"Stolos",
+"Stoppas"
+],
+"links": 11
+},
+{
+"name": "Strymon",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Strzyga",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Telesto",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Thaleia",
+"aliases": [
+"Thalia"
+],
+"links": 11
+},
+{
+"name": "Tāwhirimātea",
+"aliases": [
+"Tahirimatea",
+"Tāwhiri-mātea"
+],
+"links": 11
+},
+{
+"name": "Valefar",
+"aliases": [
+"Valefor"
+],
+"links": 11
+},
+{
+"name": "Vietnamese dragon",
+"aliases": [
+"rồng"
+],
+"links": 11
+},
+{
+"name": "water horse",
+"aliases": [
+"waterhorse"
+],
+"links": 11
+},
+{
+"name": "World Turtle",
+"aliases": [
+"Akupāra",
+"Cosmic Turtle",
+"Divine Turtle",
+"World Tortoise",
+"World-bearing Turtle"
+],
+"links": 11
+},
+{
+"name": "Yakub",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Zmeu",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Abarbarea",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Adamanthea",
+"aliases": [
+"Adamantae"
+],
+"links": 10
+},
+{
+"name": "Admete",
+"aliases": [
+"Adméte"
+],
+"links": 10
+},
+{
+"name": "Adze",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Am Fear Liath Mòr",
+"aliases": [
+"Am Fear Liath Mor"
+],
+"links": 10
+},
+{
+"name": "Amdusias",
+"aliases": [
+"Amduscias"
+],
+"links": 10
+},
+{
+"name": "Anzar",
+"aliases": [
+"Amazigh deity Anzar"
+],
+"links": 10
+},
+{
+"name": "Aonyōbō",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Apalala",
+"aliases": [
+"Apalāla"
+],
+"links": 10
+},
+{
+"name": "Archura",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Areop-Enap",
+"aliases": [
+"Ancient Spider"
+],
+"links": 10
+},
+{
+"name": "Ashinaga-Tenaga",
+"aliases": [
+"Ashinagatenaga",
+"Tenaga-Ashinaga"
+],
+"links": 10
+},
+{
+"name": "Atlacoya",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Auloniad",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Baigujing",
+"aliases": [
+"Lady Bone Demon",
+"White Bone Spirit"
+],
+"links": 10
+},
+{
+"name": "Bakezōri",
+"aliases": [
+"Bake-zōri"
+],
+"links": 10
+},
+{
+"name": "Botis",
+"aliases": [],
+"links": 10
+},
+{
+"name": "British big cats",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Bull Demon King",
+"aliases": [
+"'Niu Mowang"
+],
+"links": 10
+},
+{
+"name": "cacodemon",
+"aliases": [
+"câcodemon"
+],
+"links": 10
+},
+{
+"name": "Caliadne",
+"aliases": [
+"Kaliadne"
+],
+"links": 10
+},
+{
+"name": "Carme",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cassiel",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Cephissus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chonchon",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chrysomallos",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chrysopeleia",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Chōchinobake",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Crocotta",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Dantalion",
+"aliases": [
+"Dantaylion"
+],
+"links": 10
+},
+{
+"name": "Datsue-ba",
+"aliases": [
+"Datsueba"
+],
+"links": 10
+},
+{
+"name": "div",
+"aliases": [
+"dēw",
+"dīv"
+],
+"links": 10
+},
+{
+"name": "Dodomeki",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Dragon King of the East Sea",
+"aliases": [
+"Ao Guang"
+],
+"links": 10
+},
+{
+"name": "Eurytion",
+"aliases": [
+"Eurytus"
+],
+"links": 10
+},
+{
+"name": "Foras",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Furcas",
+"aliases": [
+"Forcas, Forras"
+],
+"links": 10
+},
+{
+"name": "Gaap",
+"aliases": [
+"Coap",
+"Goap",
+"Taob",
+"Tap"
+],
+"links": 10
+},
+{
+"name": "Gamigin",
+"aliases": [
+"Gamygyn"
+],
+"links": 10
+},
+{
+"name": "Garth",
+"aliases": [
+"Aqualad",
+"Tempest"
+],
+"links": 10
+},
+{
+"name": "Grootslang",
+"aliases": [
+"Groot Slang"
+],
+"links": 10
+},
+{
+"name": "Hare of Inaba",
+"aliases": [
+"The White Hare And The Crocodiles",
+"White Hare of Inaba"
+],
+"links": 10
+},
+{
+"name": "Hiderigami",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Jerahmeel",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Jiaolong",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Lai Khutsangbi",
+"aliases": [
+"Lai Khutsangpi",
+"Lai Khutshangbi",
+"Lai Khutshangpi"
+],
+"links": 10
+},
+{
+"name": "Lawdasura",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Mahoraga",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Malthus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Manibhadra",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Melite",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Mikha'il",
+"aliases": [
+"Michael in Islam",
+"Mikail",
+"Mikhail",
+"Mīkhā'īl"
+],
+"links": 10
+},
+{
+"name": "Mogwai",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Morag",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Myrmecoleon",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Nana",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Orang Minyak",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Orias",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Owlman",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pegaeae",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Phenex",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pluto",
+"aliases": [
+"Plouto",
+"Plouton"
+],
+"links": 10
+},
+{
+"name": "Praxithea",
+"aliases": [
+"Pasithea"
+],
+"links": 10
+},
+{
+"name": "psychic vampire",
+"aliases": [
+"energy vampire"
+],
+"links": 10
+},
+{
+"name": "Purson",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Q'uq'umatz",
+"aliases": [
+"Gucumatz",
+"Gugumatz",
+"Gukumatz",
+"Kucumatz",
+"Qucumatz"
+],
+"links": 10
+},
+{
+"name": "Rarity",
+"aliases": [
+"Hairity"
+],
+"links": 10
+},
+{
+"name": "Sachiel",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shabdiz",
+"aliases": [
+"Shabdez",
+"Shabdēz"
+],
+"links": 10
+},
+{
+"name": "Shadhavar",
+"aliases": [
+"Aras"
+],
+"links": 10
+},
+{
+"name": "Shuten-dōji",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sihuanaba",
+"aliases": [
+"Bad woman",
+"Bandolera",
+"Cegua",
+"Chilca",
+"Chuca",
+"Cigua",
+"Lavandera",
+"Macihuatli",
+"MaloraTishanila",
+"Matlacihua",
+"Mujer del Siguan",
+"Sayona",
+"Segua",
+"Siguamonta",
+"Sucia",
+"Tishanila",
+"Tisigua",
+"Tzegua",
+"Xtabay",
+"Yegualcihuatl"
+],
+"links": 10
+},
+{
+"name": "slime",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Solomon's shamir",
+"aliases": [],
+"links": 10
+},
+{
+"name": "sphinx",
+"aliases": [
+"Greek sphinx",
+"sphinges",
+"sphinxes"
+],
+"links": 10
+},
+{
+"name": "squonk",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tartalo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tarvos Trigaranus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Trauco",
+"aliases": [],
+"links": 10
+},
+{
+"name": "upiór",
+"aliases": [
+"strzyga",
+"strzygon",
+"upir"
+],
+"links": 10
+},
+{
+"name": "Uwan",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Vapula",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Vassago",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Vepar",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Vual",
+"aliases": [
+"Uvall, Voval, Vreal, Wal, Wall"
+],
+"links": 10
+},
+{
+"name": "Wa-nyūdō",
+"aliases": [
+"Wa'nyūdō",
+"Wanyūdō"
+],
+"links": 10
+},
+{
+"name": "Xiuhcoatl",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Ysbaddaden",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Yuxa",
+"aliases": [
+"Yuha"
+],
+"links": 10
+},
+{
+"name": "Yōsei",
+"aliases": [
+"Japanese fairy"
+],
+"links": 10
+},
+{
+"name": "Ōkubi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Acaste",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Adlivun",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Aethra",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Agloolik",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ahhazu",
+"aliases": [
+"Akhkhazu"
+],
+"links": 9
+},
+{
+"name": "akuma",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Alicanto",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Almo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Anapos",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Androgynos",
+"aliases": [
+"A1225.1.",
+"A1225.1. First couple organically united.",
+"first couple organically united",
+"missing half",
+"primal androgyne",
+"primeval androgyne",
+"primordial androgyne"
+],
+"links": 9
+},
+{
+"name": "Angel of Portugal",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Antero Vipunen",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Baragon 2001",
+"aliases": [
+"God of the Earth",
+"Red Godzilla",
+"Red Monster"
+],
+"links": 9
+},
+{
+"name": "Barbas",
+"aliases": [
+"Marbas"
+],
+"links": 9
+},
+{
+"name": "Bathin",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Batutut",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Beast of Bodmin",
+"aliases": [
+"Beast of Bodmin Moor"
+],
+"links": 9
+},
+{
+"name": "Beast of Exmoor",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Beroe",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Black Shuck",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Blóðughófi",
+"aliases": [
+"Blodughofi"
+],
+"links": 9
+},
+{
+"name": "Boginka",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bolg",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Caystrus",
+"aliases": [
+"Cayster",
+"Caystros"
+],
+"links": 9
+},
+{
+"name": "Chi",
+"aliases": [
+"Chishou",
+"Chishu",
+"Ci-sau",
+"i"
+],
+"links": 9
+},
+{
+"name": "Chiwen",
+"aliases": [
+"Chifun",
+"Chimi",
+"Ci-man",
+"Imun",
+"Shifun",
+"Thi-bun"
+],
+"links": 9
+},
+{
+"name": "Cleodora",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Cocijo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Corycia",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Creusa",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Cyllarus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Damona",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Decarabia",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Destoroyah",
+"aliases": [],
+"links": 9
+},
+{
+"name": "drakaina",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Elwetritsch",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ephialtes",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Eurymedon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Fur-bearing trout",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Furaribi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gelert",
+"aliases": [
+"Gellert",
+"Killhart"
+],
+"links": 9
+},
+{
+"name": "Gogmagog",
+"aliases": [],
+"links": 9
+},
+{
+"name": "gold-digging ant",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gorosaurus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Grindylow",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Guivre",
+"aliases": [
+"Vouivre"
+],
+"links": 9
+},
+{
+"name": "Gusion",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Hafgufa",
+"aliases": [
+"Hafgufu",
+"havgumsen",
+"havguva",
+"havstramben"
+],
+"links": 9
+},
+{
+"name": "Hauras",
+"aliases": [
+"Flauros"
+],
+"links": 9
+},
+{
+"name": "Hedorah",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Hodag",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Horned Serpent",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Jure Grando",
+"aliases": [
+"hdjxns"
+],
+"links": 9
+},
+{
+"name": "kalaviṅka",
+"aliases": [
+"kalavinka",
+"Karyōbinga"
+],
+"links": 9
+},
+{
+"name": "Keneō",
+"aliases": [
+"Ken'e-ō",
+"Ken'eō",
+"Kene-ō",
+"Kenne-ō",
+"Kenneō"
+],
+"links": 9
+},
+{
+"name": "Khunu Leima",
+"aliases": [
+"Khunureima"
+],
+"links": 9
+},
+{
+"name": "Kujata",
+"aliases": [
+"Al-Rayann",
+"Kibūthān",
+"Kuyoothán",
+"Kuyootà",
+"Kuyutha",
+"Kuyūthā",
+"Kīyūbān",
+"Leviathan",
+"Lūyātān",
+"Quyata",
+"Rakaboûnâ"
+],
+"links": 9
+},
+{
+"name": "Lake Tianchi Monster",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lake Van Monster",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lambton Worm",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Langsuir",
+"aliases": [
+"Lang Suir"
+],
+"links": 9
+},
+{
+"name": "Leraje",
+"aliases": [
+"Lerajie"
+],
+"links": 9
+},
+{
+"name": "Lightning Bird",
+"aliases": [],
+"links": 9
+},
+{
+"name": "little people",
+"aliases": [
+"wee people"
+],
+"links": 9
+},
+{
+"name": "Lludd Llaw Eraint",
+"aliases": [
+"Lludd ap Beli Mawr",
+"Lyd",
+"Nudd Llaw Ereint"
+],
+"links": 9
+},
+{
+"name": "Lotan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "mandrake",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Mastema",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Minhocão",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Mātariśvan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Naamah",
+"aliases": [
+"Na'amah"
+],
+"links": 9
+},
+{
+"name": "Nasnas",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Nemea",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ningikuga",
+"aliases": [
+"Ningikurga"
+],
+"links": 9
+},
+{
+"name": "Nongshaba",
+"aliases": [
+"Kangla Sha",
+"Kanglasha",
+"Nongshapa"
+],
+"links": 9
+},
+{
+"name": "Nukekubi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Orphne",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Oshunmare",
+"aliases": [
+"Oxumare",
+"Oxumaré"
+],
+"links": 9
+},
+{
+"name": "panther",
+"aliases": [
+"Panthers in heraldry"
+],
+"links": 9
+},
+{
+"name": "Pañcika",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Philomelus",
+"aliases": [
+"Bootes",
+"Philomenus"
+],
+"links": 9
+},
+{
+"name": "Polyxo",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pombero",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Rahab",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Raum",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Rayne",
+"aliases": [
+"Agent BloodRayne"
+],
+"links": 9
+},
+{
+"name": "Renesmee Cullen",
+"aliases": [
+"Nessie",
+"Renesmee Carlie Cullen"
+],
+"links": 9
+},
+{
+"name": "Ritona",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sabnak",
+"aliases": [],
+"links": 9
+},
+{
+"name": "She-Camel of God",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Shedim",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Shikome",
+"aliases": [
+"Yomotsu Shikome",
+"Yomotsushikome"
+],
+"links": 9
+},
+{
+"name": "Tepegoz",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tiangou",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tohil",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Tōfu-kozō",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ukobach",
+"aliases": [
+"Ukobach-demonology-Demons"
+],
+"links": 9
+},
+{
+"name": "Vanapagan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Víðópnir",
+"aliases": [
+"Vidofnir",
+"Vidopnir",
+"Víðófnir"
+],
+"links": 9
+},
+{
+"name": "water spirit",
+"aliases": [
+"spirit of the waters",
+"water sprite"
+],
+"links": 9
+},
+{
+"name": "winged horse",
+"aliases": [
+"flying horse",
+"pegasus",
+"winged stallion"
+],
+"links": 9
+},
+{
+"name": "Yamabiko",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Zirnitra",
+"aliases": [
+"Zir"
+],
+"links": 9
+},
+{
+"name": "Á Bao A Qu",
+"aliases": [
+"A Bao A Qu"
+],
+"links": 9
+},
+{
+"name": "Žaltys",
+"aliases": [],
+"links": 9
+},
+{
+"name": "𓃩 Set-animal",
+"aliases": [
+"Set animal"
+],
+"links": 9
+},
+{
+"name": "Abdiel",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Abrahel",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Adlet",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Aganju",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Agrat bat Mahlat",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Akhlut",
+"aliases": [
+"akh'lut",
+"akh’lut",
+"kak-whan-u-ghat kig-u-lu'-nik",
+"kăk-whăn’-û-ghăt kǐg-û-lu’-nǐk"
+],
+"links": 8
+},
+{
+"name": "Al Rakim",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Alpos",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Anchiale",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Andrealphus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Andromalius",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Anthousai",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Apalpador",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Apotamkin",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Asterion",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Atlantia",
+"aliases": [
+"Atlanteia"
+],
+"links": 8
+},
+{
+"name": "Aurai",
+"aliases": [
+"Aura"
+],
+"links": 8
+},
+{
+"name": "ayakashi",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bahkauv",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bayun the Cat",
+"aliases": [
+"Bahar the Cat",
+"Bayun"
+],
+"links": 8
+},
+{
+"name": "Beowulf's dragon",
+"aliases": [
+"barrow guardian",
+"the Beowulf dragon",
+"the dragon"
+],
+"links": 8
+},
+{
+"name": "Betobeto-san",
+"aliases": [],
+"links": 8
+},
+{
+"name": "biblical animal",
+"aliases": [
+"animal in the Bible",
+"animals in the Bible"
+],
+"links": 8
+},
+{
+"name": "Biwa-bokuboku",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bolbe",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Boobrie",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Boroboroton",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Brahmarakṣasa",
+"aliases": [
+"Brahmarakshasa"
+],
+"links": 8
+},
+{
+"name": "bucentaur",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bugonia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bugul Noz",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Calu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Catbus",
+"aliases": [
+"Nekobasu"
+],
+"links": 8
+},
+{
+"name": "Cath Palug",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Celaeno",
+"aliases": [
+"Celæno",
+"Kelaino"
+],
+"links": 8
+},
+{
+"name": "Chullachaqui",
+"aliases": [
+"Chullachaki",
+"el Chullachaqui",
+"Shapishico"
+],
+"links": 8
+},
+{
+"name": "Cleito",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cleocharia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cynosura",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Cù Sìth",
+"aliases": [
+"Cu Sith"
+],
+"links": 8
+},
+{
+"name": "Dip",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Donn Cúailnge",
+"aliases": [
+"Brown Bull of Cooley",
+"Donn Cuailnge"
+],
+"links": 8
+},
+{
+"name": "Eleionomae",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Enbarr",
+"aliases": [
+"Enbarr of the Flowing Mane",
+"Énbarr of Manannán"
+],
+"links": 8
+},
+{
+"name": "fachan",
+"aliases": [
+"fachen",
+"fachin"
+],
+"links": 8
+},
+{
+"name": "Far darrig",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Faro",
+"aliases": [],
+"links": 8
+},
+{
+"name": "fearsome critter",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Fiery flying serpent",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Galehaut",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Graoully",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gyaos",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hagno",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hanyou",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Haurvatat",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Headless Mule",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Heinzelmännchen",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Herensuge",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hesperia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Hippolytos",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Holy Spirit in Islam",
+"aliases": [
+"Ruh al-Qudus",
+"Rūḥ al-Qudus"
+],
+"links": 8
+},
+{
+"name": "Icovellauna",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ilabrat",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ionidae",
+"aliases": [
+"Ionides"
+],
+"links": 8
+},
+{
+"name": "Itsumade",
+"aliases": [],
+"links": 8
+},
+{
+"name": "jaculus",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Jentil",
+"aliases": [
+"Jentilak"
+],
+"links": 8
+},
+{
+"name": "Jubokko",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Karkinos",
+"aliases": [
+"cancer"
+],
+"links": 8
+},
+{
+"name": "Karzełek",
+"aliases": [
+"Skarbnik"
+],
+"links": 8
+},
+{
+"name": "Kerakera-onna",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kimaris",
+"aliases": [
+"Cimeries"
+],
+"links": 8
+},
+{
+"name": "Knocker",
+"aliases": [
+"Bacca",
+"Bwca",
+"Knacker",
+"Tommyknocker"
+],
+"links": 8
+},
+{
+"name": "Konaki-jiji",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kudan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kutkh",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lange Wapper",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Les Lavandières",
+"aliases": [
+"Les Lavandieres",
+"Midnight Washerwomen"
+],
+"links": 8
+},
+{
+"name": "longma",
+"aliases": [
+"dragon-horse",
+"long-horse",
+"long-ma",
+"lung-horse",
+"lung-ma"
+],
+"links": 8
+},
+{
+"name": "luan",
+"aliases": [
+"luanniao",
+"luán",
+"luánniao"
+],
+"links": 8
+},
+{
+"name": "Mairu",
+"aliases": [
+"Intxisu"
+],
+"links": 8
+},
+{
+"name": "mazoku",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Melaena",
+"aliases": [
+"Melaina"
+],
+"links": 8
+},
+{
+"name": "Melia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Meliboea",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mikoshi-nyūdō",
+"aliases": [
+"goblin"
+],
+"links": 8
+},
+{
+"name": "Minilla",
+"aliases": [
+"Minya"
+],
+"links": 8
+},
+{
+"name": "Mu'aqqibat",
+"aliases": [
+"Muaqqibat"
+],
+"links": 8
+},
+{
+"name": "MUTO",
+"aliases": [],
+"links": 8
+},
+{
+"name": "mythological serpent",
+"aliases": [
+"legendary serpent",
+"legendary snake",
+"mythical serpent",
+"mythical snake",
+"mythological snake",
+"snakes",
+"snakes in culture",
+"snakes in mythology"
+],
+"links": 8
+},
+{
+"name": "Mánagarmr",
+"aliases": [
+"Managarm",
+"Managarmr",
+"Moon-Hound",
+"Mánagarm"
+],
+"links": 8
+},
+{
+"name": "Nechtan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ninki Nanka",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Nysiads",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Okuri-inu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Oynyena Maria",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Phorcydes",
+"aliases": [
+"Phorcides",
+"Phorkides",
+"Phorkydes"
+],
+"links": 8
+},
+{
+"name": "Pishtaco",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pukwudgie",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pulgasari",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Qianliyan",
+"aliases": [
+"Ch'ien Li Yen",
+"Ch'ien-li-yen",
+"Cheollian",
+"Chhian-lí-gán",
+"Chien Li Yen",
+"Chien-li-yen",
+"Chin Lei Ngaan",
+"Chollian",
+"Qian Li Yan",
+"Senrigan",
+"Super-Eyes",
+"Thousand-Mile Eyes",
+"Tshian-lí-gán"
+],
+"links": 8
+},
+{
+"name": "Qiongqi",
+"aliases": [
+"Qiong qi",
+"qióngqī"
+],
+"links": 8
+},
+{
+"name": "Ramiel",
+"aliases": [],
+"links": 8
+},
+{
+"name": "re'em",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rougarou",
+"aliases": [
+"loup-garou"
+],
+"links": 8
+},
+{
+"name": "Saleos",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sangarius",
+"aliases": [
+"Sangarios"
+],
+"links": 8
+},
+{
+"name": "Satanachia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Selma",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Shax",
+"aliases": [
+"Chax",
+"Scox",
+"Shan",
+"Shass",
+"Shaz"
+],
+"links": 8
+},
+{
+"name": "Shen",
+"aliases": [
+"Chen",
+"Shin"
+],
+"links": 8
+},
+{
+"name": "Shishiga",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Siam Devadhiraj",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sirius",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sitri",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Taka-Onna",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Taoroinai",
+"aliases": [
+"Taoloinai"
+],
+"links": 8
+},
+{
+"name": "Teledice",
+"aliases": [],
+"links": 8
+},
+{
+"name": "toilet deity",
+"aliases": [
+"Kawayagami",
+"Toilet god"
+],
+"links": 8
+},
+{
+"name": "triple-headed eagle",
+"aliases": [
+"Oksoko"
+],
+"links": 8
+},
+{
+"name": "Tsurube-otoshi",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Uchek Langmeitong",
+"aliases": [
+"Chareng",
+"Chekla Langmeidong",
+"Chekla Langmeitong",
+"Uchek Langmeidong"
+],
+"links": 8
+},
+{
+"name": "Ugajin",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Verbeia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Vine",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Volga Svyatoslavich",
+"aliases": [
+"Volkh Vseslavyevich"
+],
+"links": 8
+},
+{
+"name": "water deity",
+"aliases": [
+"water god",
+"water goddess"
+],
+"links": 8
+},
+{
+"name": "Xaphan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Yako",
+"aliases": [
+"Nogitsune"
+],
+"links": 8
+},
+{
+"name": "Yamawaro",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Yu Shi",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Zagan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Zepar",
+"aliases": [],
+"links": 8
+},
+{
+"name": "zhenniao",
+"aliases": [
+"poisonfeather bird",
+"zhen"
+],
+"links": 8
+},
+{
+"name": "Zhulong",
+"aliases": [],
+"links": 8
+}
+]

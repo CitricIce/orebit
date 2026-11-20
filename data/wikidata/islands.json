@@ -1,0 +1,3659 @@
+[
+{
+"name": "Guam",
+"aliases": [
+"Guahan",
+"Guåhan",
+"Guåhån",
+"Island of Guam",
+"ISO 3166-1:GU",
+"Territory of Guam"
+],
+"links": 196
+},
+{
+"name": "Réunion",
+"aliases": [
+".re",
+"Bourbon Island",
+"ISO 3166-1:RE",
+"La Reunion",
+"La Réunion",
+"La Réunion Island",
+"re",
+"Reunion Island",
+"Île de Bourbon",
+"Île de la Réunion",
+"Île de La Réunion"
+],
+"links": 183
+},
+{
+"name": "Great Britain",
+"aliases": [
+"Albion",
+"Blighty",
+"Britain",
+"Britannia",
+"Gt. Brit",
+"mainland Britain"
+],
+"links": 174
+},
+{
+"name": "Ireland",
+"aliases": [
+"Airlan",
+"Airlann",
+"Auld Sod",
+"Banba",
+"Britannia Minor",
+"Eire",
+"Emerald Isle",
+"Erin",
+"Fódhla",
+"Hibernia",
+"Ierne",
+"Irland",
+"Irlanda",
+"Irlande",
+"Irlandia",
+"Island of Ireland",
+"Island of Saints",
+"isle of Ireland",
+"Ivernia",
+"Mikra Britannia",
+"Scotia Major",
+"Éire"
+],
+"links": 171
+},
+{
+"name": "Java",
+"aliases": [
+"Java Island",
+"Java island",
+"Java, Indonesia",
+"Jawa",
+"Jawa Island",
+"Pulau Java",
+"Pulau Jawa"
+],
+"links": 171
+},
+{
+"name": "Easter Island",
+"aliases": [
+"Te pito o te kainga a Hau Maka"
+],
+"links": 164
+},
+{
+"name": "Sumatra",
+"aliases": [
+"Andalas",
+"Pulau Sumatera",
+"Sumatera",
+"Sumatera Island",
+"Sumatra Island",
+"Sumatra, Indonesia"
+],
+"links": 159
+},
+{
+"name": "Crete",
+"aliases": [
+"Candia"
+],
+"links": 158
+},
+{
+"name": "Montserrat",
+"aliases": [
+"Island of Montserrat",
+"ms"
+],
+"links": 158
+},
+{
+"name": "Christmas Island",
+"aliases": [
+"Christmas Island, Other Territories",
+"Christmas Island, Other Territories, Australia",
+"cx",
+"Territory of Christmas Island"
+],
+"links": 153
+},
+{
+"name": "Saint Helena",
+"aliases": [
+"SH-HL"
+],
+"links": 150
+},
+{
+"name": "Borneo",
+"aliases": [
+"Borneo Island",
+"Pulau Borneo"
+],
+"links": 148
+},
+{
+"name": "New Guinea",
+"aliases": [
+"Neu Guinea",
+"Nieuw-Guinea",
+"Niugini",
+"Nouvelle Guinee",
+"Nouvelle Guinée",
+"Nov-Gvineo",
+"Nueva Guinea",
+"Papua",
+"Papua Island",
+"Pulau Papua"
+],
+"links": 147
+},
+{
+"name": "Kyushu",
+"aliases": [
+"Kiusiu",
+"Kyushu I.",
+"Kyushu Is.",
+"Kyushu Island",
+"Kyûshû",
+"Kyūshū"
+],
+"links": 138
+},
+{
+"name": "Shikoku",
+"aliases": [
+"Shikoku I.",
+"Shikoku Is.",
+"Shikoku Island",
+"Si-koke",
+"Sikoki"
+],
+"links": 131
+},
+{
+"name": "Sulawesi",
+"aliases": [
+"Celebes",
+"Celebes Islands",
+"Pulau Sulawesi",
+"Selebes",
+"Sulawesi Island"
+],
+"links": 127
+},
+{
+"name": "Hispaniola",
+"aliases": [
+"Ayiti",
+"Cap Carcasse",
+"Hayti",
+"Hispaniola Island",
+"Hispanola",
+"Isla Espanola",
+"Isla Española",
+"Island of Hispaniola",
+"Island of Santo Domingo",
+"La Española",
+"La Hispaniola",
+"La Isla Espanola",
+"La Isla Española",
+"Quisqueya",
+"Sant Domingue"
+],
+"links": 124
+},
+{
+"name": "Mallorca",
+"aliases": [
+"Majorca"
+],
+"links": 124
+},
+{
+"name": "Tahiti",
+"aliases": [
+"Otaheitee"
+],
+"links": 123
+},
+{
+"name": "Luzon",
+"aliases": [
+"Luzon Island"
+],
+"links": 120
+},
+{
+"name": "Sakhalin",
+"aliases": [
+"Karafuto",
+"Kuye",
+"Saghalien",
+"Saghalien I.",
+"Saghalien Is.",
+"Saghalien Island",
+"Sakhalin I.",
+"Sakhalin Is.",
+"Sakhalin Island"
+],
+"links": 118
+},
+{
+"name": "Rhodes",
+"aliases": [
+"Rhodos",
+"Rodos",
+"Rodou"
+],
+"links": 116
+},
+{
+"name": "Jan Mayen",
+"aliases": [
+"Jan Mayen Island",
+"Jan Mayen Land"
+],
+"links": 114
+},
+{
+"name": "Mindanao",
+"aliases": [
+"Mindanao Island"
+],
+"links": 113
+},
+{
+"name": "Gotland",
+"aliases": [
+"Gothland"
+],
+"links": 104
+},
+{
+"name": "Ibiza",
+"aliases": [
+"Eivissa",
+"Iviza"
+],
+"links": 104
+},
+{
+"name": "Saba",
+"aliases": [
+"Public Entity Saba"
+],
+"links": 103
+},
+{
+"name": "Sint Eustatius",
+"aliases": [
+"Saint Eustatius",
+"St. Eustatius",
+"Statia",
+"Statius"
+],
+"links": 103
+},
+{
+"name": "Timor",
+"aliases": [
+"Pulau Timor",
+"Timor Island"
+],
+"links": 103
+},
+{
+"name": "Bali Island",
+"aliases": [
+"Baly",
+"Island of Bali",
+"Isle of Bali"
+],
+"links": 102
+},
+{
+"name": "Bouvet Island",
+"aliases": [],
+"links": 102
+},
+{
+"name": "Navassa Island",
+"aliases": [
+"La Navase",
+"Lanavaz",
+"Lavash",
+"Lavash Island",
+"Navase",
+"Navaza",
+"Navaza Island",
+"UM-76"
+],
+"links": 102
+},
+{
+"name": "Newfoundland",
+"aliases": [
+"Island of Newfoundland",
+"Newfoundland Island",
+"NFLD",
+"Nfld."
+],
+"links": 102
+},
+{
+"name": "North Island",
+"aliases": [
+"New Ulster",
+"New Zealand North Island",
+"North Island of New Zealand",
+"North Island, New Zealand",
+"North Island, NZ",
+"Te Ika a Māui",
+"Te Ika-a-Māui"
+],
+"links": 102
+},
+{
+"name": "Isle of Wight",
+"aliases": [
+"I. of Wight",
+"I. Wight",
+"Iktis",
+"Island of Wight",
+"Ouiktis",
+"Wight",
+"Wight I.",
+"Wight Island",
+"Wiht",
+"Wit"
+],
+"links": 101
+},
+{
+"name": "Ascension Island",
+"aliases": [
+"ac"
+],
+"links": 100
+},
+{
+"name": "Corfu",
+"aliases": [
+"Corcyra",
+"Corfu, Korfu, Kerkira",
+"Kerkira",
+"Kerkyra",
+"Korfu"
+],
+"links": 100
+},
+{
+"name": "Elba",
+"aliases": [
+"Elba Island"
+],
+"links": 100
+},
+{
+"name": "South Island",
+"aliases": [
+"Southern Island",
+"Te Waipounamu",
+"The Mainland"
+],
+"links": 99
+},
+{
+"name": "Saint Martin",
+"aliases": [
+"St. Martin"
+],
+"links": 97
+},
+{
+"name": "Taiwan Island",
+"aliases": [
+"Dài-uăng",
+"Formosa",
+"Formosa I.",
+"Formosa Is.",
+"Formosa Island",
+"I. Formosa",
+"I. Taiwan",
+"Ilaod",
+"Island of Formosa",
+"Island of Taiwan",
+"Nanasian",
+"Taiouan",
+"Taiwan",
+"Taiwan I.",
+"Taiwan Is.",
+"Tawyan",
+"Taywan",
+"Thòi-vân",
+"Tâi-oân",
+"Tâi-uân"
+],
+"links": 97
+},
+{
+"name": "Baffin Island",
+"aliases": [
+"Baffin Land"
+],
+"links": 96
+},
+{
+"name": "Bornholm",
+"aliases": [],
+"links": 96
+},
+{
+"name": "Zealand",
+"aliases": [
+"Seeland",
+"Sjaelland",
+"Zealand Island"
+],
+"links": 96
+},
+{
+"name": "Lesbos",
+"aliases": [
+"Lesvos",
+"Mytilene",
+"Mytilini"
+],
+"links": 94
+},
+{
+"name": "Socotra",
+"aliases": [
+"Saqatri",
+"Suqatra"
+],
+"links": 92
+},
+{
+"name": "Capri",
+"aliases": [
+"Capreae",
+"Isle of Capri",
+"Isola di Capri"
+],
+"links": 91
+},
+{
+"name": "Gran Canaria",
+"aliases": [],
+"links": 91
+},
+{
+"name": "Menorca",
+"aliases": [
+"Minorca"
+],
+"links": 90
+},
+{
+"name": "Clipperton Island",
+"aliases": [
+"La Passion–Clipperton",
+"Passion Island"
+],
+"links": 89
+},
+{
+"name": "Okinawa",
+"aliases": [
+"Grand Liuqiu",
+"Grand Lu-chew",
+"Grand Ryukyu",
+"Okinava",
+"Okinava I.",
+"Okinava Is.",
+"Okinava Island",
+"Okinawa I.",
+"Okinawa Is.",
+"Okinawa island",
+"Okinawa Main Island"
+],
+"links": 89
+},
+{
+"name": "Santorini",
+"aliases": [
+"Santorin",
+"Santorini Greece",
+"Thera",
+"Thira"
+],
+"links": 89
+},
+{
+"name": "Long Island",
+"aliases": [
+"Long Island, New York",
+"Long Island, NY"
+],
+"links": 88
+},
+{
+"name": "Rügen",
+"aliases": [
+"Ruegen",
+"Rugen",
+"Rugia",
+"Rugia Island"
+],
+"links": 87
+},
+{
+"name": "Ellesmere Island",
+"aliases": [],
+"links": 86
+},
+{
+"name": "Stromboli",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Vancouver Island",
+"aliases": [
+"Île de Vancouver"
+],
+"links": 85
+},
+{
+"name": "Jarvis Island",
+"aliases": [
+"Bunker Island",
+"UM-86"
+],
+"links": 84
+},
+{
+"name": "Saaremaa",
+"aliases": [
+"Oesel",
+"Osel",
+"Saaremaa Island"
+],
+"links": 84
+},
+{
+"name": "Saipan",
+"aliases": [
+"Saipan Island",
+"Saipan, MP",
+"Saipan, Northern Mariana Islands"
+],
+"links": 84
+},
+{
+"name": "Howland Island",
+"aliases": [
+"Worth Island"
+],
+"links": 83
+},
+{
+"name": "Trinidad",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Anglesey",
+"aliases": [
+"Anglesea",
+"Isle of Anglesey",
+"Ynys Mon",
+"Ynys Môn"
+],
+"links": 82
+},
+{
+"name": "Lombok Island",
+"aliases": [
+"Lombok",
+"Pulau Lombok"
+],
+"links": 82
+},
+{
+"name": "Oahu",
+"aliases": [
+"O'ahu",
+"O'ahu, Hawaii",
+"Oahu, Hawaii",
+"Oʻahu",
+"Oʻahu, Hawaii"
+],
+"links": 82
+},
+{
+"name": "Samos",
+"aliases": [],
+"links": 82
+},
+{
+"name": "Chios",
+"aliases": [
+"Chios Island",
+"Scio"
+],
+"links": 81
+},
+{
+"name": "Jeju Island",
+"aliases": [
+"Cheju I.",
+"Cheju Is.",
+"Cheju Island",
+"I. Quelpaert",
+"I. Quelpart",
+"Isle of Quelpaert",
+"Isle of Quelpart",
+"Jeju",
+"Jeju-do",
+"Jejudo",
+"Quelpaert",
+"Quelpaert I.",
+"Quelpaert Is.",
+"Quelpaert Island",
+"Quelpart",
+"Quelpart I.",
+"Quelpart Island"
+],
+"links": 81
+},
+{
+"name": "Lanzarote",
+"aliases": [],
+"links": 81
+},
+{
+"name": "New Britain",
+"aliases": [
+"Neu-Pommern"
+],
+"links": 81
+},
+{
+"name": "Delos",
+"aliases": [
+"Mint of Delos"
+],
+"links": 80
+},
+{
+"name": "Flores Island",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Fuerteventura",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Funen",
+"aliases": [
+"Funen Island",
+"Fyn",
+"Fünen"
+],
+"links": 80
+},
+{
+"name": "Naxos Island",
+"aliases": [
+"Naxos"
+],
+"links": 80
+},
+{
+"name": "Sark",
+"aliases": [
+"Cerq",
+"Ser",
+"Sèr"
+],
+"links": 80
+},
+{
+"name": "Victoria Island",
+"aliases": [],
+"links": 80
+},
+{
+"name": "Gozo",
+"aliases": [],
+"links": 79
+},
+{
+"name": "Euboea",
+"aliases": [
+"Evvia",
+"Evvoia",
+"Negroponte",
+"Évvia",
+"Évvoia"
+],
+"links": 78
+},
+{
+"name": "Kos",
+"aliases": [
+"Cos"
+],
+"links": 78
+},
+{
+"name": "Barbuda",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Cephalonia",
+"aliases": [
+"Kefalonia",
+"Kefalonia Island",
+"Kephallenia"
+],
+"links": 77
+},
+{
+"name": "Hiiumaa",
+"aliases": [
+"Dago",
+"Dagö",
+"Hiidenmaa"
+],
+"links": 77
+},
+{
+"name": "Öland",
+"aliases": [
+"Oeland"
+],
+"links": 77
+},
+{
+"name": "Ithaca",
+"aliases": [
+"Ithaki"
+],
+"links": 76
+},
+{
+"name": "Lampedusa",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Spitsbergen",
+"aliases": [
+"Spitspergen",
+"West Spitsbergen",
+"West Spitzbergen"
+],
+"links": 75
+},
+{
+"name": "Lord Howe Island",
+"aliases": [
+"Lord Howe Island, New South Wales",
+"Lord Howe Island, New South Wales, Australia",
+"Lord Howe's Island"
+],
+"links": 74
+},
+{
+"name": "Phú Quốc",
+"aliases": [
+"Phu Quoc Island",
+"Phu Quoc special zone",
+"Phu Quoc, An Giang",
+"Phú Quốc, An Giang"
+],
+"links": 74
+},
+{
+"name": "Wrangel Island",
+"aliases": [],
+"links": 74
+},
+{
+"name": "Zakynthos",
+"aliases": [
+"Mint of Zacynthus",
+"Zacynthus",
+"Zante"
+],
+"links": 74
+},
+{
+"name": "Isle of Skye",
+"aliases": [
+"Skye"
+],
+"links": 73
+},
+{
+"name": "Maui",
+"aliases": [
+"Island of Maui"
+],
+"links": 72
+},
+{
+"name": "Patmos",
+"aliases": [],
+"links": 72
+},
+{
+"name": "Robben Island",
+"aliases": [
+"Robbeneiland"
+],
+"links": 72
+},
+{
+"name": "Banks Island",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Cape Breton Island",
+"aliases": [
+"Cape Breton",
+"Île du Cap-Breton"
+],
+"links": 71
+},
+{
+"name": "Kauaʻi",
+"aliases": [
+"Kauai"
+],
+"links": 71
+},
+{
+"name": "Mykonos",
+"aliases": [
+"Mint of Myconos",
+"Myconos"
+],
+"links": 71
+},
+{
+"name": "Antigua",
+"aliases": [
+"Wadadli"
+],
+"links": 70
+},
+{
+"name": "Bioko",
+"aliases": [
+"Fernando Po",
+"Fernando Poo",
+"Fernando Pó",
+"Fernando Póo"
+],
+"links": 70
+},
+{
+"name": "Djerba",
+"aliases": [
+"Djerba Island",
+"Jarbah"
+],
+"links": 70
+},
+{
+"name": "Marajó",
+"aliases": [
+"Ilha do Marajó",
+"Marajo"
+],
+"links": 70
+},
+{
+"name": "Usedom",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Aegina",
+"aliases": [
+"Aigina",
+"Egina",
+"Ægina"
+],
+"links": 69
+},
+{
+"name": "Devon Island",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Diego Garcia",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Kiritimati",
+"aliases": [
+"Christmas Island"
+],
+"links": 69
+},
+{
+"name": "Ko Samui",
+"aliases": [
+"Koh Samui",
+"Samui island"
+],
+"links": 69
+},
+{
+"name": "Madura Island",
+"aliases": [
+"Madura"
+],
+"links": 69
+},
+{
+"name": "Peter I Island",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Sumbawa Island",
+"aliases": [
+"Soembawa",
+"Sumbava"
+],
+"links": 69
+},
+{
+"name": "Tobago",
+"aliases": [
+"Tobago Island"
+],
+"links": 69
+},
+{
+"name": "Lemnos",
+"aliases": [
+"Limnos"
+],
+"links": 68
+},
+{
+"name": "Paros",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Sylt",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Alexander Island",
+"aliases": [
+"Alexander I Island",
+"Alexander I Land",
+"Alexander Land",
+"Alexander The First Island",
+"Isla Alejandro I"
+],
+"links": 67
+},
+{
+"name": "Comino",
+"aliases": [
+"Kemmuna"
+],
+"links": 67
+},
+{
+"name": "Macquarie Island",
+"aliases": [
+"Île Macquarie"
+],
+"links": 67
+},
+{
+"name": "North Sentinel Island",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Hong Kong Island",
+"aliases": [
+"HK Island"
+],
+"links": 66
+},
+{
+"name": "Isla de la Juventud",
+"aliases": [
+"Isle of Pine, Cuba",
+"Isle of Pines",
+"Isle of Pines, Cuba",
+"Isle of Youth",
+"The Isle of Pines"
+],
+"links": 66
+},
+{
+"name": "Kavaratti",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Komodo Island",
+"aliases": [
+"Komodo",
+"Pulau Komodo"
+],
+"links": 66
+},
+{
+"name": "Krk",
+"aliases": [
+"Krk Island",
+"Veglia"
+],
+"links": 66
+},
+{
+"name": "Nantucket",
+"aliases": [
+"Nantucket Island"
+],
+"links": 66
+},
+{
+"name": "Snake Island",
+"aliases": [
+"Island of Achilles",
+"Leuce",
+"Serpent Island",
+"Snake Island, Romania",
+"White Island",
+"Zmiinyi Island"
+],
+"links": 66
+},
+{
+"name": "Bougainville Island",
+"aliases": [
+"Bougainville"
+],
+"links": 65
+},
+{
+"name": "Cyprus",
+"aliases": [
+"Island of Cyprus",
+"Yadnana"
+],
+"links": 65
+},
+{
+"name": "Guadalcanal",
+"aliases": [
+"Isatabu"
+],
+"links": 65
+},
+{
+"name": "Halmahera Island",
+"aliases": [
+"Almahera",
+"Djailolo",
+"Gilolo",
+"Halmahera",
+"Jailolo",
+"Jilolo",
+"Khal'makhera"
+],
+"links": 65
+},
+{
+"name": "Leyte",
+"aliases": [
+"Leyte Island"
+],
+"links": 65
+},
+{
+"name": "Milos",
+"aliases": [
+"Melos",
+"Melus",
+"Mint of Melos"
+],
+"links": 65
+},
+{
+"name": "Mindoro",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Île Amsterdam",
+"aliases": [
+"Amsterdam Island",
+"Amsterdam Islands",
+"Ile Amsterdam",
+"New Amsterdam",
+"Nouvelle Amsterdam"
+],
+"links": 65
+},
+{
+"name": "Alcatraz Island",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Bear Island",
+"aliases": [
+"Bjørnøya"
+],
+"links": 64
+},
+{
+"name": "Salamis Island",
+"aliases": [
+"Mint of Salamis",
+"Salamis"
+],
+"links": 64
+},
+{
+"name": "Schiermonnikoog",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Andros",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Hvar",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Karpathos",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Rodrigues",
+"aliases": [
+"Rodrigues Islands",
+"Rodriguez",
+"Rodriguez Island"
+],
+"links": 63
+},
+{
+"name": "Samar Island",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Seram",
+"aliases": [
+"Ceram",
+"Ceram Island",
+"Pulau Seram",
+"Seram Island",
+"Seran",
+"Serang"
+],
+"links": 63
+},
+{
+"name": "Sumba Island",
+"aliases": [
+"Pulau Sumba",
+"Sandalwood",
+"Sandelhout Eiland",
+"Soemba",
+"Sumba",
+"Tjendana"
+],
+"links": 63
+},
+{
+"name": "Surtsey",
+"aliases": [],
+"links": 63
+},
+{
+"name": "São Miguel Island",
+"aliases": [
+"San Miguel island",
+"St. Michael's",
+"The Green island"
+],
+"links": 63
+},
+{
+"name": "Upolu",
+"aliases": [
+"Upolu Island"
+],
+"links": 63
+},
+{
+"name": "Ambon Island",
+"aliases": [
+"Amboyna"
+],
+"links": 62
+},
+{
+"name": "K'gari",
+"aliases": [
+"Fraser",
+"Fraser Island",
+"Fraser Island, Queensland",
+"Fraser Island, Queensland, Australia",
+"Gari",
+"Great Sandy Island",
+"K'gari / Fraser Island",
+"K'gari World Heritage Site",
+"Île Fraser"
+],
+"links": 62
+},
+{
+"name": "Samothrace",
+"aliases": [
+"Samothraki"
+],
+"links": 62
+},
+{
+"name": "Viti Levu",
+"aliases": [
+"Levu",
+"Naviti Levu",
+"Viti Leon",
+"Viti Levu Island",
+"Vitilevu",
+"Vitu Levu"
+],
+"links": 62
+},
+{
+"name": "Axel Heiberg Island",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Brač",
+"aliases": [
+"Brac",
+"Bratz",
+"Brazza"
+],
+"links": 61
+},
+{
+"name": "Coco Island",
+"aliases": [
+"Cocos Island",
+"Isla del Coco District"
+],
+"links": 61
+},
+{
+"name": "Malta",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Melville Island",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Nevis",
+"aliases": [
+"Dulcina",
+"Meavis",
+"Meves",
+"Mevis",
+"Neves",
+"Nevis Island",
+"Nievis"
+],
+"links": 61
+},
+{
+"name": "Terschelling",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Vlieland",
+"aliases": [],
+"links": 61
+},
+{
+"name": "West Island",
+"aliases": [
+"West Island, Cocos Islands",
+"West Island, Other Territories",
+"West Island, Other Territories, Australia",
+"West Keeling Island"
+],
+"links": 61
+},
+{
+"name": "Yakushima",
+"aliases": [
+"Yaku Island",
+"Yaku-shima"
+],
+"links": 61
+},
+{
+"name": "Icaria",
+"aliases": [
+"Ikaria"
+],
+"links": 60
+},
+{
+"name": "Kangaroo Island",
+"aliases": [
+"Borda Island",
+"Decres Island",
+"Isle Borda",
+"Isle Decres",
+"Kanguroo Island",
+"Karta",
+"Pindinga"
+],
+"links": 60
+},
+{
+"name": "Lefkada",
+"aliases": [
+"Lefkas",
+"Leucas",
+"Mint of Leucas"
+],
+"links": 60
+},
+{
+"name": "Lolland",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Mahé",
+"aliases": [
+"Mahe",
+"Mahe Island",
+"Mahé Island"
+],
+"links": 60
+},
+{
+"name": "Negros",
+"aliases": [
+"mainland Negros",
+"Negros Island"
+],
+"links": 60
+},
+{
+"name": "New Ireland",
+"aliases": [
+"New Ireland island"
+],
+"links": 60
+},
+{
+"name": "Qeshm Island",
+"aliases": [
+"Keshm",
+"Kishm",
+"Qishm"
+],
+"links": 60
+},
+{
+"name": "Gorée",
+"aliases": [
+"Goree",
+"Gorée Island",
+"Island of Gorée",
+"Île de Gorée"
+],
+"links": 59
+},
+{
+"name": "Island of Mozambique",
+"aliases": [
+"Ilha de Moçambique"
+],
+"links": 59
+},
+{
+"name": "Kodiak Island",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Saint Kitts",
+"aliases": [
+"Liamuiga",
+"Saint Christopher",
+"Saint Christopher Island",
+"Saint Christopher's",
+"St Kitts",
+"St. Christopher",
+"St. Christopher's",
+"St. Kitts"
+],
+"links": 59
+},
+{
+"name": "Southampton Island",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Utøya",
+"aliases": [
+"Utoya"
+],
+"links": 59
+},
+{
+"name": "Ýdra",
+"aliases": [
+"Hydra Island"
+],
+"links": 59
+},
+{
+"name": "Europa Island",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Isle of Arran",
+"aliases": [
+"Arran"
+],
+"links": 58
+},
+{
+"name": "Panay",
+"aliases": [
+"Panay Island"
+],
+"links": 58
+},
+{
+"name": "Ruhnu",
+"aliases": [
+"Roņu sala",
+"Ruhnu Island",
+"Runo",
+"Runö"
+],
+"links": 58
+},
+{
+"name": "Ellis Island",
+"aliases": [
+"Anderson's Island",
+"Bucking Island",
+"Dyre Island",
+"Ellis' Island",
+"Ellis's Island",
+"Fort Gibson",
+"Gibbet Island",
+"Gull Island",
+"Ki-oshk",
+"Kiosh",
+"Kioshk",
+"Oyster Island"
+],
+"links": 57
+},
+{
+"name": "Korčula",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Liberty Island",
+"aliases": [
+"Bedloe Island",
+"Bedloes Island",
+"Bedlow Island",
+"Bedlow's Island",
+"Great Oyster Island",
+"Min-ne-ais",
+"Minissais",
+"Minnisais",
+"Statue of Liberty World Heritage Site"
+],
+"links": 57
+},
+{
+"name": "Molokaʻi",
+"aliases": [
+"Moloka'i",
+"Molokai"
+],
+"links": 57
+},
+{
+"name": "Pico Island",
+"aliases": [
+"Ilha do Pico",
+"Pico"
+],
+"links": 57
+},
+{
+"name": "Prince of Wales Island",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Savai'i",
+"aliases": [
+"Savai'i Island"
+],
+"links": 57
+},
+{
+"name": "Stewart Island/Rakiura",
+"aliases": [
+"Rakiura",
+"Stewart Island"
+],
+"links": 57
+},
+{
+"name": "Syros",
+"aliases": [
+"Syra"
+],
+"links": 57
+},
+{
+"name": "Thasos",
+"aliases": [
+"Thasos Island"
+],
+"links": 57
+},
+{
+"name": "Bangka Island",
+"aliases": [
+"Banca",
+"Bangha",
+"Bangka",
+"Banka",
+"Banka Island",
+"Pulau Bangka"
+],
+"links": 56
+},
+{
+"name": "Buru Island",
+"aliases": [
+"Boeroe",
+"Buru",
+"Pulau Buru"
+],
+"links": 56
+},
+{
+"name": "Cres",
+"aliases": [
+"Cherso",
+"Kersch"
+],
+"links": 56
+},
+{
+"name": "Isla Grande de Tierra del Fuego",
+"aliases": [
+"Big Island of the Land of Fire"
+],
+"links": 56
+},
+{
+"name": "Kish Island",
+"aliases": [
+"Aphrodisias",
+"Arakata",
+"Arakia",
+"Cataga",
+"Cyprusa",
+"Ghiss",
+"Kamtina",
+"Kataie",
+"Qais"
+],
+"links": 56
+},
+{
+"name": "Kythira",
+"aliases": [
+"Cerigo",
+"Cherigo",
+"Cythera",
+"Isle of Cherigo",
+"Kithera"
+],
+"links": 56
+},
+{
+"name": "Margarita Island",
+"aliases": [
+"Isla de Margarita",
+"Isla de Margarita, Venezuela",
+"Margarita Island, Venezuela",
+"Margarita, Nueva Esparta"
+],
+"links": 56
+},
+{
+"name": "Nias Island",
+"aliases": [
+"Nayas"
+],
+"links": 56
+},
+{
+"name": "Santiago",
+"aliases": [
+"Santiago Island",
+"São Tiago",
+"São Tiago Island"
+],
+"links": 56
+},
+{
+"name": "Scyros",
+"aliases": [
+"Mint of Scyros"
+],
+"links": 56
+},
+{
+"name": "Tinos",
+"aliases": [
+"Mint of Tenos",
+"Tenos"
+],
+"links": 56
+},
+{
+"name": "Catanduanes",
+"aliases": [
+"Province of Catanduanes"
+],
+"links": 55
+},
+{
+"name": "Chiloé Island",
+"aliases": [
+"Chiloe Island",
+"Chiloë",
+"Chiloë Island"
+],
+"links": 55
+},
+{
+"name": "Imbros",
+"aliases": [
+"Gökçeada",
+"Imroz",
+"Imvros",
+"İmroz",
+"Mint of Imbros"
+],
+"links": 55
+},
+{
+"name": "Kunashir Island",
+"aliases": [
+"Kunashiri Island"
+],
+"links": 55
+},
+{
+"name": "Mljet",
+"aliases": [
+"Meleda",
+"Melita",
+"Melite"
+],
+"links": 55
+},
+{
+"name": "Muhu",
+"aliases": [
+"Muhumaa"
+],
+"links": 55
+},
+{
+"name": "Príncipe",
+"aliases": [
+"Principe island"
+],
+"links": 55
+},
+{
+"name": "São Tomé Island",
+"aliases": [
+"Sao Tome Island",
+"St. Thomas",
+"São Tomé"
+],
+"links": 55
+},
+{
+"name": "Île Saint-Paul",
+"aliases": [
+"Ile Saint-Paul",
+"Saint Paul Island",
+"St. Paul Island"
+],
+"links": 55
+},
+{
+"name": "Bering Island",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Falster",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Hormuz Island",
+"aliases": [
+"Ormuz",
+"Ormuz Island"
+],
+"links": 54
+},
+{
+"name": "Islay",
+"aliases": [
+"Isle of Islay",
+"The Queen of the Hebrides"
+],
+"links": 54
+},
+{
+"name": "Tongatapu",
+"aliases": [
+"Tongatabu"
+],
+"links": 54
+},
+{
+"name": "Tsushima Island",
+"aliases": [
+"Tsu Sima",
+"Tsushima"
+],
+"links": 54
+},
+{
+"name": "Fogo",
+"aliases": [
+"Fogo Island"
+],
+"links": 53
+},
+{
+"name": "Ios",
+"aliases": [
+"Aina",
+"Anza",
+"Arsinoe",
+"Io",
+"Little Malta",
+"Mint of Ios",
+"Nio",
+"Nios",
+"Phiniki",
+"Phoeniki"
+],
+"links": 53
+},
+{
+"name": "Isle of Mull",
+"aliases": [
+"Island of Mull",
+"Mull",
+"Mull, Scotland"
+],
+"links": 53
+},
+{
+"name": "Kea",
+"aliases": [
+"Ceos",
+"Zea"
+],
+"links": 53
+},
+{
+"name": "Kihnu",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Pemba Island",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Peñón de Vélez de la Gomera",
+"aliases": [
+"Badis",
+"Rock of Badis"
+],
+"links": 53
+},
+{
+"name": "Rarotonga",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Sal",
+"aliases": [
+"Sal Island",
+"Sal, Cape Verde"
+],
+"links": 53
+},
+{
+"name": "Schouwen-Duiveland",
+"aliases": [
+"Schouwen-Duveland"
+],
+"links": 53
+},
+{
+"name": "Streymoy",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Terceira Island",
+"aliases": [
+"Terceira"
+],
+"links": 53
+},
+{
+"name": "Vágar",
+"aliases": [
+"Vagar"
+],
+"links": 53
+},
+{
+"name": "Amorgos",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Cozumel Island",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Eysturoy",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Gough Island",
+"aliases": [
+"Gonçalo Álvares"
+],
+"links": 52
+},
+{
+"name": "Hashima Island",
+"aliases": [
+"Battleship Island",
+"Gunkanjima"
+],
+"links": 52
+},
+{
+"name": "Henderson Island",
+"aliases": [
+"Elizabeth Island",
+"San João Baptista"
+],
+"links": 52
+},
+{
+"name": "Herm",
+"aliases": [
+"Haerme"
+],
+"links": 52
+},
+{
+"name": "Kastellorizo",
+"aliases": [
+"Megiste"
+],
+"links": 52
+},
+{
+"name": "Kosrae",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Langeland",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Murano",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Redonda",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Reichenau Island",
+"aliases": [
+"Insel Reichenau"
+],
+"links": 52
+},
+{
+"name": "Rocas Atoll",
+"aliases": [
+"Atol das Rocas"
+],
+"links": 52
+},
+{
+"name": "Saint Vincent",
+"aliases": [
+"Hairouna",
+"St Vincent",
+"St. Vincent",
+"Youloumain"
+],
+"links": 52
+},
+{
+"name": "Serifos",
+"aliases": [
+"Mint of Seriphos",
+"Seriphos",
+"Seriphus"
+],
+"links": 52
+},
+{
+"name": "Skellig Michael",
+"aliases": [
+"Great Skellig"
+],
+"links": 52
+},
+{
+"name": "South Georgia",
+"aliases": [
+"South Georgia Island"
+],
+"links": 52
+},
+{
+"name": "Vanua Levu",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Vaygach Island",
+"aliases": [
+"Vaigatz",
+"Vaygach"
+],
+"links": 52
+},
+{
+"name": "Ilha da Queimada Grande",
+"aliases": [
+"Ilha Queimada Grande"
+],
+"links": 51
+},
+{
+"name": "King William Island",
+"aliases": [],
+"links": 51
+},
+{
+"name": "North Jutlandic Island",
+"aliases": [
+"Nørrejyske Ø",
+"The North Jutlandic Island",
+"Vendsyssel-Thy"
+],
+"links": 51
+},
+{
+"name": "Prince Patrick Island",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Vieques",
+"aliases": [
+"Crab Island",
+"Vieques Island",
+"Vieques Municipio",
+"Vieques PR",
+"Vieques, PR",
+"Vieques, Puerto Rico"
+],
+"links": 51
+},
+{
+"name": "Boa Vista",
+"aliases": [
+"Boa Vista Island",
+"Ilha da Boa Vista"
+],
+"links": 50
+},
+{
+"name": "Bozcaada",
+"aliases": [
+"Mint of Tenedos",
+"Tenedos",
+"Ténedos",
+"Tênedos"
+],
+"links": 50
+},
+{
+"name": "Iona",
+"aliases": [
+"Isle of Iona"
+],
+"links": 50
+},
+{
+"name": "Juan de Nova Island",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Kilwa Kisiwani",
+"aliases": [
+"Quiloa"
+],
+"links": 50
+},
+{
+"name": "Lanai",
+"aliases": [
+"Lanai Island",
+"Lānaʻi",
+"Pineapple Island"
+],
+"links": 50
+},
+{
+"name": "Pag",
+"aliases": [
+"Baag",
+"Pago"
+],
+"links": 50
+},
+{
+"name": "Ross Island",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Vis",
+"aliases": [
+"Issa",
+"Lissa",
+"Mint of Issa"
+],
+"links": 50
+},
+{
+"name": "Ball's Pyramid",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Banaba Island",
+"aliases": [
+"Ocean Island"
+],
+"links": 49
+},
+{
+"name": "Bassas da India",
+"aliases": [
+"Basse de Judie"
+],
+"links": 49
+},
+{
+"name": "Iturup",
+"aliases": [
+"Etorofu",
+"Etrof",
+"Iturup Island",
+"State I.",
+"State Island",
+"State's Island",
+"Staten I.",
+"Staten Island",
+"States I.",
+"States Island",
+"Stats",
+"Stats I.",
+"Stats Is.",
+"Stats Isl.",
+"Stats Island",
+"Yeteroo",
+"Yeteroo I.",
+"Yeteroo Island",
+"Yeterop",
+"Yeterop I.",
+"Yeterop Island",
+"Yetorup",
+"Yeturup"
+],
+"links": 49
+},
+{
+"name": "Jura",
+"aliases": [
+"Diùra",
+"Isle of Jura"
+],
+"links": 49
+},
+{
+"name": "Koltur",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Lantau Island",
+"aliases": [
+"Lan Tao",
+"Lan Tau",
+"Lantao Island",
+"Tai Yue Shan"
+],
+"links": 49
+},
+{
+"name": "Linosa",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Martha's Vineyard",
+"aliases": [
+"Martha's Vineyard, Massachusetts",
+"Martha's Vineyard, the Vineyard",
+"Marthae's Vineyard",
+"No-pe",
+"Noepe"
+],
+"links": 49
+},
+{
+"name": "Niʻihau",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Olkhon Island",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Sentosa",
+"aliases": [
+"Sentosa Island"
+],
+"links": 49
+},
+{
+"name": "Sifnos",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Somerset Island",
+"aliases": [],
+"links": 49
+},
+{
+"name": "St. Lawrence Island",
+"aliases": [
+"Saint Lawrence Island"
+],
+"links": 49
+},
+{
+"name": "Amager",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Anticosti Island",
+"aliases": [
+"Anticosti",
+"Île d'Anticosti"
+],
+"links": 48
+},
+{
+"name": "Awaji Island",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Borðoy",
+"aliases": [
+"Bordo",
+"Bordoy",
+"Bordø"
+],
+"links": 48
+},
+{
+"name": "Espiritu Santo",
+"aliases": [
+"Espíritu Santo Island",
+"Marina Island",
+"Santo",
+"Santo Island"
+],
+"links": 48
+},
+{
+"name": "Filfla",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Gavdos",
+"aliases": [
+"Gavdos island"
+],
+"links": 48
+},
+{
+"name": "Kizhi",
+"aliases": [
+"Kizhi Island"
+],
+"links": 48
+},
+{
+"name": "Lítla Dímun",
+"aliases": [
+"Litla Dimun"
+],
+"links": 48
+},
+{
+"name": "Montecristo",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Palawan",
+"aliases": [
+"Palawan Island"
+],
+"links": 48
+},
+{
+"name": "Rab",
+"aliases": [
+"Otok Rab"
+],
+"links": 48
+},
+{
+"name": "Sazan Island",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Sveti Stefan",
+"aliases": [],
+"links": 48
+},
+{
+"name": "São Vicente",
+"aliases": [
+"São Vicente Island"
+],
+"links": 48
+},
+{
+"name": "Tromelin Island",
+"aliases": [
+"Trom island"
+],
+"links": 48
+},
+{
+"name": "Tutuila",
+"aliases": [
+"Tootooellah",
+"Tutuila Island",
+"Tutyella"
+],
+"links": 48
+},
+{
+"name": "Unguja",
+"aliases": [
+"Zanzibar",
+"Zanzibar Island"
+],
+"links": 48
+},
+{
+"name": "Belitung Island",
+"aliases": [
+"Belitoeng",
+"Belitong",
+"Belitung",
+"Billiton",
+"Billiton Island",
+"Pulau Belitung"
+],
+"links": 47
+},
+{
+"name": "Bolshevik Island",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Burano",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Kalymnos",
+"aliases": [
+"Calydna",
+"Calymna"
+],
+"links": 47
+},
+{
+"name": "Lido di Venezia",
+"aliases": [
+"Lido of Venice"
+],
+"links": 47
+},
+{
+"name": "Lošinj",
+"aliases": [
+"Lussino",
+"Lötzing"
+],
+"links": 47
+},
+{
+"name": "Madeira Island",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Mafia Island",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Moorea",
+"aliases": [
+"Moʻorea",
+"Moʻoreʻa"
+],
+"links": 47
+},
+{
+"name": "Nordaustlandet",
+"aliases": [
+"Severovýchodní země"
+],
+"links": 47
+},
+{
+"name": "Paxos",
+"aliases": [
+"Paxi"
+],
+"links": 47
+},
+{
+"name": "Robinson Crusoe Island",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Saint Croix",
+"aliases": [
+"Saint Croix Island",
+"Saint Croix, U.S. Virgin Islands",
+"Saint Croix, US Virgin Islands",
+"Santa Cruz",
+"St Croix",
+"St Croix, U.S. Virgin Islands",
+"St Croix, United States Virgin Islands",
+"St. Croix",
+"St. Croix Island"
+],
+"links": 47
+},
+{
+"name": "Saint Thomas",
+"aliases": [
+"Island of Saint Thomas",
+"Saint Thomas Island",
+"Saint Thomas, U.S. Virgin Islands",
+"Saint Thomas, United States Virgin Islands",
+"Saint Thomas, VI",
+"St Thomas",
+"St. Thomas",
+"St. Thomas, U.S. Virgin Islands",
+"St. Thomas, US Virgin Islands",
+"St. Thomas, VI",
+"St. Thomas, Virgin Islands"
+],
+"links": 47
+},
+{
+"name": "Samsø",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Suðuroy",
+"aliases": [
+"Suduroy"
+],
+"links": 47
+},
+{
+"name": "Tortuga",
+"aliases": [
+"Tortuga Island",
+"Turtle Island"
+],
+"links": 47
+},
+{
+"name": "Arwad",
+"aliases": [
+"Aradus",
+"Mint of Aradus"
+],
+"links": 46
+},
+{
+"name": "Babeldaob",
+"aliases": [
+"Babelthuap"
+],
+"links": 46
+},
+{
+"name": "Hans Island",
+"aliases": [
+"Tartupaluk Island"
+],
+"links": 46
+},
+{
+"name": "Kahoolawe",
+"aliases": [
+"Kaho'olawe",
+"Kahoʻolawe"
+],
+"links": 46
+},
+{
+"name": "Kotelny Island",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Leros",
+"aliases": [],
+"links": 46
+},
+{
+"name": "October Revolution Island",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Pianosa",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Sandoy",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Skopelos",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Ternate Island",
+"aliases": [
+"Pulau Ternate"
+],
+"links": 46
+},
+{
+"name": "Tinian",
+"aliases": [
+"Tenian-shima",
+"Tinian Island"
+],
+"links": 46
+},
+{
+"name": "Tortola",
+"aliases": [
+"Tortola BVI",
+"Tortola, British Virgin Islands"
+],
+"links": 46
+},
+{
+"name": "Ærø",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Alicudi",
+"aliases": [
+"Arcudi"
+],
+"links": 45
+},
+{
+"name": "Antikythera",
+"aliases": [
+"Anticythera"
+],
+"links": 45
+},
+{
+"name": "Bathurst Island",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Efate",
+"aliases": [
+"Ile Vate",
+"Île Vate"
+],
+"links": 45
+},
+{
+"name": "Folegandros",
+"aliases": [
+"Mint of Pholegandros",
+"Pholegandros"
+],
+"links": 45
+},
+{
+"name": "Föhr",
+"aliases": [
+"Foehr"
+],
+"links": 45
+},
+{
+"name": "Hestur",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Kasos",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Kolepom Island",
+"aliases": [
+"Dolok Island",
+"Frederik Hendrik Island",
+"Jos-Sudarso",
+"Kimaam Island",
+"Kolepon",
+"Yos Sudarso",
+"Yos Sudarso Island"
+],
+"links": 45
+},
+{
+"name": "Kotlin Island",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Masbate",
+"aliases": [
+"Masbate Island"
+],
+"links": 45
+},
+{
+"name": "New Providence",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Nisyros",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Ometepe",
+"aliases": [
+"Ometepe Island"
+],
+"links": 45
+},
+{
+"name": "Salina",
+"aliases": [
+"Isola Salina"
+],
+"links": 45
+},
+{
+"name": "Santo Antão",
+"aliases": [
+"Santo Antão Island"
+],
+"links": 45
+},
+{
+"name": "Severny Island",
+"aliases": [
+"Northern Island"
+],
+"links": 45
+},
+{
+"name": "Skiathos",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Symi",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Tidore Island",
+"aliases": [
+"Pulau Tidore",
+"Tidore"
+],
+"links": 45
+},
+{
+"name": "Amrum",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Big Diomede",
+"aliases": [
+"Noonarbook",
+"Ratmanov Island"
+],
+"links": 44
+},
+{
+"name": "Coiba",
+"aliases": [
+"Coiba Island",
+"Coiba National Marine Park",
+"Quibo",
+"Quibo Island"
+],
+"links": 44
+},
+{
+"name": "Devil's Island",
+"aliases": [
+"Ile du Diable",
+"The penal colony of Cayenne",
+"Île du Diable"
+],
+"links": 44
+},
+{
+"name": "Faial Island",
+"aliases": [
+"Fayal"
+],
+"links": 44
+},
+{
+"name": "Heimaey",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Inaccessible Island",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Kalsoy",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Khortytsia",
+"aliases": [
+"Hortitsa",
+"Hortytsia",
+"Hortytsya",
+"Khortitsa",
+"khortytsya"
+],
+"links": 44
+},
+{
+"name": "Marmara Island",
+"aliases": [
+"Marmara Adası"
+],
+"links": 44
+},
+{
+"name": "Melville Island",
+"aliases": [
+"Yermalner"
+],
+"links": 44
+},
+{
+"name": "Mykines",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Nólsoy",
+"aliases": [
+"Nolsoy"
+],
+"links": 44
+},
+{
+"name": "Oléron Island",
+"aliases": [
+"Ile d'Oléron",
+"Ilâte d'Olerun",
+"Island of Oleron",
+"Island of Oléron",
+"Isle of Oléron",
+"Oleron",
+"Oleron Island",
+"Olerun",
+"Oléron",
+"Île d'Oléron",
+"Île-d'Oléron",
+"Île-de-la-Liberté"
+],
+"links": 44
+},
+{
+"name": "Panarea",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Porto Santo",
+"aliases": [
+"Porto Santo Island Municipality",
+"Porto Santo municipality"
+],
+"links": 44
+},
+{
+"name": "Raiatea",
+"aliases": [
+"Ulietea"
+],
+"links": 44
+},
+{
+"name": "Abu Musa Island",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Anafi",
+"aliases": [
+"Anaphe"
+],
+"links": 43
+},
+{
+"name": "Brava",
+"aliases": [
+"Brava Island"
+],
+"links": 43
+},
+{
+"name": "Bylot Island",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Cabrera",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Edgeøya",
+"aliases": [
+"Edge Island"
+],
+"links": 43
+},
+{
+"name": "Ellef Ringnes Island",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Flores Island",
+"aliases": [
+"Flores",
+"Flores, Azores"
+],
+"links": 43
+},
+{
+"name": "Fugloy",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Fårö",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Isabela Island",
+"aliases": [
+"Albemarle",
+"Albemarle I.",
+"Albemarle Is.",
+"Albemarle Island",
+"Duke of Albemarl's I.",
+"Duke of Albemarl's Is.",
+"Duke of Albemarl's Island",
+"Duke of Albemarle's I.",
+"Duke of Albemarle's Is.",
+"Duke of Albemarle's Island",
+"I. Albemarle",
+"I. Isabela",
+"I. Isabella",
+"I. Santa Isabel",
+"I. Santa Isabela",
+"I. Sta. Isabel",
+"I. Sta. Isabela",
+"Isabela",
+"Isabela I.",
+"Isabela Is.",
+"Isabella",
+"Isabella I.",
+"Isabella Is.",
+"Isabella Island",
+"Isla Isabela",
+"Isla Santa Isabel",
+"Isla Santa Isabela",
+"Isla Sta. Isabel",
+"Isla Sta. Isabela",
+"Santa Isabel I.",
+"Santa Isabel Island",
+"Santa Isabela I.",
+"Santa Isabela Island",
+"Sta. Isabel I.",
+"Sta. Isabel Island",
+"Sta. Isabela I.",
+"Sta. Isabela Island",
+"the Duke of Albemarl's Island"
+],
+"links": 43
+},
+{
+"name": "Isle of Ré",
+"aliases": [
+"Ile de Rhe",
+"Ile de Rhé",
+"ile de Rét",
+"Ile-de-Ré",
+"Island of Re",
+"Island of Ré",
+"Isle of Re",
+"Isle of Rhe",
+"Re",
+"Re Island",
+"Rhe",
+"Rhé",
+"Ré",
+"Ré Island",
+"Ré island",
+"île de Ré",
+"Île de Ré",
+"Île-de-Ré",
+"Île-Républicaine"
+],
+"links": 43
+},
+{
+"name": "Kaffeklubben Island",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Kassari",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Kolguyev Island",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Kunoy",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Læsø",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Mainland",
+"aliases": [
+"Shetland Mainland"
+],
+"links": 43
+},
+{
+"name": "San Salvador Island",
+"aliases": [
+"Guanahani",
+"San Salvador District"
+],
+"links": 43
+},
+{
+"name": "Santa Cruz Island",
+"aliases": [
+"Chavez I.",
+"Chavez Is.",
+"Chavez Island",
+"Chávez I.",
+"Chávez Is.",
+"Chávez Island",
+"Duke of Norfolk",
+"Duke of Norfolk I.",
+"Duke of Norfolk Is.",
+"Duke of Norfolk Island",
+"Duke of Norfolk's I.",
+"Duke of Norfolk's Is.",
+"Duke of Norfolk's Island",
+"I Sta Cruz",
+"I. Chavez",
+"I. Chávez",
+"I. Indefatigable",
+"I. Norfolk",
+"I. S. Clemente",
+"I. San Clemente",
+"I. Santa Cruz",
+"I. Sta. Cruz",
+"Indefatigable",
+"Indefatigable I.",
+"Indefatigable Is.",
+"Indefatigable Island",
+"Isla Chavez",
+"Isla Chávez",
+"Isla S. Clemente",
+"Isla San Clemente",
+"Isla Santa Cruz",
+"Norfolk",
+"Norfolk I.",
+"Norfolk Is.",
+"Norfolk Island",
+"S. Clemente",
+"S. Clemente I.",
+"S. Clemente Is.",
+"S. Clemente Island",
+"San Clemente",
+"San Clemente I.",
+"San Clemente Is.",
+"San Clemente Island",
+"Santa Cruz",
+"Santa Cruz I.",
+"Santa Cruz Is.",
+"Sta Cruz",
+"Sta Cruz I",
+"Sta Cruz Is",
+"Sta Cruz Island",
+"Sta. Cruz",
+"Sta. Cruz I.",
+"Sta. Cruz Is.",
+"Sta. Cruz Island"
+],
+"links": 43
+},
+{
+"name": "Torcello",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Viðoy",
+"aliases": [
+"Vidoy"
+],
+"links": 43
+},
+{
+"name": "Vormsi",
+"aliases": [
+"Ormsö",
+"Worms",
+"Wormso",
+"Wormsö"
+],
+"links": 43
+},
+{
+"name": "Yonaguni",
+"aliases": [
+"Yonagunijima"
+],
+"links": 43
+},
+{
+"name": "Šolta",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Abruka",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Astypalaia",
+"aliases": [
+"Astypalaea",
+"Astypalea",
+"Mint of Astypalaea"
+],
+"links": 42
+},
+{
+"name": "Corvo Island",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Disko Island",
+"aliases": [
+"Qeqertarsuaq Island"
+],
+"links": 42
+},
+{
+"name": "Dugi otok",
+"aliases": [
+"Long Island"
+],
+"links": 42
+},
+{
+"name": "Ishigaki Island",
+"aliases": [
+"Ishigaki-jima",
+"Ishigakijima"
+],
+"links": 42
+},
+{
+"name": "Isla de los Estados",
+"aliases": [
+"Staten Island"
+],
+"links": 42
+},
+{
+"name": "Ko Pha-ngan",
+"aliases": [
+"Koh Phangan"
+],
+"links": 42
+},
+{
+"name": "Lewis and Harris",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Mactan",
+"aliases": [
+"Mactan Island"
+],
+"links": 42
+},
+{
+"name": "Møn",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Nusapenida Island",
+"aliases": [
+"Noesa Panida",
+"Noesa Peninda",
+"Nusa Besar",
+"Nusa Penida",
+"Nusa Penida Island",
+"Penide",
+"Pulau Nusa Penida"
+],
+"links": 42
+},
+{
+"name": "Philae",
+"aliases": [
+"Philae Island",
+"Philæ"
+],
+"links": 42
+},
+{
+"name": "Poros",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Praslin",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Rømø",
+"aliases": [
+"Roemoe",
+"Römö"
+],
+"links": 42
+},
+{
+"name": "Saint John",
+"aliases": [
+"Saint John, U.S. Virgin Islands",
+"Saint John, United States Virgin Islands",
+"Saint John, US Virgin Islands",
+"St John",
+"St John Island",
+"St John, U.S. Virgin Islands",
+"St John, US Virgin Islands",
+"St. John"
+],
+"links": 42
+},
+{
+"name": "Stóra Dímun",
+"aliases": [
+"Stora Dimun"
+],
+"links": 42
+},
+{
+"name": "Tanegashima",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Yuzhny Island",
+"aliases": [
+"Southern Island"
+],
+"links": 42
+},
+{
+"name": "Agaléga",
+"aliases": [
+"Agalega"
+],
+"links": 41
+},
+{
+"name": "Antiparos",
+"aliases": [
+"Andiparos",
+"Nisos Andiparos"
+],
+"links": 41
+},
+{
+"name": "Bananal Island",
+"aliases": [
+"Ilha do Bananal"
+],
+"links": 41
+},
+{
+"name": "Grímsey",
+"aliases": [
+"Grimsey"
+],
+"links": 41
+},
+{
+"name": "Guadalupe Island",
+"aliases": [
+"Isla Guadalupe"
+],
+"links": 41
+},
+{
+"name": "Guernsey",
+"aliases": [
+"Garnsey",
+"Garnsey I.",
+"Garnsey Island",
+"Guernesey",
+"Guernesi",
+"Guernsey I.",
+"Guernsey Island",
+"Guernési",
+"I. Garnsey",
+"I. Guernsey",
+"Isle of Garnsey",
+"Isle of Guernsey"
+],
+"links": 41
+},
+{
+"name": "Huahine",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Kythnos",
+"aliases": [
+"Cythnos",
+"Mint of Cythnos"
+],
+"links": 41
+},
+{
+"name": "Maio",
+"aliases": [
+"Maio Island"
+],
+"links": 41
+},
+{
+"name": "Manitoulin Island",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Osmussaar",
+"aliases": [],
+"links": 41
+},
+{
+"name": "San Cristóbal Island",
+"aliases": [
+"Chatam",
+"Chatam I.",
+"Chatam Is.",
+"Chatam Island",
+"Chatham",
+"Chatham I.",
+"Chatham Is.",
+"Chatham Island",
+"Dassigney I.",
+"Dassigney Is.",
+"Dassigney Island",
+"Dassigney's I.",
+"Dassigney's Is.",
+"Dassigney's Island",
+"Dassigny I.",
+"Dassigny Is.",
+"Dassigny Island",
+"I. S. Cristobal",
+"I. S. Cristóbal",
+"I. San Cristobal",
+"I. San Cristóbal",
+"Isla S. Cristobal",
+"Isla S. Cristóbal",
+"Isla San Cristobal",
+"Isla San Cristóbal",
+"Lord Chatham",
+"Lord Chatham I.",
+"Lord Chatham Is.",
+"Lord Chatham Island",
+"S. Cristobal",
+"S. Cristobal I.",
+"S. Cristobal Is.",
+"S. Cristóbal",
+"S. Cristóbal I.",
+"S. Cristóbal Is.",
+"S. Cristóbal Island",
+"San Cristobal",
+"San Cristobal Is.",
+"San Cristobal Island",
+"San Cristóbal",
+"San Cristóbal I.",
+"San Cristóbal Is."
+],
+"links": 41
+},
+{
+"name": "Santa Maria Island",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Skúvoy",
+"aliases": [
+"Skuvoy"
+],
+"links": 41
+},
+{
+"name": "Spinalonga",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Tubuai",
+"aliases": [
+"Tubuai islands"
+],
+"links": 41
+},
+{
+"name": "Île-d'Aix",
+"aliases": [
+"Aix Island",
+"Île d'Aix"
+],
+"links": 41
+},
+{
+"name": "Amami Ōshima",
+"aliases": [
+"Amami Oshima",
+"Amami-Oshima",
+"Amami-Ōshima"
+],
+"links": 40
+},
+{
+"name": "Annobón Island",
+"aliases": [
+"Annabon",
+"Annabona",
+"Annobon",
+"Annobon Island",
+"Anobon",
+"Pagalu",
+"Pagalú",
+"Pigalu"
+],
+"links": 40
+},
+{
+"name": "Barra",
+"aliases": [
+"Isle of Barra"
+],
+"links": 40
+},
+{
+"name": "Buton Island",
+"aliases": [
+"Boetoeng Eiland",
+"Boeton",
+"Booton",
+"Buton",
+"Pulau Buton"
+],
+"links": 40
+},
+{
+"name": "Cominotto",
+"aliases": [],
+"links": 40
+},
+{
+"name": "East Falkland",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Elephant Island",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Ganghwa Island",
+"aliases": [
+"Ganghwa",
+"Ganghwa Do",
+"Ganghwa I.",
+"Ganghwa Is.",
+"Ganghwado",
+"Jianghua Dao",
+"Jianghua Island",
+"Jianghuadao",
+"Kang-hoa",
+"Kang-hoa I.",
+"Kang-hoa Is.",
+"Kang-hoa Island",
+"Kanghwa",
+"Kanghwa I.",
+"Kanghwa Is.",
+"Kanghwa Island",
+"Kanghwado"
+],
+"links": 40
+},
+{
+"name": "Goli otok",
+"aliases": [
+"Goli"
+],
+"links": 40
+},
+{
+"name": "Graciosa",
+"aliases": [
+"Isla Graciosa",
+"La Graciosa"
+],
+"links": 40
+},
+{
+"name": "Gulangyu",
+"aliases": [
+"Kou-lang-se"
+],
+"links": 40
+},
+{
+"name": "Isla Salas y Gómez",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Ko Chang",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Malaita",
+"aliases": [
+"Malaita Island"
+],
+"links": 40
+},
+{
+"name": "Niutao",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Pohnpei",
+"aliases": [
+"Ponape"
+],
+"links": 40
+},
+{
+"name": "Rudolf Island",
+"aliases": [
+"Crown Prince Rudolf Land",
+"Prince Rudolf Island"
+],
+"links": 40
+},
+{
+"name": "Sikinos",
+"aliases": [
+"Mint of Sicinos",
+"Sicinos"
+],
+"links": 40
+},
+{
+"name": "South Uist",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Spetses",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Svínoy",
+"aliases": [
+"Svinoy"
+],
+"links": 40
+},
+{
+"name": "Tino",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Urup",
+"aliases": [
+"Company I.",
+"Company Island",
+"Company's I.",
+"Company's Island",
+"Urubbu"
+],
+"links": 40
+},
+{
+"name": "Wolin",
+"aliases": [],
+"links": 40
+}
+]

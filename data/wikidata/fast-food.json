@@ -1,0 +1,936 @@
+[
+{
+"name": "McDonald's",
+"aliases": [
+"Macca's",
+"Maccas",
+"McDonald's Restaurant",
+"Mickey D's"
+],
+"links": 137
+},
+{
+"name": "Baskin-Robbins",
+"aliases": [
+"Baskin Robbins",
+"Burton's Ice Cream Shop"
+],
+"links": 116
+},
+{
+"name": "Burger King",
+"aliases": [
+"Burger King Corporation",
+"Insta-Burger King"
+],
+"links": 112
+},
+{
+"name": "KFC",
+"aliases": [
+"KFC Restaurant"
+],
+"links": 98
+},
+{
+"name": "Pizza Hut",
+"aliases": [
+"Pizza Hut Express",
+"Pizza Hut mobile app",
+"Pizza Hut, Inc."
+],
+"links": 96
+},
+{
+"name": "Jack in the Box",
+"aliases": [
+"JITB"
+],
+"links": 63
+},
+{
+"name": "Carl's Jr.",
+"aliases": [
+"Carl's Jr",
+"Carl's Junior",
+"Carls Jr",
+"Carls Junior"
+],
+"links": 60
+},
+{
+"name": "Subway",
+"aliases": [
+"Subway IP LLC"
+],
+"links": 58
+},
+{
+"name": "Domino's Pizza",
+"aliases": [
+"Domino's Pizza, Inc."
+],
+"links": 57
+},
+{
+"name": "Dunkin'",
+"aliases": [
+"DD",
+"Dunkin D",
+"Dunkin Donuts",
+"Dunkin Donuts Coffee",
+"Dunkin' Donuts"
+],
+"links": 55
+},
+{
+"name": "A&W Restaurants",
+"aliases": [
+"A & W Restaurants",
+"A&w all-american food",
+"A&W All-American Food",
+"A&W All-American Food Restaurant",
+"A&w all-american food restaurant",
+"A&W Restaurant",
+"A&W Restaurants Inc.",
+"A&W Restaurants, Inc.",
+"Allen and Wright",
+"Baby Burger",
+"Mama Burger",
+"Teen Burger"
+],
+"links": 51
+},
+{
+"name": "Taco Bell",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Wendy's",
+"aliases": [
+"Wendys"
+],
+"links": 48
+},
+{
+"name": "In-N-Out Burger",
+"aliases": [
+"In and Out burger",
+"In-N-Out"
+],
+"links": 45
+},
+{
+"name": "Whataburger",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Jollibee",
+"aliases": [
+"Jolibe",
+"Jolibee"
+],
+"links": 44
+},
+{
+"name": "Ben & Jerry's",
+"aliases": [
+"Ben and Jerry",
+"Ben and Jerry's",
+"Ben and Jerry’s Ice Cream"
+],
+"links": 39
+},
+{
+"name": "Chick-fil-A",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Wienerschnitzel",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Popeyes",
+"aliases": [
+"Popeye's",
+"Popeye's Chicken & Biscuits",
+"Popeyes Chicken & Biscuits",
+"Popeyes Chicken and Biscuits",
+"Popeyes Famous Fried Chicken",
+"Popeyes Famous Fried Chicken & Biscuits",
+"Popeyes Famous Fried Chicken and Biscuits",
+"Popeyes Louisiana Kitchen",
+"Popeyes Louisiana Kitchen, Inc."
+],
+"links": 38
+},
+{
+"name": "Häagen-Dazs",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Dairy Queen",
+"aliases": [
+"DQ"
+],
+"links": 32
+},
+{
+"name": "Five Guys",
+"aliases": [
+"Five Guys Burgers & Fries",
+"Five Guys Burgers and Fries"
+],
+"links": 30
+},
+{
+"name": "Krispy Kreme",
+"aliases": [
+"Krispy Kreme Doughnuts, Inc."
+],
+"links": 30
+},
+{
+"name": "Papa John's",
+"aliases": [
+"Papa John's Pizza",
+"Papa Johns Pizza"
+],
+"links": 29
+},
+{
+"name": "Vkusno i Tochka",
+"aliases": [
+"Delicious, full stop",
+"Tasty - period",
+"Tasty and dot",
+"Tasty and that's it",
+"Tasty And That’s It",
+"Tasty Russia",
+"Vkusno & tochka"
+],
+"links": 29
+},
+{
+"name": "Arby's",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Hesburger",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Mixue Ice Cream & Tea",
+"aliases": [
+"Mixue",
+"Mixue Bingcheng"
+],
+"links": 25
+},
+{
+"name": "Panda Express",
+"aliases": [
+"Panda Express Chinese Kitchen"
+],
+"links": 25
+},
+{
+"name": "Little Caesars",
+"aliases": [
+"Little Caesar Enterprises Inc.",
+"Little Caesars International"
+],
+"links": 24
+},
+{
+"name": "White Castle",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Yoshinoya",
+"aliases": [],
+"links": 24
+},
+{
+"name": "MOS Burger",
+"aliases": [
+"MOS Food Services"
+],
+"links": 22
+},
+{
+"name": "Checkers and Rally's",
+"aliases": [
+"Checkers",
+"Checkers Drive-In Restaurants",
+"Checkers Drive-In Restaurants, Inc.",
+"Rally's"
+],
+"links": 20
+},
+{
+"name": "Sbarro",
+"aliases": [],
+"links": 20
+},
+{
+"name": "snack bar",
+"aliases": [
+"concession stand",
+"rosticceria"
+],
+"links": 20
+},
+{
+"name": "Long John Silver's",
+"aliases": [
+"Long John Silver’s"
+],
+"links": 19
+},
+{
+"name": "Lotteria",
+"aliases": [
+"LOTTERIA Co., Ltd."
+],
+"links": 18
+},
+{
+"name": "MrBeast Burger",
+"aliases": [
+"Beast Burger"
+],
+"links": 17
+},
+{
+"name": "Nordsee",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Quick",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sukiya",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Max Hamburgers",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Mister Donut",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Buffalo Wild Wings",
+"aliases": [
+"B-Dubs",
+"Buffalo Wild Wings & Weck",
+"BW3"
+],
+"links": 15
+},
+{
+"name": "Church's Texas Chicken",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Heart Attack Grill",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Quiznos",
+"aliases": [
+"Quizno's",
+"Quizno's Corporation",
+"Quiznos Sub"
+],
+"links": 15
+},
+{
+"name": "Sonic Drive-In",
+"aliases": [
+"Sonic",
+"Sonic Corporation"
+],
+"links": 15
+},
+{
+"name": "Wimpy",
+"aliases": [
+"WimpyUK"
+],
+"links": 15
+},
+{
+"name": "Burgeranch",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Cold Stone Creamery",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Nathan's Famous",
+"aliases": [
+"Nathan's Famous, Inc."
+],
+"links": 14
+},
+{
+"name": "Hungry Jack's",
+"aliases": [
+"Burger King",
+"HJ’s",
+"Hungry Jack's Pty Ltd"
+],
+"links": 13
+},
+{
+"name": "Johnny Rockets",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Planet Hollywood",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Gong Cha",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Bojangles' Famous Chicken 'n Biscuits",
+"aliases": [
+"Bojangles"
+],
+"links": 11
+},
+{
+"name": "Del Taco",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dodo Pizza",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Krystal",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Paris Croissant",
+"aliases": [
+"Paris Baguette"
+],
+"links": 10
+},
+{
+"name": "Raising Cane's Chicken Fingers",
+"aliases": [
+"Raising Cane's",
+"Raising Cane's Chicken"
+],
+"links": 10
+},
+{
+"name": "Wingstop",
+"aliases": [
+"Wing Stop",
+"Wingstop Restaurants, Inc."
+],
+"links": 10
+},
+{
+"name": "Captain D's",
+"aliases": [
+"Mr. D's Seafood and Hamburgers"
+],
+"links": 9
+},
+{
+"name": "Marugame Seimen",
+"aliases": [
+"Marugame Udon",
+"Marukame Udon"
+],
+"links": 9
+},
+{
+"name": "Peppes Pizza",
+"aliases": [
+"Peppes"
+],
+"links": 9
+},
+{
+"name": "Red Rooster",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Coppelia",
+"aliases": [],
+"links": 8
+},
+{
+"name": "CosMc's",
+"aliases": [
+"CosMc-S",
+"CosMcs"
+],
+"links": 8
+},
+{
+"name": "Fazoli's",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Harvey's",
+"aliases": [
+"Harveys"
+],
+"links": 8
+},
+{
+"name": "Oporto",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Back Yard Burgers",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Carvel",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cook Out",
+"aliases": [
+"Cook Out Restaurants"
+],
+"links": 7
+},
+{
+"name": "El Pollo Loco",
+"aliases": [
+"Pollo Loco",
+"The Crazy Chicken"
+],
+"links": 7
+},
+{
+"name": "Freshness Burger",
+"aliases": [],
+"links": 7
+},
+{
+"name": "friterie",
+"aliases": [
+"baraque à frites",
+"friethuis",
+"frietkot",
+"frietkraam",
+"fritkot",
+"friture",
+"frituur",
+"patatkraam"
+],
+"links": 7
+},
+{
+"name": "Lee's Sandwiches",
+"aliases": [
+"Lee's Sandwiches International",
+"Saigon Gourmet"
+],
+"links": 7
+},
+{
+"name": "Pollo Tropical",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Potbelly Sandwich Shop",
+"aliases": [
+"Potbelly Corporation",
+"Potbelly Sandwich Works"
+],
+"links": 7
+},
+{
+"name": "Regensburg Sausage Kitchen",
+"aliases": [
+"Historische Wurstküche zu Regensburg"
+],
+"links": 7
+},
+{
+"name": "Shakey's Pizza",
+"aliases": [
+"Shakey's",
+"Shakey's Pizza Parlor",
+"Shakey's Pizza Restaurant",
+"Shakey's Super Delivery"
+],
+"links": 7
+},
+{
+"name": "Al Tazaj",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bruster's Ice Cream",
+"aliases": [
+"Bruster's Ice Cream, Inc.",
+"Bruster's Real Ice Cream"
+],
+"links": 6
+},
+{
+"name": "BurgerFi",
+"aliases": [
+"BurgerFi International, LLC"
+],
+"links": 6
+},
+{
+"name": "Cicis",
+"aliases": [
+"Cici's",
+"Cici's Pizza",
+"CiCi's Pizza",
+"Cicis Pizza"
+],
+"links": 6
+},
+{
+"name": "Dom Dom",
+"aliases": [
+"Dom Dom Hamburger"
+],
+"links": 6
+},
+{
+"name": "Donut King",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Freddy's Frozen Custard & Steakburgers",
+"aliases": [
+"Freddy's",
+"Freddy's LLC"
+],
+"links": 6
+},
+{
+"name": "Guzman y Gomez",
+"aliases": [
+"GYG"
+],
+"links": 6
+},
+{
+"name": "Hotto Motto",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mang Inasal",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Maoz Vegetarian",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mr Bigg's",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Nene Chicken",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Oldest McDonald's restaurant",
+"aliases": [
+"oldest operating McDonald's restaurant"
+],
+"links": 6
+},
+{
+"name": "Penn Station",
+"aliases": [
+"Penn Station East Coast Subs"
+],
+"links": 6
+},
+{
+"name": "Rostic's",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Roy Rogers Restaurants",
+"aliases": [
+"Roy Rogers",
+"Roy Rogers Franchise Company, L.L.C.",
+"Roy Rogers Franchise Company, LLC"
+],
+"links": 6
+},
+{
+"name": "Taco Cabana",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Wasabi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "WingStreet",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Baja Fresh",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Blimpie",
+"aliases": [
+"Blimpie International",
+"Blimpie International, Inc.",
+"Blimpie Restaurants",
+"Blimpie Subs & Salads"
+],
+"links": 5
+},
+{
+"name": "Blue Seal",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chicken Republic",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cousins Subs",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dixy Chicken",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Eggslut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Emack & Bolio's",
+"aliases": [],
+"links": 5
+},
+{
+"name": "First Kitchen",
+"aliases": [
+"First Kitchen Co.,Ltd"
+],
+"links": 5
+},
+{
+"name": "German Doner Kebab",
+"aliases": [
+"GDK"
+],
+"links": 5
+},
+{
+"name": "Graeter's",
+"aliases": [
+"Graeter's Ice Cream",
+"Graeters"
+],
+"links": 5
+},
+{
+"name": "Herfy",
+"aliases": [],
+"links": 5
+},
+{
+"name": "hot dog stand",
+"aliases": [
+"fast-food hot dog restaurant",
+"hot dog restaurant",
+"hotdog stand"
+],
+"links": 5
+},
+{
+"name": "Katsuya",
+"aliases": [
+"Ca-Tu-Ya CO.,LTD.",
+"KATSUYA CO.,LTD."
+],
+"links": 5
+},
+{
+"name": "kebab shop",
+"aliases": [
+"doner kebab restaurant",
+"kebab place",
+"kebab restaurant"
+],
+"links": 5
+},
+{
+"name": "Mak.by",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Marble Slab Creamery",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mie Gacoan",
+"aliases": [
+"Gacoan"
+],
+"links": 5
+},
+{
+"name": "Mr. Sub",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Olympic Park McDonald's",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pasibus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Pizzabakeren",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Portillo's Restaurants",
+"aliases": [
+"Portillo's",
+"Portillo's Hot Dogs"
+],
+"links": 5
+},
+{
+"name": "Pølsevogn",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Ringer Hut",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Rock N Roll McDonald's",
+"aliases": [
+"Rock N Roll McDonald's and Museum"
+],
+"links": 5
+},
+{
+"name": "Salad and Go",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sunset Boulevard",
+"aliases": [
+"Sunset"
+],
+"links": 5
+},
+{
+"name": "Taco John's",
+"aliases": [
+"Taco John's International"
+],
+"links": 5
+},
+{
+"name": "TacoTime",
+"aliases": [
+"Taco Time"
+],
+"links": 5
+},
+{
+"name": "TOGO'S",
+"aliases": [
+"Togo's Sandwiches"
+],
+"links": 5
+},
+{
+"name": "White Tower Hamburgers",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Winchell's Donuts",
+"aliases": [
+"Winchell's Donut House"
+],
+"links": 5
+}
+]

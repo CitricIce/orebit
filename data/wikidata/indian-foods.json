@@ -1,0 +1,1228 @@
+[
+{
+"name": "curry",
+"aliases": [
+"curries"
+],
+"links": 84
+},
+{
+"name": "naan",
+"aliases": [
+"butter naan",
+"garlic naan",
+"khamiri",
+"naan bread",
+"nan"
+],
+"links": 68
+},
+{
+"name": "fish and chips",
+"aliases": [
+"fish supper"
+],
+"links": 66
+},
+{
+"name": "chapati",
+"aliases": [
+"chapathi",
+"chapatti",
+"chappathi",
+"chappati",
+"phulka",
+"roshi",
+"safati",
+"shabaati"
+],
+"links": 63
+},
+{
+"name": "lassi",
+"aliases": [
+"Sweet Lassi"
+],
+"links": 58
+},
+{
+"name": "gulab jamun",
+"aliases": [
+"gulab jamuns",
+"gulabjamun"
+],
+"links": 56
+},
+{
+"name": "pakora",
+"aliases": [
+"Bhajiya",
+"Bhajji",
+"Fakkura",
+"Pakoda",
+"Pakodi",
+"Ponako"
+],
+"links": 56
+},
+{
+"name": "fish sauce",
+"aliases": [
+"yúlù"
+],
+"links": 54
+},
+{
+"name": "papad",
+"aliases": [
+"papadum",
+"papar",
+"pappadam",
+"poppadom",
+"poppadum"
+],
+"links": 51
+},
+{
+"name": "dosa",
+"aliases": [
+"dhosa",
+"dhosai",
+"Doosa",
+"dosai",
+"dosey",
+"dosha",
+"thosai",
+"tosai"
+],
+"links": 49
+},
+{
+"name": "chicken tikka masala",
+"aliases": [],
+"links": 48
+},
+{
+"name": "idli",
+"aliases": [
+"idly"
+],
+"links": 48
+},
+{
+"name": "kheer",
+"aliases": [
+"payasa"
+],
+"links": 47
+},
+{
+"name": "puri",
+"aliases": [
+"poori",
+"Poori bread",
+"Puri bread"
+],
+"links": 47
+},
+{
+"name": "Kulfi",
+"aliases": [
+"Cookbook:Kulfi",
+"kulfis",
+"qulfi"
+],
+"links": 46
+},
+{
+"name": "laddu",
+"aliases": [
+"laddoo"
+],
+"links": 45
+},
+{
+"name": "appam",
+"aliases": [
+"appa",
+"hopper",
+"kallappam",
+"palappam",
+"vellappam",
+"āppa"
+],
+"links": 42
+},
+{
+"name": "Panipuri",
+"aliases": [
+"golgappa",
+"pani ke batashe",
+"Pani Puri",
+"puchka"
+],
+"links": 42
+},
+{
+"name": "tandoori chicken",
+"aliases": [
+"tandoori",
+"tandoori murgh"
+],
+"links": 42
+},
+{
+"name": "vindaloo",
+"aliases": [
+"vindalho"
+],
+"links": 42
+},
+{
+"name": "korma",
+"aliases": [],
+"links": 41
+},
+{
+"name": "butter chicken",
+"aliases": [
+"murgh makhani"
+],
+"links": 40
+},
+{
+"name": "falooda",
+"aliases": [],
+"links": 40
+},
+{
+"name": "sambar",
+"aliases": [
+"sambaar",
+"sambhar"
+],
+"links": 38
+},
+{
+"name": "thali",
+"aliases": [],
+"links": 36
+},
+{
+"name": "rosogolla",
+"aliases": [
+"Rasagola",
+"rasgulla",
+"rasgullah",
+"roshogolla"
+],
+"links": 33
+},
+{
+"name": "barfi",
+"aliases": [
+"barfee",
+"borfee",
+"borfi",
+"burfee",
+"burfi"
+],
+"links": 31
+},
+{
+"name": "chana masala",
+"aliases": [
+"channa masala",
+"channay",
+"masala channa"
+],
+"links": 30
+},
+{
+"name": "Rasam",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Masala dosa",
+"aliases": [
+"masala dosae"
+],
+"links": 28
+},
+{
+"name": "Pav bhaji",
+"aliases": [
+"Bhajee Pao",
+"Bhajee Pav",
+"Bhaji Pav",
+"Pao Bhajee",
+"Pao Bhaji",
+"Pav Bhajee"
+],
+"links": 28
+},
+{
+"name": "Vada pav",
+"aliases": [
+"batata vada pav",
+"batata wada pav",
+"Bombay Burger",
+"Pao Vada",
+"Pao Wada",
+"Pav Vada",
+"Pav Wada",
+"Vada pao",
+"vadapav",
+"Wada pao",
+"Wada pav",
+"wadapav"
+],
+"links": 28
+},
+{
+"name": "Puttu",
+"aliases": [],
+"links": 27
+},
+{
+"name": "aloo gobi",
+"aliases": [],
+"links": 26
+},
+{
+"name": "bebinca",
+"aliases": [
+"bebinka",
+"bibik"
+],
+"links": 23
+},
+{
+"name": "bhatoora",
+"aliases": [
+"bhatura"
+],
+"links": 23
+},
+{
+"name": "Dal makhani",
+"aliases": [],
+"links": 23
+},
+{
+"name": "dhokla",
+"aliases": [],
+"links": 23
+},
+{
+"name": "gajar ka halwa",
+"aliases": [
+"gajar halwa",
+"gajjar halwa"
+],
+"links": 23
+},
+{
+"name": "Soan papdi",
+"aliases": [
+"Sohan papdi"
+],
+"links": 23
+},
+{
+"name": "Chole bhature",
+"aliases": [
+"Halwa poori",
+"Poori Halwa"
+],
+"links": 22
+},
+{
+"name": "Kulcha",
+"aliases": [],
+"links": 22
+},
+{
+"name": "coconut rice",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Kedgeree",
+"aliases": [
+"kedgaree",
+"khichuri",
+"kidgeree",
+"kitchari",
+"kitcherie",
+"kitchiri"
+],
+"links": 20
+},
+{
+"name": "medu vada",
+"aliases": [
+"Batuk",
+"black gram vada",
+"black gram vadai",
+"medu vadai",
+"uzhunnu vada"
+],
+"links": 20
+},
+{
+"name": "mulligatawny",
+"aliases": [
+"mulligatawny soup"
+],
+"links": 20
+},
+{
+"name": "Parotta",
+"aliases": [
+"Barotta"
+],
+"links": 20
+},
+{
+"name": "Achappam",
+"aliases": [
+"honeycomb cookie",
+"rose cookie"
+],
+"links": 19
+},
+{
+"name": "Batata vada",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Bonda",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Pongal",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Puran Poli",
+"aliases": [
+"Bobbattlu",
+"Boli",
+"Holige",
+"Obbattu",
+"Poley",
+"poli",
+"Puran puri",
+"Shenga Holige"
+],
+"links": 18
+},
+{
+"name": "aloo paratha",
+"aliases": [
+"alu paratha"
+],
+"links": 17
+},
+{
+"name": "Avial",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Curd rice",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Dopiaza",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kadhi",
+"aliases": [
+"Curry",
+"Kadi",
+"Karhi",
+"Khaddi"
+],
+"links": 17
+},
+{
+"name": "Khaja",
+"aliases": [],
+"links": 17
+},
+{
+"name": "sarson da saag",
+"aliases": [
+"sarson ka Saag"
+],
+"links": 17
+},
+{
+"name": "alu chat",
+"aliases": [
+"aloo chaat",
+"aloo chat",
+"alu chaat"
+],
+"links": 16
+},
+{
+"name": "Boondi",
+"aliases": [
+"Bonde"
+],
+"links": 16
+},
+{
+"name": "gujia",
+"aliases": [
+"gujhia",
+"purukiya"
+],
+"links": 16
+},
+{
+"name": "kaju katli",
+"aliases": [],
+"links": 15
+},
+{
+"name": "nankhatai",
+"aliases": [
+"naan khatai",
+"nan khatai",
+"nuncatie"
+],
+"links": 15
+},
+{
+"name": "sandesh",
+"aliases": [
+"Bengali cookies",
+"Bengali Sandesh"
+],
+"links": 15
+},
+{
+"name": "Chicken 65",
+"aliases": [],
+"links": 14
+},
+{
+"name": "baingan bartha",
+"aliases": [],
+"links": 13
+},
+{
+"name": "balchão",
+"aliases": [],
+"links": 13
+},
+{
+"name": "basundi",
+"aliases": [],
+"links": 13
+},
+{
+"name": "bhakri",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mattar paneer",
+"aliases": [
+"Matar Paneer",
+"muttar paneer"
+],
+"links": 13
+},
+{
+"name": "Murukku",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Nasi kandar",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Pathiri",
+"aliases": [],
+"links": 13
+},
+{
+"name": "aloo mutter",
+"aliases": [
+"aloo mattar"
+],
+"links": 12
+},
+{
+"name": "balushahi",
+"aliases": [
+"Badusha"
+],
+"links": 12
+},
+{
+"name": "egg bhurji",
+"aliases": [],
+"links": 12
+},
+{
+"name": "zarda",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Akuri",
+"aliases": [
+"khaghina"
+],
+"links": 11
+},
+{
+"name": "Anarsa",
+"aliases": [],
+"links": 11
+},
+{
+"name": "chicken lollipop",
+"aliases": [],
+"links": 11
+},
+{
+"name": "curry goat",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dabeli",
+"aliases": [
+"Kutchi dabeli",
+"Kutchi double rotii"
+],
+"links": 11
+},
+{
+"name": "mutton curry",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Neer dosa",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Paneer makhani",
+"aliases": [
+"Paneer butter masala"
+],
+"links": 11
+},
+{
+"name": "Pulissery",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Banana leaf rice",
+"aliases": [],
+"links": 10
+},
+{
+"name": "chakli",
+"aliases": [
+"chakali",
+"chakkuli",
+"chakralu",
+"chakri",
+"dantkali",
+"jantikalu"
+],
+"links": 10
+},
+{
+"name": "Dal dhokli",
+"aliases": [],
+"links": 10
+},
+{
+"name": "kati roll",
+"aliases": [
+"kathi roll"
+],
+"links": 10
+},
+{
+"name": "Kori Rotti",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Misal Pav",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shemai",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Thepla",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Undhiyu",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Akki rotti",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Chilli chicken",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Kachumber",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Kalathappam",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Kanji",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Kichadi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Malabar matthi curry",
+"aliases": [
+"fish curry"
+],
+"links": 9
+},
+{
+"name": "paniyaram",
+"aliases": [
+"Kuzhi paniyaram"
+],
+"links": 9
+},
+{
+"name": "Pasembur",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sanna",
+"aliases": [],
+"links": 9
+},
+{
+"name": "gajak",
+"aliases": [
+"gachak"
+],
+"links": 8
+},
+{
+"name": "Injipuli",
+"aliases": [
+"Injikkari",
+"Puli inji"
+],
+"links": 8
+},
+{
+"name": "Koottukari",
+"aliases": [
+"Kootu Curry)"
+],
+"links": 8
+},
+{
+"name": "Kosambari",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Manchow soup",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mathura Peda",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Osmania Biscuit",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Chandrakala",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Dahi baigana",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Indian omelette",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Jaynagarer Moa",
+"aliases": [
+"Jaynagarer Moya",
+"Joynagarer Moa",
+"Joynagarer Moya",
+"Moa",
+"Moya"
+],
+"links": 7
+},
+{
+"name": "Kuku Paka",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Magaj",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Phirni",
+"aliases": [
+"firni",
+"Phirin"
+],
+"links": 7
+},
+{
+"name": "Pinni",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pootharekulu",
+"aliases": [
+"paper sweet"
+],
+"links": 7
+},
+{
+"name": "santula",
+"aliases": [
+"bhaja santula",
+"sijha santula"
+],
+"links": 7
+},
+{
+"name": "Sutarfeni",
+"aliases": [
+"fini"
+],
+"links": 7
+},
+{
+"name": "Tehri",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Theeyal",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Trivandrum Boli",
+"aliases": [
+"Boli"
+],
+"links": 7
+},
+{
+"name": "Tunde ke kabab",
+"aliases": [
+"Tunday kabab"
+],
+"links": 7
+},
+{
+"name": "Vangibath",
+"aliases": [
+"Vangi bath",
+"Vangi Bhat"
+],
+"links": 7
+},
+{
+"name": "Aam papad",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bombay potato",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chitranna",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dhansak",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Keema curry",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kerala beef fry",
+"aliases": [
+"Beef Ularthiyathu"
+],
+"links": 6
+},
+{
+"name": "Kombdi vade",
+"aliases": [
+"Malvani meal"
+],
+"links": 6
+},
+{
+"name": "Madras curry",
+"aliases": [
+"Madras sauce"
+],
+"links": 6
+},
+{
+"name": "Naan qalia",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pholourie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pundi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "tomato omelette",
+"aliases": [],
+"links": 6
+},
+{
+"name": "vegetable sandwich",
+"aliases": [
+"veggie sandwich"
+],
+"links": 6
+},
+{
+"name": "Chakna",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Chhilka Roti",
+"aliases": [
+"Chhilka pitha",
+"Chilka roti"
+],
+"links": 5
+},
+{
+"name": "Chicken Chettinad",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dahibara Aludam",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dalcha",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dalpuri",
+"aliases": [
+"Dal poori",
+"Dal puri"
+],
+"links": 5
+},
+{
+"name": "Gobhi paratha",
+"aliases": [
+"Gobi paratha"
+],
+"links": 5
+},
+{
+"name": "Gulgula",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jolada Rotti",
+"aliases": [
+"Jawari Roti",
+"Jonna rotte",
+"Jowar roti",
+"Jōḷada roṭṭi"
+],
+"links": 5
+},
+{
+"name": "Kanika",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Laba congee",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Lonavala chikki",
+"aliases": [
+"Maganlal chikki"
+],
+"links": 5
+},
+{
+"name": "Mahim halwa",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mangalorean Chicken Sukka",
+"aliases": [
+"Kori Sukka"
+],
+"links": 5
+},
+{
+"name": "Molagoottal",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Poornalu",
+"aliases": [
+"Boorelu"
+],
+"links": 5
+},
+{
+"name": "Shab Deg",
+"aliases": [
+"Shab daig",
+"Shabdeg"
+],
+"links": 5
+},
+{
+"name": "Tandoori roti",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Unnakai",
+"aliases": [
+"Kaayada",
+"Unnakkaay"
+],
+"links": 5
+},
+{
+"name": "Alu Potala Rasa",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Champaran meat",
+"aliases": [],
+"links": 4
+},
+{
+"name": "chicken biryani",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Doodhpak",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gavvalu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gushtab",
+"aliases": [
+"Goshtaba",
+"Goshtabe"
+],
+"links": 4
+},
+{
+"name": "Mirchi ka salan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "moong dal halwa",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pashti",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pazham Pradhaman",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rava idli",
+"aliases": [
+"Sooji idli",
+"Suji idli"
+],
+"links": 4
+},
+{
+"name": "saag paneer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sukhdi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ashoka Halwa",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Buttermilk curry",
+"aliases": [
+"Mor Kuzhambu",
+"Moru curry"
+],
+"links": 3
+},
+{
+"name": "dal badam chakki",
+"aliases": [
+"dal suphal chakki"
+],
+"links": 3
+},
+{
+"name": "Eggs Kejriwal",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Hyderabadi Marag",
+"aliases": [],
+"links": 3
+},
+{
+"name": "kaju barfi",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Khichra",
+"aliases": [
+"Khichda"
+],
+"links": 3
+},
+{
+"name": "Khurchan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Laal maans",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Lia",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Patoleo",
+"aliases": [
+"Patoli"
+],
+"links": 3
+},
+{
+"name": "tungrymbai",
+"aliases": [
+"tung rymbai",
+"tung rymbái"
+],
+"links": 3
+}
+]

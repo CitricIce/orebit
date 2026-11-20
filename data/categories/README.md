@@ -36,13 +36,14 @@ Azawakh
 
 - `=== <id>` starts a category. The id must be unique and URL safe.
 - Header lines (`title`, `prompt`, `starcore`) come before the first `---`.
-- `--- 1` to `--- 5` start a tier. Every answer below it lands in that tier:
-  1 = Stone (the obvious ones), 2 = Iron, 3 = Cobalt, 4 = Gold, 5 = Crystal.
-  Sort by how likely a player is to think of the answer in 45 seconds, not
-  by how common the word is.
+- `--- 1` to `--- 5` start a tier. `--- 1` is exactly the Stone tier: the
+  answers almost everyone thinks of. The other headings only set the order.
+  The build ranks every non-Stone answer (hand tier first, then how common the
+  name is) and splits them 15% Iron, 20% Cobalt, 25% Gold, 40% Crystal, so
+  Crystal, the deep cuts, is always the biggest tier.
 - `starcore` names the one legendary answer (a name or any alias). It moves
   to the Starcore tier wherever it is listed. Leave it out and the build picks
-  a rare but findable answer.
+  the most findable Crystal answer.
 - Each answer line: the display name first, then aliases after `|`. Aliases
   count as the same answer, so variants (Henry IV Part 1 and Part 2) should be
   aliases, not separate lines.
