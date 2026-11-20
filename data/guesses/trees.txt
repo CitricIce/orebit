@@ -1,0 +1,60 @@
+oak
+oak tree
+pine tree
+maple
+palm tree
+birch
+willow
+apple tree
+christmas tree
+fir tree => Christmas tree
+fir => Christmas tree
+elm tree => Elm
+ash tree => Ash
+yew tree => Yew
+fig => Fig tree
+cedar
+redwoods
+sequioa => Sequoia
+eucalyptis => Eucalyptus
+gum tree => Eucalyptus
+cyprus => Cypress
+cypress tree
+magnolia
+lime tree => Linden
+basswood => Linden
+plane tree => Sycamore
+mountain ash => Rowan
+rowan
+weeping willow
+cherry blossom
+sakura => Cherry blossom
+douglas fir
+monkey puzzle tree
+baobab
+banyan tree
+coconut palm
+date palm
+oil palm
+mango tree
+peach tree
+avocado tree
+lemon tree
+orange tree
+bonsai tree
+joshua tree
+dragon blood tree => Dragon tree
+bristlecone pine
+quaking aspen
+ginko => Ginkgo
+jacaranda
+mangroves
+spruce
+larch
+hemlock
+holly
+hawthorne => Hawthorn
+beach tree => Beech
+sweet gum => Sweetgum
+tulip tree
+crab apple => Crabapple

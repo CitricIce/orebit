@@ -153,6 +153,7 @@ BANNED = {
     "holidays": re.compile(r"^public holiday$|\d{4}", re.I),
     "mexican-foods": re.compile(r"^(wrap|calavera|sugar skull)$", re.I),
     "american-foods": re.compile(r"^(mars|extra)$", re.I),
+    "composers": re.compile(r"^(elton john)$", re.I),
     "salads": re.compile(
         r"^(ajvar|relish|pickle relish|onion jam|fried cauliflower|rhyming recipe|baba ghanoush|vinegret)$", re.I
     ),

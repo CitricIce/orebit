@@ -112,7 +112,18 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     ],
     "dinosaurs": [(taxa("Q430", "Q34740") + " ?item wdt:P31 wd:Q23038290 .", 2)],
     "painters": [(people("Q1028181"), 45)],
-    "composers": [(people("Q36834") + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1960)", 35)],
+    # Composers, minus people mainly known for pop, rock or other fields:
+    # singer-songwriters, rappers, actors, guitarists, comedians, record
+    # producers, footballers and monarchs.
+    "composers": [
+        (
+            people("Q36834")
+            + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1960)"
+            + " FILTER NOT EXISTS { ?item wdt:P106 ?other . VALUES ?other {"
+            + " wd:Q488205 wd:Q2252262 wd:Q33999 wd:Q855091 wd:Q245068 wd:Q183945 wd:Q116 wd:Q937857 } }",
+            35,
+        )
+    ],
     # Added for the second wave of categories.
     "desserts": [(tree("Q182940"), 3)],
     "fruits": [(tree("Q3314483"), 8)],

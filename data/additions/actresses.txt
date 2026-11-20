@@ -1,0 +1,783 @@
+# Alias additions for existing answers
+--- 2
+Scarlett Johansson | scarjo | scar jo | scarlett johannson | scarlett johanson | scarlet johansson | scarlett
+Jennifer Aniston | jennifer anniston | jen aniston | jennifer anistan
+Natalie Portman | natalie portmen | natalie portmann
+Margot Robbie | margo robbie | margot robbi | margot robby
+Jennifer Lopez | j lo | j.lo | jenny from the block | jennifer lopes
+Lupita Nyong'o | lupita | lupita nyongo
+Meryl Streep | merryl streep | meryl streap
+Angelina Jolie | angelina jolie pitt | angelina jolee | angelina
+Sandra Bullock | sandra bulloc
+Nicole Kidman | nicole kidmen
+Anne Hathaway | ann hathaway | anne hatheway
+Reese Witherspoon | reese witherspon | reese witherspoone
+Gwyneth Paltrow | gwenyth paltrow | gwyneth paltro | gweneth paltrow
+Keira Knightley | kiera knightley | keira knightly | kiera knightly
+Charlize Theron | charlise theron | charleze theron
+Cate Blanchett | kate blanchett | cate blanchet | blanchett
+Julia Roberts | julia robert
+Jennifer Lawrence | jlaw | j law | jennifer lawerence
+Audrey Hepburn | audrey hepbern
+Marilyn Monroe | marilyn monroe | marylin monroe | marilyn munroe | marilyn manroe
+Elizabeth Taylor | liz taylor
+Zendaya | zendaya coleman | zendeya | zendya
+Kate Winslet | kate winslett | kate winselt
+Halle Berry | haley berry | hallie berry | halle barry
+Renée Zellweger | renee zellweger | renee zelweger | zellweger
+Zoe Saldaña | zoe saldana | zoe zaldana
+Chloë Grace Moretz | chloe grace moretz | chloe moretz
+Jessica Chastain | chastain | jessica chastaine
+Rachel McAdams | mcadams | rachel mcadam
+Michelle Pfeiffer | pfeiffer | michelle pfiffer | michelle pfeifer
+Susan Sarandon | sarandon
+Salma Hayek | hayek | selma hayek | salma hayak
+Sofia Vergara | vergara | sofia vergera | sophia vergara
+Eva Longoria | longoria
+Amy Poehler | poehler | amy pohler
+Kristen Wiig | wiig | kristen wig | kristin wiig
+Melissa McCarthy | melissa mccarthey | melissa mcarthy
+Mindy Kaling | kaling
+Tilda Swinton | swinton
+Helen Mirren | mirren | helen miren
+Judi Dench | dench | judy dench
+Winona Ryder | winona | wynona ryder
+Drew Barrymore | barrymore
+Lindsay Lohan | lohan | lindsey lohan | lilo
+Kirsten Dunst | dunst | kirsten dunts
+Marion Cotillard | cotillard
+Juliette Binoche | binoche
+Isabelle Huppert | huppert
+Catherine Deneuve | deneuve
+Monica Bellucci | bellucci | monica belucci
+Gina Lollobrigida | lollobrigida
+Brigitte Bardot | bardot | bridget bardot
+Sophia Loren | sofia loren
+Greta Garbo | garbo
+Marlene Dietrich | dietrich
+Ingrid Bergman | ingrid bergmann
+Deepika Padukone | deepika | padukone
+Katrina Kaif | katrina | kaif
+Aishwarya Rai | aishwarya rai bachchan | aishwarya | aishwariya rai | ash rai
+Priyanka Chopra | priyanka chopra jonas | priyanka
+Madhuri Dixit | madhuri | madhuri dixit nene
+Rekhā | rekha
+Anushka Sharma | anushka
+Thandiwe Newton | thandie newton
+Meghan, Duchess of Sussex | meghan markle | meghan duchess of sussex
+Anya Taylor-Joy | anya taylor joy | anya taylor-joy | anya
+Saoirse Ronan | saorise ronan | sersha ronan | saoirse
+Florence Pugh | florence pew
+Sydney Sweeney | sidney sweeney | sydney sweeny
+Millie Bobby Brown | millie bobbie brown | millie brown
+Jenna Ortega | jenna ortiga
+Gal Gadot | gal gadott
+Penélope Cruz | penelope cruise | penelope cruze
+Kaley Cuoco | kaley cuoco | kaley cuocco | kaley cuco
+Courteney Cox | courtney cox | courteney cox arquette
+Lisa Kudrow | lisa kudro
+Michelle Yeoh | michelle yeo
+Ana de Armas | ana de armes
+Amanda Seyfried | seyfried | amanda seyfreid | amanda seyfred
+Mila Kunis | kunis | mila kunas
+Shirley Temple | shirley temple black
+Jamie Lee Curtis | jamie lee curtiss
+Catherine Zeta-Jones | catherine zeta jones | zeta jones | catherine zeta-jones
+Elizabeth Olsen | lizzie olsen
+Olivia Newton-John | olivia newton john
+Zoe Kravitz | zoë kravitz
+Whoopi Goldberg | whoopie goldberg | whoopi
+Uma Thurman | uma
+Sigourney Weaver | sigorney weaver | sigourney
+Glenn Close | glen close
+Jodie Foster | jody foster
+Kathy Bates | cathy bates
+Emilia Clarke | emilia clark
+Sophie Turner | sophie turner
+Hailee Steinfeld | haley steinfeld | hailey steinfeld
+Olivia Colman | olivia coleman
+Barbra Streisand | barbara streisand | streisand
+Lucille Ball | lucy ball
+Viola Davis | viola
+Taraji P. Henson | taraji henson | taraji
+Gugu Mbatha-Raw | gugu mbatha raw
+Sarah Jessica Parker | sjp
+Helena Bonham Carter | helena bonham-carter | bonham carter
+Julianne Moore | julianne moore
+Vivien Leigh | vivian leigh
+
+# New answers
+--- 2
+Lady Gaga | gaga | stefani germanotta
+Julia Louis-Dreyfus | julia louis dreyfus | jld | julia louis-dreyfuss
+Kristen Bell | kristin bell
+Maya Rudolph
+Kate McKinnon | kate mckinnon
+Emma Roberts
+Dakota Fanning
+Miley Cyrus | miley | hannah montana
+Demi Lovato
+Jennifer Grey
+Molly Ringwald
+Jane Lynch
+Sarah Paulson
+Sandra Oh
+Ellen Pompeo
+Kim Cattrall
+Cynthia Nixon
+Kristin Davis
+Amanda Bynes
+Hayden Panettiere
+Alicia Silverstone
+Rosario Dawson
+Jessica Lange
+Lea Michele
+Naya Rivera
+Leighton Meester
+Rose Byrne
+Mia Goth
+Jenna Fischer
+Aubrey Plaza
+Amy Schumer
+Tiffany Haddish
+Zooey Deschanel | zoey deschanel | zooey deschannel
+Kat Dennings
+Mayim Bialik
+Debra Messing
+Mariska Hargitay
+Julia Garner
+Jodie Comer
+Phoebe Waller-Bridge | phoebe waller bridge
+Sadie Sink
+Natalia Dyer
+Maya Hawke
+Alexa Demie
+Maude Apatow
+Rachel Zegler
+Ayo Edebiri
+Sabrina Carpenter
+Olivia Rodrigo
+Jennifer Tilly
+Carol Burnett
+Gilda Radner
+Mary-Kate Olsen | mary kate olsen
+Ashley Olsen
+Raven-Symoné | raven symone | raven-symone | raven
+Keke Palmer
+Tracee Ellis Ross
+Lauren Graham
+Sofia Carson
+Kerry Condon
+Jessie Buckley
+Hayley Atwell
+Rebecca Ferguson
+Pom Klementieff
+Letitia Wright
+Danai Gurira
+Elizabeth Debicki
+Imelda Staunton
+Hannah Waddingham
+Kate Mara
+--- 3
+Alia Bhatt | alia
+Kareena Kapoor | kareena | bebo | kareena kapoor khan
+Kajol | kajol devgan
+Madhubala
+Karisma Kapoor | karishma kapoor
+Kangana Ranaut | kangana
+Vidya Balan
+Tabu
+Nayanthara
+Samantha Ruth Prabhu | samantha prabhu
+Rashmika Mandanna | rashmika
+Song Hye-kyo | song hye kyo
+Jun Ji-hyun | jun ji hyun | gianna jun
+Maggie Cheung
+Gong Li
+Rinko Kikuchi
+Goldie Hawn
+Clara Bow
+Carole Lombard
+Dorothy Dandridge
+Lena Horne
+Cicely Tyson
+Pam Grier
+Maureen O'Hara | maureen ohara
+Veronica Lake
+Betty Grable
+Esther Williams
+Tippi Hedren
+Julie Christie
+Ann-Margret | ann margret | ann margaret
+Bea Arthur
+Rue McClanahan
+Estelle Getty
+Lynda Carter | linda carter
+Kim Kardashian
+Lily Tomlin
+Fran Drescher
+Jane Seymour
+Mary-Louise Parker | mary louise parker
+Laura Linney
+Minnie Driver
+Juliette Lewis
+Heather Graham
+Teri Garr
+Lisa Bonet
+Vivica A. Fox | vivica fox
+Nia Long
+Calista Flockhart
+Natasha Lyonne
+Thora Birch
+Tara Reid
+Christina Hendricks
+January Jones
+Anna Paquin
+Emily Deschanel
+Kate Bosworth
+Jordana Brewster
+Gina Rodriguez
+Eiza González | eiza gonzalez
+Melissa Barrera
+Xochitl Gomez
+Stephanie Beatriz
+Quinta Brunson
+Jean Smart
+Kathryn Hahn
+Jennifer Hudson
+Idina Menzel
+Kristin Chenoweth
+Audra McDonald
+Bernadette Peters
+Ariana DeBose
+Janelle Monáe | janelle monae
+Mary J. Blige | mary j blige
+Brandy
+Vanessa Williams
+Beyoncé | beyonce
+Shirley MacLaine
+Elle Fanning
+Hilary Duff
+Kiernan Shipka
+Emma Myers
+Bella Ramsey
+Gwendoline Christie | gwendolyn christie
+Rose Leslie
+Nathalie Emmanuel
+Carice van Houten
+Jennette McCurdy
+Selena Gomez | selena gomes
+Ellie Kemper
+Rashida Jones
+Leslie Jones
+Ali Wong
+Wanda Sykes
+Sarah Silverman
+Margaret Cho
+Chelsea Handler
+Kate Walsh
+Patricia Heaton
+Candace Cameron Bure | candace cameron
+Jodie Sweetin
+Lori Loughlin
+Shelley Long
+Rhea Perlman
+Roseanne Barr | roseanne
+Jane Krakowski
+Megan Mullally
+Julie Bowen
+Sarah Hyland
+Ariel Winter
+Sophia Lillis
+Lily Rose Depp | lily-rose depp
+Dafne Keen
+Mckenna Grace | mckenna grace
+Isabela Merced | isabela moner
+Rose McGowan
+Holly Marie Combs
+Alyssa Milano
+Shay Mitchell
+Lucy Hale
+Lili Reinhart
+Camila Mendes
+Mischa Barton
+Rachel Bilson
+Nikki Reed
+Ashley Greene
+Lauren Cohan
+Evanna Lynch
+Gemma Chan
+Simone Ashley
+Phoebe Dynevor
+Nicola Coughlan
+Meghann Fahy
+Haley Lu Richardson
+Kelly Reilly
+Melanie Lynskey
+Taylor Schilling
+Uzo Aduba
+Danielle Brooks
+Sheryl Lee Ralph
+Annie Murphy
+Juno Temple
+Sarah Snook
+Emma Corrin
+Emma D'Arcy | emma darcy
+Olivia Cooke
+Milly Alcock
+Rhea Seehorn
+Stana Katic
+Julianna Margulies
+Pauley Perrette
+Ellen Burstyn
+Jennifer Beals
+Ally Sheedy
+Phoebe Cates
+Debra Winger
+Kelly McGillis
+Lea Thompson
+Kathleen Quinlan
+Dianne Wiest
+Mary Steenburgen
+Joan Cusack
+Emily Watson
+Kristin Scott Thomas
+Kelly Macdonald
+Julie Walters
+Brenda Blethyn
+Joanna Lumley
+Jennifer Saunders
+Dawn French
+Miranda Hart
+Catherine Tate
+Billie Piper
+Jodie Whittaker
+Michelle Dockery
+Lily Cole
+Ruth Negga
+Caitríona Balfe | caitriona balfe
+Mia Wasikowska
+Teresa Palmer
+Abbie Cornish
+Emily Browning
+Miranda Otto
+Jacki Weaver
+Judy Davis
+Samara Weaving
+Melissa George
+Radha Mitchell
+Phoebe Tonkin
+Tatiana Maslany
+Kristin Kreuk
+Sarah Polley
+Emily VanCamp | emily van camp
+Malin Akerman
+Natasha Henstridge
+Jessica Paré | jessica pare
+Shannon Tweed
+Mélanie Laurent | melanie laurent
+Emmanuelle Béart | emmanuelle beart
+Adèle Exarchopoulos | adele exarchopoulos
+Bérénice Bejo | berenice bejo
+Clémence Poésy | clemence poesy
+Laetitia Casta
+Anna Karina
+Jean Seberg
+Fanny Ardant
+Asia Argento
+Claudia Cardinale
+Anna Magnani
+Monica Vitti
+Alida Valli
+Silvana Mangano
+Virna Lisi
+Elsa Pataky
+Paz Vega
+Úrsula Corberó | ursula corbero
+Carmen Maura
+Rossy de Palma
+Maribel Verdú | maribel verdu
+Ester Expósito | ester exposito
+Dolores del Río | dolores del rio
+María Félix | maria felix
+Yalitza Aparicio
+Kate del Castillo
+Silvia Pinal
+Adriana Barraza
+Sônia Braga | sonia braga
+Alice Braga
+Fernanda Montenegro
+Fernanda Torres
+Morena Baccarin
+Bruna Marquezine
+Rosie Perez
+Diane Guerrero
+--- 4
+Nargis
+Meena Kumari
+Waheeda Rehman
+Sharmila Tagore
+Zeenat Aman
+Jaya Bachchan
+Smita Patil
+Shabana Azmi
+Juhi Chawla
+Raveena Tandon
+Urmila Matondkar
+Manisha Koirala
+Sonam Kapoor
+Sonakshi Sinha
+Jacqueline Fernandez
+Parineeti Chopra
+Kriti Sanon
+Kiara Advani
+Janhvi Kapoor
+Sara Ali Khan
+Ananya Panday | ananya pandey
+Taapsee Pannu
+Bhumi Pednekar
+Disha Patani
+Sunny Leone
+Genelia D'Souza | genelia dsouza | genelia deshmukh
+Ileana D'Cruz | ileana dcruz
+Dimple Kapadia
+Mumtaz
+Nutan
+Vyjayanthimala
+Divya Bharti
+Twinkle Khanna
+Konkona Sen Sharma
+Radhika Apte
+Tamannaah Bhatia | tamanna bhatia | tamannaah
+Mrunal Thakur
+Trisha Krishnan | trisha
+Anushka Shetty
+Sai Pallavi
+Kajal Aggarwal
+Keerthy Suresh
+Pooja Hegde
+Shruti Haasan | shruti hassan
+Jyothika
+Soundarya
+Ramya Krishnan
+Manju Warrier
+Nithya Menen
+Silk Smitha
+Mahira Khan
+Saba Qamar
+Hania Aamir
+Zhou Xun
+Zhao Wei | vicki zhao
+Yang Mi
+Angelababy
+Dilraba Dilmurat | dilraba
+Zhao Liying
+Tang Wei
+Ni Ni
+Jing Tian
+Shu Qi
+Anita Mui
+Joey Wong
+Brigitte Lin
+Carina Lau
+Cecilia Cheung
+Faye Wong
+Joan Chen
+Bai Ling
+Ruby Lin
+Barbie Hsu
+Charlene Choi
+Kim Tae-ri | kim tae ri
+Bae Suzy | suzy bae
+IU | lee ji-eun | lee ji eun
+Park Shin-hye | park shin hye
+Kim Go-eun | kim go eun
+Han So-hee | han so hee
+Son Ye-jin | son ye jin
+Park Min-young | park min young
+Shin Min-a | shin min a
+Jung Ho-yeon | jung ho yeon | hoyeon jung
+Youn Yuh-jung | youn yuh jung
+Kim Min-hee | kim min hee
+Bae Doona | doona bae
+Jeon Do-yeon | jeon do yeon
+Han Hyo-joo | han hyo joo
+Kim Ji-won | kim ji won
+Kim Yoo-jung | kim yoo jung
+Lee Young-ae | lee young ae
+Ha Ji-won | ha ji won
+Setsuko Hara
+Machiko Kyō | machiko kyo
+Ryoko Hirosue
+Yū Aoi | yu aoi
+Haruka Ayase
+Satomi Ishihara
+Masami Nagasawa
+Yui Aragaki
+Suzu Hirose
+Kanna Hashimoto
+Nana Komatsu
+Chiaki Kuriyama
+Anna Sawai
+Meiko Kaji
+Stephanie Hsu
+Hande Erçel | hande ercel
+Beren Saat
+Tuba Büyüküstün | tuba buyukustun
+Türkan Şoray | turkan soray
+Faten Hamama
+Soad Hosny
+Yousra
+Golshifteh Farahani
+Leila Hatami
+Ayelet Zurer
+Hanna Schygulla
+Sandra Hüller | sandra huller
+Nina Hoss
+Franka Potente
+Martina Gedeck
+Bibi Andersson
+Harriet Andersson
+Noomi Rapace
+Connie Nielsen
+Sidse Babett Knudsen
+Sylvia Kristel
+Halina Reijn
+Lyubov Orlova
+Pola Negri
+Joanna Kulig
+Irene Papas
+Genevieve Nnaji
+Funke Akindele
+Omotola Jalade Ekeinde | omotola
+Rita Dominic
+Jackie Appiah
+Kathryn Bernardo
+Nora Aunor
+Vilma Santos
+Sharon Cuneta
+Liza Soberano
+Anne Curtis
+Marian Rivera
+Davika Hoorne
+Dian Sastrowardoyo
+Maite Perroni
+Anahí | anahi
+Dulce María | dulce maria
+Angelique Boyer
+Adela Noriega
+Verónica Castro | veronica castro
+Lucero
+Ludwika Paleta
+Martha Higareda
+Ana de la Reguera
+Cecilia Roth
+Martina Stoessel | tini
+María Conchita Alonso | maria conchita alonso
+Itziar Ituño | itziar ituno
+Blanca Suárez | blanca suarez
+Belén Rueda | belen rueda
+Ángela Molina | angela molina
+Adriana Ugarte
+Roselyn Sánchez | roselyn sanchez
+Justina Machado
+Dascha Polanco
+Alba Rohrwacher
+Valeria Golino
+Stefania Sandrelli
+Maria Grazia Cucinotta
+Sabrina Ferilli
+Emmanuelle Riva
+Sandrine Bonnaire
+Virginie Efira
+Leïla Bekhti | leila bekhti
+Joan Plowright
+Peggy Ashcroft
+Honor Blackman
+Celia Imrie
+Penelope Wilton
+Miriam Margolyes
+Lesley Manville
+Keeley Hawes
+Suranne Jones
+Joanne Froggatt
+Ruth Wilson
+Sophie Okonedo
+Michaela Coel
+Lashana Lynch
+Emma Mackey
+Aimee Lou Wood
+Gemma Whelan
+Indira Varma
+Michelle Fairley
+Freema Agyeman
+Sheridan Smith
+Barbara Windsor
+Victoria Wood
+Felicity Kendal
+Fionnula Flanagan
+Brenda Fricker
+Sarah Bolger
+Aisling Bea
+Sharon Horgan
+Yvonne Strahovski
+Eliza Taylor
+Sarah Gadon
+Emily Hampshire
+Megan Follows
+Mia Kirshner
+Rachelle Lefevre
+Myrna Loy
+Gene Tierney
+Rosalind Russell
+Donna Reed
+Thelma Ritter
+Agnes Moorehead
+Louise Brooks
+Theda Bara
+Fay Wray
+Kathryn Grayson
+Dorothy Lamour
+Ethel Merman
+Carol Channing
+Pearl Bailey
+Hayley Mills
+Patty Duke
+Margaret O'Brien | margaret obrien
+Tatum O'Neal | tatum oneal
+Linda Blair
+Heather O'Rourke | heather orourke
+Mara Wilson
+Anna Chlumsky
+Quvenzhané Wallis | quvenzhane wallis
+Brooklynn Prince
+Mackenzie Foy
+Danielle Fishel
+Melissa Joan Hart
+Soleil Moon Frye
+Lacey Chabert
+Kyla Pratt
+Tia Mowry
+Tamera Mowry
+Tatyana Ali
+Karyn Parsons
+Kim Fields
+Tisha Campbell
+Tiffani Thiessen | tiffani amber thiessen
+Elizabeth Berkley
+Emily Osment
+Bridgit Mendler
+Peyton List
+Skai Jackson
+Olivia Holt
+Laura Marano
+Rowan Blanchard
+China Anne McClain
+Alyson Stoner
+Yara Shahidi
+Elizabeth Montgomery
+Barbara Eden
+Cloris Leachman
+Valerie Harper
+Marlo Thomas
+Madeline Kahn
+Lindsay Wagner
+Jaclyn Smith
+Kate Jackson
+Cheryl Ladd
+Suzanne Somers
+Loni Anderson
+Linda Evans
+Victoria Principal
+Morgan Fairchild
+Heather Locklear
+Tori Spelling
+Jennie Garth
+Yasmine Bleeth
+Laurie Metcalf
+Jane Leeves
+Kirsten Vangsness
+AJ Cook | a.j. cook
+Melissa McBride
+Sarah Wayne Callies
+Chandra Wilson
+Jessica Capshaw
+Sara Ramirez
+Camilla Luddington
+Caterina Scorsone
+Kelly Rutherford
+Hilarie Burton
+Bethany Joy Lenz
+Candice King | candice accola
+Kat Graham
+Troian Bellisario
+Ashley Benson
+Sasha Pieterse
+Madelaine Petsch
+Amber Riley
+Heather Morris
+Priah Ferguson
+Cara Buono
+Barbie Ferreira
+Beth Behrs
+Hannah Simone
+Melissa Fumero
+Chelsea Peretti
+Melissa Rauch
+Angela Kinsey
+Retta
+Janelle James
+Cecily Strong
+Aidy Bryant
+Vanessa Bayer
+Molly Shannon
+Cheri Oteri
+Ana Gasteyer
+Rachel Dratch
+Jane Curtin
+Kristen Schaal
+Tig Notaro
+Ilana Glazer
+Abbi Jacobson
+Casey Wilson
+Natasha Rothwell
+Hannah Einbinder
+Rachel Sennott
+Rachel Brosnahan
+Kaitlyn Dever
+Beanie Feldstein
+Alison Brie
+Gillian Jacobs
+Yvette Nicole Brown
+Busy Philipps
+Cristin Milioti
+Anna Gunn
+Kathryn Newton
+Taylor Russell
+Jessica Henwick
+Kiki Layne
+Teyonah Parris
+Gabourey Sidibe
+Mo'Nique | monique
+Regina Hall
+Sanaa Lathan
+Stacey Dash
+Mena Suvari
+Shannon Elizabeth
+Rachael Leigh Cook
+Kristy Swanson
+Neve Campbell
+Tea Leoni | téa leoni
+Ione Skye
+Patti LuPone | patti lupone
+Sutton Foster
+Renée Elise Goldsberry | renee elise goldsberry
+Jenna Dewan
+Gina Carano
+Brittany Snow
+Emily Mortimer
+Lily Gladstone
+Sasha Calle
+Ella Purnell
+Anna Torv
+Kate Siegel

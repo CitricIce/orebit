@@ -1,0 +1,230 @@
+# Surname-only aliases, transliterations and common misspellings for the big names.
+--- 2
+Wolfgang Amadeus Mozart | mozzart | motzart | mozar | amadeus | wolfgang mozart | w a mozart
+Ludwig van Beethoven | beethovan | bethoven | betoven | beethovin | betthoven | ludwig beethoven | van beethoven
+Johann Sebastian Bach | j s bach | johann s bach | jsbach
+Antonio Vivaldi | vivaldy | vivaldie
+Frédéric Chopin | shopin | chopen | chopan | frederick chopin
+Pyotr Ilyich Tchaikovsky | tchaikovski | tchaikowsky | tschaikowsky | tchaikovksy | tchaikovsy | tchaikofsky | chaikovski | tchaikovskiy | peter tchaikovsky | pyotr tchaikovsky | piotr tchaikovsky | tchaik
+George Frideric Handel | haendel | handle | hendel | george handel | georg friedrich handel
+Joseph Haydn | hayden | haydin | franz joseph haydn | joseph hayden
+Franz Schubert | shubert | schubart | shubbert
+Johannes Brahms | bramhs | brahm | brams
+Richard Wagner | wagnar | richard wagnar
+Claude Debussy | debussey | debusy | debussi | debusey
+Franz Liszt | lizst | lizt | franz list
+Felix Mendelssohn | mendelsohn | mendelson | mendelsson | mendellsohn
+Giacomo Puccini | puchini | pucini | puccinni
+Antonín Dvořák | dvorack | dvoracek | dvorjak | antonin dvorack
+Sergei Rachmaninoff | rachmaninof | rachmaninow | rakhmaninov | rachmanninoff | sergei rachmaninov | sergey rachmaninoff
+Igor Stravinsky | stravinski | strawinsky | stravinksy | igor stravinski
+Johann Strauss | johann strauss jr | strauss jr | johann strauss junior | strauss ii | waltz king
+Edvard Grieg | greig | edward grieg
+Camille Saint-Saëns | saint sans | st saens | saintsaens | saint seans
+Gioachino Rossini | rosini | gioacchino rossini
+Sergei Prokofiev | prokofieff | prokofjev | prokofyev | prokofiev | prokoviev | sergey prokofiev
+Dmitri Shostakovich | shostakovitch | chostakovitch | schostakowitsch | shostakovic | shostakovish | dmitry shostakovich
+Aaron Copland | copeland | aaron copeland
+George Gershwin | gershwen | gershwinn
+Philip Glass | glass | phillip glass
+John Williams | williams | johnny williams
+Hans Zimmer | hans zimmerman | zimer
+Erik Satie | eric satie
+Georges Bizet | bizzet | george bizet
+Pachelbel | pachabel | pachelbell | pachebel | pachalbel | pachelbel canon
+Gustav Mahler | maler
+Maurice Ravel | morris ravel
+--- 3
+Ennio Morricone | moricone | morriconi | enio morricone
+Ludovico Einaudi | einaudy | ludovico einaudy
+Howard Shore | shore
+Danny Elfman | elfmann
+Max Richter | richter
+Joe Hisaishi | hisaishi joe
+Nobuo Uematsu | uematsu nobuo
+Michael Giacchino | giacchino | giachino
+Alexandre Desplat | desplat
+Ramin Djawadi | djawadi
+Yann Tiersen | tiersen
+Ludwig Göransson | goransson | ludwig goransson
+Jerry Goldsmith | goldsmith
+Bernard Herrmann | bernard hermann
+Andrew Lloyd Webber | lloyd webber | andrew lloyd weber
+John Adams | adams
+Steve Reich | steven reich
+Arvo Pärt | pärt | part
+John Cage | jon cage
+Alban Berg | berg
+Arthur Sullivan | gilbert and sullivan | sir arthur sullivan
+Nikolai Rimsky-Korsakov | rimsky | korsakov | rimski korsakov | rimsky korsakof
+Modest Mussorgsky | mussorgski | moussorgsky | musorgsky | moussorgski | modest moussorgsky
+Leoš Janáček | yanacek | leos janacek
+Béla Bartók | bella bartok
+Arnold Schoenberg | schonberg | schönberg | arnold schonberg | schoenburg
+Claudio Monteverdi | monteverde
+Henry Purcell | purcel | henry purcel
+Niccolò Paganini | pagannini | paganinni | nicolo paganini
+Hildegard of Bingen | hildegard von bingen | saint hildegard
+Jean Sibelius | sibelious | sibellius
+Gabriel Fauré | gabriel faure
+Hector Berlioz | berlios
+Anton Bruckner | brukner
+Carl Orff | karl orff
+Benjamin Britten | brittan | ben britten
+Ralph Vaughan Williams | vaughn williams | ralph vaughn williams | vaughan-williams
+Leroy Anderson | leroy andersen
+Scott Joplin | scot joplin
+John Philip Sousa | john phillip sousa
+--- 4
+Joseph Strauss | josef strauss
+Dmitry Kabalevsky | dmitri kabalevsky
+Witold Lutosławski | witold lutoslawski
+Stanisław Moniuszko | stanislaw moniuszko
+Georges Enescou | george enescu | georges enesco | enescu | enesco
+Mily Balakirev | milly balakirev
+Malcolm Arnold
+Gerald Finzi | finzi
+George Butterworth | butterworth
+Herbert Howells | howells
+Arnold Bax | bax
+Peter Maxwell Davies | maxwell davies
+Harrison Birtwistle | birtwistle
+Thomas Adès | thomas ades
+James MacMillan | james macmillan
+John Ireland
+Samuel Coleridge-Taylor | coleridge-taylor | coleridge taylor
+Rebecca Clarke
+William Grant Still
+Louis Moreau Gottschalk | gottschalk
+Edward MacDowell | macdowell
+Howard Hanson
+Virgil Thomson
+William Schuman
+Walter Piston
+Elliott Carter
+George Crumb
+John Luther Adams
+David Lang
+Julia Wolfe
+Nico Muhly | muhly
+Jessie Montgomery
+Wynton Marsalis | marsalis
+Ferde Grofé | grofe | ferde grofe
+Morton Gould
+Ned Rorem | rorem
+Osvaldo Golijov | golijov
+Arturo Márquez | arturo marquez
+Manuel Ponce
+Joaquín Turina | turina
+Federico Mompou | mompou
+Ambroise Thomas
+Reynaldo Hahn
+Cécile Chaminade | chaminade
+Germaine Tailleferre | tailleferre
+Jacques Ibert | ibert
+Maurice Duruflé | durufle
+Louis Vierne | vierne
+Charles-Marie Widor | widor
+Einojuhani Rautavaara | rautavaara
+Magnus Lindberg
+Esa-Pekka Salonen | salonen
+Niels Gade
+Peter Warlock
+Frank Bridge
+Eric Coates
+Patrick Doyle
+John Powell
+Harry Gregson-Williams | gregson-williams
+Marc Shaiman | shaiman
+Yoko Shimomura | shimomura
+Koichi Sugiyama | sugiyama
+Bear McCreary | mccreary
+Dario Marianelli | marianelli
+Hildur Guðnadóttir | hildur gudnadottir | gudnadottir
+Jóhann Jóhannsson | johann johannsson
+Ólafur Arnalds | olafur arnalds | arnalds
+Nils Frahm | frahm
+Clint Mansell | mansell
+Rachel Portman | portman
+Gustavo Santaolalla | santaolalla
+Craig Armstrong
+Zbigniew Preisner | preisner
+Mieczysław Weinberg | mieczyslaw weinberg | moisei vainberg
+Grażyna Bacewicz | grazyna bacewicz | bacewicz
+Pēteris Vasks | peteris vasks | vasks
+Ola Gjeilo | gjeilo
+Hans Werner Henze | henze
+Ernst Krenek | krenek
+Franz Schreker | schreker
+Ottorino Respighi | respighi
+Francesco Cilea | cilea
+Ermanno Wolf-Ferrari | wolf-ferrari
+Luigi Dallapiccola | dallapiccola
+Giovanni Allevi | allevi
+Claude-Michel Schönberg | claude michel schonberg
+Stephen Schwartz
+Austin Wintory | wintory
+Jeremy Soule
+Yasunori Mitsuda | mitsuda
+Howard Goodall
+Carl Davis
+Debbie Wiseman
+--- 5
+Imogen Holst
+Rutland Boughton | boughton
+Cyril Scott
+Constant Lambert
+Lennox Berkeley
+William Alwyn | alwyn
+Richard Rodney Bennett
+Howard Blake
+George Fenton
+Granville Bantock | bantock
+Roger Quilter | quilter
+Hamish MacCunn | maccunn
+Judith Weir
+Mark-Anthony Turnage | turnage
+Missy Mazzoli | mazzoli
+Kevin Puts
+Anthony Davis
+Carlisle Floyd
+Dominick Argento
+Gabriela Lena Frank
+Henri Duparc | duparc
+Jean Françaix | jean francaix | francaix
+Pierre Schaeffer
+Erkki-Sven Tüür | erkki-sven tuur
+Veljo Tormis | tormis
+Johan Halvorsen | halvorsen
+Christian Sinding | sinding
+Kurt Atterberg | atterberg
+Vítězslav Novák | vitezslav novak
+Péter Eötvös | peter eotvos
+Eduard Strauss
+Carl Zeller
+Oscar Straus
+Robert Stolz
+Paul Dessau | dessau
+Karl Amadeus Hartmann
+Bernd Alois Zimmermann
+Wolfgang Rihm | rihm
+Helmut Lachenmann | lachenmann
+Mauricio Kagel | kagel
+Goffredo Petrassi | petrassi
+Alfredo Catalani | catalani
+Luis Bacalov | bacalov
+Riz Ortolani | ortolani
+Armando Trovajoli | trovajoli
+Piero Piccioni | piccioni
+Roberto Cacciapaglia | cacciapaglia
+Henry Jackman | jackman
+Brian Tyler
+David Arnold
+Jason Robert Brown
+Gareth Coker
+Inon Zur
+Martin O'Donnell
+Mychael Danna
+Abel Korzeniowski | korzeniowski
+Jocelyn Pook
+Lisa Gerrard
