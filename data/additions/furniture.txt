@@ -1,0 +1,366 @@
+# aliases for existing answers
+--- 2
+Chair | chairs | chiar | chare
+Table | tables | tabel
+Bed | beds
+Sofa | sofas | couches | sopha
+Desk | desks
+Wardrobe | wardrobes | clothes closet | closets | wardobe | wardrob
+Bookshelf | bookshelves | bookcases | book shelf | book case | shelves | shelving | shelving unit | shelf unit | bookshelfs
+Dresser | dressers | chest of drawers | chests of drawers | dressor | drawers
+Armchair | arm chair | armchairs
+Stool | stools
+Bench | benches
+Cabinet | cabinets | cabnet
+Cupboard | cupboards | cubbard | cupbord
+Nightstand | night stand | bedside table | bedside tables | night table | nightstands | bedside cabinet | bedside locker
+Coffee table | coffee tables | cofee table
+Dining table | dining room table | dinner table | kitchen table | dining tables
+Recliner | recliners | reclining chair | recliner chair | lazy boy | la z boy | lazyboy
+Futon | futons
+Bunk bed | bunkbed | bunk beds | bunkbeds | bunks
+Crib | cribs | cots | baby cot | baby crib
+Ottoman | ottomans | ottomen | foot stool | footstools | footrest | foot rest
+Rocking chair | rocker | rocking chairs | rockingchair
+Sideboard | sideboards | buffet | buffet table
+TV stand | tv cabinet | tv unit | media unit | media console | entertainment center | entertainment centre | entertainment unit | television stand | tv table
+Bean bag | beanbag | bean bags | beanbags | bean bag chair | beanbag chair
+Hammock | hammocks
+Mirror | mirrors | full length mirror | standing mirror | dressing mirror | vanity mirror | wall mirror
+Rug | rugs | carpet
+Lamp | lamps | floor lamp | table lamp | standing lamp | bedside lamp | reading lamp | desk lamp
+Vanity | vanity table | dressing table | makeup table | vanities
+Headboard | headboards | head board
+Loveseat | love seat | loveseats
+Sofa bed | sofabed | sleeper sofa | pull out couch | pullout couch | pull out sofa | sofa sleeper | couch bed
+Filing cabinet | file cabinet | filing cabinets | file drawer
+High chair | highchair | high chairs
+Office chair | office chairs | computer chair | task chair
+Bar stool | barstool | bar stools | barstools
+Chaise longue | chaise longues
+Display cabinet | display case | curio cabinet | curio | vitrine | glass cabinet
+Shoe rack | shoe racks | shoe cabinet | shoe stand | shoe shelf
+Coat rack | coatrack | coat hanger stand | coat stand | coat tree | clothes rack | coat racks
+Chest | chests | blanket box | toy box | toybox | storage chest | linen chest
+Trunk | trunks | steamer trunk
+Console table | console tables | hall table | hallway table | entry table | entryway table | sofa table
+End table | end tables | side tables | lamp table | accent table
+Desk chair | desk chairs
+Mattress | mattresses | matress | mattres
+Bed frame | bedframe | bed frames | bedstead
+Cradle | cradles
+Loveseat | love seats
+--- 3
+Settee | settees
+Chesterfield | chesterfield sofa
+Credenza | credenzas
+Armoire | armoires | amoire
+Tallboy | tall boy | chest on chest
+Highboy | high boy
+Lowboy | low boy
+Hall tree | hall stand | hallstand
+Hatstand | hat rack | hatrack
+Daybed | day bed | daybeds
+Four-poster bed | four poster bed | four poster | 4 poster bed | four-poster
+Canopy bed | canopy beds
+Murphy bed | wall bed | murphy beds | fold down bed | pull down bed
+Trundle bed | trundle beds
+Sleigh bed | sleigh beds
+Water bed | waterbed | waterbeds
+Chaise lounge | chaise lounges | chase lounge | chaise lounger
+Sectional | sectional sofa | sectional couch | corner sofa | corner couch | modular sofa | l shaped couch | l shaped sofa | sectionals
+Pouf | pouffe | poufs | pouffes | pouf ottoman | moroccan pouf | leather pouf
+Throne | thrones
+Papasan chair | papasan chairs
+Egg chair | egg chairs | hanging egg chair
+Wingback chair | wing chair | wing back chair | wingbacks
+Windsor chair | windsor chairs
+Fainting couch | fainting sofa | chaise fainting couch
+Bar cart | bar trolley | drinks trolley | drinks cart | bar carts
+Tea trolley | tea cart | serving trolley | serving cart | trolley
+Room divider | folding screen | privacy screen | partition screen | dressing screen | room dividers
+Hope chest | cedar chest | hope chests
+Wine rack | wine racks | wine cabinet | wine shelf
+Plant stand | plant stands | plant shelf
+Nesting tables | nest of tables | nesting table | stacking tables
+Gateleg table | gate leg table | gate-leg table
+Drop-leaf table | drop leaf table | dropleaf table | drop leaf
+Trestle table | trestle tables
+Kitchen island | island | kitchen islands | breakfast bar
+Secretary desk | secretaire | secretary bureau | secretary | escritoire
+Bureau | bureaus | bureaux
+Lazy Susan | lazy susans
+Bergère | bergere | bergere chair
+Étagère | etagere | etageres
+Davenport | davenport desk | davenport sofa
+Divan | divan bed | divans
+Pew | pews | church pew
+Barcalounger | barcaloungers
+
+--- 2
+Dining chair | dining chairs | dinner chair | dining room chair | kitchen chair | kitchen chairs
+Picnic table | picnic tables | picnic bench | picnic benches
+Patio set | patio furniture | garden furniture | outdoor furniture | patio table | garden table | bistro set
+Sun lounger | sunlounger | sun loungers | lounger | sunbed | sun bed | pool lounger
+Deckchair | deck chair | deckchairs | deck chairs | beach chair | beach chairs
+Folding chair | folding chairs | fold up chair | foldable chair | camping chair | camp chair | lawn chair | lawn chairs
+Step stool | step stool | stepstool | kitchen step stool
+Swivel chair | swivel chairs | spinny chair | spinning chair
+Gaming chair | gaming chairs | gamer chair
+Computer desk | computer desks | pc desk | gaming desk
+Kitchen cabinet | kitchen cabinets | kitchen cupboard | kitchen cupboards
+Single bed | twin bed | twin size bed | single beds | twin beds
+Double bed | full bed | full size bed | double beds
+Queen bed | queen size bed | queen sized bed | queen beds
+King bed | king size bed | king sized bed | king beds | super king bed | california king
+Baby changing table | changing table | change table | baby changer | changing unit
+Pantry | pantry cupboard | larder | larder cupboard
+Garden bench | park bench | park benches | garden benches | outdoor bench
+Porch swing | porch swings | swing seat | swing bench | garden swing | patio swing | glider bench
+Standing desk | stand up desk | standup desk | sit stand desk | height adjustable desk
+Writing desk | writing table | writing bureau
+Medicine cabinet | medicine cabinets | bathroom cabinet | bathroom cupboard | medicine cupboard
+China cabinet | china hutch | china closet | china cupboard
+--- 3
+Director's chair | directors chair | director chair | directors chairs
+Club chair | club chairs
+Accent chair | accent chairs | occasional chair | side chair
+Adirondack chair | adirondack chairs | muskoka chair | adirondack
+Storage bench | bench seat | storage bench | ottoman bench | blanket bench | bed bench | end of bed bench
+Loft bed | loft beds | high sleeper | cabin bed | mid sleeper
+Platform bed | platform beds
+Bassinet | bassinets | moses basket | bassinette
+Toddler bed | toddler beds | kids bed | childrens bed
+Card table | card tables | game table | games table | poker table
+Pool table | snooker table | billiard table | billiards table
+Ping pong table | table tennis table
+Folding table | folding tables | fold up table | foldable table | banquet table
+Bar table | pub table | high top table | bar height table
+Pedestal table | round table | round dining table | tulip table
+Roll-top desk | rolltop desk | roll top desk | roll top
+Corner desk | l shaped desk | corner desks
+Drawing table | drafting table | drawing board
+Workbench | work bench | workbenches | work table
+Magazine rack | magazine racks | magazine holder | newspaper rack
+Umbrella stand | umbrella stands | umbrella holder
+Towel rack | towel rail | towel stand | towel ladder | towel holder
+Clothes rail | clothing rack | garment rack | clothes hanger rack | rolling rack
+Cube shelf | cube shelf | cube storage | cubby | cubbies | cubbyhole | cube organizer | kallax
+Storage cabinet | storage cupboard | utility cabinet | storage unit
+Linen closet | linen cupboard | airing cupboard
+Lectern | lecterns | podium
+Reclining sofa | reclining sofa | power recliner | recliner couch | reclining couch
+Massage chair | massage chairs
+Glider chair | nursing chair | glider rocker | rocking glider | glider
+Floor cushion | floor pillow | meditation cushion | zafu | floor cushions
+Hanging chair | swing chair | hammock chair | hanging chairs | bubble chair
+Kitchen cart | kitchen trolley | island cart | utility cart | rolling cart
+Breakfast nook | booth seating | dining booth | banquette | banquettes
+--- 4
+Chaise sofa | chaise sectional | sofa with chaise
+Camelback sofa | camel back sofa | camelback
+Tuxedo sofa | tuxedo couch
+Lawson sofa | lawson couch
+Bridgewater sofa | english roll arm sofa
+Cabriole sofa | knole sofa | knole settee
+Canapé | canape
+Récamier | recamier | recamier sofa
+Méridienne | meridienne
+Ottoman sofa | storage ottoman | ottoman bed
+Klismos chair | klismos
+Ladderback chair | ladder back chair | ladder-back chair | ladderback
+Spindle chair | spindleback chair | spindle back chair
+Bentwood chair | bistro chair | thonet chair | cafe chair
+Ghost chair | acrylic chair | lucite chair
+Eames chair | eames lounge chair | eames lounger | eames
+Barcelona chair | barcelona
+Panton chair | panton
+Wassily chair | wassily
+Chippendale chair | chippendale
+Queen Anne chair
+Slipper chair | slipper chairs
+Parsons chair | parson chair | parsons chairs
+Cantilever chair
+Butterfly chair | butterfly chairs | sling chair
+Ball chair | globe chair
+Wishbone chair | y chair | wishbone
+Morris chair | morris chairs
+Captain's chair | captains chair | captain chair
+Tolix chair | marais chair | metal cafe chair
+Shaker chair | shaker chairs
+Corner chair | corner chairs
+Fauteuil | fauteuils
+Kneeling chair | kneeling chairs | ergonomic kneeling chair
+Saddle stool | saddle chair
+Milking stool | milking stools | three legged stool
+Piano stool | piano bench | piano stools | piano benches
+Counter stool | counter stools | kitchen stool | kitchen stools
+Drafting stool | drafting chair | lab stool
+Footlocker | foot locker | footlocker
+Sea chest | seaman's chest | captain's chest
+Campaign chest | campaign desk | campaign furniture
+Blanket ladder | quilt ladder | quilt rack
+Pier table
+Hall bench | entryway bench | mudroom bench | shoe bench | boot bench
+Monk's bench | monks bench | settle table
+Deacon's bench | deacon's bench | deacons bench
+Triple bunk bed | triple bunk bed | triple bunk
+Captain's bed | captains bed | storage bed
+Sleeper chair | chair bed | chairbed | futon chair
+Rollaway bed | rollaway | roll away bed | folding bed | camp bed | cot bed | fold up bed
+Air mattress | air bed | airbed | blow up mattress | inflatable mattress | inflatable bed
+Box spring | boxspring | box springs | divan base | bed base
+Footboard | footboards | foot board
+Bed canopy | bed curtains | mosquito net
+Hospital bed | hospital beds
+Bistro table | cafe table | bistro tables | cafe tables
+Outdoor sofa | outdoor sofa | patio sofa | garden sofa | outdoor sectional
+Rattan chair | wicker chair | rattan chairs | wicker chairs | rattan furniture | wicker furniture
+Peacock chair | peacock chairs
+Potting bench | potting table
+Tabouret | taboret | tabourets
+Stacking chair | stacking chairs | stackable chair | stackable chairs
+Tub chair | barrel chair | barrel chairs
+Telephone table | telephone table | telephone bench | gossip bench | phone table
+TV tray | tv trays | tv dinner tray | tray table | snack table
+Butler's tray | butler tray | butlers tray | butler's tray
+Lap desk | lapdesk | lap tray
+Bed tray | bed tray | bed table
+Overbed table | over bed table
+Sewing table | sewing cabinet | sewing machine table
+Vanity stool | vanity bench | dressing table stool
+Bathroom vanity | vanity unit | bathroom vanity | sink vanity | vanity cabinet
+Cocktail ottoman | cocktail ottoman | tufted ottoman
+Cocktail table | cocktail tables
+Tea table | tea tables
+Tilt-top table | tilt top table | tip top table | tilting table
+Butterfly table | butterfly leaf table
+Extending table | extendable table | extension table | expandable table
+Refectory table | farmhouse table | farm table | harvest table | refectory
+Library table | reading table | partners desk | partner desk
+Kneehole desk | knee hole desk | pedestal desk
+Executive desk | executive desks | office desk | office desks
+Reception desk | front desk | reception counter
+School desk | school desks | student desk | student desks | children's desk
+Floating shelf | floating shelves | wall shelf | wall shelves
+Ladder shelf | ladder bookcase | leaning shelf
+Corner shelf | corner shelves | corner cabinet | corner unit
+Wall unit | wall units | wall cabinet | wall cabinets
+Trophy cabinet | trophy cabinet | trophy case
+Gun cabinet | gun cabinets
+Locker | lockers
+Bar cabinet | drinks cabinet | liquor cabinet | cocktail cabinet | home bar | bar unit
+Record cabinet | record player cabinet | vinyl storage
+Jewelry armoire | jewellery armoire | jewelry cabinet | jewelry box
+Spice rack | spice racks
+Plate rack | dish rack | plate stand
+Welsh dresser | kitchen dresser | dresser hutch
+Pie safe | jelly cupboard | food safe
+Hoosier cabinet | hoosier
+Dry sink | washstand | wash stand | commode chest
+Commode | commodes
+Coat locker | cloakroom | mudroom lockers
+Grandfather clock | longcase clock | grandmother clock | grandfather clocks
+Playpen | play pen | playpens | play yard | pack n play
+Kids table | childrens table | kids table and chairs | play table | activity table
+--- 5
+Kang bed
+Tatami | tatami mat | tatami mats
+Kotatsu | kotatsu table
+Chabudai | low table | japanese low table
+Tansu | step tansu | kaidan tansu | japanese chest
+Zaisu | zaisu chair | tatami chair
+Byōbu | byobu | japanese screen
+Shoji screen | shoji screens | shoji
+Charpai | charpoy | manji | khat
+Takht | takhteh
+Ming chair | horseshoe chair | ming dynasty chair
+Opium bed | chinese wedding bed | arhat bed
+Box bed | cupboard bed | bed closet
+Lit clos | lit-clos
+Half-tester bed | half tester | tester bed
+Lit bateau | boat bed
+Field bed | campaign bed
+Cassone | cassoni | marriage chest
+Coffer | coffers
+Kist | kist chest
+Mule chest | mule chests
+Bachelor's chest | bachelors chest | bachelor chest
+Gentleman's chest | gentlemans chest | linen press
+Clothes press | press cupboard
+Court cupboard | court cupboards
+Livery cupboard | aumbry | ambry
+Dole cupboard | food hutch
+Kas | kast | schrank
+Bombe chest | bombe commode | bombé
+Cabinet on stand | cabinet-on-stand | cabinet on chest
+Cylinder desk | cylinder bureau | bureau à cylindre
+Bonheur du jour | bonheur-du-jour
+Bureau plat | bureau-plat
+Carlton House desk | carlton house
+Wooton desk | wooton
+Fall-front desk | fall front desk | drop front desk | slant front desk
+Schoolmaster's desk | schoolmasters desk | clerk's desk | standing clerk desk
+Wellington chest | wellington chests
+Military chest | campaign chest of drawers
+Close stool | night commode | close stool | commode chair
+Torchère | torchere stand | candle stand | candlestand
+Guéridon | gueridon | gueridon table
+Bouillotte table | bouillotte
+Pembroke table | pembroke
+Sutherland table | sutherland table
+Loo table
+Rent table | drum table | drum tables
+Tripod table | tripod tables | wine table
+Quartetto tables | quartetto | nest of four tables
+Teapoy | teapoys
+Cellarette | cellarette | cellaret | sarcophagus cellarette
+Dumbwaiter | dumb waiter | dumbwaiters
+Fire screen | fire screens | pole screen | fireplace screen
+Coromandel screen | coromandel
+Prie-dieu | prie dieu | kneeler | prayer kneeler | prayer stool
+Faldstool | faldstool chair
+Misericord | misericords
+Sedilia | sedile
+Cathedra | bishop's chair
+Savonarola chair | savonarola | curule chair
+Glastonbury chair | glastonbury
+Wainscot chair | wainscot
+Joint stool | joined stool | joynt stool
+Backstool | back stool
+Farthingale chair | farthingale
+Corner cupboard | corner cupboards | encoignure
+Chaise brisée | chaise brisee
+Duchesse brisée | duchesse brisee | duchesse
+Marquise chair | marquise sofa | marquise
+Causeuse | causeuses
+Tête-à-tête | tete a tete | conversation chair | courting bench | courting chair
+Confidante sofa | confidante
+Borne | borne sofa | pouf borne
+Ottoman divan | turkish divan
+Lounge chair | lounge chairs
+LC4 chaise | lc4 | le corbusier chaise
+Swan chair | swan chair
+Womb chair
+Tulip chair | tulip chairs
+Diamond chair | bertoia chair | bertoia
+Zig zag chair | zigzag chair | zig-zag chair
+Red blue chair | red and blue chair | rietveld chair
+Tuffet
+Cricket stool | cricket stool | cricket table
+Gout stool | gout stools
+Perch stool | high stool | standing stool | perching stool
+Tractor seat stool | tractor stool
+Mandarin chair | chinese chair | official's hat chair
+Kangxi table | altar table | console altar table
+Panel bed | panel beds
+Spindle bed | spool bed | jenny lind bed | jenny lind
+Brass bed | iron bed | brass beds | iron beds
+Adjustable bed | adjustable beds | electric bed
+Convertible crib | cot bed convertible | convertible crib
+Co-sleeper | bedside crib | side car crib | next to me crib
+Hanging bed | hanging bed | swing bed
+Barber chair | barber chairs | barbers chair
+
+--- 3
+Whatnot | what not | whatnots
