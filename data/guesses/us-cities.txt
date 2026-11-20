@@ -1,0 +1,62 @@
+nyc
+new york city
+the big apple
+la
+l.a.
+sf
+san fran
+frisco
+vegas
+philly
+nola
+dc
+washington dc
+st louis
+saint louis
+ft worth
+st paul
+st pete
+okc
+slc
+kc
+chi town
+windy city
+motown
+indy
+cincy
+atl
+pdx
+portland
+portland oregon => Portland
+portland maine
+springfield
+pittsburg
+cincinatti
+albuquerqe
+tuscon
+philidelphia
+sacremento
+milwakee
+indianopolis
+louisvile
+chatanooga
+brooklyn
+queens
+the bronx
+staten island
+manhattan
+hollywood
+honolulu
+anchorage
+juneau
+san juan
+albany ny => Albany
+carson city
+virginia beach
+atlantic city
+yonkers
+santa ana
+key west
+boise
+jackson hole => Jackson
+las vegas nevada

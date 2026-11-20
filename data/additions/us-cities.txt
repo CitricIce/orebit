@@ -1,0 +1,335 @@
+# us-cities additions: gaps in the Wikidata list, plus aliases for how people type cities.
+--- 2
+New York | ny | the big apple | big apple | ny ny | new york ny | new york new york | nyc ny
+Los Angeles | l.a. | los angeles ca | los angeles california | city of angels | la ca
+San Francisco | sf | san fran | frisco ca | san francisco ca | san francisco california | the city by the bay | sanfran
+Las Vegas | vegas | sin city | las vegas nv | las vegas nevada
+Philadelphia | philly | philadelphia pa | philadelphia pennsylvania | phila
+New Orleans | nola | new orleans la | new orleans louisiana | the big easy | big easy | n'awlins
+Washington | washington d.c. | wash dc | d.c. | washington dc usa | dc usa
+Chicago | chi town | chi-town | chitown | windy city | the windy city | chicago il | chicago illinois
+Detroit | motor city | motown | detroit mi | detroit michigan
+Boston | beantown | boston ma | boston massachusetts
+Houston | houston texas | htown
+Dallas | big d | dallas tx | dallas texas
+Atlanta | atl | hotlanta | atlanta ga | atlanta georgia
+Miami | miami fl | miami florida | the 305
+Seattle | seattle wa | seattle washington | emerald city
+Portland | portland oregon | portland or | pdx | rip city | stumptown | portland ore
+Kansas City | kc | kc mo | kansas city mo
+St. Louis | st louis | st. louis mo | st louis missouri | stl | saint louis mo
+Fort Worth | ft worth | ft. worth | fort worth tx | cowtown
+Indianapolis | indy | indianapolis in | indianapolis indiana | naptown
+Cincinnati | cincy | cincinnati oh | cincinnati ohio | cinci | cincinatti | cincinatti ohio
+Pittsburgh | pittsburgh pa | pittsburgh pennsylvania | the burgh | steel city
+Nashville | nashville tn | nashville tennessee | music city | nashvegas
+Memphis | memphis tn | memphis tennessee
+Minneapolis | minneapolis mn | minneapolis minnesota | mpls
+Saint Paul | st paul | st. paul | st paul mn | saint paul minnesota
+Salt Lake City | salt lake | slc | salt lake city utah
+Oklahoma City | okc | okla city | oklahoma city ok
+Albuquerque | abq | albuquerque nm | burque | albuquerqe | albequerque
+Tucson | tuscon | tucson az | tucson arizona
+Phoenix | phoenix az | phoenix arizona | phx
+San Diego | san diego ca | america's finest city
+San Antonio | san antonio tx | satx
+Austin | austin tx | austin texas | atx
+Denver | denver co | denver colorado | mile high city
+Baltimore | bmore | b-more | baltimore md | charm city
+Honolulu | honolulu hawaii | honolulu hi | honalulu
+Anchorage | anchorage alaska | anchorage ak
+Albany | albany ny | albany new york
+Columbus | columbus ohio | columbus oh | columbus ga | columbus georgia
+Jacksonville | jacksonville fl | jacksonville florida | jax
+Brooklyn | brooklyn ny | brooklyn new york | brooklyn nyc
+Manhattan | manhattan ny | manhattan nyc
+Queens | queens ny | queens nyc | queens new york
+The Bronx | bronx | bronx ny | the bronx ny | bronx nyc
+Staten Island | staten island ny | staten island nyc
+Hollywood | hollywood ca | hollywood california | hollywood la | tinseltown
+Santa Ana
+San Bernardino | san berdoo
+Yonkers
+Virginia Beach | va beach
+Carson City | carson city nv | carson city nevada
+Chesapeake
+Atlantic City | ac nj | atlantic city nj
+Palm Beach
+Chula Vista
+Newport News
+San Juan | san juan pr | san juan puerto rico
+Hoboken
+--- 3
+Gilbert
+Corona
+Moreno Valley
+Santa Clarita
+Torrance
+Fullerton
+Costa Mesa
+Ontario
+Lancaster
+Sunnyvale
+Hayward
+Vallejo
+Visalia
+Daly City
+San Mateo
+Ventura | san buenaventura
+Santa Cruz
+Monterey
+Palo Alto
+Cupertino
+Napa
+Sonoma
+Sausalito
+Newport Beach
+Laguna Beach
+South Lake Tahoe | lake tahoe | tahoe
+Redding
+San Luis Obispo | slo
+Walnut Creek
+Antioch
+Santa Maria
+Jurupa Valley
+Vacaville
+Cary
+Naperville
+Elgin
+Waukegan
+Schaumburg
+Skokie
+Cicero
+Oak Park
+Arlington Heights
+Bolingbrook
+Orland Park
+Paterson
+Edison
+Woodbridge
+Toms River
+Cherry Hill
+Passaic
+Clifton
+Bayonne
+Union City
+Hackensack
+Morristown
+Asbury Park
+Cape May
+Ocean City
+Wildwood
+White Plains
+Schenectady
+Utica
+Binghamton
+Ithaca
+Poughkeepsie
+Saratoga Springs
+Cooperstown
+Lake Placid
+Sleepy Hollow
+Levittown
+Islip
+Babylon
+Erie
+Lancaster
+Reading
+Wilkes-Barre
+Gettysburg
+Hershey
+State College
+Youngstown
+Cuyahoga Falls
+Saginaw
+Lynchburg
+Suffolk
+Charlottesville
+Chapel Hill
+Hilton Head Island | hilton head
+Metairie
+Bethesda
+Silver Spring
+Greenwich
+Westport
+Hamden
+Framingham
+Brookline
+Nantucket
+Provincetown
+Bar Harbor
+Kennebunkport
+Montauk
+Southampton | the hamptons | hamptons
+Vail
+Telluride
+Taos
+Bend
+Beaverton
+Gresham
+Gatlinburg
+Pigeon Forge
+Key Largo
+Jupiter
+Davie
+Spring Hill
+Lehigh Acres
+Summerville
+Pearl City
+Kailua
+Kahului
+Lahaina
+Hilo | hilo hawaii
+Kailua-Kona | kona
+Ponce
+Bayamon
+Carolina | carolina pr
+Mayaguez
+Arecibo
+Hagatna | agana
+Jackson | jackson wyoming | jackson wy | jackson hole | jackson mississippi
+Harlem
+Venice
+La Jolla
+North Hollywood | noho
+Van Nuys
+Encino
+Sherman Oaks
+Studio City
+Bel Air
+Waikiki
+Miami Beach | south beach
+The Woodlands
+Flower Mound
+Southlake
+Keller
+Euless
+Kyle
+Leander
+Harker Heights
+Spring
+Humble
+Cypress
+Reston
+Fairfax
+McLean
+Towson
+Ellicott City
+Germantown
+Paradise
+Spring Valley
+Kendall
+Kapolei
+Wailuku
+Lihue
+Waipahu
+Mililani
+Mission Viejo
+Laguna Niguel
+Tustin
+Buena Park
+Fountain Valley
+Aliso Viejo
+San Clemente
+Dana Point
+South Gate
+Gardena
+Culver City
+Chino Hills
+Indio
+Twentynine Palms
+Valencia
+Ojai
+Watsonville
+Gilroy
+Morgan Hill
+Milpitas
+Los Altos
+Saratoga
+Campbell
+Los Gatos
+San Bruno
+South San Francisco
+San Rafael
+Novato
+Petaluma
+Mill Valley
+Tiburon
+Pleasanton
+Livermore
+San Ramon
+Martinez
+Davis
+Woodland
+Folsom
+Truckee
+Red Bluff
+Crescent City
+Ukiah
+Tracy
+Menlo Park
+Redwood City
+Mammoth Lakes
+Lake Havasu City | lake havasu
+Laughlin
+Hood River
+Astoria
+Cannon Beach
+Friday Harbor
+Estes Park
+Crested Butte
+South Padre Island | south padre
+Port Aransas
+Kerrville
+West Yellowstone
+Mackinac Island
+Frankenmuth
+Wisconsin Dells
+Lake Geneva
+Put-in-Bay
+Jim Thorpe
+Kitty Hawk
+Nags Head
+St. Simons Island
+Jekyll Island
+Islamorada
+Siesta Key
+Dunedin
+Celebration
+Scarsdale
+Darien
+Mystic
+Stowe
+Hanover
+Ogunquit
+Cheektowaga
+Tonawanda
+Elmira
+Peekskill
+Ossining
+Tarrytown
+Rye
+Glens Falls
+Canandaigua
+Groton
+West Hartford
+Marblehead
+Bennington
+Brattleboro
+--- 2
+Fort Wayne | ft wayne | ft. wayne
+Fort Lauderdale | ft lauderdale | ft. lauderdale | fort lauderdale fl
+Fort Myers | ft myers | ft. myers
+Fort Collins | ft collins | ft. collins
+St. Petersburg | st pete | st. pete | saint petersburg fl
+Newark | newark nj | newark new jersey
+Tampa | tampa fl | tampa bay
+Raleigh | raleigh nc
+San Jose | san jose ca
+Milwaukee | milwaukee wi | brew city
+Sacramento | sacramento ca | sactown
+Louisville | louisville ky | louisvile
+Springfield | springfield il | springfield ma | springfield mo
+Charleston | charleston sc | charleston wv
+--- 5
+Brick
