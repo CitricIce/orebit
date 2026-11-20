@@ -359,8 +359,8 @@
 "BGK",
 "BGL",
 "BGN",
-"Lev",
-"lev"
+"lev",
+"Lev"
 ],
 "links": 72
 },
@@ -1499,12 +1499,12 @@
 {
 "name": "écu",
 "aliases": [
-"ecu",
 "Ecu",
+"ecu",
 "Ecus",
 "French ecu",
-"French Écu",
 "French écu",
+"French Écu",
 "Écus"
 ],
 "links": 30

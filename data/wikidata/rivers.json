@@ -554,8 +554,8 @@
 "Abay River",
 "Abbai River",
 "Abbay River",
-"Al-bahr al-Azraq",
 "Al-Bahr al-azraq",
+"Al-bahr al-Azraq",
 "Blue Nile River",
 "El Bahr el Azraq",
 "El Bahr el Azraq River"
@@ -895,8 +895,8 @@
 {
 "name": "Inn",
 "aliases": [
-"Inn River",
-"Inn river"
+"Inn river",
+"Inn River"
 ],
 "links": 80
 },
@@ -2299,8 +2299,8 @@
 {
 "name": "Doubs",
 "aliases": [
-"Doubs river",
 "Doubs River",
+"Doubs river",
 "Le Doubs"
 ],
 "links": 51
@@ -2393,8 +2393,8 @@
 "Kizîl-sou River",
 "Kysyl Su",
 "Kysyl Su River",
-"Kyzyl-Suu",
 "Kyzyl-suu",
+"Kyzyl-Suu",
 "Kyzyl-Suu River",
 "Kyzyl-suu River",
 "Kyzylsu",
