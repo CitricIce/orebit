@@ -1,0 +1,146 @@
+# aliases for existing answers
+--- 2
+Taco | street tacos | street taco | soft tacos | soft taco | beef tacos | pork tacos | taco de chorizo | chorizo tacos | chorizo taco
+Burrito | burritos | burito | buritto | bean burrito | bean and cheese burrito | beef burrito | chicken burrito
+Quesadilla | quesadillas | quesedilla | quesedillas | quesadia | quesadilla de queso | cheese quesadilla | chicken quesadilla
+Nachos | nacho | nachos supreme | loaded nachos | nachos grande | nachos con queso
+Enchilada | cheese enchiladas | chicken enchiladas | beef enchiladas | enchillada | enchiladas de pollo
+Guacamole | guac | guacamolé | guacamoli | guacomole | guacamole dip | chips and guac
+Salsa | chips and salsa | salsa dip | salsa mexicana
+Tamale | tamal | tamales de pollo | tamales de puerco | tamally
+Fajitas | fajita | chicken fajitas | steak fajitas | beef fajitas | shrimp fajitas | fahitas
+Churro | churros con chocolate | churos | churro con chocolate
+Queso | chile con queso | chili con queso | queso blanco dip | cheese dip
+Taquito | rolled tacos | rolled taco
+Flautas | flauta
+Refried Beans | refried bean | refritos | frijoles | refrito beans
+Mexican Rice | arroz mexicano | red rice | arroz a la mexicana
+Pico de Gallo | pico de gallo salsa | pico de galo
+Elote | elotes | elote asado | grilled corn
+Carnitas | carnitas tacos | tacos de carnitas | taco de carnitas
+Barbacoa | barbacoa tacos | tacos de barbacoa | barbacoa de res
+Al Pastor | pastor | pastor tacos | taco al pastor
+Carne Asada | asada | carne asada tacos | taco de asada | tacos de asada | carne asada taco
+Pozole | posole | pozolé | pozzole | pozole soup
+Menudo | menudo soup | tripe soup
+Mole | molé | mole sauce | mole poblano sauce
+Chilaquiles | chilaquilles | chilequiles | chilaquilas | chilaquiles con huevo
+Huevos Rancheros | rancheros | ranchero eggs | huevos ranchero
+Flan | flan napolitano | caramel flan | mexican flan
+Tres Leches | three milk cake | pastel de tres leches
+Horchata | agua de horchata | orchata | horchata de arroz
+Chile Relleno | chili relleno | chili rellenos | chile rellenos | stuffed peppers | stuffed poblano
+Fish Tacos | fish taco | baja fish tacos | baja tacos | baja taco | baja fish taco | baja style fish tacos
+Birria | birria tacos | birria taco | tacos de birria | birria de chivo
+Tortilla Soup | chicken tortilla soup
+Tostada | tostados
+Sope | sopecitos
+Gordita | gordita de chicharron
+Chimichanga | chimichangas | chimi | chimis
+Agua Fresca | agua de fruta | aguas
+Margarita | margaritas | margarita cocktail
+Tequila | tequila shot | tequilla
+Chili | chili beans | texas chili
+Taco Salad | taco bowl salad
+--- 3
+Chalupa | chalupas
+Huarache | huaraches | guarache | guaraches
+Cochinita Pibil | cochinita | pibil | puerco pibil
+Pollo Asado | pollo asado mexicano
+Pollo en Mole | chicken mole | mole de pollo | pollo con mole
+Salsa Roja | red salsa | red sauce salsa
+Salsa Verde | green salsa | salsa verde de tomatillo | tomatillo salsa
+Mole Verde | green mole
+Mole Negro | black mole | oaxacan mole
+Sopa de Lima | lima soup
+Caldo de Res | beef caldo | mexican beef soup
+Caldo de Pollo | chicken caldo
+Lengua | beef tongue | tacos de lengua de res
+Cabeza | tacos de cabeza | cabeza tacos
+Tripas | tripa | tripitas
+Concha | pan de concha
+Pan Dulce | mexican sweet bread | mexican pastry | mexican pastries
+Arroz con Leche | mexican rice pudding | rice pudding
+Paletas | paleta | mexican popsicle | mexican popsicles | paletas de hielo
+Atole | atol | atole de elote
+Michelada | micheladas | chelada | michelda
+Mezcal | mescal
+Tajín | tajín seasoning
+Chicharrón | chicharrones | pork rinds | chicharones
+Nopales | nopal | cactus | cactus salad | ensalada de nopales
+Frijoles Charros | charro beans | frijoles a la charra
+Frijoles de la Olla | pot beans | whole pinto beans
+Tinga | chicken tinga
+Albóndigas | albondigas soup | sopa de albondigas | mexican meatballs
+Polvorones | mexican wedding cookies | mexican wedding cookie | wedding cookies
+Tacos de Pescado | taco de pescado
+Burrito Bowl | burrito bowls
+Taco Dorado | crispy tacos
+Cajeta | goat milk caramel
+Tamarindo | agua de tamarindo | tamarind
+--- 4
+Esquites | esquite | corn in a cup | corn cup
+Elote en Vaso | elote cup | elote en vasito
+Molletes | mollete
+Bunuelos | bunuelo | bunelos
+Rosca de Reyes | rosca | three kings bread | rosca de reyes bread
+Pan de Muerto | bread of the dead | day of the dead bread | pan de muertos
+Huevos a la Mexicana | mexican scrambled eggs | huevos mexicana
+Tortilla de Maíz | corn tortilla | corn tortillas
+Tlayuda | tlayudas
+Panucho | panuchos
+Salbute | salbutes
+Suadero | suadero tacos
+Tacos de Suadero | taco de suadero
+Tacos de Tripa | tripa tacos | tripas tacos
+Campechano | campechano tacos | tacos campechanos
+Sopa Azteca | aztec soup
+Queso Fundido | melted cheese dip | queso flameado
+Chiles en Nogada | chile en nogada | chiles nogada
+Tostadas de Tinga | tinga tostadas
+
+# new answers
+--- 2
+Crunchy Taco | hard shell taco | hard shell tacos | hard taco | hard tacos | crunchy tacos | taco shells | taco shell
+Breakfast Burrito | breakfast burritos
+--- 3
+Jalapeños | jalapeno | jalapenos | jalepeno | jalepenos | pickled jalapenos | jalapeño peppers
+Breakfast Taco | breakfast tacos
+Seven Layer Dip | 7 layer dip | seven-layer dip | 7-layer dip | layered bean dip
+Bean Dip | frijoles dip
+Queso Oaxaca | oaxaca cheese | quesillo
+Café de Olla | cafe de olla | mexican coffee
+Frijoles Negros | black beans | mexican black beans
+Wet Burrito | burrito mojado | enchilada style burrito | smothered burrito
+Huevos con Chorizo | chorizo con huevo | chorizo and eggs | chorizo and egg
+--- 4
+California Burrito | cali burrito
+Mission Burrito | mission style burrito
+Puffy Tacos | puffy taco
+Frito Pie | walking taco | walking tacos
+Carne Asada Fries | asada fries
+Carajillo | 
+Tostilocos | 
+Chocoflan | choco flan | impossible cake
+Bistec a la Mexicana | bistec mexicana
+Papas con Chorizo | potatoes with chorizo
+Caldo de Camarón | shrimp soup | caldo de camaron
+Mulita | mulitas
+Crema | mexican crema | crema mexicana
+Torta Cubana | 
+Valentina | valentina hot sauce | salsa valentina
+--- 5
+Tejuino | 
+Dorilocos | 
+Chilorio | 
+Pescado a la Talla | 
+Cantarito | cantaritos
+Queso Chihuahua | chihuahua cheese
+Gelatina de Mosaico | mosaic gelatin | gelatina
+
+--- 2
+Pico de Gallo | pico
+Chili | chile con carne
+--- 4
+Tlayuda | clayuda | clayudas
+Flour Tortilla | wheat tortilla | tortilla de harina | tortillas de harina

@@ -1,0 +1,60 @@
+guitar
+violin
+violen => Violin
+fiddle
+cello
+chello => Cello
+violoncello => Cello
+double bass => Bass
+upright bass => Bass
+bass guitar => Bass
+electric bass => Electric bass guitar
+harp
+piano
+grand piano => Piano
+harpsichord
+harpsicord => Harpsichord
+clavichord
+viola
+banjo
+mandolin
+mandolyn => Mandolin
+ukulele
+ukelele => Ukulele
+uke => Ukulele
+dulcimer
+zither
+autoharp
+balalaika
+bouzouki
+lute
+lyre
+sitar
+sitarr => Sitar
+sarod
+veena
+oud
+koto
+shamisen
+erhu
+guzheng
+pipa
+kora
+charango
+cuatro
+bandurria
+cavaquinho
+hurdy gurdy => Hurdy-gurdy
+nyckelharpa
+kantele
+bandura
+acoustic guitar => Acoustic Guitar
+electric guitar => Electric Guitar
+classical guitar => Classical guitar
+12 string guitar => Twelve-string Guitar
+steel guitar => Steel Guitar
+slide guitar => Slide Guitar
+lap steel => Steel Guitar
+dobro => Resonator Guitar
+archtop => Archtop guitar
+flamenco guitar => Flamenco guitar

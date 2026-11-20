@@ -151,6 +151,10 @@ BANNED = {
     ),
     "instruments": re.compile(r"\b(microphone|soundbar|speaker|amplifier|foghorn|horn signal|siren)\b", re.I),
     "holidays": re.compile(r"^public holiday$|\d{4}", re.I),
+    "mexican-foods": re.compile(r"^(wrap|calavera|sugar skull)$", re.I),
+    "string-instruments": re.compile(
+        r"^(bowed string instrument|violin family|guitars for type|soil|blackbird|kent|jew'?s harp)$", re.I
+    ),
 }
 MAX_NEW_WORDS = 4
 MAX_NEW_CHARS = 32
@@ -225,6 +229,14 @@ def merge_wikidata(cid: str, title: str, rows: list[dict]) -> int:
         if not tidy:
             continue
         name, extra = tidy
+        # Drop alternate names that are just the label's first word ("electric"
+        # for Electric guitar) or very short: with one-word dropping, they would
+        # let "electric violin" count as Electric guitar.
+        first = normalize_words(name)[:1]
+        extra = [
+            a for a in extra
+            if len(key(a)) >= 4 and not (len(normalize_words(a)) == 1 and normalize_words(a) == first and len(normalize_words(name)) > 1)
+        ]
         names = [name, *extra]
         keys = [key(n) for n in names]
         hit = next((owner[k] for k in keys if k in strong), None)

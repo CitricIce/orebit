@@ -1,0 +1,108 @@
+# aliases for existing answers and how people actually type
+--- 2
+Guitar | guitars | gitar | guiter | guitarr | gutair | geetar | git fiddle
+Violin | violins | violen | vilin | voilin | vioin | violine
+Cello | chello | cellos | celo | violincello
+Bass | stand up bass | standup bass | double basses | bass fiddle | contra bass | contrebasse
+Harp | harps
+Piano | pianos | grand piano | upright piano | baby grand | pianoforte | piano forte | concert grand | paino | pianno
+Ukulele | ukuleles | ukalele | ukelili | ukulelee | ukelele | ukeleles | ukes | tenor ukulele | soprano ukulele | concert ukulele | baritone ukulele
+Banjo | banjos | banjoe
+Mandolin | mandolins | mandoline | mandolyn | mandalin | mandolinn | mando
+Viola | violas | viala
+Electric Guitar | electric guitars | electic guitar | electrical guitar | elec guitar | e guitar | les paul | stratocaster | strat | telecaster | electric six string
+Acoustic Guitar | acoustic guitars | accoustic guitar | acustic guitar | acoustic gitar
+Classical guitar | classical guitars | nylon string guitar | nylon guitar | clasical guitar | classic guitar
+Sitar | sitars | sitarr | sittar | citar
+Lute | lutes
+Lyre | lyres | lyra
+Harpsichord | harpsicord | harpiscord | harpischord | harpsichords
+Fiddle | fiddles | fidle
+Dulcimer | dulcimers | dulcimore | dulcimer harp
+Zither | zithers | zitar | zittern | cither
+Autoharp | auto harp | autoharps | chorded zither
+Steel Guitar | pedal steel guitar | steel guitars
+Twelve-string Guitar | 12 string guitar | twelve string | 12string guitar
+Koto | kotos | japanese harp | japanese zither
+Shamisen | samisen | shamisan | sangen
+Balalaika | balalaikas | balalika | balalaica
+Bouzouki | bazouki | bouzuki | buzuki | bouzoukia | busuki
+Oud | oudh | al oud
+Erhu | erhus | chinese violin | chinese fiddle | er hu
+Guzheng | gu zheng | chinese harp
+Pipa | pi pa | p'i-p'a
+Resonator Guitar | dobros | dobro guitar | reso guitar | resonator guitars | national steel
+Electric bass guitar | electric bass | bass guitar electric | e bass | electric basses
+Hurdy-gurdy | hurdygurdy | hurdy-gurdies | herdy gerdy | hurdie gurdie
+--- 3
+Flamenco guitar | flamenco guitars | guitarra flamenca
+Archtop guitar | arch top guitar | archtop guitars | arch-top
+Acoustic bass guitar | acoustic bass | acoustic bass guitars
+Lap steel guitar | lap steel guitars | hawaiian steel guitar
+Steel-string acoustic guitar | steel string guitar | steel stringed guitar | steel-string guitar
+Baritone Guitar | baritone guitars
+Hammered Dulcimer | hammer dulcimer | hammered dulcimers
+Appalachian Dulcimer | lap dulcimer | appalachian dulcimers | mountain dulcimers
+Celtic Harp | celtic harps | irish harps | lever harp
+Concert Harp | orchestral harp | grand harp
+Cigar Box Guitar | cigar box guitars | cigarbox guitar
+Washtub Bass | washtub | wash tub bass | tub bass | tea chest bass
+Diddley Bow | diddly bow | diddley-bow
+Charango | charangos
+Cuatro | cuatros | venezuelan cuatro | puerto rican cuatro
+Tres | tres cubano | cuban tres
+Bandurria | bandurrias
+Cavaquinho | cavaquinhos | cavaco
+Kora | koras
+Veena | veenas | vinas | saraswati vina
+Sarod | sarods
+Santoor | santoors
+Tanpura | tanpuras | tamburas
+Sarangi | sarangis
+Guqin | gu qin
+Yueqin | moon guitar | moon lute
+Kacapi | kecapi | kacapi suling
+Sape | sapeh | sampeh
+Gayageum | gayagum | kayageum
+Morin Khuur | morin khur | horse head fiddle | horsehead violin | matouqin
+Baglama | baglamas | bağlama
+Kantele | kanteles
+Gusli | guslis
+Kobza | kobzas
+Bandura | banduras
+Clavichord | clavichords | klavichord
+Mandola | mandolas
+Five-string Banjo | 5 string banjo | five string banjo | bluegrass banjo
+Tenor Banjo | tenor banjos
+Banjolele | banjo ukelele
+Theorbo | theorbos
+Viol | viols | viola de gamba
+Nyckelharpa | nyckelharpas | nickelharpa | key harp
+Cimbalom | cimbaloms | cymbalom | tsimbl
+Psaltery | psalteries
+Electric violin | electric violins
+--- 4
+Slide Guitar | slide guitars | bottleneck guitar | slide
+Bass ukulele | u-bass | ubass | bass uke
+Tamburica | tamburitza | tamburitzas
+Banhu | ban hu
+Jinghu | jing hu | peking opera fiddle
+Zhonghu | zhong hu
+Dutar | dotar | doutar
+Viola Organista
+Clavinet | hohner clavinet
+Langspil
+Ajaeng | a jaeng
+Gittern | gitterns
+Cittern | citterns
+Crwth | crwths
+Rebec | rebecs
+Spinet | spinets
+Virginal | virginals
+Chapman Stick | chapman stick
+Hardanger Fiddle | hardanger fiddles
+Octave Mandolin | octave mandolins
+--- 5
+Walaycho | hualaycho
+Krajappi | krachappi | grajabpi
+Hasapi | kulcapi

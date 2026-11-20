@@ -2027,7 +2027,6 @@ Gordita | gorditas
 Empanada | empanadas
 Tortilla Soup | sopa de tortilla
 Salsa Verde
-Pico
 Jalapeño Poppers
 Sour Cream
 Chorizo
@@ -2052,7 +2051,6 @@ Pollo en Mole
 Carne Guisada
 Chile Colorado
 Chile Verde
-Chile con Carne
 Picadillo
 Tinga | tinga de pollo
 Lengua
@@ -2094,7 +2092,6 @@ Arroz con Leche
 Bunuelos | buñuelos
 Pan Dulce
 Concha | conchas
-Tres Leches Cake
 Capirotada
 Cajeta
 Dulce de Leche
@@ -2177,7 +2174,6 @@ Zacahuil
 Bolillo
 Telera
 Birote
-Tortilla de Harina
 Tortilla de Maíz
 Masa
 Nixtamal
@@ -2306,7 +2302,6 @@ Tamales de Ceniza
 Tamales de Frijol
 Tetelas Oaxaqueñas
 Totopos
-Clayudas
 Garnachas
 Chalupas Tlaxcaltecas
 Mixiotes de Carnero

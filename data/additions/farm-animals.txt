@@ -1,0 +1,269 @@
+# aliases for existing answers
+--- 2
+Cow | cows | moo cow | cattle | dairy cattle
+Pig | swine | piggy | piggie | piggies | porker
+Chicken | chickens | hen | hens | chook | chooks | chickin
+Horse | horses | hoss
+Goose | geese | goosey
+Donkey | burro | ass | donkies | donkeys
+Rabbit | bunny | bunnies | bunny rabbit
+Llama | lama | llamma
+Sheepdog | sheep dog | border collie | collie | herding dog | kelpie
+Barn cat | farm cat | mouser | cat
+Calf | calves | baby cow
+Peacock | peafowl | peahen | peacocks
+Turkey | turkies
+Ox | oxen
+Duck | ducks | ducky
+Bee | bees | honeybee | honey bee | honeybees
+Billy goat | nanny goat | billy | nanny
+Chick | chicks | baby chick
+Buffalo | water buffalo | buffalos | carabao
+Pony | ponies
+Rooster | roosters | cock | cockrel | roster
+Pigeon | dove | racing pigeon | homing pigeon
+Guinea fowl | guinea hen | guineafowl | guinea
+Kid | baby goat
+Lamb | baby sheep
+Piglet | baby pig
+Foal | baby horse
+Duckling | baby duck
+Gosling | baby goose
+Stallion | stud
+--- 3
+Hog | hogs | pig hog
+Colt
+Filly
+Drake
+Gander
+Turkey hen | hen turkey
+Tom turkey | gobbler | tom
+Guard dog | farm guard dog | livestock guardian dog | great pyrenees | anatolian shepherd
+Guard llama
+Pot-bellied pig | pot belly pig | potbellied pig | pot bellied pig | vietnamese pot bellied pig
+Holstein | friesian | holstein friesian | holstein cow | friesian cow
+Angus | aberdeen angus | black angus | angus cow | angus cattle
+Hereford | hereford cow | hereford cattle
+Jersey | jersey cow
+Guernsey | guernsey cow
+Longhorn | texas longhorn | longhorn cattle | longhorn cow
+Pygmy goat | pigmy goat | pygmy goats
+Miniature horse | mini horse | miniature pony
+Miniature donkey | mini donkey
+Mini pig | micro pig | teacup pig | miniature pig
+Salmon | farmed salmon
+Shrimp | prawn | prawns | shrimps
+Oyster
+Mussel
+Cricket
+Worm | earthworm | earthworms | worms | red wiggler
+Gelding
+Bullock
+Hinny
+Fish | farmed fish | fishes
+Squab
+Bantam | bantam chicken | banty
+Silkie | silkie chicken | silky chicken | silky
+Clydesdale | clydesdale horse
+Shire horse | shire
+Merino | merino sheep
+Suffolk | suffolk sheep
+Shetland pony | shetland
+Leghorn | leghorn chicken | white leghorn
+Rhode Island Red | rhode island red chicken | rhode island
+Highland cow | highland cattle | hairy cow | heeland coo | scottish highland
+Dairy cow | milk cow | milking cow
+Beef cattle | beef cow
+Draft horse | draught horse | work horse | workhorse | plough horse | plow horse | cart horse
+Muscovy duck | muscovy
+Pekin duck | pekin | peking duck
+Runner duck | indian runner | indian runner duck
+--- 4
+Pullet
+Capon
+Poult
+Peachick
+Gilt
+Shoat | shote
+Barrow
+Tup
+Wether
+Hogget
+Jack donkey | jackass | jack
+Jenny | jennet | jenny donkey
+Cria
+Kit rabbit | kit
+Mallard
+Guinea pig | cuy | cavy
+Dromedary | dromedary camel
+Bactrian camel | bactrian
+Elk | wapiti
+Red deer
+Fallow deer
+Zebu | brahman | brahman cattle | brahma cow
+Mithun
+Dzo | dzomo
+Rhea
+Carp
+Tilapia
+Catfish
+Trout | rainbow trout
+Sturgeon
+Crayfish | crawfish | crawdad | crawdads
+Eel
+Clam
+Mealworm | meal worm | mealworms
+Black soldier fly | soldier fly
+Mink
+Chinchilla
+Ferret
+Snail | escargot
+Silkworm | silk worm | silk moth
+Bumblebee | bumble bee
+Charolais
+Limousin
+Simmental
+Shorthorn
+Galloway
+Belted Galloway | beltie | belted galloway cow
+Brown Swiss
+Ayrshire
+Dexter | dexter cattle
+Wagyu | kobe cattle | wagyu cow
+Belgian Blue
+Watusi | ankole watusi | ankole
+Berkshire pig | berkshire
+Tamworth | tamworth pig
+Large White | yorkshire pig | yorkshire
+Gloucestershire Old Spot | old spot | old spots | gloucester old spot
+Duroc | duroc pig
+Hampshire pig
+Kunekune | kune kune
+Mangalica | mangalitsa | woolly pig | wooly pig
+Iberian pig | pata negra
+Landrace | landrace pig
+Texel | texel sheep
+Jacob sheep | jacob
+Herdwick | herdwick sheep
+Romney | romney sheep
+Dorset sheep | dorset
+Cheviot | cheviot sheep
+Blackface sheep | scottish blackface | blackface
+Swaledale
+Valais Blacknose | valais blacknose sheep
+Icelandic sheep
+Nubian goat | nubian | anglo nubian
+Boer goat | boer
+Angora goat
+Angora rabbit
+Cashmere goat
+Saanen | saanen goat
+Alpine goat
+Toggenburg
+LaMancha goat | lamancha
+Nigerian Dwarf goat | nigerian dwarf
+Fainting goat | myotonic goat
+Percheron
+Suffolk Punch
+Belgian draft horse | belgian horse
+Quarter horse
+Appaloosa
+Thoroughbred
+Arabian horse | arabian | arab horse
+Welsh pony
+Haflinger
+Friesian horse
+Orpington | buff orpington
+Plymouth Rock | barred rock
+Wyandotte
+Sussex chicken | light sussex
+Australorp
+Brahma chicken | brahma
+Cochin
+Polish chicken
+Marans | maran | black copper marans
+Ameraucana | araucana
+Easter Egger
+Frizzle
+Khaki Campbell
+Rouen duck | rouen
+Call duck
+Toulouse goose
+Embden goose | emden goose
+Chinese goose
+Bronze turkey
+Bourbon Red
+Heritage turkey
+Broiler | broiler chicken
+Layer hen | laying hen | layer
+Cornish Cross
+Partridge
+--- 5
+Ayam Cemani
+Faverolles
+Sebright
+Naked Neck | turken
+Narragansett turkey
+Gayal
+Banteng
+Vicuna | vicuña
+Guanaco
+Mule deer
+Sika deer
+Nutria | coypu
+Fox | silver fox | arctic fox
+Sable
+Alligator
+Crocodile
+Frog | bullfrog
+Turtle | softshell turtle
+Scallop
+Abalone
+Sea cucumber
+Koi | koi carp
+Barramundi
+Sea bass | seabass
+Milkfish
+Pangasius | basa
+Grasshopper | locust
+Cochineal | cochineal insect
+Bobwhite quail | bobwhite
+Coturnix quail | coturnix | japanese quail
+Lop rabbit | lop | holland lop
+Rex rabbit
+New Zealand rabbit | new zealand white
+Flemish Giant
+Mangalarga
+Akhal-Teke
+Icelandic horse
+Fjord horse | norwegian fjord
+Connemara pony | connemara
+Dartmoor pony
+Exmoor pony
+Falabella
+Poitou donkey | baudet du poitou
+Kerry cow
+Red Poll
+Aubrac
+Normande
+Pinzgauer
+Hampshire Down
+Wensleydale sheep
+Leicester Longwool
+Karakul
+Soay sheep | soay
+Shetland sheep
+Babydoll sheep | babydoll southdown | southdown
+Dorper
+Katahdin
+Kiko goat | kiko
+Spanish goat
+Golden Guernsey goat
+Oberhasli
+Large Black pig
+Saddleback pig | saddleback | british saddleback
+Pietrain
+Meishan pig | meishan
+Ossabaw pig
+Red Wattle
+Mulefoot pig | mulefoot
