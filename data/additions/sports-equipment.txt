@@ -1,0 +1,859 @@
+# aliases for existing answers
+Racket | racquet | raquet | rackets | racquets | raquette
+Bike | bicycle | bikes | push bike | pushbike | road bike | racing bike
+Football | soccer ball | footy | footie | soccerball | foot ball
+Basketball | basket ball | bball
+Golf club | club | clubs | golf clubs | gold club
+Hockey stick | stick | field hockey stick | ice hockey stick | hocky stick
+Puck | hockey puck | ice hockey puck
+Baseball glove | mitt | baseball mitt | catchers mitt | catcher's mitt | fielding glove | softball glove
+Shin pads | shin guards | shinpads | shinguards | shin guard | shin pad | shinnies
+Mouthguard | mouth guard | mouthpiece | mouth piece
+Gumshield | gum shield | gumguard | gum guard
+Boxing gloves | boxing glove
+Punching bag | punch bag | punchbag | heavy bag | boxing bag | kick bag
+Skipping rope | jump rope | jumprope | skip rope | skipping ropes
+Dumbbell | dumbbells | dumbell | dumbells | dumb bell | hand weights
+Barbell | bar bell | barbel | olympic bar
+Kettlebell | kettle bell | kettlebells | kettelbell
+Weights | free weights | weight plates | plates | bumper plates
+Treadmill | running machine | tread mill
+Yoga mat | mat | exercise mat
+Ice skates | skates | figure skates | hockey skates | speed skates | iceskates
+Roller skates | rollerskates | quad skates
+Rollerblades | inline skates | roller blades | in-line skates
+Goggles | swimming goggles | swim goggles | ski goggles
+Swim cap | swimming cap | bathing cap | swimcap
+Flippers | fins | swim fins | diving fins
+Life jacket | lifejacket | buoyancy aid | life vest | pfd
+Frisbee | flying disc | frizbee | frisbe
+Hoop | basketball hoop | basketball net | rim
+Shuttlecock | birdie | shuttle | shuttlecocks | shuttle cock | birdy
+Cue | pool cue | snooker cue | billiards cue | cue stick
+Dartboard | dart board
+Darts | dart
+Cones | cone | training cones | traffic cones | marker cones
+Hurdles | hurdle
+Shot | shot put | shotput | shot-put
+Javelin | javlin | javelin
+Discus | discuss | discus
+Trampoline | trampolene | trampoline
+Balance beam | beam
+Rings | gymnastic rings | still rings | gym rings
+Vault | vaulting horse | vaulting table | vault table
+Pommel horse | pommel | pummel horse
+Parallel bars | p bars | parallel bar
+Stumps | cricket stumps
+Wicket | wickets
+Tee | golf tee | tees | batting tee | t-ball tee
+Caddy | caddie | golf caddy | golf cart
+Sled | sledge | sledding | sleigh
+Jockstrap | cup | jock strap | athletic cup | box | protective cup | groin guard
+Chest protector | chest guard | body protector
+Catcher's mask | catchers mask | catcher mask
+Hand wrap | hand wraps | boxing wraps | handwraps
+Medicine ball | med ball | medicine
+Resistance band | resistance bands | exercise band | theraband
+Exercise bike | spin bike | stationary bike | exercise bicycle | peloton
+Rowing machine | rower | erg | ergometer | rowing erg
+Cross trainer | elliptical | elliptical trainer | crosstrainer
+Bench press | weight bench | workout bench | gym bench
+Pull-up bar | pullup bar | pull up bar | chin up bar | chin-up bar
+Stability ball | swiss ball | stability | exercise ball | gym ball | yoga ball | fitness ball
+Harness | climbing harness
+Carabiner | karabiner | carabina
+Ice axe | ice ax | ice pick
+Belay device | belay | grigri
+Rash guard | rashguard | rash vest | rashie
+Paddleboard | paddle board | sup | stand up paddleboard
+Windsurf board | windsurfer | sailboard | windsurfing board
+Ski poles | ski pole | ski sticks
+Bobsled | bobsleigh | bob sled
+Curling stone | curling rock | curling stones
+Broom | curling broom | curling brush
+Épée | epee
+Sabre | saber
+Bowling ball | bowling
+Bowling pin | skittle | skittles | ten pin | tenpin
+Jack | kitty | bowls jack
+Boules | boule | petanque balls | petanque
+Starting block | starting blocks | blocks
+Baton | relay baton
+Polo mallet | polo stick
+Trophy | cup trophy | trophies
+Bodyboard | boogie board | body board
+Snowboard | snow board
+Surfboard | surf board
+
+Bindings | ski bindings | ski binding | snowboard bindings
+Foil | fleuret | fencing foil
+Ab wheel | ab roller
+Bench press | bench
+
+--- 2
+Tennis racket | tennis racquet | tennis raquet
+Badminton racket | badminton racquet | badminton raquet
+Squash racket | squash racquet
+Baseball | base ball
+Softball
+Volleyball | volley ball
+Rugby ball
+Cricket ball
+American football | gridiron ball | nfl ball | pigskin
+Netball
+Table tennis bat | ping pong paddle | ping pong bat | table tennis paddle | ping pong racket
+Ping pong ball | table tennis ball | pingpong ball
+Football boots | cleats | studs | soccer cleats | soccer boots | football cleats | boots
+Goalkeeper gloves | goalie gloves | keeper gloves | goalkeeping gloves | gk gloves
+Cycling helmet | bike helmet | bicycle helmet | cycle helmet
+Running shoes | trainers | sneakers | runners | running trainers | sports shoes
+Swimsuit | swimming costume | bathing suit | swimming trunks | trunks | cozzie | speedos
+Golf bag
+Snooker table | pool table | billiard table | billiards table
+Pool balls | snooker balls | billiard balls | billiard ball | cue ball | eight ball | 8 ball
+Beach ball
+Hula hoop | hulahoop | hula-hoop
+Scooter | kick scooter
+Unicycle
+Goalposts | goal posts | goal post | rugby posts | uprights
+Basketball shoes | high tops
+Ski helmet
+Hockey ball
+Squash ball
+Shoulder pads
+Football helmet | american football helmet | gridiron helmet
+Sweatband | sweat band | wristband | headband | sweatbands
+Water bottle | sports bottle | drinks bottle
+Boxing ring | ring ropes
+Punching mitts | focus mitts | focus pads | coaching mitts
+Sports bra
+Rugby boots
+Golf shoes
+Tennis shoes
+Spikes | running spikes | track spikes | spiked shoes
+Jersey | kit | football shirt | shirt | uniform
+
+--- 3
+Lacrosse ball
+Hockey mask | goalie mask | goaltender mask
+Goalie pads | leg pads | goalkeeper pads | leg guards
+Batting pads | cricket pads
+Wicketkeeping gloves | wicket keeper gloves | keeper's gloves | wicketkeeper gloves
+Cricket helmet
+Thigh pad | thigh guard
+Arm guard | bracer | armguard
+Quiver
+Crossbow
+Compound bow
+Recurve bow | longbow | long bow
+Rifle | air rifle | target rifle
+Pistol | air pistol | target pistol
+Shotgun | clay shotgun
+Clay pigeon | clay pigeons | clays | clay target
+Ear defenders | ear muffs | earmuffs | ear protection
+Fishing rod | fishing pole | rod
+Fishing reel | reel
+Fishing line
+Fishing net | landing net | keep net
+Hook | fishing hook | fish hook
+Lure | fishing lure | spinner
+Fly | fishing fly | flies
+Bait
+Float | bobber
+Waders | chest waders
+Tackle box
+Saddle pad | saddle cloth | numnah
+Bridle
+Riding helmet | riding hat | equestrian helmet | jockey helmet
+Riding boots | jodhpur boots
+Riding crop | whip | crop
+Horseshoe | horse shoe | horseshoes
+Jodhpurs | jodphurs | breeches
+Spurs | spur
+Racing helmet | crash helmet | motorbike helmet | motorcycle helmet
+Race suit | racing suit | fire suit | overalls
+Chequered flag | checkered flag | finish flag
+Flag | corner flag | linesman flag | linesman's flag | assistant referee flag
+Red card | yellow card | penalty card | cards
+Scorecard | score card | scorebook | score book
+Tape measure | measuring tape
+Starting pistol | starter pistol | starters gun | starting gun
+Lane ropes | lane rope | lane lines | lane dividers
+Kickboard | kick board | swim float
+Pull buoy | pullbuoy
+Hand paddles | swim paddles
+Nose clip | noseclip | nose plug
+Ear plugs | earplugs
+Diving board | springboard | spring board
+Starting platform | starting block swimming | dive block
+Wetsuit | wet suit | dry suit | drysuit
+Scuba tank | air tank | oxygen tank | diving tank | scuba gear | aqualung
+Diving mask | scuba mask | dive mask
+Weight belt | lifting belt | weightlifting belt | dive belt
+Regulator
+Buoyancy compensator | bcd
+Sail
+Mast
+Tiller | rudder
+Rowing boat | rowboat | scull | rowing shell | shell
+Dinghy | sailing dinghy
+Ski wax | wax
+Sledge hockey sled
+Snowshoes | snow shoes | snowshoe
+Ski jacket
+Ski gloves | mittens
+Ice hockey helmet | hockey helmet
+Neck guard | neck protector
+Elbow guard
+Wrist guards | wrist guard | wrist protectors | wrist support
+Ankle brace | ankle support | ankle guard
+Knee brace | knee support
+Headgear | head guard | headguard | boxing headgear | head protector
+Gi | judo gi | karate gi | kimono | dobok | judogi | karategi
+Belt | black belt | karate belt | judo belt
+Sparring pads | sparring gear
+Wrestling shoes
+Wrestling mat | judo mat | tatami | crash mat | gym mat | landing mat
+Singlet | wrestling singlet
+Fencing jacket | plastron | lame
+Fencing glove
+Fencing sword | sword
+Lacrosse helmet
+Lacrosse gloves
+Hurling helmet
+Camogie stick
+Gaelic football | gaa ball
+Handball
+Water polo ball
+Water polo cap
+Dodgeball | dodge ball
+Kickball
+Tetherball | swingball | swing ball
+Rounders bat
+Rounders ball
+Stoolball bat
+Croquet ball
+Croquet hoop | wicket hoop
+Croquet mallet | mallet
+Lawn bowls | bowls | bowl | bowling woods
+Bocce ball | bocce | boccia
+Shuffleboard
+Cornhole | bean bag toss | beanbags | bean bag
+Quoits | quoit | ring toss
+Badminton net
+Tennis net
+Volleyball net
+Table tennis table | ping pong table | ping-pong table
+Table tennis net
+Ball pump | air pump | pump | ball inflator
+Ball bag | kit bag | sports bag | gym bag | duffel bag
+Ball machine | tennis ball machine
+Pitching machine | bowling machine | batting machine
+Batting cage | cage
+Agility ladder | speed ladder | ladder | ladders
+Tackle bag | tackle bags | tackling bag
+Tackle shield | contact shield | hit shield
+Scrum machine | scrum sled
+Tackling dummy | dummy | blocking dummy
+Rebounder | rebound net
+Speed hurdles | mini hurdles
+Sled push | prowler | push sled | weight sled
+Battle ropes | battle rope | battling ropes
+Plyo box | plyometric box | jump box | box jump box
+Step | aerobic step | step platform | stepper
+Sandbag | sand bag
+Ankle weights | wrist weights
+Weighted vest | weight vest
+Stopwatch | stop watch | timer
+Whistle | referee whistle | referees whistle
+Clipboard | tactics board
+Heart rate monitor | hrm | chest strap
+Fitness tracker | fitbit | smartwatch | sports watch | gps watch
+Grip strengthener | hand grip | hand grips | grip trainer
+Lifting straps | wrist straps
+Weightlifting shoes | lifting shoes
+Squat rack | power rack | squat cage
+Smith machine
+Cable machine | cable crossover
+Leg press machine | leg press
+Lat pulldown machine | lat pulldown
+Ez bar | ez curl bar | curl bar
+Trap bar | hex bar
+Preacher bench | preacher curl bench
+Dip station | dip bars | parallettes
+Gymnastics mat
+Uneven bars | asymmetric bars
+High bar | horizontal bar
+Ribbon | rhythmic gymnastics ribbon
+Gymnastics hoop
+Leotard
+Grips | gymnastics grips | hand guards
+Chalk bag
+Crash pad | bouldering mat | bouldering pad
+Quickdraw | quick draw | quickdraws
+Belay rope | dynamic rope
+Climbing helmet
+Cams | camming device
+Nuts | climbing nuts | chocks
+Ascender | jumar
+Figure-eight | figure 8 | descender
+Climbing wall | climbing holds | holds
+Ice screws
+Rucksack | backpack
+Trekking poles | walking poles | hiking poles
+Compass
+Hiking boots | walking boots
+Bmx | bmx bike
+Mountain bike | mtb
+Track bike | fixie
+Cycling shoes | clip-ins | cleats cycling
+Cycling gloves
+Cycling shorts | lycra | bib shorts
+Pedals | clipless pedals | toe clips
+Bike lock
+Turbo trainer | bike trainer | indoor trainer
+Bike pump | tyre pump | tire pump
+Helmet visor | visor
+Sunglasses | sports sunglasses | shades
+Long jump pit | sandpit | sand pit
+High jump mat | high jump bar | crossbar
+Pole vault box
+Hammer cage
+Steeplechase barrier | water jump
+Toe board | stop board
+Shot put circle | throwing circle
+Measuring wheel
+Photo finish camera
+Skateboard ramp | half pipe | halfpipe | quarter pipe | ramp
+Skate shoes
+Longboard
+Penny board
+Bmx helmet
+Snowboard boots
+Mono ski | monoski
+Cross-country skis | xc skis | nordic skis
+Luge
+Skeleton sled | skeleton
+Biathlon rifle
+Speed skating suit | skinsuit
+Hockey gloves | ice hockey gloves
+Hockey tape | stick tape
+Sports tape | kinesiology tape | kt tape | athletic tape | strapping
+First aid kit | first aid
+Ice pack | cold spray | magic sponge | freeze spray
+Bat bag | cricket bag | cricket coffin | kit bag cricket
+Scoreboard | score board | scoreboards
+Shot clock
+Buzzer
+Bases | base | home plate | first base
+Batting gloves | batting glove
+Catcher's gear | catchers gear | shin guards catcher
+Umpire mask
+Golf trolley | push cart | buggy | golf buggy
+Golf glove
+Golf umbrella
+Putter
+Driver
+Iron | irons | golf irons
+Wedge | sand wedge | pitching wedge | lob wedge
+Hybrid | rescue club
+Fairway wood | wood | 3 wood
+Pitch mark repairer | divot tool | divot repairer
+Ball marker
+Flagstick | golf flag | flag pin
+Practice net | chipping net
+Bunker rake | rake
+
+Rhythmic clubs | juggling clubs
+Catcher's shin guards
+Kick shield | kick pads | strike shield | thai pads
+Finishing tape | finish tape
+Line marking machine | line marker | line painter
+Cue rest | spider rest
+--- 4
+Pickleball paddle | pickleball bat
+Pickleball
+Padel racket | padel bat | padel racquet
+Padel ball
+Racquetball racquet | racquetball racket
+Racquetball
+Real tennis racket
+Jai alai cesta | cesta | jai alai basket
+Pelota
+Sepak takraw ball | takraw ball | rattan ball
+Footbag | hacky sack | hackysack | hacky-sack
+Paddle ball | paddleball | bat and ball
+Fives glove
+Stoolball
+Hurley | hurl | camán | caman
+Sliotar | sliothar
+Shinty stick | caman shinty
+Bandy stick
+Bandy ball
+Floorball stick | unihockey stick
+Floorball
+Ringette stick
+Ringette ring
+Broomball broom
+Quidditch broom | quadball broom
+Korfball basket
+Korfball
+Sepak takraw net
+Spikeball | roundnet
+Ultimate disc
+Disc golf disc | disc golf basket | frolf disc
+Boomerang
+Kite | power kite | stunt kite
+Kitesurf kite | kiteboarding kite
+Wakeboard
+Kneeboard
+Water skis | water ski | waterski
+Tow rope | ski rope
+Surf leash | leg rope | leash
+Surf wax
+Surf fin | surfboard fin
+Skimboard | skim board
+Hydrofoil | foil board | foilboard | efoil
+Kayak paddle | double paddle
+Spray skirt | spraydeck | spray deck
+Canoe paddle | single paddle
+Throw bag | throw line
+Dragon boat
+Outrigger canoe | outrigger | va'a
+Coxbox | cox box
+Rowing oars | sweep oar
+Rowing gate | oarlock | rowlock
+Bilge pump
+Trapeze harness
+Spinnaker
+Buoy | race buoy | marker buoy
+Speargun | spear gun
+Snorkel mask
+Dive computer
+Monofin
+Freediving fins
+Underwater hockey stick
+Underwater hockey puck
+Climbing chalk
+Fingerboard | hangboard
+Campus board
+Rope bag
+Prusik | prusik cord
+Sling | climbing sling
+Piton | pitons
+Bolt hanger
+Via ferrata lanyard | lanyard
+Ice tools
+Avalanche transceiver | avalanche beacon | avy beacon
+Avalanche probe | probe
+Snow shovel | shovel
+Skins | climbing skins | ski skins
+Ski brakes
+Ski straps
+Snowblades | ski blades | short skis
+Telemark skis
+Ski boot bag
+Curling shoes | slider | curling slider
+Curling hack
+Gripper | curling gripper
+Bobsled helmet
+Luge sled | luge toboggan
+Skeleton helmet
+Speed skating blades | clap skates | clapskates
+Skate guards | blade guards | skate guard
+Skate sharpener
+Figure skating dress
+Hockey pants | breezers
+Hockey jock | jill
+Blocker | goalie blocker
+Catching glove | trapper
+Hockey net | hockey goal
+Hockey cage | visor hockey | full cage
+Field hockey ball
+Field hockey goalie kit | kickers | goalie kickers
+Lacrosse goal
+Lacrosse pads | lacrosse shoulder pads
+Lacrosse head | lacrosse mesh
+Crosse
+Cricket box | abdominal guard | abdo guard
+Cricket whites | whites
+Cricket cap | baggy green
+Sight screen | sightscreen
+Bat mallet | bat knocking mallet
+Linseed oil
+Bat tape | anti-scuff tape
+Heavy roller | roller | pitch roller
+Pitch cover | covers
+Boundary rope | boundary
+Catching cradle | slip cradle
+Bowling crease marker
+Rosin bag | rosin
+Bat donut | doughnut | batting weight
+Bat rack
+Pitchers glove
+First base mitt | first baseman's mitt
+Sliding shorts | sliding pads
+Eye black
+Radar gun | speed gun
+Strike zone mat
+L screen | l-screen
+Softball bat
+Cork ball
+T-ball
+Gridiron pads | football pads
+Face mask | facemask | face guard
+Chinstrap | chin strap
+Tackling sled | blocking sled
+Kicking tee | kicking block
+Down marker | first down marker | yard marker
+Penalty flag | yellow flag
+Hip pads | hip guards
+Rib protector | rib guard | flak jacket
+Scrum cap | headguard rugby | skull cap
+Rugby shoulder pads | rugby body armour
+Lineout lifting blocks
+Rugby tackle suit
+Tag belt | tag rugby belt | flag belt
+Corner post
+Touch flag
+Football net
+Goal net
+Shooting mannequin | free kick wall | free kick mannequins | wall dummies
+Bibs | training bibs | pinnies | pinnie | vest
+Marker | disc cones | flat markers | saucer cones
+Rebound board
+Captain's armband | captain armband
+Shin guard sleeves | shin sleeves
+Grip socks
+Football socks | socks
+Tennis bag | racket bag
+Racket strings | strings | stringing machine
+Overgrip | racket grip | grip tape
+Vibration dampener | dampener
+Ball hopper | hopper
+Tennis visor
+Umpire chair | umpire's chair
+Net post | net posts
+Ball can | tennis ball tube | ball tube
+Shuttle tube
+Squash goggles | eye guards
+Table tennis rubber
+Table tennis robot
+Pool chalk | cue chalk
+Triangle | pool triangle
+Cue case
+Snooker cloth | baize
+Dart flights | flights
+Dart shafts | stems
+Oche | throw line darts
+Bowling shoes
+Bowling glove
+Pin setter | pinsetter
+Kegel
+Archery target | target boss | boss
+Bow sight | sight
+Arrow rest
+Finger tab
+Release aid
+Stabiliser | stabilizer
+Bow stringer
+Nock | nocks
+Fletching | fletches | vanes
+Arrowhead | arrow point | broadhead
+Shooting glasses
+Shooting jacket
+Gun case
+Cartridge | cartridges | ammo
+Clay trap | trap machine
+Target paper
+Spotting scope | scope
+Bipod
+Fencing breeches | knickers
+Body wire | body cord
+Scoring box | fencing scoring machine
+Kendo armor | bogu | kendo armour
+Shinai | bamboo sword
+Bokken | wooden sword
+Bo staff | staff
+Nunchucks | nunchaku | nunchuks
+Kama
+Sai
+Tonfa
+Escrima sticks | kali sticks | arnis sticks
+Makiwara | striking post
+Wooden dummy | wing chun dummy | mook jong
+Breaking boards | board breaking
+Kick target | paddle target
+Body shield
+Grappling dummy | throwing dummy
+MMA gloves | mma glove | grappling gloves
+Groin protector
+Fight shorts | board shorts
+Bag gloves
+Double end bag | double-end bag
+Uppercut bag
+Maize bag | slip bag
+Wall bag
+Reflex bag | reflex ball
+Boxing boots | boxing shoes
+Corner stool | stool
+Spit bucket
+Enswell | end swell
+Gong | bell boxing | round bell
+Sumo mawashi | mawashi
+Jockey silks | silks
+Body protector equestrian | equestrian body protector
+Martingale
+Girth
+Halter | headcollar | head collar
+Lead rope
+Horse blanket | rug | horse rug
+Hoof pick
+Grooming brush | curry comb | dandy brush
+Saddlebag
+Lunge line | lunge whip
+Show jumps | jumps | jump poles | fences | horse jump
+Polo ball
+Polo helmet
+Polo saddle
+Chukka boots
+Polo wraps | leg wraps | bandages
+Bell boots | overreach boots
+Fly mask | fly veil
+Blinkers | blinders
+Starting gate | starting stalls | stalls
+Roll cage
+Hans device | hans
+Helmet camera | gopro | action camera
+Gloves racing | racing gloves
+Racing boots
+Balaclava | fireproof balaclava
+Pit board | pitboard
+Tyre warmers | tire warmers | tyre blankets
+Wheel gun | impact wrench
+Kart seat
+Motocross boots | mx boots
+Motocross goggles | mx goggles
+Body armour | body armor | roost deflector
+Leathers | motorcycle leathers | racing leathers
+Back protector | spine protector
+Knee sliders | knee slider
+Velodrome bike | track bicycle
+Time trial bike | tt bike | aero bike
+Aero helmet | tt helmet | time trial helmet
+Bidon | water bottle cage | bottle cage
+Cycling computer | bike computer | garmin
+Power meter
+Chain | bike chain
+Bike stand | work stand
+Tyre levers | tire levers
+Inner tube | puncture kit | puncture repair kit
+Mudguards | fenders
+Bike lights | lights
+Chamois cream
+Arm warmers | leg warmers
+Overshoes | shoe covers
+Racing number | bib number | race number
+Timing chip
+Gel | energy gel | energy gels
+Running belt | race belt
+Compression socks | compression sleeves
+Running vest | hydration vest | hydration pack | camelbak
+Headlamp | head torch
+Pedometer
+Gps tracker
+Massage gun | theragun | percussion gun
+Massage ball | lacrosse ball massage | spiky ball
+Trigger point ball
+Stretching strap | stretch strap | yoga strap
+Yoga block | yoga brick | yoga blocks
+Yoga bolster | bolster
+Yoga wheel
+Pilates ring | magic circle
+Pilates reformer | reformer
+Pilates ball | mini ball
+Bosu ball | bosu | bosu trainer
+Wobble board
+Balance pad
+Slam ball | slamball
+Wall ball | wallball
+Parallette bars
+Ab bench | sit up bench | decline bench
+Hyperextension bench | back extension bench | roman chair
+Glute ham developer | ghd
+Hip thrust bench
+Power tower
+Vibration plate
+Stair climber | stairmaster | step machine
+Assault bike | air bike | fan bike
+Ski erg | skierg
+Curve treadmill
+Leg extension machine | leg extension
+Hamstring curl machine | leg curl machine
+Pec deck | pec fly machine | chest fly machine
+Chest press machine
+Shoulder press machine
+Hack squat machine | hack squat
+Calf raise machine
+Abductor machine | adductor machine | hip abductor
+Landmine | landmine attachment
+Weight plate tree | plate rack
+Dumbbell rack
+Barbell collars | collars | clips | spring clips
+Weight stack
+Cable attachments | tricep rope | v bar | d handle
+Chalk ball | liquid chalk
+Lifting chains
+Lifting blocks
+Deadlift jack
+Deadlift platform | lifting platform | platform
+Knee sleeves | knee wraps
+Wrist wraps
+Elbow sleeves
+Bench shirt | squat suit
+Shaker bottle | shaker | protein shaker
+Mini bands | loop bands | booty bands
+Suspension trainer | trx | trx straps | suspension straps
+Gymnastics springboard | beat board | springboard gymnastics
+Pit | foam pit
+Tumble track | air track | airtrack | tumbling mat
+Mushroom | pommel mushroom
+Spotting belt | spotting rig
+Rhythmic ball
+Rhythmic rope
+Trampoline net | safety net
+Mini trampoline | rebounder trampoline | trampette
+Pogo stick | pogo
+Stilts
+Space hopper | hopper ball
+Jumping stilts
+Slackline
+Rope swing
+Monkey bars
+Cargo net
+Wall bars | stall bars | swedish ladder
+Egg and spoon
+Sack race sack | sack | potato sack
+Parachute | play parachute
+Tug of war rope | tug-of-war rope
+Ball thrower | chuckit
+
+--- 5
+Weight throw | weight for distance
+Caber
+Stone put | braemar stone
+Sheaf toss pitchfork | sheaf
+Atlas stone | atlas stones
+Log press | strongman log
+Yoke | strongman yoke
+Farmer's walk handles | farmers walk handles | farmers handles
+Axle bar | fat bar
+Tyre flip tyre | tractor tyre | tire flip
+Sledgehammer | sledge hammer
+Indian clubs | indian club
+Steel mace | macebell
+Clubbell
+Gada
+Bulgarian bag
+Meteor ball
+Kabaddi mat
+Mallakhamb pole | mallakhamb
+Gilli danda
+Chunkey stone
+Lagori
+Bossaball
+Teqball table
+Discus net
+Pala | frontenis racket
+Paleta
+Bandy skates
+Knattleikr bat
+Real tennis ball
+Rackets ball
+Eton fives ball
+Battledore
+Bat and trap bat
+Trap ball
+Knur and spell
+Kubb set | kubb
+Mölkky | molkky
+Ringo ring
+Pétanque cochonnet | cochonnet
+Bocce pallino | pallino
+Shot put shoes | throwing shoes
+Javelin boots
+Jump shoes | high jump spikes
+Pole vault standards | uprights pole vault
+Landing pad pole vault
+Hurdle wall
+Steeplechase water pit
+Tactics magnetic board
+Dive stick | diving brick | swim brick
+Swim snorkel | centre snorkel | center snorkel
+Tempo trainer
+Drag chute | swim parachute
+Tech suit | fastskin | jammer | jammers
+Water polo goal
+Canoe polo stick
+Canoe polo ball
+Underwater rugby ball
+Windsurf boom | boom
+Kitebar | control bar
+Kite leash
+Sailing gloves
+Sailing boots | sea boots
+Spray top | spray jacket
+Cagoule | kag
+Whitewater helmet
+Swim buoy | tow float | open water buoy
+Water wings | armbands | arm bands | puddle jumper
+Swim noodle | pool noodle | noodle
+Rubber ring | swim ring
+Rescue tube | torpedo buoy
+Rescue board
+Paddle leash
+Ball retriever | ball scoop
+Ball washer
+Golf rangefinder | rangefinder
+Golf scorecard
+Golf towel
+Headcovers | head cover | headcover
+Alignment sticks | alignment stick
+Putting mat | putting green
+Golf simulator
+Croquet peg | croquet stake | finishing peg
+Croquet clips
+Bowls measure | measure
+Bowls mat
+Bowls bag
+Bowling arm | bowls arm
+Bowls cloth
+Petanque magnet
+Duckpin
+Candlepin
+Curling stopwatch
+Biathlon target
+Ski jump skis | jumping skis
+Ski jump suit
+Snowboard leash
+Stomp pad
+Ski rack
+Snow cannon | snow machine
+Piste basher | snowcat | groomer
+Gate | slalom gate | slalom pole | ski gate
+Downhill skis
+Twin tip skis
+Freeride skis
+Ice skating aid | skating penguin | skate aid
+Pond hockey net
+Zamboni | ice resurfacer
+Tape ball
+Cricket sight screen
+Bat cover
+Inner gloves | batting inners
+Fielding helmet | short leg helmet
+Cricket spikes
+Umpire counter | counter | clicker
+Incrediball
+Windball
+
