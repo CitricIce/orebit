@@ -126,24 +126,30 @@ export function findAnswer<T extends Matchable>(index: AnswerIndex<T>, guess: st
     if (hit) return hit;
   }
 
-  // "Cheddar cheese", "pug dog": try the guess with one extra word dropped.
-  const words = normalizeWords(guess);
-  const shorter: string[] = [];
-  if (words.length >= 2) {
-    for (let i = 0; i < words.length; i++) {
-      const rest = stripPlural(words.filter((_, j) => j !== i).join(""));
-      if (rest.length < 4) continue;
-      const hit = index.exact.get(rest);
-      if (hit) return hit;
-      shorter.push(rest);
-    }
-  }
+  // Then a small typo on the whole guess.
+  const whole = closest(index, [stripPlural(raw)]);
+  if (whole) return whole;
 
-  // Typos, on the whole guess or on it with one word dropped
-  // ("strawberry cheescake" finds Cheesecake).
+  // "Cheddar cheese", "pug dog": the guess with one extra word dropped,
+  // exactly first, then with a typo ("strawberry cheescake").
+  const words = normalizeWords(guess);
+  if (words.length < 2) return null;
+  const shorter: string[] = [];
+  for (let i = 0; i < words.length; i++) {
+    const rest = stripPlural(words.filter((_, j) => j !== i).join(""));
+    if (rest.length < 4) continue;
+    const hit = index.exact.get(rest);
+    if (hit) return hit;
+    shorter.push(rest);
+  }
+  return closest(index, shorter);
+}
+
+/** The one answer closest to any of the keys within the typo allowance, or null on a tie. */
+function closest<T extends Matchable>(index: AnswerIndex<T>, keys: string[]): T | null {
   let best = Infinity;
   let winners = new Set<T>();
-  for (const key of [stripPlural(raw), ...shorter]) {
+  for (const key of keys) {
     const max = allowedTypos(key.length);
     if (max === 0) continue;
     for (const entry of index.keys) {
@@ -159,7 +165,7 @@ export function findAnswer<T extends Matchable>(index: AnswerIndex<T>, guess: st
       }
     }
   }
-  if (winners.size === 1) return [...winners][0];
-  return null;
+  return winners.size === 1 ? [...winners][0] : null;
 }
+
 
