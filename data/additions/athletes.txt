@@ -1,0 +1,1301 @@
+# aliases for existing answers
+--- 2
+Lionel Messi | leo messi | lionel messy | messy | leo
+Cristiano Ronaldo | christiano ronaldo | cristiano | christiano | cristiano ronaldo cr7
+Michael Jordan | mj | micheal jordan | air jordan
+LeBron James | lebron james | labron | labron james | king james | lebron jame
+Serena Williams | serena william
+Usain Bolt | usain
+Tiger Woods | tiger wood | woods
+Muhammad Ali | mohammed ali | mohamed ali | muhammed ali | cassius clay
+Roger Federer | roger fedderer | fedderer | federrer
+Michael Phelps | micheal phelps
+Tom Brady | tom bradey
+Kobe Bryant | kobe bryant | kobe brian | bryant
+Shaquille O'Neal | shaquille oneal | shaquille o neal | shaq oneal | o'neal | oneal
+Stephen Curry | stephen curry | steph
+Kevin Durant | kd
+Magic Johnson | magic | earvin johnson
+Larry Bird | bird
+Wayne Gretzky | the great one | gretsky
+Babe Ruth | ruth
+Pelé | pelè
+Diego Maradona | diego armando maradona | maradonna
+Zinedine Zidane | zizou
+Neymar | neymar jr | neymar junior | neymar da silva
+Kylian Mbappé | kylian mbappe | kilian mbappe | mbape
+Erling Haaland | erling halaand | haland | halaand | erling braut haaland
+Mohamed Salah | mo salah | mohammed salah | mohamad salah
+Thierry Henry | titi
+Rafael Nadal | rafa nadal | rafa
+Novak Djokovic | novak djokovič | djokovič | jokovic | novak | djokavic | nole
+Maria Sharapova | sharapov
+Simone Biles | simone bile | simone
+Mike Tyson | iron mike
+Floyd Mayweather | floyd mayweather jr | money mayweather
+Manny Pacquiao | pacman | pacquio | manny pacman
+Conor McGregor | connor mcgregor | connor mc gregor | conor mc gregor | mc gregor | the notorious
+Lewis Hamilton | lewis hamiltom
+Max Verstappen | max verstapen | verstapen
+Ayrton Senna | aryton senna
+Patrick Mahomes | pat mahomes | mahommes
+Peyton Manning | manning
+Shohei Ohtani | shohei otani | otani
+Sachin Tendulkar | sachin
+Virat Kohli | virat | kholi
+Lance Armstrong | armstrong
+Tony Hawk | hawk
+Carl Lewis
+Jesse Owens
+Mo Farah | mohamed farah | farah
+Sidney Crosby | sid crosby
+Alex Ovechkin | ovi | ovechkin
+Kareem Abdul-Jabbar | kareem abdul jabbar | abdul-jabbar | abdul jabbar
+Wilt Chamberlain | wilt | chamberlain
+Tim Duncan | duncan
+Giannis Antetokounmpo | antetokounmpo | giannis antetokoumpo | giannis antetokunmpo | giannis antetokounpo | greek freak | yannis
+Luka Dončić | doncic | dončić | luka doncich
+Caitlin Clark | caitlyn clark | catlin clark
+Megan Rapinoe | meghan rapinoe
+Alex Morgan
+Mia Hamm | hamm
+Naomi Osaka
+Coco Gauff | cori gauff
+Carlos Alcaraz | carlitos
+Jannik Sinner | yannik sinner | janik sinner
+Arnold Palmer | palmer
+Jerry Rice
+Joe Montana | montana
+Derek Jeter
+Shaun White
+Eliud Kipchoge
+Dennis Rodman
+--- 3
+Steffi Graf | graf | stephanie graf
+Martina Navratilova | navratilova
+Billie Jean King
+Chris Evert | evert | chrissie evert
+Pete Sampras | sampras
+Andre Agassi | agassi
+John McEnroe | mcenroe | johnny mac
+Björn Borg | bjorn borg
+Bobby Fischer | fischer | bobby fisher
+Garry Kasparov | kasparov | gary kasparov
+Magnus Carlsen | carlsen | magnus carlson
+Nadia Comăneci | comaneci | nadia
+Mark Spitz | spitz
+Ian Thorpe | thorpe | thorpedo
+Katie Ledecky | ledecky
+Florence Griffith Joyner | flojo | flo-jo | griffith joyner
+Jackie Joyner-Kersee | jackie joyner kersee | joyner-kersee
+Sergey Bubka | bubka | sergei bubka
+Haile Gebrselassie | gebrselassie
+Paula Radcliffe | radcliffe
+Jessica Ennis-Hill | jessica ennis | ennis
+Kelly Holmes
+Sebastian Coe | seb coe | coe
+Steve Redgrave | redgrave
+Chris Hoy | hoy
+Bradley Wiggins | wiggins | wiggo
+Eddy Merckx | merckx | eddie merckx
+Chris Froome | froome
+Tadej Pogačar | tadej pogacar | pogacar | pogačar
+Valentino Rossi | rossi
+Marc Márquez | marc marquez
+Sebastian Vettel | vettel
+Fernando Alonso | alonso
+Niki Lauda | lauda | nikki lauda
+Juan Manuel Fangio | fangio
+Dale Earnhardt | earnhardt | dale earnhardt sr
+Jimmie Johnson | jimmy johnson
+Sugar Ray Leonard
+Rocky Marciano | marciano
+George Foreman | foreman
+Joe Frazier | frazier
+Evander Holyfield | holyfield
+Lennox Lewis
+Tyson Fury | fury
+Anthony Joshua | aj
+Canelo Álvarez | canelo alvarez | saul alvarez
+Ronda Rousey | rousey | rhonda rousey
+Jon Jones | bones jones
+Georges St-Pierre | georges st pierre | gsp | st-pierre | george st pierre
+Khabib Nurmagomedov | nurmagomedov
+Hulk Hogan | hogan | hulk
+Dwayne Johnson | the rock | rock | dwayne the rock johnson
+Don Bradman | bradman | donald bradman
+Shane Warne | warne
+Brian Lara | lara
+Ian Botham | botham
+Muttiah Muralitharan | muralitharan | murali
+Imran Khan
+MS Dhoni | mahendra singh dhoni | m s dhoni | ms dhoni
+Gareth Bale | bale
+Steven Gerrard | gerrard | stevie g
+Frank Lampard | lampard
+Paul Scholes | scholes
+Ryan Giggs | giggs
+Bobby Charlton | charlton
+Johan Cruyff | cruyff | johan cruijff | cruijff
+Franz Beckenbauer | beckenbauer
+Gerd Müller | gerd muller | gerd mueller
+Eusébio | eusebio
+Alfredo Di Stéfano | alfredo di stefano | di stefano | di stéfano
+Ferenc Puskás | ferenc puskas | puskas | puskás
+Lev Yashin | yashin
+Gianluigi Buffon | buffon | gigi buffon
+Paolo Maldini | maldini
+Andrea Pirlo | pirlo
+Francesco Totti | totti
+Ronaldo Nazário | ronaldo nazario | r9 | ronaldo de lima | ronaldo luis nazario | il fenomeno | fenomeno
+Kaká | kaka | ricardo kaka
+Luka Modrić | luka modric | modric | modrić
+Andrés Iniesta | andres iniesta | iniesta
+Xavi | xavi hernandez | xavi hernández
+Sergio Ramos | ramos
+Robert Lewandowski | lewandowski | lewy
+Harry Kane | kane
+Kevin De Bruyne | de bruyne | kdb | debruyne
+Jude Bellingham | bellingham
+Vinícius Júnior | vinicius junior | vinicius jr | vini jr | vini
+Lamine Yamal | yamal
+Hank Aaron
+Willie Mays | mays
+Mickey Mantle | mantle
+Jackie Robinson
+Lou Gehrig | gehrig
+Ted Williams
+Barry Bonds | bonds
+Mark McGwire | mcgwire
+Sammy Sosa | sosa
+Ken Griffey Jr. | ken griffey jr | ken griffey junior | ken griffey | griffey
+Aaron Judge | judge
+Mike Trout | trout
+Jim Brown
+Walter Payton
+Barry Sanders
+Emmitt Smith | emmit smith
+Lawrence Taylor
+Dan Marino | marino
+John Elway | elway
+Brett Favre | favre
+Aaron Rodgers | rodgers
+Travis Kelce | kelce
+Bo Jackson
+Deion Sanders | prime time | coach prime
+Mario Lemieux | lemieux
+Bobby Orr | orr
+Gordie Howe | howe
+Connor McDavid | mcdavid | conor mcdavid
+Bill Russell
+Oscar Robertson | big o
+Hakeem Olajuwon | olajuwon | hakeem
+Allen Iverson | iverson | ai
+Dirk Nowitzki | nowitzki | dirk
+Kevin Garnett | garnett | kg
+Dwyane Wade | dwayne wade | wade | d wade
+Chris Paul | cp3
+Kawhi Leonard | kawhi
+Nikola Jokić | nikola jokic | jokić | joker
+Victor Wembanyama | wembanyama
+
+# new answers
+--- 2
+Karim Benzema | benzema
+Zlatan Ibrahimović | zlatan ibrahimovic | ibrahimovic | ibrahimović | zlatan
+Luis Suárez | luis suarez | suarez | suárez
+Didier Drogba | drogba
+Joel Embiid | embiid
+Jayson Tatum | tatum
+James Harden | harden
+Russell Westbrook | westbrook
+Damian Lillard | lillard | dame
+Klay Thompson | klay
+Kyrie Irving | kyrie | irving
+Anthony Davis | the brow
+Scottie Pippen | pippen
+Charles Barkley | barkley
+Karl Malone
+Patrick Ewing | ewing
+Vince Carter
+Yao Ming | yao
+Steve Nash | nash
+Ray Allen
+Reggie Miller
+Carmelo Anthony | melo | carmelo
+Pau Gasol | gasol
+Tony Parker
+Derrick Rose | d rose
+Zion Williamson | zion
+Shai Gilgeous-Alexander | shai gilgeous alexander | sga | shai
+A'ja Wilson | aja wilson
+Sue Bird
+Josh Allen
+Lamar Jackson
+Joe Burrow | burrow
+Odell Beckham Jr. | odell beckham | obj | odell
+Randy Moss
+Drew Brees | brees
+Eli Manning
+Cam Newton
+Colin Kaepernick | kaepernick
+Rob Gronkowski | gronk | gronkowski
+Tim Tebow | tebow
+Joe Namath | broadway joe | namath
+Ichiro Suzuki | ichiro
+Alex Rodriguez | a-rod | arod
+Pete Rose
+Nolan Ryan
+Clayton Kershaw | kershaw
+David Ortiz | big papi
+Bryce Harper
+Mariano Rivera
+Yogi Berra | yogi
+Mario Andretti | andretti
+Danica Patrick
+Dale Earnhardt Jr. | dale earnhardt jr | dale jr
+Richard Petty | the king
+Charles Leclerc | leclerc
+Lando Norris | lando | norris
+Kimi Räikkönen | kimi raikkonen | raikkonen | räikkönen | kimi
+Alain Prost | prost
+Nico Rosberg | rosberg
+Jenson Button | button
+Daniel Ricciardo | ricciardo
+Michael Johnson
+Allyson Felix
+Ryan Lochte | lochte
+Gabby Douglas
+Lindsey Vonn | vonn | lindsay vonn
+Mikaela Shiffrin | shiffrin
+Chloe Kim
+Bode Miller
+Michelle Kwan | kwan
+Tonya Harding
+Kristi Yamaguchi | yamaguchi
+Kelly Slater | slater
+Phil Mickelson | mickelson | lefty
+Jordan Spieth | spieth
+Scottie Scheffler | scheffler
+Bryson DeChambeau | dechambeau | bryson
+Gary Player
+Seve Ballesteros | seve | ballesteros
+Nick Faldo | faldo
+Ben Hogan
+Iga Świątek | iga swiatek | swiatek | świątek
+Aryna Sabalenka | sabalenka
+Daniil Medvedev | medvedev
+Andy Roddick | roddick
+Jimmy Connors | connors
+Boris Becker | becker
+Arthur Ashe | ashe
+Rod Laver | laver
+Monica Seles | seles
+Martina Hingis | hingis
+Anna Kournikova | kournikova
+Emma Raducanu | raducanu
+Nick Kyrgios | kyrgios
+Jake Paul
+Logan Paul
+Oleksandr Usyk | usyk
+Deontay Wilder | wilder
+Roy Jones Jr. | roy jones jr | roy jones
+Oscar De La Hoya | de la hoya
+Sugar Ray Robinson
+Israel Adesanya | adesanya | izzy
+Anderson Silva
+Amanda Nunes | nunes
+Brock Lesnar | lesnar
+Chuck Liddell | liddell
+Nate Diaz
+Francis Ngannou | ngannou
+Fedor Emelianenko | fedor
+John Cena | cena
+Stone Cold Steve Austin | stone cold | steve austin
+The Undertaker | undertaker
+Ric Flair | flair | ric flair woo
+Randy Savage | macho man | macho man randy savage
+André the Giant | andre the giant
+Roman Reigns | reigns
+Triple H
+Mark Messier | messier
+Jaromír Jágr | jaromir jagr | jagr
+Patrick Roy
+Robin van Persie | van persie | rvp
+Arjen Robben | robben
+Virgil van Dijk | van dijk | vvd
+Frenkie de Jong
+Marco van Basten | van basten
+Ruud Gullit | gullit
+Dennis Bergkamp | bergkamp
+Thomas Müller | thomas muller | thomas mueller
+Manuel Neuer | neuer
+Toni Kroos | kroos
+Mesut Özil | mesut ozil | ozil | özil
+Iker Casillas | casillas
+David Villa
+Fernando Torres | torres | el nino
+Raúl | raul gonzalez | raúl gonzález
+Antoine Griezmann | griezmann
+Paul Pogba | pogba
+N'Golo Kanté | ngolo kante | kante | kanté
+Michel Platini | platini
+Patrick Vieira | vieira
+Eric Cantona | cantona | king eric
+Roberto Baggio | baggio
+Alessandro Del Piero | del piero
+Romário | romario
+Rivaldo
+Roberto Carlos
+Cafu
+Luis Figo | luís figo | figo
+Gabriel Batistuta | batistuta | batigol
+Ángel Di María | angel di maria | di maria | di maría
+Sergio Agüero | sergio aguero | aguero | agüero | kun aguero
+Carlos Tevez | tevez
+Edinson Cavani | cavani
+James Rodríguez | james rodriguez
+Javier Hernández | chicharito
+Landon Donovan
+Christian Pulisic | pulisic
+Abby Wambach | wambach
+Carli Lloyd
+Hope Solo
+Alexia Putellas | putellas | alexia
+Sam Kerr
+Marta | marta vieira da silva
+Sadio Mané | sadio mane | mane | mané
+Andriy Shevchenko
+Peter Schmeichel | schmeichel
+Kenny Dalglish | dalglish | king kenny
+Roy Keane | keane
+Gary Lineker | lineker
+Alan Shearer | shearer
+Michael Owen
+Bobby Moore
+Paul Gascoigne | gascoigne | gazza
+Rio Ferdinand
+John Terry
+Marcus Rashford | rashford
+Bukayo Saka | saka
+Phil Foden | foden
+Son Heung-min | son heung min | heung-min son | sonny
+Romelu Lukaku | lukaku
+Eden Hazard | hazard
+Rohit Sharma
+Rahul Dravid | dravid
+Joe Root | root
+Ben Stokes | stokes
+James Anderson | jimmy anderson
+Andrew Flintoff | flintoff | freddie flintoff
+Ricky Ponting | ponting
+Steve Smith
+Babar Azam | babar
+Wasim Akram | wasim
+Shoaib Akhtar | shoaib akhtar | rawalpindi express
+Viv Richards | vivian richards
+Chris Gayle | gayle
+AB de Villiers | ab de villiers | abd | de villiers
+Jonah Lomu | lomu
+Jonny Wilkinson | wilkinson
+Ronnie O'Sullivan | o'sullivan | osullivan | ronnie | the rocket
+Phil Taylor | the power
+Luke Littler | littler | luke the nuke
+Michael van Gerwen | van gerwen | mvg
+Hikaru Nakamura | nakamura | hikaru
+Jonas Vingegaard | vingegaard
+Mark Cavendish | cavendish | cav
+Mo Farah
+Tom Daley
+Kelly Slater
+Lewis Hamilton
+Neeraj Chopra | neeraj | chopra
+Julius Erving | dr j | dr. j | erving
+Clayton Kershaw
+Xabi Alonso
+--- 4
+Kylian Mbappé
+Lamine Yamal
+Erling Haaland
+Samuel Eto'o | samuel etoo | eto'o | etoo
+Jimmy Butler | jimmy buckets
+Anthony Edwards | ant edwards | ant-man
+Ja Morant | morant
+Paul George
+Draymond Green | draymond
+Tracy McGrady | t-mac | tmac | mcgrady
+Jason Kidd | kidd
+Isiah Thomas
+Dominique Wilkins
+Paul Pierce | pierce
+Manu Ginóbili | manu ginobili | ginobili | ginóbili
+Blake Griffin
+Devin Booker | booker
+Donovan Mitchell
+Trae Young
+Jalen Brunson | brunson
+Paolo Banchero | banchero
+Chet Holmgren | holmgren
+Breanna Stewart
+Sabrina Ionescu | ionescu
+Angel Reese
+Diana Taurasi | taurasi
+Candace Parker
+Lisa Leslie
+Brittney Griner | griner
+Jalen Hurts | hurts
+Justin Jefferson
+Christian McCaffrey | mccaffrey | cmc
+Saquon Barkley | saquon
+Derrick Henry
+Terrell Owens | t.o.
+Ben Roethlisberger | roethlisberger | big ben
+Russell Wilson
+Michael Vick | vick
+Tom Brady
+J.J. Watt | jj watt
+Aaron Donald
+Calvin Johnson | megatron
+Marshawn Lynch | beast mode
+Ray Lewis
+Troy Polamalu | polamalu
+Johnny Unitas | unitas
+Tyreek Hill
+Davante Adams
+Roberto Clemente | clemente
+Cal Ripken Jr. | cal ripken | ripken
+Randy Johnson
+Albert Pujols | pujols
+Mookie Betts | mookie
+Juan Soto
+Pedro Martínez | pedro martinez
+Ty Cobb | cobb
+Roger Clemens | clemens
+Jose Altuve | altuve
+Oscar Piastri | piastri
+Carlos Sainz
+Sergio Pérez | sergio perez | checo perez | checo
+George Russell
+Mika Häkkinen | mika hakkinen | hakkinen
+Nigel Mansell | mansell
+Jackie Stewart
+Shelly-Ann Fraser-Pryce | shelly ann fraser pryce | fraser-pryce
+Sha'Carri Richardson | shacarri richardson
+Noah Lyles | lyles
+Mondo Duplantis | armand duplantis | duplantis
+Sydney McLaughlin | sydney mclaughlin-levrone | mclaughlin-levrone
+Wayde van Niekerk
+Yohan Blake
+Justin Gatlin | gatlin
+Asafa Powell
+Marion Jones
+Daley Thompson
+Caster Semenya | semenya
+Missy Franklin
+Adam Peaty | peaty
+Caeleb Dressel | dressel
+Léon Marchand | leon marchand | marchand
+Aly Raisman | raisman
+Sunisa Lee | suni lee
+Mary Lou Retton
+Kerri Strug
+Olga Korbut | korbut
+Picabo Street
+Eileen Gu
+Nancy Kerrigan | kerrigan
+Yuzuru Hanyu | hanyu
+Apolo Ohno | apolo anton ohno
+Eric Heiden
+Bethany Hamilton
+Rob Dyrdek
+Nyjah Huston
+Ryan Sheckler
+Travis Pastrana | pastrana
+Brooks Koepka | koepka
+Dustin Johnson
+Justin Thomas
+Bobby Jones
+Annika Sörenstam | annika sorenstam | sorenstam
+Nelly Korda | korda
+Ernie Els | els
+Vijay Singh
+Jon Rahm | rahm
+Collin Morikawa | morikawa
+Greg Norman | norman
+Lee Trevino | trevino
+John Daly
+Rickie Fowler | fowler
+Stan Wawrinka | wawrinka
+Ivan Lendl | lendl
+Stefan Edberg | edberg
+Justine Henin | henin
+Kim Clijsters | clijsters
+Lindsay Davenport
+Taylor Fritz
+Ben Shelton
+Frances Tiafoe | tiafoe
+Holger Rune
+Alexander Zverev | zverev | sascha zverev
+Stefanos Tsitsipas | tsitsipas
+Dominic Thiem | thiem
+Juan Martín del Potro | juan martin del potro | del potro | delpo
+Elena Rybakina | rybakina
+Jessica Pegula | pegula
+Ons Jabeur | jabeur
+Petra Kvitová | petra kvitova | kvitova
+Caroline Wozniacki | wozniacki
+Simona Halep | halep
+Victoria Azarenka | azarenka
+Ana Ivanovic
+Li Na
+Gervonta Davis | tank davis
+Terence Crawford
+Naoya Inoue
+Vasyl Lomachenko | lomachenko | loma
+Wladimir Klitschko
+Vitali Klitschko
+Bernard Hopkins
+Julio César Chávez | julio cesar chavez
+Marvin Hagler | marvelous marvin hagler | hagler
+Thomas Hearns | hitman hearns | hearns
+Roberto Durán | roberto duran | duran
+Jack Dempsey | dempsey
+Jack Johnson
+Sonny Liston | liston
+Ken Norton
+Larry Holmes
+Riddick Bowe
+Prince Naseem Hamed | naseem hamed | prince naseem
+Ricky Hatton | hatton
+Frank Bruno | bruno
+Amir Khan
+Claressa Shields
+Katie Taylor
+Laila Ali
+Alex Pereira
+Islam Makhachev | makhachev
+Daniel Cormier | cormier | dc
+Dustin Poirier | poirier
+Nick Diaz
+Jorge Masvidal | masvidal
+Valentina Shevchenko | shevchenko
+Kamaru Usman | usman
+Max Holloway | holloway
+Alexander Volkanovski | volkanovski
+Ilia Topuria | topuria
+Justin Gaethje | gaethje
+Sean O'Malley | sugar sean
+Paddy Pimblett | paddy the baddie
+Tito Ortiz
+Shawn Michaels | hbk
+Bret Hart | bret the hitman hart
+Rey Mysterio | mysterio
+Batista | dave bautista
+The Ultimate Warrior | ultimate warrior
+Randy Orton | orton
+CM Punk
+Becky Lynch
+Ronda Rousey
+Wayne Gretzky
+Patrick Kane
+Auston Matthews
+Nathan MacKinnon | mackinnon
+Steve Yzerman | yzerman
+Maurice Richard | rocket richard
+Martin Brodeur | brodeur
+Dominik Hašek | dominik hasek | hasek
+Brett Hull
+Teemu Selänne | teemu selanne | selanne
+Joe Sakic | sakic
+Wayne Rooney
+Ruud van Nistelrooy | van nistelrooy
+Wesley Sneijder | sneijder
+Clarence Seedorf | seedorf
+Edgar Davids | davids
+Patrick Kluivert | kluivert
+Edwin van der Sar | van der sar
+Philipp Lahm | lahm
+Bastian Schweinsteiger | schweinsteiger | schweini
+Miroslav Klose | klose
+Michael Ballack | ballack
+Oliver Kahn | kahn
+Lothar Matthäus | lothar matthaus | matthaus | matthäus
+Jürgen Klinsmann | jurgen klinsmann | klinsmann
+Jamal Musiala | musiala
+Florian Wirtz | wirtz
+Carles Puyol | puyol
+Gerard Piqué | gerard pique | pique | piqué
+Sergio Busquets | busquets
+Cesc Fàbregas | cesc fabregas | fabregas | cesc
+David Silva
+Pedri
+Gavi
+Rodri
+Álvaro Morata | alvaro morata | morata
+Franck Ribéry | franck ribery | ribery | ribéry
+Claude Makélélé | claude makelele | makelele
+Olivier Giroud | giroud
+Hugo Lloris | lloris
+Ousmane Dembélé | ousmane dembele | dembele | dembélé
+Fabien Barthez | barthez
+Robert Pirès | robert pires | pires
+Lilian Thuram | thuram
+Marcel Desailly | desailly
+Fabio Cannavaro | cannavaro
+Alessandro Nesta | nesta
+Franco Baresi | baresi
+Christian Vieri | vieri
+Filippo Inzaghi | inzaghi | pippo inzaghi
+Gianluigi Donnarumma | donnarumma
+Mario Balotelli | balotelli
+Daniele De Rossi | de rossi
+Giorgio Chiellini | chiellini
+Leonardo Bonucci | bonucci
+Dino Zoff | zoff
+Paolo Rossi
+Zico
+Garrincha
+Sócrates | socrates
+Dani Alves
+Marcelo
+Thiago Silva
+Casemiro
+Alisson Becker | alisson
+Ederson
+Rodrygo
+Raphinha
+Adriano
+Rui Costa
+Bernardo Silva
+Bruno Fernandes
+João Félix | joao felix
+Pepe
+Rafael Leão | rafael leao | leao
+Javier Zanetti | zanetti
+Javier Mascherano | mascherano
+Juan Román Riquelme | juan roman riquelme | riquelme
+Mario Kempes | kempes
+Gonzalo Higuaín | gonzalo higuain | higuain
+Lautaro Martínez | lautaro martinez | lautaro
+Julián Álvarez | julian alvarez
+Emiliano Martínez | emi martinez | dibu martinez | dibu
+Paulo Dybala | dybala
+Enzo Fernández | enzo fernandez
+Alexis Mac Allister | mac allister
+Diego Forlán | diego forlan | forlan
+Federico Valverde | fede valverde | valverde
+Darwin Núñez | darwin nunez
+Radamel Falcao | falcao
+Carlos Valderrama | valderrama
+René Higuita | rene higuita | higuita
+Luis Díaz | luis diaz
+Alexis Sánchez | alexis sanchez
+Arturo Vidal | vidal
+Hugo Sánchez | hugo sanchez
+Rafael Márquez | rafael marquez
+Guillermo Ochoa | memo ochoa | ochoa
+Hirving Lozano | chucky lozano
+Clint Dempsey
+Tim Howard
+Brandi Chastain | chastain
+Christen Press
+Tobin Heath
+Lindsey Horan | horan
+Sophia Smith
+Trinity Rodman
+Aitana Bonmatí | aitana bonmati | bonmati | aitana
+Ada Hegerberg | hegerberg
+Lucy Bronze
+Beth Mead
+Leah Williamson
+Alessia Russo
+Chloe Kelly
+Mary Earps | earps
+Wendie Renard
+Vivianne Miedema | miedema
+Christine Sinclair
+Mohamed Salah
+Riyad Mahrez | mahrez
+George Weah | weah
+Yaya Touré | yaya toure | toure
+Kolo Touré | kolo toure
+Michael Essien | essien
+Jay-Jay Okocha | jay jay okocha | okocha
+Nwankwo Kanu | kanu
+Roger Milla | milla
+Achraf Hakimi | hakimi
+Victor Osimhen | osimhen
+Mohamed Kudus | kudus
+Pierre-Emerick Aubameyang | aubameyang | auba
+Abedi Pelé | abedi pele
+Emmanuel Adebayor | adebayor
+Hakim Ziyech | ziyech
+Davor Šuker | davor suker | suker
+Ivan Rakitić | ivan rakitic | rakitic
+Hristo Stoichkov | stoichkov
+Gheorghe Hagi | hagi
+Pavel Nedvěd | pavel nedved | nedved
+Petr Čech | petr cech | cech
+Michael Laudrup | laudrup
+Christian Eriksen | eriksen
+Henrik Larsson | larsson
+Freddie Ljungberg | ljungberg
+Ole Gunnar Solskjær | ole gunnar solskjaer | solskjaer
+Martin Ødegaard | martin odegaard | odegaard | ødegaard
+Denis Law
+Robbie Keane
+Geoff Hurst | hurst
+Gordon Banks
+Jimmy Greaves | greaves
+Kevin Keegan | keegan
+Stanley Matthews
+Ashley Cole
+Gary Neville
+Jamie Carragher | carragher
+Peter Crouch | crouch
+Jamie Vardy | vardy
+Raheem Sterling | sterling
+Declan Rice
+Cole Palmer
+Jack Grealish | grealish
+Trent Alexander-Arnold | trent alexander arnold | trent | taa
+Jordan Henderson
+Park Ji-sung | park ji sung
+Hidetoshi Nakata | nakata
+Tim Cahill | cahill
+Martin Ødegaard
+Bruno Fernandes
+Thibaut Courtois | courtois
+Vincent Kompany | kompany
+Jan Oblak | oblak
+Khvicha Kvaratskhelia | kvaratskhelia | kvara
+Dušan Vlahović | dusan vlahovic | vlahovic
+Nemanja Vidić | nemanja vidic | vidic
+Ronald Koeman | koeman
+Kevin De Bruyne
+Wilfried Zaha | zaha
+Jules Koundé | jules kounde
+Rafael Varane | varane
+Marcus Thuram
+William Saliba | saliba
+Mike Tyson
+Bubba Watson
+Jasprit Bumrah | bumrah
+Sourav Ganguly | ganguly | dada
+Sunil Gavaskar | gavaskar
+Virender Sehwag | sehwag
+Yuvraj Singh | yuvraj
+Anil Kumble | kumble
+Ravindra Jadeja | jadeja
+Hardik Pandya | hardik
+Rishabh Pant | pant
+Shubman Gill
+Stuart Broad
+Alastair Cook
+Kevin Pietersen | pietersen | kp
+Geoffrey Boycott | boycott
+Jos Buttler | buttler
+Glenn McGrath | mcgrath
+Adam Gilchrist | gilchrist
+Pat Cummins | cummins
+Mitchell Starc | starc
+David Warner
+Dennis Lillee | lillee
+Shane Watson
+Allan Border
+Steve Waugh
+Waqar Younis | waqar
+Shahid Afridi | afridi
+Inzamam-ul-Haq | inzamam
+Garfield Sobers | garry sobers | gary sobers | sobers
+Curtly Ambrose
+Michael Holding
+Jacques Kallis | kallis
+Dale Steyn | steyn
+Kane Williamson
+Brendon McCullum | mccullum
+Richard Hadlee | hadlee
+Kumar Sangakkara | sangakkara
+Mahela Jayawardene | jayawardene
+Sanath Jayasuriya | jayasuriya
+Lasith Malinga | malinga
+Shakib Al Hasan | shakib
+Rashid Khan
+Richie McCaw | mccaw
+Dan Carter
+Brian O'Driscoll | o'driscoll | bod
+Martin Johnson
+Siya Kolisi | kolisi
+Antoine Dupont | dupont
+Jason Robinson
+Gareth Edwards
+Sonny Bill Williams
+Beauden Barrett
+Owen Farrell | farrell
+Johnny Sexton | sexton
+Stephen Hendry | hendry
+Steve Davis
+Judd Trump
+Mark Selby | selby
+John Higgins
+Mark Williams
+Jimmy White
+Neil Robertson
+Alex Higgins
+Luke Humphries | humphries
+Gerwyn Price
+Peter Wright | snakebite
+Raymond van Barneveld | van barneveld | barney
+Fallon Sherrock | sherrock
+Garry Kasparov
+Anatoly Karpov | karpov
+Fabiano Caruana | caruana
+Judit Polgár | judit polgar | polgar
+Mikhail Tal
+Viswanathan Anand | vishy anand | anand
+José Raúl Capablanca | jose raul capablanca | capablanca
+Ding Liren
+Gukesh Dommaraju | gukesh | d gukesh
+Lance Armstrong
+Greg LeMond | lemond
+Miguel Induráin | miguel indurain | indurain
+Bernard Hinault | hinault
+Peter Sagan | sagan
+Marco Pantani | pantani
+Jan Ullrich | ullrich
+Wout van Aert | van aert
+Mathieu van der Poel | van der poel
+Geraint Thomas
+Jason Kenny
+Laura Kenny | laura trott
+Victoria Pendleton | pendleton
+Usain Bolt
+Kenenisa Bekele | bekele
+Faith Kipyegon | kipyegon
+David Rudisha | rudisha
+Jakob Ingebrigtsen | ingebrigtsen
+Cathy Freeman | freeman
+Bob Beamon | beamon
+Dick Fosbury | fosbury
+Jim Thorpe
+Linford Christie | christie
+Colin Jackson
+Denise Lewis
+Steve Ovett | ovett
+Ashton Eaton
+Daley Thompson
+Greg Louganis | louganis
+Rebecca Adlington | adlington
+Dawn Fraser
+Summer McIntosh
+Ariarne Titmus | titmus
+Sarah Sjöström | sarah sjostrom | sjostrom
+Kohei Uchimura | uchimura
+Shannon Miller
+Max Whitlock | whitlock
+Rebeca Andrade
+Jordan Chiles | chiles
+McKayla Maroney | maroney
+Torvill and Dean | jayne torvill | christopher dean
+Katarina Witt | witt
+Scott Hamilton
+Brian Boitano | boitano
+Evgeni Plushenko | plushenko
+Nathan Chen
+Ilia Malinin | malinin
+Alberto Tomba | tomba
+Ingemar Stenmark | stenmark
+Marcel Hirscher | hirscher
+Jean-Claude Killy | killy
+Lindsey Jacobellis
+Eddie the Eagle | eddie edwards | eddie the eagle edwards
+Sky Brown
+Rayssa Leal
+Rodney Mullen | mullen
+Bam Margera | margera
+Laird Hamilton
+Duke Kahanamoku | kahanamoku
+Gabriel Medina | medina
+Stephanie Gilmore
+Carissa Moore
+John John Florence
+Mick Fanning | fanning
+Ryan Crouser | crouser
+Karsten Warholm | warholm
+Femke Bol
+Faith Kipyegon
+Elaine Thompson-Herah | elaine thompson
+Shaun White
+Travis Pastrana
+Jeff Gordon
+Jimmie Johnson
+Kyle Busch
+Kyle Larson
+Tony Stewart
+Chase Elliott
+Bubba Wallace
+Denny Hamlin | hamlin
+A.J. Foyt | aj foyt | foyt
+Helio Castroneves | castroneves
+Damon Hill
+Stirling Moss | sir stirling moss
+Jack Brabham | brabham
+Emerson Fittipaldi | fittipaldi
+Nelson Piquet | piquet
+Gilles Villeneuve
+Jacques Villeneuve
+James Hunt
+Mick Schumacher
+Ralf Schumacher
+Rubens Barrichello | barrichello
+David Coulthard | coulthard
+Mark Webber | webber
+Felipe Massa | massa
+Valtteri Bottas | bottas
+Esteban Ocon | ocon
+Pierre Gasly | gasly
+Yuki Tsunoda | tsunoda
+Kimi Antonelli | andrea kimi antonelli | antonelli
+Casey Stoner | stoner
+Jorge Lorenzo | lorenzo
+Mick Doohan | doohan
+Barry Sheene | sheene
+Francesco Bagnaia | pecco bagnaia | bagnaia | pecco
+Carl Fogarty | fogarty
+Guy Martin
+Sébastien Loeb | sebastien loeb | loeb
+Colin McRae | mcrae
+Ken Block
+Seb Ogier | sebastien ogier | ogier
+Tiger Woods
+Frankie Dettori | dettori
+Lester Piggott | piggott
+A.P. McCoy | ap mccoy | tony mccoy
+Rachael Blackmore
+Usain Bolt
+Charlotte Dujardin | dujardin
+Zara Tindall | zara phillips
+Shelly-Ann Fraser-Pryce
+Ben Ainslie | ainslie
+Ellen MacArthur | macarthur
+Matthew Pinsent | pinsent
+Michael Jordan
+Alex Honnold | honnold
+Tony Hawk
+Jahangir Khan
+Lin Dan
+Lee Chong Wei
+Ma Long
+Jan-Ove Waldner | waldner
+P.V. Sindhu | pv sindhu | sindhu
+Saina Nehwal | saina
+Milkha Singh | milkha
+Mary Kom | mc mary kom
+Pat McAfee
+Kurt Angle | angle
+Shawn Kemp
+Gary Payton
+John Stockton | stockton
+Clyde Drexler | drexler
+Bill Walton | walton
+Bob Cousy | cousy
+Jerry West
+Elgin Baylor | baylor
+Pete Maravich | pistol pete | maravich
+Moses Malone
+David Robinson | the admiral
+Kevin McHale | mchale
+Penny Hardaway | anfernee hardaway | hardaway
+Grant Hill
+Alonzo Mourning | mourning
+Dikembe Mutombo | mutombo
+Ben Wallace
+Rasheed Wallace
+Chauncey Billups | billups
+Manute Bol
+Muggsy Bogues | bogues
+Steve Kerr
+Lamar Odom | odom
+Ron Artest | metta world peace | metta sandiford-artest
+Rajon Rondo | rondo
+Kevin Love
+DeMar DeRozan | derozan
+Kyle Lowry | lowry
+Bradley Beal
+Jrue Holiday
+Pascal Siakam | siakam
+Karl-Anthony Towns | karl anthony towns | kat | towns
+Rudy Gobert | gobert
+Domantas Sabonis | sabonis
+Arvydas Sabonis
+Bam Adebayo | adebayo
+Jaylen Brown
+Tyrese Haliburton | haliburton
+Jamal Murray
+Cade Cunningham
+LaMelo Ball | lamelo | melo ball
+Lonzo Ball | lonzo
+Cooper Flagg | flagg
+Jeremy Lin | linsanity
+Dražen Petrović | drazen petrovic | petrovic
+Toni Kukoč | toni kukoc | kukoc
+Vlade Divac | divac
+Peja Stojaković | peja stojakovic | stojakovic
+Tony Hawk
+Babe Didrikson Zaharias | babe didrikson | babe zaharias
+Lionel Messi
+Kurt Warner
+Barry Sanders
+Steve Young
+Troy Aikman | aikman
+Roger Staubach | staubach
+Terry Bradshaw | bradshaw
+Joe Greene | mean joe greene
+Dick Butkus | butkus
+Reggie White
+Gale Sayers | sayers
+O.J. Simpson | oj simpson
+Eric Dickerson | dickerson
+Marshall Faulk | faulk
+LaDainian Tomlinson | ladainian tomlinson | tomlinson | lt
+Adrian Peterson
+Larry Fitzgerald
+Tony Gonzalez
+Antonio Brown
+Julio Jones
+Ed Reed
+Richard Sherman
+Von Miller
+T.J. Watt | tj watt
+Micah Parsons | parsons
+Myles Garrett
+Ja'Marr Chase | jamarr chase
+CeeDee Lamb
+Puka Nacua | puka
+Josh Jacobs
+Jared Goff | goff
+Dak Prescott | dak | prescott
+Justin Herbert
+C.J. Stroud | cj stroud
+Jayden Daniels
+Kirk Cousins | cousins
+Philip Rivers
+Matthew Stafford | stafford
+Matt Ryan
+Carson Palmer
+Andrew Luck
+Baker Mayfield | mayfield
+Jim Kelly
+Brian Urlacher | urlacher
+Jim Thorpe
+Justin Verlander | verlander
+Max Scherzer | scherzer
+Gerrit Cole
+Jacob deGrom | degrom
+Paul Skenes | skenes
+Freddie Freeman
+Vladimir Guerrero Jr. | vlad jr | vladimir guerrero jr
+Vladimir Guerrero
+Fernando Tatís Jr. | fernando tatis jr | tatis
+Ronald Acuña Jr. | ronald acuna jr | acuna
+Manny Ramirez
+Chipper Jones
+Joe DiMaggio | dimaggio
+Stan Musial | musial
+Rickey Henderson
+Tony Gwynn | gwynn
+Sandy Koufax | koufax
+Cy Young
+Reggie Jackson | mr october
+Johnny Bench
+Ernie Banks
+Ozzie Smith
+Greg Maddux | maddux
+Tom Glavine
+John Smoltz | smoltz
+Frank Thomas
+Jim Abbott
+Bob Gibson
+Satchel Paige
+Wade Boggs | boggs
+Mike Piazza | piazza
+Buster Posey | posey
+Pete Alonso
+Francisco Lindor | lindor
+Corey Seager
+Kirby Puckett | puckett
+Darryl Strawberry | strawberry
+Dwight Gooden | doc gooden
+Jose Canseco | canseco
+Yoshinobu Yamamoto
+Yu Darvish | darvish
+Hideki Matsui | matsui | godzilla
+Sadaharu Oh
+Tom Seaver | seaver
+Alex Ovechkin
+Evgeni Malkin | malkin
+Pavel Datsyuk | datsyuk
+Nikita Kucherov | kucherov
+Leon Draisaitl | draisaitl
+Cale Makar | makar
+Henrik Lundqvist | lundqvist
+Carey Price
+Marc-André Fleury | marc andre fleury | fleury
+Jonathan Toews | toews
+Steven Stamkos | stamkos
+Phil Kessel
+Zdeno Chára | zdeno chara | chara
+Nicklas Lidström | nicklas lidstrom | lidstrom
+Ray Bourque | bourque
+Paul Coffey
+Mike Bossy | bossy
+Guy Lafleur | lafleur
+Bobby Hull
+Eric Lindros | lindros
+Pavel Bure | bure
+Peter Forsberg | forsberg
+Mats Sundin | sundin
+Sergei Fedorov
+Brendan Shanahan
+Chris Chelios | chelios
+Wayne Gretzky
+Hayley Wickenheiser | wickenheiser
+Hilary Knight
+Marie-Philip Poulin | poulin
+Derek Jeter
+Alex Morgan
+Paolo Maldini
+Mike Tyson
+Phil Jackson
+Sachin Tendulkar
+Diego Simeone
+Pep Guardiola
+Larry Holmes
+Jake LaMotta | lamotta | raging bull
+Max Schmeling | schmeling
+Joe Calzaghe | calzaghe
+Carl Froch | froch
+Chris Eubank
+Nigel Benn | benn
+Gennady Golovkin | ggg | golovkin
+Dmitry Bivol | bivol
+Artur Beterbiev | beterbiev
+Shakur Stevenson
+Ryan Garcia
+Errol Spence Jr. | errol spence
+Andre Ward
+Miguel Cotto | cotto
+Félix Trinidad | felix trinidad | tito trinidad
+Juan Manuel Márquez | juan manuel marquez
+Érik Morales | erik morales
+Marco Antonio Barrera | barrera
+Mike Tyson
+Royce Gracie
+Rickson Gracie
+Randy Couture | couture
+B.J. Penn | bj penn
+Cain Velasquez | velasquez
+Stipe Miocic | miocic
+Henry Cejudo | cejudo
+Demetrious Johnson | mighty mouse
+Michael Bisping | bisping
+Wanderlei Silva
+Mauricio Rua | shogun rua
+Lyoto Machida | machida
+Vitor Belfort | belfort
+Holly Holm
+Miesha Tate
+Cris Cyborg
+Zhang Weili
+Rose Namajunas | namajunas | thug rose
+Joanna Jędrzejczyk | joanna jedrzejczyk
+Merab Dvalishvili | merab
+Tom Aspinall | aspinall
+Leon Edwards
+Charles Oliveira
+Tony Ferguson
+Donald Cerrone | cowboy cerrone
+Mirko Cro Cop | cro cop
+Ken Shamrock
+--- 5
+Just Fontaine
+Raymond Kopa | kopa
+Julie Foudy
+Kristine Lilly
+Mallory Swanson
+Birgit Prinz
+Pernille Harder
+Homare Sawa
+Zbigniew Boniek
+Robert Prosinečki
+Primož Roglič | primoz roglic | roglic
+Al Oerter | oerter
+Steve Cram | cram
+Abebe Bikila | bikila
+Brigid Kosgei
+Grete Waitz
+Duncan Goodhew
+Matt Biondi | biondi
+Johnny Weissmuller | weissmuller
+Kristin Otto
+Larisa Latynina | latynina
+Dick Button
+Sonja Henie | henie
+Hermann Maier
+Franz Klammer | klammer
+Marit Bjørgen | marit bjorgen | bjorgen
+Ole Einar Bjørndalen | ole einar bjorndalen | bjorndalen
+Shaun Palmer
+Mark McMorris
+Torah Bright
+Ayumu Hirano
+Tony Alva
+Bob Burnquist
+Danny Way
+Leticia Bufoni
+Layne Beachley
+Andy Irons
+Jonathan Edwards
+Cale Yarborough
+Al Unser
+Graham Hill
+Jochen Rindt | rindt
+Kenny Roberts
+Wayne Rainey
+Joey Dunlop | dunlop
+Bill Shoemaker | shoemaker
+Willie Carson
+Carl Hester
+Tom Dumoulin
+Mark Philippoussis
+Jansher Khan
+Zhang Jike
+Dhyan Chand
+Abhinav Bindra | bindra
+P.T. Usha | pt usha
+Sushil Kumar
+George Mikan | mikan
+Dennis Johnson
+Spud Webb
+Robert Horry | big shot rob
+Derek Fisher
+Bruce Smith
+Deacon Jones
+Warren Moon
+Steve McNair
+Champ Bailey
+Ronnie Lott
+Walter Johnson
+Honus Wagner
+Rod Carew
+Ken Griffey Sr.
+Bobby Witt Jr.
+Cammi Granato
+Rocky Graziano
+Primo Carnera
+Matt Hughes
+Junior dos Santos
+Dan Henderson
+Bas Rutten
+Dan Severn
+Kazushi Sakuraba | sakuraba
