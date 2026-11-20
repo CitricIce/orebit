@@ -279,7 +279,7 @@ Aikido
 Krav Maga
 Capoeira
 Tai Chi | tai chi chuan
-Sumo
+Sumo | sumo wrestling
 Kendo
 Fencing
 Wing Chun
@@ -323,12 +323,11 @@ Naginatajutsu | naginata
 Kobudo
 Jodo | jojutsu
 Battojutsu
-Sumo Wrestling
 Bajiquan
 Lethwei | burmese boxing
 Bokator | kun khmer
-Pradal Serey
-Krabi Krabong
+Pradal Serey | pradal
+Krabi Krabong | krabi
 Muay Boran
 Silambam
 Kalaripayattu | kalari
@@ -443,10 +442,8 @@ Dardi
 La Verdadera Destreza
 Zipota Basque
 Riastrad
-Krabi
 Ling Ba
 Jendo
-Pradal
 Khmer Traditional Wrestling
 
 === string-instruments

@@ -138,7 +138,7 @@ def phrase_score(text: str) -> float:
 WIKIDATA_DIR = ROOT / "data" / "wikidata"
 PEOPLE = {"painters", "composers"}
 # Official labels that nobody types.
-ORIGIN_LABELS = re.compile(r"\s+\b(PDO|PGI|PAT|DOP|IGP|TSG|AOC|AOP|DOC|DOCG|DO|STG)\b\.?$", re.I)
+ORIGIN_LABELS = re.compile(r"\s+\b(PDO|PGI|PAT|DOP|IGP|TSG|AOC|AOP|DOC|DOCG|DO|STG)\b\.?$")
 # Entries that slip into a class but aren't what the category means.
 BANNED = {
     "pasta": re.compile(r"\b(alla|all'|with|soup|dumplings?|sauce|salad|terre|mafia|baked|fried)\b", re.I),
@@ -316,6 +316,33 @@ def parse_additions(path: Path) -> list[dict]:
     return rows
 
 
+def merge_head_word_twins(rows: list[dict], title: str) -> list[dict]:
+    """Merge answers that differ only by the category's own word, like
+    "Battenberg" and "Battenberg cake" in Cakes, so one cake can't score twice.
+    The first row (hand-written rows come first) keeps its name and tier."""
+    generic = {strip_plural(w) for w in normalize_words(title)}
+
+    def key(name: str) -> str:
+        words = [strip_plural(w) for w in normalize_words(name)]
+        while len(words) > 1 and words[-1] in generic:
+            words.pop()
+        return "".join(words)
+
+    kept: dict[str, dict] = {}
+    out: list[dict] = []
+    for row in rows:
+        k = key(row["name"])
+        twin = kept.get(k)
+        if twin is None:
+            kept[k] = row
+            out.append(row)
+            continue
+        twin["aliases"] = sorted(set(twin["aliases"]) | set(row["aliases"]) | {row["name"]})
+        if row["override"] and (not twin["override"] or row["override"] < twin["override"]):
+            twin["override"] = row["override"]
+    return out
+
+
 def build_category(raw: dict) -> dict:
     cid = raw["id"]
     if not re.fullmatch(r"[a-z0-9-]+", cid):
@@ -348,6 +375,7 @@ def build_category(raw: dict) -> dict:
             owner.setdefault(k, row["name"])
 
     added = merge_wikidata(cid, raw["meta"]["title"], rows)
+    rows = merge_head_word_twins(rows, raw["meta"]["title"])
     if added:
         print(f"  {cid}: +{added} answers from Wikidata")
     add_head_noun_aliases(rows)
