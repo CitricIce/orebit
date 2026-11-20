@@ -717,15 +717,14 @@ Gardening
 Weeding
 Raking leaves
 Grocery shopping | shopping | food shopping
-Washing the car
+Washing the car | cleaning the car
 Walking the dog
 Feeding the pets | feeding the cat | feeding the dog
 Watering plants | watering the plants
 Tidying | tidying up
 Changing the sheets | changing the bed
 Loading the dishwasher
-Unloading the dishwasher
-Emptying the dishwasher
+Unloading the dishwasher | emptying the dishwasher
 Wiping the counters | wiping surfaces
 Cleaning the oven
 Cleaning the fridge
@@ -750,7 +749,6 @@ Cleaning gutters
 Painting
 Fixing things | repairs
 Washing the floor
-Bathing the dog
 --- 3
 Descaling the kettle
 Cleaning the grout
@@ -760,8 +758,7 @@ Replacing batteries
 Changing the filter
 Washing curtains
 Beating rugs
-Flipping the mattress
-Turning the mattress
+Flipping the mattress | turning the mattress
 Polishing silver
 Polishing shoes
 Darning
@@ -770,7 +767,6 @@ Sewing buttons
 Hemming
 Sorting mail
 Filing paperwork
-Cleaning the car
 Hoovering the car
 Pressure washing
 Trimming hedges
@@ -779,7 +775,7 @@ Composting
 Edging the lawn
 Clearing out the garage
 Cleaning the shed
-Washing the dog
+Washing the dog | bathing the dog
 Cleaning the fish tank
 Cleaning the hamster cage
 Changing nappies | changing diapers
