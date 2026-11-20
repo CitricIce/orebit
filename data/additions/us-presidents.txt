@@ -1,0 +1,49 @@
+# aliases for existing answers
+--- 2
+George Washington | george washington | g washington | gw | washinton | washingtion
+Abraham Lincoln | abraham lincoln | honest abe | abe | abe lincon | lincon | lincoln abraham | abraham lincon
+Barack Obama | barack obama | barack | barak obama | barrack obama | obama barack | barack hussein obama
+Donald Trump | donald trump | djt | donald j trump | the donald | trump donald | donald john trump
+Joe Biden | joe biden | joseph biden | joseph r biden | joseph robinette biden | biden joe | joe bidden
+John F. Kennedy | john fitzgerald kennedy | jack kennedy | j f k | kenedy | john f kenedy
+Thomas Jefferson | thomas jefferson | tom jefferson | jeffersen | jefferon | jeferson | thomas jeferson
+Ronald Reagan | ronald reagan | ronnie reagan | ron reagan | the gipper | regan | reagen | ronald regan | ronald wilson reagan
+Bill Clinton | bill clinton | william clinton | william jefferson clinton | slick willie | slick willy | clinten | bill clinten
+George W. Bush | bush | george bush | george w | george walker bush | bush junior | bush 43 | baby bush | bush the younger | gwb | g w bush
+George H. W. Bush | george h w bush | hw bush | h w bush | hw | george herbert walker bush | bush senior | bush 41 | elder bush | bush the elder | daddy bush | ghwb | george bush senior
+Franklin D. Roosevelt | roosevelt | franklin d roosevelt | f d r | franklin rosevelt | franklin roosvelt | franklin rooseveldt | franklin delano | fdr roosevelt | rosevelt | roosvelt | rooseveldt | roosevelt franklin
+Theodore Roosevelt | theodore roosevelt | teddy roosvelt | teddy rosevelt | theodore rosevelt | theodore roosvelt | teddy rooseveldt | ted roosevelt | teddie roosevelt | t roosevelt | roosevelt teddy | theodor roosevelt | rough rider
+Richard Nixon | richard nixon | dick nixon | tricky dick | richard milhous nixon | nixxon | nixen
+Jimmy Carter | jimmy carter | james carter | james earl carter | jimmy carter jr | jimmie carter
+John Adams | adams | john adam | jon adams | adams john
+Andrew Jackson | andrew jackson | old hickory | andy jackson | andrew jackon | jakson
+Dwight D. Eisenhower | dwight eisenhower | dwight d eisenhower | dwight david eisenhower | eisenhauer | eisenhour | eisenhowser | eisenhwer | eisenhowar | eisenhover | eisanhower | dwight eisenhauer
+Harry S. Truman | harry s truman | harry truman | trueman | truemann | truman harry
+Lyndon B. Johnson | johnson | lyndon b johnson | lyndon baines johnson | l b j | lindon johnson | lyndon jonson | lindon b johnson
+Gerald Ford | gerald ford | gerald r ford | jerry ford | gerald rudolph ford | gerold ford
+James Madison | james madison | jim madison | madisen | madisson
+Ulysses S. Grant | ulysses s grant | ulysses grant | ulyses grant | ulysess grant | u s grant | us grant | ulysses simpson grant
+Woodrow Wilson | woodrow wilson | woodrow | thomas woodrow wilson | woodro wilson | woodrow willson
+James Monroe | james monroe | munroe | monrow | james munroe
+--- 3
+John Quincy Adams | john quincy adams | john q adams | j q adams | quincy adams | john quincey adams | jq adams | adams jr
+Herbert Hoover | herbert hoover | herbert clark hoover | herb hoover | hover
+Calvin Coolidge | calvin coolidge | cal coolidge | silent cal | coolige | coolidg | cooledge | coolidge calvin | calvin coolige | john calvin coolidge
+Warren G. Harding | warren harding | warren g harding | warren gamaliel harding | hardin | harding warren
+William Howard Taft | william howard taft | william taft | bill taft | w h taft | taft william
+William McKinley | william mckinley | mc kinley | mckinly | mckinnley | mckenley | mckinely | william mckinly | bill mckinley
+Grover Cleveland | grover cleveland | grover | stephen grover cleveland | cleaveland | grover cleaveland | clevland
+Andrew Johnson | andrew johnson | andy johnson | andrew jonson
+James K. Polk | james k polk | james knox polk | pollk
+Martin Van Buren | martin van buren | vanburen | martin vanburen | van buran | martin van buran | old kinderhook
+William Henry Harrison | harrison | william henry harrison | william h harrison | w h harrison | old tippecanoe | tippecanoe | william harrison
+Zachary Taylor | zachary taylor | zach taylor | zachery taylor | zackary taylor | old rough and ready
+--- 4
+John Tyler | john tyler | tyler john
+Millard Fillmore | millard fillmore | filmore | fillmor | millard filmore | milard fillmore
+Franklin Pierce | franklin pierce | pierce franklin | peirce | franklin peirce | frank pierce
+James Buchanan | james buchanan | buchanon | buchannan | buchanen | buchannon | james buchanon | buckanan
+Rutherford B. Hayes | rutherford b hayes | rutherford birchard hayes | rutherford | haynes | rutherford haynes | ruthurford hayes
+James A. Garfield | james a garfield | james abram garfield | garfeild | james garfeild
+Chester A. Arthur | chester a arthur | chester alan arthur | chet arthur | chester arthor
+Benjamin Harrison | benjamin harrison | ben harrison | benjamin harison | benjamin harrisson | b harrison
