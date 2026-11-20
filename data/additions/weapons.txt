@@ -1,0 +1,527 @@
+--- 2
+AK-47 | kalashnikov | ak47 | ak | ak 47
+Colt 45 | colt | colt revolver | colt 45 pistol
+Nuclear bomb | atom bomb | nuclear weapon | nuclear missile
+Bow and arrow | bow and arrows | arrows
+Nunchucks | nunchuks | nunchuku | numchucks | nun chucks
+Throwing star | ninja star | throwing stars
+Lightsaber | lightsabre | light saber | light sabre
+Rocket launcher | rpg | rocket propelled grenade | rocket
+Brass knuckles | knuckledusters | knuckle duster | brass knucks
+Machine gun | machinegun
+Landmine | land mine
+Sabre | sabre sword
+Spear gun | harpoon gun
+Hand grenade
+Fighter jet | fighter plane | jet fighter | warplane
+Bomber | bomber plane
+Hydrogen bomb | h bomb | thermonuclear bomb
+Submachine gun | smg | sub machine gun
+Minigun
+Winchester | winchester rifle
+Shield
+Dynamite
+TNT
+Taser | stun gun
+Baton | nightstick | truncheon
+Pocket knife | penknife | pocketknife
+Switchblade | flick knife
+Butterfly knife | balisong
+Stick
+Rock | stone
+Bat
+Chainsaw
+Pitchfork
+Water gun | squirt gun | water pistol
+Nerf gun
+Laser | laser gun
+Blaster
+Mjolnir | mjölnir | thors hammer
+Excalibur
+C4 | c 4 | plastic explosive
+Tomahawk missile
+M4 | m4 carbine
+AR-15 | ar15
+Glock | glock 17 | glock 19
+Uzi | uzi submachine gun
+Desert Eagle | deagle
+--- 3
+Hunting rifle
+Shotgun | sawn off | sawed off shotgun | sawn off shotgun
+Double-barrel shotgun | double barrel | double barreled shotgun
+Pump-action shotgun | pump shotgun
+Semi-automatic rifle | semi automatic | semi auto
+Air rifle | air gun | bb gun | pellet gun
+Paintball gun | paintball marker
+Flare gun
+Magnum | 357 magnum | 44 magnum
+Beretta | beretta 92 | m9
+Smith & Wesson | smith and wesson
+MP5
+Cannonball | cannon ball
+Artillery
+Anti-aircraft gun | flak | aa gun
+Batarang
+Vibranium shield | captain americas shield | cap shield
+Stormbreaker
+Master Sword
+Sword of Gryffindor
+Lasso of Truth | lasso
+Cruise missile
+Guided missile
+Heat-seeking missile | heat seeker
+Dirty bomb
+Car bomb
+Pipe bomb
+Time bomb
+Suicide vest | suicide bomb | bomb vest
+Stun grenade | flashbang | flash bang | flash grenade
+Smoke grenade | smoke bomb
+Gunpowder | black powder
+Explosive | explosives
+Chemical weapon | chemical weapons
+Biological weapon | bioweapon | biological weapons
+Nerve gas | nerve agent
+Mustard gas
+Sarin | sarin gas
+Poison gas
+Poison
+Poison dart | dart | darts
+Attack helicopter | gunship | helicopter gunship
+Stealth bomber | b2 | b 2
+Military drone | combat drone | attack drone | kamikaze drone
+Bullet | bullets
+Ammunition | ammo
+Pepper spray | mace spray
+Police baton | expandable baton
+Cricket bat
+Crowbar
+Wrench | spanner
+Sledgehammer
+Hatchet
+Cleaver | meat cleaver
+Kitchen knife
+Razor | straight razor | razor blade
+Chain
+Ball and chain
+Bullwhip
+Fencing sword
+Shortsword | short sword
+Greatsword | great sword
+Viking sword
+Samurai sword
+Hunting knife
+Combat knife
+Throwing knife
+Staff
+Shortbow | short bow
+Recurve bow | recurve
+Compound bow
+Buckler
+Fire axe
+Riot shield
+Booby trap
+Firearm | firearms
+--- 4
+Crossbow bolt | bolt
+Bunker buster
+Broken bottle
+Roman sword
+Claws
+Hand crossbow
+Spiked shield
+Tiger tank | tiger
+Hypersonic missile
+Khopesh | kopesh
+Automatic rifle
+Carbine
+Nail gun
+Six-shooter | six shooter
+Walther PPK | ppk | walther
+Mauser
+Lee-Enfield | enfield
+M1 Garand | garand
+Thompson | thompson submachine gun
+P90
+Barrett | barrett 50 cal | 50 cal
+M60
+Browning | browning machine gun | m2 browning
+Lewis gun
+Kar98 | kar98k | karabiner 98k
+Mosin-Nagant | mosin | mosin nagant
+Dragunov | svd
+AK-74 | ak74
+SCAR | fn scar
+Remington | remington 870
+Mossberg
+Ruger
+Sig Sauer | sig
+Colt Python | python
+Peacemaker | colt peacemaker | single action army
+Gauss gun | coilgun | coil gun
+Plasma gun | plasma rifle
+Death ray
+Freeze ray | freeze gun
+Shrink ray
+Infinity Gauntlet
+Keyblade
+Buster Sword
+Gunblade
+Elder Wand | wand
+Sting
+Andúril | anduril
+Longclaw
+Valyrian steel sword | valyrian sword
+Bat'leth | batleth
+Phaser | phaser rifle
+Blaster pistol | blaster rifle
+Bowcaster
+BFG | bfg 9000
+Gravity gun
+Ballistic missile | icbm | intercontinental ballistic missile
+Surface-to-air missile | sam | surface to air missile
+Scud | scud missile
+Patriot missile | patriot
+Stinger | stinger missile
+Hellfire missile | hellfire
+Sidewinder | sidewinder missile
+V-2 rocket | v2 | v2 rocket
+Smart bomb | guided bomb
+Letter bomb | mail bomb
+Incendiary bomb | firebomb | fire bomb
+Petrol bomb
+Depth charge
+Naval mine | sea mine
+IED | improvised explosive device | roadside bomb
+Frag grenade | fragmentation grenade | frag
+Sticky bomb
+Semtex
+Nitroglycerin | nitroglycerine | nitro
+Warhead | nuclear warhead
+VX | vx gas
+Chlorine gas
+Anthrax
+Agent Orange
+Weapon of mass destruction | wmd
+Battle tank | main battle tank
+Apache | apache helicopter
+B-52 | b52
+Spitfire
+F-16 | f16
+F-35 | f35
+F-22 | f22 | raptor
+Predator drone | predator | reaper drone
+Fighter
+Katyusha
+HIMARS
+Panzerfaust
+Anti-tank missile | atgm
+Mortar shell | shell
+Shrapnel
+Buckshot
+Rubber bullet
+Water cannon
+Sound cannon | lrad | sonic weapon
+Bear spray
+Stun baton | cattle prod | cattle prodder
+Net gun
+Blackjack | cosh | sap
+Billy club
+Cudgel
+Bludgeon
+Tire iron | tyre iron
+Lead pipe | pipe
+Mallet
+Ice pick
+Box cutter | stanley knife | utility knife
+Shiv | shank
+Garrote | garotte | garrotte
+Bike chain
+Spiked club | nail bat
+Épée | epee
+Foil
+Two-handed sword | two handed sword
+Jian
+Bokken | wooden sword
+Ninjato | ninja sword
+Karambit
+Kunai
+Hook sword | hook swords
+Escrima sticks | eskrima | kali sticks | arnis
+Siege engine
+Fire arrow | flaming arrow
+Kite shield
+Tower shield
+Double-bit axe | double headed axe | double axe
+Throwing spear
+Sherman tank | sherman
+Panzer
+Fat Man
+Little Boy
+Tsar Bomba
+Pea shooter | peashooter
+Spud gun | potato gun | potato cannon
+Bear trap
+Kukri | khukuri | kukri knife
+Lever-action rifle | lever action
+Bolt-action rifle | bolt action
+Light machine gun | lmg
+Tec-9 | tec9
+MAC-10 | mac 10 | mac11
+Kriss Vector | vector
+Laser sword
+Hidden blade
+Energy sword
+Web shooter | web shooters
+Wolverine claws | adamantium claws
+Springfield rifle | springfield
+MP40
+M249
+SKS
+AUG | steyr aug
+Musketoon
+Matchlock
+Wheellock | wheel lock
+Hand cannon
+Grapeshot
+Field gun
+Machine pistol
+Glamdring
+Plasma cutter
+Javelin missile
+Exocet
+V-1 | v1 | doodlebug | buzz bomb
+Neutron bomb
+Thermobaric bomb | vacuum bomb | fuel air bomb
+Claymore mine
+Stick grenade | potato masher
+Rocket artillery | multiple rocket launcher
+PIAT
+Anti-tank gun
+Recoilless rifle
+Shillelagh
+Cat o' nine tails | cat o nine tails
+Main gauche | main-gauche
+Estoc
+Bastard sword | hand and a half sword
+Arming sword
+Spatha
+Xiphos
+Falcata
+Seax | sax
+Shamshir | shamshir sword
+Tulwar | talwar
+Kilij
+Dao
+Guan dao | guandao
+Nodachi | odachi
+Tachi
+Bolo | bolo knife
+Parang
+Panga
+Flamberge
+Backsword
+Smallsword | small sword
+Survival knife
+Trench knife
+Ka-Bar | kabar
+Push dagger
+Sgian-dubh | sgian dubh | skean dhu
+Poignard | poniard
+Misericorde
+Katar | punch dagger
+Jambiya
+Kirpan
+Bagh nakh | tiger claws
+Butterfly swords | butterfly sword
+Rope dart
+Meteor hammer
+Three-section staff | three section staff
+Kubotan
+Tessen | war fan | iron fan
+Jitte | jutte
+Yari
+Kanabo
+Yumi | japanese bow
+Repeating crossbow | chu ko nu | zhuge crossbow
+Petard
+Fire lance
+Hwacha
+Targe
+Round shield
+Scutum
+Sarissa
+Assegai | assagai | iklwa
+Boar spear
+Lochaber axe
+Bill | billhook
+Maul
+Goedendag
+Bearded axe
+Dane axe | danish axe
+Labrys
+Ice axe
+Woomera | spear thrower
+Macuahuitl | macana | obsidian sword
+Shotel
+Urumi
+Pepperbox | pepperbox revolver
+Punt gun
+Elephant gun
+Mitrailleuse
+Big Bertha
+Paris Gun
+Schwerer Gustav | gustav gun | dora
+Bombard
+Culverin
+Carronade
+Swivel gun
+Railway gun
+Self-propelled gun
+Tank destroyer
+Abrams | m1 abrams
+T-34 | t34
+Leopard tank | leopard 2
+Challenger tank
+Flying Fortress | b17
+Trident missile
+Minuteman missile | minuteman
+Air-to-air missile
+Anti-ship missile
+Space laser
+Directed energy weapon
+Electromagnetic pulse | emp
+Riot gun
+Tear gas canister
+Wrist rocket
+Rubber band gun
+Zip gun
+Ghost gun
+Cane sword | sword cane | swordstick
+Knuckle knife
+Trench club
+Punji stick | punji sticks
+Battle rifle
+Heavy machine gun | hmg
+Grease gun | m3 grease gun
+SPAS-12 | spas
+AWP
+Proton pack
+Leviathan Axe
+Chainsword
+Gungnir
+--- 5
+FN FAL | fal
+Vickers gun
+G36
+HK416
+Needle
+Beanbag round
+Knobkerrie | knobkierie | kierie
+Riding crop
+Kopis
+Yataghan
+Shinai
+Dha
+Kampilan
+Barong
+Golok
+Schiavona
+Basket-hilted sword | basket hilt
+Hanger
+Fighting knife
+Rondel dagger | rondel
+Khanjar
+Tekko
+Deer horn knives
+Jo staff | jo
+Hanbo
+Manriki | manrikigusa
+Fukiya
+Blowdart
+Makibishi | caltrop | caltrops
+Shuko
+Kakute
+Nagamaki
+Bisento
+Tetsubo
+Daikyu
+Self bow
+Horse bow
+Gastraphetes
+Scorpio | scorpion
+Springald
+Couillard
+Chain shot
+Hoplite spear | dory
+Hasta
+War scythe
+Fauchard
+Guisarme
+Voulge
+Spontoon
+Lucerne hammer
+Bec de corbin
+Military fork
+Ahlspiess
+Spetum
+Corseque
+Lajatang
+Ji
+Qiang | chinese spear
+Monk's spade | monks spade
+Horseman's pick
+Flanged mace
+Holy water sprinkler
+Sagaris
+Ono
+Woodaxe | wood axe
+Hurlbat
+Throwing hammer
+Throwing club
+Plumbata
+Chakri
+Rungu
+Waddy
+Leiomano | shark tooth club
+Patu
+Mere
+Taiaha
+Tepoztopilli
+Hunga munga
+Takoba
+Flyssa
+Nimcha
+Kaskara
+Tabar
+Zaghnal
+Pata
+Aruval
+Kattari
+Haladie
+Madu
+Bichuva
+Duck foot pistol
+Volley gun
+Puckle gun
+Organ gun
+Hotchkiss gun
+Gardner gun
+Nordenfelt gun
+Long Tom
+Falconet
+Coehorn
+Orbital laser
+Microwave weapon
+Pepper gun
+Stun belt
+Rubber baton
+Pen gun
+Umbrella gun
+Sap glove
+Spike trap
+Galil
+FAMAS
+Tavor
+Kusanagi
+Durendal
