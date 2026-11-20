@@ -1,0 +1,144 @@
+--- 2
+# aliases for existing answers
+Bake | bakes | baked | oven | oven bake | oven baking | oven baked | in the oven
+Fry | fries | fried | frying pan | fry up | fry-up
+Boil | boils | boiled | boiling water
+Grill | grills | grilled | grilling out | griddle | griddled | griddling | chargrill | chargrilled | char-grill | char-grilled | char grill | char grilled
+Roast | roasts | roasted | oven roast | oven roasted | oven roasting
+Steam | steams | steamed | steamer
+Microwave | microwaves | microwaved | nuke | nuked | nuking | zap | zapped | microwave oven
+Deep fry | deep fries | deep fried | deep-fry | deep-fried | deep-frying | deep fryer | deep fat fry | deep fat fried | deep fat fryer
+Stir fry | stir fries | stir fried | stir-fry | stir-fried | stir-frying | wok | wok fry | wok fried | wok frying | stirfry
+Pan fry | pan fries | pan fried | pan-fry | pan-fried | pan-frying | skillet
+Sauté | sautes | sauteed | sautéed | sautéing | sautee | sauteeing | sauteeed | sauted | sautéd
+Poach | poaches | poached
+Simmer | simmers | simmered
+Broil | broils | broiled | broiler
+Barbecue | barbecues | barbecued | barbeque | barbequed | barbequing | bbq'd | bbqd | bbqing | bbq'ing | bar-b-q | barby | barbie | bar-b-que
+Smoke | smokes | smoked | smoker
+Braise | braises | braised
+Stew | stews | stewed
+Toast | toasts | toasted | toaster
+Air fry | air fries | air fried | air-fry | air-fried | air-frying | airfry | airfryer | air-fryer | airfried | airfrying
+Slow cook | slow cooks | slow cooked | slow-cook | slow-cooked | slow-cooking | slow cooker | slow-cooker | crock pot | crock-pot | crockpotting | crockpotted
+Pressure cook | pressure cooks | pressure cooked | pressure-cook | pressure-cooked | pressure cooker | pressure-cooker | instapot | instant-pot | instantpot
+Sear | sears | seared | pan sear | pan seared | pan-seared | pan searing
+Blanch | blanches | blanched
+Scramble | scrambles | scrambled | scrambling
+Flambé | flambes | flambéed | flambeed | flambéing | flambeing
+Caramelize | caramelizes | caramelized | caramelizing | caramelises | caramelised | caramelising | caramelization | caramelisation
+Marinate | marinates | marinated | marinade | marinading | marinaded
+Cure | cures | cured
+Pickle | pickles | pickled
+Ferment | ferments | fermented | fermentation
+Sous vide | sous-vide | sousvide | sous vided | sous viding | water bath
+Char | chars | charred
+Spit roast | spit roasting | spit roasted | spit-roast | spit-roasted | spit | on a spit | spit roasts
+Shallow fry | shallow frying | shallow fried | shallow-fry | shallow-fried | shallow fries
+Reduce | reduces | reduced | reducing
+Melt | melts | melted | melting
+Whisk | whisks | whisked | whisking
+Knead | kneads | kneaded | kneading
+Brown | browns | browned | browning
+Fire | open fire | campfire | campfire cooking | open flame | over a fire | cook over fire | fire roast | fire roasted | fire-roasted | bonfire
+Flame grill | flame grilling | flame grilled | flame-grill | flame-grilled | flame broil | flame broiled | flame-broiled
+Dry | dries | dried | drying | air dry | air dried | sun dry | sun dried | sun-dried
+Infuse | infuses | infused | infusing | infusion
+Rotisserie | rotisserie roast | rotisserie roasted | rotisserie chicken
+Bain-marie | bain marie | double boil | double boiler | double boiling
+--- 3
+Tandoor | tandoori | tandoor oven | tandoor roast
+Coddle | coddles | coddled | coddling
+Confit | confited
+En papillote | papillote | parchment | in parchment | foil packet | foil parcel | baked in foil | in foil | parcel
+Parboil | parboils | parboiled | parboiling | par boil | par-boil | par-boiled | par cook | par-cook | parcook | precook
+Scald | scalds | scalded | scalding
+Temper | tempers | tempered | tempering | tadka | tarka
+Glaze | glazes | glazed | glazing
+Baste | bastes | basted | basting
+Brine | brines | brined | brining
+Flash fry | flash fried | flash frying | flash-fry | flash-fried
+Wok hei
+Plank grilling | plank | planked | plank grill | plank grilled | cedar plank | plank cooking
+Dry age | dry aged | dry-aged | dry aging | dry ageing | aging | ageing
+Dehydrate | dehydrates | dehydrated | dehydrating | dehydrator | dehydration
+Freeze-dry | freeze dry | freeze dried | freeze-dried | freeze drying | freeze-drying
+Candy | candied | candying | crystallize | crystallized
+Render | renders | rendered | rendering
+Deglaze | deglazes | deglazed | deglazing
+Clarify | clarifies | clarified | clarifying
+Emulsify | emulsifies | emulsified | emulsifying
+Fold | folds | folded | folding
+Proof | proving | proofs | proofed | proofing | prove | proved
+Torch | torched | torching | blowtorch | blow torch | blowtorched | bruleed
+Pan roast | pan roasted | pan-roast | pan-roasted | pan roasting
+Reverse sear | reverse seared | reverse searing | reverse-sear
+Hot smoke | hot smoked | hot smoking | hot-smoked
+Cold smoke | cold smoked | cold smoking | cold-smoked
+Velvet | velveting | velveted
+Gratin | au gratin | gratinate | gratinated | gratineed
+Fricassee | fricasseed | fricassée
+Jug | jugged | jugging
+Pot roast | pot roasted | pot roasting | pot-roast | pot-roasted
+Macerate | macerates | macerated | macerating | maceration
+Sweat | sweats | sweated | sweating
+Slow roast | slow roasted | slow roasting | slow-roast | slow-roasted
+Low and slow
+Spatchcock | spatchcocked | spatchcocking
+Skewer | skewers | skewered | kebab | kabob | shish kebab | satay
+Blacken | blackened | blackening
+Dutch oven | dutch oven cooking
+Broast | broasted | broasting
+Bake blind | blind bake | blind baked | blind baking
+Coal roast | coal roasted | ember roast | ember roasted | embers | in the coals | ash roast | roast in ashes
+Pan grill | pan grilled
+Dry fry | dry fried | dry frying | dry-fry | dry-fried
+Oven fry | oven fried | oven frying | oven-fried
+Steam fry | steam fried | steam frying
+--- 4
+Clay pot | claypot | clay pot cooking | clay oven | terracotta | tagine | cazuela
+Hot pot | hotpot | hot-pot | fondue | shabu shabu
+Pit roast | pit roasting | pit roasted | earth oven | pit cooking | imu | hangi | umu | luau pit | pit bbq | pit barbecue
+Clambake | clam bake
+Wood fire | wood fired | wood-fired | wood fire oven | wood-fired oven | pizza oven
+Teppanyaki | hibachi | flat top | flat-top | flattop | plancha | a la plancha
+Robata | robatayaki | yakitori
+Ceviche | cure in citrus | citrus cure | acid cure
+Souse | soused | sousing
+Escabeche
+Quick pickle | quick pickled | quick-pickle | refrigerator pickle
+Lacto-ferment | lacto ferment | lacto fermented | lacto-fermented | lacto fermentation
+Steam bake | steam baked | steam baking | steam oven
+Convection | convection bake | convection oven | fan oven | fan bake
+Solar cook | solar cooking | solar oven | solar cooker
+Salt bake | salt baked | salt crust | salt-crust | salt crusted | salt-baked
+Stone bake | stone baked | pizza stone | hot stone | stone grill | stone cooking
+Tataki
+Dry rub | rubbed | spice rub
+Dry brine | dry brined | dry brining
+Jerk | jerked | jerking
+Shirred | shirr | shirred eggs
+Frizzle | frizzled
+Sizzle | sizzled | sizzling
+Butter baste | butter basted | butter basting | arroser
+--- 5
+Barbecue | braai | asado | churrasco | mangal | cookout
+Pit roast | barbacoa | kalua | lovo | curanto | pachamanca | hangi pit
+Steep | steeps | steeped | steeping
+Engine block cooking | manifold cooking
+Smoke gun | smoking gun | cloche smoke
+Torch | brulee | brûlée
+Haybox | hay box | haybox cooking | thermal cooking | wonderbag | retained heat
+Kamado | big green egg
+Dum | dum pukht | dum cooking
+Bhuna | bhuno | bhunao
+Tawa | tava
+Ishiyaki
+Donabe
+Red cook | red cooking | red braise | red braised | hong shao
+Smoke roast | smoke roasted | smoke-roast | smoke roasting
+Tea smoke | tea smoked | tea smoking | tea-smoked
+Carry-over cooking | carryover cooking
+Spherification
+Cook en croute | en croute | en croûte | pastry wrapped | wellington
+Etouffee | étouffée | smother | smothered | smothering
