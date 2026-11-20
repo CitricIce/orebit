@@ -340,7 +340,7 @@ Almonds
 Walnuts
 Pecans
 Hazelnuts
-Brownie | brownie bits
+Brownie | brownie bits | brownie chunks
 Cookie dough
 Butterscotch
 Toffee | toffee bits
@@ -379,7 +379,6 @@ Chocolate sprinkles
 Cookie crumble
 Pretzels
 Mint chips
-Brownie chunks
 Cheesecake bites
 --- 3
 Dulce de leche
@@ -390,8 +389,7 @@ Mixed berry compote
 Candied pecans
 Praline
 Brittle
-Honeycomb
-Hokey pokey
+Honeycomb | hokey pokey
 Mochi
 Boba
 Red bean
