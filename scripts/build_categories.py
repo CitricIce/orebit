@@ -231,12 +231,12 @@ def merge_wikidata(cid: str, title: str, rows: list[dict]) -> int:
             continue
         name, extra = tidy
         # Drop alternate names that are just the label's first word ("electric"
-        # for Electric guitar) or very short: with one-word dropping, they would
+        # for Electric guitar) or under 3 letters: with one-word dropping, they would
         # let "electric violin" count as Electric guitar.
         first = normalize_words(name)[:1]
         extra = [
             a for a in extra
-            if len(key(a)) >= 4 and not (len(normalize_words(a)) == 1 and normalize_words(a) == first and len(normalize_words(name)) > 1)
+            if len(key(a)) >= 3 and not (len(normalize_words(a)) == 1 and normalize_words(a) == first and len(normalize_words(name)) > 1)
         ]
         names = [name, *extra]
         keys = [key(n) for n in names]
