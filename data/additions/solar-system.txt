@@ -1,0 +1,161 @@
+# aliases for existing answers
+Sun | our sun | helios | sunshine
+Moon | earth's moon | earths moon | our moon | lunar | selene
+Earth | the earth | terra | planet earth | gaia | erth
+Mercury | mercurey | mercery | mercure
+Venus | venis | venus planet
+Mars | the red planet | red planet | marz
+Jupiter | jupitor | jupiture | juptier | jupter
+Saturn | satern | saturne | saturen | sartun
+Uranus | urnus | uranis | urenus | uranos
+Neptune | neptun | neptoon | neptunes
+Pluto | plutoe | pluton | plutos
+Ceres | ceries
+Titan | titen
+Europa | europe moon
+Ganymede | ganimede | ganymeade
+Callisto | calisto
+Enceladus | enceledus | enceladas
+Triton | tritan
+Charon | sharon
+Phobos | fobos
+Deimos | dimos
+Halley's Comet | haley's comet | haleys comet | haley comet | halley comet | comet halley | halleys | haley | 1p/halley
+Hale-Bopp | hale bopp | halebop | hale bop
+Comet Shoemaker-Levy 9 | shoemaker-levy | sl9 | shoemaker levy nine
+Comet Swift-Tuttle | swift tuttle
+Comet Tempel-Tuttle | tempel tuttle
+67P | churyumov gerasimenko | comet 67p/churyumov-gerasimenko | rosetta's comet | chury
+Comet NEOWISE | neo wise
+Comet Encke | encke's comet | enckes comet
+Comet Hyakutake | hyakutake comet
+C/2006 P1 | mcnaught comet
+Oumuamua | oumuamua | omuamua
+Borisov | 2i/borisov | comet borisov
+Arrokoth | ultima | 2014 mu69
+Asteroid Belt | the asteroid belt | main belt | main asteroid belt | asteroid field
+Kuiper Belt | kuiper | kiuper belt | kuyper belt | the kuiper belt | edgeworth-kuiper belt
+Oort Cloud | oort | oort cloud | ort cloud | oorts cloud
+Scattered Disc | scattered disk
+Iapetus | iapitus
+Makemake | make make
+Sedna | sedna planet
+Eris | eris planet
+Haumea | haumia
+
+--- 2
+Saturn's Rings | rings of saturn | saturns rings | saturn rings | rings
+Great Red Spot | the great red spot | red spot | jupiter's red spot | jupiters red spot | great red storm
+Olympus Mons | olympus mons volcano | mount olympus mars
+Valles Marineris
+International Space Station | iss | space station | the space station
+Hubble Space Telescope | hubble | hubble telescope | hst
+James Webb Space Telescope | james webb | webb | jwst | webb telescope | james webb telescope
+Voyager 1 | voyager | voyager one | voyager i
+Voyager 2 | voyager two | voyager ii
+Planet Nine | planet x | planet 9 | ninth planet
+
+--- 3
+Heliosphere | the heliosphere
+Solar Wind
+Cassini Division | cassini gap
+New Horizons
+Lagrange Points | lagrange point | l1 | l2
+Trojan Asteroids | trojans | jupiter trojans | trojan
+Near-Earth Asteroids | near earth asteroid | near-earth object | neo | neos
+Centaurs | centaur
+Kirkwood Gaps | kirkwood gap
+Bolide | fireball
+Tycho Crater | tycho
+Copernicus Crater
+Sea of Tranquility | mare tranquillitatis | tranquility base
+Maxwell Montes
+Tharsis
+Hellas Basin | hellas planitia
+Caloris Basin | caloris planitia
+Sputnik Planitia | tombaugh regio | pluto's heart | plutos heart
+Great Dark Spot
+Saturn's Hexagon | saturns hexagon | hexagon
+Zodiacal Dust | zodiacal light
+Rings of Uranus | uranus rings | uranian rings
+Rings of Jupiter | jupiter rings | jupiter's rings | jovian rings
+Rings of Neptune | neptune rings | adams ring
+Kreutz Sungrazers | kreutz comets
+Comet Ikeya-Seki | ikeya-seki | ikeya seki
+Comet Kohoutek | kohoutek
+Comet West | west's comet
+Comet Holmes | 17p/holmes | holmes
+Comet Hartley 2 | hartley 2 | 103p
+Comet Borrelly | borrelly | 19p/borrelly
+Comet Tsuchinshan-ATLAS | tsuchinshan-atlas | tsuchinshan atlas | c/2023 a3
+Comet ISON | ison
+Comet Pons-Brooks | pons-brooks | pons brooks | devil comet
+Comet Biela | biela's comet | biela
+Comet Giacobini-Zinner | giacobini-zinner
+3I/ATLAS | 3i atlas | 3i
+2024 YR4 | yr4
+Phaethon | 3200 phaethon
+Florence | 3122 florence
+Hermes | 69230 hermes
+Icarus | 1566 icarus
+Vesta | 4 vesta
+Pallas | 2 pallas
+Juno | 3 juno
+Hygiea | 10 hygiea
+Eros | 433 eros
+Psyche | 16 psyche
+Bennu | 101955 bennu
+Ryugu | 162173 ryugu
+Apophis | 99942 apophis
+Itokawa | 25143 itokawa
+Ida | 243 ida
+Gaspra | 951 gaspra
+Lutetia | 21 lutetia
+Didymos | 65803 didymos
+
+--- 4
+Termination Shock
+Bow Shock
+Heliotail
+Van Allen Belts | van allen belt | van allen radiation belt
+Magnetosphere | earth's magnetosphere
+Io Plasma Torus
+Detached Objects | sednoid | sednoids
+Hilda Asteroids | hildas
+Vulcanoids | vulcan
+Kordylewski Clouds
+Mare Imbrium | sea of rains
+Shackleton Crater
+Aitken Basin | south pole-aitken basin
+Mount Sharp | aeolis mons
+Gale Crater
+Jezero Crater | jezero
+Arsia Mons
+Pavonis Mons
+Ascraeus Mons
+Ishtar Terra
+Aphrodite Terra
+Verona Rupes
+Herschel Crater
+Loki Patera
+Tvashtar
+Conamara Chaos
+Tiger Stripes
+Kraken Mare
+Ligeia Mare
+Rheasilvia
+Pele
+Encke Gap
+Roche Division
+Phoebe Ring
+Wright Mons
+Parker Solar Probe | parker probe
+Curiosity Rover | curiosity
+Perseverance Rover | perseverance | percy
+Ingenuity Helicopter | ingenuity
+Rosetta Probe | rosetta
+Tiangong | tiangong space station | chinese space station
+Mir | mir space station
+Pioneer 10
+Pioneer 11
+Sputnik 1 | sputnik
