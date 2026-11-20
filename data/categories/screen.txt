@@ -322,6 +322,19 @@ Luke Cage
 Jessica Jones
 Iron Fist
 --- 3
+Goku | son goku | kakarot
+Saitama | one punch man | one-punch man
+All Might
+Deku | izuku midoriya
+Sailor Moon
+Astro Boy
+Ultraman
+Kamen Rider
+He-Man
+She-Ra
+Vegeta
+Gohan
+Tuxedo Mask
 Black Canary
 Zatanna
 Constantine
@@ -711,6 +724,12 @@ Zuko
 Sonic
 Mario
 --- 3
+Astro Boy
+Saitama
+Vegeta
+Gohan
+Deku
+All Might
 Betty Boop
 Felix the Cat
 Casper
