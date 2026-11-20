@@ -1,0 +1,418 @@
+# aliases for existing answers
+Push-ups | pushups | press ups | pressups | push-up | press-up | pushup | push up | press up
+Sit-ups | situps | sit-up | sit up
+Squats | squatting | air squats | air squat | bodyweight squats | bodyweight squat | back squat | back squats
+Lunges | lunghes | lunge | walking lunges | walking lunge | forward lunges | reverse lunges | reverse lunge
+Plank | planking | forearm plank | front plank
+Pull-ups | pullups | pull-up | pull up
+Jumping jacks | jumping jack | star jump | jumpin jacks | jumping jax
+Burpees | burpies | burpie | burpe | burpees
+Crunches | crunchs | ab crunches | ab crunch | sit up crunches
+Deadlift | dead lifts | dead lift | conventional deadlift | deadlifting
+Bench press | bench | benching | benchpress | bench pressing | flat bench | flat bench press | barbell bench press | dumbbell bench press | db bench press
+Chin-ups | chinups | chin-up | chin up
+Dips | dip | bench dips | chest dips | parallel bar dips | tricep dip | triceps dips
+Bicep curls | biceps curls | bicep curl | arm curls | arm curl | dumbbell curls | dumbbell curl | barbell curls | barbell curl | ez bar curl | ez bar curls | biceps curl | curl
+Shoulder press | overhead press | ohp | military press | dumbbell shoulder press | barbell overhead press | standing press | strict press
+Lat pulldown | lat pulldowns | lat pull down | lat pull-down | pull downs | pulldowns | lat pull downs
+Rows | bent over rows | bent-over row | barbell row | barbell rows | dumbbell row | dumbbell rows | one arm row | single arm row | renegade rows | renegade row
+Leg press | leg presses | leg press machine
+Leg curls | leg curl | hamstring curls | hamstring curl | lying leg curl | seated leg curl
+Leg extensions | leg extension | quad extensions | quad extension
+Calf raises | calf raise | calf raise machine | calf machine | heel raises | seated calf raise | standing calf raise
+Mountain climbers | mountain climber | mountain climbing
+High knees | high knee
+Skipping | skipping rope | jump rope | jumping rope | jump roping | rope skipping | rope jumping | jumprope | skip rope
+Running | run | runs | treadmill running | outdoor running
+Sprints | sprinting | sprint | hill sprints | wind sprints
+Jogging | jog | jogs
+Cycling | spinning | biking | bike | bicycling | spin class | spin | stationary bike | exercise bike | indoor cycling | peloton | cycle
+Rowing | rowing machine | row machine | rower | erg | ergometer | indoor rowing | rowing erg
+Box jumps | box jump
+Step-ups | step up | step-up | stepups | box step ups
+Glute bridges | glute bridge | hip thrusts | barbell hip thrust | hip thruster | hip thrusters | bridges | hip bridge | hip bridges | bridge
+Russian twists | russian twist
+Leg raises | leg raise | lying leg raises
+Flutter kicks | flutter kick
+Bicycle crunches | bicycle crunch | bicycles | bicycle kicks
+Side plank | side planks
+Wall sit | wall sits | wall squat
+Superman | supermans | supermen | superman hold
+Bear crawl | bear crawls
+Kettlebell swings | kb swings | kettlebell | kettle bell swings | russian swing | american swing
+Thrusters | thruster
+Clean and jerk | clean & jerk | clean and jerks
+Snatch | snatches | power snatch | squat snatch | barbell snatch
+Clean | cleans | squat clean
+Lateral raises | lateral raise | side raises | side lateral raise | lat raises | side raise | dumbbell lateral raise
+Front raises | front raise
+Tricep extensions | tricep extension | triceps extensions | overhead tricep extension | overhead extension | french press
+Skull crushers | skullcrushers | skull crusher | lying tricep extension | lying triceps extension
+Hammer curls | hammer curl
+Chest fly | chest flyes | chest flies | flies | flys | fly | dumbbell fly | dumbbell flyes | flye | pec fly | pec flyes
+Cable crossover | cable crossovers | cable fly | cable flyes | cable flys | crossovers
+Face pulls | face pull
+Shrugs | shrug | shoulder shrugs | barbell shrugs | dumbbell shrugs | trap shrugs
+Good mornings | good morning
+Romanian deadlift | rdl | rdls | romanian deadlifts | stiff leg deadlift | stiff legged deadlift | stiff-leg deadlift
+Sumo deadlift | sumo deadlifts | sumo
+Goblet squat | goblet squats
+Front squat | front squats
+Bulgarian split squat | split squat | split squats | bulgarian split squats | bulgarians | rear foot elevated split squat
+Pistol squat | pistol squats | pistols | one legged squat | single leg squat
+Donkey kicks | donkey kick
+Fire hydrants | fire hydrant
+Stretching | stretches | stretch | static stretching | dynamic stretching
+Yoga | hot yoga | power yoga | vinyasa | hatha yoga | bikram yoga | yin yoga
+Pilates | reformer pilates | mat pilates
+Turkish get-up | turkish get up | turkish getup | turkish get-ups | tgu | get ups
+Farmer's walk | farmers walk | farmer walk | farmer's carry | farmers carries | farmer carry | farmers walks
+Sled push | sled pushes | prowler push | prowler | sled
+Battle ropes | battle rope | battling ropes | rope slams | ropes
+Tire flip | tire flips | tyre flip | tyre flips
+Wall balls | wall ball | wallball | wall ball shots
+Muscle-up | muscle ups | muscle up | muscleups | bar muscle up | ring muscle up
+Toes to bar | toes-to-bar | t2b | toes 2 bar
+Hanging leg raise | hanging leg raises | hanging knee raises | hanging knee raise | knee raises
+Handstand push-up | handstand push ups | hspu | handstand pushup
+Handstand | handstands | handstand hold
+Diamond push-up | diamond push ups | diamond pushups | triangle push ups
+Pike push-up | pike push ups | pike pushups
+Decline push-up | decline push ups | decline pushups
+Incline push-up | incline push ups | incline pushups
+Clap push-up | clap push ups | clapping push ups | plyo push ups | plyometric push ups
+Archer push-up | archer push ups
+Spiderman push-up | spiderman push ups
+Hollow hold | hollow body hold | hollow rocks | hollow body | hollow rock
+Dead bug | dead bugs | deadbug | deadbugs
+Bird dog | bird dogs | birddog
+Ab rollout | ab wheel | ab roller | ab wheel rollout | rollouts | ab rollouts
+V-ups | v ups | v-up | v up | jackknife | jackknives | jack knife
+Woodchoppers | woodchopper | wood chops | wood chop | cable woodchop
+Hyperextensions | hyperextension | back extensions | back extension | hypers | roman chair
+Reverse fly | reverse flyes | reverse flies | rear delt fly | rear delt flyes | rear delt raise | rear raises | rear delt raises
+Arnold press | arnold presses
+Upright row | upright rows
+T-bar row | t bar row | t-bar rows
+Preacher curl | preacher curls
+Concentration curl | concentration curls
+Cable curl | cable curls
+Close-grip bench | close grip bench press | close-grip bench press | close grip bench | cgbp
+Incline bench | incline bench press | incline press | incline dumbbell press
+Decline bench | decline bench press | decline press
+Pec deck | pec dec | pec deck fly | butterfly machine | pec fly machine
+Hack squat | hack squats | hack squat machine
+Overhead squat | overhead squats
+Nordic curls | nordic curl | nordics | nordic hamstring curl
+Tuck jumps | tuck jump
+Broad jumps | broad jump | standing long jump
+Inchworms | inchworm | inch worms | walkouts
+Frog jumps | frog jump | frog hops
+Crab walk | crab walks | crab crawl
+Skater jumps | skater jump | skaters | skater hops | skater hop | speed skaters
+Handstand | handstand walk
+--- 2
+Treadmill | treadmill walk | treadmill workout
+Elliptical | elliptical trainer | cross trainer | crosstrainer | elliptical machine | ellipticals
+Stair climber | stairmaster | stair master | stair stepper | stairclimber | stair machine | stepmill | stairs | stair climbing | stair climb | climbing stairs | stair runs
+Swimming | swim | laps | swimming laps | lap swimming
+Walking | walk | brisk walking | power walking | power walk | walks
+Hiking | hike | hikes
+HIIT | high intensity interval training | hiit workout | interval training | intervals
+Tabata
+Circuit training | circuits | circuit | circuit workout
+Aerobics | aerobic exercise | step aerobics | aerobics class
+Zumba
+Boxing | shadow boxing | shadowboxing | punching bag | heavy bag | bag work | boxercise
+Kickboxing | kick boxing | cardio kickboxing
+Weightlifting | weight lifting | lifting weights | lifting | weights | weight training | strength training | resistance training
+Calisthenics | bodyweight exercises
+CrossFit | cross fit
+Powerlifting | power lifting
+Olympic lifting | olympic weightlifting | oly lifting
+Dumbbell press | dumbbell presses | db press | dumbbell chest press
+Chest press | chest press machine | machine chest press | machine press
+Tricep pushdowns | tricep pushdown | triceps pushdown | pushdowns | pushdown | cable pushdown | tricep pulldowns | rope pushdown | push downs
+Tricep kickbacks | tricep kickback | triceps kickbacks | kickbacks | kickback
+Seated row | seated rows | cable row | cable rows | seated cable row | low row
+Smith machine | smith machine squat | smith squat | smith machine bench
+Hip abductor | hip abduction | abductor machine | abductors | abduction machine | hip abductions
+Hip adductor | hip adduction | adductor machine | adductors | adduction machine
+Assisted pull-up | assisted pull ups | assisted pullups | assisted chin ups | assisted pull-up machine | band assisted pull ups
+Power clean | power cleans | hang clean | hang cleans | hang power clean
+Jerk | jerks | split jerk | push jerk | power jerk
+Medicine ball slams | med ball slams | ball slams | slam ball | slam balls | medicine ball slam | med ball slam
+Rope climb | rope climbs | rope climbing | climbing rope
+Double unders | double under | double-unders
+Downward dog | downward facing dog | down dog | downward-facing dog | adho mukha svanasana
+Child's pose | childs pose | child pose | balasana
+Warrior pose | warrior | warrior one | warrior two | warrior 1 | warrior 2 | warrior 3 | warrior i | warrior ii | warrior iii | virabhadrasana
+Cobra pose | cobra | cobras | bhujangasana
+Tree pose | tree | vrksasana
+Foam rolling | foam roller | foam roll | foam rolls
+Tai chi | taichi | tai chi chuan
+Butt kicks | butt kickers | butt kick | heel kicks | bum kicks
+Scissor kicks | scissor kick | scissors
+Calf stretch | calf stretches
+Toe touches | toe touch | touch your toes | toe taps
+Arm circles | arm circle
+Squat jumps | jump squats | jump squat | squat jump | jumping squats
+Jumping lunges | jump lunges | lunge jumps | split jumps | jumping lunge
+Side lunges | side lunge | lateral lunges | lateral lunge | cossack squat | cossack squats
+Curtsy lunges | curtsy lunge | curtsey lunges
+Plank jacks | plank jack
+Sled pull | sled pulls | sled drag | sled drags
+Sandbag carry | sandbag carries | sandbag
+Shoulder taps | shoulder tap | plank shoulder taps
+Shuttle runs | shuttle run | suicides | suicide runs | beep test | line sprints
+--- 3
+Incline walk | incline walking | 12-3-30 | 12 3 30 | incline treadmill walk
+Rucking | ruck | rucks
+Trail running | trail run
+Marathon training | long run | long runs
+Fartlek
+Tempo run | tempo runs
+Hill repeats | hill runs | hill running
+Air bike | assault bike | echo bike | airdyne | fan bike
+Ski erg | skierg | ski machine
+Jacob's ladder | jacobs ladder
+Vertical climber | versaclimber
+Barre | barre class
+Dance workout | dancing | dance fitness | dance cardio
+Water aerobics | aqua aerobics | aquafit | aqua jogging
+Rock climbing | climbing | bouldering | climbing wall
+Trampoline | rebounding | trampolining
+Hula hoop | hula hooping | hooping
+Kettlebell snatch | kettlebell snatches | kb snatch
+Kettlebell clean | kettlebell cleans | kb clean
+Kettlebell press | kettlebell presses
+Windmill | windmills | kettlebell windmill
+Halo | halos | kettlebell halo
+Single leg deadlift | single leg deadlifts | single leg rdl | single-leg rdl | one leg deadlift | b stance rdl
+Trap bar deadlift | trap bar deadlifts | hex bar deadlift | hex bar deadlifts
+Deficit deadlift | deficit deadlifts
+Rack pull | rack pulls | block pulls
+Snatch grip deadlift | snatch grip deadlifts
+Pause squat | pause squats | paused squats
+Safety bar squat | ssb squat
+Belt squat | belt squats
+Landmine press | landmine presses | landmine
+Landmine row | landmine rows
+Push press | push presses
+Z press | z-press
+Bradford press
+Behind the neck press | btn press
+Seated dumbbell press | seated shoulder press
+Shoulder press machine | machine shoulder press
+Cable lateral raise | cable lateral raises | cable laterals
+Y raises | y raise | ytw | y-t-w
+Bent over lateral raise | bent over lateral raises | bent over raises
+Cuban press
+Lu raises | lu raise
+Weighted dips | weighted dip
+Weighted pull-ups | weighted pull ups | weighted chin ups
+Ring dips | ring dip
+Ring rows | ring row | inverted rows | inverted row | australian pull ups | australian pull-ups | bodyweight rows | body rows
+Negative pull-ups | negative pull ups | negatives | pull-up negatives
+Scapular pull-ups | scap pull ups | scapular pull ups
+Dead hang | dead hangs | bar hang | hanging | hangs
+Kipping pull-ups | kipping pull ups | kipping | butterfly pull ups
+Chest-to-bar | chest to bar | c2b | chest to bar pull ups
+Wide grip pull-ups | wide grip pull ups | wide pull ups
+Neutral grip pull-ups | neutral grip pull ups | hammer grip pull ups
+Commando pull-ups | commando pull ups
+Typewriter pull-ups | typewriter pull ups
+Straight arm pulldown | straight arm pulldowns | straight-arm pulldown | lat prayer
+Pullover | pullovers | dumbbell pullover | dumbbell pullovers | lat pullover | cable pullover
+Close grip pulldown | close grip pulldowns | v bar pulldown
+Chest supported row | chest supported rows | incline row | incline rows
+Kroc row | kroc rows
+Yates row | yates rows
+Machine row | machine rows | hammer strength row
+Gorilla row | gorilla rows
+Incline fly | incline flyes | incline dumbbell fly | incline flies
+Svend press | svend presses | plate press
+Hex press | hex presses | squeeze press | squeeze presses
+Wide push-ups | wide push ups | wide grip push ups
+Knee push-ups | knee push ups | kneeling push ups | girl push ups | modified push ups
+Wall push-ups | wall push ups | wall pushups
+Hindu push-ups | hindu push ups | dive bomber push ups | dive bombers
+Pseudo planche push-ups | pseudo planche push ups | pppu
+One arm push-up | one arm push ups | one-arm push-up | single arm push up
+Superman push-up | superman push ups
+T push-ups | t push ups | t-push ups
+Staggered push-ups | staggered push ups
+Plank to push-up | plank up downs | up downs | plank walk ups | up-downs
+Tricep push-ups | tricep push ups | triceps push ups | close grip push ups
+Typewriter push-ups | typewriter push ups
+Burpee pull-ups | burpee pull up | burpee pull-ups
+Burpee broad jumps | burpee broad jump
+Sprawls | sprawl
+Squat thrusts | squat thrust | squat thrusters
+Devil press | devil's press | devils press
+Man makers | man maker | manmakers
+JM press | jm presses
+Tate press | tate presses
+Spider curls | spider curl
+Incline curls | incline curl | incline dumbbell curl | incline dumbbell curls
+Drag curls | drag curl
+Reverse curls | reverse curl | reverse grip curl | reverse barbell curl
+Bayesian curl | bayesian curls
+21s | 21's | twenty ones | bicep 21s
+Cross body curl | cross body hammer curl | cross-body curls
+Wrist curls | wrist curl | forearm curls | reverse wrist curls
+Wrist roller | wrist rollers
+Plate pinch | plate pinches | pinch grip
+Machine curl | machine curls | bicep curl machine
+Donkey calf raise | donkey calf raises
+Tibialis raises | tibialis raise | tib raises | tib raise | toe raises
+Cable kickbacks | cable kickback | glute kickbacks | glute kickback | cable glute kickback
+Frog pumps | frog pump
+Single leg glute bridge | single leg bridge | single leg glute bridges | one leg bridge
+Banded walks | lateral band walks | band walks | monster walks | side steps
+Clamshells | clamshell | clams | clam shells
+Lateral leg raises | side leg raises | side lying leg raise | side leg lifts
+Glute ham raise | glute ham raises | ghr | glute-ham raise
+Reverse hyper | reverse hyperextension | reverse hypers
+Kettlebell deadlift | kettlebell deadlifts | kb deadlift
+Step-downs | step downs | step down
+Lateral step-ups | lateral step ups
+Reverse Nordics | reverse nordic | reverse nordic curls
+Spanish squat | spanish squats
+Wall slides | wall slide | wall angels
+Sumo squat | sumo squats | plie squat | plie squats
+Landmine squat | landmine squats
+Heels elevated squat | heel elevated squat | heels elevated squats
+Shrimp squat | shrimp squats
+Prisoner squat | prisoner squats
+Lateral bounds | lateral bound | bounds | bounding
+Depth jumps | depth jump | drop jumps
+Lateral jumps | side to side jumps | lateral hops | side hops
+Burpee box jumps | burpee box jump overs | box jump overs
+Box step-overs | box step overs
+Plyometrics | plyos | plyo | plyometric training | jump training
+Agility ladder | ladder drills | speed ladder | ladder
+Cone drills | cone drill | t drill | t-drill
+Fast feet | quick feet
+Lateral shuffles | lateral shuffle | side shuffles | defensive slides
+Carioca | grapevine
+A skips | a-skips | b skips
+Leopard crawl | army crawl | commando crawl
+Duck walk | duck walks
+Seal jacks | seal jack
+Cross jacks | cross jack
+Squat jacks | squat jack
+Heel touches | heel touch | heel taps | ankle taps | ankle touches
+Reverse crunches | reverse crunch
+Cable crunches | cable crunch | kneeling cable crunch | rope crunch | rope crunches
+Oblique crunches | oblique crunch | side crunches | side crunch
+Decline sit-ups | decline sit ups | decline situps | decline crunches
+GHD sit-ups | ghd sit ups | ghd situps
+Butterfly sit-ups | butterfly sit ups | abmat sit ups
+Crunch machine | ab crunch machine | ab machine
+Captain's chair | captains chair | captain's chair leg raises
+Knee tucks | knee tuck | tuck ups | tuck-ups | seated knee tucks
+Leg lifts | leg lift
+RKC plank | rkc planks
+Side plank dips | side plank hip dips | hip dips | plank hip dips
+Spiderman plank | spiderman planks | spiderman crunch
+Stir the pot
+Body saw | body saws
+Bear plank | bear hold | bear crawl hold
+Swimmers | swimmer | superman swimmers
+Dragon flag | dragon flags
+L-sit | l sit | l-sits | l sits | l-sit hold
+Suitcase carry | suitcase carries | suitcase walk | suitcase deadlift
+Overhead carry | overhead carries | waiter walk | waiters walk | waiter carry
+Bear hug carry | zercher carry
+Yoke walk | yoke carry | yoke
+Atlas stones | atlas stone | stone lifts
+Log press | log lift
+Axle press | axle deadlift
+Keg toss | keg carry
+Sledgehammer | sledgehammer swings | sledgehammer slams | hammer strikes | tire slams
+Rope pulls | rope pull | sled rope pull
+Medicine ball throws | med ball throws | medicine ball throw | med ball toss | chest pass | rotational throws
+Landmine rotations | landmine twist | landmine twists | landmine 180s
+Pallof press | pallof presses | anti rotation press
+Sandbag clean | sandbag cleans | sandbag over shoulder | sandbag to shoulder
+Clean and press | clean & press | clean and presses
+Hang snatch | hang snatches
+Muscle snatch | muscle snatches
+Snatch balance
+High pull | high pulls | snatch high pull | clean pull | clean pulls
+Wall walks | wall walk | wall climbs
+Front lever | front levers
+Back lever | back levers
+Human flag | human flags
+Planche | planches | tuck planche
+Skin the cat
+Ice cream makers | ice cream maker
+Cluster | clusters | squat clean thruster
+EMOM | every minute on the minute
+AMRAP | as many rounds as possible
+Bootcamp | boot camp | bootcamp class
+Obstacle course | obstacle course training | ocr
+Hyrox
+F45
+Orangetheory | orange theory
+Body pump | bodypump
+Step class | step workout | stepper
+Insanity | insanity workout
+P90X
+Jazzercise
+Prancercise
+Tae Bo | taebo
+Sun salutation | sun salutations | surya namaskar | salute to the sun
+Mountain pose | tadasana
+Triangle pose | triangle | trikonasana
+Bridge pose | setu bandhasana
+Pigeon pose | pigeon | pigeon stretch | kapotasana
+Cat-cow | cat cow | cat and cow | cat cow stretch
+Crow pose | crow | bakasana
+Boat pose | boat | navasana
+Chair pose | utkatasana
+Lotus position | lotus | lotus pose | padmasana
+Corpse pose | savasana | shavasana
+Happy baby | happy baby pose
+Upward dog | upward facing dog | up dog | upward-facing dog | urdhva mukha svanasana
+Headstand | headstands | sirsasana
+Shoulder stand | shoulder stands | sarvangasana
+Plow pose | plough pose | halasana
+Camel pose | ustrasana
+Wheel pose | wheel | full wheel | urdhva dhanurasana
+Half moon pose | half moon | ardha chandrasana
+Eagle pose | garudasana
+Dancer pose | dancers pose | natarajasana
+Fish pose | matsyasana
+Bow pose | dhanurasana
+Lizard pose | lizard
+Low lunge | anjaneyasana | crescent lunge | high lunge
+Extended side angle | side angle pose
+Forward fold | forward bend | standing forward bend | uttanasana | seated forward bend
+Butterfly stretch | butterfly | butterflies | bound angle pose
+Hamstring stretch | hamstring stretches
+Quad stretch | quad stretches
+Hip flexor stretch | hip flexor stretches | couch stretch
+Shoulder stretch | shoulder stretches
+Splits | the splits | front splits | side splits | middle splits | doing the splits
+Mobility | mobility work | mobility drills
+World's greatest stretch | worlds greatest stretch
+90/90 stretch | 90 90 | 90-90 hip stretch | 90/90
+Hip circles | hip circle | hip rotations
+Leg swings | leg swing
+Neck rolls | neck roll | neck stretches
+Thread the needle
+Scorpion stretch | scorpions
+Qigong | qi gong | chi gong
+Isometrics | isometric exercises | isometric holds
+Kegels | kegel | kegel exercises | pelvic floor exercises
+Sit and reach
+Bunny hops | bunny hop
+Glute machine | glute kickback machine | butt blaster
+Pendulum squat | pendulum squats
+V squat | v-squat
+Cable machine | cable machine exercises
+Rear delt machine | reverse pec deck | reverse pec dec | reverse fly machine
+Tricep dip machine | dip machine | seated dip machine
+Torso rotation | torso rotation machine | rotary torso
