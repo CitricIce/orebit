@@ -1,0 +1,629 @@
+# aliases for existing answers
+--- 2
+Hamburger | hamburgers | burgers | cheeseburgers | cheese burger | hamburguer | hambuger
+French fries | french fry | freedom fries | chips and fries | shoestring fries | curly fries
+Mac and cheese | mac n cheese | mac & cheese | mac n' cheese | macaroni & cheese | mac and chees | macaroni cheese | kraft dinner | baked mac and cheese
+Fried chicken | southern fried chicken | kfc | fried chiken | chicken fried
+Pancakes | pancake | flapjacks | hotcakes | buttermilk pancakes | short stack
+Barbecue ribs | bbq ribs | baby back ribs | spare ribs | spareribs | barbeque ribs | bar b que | barbecue | barbeque | rack of ribs
+Buffalo wings | buffalo wing | chicken wing | hot wing | bbq wings
+Peanut butter and jelly | pb and j | pb j | pb&j sandwich | pbj sandwich | pb and j sandwich | peanut butter jelly | peanut butter and jelly sandwich | peanut butter jelly sandwich | pbnj
+Philly cheesesteak | philly cheese steak | philly cheesesteaks | cheese steak | philly steak | philly | philly cheese steak sandwich
+Grilled cheese | grilled cheese sandwich | toasted cheese | cheese toastie
+Pulled pork | pulled pork sandwich | pulled pork sandwiches
+Brisket | bbq brisket | smoked brisket | beef brisket
+Cornbread | corn bread | corn muffins
+Biscuits and gravy | biscuits & gravy | biscuits n gravy | sausage gravy | sausage and gravy
+Chicken and waffles | chicken & waffles | chicken n waffles
+Reuben | reuben sandwich | rueben | reuben sandwhich
+Club sandwich | club sandwhich
+Sloppy joe | sloppy joes
+Corn dog | corndog | corn dogs | corndogs
+Clam chowder | new england clam chowder | manhattan clam chowder | chowdah | clam chowdah
+Chili | chilli | chili beans | texas chili | bowl of chili
+Nachos | nacho | loaded nachos | nachos supreme
+Tater tots | tater tot | tator tots
+Deviled eggs | devilled eggs | deviled egg
+Pumpkin pie | pumpkin pies
+Doughnut | donuts | doughnuts | glazed donut | krispy kreme
+Twinkie | twinkies | hostess twinkies
+Pop-Tarts | pop tarts | poptarts | pop tart
+S'mores | smore | s mores | some mores
+Brownies | fudge brownies
+Chocolate chip cookies | chocolate chip cookie | choc chip cookies | toll house cookies | chocolate chip
+Meatloaf | meat loaf
+Lobster roll | lobster rolls
+Cheesecake | cheese cake | ny cheesecake
+--- 3
+Chicken fried steak | country-fried steak | chicken-fried steak
+Hush puppies | hushpuppies | hush puppy
+Po' boy | po'boy | po boys | shrimp po boy | oyster po boy
+Beignet | benyays
+Crawfish boil | crawfish | crayfish boil | crawdads | seafood boil | low country boil | lowcountry boil
+Cobbler | peach cobblers | blackberry cobbler | apple cobbler
+Banana pudding | nana pudding | banana puddin
+Chicago deep dish | chicago pizza | deep-dish pizza | deep dish
+Hot chicken | nashville chicken | nashville hot | hot fried chicken
+Crab cake | crab cakes | maryland crab cakes | crabcakes
+Fry bread | navajo fry bread | frybread | indian fry bread
+Eggs Benedict | eggs benedict | egg benedict | benedict
+Rice Krispie treats | rice krispy treats | rice krispie treat | rice crispy treats | krispie treats
+Collard greens | collards | greens
+Red velvet cake | red velvet | red velvet cupcakes
+Chicken fingers | chicken tender
+Hash brown | hash browns | hashbrowns | hashbrown
+Cobb salad | cob salad
+Jucy Lucy | juicy lucy | jucy lucy burger | juicy lucy burger
+Chicago-style hot dog | chicago style hot dog
+Detroit-style pizza | detroit pizza | detroit style pizza
+New York-style pizza | new york pizza | ny pizza | new york style pizza | ny style pizza | new york slice
+Pastrami on rye | pastrami on rye sandwich
+Italian beef | italian beef sandwich | chicago italian beef
+Chicken parmesan | chicken parm | chicken parmigiana sandwich
+Mozzarella stick | mozzarella sticks | mozz sticks | cheese sticks
+Sweet potato pie | sweet potatoe pie
+Key lime pie | key lime | keylime pie
+Boston cream pie | boston cream
+Green bean casserole | green beans casserole
+Ambrosia salad | fruit salad with marshmallows
+Funnel cake | funnel cakes | funnelcake
+Whoopie pie | whoopie pies | whoopee pie
+Shrimp and grits | shrimp n grits | shrimp & grits
+Biscuit | buttermilk biscuits | biscuits
+Turducken | turduckin
+Bananas Foster | banana foster
+Chicken and dumplings | chicken n dumplings | chicken & dumplings
+Spaghetti with meatballs | spaghetti and meatball | spaghetti & meatballs
+Corned beef hash | corn beef hash
+Tex-Mex | tex mex | texmex
+Fettuccine Alfredo | fettucine alfredo | chicken alfredo
+Patty melt | patty melts
+Salisbury steak | salisbury steaks
+Potato skins | loaded potato skins
+Chili dog | chili dogs | chili cheese dog
+Cheese fries | chili cheese fries
+Breakfast burrito | breakfast burritos
+French dip sandwich | french dip
+Brunswick stew | brunswick
+Shoofly pie | shoo fly pie | shoo-fly pie
+
+# new answers
+--- 2
+Pizza | pepperoni pizza | american pizza
+Waffles | waffle | belgian waffles | eggo waffles
+French toast | french toasts | frenchtoast
+Bacon and eggs | bacon & eggs | eggs and bacon | bacon n eggs | bacon egg and cheese | bacon
+Thanksgiving turkey | turkey | roast turkey | turkey dinner | roasted turkey | turkey and gravy
+Stuffing | dressing | thanksgiving stuffing | cornbread dressing | stove top stuffing
+Cranberry sauce | cranberry jelly | cranberries
+Mashed potatoes | mashed potato | mash potatoes | mashed potatoes and gravy | mashed taters
+Corn on the cob | corn on cob | corncob | buttered corn
+Popcorn | buttered popcorn | kettle corn | pop corn
+Potato chips | chips | potato chip | crisps | lays
+Baked potato | baked potatoes | loaded baked potato | jacket potato
+Steak | ribeye | t-bone steak | t bone | sirloin | new york strip | porterhouse | steak and potatoes | ribeye steak
+Chicken pot pie | pot pie | pot pies | chicken potpie | turkey pot pie
+Cinnamon roll | cinnamon rolls | cinnamon buns | cinnamon bun | cinnabon
+Bagel | bagels | bagel with lox | bagels and lox | lox and bagels | bagel and lox | lox bagel
+Caesar salad | caesar | ceasar salad | cesar salad
+Ham | glazed ham | honey baked ham | easter ham | baked ham | christmas ham | honey ham
+Milkshake | milk shake | milkshakes | chocolate milkshake | malt | malted milkshake
+Ice cream | icecream | vanilla ice cream | ice cream cone
+Baked beans | bbq beans | pork and beans | barbecue beans
+--- 3
+Fajitas | fajita | chicken fajitas | steak fajitas
+Burrito | burritos | mission burrito | california burrito
+Hard-shell taco | crunchy taco | hard shell tacos | taco tuesday | ground beef tacos
+Quesadilla | quesadillas
+Chile con queso | queso dip | queso | cheese dip | chili con queso
+Pretzels | pretzel | soft pretzel | soft pretzels | philly pretzel
+Beef jerky | jerky | jerkey
+Candied yams | candied sweet potatoes | yams | sweet potatoes
+Sweet potato casserole | sweet potato souffle | sweet potatoes with marshmallows
+Gravy | brown gravy
+Dinner rolls | dinner roll | yeast rolls
+Macaroni salad | mac salad | pasta salad
+Chicken salad | chicken salad sandwich
+Egg salad | egg salad sandwich
+Hoagie | hoagies | italian sub | submarine | subs | sub sandwiches | hero sandwiches | grinders
+Meatball sub | meatball subs | meatball hero
+Roast beef sandwich | roast beef | arby's
+Turkey sandwich | turkey club | turkey sub
+Chicken sandwich | fried chicken sandwich | crispy chicken sandwich | chick fil a sandwich
+Buffalo chicken dip | buffalo dip
+Spinach artichoke dip | spinach dip
+Seven-layer dip | 7 layer dip | seven layer dip | layered bean dip
+Chips and salsa | tortilla chips | chips & salsa
+Pigs in a blanket | pig in a blanket | pigs in blankets | lil smokies
+Jalapeño poppers | jalapeno poppers | jalapeno popper
+Fried pickles | fried pickle | deep fried pickles
+Cheese curds | fried cheese curds | squeaky cheese
+Tater tot hotdish | hotdish | tater tot casserole | hot dish
+Sausage and peppers | sausage & peppers
+Bratwurst | brats | brat | bratwursts
+Kielbasa | polish sausage
+Fried catfish | catfish | catfish nuggets
+Fish and chips | fish n chips | fish & chips
+Fried shrimp | popcorn shrimp | shrimp basket
+Shrimp cocktail | prawn cocktail
+Lobster | maine lobster | lobster tail | boiled lobster
+Steamed crabs | maryland crab | blue crabs | crab feast | maryland blue crab | crab legs | crab boil
+Oysters | raw oysters | fried oysters | oysters on the half shell
+Chicken noodle soup | chicken soup | chicken noodle
+Tomato soup | tomato soup and grilled cheese
+Beef stew | stew
+Chicken tetrazzini | turkey tetrazzini
+Breakfast sandwich | egg mcmuffin | bacon egg and cheese sandwich | sausage egg and cheese
+Scrambled eggs | eggs | fried eggs | sunny side up | over easy
+Omelette | omelet | western omelet | denver omelet | denver omelette | western omelette
+Home fries | breakfast potatoes
+Oatmeal | porridge | oats
+Sausage links | breakfast sausage | sausage patties | sausage patty
+Muffin | blueberry muffins | blueberry muffin | muffins
+Chocolate cake | chocolate layer cake
+Carrot cake | carrot cakes
+Strawberry shortcake | shortcake
+Lemon meringue pie | lemon meringue
+Cherry pie | cherry pies
+Peach pie | peach pies
+Chess pie | chess pies
+Apple crisp | apple crumble
+Rice pudding | rice puddings
+Cookies and cream | cookies n cream
+Oatmeal raisin cookies | oatmeal cookies | oatmeal raisin cookie | oatmeal cookie
+Sugar cookies | sugar cookie | frosted sugar cookies
+Peanut butter cookie | peanut butter cookies
+Cotton candy | candy floss | fairy floss
+Candy corn | candy corns
+Caramel corn | cracker jack | cracker jacks | caramel popcorn
+Root beer float | root beer floats | ice cream float | coke float
+Chili mac | chili macaroni | chili mac and cheese
+Sliders | white castle | slider burgers
+Pork chops | pork chop | fried pork chops
+Pork rinds | chicharrones | cracklins | cracklings
+Boiled peanuts | boiled peanut
+Trail mix | gorp | trailmix
+Peanut brittle | brittle
+Kettle chips | kettle cooked chips
+Cheetos | cheese puffs | cheez its
+Doritos | dorito
+Fritos | frito chips
+Creamed corn | cream corn | creamed spinach
+Fried okra | okra
+Pimento cheese | pimiento cheese | pimento cheese sandwich
+Banana bread | banana loaf
+Pumpkin bread | pumpkin loaf | zucchini bread
+Corn chowder | corn chowders
+Sweet corn | sweetcorn
+Spam | spam and eggs | fried spam
+Peanut butter and banana | peanut butter banana sandwich
+--- 4
+Rocky Mountain oysters | prairie oysters | calf fries | cowboy caviar | mountain oysters | rocky mountain oyster
+New England boiled dinner | boiled dinner | jiggs dinner | corned beef and cabbage | corned beef & cabbage
+Green chile | hatch chile | green chili | new mexico green chile | green chile stew | green chile cheeseburger | hatch green chile | chile verde | green chile stew
+Navajo taco | indian taco
+Chile relleno | chili relleno | chiles rellenos
+Carne asada fries | asada fries
+Sopapilla | sopapillas | sopaipilla | sopaipillas
+Posole | pozole
+Enchiladas | enchilada | cheese enchiladas | tex mex enchiladas
+Tamales | tamale pie tamales
+Breakfast tacos | breakfast taco
+Kolache | kolaches | kolach
+Puppy chow | muddy buddies | reindeer chow
+Scotcheroos | scotcheroo
+Lefse | lefsa
+Booyah | chicken booyah
+Pasty | pasties | michigan pasty | cornish pasty
+Hot beef sandwich | hot beef commercial | open faced roast beef
+Garbage plate | rochester garbage plate
+Spiedie | spiedies
+Half-smoke | half smoke | half smokes
+Pit beef | pit beef sandwich
+Hot slaw
+Grape salad
+Tomato pie
+Pepperoni roll | pepperoni rolls
+Goetta
+Burgoo
+Hoppin' John | hoppin john | hopping john | black eyed peas | black-eyed peas
+Pralines | praline | pecan pralines
+King cake | king cakes | mardi gras king cake
+Boudin | boudin balls | boudin sausage
+Andouille | andouille sausage
+Maque choux
+Grillades and grits | grillades
+Muffuletta | muffaletta | muffuleta | muffalata
+Etouffee | crawfish étouffée | shrimp etouffee | etoufee
+Dirty rice | cajun rice
+Red beans and rice | red beans & rice | red beans n rice
+Jambalaya | jambalya | jambalia
+Gumbo | seafood gumbo | chicken and sausage gumbo | gumbo ya ya
+Po' boy | poboy
+Haupia | haupia pie
+Kalua pig | kalua pork | kalua
+Plate lunch | hawaiian plate lunch
+Shave ice | shaved ice | hawaiian shave ice
+Malasada | malasadas
+Lomi salmon | lomi lomi salmon
+Huli huli chicken | huli huli
+Poi
+Loco moco | locomoco
+Spam musubi | musubi
+Poke | poke bowl | poké | poke bowls
+Reindeer sausage
+Salmon | cedar plank salmon | grilled salmon | baked salmon
+Dungeness crab
+Fish tacos | fish taco | baja fish tacos
+Cioppino | chopino
+Sourdough bread | san francisco sourdough | sourdough bread bowl | sourdough | clam chowder bread bowl
+Garlic fries
+In-N-Out burger | animal style | animal style fries | double double
+Frito pie | walking taco | walking tacos | frito chili pie
+Chicken fried chicken
+Texas sheet cake | sheet cake
+Smoked turkey legs | turkey leg | turkey legs
+Deep fried turkey | fried turkey
+Deep-fried butter | fried butter
+Deep fried Twinkie | fried twinkies | deep fried twinkies | fried twinkie
+Fried Oreos | fried oreo | deep fried oreos
+Elephant ears | elephant ear
+Corn fritters | corn fritter
+Apple fritter | apple fritters
+Johnnycake | johnny cakes | jonny cakes | johnnycakes | hoecakes | hoe cakes | hoecake
+Clambake | clam bake
+Steamers | steamed clams
+Fried clams | clam strips | fried clam strips
+Clam cake | clam cakes | clam fritters
+Boston brown bread | brown bread
+Boston baked beans | beans and franks | franks and beans | beanie weenies
+Fluffernutter | fluffernutter sandwich | fluff sandwich
+Grape-Nuts ice cream | grape nuts ice cream
+Red snapper hot dog | red hot dog | red snappers
+Lobster bisque
+Maine blueberry pie | wild blueberry pie
+Whoopie pie | gobs
+Scrapple | scrappel
+Shoofly pie | wet bottom shoofly pie
+Chicken corn soup
+Tastykake | tastykakes | butterscotch krimpets | krimpets
+Water ice | italian ice | rita's water ice
+Tomato pie | trenton tomato pie
+Pork roll | taylor ham | pork roll egg and cheese | taylor ham egg and cheese
+Disco fries
+Black and white cookie | black and white cookies | half moon cookies | half moons
+Egg cream | egg creams
+Knish | knishes
+Hot pastrami | pastrami sandwich on rye
+Chopped cheese | chopped cheese sandwich
+Buffalo chicken pizza | buffalo pizza
+Beef on weck | beef on wick
+Sponge candy
+Salt potatoes | syracuse salt potatoes
+Utica greens | greens and beans
+Chicken riggies | riggies
+Coney Island hot dog | coney island | coney dogs | detroit coney
+Pączki | paczki | punchki
+Pierogi | pierogies | perogies | pierogis
+Cincinnati chili | skyline chili | 3-way chili | three way chili | cincinnati chili spaghetti
+Goetta
+Buckeye candy | buckeyes | buckeye
+Sauerkraut balls
+Polish Boy | polish boy sandwich
+Hot brown | kentucky hot brown
+Derby pie
+Beer cheese
+Burgoo | kentucky burgoo
+Country ham | country ham biscuits | ham biscuits
+Red-eye gravy | red eye gravy
+Chess pie
+Moon pie | moonpie | moon pies | moonpies
+Meat and three | meat & three
+Fried bologna sandwich | fried bologna
+Hot tamales | delta tamales | mississippi tamales
+Slugburger | slug burger
+Mississippi mud pie | mud pie | mississippi mud cake
+Chicken bog
+Frogmore stew
+She-crab soup | she crab soup
+Benne wafers
+Pimento cheese
+Brunswick stew
+Vidalia onions | vidalia onion
+Coca-Cola cake | coke cake
+Lane cake
+Hummingbird cake
+Fried pies | fried pie | hand pies
+Possum pie
+Cheese grits | cheesy grits
+Chicken mull
+Whole hog barbecue | whole hog | pig pickin | pig roast
+Burnt ends | burnt end
+Kansas City strip | kc strip | kansas city strip steak
+Toasted ravioli | t-ravs | t ravs | fried ravioli
+Gooey butter cake | gooey butter
+St. Louis-style pizza | st louis pizza | provel pizza | imo's pizza
+Pork steak | pork steaks
+Runza | bierock | bierocks
+Reuben
+Tavern sandwich | loose meat sandwich | maid-rite | maidrite
+Pork tenderloin sandwich | pork tenderloin | breaded pork tenderloin | tenderloin sandwich
+Sugar cream pie | hoosier pie
+Horseshoe sandwich | horseshoe
+Chicago-style hot dog | chicago dog | chicago dogs | vienna beef
+Maxwell Street Polish | maxwell street polish sausage
+Italian beef | combo sandwich
+Jibarito | jibaritos
+Butter burger | butterburger | culver's
+Cheese curds
+Fish fry | friday fish fry
+Kringle | kringles
+Booyah | booya
+Wild rice soup | minnesota wild rice soup
+Walleye | walleye fillet | fried walleye
+Lutefisk | lutfisk
+Pasty | yooper pasty
+Cherry pie | traverse city cherry pie
+Detroit-style pizza
+Chislic
+Funeral potatoes
+Utah scones | utah scone | navajo fry bread scones
+Jell-O salad | jello salad | jello | jell-o | jello mold
+Finger steaks | finger steak
+Idaho potatoes | idaho potato
+Huckleberry pie | huckleberry
+Rocky Mountain oysters
+Carne adovada
+Biscochitos | biscochito | bizcochitos
+Chimichanga | chimichangas | chimi
+Sonoran hot dog | sonoran dog
+Chicken-fried bacon | chicken fried bacon
+Texas toast
+Kolache | klobasnek
+Breakfast tacos
+Pecan pie | pecan pies | southern pecan pie
+Pralines | pralines and cream
+Buttermilk pie
+Peach ice cream
+Banana split | banana splits | bananasplit
+Sundae | hot fudge sundae | sundaes | ice cream sundaes
+Apple butter
+Maple syrup | maple | vermont maple syrup | pancakes with maple syrup
+Maple sugar | maple candy | sugar on snow
+Cornflakes | corn flakes
+Graham cracker | graham crackers
+Animal crackers | animal cracker
+Oreo | oreos | oreo cookies
+Peanut butter cup | peanut butter cups | reese's | reeses | reese's peanut butter cups
+Hershey bar | hershey's chocolate | hershey's
+Saltwater taffy | salt water taffy | taffy
+Tootsie Roll | tootsie rolls
+Lollipop | lollipops | suckers
+Gumdrops | gum drops
+Licorice | twizzlers | red vines | red licorice
+Marshmallow peeps | peeps
+Jelly donut | jelly doughnut | jelly filled donut
+Boston cream doughnut | boston cream donut
+Cruller | french cruller | crullers
+Bear claw | bear claws
+Danish | cheese danish | danishes
+Sticky buns | sticky bun | pecan sticky buns
+Monkey bread
+Coffee cake | sour cream coffee cake | crumb cake
+Pound cake | pound cakes
+Angel food cake
+Bundt cake
+Pineapple upside-down cake | pineapple upside down cake | upside down cake
+German chocolate cake | german chocolate
+Boston cream pie
+Icebox cake
+Lemon bars | lemon squares
+Blondie | blondies
+Magic bars | 7 layer bars | seven layer bars | hello dollies
+Snickerdoodle | snickerdoodles | snicker doodles
+Peanut butter fudge
+Divinity | divinity candy
+Fudge | chocolate fudge
+Rocky road ice cream
+Butter pecan | butter pecan ice cream
+Neapolitan ice cream | neapolitan
+Ice cream sandwich | ice cream sandwiches | chipwich
+Klondike bar | klondike
+Drumstick | drumstick ice cream cone
+Frozen custard | custard
+Push pop | push pops
+Snow cone | snow cones | sno cone | sno-cone
+--- 5
+Cider doughnut | cider donuts | apple cider donut | apple cider doughnuts | cider donut
+Hangtown fry
+Chicken Vesuvio
+Pizza puff
+Booyah
+Crab Louie | crab louis
+Celery Victor
+Green goddess dressing | green goddess
+Buffalo chicken sandwich
+Garbage plate
+Spiedie
+Hot weiner | hot wieners | new york system | rhode island hot wieners
+Stuffies | stuffed quahogs | stuffie | stuffed clams
+Toll House pie
+Blueberry grunt | grunt | blueberry slump | slump
+Apple pandowdy | pandowdy
+Hasty pudding
+Red flannel hash
+Fiddleheads | fiddlehead ferns
+Bean hole beans
+Needhams | needham candy
+Italian sandwich | maine italian
+Whoopie pie
+Joe Froggers
+Pepper pot soup | philadelphia pepper pot
+Snapper soup
+Shoofly pie
+Chow-chow | chow chow relish
+Tomato pie
+Hot Texas weiner | texas weiner | texas wieners
+Zeppole | zeppoles
+Rainbow cookies | rainbow cookie | seven layer cookies | tricolor cookies
+Charlotte russe
+Lobster Newberg | lobster newburg
+Delmonico steak | delmonico
+Waldorf salad
+Eggs Benedict
+Chicken à la King | chicken a la king | chicken ala king
+Baked Alaska
+Oysters Rockefeller | oysters rockafeller
+Bananas Foster
+Shrimp Creole
+Turtle soup
+Calas | rice fritters
+Sno-ball | sno balls | new orleans snowball | snowball
+Yaka mein | ya ka mein | old sober
+Bread pudding | bread puddings
+Doberge cake
+Boudin
+Tasso | tasso ham
+Crawfish pie
+Oyster dressing
+Mirliton | chayote dressing
+Natchitoches meat pie | meat pies | meat pie
+Cochon de lait
+Turtle cheesecake
+Smoked sausage | hot links | hot link | texas hot links
+Fletcher's corny dog | corny dog | corny dogs
+King Ranch chicken | king ranch casserole
+Migas | tex mex migas
+Puffy taco | puffy tacos
+Pecan sandies
+Blue corn pancakes | blue corn
+Piñon | pinon nuts | pine nuts
+Rocky Mountain trout | rainbow trout | fried trout
+Bison burger | buffalo burger | bison
+Elk steak | elk
+Morel mushrooms | morels
+Venison | deer meat | venison jerky
+Funeral potatoes
+Dutch oven potatoes
+Cream pie | banana cream pie | coconut cream pie | chocolate cream pie
+Jojos | jo jos | potato wedges
+Marionberry pie | marionberry
+Geoduck | geoduck clams
+Razor clams
+Smoked salmon candy | salmon candy | indian candy
+Teriyaki | seattle teriyaki | chicken teriyaki
+Cream cheese hot dog | seattle dog
+Aplets and Cotlets | aplets
+Fish taco
+Cobb salad
+California roll
+French dip sandwich
+Tri-tip | tri tip | santa maria tri tip | santa maria barbecue
+Cioppino
+Sourdough bread
+Rice-A-Roni | rice a roni
+Fortune cookie | fortune cookies
+Chop suey | american chop suey
+Chow mein
+General Tso's chicken | general tso | general tso chicken | general tsos chicken
+Orange chicken | orange chicken panda express
+Crab rangoon | crab rangoons
+Egg foo young | egg foo yung | egg fu young
+Chimichanga
+Burrito bowl | burrito bowls | chipotle bowl
+Crunchwrap | crunchwrap supreme
+Doritos Locos Tacos
+Taco salad | taco salads
+Haystacks | haystack
+Hawaiian pizza | pineapple pizza | ham and pineapple pizza
+Barbecue chicken pizza | bbq chicken pizza
+Loco moco
+Saimin | saimin noodles
+Manapua | char siu bao
+Lau lau | laulau
+Butter mochi
+Akutaq | eskimo ice cream
+Muktuk
+Reindeer dog
+Salmon bake
+Moose stew
+Succotash
+Wojapi
+Pemmican
+Wild rice | manoomin
+Three sisters stew
+Blue corn mush
+Spoonbread | spoon bread
+Ash cake
+Corn pone
+Cracklin' cornbread | cracklin bread | cracklin cornbread
+Chitterlings | chitlins | chitlin
+Pig's feet | pigs feet | pickled pigs feet
+Ham hocks | ham hock
+Oxtails | oxtail | oxtail stew
+Smothered pork chops | smothered chicken | smothered
+Neck bones
+Sweet potato fries | sweet potato fry
+Jell-O shots | jello shots
+Pea salad
+Frog legs | frog legs fried
+Alligator | fried alligator | gator bites | gator tail
+Burgoo
+Kool-Aid pickles | koolickles
+Pickled eggs
+Chicken gizzards | fried gizzards | gizzards | chicken livers | fried chicken livers
+Livermush | liver mush
+Souse | head cheese
+Scrapple
+Pork roll
+Hog maw
+Pon haus
+Snickers salad
+Watergate salad
+Cookie salad
+Frogeye salad
+Glorified rice
+Seven-layer salad
+Funeral pie | raisin pie
+Desperation pie
+Vinegar pie
+Chocolate gravy
+Tomato gravy
+Sawmill gravy
+Salt rising bread | salt-rising bread
+Sally Lunn | sally lunn bread
+Anadama bread
+Parker House roll | parker house rolls
+Popover | popovers
+Monkey bread
+Chocolate chip cookie dough | cookie dough
+Moon Pie
+Goo Goo Cluster | goo goo clusters
+Valomilk
+Mallomars | mallomar
+Fig Newtons | fig newton
+Nutter Butter | nutter butters
+Chips Ahoy! | chips ahoy
+Twinkie
+Fluff | marshmallow fluff
+Cheez Whiz | cheese whiz | cheez whiz
+Spray cheese | easy cheese
+Corn nuts | cornnuts
+Funyuns
+Slim Jim | slim jims
+Combos
+Goldfish crackers | goldfish
+Chex mix | chex party mix | party mix
+Ritz crackers | ritz
+Lunchables
+TV dinner | tv dinners | frozen dinner | swanson
+Hot Pockets | hot pocket
+Bagel bites | pizza rolls | totinos pizza rolls
+Hamburger Helper
+Kraft Mac and Cheese | blue box mac and cheese | kraft macaroni and cheese
+Campbell's soup | campbells soup
+Spaghettios | spaghetti o's | spaghetti-os
+Corn flakes
+Lucky Charms
+Froot Loops | fruit loops
+Cap'n Crunch | captain crunch

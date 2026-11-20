@@ -152,6 +152,7 @@ BANNED = {
     "instruments": re.compile(r"\b(microphone|soundbar|speaker|amplifier|foghorn|horn signal|siren)\b", re.I),
     "holidays": re.compile(r"^public holiday$|\d{4}", re.I),
     "mexican-foods": re.compile(r"^(wrap|calavera|sugar skull)$", re.I),
+    "american-foods": re.compile(r"^(mars|extra)$", re.I),
     "string-instruments": re.compile(
         r"^(bowed string instrument|violin family|guitars for type|soil|blackbird|kent|jew'?s harp)$", re.I
     ),
