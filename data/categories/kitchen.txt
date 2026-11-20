@@ -939,7 +939,6 @@ Beechnut
 Hickory Nut
 Butternut
 Black Walnut
-Peanut Butter
 --- 3
 Tiger Nut | tigernut
 Kola Nut | kola
@@ -972,8 +971,6 @@ Jackfruit Seed
 Lupin | lupini
 Chickpea
 Soybean | soy nut
-Water Chestnut
-Horse Chestnut | conker
 Monkey Puzzle Seed
 Heartnut
 Japanese Walnut

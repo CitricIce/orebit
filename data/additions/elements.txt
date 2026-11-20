@@ -1,0 +1,126 @@
+# aliases for existing answers (all 118 elements are already in the hand list)
+# Chemical symbols included: they survive the build and match exactly at runtime.
+# I (iodine) and V (vanadium) skipped: normalize turns them into Roman numerals 1 and 5.
+--- 2
+Hydrogen | H | hydrogin | hydrogen gas
+Helium | He | heleum | hellium
+Lithium | Li | lithuim | lithum
+Beryllium | Be | berylium | beryllum | glucinium | glucinum
+Boron | B
+Carbon | C
+Nitrogen | N | nitrogin | azote
+Oxygen | O | oxegen | oxigen | oxygen gas
+Fluorine | F | flourine | florine | flurine
+Neon | Ne
+Sodium | Na | natrium | sodim
+Magnesium | Mg | magnisium | magnesuim | magnesium metal | magnezium
+Aluminium | Al | aluminum | aluminim | aluminium metal | alluminum | aluminuim
+Silicon | Si | silicium
+Phosphorus | P | phosphorous | phosporus | phospherus | phosphorus | fosforus
+Sulfur | S | sulphur | sulfer | sulpher | brimstone
+Chlorine | Cl | chlorene | clorine
+Argon | Ar
+Potassium | K | potasium | potassuim | pottasium | kalium
+Calcium | Ca | calcuim | calsium
+Titanium | Ti | titainium | titanuim
+Chromium | Cr | chromeum | chrome
+Manganese | Mn | mangenese | manganeese | manganese metal | manganeze
+Iron | Fe | ferrum
+Cobalt | Co
+Nickel | Ni | nickle
+Copper | Cu | cuprum
+Zinc | Zn | zink
+Silver | Ag | argentum
+Tin | Sn | stannum
+Gold | Au | aurum
+Mercury | Hg | quicksilver | quick silver | hydrargyrum | mercury metal
+Lead | Pb | plumbum
+Uranium | U | uranuim | uranim | uraniam
+Plutonium | Pu | plutonim | plutoneum | plutonuim
+Platinum | Pt | platnium | platinium | platinum metal
+Iodine | iodene | iodin
+Radium | Ra | radeum
+--- 3
+Gallium | Ga | galium
+Germanium | Ge | germainium | germanuim
+Arsenic | As | arsnic | arsenik
+Selenium | Se | seleneum | selinium
+Bromine | Br | bromene
+Krypton | Kr | kripton | krypon
+Rubidium | Rb | rubideum
+Strontium | Sr | stronsium | strontuim
+Yttrium | Y | ytrium | yttrium metal
+Zirconium | Zr | zirconeum | zirconuim | zirkonium
+Niobium | Nb | columbium | niobeum
+Molybdenum | Mo | molybdenim | molybdenium | molybdinum | molibdenum
+Ruthenium | Ru | rutheneum
+Rhodium | Rh | rodium
+Palladium | Pd | paladium | palladuim
+Cadmium | Cd | cadmuim
+Indium | In | indeum
+Antimony | Sb | stibium | antimonium | antimoney
+Tellurium | Te | tellurim | telurium | tellerium
+Xenon | Xe | zenon
+Cesium | Cs | caesium | ceasium | cesuim
+Barium | Ba | bariam | barium metal
+Hafnium | Hf | hafneum
+Tantalum | Ta | tantalium
+Tungsten | W | wolfram | tungston | tungstun | tungsen
+Osmium | Os | osmuim
+Iridium | Ir | irideum | iridum
+Thallium | Tl | thalium
+Bismuth | Bi | bismith | bizmuth
+Polonium | Po | poloneum
+Astatine | At | astatene | astatium
+Radon | Rn | niton
+Francium | Fr | franceum
+Thorium | Th | thoreum
+Neptunium | Np | neptuneum | neptunuim
+Americium | Am | americum | americanium | ameriscium
+Curium | Cm | cureum
+Californium | Cf | californeum | californiam
+Einsteinium | Es | einstinium | einsteineum | einstenium | einsteinum
+Nobelium | No | nobellium
+Scandium | Sc | scandeum
+Vanadium | vanadeum | vanadum
+Boron | boron metal
+--- 4
+Lanthanum | La | lanthanium | lanthenum
+Cerium | Ce | cereum
+Praseodymium | Pr | praseodimium | praseodynium | praesodymium | praseodymuim
+Neodymium | Nd | neodynium | neodimium | neodymuim
+Promethium | Pm | prometheum | promethium metal
+Samarium | Sm | samareum
+Europium | Eu | europeum | europium metal
+Gadolinium | Gd | gadolineum | gadolinum
+Terbium | Tb | terbeum
+Dysprosium | Dy | dysproseum | disprosium
+Holmium | Ho | holmeum
+Erbium | Er | erbeum
+Thulium | Tm | thuleum
+Ytterbium | Yb | yterbium
+Lutetium | Lu | lutecium | cassiopeium
+Rhenium | Re | rheneum
+Technetium | Tc | technitium | technecium | masurium
+Actinium | Ac | actineum
+Protactinium | Pa | protoactinium | protactineum | protoactineum
+Berkelium | Bk | berkellium | berkeleium
+Fermium | Fm | fermeum
+Mendelevium | Md | mendeleevium | mendelivium
+Lawrencium | Lr | lawrenceum | lawrencum
+Rutherfordium | Rf | rutherfordeum | kurchatovium
+Dubnium | Db | dubneum | hahnium | nielsbohrium
+Seaborgium | Sg | seaborgeum
+Bohrium | Bh | boreum
+Hassium | Hs | haseum | hassium metal
+Meitnerium | Mt | meitnereum | mietnerium
+Darmstadtium | Ds | darmstadium | darmstatium | ununnilium
+Roentgenium | Rg | rontgenium | roentgeneum | unununium
+Copernicium | Cn | copernicum | coperneciun | ununbium
+--- 5
+Nihonium | Nh | nihoneum | ununtrium
+Flerovium | Fl | floravium | flerovium metal | ununquadium
+Moscovium | Mc | moscoveum | moskovium | ununpentium
+Livermorium | Lv | livermoreum | ununhexium
+Tennessine | Ts | tenessine | tennesine | tennessium | ununseptium
+Oganesson | Og | oganneson | oganessen | ogannesson | ununoctium
