@@ -14,6 +14,8 @@ Mixing rules for each new day:
   together). When only a few families have categories left, a family may
   appear at most MAX_PER_FAMILY times in one day.
 - Families take turns, so one big family can't crowd out the rest.
+- Never two categories from the same group in data/overlaps.json on one day
+  (Sharks and Sea creatures, Cakes and Cookies).
 
 Hand-picked days in data/schedule.json are honored when that date is first
 planned. Run with:  npm run plan:calendar
@@ -36,6 +38,7 @@ CATEGORIES = ROOT / "src" / "data" / "categories.json"
 CALENDAR = ROOT / "data" / "calendar.json"
 PINS = ROOT / "data" / "schedule.json"
 LEVELS = ROOT / "data" / "difficulty.json"
+OVERLAPS = ROOT / "data" / "overlaps.json"
 DATES_TS = ROOT / "src" / "lib" / "dates.ts"
 ROUNDS_PER_DAY = 5
 EASY_PER_DAY = 4
@@ -76,6 +79,13 @@ def main() -> None:
     used = {cid for day in days for cid in day}
     pins = json.loads(PINS.read_text(encoding="utf-8")).get("days", {}) if PINS.exists() else {}
 
+    groups: dict[str, set[str]] = defaultdict(set)
+    for name, ids in json.loads(OVERLAPS.read_text(encoding="utf-8"))["groups"].items():
+        for cid in ids:
+            if cid not in info:
+                sys.exit(f"data/overlaps.json group '{name}' names an unknown category: {cid}")
+            groups[cid].add(name)
+
     rng = random.Random(SEED + len(days))
     unused = [c for c in cats if c["id"] not in used]
     rng.shuffle(unused)
@@ -85,14 +95,23 @@ def main() -> None:
     for c in unused:
         queues[(levels[c["id"]], c["family"])].append(c["id"])
 
-    def take(level: str, counts: dict[str, int], limit: int) -> str | None:
-        options = [k for k, q in queues.items() if k[0] == level and q and counts.get(k[1], 0) < limit]
+    def take(level: str, counts: dict[str, int], limit: int, taken: set[str]) -> str | None:
+        # The first category in each family queue that overlaps nothing picked today.
+        def first_free(q: deque) -> str | None:
+            return next((cid for cid in q if not (groups[cid] & taken)), None)
+
+        options = [
+            k for k, q in queues.items()
+            if k[0] == level and q and counts.get(k[1], 0) < limit and first_free(q)
+        ]
         if not options:
             return None
         # Bigger families give up a category more often, but everyone gets turns.
         weights = [len(queues[k]) ** 0.5 for k in options]
         key = rng.choices(options, weights=weights)[0]
-        return queues[key].popleft()
+        cid = first_free(queues[key])
+        queues[key].remove(cid)
+        return cid
 
     def remove(cid: str) -> None:
         for q in queues.values():
@@ -115,7 +134,8 @@ def main() -> None:
 
         def fill(level: str, upto: int) -> None:
             while sum(1 for c in picks if levels[c] == level) < upto and len(picks) < ROUNDS_PER_DAY:
-                cid = take(level, counts, 1) or take(level, counts, MAX_PER_FAMILY)
+                taken = set().union(*(groups[c] for c in picks)) if picks else set()
+                cid = take(level, counts, 1, taken) or take(level, counts, MAX_PER_FAMILY, taken)
                 if not cid:
                     return
                 picks.append(cid)

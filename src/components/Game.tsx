@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import type { DayResponse, GuessResponse } from "@/lib/api-types";
-import { localToday } from "@/lib/dates";
+import { formatShortDate, LAUNCH_DATE, localToday } from "@/lib/dates";
 import { formatMeters, rankFor, ROUND_SECONDS, TIERS, type TierId } from "@/lib/tiers";
 import {
   depthOf,
@@ -328,6 +328,14 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       return (
         <div className={s.center}>
           <div className={s.loader} aria-label="Loading" />
+        </div>
+      );
+    }
+
+    if (date < LAUNCH_DATE) {
+      return (
+        <div className={s.center}>
+          <p className={s.errorText}>Survey #1 launches {formatShortDate(LAUNCH_DATE)}.</p>
         </div>
       );
     }

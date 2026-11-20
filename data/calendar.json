@@ -1,201 +1,201 @@
 {
- "start": "2026-11-19",
+ "start": "2026-11-21",
  "days": [
   [
-   "italian-foods",
-   "pizza-toppings",
-   "gods",
-   "desserts",
-   "islands"
-  ],
-  [
-   "superheroes",
-   "american-foods",
-   "landmarks",
-   "meats",
-   "sharks"
-  ],
-  [
+   "weapons",
    "cakes",
-   "cooking-methods",
-   "pies-pastries",
-   "elements",
-   "coffee-drinks"
-  ],
-  [
-   "spirits",
-   "flowers",
-   "nuts-seeds",
-   "disney-pixar-movies",
-   "gemstones"
-  ],
-  [
-   "dog-breeds",
    "us-cities",
-   "salads",
-   "pets",
-   "beans-legumes"
+   "singers",
+   "martial-arts"
   ],
   [
-   "weather",
-   "languages",
-   "vegetables",
-   "solar-system",
-   "cocktails"
-  ],
-  [
-   "trees",
-   "cookies",
-   "cheeses",
-   "rice-noodle-dishes",
-   "teas"
-  ],
-  [
-   "sandwiches",
-   "villains",
-   "egg-dishes",
    "board-games",
-   "japanese-foods"
+   "cooking-methods",
+   "fast-food",
+   "solar-system",
+   "athletes"
   ],
   [
-   "farm-animals",
-   "soups",
-   "asian-countries",
-   "fruits",
-   "oceans-seas"
+   "breads",
+   "movie-franchises",
+   "accessories",
+   "exercises",
+   "us-presidents"
   ],
   [
-   "european-cities",
-   "herbs-spices",
-   "baby-animals",
-   "cartoon-characters",
+   "chores",
+   "disney-pixar-movies",
+   "mexican-foods",
+   "sports-equipment",
    "string-instruments"
   ],
   [
-   "mexican-foods",
-   "ice-cream-flavors",
-   "world-capitals",
-   "soft-drinks",
-   "game-consoles"
+   "vehicles",
+   "ice-cream-toppings",
+   "american-foods",
+   "farm-animals",
+   "animated-movies"
   ],
   [
-   "video-games",
-   "car-brands",
-   "sauces",
-   "african-animals",
-   "potato-dishes"
+   "salads",
+   "asian-countries",
+   "furniture",
+   "elements",
+   "actresses"
   ],
   [
-   "pasta",
-   "breakfast-foods",
-   "seafood",
-   "us-states",
+   "trees",
+   "nuts-seeds",
+   "childhood-games",
+   "clothing",
    "composers"
   ],
   [
-   "tools",
-   "dairy",
-   "fairy-tales",
-   "tech-companies",
-   "shoes"
+   "music-genres",
+   "flowers",
+   "pets",
+   "office-supplies",
+   "beans-legumes"
   ],
   [
    "european-countries",
-   "actors",
-   "car-parts",
-   "childhood-games",
-   "painters"
-  ],
-  [
-   "singers",
-   "fridge-items",
-   "rooms",
-   "fast-food",
-   "rodents"
-  ],
-  [
+   "fruits",
    "appliances",
-   "colors",
+   "tech-companies",
+   "bands"
+  ],
+  [
+   "fridge-items",
+   "herbs-spices",
+   "world-capitals",
+   "pizza-toppings",
+   "thai-foods"
+  ],
+  [
+   "rooms",
    "instruments",
+   "african-animals",
+   "pasta",
+   "currencies"
+  ],
+  [
+   "seafood",
+   "fried-foods",
+   "shapes",
+   "video-games",
+   "teas"
+  ],
+  [
    "jungle-animals",
-   "constellations"
-  ],
-  [
-   "emotions",
-   "sports-equipment",
-   "candy",
-   "kitchen-tools",
-   "grains"
-  ],
-  [
-   "weapons",
-   "clothing",
-   "music-genres",
-   "landforms",
-   "snakes"
-  ],
-  [
-   "movie-franchises",
-   "chores",
-   "body-parts",
-   "toys",
+   "house-types",
+   "gods",
+   "sauces",
    "metals"
   ],
   [
-   "vehicles",
-   "superpowers",
-   "fried-foods",
-   "school-subjects",
-   "programming-languages"
+   "weather",
+   "sports",
+   "cheeses",
+   "landmarks",
+   "potato-dishes"
   ],
   [
-   "mythical-creatures",
-   "burger-toppings",
    "hobbies",
    "christmas-things",
-   "german-foods"
-  ],
-  [
-   "halloween-things",
-   "breads",
-   "exercises",
-   "furniture",
-   "mountains"
-  ],
-  [
    "animal-sounds",
-   "accessories",
-   "holidays",
-   "movie-genres",
-   "primates"
-  ],
-  [
-   "forest-animals",
-   "sports",
-   "house-types",
-   "shapes",
-   "nursery-rhymes"
+   "car-brands",
+   "cat-breeds"
   ],
   [
    "units",
-   "bathroom-items",
-   "places-in-town",
-   "historical-figures",
-   "australian-animals"
+   "tools",
+   "toys",
+   "forest-animals",
+   "french-foods"
   ],
   [
+   "bathroom-items",
+   "us-states",
    "beach-things",
+   "car-parts",
+   "constellations"
+  ],
+  [
+   "baby-animals",
+   "european-cities",
+   "juices",
+   "soups",
+   "cetaceans"
+  ],
+  [
+   "jobs",
+   "soft-drinks",
+   "vegetables",
    "sea-creatures",
-   "office-supplies",
+   "german-foods"
+  ],
+  [
+   "languages",
+   "mythical-creatures",
+   "egg-dishes",
+   "colors",
+   "snakes"
+  ],
+  [
+   "body-parts",
+   "candy",
+   "meats",
+   "cartoon-characters",
+   "mountains"
+  ],
+  [
+   "dog-breeds",
+   "cookies",
+   "actors",
+   "italian-foods",
+   "game-consoles"
+  ],
+  [
+   "rice-noodle-dishes",
+   "fairy-tales",
+   "superheroes",
+   "breakfast-foods",
+   "programming-languages"
+  ],
+  [
    "inventions",
+   "desserts",
+   "villains",
+   "emotions",
+   "nursery-rhymes"
+  ],
+  [
+   "dairy",
+   "places-in-town",
+   "sandwiches",
+   "superpowers",
    "clothing-brands"
   ],
   [
-   "ice-cream-toppings",
-   "juices",
-   "family-members",
+   "school-subjects",
+   "pies-pastries",
+   "holidays",
+   "movie-genres",
+   "cocktails"
+  ],
+  [
    "snacks",
-   "bands"
+   "kitchen-tools",
+   "halloween-things",
+   "family-members",
+   "natural-disasters"
+  ],
+  [
+   "spirits",
+   "ice-cream-flavors",
+   "historical-figures",
+   "burger-toppings",
+   "shoes"
   ]
  ]
 }

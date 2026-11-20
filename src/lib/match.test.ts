@@ -117,3 +117,20 @@ test("a typo still counts when the guess has an extra word", () => {
   assert.equal(findAnswer(desserts, "chocolate brownee")?.name, "Brownie");
   assert.equal(findAnswer(desserts, "tirimasu")?.name, "Tiramisu");
 });
+
+test("no day has two categories from the same overlap group", async () => {
+  const { default: overlaps } = await import("../../data/overlaps.json");
+  const groupsOf = new Map<string, string[]>();
+  for (const [name, ids] of Object.entries(overlaps.groups)) {
+    for (const id of ids) groupsOf.set(id, [...(groupsOf.get(id) ?? []), name]);
+  }
+  for (const day of calendar.days) {
+    const seen = new Map<string, string>();
+    for (const id of day) {
+      for (const g of groupsOf.get(id) ?? []) {
+        assert.ok(!seen.has(g), `${seen.get(g)} and ${id} share "${g}" on one day`);
+        seen.set(g, id);
+      }
+    }
+  }
+});
