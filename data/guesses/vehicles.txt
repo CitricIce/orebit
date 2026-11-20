@@ -1,0 +1,60 @@
+car
+train
+plane
+aeroplane
+bike
+motorbike
+motercycle
+lorry
+truck
+helicoptor
+ambulence
+cab
+subway
+the tube => Subway
+underground => Subway
+fire engine => Fire truck
+firetruck => Fire truck
+police car
+cop car => Police car
+digger
+excavator => Digger
+cement mixer
+bin lorry => Garbage truck
+trash truck => Garbage truck
+suv
+4x4 => SUV
+pickup => Pickup truck
+saloon => Sedan
+estate car => Station wagon
+race car
+go kart
+quad bike
+atv => Quad bike
+e-scooter => Electric scooter
+tuk tuk
+rv => Camper van
+motorhome => Camper van
+camper => Camper van
+18 wheeler => Semi truck
+tow truck
+double decker => Double-decker bus
+hot air balloon
+submarine
+speedboat
+cruise ship
+jetski
+hovercraft
+cable car
+bullet train
+sleigh => Sled
+toboggan => Sled
+tugboat
+aircraft carrier
+battleship
+drone
+seaplane
+fighter jet
+zamboni
+wheelchair
+tanker

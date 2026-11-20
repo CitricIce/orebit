@@ -1,0 +1,272 @@
+# aliases for existing answers
+--- 2
+Car | automobile | auto | motorcar | motor car | cars
+Bus | buses | busses | autobus
+Train | trains | choo choo | choo choo train | passenger train
+Plane | airplanes | aeroplanes | aircraft | airliner | jetliner | passenger plane | jumbo jet | jumbo | jet plane | aeroplain
+Bicycle | bikes | push bike | pushbike | pedal bike | cycle | bycicle | bicyle | bicylce | road bike | racing bike
+Motorcycle | motorbikes | motercycle | motorcylce | motocycle | motor cycle | motor bike
+Truck | trucks | lorries | lorrys
+Helicopter | helicoptor | helecopter | heli | chopper | whirlybird | helicopters
+Ship | ships
+Taxi | taxicab | taxi cab | yellow cab | black cab | cabs | taxis
+Van | vans | delivery van | panel van | transit van
+Scooter | kick scooter | push scooter
+Tram | trams | trolley car | trolleycar | tramcar
+Subway | subway train | underground train | metro train | tube train | rapid transit
+Ambulance | ambulence | ambulanse | amublance | ambulances
+Fire truck | firetruck | fire engines | fire trucks | firetruk
+Police car | cop car | squad car | patrol car | cruiser | police cruiser | panda car | police van
+Bulldozer | dozer | buldozer | bull dozer
+Digger | excavators | mechanical digger | jcb | power shovel
+Crane | mobile crane | tower crane | crane truck
+Forklift | fork lift | forklift truck | fork lift truck
+Dump truck | dumper truck | dumptruck | tipper truck | tipper lorry | dumper | tipper
+Cement mixer | concrete mixer | cement truck | concrete truck | mixer truck
+Garbage truck | trash truck | rubbish truck | dustcart | bin truck | refuse truck | dustbin lorry | rubbish lorry | refuse lorry | garbage lorry | trash truk
+Tank | army tank | battle tank | tanks
+SUV | suvs | sport utility vehicle | 4x4 | four by four | four wheel drive | 4wd
+Limousine | limousene | limosine | limo car | stretch limo
+Minivan | mini van | people mover | mpv
+Pickup truck | pickup | pick up truck | pick-up | pick up | ute
+Convertible | cabriolet | cabrio | drop top | soft top | roadster
+Race car | racecar | race cars | racing cars | formula 1 car | f1 car | formula one car | indy car | stock car | dragster
+Go-kart | go kart | gokart | go cart | kart
+Golf cart | golf buggy | golfcart
+Quad bike | quad | quads | four wheeler | all terrain vehicle
+Snowmobile | snow mobile | ski doo | skidoo | snowmachine
+Rollerblades | roller blades | inline skates | roller skates | rollerskates
+Tricycle | trike
+Hoverboard | hover board
+Rickshaw | rikshaw | ricksha
+Tuk-tuk | tuktuk | tuk tuk | took took
+Moped | mopeds
+Camper van | camper | campervan | motor home | recreational vehicle | rvs | motorhomes | camper vans
+Caravan | caravans | travel trailer | camper trailer | fifth wheel
+Semi truck | semi | semitruck | semi trailer | big rig | tractor trailer | articulated truck | eighteen wheeler | artic
+Tow truck | towtruck | breakdown truck | wrecker | recovery truck | breakdown lorry | tow lorry
+Monster truck | monstertruck
+Double-decker bus | double decker | doubledecker | double decker bus
+Coach | motorcoach | coach bus | tour bus
+School bus | yellow school bus | schoolbus
+Hot air balloon | balloon | hot-air balloon | hotair balloon | air balloon
+Blimp | airships | dirigible
+Rocket | rocket ship | rocketship | rockets
+Spaceship | space ship | starship | spacecrafts
+Space shuttle | shuttle
+Submarine | sub | submarines | u boat | uboat
+Sailboat | sail boat | sailing boat | sailing ship | sailing dinghy | sailboats
+Speedboat | speed boat | powerboat | power boat
+Ferry | ferry boat | ferryboat | car ferry | ferries
+Kayak | kyak | kayack
+Raft | life raft | liferaft | rubber raft
+Jet ski | jetski | waverunner | personal watercraft | sea doo | seadoo
+Hovercraft | hover craft
+Cable car | cablecar | aerial tramway | ski lift | chairlift | chair lift
+Bullet train | high speed train | shinkansen | tgv | bullet trains
+Steam train | steam engine | steam locomotive
+Sled | sleds | sledges | sleighs | toboggan | dog sled | dogsled | bobsled | bobsleigh | luge
+Horse and carriage | horse drawn carriage | horse-drawn carriage | carriages | coach and horses | horse and cart | horse cart
+Wagon | waggon | wagons | horse wagon | chuck wagon
+Cart | handcart | hand cart | pushcart | push cart | oxcart | ox cart
+--- 3
+Penny-farthing | penny farthing | high wheeler
+Tandem | tandem bike | tandem bicycle | bicycle built for two
+Recumbent bike | recumbent | recumbent bicycle
+E-bike | ebike | electric bike | electric bicycle | e bike
+Electric scooter | e-scooter | escooter | e scooter | electric kick scooter
+Pedicab | bike taxi | cycle rickshaw | bicycle rickshaw | trishaw | bike rickshaw
+Auto rickshaw | autorickshaw | auto-rickshaw | three wheeler
+Trolleybus | trolley bus | trackless trolley
+Funicular | funicular railway | cliff railway | incline railway
+Maglev | maglev train | magnetic levitation train
+Light rail | light rail train | lrt
+Handcar | hand car | pump trolley
+Stagecoach | stage coach
+Buggy | horse and buggy | horse buggy
+Covered wagon | prairie schooner
+Armored car | armoured car
+Humvee | hummer
+APC | armored personnel carrier | armoured personnel carrier
+Combine harvester | combine | harvester
+Backhoe | backhoe loader | back hoe
+Steamroller | steam roller | roadroller
+Front loader | wheel loader | front end loader | bucket loader
+Tugboat | tug boat | tug | tugs
+Barge | barges
+Catamaran | catamarans | cat boat
+Dinghy | dingy | dinghies
+Galleon | gallion
+Aircraft carrier | carrier | aircraft carriers
+Battleship | battle ship | warship | war ship | battleships
+Seaplane | sea plane | floatplane | float plane | flying boat
+Drone | drones | quadcopter | uav | unmanned aerial vehicle
+Lunar rover | moon buggy | moon rover
+Mars rover | rover
+Zeppelin | zepplin | zeplin
+# new answers
+--- 2
+Sedan | saloon | saloon car | sedans
+Hatchback | hatch back | hatchbacks
+Station wagon | estate car | estate | stationwagon
+Sports car | sportscar | sports cars
+Electric car | ev | electric vehicle | e car
+Cruise ship | cruise liner | cruiseship | cruise boat
+Cargo ship | container ship | freighter | cargo boat | freight ship | merchant ship
+Rowboat | row boat | rowing boat | rowboats
+Fighter jet | fighter plane | jet fighter | warplane | war plane | fighter aircraft
+Mountain bike | mtb | mountainbike
+Dirt bike | dirtbike | motocross bike | trail bike
+Freight train | goods train | cargo train
+Paddle boat | pedalo | pedal boat | paddleboat
+
+--- 3
+Coupe | coupé | coupes
+Crossover | crossover suv | cuv
+Supercar | super car | hypercar | hyper car
+Muscle car | musclecar
+Hybrid car | hybrid | hybrid vehicle | plug in hybrid
+Minibus | mini bus | minibuses
+BMX | bmx bike
+Wheelchair | wheel chair | electric wheelchair | power chair
+Mobility scooter | disability scooter
+Tanker | oil tanker | tanker truck | tanker ship | fuel tanker | petrol tanker | tank truck
+Fishing boat | fishing vessel
+Lifeboat | life boat | rescue boat
+Pirate ship | pirate boat
+Private jet | business jet | learjet
+Cargo plane | freight plane | transport plane
+Locomotive | loco | train engine | railway engine | locomotives
+Electric train | electric locomotive
+Diesel train | diesel locomotive
+Dune buggy | beach buggy | dune buggie
+Delivery truck | box truck | box van | moving truck | removal van | moving van
+Ice cream truck | ice cream van | ice-cream van
+Food truck | food van | burger van | taco truck
+Bumper car | dodgem | dodgems
+Motorboat | motor boat | motor launch
+Houseboat | house boat
+Stroller | pram | pushchair | baby carriage | buggy stroller @4
+Hang glider | hangglider
+Paraglider @4
+Bomber | bomber plane | stealth bomber
+Military helicopter | attack helicopter | army helicopter
+Police helicopter @4
+Air ambulance | air ambulance helicopter
+Snowplow | snow plow | snowplough | snow plough | gritter | grit truck | salt truck
+Bendy bus | articulated bus
+Open top bus | open-top bus | sightseeing bus
+Electric bus
+Sidecar | side car | motorcycle sidecar
+Chopper motorcycle | chopper bike
+Sport bike | sportbike | superbike | crotch rocket
+Cargo bike | cargo bicycle | box bike
+Folding bike | folding bicycle
+Balance bike | run bike | strider bike
+
+--- 4
+UTV | side by side | side-by-side | utility terrain vehicle
+Armored truck | armoured truck | security van | cash van
+Car transporter | car carrier | auto transporter | car hauler
+Flatbed truck | flatbed | flatbed lorry
+Log truck | logging truck | timber lorry
+Milk float | milk truck
+Mail truck | mail van | post van | postal van | postal truck
+Fire boat | fireboat
+Paddy wagon | prison van | police wagon | black maria
+Ladder truck | hook and ladder | aerial ladder
+Pace car | safety car
+Rally car | rallycar
+Hot rod | hotrod
+Lowrider | low rider
+Microcar | bubble car | smart car | city car
+Party bus
+Kit car
+Telehandler | telescopic handler
+Pile driver
+Asphalt paver | road paver
+Railcar | rail car | railway carriage | train carriage | passenger car
+Commuter train | suburban train | regional train
+High-speed rail | high speed rail | hsr
+Sleeper train | night train | overnight train
+Cog railway | rack railway
+Toy train | miniature railway | mini train
+Pontoon boat
+Airboat | air boat | swamp boat
+Inflatable boat | rubber dinghy | rib | zodiac | inflatable dinghy
+Punt | punts
+Sampan
+Dragon boat
+Longship | viking ship | viking longship | longboat | long boat
+Clipper ship | clipper
+Steamship | steam ship | steamer
+Ocean liner | liner | transatlantic liner
+Paddle steamer | steamboat | riverboat | paddlewheeler | sternwheeler
+Water taxi | water bus | vaporetto | taxi boat
+Narrowboat | narrow boat | canal boat
+Gyrocopter | gyroplane | autogiro
+Microlight | ultralight | microlight aircraft
+Light aircraft | propeller plane | prop plane | light plane
+Concorde | supersonic jet
+Space capsule
+Lunar module | lunar lander | moon lander
+Flying car
+Jetpack | jet pack
+Hyperloop
+Sedan chair | palanquin
+Wheelbarrow | wheel barrow
+Hearse | funeral car
+Pedal car
+Electric motorcycle | e motorcycle
+Minibike | mini bike | pit bike | pocket bike
+Touring bike | tourer
+Cruiser bike | cruiser bicycle | beach cruiser
+Fixie | fixed gear bike | fixed gear
+Fat bike | fatbike
+Electric unicycle | onewheel
+Trike motorcycle | motor trike
+Horse trailer | horsebox | horse box
+Destroyer | destroyers
+Frigate | frigates
+Gunboat | patrol boat
+Landing craft
+Minesweeper
+Hydrofoil
+Submersible | minisub | mini sub
+Amphibious car | duck boat | dukw
+Kick sled
+Ice boat | iceboat | ice yacht
+Land yacht | landyacht | sand yacht
+Tank engine
+Cherry picker | bucket truck | boom lift
+Street sweeper | road sweeper | sweeper truck
+Skid steer | skid steer loader | bobcat
+Grader | motor grader | road grader
+
+--- 5
+Ekranoplan
+Bathyscaphe
+Trireme
+Galley
+Caravel
+Sloop
+Ketch
+Brig | brigantine
+Man-of-war | man o war | man of war
+Torpedo boat | pt boat
+Coracle
+Outrigger canoe | outrigger
+Dugout canoe | dugout
+Umiak
+Pirogue
+Barque | bark
+Cutter
+Railbus | rail bus
+Tank destroyer
+Self-propelled gun | self propelled gun | artillery vehicle
+Turboprop
+Spaceplane | space plane
+Bush plane
+Kei car | kei truck
+Cyclecar
+Quadricycle
