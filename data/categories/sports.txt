@@ -972,7 +972,7 @@ Tam-tam
 
 === singers
 title: Pop stars and singers
-prompt: Name as many famous singers as you can
+prompt: Name as many famous singers as you can (rappers count too)
 --- 1
 Taylor Swift
 Beyoncé | beyonce
