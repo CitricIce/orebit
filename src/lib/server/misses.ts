@@ -1,25 +1,30 @@
 import "server-only";
+import { createClient } from "redis";
 
 // Guesses that matched no answer, counted per day and category, so missing
 // answers can be found and added. Stores only the category and the typed text.
-// Uses Upstash Redis over REST (Vercel's Upstash integration sets these env
-// vars). Without them, logging is skipped.
+// Uses the Redis database connected in Vercel (REDIS_URL). Without it,
+// logging is skipped.
 
-const URL = process.env.KV_REST_API_URL ?? process.env.UPSTASH_REDIS_REST_URL;
-const TOKEN = process.env.KV_REST_API_TOKEN ?? process.env.UPSTASH_REDIS_REST_TOKEN;
+const REDIS_URL = process.env.REDIS_URL;
 const KEEP_SECONDS = 60 * 60 * 24 * 40;
 
-export const missesEnabled = Boolean(URL && TOKEN);
+export const missesEnabled = Boolean(REDIS_URL);
 
-async function redis(commands: (string | number)[][]): Promise<{ result: unknown }[]> {
-  const res = await fetch(`${URL}/pipeline`, {
-    method: "POST",
-    headers: { Authorization: `Bearer ${TOKEN}`, "Content-Type": "application/json" },
-    body: JSON.stringify(commands),
-    cache: "no-store",
-  });
-  if (!res.ok) throw new Error(`Redis ${res.status}`);
-  return res.json();
+type Client = ReturnType<typeof createClient>;
+let client: Promise<Client> | null = null;
+
+// One connection per server instance, reused across requests.
+function redis(): Promise<Client> {
+  if (!client) {
+    const c = createClient({ url: REDIS_URL, socket: { connectTimeout: 3000 } });
+    c.on("error", () => {});
+    client = c.connect().catch((err) => {
+      client = null;
+      throw err;
+    });
+  }
+  return client;
 }
 
 export function tidyGuess(guess: string): string {
@@ -31,27 +36,25 @@ export async function logMiss(date: string, categoryId: string, guess: string): 
   if (!missesEnabled || text.length < 2) return;
   const key = `misses:${date}:${categoryId}`;
   const index = `misses:index:${date}`;
-  await redis([
-    ["HINCRBY", key, text, 1],
-    ["EXPIRE", key, KEEP_SECONDS],
-    ["SADD", index, categoryId],
-    ["EXPIRE", index, KEEP_SECONDS],
-  ]);
+  const r = await redis();
+  await r
+    .multi()
+    .hIncrBy(key, text, 1)
+    .expire(key, KEEP_SECONDS)
+    .sAdd(index, categoryId)
+    .expire(index, KEEP_SECONDS)
+    .exec();
 }
 
 /** Every missed guess for one day: { categoryId: { guess: count } }. */
 export async function missesFor(date: string): Promise<Record<string, Record<string, number>>> {
   if (!missesEnabled) return {};
-  const [{ result: ids }] = await redis([["SMEMBERS", `misses:index:${date}`]]);
-  const list = (ids as string[]) ?? [];
-  if (!list.length) return {};
-  const rows = await redis(list.map((id) => ["HGETALL", `misses:${date}:${id}`]));
+  const r = await redis();
+  const ids = await r.sMembers(`misses:index:${date}`);
   const out: Record<string, Record<string, number>> = {};
-  list.forEach((id, i) => {
-    const flat = (rows[i].result as string[]) ?? [];
-    const counts: Record<string, number> = {};
-    for (let j = 0; j < flat.length; j += 2) counts[flat[j]] = Number(flat[j + 1]);
-    out[id] = counts;
-  });
+  for (const id of ids) {
+    const flat = await r.hGetAll(`misses:${date}:${id}`);
+    out[id] = Object.fromEntries(Object.entries(flat).map(([k, v]) => [k, Number(v)]));
+  }
   return out;
 }
