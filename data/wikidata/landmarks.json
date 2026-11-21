@@ -1,0 +1,3785 @@
+[
+{
+"name": "Vatican City",
+"aliases": [
+"Città del Vaticano",
+"Holy See",
+"Papal State",
+"State of Vatican City",
+"Stato della Città del Vaticano",
+"Status Civitatis Vaticanae",
+"The Vatican",
+"Vatican",
+"Vatican City State"
+],
+"links": 343
+},
+{
+"name": "Brasília",
+"aliases": [],
+"links": 226
+},
+{
+"name": "Rabat",
+"aliases": [
+"Rabbat"
+],
+"links": 191
+},
+{
+"name": "Taj Mahal",
+"aliases": [
+"Crown of the Palace",
+"the Taj Mahal"
+],
+"links": 186
+},
+{
+"name": "Lake Baikal",
+"aliases": [
+"Baikal",
+"Baikal Sea",
+"Bajkal",
+"Baykal",
+"Ozero Bajkal"
+],
+"links": 185
+},
+{
+"name": "Quito",
+"aliases": [
+"Kitu",
+"Quito, Ecuador"
+],
+"links": 181
+},
+{
+"name": "Valletta",
+"aliases": [
+"Capital of Malta",
+"Citta Umilissima",
+"Città Umilissima",
+"Il-Belt Valletta",
+"La Valleta"
+],
+"links": 181
+},
+{
+"name": "Statue of Liberty",
+"aliases": [],
+"links": 159
+},
+{
+"name": "Great Barrier Reef",
+"aliases": [
+"Great Barrier Reef World Heritage Site",
+"La Grande Barrière",
+"The Great Barrier Reef"
+],
+"links": 158
+},
+{
+"name": "Jaipur",
+"aliases": [
+"Pink City"
+],
+"links": 146
+},
+{
+"name": "Verona",
+"aliases": [],
+"links": 142
+},
+{
+"name": "Salvador",
+"aliases": [
+"Bahia",
+"São Salvador da Bahia de Todos os Santos"
+],
+"links": 138
+},
+{
+"name": "Stonehenge",
+"aliases": [],
+"links": 136
+},
+{
+"name": "Galapagos Islands",
+"aliases": [
+"Archipelago of Colon",
+"Archipelago of Columbus",
+"Archipelago of Ecuador",
+"Archipelago of the Equator",
+"Bewitched Islands",
+"Colon Archipelago",
+"Colon Islands",
+"Colons",
+"Columbus Archipelago",
+"Columbus Islands",
+"Ecuador Archipelago",
+"Enchanted Islands",
+"Enchanted Isles",
+"Enchanteds",
+"Galapagos Archipelago",
+"Galapagoses",
+"Gallapagos",
+"Gallapagos I.",
+"Gallapagos Isl.",
+"Gallapagos Islands",
+"Galápagos Archipelago",
+"Galápagoses",
+"I. Gallapagos",
+"Inchanted Islands",
+"Inchanteds",
+"Insular Region",
+"Insular Region of Ecuador",
+"Islands of the Equator",
+"Isles of Gallapagos",
+"Las Encantadas",
+"the Galapagos",
+"the Galapagoses"
+],
+"links": 134
+},
+{
+"name": "Timbuktu",
+"aliases": [
+"Timbuctoo",
+"Timbuktoo",
+"Tombouctou",
+"Tumbutu"
+],
+"links": 130
+},
+{
+"name": "Auschwitz",
+"aliases": [
+"Au.",
+"Auschwitz concentration camp",
+"Auschwitz death camp",
+"Auschwitz-Birkenau",
+"Birkenau",
+"KZ Auschwitz",
+"Oświęcim"
+],
+"links": 129
+},
+{
+"name": "Phong Nha – Ke Bang National Park",
+"aliases": [
+"Phong Nha – Ke Bang"
+],
+"links": 125
+},
+{
+"name": "Troy",
+"aliases": [
+"Ancient Troy",
+"City of Troy",
+"Ilion",
+"Ilium",
+"Mint of Ilium",
+"Teukroi"
+],
+"links": 123
+},
+{
+"name": "Cusco",
+"aliases": [
+"Capital of the Inca empire",
+"City of Cusco",
+"City of Cuzco",
+"Cultural heritage city of Peru",
+"Cusco World Heritage Site",
+"Cuzco World Heritage Site",
+"Empire city of Cusco",
+"Empire city of Cuzco",
+"Imperial city of Cusco",
+"Imperial city of Cuzco",
+"Imperial City of the Cusco",
+"Imperial City of the Cuzco",
+"Rome of America",
+"Rome of the Americas"
+],
+"links": 117
+},
+{
+"name": "Petra",
+"aliases": [
+"Mint of Petra",
+"Petra, Jordan"
+],
+"links": 117
+},
+{
+"name": "Yellowstone National Park",
+"aliases": [
+"YELL",
+"Yellow Stone",
+"Yellow Stone National Park",
+"Yellowstone N. Park",
+"Yellowstone National Parc",
+"Yellowstone National Park, Montana",
+"Yellowstone National Park, WY",
+"Yellowstone NP",
+"Yellowstone park",
+"Yellowstone Park"
+],
+"links": 116
+},
+{
+"name": "Bath",
+"aliases": [
+"Bath, Somerset",
+"City of Bath"
+],
+"links": 112
+},
+{
+"name": "Victoria Falls",
+"aliases": [
+"Mosi-oa-Tunya",
+"Mosi-oa-Tunya / Victoria Falls"
+],
+"links": 111
+},
+{
+"name": "Basilica and Expiatory Church of the Holy Family",
+"aliases": [
+"Expiatory Temple of the Holy Family",
+"Holy Family",
+"La Sagrada Familia",
+"Sagrada Familia",
+"Sagrada Família",
+"Temple Expiatori de la Sagrada Família",
+"Temple of the Holy Family"
+],
+"links": 110
+},
+{
+"name": "Chichen Itza",
+"aliases": [
+"Chichén Itzá"
+],
+"links": 110
+},
+{
+"name": "Mount Olympus",
+"aliases": [
+"Olympus",
+"Oros Olympos"
+],
+"links": 110
+},
+{
+"name": "Palace of Versailles",
+"aliases": [
+"Chateau de Versailles",
+"Château de Versailles",
+"France. Chateau Versailles",
+"Palais de Versailles",
+"Versailles",
+"Versailles Castle",
+"Versailles Palace",
+"Versailles. Chateau",
+"Versailles. Château",
+"Versailles. Palais"
+],
+"links": 109
+},
+{
+"name": "Palmyra",
+"aliases": [
+"Mint of Palmyra",
+"Palmira",
+"Tadmor"
+],
+"links": 108
+},
+{
+"name": "Kyoto Prefecture",
+"aliases": [
+"Kyoto",
+"Kyoto-fu",
+"Kyouto-fu",
+"Kyōto Prefecture",
+"Kyōto-fu"
+],
+"links": 106
+},
+{
+"name": "Persepolis",
+"aliases": [
+"Chehel Menar",
+"Chel Menar",
+"Chelmenar",
+"Chihil Minar",
+"Chil Minar",
+"Chilminar",
+"Mint of Persepolis",
+"Takht-e Jamshid",
+"Takht-e-Jamshid"
+],
+"links": 104
+},
+{
+"name": "Acre",
+"aliases": [
+"Akka",
+"Akko",
+"St. Jean d'Acre"
+],
+"links": 103
+},
+{
+"name": "Al-Aqsa Mosque",
+"aliases": [
+"Al Aqsa Mosque",
+"Al-Aqṣā mosque",
+"Al-Qibli Chapel",
+"Al-Qibli Mosque",
+"Jami'a Al-Aqsa",
+"Masjid Aqsa",
+"Masjid-e-Aqsa"
+],
+"links": 103
+},
+{
+"name": "Derbent",
+"aliases": [
+"Darband",
+"Derbend"
+],
+"links": 101
+},
+{
+"name": "Mohenjo-daro",
+"aliases": [
+"Mohenjo Daro",
+"Mound of dead",
+"Mound of Dead Men",
+"Mound of the Dead"
+],
+"links": 99
+},
+{
+"name": "Sydney Opera House",
+"aliases": [
+"Opera House",
+"Sydney Opera"
+],
+"links": 99
+},
+{
+"name": "Acropolis of Athens",
+"aliases": [
+"Acropolis"
+],
+"links": 97
+},
+{
+"name": "Heard Island and McDonald Islands",
+"aliases": [
+"Heard and Macdonald Islands",
+"Heard and McDonald Islands",
+"HIMI",
+"hm",
+"Territory of Heard Island and McDonald Islands"
+],
+"links": 97
+},
+{
+"name": "Samarra",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Olympia",
+"aliases": [
+"Lagganico Sauro",
+"Longanico",
+"Longavico",
+"Olimpia",
+"Olympia Pisa",
+"Olympia Pissa",
+"Olympia, Greece"
+],
+"links": 90
+},
+{
+"name": "Axum",
+"aliases": [
+"Aksum",
+"Axum town",
+"Mint of Axum"
+],
+"links": 88
+},
+{
+"name": "Kandy",
+"aliases": [
+"Mahanuwara"
+],
+"links": 88
+},
+{
+"name": "Luang Prabang",
+"aliases": [
+"Luang Phabang"
+],
+"links": 88
+},
+{
+"name": "Tower of London",
+"aliases": [
+"Her Majesty's Royal Palace and Fortress",
+"His Majesty's Royal Palace and Fortress",
+"The Tower",
+"The Tower of London"
+],
+"links": 88
+},
+{
+"name": "Baalbek",
+"aliases": [
+"Baalbec",
+"Baalbeck",
+"Balbec",
+"Heliopolis",
+"Mint of Heliopolis"
+],
+"links": 87
+},
+{
+"name": "Dome of the Rock",
+"aliases": [],
+"links": 87
+},
+{
+"name": "San Cristóbal de La Laguna",
+"aliases": [
+"La Laguna",
+"La Laguna, Spain"
+],
+"links": 87
+},
+{
+"name": "Yosemite National Park",
+"aliases": [
+"YOSE",
+"Yosemite NP"
+],
+"links": 87
+},
+{
+"name": "Cologne Cathedral",
+"aliases": [
+"High Cathedral of St. Peter"
+],
+"links": 86
+},
+{
+"name": "Fatehpur Sikri",
+"aliases": [
+"Fatehpur Sikri Old",
+"Fatepur Sikri",
+"Fathpur Sikri",
+"Futtehpore Sikri",
+"Futtipoor Seehnee",
+"Futtipoor Sicri",
+"Futty Poor Sicri",
+"Futtypore Sicri",
+"Old Fatehpur Sikri"
+],
+"links": 86
+},
+{
+"name": "Marquesas Islands",
+"aliases": [
+"Marquesas",
+"Tefenuaenata"
+],
+"links": 86
+},
+{
+"name": "Ha Long Bay",
+"aliases": [],
+"links": 85
+},
+{
+"name": "Potosí",
+"aliases": [
+"Potosi",
+"Villa Imperial de Potosi",
+"Villa Imperial de Potosí"
+],
+"links": 85
+},
+{
+"name": "Ajanta Caves",
+"aliases": [],
+"links": 83
+},
+{
+"name": "Byblos",
+"aliases": [
+"Byblus",
+"Geval",
+"Gubla",
+"Gval",
+"Jubayl",
+"Mint of Byblus"
+],
+"links": 83
+},
+{
+"name": "Western Ghats",
+"aliases": [
+"Sahayadri",
+"Sahayadri Hills",
+"Sahya Mountains",
+"Sahya Parvat",
+"Sahya Parvatam",
+"Sahya Parvatham",
+"Sahyadri",
+"Sahyadri mountain range",
+"Sahyadri mountain ranges",
+"Sahyadri Mountains",
+"Sahyadris",
+"Tamhini Ghat",
+"The Western Ghats",
+"West coast mountain range of India",
+"Western coast mountain range of india",
+"Western Ghat mountain range",
+"Western Ghat mountain ranges",
+"Western Ghat mountains",
+"Western Ghats of Maharashtra",
+"Western Ghauts",
+"Western Ghâts",
+"Western Ghāts"
+],
+"links": 83
+},
+{
+"name": "Hadrian's Wall",
+"aliases": [
+"Hadrians Wall",
+"Picts' Wall",
+"Roman Wall",
+"Vallum Aelium"
+],
+"links": 82
+},
+{
+"name": "Anuradhapura",
+"aliases": [],
+"links": 81
+},
+{
+"name": "Kairouan",
+"aliases": [
+"Al-Qayrawan",
+"Kairwan",
+"Kirwan"
+],
+"links": 81
+},
+{
+"name": "Shahrisabz",
+"aliases": [
+"Kesh",
+"Kish",
+"Shakhrisyabz"
+],
+"links": 81
+},
+{
+"name": "Delos",
+"aliases": [
+"Mint of Delos"
+],
+"links": 80
+},
+{
+"name": "Assur",
+"aliases": [
+"Ashur",
+"Asshur",
+"Aššur",
+"Aššûr",
+"Qal'at Sherqat",
+"Āshūr"
+],
+"links": 79
+},
+{
+"name": "Bagan",
+"aliases": [
+"Pagan"
+],
+"links": 79
+},
+{
+"name": "Göbekli Tepe",
+"aliases": [
+"Portasar",
+"Potbelly Hill"
+],
+"links": 79
+},
+{
+"name": "Susa",
+"aliases": [
+"Mint of Susa",
+"Shushan",
+"Susa archaeological complex"
+],
+"links": 79
+},
+{
+"name": "Teotihuacan",
+"aliases": [
+"archeological site of Teotihuacan",
+"City of the Gods",
+"City of the Sun",
+"Place of Reeds",
+"Teotihuacán"
+],
+"links": 79
+},
+{
+"name": "Virunga National Park",
+"aliases": [
+"Albert National Park"
+],
+"links": 79
+},
+{
+"name": "Agra Fort",
+"aliases": [
+"Agra's Red Fort",
+"Red Fort"
+],
+"links": 78
+},
+{
+"name": "London Eye",
+"aliases": [
+"Coca-Cola London Eye",
+"lastminute.com London Eye",
+"The London Eye"
+],
+"links": 78
+},
+{
+"name": "Serengeti National Park",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Cave of Altamira",
+"aliases": [
+"Cave Paintings, Altamira Cave",
+"Cuevas de Altamira"
+],
+"links": 76
+},
+{
+"name": "Ellora Caves",
+"aliases": [
+"Elora"
+],
+"links": 76
+},
+{
+"name": "Himeji Castle",
+"aliases": [
+"Hakuro Castle",
+"Shirasagi Castle",
+"White Egret Castle",
+"White Heron Castle"
+],
+"links": 76
+},
+{
+"name": "Kaziranga National Park",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Lumbini",
+"aliases": [
+"Lumbini sal park lumbini sal park"
+],
+"links": 76
+},
+{
+"name": "Red Fort",
+"aliases": [
+"Lal Qila"
+],
+"links": 76
+},
+{
+"name": "Aeolian Islands",
+"aliases": [
+"Lipari Islands",
+"Æolian Islands"
+],
+"links": 75
+},
+{
+"name": "Cyrene",
+"aliases": [
+"Cyrene, Libya",
+"Mint of Cyrene"
+],
+"links": 75
+},
+{
+"name": "Giant's Causeway",
+"aliases": [
+"Giants Causeway",
+"Giants' Causeway",
+"Gyants Causey",
+"Gyants Cawsway"
+],
+"links": 75
+},
+{
+"name": "Great Zimbabwe",
+"aliases": [
+"Zimbabye"
+],
+"links": 75
+},
+{
+"name": "Porto Venere",
+"aliases": [
+"Portovenere"
+],
+"links": 75
+},
+{
+"name": "Taxila",
+"aliases": [
+"Mint of Taxila"
+],
+"links": 74
+},
+{
+"name": "Notre-Dame de Chartres",
+"aliases": [
+"Chartres Cathedral",
+"Our Lady of Chartres"
+],
+"links": 73
+},
+{
+"name": "Prambanan Temple",
+"aliases": [],
+"links": 73
+},
+{
+"name": "Qutb Minar",
+"aliases": [
+"Dhruv Stambh",
+"Dhurva Stambha",
+"Qutab Minar",
+"Qutub Minar"
+],
+"links": 73
+},
+{
+"name": "Hiroshima Peace Memorial",
+"aliases": [
+"A-Bomb Dome",
+"Atomic Bomb Dome",
+"Genbaku Dome"
+],
+"links": 72
+},
+{
+"name": "Nalanda Mahavihara",
+"aliases": [
+"Mahavihara of Nalanda",
+"Nālandā Mahāvihāra"
+],
+"links": 72
+},
+{
+"name": "Robben Island",
+"aliases": [
+"Robbeneiland"
+],
+"links": 72
+},
+{
+"name": "Dessau",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Masada",
+"aliases": [],
+"links": 71
+},
+{
+"name": "Meteora",
+"aliases": [
+"Meteora monasteries"
+],
+"links": 71
+},
+{
+"name": "Mount Tai",
+"aliases": [
+"Tai Mountain",
+"Tai Shan",
+"Taishan"
+],
+"links": 71
+},
+{
+"name": "Plitvice Lakes National Park",
+"aliases": [
+"Plitvice",
+"Plitvice Lakes",
+"Plitvice National Park",
+"Plitvicka Jezera National Park"
+],
+"links": 71
+},
+{
+"name": "Çatalhöyük",
+"aliases": [
+"Catal Höyük",
+"Catal Hüyük",
+"Catal hüyük"
+],
+"links": 71
+},
+{
+"name": "Djerba",
+"aliases": [
+"Djerba Island",
+"Jarbah"
+],
+"links": 70
+},
+{
+"name": "Everglades National Park",
+"aliases": [
+"EVER"
+],
+"links": 70
+},
+{
+"name": "Grand Canal",
+"aliases": [
+"Beijing-Hangzhou Grand Canal",
+"The Grand Canal"
+],
+"links": 70
+},
+{
+"name": "Hampi",
+"aliases": [
+"Bhaskara-kshetra",
+"Group of Monuments at Hampi",
+"Hampe",
+"Hampi Group of Monuments",
+"Hampi group of monuments",
+"Kishkindha-kshetra",
+"Pampa-kshetra",
+"Vijayanagara ruins"
+],
+"links": 70
+},
+{
+"name": "Humayun's Tomb",
+"aliases": [
+"Maqbara e Humayun"
+],
+"links": 70
+},
+{
+"name": "Itsukushima Shrine",
+"aliases": [
+"Aki Ichinomiya",
+"Itsukushima Shinto Shrine"
+],
+"links": 70
+},
+{
+"name": "Mahabodhi Temple",
+"aliases": [
+"Maha Bodhi Temple",
+"Mahabodhi",
+"Mahabodhi Temple Complex",
+"Mahabodhi Temple Complex at Bodh Gaya",
+"Mahabodi"
+],
+"links": 70
+},
+{
+"name": "Merv",
+"aliases": [
+"Margush",
+"Marv",
+"Marw",
+"Merve Oasis",
+"Merw"
+],
+"links": 70
+},
+{
+"name": "Tassili n'Ajjer",
+"aliases": [],
+"links": 70
+},
+{
+"name": "Temple of Heaven",
+"aliases": [
+"Imperial temple of heaven",
+"Temple of Heaven, Bejing"
+],
+"links": 70
+},
+{
+"name": "Tiwanaku",
+"aliases": [
+"Tiahuanaco",
+"Tiahuanacu"
+],
+"links": 70
+},
+{
+"name": "Leptis Magna",
+"aliases": [
+"Labdah",
+"Mint of Leptis Magna",
+"Ulpia Traiana"
+],
+"links": 69
+},
+{
+"name": "Shibam",
+"aliases": [
+"Old Walled City of Shibam",
+"the Chicago of the desert",
+"the Manhattan of the Middle East",
+"the oldest skyscraper city in the world"
+],
+"links": 69
+},
+{
+"name": "Aït Benhaddou",
+"aliases": [
+"Ksar of Aït Benhaddou"
+],
+"links": 68
+},
+{
+"name": "Danube Delta",
+"aliases": [
+"Danube River Delta"
+],
+"links": 68
+},
+{
+"name": "Kathmandu Valley",
+"aliases": [
+"Nepa valley",
+"Nepal Valley"
+],
+"links": 68
+},
+{
+"name": "Nazca Lines",
+"aliases": [
+"Nasca lines",
+"ray roads"
+],
+"links": 68
+},
+{
+"name": "Ngorongoro Conservation Area",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Bam",
+"aliases": [
+"Bam, Iran"
+],
+"links": 67
+},
+{
+"name": "Chogha Zanbil",
+"aliases": [
+"Choghazanbil",
+"Choqa Zanbil",
+"Choqazanbil",
+"Dur Untash",
+"Dur-Untash",
+"Tchogha Zanbil"
+],
+"links": 67
+},
+{
+"name": "Curonian Spit",
+"aliases": [
+"Courish Split",
+"Courland Spit",
+"Curonian Spit Kaliningrad"
+],
+"links": 67
+},
+{
+"name": "Huangshan",
+"aliases": [
+"Huángshān",
+"Yellow Mountain",
+"Yellow Mountains"
+],
+"links": 67
+},
+{
+"name": "Macquarie Island",
+"aliases": [
+"Île Macquarie"
+],
+"links": 67
+},
+{
+"name": "Naqsh-e Jahan Square",
+"aliases": [
+"Emam Sq.",
+"Imam Square",
+"Meidan Emam",
+"Naghsh-e jahan",
+"Naghsh-e Jahan Square",
+"Naghsh-i Jahan",
+"Naghsh-i Jahan Square",
+"Naqsh-e Jahan",
+"Naqsh-i Jahan Square",
+"Royal Square of Esfahan",
+"Shah square",
+"The Royal Square of Esfahan"
+],
+"links": 67
+},
+{
+"name": "Okavango Delta",
+"aliases": [
+"Okavango Grassland"
+],
+"links": 67
+},
+{
+"name": "Palenque",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Pasargadae",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Selimiye Mosque",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Bikini Atoll",
+"aliases": [
+"Bikini Atoll, Marshall Islands",
+"Eschscholtz Atoll",
+"Pikinni"
+],
+"links": 66
+},
+{
+"name": "Kakadu National Park",
+"aliases": [
+"Kakadu"
+],
+"links": 66
+},
+{
+"name": "Komodo National Park",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Mogao Caves",
+"aliases": [
+"Mogao ku"
+],
+"links": 65
+},
+{
+"name": "Struve Geodetic Arc",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Aachen Cathedral",
+"aliases": [
+"Imperial Cathedral"
+],
+"links": 64
+},
+{
+"name": "Dasht-e Lut",
+"aliases": [
+"Lut Desert"
+],
+"links": 64
+},
+{
+"name": "Saint Sophia Cathedral",
+"aliases": [
+"Saint Sophia's Cathedral",
+"Sofiiskyi sobor",
+"St Sophia Cathedral",
+"St Sophia's Cathedral",
+"St. Sophia Cathedral",
+"St. Sophia's Cathedral"
+],
+"links": 64
+},
+{
+"name": "Sigiriya",
+"aliases": [
+"Lion Rock",
+"Sigiri",
+"Sigiri, Ceylon"
+],
+"links": 64
+},
+{
+"name": "Abu Mena",
+"aliases": [
+"Abu Mina"
+],
+"links": 63
+},
+{
+"name": "Appian Way",
+"aliases": [
+"Via Appia"
+],
+"links": 63
+},
+{
+"name": "Białowieża Forest",
+"aliases": [
+"Bialowieza Forest",
+"Bialowieza Primeval Forest",
+"Bilovezha Forest"
+],
+"links": 63
+},
+{
+"name": "Hội An",
+"aliases": [
+"Hoi An"
+],
+"links": 63
+},
+{
+"name": "Neusiedl Lake",
+"aliases": [
+"Lake Neusiedl"
+],
+"links": 63
+},
+{
+"name": "Surtsey",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Bosra",
+"aliases": [
+"Bostra"
+],
+"links": 62
+},
+{
+"name": "Butrint",
+"aliases": [
+"Bouthroton",
+"Buthrotum",
+"Mint of Buthrotum"
+],
+"links": 62
+},
+{
+"name": "Church of the Nativity",
+"aliases": [
+"Basilica of the Nativity",
+"Church of the Holy Cradle"
+],
+"links": 62
+},
+{
+"name": "Grand Canyon National Park",
+"aliases": [
+"GRCA",
+"Marble Canyon National Monument"
+],
+"links": 62
+},
+{
+"name": "Hatra",
+"aliases": [],
+"links": 62
+},
+{
+"name": "K'gari",
+"aliases": [
+"Fraser",
+"Fraser Island",
+"Fraser Island, Queensland",
+"Fraser Island, Queensland, Australia",
+"Gari",
+"Great Sandy Island",
+"K'gari / Fraser Island",
+"K'gari World Heritage Site",
+"Île Fraser"
+],
+"links": 62
+},
+{
+"name": "Lorentz National Park",
+"aliases": [
+"Taman Nasional Loretz"
+],
+"links": 62
+},
+{
+"name": "Mosque-Cathedral of Cordoba",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Nesebar",
+"aliases": [
+"Nesebur",
+"Nessebar"
+],
+"links": 62
+},
+{
+"name": "Okapi Wildlife Reserve",
+"aliases": [
+"Reserve de faune a okapis"
+],
+"links": 62
+},
+{
+"name": "Summer Palace",
+"aliases": [
+"New Summer Palace",
+"Yi He Yuan",
+"Yiheyuan"
+],
+"links": 62
+},
+{
+"name": "Thingvellir National Park",
+"aliases": [
+"Thingvellir",
+"Þingvellir National Park"
+],
+"links": 62
+},
+{
+"name": "Köneürgenç",
+"aliases": [
+"Konya-Urgench",
+"Konye Urgench",
+"Konye-Urgench",
+"Kounya-Ourguentch",
+"Köneürgench",
+"Old Urgench",
+"Urganj"
+],
+"links": 61
+},
+{
+"name": "Los Glaciares National Park",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Mount Nemrut",
+"aliases": [
+"Nemrud Dagh"
+],
+"links": 61
+},
+{
+"name": "Omo River",
+"aliases": [
+"Umaa River"
+],
+"links": 61
+},
+{
+"name": "Sarnath",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Teide National Park",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Wadi Rum",
+"aliases": [
+"The Valley of the Moon",
+"Wadi Rum Protected Area"
+],
+"links": 61
+},
+{
+"name": "Yakushima",
+"aliases": [
+"Yaku Island",
+"Yaku-shima"
+],
+"links": 61
+},
+{
+"name": "Chitwan National Park",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Garamba National Park",
+"aliases": [
+"Parc National de la Garamba"
+],
+"links": 60
+},
+{
+"name": "Golestan Palace",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Hegra",
+"aliases": [
+"Al-Hijr",
+"Al-Hijr Archaeological Site",
+"el Hijr",
+"Mada'in Salih",
+"Mint of Hegra",
+"Nabataean ruins of Hegra"
+],
+"links": 60
+},
+{
+"name": "M'banza-Kongo",
+"aliases": [
+"M'Banza Congo",
+"M'banza Congo",
+"M'banza Kongo",
+"M'Banza Kongo",
+"M'banza-Congo",
+"M'Banza-Congo",
+"Mabanza Congo",
+"Mabanza Kongo",
+"Mabanza-Congo",
+"Mabanza-Kongo",
+"Mbanza Congo",
+"Mbanza Kongo",
+"Mbanza-Congo",
+"Mbanza-Kongo",
+"S. Salvador",
+"S. Salvador de Congo",
+"S. Salvador del Congo",
+"S. Salvador do Congo",
+"S. Salvador, Angola",
+"San Salvador",
+"San Salvador de Congo",
+"San Salvador del Congo",
+"San Salvador, Angola",
+"Sao Salvador",
+"Sao Salvador do Congo",
+"Sao Salvador, Angola",
+"São Salvador",
+"São Salvador do Congo",
+"São Salvador, Angola"
+],
+"links": 60
+},
+{
+"name": "Mesa Verde National Park",
+"aliases": [
+"MEVE"
+],
+"links": 60
+},
+{
+"name": "Niokolo-Koba National Park",
+"aliases": [
+"Parc National du Niokolo Koba",
+"PNNK"
+],
+"links": 60
+},
+{
+"name": "Ani",
+"aliases": [
+"Abnicum"
+],
+"links": 59
+},
+{
+"name": "Bhimbetka rock shelters",
+"aliases": [
+"Auditorium cave",
+"Bhonrawali shelters",
+"Jhondra Pahari",
+"Lakha Juar",
+"Muni Babaki Pahari",
+"Pre – historic rock shelters",
+"Vinayaka Pahari"
+],
+"links": 59
+},
+{
+"name": "Chauvet Cave",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Comoé National Park",
+"aliases": [
+"Comoe National Park"
+],
+"links": 59
+},
+{
+"name": "Drottningholm Palace",
+"aliases": [
+"Drottningholms slott"
+],
+"links": 59
+},
+{
+"name": "Gorée",
+"aliases": [
+"Goree",
+"Gorée Island",
+"Island of Gorée",
+"Île de Gorée"
+],
+"links": 59
+},
+{
+"name": "Island of Mozambique",
+"aliases": [
+"Ilha de Moçambique"
+],
+"links": 59
+},
+{
+"name": "Lake District",
+"aliases": [
+"English Lake District",
+"Lakeland",
+"The English Lake District",
+"The Lakes"
+],
+"links": 59
+},
+{
+"name": "Pont du Gard",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Sagarmatha National Park",
+"aliases": [
+"Sagarmatha rastriya nikunja"
+],
+"links": 59
+},
+{
+"name": "Timgad",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Amalfi Coast",
+"aliases": [
+"Costa d'Amalfi",
+"Costiera amalfitana"
+],
+"links": 58
+},
+{
+"name": "Beemster",
+"aliases": [
+"Beemster polder"
+],
+"links": 58
+},
+{
+"name": "Canal du Midi",
+"aliases": [
+"Canal de las Doas Mars",
+"canal of the two seas",
+"Canal Royal en Languedoc"
+],
+"links": 58
+},
+{
+"name": "Castel del Monte",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Malbork Castle",
+"aliases": [
+"Castle of the Teutonic Order in Malbork"
+],
+"links": 58
+},
+{
+"name": "Museum Island",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Salonga National Park",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Solovetsky Islands",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Sundarbans National Park",
+"aliases": [
+"Sundarban National Park",
+"Sunderban National Park",
+"Sunderbans National Park"
+],
+"links": 58
+},
+{
+"name": "Valdés Peninsula",
+"aliases": [
+"Valdes Peninsula"
+],
+"links": 58
+},
+{
+"name": "Wartburg",
+"aliases": [
+"Schloss Wartburg",
+"Wartburg Castle"
+],
+"links": 58
+},
+{
+"name": "Zabid",
+"aliases": [
+"Zabeed",
+"Zabīd",
+"Zebid"
+],
+"links": 58
+},
+{
+"name": "Belém Tower",
+"aliases": [
+"Belem Tower"
+],
+"links": 57
+},
+{
+"name": "Canaima National Park",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Copán",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Elephanta Caves",
+"aliases": [
+"Gharapuri Caves"
+],
+"links": 57
+},
+{
+"name": "Jiuzhaigou Valley",
+"aliases": [
+"Jiu zhai gou",
+"Jiuzhaigou"
+],
+"links": 57
+},
+{
+"name": "Kasubi Tombs",
+"aliases": [
+"Kampala Kasubi Tombs",
+"Kasubi Royal Tombs",
+"The Tombs of Buganda Kings at Kasubi"
+],
+"links": 57
+},
+{
+"name": "Kevladev National Park",
+"aliases": [
+"Bharatpur Bird Sanctuary",
+"Bharatpur National Park",
+"Bharatpur NP",
+"Keoladeo Ghana National Park",
+"Kevladev Bird Sanctuary"
+],
+"links": 57
+},
+{
+"name": "Kinabalu Park",
+"aliases": [
+"Kinabalu National Park"
+],
+"links": 57
+},
+{
+"name": "Liberty Island",
+"aliases": [
+"Bedloe Island",
+"Bedloes Island",
+"Bedlow Island",
+"Bedlow's Island",
+"Great Oyster Island",
+"Min-ne-ais",
+"Minissais",
+"Minnisais",
+"Statue of Liberty World Heritage Site"
+],
+"links": 57
+},
+{
+"name": "Notre-Dame d'Amiens",
+"aliases": [
+"Amiens Cathedral"
+],
+"links": 57
+},
+{
+"name": "Speyer Cathedral",
+"aliases": [
+"Cathedral of Speyer",
+"Imperial Cathedral of Speyer",
+"Mariendom",
+"Speyerer Dom"
+],
+"links": 57
+},
+{
+"name": "Wachau",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Chhatrapati Shivaji Maharaj Terminus",
+"aliases": [
+"Bombay VT",
+"Chhatrapati Shivaji Terminus railway station",
+"Mumbai CSMT",
+"Victoria Terminus"
+],
+"links": 56
+},
+{
+"name": "Cueva de las Manos",
+"aliases": [
+"Cave of Hands",
+"Cave of the Hands",
+"Cdlm",
+"Cueva de las Manos, Río Pinturas",
+"Las Manos",
+"Manos Cave"
+],
+"links": 56
+},
+{
+"name": "Djemila",
+"aliases": [
+"Cuicul",
+"Roman ruins of Djémila"
+],
+"links": 56
+},
+{
+"name": "Grand-Place",
+"aliases": [
+"Grand Place Brussels",
+"Grote Markt",
+"Nedermerckt"
+],
+"links": 56
+},
+{
+"name": "Kahuzi-Biéga National Park",
+"aliases": [
+"Kahuzi-Biega National Park"
+],
+"links": 56
+},
+{
+"name": "Konark Sun Temple",
+"aliases": [
+"Good Black Pagoda",
+"Konarak Temple",
+"Konarka Temple",
+"Sun Temple",
+"Surya Deula",
+"Surya Temple",
+"Temple of the Sun"
+],
+"links": 56
+},
+{
+"name": "Palace of Fontainebleau",
+"aliases": [
+"castle of Fontainebleau",
+"chateau de Fontainebleau",
+"château de Fontainebleau",
+"musée de Fontainebleau"
+],
+"links": 56
+},
+{
+"name": "Polonnaruwa",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Selous Game Reserve",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Burgos Cathedral",
+"aliases": [
+"Cathedral of kdcsk",
+"Cathedral of St Mary, Burgos",
+"Diocesan Cathedral of Burgos"
+],
+"links": 55
+},
+{
+"name": "Château de Chambord",
+"aliases": [
+"castle of Chambord",
+"Chambord",
+"Chambord Castle"
+],
+"links": 55
+},
+{
+"name": "Forth Bridge",
+"aliases": [
+"Forth Rail Bridge",
+"The Forth Bridge"
+],
+"links": 55
+},
+{
+"name": "Hawaiʻi Volcanoes National Park",
+"aliases": [
+"HAVO",
+"Hawai'i Volcanoes National Park",
+"Hawaii Volcanoes National Park",
+"HVNP",
+"Volcanoes National Park"
+],
+"links": 55
+},
+{
+"name": "Kronborg Castle",
+"aliases": [
+"Elsinore",
+"Kronborg"
+],
+"links": 55
+},
+{
+"name": "L'Anse aux Meadows",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Manovo-Gounda St. Floris National Park",
+"aliases": [],
+"links": 55
+},
+{
+"name": "My Son Sanctuary",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Olympic National Park",
+"aliases": [
+"OLYM",
+"Olympic NP",
+"ONP"
+],
+"links": 55
+},
+{
+"name": "Sanchi",
+"aliases": [
+"Buddhist monuments at Sanchi",
+"Great Sanchi Stupa",
+"Sanchi Stupa",
+"Sanchi Tope"
+],
+"links": 55
+},
+{
+"name": "Santa Maria delle Grazie",
+"aliases": [
+"Basilica of Santa Maria Grazie",
+"Santa Maria delle Grazie Church",
+"Santa Maria delle Grazie, Milan"
+],
+"links": 55
+},
+{
+"name": "Simien Mountains National Park",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Stone Town",
+"aliases": [
+"Mji Mkongwe",
+"Stone Town of Zanzibar"
+],
+"links": 55
+},
+{
+"name": "Tadrart Acacus",
+"aliases": [
+"Acacus mountains",
+"Tadrart Akakus"
+],
+"links": 55
+},
+{
+"name": "Tomb of Askia",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Wulingyuan",
+"aliases": [
+"Wulingyuan National Park",
+"Wulingyuan Scenic and Historic Interest Area",
+"Wulingyuan Scenic Reserve"
+],
+"links": 55
+},
+{
+"name": "Wuyi Mountains",
+"aliases": [
+"Bohea Hills",
+"Mount Wuyi",
+"Wuyi Shan",
+"Wuyishan"
+],
+"links": 55
+},
+{
+"name": "Cahokia",
+"aliases": [
+"Cahokia Mounds State Historic Site",
+"Cahokia Mounds State Park"
+],
+"links": 54
+},
+{
+"name": "Cidade Velha",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Garajonay National Park",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Hortobágy National Park",
+"aliases": [
+"Hortobagy National Park",
+"Hortobágyi Nemzeti Park Igazgatóság"
+],
+"links": 54
+},
+{
+"name": "Mammoth Cave National Park",
+"aliases": [
+"MACA",
+"Mammoth Cave Biosphere Reserve"
+],
+"links": 54
+},
+{
+"name": "Mystras",
+"aliases": [
+"Mistra",
+"Mistras"
+],
+"links": 54
+},
+{
+"name": "Suomenlinna",
+"aliases": [
+"Sveaborg"
+],
+"links": 54
+},
+{
+"name": "Tropical Rainforest Heritage of Sumatra",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Anjar",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Blenheim Palace",
+"aliases": [
+"Blenheim Park"
+],
+"links": 53
+},
+{
+"name": "Calakmul",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Gelati Monastery",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Jameh Mosque of Isfahan",
+"aliases": [
+"Friday Mosque of Isfahan",
+"Jame Atiq Mosque of Isfahan"
+],
+"links": 53
+},
+{
+"name": "Jerónimos Monastery",
+"aliases": [
+"Jeronimos Monastery"
+],
+"links": 53
+},
+{
+"name": "Nan Madol",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Preah Vihear Temple",
+"aliases": [],
+"links": 53
+},
+{
+"name": "prehistoric pile dwellings around the Alps",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Shirakami-Sanchi",
+"aliases": [
+"Kōsei Mountains",
+"Shirakami Mountains"
+],
+"links": 53
+},
+{
+"name": "Soltaniyeh",
+"aliases": [
+"Sa'idiyeh",
+"Saidiyeh",
+"Soltaneyyeh",
+"Soltanieh",
+"Sultanieh",
+"Sultaniya",
+"Sultaniye",
+"Sultaniyeh"
+],
+"links": 53
+},
+{
+"name": "St Kilda",
+"aliases": [
+"St. Kilda"
+],
+"links": 53
+},
+{
+"name": "Tower of Hercules",
+"aliases": [
+"Herkulesen Dorrea",
+"Torre de Hércules"
+],
+"links": 53
+},
+{
+"name": "Tsodilo",
+"aliases": [
+"Tsodilo Hill",
+"Tsodilo Hills"
+],
+"links": 53
+},
+{
+"name": "Ujung Kulon National Park",
+"aliases": [
+"Suaka Margasatwa Ujungkulon",
+"Ujong Kulon Wildlife Reserve",
+"Ujung Kulon",
+"Ujung-Kulon National Park"
+],
+"links": 53
+},
+{
+"name": "Volubilis",
+"aliases": [
+"Mint of Volubilis"
+],
+"links": 53
+},
+{
+"name": "Wood Buffalo National Park",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Aldabra",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Antonine Wall",
+"aliases": [
+"Graham's Dyke",
+"Severan Wall",
+"Wall of Antoninus"
+],
+"links": 52
+},
+{
+"name": "Chan Chan",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Citadel of the Hồ Dynasty",
+"aliases": [
+"Citadel of Ho Dynasty"
+],
+"links": 52
+},
+{
+"name": "Doñana National Park",
+"aliases": [
+"Doñana"
+],
+"links": 52
+},
+{
+"name": "Hadrian's Villa",
+"aliases": [
+"Villa Adriana"
+],
+"links": 52
+},
+{
+"name": "Henderson Island",
+"aliases": [
+"Elizabeth Island",
+"San João Baptista"
+],
+"links": 52
+},
+{
+"name": "Hollókő",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Jaú National Park",
+"aliases": [
+"Jau National Park"
+],
+"links": 52
+},
+{
+"name": "Kew Gardens",
+"aliases": [
+"Kew Royal Botanic Gardens",
+"Royal Botanic Gardens",
+"Royal Botanic Gardens Kew"
+],
+"links": 52
+},
+{
+"name": "Longmen Grottoes",
+"aliases": [
+"Long-men shih kʻu",
+"Longmen Caves",
+"Longmen National Park",
+"Longmen Shiku",
+"Lung-men Caves",
+"Lung-men Grottoes",
+"Lung-men shih kʻu",
+"Lung-men Shiku"
+],
+"links": 52
+},
+{
+"name": "Mehmed Paša Sokolović Bridge",
+"aliases": [
+"Sokollu Mehmed Paşa Köprüsü"
+],
+"links": 52
+},
+{
+"name": "Pirin National Park",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Reichenau Island",
+"aliases": [
+"Insel Reichenau"
+],
+"links": 52
+},
+{
+"name": "Rocas Atoll",
+"aliases": [
+"Atol das Rocas"
+],
+"links": 52
+},
+{
+"name": "Salt",
+"aliases": [
+"As Salt",
+"Saltus"
+],
+"links": 52
+},
+{
+"name": "Skellig Michael",
+"aliases": [
+"Great Skellig"
+],
+"links": 52
+},
+{
+"name": "Taï National Park",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Vredefort crater",
+"aliases": [
+"Vredefort dome",
+"Vredefort Dome",
+"Vredefort impact structure"
+],
+"links": 52
+},
+{
+"name": "Bourges Cathedral",
+"aliases": [
+"Cathédrale Saint-Étienne de Bourges"
+],
+"links": 51
+},
+{
+"name": "Carlsbad Caverns National Park",
+"aliases": [
+"CAVE"
+],
+"links": 51
+},
+{
+"name": "Changdeokgung",
+"aliases": [
+"Ch'angdŏkkung",
+"Changdeok Palace",
+"Changdeokgung Palace",
+"Changdok-kung Palace",
+"Chʻangdŏkkung Palace"
+],
+"links": 51
+},
+{
+"name": "Gobustan State Historical and Cultural Reserve",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Great Smoky Mountains National Park",
+"aliases": [
+"Great Smoky Mt National Park",
+"Great Smoky Mts National Park",
+"GRSM",
+"GSMNP"
+],
+"links": 51
+},
+{
+"name": "Iguazú National Park",
+"aliases": [
+"Iguazu National Park",
+"Parque Nacional del Iguazú"
+],
+"links": 51
+},
+{
+"name": "Inca road system",
+"aliases": [
+"Qhapaq Ñan"
+],
+"links": 51
+},
+{
+"name": "Manas National Park",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Mosque City of Bagerhat",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Old Town",
+"aliases": [
+"Old Town of Prague",
+"Old Town, Prague",
+"Staré Město"
+],
+"links": 51
+},
+{
+"name": "Philippi",
+"aliases": [
+"Mint of Philippi"
+],
+"links": 51
+},
+{
+"name": "Qal'at Bani Hammad",
+"aliases": [
+"Al Qal'a of Beni Hammad"
+],
+"links": 51
+},
+{
+"name": "Quiriguá",
+"aliases": [
+"Quirigua"
+],
+"links": 51
+},
+{
+"name": "Yungang Grottoes",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Banc d'Arguin National Park",
+"aliases": [
+"Parc national du banc d'Arguin",
+"Parc national du Banc d'Arguin"
+],
+"links": 50
+},
+{
+"name": "Boyana Church",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Ecbatana",
+"aliases": [
+"Ekbatana",
+"Mint of Ecbatana"
+],
+"links": 50
+},
+{
+"name": "Itchan Kala",
+"aliases": [
+"Ichan Kala"
+],
+"links": 50
+},
+{
+"name": "Piazza del Duomo, Pisa",
+"aliases": [
+"piazza dei Miracoli",
+"Piazza del Duomo"
+],
+"links": 50
+},
+{
+"name": "Puerto Princesa Subterranean River National Park",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Qal’at al Bahrain",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Quebrada de Humahuaca",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Semmering railway",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Shahr-e Sukhteh",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Takht-e Soleyman",
+"aliases": [
+"Takht-e Soleiman",
+"Takht-e Soleymān",
+"Takht-e Suleiman",
+"Takht-i-Suleiman"
+],
+"links": 50
+},
+{
+"name": "Virgin Komi Forests",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Vlkolínec",
+"aliases": [
+"Vlkolinec"
+],
+"links": 50
+},
+{
+"name": "Cradle of Humankind",
+"aliases": [
+"Fossil Hominid Sites of South Africa"
+],
+"links": 49
+},
+{
+"name": "Fasil Ghebbi",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Gunung Mulu National Park",
+"aliases": [
+"Mulu National Park"
+],
+"links": 49
+},
+{
+"name": "Khirokitia",
+"aliases": [
+"Choirokoitia Neolithic Site"
+],
+"links": 49
+},
+{
+"name": "Madara Rider",
+"aliases": [
+"Madara Horseman"
+],
+"links": 49
+},
+{
+"name": "Mir Castle Complex",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Mount Wutai",
+"aliases": [
+"Wu-tai-shan",
+"Wutai Mountain",
+"Wutai Shan",
+"Wutaishan"
+],
+"links": 49
+},
+{
+"name": "Nisa",
+"aliases": [
+"Mint of Nisa Mithradatkart",
+"Mitridatkirt",
+"Nisa Mithradatkart"
+],
+"links": 49
+},
+{
+"name": "Pattadakal Group of Monuments",
+"aliases": [
+"Group of Monuments at Pattadakal",
+"Pattada-Kisuvolal",
+"Petirgal",
+"Raktapur"
+],
+"links": 49
+},
+{
+"name": "Roskilde Cathedral",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Spiš Castle",
+"aliases": [
+"Arx Scepusiensis",
+"Spišský Hrad",
+"Szepesi vár",
+"Zipser Burg"
+],
+"links": 49
+},
+{
+"name": "Tournai Cathedral",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Trinity Lavra of St. Sergius",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Urnes Stave Church",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Buda Castle",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Bwindi Impenetrable National Park",
+"aliases": [
+"Bwindi Impenetrable Forest National Park",
+"Bwindi National Park",
+"Bwindi Park"
+],
+"links": 48
+},
+{
+"name": "Centennial Hall",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Dengfeng",
+"aliases": [
+"Dengfeng Shi"
+],
+"links": 48
+},
+{
+"name": "Fort Jesus Museum",
+"aliases": [
+"Fort Jesus National Monument",
+"Fort Jesus, Mombasa"
+],
+"links": 48
+},
+{
+"name": "Jantar Mantar",
+"aliases": [
+"Jyotish Yantralaya"
+],
+"links": 48
+},
+{
+"name": "Kilimanjaro National Park",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Lençóis Maranhenses National Park",
+"aliases": [
+"Lençóis Maranhenses"
+],
+"links": 48
+},
+{
+"name": "Mausoleum of Khoja Ahmed Yasawi",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Mount Nimba Strict Nature Reserve",
+"aliases": [
+"Mount Nimba"
+],
+"links": 48
+},
+{
+"name": "Mountain Railways of India",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Plain of Jars",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Poblet Monastery",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Purnululu National Park",
+"aliases": [
+"Parc national de Purnululu",
+"Purnululu",
+"Purnululu N.P.",
+"Purnululu National Park World Heritage Site",
+"Purnululu National Park, Western Australia"
+],
+"links": 48
+},
+{
+"name": "Putorana Plateau",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Qazan Kremlin",
+"aliases": [
+"Kazan Kremlin"
+],
+"links": 48
+},
+{
+"name": "Rohtas Fort",
+"aliases": [
+"Rotas Ghur"
+],
+"links": 48
+},
+{
+"name": "Tongariro National Park",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Tsingy de Bemaraha Strict Nature Reserve",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Valley of Flowers National Park",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Vatnajökull National Park",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Villa Romana del Casale",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Wadi Al-Hitan",
+"aliases": [
+"Whale Valley"
+],
+"links": 48
+},
+{
+"name": "Xanadu",
+"aliases": [
+"K'ai-p'ing",
+"Kai-ping",
+"Kaiping",
+"Shang-tu",
+"Shangdu",
+"Site of Xanadu",
+"Yuan Shangdu"
+],
+"links": 48
+},
+{
+"name": "Yinxu",
+"aliases": [
+"archaeological site of Yin Xu",
+"Ruins of Yin",
+"Yin Ruins",
+"Yin Xu"
+],
+"links": 48
+},
+{
+"name": "Škocjan Caves",
+"aliases": [
+"Škocjanske Jame",
+"Škocjanské jeskyně"
+],
+"links": 48
+},
+{
+"name": "Bam Citadel",
+"aliases": [
+"Arg-e Bam",
+"Arg-é Bam"
+],
+"links": 47
+},
+{
+"name": "Belize Barrier Reef",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Bryggen",
+"aliases": [
+"Bryggen i Bergen"
+],
+"links": 47
+},
+{
+"name": "Cape Floristic Kingdom",
+"aliases": [
+"Cape Floristic Province",
+"Cape Floristic Region",
+"Cape Kingdom",
+"Capensis",
+"South African Floristic Kingdom",
+"South African Kingdom"
+],
+"links": 47
+},
+{
+"name": "Dead Cities",
+"aliases": [
+"Ancient Villages of Northern Syria",
+"Forgotten Cities"
+],
+"links": 47
+},
+{
+"name": "Dholavira",
+"aliases": [
+"Kotda Timba"
+],
+"links": 47
+},
+{
+"name": "Djoudj National Bird Sanctuary",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Hypogeum of Ħal Saflieni",
+"aliases": [
+"Saflieni Hypogeum"
+],
+"links": 47
+},
+{
+"name": "Independence Hall",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Islamic Cairo",
+"aliases": [
+"Historic Cairo"
+],
+"links": 47
+},
+{
+"name": "M'zab",
+"aliases": [
+"Aghlan",
+"Msab",
+"Mzab",
+"Mzab valley"
+],
+"links": 47
+},
+{
+"name": "Monte San Giorgio",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Mount Sanqing",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Nahanni National Park Reserve",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Nesvizh Castle",
+"aliases": [
+"Niasviž Castle"
+],
+"links": 47
+},
+{
+"name": "Novodevichy Convent",
+"aliases": [
+"Bogoroditse-Smolensky Monastery"
+],
+"links": 47
+},
+{
+"name": "Richtersveld",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Rwenzori Mountains National Park",
+"aliases": [
+"Rwenzori National Park"
+],
+"links": 47
+},
+{
+"name": "Serra da Capivara National Park",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Sidi Bou Said",
+"aliases": [
+"Jabal el-Menar",
+"Village of Sidi Bou Saïd"
+],
+"links": 47
+},
+{
+"name": "Singapore Botanic Gardens",
+"aliases": [
+"Herbarium, Singapore Botanic Gardens, Singapore",
+"SING",
+"Singapore Botanical Gardens"
+],
+"links": 47
+},
+{
+"name": "Srebarna Nature Reserve",
+"aliases": [
+"Srebarna",
+"Srébarna Biosphere Reserve"
+],
+"links": 47
+},
+{
+"name": "Uluṟu-Kata Tjuṯa National Park",
+"aliases": [
+"Parc national d'Uluru-Kata Tjuta",
+"Uluru - Kata Tjuta National Park",
+"Uluru National Park",
+"Uluru-Kata Tjuta",
+"Uluru-Kata Tjuta National Park"
+],
+"links": 47
+},
+{
+"name": "Val d'Orcia",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Villa d'Este",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Villa Tugendhat",
+"aliases": [
+"Tugendhat house"
+],
+"links": 47
+},
+{
+"name": "Vizcaya Bridge",
+"aliases": [
+"Portugalete Suspension Bridge"
+],
+"links": 47
+},
+{
+"name": "Bandiagara Escarpment",
+"aliases": [
+"Falaise de Bandiagara"
+],
+"links": 46
+},
+{
+"name": "Dougga",
+"aliases": [
+"Thugga"
+],
+"links": 46
+},
+{
+"name": "Great Living Chola Temples",
+"aliases": [
+"Chola Temples",
+"Tanjavur temples",
+"Thanjavur temples"
+],
+"links": 46
+},
+{
+"name": "Gros Morne National Park",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Hill Forts of Rajasthan",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Holašovice",
+"aliases": [
+"Holschowitz"
+],
+"links": 46
+},
+{
+"name": "Jongmyo",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Joya de Cerén",
+"aliases": [
+"Joya de Ceren"
+],
+"links": 46
+},
+{
+"name": "Manu National Park",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Megalithic Temples of Malta",
+"aliases": [
+"Megalithic Temples of Malta and Gozo"
+],
+"links": 46
+},
+{
+"name": "Qasr Amra",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Río Plátano Biosphere Reserve",
+"aliases": [
+"Rio Platano Biosphere",
+"Rio Platano Biosphere Reserve"
+],
+"links": 46
+},
+{
+"name": "Sangay National Park",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Santa Cruz de Mompós",
+"aliases": [
+"Mompox"
+],
+"links": 46
+},
+{
+"name": "Sulaiman-Too",
+"aliases": [
+"Sulamain-Too",
+"Sulayman Mountain"
+],
+"links": 46
+},
+{
+"name": "Tasmanian Wilderness",
+"aliases": [
+"Tasmanian Wilderness World Heritage Area",
+"Tasmanian Wilderness World Heritage Site",
+"The Tasmanian Wilderness",
+"Zone de nature sauvage de Tasmanie"
+],
+"links": 46
+},
+{
+"name": "Ambohimanga",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Augustusburg and Falkenlust Palaces",
+"aliases": [
+"Castles of Augustusburg and Falkenlust at Brühl"
+],
+"links": 45
+},
+{
+"name": "Burkhan Khaldun",
+"aliases": [
+"God Mountain",
+"Khentii Khan"
+],
+"links": 45
+},
+{
+"name": "Dazu Rock Carvings",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Lena Pillars",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Maulbronn Monastery",
+"aliases": [
+"Imperial Monastery of Maulbronn"
+],
+"links": 45
+},
+{
+"name": "Mount Kenya National Park",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Muskau Park",
+"aliases": [
+"parc Muzakowski"
+],
+"links": 45
+},
+{
+"name": "Noel Kempff Mercado National Park",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Port Royal",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Rani ki vav",
+"aliases": [
+"Rani Ki Vav Queen's Stepwell",
+"Rani Ki Vav Stepwell"
+],
+"links": 45
+},
+{
+"name": "Sinharaja Forest Reserve",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Stoclet Palace",
+"aliases": [
+"Stoclet House"
+],
+"links": 45
+},
+{
+"name": "Tabriz Bazaar",
+"aliases": [
+"Bazaar of Tabriz",
+"Tabriz Bazaar Complex",
+"Tabriz Bazar",
+"Tabriz Grand Bazaar"
+],
+"links": 45
+},
+{
+"name": "Wieskirche",
+"aliases": [
+"Pilgrimage Church of Wies"
+],
+"links": 45
+},
+{
+"name": "Zhoukoudian site",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Abbey and Altenmünster of Lorsch",
+"aliases": [
+"Lorsch Abbey"
+],
+"links": 44
+},
+{
+"name": "Abbey of Saint Gall",
+"aliases": [
+"Stift St. Gallen"
+],
+"links": 44
+},
+{
+"name": "Altes Museum",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Ayutthaya Historical Park",
+"aliases": [
+"Historic City of Ayutthaya"
+],
+"links": 44
+},
+{
+"name": "Bahla Fort",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Brú na Bóinne",
+"aliases": [
+"Bru na Boinne"
+],
+"links": 44
+},
+{
+"name": "Casbah of Algiers",
+"aliases": [
+"Kasbah of Algiers"
+],
+"links": 44
+},
+{
+"name": "Coiba",
+"aliases": [
+"Coiba Island",
+"Coiba National Marine Park",
+"Quibo",
+"Quibo Island"
+],
+"links": 44
+},
+{
+"name": "Crespi d'Adda",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Dinosaur Provincial Park",
+"aliases": [],
+"links": 44
+},
+{
+"name": "iron pillar of Delhi",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Jurassic Coast",
+"aliases": [
+"Dorset and East Devon Coast"
+],
+"links": 44
+},
+{
+"name": "Rock-hewn Churches of Ivanovo",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Skogskyrkogården",
+"aliases": [
+"Forest cemetery"
+],
+"links": 44
+},
+{
+"name": "Studenica monastery",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Three Parallel Rivers National Park",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Tubbataha Reef",
+"aliases": [
+"Tubbataha Natural Park",
+"Tubbataha Reefs Natural Park"
+],
+"links": 44
+},
+{
+"name": "Alexander von Humboldt National Park",
+"aliases": [
+"Parque Nacional Alejandro de Humboldt"
+],
+"links": 43
+},
+{
+"name": "Ban Chiang",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Batalha Monastery",
+"aliases": [
+"Monastery of Batalha",
+"Monastery of Saint Mary of the Victory",
+"Mosteiro da Batalha",
+"Mosteiro de Santa Maria da Vitória"
+],
+"links": 43
+},
+{
+"name": "Belfries of Belgium and France",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Cerrado",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Chavin de Huantar",
+"aliases": [
+"Cultura chavin"
+],
+"links": 43
+},
+{
+"name": "Engelsberg Ironworks",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Gondwana Rainforests of Australia",
+"aliases": [
+"Forêts humides Gondwana de l’Australie"
+],
+"links": 43
+},
+{
+"name": "Hollywood Sign",
+"aliases": [
+"Hollywoodland Sign",
+"The Hollywood Sign"
+],
+"links": 43
+},
+{
+"name": "Horezu monastery",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Huascarán National Park",
+"aliases": [
+"Huascaran National Park"
+],
+"links": 43
+},
+{
+"name": "Lavaux",
+"aliases": [
+"Lavaux vineyards"
+],
+"links": 43
+},
+{
+"name": "Old Town of Lviv",
+"aliases": [
+"Lviv's Old Town"
+],
+"links": 43
+},
+{
+"name": "Rainforests of the Atsinanana",
+"aliases": [],
+"links": 43
+},
+{
+"name": "rock drawings in Valcamonica",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Santiniketan",
+"aliases": [
+"Shantiniketan"
+],
+"links": 43
+},
+{
+"name": "Schwerin Castle",
+"aliases": [
+"Schwerin Palace"
+],
+"links": 43
+},
+{
+"name": "Tamgaly",
+"aliases": [
+"Tanbaly"
+],
+"links": 43
+},
+{
+"name": "Taos Pueblo",
+"aliases": [
+"Taos Pueblo, NM"
+],
+"links": 43
+},
+{
+"name": "The Architectural Work of Le Corbusier",
+"aliases": [
+"Le Corbusier World Heritage"
+],
+"links": 43
+},
+{
+"name": "Thracian Tomb of Kazanlak",
+"aliases": [
+"Kazanlak tomb",
+"vaulted-brickwork tomb Kazanlak"
+],
+"links": 43
+},
+{
+"name": "Thracian Tomb of Sveshtari",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Warsaw Old Town",
+"aliases": [
+"Old and New Town of Warsaw",
+"Old Town"
+],
+"links": 43
+},
+{
+"name": "Al-Ahsa Oasis",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Champaner-Pavagadh Archaeological Park",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Huanglong",
+"aliases": [
+"Huanglong Scenic and Historic Interest Area",
+"Huánglóng"
+],
+"links": 42
+},
+{
+"name": "Iguaçu National Park",
+"aliases": [
+"Parque Nacional do Iguaçu"
+],
+"links": 42
+},
+{
+"name": "Imperial Citadel of Thang Long",
+"aliases": [
+"Hoàng thành Thăng Long",
+"Imperial Citadel of Thang Long-Hanoi",
+"Imperial Citadel of Thăng Long",
+"Kinh thành",
+"Thăng Long Imperial Citadel"
+],
+"links": 42
+},
+{
+"name": "iSimangaliso Wetland Park",
+"aliases": [
+"Greater St. Lucia Wetland Park"
+],
+"links": 42
+},
+{
+"name": "Lonja de la Seda",
+"aliases": [
+"Llotja de la Seda"
+],
+"links": 42
+},
+{
+"name": "Los Katíos National Park",
+"aliases": [
+"Los Katios National Park"
+],
+"links": 42
+},
+{
+"name": "Madriu-Perafita-Claror Valley",
+"aliases": [
+"Madriu-Perafita-Claror-Tal"
+],
+"links": 42
+},
+{
+"name": "Maison Carrée",
+"aliases": [
+"Maison Carree"
+],
+"links": 42
+},
+{
+"name": "New Lanark",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Paraty",
+"aliases": [
+"Parati"
+],
+"links": 42
+},
+{
+"name": "Petäjävesi Old Church",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Pontcysyllte Aqueduct",
+"aliases": [
+"Pontcysyllte Aqueduct and Canal"
+],
+"links": 42
+},
+{
+"name": "Revillagigedo Islands",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Sangiran",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Sheikh Safi al-Din Khānegāh and Shrine Ensemble",
+"aliases": [
+"Ardabil Shrine",
+"Ardebil Shrine",
+"Sheikh Safi al-Din Khanegah and Shrine Ensemble",
+"Sheikh Safi's Tomb"
+],
+"links": 42
+},
+{
+"name": "Stone spheres of Costa Rica",
+"aliases": [],
+"links": 42
+},
+{
+"name": "The Great Spa Towns of Europe",
+"aliases": [
+"Great Spa Towns of Europe",
+"Great spas of Europe"
+],
+"links": 42
+},
+{
+"name": "Viñales Valley",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Willandra Lakes Region",
+"aliases": [
+"Région des lacs Willandra",
+"Willandra Lakes Region World Heritage Site"
+],
+"links": 42
+},
+{
+"name": "wooden churches of Maramureș",
+"aliases": [
+"wooden churches of Maramures"
+],
+"links": 42
+},
+{
+"name": "Zubarah",
+"aliases": [
+"Al Zubarah",
+"Az Zubarah"
+],
+"links": 42
+},
+{
+"name": "Al Maghtas",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Alcobaça Monastery",
+"aliases": [
+"Alcobaça"
+],
+"links": 41
+},
+{
+"name": "Castles and Town Walls of King Edward in Gwynedd",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Golden Mountains of Altai",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Historic Monuments of Ancient Kyoto",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Historic Villages of Shirakawa-gō and Gokayama",
+"aliases": [
+"Historic Villages of Shirakawa-go and Gokayama"
+],
+"links": 41
+},
+{
+"name": "Hwaseong Fortress",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Khangchendzonga National Park",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Lake Malawi National Park",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Linderhof Palace",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Mount Kumgang",
+"aliases": [
+"Diamond Mountain",
+"Kumgang Mountains",
+"Mount Geungang",
+"Mount Kŭmgang",
+"Mt. Geumgang",
+"Mt. Kŭmgang"
+],
+"links": 41
+},
+{
+"name": "Mudéjar architecture of Aragon",
+"aliases": [
+"Mudejar Architecture of Aragon"
+],
+"links": 41
+},
+{
+"name": "New Zealand Subantarctic Islands",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Papahānaumokuākea Marine National Monument",
+"aliases": [
+"Papahanaumokuakea Marine National Monument",
+"PMNM"
+],
+"links": 41
+},
+{
+"name": "Roman amphitheatre of El Jem",
+"aliases": [
+"amphitheatre in El Jem"
+],
+"links": 41
+},
+{
+"name": "Royal Tombs of the Joseon Dynasty",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Tajín Veracruz",
+"aliases": [
+"El Tajín"
+],
+"links": 41
+},
+{
+"name": "Te Wahipounamu",
+"aliases": [],
+"links": 41
+},
+{
+"name": "wooden churches of the Slovak Carpathians",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Xochicalco",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Abbey of Fontenay",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Aflaj Irrigation System of Oman",
+"aliases": [
+"Aflaj",
+"Falaj"
+],
+"links": 40
+},
+{
+"name": "Chengde Mountain Resort and its outlying temples",
+"aliases": [
+"Bi shu shan zhuang",
+"Bishushanzhuang",
+"Chengde Mountain Resort",
+"Imperial Summer Resort",
+"Mountain Manor for Escaping the Summer Heat"
+],
+"links": 40
+},
+{
+"name": "churches of Moldavia",
+"aliases": [
+"Moldavian monasteries",
+"Painted Monasteries"
+],
+"links": 40
+},
+{
+"name": "Churches of Peace",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Darién National Park",
+"aliases": [
+"Darien National Park"
+],
+"links": 40
+},
+{
+"name": "Divriği Great Mosque and Hospital",
+"aliases": [
+"Great Mosque and Hospital of Divriği"
+],
+"links": 40
+},
+{
+"name": "Dja Faunal Reserve",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Euphrasian Basilica",
+"aliases": [
+"Cathedral Basilica of the Assumption of Mary"
+],
+"links": 40
+},
+{
+"name": "Gamzigrad",
+"aliases": [
+"Felix Romuliana"
+],
+"links": 40
+},
+{
+"name": "Gonbad-e Qabus",
+"aliases": [
+"Qabus Dome"
+],
+"links": 40
+},
+{
+"name": "Gordion",
+"aliases": [
+"Gordium",
+"Mint of Gordion"
+],
+"links": 40
+},
+{
+"name": "Gulangyu",
+"aliases": [
+"Kou-lang-se"
+],
+"links": 40
+},
+{
+"name": "Holy Trinity Column in Olomouc",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Honghe Hani Rice Terraces",
+"aliases": [
+"Hani Terraces",
+"Yuanyang Rice Terraces"
+],
+"links": 40
+},
+{
+"name": "Ichkeul National Park",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Lake Turkana National Parks",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Mulanje Massif",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Padova botanical garden",
+"aliases": [
+"Botanical Garden",
+"Orto botanico di Padova"
+],
+"links": 40
+},
+{
+"name": "Pannonhalma Archabbey",
+"aliases": [
+"Benedictine Archabbey at Pannonhalma",
+"Millenary Benedictine Abbey of Pannonhalma"
+],
+"links": 40
+},
+{
+"name": "Sammallahdenmäki",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Temple of Kukulcan",
+"aliases": [
+"La Pirámide",
+"Pyramid of Kukulcan",
+"Structure 5B18",
+"Temple of Kukulcán"
+],
+"links": 40
+},
+{
+"name": "Umm ar-Rasas",
+"aliases": [
+"Kastron Mefa'a"
+],
+"links": 40
+},
+{
+"name": "Vallée de Mai",
+"aliases": [
+"Vallee de Mai"
+],
+"links": 40
+},
+{
+"name": "Vega Archipelago",
+"aliases": [
+"Vega Islands"
+],
+"links": 40
+},
+{
+"name": "Šibenik Cathedral",
+"aliases": [
+"Cathedral of St. James in Šibenik"
+],
+"links": 40
+}
+]

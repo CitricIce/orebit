@@ -160,6 +160,11 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "languages": [(inst("Q1288568"), 25)],
     "sandwiches": [(tree("Q28803"), 3)],
     "soups": [(tree("Q41415"), 3)],
+    "landmarks": [
+        ("?item wdt:P1435 wd:Q9259 .", 40),  # UNESCO World Heritage Sites
+        (inst("Q570116"), 40),  # tourist attractions
+    ],
+    "sports": [(inst("Q31629"), 25)],  # types of sport (not events)
 }
 
 QUERY = """

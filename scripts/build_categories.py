@@ -162,6 +162,7 @@ BANNED = {
     "mexican-foods": re.compile(r"^(wrap|calavera|sugar skull)$", re.I),
     "american-foods": re.compile(r"^(mars|extra)$", re.I),
     "composers": re.compile(r"^(elton john)$", re.I),
+    "sports": re.compile(r"^(battle rap|e-?sports? video game)$", re.I),
     "video-games": re.compile(r"\b(dlc|expansion pack|soundtrack|demo|beta|season pass|bundle|collection)\b", re.I),
     "fruits": re.compile(
         r"wikidata|^malus |^prunus |^citrus |^fruit of |'|^(walnut|almond|cashew|peanut|chestnut|hazelnut|pecan|pistachio|macadamia)$",
