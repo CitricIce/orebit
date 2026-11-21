@@ -1,0 +1,108 @@
+# aliases for existing answers
+Moo | mooing | moos | mooed | mooo
+Woof | barks | barked | wuff | guau
+Meow | miaow | meowing | meows | meowed | miaou | meaow | miaowing | mew mew
+Oink | oinking | oinks | oinked
+Quack | quacking | quacks | quacked
+Baa | bah | baaing | baas | bleating | bleats | bleated | baaa
+Neigh | neighing | neighs | neighed | nay
+Roar | roaring | roars | roared | rawr
+Hiss | hissing | hisses | hissed | ssss | sss
+Buzz | buzzing | buzzes | buzzed | bzz | bzzz | drone | droning
+Tweet | chirp | tweeting | tweets | tweeted | chirping | chirps | chirped | chirp chirp
+Cluck | clucking | clucks | clucked | bawk | bok bok | buck buck | brock
+Cock-a-doodle-doo | cock a doodle doo | cockadoodledoo | cockadoodle doo | cock-a-doodle-do | cock a doodle do | cockadoodledo | cockadoodle | cock doodle doo | cock-a-doodle | cocorico
+Howl | howling | howls | howled | awoo | awooo | owooo | arooo
+Growl | growling | growls | growled | grrr | grr | grrrr
+Purr | purring | purrs | purred | prrr | prrrr
+Squeak | squeaking | squeaks | squeaked | squeek | eek
+Hoot | hooting | hoots | hooted | hoo hoo | hoot hoot | whoo
+Ribbit | croak | ribbiting | ribbits | croaking | croaks | croaked | ribit | ribbet | ribbit ribbit | croak croak
+Gobble | gobbling | gobbles | gobbled
+Honk | honking | honks | honked | honk honk
+Coo | cooing | coos | cooed | coo coo | cooo
+Caw | cawing | caws | cawed | caw caw | kaw
+Trumpet | trumpeting | trumpets | trumpeted | toot | elephant trumpet
+Whinny | whinnying | whinnies | whinnied | whinney
+Snort | snorting | snorts | snorted | snorrt
+Grunt | grunting | grunts | grunted
+Squeal | squealing | squeals | squealed | wheek | wheeking
+Bray | hee-haw | braying | brays | brayed | hee haw | heehaw | he-haw
+Bellow | bellowing | bellows | bellowed
+Low | lowing | lows | lowed
+Yelp | yelping | yelps | yelped
+Whimper | whimpering | whimpers | whimpered
+Whine | whining | whines | whined
+Yip | yipping | yips | yipped | yap | yapping | yaps | yapped | yap yap
+Chatter | chattering | chatters | chattered | chitter | chittering | chitter chatter | chitter-chatter
+Screech | screeching | screeches | screeched | skree
+Squawk | squawking | squawks | squawked | squawk squawk
+Cackle | cackling | cackles | cackled
+Cheep | cheeping | cheeps | cheeped | cheep-cheep | chip chip
+Whistle | whistling | whistles | whistled | wolf whistle
+Hum | humming | hums | hummed | hmmm
+Chirrup | chirruping | chirrups | chirruped
+Bow-wow | bow wow | bowwow | bow wow wow
+Arf | arf arf | arfs
+Ruff | ruff ruff | ruffs | ruf | ruf ruf
+Woof woof | woof-woof | woofwoof | woofing | woofed
+Mew | mewing | mews | mewed | mewl | mewling
+Rattle | rattling | rattles | rattled | rattlesnake rattle
+Click | clicking | clicks | clicked | click click | dolphin clicks
+Snarl | snarling | snarls | snarled
+Yowl | yowling | yowls | yowled | yeowl
+Caterwaul | caterwauling | caterwauls | caterwauled | catterwaul
+Bugle | bugling | bugles | bugled | bugle call
+Tweet tweet | tweet-tweet | twee twee | tweety
+Baa baa | baa-baa | baabaa | bah bah
+Moo moo | moo-moo | moomoo
+Oink oink | oink-oink | oinkoink
+Quack quack | quack-quack | quackquack
+Neigh neigh | neigh-neigh
+Cuckoo | cuckoos | cuckooing | cuckoo clock | cuckoo cuckoo | cukoo
+Tu-whit tu-whoo | twit twoo | tu whit tu whoo | tuwhit tuwhoo | twit-twoo | twit twit twoo | tu-whit-tu-whoo
+Kookaburra laugh | kookaburra | kookaburras | kookaburra call | kookaburra laughing | laughing kookaburra
+Laugh | laughing | laughs | laughed | hyena laugh | hyena laughter | laughing hyena | hyena
+Boom | booming | booms | boomed | bittern boom | bittern
+Drum | drumming | drums | drummed | woodpecker drumming | woodpecker | rat-a-tat | rat a tat | ratatat
+Trill | trilling | trills | trilled
+Twitter | twittering | twitters | twittered
+Shriek | shrieking | shrieks | shrieked
+Scream | screaming | screams | screamed | fox scream
+Huff | huffing | huffs | huffed
+Chuff | chuffing | chuffs | chuffed
+Nicker | nickering | nickers | nickered
+Whicker | whickering | whickers | whickered
+Snicker | snickering | snickers | snickered
+Peep | peeping | peeps | peeped | peep peep
+--- 2
+Meep | meeps | meeping | meep meep
+Eek eek | eek-eek | ee ee
+Buzz buzz | bzzzz | bzz bzz | buzzbuzz
+Whoop | whooping | whoops | whooped | whoop whoop
+Chip | chipping | chips | chipped
+--- 3
+Bleat bleat | bleat-bleat
+Rumble | rumbling | rumbles | rumbled
+--- 4
+Clop | clopping | clops | clopped
+Clip clop | clip-clop | clippety clop
+Stridulate | stridulating | stridulation | stridulates | stridulated
+Trill trill | trilling bird
+Chirr | chirring | chirrs | chirred
+Churr | churring | churrs | churred
+--- 5
+Chirm | chirming | chirms | chirmed
+Skirl | skirling | skirls | skirled
+Skreigh | skreighing | skreighs
+Cronk | cronking | cronks | cronked | cronk cronk
+Kek | kek kek | kekking | keks | kekked
+Chack | chacking | chacks | chacked | chack chack
+Tchak | tchak tchak | tchack
+Kree | kreeing | krees | kreed
+Kraa | kraaing | kraas
+Cree | creeing | crees | creed
+Peent | peenting | peents | peented
+Grr grr | grr-grr | grrgrr
+
+

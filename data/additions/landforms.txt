@@ -1,0 +1,248 @@
+# aliases for existing answers
+Mountain | mountains | mount | mountaintop | mountain top
+River | rivers | riverbank | river bank
+Lake | lakes | loch | lough | mere | lakeshore
+Ocean | sea | oceans | seas | the sea | open ocean | deep sea
+Hill | hills | hillside | hilltop | hillock | knoll
+Valley | valleys | vale | dale | glen | dell | hollow | combe | strath
+Desert | deserts | wasteland
+Forest | forests | woods | wood
+Island | islands | isle | isles | islet | islets | holm | key | ait | eyot
+Beach | beaches | sandy beach | seashore | seaside | strand | sands
+Volcano | volcanoes | volcanos | volcanic cone | stratovolcano | composite volcano
+Canyon | canyons | cañon | chasm | defile | coulee | couloir
+Cave | caves | cavern | caverns | grotto | cavity | cave system
+Waterfall | waterfalls | falls | water fall | cascade | cascades | cataract | force | linn
+Glacier | glaciers | ice river | ice flow
+Cliff | cliffs | cliff face | sea cliff | sea cliffs | precipice | crag | scar | scarp | rock face
+Plateau | plateaus | tableland | table land | altiplano | upland | uplands | highlands | high plateau
+Peninsula | peninsulas | penninsula | peninsular
+Bay | bays | inlet | inlets | sound | firth | bight | creek inlet | sea inlet
+Gulf | gulfs
+Swamp | swamps | swampland | bayou | bayous | slough
+Marsh | marshes | marshland | marshlands
+Jungle | rainforest | jungles | rain forest | rain forests | rainforests | tropical forest | cloud forest
+Meadow | meadows | glade | clearing | lea | pasture | paddock
+Field | fields | farmland | cropland | grassy field
+Plain | plains | lowland | lowlands | flatland | flatlands | flats
+Prairie | prairies
+Grassland | grasslands | grass land | rangeland
+Savanna | savannah | savannas | savannahs
+Tundra | tundras | arctic tundra
+Iceberg | icebergs | ice berg | ice floe | floe | pack ice | ice floes
+Ice cap | ice caps | icecap | polar cap | polar ice cap
+Coral reef | reef | reefs | coral reefs | coral | barrier reef | great barrier reef
+Lagoon | lagoons | laguna
+Delta | deltas | river delta | deltaic
+Estuary | estuaries | estuarine | river mouth
+Stream | streams | streamlet | rivulet | rill | beck | burn | runnel | freshet
+Creek | creeks | crick | kill | run
+Brook | brooks | brooklet | gill | bourn
+Pond | ponds | pool | pools | rock pool | rockpool | pondlet | mill pond | watering hole | waterhole
+Spring | springs | freshwater spring | natural spring | artesian well | artesian spring | well
+Geyser | geysers | geiser | geysir
+Hot spring | hot springs | thermal spring | thermal springs | onsen | hot pool | hot pools
+Oasis | oases | oasises
+Dune | dunes | sand dune | sand dunes | sand hill | sandhills | erg | sand sea
+Gorge | gorges | gully | gullies | gulch | clough | chine | kloof | nullah | wash
+Crater | craters | impact crater | meteor crater | volcanic crater
+Mesa | mesas | table mountain | tabletop mountain | tepui
+Butte | buttes | outlier
+Ridge | ridges | ridgeline | ridge line | crest | spur | hogback | hog back | cuesta
+Peak | peaks | mountain peak | mountaintop peak | alp | tip | pike | fell | needle
+Summit | summits | top | mountain summit | apex | crown
+Mountain range | range | mountain ranges | ranges | mountain chain | cordillera | massif | sierra | sierras | chain
+Coast | coastline | coasts | coastal | coasts and coastlines | seacoast | seaboard | littoral | waterfront
+Shore | shores | shoreline | shorelines | foreshore | waterside
+Cape | capes | ness | point | promontory | naze
+Cove | coves | small bay | creek mouth | inlet cove
+Fjord | fiord | fjords | fiords | sea loch | fjörd
+Strait | straits | straight | narrows | passage | sound strait
+Channel | channels | waterway | waterways
+Archipelago | archipelagos | archipelagoes | island chain | island group | chain of islands
+Isthmus | isthmuses | isthmi | land bridge | landbridge | neck of land
+Continent | continents | landmass | land mass | supercontinent
+Wetland | wetlands | wet land | water meadow
+Bog | bogs | quagmire | bogland | muskeg
+Moor | moorland | moors | moorlands | fell moor
+Heath | heathland | heaths | heather moor
+Woodland | woodlands | woodlot | copse | coppice | grove | thicket | spinney | wooded area
+Steppe | steppes | steppe land
+Basin | basins | depression | hollow basin | sink | bowl | catchment | drainage basin | river basin
+Floodplain | flood plain | floodplains | flood plains | alluvial plain | washland
+Rapids | rapid | white water | whitewater | riffle | riffles
+Whirlpool | whirlpools | maelstrom | vortex | eddy | eddies
+Shoal | shoals | shallows | shallow | sandbank | sand bank | bank | banks | bar
+Sandbar | sandbars | sand bar | sandspit | sand spit
+Atoll | atolls | coral atoll | coral island | coral islands
+Escarpment | escarpments | scarp slope | steep slope | rim
+Bluff | bluffs | headland bluff | sea bluff
+Arête | arete | aretes | arêtes | knife edge | knife-edge ridge
+Cirque | cirques | cwm cirque
+Col | cols | mountain pass | notch | gap | wind gap | water gap
+Saddle | saddles | mountain saddle | sag
+Pass | passes | mountain pass pass | gap pass | defile pass | khyber pass
+Moraine | moraines | terminal moraine | lateral moraine | medial moraine | ground moraine | till | glacial till
+Drumlin | drumlins | whaleback hill
+Esker | eskers | eskar
+Kame | kames | kame terrace
+Kettle | kettles | kettle hole | kettle lake | kettle pond
+Tarn | tarns | mountain lake | alpine lake | corrie lake
+Corrie | cwm | corrie lake basin
+Hanging valley | hanging valleys
+U-shaped valley | u shaped valley | u valley | glacial valley | glacial trough | trough valley
+Oxbow lake | oxbow | ox-bow lake | ox bow lake | oxbow lakes | cut-off lake | cutoff lake
+Meander | meanders | river bend | river meander | bend | bends | loop
+Tributary | tributaries | feeder stream | affluent
+Confluence | confluences | river junction | river fork | fork | forks
+Watershed | watersheds | drainage divide | divide | continental divide | water divide | catchment area
+Headland | headlands | head | peninsula headland | foreland
+Spit | spits | sand spit coastal | beach spit | split
+Stack | stacks | rock stack | rock pillar | rock spire
+Arch | arches | natural arch | sea arch | rock arch | stone arch | natural arches
+Stump | stumps | sea stump | sea stumps
+Tombolo | tombolos | tombolas | tombola
+Ria | rias | drowned valley | drowned river valley | submerged valley
+Barrier island | barrier islands | barrier beach | barrier bar | offshore bar | outer banks | barrier spit
+Salt marsh | salt marshes | saltmarshes | tidal marsh | saltings
+Mangrove | mangroves | mangrove forest | mangrove swamp
+Mudflat | mudflats | mud flat | mud flats | mud
+Salt flat | salt flats | salt pan | salt pans | salt lake | salt desert | salar | salina | saltpan | sabkha | sebkha | chott | shott
+Playa | playas | alkali flat
+Wadi | wadis | dry river | dry riverbed | dry river bed | dry creek bed | dry wash
+Arroyo | arroyos | dry gulch
+Badlands | badland | bad lands | bad land
+Hoodoo | hoodoos | hoo doo | fairy chimney | fairy chimneys | earth pillar | earth pyramid | tent rock | tent rocks | balancing rock
+Inselberg | inselbergs | island mountain | bornhardt | kopje | koppie | kopjes
+Monadnock | monadnocks | residual hill | residual mountain
+Tor | tors | rock outcrop | outcrop | outcrops | rock outcrops
+Karst | karst landscape | karst terrain | karst topography | limestone pavement | clint | clints | grike | grikes
+Sinkhole | sinkholes | sink hole | swallow hole | swallet | swallow-hole | sink holes | pothole cave | ponor | shakehole | shake hole
+Doline | dolines | dolina | solution doline
+Cenote | cenotes | cenot
+Stalactite | stalactites | stalagtite | stalactites cave
+Stalagmite | stalagmites | stalagmight | stalagmite cave
+Caldera | calderas | volcanic basin | crater lake
+Lava tube | lava tubes | lava cave | lava caves | lava tunnel
+Lava field | lava fields | lava plain | lava plateau | volcanic field | basalt plateau | lava bed
+Fumarole | fumaroles | steam vent | volcanic vent | volcanic vents | solfatara
+Mud volcano | mud volcanoes | mud pot | mud pots | mudpot | mud pool | mud pools
+Permafrost | perma frost | frozen ground | frozen soil
+Ice shelf | ice shelves | ice-shelf | ice tongue
+Ice sheet | ice sheets | ice-sheet | polar ice sheet | continental ice sheet
+Crevasse | crevasses | crevice | crevices | glacier crack | glacier crevasse
+Serac | seracs | ice tower | ice pinnacle | ice pinnacles
+Nunatak | nunataks | glacial island | ice island
+Fen | fens | fenland | fenlands
+Mire | mires
+Peat bog | peat bogs | peatland | peat land | peatlands | blanket bog | raised bog | peat moss
+Taiga | boreal forest | boreal | taigas | snow forest
+Chaparral | scrubland | scrub | scrubs | shrubland | garrigue | mallee | fynbos | matorral
+Maquis | maquis scrub
+Pampas | pampa | pampas grassland
+Veld | veldt | veldts | velds | bushveld | highveld | lowveld
+Outback | the outback | bush country | backcountry | back country | wilderness
+Bush | bushland | the bush | bushlands
+Abyssal plain | abyssal plains | abyss | abyssal zone | abyssal | ocean floor | seafloor | sea floor | seabed | sea bed | ocean bed | ocean basin
+Trench | trenches | ocean trench | oceanic trench | deep sea trench | mariana trench | marianas trench | challenger deep | deep ocean trench
+Seamount | seamounts | sea mount | sea mounts | underwater mountain | submarine mountain | undersea mountain
+Continental shelf | continental shelves | shelf | continental slope | continental margin | continental rise
+--- 2
+Slope | slopes | hillslope | mountain slope
+Foothills | piedmont
+Harbour | harbor | harbours | harbors | natural harbour | natural harbor
+Reservoir | reservoirs
+Tide pool | tide pools | tidepool | tidepools
+Alpine meadow | alpine meadows | mountain meadow
+Snowfield | snow field | snowfields
+Shingle beach | shingle | pebble beach | pebbles
+Cay | cays | coral cay
+Rift valley | rift valleys | rift | graben
+Sea cave | sea caves
+Boulder | boulders | rock formation | rock formations
+Sea stack | seastack
+Natural bridge | natural bridges
+Lava flow | lava flows
+Fault line | fault | faults
+Slot canyon | slot canyons | box canyon
+Landslide | landslides | rockslide | rockfall | scree | talus | mudslide
+Riverbed | stream bed | streambed
+Levee | levees | natural levee
+Terrace | terraces | river terrace | marine terrace
+Alluvial fan | alluvial fans | bajada
+Blowhole | blowholes | blow hole
+Pinnacle | pinnacles | spire | spires
+Rock shelter | overhang | rock overhang
+Plunge pool | plunge pools
+Maar | maars | maar lake
+Cinder cone | cinder cones | scoria cone | volcanic plug | volcanic neck
+Shield volcano | shield volcanoes
+Lava dome | lava domes
+Pillow lava | pillow lavas
+Lahar | lahars
+Basalt columns | columnar basalt | giant's causeway | giants causeway
+Tidal flat | tidal flats
+Intertidal zone | intertidal
+Barchan | barchans | crescent dune | star dune | star dunes | seif dune | longitudinal dune | transverse dune | linear dune
+Desert pavement | reg | hamada
+Yardang | yardangs | ventifact | ventifacts
+Billabong | billabongs
+Braided river | braided rivers | braided stream
+Fold mountains | fold mountain | folded mountains
+Block mountain | block mountains | fault block mountain
+Mid-ocean ridge | mid ocean ridge | mid-atlantic ridge | oceanic ridge
+Hydrothermal vent | hydrothermal vents | black smoker | black smokers | deep sea vent
+Submarine canyon | submarine canyons | underwater canyon
+Ice field | icefield | ice fields
+Glacial lake | proglacial lake | moraine lake | finger lake | paternoster lake | ribbon lake
+Glacial erratic | erratic | erratics
+Roche moutonnée | roche moutonnee | sheepback
+Pyramidal peak | glacial horn | horn
+Bergschrund | bergschrunds
+Moulin | moulins | glacier mill
+Névé | neve | firn
+Icefall | ice fall
+Outwash plain | sandur | outwash
+Polje | poljes
+Tufa | tufa tower | tufa towers
+Travertine | travertine terrace | travertine terraces
+Flowstone | rimstone | gour | gours
+Underground river | subterranean river | cave river
+Blue hole | blue holes
+Resurgence | karst spring | vauclusian spring
+Dry valley | dry valleys | coombe
+Misfit stream | underfit stream
+Knickpoint | knickpoints
+Thermokarst | thermokarst lake | thaw lake
+Pingo | pingos | palsa | palsas
+Patterned ground | ice wedge | ice wedges
+Rock glacier | rock glaciers
+Tussock | tussocks
+Kipuka | kipukas
+Sky island | sky islands
+Point bar | point bars | cut bank
+Slip-off slope | slip off slope
+Thalweg | thalwegs
+Chenier | cheniers
+Beach ridge | beach ridges
+Berm | berms | beach berm
+Cuspate foreland | beach cusp | beach cusps
+Geo | geos | zawn | zawns
+Salt dome | salt domes | diapir
+Hornito | hornitos
+Tuff cone | tuff ring
+Tiankeng | tiankengs | sky hole
+Aven | avens | gouffre
+Hadal zone | hadal trench | hadal
+Abyssal hill | abyssal hills
+Submarine fan | deep sea fan | abyssal fan
+Guyot | guyots | tablemount
+Black smoker vent | white smoker | white smokers
+Cold seep | cold seeps | pockmark | pockmarks
+Brine pool | brine pools
+Diatreme | kimberlite pipe
+Astrobleme | impact structure
+Rimstone pool | rimstone pools
+Speleothem | speleothems | helictite | helictites | soda straw | soda straws | cave curtain | cave curtains | cave bacon | cave pearls
+
+

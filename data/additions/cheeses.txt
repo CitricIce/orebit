@@ -1,0 +1,179 @@
+--- 2
+Cheddar | chedder | cheder | cheddar cheese | sharp cheddar | white cheddar
+Mozzarella | mozz | mozerella | mozarella | mozzarela | mozzerella | mozzarella cheese | mozzerela
+Parmesan | parmasan | parmesean | parmigiana | parmesano | parmesan cheese
+Provolone | provalone | provolone cheese | provalone cheese
+Gorgonzola | gorganzola | gorgonzola cheese | gorgonzolla
+Swiss | swiss cheese
+American | american cheese | american singles
+Kraft Singles | kraft | kraft american | cheese slices | singles
+Gouda | gauda | goudа cheese | gouda cheese
+Brie | brie cheese
+Feta | feta cheese
+Cream Cheese | philadelphia | philly
+Blue Cheese | bleu cheese | blue cheese | bleu | blu cheese
+Monterey Jack | monterey | montery jack | jack
+Muenster | munster | monster cheese | muenster cheese | münster
+Ricotta | ricota | ricotta cheese
+Mascarpone | mascarpone cheese | mascapone
+Pecorino | pecorino romano | romano | pecorino cheese
+String Cheese | mozzarella sticks | cheese strings | cheese string
+Goat Cheese | chevre | chèvre | goat's cheese | goats cheese | goat
+Laughing Cow | la vache qui rit | laughing cow cheese
+--- 3
+Gruyère | gruyere | gruyer | gruyere cheese | gruyère cheese
+Emmental | emmentaler | emmenthal | emmenthaler | emental
+Camembert | camambert | camembert cheese | camenbert
+Roquefort | rockfort | roquefort cheese
+Stilton | stilton cheese | blue stilton
+Edam | edam cheese
+Manchego | manchego cheese | manchago
+Halloumi | haloumi | halumi | hallumi | halloumi cheese | grilling cheese
+Paneer | panir | paneer cheese
+Burrata | burrata cheese
+Asiago | asiago cheese
+Havarti | havarti cheese | harvarti
+Jarlsberg | jarlsburg
+Raclette | raclette cheese
+Queso Fresco | fresco | queso
+Cotija | cotija cheese | cojita
+Colby | colby cheese
+Colby Jack | colby-jack | colbyjack | co-jack | cojack
+Pepper Jack | pepperjack | pepper-jack | pepper jack cheese
+Velveeta | velvetta | velvita
+Babybel | mini babybel | baby bel | babybell
+Boursin | boursin cheese
+Cheese Curds | curds | cheese curd | squeaky cheese | poutine cheese
+Cheez Whiz | cheese whiz | cheez wiz
+Red Leicester | leicester | red leicester cheese
+Wensleydale | wensleydale cheese | wensleydale with cranberries
+Cheshire | cheshire cheese
+Double Gloucester | gloucester | gloucester cheese
+Fontina | fontina cheese | fontinа
+Limburger | limberger | limburger cheese
+Oaxaca | oaxaca cheese | queso oaxaca | oaxacan
+Queso Blanco | blanco cheese
+Grana Padano | grana | grana padano cheese
+Cheese Spread | spray cheese | easy cheese
+Chevre Log | goat log
+Comté | comte | comte cheese
+Port Salut | port salut cheese
+Neufchâtel | neufchatel
+Brie de Meaux | meaux
+Saint André | saint andre | st andre
+Stracciatella | stracciatella cheese
+Fresh Mozzarella | fresh mozz | mozzarella fresca | buffalo mozzarella | mozzarella di bufala | bufala
+Smoked Mozzarella | smoked mozz
+Smoked Cheddar | smoked cheddar cheese
+Baby Swiss | baby swiss cheese
+Dubliner | dubliner cheese | kerrygold dubliner
+Kerrygold | kerrygold cheese
+Cabot | cabot cheese | cabot cheddar
+Tillamook | tillamook cheddar | tillamook cheese
+Shredded Cheese | mexican blend | shredded
+Goat Gouda | goat gouda cheese
+--- 4
+Camembert de Normandie | normandy camembert
+Brie de Melun | melun
+Bel Paese | bel paese cheese | belpaese
+Dolcelatte | dolce latte | dolcelatte cheese
+Gorgonzola Piccante | piccante
+Pecorino Pepato | pepato
+Pecorino Fresco | pecorino fresco cheese
+Cheddar Curds | white cheddar curds
+Garrotxa | garrotxa cheese
+Mahón-Menorca | mahon menorca | queso mahon
+Queso Manchego Curado | manchego curado | curado
+Habanero Cheddar | habanero jack
+Gjetost Brown | norwegian brown cheese | brown cheese
+Roquefort Societe | roquefort societe
+Aged Gouda | old amsterdam
+Maasdam | maasdammer | maasdam cheese
+Leyden | leiden cheese | leyden cheese
+Boerenkaas | boeren kaas | farmhouse gouda
+Nagelkaas | nagelkaas cheese
+Beemster | beemster cheese
+Oud Amsterdam | oud amsterdammer
+Cheddar Jack | cheddar-jack
+Emmental Swiss | emmental swiss cheese
+Pasta Filata | filata
+Ricotta Salata | ricotta salata cheese | salata
+Mizithra Cheese | myzithra | mizithra cheese
+Sap Sago | sapsago | schabziger
+Teleme Cheese | teleme cheese
+Lymeswold | lymeswold cheese
+Yorkshire Blue | yorkshire blue cheese
+Stichelton | stichelton cheese
+Swaledale | swaledale cheese
+Coverdale | coverdale cheese
+Applewood | applewood cheddar | applewood smoked
+Wookey Hole | wookey hole cheddar
+Quickes | quickes cheddar
+Montgomery's Cheddar | montgomery cheddar | montgomerys
+Keen's Cheddar | keens cheddar
+Tintern | tintern cheese
+Y Fenni | y fenni cheese
+Caerphilly Welsh | welsh caerphilly
+--- 5
+Cheddar Gouda | gouda cheddar
+Caciotta | caciotta cheese
+Cacioricotta | cacioricotta cheese
+Squacquerone | squacquerone cheese
+Parmigiano Vacche Rosse | vacche rosse
+Gran Moravia | granmoravia
+Provolone Valpadana | provolone valpadana
+Pecorino Siciliano | siciliano
+Piacentinu Ennese | piacentinu
+Canestrato | canestrato pugliese
+Cacio Cavallo | cacio cavallo
+Burrini | burrino
+Mozzarella Affumicata | affumicata
+Tomme de Brebis | tomme brebis
+Tomme Crayeuse | tomme crayeuse
+Brie Fermier | brie fermier
+Fromage Blanc | fromage frais | fromage
+Petit Suisse | petit-suisse | petits suisses
+Boursault | boursault cheese
+Saint Félicien | saint felicien
+Brillat Savarin | brillat-savarin
+Raclette Suisse | swiss raclette
+Gruyère AOP | gruyere aop
+Appenzeller Extra | appenzell
+Sapsago Cheese | green cheese
+Cervelle de Canut | canut
+Queso Cuajada | cuajada
+Queso Quesadilla | quesadilla cheese
+Queso Menonita | menonita
+Queso Asadero | asadero
+Requesón | requeson
+Queso Crema | crema cheese
+Queso Duro | queso duro blanco
+Queso de Cabra | cabra cheese
+Queso Azul | queso azul cheese
+Queso Tetilla | queso tetilla
+Queso Idiazabal | idiazabal cheese
+Queso Cabrales | cabrales cheese
+Mató | mato | mató cheese
+Serra Cheese | serra
+Queijo Coalho | coalho | coalho cheese
+Queijo Canastra | canastra
+Queijo Prato | prato | prato cheese
+Catupiry | catupiry cheese
+Halloumi Fries | halloumi cheese fries
+Armenian String Cheese | chechil cheese
+Ackawi | akawi
+Jibneh Arabieh | jibneh | arabic cheese
+Shanklish | shanklish cheese | shankleesh
+Domiati | domiati cheese
+Ras Cheese | ras cheese
+Labaneh | labna | labneh cheese
+Jameed | jameed cheese
+Tvorog | tvorog cheese | twarog
+Adyghe Cheese | adyghe | adygeysky
+Suluguni | suluguni cheese
+Imeruli | imeruli cheese
+Chhena Cheese | chhena poda
+Dhaka Cheese | dhaka
+Himalayan Yak Cheese | yak cheese | yak
+Rubing | rubing cheese
+Rushan | rushan cheese

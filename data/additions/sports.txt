@@ -1,0 +1,493 @@
+--- 2
+Motor racing | Formula 1 | F1 | Formula One | formula1 | motorsport | motor sport | auto racing | car racing
+Climbing | rock climbing | rockclimbing
+Jiu-jitsu | bjj | brazilian jiu jitsu | jiu jitsu | jiujitsu | jujitsu
+Pool | billiards | pocket billiards
+Canoeing | kayaking | kayak | canoe
+Football | soccer | association football | footy | futbol
+American football | gridiron | us football | nfl
+Basketball | basket ball | bball | b-ball | hoops
+Baseball | base ball
+Tennis | lawn tennis
+Table tennis | ping pong | pingpong | ping-pong
+Volleyball | volley ball | vollyball | volleybal
+Hockey | ice hockey
+Badminton | badmitton | badminton | baddminton | badmington
+Lacrosse | lacross | lacrose | la crosse
+Golf | gof
+Boxing | boxin
+Swimming | swiming | swim
+Gymnastics | gymnastic | gymnastcs | gymnasitcs
+Wrestling | wrestle | wresling
+MMA | UFC | mixed martial arts | cage fighting
+Cricket | crickett
+Rugby | rugbi
+Skiing | ski | skiing downhill
+Snowboarding | snowboard | snow boarding
+Skateboarding | skateboard | skating | skate boarding
+Surfing | surf
+Cycling | biking | bike racing | bicycle racing
+Running | track and field | athletics | jogging | track
+Fencing | fenceing
+Archery | archerey
+Dodgeball | dodge ball | dodgeball | dodgball
+Kickball | kick ball
+Cornhole | corn hole | bean bag toss | bags
+Softball | soft ball
+Handball | hand ball | team handball
+Weightlifting | weight lifting | weightlifing | lifting
+Judo | judoo
+Karate | karrate | karati
+Taekwondo | tae kwon do | tae kwondo | tekwondo | taekwando
+Golf | golfing
+Bowling | tenpin | ten pin bowling | ten-pin
+Darts | dart
+Curling | curlling
+Diving | high diving | springboard diving
+Sailing | yachting
+Polo | horse polo
+Rowing | row | crew
+Snooker | snoker
+Pool | billiards | billards | pocket billiards
+Rodeo | rodeo riding
+Figure skating | ice skating | figureskating | skating figure
+Speed skating | speedskating
+Water polo | waterpolo
+Netball | net ball
+Squash | squash racquet
+Triathlon | tri athlon | triatholon
+Marathon | marathon running
+Esports | e-sports | esport | e sports | gaming | video gaming | competitive gaming
+Chess | chesss
+--- 3
+Kabaddi | kabbadi | kabadi
+Hurling | hurley
+Jai alai | jai-alai | hi li | jai lai
+Aussie rules | Australian rules | australian rules football | aussie rules football | afl | footy aussie
+Gaelic football | gaelic | gaa football
+Rugby league | league rugby
+Rugby union | union rugby
+Rugby sevens | sevens | rugby 7s | rugby sevens
+Pickleball | pickle ball | pickelball
+Padel | padle
+Racquetball | racketball | racquet ball
+Paintball | paint ball
+Ski jumping | skijumping
+Cross-country skiing | cross country skiing | xc skiing | nordic skiing
+Alpine skiing | downhill skiing | downhill
+Slalom | slalom skiing
+Freestyle skiing | freestyle ski | moguls
+Ice dancing | ice dance
+Short track | short track speed skating
+Shot put | shotput | shot-put
+Discus | discus throw | discuss throw
+Javelin | javelin throw
+Hammer throw | hammer
+Pole vault | polevault | pole-vault
+High jump | highjump
+Long jump | longjump
+Triple jump | hop skip jump
+Hurdles | hurdling | hurdle race
+Decathlon | decathelon | decathalon
+Heptathlon | heptathalon
+Pentathlon | modern pentathlon
+Steeplechase | steeple chase
+Relay | relay race | relays
+Sprint | 100m | 100 metres | 100 meter dash
+Race walking | racewalking | speed walking
+Tug of war | tug-of-war | tug o war
+Horse racing | horseracing | horse race | thoroughbred racing
+Dressage | dresage
+Eventing | three-day eventing
+Equestrian | horse riding | horseback riding | riding
+Rodeo | bronc riding
+Barrel racing | barrel race
+Motocross | moto cross | mx
+Supercross | super cross
+NASCAR | stock car racing | stockcar
+IndyCar | indy car | indy 500
+Drag racing | drag race
+MotoGP | moto gp | motorcycle racing | superbikes
+Speedway | speedway racing
+Karting | go karting | go-kart racing | go kart racing | kart racing
+Monster trucks | monster truck
+Powerboat racing | powerboating | hydroplane racing
+Jet skiing | jet ski | jetski
+Water skiing | waterskiing | water ski
+Wakeboarding | wake boarding | wakeboard
+Windsurfing | wind surfing | windsurf
+Kitesurfing | kite surfing | kiteboarding | kitesurf
+Paddleboarding | paddle boarding | stand up paddleboarding | sup
+Canoeing | canoe | canoe sprint
+Rafting | white water rafting | whitewater rafting
+Scuba diving | scuba | diving scuba
+Freediving | free diving | apnea
+Snorkeling | snorkelling
+Synchronized swimming | artistic swimming | synchronised swimming
+Open water swimming | open-water swimming
+Underwater hockey | octopush
+Underwater rugby | underwater rugby
+Beach volleyball | beach vollyball
+Beach soccer | beach football
+Ultimate frisbee | ultimate | frisbee | ultimate disc | disc sports
+Disc golf | frisbee golf | frolf
+Bouldering | boulder | bouldering climbing
+Mountaineering | mountain climbing | alpinism | mountain climbing
+Parkour | free running | freerunning | parkour
+Skydiving | sky diving | parachuting
+BASE jumping | base jump
+Bungee jumping | bungy | bungee | bungy jumping
+Paragliding | para gliding | parasailing
+Hang gliding | hang glider | hanggliding
+Gliding | glider sport | soaring
+Snowmobiling | snow mobiling | snowmobile racing
+Sledding | sledding sport | tobogganing
+Luge | street luge
+Skeleton | skeleton sled
+Biathlon | biatholon
+Nordic combined | nordic combine
+Ice climbing | ice-climbing
+Snowshoeing | snow shoeing
+Roller derby | rollerderby
+Roller skating | rollerskating | roller blading | rollerblading | inline skating
+Roller hockey | inline hockey
+BMX | bmx racing | bmx freestyle | bicycle motocross
+Mountain biking | mountain bike | mtb | mountainbiking
+Track cycling | velodrome | track bike
+Cyclocross | cyclo-cross | cyclo cross
+Road cycling | tour de france | road racing
+Trampolining | trampoline | trampolines
+Artistic gymnastics | artistic gymnastic
+Rhythmic gymnastics | rhythmic gymnastic | rg
+Acrobatics | acro | acrobatic gymnastics
+Tumbling | tumbles
+Cheerleading | cheer | cheerleader | cheer leading
+Pole dancing | pole sport | pole fitness
+Breakdancing | breaking | breakdance | break dancing | b-boying
+Dancesport | ballroom dancing | competitive dancing
+Bodybuilding | body building
+Powerlifting | power lifting
+Strongman | strong man | strongman competition | worlds strongest man
+CrossFit | cross fit | crossfit
+Arm wrestling | armwrestling | arm-wrestling
+Sumo | sumo wrestler
+Greco-Roman wrestling | greco roman | greco-roman
+Freestyle wrestling | freestyle wrestle
+Professional wrestling | pro wrestling | wwe | wwf | wrestling wwe
+Kickboxing | kick boxing | kick-boxing
+Muay Thai | muay thai | thai boxing | muaythai | muay tai
+Kung fu | kungfu | kung-fu | wushu
+Aikido | aikidoo
+Krav Maga | kravmaga | krav
+Capoeira | capoiera
+Sambo | sambo wrestling
+Kendo | kendoo
+Iaido | iaido
+Tai chi | taichi | tai-chi
+Wing Chun | wing chun | ving tsun
+Muay boran | muay boran
+Savate | french boxing
+Pankration | pancration
+Bare-knuckle boxing | bare knuckle | bareknuckle
+Amateur boxing | boxing amateur
+Shooting | shooting sports | target shooting | sport shooting | marksmanship
+Skeet shooting | skeet | trap shooting | clay shooting | clay pigeon shooting | trap
+Biathlon shooting | rifle shooting
+Air rifle | air rifle shooting
+Airsoft | air soft
+Bowls | lawn bowls | lawn bowling | bowls lawn
+Bocce | bocce ball | boccia
+Pétanque | petanque
+Croquet | croquette
+Shuffleboard | shuffle board
+Horseshoes | horseshoe | horse shoes | horseshoe pitching
+Nine-ball | 9 ball | 9-ball
+Eight-ball | 8 ball | 8-ball
+Cue sports | cue sport
+Bar billiards | bar billards
+Foosball | table football | fusball | table soccer | foos ball
+Air hockey | airhockey
+Pinball | pin ball
+Skee-ball | skee ball | skeeball
+Beer pong | beirut
+Flip cup | flipcup
+Cup stacking | sport stacking | speed stacking
+Speedcubing | rubiks cube | speed cubing | cubing
+Poker | texas holdem | texas hold em
+Bridge | contract bridge
+Go | go game | weiqi | baduk
+Checkers | draughts
+Backgammon | backgamon
+Scrabble | competitive scrabble
+Mind sports | mind sport
+Orienteering | orienteering sport
+Adventure racing | adventure race
+Obstacle course racing | obstacle racing | ocr | spartan race | tough mudder | ninja warrior
+Mud running | mud run
+Fell running | fell race
+Trail running | trail run | trail racing
+Ultramarathon | ultra marathon | ultrarunning | ultra running
+Half marathon | half-marathon
+Cross country | cross-country | cross country running | xc | cross country running
+Walking | power walking
+Hiking | hike
+Competitive eating | hot dog eating contest | eating contest
+Fishing | angling | sport fishing | fly fishing | competitive fishing
+Hunting | big game hunting
+Falconry | falcon
+Sheepdog trials | sheepdog trial
+Dog sledding | mushing | sled dog racing | iditarod
+Dog racing | greyhound racing | greyhounds
+Pigeon racing | pigeon race
+Camel racing | camel race
+Harness racing | harness | trotting
+Steeplechasing | grand national
+Polocrosse | polo crosse
+Horseball | horse ball
+Buzkashi | buzkashi
+Vaulting | equestrian vaulting
+Reining | reining horse
+Rugby sevens | 7s
+Flag football | flag
+Touch football | touch rugby | touch football | touch
+Tag rugby | tag rugby
+Canadian football | cfl
+Arena football | arena football
+Indoor soccer | indoor football
+Futsal | futsall
+Five-a-side | five a side | 5 a side
+Street football | street soccer
+Freestyle football | football freestyle | soccer freestyle
+Footvolley | foot volley
+Teqball | tek ball
+Bossaball | bossa ball
+Quidditch | quidditch muggle | quadball
+Wheelchair basketball | wheel chair basketball
+Wheelchair rugby | murderball | quad rugby
+Goalball | goal ball
+Para sports | paralympics | paralympic sports
+Olympics | olympic sports | olympic games
+Water volleyball | pool volleyball
+Wiffle ball | whiffle ball | wiffleball
+Stickball | stick ball
+Kickball | kick ball
+Four square | four-square | foursquare
+Capture the flag | capture flag
+Red rover | red rover
+Hopscotch | hop scotch
+Jump rope | skipping rope | rope skipping | double dutch | skipping
+Tetherball | tether ball
+Pickup basketball | streetball | street ball | street basketball | pick up basketball
+Hacky sack | hackysack | footbag | hacky sac
+Slacklining | slackline | slack lining
+Lawn darts | jarts
+Ladder toss | ladder golf | ladderball
+Washers | washer toss
+Spikeball | roundnet | spike ball
+Kan Jam | kanjam
+Bowling duckpin | duckpin bowling | candlepin bowling | candlepin
+Mini golf | miniature golf | putt putt | crazy golf | putt-putt
+Footgolf | foot golf
+Racketlon | racketlon
+Real tennis | royal tennis | court tennis
+Rackets | rackets sport
+Platform tennis | paddle tennis | paddle ball
+Pelota | basque pelota | pelota vasca | frontenis | fronton
+Fives | eton fives | rugby fives
+Sumo | sumō
+Shinty | shinty camanachd
+Camogie | camogie
+Rounders | rounder
+Stoolball | stool ball
+Pesäpallo | finnish baseball | pesapallo
+Bandy | rink bandy
+Ringette | ringette
+Broomball | broom ball
+Korfball | korf ball
+Floorball | floor ball | unihockey
+Calcio storico | calcio fiorentino
+Kho kho | kho-kho
+Kabaddi | kabadi
+Gilli-danda | gilli danda
+Kite fighting | kite flying | kite fighting
+Cockfighting | cock fighting
+Bullfighting | bull fighting | corrida
+Sumo | sumo
+Lethwei | lethwei
+Pencak silat | silat
+Bokator | bokator
+Kalaripayattu | kalari | kalarippayattu
+Jeet Kune Do | jkd | jeet kun do
+Hapkido | hapkido
+Tang soo do | tangsoodo
+Shaolin kung fu | shaolin
+Ninjutsu | ninjitsu | ninja
+Kyudo | kyudo
+Naginata | naginata
+Mixed doubles | doubles tennis
+Tchoukball | tchouk ball
+Spearfishing | spear fishing
+Surf lifesaving | lifesaving | lifeguarding
+Dragon boat racing | dragon boating | dragon boat
+Canoe slalom | slalom canoe
+Outrigger canoeing | outrigger
+Bodyboarding | boogie boarding | body boarding | boogie board
+Skimboarding | skim boarding | skimboard
+Longboarding | longboard
+Surf skiing | surf ski
+Cliff diving | cliff dive
+Sand yachting | land sailing | sand sailing
+Ice yachting | ice boating | ice sailing
+Ice fishing | ice fishing
+Ice racing | ice speedway
+Snowkiting | snow kiting
+Snowboard cross | boardercross | snowboard cross
+Skicross | ski cross
+Telemark skiing | telemark
+Backcountry skiing | ski touring | backcountry skiing
+Heliskiing | heli skiing
+Speed skiing | speed ski
+Aerials | aerial skiing
+Halfpipe | half pipe | snowboard halfpipe
+Slopestyle | slope style
+Big air | big air
+--- 4
+Wife carrying | wife-carrying
+Bog snorkelling | bog snorkeling
+Cheese rolling | cheese-rolling
+Toe wrestling | toe-wrestling
+Conkers | conker
+Shin kicking | shin-kicking
+Pillow fighting | pillow fight
+Extreme ironing | extreme ironing
+Horse archery | mounted archery
+Field archery | field archery
+Crossbow | crossbow shooting
+Axe throwing | ax throwing | axe-throwing | hatchet throwing
+Knife throwing | knife-throwing
+Lumberjack sports | lumberjacking | logrolling | log rolling | timbersports | woodchopping | wood chopping
+Highland games | highland game | caber toss | tossing the caber
+Cowboy mounted shooting | mounted shooting
+Bull running | running of the bulls
+Bossaball | bossaball
+Motorcycle trials | trials riding | trials
+Enduro | enduro racing
+Hillclimb | hill climb | hillclimbing
+Autocross | auto cross | gymkhana
+Demolition derby | demolition derby
+Lawnmower racing | lawn mower racing
+Soapbox racing | soapbox derby | soap box derby
+Pinewood derby | pinewood derby
+Tractor pulling | tractor pull
+Truck racing | truck racing
+Air racing | air race | red bull air race | reno air races
+Aerobatics | aerobatic flying | stunt flying
+Ballooning | hot air ballooning | balloon racing
+Model rocketry | rocketry
+Drone racing | drone racing | fpv racing
+RC racing | rc car racing | radio controlled racing
+Slot car racing | slot cars
+Robot combat | robot wars | battlebots
+Ski mountaineering | skimo
+Canyoning | canyoneering | canyoning
+Caving | spelunking | potholing | cave diving
+Coasteering | coasteering
+Tombstoning | tombstoning
+Highlining | highline
+Free solo climbing | free soloing | free solo
+Via ferrata | via ferrata
+Parkour | traceur
+Tricking | tricking martial arts
+Flairing | flair bartending
+Yo-yo | yoyo | yo yo
+Juggling | juggle
+Diabolo | diabolo
+Unicycling | unicycle | unicycle hockey
+Pogo | pogo stick | pogo sticking | extreme pogo
+Cup and ball | kendama
+Skittles | skittle | ninepins | nine pins | kegel
+Quoits | quoit | ring toss
+Gateball | gate ball
+Ground golf | ground golf
+Lagori | seven stones | pittu
+Kiiking | kiiking
+Mölkky | molkky
+Kubb | viking chess | kubb
+Gaga ball | gaga | gaga pit
+Pesapallo | pesapallo
+Brännboll | brannboll
+Cuju | tsu chu
+Pato | pato argentina
+Chilean rodeo | rodeo chileno
+Charreada | charreria | charro
+Ulama | ulama | mesoamerican ballgame
+Sumo | sumo
+Arnis | eskrima | escrima | kali | filipino martial arts
+Sikaran | sikaran
+Hornussen | hornussen
+Schwingen | schwingen swiss wrestling
+Glima | glima
+Kokpar | kokpar
+Kurash | kurash
+Khuresh | khuresh
+Naadam | naadam
+Mongolian wrestling | bökh | boekh
+Yagli gures | oil wrestling | turkish oil wrestling
+Pehlwani | kushti | indian wrestling
+Mallakhamba | malkhamb | pole gymnastics
+Kalaripayattu | kalaripayat
+Gatka | gatka
+Silambam | silambam
+Thang-ta | thang ta
+Dhopkhel | dhop
+Jallikattu | jallikattu | bull taming
+Bullfight | bullfighting corrida
+Ssireum | korean wrestling
+Taekkyeon | taekkyon
+--- 5
+Bandy | bandy
+Quadrathlon | quadrathlon
+Aquathlon | aquathlon
+Duathlon | duathlon
+Tetrathlon | tetrathlon
+Ironman | ironman triathlon
+Swimrun | swimrun
+Pickleball | pickle-ball
+Crossminton | speedminton | speed badminton
+Padel tennis | padel tennis
+Soft tennis | soft tennis
+Stoolball | stool-ball
+Gaelic handball | gaelic handball
+Road bowling | road bowls | bullets
+Irish road bowling | irish road bowling
+Ice stock | ice stock sport
+Curling | stone curling
+Bowls crown green | crown green bowls
+Carpet bowls | carpet bowling
+Petanque | petanque
+Disc dog | frisbee dog
+Dog agility | agility | dog agility
+Dog showing | dog show | dog shows
+Cat show | cat shows
+Sheep shearing | shearing | sheep shearing competition
+Ploughing match | ploughing
+Bog-snorkelling | bog snorkel
+Gurning | gurning
+Marbles | marbles sport
+Tiddlywinks | tiddlywinks
+Conkers | conkers
+Pea shooting | pea shooter
+Ice swimming | winter swimming
+Polar plunge | polar bear plunge
+Sky running | skyrunning
+Rogaining | rogaine
+Geocaching | geocache
+Ski flying | skiflying | ski flying
+Snow volleyball | snow volleyball
+Wheelchair tennis | wheelchair tennis
+Sitting volleyball | sitting volleyball
+Para ice hockey | sledge hockey | sled hockey
+Wheelchair curling | wheelchair curling
+Chessboxing | chess boxing | chessboxing
+Blind football | five a side blind
+Torball | torball

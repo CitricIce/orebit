@@ -1,0 +1,291 @@
+--- 2
+Chevrolet | chevy | chevvy | chevorlet | chevrolette
+Volkswagen | vw | volkswagon | volkswagan | volks wagon | volkswagon
+Mercedes-Benz | mercedes | benz | merc | mercedes benz | mercedez | mercedez benz | mercades | mercedes-benz
+BMW | beemer | bimmer | beamer | bayerische motoren werke
+Lamborghini | lambo | lamborgini | lamborghinni | lamborghini
+Porsche | porshe | porche | porsha
+Ferrari | ferarri | ferrai | ferari | farrari | ferrarri
+Mitsubishi | mitsubshi | mitsubushi | mitsubisi | mitsibishi
+Hyundai | hyundia | hundai | hyundi | hyundae | hyundi
+Peugeot | peugot | pugeot | peageot | puegeot
+Citroën | citroen | citron | citreon
+Bugatti | bugati | bugatti | bugatty
+Maserati | maseratti | masarati | maserrati | maseriti
+Rolls-Royce | rolls royce | rolls | rollsroyce | rolls-royce
+Alfa Romeo | alfa | alpha romeo | alfa-romeo
+Aston Martin | aston | astin martin | aston-martin
+Cadillac | caddy | cadilac | cadillak
+Toyota | toyata | toyoda
+Honda | hond
+Volvo | volvo cars
+Jeep | jeeps
+Subaru | subaru cars | subie
+Lexus | lexis
+Nissan | nisan | nissin | nissan motors
+Mazda | masda
+Kia | kia motors
+Chrysler | chrysler cars | chrisler
+Audi | audi ag
+Jaguar | jag | jaguar cars
+Land Rover | landrover | land-rover
+Mini | mini cooper
+Tesla | tesla motors | tesler
+Ford | ford motor company
+Dodge | dodge cars
+Lincoln | lincoln motor
+GMC | gm trucks | general motors
+Buick | buik | bewick
+Infiniti | infinity | infinity cars
+Acura | acura cars | acurra
+McLaren | mclaren | maclaren | mc laren | mclaren automotive
+Bentley | bentley motors | bently
+Lotus | lotus cars
+Suzuki | suzuki motors | suzuky
+Fiat | fiat chrysler
+Rivian | rivian automotive
+Lucid | lucid motors | lucid air
+Polestar | pole star
+--- 3
+BYD | build your dreams
+NIO | nio | nio inc
+Xpeng | xpeng | xiaopeng | x peng | x-peng
+Li Auto | lixiang | li xiang | li-auto
+Zeekr | zeeker | zeekr
+Fisker | fisker inc | fisker automotive
+Vauxhall | vauxhall motors
+Opel | opel cars
+Skoda | škoda | skoda auto | scoda
+Seat | seat cars
+Cupra | cupra cars
+Dacia | dacia cars
+Saab | saab automobile | sab
+Smart | smart car | smart fortwo
+Mercury | mercury cars
+Plymouth | plymouth cars
+Oldsmobile | olds | oldsmobile cars
+Pontiac | pontiac cars
+Saturn | saturn cars
+Hummer | hummer ev | humvee
+Scion | scion cars
+Isuzu | isuzu motors | izuzu
+Daihatsu | daihatsu motor | diahatsu
+Datsun | datsun cars
+Genesis | genesis motors
+Ram | ram trucks | dodge ram
+Koenigsegg | koenigseg | koenigsegg automotive | koenigsig | koenigsegg
+DeLorean | delorean motor | de lorean | delorian
+Mahindra | mahindra and mahindra | mahindra & mahindra
+Tata | tata motors
+Great Wall | great wall motors | gwm
+Geely | geely auto
+Chery | chery automobile
+Haval | haval cars
+Lancia | lancia cars
+Alpine | alpine cars | renault alpine
+Maybach | mercedes-maybach | mercedes maybach
+Pagani | pagani automobili | pagani huayra
+Rimac | rimac automobili
+Spyker | spyker cars
+Morgan | morgan motor | morgan motor company
+TVR | tvr cars
+Caterham | caterham cars
+Ariel | ariel atom
+Shelby | shelby american | shelby cobra
+Saleen | saleen cars
+Abarth | abarth cars
+Lynk & Co | lynk and co | lynk co | lynk
+Hongqi | hongqi cars | red flag
+MG | mg motor | mg cars | morris garages
+Rover | rover cars | rover group
+Triumph | triumph cars
+Austin | austin cars | austin motor
+Morris | morris motors
+Studebaker | studebaker cars
+Packard | packard cars
+Tucker | tucker cars
+Holden | holden cars | holden australia
+Lada | lada cars | lada niva
+Trabant | trabant cars | trabbie
+Yugo | yugo cars
+Eagle | eagle cars
+Hennessey | hennessey performance | hennessy
+DeTomaso | de tomaso | detomaso | de tomaso automobili
+Proton | proton cars
+Perodua | perodua cars
+Kaiser | kaiser cars
+Edsel | edsel cars
+Imperial | imperial cars
+Geo | geo cars
+AMC | american motors | american motors corporation | amc cars
+Willys | willys jeep | willys-overland
+Hudson | hudson motor car
+Nash | nash motors
+Duesenberg | duesenburg | duesy
+Cord | cord cars
+Auburn | auburn cars
+Pierce-Arrow | pierce arrow
+DeSoto | de soto
+Checker | checker cab | checker motors
+Karma | karma automotive
+Ineos | ineos grenadier | grenadier
+Mullen | mullen automotive
+Canoo | canoo inc
+Faraday Future | faraday | ff 91
+Bollinger | bollinger motors
+Lordstown | lordstown motors
+Aptera | aptera motors
+Lightyear | lightyear cars
+Vinfast | vin fast | vinfast auto
+Ssangyong | kgm | ssang yong | kg mobility
+Daewoo | daewoo motors
+--- 4
+Bristol | bristol cars
+Jensen | jensen motors | jensen interceptor
+AC | ac cars
+Ginetta | ginetta cars
+Radical | radical sportscars
+BAC | briggs automotive | mono
+Lister | lister cars | lister motor
+Zenvo | zenvo automotive
+W Motors | w motors lykan
+Wiesmann | wiesmann gmbh
+Gumpert | apollo | gumpert apollo
+Artega | artega automobil
+Borgward | borgward group
+Horch | horch cars
+Wanderer | wanderer werke
+DKW | dkw cars
+NSU | nsu cars
+Auto Union | autounion
+Hispano-Suiza | hispano suiza
+Bizzarrini | bizzarrini cars
+Iso | iso rivolta | iso grifo
+Cizeta | cizeta moroder
+Facel Vega | facel
+Panhard | panhard cars
+Delahaye | delahaye cars
+Delage | delage cars
+Venturi | venturi automobiles
+Ligier | ligier cars
+Microcar | microcar cars
+Aixam | aixam cars
+Matra | matra cars
+BAIC | baic motor | beijing auto
+Changan | changan auto | chang an
+Dongfeng | dongfeng motor
+FAW | faw group | first automotive works
+GAC | gac group | gac motor | trumpchi | gac aion | aion
+SAIC | saic motor | saic group
+Wuling | wuling motors | sgmw
+Baojun | baojun cars
+JAC | jac motors | jianghuai
+Leapmotor | leap motor | leap
+Aiways | aiways cars
+Ora | ora cars | ora funky cat
+Tank | tank cars | wey tank
+Wey | wey cars
+Jetour | jetour cars
+Exeed | exeed cars
+Omoda | omoda cars
+Jaecoo | jaecoo cars
+Neta | neta cars | neta auto
+Hozon | hozon auto
+Seres | seres cars
+Aito | aito cars
+Avatr | avatr cars
+Denza | denza cars
+Yangwang | yangwang cars
+Fangchengbao | fang cheng bao | fcb
+Voyah | voyah cars
+IM Motors | im motors | zhiji
+Rising Auto | rising | rising cars
+Togg | togg cars
+Samsung Motors | renault samsung | renault korea
+Hindustan | hindustan motors | hindustan ambassador | ambassador
+Force Motors | force | force cars
+Bajaj | bajaj auto | bajaj qute
+Reva | reva electric
+Bufori | bufori cars
+Tatra | tatra cars | tatra trucks
+Praga | praga cars
+Jawa | jawa cars
+FSO | fso cars | fso polonez
+Syrena | syrena cars
+Warszawa | warszawa cars
+Moskvitch | moskvich | moskvitch cars
+Zastava | zastava cars | zastava automobili
+Wartburg | wartburg cars
+Simca | simca cars
+Talbot | talbot cars
+Sunbeam | sunbeam cars
+Hillman | hillman cars
+Marussia | marussia motors
+Aurus | aurus cars | aurus senat
+UAZ | uaz cars | uaz patriot
+GAZ | gaz cars | gorky automobile
+ZIL | zil cars | zil limousine
+Volga | volga cars | gaz volga
+Marcos | marcos cars
+Reliant | reliant cars | reliant robin
+Bond | bond cars | bond bug
+Gordon-Keeble | gordon keeble
+Elva | elva cars
+Alvis | alvis cars
+Riley | riley cars
+Wolseley | wolseley cars
+Singer | singer cars | singer motors
+Humber | humber cars
+Lanchester | lanchester cars
+Daimler | daimler cars | daimler-benz
+Invicta | invicta cars
+Allard | allard cars
+Healey | healey cars | donald healey
+Austin-Healey | austin healey | austin-healey cars
+Vanden Plas | vandenplas
+Leyland | leyland motors | british leyland
+Armstrong Siddeley | armstrong-siddeley
+Frazer Nash | frazer-nash | frazernash
+Lea-Francis | lea francis
+--- 5
+Vector | vector motors | vector aeromotive
+Mosler | mosler automotive
+Panoz | panoz automotive
+SSC | ssc north america | shelby supercars | ssc tuatara
+Noble | noble automotive | noble m600
+Pininfarina | battista | automobili pininfarina
+Autobianchi | autobianchi cars
+Innocenti | innocenti cars
+Osca | osca cars
+Stanguellini | stanguellini cars
+Lagonda | lagonda cars
+Eunos | eunos cars
+Mitsuoka | mitsuoka motor
+Rinspeed | rinspeed cars
+Sbarro | sbarro cars
+Monteverdi | monteverdi cars
+Piech | piëch | piech automotive
+Elio | elio motors
+Bricklin | bricklin cars
+Stutz | stutz motor | stutz bearcat
+Cunningham | cunningham cars
+Crosley | crosley cars
+Cisitalia | cisitalia cars
+Hotchkiss | hotchkiss cars
+Salmson | salmson cars
+Talbot-Lago | talbot lago
+Amilcar | amilcar cars
+Rezvani | rezvani motors
+Czinger | czinger vehicles
+Drako | drako motors
+Alpina | alpina cars | bmw alpina
+Brabus | brabus cars
+AMG | mercedes-amg | mercedes amg
+Ruf | ruf automobile | ruf cars
+Gemballa | gemballa cars
+Hamann | hamann cars
+Mansory | mansory cars
+Carlsson | carlsson cars
+Techart | techart cars
+Ultima | ultima sports
+Westfield | westfield cars

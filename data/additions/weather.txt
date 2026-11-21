@@ -1,0 +1,316 @@
+# aliases for existing answers
+Rain | rainy | raining | rainfall | rains | rain showers
+Snow | snowy | snowing | snowfall | snows
+Sun | sunny | sunshine | sunlight | sunshiny
+Wind | windy | winds | gust | gusts | gusty
+Cloud | cloudy | clouds
+Fog | foggy | fogs
+Storm | stormy | storms
+Thunder | thundering | thunderclap
+Lightning | lightening | lightning strike | lightning bolt
+Hail | hailing | hailstones | hailstone
+Sleet | sleeting | sleety
+Drizzle | drizzly | drizzling
+Mist | misty
+Frost | frosty | frosts
+Ice | icy | ices
+Hurricane | hurricanes | hurricain
+Tornado | tornadoes | tornados | twister | twisters
+Blizzard | blizzards | blizard
+Thunderstorm | thunderstorms | thunder storm | thunder storms | thunder and lightning | electrical storm
+Heatwave | heat waves | heatwaves | heat wave | heat spell
+Drought | droughts | droght
+Monsoon | monsoons | monsoon season
+Typhoon | typhoons
+Cyclone | cyclones
+Gale | gales | gale force wind | gale force winds
+Breeze | breezy | breezes | light breeze
+Shower | showers | showery
+Downpour | downpours | deluge | cloudburst | torrential rain | heavy rain | pouring | pouring rain
+Flood | floods | flooding | flash flood | flash flooding
+Rainbow | rainbows | rain bow | double rainbow
+Overcast | overcasted | grey skies | gray skies
+Humid | humidity | humidness | sticky
+Dew | dewy | dew drops | morning dew
+Smog | smoggy
+Haze | hazy
+Sandstorm | dust storm | sand storm | duststorm | dust storms | sandstorms
+Snowstorm | snow storm | snowstorms
+Hailstorm | hail storm | hailstorms
+Freezing rain | glaze ice | glaze
+Black ice | blackice
+Whiteout | white out | white-out
+Squall | squalls | squally
+Dry | dry weather | arid
+Cold | chilly | freezing | frigid | cool | nippy | bitter cold
+Hot | scorching | sweltering | boiling | roasting | blistering
+Warm | balmy | mild
+Muggy | mugginess | sultry | close | clammy
+Clear | clear skies | clear sky | cloudless | fair | fair weather | blue skies | blue sky
+Partly cloudy | partly sunny | mostly cloudy | scattered clouds | broken clouds | sunny spells | sunny intervals
+Graupel | soft hail | snow pellets
+Rime | rime ice
+Hoarfrost | hoar frost | hoar-frost
+Virga | fallstreaks
+Microburst | micro burst | downburst | wind shear
+Derecho | derechos
+Waterspout | water spout
+Dust devil | dust devils | dirt devil | whirlwind | whirlwinds
+Haboob | haboobs
+Polar vortex | arctic blast | arctic outbreak
+Nor'easter | noreaster | nor easter | northeaster
+Chinook | chinook wind | snow eater
+Sirocco | scirocco
+Foehn | föhn | fohn | foehn wind
+El Niño | el nino | elnino
+La Niña | la nina | lanina
+Cold snap | cold spell | cold weather
+Cold front | cold fronts
+Warm front | warm fronts
+Low pressure | low pressure system | depression
+High pressure | high pressure system | anticyclone
+Jet stream | jetstream
+Supercell | super cell | supercells
+Funnel cloud | funnel clouds
+Ball lightning | ball lightening
+Sheet lightning | sheet lightening
+Heat lightning | summer lightning
+Thundersnow | thunder snow
+Ice storm | ice storms
+Diamond dust | ice crystals
+Sun shower | sunshower | sun showers | monkey's wedding | devil's beating his wife
+Petrichor | smell of rain
+Aurora | northern lights | aurora borealis | southern lights | aurora australis | auroras
+Halo | halos | ice halo | solar halo | moon halo
+Sun dog | sundog | sun dogs | sundogs | parhelion | mock sun
+Fogbow | fog bow | white rainbow
+Moonbow | moon bow | lunar rainbow
+Mackerel sky | mackerel clouds
+--- 2
+Cumulus | cumulus clouds | cumulus cloud | puffy clouds | fluffy clouds
+Stratus | stratus clouds | stratus cloud
+Cirrus | cirrus clouds | cirrus cloud | wispy clouds
+Nimbus | nimbus clouds | rain clouds | rain cloud
+Cumulonimbus | cumulo nimbus | cumulonimbus clouds | thunderclouds | thunder clouds | thunderhead | storm clouds | storm cloud | anvil cloud | cumulonimbus cloud
+Nimbostratus | nimbo stratus
+Altocumulus | alto cumulus
+Altostratus | alto stratus
+Cirrostratus | cirro stratus
+Cirrocumulus | cirro cumulus
+Stratocumulus | strato cumulus
+Heat | scorcher | hot weather | heat index
+Trade winds | trade wind | trades
+Tropical storm | tropical storms | tropical depression
+Flurries | flurry | snow flurries | snow flurry
+Snow shower | snow showers
+Slush | slushy
+Freeze | freezing temperatures | hard freeze | deep freeze | frozen
+Frostbite weather | wind chill | windchill
+Ground frost | air frost | morning frost
+Sea breeze | land breeze
+Heat haze | shimmer | mirage
+Gust front | outflow boundary
+Tropical cyclone | tropical cyclones
+Rain and snow | wintry mix | wintery mix | rain snow mix
+--- 3
+Hurricane force | category 5 | major hurricane
+Cloud cover | cloud banks
+Fog bank | pea souper | pea soup fog | pea-souper
+Storm surge | tidal surge
+Tidal wave | tsunami | tsunamis
+Dust cloud | dust haze | saharan dust
+Brown cloud | air pollution | photochemical smog
+Sleet storm | wintry showers
+Bomb cyclone | bombogenesis | weather bomb
+Atmospheric river | pineapple express
+Squall line | line of storms | bow echo
+Rotor cloud | lenticular cloud | lenticular clouds | lenticular | ufo cloud
+Mammatus | mammatus clouds | mammatus cloud
+Noctilucent clouds | noctilucent | night shining clouds
+Shelf cloud | arcus | roll cloud | arcus cloud
+Contrail | contrails | vapour trail | vapor trail | condensation trail
+Cloud street | fair weather cumulus
+Fata Morgana | superior mirage
+Rain shadow | orographic rain | orographic lift
+Anticyclonic gloom | grey weather
+Dreich | dreich weather
+Bluebird day | bluebird sky | blue bird day
+Brass monkey weather | brass monkey
+Stormy weather | stormy skies | storm front
+Zephyr | zephyrs | gentle wind | soft breeze
+Tempest | tempests
+Simoom | simoon | samum
+Khamsin | khamseen | hamsin
+Harmattan | harmatan
+Bora | bora wind
+Tramontane | tramontana
+Levanter | levante
+Meltemi | etesian winds | etesians
+Pampero | pamperos
+Williwaw | williwaws
+Zonda | zonda wind
+Buran | burans | purga
+Southerly buster | southerly burster
+Cape Doctor | cape doctor wind
+Fremantle Doctor | freo doctor
+Roaring forties | roaring 40s | furious fifties | screaming sixties
+Doldrums | the doldrums
+Horse latitudes | horse lattitudes
+Katabatic wind | katabatic winds | anabatic wind | anabatic winds | mountain wind
+Santa Ana winds | santa ana | santa anas | santa ana wind
+Mistral | mistral wind
+Diablo winds | diablo wind | diablo
+Squamish | squamish wind
+Brickfielder | brick fielder
+Blue norther | blue norther storm | norther
+Texas norther | texas northers
+Gustnado | gustnados
+Landspout | landspouts
+Firenado | fire tornado | fire whirl | fire devil
+Snow devil | snow whirl
+Steam devil | steam devils
+Thunder roll
+Dry lightning | dry thunderstorm
+Cloud to ground | cg lightning | forked lightning | fork lightning | streak lightning | ribbon lightning
+Red sprite | sprites | sprite lightning | blue jet | elves | transient luminous event
+St Elmo's fire | st elmos fire | saint elmo's fire | corposant
+Green flash | green ray
+Crepuscular rays | god rays | sun rays | sunbeams | sunbeam | jesus rays
+Glory | brocken spectre | brocken specter
+Circumzenithal arc | circumhorizontal arc | fire rainbow | fire rainbows
+Light pillar | light pillars | sun pillar | sun pillars
+Corona | coronas | lunar corona
+Alpenglow | alpen glow
+Red sky | red sky at night | red sky in morning | shepherd's delight | red sky at morning
+Twilight | afterglow | golden hour
+Indian summer | indian summers | St Martin's summer | altweibersommer
+Blackberry winter | redbud winter | dogwood winter | linsey woolsey winter
+False spring | spring thaw | thaw | thawing | meltdown | snowmelt
+Snow squall | snow squalls | lake effect snow | lake-effect snow | lake effect
+Ground blizzard | ground blizzards
+Hard frost | killing frost
+Glazed frost | glazed rain | ice glaze
+Freezing fog | ice fog | pogonip
+Radiation fog | advection fog | valley fog | ground fog | upslope fog | steam fog | sea smoke
+Heavy fog | dense fog | thick fog
+Drizzle rain | light rain | light drizzle | spitting | spit
+Sprinkle | sprinkles | sprinkling | spot of rain
+Rain drops | raindrops | raindrop | rain drop
+Snowflakes | snowflake | snow flakes | snow flake
+Ice pellets | sleet pellets | snow grains
+Wet snow | heavy snow | powder snow | powder | dry snow | corn snow | firn | packed snow
+Dust | dusty | dust cloud storm
+Pollen | pollen count | pollen storm
+Drought conditions | rainless
+Rain forecast | chance of rain | precipitation | percipitation
+Weather front | front | fronts | occluded front | occlusion | stationary front
+Pressure system | pressure systems | pressure | barometric pressure | barometer
+Trough | ridge | pressure ridge | pressure trough | ridge of high pressure
+Tropical wave | easterly wave | tropical disturbance
+Super typhoon | supertyphoon
+Willy-willy | willy willy | willy-willies
+Dust whirl | dust whirls | sand devil
+Heat dome | heat domes
+Humidex | heat index humidity | dew point | dewpoint
+Inversion | temperature inversion | thermal inversion
+Cold air | frigid air | arctic air | siberian express
+Cold front passage | frontal passage
+Winter storm | winter weather | winter storm warning
+Sun | sun out | sun's out
+Hot and humid | hot humid | sticky weather | oppressive | oppressive heat
+Dog days | dog days of summer
+Snap freeze | flash freeze | flash frozen
+Black frost | black frosts | white frost
+Verglas | clear ice
+Rain bands | rain band | feeder bands | spiral rain bands | eyewall | eye of the storm | eye of storm
+Seiche | surf | rough seas
+Bad weather | awful weather | terrible weather | foul weather | inclement weather | inclement
+Wet | wet weather | rainy weather | damp | dampness | moist | soggy | drenching
+Gloomy | gloom | grey | gray | dull | dull weather | dismal | murky | dark skies | grey day | dreary
+Calm | still | still air | stillness | no wind | dead calm
+Sunshower | sun and rain
+--- 4
+Moon dog | moondog | paraselene | moon dogs
+Elmo's fire | elmo fire
+Zodiacal light | false dawn
+Gegenschein | counterglow
+Sun halo | 22 degree halo | 22° halo
+Anticrepuscular rays | anti-crepuscular rays
+Cirrus uncinus | mares' tails | mare's tails | mares tails | mare's tail | mares tail
+Undulatus asperatus | asperitas | asperatus
+Kelvin-Helmholtz clouds | kelvin helmholtz | billow clouds | billow cloud | wave clouds
+Pileus | cap cloud | scarf cloud
+Fallstreak hole | hole punch cloud | hole-punch cloud
+Funnel | wall cloud rotation | mesocyclone | meso cyclone
+Tornado alley | twisters alley
+Dixie alley | dixie tornado alley
+Hurricane eye | hurricane eyewall
+Rogue wave | freak wave | rogue waves | king wave
+Meteotsunami | meteo tsunami
+Sundowner | sundowners | sundowner wind
+Helm wind | helm bar
+Fremantle doctor | freo doc
+Berg wind | berg winds | bergwind
+Nor'wester | norwester | nor wester | northwester
+Southerly | southerlies | northerly | easterly | westerly | easterlies | westerlies | prevailing wind | prevailing winds
+Bise | bise wind
+Gregale | grecale
+Libeccio | libecchio
+Ostro | ostro wind | austro
+Ponente | ponent
+Leveche | leveste | sharav | sharqiyah | shamal | shamals | shamal wind
+Haboob dust | dust wall
+Trade wind inversion | monsoon trough | itcz | intertropical convergence zone
+Gulf stream | gulfstream | ocean currents
+Cyclonic storm | cyclone storm | severe cyclonic storm
+Mesoscale convective system | mcs | squall cluster
+Pressure drop | sudden pressure drop
+Air mass | air masses | maritime air | continental air
+Hailswath | hail swath | hail shaft
+Rain curtain | rain shaft | rain streaks
+Sleet shower | sleet showers
+--- 5
+Gloaming | glooming
+Haar fret | sea fret | fret fog
+Smirr | smirr rain | smur
+Mizzle | mizzly | mizzling
+Plothering | plowtering | plothering rain
+Stoating | stotting | stotting rain | stoating it down
+Pelting | pelting rain | peltin | pelting it down
+Raining cats and dogs | cats and dogs | cats & dogs | bucketing | bucketing down | chucking it down | tipping it down | lashing | lashing rain | lashing it down
+Glaze storm | silver thaw | silver thaws
+Rime fog | rime frost | rime accretion
+Hair ice | frost flowers | frost flower | frost fern | frost ferns | window frost | jack frost
+Needle ice | pipkrake | pipkrakes | frost heave | frost heaving
+Ice fog crystals | ice needles
+Sastrugi | snow dunes
+Cornice | cornices | snow cornice
+Avalanche | avalanches | snow slide
+Surf zone | surf swell
+Weather lore | weather vane
+Zephyr wind | zephyrus
+Hypercane | hypercanes
+Medicane | mediterranean hurricane | med cyclone
+Cape Verde hurricane | cape verde storm | cabo verde hurricane
+Hurricane hunter | storm chasing
+Willy willy wind | willy waw
+Tropical monsoon | wet season | dry season | rainy season | monsoonal | southwest monsoon | northeast monsoon
+Kona storm | kona low | kona winds | cutoff low | cut-off low
+Pineapple express storm | pineapple express rain
+June gloom | may gray | may grey | gray may | karl the fog | karl fog
+Tule fog | tule
+Frost quake | cryoseism | ice quake | frost quakes
+Sun sundog | sundog halo
+Snowmageddon | snowpocalypse | snowpocalypse storm | snowmaggedon
+Heat burst | heatburst
+Flash drought | flash droughts
+Dust bowl | black blizzard | black blizzards | dust bowl storm
+Haze layer | brown haze | blue haze | blue ridge haze
+Sea spray | spray
+Hot air | scirocco wind | hot wind | hot winds | desert wind | desert winds | dry wind | hot dry wind
+Cold wind | icy wind | bitter wind | biting wind | chill wind | cutting wind | raw wind
+Strong winds | high winds | strong wind | high wind | howling wind | howling winds | stiff breeze | fresh breeze | moderate breeze | gentle breeze | storm force | violent storm | hurricane winds
+
+--- 3
+Sea fog | fret | sea mist
+Dreich | dreich day
