@@ -1,0 +1,61 @@
+egypt
+south africa
+nigeria
+kenya
+morocco
+ghana
+ethiopia
+algeria
+libya
+uganda
+zimbabwe
+somalia
+sudan
+tunisia
+tanzania
+mali
+rwanda
+camaroon => Cameroon
+cameroon
+zambia
+madagascar
+senegal
+angola
+mozambique
+namibia
+ivory coast
+cote d'ivoire
+botswana
+drc
+congo
+zaire => Democratic Republic of the Congo
+congo kinshasa => Democratic Republic of the Congo
+guinea
+chad
+liberia
+niger
+central african republic
+malawi
+south sudan
+mauritius
+eritria => Eritrea
+sierra leone
+benin
+gambia
+togo
+burundi
+gabon
+seychelles
+mauritania
+lesotho
+djibouti
+cape verde
+equatorial guinea
+burkina faso
+swaziland => Eswatini
+eswatini
+sao tome
+comoros
+guinea bissau
+western sahara
+nigera => Nigeria

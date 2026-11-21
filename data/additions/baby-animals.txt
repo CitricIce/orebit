@@ -1,0 +1,92 @@
+--- 2
+Puppy | seal pup | bat pup | shark pup | baby seal | baby shark | baby bat | baby sea lion | baby walrus | baby rat | puppies | pups | puppie | pupy | puppys | doggy baby | baby dog
+Kitten | kittens | kitty | kitties | kitt | kiten | kittin | baby cat
+Calf | calfs | baby cow | baby elephant | baby whale | baby giraffe
+Lamb | lambs | baby sheep | lam
+Piglet | piglets | pig let | piglit | baby pig | pigglet | piggy | piggies
+Duckling | ducklings | duck ling | baby duck | ducklin | duckie
+Gosling | goslings | gosslin | goseling | baby goose | gossling
+Chick | chicks | chic | chickie | baby chicken | chickies | chicken chick
+Cub | cubs | baby bear | baby lion | baby tiger | baby fox | lion cub | bear cub | tiger cub
+Foal | foals | baby horse | fole | baby donkey | baby zebra | baby mule
+Fawn | fawns | faun | baby deer | fown | baby elk
+Bunny | bunnies | baby rabbit | bunnys | baby bunny | bunni
+Kid | kids | baby goat | kidlet | goat kid
+Joey | joeys | baby kangaroo | baby wallaby | baby koala | baby wombat | joy | joe
+Tadpole | tadpoles | pollywog | tad pole | tadpol | baby frog | baby toad | taddy
+Cygnet | cygnets | baby swan | cignet | signet | cygnett | cyngnet | cynget
+Colt | colts | baby stallion | young horse
+Filly | fillies | fillie | baby mare | filley
+Hatchling | hatchlings | hatchlin | hatchlings turtle | baby turtle | baby tortoise | baby crocodile | baby alligator | baby snake | baby lizard | baby reptile
+Fledgling | fledglings | fledgeling | fledgelings | fledgling bird | fledglin | fledgelin
+Nestling | nestlings | nestlin | baby bird | nest ling
+Owlet | owlets | owlette | baby owl | owlit
+Eaglet | eaglets | eaglette | baby eagle | eaglit
+Caterpillar | caterpillars | catterpillar | caterpiller | caterpilar | cattapillar | baby butterfly | baby moth | catapillar | catipillar
+Larva | larvae | larvas | larval | larve | larvea | grub larva
+Whelp | whelps | whelpe | welp | wolf whelp
+Cria | crias | creia | baby llama | baby alpaca | baby vicuna | baby guanaco | baby camel
+Squab | squabs | squob | baby pigeon | baby dove | squabb
+Poult | poults | pullet poult | baby turkey | baby pheasant | baby grouse | baby partridge | poulet | turkey poult
+Elver | elvers | baby eel | elva | glass eel | elvar
+Fry | fries | baby fish | fish fry | frye | fry fish | fishlet | fry baby fish
+--- 3
+Kit | kits | baby fox kit | fox kit | beaver kit | baby ferret | baby skunk | baby beaver | baby weasel | baby mink | baby otter | baby squirrel
+Leveret | leverets | baby hare | leverit | levret | levaret | hare leveret
+Hoglet | hoglets | baby hedgehog | hoglit | hogglet | hedgehog hoglet
+Pinkie | pinkies | pinky | pinkys | pink mouse | baby mouse pinkie | pinkie mouse
+Maggot | maggots | maggit | magot | baby fly | fly larva | baby housefly
+Grub | grubs | beetle larva | baby beetle | grubb | white grub | baby cockchafer
+Nymph | nymphs | baby dragonfly | baby grasshopper | baby cricket | baby cicada | baby cockroach | baby mantis | baby locust | nimph | baby mayfly | baby bug | baby insect
+Pupa | pupae | pupas | chrysalis | chrysalises | cocoon | chrysalids | pupae stage | pupal | puppa
+Infant | infants | baby human | newborn | babies | babby | toddler
+Heifer | heifers | young cow | young female cow | heffer | hefer
+Cockerel | cockerels | young rooster | young cockerel | cock chick | cockrel | cockeral | young cock
+Pullet | pullets | young hen | young female chicken | pulet | pulette | baby hen | puellet
+Squeaker | squeakers | squeker | squeeker | squeaker pigeon | squaker
+Fingerling | fingerlings | finger ling | young fish | fingerling fish | fingerlin
+Codling | codlings | young cod | codlin | codlings fish | codlings cod | baby cod
+Puggle | puggles | baby echidna | baby platypus | puggel | puggal | puggel echidna | monotreme baby | echidna puggle
+Keet | keets | guinea fowl keet | baby guinea fowl | keat | keete | guinea keet | baby guineafowl
+Cheeper | cheepers | cheeper bird | baby grouse cheeper | cheper | cheaper
+Parr | parrs | young salmon | salmon parr | par | parr salmon | parr fish
+Smolt | smolts | young smolt salmon | salmon smolt | smolt fish | smoult | young salmon smolt
+Alevin | alevins | newly hatched salmon | baby salmon | alevins salmon | alvin | aleven | alevin fish | salmon alevin | yolk sac fry
+Froglet | froglets | baby froglet | froglette | frogling | young frog | froglit | froglets baby
+Spiderling | spiderlings | baby spider | spiderlin | spiderlings baby | spider baby | young spider | spiderling spider
+Shoat | shoats | young pig | shote | shoats pig | shot pig | shoat pig | shoet | shoate
+Weaner | weaners | weaner pig | weaner piglet | wean | weener | weaner calf
+Yearling | yearlings | yearling horse | one year old | year ling | yearlin | yearlings horse
+Farrow | farrows | litter of pigs | pig litter | farow | farrow pig | farrow piglet | farrows pigs
+Gilt | gilts | young sow | young female pig | gilt pig | guilt pig | gilts pig
+Eyas | eyases | eyasses | baby falcon | baby hawk | baby kestrel | falcon eyas | young hawk | young falcon
+Wriggler | wrigglers | wriggler mosquito | mosquito larva | baby mosquito | mosquito wriggler | wriggler larva | wrigler | wriggla
+Ducklet | ducklets | ducklett | duckllet | little duck | ducklets baby
+Chickling | chicklings | chicklin | little chick | chicklings baby | chicklinge
+Spat | spats | baby oyster | oyster spat | baby mussel | spat oyster | spat clam | baby scallop | baby clam | spat mollusc | baby mollusk
+--- 4
+Hogget | hoggets | hogg | hoggett | young sheep | hogget sheep | hogs | yearling sheep | hoggs | hoggit
+Teg | tegs | tegg | teg sheep | two tooth | two-tooth sheep | young ewe | young ram
+Shearling | shearlings | shearling sheep | sherling | shearlin | shearling lamb | shearlings sheep
+Suckling | sucklings | suckling pig | suckler | suckling calf | suckling lamb | suckling foal | sucklin | suckling piglet | sucker
+Cade | cade lamb | cade foal | pet lamb | cade calf | caid lamb
+Peachick | peachicks | peafowl chick | baby peacock | baby peahen | baby peafowl | pea chick | peachik | peachic | peachicks baby | peacock chick | peahen chick | peachikc
+Eft | efts | young newt | baby newt | eft newt | efft | red eft | eft salamander
+Toadlet | toadlets | baby toadlet | toadling | young toad | toadlette | toadlet baby | toadletts
+Naiad | naiads | naid | naiad nymph | dragonfly naiad | aquatic nymph | water nymph insect | naiads insects
+Instar | instars | instar larva | caterpillar instar | insect instar | instar stage | instar insect | instars larva
+Nauplius | nauplii | naupli | nauplius larva | copepod larva | naupli larva | nauplius baby | brine shrimp nauplii | nauplias
+Zoea | zoeae | zoea larva | crab zoea | zoea crab | crab larva | zoeas | zoea larvae
+Megalopa | megalopae | megalopa larva | crab megalopa | megalopas | megalopa crab | megalops
+Veliger | veligers | veliger larva | snail larva | mollusc larva | veliger snail | mollusk larva | veliger baby
+Planula | planulae | planula larva | jellyfish larva | coral larva | planulas | planula jellyfish | coral planula
+Ephyra | ephyrae | ephyra larva | jellyfish ephyra | baby jellyfish | ephyras | ephyra jellyfish | young jellyfish
+Leptocephalus | leptocephali | leptocephalus larva | eel larva | leptocephalus eel | glass eel larva | leptocephalus fish | leptocephalus baby
+Flapper | flappers | flapper duck | young wild duck | flapper bird | baby wild duck | flappers duck
+Kidling | kidlings | kidlins | baby kid | kidling goat | kidlings goat
+Pigling | piglings | pigglings | pigling pig | piglin pig | pigling baby
+Doeling | doelings | doeling goat | doelings goat | young doe | baby doe | doelin | doelings kid | doe kid
+Buckling | bucklings | buckling goat | bucklings goat | young buck | baby buck | bucklin | bucklings kid | buck kid
+Whitebait | whitebaits | white bait | whitebait fish | whitebait herring | whitebait sprat | whitebaits fish | whitebait baby fish | wite bait
+Grilse | grilses | young salmon grilse | grilse salmon | grilse fish | grilse baby salmon | grilses salmon | grilse fish salmon
+--- 5

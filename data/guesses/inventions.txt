@@ -1,0 +1,56 @@
+wheel
+light bulb
+lightbulb
+telephone
+phone
+internet
+computer
+car
+airplane
+plane
+television
+tv
+radio
+printing press
+paper
+gun
+camera
+clock
+watch
+train
+battery
+elevator
+lift
+glasses
+spectacles
+steam engine
+telegraph
+bicycle
+bike
+pencil
+pen
+compass
+gunpowder
+microscope
+telescope
+penicillin
+vaccine
+x ray
+refrigerator
+fridge
+toilet
+washing machine
+sewing machine
+typewriter
+zipper
+velcro
+cotton gin
+spinning jenny
+dynamite
+laser
+radar
+parachute
+piano
+motorcycle
+lightbulb => Light bulb
+televsion => Television

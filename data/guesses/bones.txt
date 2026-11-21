@@ -1,0 +1,54 @@
+skull
+femur
+rib
+ribs
+spine
+collarbone
+clavicle
+jaw
+jawbone
+mandible
+humerus
+funny bone
+radius
+ulna
+pelvis
+hip bone
+kneecap
+patella
+tibia
+shin bone
+fibula
+scapula
+shoulder blade
+sternum
+breastbone
+tailbone
+coccyx
+sacrum
+vertebrae
+cheekbone
+nose bone
+hyoid
+stapes
+stirrup
+anvil
+hammer
+heel bone
+ankle bone => Tarsals
+wrist bones
+finger bones
+toe bones
+phalanges
+metacarpals
+metatarsals
+carpals
+tarsals
+talus
+cranium
+thigh bone
+femor => Femur
+humerous => Humerus
+sternam => Sternum
+clavical => Collarbone
+atlas

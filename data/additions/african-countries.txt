@@ -1,0 +1,60 @@
+# african-countries additions: alternate names and typos.
+--- 2
+Egypt | egipt | egypt arab republic | eygpt | egypy
+South Africa | s africa | rsa | south afrika | sth africa | southafrica | sout africa
+Nigeria | nigera | nigieria | nigria | naija
+Kenya | kenia | keyna | kenyaa
+Morocco | marocco | maroc | moroco | morroco | marruecos
+Ghana | gana | ghanna | gold coast
+Ethiopia | ethiopa | ethopia | abyssinia | etheopia | ethiopai
+Algeria | algiera | algerie | algeri
+Libya | lybia | libia | libiya
+Uganda | ugnada | ugand | ugandaa
+Zimbabwe | zimbabew | zimbawe | zimbabwae | rhodesia | zimbabwi
+Somalia | somailia | somalya | somaila
+Sudan | sudn | sudaan
+--- 3
+Tunisia | tunesia | tunisa | tunisie | tunisai
+Tanzania | tanzani | tanzaina | tanganyika | tazania
+Mali | maali
+Rwanda | rwandaa | ruanda | rwand
+Cameroon | cameroun | camaroon | cameron | camerun | cameroom
+Zambia | zambai | zambya | northern rhodesia
+Madagascar | madagasgar | madagaskar | madagasca | madagascr | madegascar
+Senegal | senagal | senegall | senegla
+Angola | angolla | angla
+Mozambique | mozambic | mozambiqe | mosambique | mozambiq | mozambeek
+Namibia | namibai | namabia | nambia
+Congo | republic of congo | rep of congo | roc | congo republic | middle congo
+Democratic Republic of the Congo | democratic republic of congo | dr of congo | congo dr | belgian congo | zaire | congo-kinshasa | congo kinshasa
+Ivory Coast | ivory cost | ivorycoast | cote d ivoire | côte d’ivoire | coted'ivoire | cote d'ivoire | ivory
+--- 4
+Botswana | botswanna | botswan | bostwana | bechuanaland
+Guinea | guinee | french guinea | guinea conakry | conakry guinea
+Chad | tchad | chadd
+Liberia | libera | liberai
+Niger | nigerr | niger republic
+Central African Republic | central africa republic | central african rep | c.a.r. | centralafrican republic | central africa | cenral african republic
+Malawi | malawai | malwi | nyasaland
+South Sudan | s sudan | sth sudan | southsudan | sudan south
+Mauritius | mauritus | mauritious | mauricius | maritius
+Eritrea | eritria | eritrea | eritra
+Sierra Leone | sierraleone | sierra leon | sierra leonne | sierra leaone
+Benin | dahomey | benen | benine
+Gambia | the gambia | gambai | gambya
+--- 5
+Togo | togoland | togolese republic
+Burundi | burundai | burudi
+Gabon | gabone | gabun
+Seychelles | seychelle | seychells | seychelle islands | seycheles | seyshells
+Mauritania | mauritainia | mauratania | mauritana | mauritanie
+Lesotho | lesoto | lesotho kingdom | basutoland
+Djibouti | jibouti | djbouti | djibuti | djibouty
+Cape Verde | cape verde islands | cabo verde | capeverde | cap vert
+Equatorial Guinea | equatorial guinea | equitorial guinea | eq guinea | eq. guinea | spanish guinea
+Burkina Faso | burkina | upper volta | burkinafaso | burkino faso | burkina fasso
+Eswatini | swaziland | swazi | kingdom of eswatini | eswatni
+São Tomé and Príncipe | sao tome and principe | sao tome | são tomé | sao tome & principe | sao tomé
+Comoros | comores | comoro islands | the comoros | commoros | comoro
+Guinea-Bissau | guinea bissau | guinea-bissau | portuguese guinea | bissau guinea | guinée-bissau
+Western Sahara | sahrawi | sahrawi arab democratic republic | spanish sahara

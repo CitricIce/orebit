@@ -1,0 +1,184 @@
+--- 2
+Carrot | carrots | baby carrots | baby carrot
+Potato | potatoes | tater | taters | spud | russet | russet potato | red potato | yukon gold | fingerling potato
+Onion | onions | red onion | white onion | yellow onion | sweet onion
+Mushroom | mushrooms | button mushroom | button mushrooms
+Corn | corn on the cob | sweetcorn | sweet corn | maize
+Peas | pea | garden peas | green peas
+Pepper | peppers | bell pepper | bell peppers | capsicum | green pepper | red pepper | sweet pepper
+Tomato | tomatoes | tomatos | tomatoe
+Cucumber | cucumbers | cuke | cukes | cucmber
+Green beans | green bean | string beans | string bean | snap beans | french beans | haricots verts | haricot vert
+Zucchini | courgette | courgettes | zuchini | zucchinis | zuchinni | zukini
+Eggplant | aubergine | aubergines | eggplants | egplant
+Spring onion | scallion | scallions | green onion | green onions | spring onions
+Brussels sprouts | brussel sprouts | brussels sprout | brussel sprout | sprouts | brussels
+Cauliflower | califlower | cauliflour | cauliflowers
+Broccoli | brocoli | brocolli | broccolli
+Lettuce | lettuce leaf | salad leaves | leaf lettuce
+Bok choy | pak choi | pak choy | bok choi | baby bok choy | chinese cabbage bok choy
+Beetroot | beet | beets | beetroots | red beet
+--- 3
+Rhubarb | rhubarb stalks
+Chives | chive
+Parsley | flat leaf parsley
+Cilantro | coriander | coriander leaves
+Savoy cabbage | savoy
+Kale | curly kale | kale leaves | baby kale
+Cavolo nero | tuscan kale | lacinato kale | lacinato | dinosaur kale | black kale
+Collard greens | collards | collard | collard green | collard leaves
+Turnip greens | turnip tops
+Beet greens | beetroot greens | beet tops
+Spaghetti squash | spaghetti squashes
+Acorn squash | acorn
+Chickpeas | chick peas | garbanzo beans | garbanzo | garbanzos
+Snow peas | mange tout | mangetout | snow pea
+Baby spinach | spinach leaves
+Red leaf lettuce | red lettuce | green leaf lettuce | green leaf
+Butter lettuce | bibb | boston lettuce | bibb lettuce | butterhead
+Little gem | little gem lettuce | gem lettuce
+Cos | cos lettuce
+Chicory | belgian endive | witloof
+Escarole | frisee | frisée | curly endive
+Cress | garden cress | mustard cress
+Daikon | mooli | white radish | mooli radish | daikon radish
+Watermelon radish | red meat radish
+Kohlrabi | kohl rabi | german turnip | turnip cabbage
+Pumpkin | pumpkins
+Squash | squashes
+Garlic | garlic cloves | garlic bulb
+Sweet potato | sweet potatoes | yam | yams | kumara | sweetpotato
+Cabbage | cabbages | green cabbage | white cabbage
+Shiitake | shiitake mushroom | shiitake mushrooms
+Portobello | portobello mushroom | portabella | portabello | portobella
+Cremini | crimini | baby bella | cremini mushroom
+Oyster mushroom | oyster mushrooms
+Enoki | enoki mushroom | enokitake
+Chili pepper | chilli | chilli pepper | chillies | chili | chilies | hot pepper | hot peppers | chile
+Habanero | habanero pepper
+Serrano | serrano pepper
+Poblano | poblano pepper | ancho
+Banana pepper | banana peppers
+Cayenne | cayenne pepper
+Shishito | shishito pepper
+Anaheim | anaheim pepper
+Cubanelle | cubanelle pepper | italian frying pepper
+--- 4
+Chinese broccoli | gai lan | kai-lan | kailan | gailan | chinese kale
+Choy sum | choi sum | cai xin | yu choy
+Mizuna | japanese mustard greens
+Tatsoi | tat soi
+Water spinach | morning glory | ong choy | kangkong | kang kong | water convolvulus | swamp cabbage
+Cardoon | cardoons
+Fennel | fennel bulb
+Celeriac | celery root | celery knob
+Mâche | mache | lamb's lettuce | lambs lettuce | corn salad
+Pea shoots | pea shoot | pea tendrils | pea sprouts
+Black-eyed peas | black eyed peas | black eyed pea | cowpeas | cowpea
+Soybeans | soy beans | soybean | soya beans
+Wax beans | yellow beans | wax bean
+Yardlong bean | long beans | snake bean | yard long beans | asparagus bean
+Ramps | wild leeks | ramp | wild garlic | ransoms
+Delicata squash | delicata
+Hubbard squash | hubbard
+Kabocha | kabocha squash | japanese pumpkin
+Marrow | vegetable marrow
+Cucuzza | cucuzza squash | italian squash
+Bitter melon | bitter gourd | karela | bitter melon gourd
+Bottle gourd | lauki | calabash | doodhi | dudhi | opo squash
+Luffa | loofah | sponge gourd | ridge gourd | turai | tori
+Tindora | ivy gourd | tindli | kundru | tondli
+Drumstick | moringa | drumsticks | drumstick pods | moringa pods
+Taro | taro root | eddo | dasheen | colocasia
+Cassava | yuca | manioc | tapioca root | yucca root
+Parsnip | parsnips
+Turnip | turnips | white turnip
+Rutabaga | swede | neep | swedes | yellow turnip
+Jerusalem artichoke | sunchoke | sunchokes | earth apple
+Burdock | gobo | burdock root
+Lotus root | lotus | renkon
+Salsify | oyster plant | black salsify
+Oca | ulluco | olluco
+Hearts of palm | palm hearts | palm heart | heart of palm
+Rapini | broccoli rabe | broccoli raab | cime di rapa | rabe
+Spring greens | greens | leafy greens | salad greens
+Broccolini | tenderstem | tenderstem broccoli | baby broccoli | broccoletti
+Celtuce | stem lettuce | asparagus lettuce
+Amaranth | amaranth greens | chinese spinach | callaloo | yin choy | tampala
+Malabar spinach | ceylon spinach | basella
+Nopal | nopales | cactus paddle | prickly pear pad | nopalitos
+Jicama | mexican turnip | yam bean
+Tomatillo | tomatillos | husk tomato | mexican husk tomato
+Chayote | mirliton | christophene | chocho | choko
+Plantain | plantains | cooking banana
+Okra | ladies fingers | lady's fingers | gumbo | bhindi
+Edamame | soybean pods | edamame beans
+Bean sprouts | beansprouts | mung bean sprouts | moong sprouts
+Alfalfa sprouts | alfalfa | sprouts alfalfa
+Wasabi | japanese horseradish
+Turmeric | turmeric root | fresh turmeric
+Horseradish | horse radish
+Ginger | ginger root | fresh ginger
+Nettles | nettle | stinging nettle
+Seaweed | sea vegetable | nori | wakame | kelp | dulse | laver
+Sauerkraut | sour cabbage | choucroute
+Pickle | pickles | dill pickle | dill pickles
+Gherkin | gherkins | cornichon | cornichons
+Chanterelle | chanterelles | girolle | girolles
+Morel | morels | morel mushroom
+Truffle | truffles
+Lima beans | butter beans | lima bean | butterbeans
+Pinto beans | pinto
+Kidney beans | kidney bean
+Black beans | black bean
+Navy beans | navy bean | white beans | haricot beans | cannellini | cannellini beans
+Stringless beans | stringless bean
+--- 5
+Purple carrot | purple carrots | rainbow carrots
+Mangelwurzel | mangel | mangold | mangel-wurzel | fodder beet
+Skirret | sium sisarum
+Sea kale | crambe
+Chickweed | stellaria
+Dandelion greens | dandelion | dandelion leaves
+Purslane | pigweed | portulaca
+Jute leaves | molokhia | mulukhiyah | molokhiya | jute mallow | ewedu
+Taro leaves | luau leaves | callaloo leaves | arbi leaves | dasheen leaves
+Curry leaf | curry leaves
+Moringa leaves | malunggay
+Tigernut | tiger nut | chufa | earth almond
+Konjac | konnyaku | elephant yam | devil's tongue | shirataki
+Kohlrabi greens | kohlrabi leaves
+Cucumber melon | armenian cucumber | snake melon
+Lemon cucumber | lemon cucumbers
+Fiddlehead fern | fiddleheads | fiddlehead | ostrich fern
+Ulva | sea lettuce
+Rampion | rapunzel
+Good King Henry | mercury goosefoot
+Orache | mountain spinach | atriplex
+Bamboo shoots | bamboo shoot | bamboo
+Watercress | water cress
+Hakurei turnip | salad turnip | tokyo turnip
+Scorzonera | black oyster plant
+Baby marrow | baby marrows
+Pimiento | pimento | pimientos | pimentos
+Pepperoncini | peperoncini | pepperocini
+Padrón peppers | padron | padron pepper | pimientos de padron
+Scotch bonnet | scotch bonnet pepper | scotch bonnets
+Ghost pepper | bhut jolokia | carolina reaper | naga
+Thai chili | bird's eye chili | birds eye chilli | thai chilli | bird eye chili
+Ají amarillo | aji amarillo | aji | aji pepper
+Tabasco pepper | tabasco
+
+Chard | swiss chard | rainbow chard | silverbeet | silver beet
+Squash | butternut squash | butternut | squashes
+Chili pepper | jalapeno | jalapeño | jalapenos | jalapeño pepper | jalapeno pepper
+Sugar snap peas | snap peas | sugar snaps | snap pea | sugar snap pea
+Arugula | rocket | roquette | rocket leaves
+Green beans | haricot vert | haricots verts | runner beans | runner bean
+Escarole | frisee | frisée | curly endive
+Broad beans | fava beans | fava | faba beans | broad bean | fava bean
+Samphire | sea beans | sea asparagus | glasswort | salicornia
+Sweet potato | yam | yams | kumara
+Napa cabbage | napa | chinese leaf | wombok | wong bok | chinese cabbage
+Crosne | chinese artichoke | chorogi | stachys
+Kohlrabi | kohl rabi | german turnip | turnip cabbage

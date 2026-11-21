@@ -1,0 +1,144 @@
+--- 2
+Curry | curries | indian curry | chicken curry | lamb curry | beef curry | vegetable curry | veg curry
+Naan | naan bread | garlic naan | butter naan | peshwari naan | peshawari naan | keema naan | cheese naan | plain naan | nan
+Samosa | samosas | samosa chaat | punjabi samosa | veg samosa
+Biryani | biriani | briyani | chicken biryani | lamb biryani | veg biryani | vegetable biryani | hyderabadi biryani | mutton biryani
+Tikka masala | chicken tikka masala | ctm | paneer tikka masala
+Butter chicken | murgh makhani | chicken makhani
+Dal | daal | dhal | dahl | lentil curry | tarka dal | dal tadka | dal fry | masoor dal | chana dal | toor dal | moong dal | tadka dal
+Chapati | chapatti | chapatis | chapathi | phulka | flatbread | indian flatbread
+Poppadom | papadum | poppadum | papad | pappadam | poppadoms | papadam | pappadum | papadom | popadom
+Pakora | pakoras | pakoda | pakodas | onion pakora | vegetable pakora | bhajiya | bajji
+Vindaloo | vindaloo curry | chicken vindaloo | lamb vindaloo | pork vindaloo
+Korma | kurma | chicken korma | lamb korma | navratan korma | veg korma
+Madras | madras curry | chicken madras
+Jalfrezi | chicken jalfrezi | jalfrazi | jalfrezi curry
+Tandoori chicken | tandoori | tandoori fish | tandoori prawns | tandoori lamb
+Chana masala | chole | chana | chickpea curry | channa masala | chola | chole masala | punjabi chole
+Aloo gobi | aloo gobhi | alu gobi | gobi aloo | potato and cauliflower
+Gulab jamun | gulab jamoon | gulabjamun | gulab
+Lassi | mango lassi | sweet lassi | salted lassi | lassie
+Dosa | dosai | plain dosa | rava dosa | onion dosa | set dosa | paper dosa
+Idli | idlis | idly | idli sambar | sambar idli
+Paneer | paneer curry | paneer tikka | paneer butter masala | butter paneer | kadai paneer | paneer makhani | paneer lababdar | shahi paneer | paneer bhurji
+Saag paneer | palak paneer | saag panir | spinach paneer | saag
+Matar paneer | mattar paneer | mutter paneer | peas paneer | aloo mutter | aloo matar | matar aloo
+Pilau rice | pilau | pulao | pilaf rice | pulav | pilao | jeera rice | basmati rice | saffron rice
+Raita | cucumber raita | mint raita | boondi raita | onion raita | yogurt dip | cucumber yogurt
+Chutney | mango chutney | mint chutney | tamarind chutney | coconut chutney | green chutney | mint sauce | tamarind sauce | tomato chutney
+Kebab | kebabs | seekh kebab | shami kebab | reshmi kebab | seekh | chicken kebab | lamb kebab | kabab | tikka kebab
+Bhatoora | bhature | bhatura | batura
+Kulfi | pistachio kulfi | mango kulfi | malai kulfi | kesar kulfi | indian ice cream
+Dhansak | dhansak curry | chicken dhansak | lamb dhansak
+Balti | balti curry | chicken balti | lamb balti | karahi | kadai | kadai chicken | karahi chicken | handi | chicken handi
+--- 3
+Bhuna | bhuna gosht | chicken bhuna | lamb bhuna | bhoona
+Keema | kheema | keema matar | keema curry | mince curry | keema paratha
+Dopiaza | dupiaza | do pyaza | chicken dopiaza | lamb dopiaza
+Pathia | patia | chicken pathia | prawn pathia
+Phall | phaal | chicken phall | phal
+Pasanda | chicken pasanda | lamb pasanda
+Rogan josh | roghan josh | rogan gosht | lamb rogan josh | rogan | rogon josh
+Mutton curry | mutton masala | lamb masala | goat curry | mutton gravy | gosht curry | gosht
+Aloo | alu | aloo sabzi | aloo masala | dum aloo | jeera aloo | aloo jeera | aloo tikki | alu tikki | potato curry | bombay potatoes
+Bhindi masala | bhindi | okra masala | bhindi fry | okra curry
+Baingan bharta | baingan bhartha | baigan bharta | baingan ka bharta | bharta | brinjal curry | eggplant curry
+Dal makhani | dal makhni | black dal | maa ki dal | dal bukhara | kali dal
+Rajma | rajma chawal | rajma masala | kidney bean curry | rajma curry | rajma rice
+Kadhi | kadhi pakora | punjabi kadhi | gujarati kadhi | kadi | karhi | yogurt curry
+Sarson da saag | sarson ka saag | makki di roti | makki ki roti | mustard greens curry
+Dal baati churma | dal bati churma | baati | churma | litti chokha | litti
+Chaat | chat | papdi chaat | dahi puri | sev puri | dahi vada | dahi bhalla | raj kachori | tikki chaat | aloo chaat
+Pani puri | panipuri | golgappa | gol gappa | puchka | phuchka | gup chup | golgappe
+Vada pav | wada pav | vada pao | batata vada pav | bombay burger
+Pav bhaji | pao bhaji | pau bhaji | bhaji pav
+Misal pav | misal | usal pav | usal | missal
+Sabudana khichdi | sabudana khichadi | sabudana vada | thalipeeth
+Gobi Manchurian | cauliflower manchurian | veg manchurian | vegetable manchurian | manchurian | chicken manchurian | paneer manchurian | gobi 65
+Chilli chicken | chilly chicken | chicken chilli | chilly paneer | dragon chicken
+Hakka noodles | veg hakka noodles | chicken hakka noodles | chowmein | chow mein | schezwan noodles | schezwan fried rice | indo chinese
+Malai kofta | kofta curry | veg kofta | lauki kofta | nargisi kofta | kofta curry gravy
+Karela | bitter gourd curry | bitter melon curry | karela fry | bharwa karela | pavakkai
+Lauki | lauki sabzi | doodhi | dudhi | lauki ki sabzi | sorakkai | bottle gourd curry
+Fish fry | meen fry | fish tikka | amritsari fish | fish pakora | rava fried fish | fish koliwada | pomfret fry | bombay duck
+Kheer | rice kheer | payesh | seviyan | sewai | vermicelli kheer | sheer khurma | basundi | sabudana kheer
+Halwa | halva | gajar halwa | gajar ka halwa | carrot halwa | moong dal halwa | sooji halwa | suji halwa | semolina halwa | rava halwa | atta halwa | besan halwa | kaddu halwa | beetroot halwa
+Ladoo | laddoo | laddu | laddus | ladoos | besan ladoo | motichoor ladoo | boondi ladoo | rava ladoo | coconut ladoo | til ladoo | tirupati laddu
+Jalebi | jilebi | jilapi | imarti | jangiri | jalebi rabri | fafda jalebi
+Rasgulla | rosogolla | roshogolla | rasagulla | rasbari
+Rasmalai | ras malai | rossomalai | rasamalai
+Barfi | burfi | kaju barfi | kaju katli | pista barfi | badam barfi | coconut barfi | besan barfi | milk barfi | mawa barfi | chocolate barfi
+Peda | pedha | mathura peda | dharwad peda | kesar peda | milk peda | doodh peda
+Cham cham | chamcham | rajbhog | pantua | ledikeni | langcha | kalakand | milk cake | malpua | malpoa
+Sandesh | sondesh | shondesh
+Rabri | rabdi | shahi tukda | shahi tukra | double ka meetha
+Mysore pak | mysorepak | mysore paak
+Modak | ukadiche modak | steamed modak | fried modak
+Soan papdi | son papdi | sohan papdi | patisa
+Chikki | peanut chikki | lonavala chikki | gajak | gur chikki | til chikki
+Sev | bhujia | namkeen | chivda | mathri | khakhra | fafda | khandvi | handvo | chakli | murukku
+Paratha | parathas | gobi paratha | paneer paratha | methi paratha | lachha paratha | laccha paratha | parantha | stuffed paratha | egg paratha | mooli paratha
+Kati roll | kathi roll | frankie | egg roll | paneer roll | chicken roll | kolkata roll
+Sambar | sambhar | sambar rice | sambar sadam
+Rasam | rasam rice | pepper rasam | tomato rasam | lemon rasam
+Thali | indian thali | veg thali | non veg thali | south indian thali | gujarati thali | rajasthani thali | bengali thali | punjabi thali | meals | south indian meals
+Pickle | achar | mango pickle | lime pickle | indian pickle | aam ka achar | nimbu achar | mirchi achar | mixed pickle | gongura pickle | avakaya
+Pappu | paruppu | pappu charu | pappu annam
+Coconut rice | thengai sadam | kobbari annam | coconut pulao | coconut milk rice
+Tamarind rice | puliyogare | puliyodarai | pulihora | tamarind pulao | puli sadam
+Tomato rice | thakkali sadam | tomato bath | tomato pulao | tomato pulihora
+Curd rice | thayir sadam | dahi chawal | perugu annam | mosaru anna | daddojanam | yogurt rice
+Bisi bele bath | bisi bele bhath | bisibelebath | bisibele bhath | bisi bele huli anna
+Vangi bath | vangibath | brinjal rice | baingan rice | brinjal pulao
+Pongal | ven pongal | khara pongal | sakkarai pongal | sweet pongal | chakkara pongal
+Appam | appam stew | hoppers | egg hoppers | palappam | vellayappam | idiyappam | string hoppers | idiappam
+Pesarattu | pesarattu upma | moong dal dosa | adai | adai avial | neer dosa | rava idli | kanchipuram idli | thatte idli
+Parotta | parotta salna | kerala parotta | malabar parotta | kothu parotta | kothu | kothu roti | veechu parotta | porotta
+Beef fry | kerala beef fry | beef roast | beef ularthiyathu | ularthiyathu | beef curry kerala | beef coconut fry | nadan beef | beef pepper fry
+Thepla | methi thepla | masala thepla | dudhi thepla | lauki thepla | bajra thepla | thepla with chunda | chunda | thepla and chunda | thepla and achar | thepla and chai
+Khichdi | khichri | khichuri | khichadi | kitchari | moong dal khichdi | dal khichdi | vegetable khichdi | veg khichdi | masala khichdi | bhog khichuri | bajra khichdi | dalia khichdi
+Kachori | kachauri | khasta kachori | dal kachori | pyaz kachori | mawa kachori | aloo kachori | matar kachori | hing kachori
+Uttapam | uttappam | uthappam | uttapa | oothappam | onion uttapam | tomato uttapam | masala uttapam | rava uttapam | podi uttapam
+Payasam | paayasam | paysam | semiya payasam | paal payasam | pal payasam | ada pradhaman | pazham pradhaman | gothambu payasam | parippu payasam | sabudana payasam
+Shrikhand | srikhand | amrakhand | mango shrikhand | kesar shrikhand | elaichi shrikhand
+Bebinca | bebinka | goan bebinca | dodol | goan dodol | doce | doce de grao
+
+
+Chettinad chicken | chicken chettinad | chettinad curry | pepper chicken | chicken varuval | kozhi varuval | chicken ghee roast | chicken sukka
+Chicken 65 | chicken sixty five | chicken lollipop | apollo fish
+Mirchi ka salan | mirchi salan | baghare baingan | bagara baingan | dalcha | tehri
+Puran Poli | puran poli | puranpoli | holige | obbattu | bobbatlu
+Dhokla | khaman dhokla | khaman | rava dhokla | muthiya | patra | undhiyu | undhiyo | khichu | bhakarwadi | gathiya | farsan
+Avial | aviyal | kootu | poriyal | thoran | olan | erissery | pulissery | kalan | moru curry | molagootal | pachadi
+Chai | masala chai | cutting chai | kadak chai | adrak chai | ginger chai | irani chai | kashmiri chai | kahwa | kehwa | karak chai | tea indian
+Filter coffee | filter kaapi | kaapi | south indian filter coffee | madras filter coffee | degree coffee
+Pasembur | indian rojak | mamak rojak | mee goreng mamak
+Banana leaf rice | nasi daun pisang | banana leaf meal | south indian banana leaf rice
+Kori Rotti | kori roti | kori gassi | kori sukka
+Sanna | idli sanna | goan sanna
+Sorpotel | sarapatel | goan sorpotel | goan sausage | choris pao | choris pav
+Xacuti | chicken xacuti | goan xacuti | cafreal | chicken cafreal | caldeirada | caldine | balchao | recheado | ambot tik | xec xec
+Eggs Kejriwal | egg kejriwal | kejriwal
+Bun maska | maska pav | bun maska chai | pav maska
+Bombay sandwich | mumbai sandwich | masala toast | veg grilled sandwich | chutney sandwich | cheese chilli toast
+Tandoori naan | kashmiri naan | amritsari kulcha | kulcha | aloo kulcha | paneer kulcha | onion kulcha
+Thandai | nimbu pani | shikanji | jal jeera | jaljeera | aam panna | kokum sharbat | sol kadhi | rooh afza | sharbat | badam milk | haldi doodh | bhang lassi
+Falooda | kulfi falooda | rabri falooda | faluda
+Nankhatai | nan khatai | naan khatai | osmania biscuit | karachi biscuit | khari | khari biscuit
+Veg puff | egg puff | chicken puff | paneer puff | patties | veg patties | egg patties
+Jhalmuri | jhal muri | muri | murmura chaat | churmuri | girmit | mandakki
+Hara bhara kebab | veg kebab | veg cutlet | aloo cutlet | malai chicken | hariyali tikka
+Roti | rotis | roomali roti | rumali roti | tandoori roti | missi roti | bajra roti | jowar roti | makki roti | bhakri
+Tikka | chicken tikka | murgh tikka | tikka chicken
+Vada | medu vada | ulundu vada | wada
+Puttu
+Haleem | hyderabadi haleem | harees | hareesa
+Nihari | nalli nihari | gosht nihari | beef nihari | mutton nihari | paya | siri paya
+Egg curry | anda curry | egg masala
+Fish curry | goan fish curry | kerala fish curry | meen curry | meen kulambu | fish molee | macher jhol | machli curry
+Prawn curry | prawn masala | prawn malai curry | chingri malai curry
+Thepla | methi thepla | masala thepla | dudhi thepla
+Sev | bhujia | namkeen
+Lemon rice | chitranna | nimbu chawal
+Bhaji | onion bhajis | onion bhajee | bhajee | bhajees
+Puttu | kadala curry | puttu kadala

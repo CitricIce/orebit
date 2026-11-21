@@ -1,0 +1,52 @@
+earthquake
+tornado
+hurricane
+flood
+tsunami
+volcano
+volcanic eruption
+wildfire
+forest fire
+drought
+blizzard
+avalanche
+landslide
+mudslide
+lightning
+heat wave
+hailstorm
+hail
+typhoon
+cyclone
+famine
+plague
+pandemic
+epidemic
+sandstorm
+dust storm
+meteor
+asteroid
+monsoon
+sinkhole
+thunderstorm
+tidal wave => Tsunami
+twister => Tornado
+bushfire
+flash flood
+ice storm
+storm
+snowstorm
+tornadoe => Tornado
+earthquack => Earthquake
+tsumani => Tsunami
+huricane => Hurricane
+avalance => Avalanche
+volcanoes
+cold snap
+locusts
+solar flare
+waterspout
+blackout
+derecho
+lava
+famin => Famine

@@ -1,0 +1,132 @@
+--- 2
+Pancakes | pancake | flapjacks | buttermilk pancakes | blueberry pancakes | griddle cakes
+Waffles | waffle | belgian waffle | belgian waffles | chicken and waffles
+Eggs | egg | fried egg | fried eggs | boiled egg | boiled eggs | hard boiled egg | soft boiled egg | poached egg | sunny side up | over easy
+Scrambled eggs | scrambled egg | scrambled
+Omelette | omelet | omelettes | omelets | cheese omelette | western omelette | denver omelette
+Toast | buttered toast | toast and jam | peanut butter toast | cinnamon toast | jam on toast
+Cereal | cereals | breakfast cereal | cold cereal | bowl of cereal
+Oatmeal | porridge | oats | rolled oats | steel cut oats | instant oatmeal | quaker oats
+Bacon | bacon strips | crispy bacon | streaky bacon | back bacon | canadian bacon | bacon and eggs
+Sausage | sausages | breakfast sausage | sausage links | sausage patty | sausage patties | bangers
+French toast | eggy bread | cinnamon french toast | french toast sticks
+Hash browns | hash brown | hashbrowns | hashbrown | breakfast potatoes | home fries | homefries | potato hash
+Bagel | bagels | bagel and cream cheese | everything bagel | bagel and lox | breakfast bagel
+Muffin | muffins | blueberry muffin | banana muffin | chocolate chip muffin | bran muffin | corn muffin
+Croissant | croissants | butter croissant | almond croissant | chocolate croissant
+Yogurt | yoghurt | greek yogurt | yogurt parfait | yoghurts | yogurts | parfait | skyr
+Granola | granola bar | granola bars | cereal bar | granola and yogurt
+Doughnut | doughnuts | donut | donuts | glazed donut | jelly donut | boston cream | donut holes | munchkins
+Pop-Tarts | pop tarts | pop tart | poptart | poptarts | toaster pastry | toaster strudel
+Cinnamon roll | cinnamon rolls | cinnamon bun | cinnamon buns | sticky bun | sticky buns | cinnabon
+Breakfast sandwich | egg sandwich | egg mcmuffin | mcmuffin | bacon egg and cheese | bacon egg cheese | sausage egg and cheese | bacon sandwich | sausage sandwich | sausage biscuit | egg and cheese sandwich
+Baked beans | beans on toast | beans and toast
+Biscuits and gravy | biscuits & gravy | biscuit and gravy | sausage gravy | country gravy | biscuit | biscuits | buttermilk biscuits
+Fruit salad | fruit bowl | fresh fruit | fruit cup | mixed fruit | fruit platter | melon | fruit
+Banana | bananas | berries | strawberries | blueberries | grapefruit | cantaloupe | orange | oranges
+--- 3
+Eggs Benedict | eggs benny | egg benedict | eggs florentine | eggs royale
+English muffin | english muffins
+Full English | full english breakfast | english breakfast | fry up | fry-up | full breakfast | full irish | irish breakfast | ulster fry | full scottish | cooked breakfast | big breakfast | continental breakfast
+Breakfast burrito | breakfast burritos | breakfast taco | breakfast tacos | breakfast wrap | egg burrito | breakfast quesadilla
+Cheerios | honey nut cheerios | cheerio | multigrain cheerios | frosted cheerios
+Corn flakes | cornflakes | kelloggs corn flakes | kellogg's corn flakes | cornflake
+Cinnamon Toast Crunch | cinnamon toast crunch cereal
+Cap'n Crunch | captain crunch | cap n crunch | crunch berries | capn crunch
+Cocoa Puffs | cocoa puff | cocoa pebbles | cocoa krispies | cocoa rice krispies
+Fruity Pebbles | fruity pebbles cereal
+Apple Jacks | apple jack
+Trix | trix cereal
+Golden Grahams | golden graham
+Honey Nut Chex | chex | rice chex | corn chex
+Special K | special k cereal
+Raisin Bran | raisin bran cereal | bran flakes | all bran | all-bran | bran cereal
+Grape-Nuts | grape nuts | grapenuts
+Honey Bunches of Oats | honey bunches
+Frosted Mini-Wheats | frosted mini wheats | mini wheats | mini-wheats
+Wheaties | wheaties cereal
+Kix | kix cereal
+Cookie Crisp | cookie crisp cereal
+Honeycomb | honey comb | honeycomb cereal
+Cream of Wheat | farina | cream of rice | malt-o-meal | malt o meal
+Coco Pops | coco pop | cocopops | choco pops
+Frosties | tony the tiger
+Shreddies | frosted shreddies
+Ready Brek | readybrek | ready-brek
+Crunchy Nut | crunchy nut cornflakes
+Alpen | alpen muesli
+Crumpet | crumpets | pikelet | pikelets | buttered crumpet | toasted crumpet
+Scone | scones | fruit scone | cheese scone | scones and jam | drop scone | drop scones | scotch pancake | scotch pancakes
+Muesli | musli | swiss muesli | bircher | museli
+Pain au chocolat | pains au chocolat | chocolatine | pain au raisin | brioche | brioche toast
+Danish | danish pastry | cheese danish | fruit danish | pastry | pastries | breakfast pastry
+Crêpes | crepes | crepe | crêpe | french crepes | nutella crepes | blini | blinis | blintz | blintzes | pannekoek | dutch pancakes | german pancakes
+Kippers | kipper | smoked haddock | finnan haddie | smoked mackerel | smoked salmon | lox | kippers and eggs
+Black pudding | blood pudding | white pudding | fried bread | fried tomatoes | grilled tomatoes | tomatoes | mushrooms | fried mushrooms | haggis
+Smoothie | smoothies | smoothie bowl | breakfast smoothie | protein shake
+Acai bowl | açaí bowl | acai | açaí | pitaya bowl | granola bowl | yogurt bowl
+Avocado toast | avo toast | avocado on toast | smashed avocado | smashed avo | avocado and egg toast
+Orange juice | oj | apple juice | juice
+Coffee | tea | milk | hot chocolate
+Soda bread | soda farl | potato bread | potato farl | tattie scone | tattie scones | potato scone
+Rösti | rosti | potato cakes | tater tots
+Cottage cheese | cottage cheese and fruit | ricotta toast
+Sourdough toast | rye toast | whole wheat toast | wholemeal toast | raisin toast | cinnamon raisin toast | cinnamon raisin bagel
+Banana bread | zucchini bread | pumpkin bread | cranberry bread | lemon poppy seed bread | breakfast bread
+Hot cross bun | hot cross buns | teacake | toasted teacake | tea cake | malt loaf
+Breakfast casserole | egg casserole | sausage casserole | breakfast strata | strata | egg bake | hashbrown casserole
+Breakfast pizza | egg pizza | breakfast pie | bacon and egg pie
+Frittata | frittatas | veggie frittata | egg muffins | egg bites | egg cups | egg white omelette | egg whites
+Egg in a hole | egg in the hole | toad in the hole | egg in a basket | toad in a hole | one eyed jack | one-eyed jack
+Dippy egg | dippy eggs | eggs and soldiers | boiled egg and soldiers | egg and soldiers
+Corned beef hash | hash | beef hash | red flannel hash | hash and eggs
+Spam and eggs | spam | spam musubi | loco moco
+--- 4
+Bubble and squeak | bubble & squeak | bubble n squeak | colcannon | champ | rumbledethumps | stovies
+Chilaquiles | chilaquiles rojos | chilaquiles verdes | migas | huevos divorciados | huevos a la mexicana | huevos con chorizo
+Huevos rancheros | huevos | ranchero eggs | mexican eggs
+Shakshuka | shakshouka | chakchouka | eggs in tomato and pepper sauce
+Eggs in purgatory | eggs in tomato sauce | uova in purgatorio
+Menemen | turkish scrambled eggs | turkish eggs | cilbir | çılbır | turkish breakfast
+Tamagoyaki | tamago yaki | japanese omelette | rolled omelette | tamago | dashimaki tamago
+Natto | nattō | natto rice | natto toast
+Miso soup | miso | japanese breakfast | grilled salmon breakfast | shiozake | tsukemono
+Congee | rice porridge | jook | juk | okayu | lugaw | arroz caldo | champorado | bubur ayam
+Dosa | dosai | masala dosa | plain dosa | rava dosa | uttapam | uttapa | adai | pesarattu | neer dosa
+Idli | idlis | idly | idli sambar | sambar idli | medu vada | vada
+Upma | uppittu | uppuma | rava upma | semolina upma | vermicelli upma
+Poha | pohe | aval | kanda poha | batata poha | indori poha | flattened rice | sabudana khichdi | misal pav | thalipeeth
+Paratha | parathas | aloo paratha | gobi paratha | paneer paratha | methi paratha | lachha paratha | stuffed paratha | egg paratha
+Puri bhaji | poori bhaji | puri sabzi | chole bhature | chole bhatura | halwa puri | aloo puri | kachori | luchi | kulcha
+Pongal | ven pongal | khara pongal | bisi bele bath | lemon rice | curd rice
+Appam | hoppers | egg hoppers | string hoppers | idiyappam | puttu
+Kheer | rice pudding | arroz con leche | arroz doce | semolina pudding | suji halwa | halwa | sheera
+Johnnycake | johnny cake | johnnycakes | journey cake | hoecake | hoe cake | cornmeal pancakes | corn cakes | corn cake | cornbread
+Quiche | quiches | quiche lorraine | crustless quiche | mini quiche | egg tart
+Chia pudding | chia seed pudding | chia bowl | chia parfait
+Overnight oats | overnight oatmeal | baked oatmeal | baked oats | oatmeal bowl | oat parfait
+Eggo | eggos | frozen waffles | toaster waffles | frozen pancakes
+Weetabix | wheat biscuits | weetabix biscuits | weetabix minis | weetabix bitesize
+Shredded Wheat | shredded wheat cereal | shredded wheat bites | frosted shredded wheat | weetos | weet-bix | weetbix
+Rice Krispies | rice krispie | rice krispies cereal | snap crackle pop | rice bubbles | puffed rice | puffed wheat
+Frosted Flakes | frosted flakes cereal | sugar frosted flakes | frosted flake
+Lucky Charms | lucky charm | lucky charms cereal | marshmallow cereal
+Dutch baby | dutch baby pancake | oven pancake | puffed pancake
+Kaya toast | kaya toast set | kopitiam breakfast | kaya | roti kaya | soft boiled eggs and kaya
+Nasi lemak | nasi lemak breakfast
+Roti canai | roti prata | prata | roti | roti telur | roti john
+Dim sum | har gow | siu mai | char siu bao | steamed buns | baozi | bao | youtiao | chinese donut | chinese crullers | soy milk and youtiao | douzhi | doujiang | jianbing | zongzi | cheung fun | rice rolls
+--- 5
+Kedgeree | kedgeree rice | smoked haddock kedgeree | khichri | khichdi
+Bircher muesli | bircher museli | birchermuesli | apple bircher
+Scrapple | goetta | pon haus | livermush | fried scrapple
+Steak and eggs | steak & eggs | steak and egg | chicken fried steak and eggs | country fried steak
+Ham and eggs | ham and egg | ham & eggs | ham steak and eggs | gammon and egg
+Bear claw | bear claws | cheese bear claw | almond bear claw
+Fruit Loops | froot loops | fruit loop | froot loop | fruitloops | frootloops | toucan sam
+Bacon roll | bacon butty | bacon buttie | bacon bap | bacon sarnie | bacon cob
+Beignets | beignet | zeppole
+Churros | churro | churros and chocolate
+Ful medames | foul | fuul | ful | foul medames
+Ham and eggs | ham and egg | ham steak and eggs | gammon and egg
+Steak and eggs | steak & eggs | steak and egg

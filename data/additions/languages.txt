@@ -1,0 +1,179 @@
+# languages additions: more tongues, native names, typos.
+--- 2
+English | englsh | engish | inglish | enlgish | britsh english | american english | british english
+Spanish | espanol | español | castilian | spansh | spainish | spannish | spanich | castellano
+French | francais | français | frence | frnch | frensh | frech
+German | deutsch | germn | gerrman | jerman | germon
+Chinese | putonghua | mandarin chinese | chinease | chineese | chinse | chines | simplified chinese | traditional chinese
+Cantonese | cantonease | catonese | cantoneese | cantonise | yue chinese | yue
+Italian | italiano | italain | itailian | italin | italien
+Japanese | nihongo | japaneese | japnese | japanse | japaense | japenese
+Russian | russkiy | russian language | rusian | rusion | russain | russin
+Arabic | arabik | arabick | arbic | arabc | aribic
+Portuguese | portugese | portuguse | portugeuse | portugues | português | portugeese | portuguese brazilian
+Hindi | hindee | hindhi | hendi | hindu language
+Korean | korian | koren | korian language | hangul | hangeul
+Greek | greeck | grek | ellinika | greke
+Dutch | nederlands | duch | dutsh | duthc
+Latin | latn | latín | lating | latine
+Hebrew | ivrit | hebrue | hebrw | hebrew language | hebru
+Sign language | asl | bsl | american sign language | british sign language | auslan | sign | signing | sign languge
+Esperanto | esperantoo | esparanto | esperento | esprenato
+Swedish | svenska | swedsh | swedis | swedich
+Polish | polski | polsh | poilsh | polich
+Turkish | türkçe | turkce | turksh | turkich | turkis
+Persian | farsi | parsi | persean | persan | persion
+Ukrainian | ukrainan | ukranian | ukrainain | ukraninan | ukrainien
+--- 3
+Swahili | kiswahili | swahilli | swahilii | swhaili | swahli | kiswahili language
+Czech | cesky | česky | čeština | cech | chech | czeck
+Urdu | urdoo | urdu language | urduu
+Danish | dansk | danhish | danich | danis
+Romanian | română | romana | roumanian | rumanian | romainian | romainan | romaniann
+Hungarian | magyar | hungarain | hungrian | hungerian | hungarien
+Bengali | bangla | bengalli | bengai | bangali | bengli | bengalee
+Croatian | hrvatski | croation | croatain | cratian | croatien | croatan
+Norwegian | norsk | norwegen | norweigian | norwegain | norwgian | norwegion
+Afrikaans | afrikans | afrikaan | afrikanns | afrikaners | afrikanse
+Bulgarian | bulgarski | bulgerian | bulgarien | bulgaran | bulgarain
+Irish | gaeilge | irish gaelic | irsh | iirish
+Indonesian | bahasa indonesia | bahasa | indonesion | indonesan | indonesain
+Icelandic | íslenska | islenska | icelandik | iceland | iclandic | icelandc
+Tamil | tamul | tammil | tamill | thamizh | tamizh
+Thai | siamese | thay | thi | thaiy | thai language
+Vietnamese | tiếng việt | vietnames | vietnamse | vietnamease | vietnameese | vietnamies
+Welsh | cymraeg | welch | welsch | walsh | welshh | welsg
+Malay | bahasa melayu | malaay | malai | malay language
+Yiddish | yidish | yiddsh | yiddich | yidddish
+Punjabi | panjabi | punjabbi | punjabee | panjaabi | punjubi
+Scottish Gaelic | scots gaelic | gàidhlig | gaidhlig | scotish gaelic | scotts gaelic | scottish gaelick
+Tagalog | filipino | pilipino | tagolog | tagalong | tagaloug | tagolog language
+Zulu | isizulu | zulu language | zuluu | zolu
+Maori | te reo | te reo maori | māori | maaori | mauri | maroi
+Hawaiian | olelo hawaii | ʻōlelo hawaiʻi | hawian | hawaian | hawaiin | hawiian
+Finnish | suomi | finish | finnsh | finnis | finnich | finnnish
+Serbian | srpski | serbain | serbien | serbion | serban
+Sanskrit | sanskrut | sanscrit | sanksrit | sansrit | samskrita | sanscript
+Catalan | català | catala | catalon | catalane | catalian
+Flemish | vlaams | flemmish | flemmish | flemmeish
+Aramaic | aramaik | aramic | aramiac | arameic | aramaic language
+Ancient Greek | classical greek | old greek | attic greek | koine greek | koine | anciet greek
+Klingon | tlhingan hol | klinon | klingone | klingen
+Hindustani | hindustan
+Kurdish | kurmanji | sorani | kurdi | kurdis | kurdsh | kurdich
+--- 4
+Azerbaijani | azeri | azerbaijan | azerbaijanian | azerbajani | azerbaijanni
+Estonian | eesti | estonain | estonien | estonan | estonien language
+Belarusian | belarussian | byelorussian | belorussian | belarusan | belerusian | belarusain
+Lithuanian | lietuvių | lithuaian | lithuanien | lithuanan | lithunian | lithuainian
+Slovak | slovenský | slovakian | slovack | slovakk | slovakish
+Armenian | hayeren | armanian | armenien | armenan | armeanian | armeninan
+Albanian | shqip | albanien | albanain | albaninan | albanan
+Basque | euskara | euskera | basq | basqe | basc
+Georgian | kartuli | georgain | georgien | georgean | geogian
+Latvian | latviešu | latvain | latvien | latvan | latvia language
+Slovenian | slovene | slovenščina | slovenien | slovanian | slovenan | slovenain
+Bosnian | bosanski | bosnien | bosnain | bosnan | bosnian language
+Montenegrin | crnogorski | montenegran | montenegrian | montenegrain
+Kazakh | kazak | kazakhstani | kazahk | kazach | kazkah
+Occitan | provençal | provencal | langue d'oc | occitain | occitian | occitane
+Macedonian | makedonski | macedonien | macedonan | macedoinan | macedonain
+Pashto | pushto | pashtu | pashtoo | pushtu | pukhto
+Maltese | malti | maltes | malteese | maltease | maltesse
+Galician | galego | gallego | galacian | galicien | galitian
+Uzbek | uzbec | ozbek | uzbeck | uzbeg | uzbak
+Telugu | telgu | telegu | telugoo | telagu | telegoo
+Mongolian | khalkha | mongolain | mongolien | mongolan | monglian
+Nepali | nepalese | nepalli | nepalee | nepale | nepalise
+Luxembourgish | luxembourgian | letzeburgesch | lëtzebuergesch | luxemburgish | luxemborgish | luxembourgian language
+Breton | brezhoneg | bretton | bretonne | breten | brettish
+Kannada | kanada | kannadaa | kanarese | kannad | kannda
+Marathi | maratha | maraathi | marati | marathee | marathy
+Faroese | føroyskt | faeroese | faroeese | farose | faroes language
+Amharic | amharik | amarinya | amharric | amhric | amarik
+Malayalam | malayalem | malayalm | malyalam | malayalam language | malayallam
+Burmese | myanmar | myanmar language | bermese | burmeese | burmise
+Javanese | basa jawa | javanease | javaneese | javenese | jawa
+Quechua | quichua | runasimi | kechua | quecha | quetchua
+Gujarati | gujerati | gujrati | gujaratee | gujarathi | gujarti
+Khmer | cambodian | kmer | khmere | khemer | khemr
+Hausa | hausaa | housa | haoussa | hausah
+Tibetan | tibetian | tibeten | tibettan | tibitan | tibetain
+Cornish | kernewek | cornsh | cornich | cornis
+Somali | soomaali | somalian | somallie | somaly | somaili
+Romani | romany | romanes | romaní | gypsy language
+Hmong | hmong language | mong | hmoob | hmongg
+Hokkien | taiwanese | min nan | minnan | hokkian | hokien | hoklo
+Shanghainese | shanghai dialect | shanghaiese | shangainese | shanghaiian
+Teochew | chaozhou | teochiu | chaozhou dialect
+Twi | asante twi | akan twi | tui
+Ndebele | isindebele | ndbele | ndebel
+Nahuatl | aztec | náhuatl | nauatl | nahutl | nahuatle
+Mayan | maya | mayan language | yucatec | yucatec maya | mayen
+Lakota | lakota sioux | sioux | lakotah | lakoda
+Apache | apachee | apatche | apache language
+Hopi | hopi language | hopie
+Mohawk | mohawk language | mohawke | kanien'kéha
+Haitian Creole | kreyol | creole | kreyòl ayisyen | haitian | haitan creole | haitian kreyol
+Louisiana French | cajun french | cajan | louisianan french | acadian
+Québécois | quebecois | quebec french | canadian french | québécois french | quebecoise | french canadian
+Ladino | judeo-spanish | judeo spanish | ladino language | djudeo-espanyol | ladeno
+Swiss German | schwyzerdütsch | schwiizertüütsch | swiss-german | schwyzerdutsch | swiss deutsch
+Plattdeutsch | platt | plattdutsch | plattdeutch
+Limburgish | limburgs | limburgian | limburgisch | limburger language
+Old Norse | norse | old norwegian | norrœnt | old icelandic | norse language | norce
+Middle English | chaucerian english | chaucer english | midle english | middle inglish
+Gothic | gothic language | gothic germanic | gotic
+Coptic | coptic egyptian | coptik | koptic | copitc
+Sumerian | sumeria | sumarian | sumerean | sumerian language
+Akkadian | akadian | akkadan | akkadien | assyrian | babylonian
+Ancient Egyptian | egyptian | hieroglyphics | hieroglyphs | old egyptian | middle egyptian | egyptain
+Etruscan | etruscian | etruscen | etrucan | etruscaan
+Phoenician | phonecian | phoenecian | pheonician | phoenican | punic
+Hittite | hitite | hittitte | hittie | hittit
+Pali | pāli | paali | palli | pali language
+Prakrit | prakrut | pracrit | prakit | prakrit language
+Interlingua | interlinqua | interlinga | interlingua language | interlingue
+Ido | ido language | idoo
+Volapük | volapuk | volapook | volapuc | volapuk language
+Lojban | lojbn | lojban language | loglan
+Berber | amazigh | tamazight | berbere | berbar | bearber
+Nubian | nubian language | nobiin | nubien | nubien language
+Dinka | dinka language | jieng | dinkaa | dinca
+Nuer | nuer language | naath | nuerr
+Luo | dholuo | luo language | luoh
+Kamba | kikamba | kamba language | kambaa
+Kalenjin | kalenjin language | kalenjinn | kalenjn
+Bemba | chibemba | bemba language | bembaa | bembah
+Tumbuka | chitumbuka | tumbuka language | tumbucka
+Mandinka | mandingo | mandingo language | mandika | mandinga | malinke
+Songhai | songhay | songhoy | songhai language | sonrai
+Sepedi | pedi | northern sotho language | sepdi | sepedi language
+Syriac | classical syriac | surayt | syrian | syriak | surit
+Tigre | tigre language | tigrai
+Valencian | valencià | valenciano | valencian language | valenciane
+Latgalian | latgalian language | latgalian latvian
+--- 5
+Yi | nuosu | sichuan yi | yi language | nosu
+Shan | tai yai | shan language | shann | shan burmese
+Karen | kayin | sgaw karen | karen language | karren | s'gaw
+Cham | cham language | chamic | chamm
+Fante | fanti | fante language | fantee | fanté
+Zapotec | zapoteco | zapotek | zapotc | zapotecan
+Mixtec | mixteco | mixtek | mixtc | mixtecan
+Tupi | tupi language | tupian | tupí | tupi guarani | tupi-guarani
+Haida | haida language | haidah | xaad kil | haida gwaii
+Blackfoot | siksika | blackfeet | blackfoot language | blackfoot confederacy | niitsipowahsin
+Comanche | numunuu | comanche language | commanche | comnche
+Dakota | dakota sioux | dakota language | dakotan | lakhota dakota
+Kikongo | kikongo language | kituba | kikongo-kituba | kicongo | kikongo congo
+Dothraki | dothraki language | dothrakii | dothrackey | dothrakki
+Na'vi | navi | na vi | navi language | avatar language | nâvi
+Quenya | high elvish | quenya elvish | kwenya | quenyan
+Sindarin | grey elvish | sindarin elvish | sindarian | sidarin
+Norn | norn language | norn orkney | norn shetland | norne
+Proto-Indo-European | pie | proto indo european | indo-european | pie language | proto indo-european
+Levantine Arabic | shami | levantine | syrian arabic | lebanese arabic | palestinian arabic | shami arabic
+Moroccan Arabic | darija | moroccan | maghrebi arabic | moroccan darija | darrija
+Nigerian Pidgin | pidgin | naija pidgin | pidgin english | broken english | nigerian pidgin english | pidgin language
+Gascon | gascon language | gascogne | gascoun | gasqon

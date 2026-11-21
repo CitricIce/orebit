@@ -1,0 +1,60 @@
+english
+spanish
+french
+german
+italian
+chinese
+mandarin => Chinese
+japanese
+korean
+russian
+arabic
+portuguese
+hindi
+urdu
+bengali
+dutch
+swedish
+norwegian
+danish
+finnish
+greek
+latin
+hebrew
+turkish
+polish
+czech
+swahili
+farsi => Persian
+persian
+thai
+vietnamese
+tagalog
+filipino => Tagalog
+cantonese
+esperanto
+klingon
+sanskrit
+gaelic => Irish
+irish
+welsh
+scottish gaelic
+sign language
+asl => Sign language
+ukrainian
+hungarian
+romanian
+croatian
+serbian
+afrikaans
+zulu
+xhosa
+yoruba
+maori
+navajo
+cherokee
+quechua
+nahuatl
+yiddish
+spansh => Spanish
+portugese => Portuguese

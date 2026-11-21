@@ -1,0 +1,40 @@
+# americas-countries additions: alternate names and typos.
+--- 2
+United States | united states of america | the united states | the us | u.s. | u.s.a. | the states | murica | united staes | untied states | usa
+Canada | canda | cananda | canadaa | cnada
+Mexico | mexio | mexcio | méxico | mexiko | mexcico
+Brazil | brasil | brazill | brazl | brazi
+Argentina | argentia | argentna | argentinia | argantina
+Cuba | cuban | kuba
+Chile | chilli | chille | chle
+Colombia | columbia | colombai | colomia | colombea
+Venezuela | venezuala | venzuela | venezeula | venezuella | venzuala
+Jamaica | jamacia | jamaca | jamiaca | jamica | jammaica
+Peru | peruu | perú | pero
+Panama | panma | panamá | pananma
+Haiti | haitii | hati | hayti | haïti
+--- 3
+Uruguay | uruguary | urugay | uraguay | uruguai | uruguy
+Ecuador | equador | ecuadore | ecuadorr | ecuadro
+Guatemala | guatamala | guatemalla | guatemela | guatemla
+Honduras | hondorus | hondurass | hondoras | honduros
+Bolivia | bolvia | bolivea | boliva | bolivía
+Bahamas | bahama | the bahamas | bahammas | bahamass | commonwealth of the bahamas
+Nicaragua | nicuragua | nicaraugua | nicargua | nicaraqua | nicarauga
+Paraguay | paraguai | paraguary | paragauy | paraguy
+Costa Rica | costarica | costa ricca | costa rico | cosa rica | costa rcia
+El Salvador | elsalvador | salvador | el salvadore | el slavador | el salvadore
+Dominican Republic | dominican rep | dom rep | dr | dominicana | republica dominicana | dominican republick
+Trinidad and Tobago | trinidad | trinidad & tobago | trinidad tobago | tobago | trinadad | trinidad and tobaggo | t&t
+--- 4
+Barbados | barbadoes | barbadious | barbadoss | barbadus
+Guyana | british guiana | guyanna | guyna | guayana
+Belize | british honduras | belise | belice | belzie
+Suriname | surinam | surniame | suriman | surinamee | dutch guiana
+Saint Vincent and the Grenadines | st vincent | saint vincent | st vincent and the grenadines | svg | st. vincent
+Saint Lucia | st lucia | st. lucia | saint luciaa
+Antigua and Barbuda | antigua | antigua & barbuda | antigua barbuda | barbuda | antiqua
+Grenada | grenadda | granada | grenda
+Dominica | dominca | dominicia | commonwealth of dominica
+Saint Kitts and Nevis | st kitts | saint kitts | st kitts and nevis | st christopher | nevis | st kitts & nevis | st. kitts
+--- 5

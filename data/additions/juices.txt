@@ -1,0 +1,183 @@
+--- 2
+Water | tap water | h2o | bottled water | cold water | agua
+Coffee | black coffee | drip coffee | joe | cup of coffee | brewed coffee | coffe
+Tea | hot tea | cuppa | black tea | cup of tea
+Milk | whole milk | skim milk | 2% milk | skimmed milk | cow's milk | semi-skimmed milk
+Orange juice | oj | orange | oranje juice | orange juices
+Apple juice | apple
+Soda | pop | soft drink | fizzy drink | soda pop | fizzy drinks | sodas | soft drinks | carbonated drink
+Cola | coke | coca cola | coca-cola
+Sprite | 7up | seven up | lemon lime soda | lemon-lime soda | sierra mist
+Lemonade | pink lemonade | lemon juice | homemade lemonade
+Hot chocolate | hot cocoa | cocoa | hot choc | hot chocolat | drinking chocolate
+Sparkling water | seltzer | club soda | soda water | fizzy water | carbonated water | perrier | la croix | lacroix | topo chico | sparkling mineral water
+Gatorade | powerade
+Red Bull | monster | monster energy | rockstar | celsius | bang energy | prime
+Dr Pepper | dr. pepper | doctor pepper | mr pibb
+Fanta | orange soda | orange fanta | crush | sunkist | orange pop
+Mountain Dew | mtn dew | dew | code red
+Capri Sun | capri-sun
+Latte | caffe latte | cafe latte | iced latte
+Cappuccino | capuccino | cappucino | capucino
+Smoothie | smoothies | fruit smoothie | protein shake | green smoothie
+Milkshake | milk shake | shake | malt | thick shake
+--- 3
+Cranberry juice | cranberry | ocean spray
+Tomato juice | v8 | v-8 | clamato
+Pomegranate juice | pomegranate | pom
+Prune juice | prune
+Pear juice | pear nectar
+Peach nectar | peach juice | apricot nectar | nectar
+Cherry juice | tart cherry juice | cherry
+Lime juice | limeade juice | lime
+Watermelon juice | watermelon
+Celery juice | celery
+Beet juice | beetroot juice
+Green juice | juice cleanse | wheatgrass | wheatgrass juice | cold pressed juice | pressed juice
+Vegetable juice | veggie juice
+Fruit juice | juice | juices | mixed juice | multivitamin juice | tropical juice | multifruit
+Lemon-lime | lemon lime
+Root beer | rootbeer | a&w | barqs | barq's | mug root beer | a and w
+Cream soda | creme soda | crème soda
+Ginger ale | canada dry | ginger-ale
+Ginger beer | gingerbeer
+Tonic water | tonic | schweppes | indian tonic
+Grape soda | grape fanta | grape crush
+Iced tea | ice tea | iced teas | lipton iced tea | nestea | peach iced tea | lemon iced tea
+Sweet tea | southern sweet tea | sweet iced tea
+Green tea | greentea | matcha tea | sencha | jasmine tea | jasmine green tea
+Chamomile tea | chamomile | camomile | camomile tea
+Peppermint tea | mint tea | peppermint | spearmint tea
+Herbal tea | herbal tea | herbal infusion | fruit tea | tisane | rooibos tea | lemon tea | ginger tea | honey lemon tea
+Oolong tea | oolong | white tea | pu-erh | puer | pu erh
+Mocha | cafe mocha | caffe mocha | mochaccino
+Macchiato | caramel macchiato | espresso macchiato
+Espresso | double espresso | doppio | ristretto | lungo | shot of espresso | expresso
+Americano | caffe americano | long black
+Flat white | flatwhite
+Cold brew | cold brew coffee | nitro cold brew | nitro coffee
+Iced coffee | ice coffee | iced americano | iced coffee drink
+Decaf | decaf coffee | decaffeinated coffee
+Frappe | frappé | starbucks frappuccino
+Chai | chai tea | chai latte | tea latte
+Hot toddy | toddy non alcoholic
+Coconut water | coconut juice | vita coco | tender coconut water
+Almond milk | almond | almond breeze
+Oat milk | oatly | oat drink
+Soy milk | soya milk | soymilk | soy drink
+Chocolate milk | choccy milk | choc milk | chocolate milk drink | nesquik
+Strawberry milk | strawberry milkshake | pink milk
+Banana milk | banana milkshake
+Buttermilk | butter milk | chaas | chaach
+Goat milk | goat's milk
+Eggnog | egg nog | non alcoholic eggnog
+Apple cider | cider non alcoholic | sweet cider | sparkling cider | martinelli's | sparkling apple cider
+Hot apple cider | mulled cider | warm cider | mulled apple juice | wassail
+Mulled wine non alcoholic | mulled juice
+Shirley Temple | shirly temple | shirley temples
+Roy Rogers | roy rogers drink
+Arnold Palmer | half and half | half tea half lemonade
+Virgin Mary | virgin bloody mary | virgin pina colada | virgin colada | virgin daiquiri | virgin margarita
+Punch | hi-c | hi c | hawaiian
+Kool-Aid | kool aid | koolaid | kool-aid drink
+Tang | tang orange drink
+Sunny D | sunny delight | sunnyd | sunny-d
+Snapple | arizona | arizona iced tea
+Vitaminwater | vitamin water
+Slushie | slushy | slush | slurpee | icee | frozen drink | frozen slush
+Juice box | juice boxes
+Bubble tea | boba | boba tea | pearl milk tea | tapioca tea | milk tea | bubble milk tea
+Sports drink | electrolyte drink | electrolytes | pedialyte
+Energy drink | energy drinks
+Mineral water | evian | fiji | fiji water | dasani | aquafina | smartwater | poland spring | san pellegrino | pellegrino | volvic | spring water | still water | flavoured water | flavored water | alkaline water
+Mocktail | mocktails | virgin cocktail | nojito | non alcoholic cocktail
+Lassi | mango lassi | sweet lassi | salted lassi
+Kombucha | booch
+Milo | milo drink
+--- 4
+Orangina | orangina drink
+Irn-Bru | irn bru | irn-brew | irn brew
+Lucozade | lucozade energy
+Tango | tango orange
+Ribena | ribena blackcurrant | blackcurrant squash | blackcurrant juice | blackcurrant
+Squash | cordial | orange squash | lemon squash | robinsons | diluting juice | barley squash | fruit squash
+Barley water | robinsons barley water
+Lemon barley water | lemon barley
+Lime cordial | rose's lime | roses lime | lime cordial
+Fresca | squirt | citrus soda | grapefruit soda | ting | jarritos
+Cheerwine | moxie | faygo | dr brown's | dr browns | vernors | big red | cherry coke | vanilla coke
+Mello Yello | mellow yello
+Welch's | welchs | welch's grape juice
+Tropicana | minute maid | simply orange | florida's natural | simply lemonade
+Naked juice | odwalla | bolthouse | suja
+Lemon water | warm lemon water | lemon and honey water | honey lemon water | cucumber water | infused water | detox water
+Sparkling juice | sparkling grape juice | sparkling cider kids | kids champagne
+Passion fruit juice | passionfruit juice | maracuya | maracuyá
+Guava juice | guava nectar | guava drink
+Mango juice | mango nectar | mango drink | mangonada
+Pineapple juice | pineapple | pineapple drink
+Papaya juice | papaya | papaya drink
+Lychee juice | lychee drink | lychee
+Aloe vera drink | aloe vera juice | aloe drink | aloe
+Sugarcane juice | sugar cane juice | guarapo | garapa | caldo de cana | ganna juice | rasa
+Soursop juice | guanabana | graviola juice | guanabana juice
+Tamarind juice | tamarind drink | tamarindo | imli
+Agua fresca | aguas frescas | agua de jamaica | agua de sandia | agua de pina
+Jamaica | hibiscus drink | sorrel drink | karkade | karkadeh | bissap | zobo | roselle drink
+Horchata | horchata de arroz | rice horchata
+Atole | chocolate atole
+Tepache | pozol | pulque non alcoholic
+Chicha morada | purple corn drink | chicha | avena | api morado
+Mazamorra | api
+Batido | batidos | licuado | licuados
+Café de olla | cafe de olla | mexican coffee
+Dalgona coffee | whipped coffee | dalgona | whipped milk coffee
+Tereré | terere
+Guarana | guarana antarctica | guaraná
+Inca Kola | inca cola | incakola
+Cafe au lait | café au lait | coffee with milk | white coffee | milky coffee
+Cortado | gibraltar | piccolo | piccolo latte
+Cafe con leche | café con leche
+Turkish coffee | greek coffee | arabic coffee | cezve coffee | kahve | qahwa | arabic qahwa
+Cafe bombon | bombón | cafe cubano | cuban coffee | cafecito | cubano
+Affogato | affogato coffee
+Matcha latte | matcha | iced matcha | matcha drink | green tea latte | matcha milk
+London Fog | london fog latte | earl grey latte
+Hojicha | genmaicha | bancha | mugicha | barley tea | bori-cha | boricha | yuja tea | citron tea | omija tea
+Sikhye | sikhye drink | sujeonggwa | korean rice punch | korean cinnamon punch
+Calpis | calpico | pocari sweat | ramune | oronamin c | ito en | oi ocha
+Yakult | yogurt drink | drinking yogurt | actimel | danactive | probiotic drink
+Kefir | milk kefir | kefir drink
+Water kefir | tibicos | tibicos drink
+Ayran | dugh | doh
+Thandai | thandai drink | jaljeera | jal jeera | nimbu pani | shikanji | shikanjvi | sharbat | sherbet drink | rooh afza | rooh afzaa
+Falooda | faluda | rose milk | bandung | sirap bandung | rose syrup drink | badam milk
+Teh tarik | pulled tea | teh c | teh o | kopi o | kopi c | kopi peng | kopi tarik
+Thai iced tea | thai tea | cha yen | cha yen thai tea | thai milk tea
+Hong Kong milk tea | hk milk tea | yuenyeung | yuanyang | silk stocking milk tea | milk tea hong kong
+Vietnamese iced coffee | ca phe sua da | cafe sua da | vietnamese coffee | cà phê sữa đá | egg coffee
+Cendol | chendol | es cendol | es teler | es campur | es teh | es jeruk
+Soy bean milk | douzhijiang | soy milk hot | dou jiang | soybean milk
+Chrysanthemum tea | chrysanthemum | goji tea | jujube tea | ginseng tea | red date tea | winter melon tea | longan tea | luo han guo | grass jelly drink | herbal jelly drink | liang cha
+Salep | sahlep | sahlab | boza | bosa | şalgam | salgam | shalgam
+Rooibos | red bush tea | redbush | red tea | rooibos latte | red espresso
+Karak chai | karak | adeni chai | kashmiri chai | noon chai | kahwa | kehwa | kashmiri kahwa
+Golden milk | turmeric latte | haldi doodh | turmeric milk | turmeric tea
+Dirty chai | chai espresso
+Malted milk | malt drink | milo malt | bournvita | boost | complan | maltesers drink
+Bovril | oxo | marmite drink | beef tea | hot bovril | hot oxo | miso drink | bone broth drink | broth
+Egg cream | new york egg cream | ny egg cream | chocolate egg cream
+Italian soda | italian cream soda | cream italian soda | flavored soda
+Shrub | drinking vinegar | vinegar drink | apple cider vinegar drink | acv drink | kombucha jun
+Dandelion and burdock | dandelion burdock | d&b | dandelion & burdock | dandelion coffee | chicory coffee | postum | barley coffee | roasted barley | barley drink
+Vimto | vimto cordial | tizer | cresta | lilt | um bongo | kia-ora | kiaora | five alive | rubicon | rubicon mango | barr | barr cola
+Sarsaparilla | sasparilla | sarsparilla | sarsaparilla soda | sarsaparilla drink
+Cashew milk | macadamia milk | hazelnut milk | pistachio milk | peanut milk | walnut milk | flax milk | sesame milk | barley milk | tiger nut milk | tigernut milk | horchata de chufa | quinoa milk | milk alternative | plant milk | plant based milk | non dairy milk | nut milk | dairy free milk | vegan milk | lactose free milk | lactaid
+Jallab | jallab drink | tamar hindi | tamr hindi | carob juice | sous | erk sous | licorice drink | amardeen | qamar al-din | qamar al din | apricot leather drink | mamoul drink | rose water drink | orange blossom water | lemonade mint | limonana | mint lemonade | lemon mint
+Cucumber juice | cucumber drink | agua de pepino
+
+Cherry limeade | sonic limeade | strawberry limeade
+Pumpkin spice latte | psl | pumpkin latte | pumpkin spice
+Hot milk | warm milk | steamed milk | babyccino | hot milk with honey
+Tejuino | tepache de pina | tepache de piña
+Pepsi | pepsi cola | pepsi max

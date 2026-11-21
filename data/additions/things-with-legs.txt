@@ -1,0 +1,58 @@
+--- 2
+Human | kid | kids | child | children | baby | boy | girl | toddler
+Octopus | octopuses
+Stool | stools
+Rooster | hen | cockerel
+Bull | ox | cattle
+Pants | trousers | jeans | shorts
+Tights | stockings | leggings
+Puppy | puppies
+Kitten | kittens
+--- 3
+Ostrich | ostriches
+Stand | microphone stand | mic stand
+Baby Grand | upright piano
+Wheelchair | walking frame | crutches
+Ladder | step stool
+Lamp | floor lamp | standing lamp | table lamp
+Teddy Bear | teddy | stuffed animal | plush
+Scarecrow | straw man
+Gingerbread Man | gingerbread men
+Drumstick | chicken legs | chicken leg | turkey leg
+Frog Legs | frogs legs | frog's legs
+Grasshopper | grasshoppers | locust | locusts
+Crane | heron | stork | egret
+--- 4
+Stilts | pogo stick
+Sawhorse
+Bunk Bed | bunk beds | bedstead | bed frame
+Claw Foot Bath | roll top bath | freestanding bath
+Workbench | work table
+Pouffe | pouf | hassock
+Harpsichord | clavichord
+Gecko | geckos | chameleon
+Toad | toads
+Salamander | axolotl
+Woodlouse | woodlice | pill bug | roly poly
+Hermit Crab | hermit crabs
+Shrimp | prawn | prawns | langoustine
+Barbie Doll | toy soldier
+Mannequin | dummy | shop dummy
+Trolley | serving trolley | shopping trolley
+Rocking Horse | hobby horse | carousel horse | trojan horse
+Lego Minifigure | lego man | minifig | playmobil | action man | ken doll
+Puppet | marionette | ventriloquist dummy
+Matryoshka | russian doll | nesting doll
+Dragonfly | damselfly | butterfly | moth | hornet
+Mosquito | mosquitoes | gnat | midge | horsefly | housefly | fruit fly | bluebottle
+Pond Skater | water strider | water boatman
+Termite | woodworm | weevil | aphid | greenfly
+Air Hockey Table | air hockey
+Ping Pong Table | table tennis table
+--- 5
+Candelabra | candelabrum | torchere
+Chesterfield | chesterfield sofa | canape | banquette
+Partners Desk | kneehole desk | kidney desk | secretaire
+Three-legged Stool | shooting stick | camp stool
+Trivet | andiron | firedog
+Counter Stool

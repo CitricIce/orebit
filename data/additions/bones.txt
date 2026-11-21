@@ -1,0 +1,85 @@
+# bones additions: common names, typos, extra named bones.
+--- 2
+Skull | head bone | skul | skulll | cranium bone
+Femur | femor | femer | feemur | upper leg bone | leg bone | thigh
+Rib | ribbs | ribcage | rib bone | rib bones
+Spine | spinal bone | spin bone | spinne
+Collarbone | clavicle | clavical | collar bone | colar bone | clavicel | claviclee
+Jawbone | jaw bone | lower jaw | mandible | mandibel | jaw bones | mandable
+Humerus | humorus | humerous | funny bone | upper arm bone | humerus bone | humerius
+Radius | radious | radis | forearm bone | radius bone
+Pelvis | pelvic | pelvis bone | pelvic girdle | pelvus | pelvic girdle bone | hip bones
+Kneecap | knee cap | patella | knee bone | patela | patellar
+Tibia | shin | tibea | tibbia | shin bone | shinbone | tibia bone
+Shoulder Blade | shoulder bone | scapula | scapular | shoulderblade | scapulla | shoulder-blade
+Heel Bone | calcaneus | calcaneous | heelbone | heel | calcanius
+Sternum | breast bone | breastbone | sternam | sternem | sternun
+--- 3
+Fibula | fibbula | fibulla | calf bone | fibua
+Ulna | ulnar | ulna bone | ulnaa | elbow bone
+Cheekbone | cheek bone | malar | malar bone | zygoma | zygomatic | zygomatic bone | cheek bones
+Tailbone | tail bone | coccyx | coccix | cocyx | coccyx bone | cocxyx
+Sacrum | sacral | sacrum bone | sacram | sacrim
+Metacarpals | palm bones | hand bones | metacarpels | metacarpal bones | metacarpels
+Metatarsals | foot bones | metatarsels | metatarsal bones | metatarsles | metatarsal bone
+Carpals | wrist bone | carpels | carpal bones | carpal bone | wrist bones
+Tarsals | ankle bone | tarsels | tarsal bones | tarsal bone | ankle
+Nasal Bone | nose bone | nose bones | nasal bone | nasle bone
+Phalanges | phalanx | phalanges bone | finger bone | toe bone | phalange | fingers | toes | phalanges bones | phalanxes
+Vertebra | vertebrae | vertabrae | vertebrea | verterbrae | vertibrae | vertebre | vertabra | vertibra
+Maxilla | maxila | upper jawbone | maxilary | maxillary | maxilla bone | upper jaw bone
+Malleus | hammer bone | hammer | malleous | maleus
+Incus | anvil bone | anvil | incuss
+Stapes | stirrup bone | stirrup | stapus | stapies
+Ossicles | ear bones | ossicle | auditory ossicles | ear bone | middle ear bones
+--- 4
+Hyoid | tongue bone | hyoid bone | hyiod | hyoyd | hoid | hyod
+Talus | astragalus | talas
+Ilium | iliac | ilium bone | illium | iliac bone
+Ischium | ischial | sit bone | sitting bone | ischiam | ischeum
+Pubis | pubic | pubic bone | pubis bone | pubes
+Navicular | scaphoid navicular | navicular bone | navicualr | navicluar
+Scaphoid | scaphoid bone | scaphoyd | scaphoide | scapoid
+Lunate | lunate bone | lunat | lunatte
+Triquetrum | triquetral | triquetrum bone | triqetrum | triquetrium
+Pisiform | pisiform bone | pisaform | pisiform bone | pisiforme
+Hamate | hamate bone | hamat | hammate
+Capitate | capitate bone | capitat | capitate bones
+Trapezium | trapezium bone | trapezeum | trapesium
+Trapezoid | trapezoid bone | trapazoid | trapizoid | trapezoid carpal
+Cuboid | cuboid bone | cuboide | cuboyd
+Sphenoid | sphenoid bone | spenoid | sphenoyd | spehnoid
+Ethmoid | ethmoid bone | ethmoyd | ethmiod | ethmoide
+Vomer | vomer bone | vommer | vomar
+Zygomatic Arch | zygomatic arch | cheek arch
+Temporal Bone | temporal bones | temporale bone | temple bone
+Frontal Bone | frontal bones | forehead bone | forehead
+Parietal Bone | parietal bones | parietel bone | paretal | parietals
+Occipital Bone | occipital bones | occiput | back of skull | occipetal | occiptal
+Atlas | atlas bone | c1 | atlas vertebra | atlass
+Axis | axis bone | c2 | axis vertebra | axiss
+Cervical Vertebrae | neck bones | neck vertebrae | cervical vertebra | cervical spine | neck bone | cervicle
+Thoracic Vertebrae | thoracic vertebra | thoracic spine | upper back bones | thoracic spine bones
+Lumbar Vertebrae | lumbar vertebra | lumbar spine | lower back bones | lower back bone
+Coccygeal Vertebrae | coccygeal vertebra | tailbone vertebrae
+Sacral Vertebrae | sacral vertebra | sacral spine
+Xiphoid Process | xiphoid | xyphoid | xiphoid process | xiphisternum | xiphoid bone | zyphoid
+Manubrium | manubrium bone | manubrim | manubrum
+Acromion | acromion process | acromian | acromeon | acromium
+Coracoid Process | coracoid | coricoid | coracoid bone
+Olecranon | olecranon process | elbow tip | olecrannon | olecranum
+Sesamoid | sesamoid bone | sesamoids | sesmoid | sesamiod
+Hallux | big toe bone | big toe | hallux bone
+Sutural Bones | wormian bone | wormian | sutural bone | wormian bones | intrasutural bones
+--- 5
+Palatine Bone | palatine bones | palatine | hard palate bone
+Lacrimal Bone | lacrimal bones | lacrymal | lacrimal | tear duct bone
+Inferior Nasal Concha | inferior turbinate | inferior nasal turbinate | nasal concha | concha | nasal conchae
+Pterygoid | pterygoid process | pterygoid bone | pterygoyd | pterigoid
+Premaxilla | incisive bone | premaxillary | premaxillae
+Mastoid Process | mastoid bone | mastoid | mastoid process of temporal | mastiod
+Styloid Process | styloid | stylod process | styloid bone
+Trochanter | greater trochanter | lesser trochanter | trochanters | trocanter | trochanter bone
+Condyle | femoral condyle | condyles | condyl | mandibular condyle
+Malleolus | medial malleolus | lateral malleolus | ankle knob | malleoulus | malleoli
+Glenoid Cavity | glenoid | glenoid fossa | glenoid socket

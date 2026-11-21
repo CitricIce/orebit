@@ -1,0 +1,59 @@
+london
+paris
+rome
+berlin
+madrid
+barcelona
+amsterdam
+venice
+vienna
+prague
+budapest
+lisbon
+dublin
+edinburgh
+munich
+milan
+florence
+athens
+copenhagen
+stockholm
+oslo
+helsinki
+brussels
+zurich
+geneva
+warsaw
+krakow
+moscow
+st petersburg
+istanbul
+kiev => Kyiv
+ljubljana
+bratislava
+amsterdm => Amsterdam
+barcelone => Barcelona
+manchester
+liverpool
+birmingham
+glasgow
+cologne
+hamburg
+frankfurt
+naples
+turin
+seville
+valencia
+porto
+bruges
+the hague
+hague => The Hague
+reykjavik
+tallin => Tallinn
+vilnius
+riga
+dubrovnik
+bucharest
+sofia
+belgrade
+zagreb

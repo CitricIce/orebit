@@ -1,0 +1,107 @@
+--- 2
+Killer Whale | killer whales | orcas | orka | killerwhale | killer wale | killer whail | blackfish
+Blue Whale | blue whales | bluewhale | blue wale | blue whail | great blue whale
+Humpback Whale | humpbacks | humpback whales | humpback wale | humback whale | humpbak whale | humpbacked whale | hump back whale
+Dolphin | dolphins | dolphen | dolfin | dolpin | delphin | dolphin fish | common bottlenose dolphin
+Sperm Whale | sperm whales | spermwhale | sperm wale | moby dick | moby dick whale | white whale moby
+Narwhal | sea unicorn | narwhale | narwal | narwhals | unicorn whale | unicorn of the sea | narwhall | narwahl | narwhal whale | narwhale whale
+Beluga | belugas | beluga whales | beluga wale | belluga | belunga | baluga whale
+Gray Whale | gray whales | grey whales | gray wale | california gray whale | devil fish whale | grey wale
+Pilot Whale | pilot whales | pilot wale | pilotwhale | blackfish pilot | pothead whale | caaing whale | pothead
+Minke Whale | minke whales | minkie whale | minky whale | minke wale | minki whale | piked whale | lesser rorqual
+Fin Whale | fin whales | finwhale | fin wale | finner | razorback whale | common rorqual | razorback
+Porpoise | porpoises | porpise | porpoice | porpus | harbour porpoise | harbor porpoise | common porpoise
+Bowhead Whale | bowheads | bowhead whales | greenland right whale | arctic whale | bow head whale | bowhead wale
+Right Whale | right whales | northern right whale | black right whale | biscayan right whale | right wale
+Common Dolphin | common dolphins | saddleback dolphin | saddleback
+Beaked Whale | beaked whales | beaked wale | beakers
+Spinner Dolphin | spinner dolphins | spinner | spinners | long-snouted spinner dolphin | hawaiian spinner dolphin | spinning dolphin
+River Dolphin | river dolphins | amazon dolphin | boto | freshwater dolphin | bufeo
+Vaquita | vaquitas | vaquita porpoise | gulf of california porpoise | cochito | panda porpoise | sea panda
+Sei Whale | sei whales | sei wale | say whale | coalfish whale | pollack whale | sei
+Bryde's Whale | brydes whale | bryde whale | bride's whale | brides whale | tropical whale | bryde's | brydes
+Spotted Dolphin | spotted dolphins | bridled dolphin | spotted
+--- 3
+White-sided Dolphin | white sided dolphin | whitesided dolphin | white sided dolphins
+Dusky Dolphin | dusky dolphins | dusky dolfin | dusky
+Hector's Dolphin | hectors dolphin | hector dolphin | hector's | new zealand dolphin | hectors
+Maui Dolphin | maui dolphins | maui's dolphin | mauis dolphin | north island hector's dolphin
+Commerson's Dolphin | commersons dolphin | commerson dolphin | panda dolphin | piebald dolphin | skunk dolphin | commerson's
+Risso's Dolphin | rissos dolphin | risso dolphin | grampus | risso's | rissos | grey grampus
+Dall's Porpoise | dalls porpoise | dall porpoise | dall's | dalls | panda porpoise dall | true's porpoise
+Finless Porpoise | finless porpoises | finless | finless porpus | black finless porpoise | narrow-ridged finless porpoise
+Baiji | baijis | yangtze river dolphin | chinese river dolphin | white flag dolphin | baiji dolphin | goddess of the yangtze | white-fin dolphin | whitefin dolphin | lipotes vexillifer
+Irrawaddy Dolphin | irrawaddy dolphins | irawaddy dolphin | irrawady dolphin | irrawaddi dolphin | mekong dolphin | irrawaddy
+Ganges River Dolphin | ganges dolphin | ganges river dolphins | susu | south asian river dolphin | gangetic dolphin | shushuk | blind river dolphin | ganga dolphin | ganges
+Indus River Dolphin | indus dolphin | bhulan | indus river dolphins | indus
+False Killer Whale | false killer whales | false orca | false killer | false killer wale | pseudorca
+Pygmy Killer Whale | pygmy killer whales | pygmy killer | pygmy killer wale | slender blackfish
+Melon-headed Whale | melon headed whale | melon-headed whales | melon headed whales | melonhead whale | little killer whale | electra dolphin | many-toothed blackfish | melon head whale | melon-head whale
+Striped Dolphin | striped dolphins | stripped dolphin | meyen's dolphin | euphrosyne dolphin | blue-white dolphin | streaker porpoise | striped
+Rough-toothed Dolphin | rough toothed dolphin | rough-toothed dolphins | rough toothed dolphins | roughtoothed dolphin | steno | rough tooth dolphin | rough-toothed
+Fraser's Dolphin | frasers dolphin | fraser dolphin | sarawak dolphin | shortsnout dolphin | short-snouted dolphin | fraser's
+White-beaked Dolphin | white beaked dolphin | whitebeaked dolphin | white-beaked dolphins | white beak dolphin | white-nosed dolphin | white-beaked
+Hourglass Dolphin | hourglass dolphins | hour glass dolphin | sea cow dolphin | cruciger dolphin | hourglass
+Peale's Dolphin | peales dolphin | peale dolphin | peale's | peales | black-chinned dolphin
+Chilean Dolphin | chilean dolphins | black dolphin | chile dolphin | chilean
+Burmeister's Porpoise | burmeisters porpoise | burmeister porpoise | burmeister's | burmeisters
+Spectacled Porpoise | spectacled porpoises | spectacle porpoise | spectacled | spectacled porpus
+Heaviside's Dolphin | heavisides dolphin | haviside's dolphin | benguela dolphin | heaviside dolphin | heaviside's | heavisides | haviside dolphin
+Tucuxi | tucuxis | tucuxi dolphin | gray dolphin | grey dolphin | costero | bufeo negro | sotalia
+Guiana Dolphin | guiana dolphins | costero dolphin | guyana dolphin | guianan dolphin | guiana
+Clymene Dolphin | clymene dolphins | short-snouted spinner dolphin | clymene | helmet dolphin | senegal dolphin
+Northern Right Whale Dolphin | northern right whale dolphins | right whale dolphin | northern right whale dolphin
+Pygmy Sperm Whale | pygmy sperm whales | pygmy sperm | pygmy sperm wale | lesser sperm whale
+Dwarf Sperm Whale | dwarf sperm whales | dwarf sperm | dwarf sperm wale | kogia sima
+Cuvier's Beaked Whale | cuviers beaked whale | cuvier beaked whale | goose-beaked whale | goosebeak whale | cuvier's | cuviers | ziphius | goosebeaked whale
+Baird's Beaked Whale | bairds beaked whale | baird beaked whale | giant bottlenose whale | northern giant bottlenose whale | baird's | bairds | four-toothed whale
+Arnoux's Beaked Whale | arnouxs beaked whale | arnoux beaked whale | southern giant bottlenose whale | southern four-toothed whale | arnoux's | arnouxs | new zealand beaked whale
+Northern Bottlenose Whale | northern bottlenose whales | north atlantic bottlenose whale | bottlenose whale | bottle nose whale | bottlenosed whale | flathead whale | hyperoodon
+Southern Bottlenose Whale | southern bottlenose whales | antarctic bottlenose whale | flat-headed bottlenose whale
+Longman's Beaked Whale | longmans beaked whale | longman beaked whale | indo-pacific beaked whale | tropical bottlenose whale | longman's | longmans | rare whale
+Sowerby's Beaked Whale | sowerbys beaked whale | sowerby beaked whale | north sea beaked whale | north atlantic beaked whale | sowerby's | sowerbys
+Blainville's Beaked Whale | blainvilles beaked whale | blainville beaked whale | dense-beaked whale | blainville's | blainvilles
+Gervais' Beaked Whale | gervais beaked whale | gervaiss beaked whale | gervais's beaked whale | european beaked whale | gulfstream beaked whale | gervais | gervais'
+Strap-toothed Whale | strap toothed whale | straptoothed whale | layard's beaked whale | layards beaked whale | strap-toothed beaked whale | strap toothed beaked whale
+Spade-toothed Whale | spade toothed whale | spadetoothed whale | bahamonde's beaked whale | spade-toothed beaked whale | spade toothed beaked whale | traverse's beaked whale
+Shepherd's Beaked Whale | shepherds beaked whale | shepherd beaked whale | tasman whale | shepherd's | shepherds | tasmacetus
+Ginkgo-toothed Beaked Whale | ginkgo toothed beaked whale | ginkgo-toothed whale | ginkgo toothed whale | gingko-toothed beaked whale | gingko toothed beaked whale | ginkgo toothed
+True's Beaked Whale | trues beaked whale | true beaked whale | true's | trues
+Hubbs' Beaked Whale | hubbs beaked whale | hubbss beaked whale | hubb's beaked whale | arch-beaked whale | bandana whale | hubbs | hubbs'
+Stejneger's Beaked Whale | stejnegers beaked whale | stejneger beaked whale | sabre-toothed whale | saber-toothed whale | stejneger's | stejnegers | bering sea beaked whale
+Pygmy Right Whale | pygmy right whales | pygmy rightwhale | pigmy right whale | caperea | pygmy right wale
+Omura's Whale | omuras whale | omura whale | omura's | omuras | dwarf fin whale
+Rice's Whale | rices whale | rice whale | rice's | rices | gulf of mexico whale | gulf of mexico bryde's whale | rice's whale bryde's
+Antarctic Minke Whale | antarctic minke whales | southern minke whale | antarctic minke | southern minke
+Common Minke Whale | common minke whales | northern minke whale | common minke | northern minke | lesser minke whale
+Pygmy Blue Whale | pygmy blue whales | pygmy blue | indian ocean blue whale | pygmy blue wale
+Wholphin | wholphins | whale dolphin hybrid | wolphin | whaledolphin
+Cachalot | cachalots | cachelot | cashalot | cachalot whale | sperm whale cachalot
+Rorqual | rorquals | rorqual whale | rorqual whales | balaenopterid | rorquals whale
+Baleen Whale | baleen whales | baleen | baleen wale | mysticete | mysticetes | filter feeder whale | whalebone whale | baleen wales
+Toothed Whale | toothed whales | odontocete | odontocetes | toothed wale | toothed whales dolphins
+Humpback Dolphin | humpback dolphins | indo-pacific humpback dolphin | chinese white dolphin | pink dolphin humpback | indo pacific humpback dolphin | white dolphin | hong kong pink dolphin | sousa | sousa chinensis
+Burrunan Dolphin | burrunan dolphins | burrunan | southern australian bottlenose dolphin
+--- 4
+Eden's Whale | edens whale | eden whale | eden's | edens | eden's whale bryde's
+Perrin's Beaked Whale | perrins beaked whale | perrin beaked whale | perrin's | perrins
+Andrews' Beaked Whale | andrews beaked whale | andrews's beaked whale | andrew's beaked whale | andrews'
+Hector's Beaked Whale | hectors beaked whale | hector beaked whale | skew-beaked whale | hector's beaked
+Pygmy Beaked Whale | pygmy beaked whales | peruvian beaked whale | lesser beaked whale | pygmy beaked
+Deraniyagala's Beaked Whale | deraniyagalas beaked whale | deraniyagala beaked whale | deraniyagala's | deraniyagalas
+North Pacific Right Whale | north pacific right whales | pacific right whale | northern pacific right whale | n pacific right whale
+Atlantic Humpback Dolphin | atlantic humpback dolphins | atlantic humpbacked dolphin | atlantic humpbacked | atlantic hump-backed dolphin
+Indian Ocean Humpback Dolphin | indian ocean humpback dolphins | indian humpback dolphin | indian ocean humpbacked dolphin
+Australian Humpback Dolphin | australian humpback dolphins | australian humpbacked dolphin | sousa sahulensis humpback
+Indo-Pacific Bottlenose Dolphin | indo pacific bottlenose dolphin | indopacific bottlenose dolphin | indo-pacific bottlenose | indian ocean bottlenose dolphin | indo pacific bottlenose
+Long-beaked Common Dolphin | long beaked common dolphin | longbeaked common dolphin | long beaked dolphin | longbeak common dolphin | long-beaked
+Bolivian River Dolphin | bolivian river dolphins | bolivian bufeo | bolivian dolphin | bolivian pink river dolphin
+Bigg's Killer Whale | biggs killer whale | bigg's orca | transient orca | transient killer whale | biggs orca | bigg's | biggs | transient orcas
+Resident Orca | resident orcas | resident killer whale | southern resident orca | southern resident killer whale | resident killer whales
+Dwarf Minke Whale | dwarf minke whales | dwarf minke | dwarf minke wale | northern minke dwarf | minke dwarf
+Atlantic Bottlenose Dolphin | atlantic bottlenose dolphins | atlantic bottlenose | atlantic bottlenosed dolphin
+Pacific Bottlenose Dolphin | pacific bottlenose dolphins | pacific bottlenose | pacific bottlenosed dolphin
+--- 5
+Atlantic Gray Whale | atlantic gray whales | atlantic grey whale | north atlantic gray whale | north atlantic grey whale | extinct gray whale | atlantic gray
+Western Pacific Gray Whale | western gray whale | western pacific grey whale | western grey whale | korean gray whale | asian gray whale | western pacific gray
+Eastern Pacific Gray Whale | eastern gray whale | eastern pacific grey whale | eastern grey whale | california grey whale | eastern pacific gray

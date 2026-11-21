@@ -1,0 +1,341 @@
+--- 2
+Dragon | dragons | dragen | draggon | drgon | fire dragon
+Unicorn | unicorns | unicorne | unicron | uniocrn | unicorn horse | alicorn
+Mermaid | mermaids | mer maid | mermade | mermaide | merman | mermen | merfolk | merpeople | mer-people | siren mermaid
+Phoenix | phoenixes | pheonix | phenix | feenix | pheonix bird | phoenix bird
+Vampire | vampires | vampyre | vamp | vampier | vampir | dracula | count dracula
+Werewolf | werewolves | were wolf | werwolf | werewulf | wearwolf | weerwolf | warewolf | were-wolf | wolfman | wolf man | lycan | lycanthrope
+Zombie | zombies | zombi | zombee | undead | walker | walkers | living dead | ghoul zombie
+Ghost | ghosts | specter | spectre | phantom | spirit | apparition | spook | haunt | banshee ghost
+Fairy | fairies | faerie | faery | fae | fey | fary | fairie | fairys | faeries
+Bigfoot | big foot | sasquatch | sasquach | sasquatsh | bigfoot sasquatch | squatch
+Griffin | gryphon | griffon | griphon | gryffin | griffins | gryphons | griffen | gryphin | griffin bird
+Centaur | centaurs | centar | centuar | centor | sentaur | half horse | horse man | centaure
+Minotaur | minotaurs | minotour | minatour | minataur | minotor | minitaur | minotaure | bull man | asterion
+Pegasus | pegasi | pegasis | pegisus | pegasuses | flying horse | winged horse | pegassus | pegesus
+Medusa | medusas | medussa | meduza | meduza gorgon | snake haired woman
+Gorgon | gorgons | gorgan | gorgin
+Cyclops | cyclopes | cyclop | cyclopse | cyclopps | cylcops | cyclops giant | one eyed giant | sciclops | cylops
+Hydra | hydras | hydrah | hidra | lernaean hydra | many headed snake | multi headed serpent
+Kraken | krakens | kracken | krakin | kraaken | krakan
+Loch Ness Monster | nessie | loch ness | loch ness monster nessie | lochness | loch ness mon
+Yeti | yetis | abominable snowman | abominable snow man | snowman abominable | himalayan yeti | meh-teh | migoi
+Troll | trolls | trol | trolle | bridge troll | mountain troll | cave troll | jotun | jotnar
+Goblin | goblins | goblen | gobblin | goblyn | gobln | gobbo
+Elf | elves | elfs | elven | elfen | elfe | dark elf | wood elf | high elf | alf
+Dwarf | dwarves | dwarfs | dwarven | dwarfe | dwarf folk | duergar | svartalf | dverg | dvergr
+Gnome | gnomes | gnom | garden gnome | gnomee | gnomish | gnomes folk
+Ogre | ogres | ogger | ogrer | oger | ogress | ogre shrek
+Giant | giants | giantes | gigantes | gient | gyant | titan giant | frost giant | hill giant | fire giant | jotun giant
+Pixie | pixies | pixy | pixi | pixys | pixie fairy | piskie | piskey | pisky | pigwidgeon
+Leprechaun | leprechauns | leprachaun | leprechan | leprecon | leprichaun | leprauchan | leprechaum | lepricon | irish leprechaun | luchorpan
+Banshee | banshees | banshe | banshi | bean si | benshee | banshie | bansheee | wailing woman
+Genie | genies | djinn | jinn | jinni | djinni | geni | genii | jinnee | djinnee | jin | djin | ginie | gini
+Sphinx | sphinxes | sphynx | sphinks | spinx | sfinks
+Siren | sirens | siran | syren | syrens | sirene | sea siren | siren bird | seiren
+Mummy | mummies | mumy | mommy mummy | egyptian mummy | mummi | momia
+Chimera | chimaera | chimeras | chymera | chimerra | chimaeras | kimera | chemera | khimaira
+Basilisk | basilisks | basalisk | basilik | bassilisk | basilisc | basilisk serpent | king of serpents | basilic | regulus
+Hobbit | hobbits | hobit | hobbitt | hobbit folk | halfling | halflings | hobbet
+Orc | orcs | ork | orks | uruk | uruk-hai | uruk hai | orcish | orcy | orque
+Wendigo | wendigos | windigo | wendego | wendingo | witiko | wetiko | weendigo | wendigoe | windago
+Chupacabra | chupacabras | chupacabre | chupacabara | chupa cabra | goat sucker | goatsucker | chupacabrah
+Mothman | moth man | mothmen | mothman of point pleasant | mothmann | mothmans | moth-man
+Satyr | satyrs | satire | satyre | sater | satyr faun | satyros | saytr
+Faun | fauns | faune | faun satyr | faunus | mr tumnus | tumnus
+Nymph | nymphs | nimph | nymphe | nimphs | nymphes | nimf | nymphet
+Harpy | harpies | harpee | harpie | harpys | harpyie | arpy
+Golem | golems | golum | golm | goleme | clay golem | stone golem | golemn | gollum golem | golen
+Imp | imps | impy | impp | imp demon | impling | little devil
+Demon | demons | daemon | demone | demen | deamon | demonic | devil demon | fiend | demonio | demmon
+Angel | angels | angle | angil | angell | archangel | arch angel | seraph | seraphim
+Cherub | cherubs | cherubim | cherubim angel | cheruby | cherube | cherrub | cheribs
+Sea Serpent | sea serpents | sea monster serpent | seaserpent | sea-serpent | serpent of the sea
+Hippogriff | hippogriffs | hippogryph | hippogrif | hipogriff | hipogryph | hippogriffe | hippogrifs | buckbeak | hippogriff buckbeak
+Thunderbird | thunderbirds | thunder bird | thunderbrd | thunder-bird | thunderbirds bird | wakinyan
+Kitsune | kitsunes | kitsuné | kitsunee | kitsone | nine tailed fox | nine-tailed fox | 9 tailed fox | kyuubi | kumiho | huli jing | gumiho
+Tengu | tengus | tenngu | tengou | tengu goblin | long nosed goblin | tengu yokai | tenghu
+Kappa | kappas | kapa | kappa yokai | japanese water imp | kawataro | water imp | kapa yokai
+Oni | onis | oni demon | japanese ogre | oni ogre | onni | oni yokai
+Valkyrie | valkyries | valkyrja | valkyrjur | valkyre | valkyri | walkure | walküre | valkerie | valkyrie warrior | valkry
+Bogeyman | boogeyman | boogey man | bogey man | bogeymen | boogeymen | bogyman | boogie man | bogie man | boogieman | bogeyperson | boogerman | bugbear
+Grim Reaper | the grim reaper | grim reeper | grimreaper | death | reaper | the reaper | death personified | grim reapers | grimm reaper | black death reaper
+Headless Horseman | headless horse man | the headless horseman | headless horsemen | headless horseman sleepy hollow | headless rider
+Frankenstein's Monster | frankenstein | frankenstien | frankensteins | franken stein | adam frankenstein
+Witch | witches | wich | witche | wiche | witchy | hag | crone | sorceress | warlock witch | enchantress | witch hag
+Wizard | wizards | wizzard | wiz | wizerd | mage | sorcerer | warlock | magician | wizard mage | wizzards | magi
+Ent | ents | treant | treants | tree giant | tree shepherd | treebeard
+Balrog | balrogs | balrog of morgoth | durin's bane | durins bane | demon of shadow and flame
+Jabberwock | jabberwocky | jabberwocks | jabbawocky | jaberwocky | jabberwoky
+Sea Dragon | sea dragons | water dragon | ocean dragon | leviathan dragon
+Santa Claus | santa | father christmas | saint nick | st nick | kris kringle | saint nicholas
+Jack Frost | jack frosts | frost sprite | jackfrost
+Sandman | the sandman | sand man | sandmen | ole lukoije
+Thestral | thestrals | thestal | thestrel | thestrals harry potter | skeletal winged horse
+Dementor | dementors | dementer | dementors harry potter | dementer harry potter
+Mogwai | mogwais | mogwai gremlin | gizmo | gizmo mogwai
+--- 3
+Manticore | manticores | manticor | manticora | mantikor | manticore lion | mantecore | martichoras | martikhoras
+Cerberus | cerebus | cerberos | cerbrus | cerberus dog | three headed dog | hellhound | hell hound | hell hounds | hades dog | cerbrerus | cerberus hound
+Scylla | scyla | sylla | scilla | skylla | scylla and charybdis
+Charybdis | charibdis | charbydis | carybdis | charybdis whirlpool | kharybdis | charibdys
+Typhon | typhoeus | typhos | typhon giant | typho
+Echidna | echidna snake woman | ekidna | echidna serpent
+Ladon | ladon dragon | ladon serpent | hesperides dragon | ladon hundred headed | ladone | ladon snake
+Python | python serpent | pythons | delphic python | pytho | python dragon | pythian serpent
+Lamia | lamiae | lamias | lamya | lamia snake woman | lamia demon | lamiah | lamea
+Empusa | empusae | empousa | empusas | empusa demon | empuse | empuza
+Furies | fury | erinyes | the furies | erinys | furie | furys | eumenides | the erinyes | furies goddesses | dirae | furias
+Fates | the fates | fate | moirai | moirae | three fates | parcae | the moirai | moira | fates goddesses
+Muses | muse | the muses | nine muses | muses goddesses | musai | the nine muses | mousai | muse goddess
+Dryad | dryads | dryade | dryadd | dryad nymph | tree nymph | hamadryad | hamadryads | dryades | drayad | driad
+Naiad | naiads | naiade | naid | naiad nymph | water nymph | freshwater nymph | najad | naiades
+Nereid | nereids | nereide | nerid | nereid nymph | sea nymph | nereids sea nymphs | nereides | neried
+Oread | oreads | oreade | oread nymph | mountain nymph | oreades | oreid | oriad
+Selkie | selkies | selky | silkie | selkee | seal woman | seal people | selchie | selkie seal | roane | selkies seal
+Kelpie | kelpies | kelpy | kelpie horse | water horse | water kelpie | kelpee | kelpe | kelpie water horse | kelply | each uisge horse
+Dullahan | dullahans | dullahn | dulahan | dullachan | dulachan | dullahan headless | dulahn | dullahhan | gan ceann
+Púca | pooka | puca | púka | phouka | pookas | pucas | phooka | pouka | púca shapeshifter | pwca | puck pooka
+Changeling | changelings | changling | changeling fairy | changeling child | fairy changeling | change ling | changelling | changleing
+Brownie | brownies | browny | brownie fairy | house brownie | brownie elf | bwbach | brownie hobgoblin
+Boggart | boggarts | boggert | bogart | boggard | boggarte | bogle
+Redcap | redcaps | red cap | red caps | redcapp | redcap goblin | red cap goblin | powrie | dunter
+Will-o'-the-wisp | will o the wisp | will o' the wisp | will o the whisp | will-o-the-wisp | will o wisp | willowisp | will-o-wisp | wil o the wisp | will o the wisps | will o' the wisps | ignis fatuus | spunkie | wisp | foxfire | hinkypunk | hinkypunks
+Black Shuck | black shucks | shuck | blackshuck | black shuk | old shuck | black dog | black dog of the moors | shuck dog | black shuck dog
+Barghest | barghests | barguest | bargest | barghest dog | barghest hound | bargheist | bar guest | barghast
+Wyvern | wyverns | wyvren | wiverne | wivern | wyverne | wivren | wyvern dragon | wyvern lizard | wyvren dragon
+Wyrm | wyrms | wurm | worm dragon | wyrmling | wirm | wyrm serpent | great worm
+Cockatrice | cockatrices | cocatrice | cockatrise | cockatrix | cockatrice basilisk | cockatryce | cocktrice | cockatrice rooster | cocatrix
+Amphisbaena | amphisbaenas | amphisbaena snake | amphisbena | amphisbaina | amphisbaenae | amphisbean | amphesbaena | two headed snake | double headed serpent
+Salamander | salamanders | salamandra | fire salamander | salamandar | salemander | salamander elemental | salamandre | fire lizard
+Roc | rocs | rukh | rok | roc bird | giant roc | rukh bird | ruc | roc eagle | simurgh roc | roc giant bird
+Simurgh | simorgh | simorg | simurg | simurgh bird | simourgh | simurgh persian bird | simorgh bird | senmurv | senmurw
+Ziz | ziz bird | ziz giant bird | ziz griffin | zyz | ziz bird jewish
+Behemoth | behemoths | behemot | behemoth biblical | behimoth | behemoth hippopotamus
+Leviathan | leviathans | leviatan | levithan | leviathan serpent | leviathan biblical | levaithan | leviathon
+Bahamut | bahamut dragon | bahamut fish | bahamut final fantasy | bahmut | bahamut king of dragons | behemoth bahamut
+Jörmungandr | jormungandr | jormungand | midgard serpent | world serpent | jormugandr | jörmungand | jormundgand | jormungandur | jörmungandur | midgard snake | jormungandr serpent
+Fenrir | fenris | fenrisulfr | fenris wolf | fenrir wolf | fenrer | fenrir the wolf | fenriswolf | fenris wolf loki | fenris wulf | fenrir loki
+Sleipnir | sleipner | sleipnir horse | slepnir | sleipnir eight legged horse | odin's horse | odins horse | eight legged horse | sleipnir odin
+Nidhogg | nidhoggr | níðhöggr | nidhog | nidhogg dragon | nidhogg serpent | nithhogg | nithhoggr | nidhogg wyrm | nidhog dragon
+Draugr | draugar | draug | draugr undead | draugr zombie | draugur | draugrs | draugr norse | draugr viking | revenant draugr
+Huldra | huldras | hulder | huldre | huldrefolk | huldra woman | hulder forest | huldra tail | huldra norse | skogsfrun
+--- 4
+Wolpertinger | wolperdinger | wolpertinger rabbit | wolpertinger bavaria | wolpertinger hybrid | wolperdinger rabbit | woipertinger | rasselbock | dahaemon
+Jackalope | jackalopes | jackelope | jackalop | jackolope | jackalope rabbit | jackalope hare | horned rabbit | horned jackrabbit | jackolopes | jackalope antelope
+Drop Bear | drop bears | dropbear | drop bear australia | drop bear koala | drop-bear | dropbears | australian drop bear
+Hodag | hodags | hodag wisconsin | hodag rhinelander | hodag horned
+Squonk | squonks | squonk tears | squonk pennsylvania | squonk crying | squonk ugly
+Fur-bearing Trout | fur bearing trout | furry trout | fur trout | fur-bearing trout fish | furbearing trout | beaver trout | fur-trout
+Jersey Devil | jersey devils | the jersey devil | leeds devil | pine barrens devil | new jersey devil | devil of jersey
+Bunyip | bunyips | bunyip australia | bunyip aboriginal | bunyip swamp | bunyap
+Yowie | yowies | yowie australia | yowie bigfoot | australian bigfoot | yowie ape | yowi
+Taniwha | taniwhas | taniwha maori | taniwha new zealand | taniwha guardian | taniwa | tanewha
+Ogopogo | ogopogos | ogopogo okanagan | ogopogo serpent | n'ha-a-itk | naitaka | ogo pogo
+Champ | champ lake champlain | champ champlain | champy
+Mokele-mbembe | mokele mbembe | mokele-mbembe dinosaur | mokele mbembe congo | mokelembembe
+Almas | almasty | almasty bigfoot | almas bigfoot | almas wildman | alma | almasti | almas russian bigfoot
+Mapinguari | mapinguary | mapinguari sloth | mapinguari amazon | mapinguari giant sloth | mapinguare | mapinguari brazil
+Cadejo | cadejos | cadejo dog | cadejo black dog | cadejo blanco | cadejo negro | cadejo hound | cadejo guatemala
+La Llorona | la llorona weeping woman | llorona | weeping woman | la llorona ghost | the weeping woman | la llorona mexican | la yorona
+El Cucuy | cucuy | el coco | coco | el cuco | cuco | el cucuy bogeyman | el cucuy mexican
+Nahual | nahuales | nagual | nahual shapeshifter | nahual mexican | nahual witch | naguales | nahualli
+Alebrije | alebrijes | alebrije mexican | alebrije spirit animal | alebrije art
+Xolotl | xolotl god | xolotl dog | xolotl aztec | xolotl dog god | xolotl underworld | xolotl twin
+Apsara | apsaras | apsara nymph | apsara hindu | apsara dancer | apsara celestial | apsaras nymphs | apsara cambodian
+Gandharva | gandharvas | gandharva celestial | gandharva hindu | gandharva musician | gandharvas celestial | gandarva
+Jorogumo | jorōgumo | joro-gumo | jorogumo spider | jorogumo yokai | jorogumo spider woman | spider woman yokai | joro gumo
+Kodama | kodamas | kodama yokai | kodama princess mononoke | tree spirit kodama
+Karakasa | karakasa obake | karakasa kozo | umbrella yokai | karakasa umbrella | karakasa yokai | one legged umbrella | kasa obake
+Yurei | yūrei | yurei ghost | yurei japanese ghost | japanese ghost | yurei onryo | yurei white dress | onryo
+Kuchisake-onna | kuchisake onna | slit mouthed woman | slit-mouthed woman | kuchisake onna ghost | kuchisake-onna yokai | kuchisake | slit mouth woman
+Hitotsume-kozo | hitotsume kozo | one eyed boy | one-eyed boy yokai | hitotsume kozo yokai | hitotsume | hitotsume-kozo yokai
+Bulgasari | bulgasari korean | bulgasari iron eater | pulgasari | bulgasari metal eater
+Penanggalan | penanggal | penanggalan vampire | penanggalan malay | penanggalan flying head | penanggalan ghost | penangal
+Tikbalang | tikbalangs | tikbalang philippines | tikbalang horse | tikbalang filipino
+Kapre | kapres | kapre philippines | kapre tree giant | kapre filipino | kapre giant | kapre cigar
+Tiyanak | tiyanaks | tiyanak philippines | tiyanak baby | tiyanak filipino | tiyanak vampire baby
+Duwende | duwendes | duwende philippines | duwende dwarf | duwende filipino | duwende goblin | duwende elf
+Wewe Gombel | wewe | wewe gombel indonesia | wewe gombel ghost | wewegombel | wewe gombel demon
+Tuyul | tuyuls | tuyul indonesia | tuyul child | tuyul ghost | tuyul goblin
+Leyak | leyaks | leak | leyak bali | leyak indonesia | leyak witch | leyak flying head | leak bali
+Ahool | ahools | ahool java | ahool bat | ahool giant bat | ahool cryptid
+Orang Bati | orang bati seram | orang bati flying | orang bati cryptid
+Merrow | merrows | merrow irish | merrow mermaid | merrow ireland | murdhuacha | muruch | merrow sea | murdúchann
+Cu Sith | cú sídhe | cu sidhe | cù sìth | cù sith | cu sìth | cú sith | faery dog | fairy dog | cu sith dog | cu sith hound
+Cait Sith | cat sìth | cat sith | cat sidhe | cat sith fairy | cait sidhe | cait sith cat | fairy cat | cat sith cat
+Fachan | fachans | fachan scotland | fachan one legged | fachan scottish | fachan one armed | direach
+Fomorian | fomorians | fomori | fomor | fomorian giant | fomorian irish | fomorian demon | fomoire | fomórach
+Fir Bolg | firbolg | fir bolgs | fir bolg irish | fir bolg giant | firbolgs | fir bholg | fear bolg | fir bolg race
+Sidhe | sídhe | sidhe fairy | sidhe folk | sidhe irish | sidhe fairies | aos sí | aos si | aes sidhe | sidhe elves | the sidhe | shee | sith
+Leanan Sidhe | leanan sí | leannán sídhe | leanan sidhe fairy | leanan si | lhiannan shee | leanan sidhe muse | leannan sidhe | leanan sidhe vampire
+Far Darrig | fear dearg | far dearrig | far darrig fairy | far darrig irish | far dearg | fear dearg fairy | far darrig prankster
+Sluagh | sluaghs | slaugh | sluagh fairy | sluagh scottish | sluagh host | sluagh irish | slúagh | sluagh unseelie | host of the unseelie
+Abhartach | abhartach irish vampire | abhartach vampire | abhartach dwarf | abhartach king | irish vampire abhartach | avartagh
+Oilliphéist | oilliphéist serpent | oilliphéist irish | oilliphéist dragon | oilliphest | oilliphéist worm | oillphéist | piast | péist
+Questing Beast | questing beasts | questing beast arthurian | glatisant | beast glatisant | questing beast king arthur | beast glatissant
+Bonnacon | bonnacons | bonnacon bison | bonnacon bull | bonnacon medieval | bonnacon dung | bonasus
+Gargoyle | gargoyles | gargoil | gargoile | gargoyel | gargoyl | gargoyle statue | gargoyle stone | grotesque | gargole
+Peluda | peluda dragon | la peluda | peluda france | peluda hairy | peluda serpent
+Gargouille | gargouille dragon | la gargouille | gargouille rouen | gargouille serpent | gargouille saint romain
+Beast of Gévaudan | beast of gevaudan | bête du gévaudan | bete du gevaudan | beast of gevaudan wolf | the beast of gevaudan | la bête du gévaudan | gevaudan wolf | beast of gévaudan wolf
+Lutin | lutins | lutin french | lutin goblin | lutin sprite | lutin imp | lutin fairy | lutin elf | lutin farfadet
+Farfadet | farfadets | farfadet french | farfadet sprite | farfadet elf | farfadet goblin | farfadet fairy
+Ankou | ankous | ankou breton | ankou death | ankou grim reaper | ankou skeleton | ankou cart | ankou brittany | ankou death personification
+Korrigan | korrigans | korrigan breton | korrigan fairy | korrigan dwarf | korrigan brittany | korrigan elf | korrigan goblin | korrigan sprite | korriganed
+Bicorn | bicorns | bicorn and chichevache | bicorne | bicorn medieval | bicorn cow
+Chichevache | chichevaches | chichevache cow | chichevache medieval | chichevache thin cow | chicheface
+Amphiptere | amphipteres | amphiptere dragon | amphiptere serpent | amphiptere winged snake | amphiptera
+Ipotane | ipotanes | ipotane centaur | ipotane horse man | hippotaur | ipotane hybrid
+Onocentaur | onocentaurs | onocentaur donkey | onocentaur centaur | onocentaur hybrid | onocentaur donkey centaur | donkey centaur | onokentauros
+Leucrota | leucrotta | leucrotas | leucrotta hyena | leucrotta badger | leucrocotta | crocotta | crocuta
+Opinicus | opinicuses | opinicus griffin | opinicus lion | opinicus camel
+Alphyn | alphyns | alphyn wolf | alphyn tiger | alphin
+Enfield | enfields | enfield fox | enfield irish
+Lion-Turtle | lion turtle | lion turtles | lion-turtles | lionturtle | lion turtle avatar | lion-turtle avatar
+Dracaena | dracaenae | dracaena snake woman | dracaena serpent | dracaena greek | dracaena dragoness | dracaena female dragon
+Echeneis | echeneis remora | echeneis fish | echeneis ship holder | remora ship stopper | ship stopper fish | ship-stopper
+Shedu | shedus | shedu assyrian | shedu winged bull | shedu mesopotamian | shedu lamassu | sedu | shedu bull
+Mushussu | mushhushshu | mushussu dragon | mushussu babylon | mushussu snake dragon | mushussu marduk | mušḫuššu | sirrush | sirrush dragon
+Girtablilu | girtablilu scorpion man | girtablilu scorpion | girtablilu babylonian | girtablilu mesopotamian | scorpion man | scorpion men | scorpion-man | aqrabuamelu
+Kujata | kujata bull | kujata islamic | kujata cosmic bull | kujata giant bull | kuyuta | kujata ox
+Zaratan | zaratans | zaratan turtle | zaratan island | zaratan whale | aspidochelone | aspido-chelone | island turtle
+Peri | peris | peri persian | peri fairy | peri angel | peri djinn | peri beautiful | peri fairy persian | pari | pairika
+Qareen | qareens | qareen jinn | qareen companion | qareen islamic | qareen demon | qarin | qarina | qarin jinn | qareen twin
+Nasnas | nasnas arabic | nasnas half man | nasnas half body | nasnas half human | nesnas | nasnas one legged
+Zhar-ptitsa | zhar ptitsa | zhar-ptitsa firebird | zhar ptitsa firebird | firebird slavic | zhar-ptitsa russian | zhar-ptitsa bird | zhar ptitsa russian | zhar ptitsa bird
+Koschei | koschei the deathless | koschei the immortal | koshchei | kashchei | koschei deathless | koschei immortal | koshchei the deathless | kashchey | kaschei | koschei bessmertny | koschei slavic
+Likho | likho slavic | likho one eyed | likho evil | likho goblin | likho demon | likho misfortune | one-eyed likho
+Vila | vilas | vila slavic | vila fairy | vila nymph | vila serbian | vilas fairies | vila woodland | samovila | samodiva | rusalka vila | veela | veelas
+Moroi | moroii | moroi vampire | moroi romanian | moroi living vampire | moroi ghost | moroi strigoi
+Varcolac | varcolaci | varcolac romanian | varcolac wolf | varcolac werewolf | varcolac eclipse | vârcolac
+Zmeu | zmei | zmeu romanian | zmeu dragon | zmeu giant | zmeu demon | zmeu ogre | zmey | zmeu humanoid dragon
+Iele | ielele | iele romanian | iele fairy | iele nymph | iele forest | iele dancing | sanziene | iele wild woman
+Bukavac | bukavacs | bukavac croatian | bukavac lake | bukavac six horned | bukavac six-horned
+Bies | biesy | bies polish | bies demon | bies slavic | bies devil
+Aitvaras | aitvaras lithuanian | aitvaras dragon | aitvaras household | aitvaras fiery | aitvaras flying | aitvaras rooster | aitvarai
+Kaukas | kaukai | kaukas lithuanian | kaukas gnome | kaukas household | kaukas elf | kaukas little man | kaukas goblin | kaukas dwarf | kaukas brownie
+Laume | laumes | laume lithuanian | laume fairy | laume witch | laume nymph | laume latvian | laume forest | laumė | laima
+Nøkken | nokken | nøkk | nøkken norwegian | nøkken violin | nøkken fiddle | nøkken water horse | neck | nix | nixie | nixies | nokke
+Näcken | nacken | näcken swedish | näcken violin | näcken fiddle | näcken water | näcken nix | strömkarlen | stromkarlen
+Fossegrim | fossegrimen | fossegrim norwegian | fossegrim waterfall | fossegrim violin | fossegrim fiddle | grim
+Huldufólk | huldufolk | hidden people | hidden folk | huldufolk icelandic | huldufólk elves | huldufolk elves | icelandic elves | hidden people iceland | huldufólk icelandic | álfar | alfar
+Sea Troll | sea trolls | sea troll norwegian | sea troll marine | havtroll
+Hafgufa | hafgufa kraken | hafgufa norse | hafgufa whale | hafgufa icelandic | hafgufa giant whale | haf gufa
+Lyngbakr | lyngbakr whale | lyngbakr norse | lyngbakr island | lyngbakr island whale | lyngbakr icelandic
+Norns | norn | the norns | norns norse | norns fates | norn norse | norns urd verdandi skuld | urd | verdandi | skuld | nornir | norns three
+Hel | hel norse | hel goddess | hel death | hel half | hel underworld | hel daughter of loki | hela | hel loki | hel niflheim | hel half corpse
+Hati | hati wolf | hati norse | hati hrodvitnisson | hati moon chaser | hati moon wolf | hati and skoll | hati fenrir son
+Sköll | skoll | skoll wolf | skoll norse | skoll sun chaser | skoll sun wolf | skoll and hati | skoll fenrir son | skol
+Huginn | huginn raven | huginn norse | huginn odin | huginn thought | huginn and muninn | hugin | huginn odin's raven | odin's ravens | odins ravens
+Muninn | muninn raven | muninn norse | muninn odin | muninn memory | munin | muninn odin's raven
+Heidrun | heiðrún | heidrun goat | heidrun norse | heidrun mead | heidrun valhalla | heidrun mead goat | heidrun the goat
+Eikþyrnir | eikthyrnir | eikthyrnir stag | eikthyrnir norse | eikthyrnir deer | eikthyrnir valhalla | eikthyrnir yggdrasil | eikthyrnir oak thorny
+Tanngrisnir | tanngrisnir goat | tanngrisnir norse | tanngrisnir thor | tanngrisnir tooth barer | tanngnjóstr | tanngnjostr | thor's goats | thors goats | tanngrisnir and tanngnjostr
+Landvættir | landvaettir | landvaettir icelandic | landvaettir guardian | landvaettir wights | landvaettir land spirits | land spirits | land wights | landvættir guardians | landwights
+Svartálfar | svartalfar | dökkálfar | dokkalfar | dark elves | dark elf norse | svartalfar norse | svartalfar dwarves | dokkalfar dark elves | black elves | svartalfar black elves
+Ljósálfar | ljosalfar | light elves | light elf | ljosalfar norse | ljosalfar elves | ljosalfar light | alfheim elves | ljósálfar light elves | ljosalfar fair elves | fair elves
+Wild Hunt | the wild hunt | wild hunt odin | wild hunt hunters | wild hunt ghost | wild hunt spectral | wild hunt riders | wild hunt riders ghost | wild hunt germanic | woden's hunt | odin's hunt | herne the hunter | herne
+Wulver | wulvers | wulver shetland | wulver werewolf | wulver wolf man | wulver kind werewolf | wulver friendly | wulver scottish
+Gwyllgi | gwyllgi welsh | gwyllgi dog | gwyllgi hound | gwyllgi black dog | gwyllgi dog of darkness | dog of darkness
+Afanc | afanc welsh | afanc beaver | afanc lake | afanc crocodile | afanc water | addanc | adanc | avanc
+Cŵn Annwn | cwn annwn | cwn annwn hounds | cwn annwn welsh | cwn annwn hell hounds | cwn annwn hounds of annwn | hounds of annwn | hounds of hell | cwn annwn spectral | cwn annwn wild hunt | cwn annwn ghost dogs
+Gwragedd Annwn | gwragedd annwn welsh | gwragedd annwn lake maidens | gwragedd annwn fairy | gwragedd annwn women | lake maidens | gwragedd annwn nymph | gwragedd annwn lake fairy
+Tylwyth Teg | tylwyth teg welsh | tylwyth teg fairy | tylwyth teg fair family | tylwyth teg faeries | fair folk welsh | welsh fairies | tylwyth teg folk | tylwyth teg elves | the fair family
+Coblynau | coblynau welsh | coblynau knockers | coblynau miners | coblynau goblin | coblynau gnome | knockers | knocker | coblyn | tommyknocker | tommyknockers
+Bendith y Mamau | bendith y mamau welsh | bendith y mamau fairy | bendith y mamau mother's blessing | bendith y mamau changeling | bendith y mamau faeries | mothers blessing
+Ceffyl Dŵr | ceffyl dwr | ceffyl dwr welsh | ceffyl dwr water horse | ceffyl dŵr horse | ceffyl dwr kelpie | welsh water horse
+Gwyn ap Nudd | gwyn ap nudd welsh | gwyn ap nudd king | gwyn ap nudd fairy king | gwyn ap nudd wild hunt | gwyn ap nudd annwn | gwyn ap nudd hunter | gwyn ap nudd lord of annwn | king of the tylwyth teg
+Cyhyraeth | cyhyraeth welsh | cyhyraeth ghost | cyhyraeth death omen | cyhyraeth banshee | cyhyraeth moaning ghost | gwrach y rhibyn | hag of the mist
+Knucker | knuckers | knucker sussex | knucker dragon | knucker water dragon | knucker lair | knucker worthing | knucker serpent | knucker hole dragon
+Lambton Worm | lambton worm dragon | lambton worm durham | lambton worm serpent | the lambton worm | lambton wyrm | worm of lambton | lampton worm
+Sockburn Worm | sockburn worm wyvern | sockburn worm durham | sockburn worm serpent | the sockburn worm | sockburn wyrm | worm of sockburn | sockburn wyvern
+Hedley Kow | hedley kow durham | hedley kow shapeshifter | hedley kow trickster | hedley kow brownie | hedley cow | hedley kow goblin | hedley kow boggart
+Padfoot | padfoot dog | padfoot yorkshire | padfoot black dog | padfoot hound | padfoot ghost | padfoot spectral | padfoot barghest | pad foot
+Grindylow | grindylows | grindylow water | grindylow yorkshire | grindylow goblin | grindylow harry potter | grindylow hag | grindylow child eater | grindylow river
+Jenny Greenteeth | jenny greenteeth hag | jenny greenteeth river | jenny greenteeth water | jenny greenteeth lancashire | jinny greenteeth | ginny greenteeth | jenny green teeth
+Peg Powler | peg powler river | peg powler hag | peg powler tees | peg powler water | peg powler yorkshire | peg powler witch | peg powler river hag
+Nelly Longarms | nelly longarms hag | nelly longarms river | nelly longarms water | nelly longarms cheshire | nelly longarms witch | nelly long arms | nelly longarms ogress
+Spriggan | spriggans | spriggan cornish | spriggan fairy | spriggan goblin | spriggan giant | spriggan cornwall | spriggan guardian | spriggan treasure | spriggans fairies
+Bucca | buccas | bucca cornish | bucca goblin | bucca cornwall | bucca wind | bucca mine | bucca tin miners | bucca boo | bucca dhu | bucca gwidden
+Bodach | bodachs | bodach scottish | bodach bogeyman | bodach goblin | bodach chimney | bodach old man | bodach scottish bogeyman | bodach glas
+Shellycoat | shellycoats | shellycoat scottish | shellycoat water | shellycoat goblin | shellycoat shells | shellycoat bogle | shelly coat
+Brag | brags | brag horse | brag shapeshifter | brag north england | brag bogle | brag hobgoblin | brag boggart | brag goblin
+Gytrash | gytrashes | gytrash yorkshire | gytrash dog | gytrash shapeshifter | gytrash omen | gytrash jane eyre | gytrash horse | gytrash hound
+Boo Hag | boo hags | boo hag gullah | boo hag skin | boo hag witch | boo hag vampire | boo hag south carolina | boo hag haint | haint | haints
+Raw Head and Bloody Bones | rawhead and bloody bones | rawhead and bloody bone | raw head bloody bones | rawhead | raw head | bloody bones | rawhead bloody bones | raw head and bloody bones bogeyman | bloody bones bogeyman | raw head bogey
+Tokoloshe | tokoloshes | tokoloshe zulu | tokoloshe goblin | tokoloshe south africa | tokoloshe water | tokoloshe bed | tokolosh | tikoloshe | hili | tikoloshi
+Impundulu | impundulus | impundulu lightning bird | impundulu zulu | impundulu vampire bird | impundulu witch | impundulu lightning | impundulu bird | lightning bird | impundulu xhosa
+Mngwa | mngwa tanzania | mngwa cat | mngwa big cat | mngwa strange one | mngwa cryptid | mngwa tanganyika | mngwa nunda | nunda | mngwa swahili
+Grootslang | grootslangs | grootslang south africa | grootslang snake | grootslang elephant | grootslang cave | grootslang serpent | grootslang diamond | grootslang cryptid | great snake
+Inkanyamba | inkanyambas | inkanyamba zulu | inkanyamba serpent | inkanyamba snake | inkanyamba storm | inkanyamba tornado | inkanyamba falls | inkanyamba eel | inkanyamba pool
+Anansi | ananse | anansi spider | anansi trickster | anansi ashanti | anansi ghana | anansi west african | anansi folktale | anansi stories | anancy | kwaku anansi | mr nancy | brer nancy
+Kishi | kishis | kishi angolan | kishi demon | kishi two faced | kishi double faced | kishi angola | kishi mbundu | kishi handsome man | kishi hyena
+Adze | adzes | adze ewe | adze vampire | adze firefly | adze witch | adze ghana | adze togo | adze shapeshifter | adze blood
+Asanbosam | asanbosams | asanbosam ashanti | asanbosam vampire | asanbosam iron teeth | asanbosam tree | asanbosam ghana | asanbosam hook feet | asanbosam hooked legs
+Abiku | abikus | abiku yoruba | abiku child | abiku nigeria | abiku born to die | abiku ogbanje | ogbanje | abiku reincarnating child
+Obayifo | obayifos | obayifo ashanti | obayifo vampire | obayifo witch | obayifo ghana | obayifo firefly | obayifo gambia | obayifo shapeshifter | obayifo night
+Popobawa | popobawas | popobawa zanzibar | popobawa bat | popobawa tanzania | popobawa demon | popobawa shetani | popobawa swahili | popobawa jinn | popobawa one wing | bat wing
+Ninki Nanka | ninki nanka gambia | ninki nanka dragon | ninki nanka serpent | ninki nanka cryptid | ninki-nanka | ninki nanka west africa | ninki nanka snake | ninki nanka river
+Nandi Bear | nandi bears | nandi bear kenya | nandi bear cryptid | nandi bear hyena | nandi bear east africa | nandi bear chemosit | chemosit | nandi bear nandi
+Kongamato | kongamatos | kongamato zambia | kongamato pterosaur | kongamato bird | kongamato cryptid | kongamato river | kongamato flying | kongamato breaker of boats | kongamato africa
+Emela-ntouka | emela ntouka | emela-ntouka congo | emela-ntouka cryptid | emela ntouka rhino | emela ntouka dinosaur | emela ntouka killer of elephants | killer of elephants | emelentouka
+Chipekwe | chipekwes | chipekwe zambia | chipekwe cryptid | chipekwe elephant | chipekwe congo | chipekwe dinosaur | chipekwe rhino | chipekwe africa
+Hecatonchires | hecatoncheires | hekatonkheires | hecatonchires giants | hundred handed ones | hundred-handed ones | hundred handed giants | hecatonchire | hundred handers | cottus | briareus | gyges | briareos | kottos | gyes
+Telchines | telchin | telchines sea spirits | telchines greek | telchines smiths | telchines demons | telchines rhodes | telchines poseidon | telchines metalworkers | telkhines
+Myrmidon | myrmidons | myrmidon ants | myrmidon achilles | myrmidon warriors | myrmidon greek | myrmidon soldiers | myrmidon aegina | myrmidon ant people | myrmidon people | myrmidons ants
+Arachne | arachne spider | arachne weaver | arachne greek | arachne spider woman | arachne athena | arachne spider girl | arachnae
+Pan | pan god | pan greek | pan satyr | pan goat god | pan pipes god | pan wild | pan shepherd | pan arcadia | pan nature god | pan flute god | god pan
+Ophiotaurus | ophiotaurus serpent bull | ophiotaurus greek | ophiotaurus bull | ophiotaurus snake | ophiotaurus zeus | ophiotaurus giants | ophiotaurus percy jackson | ophiotaurus snake bull | ophiotauros
+Geryon | geryons | geryon giant | geryon greek | geryon three bodied | geryon heracles | geryon cattle | geryon three headed | geryon red cattle | geryones | geryoneus
+Argus | argus giant | argus hundred eyed | argus greek | argus panoptes | argus watchman | argus hera | argus peacock | argus eyes | argus hundred eyes | argos
+Chrysaor | chrysaor giant | chrysaor greek | chrysaor golden sword | chrysaor geryon father | chrysaor pegasus brother | chrysaor medusa son | chrysaor poseidon son | chrysaor golden armor
+Hippalectryon | hippalectryons | hippalectryon rooster horse | hippalectryon greek | hippalektryon | hippalectryon hybrid | hippalectryon horse rooster | hippalectryon rooster | hippalektruon
+Colchian Dragon | colchian dragon golden fleece | colchian dragon greek | colchian dragon jason | colchian dragon guardian | colchian dragon serpent | golden fleece dragon | golden fleece guardian | dragon of colchis | colchis dragon
+Charon | charon ferryman | charon greek | charon styx | charon boatman | charon underworld | charon death | charon hades | charon river | charon coin | charon obol | charon ferryman of hades
+Thanatos | thanatos death | thanatos greek | thanatos god | thanatos hypnos brother | thanatos winged | thanatos daimon | thanatos personification of death | thanatos sword | thanatos hades | thanatos death god
+Hypnos | hypnos sleep | hypnos greek | hypnos god | hypnos thanatos brother | hypnos winged | hypnos daimon | hypnos personification of sleep | hypnos lemnos | hypnos sleep god | hypnos poppy
+Morpheus | morpheus dreams | morpheus greek | morpheus god | morpheus dream god | morpheus winged | morpheus sandman | morpheus ovid | morpheus shape | morpheus hypnos son | morpheus dream shaper
+Acheron | acheron river | acheron greek | acheron underworld | acheron woe | acheron river of pain | acheron hades | acheron river of woe | acheron river styx | acheron charon
+Wampus Cat | wampus | wampus cats | wompus cat | wampas cat | whistling wampus | wampa cat
+Snallygaster | snallygasters | snollygoster | schneller geist | snalligaster | snallygaster maryland
+Hidebehind | hide behind | hidebehinds | hide-behind | hidebehind lumberjack | hidebehind monster
+Slenderman | slender man | slendy | slenderman monster | the slender man | slender man monster
+Beast of Bodmin | beast of bodmin moor | bodmin beast | bodmin moor beast | beast of bodmin cat
+Beast of Exmoor | exmoor beast | exmoor beast cat | beast of exmoor big cat | the beast of exmoor
+Flatwoods Monster | flatwoods | braxton county monster | the flatwoods monster | green monster flatwoods | flatwoods alien
+Dover Demon | the dover demon | dover demon massachusetts | dover monster
+Pope Lick Monster | pope lick goatman | the pope lick monster | pope lick goat man | pope lick creature
+Fouke Monster | boggy creek monster | fouke monster arkansas | the fouke monster | legend of boggy creek | boggy creek
+Lizard Man | lizardman | lizard man of scape ore swamp | lizard man scape ore | scape ore swamp monster | lizard-man
+Goatman | goat man | goatman monster | maryland goatman | goat-man | goatmen
+Mogollon Monster | mogollon | arizona bigfoot | mogollon rim monster | mogollon bigfoot
+Bell Witch | the bell witch | tennessee bell witch | bell witch haunting | kate batts witch
+Cadborosaurus | caddy | cadborosaurus willsi | caddy sea serpent | cadboro bay sea serpent | caddy monster
+Altamaha-ha | altamaha ha | altie | altamaha river monster | altamaha-ha monster | altamaha river serpent
+Bear Lake Monster | bear lake monster utah | bear lake serpent | utah lake monster | bear lake sea serpent
+Flathead Lake Monster | flathead lake monster montana | flathead lake serpent | montana lake monster | flathead monster
+Memphre | memphre lake monster | lake memphremagog monster | memphremagog monster | memphre quebec
+Morag | morag loch morar | loch morar monster | morag monster | morag scotland | morar monster
+Selma | selma lake monster | lake seljord monster | seljord serpent | selma norway | seljordsormen
+Storsjöodjuret | storsjoodjuret | storsjo monster | great lake monster | storsjon monster | sweden lake monster | storsjöodjuret sweden
+Lusca | lusca caribbean | lusca octopus | lusca sea monster | lusca bahamas | giant octopus monster | lusca monster
+Orang Pendek | orang pendek sumatra | orang pendek ape | orang pendek cryptid | sumatran bigfoot | short man sumatra | sumatra orang pendek
+Kasai Rex | kasai rex congo | kasai rex cryptid | kasai rex monster | congo rex | kasai rex dinosaur
+Dingonek | dingonek africa | dingonek cryptid | dingonek sabertooth | dingonek monster | jungle walrus | dingonek kenya
+Isshie | issie | isshii | isshie japan | isshie monster | lake ikeda monster | lake ikeda isshie
+Kusshie | kussie | kusshii | kusshie japan | kusshie monster | lake kussharo monster | lake kussharo kusshie
+Yatevéo | ya-te-veo | yateveo | ya te veo | man eating tree | man-eating tree | yateveo tree
+Piasa | piasa bird | piasa bird illinois | piasa monster | piasa mississippi | piasa dragon
+Bakunawa | bakunawa philippines | bakunawa dragon | bakunawa moon eater | bakunawa serpent | moon eating dragon
+Chaneque | chaneques | chaneque mexico | chaneque sprite | chaneque aztec | chaneque guardian | chaneque goblin
+Fire Drake | fire drakes | firedrake | fire-drake | fire drake dragon
+Feathered Serpent | feathered serpents | plumed serpent | feathered snake | kukulkan serpent | quetzalcoatl serpent
+Vanara | vanaras | vanara monkey | vanara hindu | ape people | monkey warriors
+Narasimha | narasimha lion man | narasimha vishnu | man lion | man-lion | narasingha | narsimha
+Kamadhenu | kamadhenu cow | kamadhenu hindu | wish fulfilling cow | surabhi | kamdhenu
+Airavata | airavat | airavata elephant | indra's elephant | indras elephant | airavata hindu | white elephant airavata
+Rakshasi | rakshasis | rakshasi hindu | rakshasa female | rakshasi demon | female rakshasa
+Naga Kanya | naga kanyas | naga maiden | naga princess | nagini | naga woman
+Zu | zu bird | anzu zu | zu mesopotamian | imdugud | zu storm bird
+Sha | sha egyptian | set animal | sha animal | seth animal | typhonian animal

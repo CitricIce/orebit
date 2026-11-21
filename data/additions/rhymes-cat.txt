@@ -1,0 +1,112 @@
+--- 2
+Bat | bats
+Hat | hats
+Rat | rats
+Mat | mats
+Fat
+Sat
+Flat | flats
+That
+Chat | chats | chatting
+Pat | pats
+Brat | brats
+Splat
+Gnat | gnats
+Spat | spats
+Scat
+Vat | vats
+--- 3
+Combat | combats
+Habitat | habitats
+Format | formats
+Democrat | democrats
+Acrobat | acrobats
+Diplomat | diplomats
+Doormat | doormats | door mat
+Thermostat | thermostats
+Cravat | cravats
+Copycat | copycats | copy cat
+Tomcat | tomcats | tom cat
+Bobcat | bobcats | bob cat
+Wildcat | wildcats | wild cat
+Wombat | wombats
+Top hat | tophat | top hats
+Hard hat | hardhat | hard hats
+Sun hat | sunhat
+Placemat | placemats | place mat
+Bureaucrat | bureaucrats
+Aristocrat | aristocrats
+Brickbat
+Hellcat
+Polecat
+Chitchat | chit chat | chit-chat
+Stat | stats
+Slat | slats
+Tat | tats
+Matt
+Frat | frats
+Dingbat | dingbats
+Rugrat | rug rat | rugrats
+Cowpat | cow pat
+Bathmat | bath mat
+Beermat | beer mat
+Mousemat | mouse mat
+Pussycat | pussy cat
+Fat cat | fatcat
+Cool cat
+Black cat
+Baseball bat
+Cricket bat
+Fruit bat | fruit bats
+Vampire bat
+Cowboy hat
+Straw hat
+Bowler hat
+Sorting hat
+--- 4
+Tit for tat | tit-for-tat
+Nonfat | non-fat | non fat
+Lowfat | low fat | low-fat
+Backchat | back chat
+At-bat | at bat
+Packrat | pack rat
+Gym rat
+Mall rat
+Alley cat | alleycat
+Scaredy cat | scaredy-cat
+Fraidy cat | fraidy-cat
+Hepcat | hep cat
+Muskrat | muskrats
+Bearcat | bear cat
+Autocrat
+Technocrat
+Plutocrat
+Ziggurat
+Begat
+Sprat
+Ratatat
+Pit-a-pat | pitapat
+Landsat
+Photostat
+Cryostat
+Aerostat
+Kleptocrat
+Theocrat
+Gyrostat
+Hydrostat
+Humidistat
+Meritocrat
+Gerontocrat
+Rheostat
+Thalassocrat
+Prat
+Gat
+Lat
+Reformat
+Sandcat
+Floormat
+Thundercat | thundercats
+Whitehat | white hat
+Blackhat | black hat
+Concat
+--- 5

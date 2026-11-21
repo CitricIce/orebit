@@ -131,7 +131,8 @@ Ribeye
 T-bone
 Filet mignon | fillet | tenderloin
 Rump
-Pork chop | chops | lamb chop
+Pork chop | chops
+Lamb chop | lamb chops
 Chicken breast | breast
 Chicken thigh | thigh
 Drumstick

@@ -1,0 +1,232 @@
+# european-cities additions: missing cities, native names, typos.
+--- 2
+London | londn | londen | londom | greater london
+Paris | pariss | pari | paree
+Rome | roma | rom
+Berlin | berlinn | berln | berling
+Madrid | madird | madrd | madrit
+Barcelona | barcalona | barclona | barca | barcelone | barcelnoa
+Amsterdam | amsterdamn | amstardam | amstedam | amsterdan | amsterdm
+Venice | venezia | venise | venace | venic | venecia
+Moscow | moskva | moscou | moscov | mosocw
+Istanbul | constantinople | istambul | instanbul | stanbul | istanbull
+Athens | athen | athina | athenes | athns
+Warsaw | warszawa | warshaw | warsow | warsawa
+Stockholm | stockholme | stokholm | stockhom
+Prague | praha | prag | praque | pragu
+Oslo | osloo | osllo
+Copenhagen | kobenhavn | københavn | copenhagan | copenhaguen | copenhaegen | copenhagn
+Munich | münchen | munchen | muenchen | munic | muinch | munchin
+Brussels | bruxelles | brussel | brusells | brussles | bruselas | brussell
+Dublin | dubln | dubiln | baile atha cliath
+Hamburg | hamburgh | hamberg | hambrg
+Milan | milano | milon | mialn
+Florence | firenze | florance | florense | florence italy
+Vienna | wien | viena | vienne | vienaa | vienna austria
+Lisbon | lisboa | lisbonn | lisbone | lisabon
+Naples | napoli | napels | napoles | nápoles
+Edinburgh | edinborough | edinburg | edinbrugh | edinburough | edinboro
+Geneva | geneve | genf | genève | genava | ginevra
+Cologne | köln | koln | colone | cologn
+Krakow | kraków | cracow | crakow | krakov
+Frankfurt | frankfurt am main | frankfort | frankfurd
+Kyiv | kiev | kyev | kiyv | kyiiv
+Budapest | budapesht | budapet | buadapest | budepest
+Zurich | zürich | zuerich | zurish | zurick
+Seville | sevilla | sevile | sevill | sevilie
+Turin | torino | turn | turino
+St. Petersburg | st petersburg | st. petersburg | saint petersburg | leningrad | petrograd | st peterburg | petersburg | sankt peterburg
+--- 3
+Bristol | bristl | bristal
+Porto | oporto | portto
+Leeds | leeds uk | leads
+Manchester | manchster | mancester | manchestor | manc | man chester
+Birmingham | birmingam | birminham | brum | birmingham uk
+Liverpool | liverpol | livepool | liverpoole | liverpoo
+Glasgow | glasgo | glasgoe | glaslow | glasgwo
+Belfast | belfas | belfst | béal feirste
+Cardiff | cardif | caerdydd | cardiffe | carddif
+Nice | nizza | niece | nice france
+Lyon | lyons | lyone | lion france
+Marseille | marseilles | marseile | marsaille | marseilee
+Dubrovnik | dubrovnic | dubrovnikk | ragusa | dubrovik
+Bucharest | bucuresti | bucurești | bucarest | bukarest | bucharst | bucharist
+Belgrade | beograd | belgrad | belgrde | beograd serbia
+Zagreb | zagrb | zagreg | zagrep | agram
+Reykjavik | reykjavík | reykavik | reykjavick | reikjavik | rekyavik | reykjavic
+Helsinki | helsingfors | helsinky | helsingi | helsinkie
+Tallinn | talinn | tallin | tallinnn | revel
+Riga | rigaa | rigga
+Vilnius | vilna | vilnious | vilnus | wilno | vilnuis
+Gothenburg | göteborg | goteborg | gothenberg | gothenburgh | gottenburg
+Nuremberg | nürnberg | nurnberg | nuremburg | nurenberg | nuernberg
+Hanover | hannover | hanover germany | hannovre
+Seville | seville spain
+Cambridge | cambrige | cambrdige | cambridge uk
+Oxford | oxfrod | oxfor | oxford uk
+The Hague | the hague | den haag | s-gravenhage | the haig
+Odesa | odessa | odesa ukraine | odesssa
+Bruges | brugge | brugges | brudges
+Luxembourg | luxemburg | luxembourgh | luxemborg | luxembourg city
+Salzburg | salzberg | saltzburg | salsburg
+Pisa | piza | pisaa
+Verona | veronna | veronaa
+Bologna | bolonia | bolognia | bolonga | bolognaa
+Stuttgart | stutgart | stuttgard | stutgard | sttutgart
+Düsseldorf | dusseldorf | duesseldorf | dusseldorff | dusselldorf | duseldorf
+Dresden | dresdan | dresen | dresdenn
+Leipzig | liepzig | leipsig | leipzg | lepzig
+Bern | berne | bernn
+Sofia | sophia | sofiaa | sofya
+Valencia | valenica | valancia | valéncia | valenca
+Monaco | monte carlo | monaco city | monaco-ville
+Ankara | angora | ankra | ankarra
+Izmir | smyrna | i̇zmir | izmer
+Baku | baky | bakou | baku azerbaijan
+Yerevan | erevan | yeravan | yerevan armenia | erivan
+Vaduz | vaduz liechtenstein
+Gibraltar | gibralter | gibraltor | gibralta
+Plovdiv | plovdiv bulgaria
+Varna | varna bulgaria
+Sochi | sochi russia
+Vladivostok | vladivostock | vladivostoc
+Kharkiv | kharkov | harkiv | kharkiv ukraine | charkiw
+Rostock | rostok | rostock germany
+Wiesbaden | weisbaden | wiesbadan
+Lugano | lugano switzerland
+Uppsala | upsala | upssala
+Stavanger | stavanger norway | stavenger
+Tromsø | tromso | tromsoe | tromsö
+Kristiansand | kristiansand norway
+Oulu | oulu finland | uleaborg
+Espoo | esbo | espoo finland
+Tartu | tartu estonia | dorpat
+Varna | varna
+--- 4
+Hull | kingston upon hull | hull uk
+Bradford | bradford uk | bradfrod
+Wolverhampton | wolves | wolverhamton | wolverampton
+Swansea | abertawe | swanseaa | swanse
+Canterbury | cantebury | canterbery | canterbuy
+Durham | durham uk | durham england
+Winchester | winchestar | winchestor
+Salisbury | salisberry | salsbury | salisbury uk
+Chester | chester uk | chestar
+Lancaster | lancaster uk | lancastar
+Carlisle | carlile | carlisle uk
+Stirling | sterling scotland | stirlling | stirlng
+Perth | perth scotland | perth uk
+Londonderry | derry | doire | derry londonderry | londonderry ni
+Lisburn | lisburn ni
+Limerick | limrick | luimneach | limmerick
+Waterford | waterford ireland | port láirge
+Kilkenny | kilkenny ireland | cill chainnigh
+Versailles | versaille | versailes | versialles
+Toulon | toulon france
+Calais | calais france | calay
+Dunkirk | dunkerque | dunkirque | dunkerk
+Cherbourg | cherbourg france | cherborg
+Lourdes | lourdes france | lourde
+Carcassonne | carcasonne | carcassone | carcasone
+Biarritz | biaritz | biarritz france
+Antibes | antibes france
+Ajaccio | ajaccio corsica | ajacio
+Bastia | bastia corsica
+Chartres | chartres france
+Lecce | lecce italy
+Brindisi | brindisi italy
+Cagliari | cagliari sardinia | caglairi | calgiari
+Como | como italy
+Lucca | luca | lucca italy
+Udine | udine italy
+Pescara | pescara italy
+Aosta | aosta italy | aoste
+Trento | trent | trento italy | trient
+Capri | capri italy
+Weimar | weimar germany | wiemar
+Bayreuth | bayreuth germany | bayruth
+Darmstadt | darmstadt germany | darmstat
+Bamberg | bamberg germany
+Passau | passau germany
+Konstanz | constance | konstanz germany | costanza
+Baden-Baden | baden baden | badenbaden
+Bregenz | bregenz austria
+St. Pölten | st polten | sankt polten | st pölten
+Eisenstadt | eisenstadt austria
+St. Gallen | st gallen | sankt gallen | saint gallen
+Leiden | leyden | leiden netherlands
+Arnhem | arnheim | arnhem netherlands
+Nijmegen | nijmegan | nijmegen netherlands | nimegen
+Mechelen | malines | mechlin | mecheln
+Charleroi | charleroi belgium
+Mons | bergen belgium | mons belgium
+Ostend | oostende | ostende | ostand
+Hasselt | hasselt belgium
+Lund | lund sweden
+Visby | visby sweden
+Kiruna | kiruna sweden
+Umeå | umea | umeaa
+Vantaa | vanda | vantaa finland
+Rovaniemi | rovaniemi finland | rovaniemmi
+Akureyri | akureyri iceland | akureri
+Tórshavn | torshavn | thorshavn | torshavn faroe
+Narva | narva estonia
+Pärnu | parnu | pärnu estonia | pernau
+Daugavpils | dvinsk | daugavpils latvia
+Liepāja | liepaja | libau
+Veliko Tarnovo | tarnovo | veliko turnovo | veliko tarnovo bulgaria
+Rhodes | rhodes greece | rodos
+Kotor | cattaro | kotor montenegro
+Mostar | mostar bosnia
+Zadar | zara | zadar croatia
+Pula | pola | pula croatia
+Hvar | hvar croatia
+Sopron | sopron hungary | odenburg
+Debrecen | debrecen hungary | debrechen
+Győr | gyor | győr hungary | raab
+Sighișoara | sighisoara | schassburg | sighisoara romania
+Vlorë | vlore | vlora | valona
+Shkodër | shkoder | shkodra | scutari
+Ohrid | ohrid macedonia | ohrid north macedonia
+Bitola | bitola macedonia | monastir
+Prizren | prizren kosovo | prizreni
+Cetinje | cetinje montenegro | cetinje
+Murmansk | murmansk russia | murmansc
+Arkhangelsk | archangel | arkhangelsk russia | archangelsk
+Ufa | ufa russia
+Chelyabinsk | chelyabinsk russia | cheliabinsk | chelyabinks
+Krasnodar | krasnodar russia
+Rostov-on-Don | rostov | rostov on don | rostov-na-donu | rostov na donu
+Suzdal | suzdal russia
+Mariupol | mariupol ukraine | mariupil
+Donetsk | donetsk ukraine | donetsk donbas
+Luhansk | lugansk | luhansk ukraine | luhanska
+Chernihiv | chernigov | chernihiv ukraine | tchernigov
+Poltava | poltava ukraine
+Mykolaiv | nikolaev | mykolaiv ukraine
+Kherson | kherson ukraine | cherson
+Larnaca | larnaka | larnaca cyprus | larnacka
+Paphos | pafos | paphos cyprus
+Mdina | mdina malta | medina malta
+Corinth | corinth greece | korinthos
+Sparta | sparti | sparta greece
+Olympia | olympia greece
+Chania | hania | chania crete | canea
+Kalamata | kalamata greece
+Ioannina | yannina | ioannina greece | janina
+Volos | volos greece
+Murcia | murcia spain | murica
+Las Palmas | las palmas de gran canaria | las palmas canary
+Vigo | vigo spain
+Gijón | gijon | xixón | gijon spain
+A Coruña | la coruna | a coruna | coruña | la coruña | corunna
+Pamplona | pamplona spain | iruña | pamplone
+Santander | santander spain
+Cádiz | cadiz | cadiz spain | cádis
+Marbella | marbella spain | marbela
+Santiago de Compostela | santiago | compostela | santiago de compostella
+Braga | braga portugal
+Funchal | funchal madeira | funchal portugal
+Adana | adana turkey
+Rouen | rouen france
+Heraklion | iraklion | heraklion crete | irakleion | candia

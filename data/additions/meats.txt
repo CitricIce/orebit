@@ -1,0 +1,142 @@
+--- 2
+Beef | cow | cattle | red meat | beef meat
+Chicken | poultry | white meat | chicken meat
+Pork | pig | swine | hog | pork meat
+Lamb | spring lamb | lamb meat
+Turkey | turkey meat | turkey breast
+Bacon | streaky bacon | back bacon | canadian bacon | rashers | bacon strips
+Ham | honey ham | deli ham | smoked ham | ham steak | black forest ham
+Sausage | sausages | bangers | italian sausage | breakfast sausage | bratwurst | brat | wurst | sausage links | pork sausage | kielbasa | andouille
+Hot dog | hot dogs | frankfurter | frankfurters | frank | franks | wiener | wieners | weiner | weenie | hotdog | hotdogs
+Chicken breast | chicken breasts | chicken fillet | chicken tenders | chicken tenderloin | chicken strips
+Chicken thigh | chicken thighs | dark meat
+Wings | chicken wings | buffalo wings | wing | hot wings | drumettes
+Drumstick | drumsticks | chicken leg | chicken legs | chicken drumstick | turkey leg
+Ribs | spare ribs | spareribs | baby back ribs | baby back | st louis ribs | beef ribs | pork ribs | short ribs | short rib | back ribs | bbq ribs | rib
+Pork chop | pork chops | pork cutlet
+Duck | duck breast | duck leg | duck confit | peking duck | mallard
+Salami | genoa salami | hard salami | soppressata | salame
+Pepperoni | pepperoni slices
+Roast beef | deli roast beef | pot roast | beef roast | chuck roast
+Ribeye | rib eye | ribeye steak | rib-eye | cowboy steak | tomahawk | tomahawk steak
+Sirloin | sirloin steak | top sirloin
+Meatballs | meatball
+--- 3
+Bologna | baloney | boloney | lunch meat | luncheon meat | cold cuts | deli meat | cold cut | sandwich meat | lunchmeat
+Meatloaf | meat loaf
+Turkey bacon | turkey rashers
+Corned beef | salt beef | corn beef | bully beef
+Pastrami | pastrami beef
+Prime rib | standing rib roast | rib roast | prime rib roast
+Chuck | chuck steak | chuck eye
+Flank | flank steak | skirt steak | bavette | onglet | fajita meat | carne asada
+Skirt | outside skirt | inside skirt
+New York strip | ny strip | kansas city strip | strip loin | new york steak
+Porterhouse | porterhouse steak
+T-bone | t-bone steak | t bone steak | t bone | tbone
+Shank | beef shank | lamb shank | lamb shanks | osso buco | ossobuco | veal shank | pork shank | shin of beef | beef shin
+Ham hock | hock | ham hocks | pork hock | knuckle | schweinshaxe | ham shank
+Pork shoulder | pork butt | boston butt | picnic ham | picnic shoulder | carnitas
+Pork loin | loin of pork | pork loin roast | pork roast
+Pork rinds | pork scratchings | scratchings | crackling | pork crackling | chicharron | chicharrón | chicharrones
+Leg of lamb | lamb leg | roast lamb | lamb roast | lamb shoulder
+Mutton | sheep | hogget
+Goat | goat meat | chevon | cabrito | curry goat
+Veal | veal cutlet | veal chop | veal scallopini | calf
+Venison | deer | deer meat | venison steak | red deer | roe deer | whitetail | reindeer | caribou
+Rabbit | bunny | rabbit meat | cottontail
+Hare | jackrabbit | jack rabbit | wild hare
+Bison | buffalo | bison meat | water buffalo | yak
+Boar | wild boar | wild pig | feral hog | javelina | warthog
+Goose | roast goose | goose breast
+Quail | quails | quail meat
+Pheasant | pheasants | roast pheasant
+Partridge | partridges | grey partridge | red-legged partridge | chukar
+Guinea fowl | guinea hen | guineafowl
+Pigeon | squab | wood pigeon | woodpigeon | dove | pigeon meat
+Cornish hen | cornish game hen | game hen | rock cornish hen | spatchcock
+Poussin | baby chicken | spring chicken
+Capon | capons | rotisserie chicken | roast chicken | whole chicken | fried chicken | stewing hen
+Liver | beef liver | calf liver | calves liver | chicken liver | chicken livers | liver and onions
+Liverwurst | braunschweiger | liver sausage | liver pate | pate | pâté | paté
+Foie gras | goose liver | duck liver | fatty liver
+Kidney | kidneys | beef kidney | lamb kidney | pork kidney | steak and kidney
+Heart | beef heart | chicken hearts | chicken heart | lamb heart | pork heart | ox heart | anticuchos
+Tongue | beef tongue | lengua | ox tongue | pork tongue | lamb tongue
+Tripe | beef tripe | honeycomb tripe | tripas | cow stomach
+Oxtail | ox tail | oxtails | cow tail | beef tail
+Sweetbreads | sweetbread | thymus | veal sweetbreads | ris de veau
+Brain | brains | calf brain | lamb brains | sheep brain | cervelle | sesos
+Cheek | beef cheek | pork cheek | pork cheeks | beef cheeks | cheeks | cachete | barbacoa | ox cheek
+Trotters | pig trotters | pig's trotters | pigs feet | pig feet | pig's feet | pork trotters | pork feet | chicken feet | cow heel | crubeens | pettitoes
+Gizzard | gizzards | chicken gizzards | giblets | giblet | turkey gizzards
+Offal | organ meat | organ meats | variety meats | innards | entrails
+Chitterlings | chitlins | chitlin | chitterling | hog maw
+Blood sausage | blood pudding | boudin noir | morcilla | blutwurst
+Head cheese | headcheese | brawn | souse | pig head | pig's head
+Lard | fatback | pork fat | salt pork | leaf lard
+--- 4
+Chorizo | spanish chorizo | mexican chorizo | chorizo sausage | chouriço
+Prosciutto | parma ham | prosciutto di parma | prosciutto crudo | san daniele | serrano | serrano ham | jamon | jamón | jamon iberico | jamón ibérico | jamon serrano | iberico | iberico ham | speck | cured ham | country ham | smithfield ham | virginia ham
+Pancetta | italian bacon | pancetta tesa | pancetta stesa
+Lardons | lardon | bacon bits
+Capicola | capocollo | capicolla | gabagool | gabbagool | capocolla | hot capicola
+Coppa | coppa piacentina
+Mortadella | mortadelle | mortadella bologna | pistachio mortadella
+Bresaola | bresaola della valtellina | cured beef
+Culatello | culatello di zibello
+Lardo | lardo di colonnata
+Nduja | 'nduja | nduja sausage | spreadable salami
+Biltong | droewors | dried meat | meat sticks | slim jim | slim jims | meat snacks | meat stick | pemmican | bakkwa | landjäger | landjager
+Jerky | beef jerky | turkey jerky | pork jerky | chicken jerky | venison jerky | jerky meat | elk jerky
+Spam | spam meat | canned meat | tinned meat | luncheon spam | potted meat | vienna sausage | deviled ham | canned ham | treet
+Black pudding | white pudding
+Haggis | haggis meat | scottish haggis
+Scrapple | goetta | livermush | liver mush | summer sausage | thuringer | lebanon bologna | olive loaf | pickle loaf | pimento loaf | luncheon loaf
+Rillettes | rillette | pork rillettes | duck rillettes | potted beef | terrine | galantine | ballotine
+Knockwurst | knackwurst | bockwurst | weisswurst | weißwurst | currywurst | mettwurst | bierwurst | leberkäse | leberkase
+Frog legs | frog | frogs legs | frog's legs | cuisses de grenouille | frog meat | bullfrog
+Snail | snails | escargot | escargots
+Alligator | gator | alligator meat | gator tail | gator bites | crocodile | croc | crocodile meat | caiman
+Kangaroo | roo | kangaroo meat | wallaby | wallaby meat | kangaroo steak | roo steak
+Ostrich | ostrich meat | ostrich steak | ostrich burger
+Emu | emu meat | emu steak | rhea
+Camel | camel meat | dromedary | camel burger
+Llama | llama meat | alpaca | alpaca meat | guanaco
+Horse | horse meat | horsemeat | pony | donkey | donkey meat | cheval | basashi | sakura niku
+Guinea pig | cuy | cavy | capybara | nutria | coypu | muskrat | beaver | porcupine
+Squirrel | squirrel meat | possum | opossum | raccoon | coon | groundhog | woodchuck | armadillo
+Snake | snake meat | rattlesnake | cobra | python | iguana
+Turtle | turtle meat | snapping turtle | terrapin | soft shell turtle | softshell turtle | sea turtle
+Elk | elk meat | elk steak | wapiti | elk burger
+Moose | moose meat | moose steak
+Antelope | springbok | kudu | wildebeest | eland | impala | gemsbok | oryx | zebra | zebra meat
+Bear | bear meat
+Swan | swan meat
+Neck bones | pork neck bones | pork neck | smoked neck bones | chicken neck | chicken necks
+Bone marrow | marrow bones | marrow | roasted bone marrow
+Pork tenderloin | pork fillet | pork medallions
+Beef tenderloin | chateaubriand steak | tournedos | beef medallions | beef wellington
+Cube steak | cubed steak | minute steak | breakfast steak | sandwich steak | shaved steak | philly steak
+Gyro meat | gyro | doner | döner | doner kebab | shawarma | kebab meat | kofta | kefta
+--- 5
+Wagyu | wagyu beef | kobe beef | japanese wagyu | a5 wagyu | a5 | miyazaki beef | matsusaka
+Picanha | rump cap | coulotte | culotte | top sirloin cap | sirloin cap | brazilian steak | maminha | fraldinha | cupim
+Chateaubriand | châteaubriand
+Tri-tip | tri tip | tritip | santa maria tri tip | triangle tip | bottom sirloin
+Rump | rump steak | rump roast | round steak | top round | bottom round | eye of round | silverside | topside | beef round | thick flank
+Smoked sausage | hot links | hot link | polish sausage link | cabanossi | cabanos
+Pork belly | belly pork | pork belly slices | belly slices | samgyeopsal | lechon | lechon kawali | char siu | siu yuk | crispy pork belly | roast pork belly | porchetta | pork roast belly | pork side | side pork | side meat | fatback bacon | slab | pork slab
+Mince | ground beef | minced meat | ground meat
+Pork chop | pork cutlet | cutlets
+Guanciale | pork jowl | hog jowl | jowl bacon
+Gizzard | giblets | turkey giblets
+Burger | hamburger | hamburger patty | burger patty | beef patty
+Roast beef | pot roast | chuck pot roast
+Brisket | smoked brisket | burnt ends | brisket flat
+Brisket point | point cut
+Stew meat | stewing steak | stewing beef | diced beef | beef cubes
+Denver steak | flat iron roast | oyster blade | blade steak | top blade
+Lamb rack | frenched rack | crown roast | saddle of lamb | lamb neck | scrag end | lamb breast
+Steak | steaks | beef steak | flat iron | flat iron steak | london broil
+Mince | hamburger meat | beef mince | minced beef

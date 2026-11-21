@@ -1,0 +1,85 @@
+# natural-disasters additions: aliases, typos, extra weather/geological events.
+--- 2
+Earthquake | quake | earthquakes | earth quake | seismic event | tremor | earthquack | erthquake | earthquaek | eartquake | seismic activity
+Tornado | twister | tornadoes | tornados | whirlwind | tornedo | tornadoe | tornato | tornaddo
+Hurricane | hurricanes | tropical storm | huricane | hurrican | hurricain | hurracane | hurricaine
+Flood | flooding | floods | floding | flod | river flood | coastal flood | flooded
+Tsunami | tidal wave | tsunamis | tsunammi | tsumani | tsunmai | tsnuami | tsunmi | tsunani | tidalwave
+Volcano | volcanic eruption | eruption | volcanoes | volcanos | volcanic activity | volcanoe | volcono | vocano
+Wildfire | forest fire | bushfire | wild fire | wildfires | brush fire | brushfire | bush fire | forest fires | wildfir | wildifre | grass fire
+Thunderstorm | storm | thunder storm | thunderstorms | thunder | electrical storm | thunderstrom | thunderstorn | storms
+Drought | droughts | draught | drout | drought conditions | droght
+Blizzard | snowstorm | snow storm | blizzards | snow blizzard | whiteout | blizard | blizzrd | bilzzard
+Avalanche | avalanches | avalance | avelanche | snow slide | avalanch | avalanshe | avallanche
+Landslide | mudslide | landslides | land slide | mud slide | landslip | landslid | landslie | mud slides
+Lightning | lightning strike | lightening | lightening strike | lightning bolt | lighting | lightnin | lightning storm
+Heatwave | heat wave | heat wave | extreme heat | heatwaves | heat waves | heat spell | heatwav
+--- 3
+Hailstorm | hail | hail storm | hailstorms | hailstones | hale | hail stone | hailstone | hale storm
+Typhoon | typhoons | typhon | typoon | typhoone | super typhoon | typhoon storm
+Cyclone | cyclones | tropical cyclone | cycone | cyclon | cyclonne | cylone | cycloon
+Famine | famines | starvation | famin | famine event | famne | food shortage
+Plague | black death | plagues | the plague | bubonic plague | plauge | plage | pestilence | pestilance
+Pandemic | pandemics | pandemic disease | global pandemic | pandemik | pandemick | covid | pandamic | pandimic
+Epidemic | epidemics | outbreak | disease outbreak | epidemik | epedemic | epidemmic | epidemc
+Sandstorm | dust storm | sand storm | sandstorms | sand storms | duststorm | sandstrom | sandstorn | dust storms
+Meteor | meteor strike | asteroid impact | meteorite | asteroid | meteors | comet impact | meteor impact | asteriod | meteoroid | meteorite strike | comet | meteorite impact | asteroid strike
+Storm surge | tidal surge | storm surges | storm serge | tidal surges | coastal surge
+Monsoon | monsoons | monsoon rains | monsoon season | monsoom | monson | monsoon flood
+Lava flow | lava | lava flows | lavaflow | lava river | lava flood | lava eruption
+Flash flood | flash flooding | flash floods | flashflood | flash flud | flashflood event
+Ice storm | ice storms | freezing rain | icestorm | ice-storm | glaze storm | ice strom | ice stom
+Ash cloud | volcanic ash | ash fall | ashfall | ash plume | ash clouds | ashcloud | volcanic ash cloud
+--- 4
+Gale | gales | gale force wind | gale force winds | windstorm | wind storm | high winds | gail | strong winds | severe winds | storm winds | gales force
+Tropical depression | tropical disturbance | tropical low | tropical depresion
+Cold snap | freeze | frost | cold spell | hard freeze | deep freeze | extreme cold | cold snaps | cold snapp | big freeze | freezing temperatures
+Whirlpool | whirlpools | maelstrom | whirl pool | whirpool | whirlpul
+Solar flare | solar storm | solar flares | sun flare | solar flair | solar eruption | solar flayer | coronal mass ejection | cme
+Sinkhole | sink hole | sinkholes | sinkhol | sinkhoal | sinkhole collapse | sunkhole
+Waterspout | water spout | waterspouts | waterspot | waterspoute | water tornado | waterspount | watterspout
+Rockslide | rockfall | rock slide | rockslides | rock fall | rock falls | rock avalanche | rockslid | stone slide
+Locusts | locust swarm | plague of locusts | locust plague | locust | locusts swarm | locust infestation | swarm of locusts
+Blackout | power outage | blackouts | black out | power cut | grid failure | brownout | blackot | blakout
+Crop failure | crop failures | harvest failure | failed harvest | crops failing | blight | potato blight | crop blight
+Algal bloom | red tide | algae bloom | algal blooms | harmful algal bloom | algea bloom | toxic algae | algal blom | blue-green algae
+Dust Bowl | dustbowl | dust bowls | dust-bowl | the dust bowl | dust bowl era
+Squall | squalls | squal | line squall | squall line | squalls line | thunder squall
+Nor'easter | noreaster | northeaster | nor easter | nor'easters | nor eastern | northeaster storm
+Dust devil | dust devils | dustdevil | dust-devil | dust whirl | dirt devil | sand devil
+Heat dome | heat domes | heatdome | heat-dome | high pressure heat | omega block
+Debris flow | debri | debris flows | debris slide | debris avalanche | debrie flow | rubble flow
+Cloudburst | cloud burst | cloudbursts | torrential rain | heavy rain | downpour | rainstorm | rain storm | extreme rainfall | heavy rainfall | deluge | torrential downpour
+Fire whirl | fire tornado | fire devil | firenado | fire whirls | fire twister
+Snow squall | snow squalls | lake effect snow | lake-effect snow | heavy snow | snowfall | heavy snowfall
+Mass extinction | extinction event | dinosaur extinction | dinosaur asteroid | great dying | extinction events
+Tidal flood | king tide | tidal flooding | tidal floods | high tide flooding
+Glacial outburst | jokulhlaup | jökulhlaup | glacial outburst flood | glacier outburst | glacial lake outburst | glof | glacial flood
+Glacier collapse | glacial collapse | ice collapse | glacier calving | glacial calving | ice shelf collapse
+--- 5
+Rogue wave | freak wave | rogue waves | killer wave | monster wave | roguewave | freakwave | rouge wave
+Derecho | derechos | derecho storm | derechio | dereecho | derecho wind
+Pyroclastic flow | pyroclastic | pyroclastic surge | pyroclastic flows | pyroclastic cloud | pyrocastic | pyroclastic density current | nuée ardente | pyroclastic fow
+Lahar | lahars | volcanic mudflow | volcanic mudslide | lahar flow | larhar | volcanic lahar
+Haboob | haboobs | haboub | haboob dust storm | habboob | hboob
+Seiche | seiches | seich | seiche wave | lake seiche | seish | siesche
+Dzud | dzuds | mongolian winter disaster | zud | dzud winter | dzood
+Limnic eruption | lake overturn | limnic | limnic eruptions | lake eruption | lake nyos | carbon dioxide lake eruption | lake explosion
+Supervolcano | super volcano | supervolcanoes | supervolcanos | yellowstone eruption | super eruption | yellowstone | supervolcan | supervolcanic eruption
+Geomagnetic storm | geomagnetic | magnetic storm | carrington event | geomagnetic storms | solar geomagnetic storm | space weather
+Gamma-ray burst | gamma ray burst | grb | gamma burst | gamma ray bursts | gamma-ray bursts | gammaray burst
+Microburst | microbursts | downburst | micro burst | macroburst | wet microburst | dry microburst
+Liquefaction | soil liquefaction | liquifaction | liquefaction event | liquefacton | liquefication
+Subsidence | land subsidence | ground subsidence | subsidance | ground sinking | land sinking | sinking land
+Aftershock | aftershocks | after shock | after shocks | aftershok | aftershoks | foreshock | foreshocks
+Megathrust | megathrust earthquake | mega thrust | megathrust quake | megathrusts | megathrust fault | great earthquake
+Desertification | desertification event | land desertification | desertificaton | deserification | desert expansion | desertisation | desertization
+Coastal erosion | erosion | beach erosion | coast erosion | coastal erosions | cliff collapse | shore erosion
+Polar vortex | polar vortices | arctic outbreak | arctic blast | polar vortex event | polar vorex | arctic vortex
+Firestorm | fire storm | firestorms | fire-storm | firestrom | conflagration | great fire | fire storms
+Mudflow | mud flow | mudflows | mud flows | mud flood | mud-flow | mudflo
+Fissure eruption | fissure | fissure vent | fissure eruptions | volcanic fissure | fissure volcano | icelandic eruption
+Ball lightning | ball of lightning | balllightning | ball lighting | ball-lightning | plasma ball | sphere lightning
+Ice jam | ice jam flood | ice jams | river ice jam | icejam | ice dam | ice damming
+Mega drought | megadrought | mega-drought | long drought | decades-long drought | extended drought | multi-year drought
+Medicane | mediterranean hurricane | mediterranean cyclone | medicanes | tropical-like cyclone | mediterranean tropical-like cyclone | medicain
