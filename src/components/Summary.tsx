@@ -5,7 +5,8 @@ import { useEffect, useMemo, useState } from "react";
 import type { DayResponse, RevealResponse } from "@/lib/api-types";
 import { formatLongDate } from "@/lib/dates";
 import { formatMeters, ores, rankFor, RANKS, TIERS, type TierId } from "@/lib/tiers";
-import { computeStats, totalDepth, type DayRecord } from "@/lib/client/storage";
+import { achievementStates } from "@/lib/achievements";
+import { computeStats, markAchievementsSeen, seenAchievements, totalDepth, type DayRecord } from "@/lib/client/storage";
 import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
 import { shareImage, shareText } from "@/lib/client/share";
@@ -41,6 +42,16 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
   const mounted = useMounted();
   const days = useDays();
   const streak = useMemo(() => (mounted ? computeStats(days).currentStreak : 0), [mounted, days]);
+  // Achievements unlocked since the player last saw this screen. The "seen"
+  // list is read once, so the banner stays up after they're marked seen.
+  const seenAtOpen = useMemo(() => (mounted ? seenAchievements() : null), [mounted]);
+  const newAchievements = useMemo(
+    () => (seenAtOpen ? achievementStates(Object.values(days)).filter((a) => a.unlocked && !seenAtOpen.has(a.achievement.id)) : []),
+    [seenAtOpen, days],
+  );
+  useEffect(() => {
+    if (newAchievements.length) markAchievementsSeen(newAchievements.map((a) => a.achievement.id));
+  }, [newAchievements]);
   const [copied, setCopied] = useState<string | null>(null);
   const [tab, setTab] = useState(0);
   const [reveals, setReveals] = useState<Record<number, RevealResponse>>({});
@@ -130,6 +141,23 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
           </p>
         )}
       </div>
+
+      {newAchievements.length > 0 && (
+        <div className={s.achievementsNew} role="status">
+          <p className={s.achievementsKicker}>Achievement{newAchievements.length > 1 ? "s" : ""} unlocked</p>
+          <ul>
+            {newAchievements.map(({ achievement }) => (
+              <li key={achievement.id}>
+                <strong>{achievement.title}</strong>
+                <span>{achievement.description}</span>
+              </li>
+            ))}
+          </ul>
+          <Link href="/stats#achievements" className={s.achievementsLink}>
+            See all achievements
+          </Link>
+        </div>
+      )}
 
       <div className={s.tally}>
         {tierTally.map(({ t, n }) => (

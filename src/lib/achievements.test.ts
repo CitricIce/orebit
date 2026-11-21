@@ -1,0 +1,27 @@
+import assert from "node:assert/strict";
+import test from "node:test";
+import { achievementStates, factsFrom, type PlayedDay } from "./achievements";
+
+const round = (tiers: number[]) => ({ found: tiers.map((t) => ({ tier: t as 1 })), depth: 0 });
+
+test("achievements unlock from saved runs", () => {
+  const days: PlayedDay[] = [
+    { date: "2026-11-21", playedOn: "2026-11-21", completed: true, rounds: [round([1, 2, 3, 4, 5]), round([6]), round([1]), round([1]), round([6, 1])] },
+    { date: "2026-11-22", playedOn: "2026-11-22", completed: true, rounds: [round(Array(12).fill(1))] },
+    { date: "2026-11-23", playedOn: "2026-11-23", completed: true, rounds: [round([1])] },
+    { date: "2026-11-01", playedOn: "2026-11-23", completed: true, rounds: [round([1])] },
+    { date: "2026-11-24", completed: false, rounds: [round(Array(40).fill(6))] },
+  ];
+  const f = factsFrom(days);
+  assert.equal(f.surveys, 4);
+  assert.equal(f.archiveSurveys, 1);
+  assert.equal(f.bestStreak, 3);
+  assert.equal(f.mostStarcoresInDay, 2);
+  assert.equal(f.fullSpectrumRounds, 1);
+  assert.equal(f.mostInRound, 12, "unfinished days don't count");
+  const unlocked = new Set(achievementStates(days).filter((a) => a.unlocked).map((a) => a.achievement.id));
+  for (const id of ["first-survey", "streak-3", "starcore-1", "starcore-double", "full-spectrum", "round-10", "crystal-1"]) {
+    assert.ok(unlocked.has(id), `${id} should be unlocked`);
+  }
+  assert.ok(!unlocked.has("streak-7"));
+});

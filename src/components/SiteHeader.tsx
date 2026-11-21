@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { useMounted } from "@/lib/client/useMounted";
 import { setSoundEnabled, soundEnabled } from "@/lib/client/storage";
+import Feedback from "./Feedback";
 import s from "./SiteHeader.module.css";
 
 const LINKS = [
@@ -58,6 +59,7 @@ function HeaderBody({ path }: { path: string }) {
             )}
           </svg>
         </button>
+        {path !== "" && <Feedback />}
       </nav>
     </header>
   );

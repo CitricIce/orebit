@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useMemo } from "react";
+import { achievementStates } from "@/lib/achievements";
 import { computeStats } from "@/lib/client/storage";
 import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
@@ -13,6 +14,7 @@ export default function StatsView() {
   const mounted = useMounted();
   const days = useDays();
   const stats = useMemo(() => (mounted ? computeStats(days) : null), [mounted, days]);
+  const achievements = useMemo(() => achievementStates(Object.values(days)), [days]);
   if (!stats) return null;
 
   if (stats.played === 0) {
@@ -24,6 +26,9 @@ export default function StatsView() {
         <Link href="/" className={s.cta}>
           Start today&apos;s survey
         </Link>
+        <div style={{ marginTop: 32 }}>
+          <Achievements states={achievements} />
+        </div>
       </section>
     );
   }
@@ -97,7 +102,44 @@ export default function StatsView() {
           </ul>
         )}
       </div>
+
+      <Achievements states={achievements} />
     </section>
+  );
+}
+
+function Achievements({ states }: { states: ReturnType<typeof achievementStates> }) {
+  const unlocked = states.filter((a) => a.unlocked).length;
+  return (
+    <div className={s.panel} id="achievements">
+      <h2 className={s.h2}>
+        Achievements <span className={s.muted}>{unlocked} / {states.length}</span>
+      </h2>
+      <ul className={s.achievements}>
+        {states.map(({ achievement, value, unlocked }) => (
+          <li key={achievement.id} className={s.achievement} data-unlocked={unlocked}>
+            <span className={s.achievementBadge} aria-hidden="true">
+              {unlocked ? "\u2605" : "\u2606"}
+            </span>
+            <span className={s.achievementText}>
+              <strong>{achievement.title}</strong>
+              <span className={s.muted}>{achievement.description}</span>
+              {!unlocked && achievement.goal > 1 && (
+                <span className={s.achievementProgress}>
+                  <span className={s.achievementTrack}>
+                    <span style={{ width: `${(value / achievement.goal) * 100}%` }} />
+                  </span>
+                  <span className={s.achievementCount}>
+                    {value.toLocaleString("en-US")} / {achievement.goal.toLocaleString("en-US")}
+                  </span>
+                </span>
+              )}
+            </span>
+            <span className="sr-only">{unlocked ? "Unlocked" : "Locked"}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
   );
 }
 

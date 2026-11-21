@@ -33,6 +33,7 @@ export interface DayRecord {
 // v8: the schedule was replanned for easier days, so older saves no longer match.
 const DAYS_KEY = "orebit:v8:days";
 const SOUND_KEY = "orebit:v1:sound";
+const ACHIEVEMENTS_KEY = "orebit:v1:achievements-seen";
 
 function read<T>(key: string, fallback: T): T {
   try {
@@ -136,6 +137,15 @@ export function totalDepth(record: DayRecord): number {
 
 export function soundEnabled(): boolean {
   return read<boolean>(SOUND_KEY, true);
+}
+
+/** Achievements the player has already been told about. */
+export function seenAchievements(): Set<string> {
+  return new Set(read<string[]>(ACHIEVEMENTS_KEY, []));
+}
+
+export function markAchievementsSeen(ids: string[]): void {
+  write(ACHIEVEMENTS_KEY, [...new Set([...seenAchievements(), ...ids])]);
 }
 
 export function setSoundEnabled(on: boolean): void {

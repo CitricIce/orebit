@@ -1054,3 +1054,64 @@
     animation-delay: 0ms !important;
   }
 }
+
+/* Newly unlocked achievements on the mission report. */
+.achievementsNew {
+  margin: 18px auto 0;
+  max-width: 560px;
+  padding: 14px 18px;
+  border-radius: 14px;
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  background: color-mix(in srgb, var(--accent) 10%, var(--panel));
+  text-align: left;
+  animation: achievementIn 0.5s ease both;
+}
+
+.achievementsKicker {
+  margin: 0 0 8px;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.achievementsNew ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 6px;
+}
+
+.achievementsNew li {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  align-items: baseline;
+}
+
+.achievementsNew li span {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.achievementsLink {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  color: var(--accent);
+}
+
+@keyframes achievementIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px) scale(0.98);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .achievementsNew {
+    animation: none;
+  }
+}
