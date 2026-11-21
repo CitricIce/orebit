@@ -1,8 +1,8 @@
 # Cities, landmarks and the wider world. Tiers: 1 = almost everyone names it, 5 = deep cut.
 
 === us-cities
-title: U.S. cities
-prompt: Name as many cities in the United States as you can
+title: U.S. cities over 100,000 people
+prompt: Name as many U.S. cities with over 100,000 people as you can
 --- 1
 New York | new york city | nyc
 Los Angeles | la
