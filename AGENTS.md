@@ -28,3 +28,10 @@ with a cutoff loose enough to keep fair answers (roughly 10-35 Wikipedia
 languages for big sets), fetch it, and spot-check the results for junk. Only
 then use helpers for nicknames, typos and what Wikidata lacks. A thin list for
 an open-ended category is a bug.
+
+Tiers must feel the same in every category. The build caps Iron, Cobalt and
+Gold (see `DEEPER_CAPS` in `scripts/build_categories.py`), so keep Cobalt and
+Gold to answers a decent share of players know. Check small hand-only lists
+by eye, since word frequency misranks sounds and common words. When you
+expand categories with helpers, give them `data/categories/HELPER_BRIEF.md`
+and review their work before one commit.
