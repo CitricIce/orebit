@@ -1,0 +1,130 @@
+--- 2
+Tyrannosaurus | trex | tyrannasaurus | tyranosaurus | tyrannosaurus rex | tyranosaurus rex | tirannosaurus | t. rex | t rex | tyrannosaur | tyrannosaurs | rex
+Triceratops | trike | triceritops | triceratop | tricerotops | triseratops | tricerotops
+Stegosaurus | stego | stegasaurus | stegosaurous | stegosaur | stegosorus | stegosaurs
+Velociraptor | velociraptur | velocoraptor | velociraptors | velocirapter | velosiraptor | raptor | raptors
+Brachiosaurus | bracheosaurus | brachiosaur | brachiosorus | brachiosaurous | brackiosaurus | brachiasaurus
+Pterodactyl | terodactyl | pterodactyls | pterodactal | pterodactyle | pteradactyl | pterodactle | ptero | pterosaur | pterosaurs | teradactyl
+Brontosaurus | bronto | brontosaur | brontosorus | brontasaurus | brontosaurs
+Spinosaurus | spino | spinosorus | spinosaur | spinasaurus | spinosaurous
+Diplodocus | diplodicus | diplodocas | diplodocous | diplodoccus | diplodocuses
+Allosaurus | allosarus | allosaur | allosorus | alosaurus | allosaurous | allo
+Ankylosaurus | ankylosorus | ankylosaur | anklyosaurus | anchylosaurus | ankylosaurous | ankylosaurs | ankylo | ankilosaurus
+Pteranodon | pteradon | pteranadon | pteranadan | pterodon | pteranodons
+Dilophosaurus | dilophosaur | dilopho | dilophosorus | dylophosaurus | dilofosaurus | dilosaurus
+Gallimimus | gallimimous | galimimus | gallamimus | gally
+Compsognathus | compy | compies | compys | compsognathid | compsognathus
+Pachycephalosaurus | pachy | pachycephalosaur | pachycephalasaurus | pachycephalosorus | pakicephalosaurus | pachycefalosaurus
+Parasaurolophus | parasaurolophus | parasaur | parasaurolofus | parasaurolopus | parisaurolophus | parasoralophus
+Indominus Rex | indominus | indominus rex | indominous rex | indominous
+Mosasaurus | mosasaur | mosasaurs | mosasorus | mosisaurus | mosa
+Plesiosaurus | plesiosaur | plesiosaurs | plesiasaur | plesiosaurus | plesiosaure | plesiosaurs
+Ichthyosaurus | ichthyosaur | ichthyosaurs | icthyosaur | icthyosaurus | ichthyosaurus | ichtyosaur | ichthiosaur
+Dimetrodon | dimetradon | dimetrodons | dimetrodan
+Iguanodon | iguanodon | iguanadon | iguanodonts
+Archaeopteryx | archeopteryx | archaeopterix | archeopteryx | archaeopteryx | arch
+--- 3
+Utahraptor | utah raptor | utaraptor
+Deinonychus | dinonychus | deinonicus | deinonychous | dinonicus
+Oviraptor | oviraptors | oviraptur
+Giganotosaurus | giganotosaur | giganatosaurus | gigantosaurus | giga | giganotasaurus
+Carnotaurus | carno | carnotaur | carnatarus | carnotarus | carnotorus
+Baryonyx | barionyx | baryonix | baronyx | barynonyx
+Megalosaurus | megalosaur | megalasaurus
+Protoceratops | protoceratop | protocerotops
+Styracosaurus | styraco | stiracosaurus | styracasaurus | styracosaur
+Maiasaura | maiasaur | maiasaurus | mayasaura
+Quetzalcoatlus | quetzalcoatlus | quetzal | quetzlcoatlus | quetzalcoatl
+Troodon | troodon | troodons
+Microraptor | microraptors | micro raptor
+Argentinosaurus | argentinosaur | argentino | argentinasaurus
+Apatosaurus | apatosaur | apatasaurus | apotosaurus
+Therizinosaurus | therizinosaur | therizino
+Edmontosaurus | edmontosaur | edmontasaurus
+Corythosaurus | corythosaur | corythosarus
+Elasmosaurus | elasmosaur | elasmosaurs | elasmasaurus
+Liopleurodon | liopleurodon | liopleuradon | leopleurodon | liopleurodons
+Coelophysis | coelophysis | celophysis | coelophysis
+Ceratosaurus | ceratosaur | ceratosorus
+Stegoceras | stegoceras
+Hadrosaurus | hadrosaur | hadrosaurs | duckbill | duck billed dinosaur | duckbilled dinosaur
+Sauropod | sauropods | long neck | longneck | long necks
+Hypsilophodon | hypsilophodon
+Plateosaurus | plateosaur | plateosaurs
+Tarbosaurus | tarbosaur
+Albertosaurus | albertosaur | albertasaurus
+Daspletosaurus | daspletosaur
+Psittacosaurus | psittacosaur | psitticosaurus
+Indoraptor | indoraptors | indo raptor
+Pliosaurus | pliosaur | pliosaurs
+Cryolophosaurus | cryolophosaur | cryo | elvisaurus
+Stygimoloch | stygimoloch | stiggy
+Kentrosaurus | kentrosaur
+Mamenchisaurus | mamenchisaur
+Camarasaurus | camarasaur
+--- 4
+Ouranosaurus | ouranosaur
+Suchomimus
+Sinosauropteryx | sino
+Kronosaurus | kronosaur
+Tylosaurus | tylosaur
+Ornithomimus | ornithomimid | ornithomimus | ornithomimus
+Struthiomimus
+Segnosaurus
+Muttaburrasaurus | muttaburra
+Leaellynasaura
+Dreadnoughtus | dreadnought
+Patagotitan | patagotitan mayorum
+Amargasaurus | amarga
+Nigersaurus
+Concavenator
+Zuul
+Yutyrannus
+Sinornithosaurus
+Epidexipteryx
+Anchiornis
+Rugops
+Masiakasaurus
+Irritator
+Spinophorosaurus
+Tupandactylus
+Dsungaripterus
+Rhamphorhynchus
+Dimorphodon
+Hatzegopteryx
+Tapejara
+--- 5
+Scutellosaurus
+Saltasaurus
+Shunosaurus
+Lesothosaurus
+Herrerasaurus | herrera
+Staurikosaurus
+Tenontosaurus
+Sauroposeidon
+Alamosaurus
+Amphicoelias
+Supersaurus
+Seismosaurus
+Ultrasaurus
+Gigantoraptor
+Nanotyrannus | nano tyrannus
+Teratophoneus
+Lythronax
+Bistahieversor
+Appalachiosaurus
+Zhuchengtyrannus
+Tianyuraptor
+Tsintaosaurus
+Lambeosaurus | lambeo
+Hypacrosaurus
+Olorotitan
+Charonosaurus
+Saurolophus
+Brachylophosaurus
+Kritosaurus
+Gryposaurus
+Shantungosaurus
+Lufengosaurus
+Massospondylus
+Melanorosaurus

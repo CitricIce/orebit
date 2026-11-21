@@ -1,0 +1,60 @@
+lion
+elephant
+giraffe
+girafe
+zebra
+hippo
+hippopotamus
+rhino
+rhinoceros
+cheetah
+cheeta
+leopard
+gorilla
+gorrila
+chimp
+chimpanzee
+baboon
+meerkat
+wildebeest
+gnu
+ostrich
+warthog
+gazelle
+impala
+springbok
+jackal
+wild dog
+mamba
+cobra
+mongoose
+aardvark
+bonobo
+okapi
+mandrill
+vulture
+chameleon
+oryx
+pangolin
+secretary bird
+puff adder
+honey badger
+serval
+caracal
+hornbill
+dung beetle
+tsetse fly
+fennec fox
+shoebill
+crowned crane
+flamingo
+aye aye
+fossa
+tenrec
+waterbuck
+nile monitor
+lovebird
+sunbird
+locust
+guinea fowl
+nile crocodile => Crocodile

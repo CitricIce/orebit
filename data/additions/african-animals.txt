@@ -1,0 +1,292 @@
+--- 2
+Lion | lions | lioness
+Elephant | elephants | african elephant
+Giraffe | girafe | giraffes | jiraffe | giraff
+Zebra | zebras | zebre
+Hippo | hippos | hippopotamus | hippopotamuses | hipo | hipopotamus | hippopotomus
+Rhino | rhinos | rhinoceros | rhinocerous | rhinoceroses | black rhino | white rhino
+Cheetah | cheeta | cheetahs | chetah | cheatah
+Gorilla | gorrila | gorilla | gorillas | gorila | mountain gorilla
+Chimpanzee | chimp | chimps | chimpanzees | chimpanze
+Leopard | leopards | leapord | leapard
+Hyena | hyenas | hyaena | hynea | hiena | spotted hyena
+Crocodile | crocodiles | nile crocodile | croc | crocs | crocodille
+Baboon | baboons | babboon | babon
+Meerkat | meerkats | meercat | meer kat | suricate
+Wildebeest | wildebeests | wilderbeast | wildebeast | gnu | gnus | wildabeast | wilderbeest
+Ostrich | ostriches | ostrige | ostritch
+Warthog | warthogs | wart hog | wart hogs | pumbaa
+Gazelle | gazelles | gazel | gazzelle
+Antelope | antelopes | antalope | antelop
+Buffalo | buffaloes | buffalos | cape buffalo | african buffalo | water buffalo
+Flamingo | flamingos | flamingoes | flamingoe | flamingio
+Impala | impalas | impalla
+Springbok | springboks | spring buck | springbuck
+Jackal | jackals | jakal | jackel
+Wild dog | wild dogs | african wild dog | painted dog | painted wolf | cape hunting dog | hunting dog
+Black mamba | mamba | mambas | green mambas
+Cobra | cobras | king cobra | spitting cobra
+--- 3
+Lemur | lemurs | ring-tailed lemur | ring tailed lemur | ringtail lemur | ringtailed lemur | sifaka | indri
+Mongoose | mongooses | mongeese | mongoos | banded mongoose | dwarf mongoose
+Aardvark | aardvarks | ardvark | aardvarks | antbear | ant bear
+Bonobo | bonobos | pygmy chimpanzee
+Okapi | okapis | okapie | okappi
+Mandrill | mandrills | mandrel
+Vulture | vultures | lappet-faced vulture | griffon vulture
+Chameleon | chameleons | camelion | chamelion | cameleon | chameleo | panther chameleon
+Oryx | oryxes
+Kudu | kudus | koodoo | greater kudu | lesser kudu
+Eland | elands | giant eland
+Python | pythons | rock python | ball python | royal python
+Camel | camels | dromedary | dromedaries | arabian camel
+Pangolin | pangolins | scaly anteater
+Secretary bird | secretary birds | secretarybird | secretary
+Puff adder | puffadder | puff adders | adder
+Honey badger | honey badgers | ratel | honeybadger
+Serval | servals | serval cat
+Caracal | caracals | desert lynx
+Genet | genets | genette
+Civet | civets | african civet
+Hornbill | hornbills | horn bill
+Dung beetle | dung beetles | dung beatle | scarab | scarab beetle | dung bug | tumblebug
+Tsetse fly | tsetse | tse tse fly | tsetse flies | tsetse fly | tse-tse fly
+Termite | termites
+Locust | locusts | desert locust | locusts
+Fennec fox | fennec | fennecs | fennec foxes | desert fox
+Fish eagle | african fish eagle | fish eagles
+Guinea fowl | guineafowl | guinea fowls | guinea hen | guinea fowl | helmeted guineafowl
+Crowned crane | crowned cranes | grey crowned crane
+Shoebill | shoebills | shoe billed stork | shoebill stork | whalehead
+Marabou stork | marabou | marabou storks | marabu
+Nile monitor | monitor lizard | monitor | monitor lizards | water monitor | savannah monitor
+Weaver bird | weaver | weavers | weaverbird | weaver birds | sociable weaver
+Lilac-breasted roller | lilac breasted roller | lilac-breasted | roller
+African grey parrot | african grey | grey parrot | congo grey parrot
+Lovebird | lovebirds | love bird | love birds
+Sunbird | sunbirds | sun bird
+Fossa | fossas | fosa
+Aye-aye | aye aye | ayeaye | aye ayes
+Tenrec | tenrecs | tenerec | hedgehog tenrec
+Bush baby | bushbaby | bushbabies | bush babies | galago | galagos | night ape
+Elephant shrew | elephant shrews | sengi | sengis
+Rock hyrax | hyrax | hyraxes | dassie | rock rabbit
+Bongo | bongos
+Dik-dik | dik dik | dikdik | dik diks
+Duiker | duikers | duiker antelope
+Nyala | nyalas
+Hartebeest | hartebeests | hartebeast | kongoni
+Topi | topis
+Sable antelope | sable | sables | sable antelopes
+Roan antelope | roan | roan antelopes
+Waterbuck | waterbucks | water buck | kobus ellipsiprymnus
+Bushbuck | bushbucks | bush buck
+Reedbuck | reedbucks | reed buck | mountain reedbuck
+Steenbok | steenboks | steenbuck
+Klipspringer | klipspringers
+Colobus monkey | colobus | colobus monkeys | black and white colobus | red colobus
+Vervet monkey | vervet | vervets | vervet monkeys | green monkey
+Striped hyena
+Brown hyena
+Side-striped jackal | side striped jackal
+Black-backed jackal | black backed jackal | silver-backed jackal
+Golden jackal
+Bat-eared fox | bat eared fox | bat-eared foxes
+Cape fox
+African wildcat | wildcat
+African golden cat | golden cat
+Chameleon
+Gaboon viper | gaboon adder | gabon viper | gaboon vipers
+Boomslang | boomslangs
+Egyptian cobra
+Gecko | geckos | geckoes
+Leopard tortoise | tortoise | leopard tortoises | tortoises
+Nile perch | nile perches
+Tigerfish | tiger fish | african tigerfish | tigerfishes
+Lungfish | lung fish | african lungfish
+Coelacanth | coelacanths | celacanth | seelacanth
+Goliath frog | goliath frogs
+African bullfrog | bullfrog | bull frog | pyxie | giant bullfrog
+Clawed frog | african clawed frog | xenopus
+Goliath beetle | goliath beetles
+Oxpecker | oxpeckers | ox pecker | tickbird | tick bird | red-billed oxpecker
+Kori bustard | kori | bustard | bustards
+Ground hornbill | southern ground hornbill | ground hornbills
+Yellow-billed hornbill | yellow billed hornbill | zazu
+Hamerkop | hammerkop | hamerkops | hammerkopf | hammer head stork | hammerkop bird
+Saddle-billed stork | saddle billed stork | saddlebill
+Southern carmine bee-eater | carmine bee-eater | bee-eater | bee eater | bee eaters
+Sacred ibis | african sacred ibis | hadada ibis | hadada
+African spoonbill | spoonbill
+Pelican | pelicans | great white pelican
+Grey go-away-bird | go away bird | go-away bird | lourie | turaco | turacos | loerie
+Superb starling | starling | glossy starling
+Cape vulture | cape griffon
+Bateleur | bateleur eagle
+Martial eagle
+Tawny eagle
+Verreaux's eagle | black eagle
+Pied kingfisher | kingfisher | kingfishers | malachite kingfisher | giant kingfisher
+Red-billed quelea | quelea | queleas
+Cape sugarbird | sugarbird
+Jackass penguin | african penguin | penguin | penguins | cape penguin | black-footed penguin
+Cape fur seal | cape seal | fur seal | seal
+Elephant seal
+Dugong
+Manatee | manatees | west african manatee
+Mountain zebra | cape mountain zebra
+Grevy's zebra | grevys zebra | grevy zebra
+Plains zebra | burchell's zebra | common zebra
+Bushpig | bush pig | red river hog | river hog
+Giant forest hog | forest hog
+Hartmann's mountain zebra
+Thomson's gazelle | tommy | thomsons gazelle | tommies | tommy gazelle
+Grant's gazelle | grants gazelle
+Dama gazelle
+Addax | addaxes
+Gerenuk | gerenuks | giraffe gazelle
+Sitatunga | sitatungas
+Lechwe | lechwes | kafue lechwe | red lechwe
+Puku | pukus
+Oribi | oribis
+Suni | sunis
+Blesbok | blesboks | blesbuck | bontebok
+Black wildebeest | white-tailed gnu
+Blue wildebeest
+Rhebok | grey rhebok
+Giant sable antelope | giant sable
+Bohor reedbuck
+Bluebuck
+Quagga | quaggas
+Barbary lion
+Barbary macaque | barbary ape | barbary macaques | macaque
+Gelada | geladas | bleeding heart monkey | gelada baboon
+Western lowland gorilla | lowland gorilla
+Patas monkey | patas | hussar monkey
+Mangabey | mangabeys
+Guenon | guenons | blue monkey | diademed monkey | de brazza's monkey | l'hoest's monkey
+Talapoin
+Drill | drills
+Potto | pottos
+Mouse lemur | mouse lemurs
+Ruffed lemur | black and white ruffed lemur | red ruffed lemur
+Fat-tailed dwarf lemur
+Brown lemur
+Bamboo lemur | gentle lemur
+Giant jumping rat
+Madagascar hissing cockroach | hissing cockroach | hissing cockroaches
+Tomato frog
+Mantella | golden mantella | mantella frog
+Parson's chameleon
+Leaf-tailed gecko | satanic leaf-tailed gecko | leaf tailed gecko
+Madagascar day gecko | day gecko
+Radiated tortoise
+Madagascar tree boa | tree boa
+Giraffe weevil
+Elephant bird | aepyornis
+Comet moth | madagascan moon moth
+Cape hare | scrub hare
+Springhare | spring hare | springhares
+Porcupine | porcupines | crested porcupine | cape porcupine
+Cane rat | greater cane rat
+Giant rat | gambian pouched rat | gambian giant pouched rat | african giant rat
+Naked mole rat | naked mole-rat | naked mole rats | sand puppy
+Golden mole | golden moles
+Hedgehog | hedgehogs | african pygmy hedgehog | pygmy hedgehog
+Zorilla | striped polecat
+African clawless otter | clawless otter | otter | otters | spotted-necked otter
+Cape clawless otter
+Slender mongoose
+Egyptian mongoose | ichneumon
+Meller's mongoose
+Yellow mongoose
+Marsh mongoose
+Large-spotted genet | spotted genet
+Palm civet | african palm civet
+African linsang
+West african dwarf crocodile | dwarf crocodile
+Slender-snouted crocodile
+Cape cobra | yellow cobra
+Forest cobra
+Black-necked spitting cobra
+Mozambique spitting cobra
+Egg-eating snake | egg eater
+Rhinoceros viper | rhino viper | river jack
+Bush viper
+Sand viper | saw-scaled viper | carpet viper
+Horned viper
+Night adder
+Mole snake
+Boa | sand boa
+Twig snake | vine snake
+Skink | skinks | blue-tailed skink
+Agama | agama lizard | rainbow agama | agamas
+Plated lizard | girdled lizard | cordylid | armadillo girdled lizard | armadillo lizard
+Nile soft-shelled turtle | softshell turtle
+African spurred tortoise | sulcata | sulcata tortoise | spurred tortoise
+Pancake tortoise
+Hingeback tortoise | hinge-back tortoise
+Cape dwarf chameleon | dwarf chameleon
+Jackson's chameleon | jacksons chameleon
+Flap-necked chameleon | flap necked chameleon
+Giant plated lizard
+Rainbow lizard
+Tilapia | nile tilapia | tilapias
+Catfish | african catfish | clarias | cat fish
+Cichlid | cichlids | lake malawi cichlid | malawi cichlid | tanganyika cichlid
+Electric catfish
+Elephantnose fish | elephant nose fish | elephant fish
+Bichir | bichirs | polypterus | reedfish
+Killifish | african killifish | nothobranchius | turquoise killifish
+Barbel
+Mudskipper | mudskippers
+African butterfly fish | butterflyfish
+Bee | bees | african honey bee | killer bee | africanized bee
+Safari ant | driver ant | driver ants | siafu | army ant | army ants | safari ants | matabele ant
+Mopane worm | mopane caterpillar | mopani worm
+Praying mantis | mantis | mantises
+Stick insect | stick insects
+Rhinoceros beetle | rhino beetle | hercules beetle | hercules
+Scorpion | scorpions | emperor scorpion | fat-tailed scorpion | deathstalker | yellow scorpion
+Baboon spider | baboon tarantula | tarantula | tarantulas
+Button spider | brown widow
+Giant African land snail | giant land snail | land snail | african land snail
+Millipede | giant millipede | african giant millipede | millipedes
+Mosquito | mosquitoes | mosquitos | anopheles | malaria mosquito
+Armoured ground cricket | corn cricket | koringkriek
+Cockroach | cockroaches
+Toad | toads | guttural toad | african toad
+Sandgrouse | sandgrouse | namaqua sandgrouse
+Francolin | francolins | spurfowl | spurfowls
+Lapwing | lapwings | crowned lapwing | crowned plover | plover | plovers | blacksmith lapwing
+Cormorant | cormorants | reed cormorant | white-breasted cormorant
+Darter | darters | anhinga | african darter
+Jacana | jacanas | african jacana | lily trotter
+Wattled crane | blue crane
+Black crowned crane
+Barbet | barbets
+Bulbul | bulbuls
+Drongo | drongos | fork-tailed drongo
+Shrike | shrikes | fiscal shrike | common fiscal | fiscal | helmet shrike | boubou
+Lark | larks
+Mousebird | mousebirds | speckled mousebird
+Hoopoe | hoopoes | african hoopoe | hoopoes
+Cuckoo | cuckoos | red-chested cuckoo | piet-my-vrou | klaas's cuckoo
+Honeyguide | honeyguides | greater honeyguide
+Woodpecker | woodpeckers | cardinal woodpecker
+Red-billed hornbill | red billed hornbill
+Trumpeter hornbill
+Silvery-cheeked hornbill
+Pied crow | crow | crows | raven | ravens | white-necked raven | black crow
+Black-headed oriole | oriole
+Widowbird | widowbirds | long-tailed widowbird | red-collared widowbird | long tailed widowbird
+Whydah | whydahs | pin-tailed whydah
+Waxbill | waxbills | common waxbill
+Firefinch | firefinches
+Mannikin | bronze mannikin
+Canary | canaries | yellow canary | cape canary
+Sparrow | sparrows | house sparrow | cape sparrow | sparrow weaver
+Masked weaver | village weaver | cape weaver | yellow weaver | baya weaver
+Southern red bishop | red bishop | bishop | bishop bird
+Sunbird | malachite sunbird | scarlet-chested sunbird
+Camel | camel
