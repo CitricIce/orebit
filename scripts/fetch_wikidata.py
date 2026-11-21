@@ -143,7 +143,20 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "american-foods": [(dishes_from("Q30", "Q1352460"), 4)],
     # Sources for open-ended categories that had none.
     "athletes": [("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279* wd:Q2066131 .", 60)],
-    "historical-figures": [("?item wdt:P31 wd:Q5 ; wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 120)],
+    # Famous people who died before 1960, one occupation at a time (a single
+    # query over every person times out).
+    "historical-figures": [
+        (people("Q116") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # monarch
+        (people("Q82955") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # politician
+        (people("Q189290") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # military officer
+        (people("Q11900058") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # explorer
+        (people("Q901") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # scientist
+        (people("Q4964182") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # philosopher
+        (people("Q36180") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # writer
+        (people("Q1423891") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # religious leader
+        (people("Q205375") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # inventor
+        (people("Q3242115") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # revolutionary
+    ],
     "languages": [(inst("Q1288568"), 25)],
     "sandwiches": [(tree("Q28803"), 3)],
     "soups": [(tree("Q41415"), 3)],
