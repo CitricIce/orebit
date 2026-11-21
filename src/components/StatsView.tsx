@@ -20,7 +20,7 @@ export default function StatsView() {
       <section>
         <p className={s.kicker}>Pilot record</p>
         <h1 className={s.h1}>No surveys logged yet.</h1>
-        <p className={s.lede}>Finish your first daily dig and your stats show up here.</p>
+        <p className={s.lede}>Finish your first daily mission and your stats show up here.</p>
         <Link href="/" className={s.cta}>
           Start today&apos;s survey
         </Link>
