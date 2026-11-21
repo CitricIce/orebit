@@ -1,0 +1,1736 @@
+[
+{
+"name": "hamburger",
+"aliases": [
+"beef hamburger",
+"burger",
+"hamburger sandwich",
+"Hamburgh ſauſage"
+],
+"links": 118
+},
+{
+"name": "hot dog",
+"aliases": [
+"coney",
+"frankfurter",
+"glizzy",
+"hotdog",
+"wiener"
+],
+"links": 90
+},
+{
+"name": "shawarma",
+"aliases": [
+"shawerma",
+"shawurma"
+],
+"links": 80
+},
+{
+"name": "taco",
+"aliases": [
+"chicken tacos",
+"fish tacos",
+"ground beef tacos",
+"shrimp tacos",
+"Tacos",
+"tacos al pastor",
+"tacos carne asada",
+"tacos de chorizo"
+],
+"links": 73
+},
+{
+"name": "burrito",
+"aliases": [],
+"links": 59
+},
+{
+"name": "doner kebab",
+"aliases": [
+"donner",
+"döner kebab",
+"döner kebab sandwich",
+"döner kebap",
+"döner sandwich",
+"kebab"
+],
+"links": 51
+},
+{
+"name": "cheeseburger",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Big Mac",
+"aliases": [],
+"links": 48
+},
+{
+"name": "gyros",
+"aliases": [
+"gyro"
+],
+"links": 45
+},
+{
+"name": "quesadilla",
+"aliases": [],
+"links": 44
+},
+{
+"name": "enchilada",
+"aliases": [],
+"links": 43
+},
+{
+"name": "bánh mì",
+"aliases": [
+"banh mi",
+"bánh mì kẹp",
+"bánh mỳ",
+"bánh mỳ kẹp"
+],
+"links": 38
+},
+{
+"name": "panini",
+"aliases": [
+"grilled sandwich",
+"Italian sandwich",
+"panini sandwich"
+],
+"links": 37
+},
+{
+"name": "croque-monsieur",
+"aliases": [
+"croque monsieur"
+],
+"links": 36
+},
+{
+"name": "eggs Benedict",
+"aliases": [
+"eggs Benny"
+],
+"links": 34
+},
+{
+"name": "open sandwich",
+"aliases": [
+"bread baser",
+"open face sandwich",
+"open faced sandwich",
+"Smörgås",
+"tartine"
+],
+"links": 34
+},
+{
+"name": "zapiekanka",
+"aliases": [],
+"links": 34
+},
+{
+"name": "corn dog",
+"aliases": [
+"corndog"
+],
+"links": 33
+},
+{
+"name": "Whopper",
+"aliases": [],
+"links": 33
+},
+{
+"name": "canapé",
+"aliases": [
+"canape",
+"open sandwich"
+],
+"links": 31
+},
+{
+"name": "smørrebrød",
+"aliases": [
+"smoerrebroed",
+"smorrebrod"
+],
+"links": 31
+},
+{
+"name": "club sandwich",
+"aliases": [
+"clubhouse sandwich"
+],
+"links": 29
+},
+{
+"name": "Loco moco",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Vada pav",
+"aliases": [
+"batata vada pav",
+"batata wada pav",
+"Bombay Burger",
+"Pao Vada",
+"Pao Wada",
+"Pav Vada",
+"Pav Wada",
+"Vada pao",
+"vadapav",
+"Wada pao",
+"Wada pav",
+"wadapav"
+],
+"links": 28
+},
+{
+"name": "wrap",
+"aliases": [
+"roll",
+"tunnbrödsrulle"
+],
+"links": 28
+},
+{
+"name": "BLT",
+"aliases": [
+"B.L.T.",
+"bacon, lettuce, and tomato",
+"bacon, lettuce, and tomato sandwich",
+"BLT sandwich"
+],
+"links": 27
+},
+{
+"name": "Filet-O-Fish",
+"aliases": [
+"Crispy Fish Fillet Sandwich"
+],
+"links": 27
+},
+{
+"name": "veggie burger",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Butterbrot",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Francesinha",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Quarter Pounder",
+"aliases": [
+"QPC",
+"Quarter Pounder with cheese"
+],
+"links": 25
+},
+{
+"name": "chimichanga",
+"aliases": [
+"bufriedo",
+"chivichanga",
+"deep-fried burrito"
+],
+"links": 24
+},
+{
+"name": "İskender kebap",
+"aliases": [
+"Bursa kebab",
+"Bursa kebap",
+"Iskender kebap",
+"Uludağ kebap"
+],
+"links": 24
+},
+{
+"name": "peanut butter and jelly sandwich",
+"aliases": [
+"PB&J",
+"peanut butter & jam sandwich",
+"peanut butter & jelly sandwich",
+"peanut butter and jam sandwich"
+],
+"links": 24
+},
+{
+"name": "toast sandwich",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Big N' Tasty",
+"aliases": [],
+"links": 22
+},
+{
+"name": "cheesesteak",
+"aliases": [
+"cheese steak",
+"cheesesteak sandwich",
+"Philadelphia cheesesteak",
+"Philly cheesesteak",
+"steak and cheese"
+],
+"links": 22
+},
+{
+"name": "Chivito",
+"aliases": [],
+"links": 22
+},
+{
+"name": "mitraillette",
+"aliases": [
+"Américain"
+],
+"links": 22
+},
+{
+"name": "sloppy joe",
+"aliases": [],
+"links": 22
+},
+{
+"name": "McChicken",
+"aliases": [],
+"links": 21
+},
+{
+"name": "po' boy",
+"aliases": [
+"po boy",
+"po-boy"
+],
+"links": 20
+},
+{
+"name": "roujiamo",
+"aliases": [
+"meat jiamo",
+"pork jiamo",
+"Rou Jia Mo",
+"Rougamo"
+],
+"links": 20
+},
+{
+"name": "McMuffin",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Reuben sandwich",
+"aliases": [],
+"links": 19
+},
+{
+"name": "submarine sandwich",
+"aliases": [
+"filled roll",
+"grinder",
+"hero",
+"hero sandwich",
+"hoagie",
+"poorboy",
+"po’boy",
+"spukie",
+"sub",
+"sub sandwich",
+"wedge"
+],
+"links": 18
+},
+{
+"name": "Cuban sandwich",
+"aliases": [
+"Cuban mix",
+"Cuban pressed sandwich",
+"mixto"
+],
+"links": 17
+},
+{
+"name": "Fischbrötchen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Krabby Patty",
+"aliases": [],
+"links": 17
+},
+{
+"name": "tuna fish sandwich",
+"aliases": [
+"tuna sandwich"
+],
+"links": 17
+},
+{
+"name": "calamari sandwich",
+"aliases": [
+"Fried squid sandwich"
+],
+"links": 16
+},
+{
+"name": "choripán",
+"aliases": [],
+"links": 16
+},
+{
+"name": "fluffernutter",
+"aliases": [
+"liberty sandwich"
+],
+"links": 16
+},
+{
+"name": "Toast Hawaii",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Barros Luco",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bauru",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Carrozza",
+"aliases": [
+"Carrozza sandwich",
+"mozzarella in carrozza"
+],
+"links": 15
+},
+{
+"name": "gua-bao",
+"aliases": [
+"bao",
+"bao bun",
+"cuápao",
+"koah-pau",
+"kong bak pau",
+"kuah-pau",
+"kuwapaw",
+"pork belly bun",
+"Taiwanese hamburger"
+],
+"links": 15
+},
+{
+"name": "pan-bagnat",
+"aliases": [
+"pan bagnat"
+],
+"links": 15
+},
+{
+"name": "rice burger",
+"aliases": [
+"riceburger"
+],
+"links": 15
+},
+{
+"name": "balık ekmek",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Bosna",
+"aliases": [],
+"links": 14
+},
+{
+"name": "cucumber sandwich",
+"aliases": [],
+"links": 14
+},
+{
+"name": "McRib",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Salisbury steak",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Taco al pastor",
+"aliases": [
+"Taco de trompo",
+"Tacos al pastor",
+"Tacos de trompo"
+],
+"links": 14
+},
+{
+"name": "bacon sandwich",
+"aliases": [],
+"links": 13
+},
+{
+"name": "cheese sandwich",
+"aliases": [],
+"links": 13
+},
+{
+"name": "completo",
+"aliases": [],
+"links": 13
+},
+{
+"name": "egg sandwich",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Gatsby",
+"aliases": [],
+"links": 13
+},
+{
+"name": "lobster roll",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Monte Cristo sandwich",
+"aliases": [],
+"links": 13
+},
+{
+"name": "peanut butter, banana and bacon sandwich",
+"aliases": [
+"Elvis sandwich"
+],
+"links": 13
+},
+{
+"name": "Big King",
+"aliases": [
+"Double Supreme",
+"King Supreme"
+],
+"links": 12
+},
+{
+"name": "breakfast sandwich",
+"aliases": [],
+"links": 12
+},
+{
+"name": "bøfsandwich",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Dagwood sandwich",
+"aliases": [
+"Dagwood"
+],
+"links": 12
+},
+{
+"name": "Fool's Gold Loaf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "grilled cheese",
+"aliases": [
+"grilled cheese sandwich"
+],
+"links": 12
+},
+{
+"name": "ham sandwich",
+"aliases": [],
+"links": 12
+},
+{
+"name": "jambon-beurre",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Ketwurst",
+"aliases": [],
+"links": 12
+},
+{
+"name": "popiah",
+"aliases": [
+"baobing",
+"lumpia",
+"runbing"
+],
+"links": 12
+},
+{
+"name": "bacon, egg and cheese sandwich",
+"aliases": [
+"BE&C",
+"BEC"
+],
+"links": 11
+},
+{
+"name": "bocadillo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bologna sandwich",
+"aliases": [],
+"links": 11
+},
+{
+"name": "chicken sandwich",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dabeli",
+"aliases": [
+"Kutchi dabeli",
+"Kutchi double rotii"
+],
+"links": 11
+},
+{
+"name": "donkey burger",
+"aliases": [
+"donkey sandwich",
+"lurou huoshao",
+"lvrou huoshao",
+"lyurou huoshao",
+"lǘròu huǒshāo"
+],
+"links": 11
+},
+{
+"name": "Hot Brown",
+"aliases": [
+"Hot Brown Sandwich"
+],
+"links": 11
+},
+{
+"name": "Luther Burger",
+"aliases": [
+"donut burger",
+"Luther Burgers"
+],
+"links": 11
+},
+{
+"name": "McGriddles",
+"aliases": [],
+"links": 11
+},
+{
+"name": "meatball sandwich",
+"aliases": [
+"meatball sub"
+],
+"links": 11
+},
+{
+"name": "taco rice",
+"aliases": [],
+"links": 11
+},
+{
+"name": "tea sandwich",
+"aliases": [
+"finger sandwich"
+],
+"links": 11
+},
+{
+"name": "Tramezzino",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Afghani burger",
+"aliases": [],
+"links": 10
+},
+{
+"name": "avocado toast",
+"aliases": [
+"smashed avo on toast"
+],
+"links": 10
+},
+{
+"name": "bifana",
+"aliases": [],
+"links": 10
+},
+{
+"name": "breakfast roll",
+"aliases": [
+"full Irish breakfast roll"
+],
+"links": 10
+},
+{
+"name": "buffalo burger",
+"aliases": [],
+"links": 10
+},
+{
+"name": "chip butty",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Italian beef",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Jucy Lucy",
+"aliases": [
+"Juicy Lucy"
+],
+"links": 10
+},
+{
+"name": "slider",
+"aliases": [],
+"links": 10
+},
+{
+"name": "bun kebab",
+"aliases": [
+"anda shami"
+],
+"links": 9
+},
+{
+"name": "Chacarero",
+"aliases": [],
+"links": 9
+},
+{
+"name": "cheese dog",
+"aliases": [],
+"links": 9
+},
+{
+"name": "chicken burger",
+"aliases": [
+"chicken on a bun",
+"chickwich",
+"hot chicken"
+],
+"links": 9
+},
+{
+"name": "corned beef sandwich",
+"aliases": [],
+"links": 9
+},
+{
+"name": "French dip sandwich",
+"aliases": [
+"Au Jus Sandwich",
+"Roast Beef Au Jus,"
+],
+"links": 9
+},
+{
+"name": "fried-brain sandwich",
+"aliases": [],
+"links": 9
+},
+{
+"name": "ham and egg bun",
+"aliases": [],
+"links": 9
+},
+{
+"name": "horseshoe sandwich",
+"aliases": [],
+"links": 9
+},
+{
+"name": "katsu sandwich",
+"aliases": [
+"katsu-sando",
+"katsusando"
+],
+"links": 9
+},
+{
+"name": "Pepito",
+"aliases": [],
+"links": 9
+},
+{
+"name": "roast beef sandwich",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sonoran hot dog",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Strammer Max",
+"aliases": [],
+"links": 9
+},
+{
+"name": "tomato sandwich",
+"aliases": [],
+"links": 9
+},
+{
+"name": "tongue toast",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Angus burger",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bagel toast",
+"aliases": [],
+"links": 8
+},
+{
+"name": "baked bean sandwich",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bombay sandwich",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bondiola sandwich",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Chicago-style hot dog",
+"aliases": [
+"Chicago Dog",
+"Chicago hot dog",
+"Red Hot"
+],
+"links": 8
+},
+{
+"name": "chicken fillet roll",
+"aliases": [
+"chicken roll"
+],
+"links": 8
+},
+{
+"name": "chili dog",
+"aliases": [
+"Texas hot dog"
+],
+"links": 8
+},
+{
+"name": "crisp sandwich",
+"aliases": [
+"chip sandwich",
+"chipwich",
+"piece and crisps"
+],
+"links": 8
+},
+{
+"name": "Denver sandwich",
+"aliases": [
+"Western sandwich"
+],
+"links": 8
+},
+{
+"name": "doubles",
+"aliases": [],
+"links": 8
+},
+{
+"name": "fish finger sandwich",
+"aliases": [],
+"links": 8
+},
+{
+"name": "ham and cheese sandwich",
+"aliases": [],
+"links": 8
+},
+{
+"name": "jibarito",
+"aliases": [],
+"links": 8
+},
+{
+"name": "McSpicy Chicken Filet",
+"aliases": [
+"McSpicy"
+],
+"links": 8
+},
+{
+"name": "Montreal-style smoked meat",
+"aliases": [
+"Montreal smoked meat",
+"Montreal-style pastrami",
+"smoked meat"
+],
+"links": 8
+},
+{
+"name": "patty melt",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Porilainen",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Port sausage",
+"aliases": [
+"Sosis bandari"
+],
+"links": 8
+},
+{
+"name": "Sol over Gudhjem",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Torta Ahogada",
+"aliases": [],
+"links": 8
+},
+{
+"name": "beef on weck",
+"aliases": [
+"beef on weck sandwich",
+"beef on wick",
+"beef on wick sandwich"
+],
+"links": 7
+},
+{
+"name": "breakfast burrito",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cemita",
+"aliases": [
+"Cema",
+"Sema",
+"Semita"
+],
+"links": 7
+},
+{
+"name": "cheese dream",
+"aliases": [],
+"links": 7
+},
+{
+"name": "chlebíček",
+"aliases": [
+"obložený chlebíček"
+],
+"links": 7
+},
+{
+"name": "Coney Island hot dog",
+"aliases": [
+"Coney",
+"Coney dog"
+],
+"links": 7
+},
+{
+"name": "dagobert",
+"aliases": [
+"club",
+"smos",
+"smoske"
+],
+"links": 7
+},
+{
+"name": "Dyrlægens natmad",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Guajolota",
+"aliases": [],
+"links": 7
+},
+{
+"name": "hamdog",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kiwiburger",
+"aliases": [],
+"links": 7
+},
+{
+"name": "kumru",
+"aliases": [],
+"links": 7
+},
+{
+"name": "melt sandwich",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Michigan hot dog",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pambazo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "pork chop bun",
+"aliases": [],
+"links": 7
+},
+{
+"name": "roti",
+"aliases": [
+"wrap roti"
+],
+"links": 7
+},
+{
+"name": "sausage sandwich",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Shooter's sandwich",
+"aliases": [],
+"links": 7
+},
+{
+"name": "spaghetti sandwich",
+"aliases": [
+"spaghetti jaffle"
+],
+"links": 7
+},
+{
+"name": "sushi burrito",
+"aliases": [
+"sushirrito"
+],
+"links": 7
+},
+{
+"name": "Ayvalık tostu",
+"aliases": [
+"Ayvalık toast"
+],
+"links": 6
+},
+{
+"name": "Baconator",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bake and Shark",
+"aliases": [],
+"links": 6
+},
+{
+"name": "barbecue sandwich",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Beirut sandwich",
+"aliases": [
+"Beirute"
+],
+"links": 6
+},
+{
+"name": "butter burger",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cheese and pickle sandwich",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chicken Tatsuta",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chiko Roll",
+"aliases": [],
+"links": 6
+},
+{
+"name": "chimichurri burger",
+"aliases": [
+"chimi",
+"chimi burger",
+"chimichurris",
+"Dominican burger"
+],
+"links": 6
+},
+{
+"name": "croque-madame",
+"aliases": [
+"croque madame"
+],
+"links": 6
+},
+{
+"name": "Korean taco",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kottenbutter",
+"aliases": [
+"Kottenbotter"
+],
+"links": 6
+},
+{
+"name": "McArabia",
+"aliases": [
+"McKebab",
+"McOriental",
+"McTurco"
+],
+"links": 6
+},
+{
+"name": "medianoche",
+"aliases": [],
+"links": 6
+},
+{
+"name": "miga sandwich",
+"aliases": [
+"chambuchito",
+"rafaelito",
+"rafaelitos",
+"sandwiches de miga"
+],
+"links": 6
+},
+{
+"name": "New Jersey sloppy joe",
+"aliases": [
+"sloppy joe",
+"Sloppy joe"
+],
+"links": 6
+},
+{
+"name": "salmon burger",
+"aliases": [],
+"links": 6
+},
+{
+"name": "sandwich loaf",
+"aliases": [],
+"links": 6
+},
+{
+"name": "smash burger",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Spatlo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Thanksgiving sandwich",
+"aliases": [
+"Gobbler",
+"Pilgrim",
+"Puritan"
+],
+"links": 6
+},
+{
+"name": "toast skagen",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Uitsmijter",
+"aliases": [],
+"links": 6
+},
+{
+"name": "vegetable sandwich",
+"aliases": [
+"veggie sandwich"
+],
+"links": 6
+},
+{
+"name": "Barros Jarpa",
+"aliases": [],
+"links": 5
+},
+{
+"name": "BK Stacker",
+"aliases": [],
+"links": 5
+},
+{
+"name": "bocadillo de tortilla",
+"aliases": [
+"bocadillo con tortilla",
+"bocadillo de tortilla de patatas",
+"bocadillo de tortilla de patatas Española",
+"bocadillo de tortilla Española",
+"bocata de tortilla"
+],
+"links": 5
+},
+{
+"name": "Bokit",
+"aliases": [],
+"links": 5
+},
+{
+"name": "brtuch",
+"aliases": [],
+"links": 5
+},
+{
+"name": "butifarra",
+"aliases": [
+"jamón del país sandwich"
+],
+"links": 5
+},
+{
+"name": "chili burger",
+"aliases": [],
+"links": 5
+},
+{
+"name": "chow mein sandwich",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Croissan'Wich",
+"aliases": [
+"Croissan Wich",
+"Croissanwich"
+],
+"links": 5
+},
+{
+"name": "fruit sandwich",
+"aliases": [
+"fruit sando"
+],
+"links": 5
+},
+{
+"name": "grilletta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Khao Jee Pâté",
+"aliases": [
+"Lao bánh mì",
+"Laotian bánh mì"
+],
+"links": 5
+},
+{
+"name": "kiluvõileib",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Maxwell Street Polish",
+"aliases": [],
+"links": 5
+},
+{
+"name": "McKroket",
+"aliases": [],
+"links": 5
+},
+{
+"name": "McPlant",
+"aliases": [],
+"links": 5
+},
+{
+"name": "mortadella sandwich",
+"aliases": [],
+"links": 5
+},
+{
+"name": "pastrami on rye",
+"aliases": [
+"pastrami sandwich"
+],
+"links": 5
+},
+{
+"name": "pocket sandwich",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Seattle-style hot dog",
+"aliases": [
+"Hadley's Bagel Dogs",
+"Seattle Dog"
+],
+"links": 5
+},
+{
+"name": "Sincronizada",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sándwich de milanesa",
+"aliases": [
+"Sandwich de milanesa"
+],
+"links": 5
+},
+{
+"name": "Trancapecho",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Wurstbrot",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Arch Deluxe",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bagel and cream cheese",
+"aliases": [],
+"links": 4
+},
+{
+"name": "bocadillo de chorizo",
+"aliases": [
+"bocata de chorizo"
+],
+"links": 4
+},
+{
+"name": "bread and dripping",
+"aliases": [
+"larded bread"
+],
+"links": 4
+},
+{
+"name": "coconut burger",
+"aliases": [
+"coco burger",
+"niyog burger",
+"sapal burger",
+"sapal ng niyog burger"
+],
+"links": 4
+},
+{
+"name": "Costco hot dog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cudighi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dodger Dog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "doughnut sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "fish sandwich",
+"aliases": [
+"fish burger"
+],
+"links": 4
+},
+{
+"name": "Goralı",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hamburger Helper",
+"aliases": [
+"Chicken Helper",
+"Tuna Helper"
+],
+"links": 4
+},
+{
+"name": "Italian sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "kimchi burger",
+"aliases": [],
+"links": 4
+},
+{
+"name": "lettuce sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "McAfrika",
+"aliases": [],
+"links": 4
+},
+{
+"name": "McVeggie",
+"aliases": [],
+"links": 4
+},
+{
+"name": "montadito",
+"aliases": [
+"montaditos",
+"montado"
+],
+"links": 4
+},
+{
+"name": "Montreal hot dog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Num pang",
+"aliases": [
+"nom pang",
+"nombang",
+"nompang"
+],
+"links": 4
+},
+{
+"name": "patso",
+"aliases": [],
+"links": 4
+},
+{
+"name": "pebete",
+"aliases": [],
+"links": 4
+},
+{
+"name": "prawn roll",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sailor sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "San Francisco burrito",
+"aliases": [
+"Mission burrito",
+"Mission-style burrito"
+],
+"links": 4
+},
+{
+"name": "shrimp sandwich",
+"aliases": [
+"prawn sandwich"
+],
+"links": 4
+},
+{
+"name": "spicy chicken sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "steak sandwich",
+"aliases": [],
+"links": 4
+},
+{
+"name": "teriyaki burger",
+"aliases": [
+"samurai burger"
+],
+"links": 4
+},
+{
+"name": "Wet hamburger",
+"aliases": [],
+"links": 4
+},
+{
+"name": "50/50 burger",
+"aliases": [
+"50/50 Burger patty"
+],
+"links": 3
+},
+{
+"name": "Bacon Deluxe",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Big Arch",
+"aliases": [],
+"links": 3
+},
+{
+"name": "boerewors roll",
+"aliases": [
+"boerie roll"
+],
+"links": 3
+},
+{
+"name": "Broodje gezond",
+"aliases": [],
+"links": 3
+},
+{
+"name": "casse-croûte",
+"aliases": [
+"casse-croute",
+"snack"
+],
+"links": 3
+},
+{
+"name": "Chola sandwich",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Czech-style hot dog",
+"aliases": [
+"párek v rohlíku",
+"sausage in roll"
+],
+"links": 3
+},
+{
+"name": "danger dog",
+"aliases": [
+"bacon-wrapped hot dog"
+],
+"links": 3
+},
+{
+"name": "eggs Florentine",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Enormous Omelet Sandwich",
+"aliases": [],
+"links": 3
+},
+{
+"name": "fried onion burger",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Gerber sandwich",
+"aliases": [
+"Famous Gerber sandwich"
+],
+"links": 3
+},
+{
+"name": "gilgeori toast",
+"aliases": [
+"Korean street toast"
+],
+"links": 3
+},
+{
+"name": "Impossible Whopper",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Italian hot dog",
+"aliases": [],
+"links": 3
+},
+{
+"name": "jaffle",
+"aliases": [
+"toastie"
+],
+"links": 3
+},
+{
+"name": "jam sandwich",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Kuro Burger",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Morcipan",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Pan con chicharrón",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Panchuker",
+"aliases": [],
+"links": 3
+},
+{
+"name": "prego",
+"aliases": [
+"prego no prato",
+"prego no pão"
+],
+"links": 3
+},
+{
+"name": "Sasebo burger",
+"aliases": [],
+"links": 3
+},
+{
+"name": "slugburger",
+"aliases": [],
+"links": 3
+},
+{
+"name": "Spaghetti taco",
+"aliases": [],
+"links": 3
+},
+{
+"name": "steamed cheeseburger",
+"aliases": [
+"cheeseburg",
+"steamer"
+],
+"links": 3
+},
+{
+"name": "toasted sandwich",
+"aliases": [
+"toastie"
+],
+"links": 3
+},
+{
+"name": "torta",
+"aliases": [
+"Lonche"
+],
+"links": 3
+},
+{
+"name": "x caboquinho",
+"aliases": [
+"x-caboquinho"
+],
+"links": 3
+}
+]

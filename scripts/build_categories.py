@@ -158,7 +158,7 @@ BANNED = {
         re.I,
     ),
     "instruments": re.compile(r"\b(microphone|soundbar|speaker|amplifier|foghorn|horn signal|siren)\b", re.I),
-    "holidays": re.compile(r"^public holiday$|\d{4}", re.I),
+    "holidays": re.compile(r"^public holiday$|\d{4}|^ancient \w+ festival$|^festival$", re.I),
     "mexican-foods": re.compile(r"^(wrap|calavera|sugar skull)$", re.I),
     "american-foods": re.compile(r"^(mars|extra)$", re.I),
     "composers": re.compile(r"^(elton john)$", re.I),
