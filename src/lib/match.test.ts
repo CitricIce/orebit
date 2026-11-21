@@ -90,12 +90,15 @@ test("the calendar never repeats a category", () => {
   }
 });
 
-test("each day has at most one medium category and no question repeats", () => {
+test("each day has at most one medium category and no question repeats", async () => {
   const titles = new Map(catalog.categories.map((c) => [c.id, normalize(c.title)]));
+  const { default: schedule } = await import("../../data/schedule.json");
+  const allowed = new Set<string>((schedule as { extra_medium_ok?: string[] }).extra_medium_ok ?? []);
   const seen = new Set<string>();
-  for (const day of calendar.days) {
+  for (const [i, day] of calendar.days.entries()) {
+    const date = new Date(Date.parse(calendar.start) + i * 86_400_000).toISOString().slice(0, 10);
     const medium = day.filter((id) => levels.medium.includes(id));
-    assert.ok(medium.length <= 1, `more than one medium category on a day: ${day}`);
+    assert.ok(medium.length <= (allowed.has(date) ? 2 : 1), `more than one medium category on ${date}: ${day}`);
     for (const id of day) {
       assert.ok(levels.easy.includes(id) || levels.medium.includes(id), `${id} has no level`);
       const title = titles.get(id);

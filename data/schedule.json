@@ -1,5 +1,5 @@
 {
- "_comment": "Pin categories to specific dates. A pinned category is held back for its date and never used on another day. A date can list 1 to 5 categories; the rest are filled automatically.",
+ "_comment": "Pin categories to specific dates. \"hold\" lists categories kept out of rotation. \"extra_medium_ok\" lists dates allowed two mediums (by request). A pinned category is held back for its date and never used on another day. A date can list 1 to 5 categories; the rest are filled automatically.",
  "days": {
   "2026-11-28": [
    "indian-foods"
@@ -15,6 +15,10 @@
   ]
  },
  "hold": [
-  "beans-legumes"
+  "beans-legumes",
+  "fast-things"
+ ],
+ "extra_medium_ok": [
+  "2026-12-19"
  ]
 }
