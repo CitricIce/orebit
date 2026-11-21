@@ -92,7 +92,7 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     ],
     "cetaceans": [(taxa("Q160"), 1)],
     "dinosaurs": [(taxa("Q430", "Q34740") + " ?item wdt:P31 wd:Q23038290 .", 2)],
-    "painters": [(people("Q1028181"), 45)],
+    "painters": [(people("Q1028181"), 25)],
     # Composers, minus people mainly known for pop, rock or other fields:
     # singer-songwriters, rappers, actors, guitarists, comedians, record
     # producers, footballers and monarchs.
@@ -102,7 +102,7 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
             + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1960)"
             + " FILTER NOT EXISTS { ?item wdt:P106 ?other . VALUES ?other {"
             + " wd:Q488205 wd:Q2252262 wd:Q33999 wd:Q855091 wd:Q245068 wd:Q183945 wd:Q116 wd:Q937857 } }",
-            35,
+            25,
         )
     ],
     # Added for the second wave of categories.
@@ -113,26 +113,26 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "salads": [(tree("Q9266"), 2)],
     "spirits": [(tree("Q154"), 8)],
     "mythical-creatures": [(tree("Q2239243"), 15)],
-    "holidays": [(tree("Q1445650"), 30)],
-    "cartoon-characters": [(inst("Q15711870"), 15)],
-    "video-games": [(inst("Q7889"), 40)],
+    "holidays": [(tree("Q1445650"), 20)],
+    "cartoon-characters": [(inst("Q15711870"), 8)],
+    "video-games": [(inst("Q7889"), 15)],
     "game-consoles": [(tree("Q8076"), 10)],
-    "movie-franchises": [(inst("Q24856"), 25)],
+    "movie-franchises": [(inst("Q24856"), 12)],
     "disney-pixar-movies": [
         ("?item wdt:P31 wd:Q11424 ; wdt:P272 ?studio . VALUES ?studio { wd:Q191224 wd:Q127552 }", 5)
     ],
     "instruments": [(tree("Q34379"), 15)],
-    "singers": [(people("Q177220"), 70)],
-    "actors": [(people("Q33999") + " ?item wdt:P21 wd:Q6581097 .", 70)],
-    "actresses": [(people("Q33999") + " ?item wdt:P21 wd:Q6581072 .", 60)],
-    "bands": [(inst("Q215380"), 40), (inst("Q5741069"), 30)],
+    "singers": [(people("Q177220"), 35)],
+    "actors": [(people("Q33999") + " ?item wdt:P21 wd:Q6581097 .", 35)],
+    "actresses": [(people("Q33999") + " ?item wdt:P21 wd:Q6581072 .", 30)],
+    "bands": [(inst("Q215380"), 20), (inst("Q5741069"), 15)],
     "us-cities": [(inst("Q1093829"), 40)],
     "european-cities": [("?item wdt:P31 wd:Q1549591 ; wdt:P17/wdt:P30 wd:Q46 .", 20)],
     "asian-cities": [("?item wdt:P31 wd:Q1549591 ; wdt:P17/wdt:P30 wd:Q48 .", 20)],
-    "islands": [(inst("Q23442"), 40)],
-    "lakes": [(inst("Q23397"), 30)],
-    "rivers": [(inst("Q4022"), 40)],
-    "mountains": [(inst("Q8502"), 30)],
+    "islands": [(inst("Q23442"), 20)],
+    "lakes": [(inst("Q23397"), 15)],
+    "rivers": [(inst("Q4022"), 20)],
+    "mountains": [(inst("Q8502"), 15)],
     "currencies": [(inst("Q8142"), 10)],
     "fast-food": [(tree("Q1751429"), 5)],
     "italian-foods": [(dishes_from("Q38", "Q192786"), 3)],
@@ -141,6 +141,12 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "french-foods": [(dishes_from("Q142", "Q6661"), 3)],
     "spanish-foods": [(dishes_from("Q29", "Q622512"), 3)],
     "american-foods": [(dishes_from("Q30", "Q1352460"), 4)],
+    # Sources for open-ended categories that had none.
+    "athletes": [("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279* wd:Q2066131 .", 60)],
+    "historical-figures": [("?item wdt:P31 wd:Q5 ; wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 120)],
+    "languages": [(inst("Q1288568"), 25)],
+    "sandwiches": [(tree("Q28803"), 3)],
+    "soups": [(tree("Q41415"), 3)],
 }
 
 QUERY = """
