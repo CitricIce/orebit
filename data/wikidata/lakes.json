@@ -629,7 +629,7 @@
 "aliases": [
 "Champlain"
 ],
-"links": 47
+"links": 48
 },
 {
 "name": "Lake Zaysan",
@@ -1596,5 +1596,3730 @@
 "name": "Veisjärv",
 "aliases": [],
 "links": 30
+},
+{
+"name": "Yellowstone Lake",
+"aliases": [
+"Lake Eustis"
+],
+"links": 30
+},
+{
+"name": "Chatyr-Kul",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Don Juan Pond",
+"aliases": [
+"Lake Don Juan"
+],
+"links": 29
+},
+{
+"name": "Lake Amadeus",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lake Eyasi",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lake İznik",
+"aliases": [
+"Ascania lake",
+"Lake Askania",
+"Lake Iznik"
+],
+"links": 29
+},
+{
+"name": "Lake Lubāns",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lake Malombe",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lake of Tunis",
+"aliases": [
+"Complexe lac de Tunis"
+],
+"links": 29
+},
+{
+"name": "Lake Peipus",
+"aliases": [
+"Chudskoye Lake",
+"Lake Peipsi",
+"Peipsi Lake"
+],
+"links": 29
+},
+{
+"name": "Lake Silvaplana",
+"aliases": [
+"Lej da Silvaplauna",
+"Silvaplanersee"
+],
+"links": 29
+},
+{
+"name": "Lake Te Anau",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lake Vagula",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lake Velence",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Loch Morar",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lugu Lake",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Mondsee",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Nero",
+"aliases": [
+"Lake Nero"
+],
+"links": 29
+},
+{
+"name": "Randsfjorden",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Salar de Atacama",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Small Prespa lake",
+"aliases": [
+"Lesser Prespa",
+"Mikri Prespa",
+"Prespa e Vogel",
+"Small Prespa"
+],
+"links": 29
+},
+{
+"name": "Vištytis",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Walchensee",
+"aliases": [
+"Lake Walchen"
+],
+"links": 29
+},
+{
+"name": "Weissensee",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Black Lake",
+"aliases": [
+"Karakul Lake"
+],
+"links": 28
+},
+{
+"name": "Bolmen",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Buada Lagoon",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Chebarkul Lake",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Karujärv",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Khar-Us Lake",
+"aliases": [
+"Har Us Nuur"
+],
+"links": 28
+},
+{
+"name": "Laguna Colorada",
+"aliases": [
+"Colorada Lake",
+"Red Lagoon"
+],
+"links": 28
+},
+{
+"name": "Lake Ilopango",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Lake Kaindy",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Lake Mackay",
+"aliases": [
+"Wilkin Karra",
+"Wilkinkarra"
+],
+"links": 28
+},
+{
+"name": "Lake Orestiada",
+"aliases": [
+"Lake Kastoria"
+],
+"links": 28
+},
+{
+"name": "Lake Simcoe",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Lake Yojoa",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Loch Tay",
+"aliases": [
+"Loch Tatha"
+],
+"links": 28
+},
+{
+"name": "Lough Ree",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Oeschinen Lake",
+"aliases": [
+"Lake Oeschinen",
+"Oeschinensee"
+],
+"links": 28
+},
+{
+"name": "Pyaozero",
+"aliases": [
+"Lake Pyaozero",
+"Ozero Pjaozero",
+"Pääjärvi"
+],
+"links": 28
+},
+{
+"name": "Sayram Lake",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Dian Lake",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Hallstätter See",
+"aliases": [
+"Hallstatt Lake",
+"Hallstätter lake"
+],
+"links": 27
+},
+{
+"name": "Heaven Lake of Tian Shan",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Khyargas Nuur",
+"aliases": [
+"Hirgis Nuur"
+],
+"links": 27
+},
+{
+"name": "Lake Chany",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Lake Hallwil",
+"aliases": [
+"Hallwilersee"
+],
+"links": 27
+},
+{
+"name": "Lake Khasan",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Lake Manzala",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Lake Pamvotida",
+"aliases": [
+"Lake of Ioannina",
+"Pambotis"
+],
+"links": 27
+},
+{
+"name": "Lake Petén Itzá",
+"aliases": [
+"Lake Peten Itza"
+],
+"links": 27
+},
+{
+"name": "Lake Sasykkol",
+"aliases": [
+"Sasykkol Lake"
+],
+"links": 27
+},
+{
+"name": "Lake Tekapo",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Lake Tharthar",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Lake Varese",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Lake Vivi",
+"aliases": [
+"Ozero Vivi"
+],
+"links": 27
+},
+{
+"name": "Lake Wānaka",
+"aliases": [
+"Lake Wanaka",
+"Oanaka"
+],
+"links": 27
+},
+{
+"name": "Lisi Lake",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Loch Awe",
+"aliases": [
+"Loch Obha"
+],
+"links": 27
+},
+{
+"name": "Loktak Lake",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Manych-Gudilo",
+"aliases": [
+"Lake Manych-Gudilo"
+],
+"links": 27
+},
+{
+"name": "Mullutu-Suurlaht",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Rainy Lake",
+"aliases": [
+"Lac la Pluie",
+"Lac à la Pluie"
+],
+"links": 27
+},
+{
+"name": "Ranco Lake",
+"aliases": [
+"Lake Ranco"
+],
+"links": 27
+},
+{
+"name": "Røssvatnet",
+"aliases": [
+"Reevhtse"
+],
+"links": 27
+},
+{
+"name": "Tegernsee",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Achit Lake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Black Lake",
+"aliases": [
+"Crno jezero"
+],
+"links": 26
+},
+{
+"name": "Buir Lake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Donuzlav",
+"aliases": [
+"Doñuzlav"
+],
+"links": 26
+},
+{
+"name": "Dąbie Lake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Gazivoda Lake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Hańcza",
+"aliases": [
+"Jezioro Hańcza"
+],
+"links": 26
+},
+{
+"name": "Kartsakhi Lake",
+"aliases": [
+"Lake Aktaş",
+"Lake Khosapin"
+],
+"links": 26
+},
+{
+"name": "Lac de Joux",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Lacha",
+"aliases": [
+"Lake Lacha"
+],
+"links": 26
+},
+{
+"name": "Lake Burdur",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Lake Copais",
+"aliases": [
+"Copaic lake",
+"Kopaida"
+],
+"links": 26
+},
+{
+"name": "Lake George",
+"aliases": [
+"Lake Dweru",
+"Lake George Uganda"
+],
+"links": 26
+},
+{
+"name": "Lake Göygöl",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Lake Keitele",
+"aliases": [
+"Keitele",
+"Keitelejärvi"
+],
+"links": 26
+},
+{
+"name": "Lake Kulunda",
+"aliases": [
+"Kulundinskoe",
+"Lake Kulundinskoye"
+],
+"links": 26
+},
+{
+"name": "Lake Langano",
+"aliases": [
+"Lake Kore"
+],
+"links": 26
+},
+{
+"name": "Lake Lovozero",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Lake Matano",
+"aliases": [
+"Lake Matana",
+"Matana",
+"Matano Lake"
+],
+"links": 26
+},
+{
+"name": "Lake Ossiach",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Lake Pihkva",
+"aliases": [
+"Lake Pskov",
+"Pihkva",
+"Pskovskoe Lake"
+],
+"links": 26
+},
+{
+"name": "Lake Rweru",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Lake Sarysu",
+"aliases": [
+"Sarısu"
+],
+"links": 26
+},
+{
+"name": "Lake Vegoritida",
+"aliases": [
+"Lake Ostrovo",
+"Vegoritida"
+],
+"links": 26
+},
+{
+"name": "Lake Volvi",
+"aliases": [
+"Bolbe",
+"Volvi"
+],
+"links": 26
+},
+{
+"name": "Lake Wakatipu",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Loch Maree",
+"aliases": [
+"Loch Ma-Ruibhe"
+],
+"links": 26
+},
+{
+"name": "Pyramid Lake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Songkhla Lake",
+"aliases": [
+"Lake Songkhla"
+],
+"links": 26
+},
+{
+"name": "Steinhuder Meer",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Syamozero",
+"aliases": [
+"Lake Syamozero",
+"Seämärvi",
+"Säämäjärvi"
+],
+"links": 26
+},
+{
+"name": "Uddjaure",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Vembanad",
+"aliases": [
+"Kochi Lake"
+],
+"links": 26
+},
+{
+"name": "Villarrica Lake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Ägerisee",
+"aliases": [
+"Aegerisee",
+"Lake Aegeri"
+],
+"links": 26
+},
+{
+"name": "Černé jezero",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Łebsko Lake",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Atlin Lake",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Crescent Lake",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Greifensee",
+"aliases": [
+"Lake Greifen"
+],
+"links": 25
+},
+{
+"name": "Hóp",
+"aliases": [
+"Hop"
+],
+"links": 25
+},
+{
+"name": "Iskanderkul",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Jänisjärvi",
+"aliases": [
+"Lake Yanisyarvi",
+"Yanisyarvi"
+],
+"links": 25
+},
+{
+"name": "Kallavesi",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kochelsee",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kronotskoye Lake",
+"aliases": [
+"Kronotskoe Lake"
+],
+"links": 25
+},
+{
+"name": "Kumpupintil Lake",
+"aliases": [
+"Lake Disappointment"
+],
+"links": 25
+},
+{
+"name": "Lake Chamo",
+"aliases": [
+"Chamo Hayk"
+],
+"links": 25
+},
+{
+"name": "Lake Fitri",
+"aliases": [
+"Lac Fitri"
+],
+"links": 25
+},
+{
+"name": "Lake Idro",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Lake Koroneia",
+"aliases": [
+"Koroneia Lake"
+],
+"links": 25
+},
+{
+"name": "Lake Marqaköl",
+"aliases": [
+"Lake Markakol"
+],
+"links": 25
+},
+{
+"name": "Lake Plav",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Lake Togo",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Lake Çıldır",
+"aliases": [
+"Cildir Golu",
+"Lake Cildir",
+"Çıldır Gölü",
+"Çıldır Lake",
+"Çıldır See"
+],
+"links": 25
+},
+{
+"name": "Müggelsee",
+"aliases": [
+"Großer Müggelsee",
+"lake Müggelsee",
+"Mugglesee"
+],
+"links": 25
+},
+{
+"name": "Pyasino",
+"aliases": [
+"Lake Pyasino",
+"Pyasino Lake"
+],
+"links": 25
+},
+{
+"name": "Sanabria Lake",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Segozero",
+"aliases": [
+"Lake Segozero"
+],
+"links": 25
+},
+{
+"name": "Ulungur Lake",
+"aliases": [
+"Lake Ulungur"
+],
+"links": 25
+},
+{
+"name": "Wigry Lake",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Apavatn",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Chao Lake",
+"aliases": [
+"Chaohu Lake",
+"the Chaohu Lake"
+],
+"links": 24
+},
+{
+"name": "Chungará Lake",
+"aliases": [
+"Chungara Lake"
+],
+"links": 24
+},
+{
+"name": "Coatepeque Caldera",
+"aliases": [
+"Caldera De Coatepeque"
+],
+"links": 24
+},
+{
+"name": "Gopło",
+"aliases": [
+"Jezioro Gopło"
+],
+"links": 24
+},
+{
+"name": "Großer Wannsee",
+"aliases": [
+"Wannsee"
+],
+"links": 24
+},
+{
+"name": "Jeziorak",
+"aliases": [
+"Jezioro Jeziorak"
+],
+"links": 24
+},
+{
+"name": "Kainji Lake",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kleifarvatn",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Labynkyr Lake",
+"aliases": [
+"Labynkyr"
+],
+"links": 24
+},
+{
+"name": "Lake Abijatta",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lake Burtnieks",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lake Burullus",
+"aliases": [
+"Burullus Lake"
+],
+"links": 24
+},
+{
+"name": "Lake Gairdner",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lake Harku",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lake Ialpuh",
+"aliases": [
+"Lake Yalpug"
+],
+"links": 24
+},
+{
+"name": "Lake Karum",
+"aliases": [
+"Asahle",
+"Asale",
+"Assale"
+],
+"links": 24
+},
+{
+"name": "Lake Keta",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lake Manitou",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lake Nipissing",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lake No",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lake Sarnen",
+"aliases": [
+"Sarnersee"
+],
+"links": 24
+},
+{
+"name": "Lake Timsah",
+"aliases": [
+"Buḩayrat at Timsāḩ",
+"Crocodile Lake"
+],
+"links": 24
+},
+{
+"name": "Lake Toplitz",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lake Upemba",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lama",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Limassol Salt Lake",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Llyn Tegid",
+"aliases": [
+"Bala Lake",
+"Lake Bala"
+],
+"links": 24
+},
+{
+"name": "Loch Lochy",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lonar Lake",
+"aliases": [
+"Lonar crater"
+],
+"links": 24
+},
+{
+"name": "Lough Allen",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Palić Lake",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Pyhäjärvi",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Reschensee",
+"aliases": [
+"Lake Reschen"
+],
+"links": 24
+},
+{
+"name": "Tilicho Lake",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Tso Moriri",
+"aliases": [
+"Tsomoriri Wetland Conservation Reserve"
+],
+"links": 24
+},
+{
+"name": "Turtle Lake",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Vozhe",
+"aliases": [
+"Lake Vozhe"
+],
+"links": 24
+},
+{
+"name": "Faaker See",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Gusinoye Lake",
+"aliases": [
+"Gusinoe Lake"
+],
+"links": 23
+},
+{
+"name": "Hoàn Kiếm Lake",
+"aliases": [
+"Sword Lake"
+],
+"links": 23
+},
+{
+"name": "Indawgyi Lake",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Kezenoyam",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Khantayskoye Lake",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lake Akan",
+"aliases": [
+"Akan-ko"
+],
+"links": 23
+},
+{
+"name": "Lake Awasa",
+"aliases": [
+"Awassa",
+"Hawassa",
+"Lake Awassa",
+"Lake Hawassa"
+],
+"links": 23
+},
+{
+"name": "Lake Guatavita",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lake Ichkeul",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lake Kuremaa",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lake Lesina",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lake Manapouri",
+"aliases": [
+"Manapōuri",
+"Moturau"
+],
+"links": 23
+},
+{
+"name": "Lake Misurina",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lake Mweru Wantipa",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lake Saroma",
+"aliases": [
+"Saroma-ko"
+],
+"links": 23
+},
+{
+"name": "Lake Shikotsu",
+"aliases": [
+"Shikotsu-ko"
+],
+"links": 23
+},
+{
+"name": "Lake Tota",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lake Viljandi",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Langisjór",
+"aliases": [
+"Langisjor"
+],
+"links": 23
+},
+{
+"name": "Loch Rannoch",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Miedwie",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Suurjärv",
+"aliases": [
+"Rõuge Suurjärv"
+],
+"links": 23
+},
+{
+"name": "Svitiaz",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Tinnsjå",
+"aliases": [
+"Tinnsjø"
+],
+"links": 23
+},
+{
+"name": "Umbozero",
+"aliases": [
+"Lake Umb",
+"Lake Umba"
+],
+"links": 23
+},
+{
+"name": "Vodlozero",
+"aliases": [
+"Lake Vodlozero"
+],
+"links": 23
+},
+{
+"name": "Abrau",
+"aliases": [
+"Lake Abrau"
+],
+"links": 22
+},
+{
+"name": "Airag Lake",
+"aliases": [
+"Ayrag Nuur"
+],
+"links": 22
+},
+{
+"name": "Alpsee",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Asviejskaje Lake",
+"aliases": [
+"Lake Asvieja",
+"Lake Osveya",
+"Osveyskoye Lake"
+],
+"links": 22
+},
+{
+"name": "Chott Ech Chergui",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Cochrane/Pueyrredón Lake",
+"aliases": [
+"Cochrane"
+],
+"links": 22
+},
+{
+"name": "Elliðavatn",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Gurudongmar Lake",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Khar Lake",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kummerower See",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Laguna del Carbón",
+"aliases": [
+"Coal Lagoon",
+"Laguna del Carbon"
+],
+"links": 22
+},
+{
+"name": "Lake Akdoğan",
+"aliases": [
+"Lake Hamurpert"
+],
+"links": 22
+},
+{
+"name": "Lake Akşehir",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lake Burgas",
+"aliases": [
+"Vaya"
+],
+"links": 22
+},
+{
+"name": "Lake Cheko",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lake Ermistu",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lake George",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lake Hammar",
+"aliases": [
+"Lake Hammer"
+],
+"links": 22
+},
+{
+"name": "Lake Hauroko",
+"aliases": [
+"Lake Hauroto"
+],
+"links": 22
+},
+{
+"name": "Lake Poso",
+"aliases": [
+"Rano Poso"
+],
+"links": 22
+},
+{
+"name": "Lake Salda",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lake Sev",
+"aliases": [
+"Black Lake",
+"Garagol",
+"Qaragöl",
+"Sevlich"
+],
+"links": 22
+},
+{
+"name": "Lake Tamula",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lake Tengrela",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lake Tsimanampetsotsa",
+"aliases": [
+"Lake Tsimanampesotse",
+"Tsimanampesotse",
+"Tsimanampetsotsa"
+],
+"links": 22
+},
+{
+"name": "Lake Varna",
+"aliases": [
+"Varna Lake"
+],
+"links": 22
+},
+{
+"name": "Okanagan Lake",
+"aliases": [
+"Lake Okanagan"
+],
+"links": 22
+},
+{
+"name": "Pleshcheyevo Lake",
+"aliases": [
+"Lake Pleshcheyevo"
+],
+"links": 22
+},
+{
+"name": "Red Lake",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Rogen",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Serpentine",
+"aliases": [
+"The Serpentine"
+],
+"links": 22
+},
+{
+"name": "Todos los Santos Lake",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Uru Uru Lake",
+"aliases": [
+"Lago Uru Uru"
+],
+"links": 22
+},
+{
+"name": "Uzungöl",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Valdai",
+"aliases": [
+"Lake Valdayskoye",
+"Valday",
+"Valdayskoe"
+],
+"links": 22
+},
+{
+"name": "Almsee",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Asveja",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Attabad Lake",
+"aliases": [
+"Gojal Lake"
+],
+"links": 21
+},
+{
+"name": "Coniston Water",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Dilolo Lake",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Eemmeer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Großer Plöner See",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hvítárvatn",
+"aliases": [
+"Hvitarvatn"
+],
+"links": 21
+},
+{
+"name": "Jingpo Lake",
+"aliases": [
+"Lake Jingpo"
+],
+"links": 21
+},
+{
+"name": "Keret",
+"aliases": [
+"Lake Keret"
+],
+"links": 21
+},
+{
+"name": "Lake Afrera",
+"aliases": [
+"Lake Afdera"
+],
+"links": 21
+},
+{
+"name": "Lake Bafa",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Lake Chelan",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Lake Chiuta",
+"aliases": [
+"'Chiuta"
+],
+"links": 21
+},
+{
+"name": "Lake Drīdzis",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Lake Débo",
+"aliases": [
+"Lake Debo"
+],
+"links": 21
+},
+{
+"name": "Lake Engure",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Lake Köyceğiz",
+"aliases": [
+"Köyceğiz Gölü"
+],
+"links": 21
+},
+{
+"name": "Lake Maninjau",
+"aliases": [
+"Maninyau"
+],
+"links": 21
+},
+{
+"name": "Lake Pichola",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Lake Pátzcuaro",
+"aliases": [
+"Lake Patzcuaro"
+],
+"links": 21
+},
+{
+"name": "Lake Razna",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Lake Tele",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Lake Vistonida",
+"aliases": [
+"Vistonida Lake"
+],
+"links": 21
+},
+{
+"name": "Laugarvatn",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Loch Ericht",
+"aliases": [
+"Loch Eireachd"
+],
+"links": 21
+},
+{
+"name": "Loch Katrine",
+"aliases": [
+"Loch Ceiteirein"
+],
+"links": 21
+},
+{
+"name": "Loch Leven",
+"aliases": [
+"Loch Lìobhann",
+"Lochleven"
+],
+"links": 21
+},
+{
+"name": "Loch Oich",
+"aliases": [
+"Loch Obhaich"
+],
+"links": 21
+},
+{
+"name": "Loch Shiel",
+"aliases": [
+"Loch Seile"
+],
+"links": 21
+},
+{
+"name": "Møsvatn",
+"aliases": [
+"Møsvann"
+],
+"links": 21
+},
+{
+"name": "Pushkar Lake",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Talkas",
+"aliases": [
+"Lake Talkas",
+"Ozero Talkas"
+],
+"links": 21
+},
+{
+"name": "Titisee",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Virmajärvi",
+"aliases": [
+"Virmayarvi"
+],
+"links": 21
+},
+{
+"name": "Étang Saumâtre",
+"aliases": [
+"etang Saumatre",
+"Etang Saumâtre",
+"Lake Azuei",
+"Lake Azuéi"
+],
+"links": 21
+},
+{
+"name": "Aluminé Lake",
+"aliases": [
+"Lago Alumine"
+],
+"links": 20
+},
+{
+"name": "Amadjuak Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Arresø",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Baker Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Blue Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Bolon",
+"aliases": [
+"Lake Bolon"
+],
+"links": 20
+},
+{
+"name": "Bucura Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Böön Tsagaan Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Cedar Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Chott el Hodna",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Drawsko Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Dümmer",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Eibsee",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Fjallavatn",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Galvė",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Gooimeer",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Hachirōgata",
+"aliases": [
+"Hachirogata",
+"Lake Hachiro"
+],
+"links": 20
+},
+{
+"name": "Jablaničko Lake",
+"aliases": [
+"Jablanica Lake"
+],
+"links": 20
+},
+{
+"name": "Kootenay Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lac de la Gruyère",
+"aliases": [
+"Greyerzersee",
+"Lac de la Gruyere",
+"Lake of Gruyere",
+"Lake of Gruyère"
+],
+"links": 20
+},
+{
+"name": "Lake Abant",
+"aliases": [
+"Abant",
+"Abant Lake"
+],
+"links": 20
+},
+{
+"name": "Lake Abitibi",
+"aliases": [
+"Lac Abitibi"
+],
+"links": 20
+},
+{
+"name": "Lake Biograd",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lake Bunyonyi",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lake Chew Bahir",
+"aliases": [
+"Basso Naebor",
+"Chuwaha",
+"Lake Istifanos",
+"Stefanie"
+],
+"links": 20
+},
+{
+"name": "Lake Esrum",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lake Hayq",
+"aliases": [
+"Lake Haik"
+],
+"links": 20
+},
+{
+"name": "Lake Shinji",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lake Solina",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lake Zway",
+"aliases": [
+"Dambal",
+"Dembel",
+"Hora-Dambal",
+"Lake Ziway",
+"Zeway",
+"Ziwai",
+"Ziway",
+"Zoai",
+"Zouai"
+],
+"links": 20
+},
+{
+"name": "Lough Mask",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nyuk",
+"aliases": [
+"Lake Nyuk",
+"Nokko",
+"Nuokkijärvi",
+"Nyukka",
+"Nyuko",
+"Nyukozero",
+"Sok"
+],
+"links": 20
+},
+{
+"name": "Plateliai",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Plauer See",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Pragser Wildsee",
+"aliases": [
+"Lago di Braies",
+"Lake Prags"
+],
+"links": 20
+},
+{
+"name": "Pulicat Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Puula",
+"aliases": [
+"Puulavesi"
+],
+"links": 20
+},
+{
+"name": "Pyhäjärvi",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Saghamo Lake",
+"aliases": [
+"Tba Saghamo"
+],
+"links": 20
+},
+{
+"name": "Schaalsee",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Spotted Lake",
+"aliases": [
+"The Spotted Lake"
+],
+"links": 20
+},
+{
+"name": "Terkhiin Tsagaan Lake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Vesijärvi",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Yashikul",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Čyrvonaje",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ala-Kul",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Batllava Lake",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Coipasa Lake",
+"aliases": [
+"Lago Coipasa",
+"Salar de Coipasa"
+],
+"links": 19
+},
+{
+"name": "Derwentwater",
+"aliases": [
+"Derwent Water",
+"Llyn Derwennydd"
+],
+"links": 19
+},
+{
+"name": "Dryviaty",
+"aliases": [
+"Dryvyaty"
+],
+"links": 19
+},
+{
+"name": "Dubawnt Lake",
+"aliases": [
+"Kamilikuak"
+],
+"links": 19
+},
+{
+"name": "Dörgön Lake",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Frostastaðavatn",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Grænalón",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Hvalvatn",
+"aliases": [],
+"links": 19
+},
+{
+"name": "IJmeer",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Jack London Lake",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Keurusselkä",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Krasnoye Lake",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Krøderen",
+"aliases": [
+"Krøderfjorden"
+],
+"links": 19
+},
+{
+"name": "Lake Bolshoye Toko",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Ellsworth",
+"aliases": [
+"Ellsworth Subglacial Lake"
+],
+"links": 19
+},
+{
+"name": "Lake Galichskoe",
+"aliases": [
+"Galichskoe",
+"Lake Galichskoye"
+],
+"links": 19
+},
+{
+"name": "Lake Hamana",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Ihotry",
+"aliases": [
+"Ihotry"
+],
+"links": 19
+},
+{
+"name": "Lake Kuş",
+"aliases": [
+"Daskylitis",
+"Lake Kus",
+"Lake Manyas"
+],
+"links": 19
+},
+{
+"name": "Lake Labaz",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Lauerz",
+"aliases": [
+"Lauerzersee",
+"Lowerzer See"
+],
+"links": 19
+},
+{
+"name": "Lake Melville",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Mistassini",
+"aliases": [
+"Lac Mistassini"
+],
+"links": 19
+},
+{
+"name": "Lake Niegocin",
+"aliases": [
+"Jezioro Niegocin"
+],
+"links": 19
+},
+{
+"name": "Lake Orivesi",
+"aliases": [
+"Orivesi"
+],
+"links": 19
+},
+{
+"name": "Lake Parz",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Pukaki",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Roś",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Saiful Muluk",
+"aliases": [
+"Saif-ul-Muluk Lake",
+"Saiful Muluk Lake"
+],
+"links": 19
+},
+{
+"name": "Lake Sary-Chelek",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Siutghiol",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake St. John",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Stymphalia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Tritriva",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lake Vico",
+"aliases": [
+"Vican volcanic complex"
+],
+"links": 19
+},
+{
+"name": "Lake Yessey",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lukomskaje",
+"aliases": [
+"Lukomlskoye"
+],
+"links": 19
+},
+{
+"name": "Mstino",
+"aliases": [
+"Lake Mstino"
+],
+"links": 19
+},
+{
+"name": "Ozhogino Lake",
+"aliases": [
+"Lake Ozhogino"
+],
+"links": 19
+},
+{
+"name": "Schliersee",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Snåsavatnet",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Strusta",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Vransko Lake",
+"aliases": [
+"Lake Vrana"
+],
+"links": 19
+},
+{
+"name": "Ypacaraí Lake",
+"aliases": [
+"Ypacarai Lake"
+],
+"links": 19
+},
+{
+"name": "Üüreg Lake",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Aberdeen Lake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Adams Lake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Bandak",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Bassenthwaite Lake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Bras d'Or Lake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Bustakh",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Furesø",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Fuxian Lake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Gampriner Seele",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Kanozero",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Kilpisjärvi",
+"aliases": [
+"Lake Kilpisjärvi"
+],
+"links": 18
+},
+{
+"name": "Kluane Lake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Kournas",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lac de Guiers",
+"aliases": [
+"Lake Guiers"
+],
+"links": 18
+},
+{
+"name": "Lake Aheru",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lake Alexandrina",
+"aliases": [
+"Alexandrina Lake"
+],
+"links": 18
+},
+{
+"name": "Lake Baldegg",
+"aliases": [
+"Baldeggersee"
+],
+"links": 18
+},
+{
+"name": "Lake Butrint",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lake Claire",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lake Hajikabul",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lake Kisale",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lake Lysimachia",
+"aliases": [
+"Lysimacheia"
+],
+"links": 18
+},
+{
+"name": "Lake Mapourika",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lake Michigan–Huron",
+"aliases": [
+"Lake Michigan-Huron",
+"Michigan-Huron",
+"Michigan–Huron"
+],
+"links": 18
+},
+{
+"name": "Lake of Banyoles",
+"aliases": [
+"Estany de Banyoles",
+"Lake Banyoles"
+],
+"links": 18
+},
+{
+"name": "Lake Winnipesaukee",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lake Yoa",
+"aliases": [
+"Lac Yoa"
+],
+"links": 18
+},
+{
+"name": "Liepāja Lake",
+"aliases": [
+"Lake of Liepāja"
+],
+"links": 18
+},
+{
+"name": "Loch Arkaig",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Morské oko",
+"aliases": [
+"Morske oko"
+],
+"links": 18
+},
+{
+"name": "Nerpichye Lake",
+"aliases": [
+"Lake Nerpichye"
+],
+"links": 18
+},
+{
+"name": "Oneida Lake",
+"aliases": [
+"Oneida Lake, New York",
+"Oneida Lake, USA"
+],
+"links": 18
+},
+{
+"name": "Qeli Lake",
+"aliases": [
+"Keli Lake"
+],
+"links": 18
+},
+{
+"name": "Rupanco Lake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Salvatnet",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Seneca Lake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Shalkarteniz",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Sihlsee",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Siletiteniz",
+"aliases": [
+"Lake Seletyteniz",
+"Selety-tengiz",
+"Seletytengiz",
+"Seletyteniz"
+],
+"links": 18
+},
+{
+"name": "Sperillen",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Spitzingsee",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Tauragnas",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Tenaya Lake",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Tomasee",
+"aliases": [
+"Lag da Toma",
+"Lai da Tuma",
+"Lake Toma"
+],
+"links": 18
+},
+{
+"name": "Tunnsjøen",
+"aliases": [
+"Dåtnejaevrie"
+],
+"links": 18
+},
+{
+"name": "Veerse Meer",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ansoo Lake",
+"aliases": [
+"Ansu Lake"
+],
+"links": 17
+},
+{
+"name": "Begnas Lake",
+"aliases": [
+"Begnastal",
+"Begnās Tāl"
+],
+"links": 17
+},
+{
+"name": "Brosno",
+"aliases": [
+"Lake Brosno"
+],
+"links": 17
+},
+{
+"name": "Bygdin",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Carska Bara",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Cold Lake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Dusia",
+"aliases": [
+"Lake Dusia"
+],
+"links": 17
+},
+{
+"name": "Fierza Reservoir",
+"aliases": [
+"Fierza Lake",
+"Lake Fierza",
+"Liqeni i Fierzes"
+],
+"links": 17
+},
+{
+"name": "Fuschlsee",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Gaoyou Lake",
+"aliases": [
+"Gaoyou",
+"Kao-yu",
+"Kao-yu Lake",
+"Lake Gaoyou",
+"Lake Kao-yu",
+"Lake Peixe",
+"Peixe Lake"
+],
+"links": 17
+},
+{
+"name": "Grüner See",
+"aliases": [
+"Green Lake"
+],
+"links": 17
+},
+{
+"name": "Haukivesi",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Hreðavatn",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Karersee",
+"aliases": [
+"Lake of Carezza"
+],
+"links": 17
+},
+{
+"name": "Ketelmeer",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Klopeiner See",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kolleru Lake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kushmurun",
+"aliases": [
+"Ozero Kushmurun"
+],
+"links": 17
+},
+{
+"name": "Lac d'Aiguebelette",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Acıgöl",
+"aliases": [
+"Aci Lake"
+],
+"links": 17
+},
+{
+"name": "Lake Ahémé",
+"aliases": [
+"Lake Aheme"
+],
+"links": 17
+},
+{
+"name": "Lake Batur",
+"aliases": [
+"Batoer Lake",
+"Danau Batur"
+],
+"links": 17
+},
+{
+"name": "Lake Erçek",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Fianga",
+"aliases": [
+"Fianga",
+"Guéré Lake"
+],
+"links": 17
+},
+{
+"name": "Lake Gardno",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Hazen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Jõksi",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Kamyslybas",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Letas",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Peigneur",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Sartlan",
+"aliases": [
+"Ozero Sartlan"
+],
+"links": 17
+},
+{
+"name": "Lake Singkarak",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake St Clair",
+"aliases": [
+"Lake Saint Clair",
+"Lake St. Clair"
+],
+"links": 17
+},
+{
+"name": "Lake Szelid",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Tambukan",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Tegel",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Towuti",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Winnebago",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lake Yliki",
+"aliases": [
+"Yliki"
+],
+"links": 17
+},
+{
+"name": "Large Hincovo Lake",
+"aliases": [
+"Veľké Hincovo Pleso"
+],
+"links": 17
+},
+{
+"name": "Lauricocha Lake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lough Conn",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lämmijärv",
+"aliases": [
+"Tyoploe"
+],
+"links": 17
+},
+{
+"name": "Lünersee",
+"aliases": [
+"Lüner Lake"
+],
+"links": 17
+},
+{
+"name": "Maligne Lake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Manchar Lake",
+"aliases": [
+"Lake Manchar",
+"Manchhar Lake"
+],
+"links": 17
+},
+{
+"name": "Palena/General Vintter Lake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Puruvesi",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Puyehue Lake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Rogaguado Lake",
+"aliases": [
+"Laguna Rojo Aguado"
+],
+"links": 17
+},
+{
+"name": "Rotsee",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sabkhat al-Jabbul",
+"aliases": [
+"Lake Jabbūl"
+],
+"links": 17
+},
+{
+"name": "Sartai",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Siling Lake",
+"aliases": [
+"Qilin Hu",
+"Selincuo",
+"Serling tso",
+"Siling Co",
+"Sêrling Co",
+"Tso Ziling"
+],
+"links": 17
+},
+{
+"name": "Snudy",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Suavjärvi",
+"aliases": [
+"Ozero Suav-Yarvi",
+"Suavyarvi"
+],
+"links": 17
+},
+{
+"name": "Tabatskuri Lake",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Tavatuy",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Vanajavesi",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Veluwemeer",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Vyhanaščanskaje",
+"aliases": [
+"Vyhanaŭskaje"
+],
+"links": 17
+},
+{
+"name": "Wast Water",
+"aliases": [
+"Wastwater"
+],
+"links": 17
+},
+{
+"name": "Yak Loum",
+"aliases": [
+"Yeak Loam"
+],
+"links": 17
+},
+{
+"name": "Øyeren",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ķīšezers",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ashtamudi Lake",
+"aliases": [
+"Ashtamudi Wetland"
+],
+"links": 16
+},
+{
+"name": "Asylykul",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Aursund",
+"aliases": [
+"Aursunden"
+],
+"links": 16
+},
+{
+"name": "Babine Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Baunt",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bazaleti Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bear Lake",
+"aliases": [
+"Bear River Lake"
+],
+"links": 16
+},
+{
+"name": "Blidinje Lake",
+"aliases": [
+"Blidinjsko Lake"
+],
+"links": 16
+},
+{
+"name": "Frying Pan Lake",
+"aliases": [
+"Waimangu Cauldron"
+],
+"links": 16
+},
+{
+"name": "Gjende",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Gods Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Höytiäinen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Iešjávri",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Inder Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Island Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ivö Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Jamno",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Jungfernsee",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Khoton Lake",
+"aliases": [
+"Hoton Nuur"
+],
+"links": 16
+},
+{
+"name": "Lagos Lagoon",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Laguna Miscanti",
+"aliases": [
+"Miscanti Lake"
+],
+"links": 16
+},
+{
+"name": "Lake Abashiri",
+"aliases": [
+"Abashiri-ko"
+],
+"links": 16
+},
+{
+"name": "Lake Akna",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Amara",
+"aliases": [
+"Lacul Amara"
+],
+"links": 16
+},
+{
+"name": "Lake Cyohoha South",
+"aliases": [
+"Lake Cohoha"
+],
+"links": 16
+},
+{
+"name": "Lake Frome",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Gordon",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Güija",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Habbaniyah",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Hāwea",
+"aliases": [
+"Lake Hawea"
+],
+"links": 16
+},
+{
+"name": "Lake Issyk",
+"aliases": [
+"Ozero Issyk"
+],
+"links": 16
+},
+{
+"name": "Lake Jipe",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Kinkony",
+"aliases": [
+"Lac Kinkony"
+],
+"links": 16
+},
+{
+"name": "Lake Kwania",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Mutanda",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Ngozi",
+"aliases": [
+"Lake Ngosi"
+],
+"links": 16
+},
+{
+"name": "Lake of Two Mountains",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Sapanca",
+"aliases": [
+"Sapanca Gölü"
+],
+"links": 16
+},
+{
+"name": "Lake Sentani",
+"aliases": [
+"Danau Sentani",
+"Sentani Lake"
+],
+"links": 16
+},
+{
+"name": "Lake Techirghiol",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Vouliagmeni",
+"aliases": [
+"Vouliagmeni lake"
+],
+"links": 16
+},
+{
+"name": "Lake Vrana",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lake Żarnowiec",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lesjaskogsvatnet",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Limingen",
+"aliases": [
+"Lyjmede"
+],
+"links": 16
+},
+{
+"name": "Lucrinus Lacus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Madatapa Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Mogotoyevo Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Moosehead Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Palcacocha Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Perućac lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Phoksundo Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Pihlajavesi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Roxen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Saint Mary Lake",
+"aliases": [
+"St. Mary Lake"
+],
+"links": 16
+},
+{
+"name": "Salar de Coipasa",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Schwielochsee",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Situ Gintung",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sommen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Svir Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Tollensesee",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Untersee",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Upper Sûre Lake",
+"aliases": [
+"Lac de la Haute-Sure",
+"Lac de la Haute-Sûre",
+"Upper Sure Lake"
+],
+"links": 16
+},
+{
+"name": "Wild Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Yangcheng Lake",
+"aliases": [
+"Lake Yangcheng",
+"Yang Cheng Hu",
+"Yang Cheng Lake",
+"Yangchenghu"
+],
+"links": 16
+},
+{
+"name": "Yathkyed Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Žuvintas Lake",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bannoye Lake",
+"aliases": [
+"Bannoye Ozero"
+],
+"links": 15
+},
+{
+"name": "Bennett Lake",
+"aliases": [
+"Lake Bennett"
+],
+"links": 15
+},
+{
+"name": "Blausee",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Boren",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bovilla reservoir",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Boyuk Alagol",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Chapo Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Columbia Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Cree Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dauphin Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dianshan Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dove Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ezerische",
+"aliases": [
+"Lake Ezerische"
+],
+"links": 15
+},
+{
+"name": "Glubokoe",
+"aliases": [
+"Lake Glubokoye"
+],
+"links": 15
+},
+{
+"name": "Grevelingen",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gyaring Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Iro Lake",
+"aliases": [
+"Lac Iro"
+],
+"links": 15
+},
+{
+"name": "Jandari Lake",
+"aliases": [
+"Jandara Lake"
+],
+"links": 15
+},
+{
+"name": "Jugla Lake",
+"aliases": [
+"Juglas Ezers"
+],
+"links": 15
+},
+{
+"name": "Kasba Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kenai Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kinney Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Koyashskoye",
+"aliases": [
+"Koyashskoe"
+],
+"links": 15
+},
+{
+"name": "Lago di Varano",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lago di Viverone",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Laguna Hedionda",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Laguna Lachuá",
+"aliases": [
+"Laguna Lachua"
+],
+"links": 15
+},
+{
+"name": "Lake Argyle",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lake Ağgöl",
+"aliases": [
+"Ağ göl",
+"Ağgöl"
+],
+"links": 15
+},
+{
+"name": "Lake Babati",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lake Boraphet",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lake Chukchagirskoye",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lake Davos",
+"aliases": [
+"Davoser See",
+"Davosersee"
+],
+"links": 15
+},
+{
+"name": "Lake Faguibine",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lake Hornborga",
+"aliases": [
+"Hornborgasjön"
+],
+"links": 15
+},
+{
+"name": "Lake Kaniere",
+"aliases": [
+"Lake Kanieri"
+],
+"links": 15
+},
+{
+"name": "Lake Kizi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lake McDonald",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lake Mungo",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lake Nazik",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lake Tondano",
+"aliases": [
+"Tondano Lake"
+],
+"links": 15
+},
+{
+"name": "Lake Waikaremoana",
+"aliases": [
+"Waikaremoana",
+"Waikaremoana Lake"
+],
+"links": 15
+},
+{
+"name": "Lake Wamala",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Leksozero",
+"aliases": [
+"Lake Leksozero",
+"Lieksajärvi"
+],
+"links": 15
+},
+{
+"name": "Loch Assynt",
+"aliases": [
+"Loch Asainn",
+"Loch Asainte"
+],
+"links": 15
+},
+{
+"name": "Lough Gill",
+"aliases": [
+"Loch Gile"
+],
+"links": 15
+},
+{
+"name": "Lungerersee",
+"aliases": [
+"Lake Lungern",
+"Lungerensee",
+"Lungernsee"
+],
+"links": 15
+},
+{
+"name": "Luodis",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Manasbal Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Molochnyi lyman",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Neor Lake",
+"aliases": [
+"Daryācheh-ye Nūr"
+],
+"links": 15
+},
+{
+"name": "Nieščarda",
+"aliases": [
+"Nyeshcharda"
+],
+"links": 15
+},
+{
+"name": "Norsjø",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Petexbatún",
+"aliases": [
+"Petexbatun"
+],
+"links": 15
+},
+{
+"name": "Pitelis",
+"aliases": [
+"Pitel"
+],
+"links": 15
+},
+{
+"name": "Powai Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Presidente Ríos Lake",
+"aliases": [
+"Presidente Rios Lake"
+],
+"links": 15
+},
+{
+"name": "Pressegger See",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Puelo Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Rama Lake",
+"aliases": [
+"Ramsko Jezero"
+],
+"links": 15
+},
+{
+"name": "Riffelsee",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sandsvatn",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sangiin Dalai Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Selbusjøen",
+"aliases": [
+"Selbusjø"
+],
+"links": 15
+},
+{
+"name": "Senezh",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sognsvann",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Southern Indian Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sovetskaya",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Svanevatn",
+"aliases": [
+"Salmijärvi",
+"Salmiyarvi",
+"Čoalbmejávri",
+"Čuäʹlmmjäuʹrr"
+],
+"links": 15
+},
+{
+"name": "Telmen Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Totak",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Trnovačko Lake",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Turgoyak",
+"aliases": [
+"Lake Turgoyak"
+],
+"links": 15
+},
+{
+"name": "Ubinskoye",
+"aliases": [
+"Ubinskoe Lake",
+"Ubinskoye Ozero"
+],
+"links": 15
+},
+{
+"name": "Udyl",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Viken",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Vyalozero",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Zarivar Lake",
+"aliases": [
+"Zeribar",
+"Zrebar Lake"
+],
+"links": 15
+},
+{
+"name": "Żywiec Lake",
+"aliases": [],
+"links": 15
 }
 ]

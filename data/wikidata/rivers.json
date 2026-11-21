@@ -482,18 +482,18 @@
 "Red River of the West",
 "Rio Buena Guia",
 "Rio Colorado",
-"Rio Colorado del Norte",
 "Rio Colorado Del Norte",
+"Rio Colorado del Norte",
 "Rio Cosnina",
 "Rio de Buena Guia",
 "Rio de los Martires",
 "Rio del Norta",
-"Rio Del Norte",
 "Rio del Norte",
-"Rio del Tizon",
+"Rio Del Norte",
 "Rio Del Tizon",
-"Rio Grande de Buena Esperanza",
+"Rio del Tizon",
 "Rio Grande De Buena Esperanza",
+"Rio Grande de Buena Esperanza",
 "Rio Grande de los Cosninas",
 "Rio Grande de los Martyres",
 "Seedekeeden",
@@ -554,8 +554,8 @@
 "Abay River",
 "Abbai River",
 "Abbay River",
-"Al-Bahr al-azraq",
 "Al-bahr al-Azraq",
+"Al-Bahr al-azraq",
 "Blue Nile River",
 "El Bahr el Azraq",
 "El Bahr el Azraq River"
@@ -1205,6 +1205,11 @@
 "links": 71
 },
 {
+"name": "Delaware River",
+"aliases": [],
+"links": 70
+},
+{
 "name": "Kızılırmak River",
 "aliases": [
 "Alis",
@@ -1233,11 +1238,6 @@
 "Yalu Chiang"
 ],
 "links": 70
-},
-{
-"name": "Delaware River",
-"aliases": [],
-"links": 69
 },
 {
 "name": "Lahn",
@@ -2299,8 +2299,8 @@
 {
 "name": "Doubs",
 "aliases": [
-"Doubs River",
 "Doubs river",
+"Doubs River",
 "Le Doubs"
 ],
 "links": 51
@@ -2393,10 +2393,10 @@
 "Kizîl-sou River",
 "Kysyl Su",
 "Kysyl Su River",
-"Kyzyl-suu",
 "Kyzyl-Suu",
-"Kyzyl-Suu River",
+"Kyzyl-suu",
 "Kyzyl-suu River",
+"Kyzyl-Suu River",
 "Kyzylsu",
 "River of Karatigin",
 "River Vakhsh",
@@ -2778,6 +2778,14 @@
 "links": 48
 },
 {
+"name": "Zeravshan",
+"aliases": [
+"the Zeravshan",
+"Zeravshan River"
+],
+"links": 48
+},
+{
 "name": "Chambal River",
 "aliases": [],
 "links": 47
@@ -2844,14 +2852,6 @@
 "name": "Yarmuk",
 "aliases": [
 "Yarmouk River"
-],
-"links": 47
-},
-{
-"name": "Zeravshan",
-"aliases": [
-"the Zeravshan",
-"Zeravshan River"
 ],
 "links": 47
 },
@@ -3325,6 +3325,31 @@
 "links": 43
 },
 {
+"name": "Huangpu River",
+"aliases": [
+"Chunshen Jiang",
+"Hoang-pu",
+"Hoang-pu River",
+"Hoangpu",
+"Hoangpu River",
+"Huang Poo",
+"Huang Pu",
+"Huangpoo",
+"Huangpu",
+"Hwang Poo",
+"Hwang Pu",
+"Hwangpoo",
+"Hwangpu",
+"Pu Jiang",
+"Pujiang",
+"Shen Jiang",
+"Shenjiang",
+"Whangpoo",
+"Whangpoo River"
+],
+"links": 43
+},
+{
 "name": "Ill",
 "aliases": [],
 "links": 43
@@ -3465,31 +3490,6 @@
 {
 "name": "Dalälven",
 "aliases": [],
-"links": 42
-},
-{
-"name": "Huangpu River",
-"aliases": [
-"Chunshen Jiang",
-"Hoang-pu",
-"Hoang-pu River",
-"Hoangpu",
-"Hoangpu River",
-"Huang Poo",
-"Huang Pu",
-"Huangpoo",
-"Huangpu",
-"Hwang Poo",
-"Hwang Pu",
-"Hwangpoo",
-"Hwangpu",
-"Pu Jiang",
-"Pujiang",
-"Shen Jiang",
-"Shenjiang",
-"Whangpoo",
-"Whangpoo River"
-],
 "links": 42
 },
 {
@@ -3888,5 +3888,10017 @@
 "name": "Zbruch",
 "aliases": [],
 "links": 40
+},
+{
+"name": "Brda",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Canadian River",
+"aliases": [
+"South Canadian River"
+],
+"links": 39
+},
+{
+"name": "Charles River",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Cheptsa",
+"aliases": [
+"Cheptsa River"
+],
+"links": 39
+},
+{
+"name": "Debed",
+"aliases": [
+"Tona"
+],
+"links": 39
+},
+{
+"name": "Horyn",
+"aliases": [
+"Haryn",
+"Haryń"
+],
+"links": 39
+},
+{
+"name": "Ibar",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Ingoda",
+"aliases": [
+"Ingoda River"
+],
+"links": 39
+},
+{
+"name": "Inhulets River",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Iori",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Irkut",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Iset",
+"aliases": [
+"Iset River"
+],
+"links": 39
+},
+{
+"name": "Júcar",
+"aliases": [
+"Júcar river"
+],
+"links": 39
+},
+{
+"name": "Kansas River",
+"aliases": [
+"Kaw River"
+],
+"links": 39
+},
+{
+"name": "Kara Darya",
+"aliases": [
+"Qoradaryo"
+],
+"links": 39
+},
+{
+"name": "Kasari River",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Kazanka",
+"aliases": [
+"Kazanka River"
+],
+"links": 39
+},
+{
+"name": "Khopyor",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Kodori River",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Lomami River",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Mbomou River",
+"aliases": [
+"Mbomou"
+],
+"links": 39
+},
+{
+"name": "Oglio",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Oum Er-Rbia River",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Paatsjoki",
+"aliases": [
+"Báhčeveaijohka",
+"Paatsjoki River",
+"Paaččjokk",
+"Pasvikelva",
+"Patsojoki",
+"Paččvei"
+],
+"links": 39
+},
+{
+"name": "River Dee",
+"aliases": [
+"Afon Dyfrdwy",
+"Dyfrdwy"
+],
+"links": 39
+},
+{
+"name": "Samur",
+"aliases": [
+"Samur River"
+],
+"links": 39
+},
+{
+"name": "Tungabhadra River",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Vuoksa",
+"aliases": [
+"Vuoksi"
+],
+"links": 39
+},
+{
+"name": "Wei River",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Çoruh",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Alaknanda River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Alma",
+"aliases": [
+"Alma River"
+],
+"links": 38
+},
+{
+"name": "Arda",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Bandama River",
+"aliases": [
+"Bandama"
+],
+"links": 38
+},
+{
+"name": "Bani River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Bureya",
+"aliases": [
+"Bureya River"
+],
+"links": 38
+},
+{
+"name": "Chelif River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Chicago River",
+"aliases": [
+"Chicago",
+"Chicago River main stem"
+],
+"links": 38
+},
+{
+"name": "Gomti River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Indre River",
+"aliases": [
+"Indre"
+],
+"links": 38
+},
+{
+"name": "Ishikari River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Ket",
+"aliases": [
+"Ket River"
+],
+"links": 38
+},
+{
+"name": "Komoé River",
+"aliases": [
+"Comoé River",
+"Komoe River"
+],
+"links": 38
+},
+{
+"name": "Krka",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Körös River",
+"aliases": [
+"Hármas-Körös"
+],
+"links": 38
+},
+{
+"name": "Leine",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Li River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Little Zab",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Lovat",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Morača",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Mulde",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Oti River",
+"aliases": [
+"Pendjari River"
+],
+"links": 38
+},
+{
+"name": "Pamir River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Pisuerga River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Pyasina",
+"aliases": [],
+"links": 38
+},
+{
+"name": "River Bann",
+"aliases": [
+"Bann"
+],
+"links": 38
+},
+{
+"name": "River Spey",
+"aliases": [
+"Spey"
+],
+"links": 38
+},
+{
+"name": "Sabarmati",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Samara River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Tara",
+"aliases": [
+"Tara River"
+],
+"links": 38
+},
+{
+"name": "Teteriv",
+"aliases": [
+"Teterev"
+],
+"links": 38
+},
+{
+"name": "Timok",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Trishuli River",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Turia",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Voronezh",
+"aliases": [
+"Voronezh River"
+],
+"links": 38
+},
+{
+"name": "White Elster",
+"aliases": [
+"Bílý Halštrov",
+"Běły Halštrow",
+"Weisse Elster",
+"Weiße Elster"
+],
+"links": 38
+},
+{
+"name": "Alabama River",
+"aliases": [
+"Alabama"
+],
+"links": 37
+},
+{
+"name": "Amga",
+"aliases": [
+"Amga River"
+],
+"links": 37
+},
+{
+"name": "Ardèche",
+"aliases": [
+"Ardeche"
+],
+"links": 37
+},
+{
+"name": "Bahr el Ghazal River",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Barrow",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Black Volta",
+"aliases": [
+"Black Volta River",
+"Mouhoun River"
+],
+"links": 37
+},
+{
+"name": "Breg",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Bzyb River",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Cetina",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Chambeshi River",
+"aliases": [
+"Chambeze River",
+"Chambezi River"
+],
+"links": 37
+},
+{
+"name": "Churchill River",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Colorado River",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Cumberland River",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Dender",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Diyala River",
+"aliases": [
+"Dialas"
+],
+"links": 37
+},
+{
+"name": "Dora Baltea",
+"aliases": [
+"Doire baltée"
+],
+"links": 37
+},
+{
+"name": "Eurotas",
+"aliases": [
+"Evrotas"
+],
+"links": 37
+},
+{
+"name": "Gardon",
+"aliases": [
+"Gard"
+],
+"links": 37
+},
+{
+"name": "Geba River",
+"aliases": [
+"Kayanga River"
+],
+"links": 37
+},
+{
+"name": "Genil",
+"aliases": [
+"Genil River"
+],
+"links": 37
+},
+{
+"name": "Ipoly",
+"aliases": [
+"Ipeľ"
+],
+"links": 37
+},
+{
+"name": "James River",
+"aliases": [
+"James His River",
+"Powhatan River"
+],
+"links": 37
+},
+{
+"name": "Jarama",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Klarälven",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Lek",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Minnesota River",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Mius",
+"aliases": [
+"Mius River"
+],
+"links": 37
+},
+{
+"name": "Oka",
+"aliases": [
+"Oka River"
+],
+"links": 37
+},
+{
+"name": "Pegnitz",
+"aliases": [
+"Pegnitz River"
+],
+"links": 37
+},
+{
+"name": "Pinega",
+"aliases": [
+"Pinega River"
+],
+"links": 37
+},
+{
+"name": "Pineios",
+"aliases": [
+"Peneus",
+"Pineios River",
+"Pinois",
+"Salambra",
+"Salamvrias",
+"Salavrias",
+"Saleamvria"
+],
+"links": 37
+},
+{
+"name": "Red River of the North",
+"aliases": [
+"Red River"
+],
+"links": 37
+},
+{
+"name": "Reno",
+"aliases": [],
+"links": 37
+},
+{
+"name": "River Aire",
+"aliases": [
+"Aire"
+],
+"links": 37
+},
+{
+"name": "River Boyne",
+"aliases": [
+"Boyne",
+"The River Boyne"
+],
+"links": 37
+},
+{
+"name": "River Medway",
+"aliases": [
+"Medway",
+"River Medway at Yalding"
+],
+"links": 37
+},
+{
+"name": "River Wear",
+"aliases": [
+"Wear"
+],
+"links": 37
+},
+{
+"name": "Río Negro",
+"aliases": [
+"Rio Negro"
+],
+"links": 37
+},
+{
+"name": "Sakmara",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Salado River",
+"aliases": [
+"Río Salado"
+],
+"links": 37
+},
+{
+"name": "Sauer",
+"aliases": [
+"Sure",
+"Sûre"
+],
+"links": 37
+},
+{
+"name": "Sebou River",
+"aliases": [
+"Asif n Gigu",
+"Asif n Sbu",
+"Guigou River",
+"Sebou"
+],
+"links": 37
+},
+{
+"name": "Sheksna",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Singapore River",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Sobat River",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Sviyaga",
+"aliases": [
+"Sviyaga River"
+],
+"links": 37
+},
+{
+"name": "Thaya",
+"aliases": [
+"Dyja",
+"Dyje"
+],
+"links": 37
+},
+{
+"name": "Traun",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Tundzha",
+"aliases": [
+"Tunca"
+],
+"links": 37
+},
+{
+"name": "Ugra",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Upa",
+"aliases": [
+"Upa River"
+],
+"links": 37
+},
+{
+"name": "Volturno",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Xiang River",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Yarra River",
+"aliases": [
+"Birrarung",
+"The Yarra",
+"Yarra Yarra River"
+],
+"links": 37
+},
+{
+"name": "Ain",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Alster",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Arachthos",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Arpa River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Aruwimi River",
+"aliases": [
+"Aruwimi"
+],
+"links": 36
+},
+{
+"name": "Azat River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Barada",
+"aliases": [
+"Abana"
+],
+"links": 36
+},
+{
+"name": "Barguzin",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Bhagirathi River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Biebrza",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Casiquiare canal",
+"aliases": [
+"Casiquiare",
+"Cassiquiari",
+"Río Casiquiare"
+],
+"links": 36
+},
+{
+"name": "Fish River",
+"aliases": [
+"The Fish River"
+],
+"links": 36
+},
+{
+"name": "Hornád",
+"aliases": [
+"Hornad"
+],
+"links": 36
+},
+{
+"name": "Hérault",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Izhma",
+"aliases": [
+"Izva"
+],
+"links": 36
+},
+{
+"name": "Javary River",
+"aliases": [
+"Javari",
+"Rio Javari",
+"Rio Yavari",
+"Río Javari"
+],
+"links": 36
+},
+{
+"name": "Keila River",
+"aliases": [
+"Keila"
+],
+"links": 36
+},
+{
+"name": "Mahakam River",
+"aliases": [
+"Koetai-rivier",
+"Kutei River",
+"River Mahakam"
+],
+"links": 36
+},
+{
+"name": "Manas River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Manzanares",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Miass",
+"aliases": [
+"Miass River"
+],
+"links": 36
+},
+{
+"name": "Mono River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Murat River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Orne",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Pasig River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Rega",
+"aliases": [],
+"links": 36
+},
+{
+"name": "River Derwent",
+"aliases": [
+"Derwent",
+"the River Derwent"
+],
+"links": 36
+},
+{
+"name": "Río San Juan",
+"aliases": [
+"El Desaguadero",
+"Rio San Juan",
+"River San Juan",
+"San Juan River"
+],
+"links": 36
+},
+{
+"name": "Răut",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Sado River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Sajó",
+"aliases": [
+"Slaná"
+],
+"links": 36
+},
+{
+"name": "Sangha",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Sarthe",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Semliki River",
+"aliases": [
+"French River"
+],
+"links": 36
+},
+{
+"name": "Shyok River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Son River",
+"aliases": [
+"Soan River",
+"Sone River"
+],
+"links": 36
+},
+{
+"name": "Sula River",
+"aliases": [
+"Sula"
+],
+"links": 36
+},
+{
+"name": "Sulak",
+"aliases": [
+"Sulak River"
+],
+"links": 36
+},
+{
+"name": "Tone River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Tvertsa",
+"aliases": [
+"Tvertsa River"
+],
+"links": 36
+},
+{
+"name": "Ume älv",
+"aliases": [
+"Ume river",
+"Umeälven"
+],
+"links": 36
+},
+{
+"name": "Uzh River",
+"aliases": [
+"Uh"
+],
+"links": 36
+},
+{
+"name": "Vasyugan",
+"aliases": [
+"Vasyugan River"
+],
+"links": 36
+},
+{
+"name": "Vorotan River",
+"aliases": [
+"Bargushad",
+"Bargushat",
+"Bazarchay"
+],
+"links": 36
+},
+{
+"name": "Willamette River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Yarkand River",
+"aliases": [
+"Sirikol",
+"Sirikol River",
+"Yarkand",
+"Yarkant",
+"Yarkant He",
+"Yarkant River",
+"Yarkend",
+"Yarkend River",
+"Yarkent",
+"Yarkent River"
+],
+"links": 36
+},
+{
+"name": "Yeşilırmak River",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Yug",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Amgun River",
+"aliases": [
+"Amgun'"
+],
+"links": 35
+},
+{
+"name": "Argun",
+"aliases": [
+"Argun River"
+],
+"links": 35
+},
+{
+"name": "Bidasoa",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Bodrog",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Bzura",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Cavalla River",
+"aliases": [
+"Cavalla",
+"Cavally",
+"Diougou",
+"Youbou"
+],
+"links": 35
+},
+{
+"name": "Chubut River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Dyoma",
+"aliases": [
+"Dyoma River"
+],
+"links": 35
+},
+{
+"name": "Gan River",
+"aliases": [
+"Gan Jiang"
+],
+"links": 35
+},
+{
+"name": "Grande River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Ik",
+"aliases": [
+"Ik River"
+],
+"links": 35
+},
+{
+"name": "Inhul River",
+"aliases": [
+"Ingul River"
+],
+"links": 35
+},
+{
+"name": "Irpin River",
+"aliases": [
+"Irpiň"
+],
+"links": 35
+},
+{
+"name": "Klondike River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Krka",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Latorica",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Loir",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Lukuga River",
+"aliases": [
+"Lukuga"
+],
+"links": 35
+},
+{
+"name": "Lule River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Manych",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Miljacka",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Molopo River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Nevėžis",
+"aliases": [
+"Nevėžis River"
+],
+"links": 35
+},
+{
+"name": "North Saskatchewan River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Omolon",
+"aliases": [
+"Omolon River"
+],
+"links": 35
+},
+{
+"name": "Oulujoki",
+"aliases": [
+"Ule älv"
+],
+"links": 35
+},
+{
+"name": "Ouémé River",
+"aliases": [
+"Oueme River"
+],
+"links": 35
+},
+{
+"name": "Parnaíba River",
+"aliases": [
+"Parnaiba River"
+],
+"links": 35
+},
+{
+"name": "Poprad",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Regnitz",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Rurubu River",
+"aliases": [
+"Rivière Ruvubu",
+"Rurubu",
+"Ruvuvu"
+],
+"links": 35
+},
+{
+"name": "San Joaquin River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Sankuru River",
+"aliases": [
+"Lubilash"
+],
+"links": 35
+},
+{
+"name": "St. Clair River",
+"aliases": [
+"Riviere Sainte-Claire",
+"Rivière Sainte-Claire",
+"Saint Clair River",
+"St. Clair"
+],
+"links": 35
+},
+{
+"name": "Tanana River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Tavda",
+"aliases": [
+"Tavda River"
+],
+"links": 35
+},
+{
+"name": "Tekezé River",
+"aliases": [
+"Tacazze",
+"Takkaze",
+"Tekeze River"
+],
+"links": 35
+},
+{
+"name": "Usumacinta River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Wabash River",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Yarkon River",
+"aliases": [
+"Jarkon River",
+"Nahal Yarkon",
+"Nahal Yarqon",
+"Yarqon River"
+],
+"links": 35
+},
+{
+"name": "Yauza",
+"aliases": [
+"Yauza River"
+],
+"links": 35
+},
+{
+"name": "Zala",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Aniene",
+"aliases": [
+"Anio",
+"Anius"
+],
+"links": 34
+},
+{
+"name": "Aveyron",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Betsiboka River",
+"aliases": [
+"Betsiboka"
+],
+"links": 34
+},
+{
+"name": "Bistrița River",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Bow River",
+"aliases": [
+"Bow"
+],
+"links": 34
+},
+{
+"name": "Bâc",
+"aliases": [
+"Bic River"
+],
+"links": 34
+},
+{
+"name": "Caroní River",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Casamance River",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Cross River",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Drôme",
+"aliases": [
+"Drome"
+],
+"links": 34
+},
+{
+"name": "Dyle / Dijle",
+"aliases": [
+"Dijle",
+"Dyle",
+"River Dyle"
+],
+"links": 34
+},
+{
+"name": "Eisack",
+"aliases": [
+"Isarch",
+"Isarco"
+],
+"links": 34
+},
+{
+"name": "Fontanka",
+"aliases": [
+"Fontanka River"
+],
+"links": 34
+},
+{
+"name": "Gers",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Great Fish River",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Huallaga River",
+"aliases": [
+"Río Huallaga"
+],
+"links": 34
+},
+{
+"name": "Izh",
+"aliases": [
+"Izh River"
+],
+"links": 34
+},
+{
+"name": "Kalix River",
+"aliases": [
+"Kalix älv",
+"Kalixälven"
+],
+"links": 34
+},
+{
+"name": "Kuskokwim River",
+"aliases": [
+"Kusko River"
+],
+"links": 34
+},
+{
+"name": "Maya",
+"aliases": [
+"Maya River"
+],
+"links": 34
+},
+{
+"name": "Min River",
+"aliases": [
+"Min Jiang"
+],
+"links": 34
+},
+{
+"name": "Mincio",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Msta",
+"aliases": [
+"Msta River"
+],
+"links": 34
+},
+{
+"name": "Nieuwe Maas",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Nissan",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Onyx River",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Ourthe",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Pedja River",
+"aliases": [
+"Pedja"
+],
+"links": 34
+},
+{
+"name": "River Ouse",
+"aliases": [
+"Ouse",
+"Yorkshire Ouse"
+],
+"links": 34
+},
+{
+"name": "River Tamar",
+"aliases": [
+"Tamar",
+"Tamar River"
+],
+"links": 34
+},
+{
+"name": "Ros River",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Saane/Sarine",
+"aliases": [
+"Saane",
+"Sarine"
+],
+"links": 34
+},
+{
+"name": "Seman",
+"aliases": [
+"Lumi i Semanit"
+],
+"links": 34
+},
+{
+"name": "Senne",
+"aliases": [
+"Zenne",
+"Zinne"
+],
+"links": 34
+},
+{
+"name": "Shelon",
+"aliases": [
+"Shelon River"
+],
+"links": 34
+},
+{
+"name": "Silis",
+"aliases": [],
+"links": 34
+},
+{
+"name": "South Morava",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Suir",
+"aliases": [
+"R. Suir",
+"R. Sure",
+"River Suir",
+"River Sure",
+"Suir R.",
+"Suir River",
+"Sure",
+"Sure R.",
+"Sure River"
+],
+"links": 34
+},
+{
+"name": "Suriname River",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Sylva",
+"aliases": [
+"Sylva River"
+],
+"links": 34
+},
+{
+"name": "Tietê River",
+"aliases": [
+"Rio Tietê",
+"Tiete River"
+],
+"links": 34
+},
+{
+"name": "Upper Angara",
+"aliases": [
+"Verkhnyaya Angara"
+],
+"links": 34
+},
+{
+"name": "West Morava",
+"aliases": [
+"Western Morava"
+],
+"links": 34
+},
+{
+"name": "Ångermanälven",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Łyna",
+"aliases": [
+"Alle",
+"Alle River",
+"Lava",
+"Reka Alle",
+"River Alle",
+"Łyna River"
+],
+"links": 34
+},
+{
+"name": "Šešupė",
+"aliases": [
+"Sheshupe",
+"Šešupė River"
+],
+"links": 34
+},
+{
+"name": "Akhtuba",
+"aliases": [
+"Akhtuba River"
+],
+"links": 33
+},
+{
+"name": "Alfeios",
+"aliases": [
+"Alpheus"
+],
+"links": 33
+},
+{
+"name": "Arve",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Aura River",
+"aliases": [
+"Aura",
+"Aurajoki"
+],
+"links": 33
+},
+{
+"name": "Bega River",
+"aliases": [
+"Bega",
+"Begej",
+"Begej River"
+],
+"links": 33
+},
+{
+"name": "Branco River",
+"aliases": [
+"Rio Branco",
+"White River"
+],
+"links": 33
+},
+{
+"name": "Cagayan River",
+"aliases": [
+"Río Grande de Cagayán"
+],
+"links": 33
+},
+{
+"name": "Catatumbo River",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Cheonggyecheon",
+"aliases": [
+"Cheonggye River",
+"Cheonggye Stream",
+"Cheonggyecheon Stream"
+],
+"links": 33
+},
+{
+"name": "Coco River",
+"aliases": [
+"Segovia River",
+"Wangki River"
+],
+"links": 33
+},
+{
+"name": "Creuse",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Crișul Alb River",
+"aliases": [
+"Fehér-Körös"
+],
+"links": 33
+},
+{
+"name": "Guadalete",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Ilek",
+"aliases": [
+"Ilek River"
+],
+"links": 33
+},
+{
+"name": "Kan",
+"aliases": [
+"Kan River"
+],
+"links": 33
+},
+{
+"name": "Kem River",
+"aliases": [
+"Kem",
+"Kemj"
+],
+"links": 33
+},
+{
+"name": "Khalkhyn River",
+"aliases": [
+"Halha River"
+],
+"links": 33
+},
+{
+"name": "Kunar River",
+"aliases": [
+"Chitral River",
+"Kama River",
+"Mastuj River"
+],
+"links": 33
+},
+{
+"name": "Lim",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Ljusnan",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Maine",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Min River",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Mohawk River",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Moldova River",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Monongahela River",
+"aliases": [
+"Mon River"
+],
+"links": 33
+},
+{
+"name": "Moyka River",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Naab",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Nen River",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Orava",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Osam",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Otava",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Peene",
+"aliases": [
+"Teterower Peene"
+],
+"links": 33
+},
+{
+"name": "Pite River",
+"aliases": [
+"Piteälven"
+],
+"links": 33
+},
+{
+"name": "Piusa River",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Qiantang River",
+"aliases": [
+"Ch'ien T'ang",
+"Ch'ien T'ang River",
+"Ch'ien-t'ang Chiang",
+"Ch'ien-t'ang River",
+"Che River",
+"Chekiang",
+"Chekiang River",
+"Chien Tang",
+"Chien Tang River",
+"Chien-t'ang",
+"Chien-t'ang River",
+"Chien-tang",
+"Chien-tang Chiang",
+"Chien-tang River",
+"Cientang",
+"Great River",
+"Hang-chou River",
+"Hangchow River",
+"Hangzhou River",
+"Qiantang Jiang",
+"River T'sien Tang",
+"T'sien Tang",
+"T'sien Tang River",
+"the Crooked River",
+"Tsien Tang Kiang",
+"Tsien Tang River",
+"Tsien-tang",
+"Tsien-tang R.",
+"Tsien-tang River",
+"Zhe River",
+"Zhejiang",
+"Zhejiang River"
+],
+"links": 33
+},
+{
+"name": "Red Volta",
+"aliases": [
+"Nazinon"
+],
+"links": 33
+},
+{
+"name": "River Tees",
+"aliases": [
+"Tees"
+],
+"links": 33
+},
+{
+"name": "Savannah River",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Sumida River",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Tinto River",
+"aliases": [
+"Luxia",
+"River Tinto"
+],
+"links": 33
+},
+{
+"name": "Unzha",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Usa",
+"aliases": [
+"Usva"
+],
+"links": 33
+},
+{
+"name": "Vilnia",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Wisłok",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Wkra",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Ybbs",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Zarqa River",
+"aliases": [
+"Jabbok"
+],
+"links": 33
+},
+{
+"name": "Apalachicola River",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Atrato River",
+"aliases": [
+"Atrato"
+],
+"links": 32
+},
+{
+"name": "Batang Rajang",
+"aliases": [
+"Rajakng River",
+"Rajang River"
+],
+"links": 32
+},
+{
+"name": "Bikin",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Biryusa",
+"aliases": [
+"Biryusa River",
+"Ona",
+"Ona River"
+],
+"links": 32
+},
+{
+"name": "Black River",
+"aliases": [
+"Lixian River",
+"Sông Đà"
+],
+"links": 32
+},
+{
+"name": "Caledon River",
+"aliases": [
+"Mohokare River",
+"Wilhelminarivier"
+],
+"links": 32
+},
+{
+"name": "Cimarron River",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Cooper Creek",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Des Moines River",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Devoll",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Drwęca",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Gediz River",
+"aliases": [
+"Gediz"
+],
+"links": 32
+},
+{
+"name": "Ghaggar-Hakra river",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Grijalva River",
+"aliases": [
+"Mezcalapa River",
+"Río Chiapa",
+"Río Grande",
+"Río Grande de Chiapas",
+"Seleguá River",
+"Tabasco River"
+],
+"links": 32
+},
+{
+"name": "Hotan River",
+"aliases": [
+"Hetian River"
+],
+"links": 32
+},
+{
+"name": "Juruena River",
+"aliases": [
+"Rio Juruena"
+],
+"links": 32
+},
+{
+"name": "Kerzhenets",
+"aliases": [
+"Kerzhenets River"
+],
+"links": 32
+},
+{
+"name": "Kirenga",
+"aliases": [
+"Kirenga River"
+],
+"links": 32
+},
+{
+"name": "Korana",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Kotuy",
+"aliases": [
+"Kotuy River"
+],
+"links": 32
+},
+{
+"name": "Kymi River",
+"aliases": [
+"Kymi",
+"Kymijoki",
+"Kymmene älv"
+],
+"links": 32
+},
+{
+"name": "Laba River",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Luapula River",
+"aliases": [
+"Lwapula"
+],
+"links": 32
+},
+{
+"name": "Malka",
+"aliases": [
+"Malka River"
+],
+"links": 32
+},
+{
+"name": "Maputo River",
+"aliases": [
+"Great Usutu River",
+"Lusutfu River",
+"Maputa River",
+"Suthu River",
+"Usutu River"
+],
+"links": 32
+},
+{
+"name": "Mayenne",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Molochna",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Nervión",
+"aliases": [
+"Nervion"
+],
+"links": 32
+},
+{
+"name": "Niva",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Osum",
+"aliases": [
+"Lumi i Osumit",
+"Osun River"
+],
+"links": 32
+},
+{
+"name": "Pirita River",
+"aliases": [
+"Pirita"
+],
+"links": 32
+},
+{
+"name": "Pur",
+"aliases": [
+"Pur River"
+],
+"links": 32
+},
+{
+"name": "River Foyle",
+"aliases": [
+"an Feabhail",
+"Foyle"
+],
+"links": 32
+},
+{
+"name": "River Ness",
+"aliases": [
+"Abhainn Nis",
+"Uisge Nis"
+],
+"links": 32
+},
+{
+"name": "Seyhan River",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Sieg",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Svislach River",
+"aliases": [
+"Svislach",
+"Svislač"
+],
+"links": 32
+},
+{
+"name": "Taymyra",
+"aliases": [
+"Nizhnyaya Taymyra"
+],
+"links": 32
+},
+{
+"name": "Trave",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Trebbia",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Uda",
+"aliases": [
+"Chuna"
+],
+"links": 32
+},
+{
+"name": "Varzuga",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Warnow",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Yalong River",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Zayandeh River",
+"aliases": [
+"Zayandeh Rud",
+"Zayanderud"
+],
+"links": 32
+},
+{
+"name": "Bengawan Solo River",
+"aliases": [
+"Bengawan River",
+"Bengawan Solo",
+"Great River of Solo",
+"Solo River"
+],
+"links": 31
+},
+{
+"name": "Big Uzen",
+"aliases": [
+"Bolshoy Uzen",
+"Ulken Uzen"
+],
+"links": 31
+},
+{
+"name": "Black Elster",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Buriganga River",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Chirchiq",
+"aliases": [
+"Chirchik",
+"Chirciq River"
+],
+"links": 31
+},
+{
+"name": "Dadu River",
+"aliases": [
+"Daduhe River",
+"Dajin River"
+],
+"links": 31
+},
+{
+"name": "Esla",
+"aliases": [
+"river Esla"
+],
+"links": 31
+},
+{
+"name": "Ider River",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Imjin River",
+"aliases": [
+"Rimjin River"
+],
+"links": 31
+},
+{
+"name": "Indalsälven",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Jefferson River",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Jökulsá á Fjöllum",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Karkheh River",
+"aliases": [
+"Kerkheh",
+"Rud-e Karḵeh",
+"Rūdkhāneh-ye Karkheh"
+],
+"links": 31
+},
+{
+"name": "Klang River",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Kocher",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Kolva",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Little Yenisey",
+"aliases": [
+"Little Yenisei",
+"Little Yenisei River",
+"Maly Yenisey",
+"Malyj Enisej",
+"Shishged Gol",
+"Shishged River"
+],
+"links": 31
+},
+{
+"name": "Los Angeles River",
+"aliases": [
+"L.A. River",
+"LA River",
+"Porciúncula River"
+],
+"links": 31
+},
+{
+"name": "Luvua River",
+"aliases": [
+"Luvwa"
+],
+"links": 31
+},
+{
+"name": "Mahaweli River",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Maroni",
+"aliases": [
+"Maroni Creek",
+"Marowijne river"
+],
+"links": 31
+},
+{
+"name": "Numedalslågen",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Nysa Kłodzka",
+"aliases": [
+"Glatzer Neisse"
+],
+"links": 31
+},
+{
+"name": "Ofanto",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Penzhina",
+"aliases": [
+"Penzhina River"
+],
+"links": 31
+},
+{
+"name": "Piva",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Plyussa",
+"aliases": [
+"Plyussa River"
+],
+"links": 31
+},
+{
+"name": "Ponoy",
+"aliases": [
+"Ponoy River"
+],
+"links": 31
+},
+{
+"name": "Protva",
+"aliases": [
+"Protva River"
+],
+"links": 31
+},
+{
+"name": "River Nore",
+"aliases": [],
+"links": 31
+},
+{
+"name": "River Slaney",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Saigon River",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Sassandra River",
+"aliases": [
+"Sassandra"
+],
+"links": 31
+},
+{
+"name": "Savinja",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Sefid Rud",
+"aliases": [
+"Amardos",
+"Safid River",
+"Safid Rud",
+"Sefid River",
+"Sefīd-Rūd",
+"Šāhrud"
+],
+"links": 31
+},
+{
+"name": "Selemdzha River",
+"aliases": [
+"Selemdzha"
+],
+"links": 31
+},
+{
+"name": "Shenandoah River",
+"aliases": [
+"Shenandoah"
+],
+"links": 31
+},
+{
+"name": "Sok",
+"aliases": [
+"Sok River"
+],
+"links": 31
+},
+{
+"name": "St. Johns River",
+"aliases": [
+"Saint Johns River"
+],
+"links": 31
+},
+{
+"name": "Svratka",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Tormes",
+"aliases": [
+"river Tormes"
+],
+"links": 31
+},
+{
+"name": "Tsna",
+"aliases": [
+"Tsna River"
+],
+"links": 31
+},
+{
+"name": "Uy",
+"aliases": [
+"Uy River"
+],
+"links": 31
+},
+{
+"name": "Wien",
+"aliases": [
+"Vienna River",
+"Wien River",
+"Wienfluss"
+],
+"links": 31
+},
+{
+"name": "Aconcagua River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Ahja River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Aley",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Altaelva",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Amper",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Apure River",
+"aliases": [
+"Apure",
+"Río Apure"
+],
+"links": 30
+},
+{
+"name": "Ardon",
+"aliases": [
+"Ardon River",
+"Ærydon"
+],
+"links": 30
+},
+{
+"name": "Assiniboine River",
+"aliases": [
+"Assiniboine"
+],
+"links": 30
+},
+{
+"name": "Athi-Galana-Sabaki River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Ay",
+"aliases": [
+"Ay River"
+],
+"links": 30
+},
+{
+"name": "Bafing River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Bakoy River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Balikh River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Berounka",
+"aliases": [
+"Beraun"
+],
+"links": 30
+},
+{
+"name": "Bolshaya Kokshaga",
+"aliases": [
+"Bolshaya Kokshaga River"
+],
+"links": 30
+},
+{
+"name": "Bolshoy Irgiz",
+"aliases": [
+"Bolshoy Irgiz River"
+],
+"links": 30
+},
+{
+"name": "Bolshoy Yugan",
+"aliases": [
+"Bol'shoy Yugan"
+],
+"links": 30
+},
+{
+"name": "Brigach",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Brisbane River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Bukhtarma River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Caño Cristales",
+"aliases": [
+"el río más precioso del mundo"
+],
+"links": 30
+},
+{
+"name": "Ceyhan River",
+"aliases": [
+"Ceyhan"
+],
+"links": 30
+},
+{
+"name": "Chiers",
+"aliases": [
+"Kor",
+"Korn",
+"Kuer"
+],
+"links": 30
+},
+{
+"name": "Czarna Hańcza",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Elde",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Great Kei River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Hvítá",
+"aliases": [
+"Hvita"
+],
+"links": 30
+},
+{
+"name": "Ill",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Izhora",
+"aliases": [
+"Izhora River"
+],
+"links": 30
+},
+{
+"name": "Jizera",
+"aliases": [
+"Iser"
+],
+"links": 30
+},
+{
+"name": "Karatal River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Khrami River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Kurówka",
+"aliases": [
+"Kurowka"
+],
+"links": 30
+},
+{
+"name": "Kwilu River",
+"aliases": [
+"Kouilou",
+"Kuilu"
+],
+"links": 30
+},
+{
+"name": "Lee",
+"aliases": [
+"River Lee"
+],
+"links": 30
+},
+{
+"name": "Limay River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Ljungan",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Malaya Kokshaga",
+"aliases": [
+"Malaya Kokshaga River"
+],
+"links": 30
+},
+{
+"name": "Mangoky River",
+"aliases": [
+"Mangoky"
+],
+"links": 30
+},
+{
+"name": "Mantaro River",
+"aliases": [
+"Río Mantaro"
+],
+"links": 30
+},
+{
+"name": "Nara",
+"aliases": [
+"Nara River"
+],
+"links": 30
+},
+{
+"name": "Nida",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Olza",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Paranaíba River",
+"aliases": [
+"Paranaiba River"
+],
+"links": 30
+},
+{
+"name": "Põltsamaa River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "River Avon",
+"aliases": [
+"Hampshire Avon",
+"River Avon, Hampshire",
+"Salisbury Avon"
+],
+"links": 30
+},
+{
+"name": "River Cam",
+"aliases": [],
+"links": 30
+},
+{
+"name": "River Exe",
+"aliases": [
+"Exe"
+],
+"links": 30
+},
+{
+"name": "Sharda River",
+"aliases": [
+"Kali River",
+"Mahakali river",
+"Sarda River"
+],
+"links": 30
+},
+{
+"name": "Sittaung River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Sluch River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Snov",
+"aliases": [
+"Snov River"
+],
+"links": 30
+},
+{
+"name": "South Saskatchewan River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Strumica",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Sungacha",
+"aliases": [
+"Song'acha He",
+"Songacha"
+],
+"links": 30
+},
+{
+"name": "Swakop River",
+"aliases": [
+"Swakop"
+],
+"links": 30
+},
+{
+"name": "Syas",
+"aliases": [
+"Syas River",
+"Syas'"
+],
+"links": 30
+},
+{
+"name": "Vashka",
+"aliases": [
+"Vashka River"
+],
+"links": 30
+},
+{
+"name": "Vedea River",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Wakhan River",
+"aliases": [
+"Ab-i-Wakhan"
+],
+"links": 30
+},
+{
+"name": "Yuryuzan",
+"aliases": [
+"Yuryuzan River",
+"Yuryuzan'"
+],
+"links": 30
+},
+{
+"name": "Amblève",
+"aliases": [
+"Ambleve"
+],
+"links": 29
+},
+{
+"name": "Arun River",
+"aliases": [
+"Arun",
+"Bum Chu",
+"Pum Qu"
+],
+"links": 29
+},
+{
+"name": "Baksan",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Bartang River",
+"aliases": [
+"Aksu River",
+"Bartang",
+"Murghab River"
+],
+"links": 29
+},
+{
+"name": "Betwa River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Bolshoy Cheremshan",
+"aliases": [
+"Bolshoy Cheremshan River"
+],
+"links": 29
+},
+{
+"name": "Bolshoy Kinel",
+"aliases": [
+"Bol'shaya Kinel'",
+"Bolshoy Kinel River"
+],
+"links": 29
+},
+{
+"name": "Bregalnica",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Courantyne River",
+"aliases": [
+"Corentyn River",
+"Corentyne River"
+],
+"links": 29
+},
+{
+"name": "Crna",
+"aliases": [
+"Erigon"
+],
+"links": 29
+},
+{
+"name": "Cuyahoga River",
+"aliases": [
+"Crooked River"
+],
+"links": 29
+},
+{
+"name": "Demyanka",
+"aliases": [
+"Dem'yanka"
+],
+"links": 29
+},
+{
+"name": "Dospat",
+"aliases": [
+"Dhespátis Potamós"
+],
+"links": 29
+},
+{
+"name": "Eg River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Hasbani River",
+"aliases": [
+"Nahal Senir",
+"Nahal Snir",
+"Senir River",
+"Snir River",
+"Snir Stream",
+"Upper Jordan"
+],
+"links": 29
+},
+{
+"name": "Istra",
+"aliases": [
+"Istra River"
+],
+"links": 29
+},
+{
+"name": "James River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Jialing River",
+"aliases": [
+"Jialing Jiang"
+],
+"links": 29
+},
+{
+"name": "Kaduna River",
+"aliases": [
+"River"
+],
+"links": 29
+},
+{
+"name": "Kentucky River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Klamath River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lužnice",
+"aliases": [
+"Lainsitz"
+],
+"links": 29
+},
+{
+"name": "Ma River",
+"aliases": [
+"Sông Mã"
+],
+"links": 29
+},
+{
+"name": "Maule River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Merkys",
+"aliases": [
+"Miarkis",
+"Miarčanka",
+"Mieračanka",
+"Mieryčanka",
+"Myarchanka",
+"Myarkis",
+"Myerachanka",
+"Myerychanka"
+],
+"links": 29
+},
+{
+"name": "Meta River",
+"aliases": [
+"Rio Meta"
+],
+"links": 29
+},
+{
+"name": "Milk River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Motagua River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Mukhavets River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Musi River",
+"aliases": [
+"Palembang Rivier"
+],
+"links": 29
+},
+{
+"name": "Mzymta",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Nahe",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Nan River",
+"aliases": [
+"Mae Nam Nan"
+],
+"links": 29
+},
+{
+"name": "Navesti River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Nidelva",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Obra",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Or River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Otra",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Oyapock",
+"aliases": [
+"Oiapoque River",
+"Rio Oiapoque"
+],
+"links": 29
+},
+{
+"name": "Paraíba do Sul River",
+"aliases": [
+"Paraiba do Sul",
+"Paraíba River",
+"Rio Paraíba do Sul"
+],
+"links": 29
+},
+{
+"name": "Pará River",
+"aliases": [
+"Para River",
+"Rio Para",
+"Rio Pará"
+],
+"links": 29
+},
+{
+"name": "Pedieos",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Pyana",
+"aliases": [
+"Pyana River"
+],
+"links": 29
+},
+{
+"name": "Rance",
+"aliases": [
+"Renk"
+],
+"links": 29
+},
+{
+"name": "River Göksu",
+"aliases": [],
+"links": 29
+},
+{
+"name": "River Lea",
+"aliases": [
+"River Lee"
+],
+"links": 29
+},
+{
+"name": "River Taff",
+"aliases": [],
+"links": 29
+},
+{
+"name": "River Usk",
+"aliases": [
+"Afon Wysg",
+"Usk"
+],
+"links": 29
+},
+{
+"name": "Saint John River",
+"aliases": [
+"Fleuve Saint-Jean",
+"Rivière Saint-Jean",
+"St. John"
+],
+"links": 29
+},
+{
+"name": "Sana",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Save River",
+"aliases": [
+"Sabi River",
+"Save"
+],
+"links": 29
+},
+{
+"name": "Seret",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Skjálfandafljót",
+"aliases": [
+"Skjalfandafljot"
+],
+"links": 29
+},
+{
+"name": "Sokoto River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Suceava River",
+"aliases": [
+"Suceava"
+],
+"links": 29
+},
+{
+"name": "Svitava",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Sázava",
+"aliases": [
+"Sazava"
+],
+"links": 29
+},
+{
+"name": "Taseyeva River",
+"aliases": [
+"Taseyeva"
+],
+"links": 29
+},
+{
+"name": "Tauber",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Tensift River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Thur",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Ubort",
+"aliases": [
+"Ubart",
+"Ubarć"
+],
+"links": 29
+},
+{
+"name": "Uchur River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Vakh",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Vazuza",
+"aliases": [
+"Vazuza River"
+],
+"links": 29
+},
+{
+"name": "Vyg",
+"aliases": [
+"Vyg River"
+],
+"links": 29
+},
+{
+"name": "Vym",
+"aliases": [
+"Emva",
+"Yemva"
+],
+"links": 29
+},
+{
+"name": "Whanganui River",
+"aliases": [
+"Wanganui River"
+],
+"links": 29
+},
+{
+"name": "White River",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Wisłoka",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Wouri River",
+"aliases": [
+"Vouri",
+"Vuri",
+"Wouri"
+],
+"links": 29
+},
+{
+"name": "Yarlung Tsangpo River",
+"aliases": [
+"Yalu Zangbu River",
+"Yar klung gtsang po",
+"Yarlung Zangbo River"
+],
+"links": 29
+},
+{
+"name": "Yongding River",
+"aliases": [
+"Wuding River"
+],
+"links": 29
+},
+{
+"name": "yuca guasi",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Ščara",
+"aliases": [
+"Shchara"
+],
+"links": 29
+},
+{
+"name": "Aa River",
+"aliases": [
+"Aa",
+"Aa River, France"
+],
+"links": 28
+},
+{
+"name": "Acre River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Adycha River",
+"aliases": [
+"Adycha"
+],
+"links": 28
+},
+{
+"name": "Aghstev",
+"aliases": [
+"Aghstafa"
+],
+"links": 28
+},
+{
+"name": "Aidar",
+"aliases": [
+"Aidar river",
+"Aydar"
+],
+"links": 28
+},
+{
+"name": "Alagón River",
+"aliases": [
+"Alagon River"
+],
+"links": 28
+},
+{
+"name": "Angrapa",
+"aliases": [
+"Angrapa River"
+],
+"links": 28
+},
+{
+"name": "Arakawa River",
+"aliases": [
+"Ara river",
+"Ara-kawa"
+],
+"links": 28
+},
+{
+"name": "Arauca River",
+"aliases": [
+"Río Arauca"
+],
+"links": 28
+},
+{
+"name": "Balsas River",
+"aliases": [
+"Atoyac River",
+"Mezcala River"
+],
+"links": 28
+},
+{
+"name": "Batang Hari",
+"aliases": [
+"Batang Hari River",
+"Djambi-rivier"
+],
+"links": 28
+},
+{
+"name": "Belize River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Benito River",
+"aliases": [
+"Benito",
+"Mbini",
+"Uoro River",
+"Woleu"
+],
+"links": 28
+},
+{
+"name": "Bolshoy Yenisei",
+"aliases": [
+"Bol'shoj Enisej"
+],
+"links": 28
+},
+{
+"name": "Brunei River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Bystraya Sosna",
+"aliases": [
+"Sosna"
+],
+"links": 28
+},
+{
+"name": "Chara",
+"aliases": [
+"Chara River"
+],
+"links": 28
+},
+{
+"name": "Ci Tarum",
+"aliases": [
+"Chitarum River",
+"Citarum",
+"Citarum River",
+"Solo River"
+],
+"links": 28
+},
+{
+"name": "Donaukanal",
+"aliases": [
+"Danube canal",
+"Danube channel"
+],
+"links": 28
+},
+{
+"name": "Drawa",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Drut River",
+"aliases": [
+"Druć"
+],
+"links": 28
+},
+{
+"name": "Dubna",
+"aliases": [
+"Dubna River"
+],
+"links": 28
+},
+{
+"name": "Farah River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Finlay River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Flinders River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Gail",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Garigliano",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Gave de Pau River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Grande River",
+"aliases": [
+"Rio Grande"
+],
+"links": 28
+},
+{
+"name": "Ilet",
+"aliases": [
+"Ilet River"
+],
+"links": 28
+},
+{
+"name": "Jihlava",
+"aliases": [
+"Igel"
+],
+"links": 28
+},
+{
+"name": "Kalchyk",
+"aliases": [
+"Kalchik",
+"Kalchik River",
+"Kalchyk River"
+],
+"links": 28
+},
+{
+"name": "Kasplya",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Kishon River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Kokemäenjoki",
+"aliases": [
+"Kokemäki River",
+"Kumo älv"
+],
+"links": 28
+},
+{
+"name": "Komati River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Kondurcha",
+"aliases": [
+"Kondurcha River"
+],
+"links": 28
+},
+{
+"name": "Kootenay River",
+"aliases": [
+"Kootanie River",
+"Kootenai River",
+"Kootenie River",
+"Kootienay River",
+"Swan River"
+],
+"links": 28
+},
+{
+"name": "Kuiseb River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Laborec",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Lauwers",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Little Danube",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Luo River",
+"aliases": [
+"Luo He"
+],
+"links": 28
+},
+{
+"name": "Luza",
+"aliases": [
+"Luz",
+"Luza River"
+],
+"links": 28
+},
+{
+"name": "Maly Uzen",
+"aliases": [
+"Balaözen",
+"Kishi Uzen",
+"Kişi Özen",
+"Saryozen",
+"Sarıözen"
+],
+"links": 28
+},
+{
+"name": "Mamberamo River",
+"aliases": [
+"Mamberamo-rivier",
+"Mberamo Rivier",
+"Sungai Mamberamo"
+],
+"links": 28
+},
+{
+"name": "Medveditsa",
+"aliases": [
+"Medveditsa River"
+],
+"links": 28
+},
+{
+"name": "Meurthe",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Motława",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Mudan River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Mulyanka",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Nemunėlis",
+"aliases": [
+"Mēmele"
+],
+"links": 28
+},
+{
+"name": "Nišava",
+"aliases": [
+"Nishava"
+],
+"links": 28
+},
+{
+"name": "Nura",
+"aliases": [
+"Nura River"
+],
+"links": 28
+},
+{
+"name": "Ondava",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Our",
+"aliases": [
+"Our River"
+],
+"links": 28
+},
+{
+"name": "Porcupine River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Prosna",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Rezovska",
+"aliases": [],
+"links": 28
+},
+{
+"name": "River Don",
+"aliases": [
+"River Don, Aberdeenshire"
+],
+"links": 28
+},
+{
+"name": "River Eden",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Rupel",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Saguenay River",
+"aliases": [
+"Saguenay"
+],
+"links": 28
+},
+{
+"name": "Sava Bohinjka",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Sestra",
+"aliases": [
+"Rajajoki",
+"Sestra River",
+"Siestarjoki",
+"Systerbäck"
+],
+"links": 28
+},
+{
+"name": "Shosha",
+"aliases": [
+"Shosha River"
+],
+"links": 28
+},
+{
+"name": "Sim",
+"aliases": [
+"Sim River"
+],
+"links": 28
+},
+{
+"name": "Skellefte River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Sous River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "St. Marys River",
+"aliases": [
+"Saint Marys River",
+"The Narrows"
+],
+"links": 28
+},
+{
+"name": "Stryi River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Sutla",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Swat River",
+"aliases": [
+"Sawaat River",
+"Sawat River"
+],
+"links": 28
+},
+{
+"name": "Sysola",
+"aliases": [
+"Syktyv",
+"Sysola River"
+],
+"links": 28
+},
+{
+"name": "Trebišnjica",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Unstrut",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Vechte",
+"aliases": [
+"Overijsselse Vecht"
+],
+"links": 28
+},
+{
+"name": "Verdon",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Vesdre",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Wisconsin River",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Wupper",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Yuan River",
+"aliases": [
+"Yuanjiang"
+],
+"links": 28
+},
+{
+"name": "Zeta",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Zhizdra",
+"aliases": [
+"Zhizdra River"
+],
+"links": 28
+},
+{
+"name": "Agusan River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Ahr",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Anacostia River",
+"aliases": [
+"Eastern Branch of the Potomac"
+],
+"links": 27
+},
+{
+"name": "Arga",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Arroux",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Artibonite River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Aterno-Pescara",
+"aliases": [
+"Aterno River"
+],
+"links": 27
+},
+{
+"name": "Bei River",
+"aliases": [
+"Bei Jiang",
+"Beijiang",
+"North River",
+"Pe Kiang",
+"Pe-kiang",
+"Pei Chiang",
+"Pei Kiang",
+"Pei River",
+"Pei-chiang",
+"Pei-kiang",
+"Pekiang"
+],
+"links": 27
+},
+{
+"name": "Belaya River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Bečva",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Bosut",
+"aliases": [
+"Bacuntius"
+],
+"links": 27
+},
+{
+"name": "Bârlad River",
+"aliases": [
+"Barlad River",
+"Bârlad"
+],
+"links": 27
+},
+{
+"name": "Chagres River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Chikoy",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Chir",
+"aliases": [
+"Chir River"
+],
+"links": 27
+},
+{
+"name": "Dzisna",
+"aliases": [
+"Dysna",
+"Dysna River",
+"Dzisna River"
+],
+"links": 27
+},
+{
+"name": "Eder",
+"aliases": [
+"Eder of the Fulda"
+],
+"links": 27
+},
+{
+"name": "Falémé River",
+"aliases": [
+"Faleme River"
+],
+"links": 27
+},
+{
+"name": "Fuji River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Guayas River",
+"aliases": [
+"Guayaquil River"
+],
+"links": 27
+},
+{
+"name": "Gudbrandsdalslågen",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Iijoki",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Iriri River",
+"aliases": [
+"Rio Iriri"
+],
+"links": 27
+},
+{
+"name": "Jijia River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Kasagh River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Kotorosl",
+"aliases": [
+"Kotorosl River"
+],
+"links": 27
+},
+{
+"name": "Lambro",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Linth",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Mahi River",
+"aliases": [
+"Mophis"
+],
+"links": 27
+},
+{
+"name": "Maly Irgiz",
+"aliases": [
+"Malyy Irgiz"
+],
+"links": 27
+},
+{
+"name": "Markha",
+"aliases": [
+"Markha River"
+],
+"links": 27
+},
+{
+"name": "Mat",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Merced River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Minija",
+"aliases": [
+"Kliurkė",
+"Mava"
+],
+"links": 27
+},
+{
+"name": "Mun River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Mékrou River",
+"aliases": [
+"Mekrou",
+"Mekrou River",
+"Mékrou"
+],
+"links": 27
+},
+{
+"name": "Mūša",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Nagara River",
+"aliases": [
+"Nagara-gawa",
+"Nagaragawa"
+],
+"links": 27
+},
+{
+"name": "Nederrijn",
+"aliases": [],
+"links": 27
+},
+{
+"name": "North Platte River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Oldman River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Ombrone",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Opava",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Oredezh",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Osyotr",
+"aliases": [
+"Osëtr"
+],
+"links": 27
+},
+{
+"name": "Oude Maas",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Ounasjoki",
+"aliases": [
+"Ovnnesjohka"
+],
+"links": 27
+},
+{
+"name": "Pangani River",
+"aliases": [
+"Jipe Ruvu",
+"Luffu",
+"Rhaptus"
+],
+"links": 27
+},
+{
+"name": "Pastaza River",
+"aliases": [
+"Río Pastaza"
+],
+"links": 27
+},
+{
+"name": "Pelym",
+"aliases": [
+"Pelym River"
+],
+"links": 27
+},
+{
+"name": "Periyar River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Ping River",
+"aliases": [
+"Mae Nam Ping"
+],
+"links": 27
+},
+{
+"name": "Poronay",
+"aliases": [
+"Poronay River"
+],
+"links": 27
+},
+{
+"name": "Pronya",
+"aliases": [
+"Pronya River"
+],
+"links": 27
+},
+{
+"name": "Qashqadaryo River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "River Derwent",
+"aliases": [
+"Derwent River",
+"Derwent River, Tasmania",
+"Derwent River. Tas.",
+"River Derwent, Tasmania",
+"timtumili minanya"
+],
+"links": 27
+},
+{
+"name": "River Nene",
+"aliases": [
+"Nene"
+],
+"links": 27
+},
+{
+"name": "Ruza",
+"aliases": [
+"Ruza River"
+],
+"links": 27
+},
+{
+"name": "Saalach",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Sankosh River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Severnaya Sosva",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Smotrych River",
+"aliases": [
+"Smotrich"
+],
+"links": 27
+},
+{
+"name": "Spercheios",
+"aliases": [
+"Alamana",
+"Spercheiós"
+],
+"links": 27
+},
+{
+"name": "Sudost",
+"aliases": [
+"Sudost River"
+],
+"links": 27
+},
+{
+"name": "Surxondaryo",
+"aliases": [
+"Jaghanrud",
+"Surkhandariya"
+],
+"links": 27
+},
+{
+"name": "Suzhou Creek",
+"aliases": [
+"Song River",
+"Su-chou Creek",
+"Suchow Creek",
+"Sung River",
+"Wusong Creek",
+"Wusong River"
+],
+"links": 27
+},
+{
+"name": "Tama River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Tano River",
+"aliases": [
+"Tano",
+"Tanoé River"
+],
+"links": 27
+},
+{
+"name": "Tartar",
+"aliases": [
+"Tartarchay",
+"Terter",
+"Terterchay"
+],
+"links": 27
+},
+{
+"name": "Tes",
+"aliases": [
+"Tes River"
+],
+"links": 27
+},
+{
+"name": "Tskhenistsqali",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Uda",
+"aliases": [
+"Uda River"
+],
+"links": 27
+},
+{
+"name": "Vaupés River",
+"aliases": [
+"Vaupes River"
+],
+"links": 27
+},
+{
+"name": "Victoria River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Vologda River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Vorkuta River",
+"aliases": [
+"Vorkuta",
+"Vörkutayu"
+],
+"links": 27
+},
+{
+"name": "Wiltz",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Wu River",
+"aliases": [
+"Wu Jiang"
+],
+"links": 27
+},
+{
+"name": "Yobe River",
+"aliases": [
+"Komadougou Yobe",
+"Komadougou Yobé",
+"Komadugu Yobe"
+],
+"links": 27
+},
+{
+"name": "Ziz River",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Zêzere River",
+"aliases": [
+"Zezere River"
+],
+"links": 27
+},
+{
+"name": "Ölfusá",
+"aliases": [
+"Olfusa"
+],
+"links": 27
+},
+{
+"name": "Świna",
+"aliases": [
+"Swina River"
+],
+"links": 27
+},
+{
+"name": "Šventoji",
+"aliases": [
+"Šventoji River"
+],
+"links": 27
+},
+{
+"name": "Afrin River",
+"aliases": [
+"Afrin Suyu",
+"Oinoparas"
+],
+"links": 26
+},
+{
+"name": "Andi Koysu",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Arys River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Ayaguz River",
+"aliases": [
+"Ajaguz River",
+"Ayaköz"
+],
+"links": 26
+},
+{
+"name": "Barcău River",
+"aliases": [
+"Barcău"
+],
+"links": 26
+},
+{
+"name": "Bemarivo River",
+"aliases": [
+"Bemarivo"
+],
+"links": 26
+},
+{
+"name": "Blanda",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Breede River",
+"aliases": [
+"Breë River"
+],
+"links": 26
+},
+{
+"name": "Cacheu River",
+"aliases": [
+"Farim River",
+"Rio Cacheu"
+],
+"links": 26
+},
+{
+"name": "Cem River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Crathis",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Crișul Repede River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Demerara River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Dja River",
+"aliases": [
+"Ngoko River"
+],
+"links": 26
+},
+{
+"name": "Dora Riparia",
+"aliases": [
+"Duria"
+],
+"links": 26
+},
+{
+"name": "Drac",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Dragonja",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Emscher",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Ilim",
+"aliases": [
+"Ilim River"
+],
+"links": 26
+},
+{
+"name": "Ilmenau",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Iput",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Jalón River",
+"aliases": [
+"Jalon",
+"Jalón",
+"Rio Jalon",
+"Río Jalón"
+],
+"links": 26
+},
+{
+"name": "Jägala River",
+"aliases": [
+"Jägala"
+],
+"links": 26
+},
+{
+"name": "Khilok River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Kolva",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Konda",
+"aliases": [
+"Konda River"
+],
+"links": 26
+},
+{
+"name": "Konka River",
+"aliases": [
+"Kinska, Kinski Vody"
+],
+"links": 26
+},
+{
+"name": "Kureyka",
+"aliases": [
+"Kureika",
+"Kureika River",
+"Kureyka River",
+"Liuma",
+"Liuma River",
+"Lyuma",
+"Lyuma River"
+],
+"links": 26
+},
+{
+"name": "Küçük Menderes River",
+"aliases": [
+"Cayster River"
+],
+"links": 26
+},
+{
+"name": "Lama",
+"aliases": [
+"Lama River"
+],
+"links": 26
+},
+{
+"name": "Lepenac",
+"aliases": [
+"Lepenc",
+"Lepenec"
+],
+"links": 26
+},
+{
+"name": "Lima River",
+"aliases": [
+"Lethe",
+"Limaea",
+"Limia River",
+"Rio Lima",
+"Río Limia"
+],
+"links": 26
+},
+{
+"name": "Loing",
+"aliases": [
+"The Loing"
+],
+"links": 26
+},
+{
+"name": "Loisach",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Malagarasi River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Medveditsa",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Nadym",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Namsen",
+"aliases": [
+"Nååmesje"
+],
+"links": 26
+},
+{
+"name": "Neuquén River",
+"aliases": [
+"Neuquen River"
+],
+"links": 26
+},
+{
+"name": "Olifants River",
+"aliases": [
+"Elephants River",
+"iBhalule",
+"Lepelle",
+"Obalule",
+"Olifantsrivier",
+"Rio dos Elefantes"
+],
+"links": 26
+},
+{
+"name": "Oster River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Ostravice",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Oyat",
+"aliases": [
+"Oyat River"
+],
+"links": 26
+},
+{
+"name": "Ozama River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Panaro",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Pcič",
+"aliases": [
+"Ptsich"
+],
+"links": 26
+},
+{
+"name": "Red Deer River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Rednitz",
+"aliases": [],
+"links": 26
+},
+{
+"name": "River Don",
+"aliases": [
+"Dun",
+"River Don, South Yorkshire"
+],
+"links": 26
+},
+{
+"name": "Roanoke River",
+"aliases": [
+"Staunton River"
+],
+"links": 26
+},
+{
+"name": "Salaca",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Sankarani River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Schuylkill River",
+"aliases": [
+"Schuylkill"
+],
+"links": 26
+},
+{
+"name": "Serchio",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Sesia",
+"aliases": [
+"Sesia River"
+],
+"links": 26
+},
+{
+"name": "Someșul Mic",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Sosva",
+"aliases": [
+"Sos'va",
+"Sosva River"
+],
+"links": 26
+},
+{
+"name": "Sèvre Niortaise",
+"aliases": [
+"Sevre Niortaise",
+"Sèvre-Niortaise"
+],
+"links": 26
+},
+{
+"name": "Tagil",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Tosna",
+"aliases": [
+"Tosna River"
+],
+"links": 26
+},
+{
+"name": "Tsilma",
+"aliases": [
+"Tsil'ma"
+],
+"links": 26
+},
+{
+"name": "Tsna",
+"aliases": [
+"Tsna River"
+],
+"links": 26
+},
+{
+"name": "Tuba",
+"aliases": [
+"Tuba River"
+],
+"links": 26
+},
+{
+"name": "Tuloma",
+"aliases": [
+"Tuloma River"
+],
+"links": 26
+},
+{
+"name": "Turgai River",
+"aliases": [
+"Torghay"
+],
+"links": 26
+},
+{
+"name": "Tâmega River",
+"aliases": [
+"Tamega River"
+],
+"links": 26
+},
+{
+"name": "Urup",
+"aliases": [
+"Urup River"
+],
+"links": 26
+},
+{
+"name": "Veleka",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Vodla",
+"aliases": [
+"Vodla River"
+],
+"links": 26
+},
+{
+"name": "Vouga River",
+"aliases": [
+"Rio Vouga"
+],
+"links": 26
+},
+{
+"name": "Waimakariri River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Zavkhan River",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Abuna River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Agan River",
+"aliases": [
+"Agan"
+],
+"links": 25
+},
+{
+"name": "Agout",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Aiviekste",
+"aliases": [
+"Aiviekste River"
+],
+"links": 25
+},
+{
+"name": "Aksu River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Albany River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Arghandab River",
+"aliases": [
+"Arachosia",
+"Arachotos"
+],
+"links": 25
+},
+{
+"name": "Barka River",
+"aliases": [
+"Baraka",
+"Baraka River",
+"Nahr Baraka"
+],
+"links": 25
+},
+{
+"name": "Birs",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Blavet",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Buzău River",
+"aliases": [
+"Buzău"
+],
+"links": 25
+},
+{
+"name": "Charysh",
+"aliases": [
+"Charysh River"
+],
+"links": 25
+},
+{
+"name": "Cheremosh River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Churchill River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ciliwung River",
+"aliases": [
+"Ci Liwung",
+"Kali Ciliwung Satu",
+"Liwoeng River"
+],
+"links": 25
+},
+{
+"name": "Cinca River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Coppermine River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Dahme",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Dawa River",
+"aliases": [
+"Dawa Wenz"
+],
+"links": 25
+},
+{
+"name": "Dez River",
+"aliases": [
+"Rūdkhāneh-ye Dez"
+],
+"links": 25
+},
+{
+"name": "Dong Nai River",
+"aliases": [
+"Sông Đồng Nai",
+"Đồng Nai River"
+],
+"links": 25
+},
+{
+"name": "Drino",
+"aliases": [
+"Drinos"
+],
+"links": 25
+},
+{
+"name": "Düssel",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ene River",
+"aliases": [
+"Río Ene"
+],
+"links": 25
+},
+{
+"name": "Erdre",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Evinos",
+"aliases": [
+"Fidaris",
+"Lykormas"
+],
+"links": 25
+},
+{
+"name": "Fitzroy River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Golo",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Great Liakhvi River",
+"aliases": [
+"Didi Liakhvi",
+"Styr Lewaxi"
+],
+"links": 25
+},
+{
+"name": "Hunte",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Idrijca",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ilz",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Insar",
+"aliases": [
+"Insar River"
+],
+"links": 25
+},
+{
+"name": "Jaguarão River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kamo River",
+"aliases": [
+"Kamo-gawa",
+"Kamogawa"
+],
+"links": 25
+},
+{
+"name": "Kara",
+"aliases": [
+"Kara River"
+],
+"links": 25
+},
+{
+"name": "Khemchik",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kheta",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kilmez",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kofarnihon River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kokcha River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kola",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ksani",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Kunya",
+"aliases": [
+"Kunya River"
+],
+"links": 25
+},
+{
+"name": "Lachlan River",
+"aliases": [
+"Calare",
+"Galiyarr",
+"Kalare"
+],
+"links": 25
+},
+{
+"name": "Ledava",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Lempa River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Little Colorado River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Lozva",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Lufira River",
+"aliases": [
+"Lufira"
+],
+"links": 25
+},
+{
+"name": "Luhan",
+"aliases": [
+"Lugan",
+"Luganka",
+"Luhanka"
+],
+"links": 25
+},
+{
+"name": "Lukenie River",
+"aliases": [
+"Lukenie"
+],
+"links": 25
+},
+{
+"name": "Lulonga River",
+"aliases": [
+"Lulonga"
+],
+"links": 25
+},
+{
+"name": "Mae Klong",
+"aliases": [
+"Mae Nam Mae Klong"
+],
+"links": 25
+},
+{
+"name": "Magra",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Mahananda River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Maipo River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Mana River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Merrimack River",
+"aliases": [
+"Merrimac River",
+"Merrimack"
+],
+"links": 25
+},
+{
+"name": "Metauro",
+"aliases": [
+"Metaurus"
+],
+"links": 25
+},
+{
+"name": "Moa River",
+"aliases": [
+"Makona River",
+"Moa"
+],
+"links": 25
+},
+{
+"name": "Motala ström",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Munster Blackwater",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Nera",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Nerl",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Nidda",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Nugush",
+"aliases": [
+"Nugush River"
+],
+"links": 25
+},
+{
+"name": "Nyuya",
+"aliases": [
+"Nyuya River"
+],
+"links": 25
+},
+{
+"name": "Oker",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Pactolus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Pakhra",
+"aliases": [
+"Pakhra River"
+],
+"links": 25
+},
+{
+"name": "Paranapanema River",
+"aliases": [
+"Rio Paranapanema"
+],
+"links": 25
+},
+{
+"name": "Parsęta",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Pasłęka",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Perfume River",
+"aliases": [
+"Hương Giang",
+"Sông Hương"
+],
+"links": 25
+},
+{
+"name": "Pinturas River",
+"aliases": [
+"espaiderman",
+"Painted River",
+"River of Paintings",
+"tus nalgas"
+],
+"links": 25
+},
+{
+"name": "Polist",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Pungwe River",
+"aliases": [
+"Pungué",
+"Pungué River",
+"Púngoè River",
+"Rio Púngoè",
+"Rio Púnguè"
+],
+"links": 25
+},
+{
+"name": "Qvirila River",
+"aliases": [
+"Qvirila"
+],
+"links": 25
+},
+{
+"name": "Radbuza",
+"aliases": [
+"Radbusa"
+],
+"links": 25
+},
+{
+"name": "Rio Grande de Mindanao",
+"aliases": [
+"Mindanao River"
+],
+"links": 25
+},
+{
+"name": "River Conwy",
+"aliases": [
+"Conway",
+"Conwy"
+],
+"links": 25
+},
+{
+"name": "River Nith",
+"aliases": [],
+"links": 25
+},
+{
+"name": "River Ribble",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Rogue River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ropotamo",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ruvyironza River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "San Juan River",
+"aliases": [
+"Hoh Bakai'i",
+"Juta'imp",
+"No:da:a Bit hoh",
+"noda's Bitqo",
+"Nwansabe'imp",
+"Rio de San Juan",
+"Rio San Juan",
+"San Bit hoh",
+"San Bitqo",
+"San Juan",
+"T hoh"
+],
+"links": 25
+},
+{
+"name": "Soła",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Subarnarekha River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Tara",
+"aliases": [
+"Tara River"
+],
+"links": 25
+},
+{
+"name": "Tereshka",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Tuo River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Tym",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Tyosha",
+"aliases": [
+"Tesha",
+"Tyosha River"
+],
+"links": 25
+},
+{
+"name": "Tyung",
+"aliases": [
+"Tyung River"
+],
+"links": 25
+},
+{
+"name": "Ubagan River",
+"aliases": [
+"Obaghan"
+],
+"links": 25
+},
+{
+"name": "Uvac",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Uvod",
+"aliases": [
+"Uvod River"
+],
+"links": 25
+},
+{
+"name": "Uzh",
+"aliases": [
+"Uzh River"
+],
+"links": 25
+},
+{
+"name": "Vindel River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Vipava",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Vit",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Wda",
+"aliases": [],
+"links": 25
+},
+{
+"name": "West Rapti River",
+"aliases": [
+"Rapti River",
+"West Rapti"
+],
+"links": 25
+},
+{
+"name": "Yeruslan",
+"aliases": [
+"Eruslan",
+"Yeruslan River"
+],
+"links": 25
+},
+{
+"name": "Yodo River",
+"aliases": [
+"Seta River",
+"Uji River"
+],
+"links": 25
+},
+{
+"name": "Łeba",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Amguema",
+"aliases": [
+"Amguyema"
+],
+"links": 24
+},
+{
+"name": "Anuy",
+"aliases": [
+"Anui River",
+"Anuy River"
+],
+"links": 24
+},
+{
+"name": "Anyuy River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Avacha",
+"aliases": [
+"Avacha River"
+],
+"links": 24
+},
+{
+"name": "Banyas",
+"aliases": [
+"Banias River",
+"Banyas River",
+"Hermon River",
+"Nahal Banias",
+"Nahal Banyas",
+"Nahal Hermon"
+],
+"links": 24
+},
+{
+"name": "Baïse",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Berd",
+"aliases": [
+"Berd'"
+],
+"links": 24
+},
+{
+"name": "Besed",
+"aliases": [
+"Biesiedź"
+],
+"links": 24
+},
+{
+"name": "Bityug",
+"aliases": [
+"Bityug River"
+],
+"links": 24
+},
+{
+"name": "Blies",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Bystry Tanyp",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Cauto River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Chagodoscha",
+"aliases": [
+"Chagodoshcha"
+],
+"links": 24
+},
+{
+"name": "Chulyshman",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Chumysh",
+"aliases": [
+"Chumysh River"
+],
+"links": 24
+},
+{
+"name": "Clutha River / Mata-Au",
+"aliases": [
+"Clutha River / Matau",
+"Clutha River/Mata-Au"
+],
+"links": 24
+},
+{
+"name": "Corrèze",
+"aliases": [
+"Correze",
+"Curretia"
+],
+"links": 24
+},
+{
+"name": "Delgermörön",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Diamantina River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Dommel",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Drammenselva",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Dubysa",
+"aliases": [
+"Dubissa"
+],
+"links": 24
+},
+{
+"name": "Dzhida",
+"aliases": [
+"Dzhida River"
+],
+"links": 24
+},
+{
+"name": "Eisch",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Emme",
+"aliases": [
+"Emme river"
+],
+"links": 24
+},
+{
+"name": "Epte",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Essonne",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Flint River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Gomal River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Hantan River",
+"aliases": [
+"Hantaan River",
+"Hantangang"
+],
+"links": 24
+},
+{
+"name": "Hollands Diep",
+"aliases": [
+"Hollandsch Diep"
+],
+"links": 24
+},
+{
+"name": "Hollandse IJssel",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Humboldt River",
+"aliases": [
+"Barren River",
+"Bishop Creek",
+"Bishops Creek",
+"Buenaventura River",
+"East Fork Humboldt River",
+"Fremonts Creek",
+"Humbold River",
+"Lower Bishop Creek",
+"Marias River",
+"Marys River",
+"Ogdens River",
+"Pauls River",
+"Swampy River",
+"Unknown River"
+],
+"links": 24
+},
+{
+"name": "Inya",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Iren",
+"aliases": [
+"Iren River"
+],
+"links": 24
+},
+{
+"name": "Irgiz River",
+"aliases": [
+"Yrghyz"
+],
+"links": 24
+},
+{
+"name": "Isle",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Iya",
+"aliases": [
+"Iya River"
+],
+"links": 24
+},
+{
+"name": "Iza River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Jūra",
+"aliases": [
+"Jura"
+],
+"links": 24
+},
+{
+"name": "Karakash River",
+"aliases": [
+"Karakax He"
+],
+"links": 24
+},
+{
+"name": "Karnaphuli",
+"aliases": [
+"Karnafuli",
+"Karnaphuli River",
+"Khawthlangtuipui"
+],
+"links": 24
+},
+{
+"name": "Khabur",
+"aliases": [
+"Habur",
+"Little Khabur"
+],
+"links": 24
+},
+{
+"name": "Khovd River",
+"aliases": [
+"Hobdo River"
+],
+"links": 24
+},
+{
+"name": "Kok River",
+"aliases": [
+"Maenam Kok",
+"Nam Mae Kok"
+],
+"links": 24
+},
+{
+"name": "Kondoma",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Koyukuk River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kubena",
+"aliases": [
+"Kubena River"
+],
+"links": 24
+},
+{
+"name": "Kysuca",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Köprüçay River",
+"aliases": [
+"Keupri Su"
+],
+"links": 24
+},
+{
+"name": "Lanë",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Lesse",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Loukkos River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Maly Anyuy",
+"aliases": [
+"Malyy Anyuy River"
+],
+"links": 24
+},
+{
+"name": "Mandovi River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mapocho River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mareb River",
+"aliases": [
+"Gash",
+"Mareb"
+],
+"links": 24
+},
+{
+"name": "Mera",
+"aliases": [
+"Maira"
+],
+"links": 24
+},
+{
+"name": "Mezha",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mobile River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mogami River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Moloma",
+"aliases": [
+"Moloma River"
+],
+"links": 24
+},
+{
+"name": "Mže",
+"aliases": [
+"Mies",
+"Misa"
+],
+"links": 24
+},
+{
+"name": "Nalón",
+"aliases": [
+"Nalon"
+],
+"links": 24
+},
+{
+"name": "Ner",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Noord",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Nueces River",
+"aliases": [
+"Chotilapacquen",
+"East Nueces River",
+"Rio de la Nueces",
+"Rio de las Nueces",
+"Rio Escondido"
+],
+"links": 24
+},
+{
+"name": "Nyabarongo River",
+"aliases": [
+"Nyabarongo",
+"Nyawarungu"
+],
+"links": 24
+},
+{
+"name": "Okhta",
+"aliases": [
+"Bolshaya Okhta",
+"Okhta River"
+],
+"links": 24
+},
+{
+"name": "Olona",
+"aliases": [
+"Olona river"
+],
+"links": 24
+},
+{
+"name": "Oste",
+"aliases": [
+"Oost"
+],
+"links": 24
+},
+{
+"name": "Ourcq",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Panjshir River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Pasha",
+"aliases": [
+"Pasha River"
+],
+"links": 24
+},
+{
+"name": "Pechenga",
+"aliases": [
+"Pechenga River"
+],
+"links": 24
+},
+{
+"name": "Pineios",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Pizhma",
+"aliases": [
+"Pizhma River"
+],
+"links": 24
+},
+{
+"name": "Pola",
+"aliases": [
+"Pola River"
+],
+"links": 24
+},
+{
+"name": "Pra",
+"aliases": [
+"Pra River"
+],
+"links": 24
+},
+{
+"name": "Prahova River",
+"aliases": [
+"Prahova"
+],
+"links": 24
+},
+{
+"name": "Pshish",
+"aliases": [
+"Pshish River"
+],
+"links": 24
+},
+{
+"name": "Pyakupur",
+"aliases": [
+"Pyakupur River"
+],
+"links": 24
+},
+{
+"name": "Pyshma",
+"aliases": [
+"Pyshma River"
+],
+"links": 24
+},
+{
+"name": "Pčinja",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Razdolnaya",
+"aliases": [
+"Razdolnaya River",
+"Suifen River"
+],
+"links": 24
+},
+{
+"name": "River Dart",
+"aliases": [
+"Dart"
+],
+"links": 24
+},
+{
+"name": "River Irwell",
+"aliases": [],
+"links": 24
+},
+{
+"name": "River Kelvin",
+"aliases": [
+"Kelvin",
+"Kelvin Water"
+],
+"links": 24
+},
+{
+"name": "River Kennet",
+"aliases": [
+"Kennet"
+],
+"links": 24
+},
+{
+"name": "Río Grande de Santiago",
+"aliases": [
+"Rio Grande de Santiago",
+"Santiago River"
+],
+"links": 24
+},
+{
+"name": "Sabine River",
+"aliases": [
+"Sabine"
+],
+"links": 24
+},
+{
+"name": "Santa Cruz River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Schugor",
+"aliases": [
+"Shchuger"
+],
+"links": 24
+},
+{
+"name": "Seille",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Sele",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Shagan",
+"aliases": [
+"Chagan"
+],
+"links": 24
+},
+{
+"name": "Shipra River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Sitnica",
+"aliases": [
+"Silnica",
+"Silnicë",
+"Sitnicë"
+],
+"links": 24
+},
+{
+"name": "Snowy River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Sochi",
+"aliases": [
+"Sochi River"
+],
+"links": 24
+},
+{
+"name": "South Platte River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Słupia",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Tambo River",
+"aliases": [
+"Río Tambo"
+],
+"links": 24
+},
+{
+"name": "Thyamis",
+"aliases": [
+"Kalamas"
+],
+"links": 24
+},
+{
+"name": "Tigoda",
+"aliases": [
+"Tigoda River"
+],
+"links": 24
+},
+{
+"name": "Tirso",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Tollense",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Truyère",
+"aliases": [
+"Truyere"
+],
+"links": 24
+},
+{
+"name": "Turukhan",
+"aliases": [
+"Turukhan River"
+],
+"links": 24
+},
+{
+"name": "Têt",
+"aliases": [
+"Tet"
+],
+"links": 24
+},
+{
+"name": "Urumea River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Valdivia River",
+"aliases": [
+"Río Valdivia"
+],
+"links": 24
+},
+{
+"name": "Vantaa River",
+"aliases": [
+"Vanda å",
+"Vantaajoki",
+"Vantaanjoki"
+],
+"links": 24
+},
+{
+"name": "Vorona",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Winnipeg River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Yeya River",
+"aliases": [
+"Yeya"
+],
+"links": 24
+},
+{
+"name": "Yom River",
+"aliases": [
+"Mae Nam Yom"
+],
+"links": 24
+},
+{
+"name": "Yudoma",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Zrmanja",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Águeda River",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Aba River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Abava River",
+"aliases": [
+"Abava"
+],
+"links": 23
+},
+{
+"name": "Agri",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Alberche",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Alz",
+"aliases": [],
+"links": 23
+},
+{
+"name": "American River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Ankobra River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Anyuy River",
+"aliases": [
+"Anyuy",
+"Dondon"
+],
+"links": 23
+},
+{
+"name": "Argens",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Baro River",
+"aliases": [
+"Upeno River"
+],
+"links": 23
+},
+{
+"name": "Basento",
+"aliases": [
+"Basiento",
+"Casuentus",
+"Masuentum",
+"Vasento"
+],
+"links": 23
+},
+{
+"name": "Bhima River",
+"aliases": [
+"Bhīma River"
+],
+"links": 23
+},
+{
+"name": "Bille",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Bira",
+"aliases": [
+"Bira River"
+],
+"links": 23
+},
+{
+"name": "Bolshoy Ik",
+"aliases": [
+"Bol'shoy Ik"
+],
+"links": 23
+},
+{
+"name": "Brembo",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Buna",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Busento",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Buy",
+"aliases": [
+"Buy River"
+],
+"links": 23
+},
+{
+"name": "Canche",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Cephissus",
+"aliases": [
+"Kifisos"
+],
+"links": 23
+},
+{
+"name": "Charyn River",
+"aliases": [
+"Charyn",
+"Kur-Tcharyn",
+"River Charyn",
+"River Sharyn",
+"Sharyn",
+"Sharyn River",
+"Tcharyn"
+],
+"links": 23
+},
+{
+"name": "Chilia branch",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Corubal River",
+"aliases": [
+"Corubal",
+"Rio Corubal",
+"Tomine"
+],
+"links": 23
+},
+{
+"name": "Digul River",
+"aliases": [
+"Oewamba Rivier",
+"Sungai Digul"
+],
+"links": 23
+},
+{
+"name": "Doce River",
+"aliases": [
+"Rio Doce"
+],
+"links": 23
+},
+{
+"name": "Dong River",
+"aliases": [
+"Dong Jiang"
+],
+"links": 23
+},
+{
+"name": "Edo River",
+"aliases": [
+"Edogawa-hōsuiro"
+],
+"links": 23
+},
+{
+"name": "Emtsa",
+"aliases": [
+"Emtsa River"
+],
+"links": 23
+},
+{
+"name": "Feni River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Gamtoos River",
+"aliases": [
+"Gamptoos River"
+],
+"links": 23
+},
+{
+"name": "Gascoyne River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Gera",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Guadalhorce",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Gállego",
+"aliases": [
+"Gallego"
+],
+"links": 23
+},
+{
+"name": "Hingol River",
+"aliases": [
+"Hungol River"
+],
+"links": 23
+},
+{
+"name": "Hondo River",
+"aliases": [
+"Rio Hondo",
+"Río Hondo"
+],
+"links": 23
+},
+{
+"name": "Ina",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Jagst",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Karasu River",
+"aliases": [
+"Karasu Irmağı"
+],
+"links": 23
+},
+{
+"name": "Kashgar River",
+"aliases": [
+"Kashgar",
+"Kizil River",
+"Kizil Su",
+"Kizil Su River",
+"Kizil-su",
+"Kizil-su River",
+"Kizzil River",
+"Kizzil Su",
+"Kizzil Su River",
+"River Kizil",
+"River Kizzil"
+],
+"links": 23
+},
+{
+"name": "Kennebec River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Kerio River",
+"aliases": [
+"Kerio"
+],
+"links": 23
+},
+{
+"name": "Kharkiv",
+"aliases": [
+"Kharkiv River",
+"Kharkov",
+"Kharkov River"
+],
+"links": 23
+},
+{
+"name": "Khorol River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Kitinen",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Kouilou-Niari River",
+"aliases": [
+"Kouilou-Niari",
+"Kwil-Niari",
+"Kwila-Niari",
+"Kwilu-Niari"
+],
+"links": 23
+},
+{
+"name": "Kovda",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Kushk River",
+"aliases": [
+"Daryā-ye Koshk",
+"Guşgy",
+"Kushka River"
+],
+"links": 23
+},
+{
+"name": "Liri",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Manavgat River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Mano River",
+"aliases": [
+"Mano"
+],
+"links": 23
+},
+{
+"name": "Moma River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Mrassu",
+"aliases": [
+"Mras-Su"
+],
+"links": 23
+},
+{
+"name": "Muna",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Murchison River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Musi River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Neelum River",
+"aliases": [
+"Kishan Ganga River",
+"Kishanganga River",
+"Kishen Ganga River",
+"Kishenganga River",
+"Neelam River"
+],
+"links": 23
+},
+{
+"name": "Nera River",
+"aliases": [
+"Râul Nera"
+],
+"links": 23
+},
+{
+"name": "Neyva",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Nitsa",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Odiel",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Omoloy",
+"aliases": [
+"Omoloy River"
+],
+"links": 23
+},
+{
+"name": "Onilahy River",
+"aliases": [
+"Onilahy"
+],
+"links": 23
+},
+{
+"name": "Orlice",
+"aliases": [
+"Adler"
+],
+"links": 23
+},
+{
+"name": "Oude IJssel",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Pahang River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Pededze",
+"aliases": [
+"Pededze River",
+"Pedetsi"
+],
+"links": 23
+},
+{
+"name": "Penna River",
+"aliases": [
+"Penner River"
+],
+"links": 23
+},
+{
+"name": "Podkumok",
+"aliases": [
+"Podkumok River"
+],
+"links": 23
+},
+{
+"name": "Rappahannock River",
+"aliases": [
+"Rappahannock"
+],
+"links": 23
+},
+{
+"name": "Rienz",
+"aliases": [
+"Rienza"
+],
+"links": 23
+},
+{
+"name": "River Lagan",
+"aliases": [
+"Lagan"
+],
+"links": 23
+},
+{
+"name": "River Monnow",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Río Cuareim",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Sal River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Saloum River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Santa Lucía River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Sartang River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Shashe River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Sofia River",
+"aliases": [
+"Sofia"
+],
+"links": 23
+},
+{
+"name": "Stör",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Sèvre Nantaise",
+"aliases": [
+"Sevre Nantaise"
+],
+"links": 23
+},
+{
+"name": "Teles Pires River",
+"aliases": [
+"Rio São Manoel"
+],
+"links": 23
+},
+{
+"name": "Teshio River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Trinity River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Tronto",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Tunguska",
+"aliases": [
+"Tunguska River"
+],
+"links": 23
+},
+{
+"name": "Ulungur River",
+"aliases": [
+"Urungu",
+"Urungu River"
+],
+"links": 23
+},
+{
+"name": "Velikaya",
+"aliases": [
+"Velikaya River"
+],
+"links": 23
+},
+{
+"name": "Vire",
+"aliases": [
+"La Vire"
+],
+"links": 23
+},
+{
+"name": "Vop",
+"aliases": [
+"Vop River"
+],
+"links": 23
+},
+{
+"name": "Vorderrhein",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Voronya",
+"aliases": [
+"Voronya River"
+],
+"links": 23
+},
+{
+"name": "Väike Emajõgi",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Wiese",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Wörnitz",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Yoshino River",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Úhlava",
+"aliases": [
+"Uhlava"
+],
+"links": 23
+},
+{
+"name": "Abukuma River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Acharistsqali",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Adzva",
+"aliases": [
+"Adz'va",
+"Adzva River"
+],
+"links": 22
+},
+{
+"name": "Aksu River",
+"aliases": [
+"Aqsū"
+],
+"links": 22
+},
+{
+"name": "Alcantara",
+"aliases": [
+"Acesines",
+"Akesines"
+],
+"links": 22
+},
+{
+"name": "Algeti River",
+"aliases": [
+"Alget'i"
+],
+"links": 22
+},
+{
+"name": "Allaine",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Allakh-Yun",
+"aliases": [
+"Allakh-Yun'"
+],
+"links": 22
+},
+{
+"name": "Anapo",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Arc",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Atchafalaya River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Badyarikha River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Baker River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Bassac River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Berkel",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Bode",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Bolshoy Anyuy",
+"aliases": [
+"Bol'shoy Anyuy"
+],
+"links": 22
+},
+{
+"name": "Byoryolyokh",
+"aliases": [
+"Bërëlëkh"
+],
+"links": 22
+},
+{
+"name": "Chapaevka",
+"aliases": [
+"Chapaevka River",
+"Chapayevka",
+"Chapayevka River"
+],
+"links": 22
+},
+{
+"name": "Chona",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Chorna River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Clain",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Colville River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Copper River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Couesnon",
+"aliases": [
+"Couesnon River"
+],
+"links": 22
+},
+{
+"name": "Deseado River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Deva",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Dulce River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Dulce River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Elqui River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Enz",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Fars",
+"aliases": [
+"Fars River"
+],
+"links": 22
+},
+{
+"name": "Futaleufú River",
+"aliases": [
+"Futaleufu River"
+],
+"links": 22
+},
+{
+"name": "Gacka",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Gonam River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Great Neva",
+"aliases": [
+"Bolshaya Neva"
+],
+"links": 22
+},
+{
+"name": "Great Ruaha River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Guadalope",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Hakari River",
+"aliases": [
+"Akari",
+"Hakaricay",
+"Hakarichay",
+"Hekeri",
+"Hekericay"
+],
+"links": 22
+},
+{
+"name": "Hayes River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Ilisos",
+"aliases": [
+"Ilissos"
+],
+"links": 22
+},
+{
+"name": "Ilych",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Iokanga",
+"aliases": [
+"Yokanga"
+],
+"links": 22
+},
+{
+"name": "Iowa River",
+"aliases": [
+"Iowa"
+],
+"links": 22
+},
+{
+"name": "Itata River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Ivalo River",
+"aliases": [
+"Avveeljuuha",
+"Avveeljuuhâ",
+"Avviljohka",
+"Ivalojoki"
+],
+"links": 22
+},
+{
+"name": "Jasieĺda River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Jeker",
+"aliases": [
+"Geer"
+],
+"links": 22
+},
+{
+"name": "Kaczawa",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kalambo River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kamchiya",
+"aliases": [
+"Kamchia",
+"Panisos",
+"Panysos"
+],
+"links": 22
+},
+{
+"name": "Kashinka",
+"aliases": [
+"Kashinka River"
+],
+"links": 22
+},
+{
+"name": "Kazan River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Keelung River",
+"aliases": [
+"Ke-lâng River",
+"Kimassauw",
+"Kimazon",
+"Quelanghsche",
+"Ritsouquie"
+],
+"links": 22
+},
+{
+"name": "Khor River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kinabatangan River",
+"aliases": [
+"Sungai Kinabatangan"
+],
+"links": 22
+},
+{
+"name": "Kolp",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kolubara",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Konkouré River",
+"aliases": [
+"Konkoure River"
+],
+"links": 22
+},
+{
+"name": "Kudma",
+"aliases": [
+"Kud'ma"
+],
+"links": 22
+},
+{
+"name": "Kuloy",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kwisa",
+"aliases": [
+"Kwissa",
+"Queis",
+"Queiss"
+],
+"links": 22
+},
+{
+"name": "Lauca River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lašva",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Limarí River",
+"aliases": [
+"Limari River"
+],
+"links": 22
+},
+{
+"name": "Little Bighorn River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Loiret",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Luan River",
+"aliases": [
+"Luan He"
+],
+"links": 22
+},
+{
+"name": "Ludza",
+"aliases": [
+"Ludza River",
+"Lzha"
+],
+"links": 22
+},
+{
+"name": "Marecchia",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Mira River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Mirna",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Nairobi River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Nercha",
+"aliases": [
+"Nercha River"
+],
+"links": 22
+},
+{
+"name": "Nerl",
+"aliases": [
+"Nerl'"
+],
+"links": 22
+},
+{
+"name": "Nete",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Niobrara River",
+"aliases": [
+"Eau-qui-court River",
+"Hisse yovi yoe",
+"Hisse'yovi'yoe",
+"Kickatari",
+"L'Eau qui Court",
+"La Riviere qui Court",
+"Mini tanka Wakpa",
+"Mniblaska",
+"Nebrara",
+"Ni obthatha ke",
+"Niobrarah River",
+"Rapid River",
+"Runningwater Creek",
+"Runningwater River"
+],
+"links": 22
+},
+{
+"name": "Nive",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Ogun River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Orkla",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Palata River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Pambak River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Panjnad River",
+"aliases": [
+"river in Pakistan"
+],
+"links": 22
+},
+{
+"name": "Papaloapan River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Peel River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Pend Oreille River",
+"aliases": [
+"Bitter Root River",
+"Bitterroot River",
+"Clark Fork",
+"Clark's Fork",
+"Clarke Fork",
+"Clarkes Fork",
+"Clarks Fork",
+"Deer Lodge River",
+"Hell Gate River",
+"Missoula River",
+"Pend d'Oreille River",
+"Pend-d'Oreille River",
+"Silver Bow River"
+],
+"links": 22
+},
+{
+"name": "Pina",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Pronia",
+"aliases": [
+"Pronya"
+],
+"links": 22
+},
+{
+"name": "Radika",
+"aliases": [
+"Radikë"
+],
+"links": 22
+},
+{
+"name": "River Corrib",
+"aliases": [
+"Corrib",
+"Corrib river"
+],
+"links": 22
+},
+{
+"name": "River Erne",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Rokel River",
+"aliases": [
+"Rokel",
+"Seli",
+"Seli River"
+],
+"links": 22
+},
+{
+"name": "Ruo Shui",
+"aliases": [
+"Ejin",
+"Heihe",
+"Ruoshui"
+],
+"links": 22
+},
+{
+"name": "Rusenski Lom",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Salat",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sangro",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sarysu",
+"aliases": [
+"Sarysū"
+],
+"links": 22
+},
+{
+"name": "Scioto River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Selizharovka",
+"aliases": [
+"Selizharovka River"
+],
+"links": 22
+},
+{
+"name": "Serio",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Shimanto River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Shing Mun River",
+"aliases": [
+"Shing Mun River Channel"
+],
+"links": 22
+},
+{
+"name": "Sihl",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Smoky Hill River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "St. Francis River",
+"aliases": [
+"Charles Creek",
+"Charley Creek",
+"Cholohollay River",
+"El Rio San Francisco",
+"First Creek",
+"Fiume San Francesco",
+"Rio San Francisco",
+"Riviere des Chepoussea",
+"Riviere Saint Francis",
+"Saint Francis River",
+"Saint Francois River",
+"San Francisco River"
+],
+"links": 22
+},
+{
+"name": "Suda",
+"aliases": [
+"Suda River"
+],
+"links": 22
+},
+{
+"name": "Suna",
+"aliases": [
+"Sun",
+"Suna River"
+],
+"links": 22
+},
+{
+"name": "Suwannee River",
+"aliases": [
+"Suwanee River"
+],
+"links": 22
+},
+{
+"name": "Sym River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Tammerkoski",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Teberda River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Tempisque River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Thelon River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Tigre River",
+"aliases": [
+"Río Tigre"
+],
+"links": 22
+},
+{
+"name": "Tikhvinka River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Timpton",
+"aliases": [
+"Timpton River"
+],
+"links": 22
+},
+{
+"name": "Treska",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Trubizh River",
+"aliases": [
+"Trubezh River"
+],
+"links": 22
+},
+{
+"name": "Tsipa River",
+"aliases": [
+"Tsipa"
+],
+"links": 22
+},
+{
+"name": "Tsivil",
+"aliases": [
+"Bol'shoy Tsivil'",
+"Tsivil River"
+],
+"links": 22
+},
+{
+"name": "Uday River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Umgeni River",
+"aliases": [
+"Mgeni River"
+],
+"links": 22
+},
+{
+"name": "Urukh",
+"aliases": [
+"Araf",
+"Iraf",
+"Iræf",
+"Æræf"
+],
+"links": 22
+},
+{
+"name": "Uyandina",
+"aliases": [
+"Uyandina River"
+],
+"links": 22
+},
+{
+"name": "Vishera",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Vyazma",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Vytegra",
+"aliases": [
+"Vytegra River"
+],
+"links": 22
+},
+{
+"name": "Wurm",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Yaqui River",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Yazva",
+"aliases": [
+"Yaz'va"
+],
+"links": 22
+},
+{
+"name": "Ygyatta",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Zagyva",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Zhuoshui River",
+"aliases": [
+"Choshui",
+"Choshui River",
+"Choushui River",
+"Jhuoshuei River",
+"Zhuóshuǐ Xī"
+],
+"links": 22
+},
+{
+"name": "Österdal River",
+"aliases": [
+"Osterdal River",
+"Osterdalaelven",
+"Osterdalalven",
+"Österdalälven"
+],
+"links": 22
+},
+{
+"name": "Agano River",
+"aliases": [
+"Ōkawa River"
+],
+"links": 21
+},
+{
+"name": "Albula",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Angren River",
+"aliases": [
+"Ohangaron"
+],
+"links": 21
+},
+{
+"name": "Apa River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ashburton River",
+"aliases": [
+"Curlew River",
+"Willem's River"
+],
+"links": 21
+},
+{
+"name": "Assa River",
+"aliases": [
+"Assa"
+],
+"links": 21
+},
+{
+"name": "Aulne",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ayalon River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bahr al-Arab",
+"aliases": [
+"Kiir River"
+],
+"links": 21
+},
+{
+"name": "Berbice River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Besor River",
+"aliases": [
+"Naẖal Besor"
+],
+"links": 21
+},
+{
+"name": "Bia River",
+"aliases": [
+"Bia"
+],
+"links": 21
+},
+{
+"name": "Biferno",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Biga River",
+"aliases": [
+"Granicus"
+],
+"links": 21
+},
+{
+"name": "Bistricë",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bodva",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bolshoi Zelenchuk",
+"aliases": [
+"Bol'shoy Zelenchuk",
+"Velký Zelenčuk"
+],
+"links": 21
+},
+{
+"name": "Brantas River",
+"aliases": [
+"Kali Brantas"
+],
+"links": 21
+},
+{
+"name": "Bukhan River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Burdekin River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Buzi River",
+"aliases": [
+"Buzi"
+],
+"links": 21
+},
+{
+"name": "Bytantay",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bílina",
+"aliases": [
+"Bilina"
+],
+"links": 21
+},
+{
+"name": "Carrión River",
+"aliases": [
+"Carrion river"
+],
+"links": 21
+},
+{
+"name": "Cheyenne River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Chi River",
+"aliases": [
+"Mae Nam Chi"
+],
+"links": 21
+},
+{
+"name": "Chilik River",
+"aliases": [
+"Belluluko",
+"Bolshoi Chilik",
+"Chilik",
+"Kur Chilik",
+"Kur-Chilik",
+"Shelek",
+"Shelek River",
+"Shilik",
+"Shilik River"
+],
+"links": 21
+},
+{
+"name": "Chiluango River",
+"aliases": [
+"Kakongo River",
+"Louango",
+"Rio Hi",
+"Shiloango"
+],
+"links": 21
+},
+{
+"name": "Cidlina",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Clerve",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Copiapó River",
+"aliases": [
+"Copiapo River"
+],
+"links": 21
+},
+{
+"name": "Crișul Negru River",
+"aliases": [
+"Fekete-Körös"
+],
+"links": 21
+},
+{
+"name": "Cère",
+"aliases": [
+"Cere"
+],
+"links": 21
+},
+{
+"name": "Daman Ganga River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Darro",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Demer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Desaguadero River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Dobra",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Dragor",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Elz",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Emil River",
+"aliases": [
+"Emin He",
+"Emin River"
+],
+"links": 21
+},
+{
+"name": "Eo",
+"aliases": [
+"Eo River",
+"River Eo"
+],
+"links": 21
+},
+{
+"name": "Erft",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ewaso Ng'iro",
+"aliases": [
+"Ewaso Nyiro",
+"Lagh Dera"
+],
+"links": 21
+},
+{
+"name": "Fen River",
+"aliases": [
+"Fen He"
+],
+"links": 21
+},
+{
+"name": "Fiagdon",
+"aliases": [
+"Fiagdon River"
+],
+"links": 21
+},
+{
+"name": "Geum River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Gombak River",
+"aliases": [
+"Sungai Gombak"
+],
+"links": 21
+},
+{
+"name": "Günz",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Haine",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hase",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hay River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hinterrhein",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hunza River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ilesha",
+"aliases": [
+"Bolshaya Ilesha",
+"Ilesha River",
+"Malaya Ilesha"
+],
+"links": 21
+},
+{
+"name": "Ilm",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Indravati River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Innerste",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Jade",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Jinsha River",
+"aliases": [
+"Chin-sha Chiang",
+"Chin-sha River",
+"Jinsha Jiang"
+],
+"links": 21
+},
+{
+"name": "Kazym",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Khwae Yai River",
+"aliases": [
+"Mae Nam Khwae Yai",
+"river Kwai"
+],
+"links": 21
+},
+{
+"name": "Kiso River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Kitakami River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Kitoy River",
+"aliases": [
+"Kitoy"
+],
+"links": 21
+},
+{
+"name": "Kiya",
+"aliases": [
+"Kiya River"
+],
+"links": 21
+},
+{
+"name": "Komo River",
+"aliases": [
+"Como",
+"Gabon",
+"Komo"
+],
+"links": 21
+},
+{
+"name": "Kosva",
+"aliases": [
+"Kosva River"
+],
+"links": 21
+},
+{
+"name": "Kotra",
+"aliases": [
+"Katra",
+"Kotra River"
+],
+"links": 21
+},
+{
+"name": "Kunduz River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Landwasser",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Lulua",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Luni River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Lô River",
+"aliases": [
+"Lo River",
+"Panlong river"
+],
+"links": 21
+},
+{
+"name": "Marano",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Mechi River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Mindel",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Morkoka River",
+"aliases": [
+"Morkoka"
+],
+"links": 21
+},
+{
+"name": "Mrežnica",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Myjava",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Nahal Sorek",
+"aliases": [
+"Naẖal Soreq"
+],
+"links": 21
+},
+{
+"name": "Navia",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Neosho River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Nera River",
+"aliases": [
+"Nera"
+],
+"links": 21
+},
+{
+"name": "Neya",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Nežárka",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Niers",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Norrström",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Nzoia River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Obaĺ",
+"aliases": [
+"Obaĺ River",
+"Obol"
+],
+"links": 21
+},
+{
+"name": "Odet",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ognon",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ogre River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Okhota",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Oril River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Osha",
+"aliases": [
+"Osha River"
+],
+"links": 21
+},
+{
+"name": "Oude Rijn",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Pa Sak River",
+"aliases": [
+"Mae Nam Pa Sak"
+],
+"links": 21
+},
+{
+"name": "Pelly River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Pinka",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Pleiße",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Pliva",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Popigay River",
+"aliases": [
+"Popigay"
+],
+"links": 21
+},
+{
+"name": "Richelieu River",
+"aliases": [
+"Riviere Richelieu",
+"Rivière Richelieu"
+],
+"links": 21
+},
+{
+"name": "Rio Mendoza",
+"aliases": [
+"Mendoza",
+"Río Mendoza"
+],
+"links": 21
+},
+{
+"name": "River Stour",
+"aliases": [
+"River Stour, Suffolk"
+],
+"links": 21
+},
+{
+"name": "River Towy",
+"aliases": [
+"River Tywi"
+],
+"links": 21
+},
+{
+"name": "River Ure",
+"aliases": [
+"Ure"
+],
+"links": 21
+},
+{
+"name": "River Wharfe",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Rock River",
+"aliases": [
+"Sinnissippi",
+"Sinnissippi River"
+],
+"links": 21
+},
+{
+"name": "Roya",
+"aliases": [
+"Roia"
+],
+"links": 21
+},
+{
+"name": "Ruki",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Russian River",
+"aliases": [
+"Jauiyomi",
+"Misallaako",
+"Passion River",
+"Rio Ruso",
+"Russian",
+"Shabaikai",
+"Slavianka",
+"Slavyanka"
+],
+"links": 21
+},
+{
+"name": "Rutka",
+"aliases": [
+"Rutka River"
+],
+"links": 21
+},
+{
+"name": "Salso",
+"aliases": [
+"Himera river",
+"Imera Meridionale",
+"Salso River"
+],
+"links": 21
+},
+{
+"name": "Salt River",
+"aliases": [
+"Hakathi:",
+"Onk Akimel",
+"ʼHakanyacha"
+],
+"links": 21
+},
+{
+"name": "Sava Dolinka",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Savala",
+"aliases": [
+"Savala River"
+],
+"links": 21
+},
+{
+"name": "Severn River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Seybouse River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Shuya",
+"aliases": [
+"Shuya River"
+],
+"links": 21
+},
+{
+"name": "Soan River",
+"aliases": [
+"Sawan River",
+"Sohan River",
+"Swan River"
+],
+"links": 21
+},
+{
+"name": "Syun",
+"aliases": [
+"Syun'"
+],
+"links": 21
+},
+{
+"name": "Tech",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tiasmyn",
+"aliases": [
+"Tiasmyn River"
+],
+"links": 21
+},
+{
+"name": "Tompo",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Traisen",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tromyogan",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tshuapa River",
+"aliases": [
+"Tshwapa"
+],
+"links": 21
+},
+{
+"name": "Tsiribihina River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tyukyan",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ucker",
+"aliases": [
+"Uecker"
+],
+"links": 21
+},
+{
+"name": "Ukhta",
+"aliases": [
+"Ukhta River",
+"Ukva"
+],
+"links": 21
+},
+{
+"name": "Umba",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Utroya",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Uy",
+"aliases": [
+"Uy River"
+],
+"links": 21
+},
+{
+"name": "Valbona",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Virgin River",
+"aliases": [
+"Adams River",
+"Pah-roos River",
+"Pah-Roose River",
+"Pilar River",
+"Rio de la Virgen",
+"Rio Fulfureo de las Pyramides",
+"Rio Plar",
+"Rio Virgen River",
+"Rio Virgin",
+"Santa Clara River",
+"Virgen River"
+],
+"links": 21
+},
+{
+"name": "Voghdji River",
+"aliases": [
+"Oxçu",
+"Oxçuçay"
+],
+"links": 21
+},
+{
+"name": "Vorma",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Vuka",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Wied",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Yaya",
+"aliases": [
+"Yaya River"
+],
+"links": 21
+},
+{
+"name": "Yazoo River",
+"aliases": [
+"Fiume del Yasous",
+"Riviere des Yasoux",
+"Rivière des Yasoux",
+"Yahshoo River",
+"Yazoo",
+"Yazous River",
+"Zasu River"
+],
+"links": 21
+},
+{
+"name": "Yurungkax He",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Yí River",
+"aliases": [
+"Yi River"
+],
+"links": 21
+},
+{
+"name": "Zanskar River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Zay",
+"aliases": [
+"Zay River"
+],
+"links": 21
+},
+{
+"name": "Zhob River",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Zilupe",
+"aliases": [
+"Siniucha",
+"Sinyaya",
+"Sinyukha"
+],
+"links": 21
+},
+{
+"name": "Õhne River",
+"aliases": [
+"Hoomuli River",
+"Omuļupe"
+],
+"links": 21
+},
+{
+"name": "Abens",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Abitibi River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Adelaide River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Agrafiotis",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Akerselva",
+"aliases": [
+"Aker River"
+],
+"links": 20
+},
+{
+"name": "Allia",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Alsek River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Andoma",
+"aliases": [
+"Andoma River"
+],
+"links": 20
+},
+{
+"name": "Armançon",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Arros",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Attert",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Avia",
+"aliases": [
+"Avia River"
+],
+"links": 20
+},
+{
+"name": "Bacchiglione",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Bakhmutka",
+"aliases": [
+"Bakhmut"
+],
+"links": 20
+},
+{
+"name": "Balkh River",
+"aliases": [
+"Baktros"
+],
+"links": 20
+},
+{
+"name": "Berdan Brook",
+"aliases": [
+"Tarsus River",
+"Tarsus Çayı"
+],
+"links": 20
+},
+{
+"name": "Bhadra River",
+"aliases": [
+"Bhadra"
+],
+"links": 20
+},
+{
+"name": "Bhavani River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Bighorn River",
+"aliases": [
+"Arikusu Hukaahaanu",
+"Arikusu Huukaahaanu",
+"Big Horn River",
+"Big Wind River",
+"Great Horn River",
+"Ksaiyo'he",
+"Le Corne"
+],
+"links": 20
+},
+{
+"name": "Bièvre",
+"aliases": [
+"Bievre"
+],
+"links": 20
+},
+{
+"name": "Bolshaya Chukochya River",
+"aliases": [
+"Bol'shaya Chukoch'ya River",
+"Chukochya River"
+],
+"links": 20
+},
+{
+"name": "Bolshaya Kheta River",
+"aliases": [
+"Bol'shaya Kheta"
+],
+"links": 20
+},
+{
+"name": "Bolva",
+"aliases": [
+"Bolva River"
+],
+"links": 20
+},
+{
+"name": "Bormida",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Bradano",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Bregenzerach",
+"aliases": [
+"Bregenzer Ach",
+"Bregenzer Ache"
+],
+"links": 20
+},
+{
+"name": "Cesar River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Chatkal River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Chegem",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Cherek",
+"aliases": [
+"Cherek River"
+],
+"links": 20
+},
+{
+"name": "Chuluut River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Chulym",
+"aliases": [
+"Chulym River"
+],
+"links": 20
+},
+{
+"name": "Chuya",
+"aliases": [
+"Altai Chuya",
+"Chuya River"
+],
+"links": 20
+},
+{
+"name": "Cirocha",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Coghinas",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Crasna",
+"aliases": [
+"Crasna River"
+],
+"links": 20
+},
+{
+"name": "Cuiabá River",
+"aliases": [
+"Cuiaba River"
+],
+"links": 20
+},
+{
+"name": "Cuyuni River",
+"aliases": [
+"Manuel Alejandro Linares Ponce"
+],
+"links": 20
+},
+{
+"name": "Cávado River",
+"aliases": [
+"Cavado River"
+],
+"links": 20
+},
+{
+"name": "Dan River",
+"aliases": [
+"Dan Stream"
+],
+"links": 20
+},
+{
+"name": "Dande River",
+"aliases": [
+"Dande"
+],
+"links": 20
+},
+{
+"name": "Dasht River",
+"aliases": [
+"Dasht",
+"Dasht Kaur"
+],
+"links": 20
+},
+{
+"name": "Dinder River",
+"aliases": [
+"Dinder Wenz"
+],
+"links": 20
+},
+{
+"name": "Dinkel",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Dives",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Divoká Orlice",
+"aliases": [
+"Divoka Orlice",
+"Dzika Orlica"
+],
+"links": 20
+},
+{
+"name": "Drysa",
+"aliases": [
+"Drisa, Drissa"
+],
+"links": 20
+},
+{
+"name": "Dubna",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Dulgalakh River",
+"aliases": [
+"Dulgalakh"
+],
+"links": 20
+},
+{
+"name": "Dzoraget River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Egorlyk",
+"aliases": [
+"Yegorlyk",
+"Yegorlyk River"
+],
+"links": 20
+},
+{
+"name": "Ergene",
+"aliases": [
+"Ergene Nehri",
+"Erginos"
+],
+"links": 20
+},
+{
+"name": "Fils",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Fimi River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Flumendosa",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Forcados River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Franconian Saale",
+"aliases": [
+"Fränkische Saale"
+],
+"links": 20
+},
+{
+"name": "Freiberger Mulde",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Gave d'Oloron",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Gazimur River",
+"aliases": [
+"Gazimur"
+],
+"links": 20
+},
+{
+"name": "Gilyuy",
+"aliases": [
+"Gilyuy River"
+],
+"links": 20
+},
+{
+"name": "Gimone",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Gizeldon",
+"aliases": [
+"Džyzældon"
+],
+"links": 20
+},
+{
+"name": "Gunt River",
+"aliases": [
+"Alichur, Ghund"
+],
+"links": 20
+},
+{
+"name": "Gwda",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Henares river",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ibaizabal",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ilovlya",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Indragiri River",
+"aliases": [
+"Kuantan River"
+],
+"links": 20
+},
+{
+"name": "Ishmi",
+"aliases": [
+"Ishëm"
+],
+"links": 20
+},
+{
+"name": "Ivindo River",
+"aliases": [
+"Ivindo"
+],
+"links": 20
+},
+{
+"name": "Jaldhaka River",
+"aliases": [
+"Dichu River"
+],
+"links": 20
+},
+{
+"name": "Jari River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Jequitinhonha River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kaidu River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kander",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kargat",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kazyr",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kema",
+"aliases": [
+"Kema River"
+],
+"links": 20
+},
+{
+"name": "Kosa",
+"aliases": [
+"Kosa River"
+],
+"links": 20
+},
+{
+"name": "Krasivaya Mecha",
+"aliases": [
+"Krasivaya Mecha River"
+],
+"links": 20
+},
+{
+"name": "Krzna",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kunda River",
+"aliases": [
+"Kunda"
+],
+"links": 20
+},
+{
+"name": "Lepsy River",
+"aliases": [
+"Lepsi"
+],
+"links": 20
+},
+{
+"name": "Little Missouri River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lucala River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lutto",
+"aliases": [
+"Lotta",
+"Lotta River",
+"Lutto River"
+],
+"links": 20
+},
+{
+"name": "Lėvuo",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Massa River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Mayo Kébi",
+"aliases": [
+"Mayo Kebi",
+"Mayo Kébbi"
+],
+"links": 20
+},
+{
+"name": "Mbuluzi River",
+"aliases": [
+"Imbuluzi",
+"Mbuluzi",
+"Umbeluzi",
+"Umbuluzi River"
+],
+"links": 20
+},
+{
+"name": "Medellín River",
+"aliases": [
+"Medellin River"
+],
+"links": 20
+},
+{
+"name": "Mornos",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Målselva",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nahr al-Kalb",
+"aliases": [
+"Dog River",
+"Lycus River",
+"Nahr el-Kelb"
+],
+"links": 20
+},
+{
+"name": "Neches River",
+"aliases": [
+"Harrel Slough",
+"Nachawi",
+"Nachez River",
+"Natchez River",
+"Nueces River",
+"Rio de los Tejas",
+"Rio de Nechas",
+"Rio de Nievas",
+"Rio del Arcangel San Miguel",
+"Rio Mexicano",
+"Rio Neches",
+"River Naches",
+"Sabine River",
+"Snow River",
+"Two Rivers"
+],
+"links": 20
+},
+{
+"name": "Neda",
+"aliases": [
+"Neda river",
+"Neda River"
+],
+"links": 20
+},
+{
+"name": "Nogat",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Obsha",
+"aliases": [
+"Obsha River"
+],
+"links": 20
+},
+{
+"name": "Odon",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ogosta",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ohre",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ostyor",
+"aliases": [
+"Ascior",
+"Ascior River",
+"Ostyor River"
+],
+"links": 20
+},
+{
+"name": "Osun River",
+"aliases": [
+"Oshun River"
+],
+"links": 20
+},
+{
+"name": "Ourika River",
+"aliases": [
+"Ourika"
+],
+"links": 20
+},
+{
+"name": "Para",
+"aliases": [
+"Para River"
+],
+"links": 20
+},
+{
+"name": "Parabel",
+"aliases": [
+"Parabel'"
+],
+"links": 20
+},
+{
+"name": "Pibor River",
+"aliases": [
+"River Pibor"
+],
+"links": 20
+},
+{
+"name": "Ploučnice",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Pongola River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Potaro River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Pyoza",
+"aliases": [
+"Peza",
+"Pyoza River"
+],
+"links": 20
+},
+{
+"name": "Pánuco River",
+"aliases": [
+"Panuco River"
+],
+"links": 20
+},
+{
+"name": "Raška",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Rigvedic rivers",
+"aliases": [],
+"links": 20
+},
+{
+"name": "River Annan",
+"aliases": [
+"Abhainn Anann",
+"Anainn"
+],
+"links": 20
+},
+{
+"name": "River Arun",
+"aliases": [],
+"links": 20
+},
+{
+"name": "River Cherwell",
+"aliases": [
+"Cherwell"
+],
+"links": 20
+},
+{
+"name": "Rječina",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Rospuda",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Sambirano River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "San Juan River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Sayur Brook",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Schwentine",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Selennyakh River",
+"aliases": [
+"Selennyakh"
+],
+"links": 20
+},
+{
+"name": "Serebryanka",
+"aliases": [
+"Serebryanka River, Sverdlovsk Oblast"
+],
+"links": 20
+},
+{
+"name": "Setun",
+"aliases": [
+"Setun'"
+],
+"links": 20
+},
+{
+"name": "Sham Chun River",
+"aliases": [
+"Shenzhen River"
+],
+"links": 20
+},
+{
+"name": "Shish",
+"aliases": [
+"Shish River"
+],
+"links": 20
+},
+{
+"name": "Sioule",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Sit",
+"aliases": [
+"Sit River"
+],
+"links": 20
+},
+{
+"name": "Siva",
+"aliases": [
+"Siva River"
+],
+"links": 20
+},
+{
+"name": "Slovechna",
+"aliases": [
+"Slavechna"
+],
+"links": 20
+},
+{
+"name": "Sluč",
+"aliases": [
+"Northern Sluch",
+"Sluch River"
+],
+"links": 20
+},
+{
+"name": "Sog River",
+"aliases": [
+"Sog"
+],
+"links": 20
+},
+{
+"name": "Someșul Mare River",
+"aliases": [
+"Great Someș",
+"Someșul Mare"
+],
+"links": 20
+},
+{
+"name": "Sota River",
+"aliases": [
+"Sota"
+],
+"links": 20
+},
+{
+"name": "South Nahanni River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Spaarne",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Supsa River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Surma River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Susitna River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Sutjeska",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Svislax",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tamsui River",
+"aliases": [
+"Danshui He"
+],
+"links": 20
+},
+{
+"name": "Tavignano",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Techa River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tikhaya Sosna",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tinkisso River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Toce",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Toltén River",
+"aliases": [
+"Tolten River"
+],
+"links": 20
+},
+{
+"name": "Torysa",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Trombetas River",
+"aliases": [
+"Rio Trombetas",
+"Trombetas"
+],
+"links": 20
+},
+{
+"name": "Tsavo River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tuntsajoki",
+"aliases": [
+"Tuntsayoki",
+"Tuntsayoki River"
+],
+"links": 20
+},
+{
+"name": "Turiya",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tárcoles River",
+"aliases": [
+"Tarcoles River"
+],
+"links": 20
+},
+{
+"name": "Uda",
+"aliases": [
+"Uda River"
+],
+"links": 20
+},
+{
+"name": "Uftyuga",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ulla",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Usta",
+"aliases": [
+"Usta River"
+],
+"links": 20
+},
+{
+"name": "Uzola",
+"aliases": [
+"Uzola River"
+],
+"links": 20
+},
+{
+"name": "Vad",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Vefsna",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Verzasca",
+"aliases": [
+"Verzasca River"
+],
+"links": 20
+},
+{
+"name": "Viaur",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Vovcha",
+"aliases": [
+"Vovcha River"
+],
+"links": 20
+},
+{
+"name": "Vyya",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Wadi Qelt",
+"aliases": [
+"Nahal Perath",
+"Nahal Prat"
+],
+"links": 20
+},
+{
+"name": "Wertach",
+"aliases": [],
+"links": 20
+},
+{
+"name": "White River",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Würm",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Yasachnaya",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Yayva",
+"aliases": [
+"Yayva River"
+],
+"links": 20
+},
+{
+"name": "Zapadnaya Litsa",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Zwickau Mulde",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ülbi River",
+"aliases": [
+"Ulba river"
+],
+"links": 20
+},
+{
+"name": "Česma",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Širvinta",
+"aliases": [
+"Širvinta River"
+],
+"links": 20
+},
+{
+"name": "Švėtė",
+"aliases": [
+"Svete River",
+"Svēte"
+],
+"links": 20
+},
+{
+"name": "Žitava",
+"aliases": [],
+"links": 20
 }
 ]

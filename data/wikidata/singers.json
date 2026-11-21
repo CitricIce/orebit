@@ -363,12 +363,12 @@
 "name": "Jennifer Lopez",
 "aliases": [
 "J Lo",
-"J-LO",
 "J-lo",
-"J.LO",
+"J-LO",
 "J.lo",
-"Jlo",
-"JLO"
+"J.LO",
+"JLO",
+"Jlo"
 ],
 "links": 138
 },
@@ -584,6 +584,14 @@
 "links": 119
 },
 {
+"name": "Aretha Franklin",
+"aliases": [
+"Aretha Louise Franklin",
+"The Queen of Soul"
+],
+"links": 118
+},
+{
 "name": "Elton John",
 "aliases": [
 "Ann Orson",
@@ -596,14 +604,6 @@
 "Tripe"
 ],
 "links": 118
-},
-{
-"name": "Aretha Franklin",
-"aliases": [
-"Aretha Louise Franklin",
-"The Queen of Soul"
-],
-"links": 117
 },
 {
 "name": "Giovanni Pierluigi da Palestrina",
@@ -793,6 +793,11 @@
 "links": 109
 },
 {
+"name": "Whoopi Goldberg",
+"aliases": [],
+"links": 109
+},
+{
 "name": "Eva Perón",
 "aliases": [
 "Eva",
@@ -805,11 +810,6 @@
 "María Eva Duarte de Perón",
 "María Eva Duarte Perón"
 ],
-"links": 108
-},
-{
-"name": "Whoopi Goldberg",
-"aliases": [],
 "links": 108
 },
 {
@@ -963,6 +963,16 @@
 "links": 103
 },
 {
+"name": "Ella Fitzgerald",
+"aliases": [
+"Lady Ella",
+"Queen of Jazz",
+"The First Lady of Jazz",
+"The First Lady of Song"
+],
+"links": 102
+},
+{
 "name": "Gérard Depardieu",
 "aliases": [
 "Depardieu",
@@ -985,19 +995,16 @@
 "links": 102
 },
 {
-"name": "Ella Fitzgerald",
+"name": "Gene Wilder",
 "aliases": [
-"Lady Ella",
-"Queen of Jazz",
-"The First Lady of Jazz",
-"The First Lady of Song"
+"Jerome Silberman"
 ],
 "links": 101
 },
 {
-"name": "Gene Wilder",
+"name": "Janis Joplin",
 "aliases": [
-"Jerome Silberman"
+"Janis Lyn Joplin"
 ],
 "links": 101
 },
@@ -1022,13 +1029,6 @@
 "Mr. Dynamite",
 "Soul Brother #1ffff",
 "The Godfather of Soul"
-],
-"links": 100
-},
-{
-"name": "Janis Joplin",
-"aliases": [
-"Janis Lyn Joplin"
 ],
 "links": 100
 },
@@ -1083,6 +1083,18 @@
 "Margaret",
 "Pak Chaesang",
 "Park Jae-sang"
+],
+"links": 99
+},
+{
+"name": "Yoko Ono",
+"aliases": [
+"Ono",
+"Ono Yoko",
+"Ono Yōko",
+"Yoko Ono Lennon",
+"Yōko Ono",
+"Ĭoko Ono"
 ],
 "links": 99
 },
@@ -1162,18 +1174,6 @@
 "Snoop",
 "Snoop Rock",
 "Snoop Rock-Ski"
-],
-"links": 98
-},
-{
-"name": "Yoko Ono",
-"aliases": [
-"Ono",
-"Ono Yoko",
-"Ono Yōko",
-"Yoko Ono Lennon",
-"Yōko Ono",
-"Ĭoko Ono"
 ],
 "links": 98
 },
@@ -1445,6 +1445,18 @@
 "links": 90
 },
 {
+"name": "Jennifer Connelly",
+"aliases": [
+"Jennifer Lynn Connelly"
+],
+"links": 90
+},
+{
+"name": "John de Lancie",
+"aliases": [],
+"links": 90
+},
+{
 "name": "Jolin Tsai",
 "aliases": [
 "Cai Yilin",
@@ -1494,18 +1506,6 @@
 },
 {
 "name": "Jared Leto",
-"aliases": [],
-"links": 89
-},
-{
-"name": "Jennifer Connelly",
-"aliases": [
-"Jennifer Lynn Connelly"
-],
-"links": 89
-},
-{
-"name": "John de Lancie",
 "aliases": [],
 "links": 89
 },
@@ -2436,6 +2436,11 @@
 "links": 76
 },
 {
+"name": "Lorde",
+"aliases": [],
+"links": 76
+},
+{
 "name": "Robert Mitchum",
 "aliases": [
 "Robert Charles Mitchum",
@@ -2495,13 +2500,15 @@
 "links": 75
 },
 {
-"name": "Lorde",
+"name": "Nick Jonas",
 "aliases": [],
 "links": 75
 },
 {
-"name": "Nick Jonas",
-"aliases": [],
+"name": "Nicole Scherzinger",
+"aliases": [
+"Nicole Prescovia Elikolani Valiente"
+],
 "links": 75
 },
 {
@@ -2533,6 +2540,14 @@
 {
 "name": "Alan Arkin",
 "aliases": [],
+"links": 74
+},
+{
+"name": "Ashley Tisdale",
+"aliases": [
+"Ashley Michelle Tisdale",
+"Ashley Tisdale-French"
+],
 "links": 74
 },
 {
@@ -2636,13 +2651,6 @@
 "links": 74
 },
 {
-"name": "Nicole Scherzinger",
-"aliases": [
-"Nicole Prescovia Elikolani Valiente"
-],
-"links": 74
-},
-{
 "name": "Peter Gabriel",
 "aliases": [],
 "links": 74
@@ -2679,14 +2687,6 @@
 "name": "Adam Levine",
 "aliases": [
 "Adam Noah Levine"
-],
-"links": 73
-},
-{
-"name": "Ashley Tisdale",
-"aliases": [
-"Ashley Michelle Tisdale",
-"Ashley Tisdale-French"
 ],
 "links": 73
 },
@@ -3002,5 +3002,13289 @@
 "Timothy James Curry"
 ],
 "links": 70
+},
+{
+"name": "Angela Bassett",
+"aliases": [
+"Angela Evelyn Bassett"
+],
+"links": 69
+},
+{
+"name": "Billy Joel",
+"aliases": [
+"BJ",
+"The Piano Man",
+"William M. Joel"
+],
+"links": 69
+},
+{
+"name": "France Gall",
+"aliases": [
+"Isabelle Genevieve Marie Anne Gall",
+"Isabelle Geneviève Marie Anne Gall"
+],
+"links": 69
+},
+{
+"name": "Hayley Williams",
+"aliases": [
+"Hayley Nichole Williams"
+],
+"links": 69
+},
+{
+"name": "Jayne Mansfield",
+"aliases": [
+"Vera Jean Peers"
+],
+"links": 69
+},
+{
+"name": "Lemmy",
+"aliases": [
+"Ian Fraser Kilmister",
+"Ian Kilmister",
+"Ian Willis",
+"Lemmy Kilmister"
+],
+"links": 69
+},
+{
+"name": "Maurice Chevalier",
+"aliases": [
+"Maurice Auguste Chevalier"
+],
+"links": 69
+},
+{
+"name": "Mike Shinoda",
+"aliases": [
+"Kenji Shinoda",
+"M. Shinoda",
+"Michael Kenji Shinoda",
+"Michael Shinoda"
+],
+"links": 69
+},
+{
+"name": "Sissy Spacek",
+"aliases": [
+"Rainbo"
+],
+"links": 69
+},
+{
+"name": "Alyssa Milano",
+"aliases": [
+"Alyssa Jayne Bugliari",
+"Alyssa Jayne Milano",
+"Alyssa Jayne Milano-Bugliari"
+],
+"links": 68
+},
+{
+"name": "Amy Lee",
+"aliases": [
+"Amy Lee of Evanescence",
+"Amy Lynn Lee"
+],
+"links": 68
+},
+{
+"name": "Jenny Slate",
+"aliases": [
+"Jennifer Sarah Slate",
+"Jenny S. Slate"
+],
+"links": 68
+},
+{
+"name": "Jessie J",
+"aliases": [
+"Jessica Cornish",
+"Jessica Ellen Cornish"
+],
+"links": 68
+},
+{
+"name": "Liam Payne",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Lucy Lawless",
+"aliases": [
+"Lucille Frances Lawless",
+"Lucille Ryan"
+],
+"links": 68
+},
+{
+"name": "Moby",
+"aliases": [
+"Barracuda",
+"Brainstorm",
+"Elizabeth McBride",
+"Jack Obregon",
+"Pippy Baliunas",
+"Richard Melville Hall",
+"Schaumgummi",
+"UHF",
+"Voodoo Child"
+],
+"links": 68
+},
+{
+"name": "Prince Albert of Saxe-Coburg and Gotha",
+"aliases": [
+"Albert of Saxe-Coburg and Gotha",
+"Albert of Saxe-Coburg-Gotha",
+"Albert, Prince Consort",
+"Albert, Prince Consort of the United Kingdom",
+"Prince Albert",
+"Prince Albert of Saxe-Coburg-Gotha",
+"Prince Consort Albert",
+"The Prince Consort Albert"
+],
+"links": 68
+},
+{
+"name": "Queen Latifah",
+"aliases": [
+"Dana Elaine Owens",
+"Dana Owens"
+],
+"links": 68
+},
+{
+"name": "Victoria Justice",
+"aliases": [
+"Victoria Dawn Justice"
+],
+"links": 68
+},
+{
+"name": "XXXTentacion",
+"aliases": [
+"Jah",
+"X"
+],
+"links": 68
+},
+{
+"name": "Anni-Frid Lyngstad",
+"aliases": [
+"Anni-Frid Synni Lyngstad",
+"Anni-Frid, Princess Reuss, Countess of Plauen",
+"Frida Lyngstad",
+"Princess Anni-Frid, Countess of Plauen"
+],
+"links": 67
+},
+{
+"name": "Bad Bunny",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Billy Connolly",
+"aliases": [
+"Sir William Connolly"
+],
+"links": 67
+},
+{
+"name": "José Carreras",
+"aliases": [
+"Josep Carreras",
+"Josep Maria Carreras Coll"
+],
+"links": 67
+},
+{
+"name": "Kate Moss",
+"aliases": [
+"Katherine Ann Moss"
+],
+"links": 67
+},
+{
+"name": "Little Richard",
+"aliases": [
+"Richard Penniman",
+"Richard Wayne Penniman"
+],
+"links": 67
+},
+{
+"name": "Matthew Broderick",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Sam Smith",
+"aliases": [
+"Samuel Frederick Smith"
+],
+"links": 67
+},
+{
+"name": "Steven Tyler",
+"aliases": [
+"Steven Tallarico",
+"Steven Victor Tallarico"
+],
+"links": 67
+},
+{
+"name": "Stromae",
+"aliases": [],
+"links": 67
+},
+{
+"name": "Thalía",
+"aliases": [
+"Ariadna Thalía Sodi Miranda",
+"Thalia"
+],
+"links": 67
+},
+{
+"name": "Tom Waits",
+"aliases": [
+"Thomas Alan Waits"
+],
+"links": 67
+},
+{
+"name": "Tony Bennett",
+"aliases": [
+"Anthony Benedetto",
+"Anthony Dominick Benedetto"
+],
+"links": 67
+},
+{
+"name": "A. R. Rahman",
+"aliases": [
+"A. S. Dileep Kumar",
+"Allah Rakha Rahman",
+"Allahrakka Rahman",
+"Dileep Kumar Rajagopala"
+],
+"links": 66
+},
+{
+"name": "Anthony Perkins",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Axl Rose",
+"aliases": [
+"Bill Bailey",
+"Bill Rose",
+"Billy Bailey",
+"Billy Rose",
+"W. Axl Rose",
+"W. Rose",
+"WAR",
+"William Axl Rose",
+"William Bruce Bailey",
+"William Bruce Rose",
+"William Rose"
+],
+"links": 66
+},
+{
+"name": "Dizzy Gillespie",
+"aliases": [
+"John Birks Dizzy Gillespie",
+"John Dizzy Gillespie"
+],
+"links": 66
+},
+{
+"name": "Doda",
+"aliases": [
+"Doda Rabczewska",
+"Dorota Aqualiteja Rabczewska",
+"Dorota Rabczewska"
+],
+"links": 66
+},
+{
+"name": "Emmelie de Forest",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Etta James",
+"aliases": [
+"Jamesetta Hawkins",
+"Miss Peaches"
+],
+"links": 66
+},
+{
+"name": "Fan Bingbing",
+"aliases": [
+"Bingbing Fan",
+"Fàn Bīngbīng"
+],
+"links": 66
+},
+{
+"name": "Florence Pugh",
+"aliases": [
+"Florence Rose Pugh"
+],
+"links": 66
+},
+{
+"name": "Iggy Azalea",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Jerry Lee Lewis",
+"aliases": [
+"The Killer"
+],
+"links": 66
+},
+{
+"name": "Lana Turner",
+"aliases": [
+"Judy Turner",
+"Julia Jean Mildred Frances Turner",
+"Julia Jean Turner"
+],
+"links": 66
+},
+{
+"name": "Mary Tyler Moore",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Mira Sorvino",
+"aliases": [
+"Mira Katherine Sorvino"
+],
+"links": 66
+},
+{
+"name": "Mireille Mathieu",
+"aliases": [
+"La Demoiselle d'Avignon",
+"Le Piaf d'Avignon",
+"Mimi"
+],
+"links": 66
+},
+{
+"name": "Nina Badrić",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Roy Orbison",
+"aliases": [
+"Lefty Wilbury",
+"Roy K. Orbison",
+"Roy Kelton Orbison",
+"The Big O",
+"the Big O"
+],
+"links": 66
+},
+{
+"name": "Salvador Sobral",
+"aliases": [
+"Benjamin Cymbra",
+"Salvador Thiam",
+"Salvador Thiam Vilar Braamcamp Sobral",
+"Salvador Vilar Braamcamp Sobral"
+],
+"links": 66
+},
+{
+"name": "Tarkan",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Thom Yorke",
+"aliases": [
+"Thomas Edward Yorke"
+],
+"links": 66
+},
+{
+"name": "Tori Amos",
+"aliases": [
+"Ari Tomos",
+"Ellen Amos",
+"M. Ellen Amos"
+],
+"links": 66
+},
+{
+"name": "Willie Nelson",
+"aliases": [
+"Red Headed Stranger",
+"Shotgun Willie",
+"Willie Hugh Nelson"
+],
+"links": 66
+},
+{
+"name": "Alberto Sordi",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Angelique Kidjo",
+"aliases": [
+"Carmen Kidjo"
+],
+"links": 65
+},
+{
+"name": "Billy Bob Thornton",
+"aliases": [
+"Bud Thornton",
+"William Robert Thornton"
+],
+"links": 65
+},
+{
+"name": "Bleona",
+"aliases": [
+"Bleona Qereti",
+"Madonna of Albania"
+],
+"links": 65
+},
+{
+"name": "Brian Eno",
+"aliases": [
+"Brian Peter George Eno"
+],
+"links": 65
+},
+{
+"name": "Brian Wilson",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Daisy Ridley",
+"aliases": [
+"Daisy Jazz Isobel Ridley"
+],
+"links": 65
+},
+{
+"name": "Dave Mustaine",
+"aliases": [
+"David Mustaine",
+"David S. Mustaine",
+"David Scott Mustaine"
+],
+"links": 65
+},
+{
+"name": "Duncan Laurence",
+"aliases": [
+"Duncan de Moor"
+],
+"links": 65
+},
+{
+"name": "Elisabeth Shue",
+"aliases": [
+"Elisabeth Judson Shue",
+"Lisa Shue"
+],
+"links": 65
+},
+{
+"name": "John Denver",
+"aliases": [
+"Henry John Deutschendorf Jr.",
+"Henry John Deutschendorf, Jr.",
+"John Deutschendorf Jr.",
+"John Deutschendorf, Jr."
+],
+"links": 65
+},
+{
+"name": "Kris Kristofferson",
+"aliases": [
+"Kristoffer Kristofferson"
+],
+"links": 65
+},
+{
+"name": "Michael Palin",
+"aliases": [],
+"links": 65
+},
+{
+"name": "P. Ramlee",
+"aliases": [
+"P Ramlee",
+"P.Ramlee",
+"Puteh Ramlee",
+"Ramlee",
+"Ramlee bin Puteh",
+"Ramlee Puteh",
+"Tan Sri P. Ramlee",
+"Teuku Zakaria bin Teuku Nyak Puteh",
+"Teuku Zakaria Teuku Nyak Puteh"
+],
+"links": 65
+},
+{
+"name": "Paula Abdul",
+"aliases": [
+"Paula Julie Abdul"
+],
+"links": 65
+},
+{
+"name": "Penny Marshall",
+"aliases": [
+"Carole Marshall",
+"Carole Penny Marshall"
+],
+"links": 65
+},
+{
+"name": "Reba McEntire",
+"aliases": [
+"Reba",
+"Reba Mc Entire",
+"Reba Nell McEntire"
+],
+"links": 65
+},
+{
+"name": "Steve Harvey",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Tom Felton",
+"aliases": [
+"Thomas Andrew Felton"
+],
+"links": 65
+},
+{
+"name": "Tom Jones",
+"aliases": [
+"Sir Thomas John Woodward",
+"Sir Thomas Jones Woodward",
+"Thomas John Woodward"
+],
+"links": 65
+},
+{
+"name": "Vasily Smyslov",
+"aliases": [
+"Vasily Vasilyevich Smyslov"
+],
+"links": 65
+},
+{
+"name": "Albert Finney",
+"aliases": [
+"Albert Finney, Jr."
+],
+"links": 64
+},
+{
+"name": "Ava Max",
+"aliases": [
+"Amanda Ava Koci",
+"Amanda Ava Koçi"
+],
+"links": 64
+},
+{
+"name": "Birgit Sarrap",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Charlotte Gainsbourg",
+"aliases": [],
+"links": 64
+},
+{
+"name": "David Hasselhoff",
+"aliases": [
+"David Michael Hasselhoff",
+"The Hoff"
+],
+"links": 64
+},
+{
+"name": "David Ogden Stiers",
+"aliases": [
+"David Allen Ogden Stiers",
+"David Ogden Steers",
+"David Ogden Stires",
+"David Stiers",
+"David Stires"
+],
+"links": 64
+},
+{
+"name": "Demis Roussos",
+"aliases": [
+"Artemios Ventouris-Roussos",
+"Demis"
+],
+"links": 64
+},
+{
+"name": "Jane Birkin",
+"aliases": [
+"Jane Barry",
+"Jane Mallory Barry",
+"Jane Mallory Birkin"
+],
+"links": 64
+},
+{
+"name": "Philipp Kirkorov",
+"aliases": [
+"Filipp Bedros Kirkorov",
+"Filipp Bedrosovich Kirkorov",
+"Filipp Kirkorov",
+"Philipp Bedros Kirkorov",
+"Philipp Bedrosovich Kirkorov"
+],
+"links": 64
+},
+{
+"name": "Sade Adu",
+"aliases": [
+"Helen Folasade Adu",
+"Sade"
+],
+"links": 64
+},
+{
+"name": "V",
+"aliases": [
+"Kim Tae-hyung",
+"Kim Taehyung",
+"Taehyung"
+],
+"links": 64
+},
+{
+"name": "Varg Vikernes",
+"aliases": [
+"Christian Vikernes",
+"Count Grishnackh",
+"Greven",
+"Louis Cachet",
+"The Count",
+"Varg Kvisling Larsson Vikarnes",
+"Varg Kvísling Larsson Víkarnes"
+],
+"links": 64
+},
+{
+"name": "Woody Guthrie",
+"aliases": [
+"Dust Bowl Troubadour",
+"Woodrow W. Guthrie"
+],
+"links": 64
+},
+{
+"name": "Alizée",
+"aliases": [
+"Alizee",
+"Alizee Jacotey",
+"Alizee Lyonnet",
+"Alizée Lyonnet"
+],
+"links": 63
+},
+{
+"name": "Antônio Carlos Jobim",
+"aliases": [
+"AC Jobim",
+"Antonio Carlos Brasileiro de Almeida Jobim",
+"Antonio Carlos Jobim",
+"Antonio Jobim",
+"Antônio Carlos Brasileiro de Almeida Jobim",
+"Jobim",
+"Tom Jobim"
+],
+"links": 63
+},
+{
+"name": "Carlos Mencia",
+"aliases": [
+"Carlos Mencía",
+"Ned Arnel Mencia",
+"Ned Arnel Mencía",
+"Ned Holness",
+"Ned Mencía"
+],
+"links": 63
+},
+{
+"name": "Carmen Electra",
+"aliases": [
+"Tara Leigh Patrick",
+"Tara Patrick"
+],
+"links": 63
+},
+{
+"name": "Danny Jacobs",
+"aliases": [
+"Daniel C. Jacobs",
+"Daniel C. Jacobs, Jr.",
+"Daniel Charles Jacobs",
+"Daniel Charles Jacobs, Jr.",
+"Daniel Jacobs",
+"Daniel Jacobs, Jr.",
+"Danny C. Jacobs",
+"Danny C. Jacobs, Jr.",
+"Danny Charles Jacobs",
+"Danny Charles Jacobs, Jr.",
+"Danny Jacobs, Jr."
+],
+"links": 63
+},
+{
+"name": "Debby Ryan",
+"aliases": [
+"Deborah Ann Ryan"
+],
+"links": 63
+},
+{
+"name": "Dido",
+"aliases": [
+"Florian Cloud de Bounevialle Armstrong"
+],
+"links": 63
+},
+{
+"name": "Dixie Carter",
+"aliases": [
+"Dixie Virginia Carter"
+],
+"links": 63
+},
+{
+"name": "Hattie McDaniel",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Jada Pinkett Smith",
+"aliases": [
+"Jada Koren"
+],
+"links": 63
+},
+{
+"name": "Julie Delpy",
+"aliases": [
+"Julie Delphy"
+],
+"links": 63
+},
+{
+"name": "Mandy Moore",
+"aliases": [
+"Amanda Leigh Moore",
+"Amanda Moore",
+"Mandy Leigh Moore"
+],
+"links": 63
+},
+{
+"name": "Nina Hagen",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Rita Moreno",
+"aliases": [
+"Rosa Dolores Alverio Marcano",
+"Rosita Moreno"
+],
+"links": 63
+},
+{
+"name": "Sasha Grey",
+"aliases": [
+"Anna Karina",
+"Sascha Grey"
+],
+"links": 63
+},
+{
+"name": "Serj Tankian",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Yuri Nikulin",
+"aliases": [
+"Yuri Vladimirovich Nikulin",
+"Yury Vladimirovich Nikulin"
+],
+"links": 63
+},
+{
+"name": "Zemfira",
+"aliases": [
+"Zemfira Ramazanova",
+"Zemfira Talgatovna Ramazanova"
+],
+"links": 63
+},
+{
+"name": "Benny Andersson",
+"aliases": [
+"Benny",
+"Benny Sigvard Andersson",
+"Göran Bror Benny Andersson"
+],
+"links": 62
+},
+{
+"name": "Billy Crystal",
+"aliases": [
+"William Edward Crystal"
+],
+"links": 62
+},
+{
+"name": "Cara Delevingne",
+"aliases": [
+"Cara Delevigne"
+],
+"links": 62
+},
+{
+"name": "Carrie Underwood",
+"aliases": [
+"Carrie Marie Underwood"
+],
+"links": 62
+},
+{
+"name": "Dharius",
+"aliases": [
+"Alan Alejandro Maldonado Tamez",
+"DHA",
+"MC Dharius"
+],
+"links": 62
+},
+{
+"name": "Jo Nesbø",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Lara Fabian",
+"aliases": [
+"Lara Crokaert",
+"Lara Sophie Katy Crokaert"
+],
+"links": 62
+},
+{
+"name": "Lucy Hale",
+"aliases": [
+"Karen Lucille Hale",
+"Lucy Kate Hale"
+],
+"links": 62
+},
+{
+"name": "Michael Bublé",
+"aliases": [
+"Michael Buble",
+"Mickey Bubbles"
+],
+"links": 62
+},
+{
+"name": "Michael Richards",
+"aliases": [
+"Michael A. Richards",
+"Michael Anthony Richards"
+],
+"links": 62
+},
+{
+"name": "Nancy Ajram",
+"aliases": [
+"Nancy Nabil Ajram"
+],
+"links": 62
+},
+{
+"name": "Netta Barzilai",
+"aliases": [
+"Israeli singer",
+"Netta"
+],
+"links": 62
+},
+{
+"name": "Sheryl Crow",
+"aliases": [
+"Sheryl Suzanne Crow"
+],
+"links": 62
+},
+{
+"name": "Victoria Abril",
+"aliases": [
+"Victoria Merida Rojas",
+"Victoria Mérida Rojas"
+],
+"links": 62
+},
+{
+"name": "Walther von der Vogelweide",
+"aliases": [],
+"links": 62
+},
+{
+"name": "Adam Lambert",
+"aliases": [
+"Adam Mitchel Lambert"
+],
+"links": 61
+},
+{
+"name": "Amy Macdonald",
+"aliases": [
+"Amy Elizabeth Macdonald"
+],
+"links": 61
+},
+{
+"name": "Anthony Kiedis",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Björn Ulvaeus",
+"aliases": [
+"Björn",
+"Björn Kristian Ulvaeus"
+],
+"links": 61
+},
+{
+"name": "Carly Rae Jepsen",
+"aliases": [
+"CRJ"
+],
+"links": 61
+},
+{
+"name": "Chow Yun-fat",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Chris Cornell",
+"aliases": [
+"Christopher J. Cornell",
+"Christopher John Boyle"
+],
+"links": 61
+},
+{
+"name": "Chris Rea",
+"aliases": [
+"Benny Santini",
+"Christopher Anton Rea",
+"Christopher Rea"
+],
+"links": 61
+},
+{
+"name": "Chuck McCann",
+"aliases": [
+"Charles John Thomas McCann",
+"Charles McCann",
+"Chuck John Thomas McCann"
+],
+"links": 61
+},
+{
+"name": "Debbie Harry",
+"aliases": [
+"Deborah Ann Harry",
+"Deborah Harry"
+],
+"links": 61
+},
+{
+"name": "Dianna Agron",
+"aliases": [
+"Lady Di"
+],
+"links": 61
+},
+{
+"name": "Fermín IV",
+"aliases": [
+"El Maestro de rap"
+],
+"links": 61
+},
+{
+"name": "Françoise Hardy",
+"aliases": [
+"Françoise Madeleine Hardy"
+],
+"links": 61
+},
+{
+"name": "Gary Moore",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Gloria Gaynor",
+"aliases": [],
+"links": 61
+},
+{
+"name": "John Mayer",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Lara Flynn Boyle",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Linda Ronstadt",
+"aliases": [
+"Linda Marie Ronstadt"
+],
+"links": 61
+},
+{
+"name": "Martin Short",
+"aliases": [
+"Martin H. Short",
+"Martin Hayter Short"
+],
+"links": 61
+},
+{
+"name": "Melina Mercouri",
+"aliases": [
+"Maria Amalia Merkouri"
+],
+"links": 61
+},
+{
+"name": "Morrissey",
+"aliases": [
+"Morissey",
+"Moz",
+"Steven Patrick Morrissey"
+],
+"links": 61
+},
+{
+"name": "Neil Diamond",
+"aliases": [
+"Neil Leslie Diamond"
+],
+"links": 61
+},
+{
+"name": "Paul Anka",
+"aliases": [
+"Paul Albert Anka"
+],
+"links": 61
+},
+{
+"name": "Rajinikanth",
+"aliases": [
+"Rajanikanth",
+"Rajini kanth",
+"Sivaji Rao Gaikwad"
+],
+"links": 61
+},
+{
+"name": "Ronald Golias",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Till Lindemann",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Annie Girardot",
+"aliases": [
+"Annie Suzanne Girardot",
+"Annie-Suzanne Girardot",
+"Girardot, Annie"
+],
+"links": 60
+},
+{
+"name": "Asha Bhosle",
+"aliases": [
+"Asha Bhonsale",
+"Asha Bhonsle",
+"Asha Mangeshkar"
+],
+"links": 60
+},
+{
+"name": "Bebe Rexha",
+"aliases": [
+"Bleta Rexha"
+],
+"links": 60
+},
+{
+"name": "Bettina von Arnim",
+"aliases": [
+"Beans Beor",
+"Bettina",
+"Bettina Brentano",
+"Bettine von Arnim",
+"Brentano"
+],
+"links": 60
+},
+{
+"name": "Brenda Song",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Carla Gugino",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Carlos Gardel",
+"aliases": [
+"Charles Gardes",
+"Charles Romuald Gardes"
+],
+"links": 60
+},
+{
+"name": "Carole King",
+"aliases": [
+"Carol Joan Klein"
+],
+"links": 60
+},
+{
+"name": "Charlie Puth",
+"aliases": [
+"Charles Otto Puth Jr.",
+"Charles Puth"
+],
+"links": 60
+},
+{
+"name": "Charlotte Perrelli",
+"aliases": [
+"Anna Jenny Charlotte Jensen Perrelli",
+"Anna Jenny Charlotte Nilsson",
+"Anna Jenny Charlotte Perrelli",
+"Charlotte Nilsson-Perrelli"
+],
+"links": 60
+},
+{
+"name": "Clive Dunn",
+"aliases": [
+"Clive Robert Benjamin Dunn",
+"Robert Bertram Dunn",
+"Robert Dunn"
+],
+"links": 60
+},
+{
+"name": "Dan Aykroyd",
+"aliases": [
+"Daniel Edward Aykroyd"
+],
+"links": 60
+},
+{
+"name": "Domenico Modugno",
+"aliases": [
+"Mimmo Modugno"
+],
+"links": 60
+},
+{
+"name": "Fats Domino",
+"aliases": [
+"Antoine Dominique Domino Jr.",
+"Antoine Domino",
+"Fats",
+"The Fat Man"
+],
+"links": 60
+},
+{
+"name": "Feodor Chaliapin",
+"aliases": [
+"Feodor Chaliapine",
+"Feodor Ivanovich Shaliapin",
+"Feodor Ivanovitch Chaliapin",
+"Feodor Shaliapin",
+"Fiodor Ivanovich Shalyapin",
+"Fyodor Ivanovich Chaliapin",
+"Fyodor Ivanovich Shalyapin",
+"Fyodor Ivanovitch Chaliapin",
+"Theodore Chaliapine"
+],
+"links": 60
+},
+{
+"name": "James Marsden",
+"aliases": [
+"James Paul Marsden"
+],
+"links": 60
+},
+{
+"name": "Jane Russell",
+"aliases": [
+"Ernestine Jane Geraldine Russell",
+"Ernestine Russell"
+],
+"links": 60
+},
+{
+"name": "Jimin",
+"aliases": [
+"Park Ji-min",
+"Park Jimin"
+],
+"links": 60
+},
+{
+"name": "John Lee Hooker",
+"aliases": [],
+"links": 60
+},
+{
+"name": "John Lydon",
+"aliases": [
+"John Joseph Lydon",
+"Johnny Rotten"
+],
+"links": 60
+},
+{
+"name": "Kaliopi",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Lisa Marie Presley",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Lys Assia",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Mandy Patinkin",
+"aliases": [
+"Mandel Bruce Patinkin",
+"Mandy Bruce Patinkin"
+],
+"links": 60
+},
+{
+"name": "Marija Šerifović",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Mark Knopfler",
+"aliases": [
+"Mark Freuder Knopfler"
+],
+"links": 60
+},
+{
+"name": "Meat Loaf",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Mika",
+"aliases": [
+"Michael Holbrook Penniman",
+"Michael Holbrook Penniman Jr.",
+"Michael Holbrook Penniman, Jr.",
+"Michael Penniman"
+],
+"links": 60
+},
+{
+"name": "Muddy Waters",
+"aliases": [
+"McKinley Morganfield"
+],
+"links": 60
+},
+{
+"name": "Naomi Scott",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Nusrat Fateh Ali Khan",
+"aliases": [
+"Nusrat Fateh Ali Khan & Party",
+"Nusrat Fatih Ali Khan",
+"Pervez Fateh Ali Khan"
+],
+"links": 60
+},
+{
+"name": "Oscar Isaac",
+"aliases": [
+"Oscar Isaac Hernández Estrada",
+"Óscar Isaac"
+],
+"links": 60
+},
+{
+"name": "Polina Gagarina",
+"aliases": [
+"Polina Sergeyevna Gagarina"
+],
+"links": 60
+},
+{
+"name": "Richard Chamberlain",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Sanna Nielsen",
+"aliases": [
+"Sanna Viktoria Nielsen"
+],
+"links": 60
+},
+{
+"name": "Víctor Jara",
+"aliases": [
+"Victor Jara",
+"Victor Lidio Jara Mar",
+"Victor Victo"
+],
+"links": 60
+},
+{
+"name": "Wolfram von Eschenbach",
+"aliases": [],
+"links": 60
+},
+{
+"name": "Carmen Miranda",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Celia Cruz",
+"aliases": [
+"Celia Caridad Cruz Alfonso"
+],
+"links": 59
+},
+{
+"name": "Connie Francis",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Faith Hill",
+"aliases": [
+"Audrey Faith McGraw",
+"Audrey Faith Perry"
+],
+"links": 59
+},
+{
+"name": "Glynis Johns",
+"aliases": [
+"Glynis John",
+"Glynnis Johns"
+],
+"links": 59
+},
+{
+"name": "Goran Bregović",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Helena Paparizou",
+"aliases": [
+"Elena Paparizou",
+"Eleni Paparizou"
+],
+"links": 59
+},
+{
+"name": "Isaac Hayes",
+"aliases": [
+"Isaac Lee Hayes Jr."
+],
+"links": 59
+},
+{
+"name": "Jane Lynch",
+"aliases": [
+"Jane M. Lynch"
+],
+"links": 59
+},
+{
+"name": "Joan Jett",
+"aliases": [
+"Jett",
+"Joan Marie Larkin"
+],
+"links": 59
+},
+{
+"name": "John Belushi",
+"aliases": [
+"John Adam Belushi"
+],
+"links": 59
+},
+{
+"name": "Juan Rulfo",
+"aliases": [
+"J. Rulfo",
+"Juan Nepomuceno Carlos Perez Rulfo Vizcaino",
+"Juan Rulfo Vizcaino",
+"Juan Rulfo Vizcaíno"
+],
+"links": 59
+},
+{
+"name": "Juliette Lewis",
+"aliases": [
+"Juliette Lake Lewis"
+],
+"links": 59
+},
+{
+"name": "Kang Seul-gi",
+"aliases": [
+"Kang Seulgi",
+"Seul-gi Kang",
+"Seulgi",
+"Seulgi Kang"
+],
+"links": 59
+},
+{
+"name": "Kelly Rowland",
+"aliases": [
+"Kelendria Trene Rowland",
+"Kelly Trene Rowland"
+],
+"links": 59
+},
+{
+"name": "Laura Branigan",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Louis Tomlinson",
+"aliases": [
+"Louis William Tomlinson."
+],
+"links": 59
+},
+{
+"name": "Mary Elizabeth Winstead",
+"aliases": [
+"Mary Winstead"
+],
+"links": 59
+},
+{
+"name": "Maureen O'Hara",
+"aliases": [
+"Maureen FitzSimons Blair"
+],
+"links": 59
+},
+{
+"name": "Meghan Trainor",
+"aliases": [
+"Meghan Elizabeth Trainor"
+],
+"links": 59
+},
+{
+"name": "Nancy Sinatra",
+"aliases": [
+"Nancy Sandra Sinatra"
+],
+"links": 59
+},
+{
+"name": "Rupert Everett",
+"aliases": [
+"Rupert Hector Everett"
+],
+"links": 59
+},
+{
+"name": "Sertab Erener",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Shreya Ghoshal",
+"aliases": [
+"Indian singer"
+],
+"links": 59
+},
+{
+"name": "Sonakshi Sinha",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Stevie Nicks",
+"aliases": [],
+"links": 59
+},
+{
+"name": "Tessa Thompson",
+"aliases": [
+"Tessa Lynne Thompson"
+],
+"links": 59
+},
+{
+"name": "Youssou N’Dour",
+"aliases": [
+"Youssou Ndour",
+"Youssou'n'Dour",
+"Yuusu Nduur"
+],
+"links": 59
+},
+{
+"name": "Awkwafina",
+"aliases": [],
+"links": 58
+},
+{
+"name": "CeeLo Green",
+"aliases": [
+"Cee Lo",
+"Cee Lo Green",
+"Cee-Lo",
+"Cee-Lo Green",
+"Gnarly Davidson",
+"Thomas Callaway"
+],
+"links": 58
+},
+{
+"name": "Cho Jung-seok",
+"aliases": [
+"Cho Jung Seok",
+"Cho Jungseok",
+"Jo Jeong-seok",
+"Jo Jung-suk",
+"Jung-Seok Cho"
+],
+"links": 58
+},
+{
+"name": "Dannii Minogue",
+"aliases": [
+"Danielle Jane Minogue",
+"Danielle Minogue"
+],
+"links": 58
+},
+{
+"name": "Donald Glover",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Inna",
+"aliases": [
+"Elena Alexandra Apostoleanu"
+],
+"links": 58
+},
+{
+"name": "Jaden Smith",
+"aliases": [
+"Jaden"
+],
+"links": 58
+},
+{
+"name": "Jason Alexander",
+"aliases": [
+"Jason Greenspan",
+"Jason Scott Greenspan",
+"Jay Greenspan",
+"Jay Scott Greenspan"
+],
+"links": 58
+},
+{
+"name": "John Legend",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Judy Holliday",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Julia Sanina",
+"aliases": [
+"Yuliia Bebko",
+"Yuliia Oleksandrivna Bebko",
+"Yuliia Sanina",
+"Yuliya Sanina"
+],
+"links": 58
+},
+{
+"name": "Larry the Cable Guy",
+"aliases": [
+"Dan Whitney",
+"Daniel Whitney"
+],
+"links": 58
+},
+{
+"name": "Lily James",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Lily-Rose Depp",
+"aliases": [
+"Lily Rose Melody Depp",
+"Lily-Rose Melody Depp"
+],
+"links": 58
+},
+{
+"name": "Natalie Cole",
+"aliases": [
+"Natalie Maria Cole",
+"Nathalie Cole"
+],
+"links": 58
+},
+{
+"name": "Nick Cave",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Oliver Hardy",
+"aliases": [
+"Babe Hardy",
+"Norvell Hardy",
+"Oliver Norvell Hardy",
+"Ollie Hardy"
+],
+"links": 58
+},
+{
+"name": "Park Chan-yeol",
+"aliases": [
+"Loey",
+"Park Chanyeol"
+],
+"links": 58
+},
+{
+"name": "Patty Duke",
+"aliases": [
+"Anna Marie Duke",
+"Anna Marie-Pearce",
+"Patty Duke Astin",
+"Patty Duke Austin"
+],
+"links": 58
+},
+{
+"name": "Rex Harrison",
+"aliases": [
+"Reginald Carey Harrison",
+"Reginald Harrison",
+"Sir Reginald Carey Harrison",
+"Sir Reginald Harrison",
+"Sir Rex Harrison"
+],
+"links": 58
+},
+{
+"name": "Rosalía",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Sam Cooke",
+"aliases": [
+"Dale Cook",
+"Samuel Cook"
+],
+"links": 58
+},
+{
+"name": "Tarja Turunen",
+"aliases": [
+"Tarja",
+"Tarja Soile Susanna Turunen-Cabuli"
+],
+"links": 58
+},
+{
+"name": "Tim Conway",
+"aliases": [
+"Thomas Conway",
+"Thomas Daniel Conway"
+],
+"links": 58
+},
+{
+"name": "Travis Scott",
+"aliases": [
+"Jacques Bermon Webster",
+"Jacques Webster II"
+],
+"links": 58
+},
+{
+"name": "Alsou",
+"aliases": [
+"Alsou Abramova",
+"Alsou Ralifovna Abramova",
+"Alsou Ralifovna Safina",
+"Alsou Safina"
+],
+"links": 57
+},
+{
+"name": "Ann-Margret",
+"aliases": [
+"Ann Margret Olsson",
+"Ann-Margret Olsson"
+],
+"links": 57
+},
+{
+"name": "Arash",
+"aliases": [
+"Arash Labaf"
+],
+"links": 57
+},
+{
+"name": "Barry Bostwick",
+"aliases": [
+"Barry Knapp Bostwick"
+],
+"links": 57
+},
+{
+"name": "Benny Hill",
+"aliases": [
+"Alfred Hawthorne Hill"
+],
+"links": 57
+},
+{
+"name": "Bessie Smith",
+"aliases": [
+"Empress of the Blues",
+"The Empress of the Blues"
+],
+"links": 57
+},
+{
+"name": "Bill Irwin",
+"aliases": [
+"William Mills Irwin",
+"William Thomas Irwin"
+],
+"links": 57
+},
+{
+"name": "Cher Lloyd",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Cheryl",
+"aliases": [
+"Cheryl Ann Tweedy",
+"Cheryl Cole",
+"Cheryl Fernandez-Versini"
+],
+"links": 57
+},
+{
+"name": "Cliff Richard",
+"aliases": [
+"Harry Rodger Webb",
+"Sir Cliff Richard"
+],
+"links": 57
+},
+{
+"name": "Dana International",
+"aliases": [
+"Dana",
+"Dana Internacional",
+"Sharon Cohen"
+],
+"links": 57
+},
+{
+"name": "Danny Kaye",
+"aliases": [
+"Daniel Kaminsky",
+"David Daniel Kaminsky"
+],
+"links": 57
+},
+{
+"name": "Eddie Vedder",
+"aliases": [
+"Ed Vedder",
+"Eddie Jerome Vedder",
+"Edward Louis Severson III",
+"Edward Mueller"
+],
+"links": 57
+},
+{
+"name": "Emma Bunton",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Estelle Harris",
+"aliases": [
+"Estelle Nussbaum"
+],
+"links": 57
+},
+{
+"name": "Flea",
+"aliases": [
+"Michael Balzary",
+"Michael Peter Balzary"
+],
+"links": 57
+},
+{
+"name": "Geri Halliwell",
+"aliases": [
+"Geri Spice"
+],
+"links": 57
+},
+{
+"name": "Jim Belushi",
+"aliases": [
+"James Adam Belushi",
+"James Belushi",
+"Zee Blues"
+],
+"links": 57
+},
+{
+"name": "Joe Jonas",
+"aliases": [
+"Joseph Adam Jonas",
+"Joseph Jonas"
+],
+"links": 57
+},
+{
+"name": "Julia Louis-Dreyfus",
+"aliases": [
+"Julia Louis",
+"Julia Louis Dreyfus",
+"Julia Scarlett Elizabeth Louis-Dreyfus",
+"Julia Scarlett Elizabeth Louis-Dreyfus Hall"
+],
+"links": 57
+},
+{
+"name": "Karen Black",
+"aliases": [
+"Karen Blanche Black"
+],
+"links": 57
+},
+{
+"name": "Kriti Sanon",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Lauryn Hill",
+"aliases": [
+"L. Boogie",
+"Lauryn Noelle Hill",
+"Ms. Lauryn Hill"
+],
+"links": 57
+},
+{
+"name": "Leighton Meester",
+"aliases": [
+"Leighton Marissa Meester"
+],
+"links": 57
+},
+{
+"name": "Lena Horne",
+"aliases": [
+"Lena Mary Calhoun Horne"
+],
+"links": 57
+},
+{
+"name": "Liam Gallagher",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Madison Beer",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Malin Akerman",
+"aliases": [
+"Malin Maria Akerman"
+],
+"links": 57
+},
+{
+"name": "Melanie Martinez",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Mike Oldfield",
+"aliases": [
+"Michael Oldfield"
+],
+"links": 57
+},
+{
+"name": "Moira Kelly",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Mélanie Laurent",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Niall Horan",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Otis Redding",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Patsy Cline",
+"aliases": [
+"Virginia Patterson Hensley"
+],
+"links": 57
+},
+{
+"name": "Pola Negri",
+"aliases": [
+"Apolonia Chałupiec"
+],
+"links": 57
+},
+{
+"name": "Suga",
+"aliases": [
+"Agust D",
+"Min Yoon-gi",
+"Min Yoongi"
+],
+"links": 57
+},
+{
+"name": "Sylvia Kristel",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Tayanna",
+"aliases": [
+"Tatiana Reshetniak",
+"Tatyana Reshetnyak",
+"Tetyana Reshetnyak"
+],
+"links": 57
+},
+{
+"name": "Terrence Howard",
+"aliases": [
+"Terrence Dashon Howard"
+],
+"links": 57
+},
+{
+"name": "Vanessa Williams",
+"aliases": [
+"Vanessa L. Williams",
+"Vanessa Lynn Williams",
+"Vanessa Lynne Williams"
+],
+"links": 57
+},
+{
+"name": "will.i.am",
+"aliases": [
+"illwilly",
+"Will 1X",
+"Willonex"
+],
+"links": 57
+},
+{
+"name": "Ani Lorak",
+"aliases": [
+"Karolina Kuiek",
+"Karolina Myroslavivna Kuiek"
+],
+"links": 56
+},
+{
+"name": "Anna Karina",
+"aliases": [
+"Anna Mazie Karina",
+"Hanne Bayer",
+"Hanne Karen Blarke Bayer",
+"Hanne Karin Bayer",
+"Hanne Karin Blarke Bayer"
+],
+"links": 56
+},
+{
+"name": "Art Garfunkel",
+"aliases": [
+"Arthur Ira Garfunkel"
+],
+"links": 56
+},
+{
+"name": "Ashlee Simpson",
+"aliases": [
+"Ashlee Nicole Simpson"
+],
+"links": 56
+},
+{
+"name": "Ashley Benson",
+"aliases": [
+"Ashley Victoria Benson"
+],
+"links": 56
+},
+{
+"name": "Austin Butler",
+"aliases": [
+"Austin Robert Butler"
+],
+"links": 56
+},
+{
+"name": "Billy Ray Cyrus",
+"aliases": [
+"William Ray Cyrus"
+],
+"links": 56
+},
+{
+"name": "BoA",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Carrot Top",
+"aliases": [
+"Scott 'Carrot Top' Thompson",
+"Scott Thompson"
+],
+"links": 56
+},
+{
+"name": "Elvis Costello",
+"aliases": [
+"Declan MacManus",
+"Declan Patrick MacManus",
+"Napoleon Dynamite"
+],
+"links": 56
+},
+{
+"name": "Emily Osment",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Fairuz",
+"aliases": [
+"Fairouz",
+"Fayrouz",
+"Fayrūz",
+"Feyrouz",
+"Nouhad Wadie Haddad",
+"Nuhād Wadīʻ Ḥaddād"
+],
+"links": 56
+},
+{
+"name": "Franka Potente",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Israel Kamakawiwoʻole",
+"aliases": [
+"Bruddah Iz",
+"Israel Kaʻanoʻi Kamakawiwoʻole",
+"IZ"
+],
+"links": 56
+},
+{
+"name": "Jimmy Fallon",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Jin",
+"aliases": [
+"Kim Seok-jin",
+"Kim Seokjin"
+],
+"links": 56
+},
+{
+"name": "Kamal Haasan",
+"aliases": [
+"Kamal Hasan",
+"Kamal Hassan",
+"Kamala haasan",
+"Kamala hasan",
+"Kamalahaasan",
+"Kamalhaasn",
+"Kamalhassan",
+"Ulaga Nayagan"
+],
+"links": 56
+},
+{
+"name": "Kazi Nazrul Islam",
+"aliases": [
+"Dukhu Mia",
+"Nazrul",
+"Nazrul Islam"
+],
+"links": 56
+},
+{
+"name": "Komitas",
+"aliases": [
+"Komitas Vardapet",
+"Soghomon Soghomonyan"
+],
+"links": 56
+},
+{
+"name": "Lea Michele",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Leona Lewis",
+"aliases": [
+"Leona Louise Lewis"
+],
+"links": 56
+},
+{
+"name": "Luis Fonsi",
+"aliases": [
+"Luis Alfonso Rodríguez López-Cepero",
+"Luis Rodríguez"
+],
+"links": 56
+},
+{
+"name": "Mahalia Jackson",
+"aliases": [
+"The Queen of Gospel"
+],
+"links": 56
+},
+{
+"name": "Marc Anthony",
+"aliases": [
+"Marco Antonio Muñiz",
+"padrino de Ángela Aguilar"
+],
+"links": 56
+},
+{
+"name": "Mayim Bialik",
+"aliases": [
+"Bialik",
+"Bialik M",
+"Bialik M.",
+"Bialik M. C.",
+"Bialik MC",
+"M Bialik",
+"M C Bialik",
+"M. Bialik",
+"M. C. Bialik",
+"M.C. Bialik",
+"Mayim C Bialik",
+"Mayim C. Bialik",
+"Mayim Chaya Bialik"
+],
+"links": 56
+},
+{
+"name": "Megan Thee Stallion",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Michel Legrand",
+"aliases": [
+"Michel Jean Legrand",
+"Mig Bike"
+],
+"links": 56
+},
+{
+"name": "Ne-Yo",
+"aliases": [
+"Gogo",
+"Shaffer Chimere Smith"
+],
+"links": 56
+},
+{
+"name": "Noël Coward",
+"aliases": [
+"Noel Coward",
+"Noel Peirce Coward",
+"Noel Pierce Coward",
+"Noël Peirce Coward",
+"Sir Coward",
+"Sir Noel Coward",
+"Sir Noël Coward",
+"Sir Noël Peirce Coward"
+],
+"links": 56
+},
+{
+"name": "Otto Sander",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Pete Townshend",
+"aliases": [
+"Peter Dennis Blandford Townshend",
+"Peter Townshend"
+],
+"links": 56
+},
+{
+"name": "Richard Wright",
+"aliases": [
+"Richard William Wright",
+"Rick Wright"
+],
+"links": 56
+},
+{
+"name": "RM",
+"aliases": [
+"Kim Nam-joon",
+"Rap Monster",
+"Real Me"
+],
+"links": 56
+},
+{
+"name": "Susanne Blakeslee",
+"aliases": [
+"Susan Ann Blakeslee",
+"Susan Ann Blakesley",
+"Susan Anne Blakeslee",
+"Susan Anne Blakesley",
+"Susan Blakeslee",
+"Susan Blakesley",
+"Susanne Ann Blakeslee",
+"Susanne Ann Blakesley",
+"Susanne Anne Blakeslee",
+"Susanne Anne Blakesley",
+"Susanne Blakesley",
+"Suzanne Ann Blakeslee",
+"Suzanne Ann Blakesley",
+"Suzanne Anne Blakeslee",
+"Suzanne Anne Blakesley",
+"Suzanne Blakeslee",
+"Suzanne Blakesley"
+],
+"links": 56
+},
+{
+"name": "Tom Petty",
+"aliases": [
+"Charlie T. Jnr Wilbury",
+"Charlie T. Wilbury Jr.",
+"Muddy Wilbury",
+"Thomas Earl Petty"
+],
+"links": 56
+},
+{
+"name": "Walter Brennan",
+"aliases": [
+"Walter Andrew Brennan"
+],
+"links": 56
+},
+{
+"name": "Willow Smith",
+"aliases": [
+"WILLOW",
+"Willow Camille Reign Smith"
+],
+"links": 56
+},
+{
+"name": "Zoë Kravitz",
+"aliases": [
+"Zoe Kravitz",
+"Zoë Isabella Kravitz"
+],
+"links": 56
+},
+{
+"name": "AnnaSophia Robb",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Brandy Norwood",
+"aliases": [
+"B Rocka",
+"Bran' Nu",
+"Brandy",
+"Brandy Rayana Norwood"
+],
+"links": 55
+},
+{
+"name": "Bulat Okudzhava",
+"aliases": [
+"Bulat Okujava",
+"Bulat Shalvovich Okudzhava"
+],
+"links": 55
+},
+{
+"name": "Burt Bacharach",
+"aliases": [
+"Burt F. Bacharach",
+"Burt Freeman Bacharach"
+],
+"links": 55
+},
+{
+"name": "Chet Baker",
+"aliases": [
+"Baker Jr.",
+"Chep",
+"Chesney Henry Baker, Jr.",
+"Pop"
+],
+"links": 55
+},
+{
+"name": "Daddy Yankee",
+"aliases": [
+"El Cangri",
+"Ramón Ayala",
+"Ramón Luis Ayala Rodríguez",
+"The Big Boss",
+"Winchester",
+"Winchester Yankee"
+],
+"links": 55
+},
+{
+"name": "David Coverdale",
+"aliases": [
+"David Jack Coverdale"
+],
+"links": 55
+},
+{
+"name": "Don Johnson",
+"aliases": [
+"Donny Wayne Johnson"
+],
+"links": 55
+},
+{
+"name": "Edyta Górniak",
+"aliases": [
+"Edita Gurniac",
+"Edyta Gorniak"
+],
+"links": 55
+},
+{
+"name": "Ethel Merman",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Fela Kuti",
+"aliases": [
+"Abami Eda",
+"Abàmì Ẹ̀dá",
+"Fela",
+"Fela Anikulapo Kuti",
+"Fela Anikulapo-Kuti",
+"Fela Aníkúlápó Kuti",
+"Fela Kuti & Afrika 70",
+"Olufela Olusegun Oludotun Ransome-Kuti"
+],
+"links": 55
+},
+{
+"name": "Ian Gillan",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Idina Menzel",
+"aliases": [
+"Idina Kim Menzel"
+],
+"links": 55
+},
+{
+"name": "Indila",
+"aliases": [
+"Adila Sedraïa"
+],
+"links": 55
+},
+{
+"name": "Irene Papas",
+"aliases": [
+"Irene Lelekou",
+"Irene Pappas",
+"Lelekou Irene",
+"Pappas Irene"
+],
+"links": 55
+},
+{
+"name": "Jeff Bennett",
+"aliases": [
+"Jeff Glen Bennett",
+"Jeff Glenn Bennett",
+"Jeffrey Bennett",
+"Jeffrey Glen Bennett",
+"Jeffrey Glenn Bennett"
+],
+"links": 55
+},
+{
+"name": "Joe Dassin",
+"aliases": [
+"Joseph Dassin",
+"Joseph Ira Dassin"
+],
+"links": 55
+},
+{
+"name": "Joe Hisaishi",
+"aliases": [
+"Mamoru Fujisawa"
+],
+"links": 55
+},
+{
+"name": "Joe Satriani",
+"aliases": [
+"Joseph Satriani"
+],
+"links": 55
+},
+{
+"name": "João Gilberto",
+"aliases": [
+"João Gilberto Prado Pereira de Oliveira"
+],
+"links": 55
+},
+{
+"name": "Katie Cassidy",
+"aliases": [
+"Katherine Cassidy",
+"Katie Cassidy Rodgers"
+],
+"links": 55
+},
+{
+"name": "Katie Melua",
+"aliases": [
+"Ketevan Melua"
+],
+"links": 55
+},
+{
+"name": "Lil Nas X",
+"aliases": [
+"Lil Nas",
+"Montero Hill",
+"Montero Lamar Hill",
+"Nas X"
+],
+"links": 55
+},
+{
+"name": "Marco Mengoni",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Matt Bellamy",
+"aliases": [
+"care rata",
+"Matthew James Bellamy"
+],
+"links": 55
+},
+{
+"name": "Paul Robeson",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Rachel Zegler",
+"aliases": [
+"Rachel Anne Zegler"
+],
+"links": 55
+},
+{
+"name": "Rosalind Russell",
+"aliases": [
+"Catherine Rosalind Russell"
+],
+"links": 55
+},
+{
+"name": "Sarah Brightman",
+"aliases": [],
+"links": 55
+},
+{
+"name": "Tiffany Trump",
+"aliases": [
+"Tiffany Ariana Trump"
+],
+"links": 55
+},
+{
+"name": "Toni Braxton",
+"aliases": [
+"Toni Michele Braxton",
+"Toni Michelle Braxton"
+],
+"links": 55
+},
+{
+"name": "Udo Jürgens",
+"aliases": [
+"Udo Juergens",
+"Udo Jürgen Bockelmann"
+],
+"links": 55
+},
+{
+"name": "Vera Lynn",
+"aliases": [
+"Dame Vera Lynn",
+"Dame Vera Margaret Lynn"
+],
+"links": 55
+},
+{
+"name": "Amr Diab",
+"aliases": [
+"Amr Abdel Basset Abdel Azeez Diab",
+"Amr Abdelbaset Abdelaziz Diab",
+"Elhadaba"
+],
+"links": 54
+},
+{
+"name": "Barry White",
+"aliases": [
+"Barry Eugene Carter",
+"Barry Eugene White"
+],
+"links": 54
+},
+{
+"name": "Bea Arthur",
+"aliases": [
+"Beatrice Arthur"
+],
+"links": 54
+},
+{
+"name": "Beck",
+"aliases": [
+"Beck David Hansen",
+"Beck Hansen",
+"Bek David Campbell"
+],
+"links": 54
+},
+{
+"name": "Billy Idol",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Bob Geldof",
+"aliases": [
+"Robert Frederick Zenon Geldof"
+],
+"links": 54
+},
+{
+"name": "Carmen Amaya",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Carol Burnett",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Dieter Bohlen",
+"aliases": [
+"Chris Norman Project",
+"David Bernhardt",
+"Dieter Günter Bohlen",
+"Fabricio Bastino",
+"Günter Dieter Bohlen",
+"Indian '94",
+"Major T",
+"Power Tower Production London",
+"René D'Angelo",
+"Ryan Simmons",
+"Steve Benson"
+],
+"links": 54
+},
+{
+"name": "Dionne Warwick",
+"aliases": [
+"Dionne Warwicke"
+],
+"links": 54
+},
+{
+"name": "Ewa Farna",
+"aliases": [
+"Ewa Chobot"
+],
+"links": 54
+},
+{
+"name": "George Burns",
+"aliases": [
+"George N. Burns"
+],
+"links": 54
+},
+{
+"name": "Gloria Grahame",
+"aliases": [
+"Gloria Grahame Hallward"
+],
+"links": 54
+},
+{
+"name": "Irene",
+"aliases": [
+"Bae Joo-hyun",
+"Bae Joohyun",
+"Irene Bae",
+"Joo-hyun Bae",
+"Joohyun Bae"
+],
+"links": 54
+},
+{
+"name": "Irene Dunne",
+"aliases": [
+"Irene Dunn",
+"Irene Marie Dunn"
+],
+"links": 54
+},
+{
+"name": "Jeff Garlin",
+"aliases": [
+"Jeffrey Todd Garlin"
+],
+"links": 54
+},
+{
+"name": "Jonathan Rhys Meyers",
+"aliases": [
+"Jonathan Michael Francis O'Keeffe"
+],
+"links": 54
+},
+{
+"name": "Karen Carpenter",
+"aliases": [
+"Karen Anne Carpenter"
+],
+"links": 54
+},
+{
+"name": "Kim Wilde",
+"aliases": [
+"Kim Smith"
+],
+"links": 54
+},
+{
+"name": "M.I.A.",
+"aliases": [
+"M. I. A.",
+"Mathangi Arulpragasam",
+"Maya Arulpragasam"
+],
+"links": 54
+},
+{
+"name": "Mike Dirnt",
+"aliases": [
+"Michael Pritchard",
+"Michael Ryan Pritchard"
+],
+"links": 54
+},
+{
+"name": "Mohammed Rafi",
+"aliases": [
+"Mohammad Rafi",
+"Mohd Rafi",
+"Mohd. Rafi",
+"Muhammad Rafi",
+"Muhammed Rafi",
+"Rafi"
+],
+"links": 54
+},
+{
+"name": "Naya Rivera",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Nico",
+"aliases": [
+"Christa Nico",
+"Christa Päffgen",
+"Nico Otzak",
+"Nico Päffgen"
+],
+"links": 54
+},
+{
+"name": "Nikki Reed",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Ofra Haza",
+"aliases": [
+"Bat-Sheva Haza",
+"Bat-Sheva Ofra Haza",
+"Bat-Sheva Ofra Haza-Ashkenazi",
+"Haza, Ofra",
+"Ofra Chaza",
+"Ofra Hasa"
+],
+"links": 54
+},
+{
+"name": "Peggy Lee",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Ray Manzarek",
+"aliases": [
+"Raymond Daniel Manczarek",
+"Raymond Daniel Manzarek",
+"Raymond Manzarek"
+],
+"links": 54
+},
+{
+"name": "Roberta Flack",
+"aliases": [
+"Roberta Cleopatra Flack"
+],
+"links": 54
+},
+{
+"name": "Shirley Bassey",
+"aliases": [
+"Dame Shirley Veronica Bassey"
+],
+"links": 54
+},
+{
+"name": "Shirley Jones",
+"aliases": [
+"Shirley Mae Jones"
+],
+"links": 54
+},
+{
+"name": "Shruti Haasan",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Steve Harris",
+"aliases": [
+"Stephen Percy Harris"
+],
+"links": 54
+},
+{
+"name": "Til Schweiger",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Trey Parker",
+"aliases": [
+"Randolph Parker",
+"Randolph Severn Parker",
+"Randolph Severn Parker III"
+],
+"links": 54
+},
+{
+"name": "Troye Sivan",
+"aliases": [
+"Troye Sivan Mellet"
+],
+"links": 54
+},
+{
+"name": "Twiggy",
+"aliases": [
+"Dame Lesley Lawson",
+"Lesley Hornby",
+"Lesley Lawson",
+"Twiggy Lawson"
+],
+"links": 54
+},
+{
+"name": "Victoria Silvstedt",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Anne-Marie",
+"aliases": [
+"Anne-Marie Nicholson",
+"Anne-Marie Rose Nicholson"
+],
+"links": 53
+},
+{
+"name": "Charles Fleischer",
+"aliases": [
+"Charlie Fleischer"
+],
+"links": 53
+},
+{
+"name": "Chevy Chase",
+"aliases": [
+"Cornelius Chase",
+"Cornelius Crane Chase"
+],
+"links": 53
+},
+{
+"name": "David Crosby",
+"aliases": [
+"David Van Cortlandt Crosby"
+],
+"links": 53
+},
+{
+"name": "Ezra Miller",
+"aliases": [
+"Ezra Matthew Miller"
+],
+"links": 53
+},
+{
+"name": "Falco",
+"aliases": [
+"Hans Hölzel",
+"Johann Hölzel",
+"White Duke"
+],
+"links": 53
+},
+{
+"name": "Gigliola Cinquetti",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Gregory Hines",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Ian Curtis",
+"aliases": [
+"Ian Kevin Curtis"
+],
+"links": 53
+},
+{
+"name": "Ilona Staller",
+"aliases": [
+"Elena Mercuri",
+"Elena Mercury",
+"Ilona Staller Koons",
+"La Cicciolina"
+],
+"links": 53
+},
+{
+"name": "J-Hope",
+"aliases": [
+"Jung Ho-seok",
+"Jung Hoseok"
+],
+"links": 53
+},
+{
+"name": "Jason Derulo",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Jessie Buckley",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Jim Meskimen",
+"aliases": [
+"James Meskimen",
+"James R. Meskimen",
+"Jim R. Meskimen",
+"Jim Ross Meskimen"
+],
+"links": 53
+},
+{
+"name": "Johannes Heesters",
+"aliases": [
+"Johan Marius Nicolaas Heesters",
+"Jopi Heesters",
+"Jopie Heesters"
+],
+"links": 53
+},
+{
+"name": "Matti Nykänen",
+"aliases": [
+"Matti Ensio Nykänen",
+"Matti Ensio Paanala",
+"Matti Paanala"
+],
+"links": 53
+},
+{
+"name": "Melissa Joan Hart",
+"aliases": [
+"Melissa Joan Catherine Hart"
+],
+"links": 53
+},
+{
+"name": "Mercedes Sosa",
+"aliases": [
+"Haydee Mercedes Sosa",
+"Haydée Mercedes Sosa",
+"La Negra."
+],
+"links": 53
+},
+{
+"name": "Minnie Driver",
+"aliases": [
+"Amelia Fiona Driver",
+"Amelia Fiona Jessica Driver",
+"Amelia Fiona Minnie Driver"
+],
+"links": 53
+},
+{
+"name": "Natasha Korolyova",
+"aliases": [
+"Natalia Koroleva",
+"Nataliya Korolyova",
+"Nataliya Vladimirovna Korolyova",
+"Natasha Koroleva"
+],
+"links": 53
+},
+{
+"name": "Patrick Wilson",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Patti Page",
+"aliases": [
+"Clara Ann Fowler"
+],
+"links": 53
+},
+{
+"name": "Rosie O'Donnell",
+"aliases": [
+"Roseann O'Donnell",
+"Roseann Teresa O'Donnell",
+"Roseanne Teresa O'Donnell"
+],
+"links": 53
+},
+{
+"name": "Sarah Silverman",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Sezen Aksu",
+"aliases": [
+"Fatma Sezen Yıldırım",
+"Queen of Turkish Pop",
+"Sezen Seley"
+],
+"links": 53
+},
+{
+"name": "Shōkō Asahara",
+"aliases": [
+"Asahara Shoko",
+"Asahara Shōkō",
+"Chizuo Matsumoto",
+"Matsumoto Chizuo",
+"Shoko Asahara"
+],
+"links": 53
+},
+{
+"name": "Tyrese Gibson",
+"aliases": [
+"Tyrese",
+"Tyrese Darnell Gibson"
+],
+"links": 53
+},
+{
+"name": "Van Morrison",
+"aliases": [
+"George Ivan Morrison",
+"George Morrison",
+"Ivan Morrison",
+"Sir George Ivan Morrison",
+"Sir George Morrison",
+"Van the Man"
+],
+"links": 53
+},
+{
+"name": "6ix9ine",
+"aliases": [
+"Daniel Hernandez",
+"Six Nine",
+"Tekashi",
+"Tekashi 69",
+"Tekashi 6ix9ine",
+"Tekashi69",
+"Wallah Dan"
+],
+"links": 52
+},
+{
+"name": "Alex Turner",
+"aliases": [
+"Alex",
+"Alexander David Turner"
+],
+"links": 52
+},
+{
+"name": "Amália Rodrigues",
+"aliases": [
+"Amalia Rodrigues",
+"Amália da Piedade Rebordão Rodrigues",
+"Amália da Piedade Rodrigues",
+"Queen of Fado"
+],
+"links": 52
+},
+{
+"name": "Andy Samberg",
+"aliases": [
+"Andrew David Samberg",
+"David Andrew J. Samberg"
+],
+"links": 52
+},
+{
+"name": "Astrud Gilberto",
+"aliases": [
+"Astrud Evangelina Weinert"
+],
+"links": 52
+},
+{
+"name": "Ben E. King",
+"aliases": [
+"Ben E King",
+"Ben King",
+"Benjamin Earl King",
+"Benjamin Earl Nelson"
+],
+"links": 52
+},
+{
+"name": "Bill Haley",
+"aliases": [
+"William John Clifton Haley"
+],
+"links": 52
+},
+{
+"name": "Birdy",
+"aliases": [
+"Jasmine Van Den Bogaerde",
+"Jasmine van den Bogaerde"
+],
+"links": 52
+},
+{
+"name": "Bourvil",
+"aliases": [
+"Andre Bourvil",
+"Andre Robert Raimbourg",
+"André Bourvil"
+],
+"links": 52
+},
+{
+"name": "Bridgit Mendler",
+"aliases": [
+"Bridgit Claire Mendler"
+],
+"links": 52
+},
+{
+"name": "Cass Elliot",
+"aliases": [
+"Ellen Naomi Cohen",
+"Mama Cass",
+"Mama Cass Elliot"
+],
+"links": 52
+},
+{
+"name": "Chaka Khan",
+"aliases": [
+"Rufus & Chaka Khan"
+],
+"links": 52
+},
+{
+"name": "Chris Colfer",
+"aliases": [
+"Christopher Paul Colfer"
+],
+"links": 52
+},
+{
+"name": "Chris Hardwick",
+"aliases": [
+"Christopher Ryan Hardwick"
+],
+"links": 52
+},
+{
+"name": "Christina Grimmie",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Dante",
+"aliases": [
+"Dante Bonfim Costa Santos"
+],
+"links": 52
+},
+{
+"name": "Edie McClurg",
+"aliases": [
+"Edith Marie McClurg"
+],
+"links": 52
+},
+{
+"name": "Glenn Frey",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Grace Jones",
+"aliases": [
+"Jones"
+],
+"links": 52
+},
+{
+"name": "Gracie Abrams",
+"aliases": [
+"Gracie Madigan Abrams"
+],
+"links": 52
+},
+{
+"name": "Hanna Schygulla",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Jeff Buckley",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Jennette McCurdy",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Johnny Logan",
+"aliases": [
+"Sean Sherrard",
+"Seán Patrick Michael Sherrard",
+"Seán Patrick Michael Sherrard O'Hagan"
+],
+"links": 52
+},
+{
+"name": "Jordin Sparks",
+"aliases": [
+"Jordin Brianna Sparks"
+],
+"links": 52
+},
+{
+"name": "Kim Soo-hyun",
+"aliases": [
+"Kim Soo Hyun",
+"Kim Su-hyeon",
+"Kim Su-hyun",
+"Kim Su-hyŏn"
+],
+"links": 52
+},
+{
+"name": "Lyubov Orlova",
+"aliases": [
+"Lyubov Petrovna Orlova"
+],
+"links": 52
+},
+{
+"name": "Macklemore",
+"aliases": [
+"Ben Haggerty",
+"Benjamin Hammond Hagerty"
+],
+"links": 52
+},
+{
+"name": "Patricia Kaas",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Perry Como",
+"aliases": [
+"Pierino Ronald"
+],
+"links": 52
+},
+{
+"name": "PJ Harvey",
+"aliases": [
+"Polly Jean Harvey"
+],
+"links": 52
+},
+{
+"name": "Rashida Jones",
+"aliases": [
+"Rashida Leah Jones"
+],
+"links": 52
+},
+{
+"name": "Rosario Dawson",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Rose McGowan",
+"aliases": [
+"Rósa Arianna McGowan"
+],
+"links": 52
+},
+{
+"name": "RuPaul",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Sakis Rouvas",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Sofia Carson",
+"aliases": [
+"Sofía",
+"Sofía Daccarett Char"
+],
+"links": 52
+},
+{
+"name": "Alexandra David-Néel",
+"aliases": [
+"Alexandra David-Neel",
+"Louise Davidjjgh"
+],
+"links": 51
+},
+{
+"name": "Asia Argento",
+"aliases": [
+"Asia Aria Anna Maria Vittoria Rossa Argento"
+],
+"links": 51
+},
+{
+"name": "Bae Suzy",
+"aliases": [
+"Bae Su-ji",
+"Suzy"
+],
+"links": 51
+},
+{
+"name": "Bryan Ferry",
+"aliases": [
+"Brian Ferry"
+],
+"links": 51
+},
+{
+"name": "Charles Boyer",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Chris Farley",
+"aliases": [
+"Chris Crosby Farley",
+"Christopher Crosby Farley",
+"Christopher Farley"
+],
+"links": 51
+},
+{
+"name": "Ciara",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Cybill Shepherd",
+"aliases": [
+"Cybill Lynne Shepherd"
+],
+"links": 51
+},
+{
+"name": "Daron Malakian",
+"aliases": [
+"Daron Vartan Malakian"
+],
+"links": 51
+},
+{
+"name": "Dick Van Dyke",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Dolores del Río",
+"aliases": [
+"María de los Dolores Asúnsolo y López Negrete"
+],
+"links": 51
+},
+{
+"name": "Duffy",
+"aliases": [
+"Aimee Anne Duffy",
+"Amie Ann Duffy"
+],
+"links": 51
+},
+{
+"name": "Elizabeth Gillies",
+"aliases": [
+"Elizabeth Egan Gillies",
+"Liz Gillies"
+],
+"links": 51
+},
+{
+"name": "Erykah Badu",
+"aliases": [
+"Erica Wright"
+],
+"links": 51
+},
+{
+"name": "Garth Brooks",
+"aliases": [
+"Troyal Garth Brooks"
+],
+"links": 51
+},
+{
+"name": "Harry Dean Stanton",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Ike Turner",
+"aliases": [
+"Eki Renrut",
+"Icky Renrut",
+"Ike Wister Turner",
+"Izear Luster Turner Jr."
+],
+"links": 51
+},
+{
+"name": "Jack White",
+"aliases": [
+"Blind Jack Lazarus",
+"Jack Doc Gillis",
+"Jack III White",
+"John Anthony White né Gillis",
+"John S. O'Leary",
+"Tall Poppy Red",
+"Whip Triplet"
+],
+"links": 51
+},
+{
+"name": "Jamie Lynn Spears",
+"aliases": [
+"Jamie Lynn Marie Spears",
+"Jamie Spears"
+],
+"links": 51
+},
+{
+"name": "Jason Mraz",
+"aliases": [
+"Jason Thomas Mraz"
+],
+"links": 51
+},
+{
+"name": "Jelena Karleuša",
+"aliases": [
+"Jelena Karleuša Tošić"
+],
+"links": 51
+},
+{
+"name": "Jemaine Clement",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Josh Groban",
+"aliases": [
+"Joshua Groban",
+"Joshua Winslow Groban"
+],
+"links": 51
+},
+{
+"name": "Julie Newmar",
+"aliases": [],
+"links": 51
+},
+{
+"name": "June Allyson",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Karol G",
+"aliases": [
+"Carolina Giraldo Navarro"
+],
+"links": 51
+},
+{
+"name": "Keke Palmer",
+"aliases": [
+"Keke",
+"Lauren Keyana Palmer",
+"Lauren Palmer"
+],
+"links": 51
+},
+{
+"name": "Khaled",
+"aliases": [
+"Cheb Khaled",
+"Khaled Hadj Brahim",
+"Khaled Hadj Ibrahim",
+"Shāb Ḵālid"
+],
+"links": 51
+},
+{
+"name": "Lauren Graham",
+"aliases": [
+"Lauren Helen Graham"
+],
+"links": 51
+},
+{
+"name": "Laurie Anderson",
+"aliases": [
+"Laura Phillips Anderson"
+],
+"links": 51
+},
+{
+"name": "Luke Evans",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Marianne Faithfull",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Marie Fredriksson",
+"aliases": [
+"Gun-Marie Bolyos",
+"Gun-Marie Fredriksson"
+],
+"links": 51
+},
+{
+"name": "Robert Smith",
+"aliases": [
+"Robert James Smith"
+],
+"links": 51
+},
+{
+"name": "Robin Gibb",
+"aliases": [
+"Robin Hugh Gibb"
+],
+"links": 51
+},
+{
+"name": "Rosemary Clooney",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Rufus Wainwright",
+"aliases": [
+"Rufus McGarrigle Wainwright"
+],
+"links": 51
+},
+{
+"name": "Sara Bareilles",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Sarah Vaughan",
+"aliases": [
+"Divine One",
+"Sassie Vaughan",
+"Sassy Vaughan",
+"The Divine One"
+],
+"links": 51
+},
+{
+"name": "Sergey Lazarev",
+"aliases": [
+"Sergey Vyacheslavovich Lazarev"
+],
+"links": 51
+},
+{
+"name": "Shabana Azmi",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Sirusho",
+"aliases": [
+"Siranush Harutyunyan"
+],
+"links": 51
+},
+{
+"name": "Sophie Monk",
+"aliases": [
+"Sophie Charlene Akland Monk"
+],
+"links": 51
+},
+{
+"name": "Suzanne Vega",
+"aliases": [],
+"links": 51
+},
+{
+"name": "Taraji P. Henson",
+"aliases": [
+"Taraji Henson",
+"Taraji Penda Henson"
+],
+"links": 51
+},
+{
+"name": "Tia Carrere",
+"aliases": [
+"Althea Janairo",
+"Althea Rae",
+"Althea Rae Duhinio Janairo",
+"Althea Rae Duhinio Janairo,",
+"Althea Rae Janairo",
+"Duhinio Janairo"
+],
+"links": 51
+},
+{
+"name": "Toše Proeski",
+"aliases": [
+"Tose Proeski"
+],
+"links": 51
+},
+{
+"name": "Tyla",
+"aliases": [
+"Queen of Popiano",
+"Tyla Laura Seethal"
+],
+"links": 51
+},
+{
+"name": "Ville Valo",
+"aliases": [
+"Valo",
+"Ville Hermanni Valo",
+"VV"
+],
+"links": 51
+},
+{
+"name": "Walter Huston",
+"aliases": [
+"Walter Thomas Huston"
+],
+"links": 51
+},
+{
+"name": "Yvonne De Carlo",
+"aliases": [
+"Margaret Yvonne Middleton",
+"Peggy Middleton",
+"Peggy Yvonne Middleton",
+"Yvonne deCarlo",
+"Yvonne DeCarlo"
+],
+"links": 51
+},
+{
+"name": "Alida Valli",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Anette Olzon",
+"aliases": [
+"Anette Ingegerd Olsson Husgafvel"
+],
+"links": 50
+},
+{
+"name": "Becky G",
+"aliases": [
+"Becky Gomez"
+],
+"links": 50
+},
+{
+"name": "Bobby McFerrin",
+"aliases": [
+"El Boquerón Tostao",
+"Robert Keith McFerrin",
+"Robert Keith McFerrin, Jr.",
+"Robert McFerrin, Jr."
+],
+"links": 50
+},
+{
+"name": "Bon Scott",
+"aliases": [
+"Ronald Belford Scott"
+],
+"links": 50
+},
+{
+"name": "Boris Christoff",
+"aliases": [
+"Boris Christov",
+"Boris Christow",
+"Boris Hristov",
+"Boris K. Christov",
+"Boris Khristov",
+"Boris Kirilov Christoff",
+"Boris Kirilov Christov",
+"Boris Kirilov Hristov",
+"Boris Kirilov Khristov",
+"Boris Kirilov Kristov"
+],
+"links": 50
+},
+{
+"name": "Boy George",
+"aliases": [
+"Angela Dust",
+"George Alan O'Dowd",
+"George O'Dowd"
+],
+"links": 50
+},
+{
+"name": "Celeste Holm",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Christina Perri",
+"aliases": [
+"Christina Judith Perri"
+],
+"links": 50
+},
+{
+"name": "Darren Criss",
+"aliases": [
+"Darren Everett Criss"
+],
+"links": 50
+},
+{
+"name": "Dermot Mulroney",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Dusty Springfield",
+"aliases": [
+"María Isabel Catalina Bernadette O'Brien",
+"Shann Lana"
+],
+"links": 50
+},
+{
+"name": "Emily Browning",
+"aliases": [
+"Emily Jane Browning"
+],
+"links": 50
+},
+{
+"name": "Esther Williams",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Evanna Lynch",
+"aliases": [
+"Evanna Patricia Lynch"
+],
+"links": 50
+},
+{
+"name": "Golshifteh Farahani",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Helene Fischer",
+"aliases": [
+"Elena Petrovna Fischer",
+"Helene Petrovna Fischer"
+],
+"links": 50
+},
+{
+"name": "Iryna Bilyk",
+"aliases": [
+"Irina Bilyk",
+"Iryna Biłyk",
+"Iryna Mykolayivna Bilyk"
+],
+"links": 50
+},
+{
+"name": "Jamie Campbell Bower",
+"aliases": [
+"James Campbell M Bower",
+"James Metcalfe Campbell Bower",
+"Jamie"
+],
+"links": 50
+},
+{
+"name": "Janelle Monáe",
+"aliases": [
+"Janelle Monae"
+],
+"links": 50
+},
+{
+"name": "Jesse McCartney",
+"aliases": [
+"Jesse Abraham Arthur McCartney"
+],
+"links": 50
+},
+{
+"name": "Joss Stone",
+"aliases": [
+"Joscelyn Eve Stoker",
+"Joscelyn Stoker"
+],
+"links": 50
+},
+{
+"name": "Jóhanna Guðrún Jónsdóttir",
+"aliases": [
+"Johanna Gudrun Jonsdottir",
+"Jóhanna Gudrún Jónsdóttir",
+"Yohanna"
+],
+"links": 50
+},
+{
+"name": "Kate Ryan",
+"aliases": [
+"Katrien Verbeeck"
+],
+"links": 50
+},
+{
+"name": "Kim Jong-hyun",
+"aliases": [
+"Jonghyun",
+"Kim Jong-hyeon"
+],
+"links": 50
+},
+{
+"name": "Leslie Cheung",
+"aliases": [
+"Cheung Fat-chung",
+"Cheung Kwok-wing",
+"Leslie Cheung Kwok-wing",
+"Zhang Guorong"
+],
+"links": 50
+},
+{
+"name": "Loreena McKennitt",
+"aliases": [
+"Loreena Isabel Irene McKennitt"
+],
+"links": 50
+},
+{
+"name": "Loretta Lynn",
+"aliases": [
+"Loretta Webb"
+],
+"links": 50
+},
+{
+"name": "Lulu",
+"aliases": [
+"Lulu Kennedy-Cairns",
+"Marie McDonald McLaughlin Lawrie"
+],
+"links": 50
+},
+{
+"name": "Lyudmila Gurchenko",
+"aliases": [
+"Lyudmila Markovna Gurchenko"
+],
+"links": 50
+},
+{
+"name": "Melissa Benoist",
+"aliases": [
+"Melissa Marie Benoist"
+],
+"links": 50
+},
+{
+"name": "Michelle Branch",
+"aliases": [
+"Michelle Jacquet Branch",
+"Michelle Jacquet Branch-Landau"
+],
+"links": 50
+},
+{
+"name": "Mira Furlan",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Muslim Magomayev",
+"aliases": [
+"Magomayev, Muslim",
+"Muslim Magometovich Magomayev",
+"Muslim Muhammad oghlu Magomayev",
+"Soviet Sinatra"
+],
+"links": 50
+},
+{
+"name": "Noah Cyrus",
+"aliases": [
+"Noah Lindsey Cyrus"
+],
+"links": 50
+},
+{
+"name": "Penn Badgley",
+"aliases": [
+"Penn Dayton Badgley"
+],
+"links": 50
+},
+{
+"name": "Petula Clark",
+"aliases": [
+"Pet Clark",
+"Sally Clark"
+],
+"links": 50
+},
+{
+"name": "Randy Newman",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Richard Kind",
+"aliases": [
+"Richard Bruce Kind"
+],
+"links": 50
+},
+{
+"name": "Rob Zombie",
+"aliases": [
+"Rob Straker",
+"Robert Bartleh Cummings",
+"Robert Cummings"
+],
+"links": 50
+},
+{
+"name": "Russell Brand",
+"aliases": [
+"Russell Edward Brand"
+],
+"links": 50
+},
+{
+"name": "Salif Keita",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Sammy Davis Jr.",
+"aliases": [
+"Samuel George Davis Jr."
+],
+"links": 50
+},
+{
+"name": "Sandie Shaw",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Sanjay Dutt",
+"aliases": [
+"Sanjay Balraj Dutt"
+],
+"links": 50
+},
+{
+"name": "Suzi Quatro",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Tate McRae",
+"aliases": [
+"Tate Rosner McRae",
+"Tatiana Rosner McRae",
+"Tatum Rosner McRae"
+],
+"links": 50
+},
+{
+"name": "Telly Savalas",
+"aliases": [
+"Aristotélis Saválas"
+],
+"links": 50
+},
+{
+"name": "Yann Tiersen",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Yannick Noah",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Zachary Levi",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Andy Williams",
+"aliases": [
+"Howard Andrew Williams"
+],
+"links": 49
+},
+{
+"name": "Burl Ives",
+"aliases": [
+"Burl Icle Ivanhoe Ives"
+],
+"links": 49
+},
+{
+"name": "Carice van Houten",
+"aliases": [
+"Carice Anouk van Houten"
+],
+"links": 49
+},
+{
+"name": "Corry Brokken",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Craig David",
+"aliases": [
+"Craig Ashley David"
+],
+"links": 49
+},
+{
+"name": "Cynthia Erivo",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Gerard Way",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Gilberto Gil",
+"aliases": [
+"Gilberto Passos Gil Moreira"
+],
+"links": 49
+},
+{
+"name": "Ice-T",
+"aliases": [
+"Ice Oscillator",
+"Ice T",
+"Iceberg",
+"Tracy Lauren Marrow",
+"Tracy Marrow"
+],
+"links": 49
+},
+{
+"name": "J Balvin",
+"aliases": [
+"J. Balvin",
+"José Álvaro Osorio Balvín"
+],
+"links": 49
+},
+{
+"name": "Jackson Browne",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Jeremy Zucker",
+"aliases": [
+"Jeremy Scott Zucker"
+],
+"links": 49
+},
+{
+"name": "Juliette Gréco",
+"aliases": [
+"Juliette Greco"
+],
+"links": 49
+},
+{
+"name": "Lim Yoona",
+"aliases": [
+"Im Yoo Na",
+"Im Yoo-na",
+"Im Yoon Ah",
+"Im Yoonah",
+"Im Yun A",
+"Im Yun-a",
+"Im Yun-ah",
+"Im Yuna",
+"Yoona",
+"Yoona Lim"
+],
+"links": 49
+},
+{
+"name": "Lizzo",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Mack Sennett",
+"aliases": [
+"Mack Sennet",
+"Michael Sinnott"
+],
+"links": 49
+},
+{
+"name": "Maluma",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Mango",
+"aliases": [
+"Giuseppe Mango",
+"Pino Mango"
+],
+"links": 49
+},
+{
+"name": "Marc-Antoine Charpentier",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Massiel",
+"aliases": [
+"María de los Ángeles Santamaría"
+],
+"links": 49
+},
+{
+"name": "Meena Kumari",
+"aliases": [
+"Mahjabeen Baro"
+],
+"links": 49
+},
+{
+"name": "Monkhaen Kaenkoon",
+"aliases": [
+"Monkaen Kaenkoon"
+],
+"links": 49
+},
+{
+"name": "Nena",
+"aliases": [
+"Nena Kerner"
+],
+"links": 49
+},
+{
+"name": "Peng Liyuan",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Rajesh Khanna",
+"aliases": [
+"First Superstar of Bollywood",
+"Kaka"
+],
+"links": 49
+},
+{
+"name": "Rebecca Black",
+"aliases": [
+"Rebecca Renee Black"
+],
+"links": 49
+},
+{
+"name": "Redfoo",
+"aliases": [
+"Red Foo",
+"Stephen Gordy",
+"Stephen Kendal Gordy"
+],
+"links": 49
+},
+{
+"name": "Samantha Fox",
+"aliases": [
+"Samantha Karen Fox"
+],
+"links": 49
+},
+{
+"name": "Sarah Hyland",
+"aliases": [
+"Sarah Jane Hyland"
+],
+"links": 49
+},
+{
+"name": "Steven Yeun",
+"aliases": [
+"Yeon Sang-yeop"
+],
+"links": 49
+},
+{
+"name": "Toni Collette",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Verka Serduchka",
+"aliases": [
+"Andriy Mykhailovych Danylko"
+],
+"links": 49
+},
+{
+"name": "Violeta Parra",
+"aliases": [
+"Violeta del Carmen Parra Sandoval"
+],
+"links": 49
+},
+{
+"name": "Wayne Knight",
+"aliases": [
+"Wayne Elliot Knight"
+],
+"links": 49
+},
+{
+"name": "Željko Joksimović",
+"aliases": [
+"Zeljko Joksimovic"
+],
+"links": 49
+},
+{
+"name": "Alan Parsons",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Alicia Witt",
+"aliases": [
+"Alicia Roanne Witt"
+],
+"links": 48
+},
+{
+"name": "Amy Irving",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Betty Grable",
+"aliases": [
+"Elizabeth Ruth Grable"
+],
+"links": 48
+},
+{
+"name": "Bobby Darin",
+"aliases": [
+"Walden Cassotto",
+"Walden R. Cassotto",
+"Walden Robert Cassotto"
+],
+"links": 48
+},
+{
+"name": "Carol Channing",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Corey Taylor",
+"aliases": [
+"Corey Todd Taylor"
+],
+"links": 48
+},
+{
+"name": "David Byrne",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Diana Krall",
+"aliases": [
+"Diana Jean Krall"
+],
+"links": 48
+},
+{
+"name": "Dorothy Dandridge",
+"aliases": [
+"Bessie Mae",
+"Dottie",
+"Dottie Mae",
+"Miss D",
+"The black bomshell"
+],
+"links": 48
+},
+{
+"name": "Elsa Pataky",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Emina Jahoviç",
+"aliases": [
+"Balkan Fairy",
+"Balkan Pop Diva",
+"Balkanska Pop diva",
+"Balkanska vila",
+"Emina",
+"Emina Jahović Sandal",
+"Emina Sandal",
+"Emina Türkcan",
+"Emina Türkcan Sandal",
+"Neo-Otoman Diva",
+"Neootomanska diva",
+"Pop Princess",
+"Pop princeza",
+"Serbian Diva",
+"Serbian Pop Diva",
+"Srpska diva",
+"Srpska Pop diva",
+"YaEmina"
+],
+"links": 48
+},
+{
+"name": "Fanny Cadeo",
+"aliases": [
+"Stefania Cadeo"
+],
+"links": 48
+},
+{
+"name": "Galina Vishnevskaya",
+"aliases": [
+"Galina Pavlovna Vishnevskaya"
+],
+"links": 48
+},
+{
+"name": "George Sanders",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Grant Gustin",
+"aliases": [
+"Thomas Grant Gustin"
+],
+"links": 48
+},
+{
+"name": "Grimes",
+"aliases": [
+"Claire Boucher",
+"Claire Elise Boucher",
+"Claire Élise Boucher",
+"Lizzy Wizzy"
+],
+"links": 48
+},
+{
+"name": "Hadise",
+"aliases": [
+"Hadise Açıkgöz"
+],
+"links": 48
+},
+{
+"name": "JoJo",
+"aliases": [
+"Joanna Levesque",
+"Joanna Noëlle Blagden Levesque"
+],
+"links": 48
+},
+{
+"name": "Jonathan Pryce",
+"aliases": [
+"Sir Jonathan Pryce"
+],
+"links": 48
+},
+{
+"name": "June Carter Cash",
+"aliases": [
+"June Carter",
+"Valerie June Carter Cash"
+],
+"links": 48
+},
+{
+"name": "Karel Gott",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Lil Peep",
+"aliases": [
+"Gustav E. Åhr",
+"Gustav Elijah Åhr",
+"Peep"
+],
+"links": 48
+},
+{
+"name": "LL Cool J",
+"aliases": [
+"James Todd Smith",
+"Ladies Love Cool James"
+],
+"links": 48
+},
+{
+"name": "Maddie Taylor",
+"aliases": [
+"Matthew W. Taylor",
+"Matthew William Taylor"
+],
+"links": 48
+},
+{
+"name": "Manu Chao",
+"aliases": [
+"José Manuel Tomás Arturo Chao",
+"José Manuel Tomás Arturo Chao Ortega",
+"José-Manuel Thomas Arthur Chao",
+"Oscar Tramor"
+],
+"links": 48
+},
+{
+"name": "Mike Epps",
+"aliases": [
+"Michael Elliot Epps"
+],
+"links": 48
+},
+{
+"name": "Mina",
+"aliases": [
+"Baby Gate",
+"Mina Anna Maria Mazzini",
+"Mina Anna Mazzini",
+"Mina Anna Quaini",
+"Mina e la sua orchestra",
+"Mina e la sua orchestra d'archi",
+"Mina Mazzini",
+"Pomodoro"
+],
+"links": 48
+},
+{
+"name": "Natalia Tena",
+"aliases": [
+"Natalia Gastiain Tena",
+"Natalie Tena"
+],
+"links": 48
+},
+{
+"name": "Nemo",
+"aliases": [
+"Nemo Mettler"
+],
+"links": 48
+},
+{
+"name": "Nora Fatehi",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Pat Benatar",
+"aliases": [
+"Patricia Mae Giraldo",
+"Patti Andrzejewski"
+],
+"links": 48
+},
+{
+"name": "Ricky Nelson",
+"aliases": [
+"Eric Hilliard Nelson",
+"Rick Nelson"
+],
+"links": 48
+},
+{
+"name": "Rob Halford",
+"aliases": [
+"Robert John Arthur Halford"
+],
+"links": 48
+},
+{
+"name": "Sayat-Nova",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Sharon den Adel",
+"aliases": [
+"Sharon Janny den Adel"
+],
+"links": 48
+},
+{
+"name": "Sulli",
+"aliases": [
+"Choi Jin-ri",
+"Choi Seol-ri",
+"Seolli",
+"Sulli Choi"
+],
+"links": 48
+},
+{
+"name": "Tina Karol",
+"aliases": [
+"Tetiana Hryhorivna Liberman",
+"Tetiana Liberman",
+"Tetyana Liberman"
+],
+"links": 48
+},
+{
+"name": "Tini Stoessel",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Totò",
+"aliases": [
+"Antonio De Curtis",
+"Toto"
+],
+"links": 48
+},
+{
+"name": "Vincent D'Onofrio",
+"aliases": [
+"Vincent Philip D'Onofrio"
+],
+"links": 48
+},
+{
+"name": "Alesha Dixon",
+"aliases": [
+"Alesha Anjanette Dixon"
+],
+"links": 47
+},
+{
+"name": "Alka Yagnik",
+"aliases": [
+"Alka Yagnik Kapoor"
+],
+"links": 47
+},
+{
+"name": "Amanda Lear",
+"aliases": [
+"Amanda Tapp"
+],
+"links": 47
+},
+{
+"name": "Andy Kaufman",
+"aliases": [
+"Andrew G. Kaufman",
+"Andrew Geoffrey Kaufman"
+],
+"links": 47
+},
+{
+"name": "Belinda Carlisle",
+"aliases": [
+"Belinda Jo Carlisle"
+],
+"links": 47
+},
+{
+"name": "Billy Preston",
+"aliases": [
+"William E. Preston",
+"William Everett Preston",
+"William Preston"
+],
+"links": 47
+},
+{
+"name": "Brian Johnson",
+"aliases": [
+"Brian Francis Johnson"
+],
+"links": 47
+},
+{
+"name": "Brigitte Nielsen",
+"aliases": [
+"Brigitte Stallone"
+],
+"links": 47
+},
+{
+"name": "Carly Simon",
+"aliases": [
+"Carly E. Simon",
+"Carly Elisabeth Simon"
+],
+"links": 47
+},
+{
+"name": "Chyler Leigh",
+"aliases": [
+"Chyler Leigh West"
+],
+"links": 47
+},
+{
+"name": "Claude Rains",
+"aliases": [
+"Claude William Rains",
+"William Claude Rains",
+"William Rains"
+],
+"links": 47
+},
+{
+"name": "Daveigh Chase",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Dimash Qudaibergen",
+"aliases": [
+"Dimash Kudaibergen",
+"Dinmukhamed Kanatuly Kudaibergen",
+"Dinmukhammed Kanatuly Kudaibergen",
+"Dmiash Qudaybergen"
+],
+"links": 47
+},
+{
+"name": "Dinä Ğäripevä",
+"aliases": [
+"Dina Fagimovna Garipova"
+],
+"links": 47
+},
+{
+"name": "Eiza Gonzalez",
+"aliases": [
+"Eiza Gonzalez Reyna"
+],
+"links": 47
+},
+{
+"name": "Eleni Foureira",
+"aliases": [
+"Entela Fureraj"
+],
+"links": 47
+},
+{
+"name": "Elliott Smith",
+"aliases": [
+"Steven Smith"
+],
+"links": 47
+},
+{
+"name": "Emmanuelle Seigner",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Engelbert Humperdinck",
+"aliases": [
+"Arnold George Dorsey",
+"Engelbert",
+"Gerry Dorsey"
+],
+"links": 47
+},
+{
+"name": "Francesco Gabbani",
+"aliases": [],
+"links": 47
+},
+{
+"name": "George Benson",
+"aliases": [],
+"links": 47
+},
+{
+"name": "George Jones",
+"aliases": [
+"Glen Patterson"
+],
+"links": 47
+},
+{
+"name": "Hans Krankl",
+"aliases": [
+"Johann Krankl"
+],
+"links": 47
+},
+{
+"name": "Hans Sachs",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Hildegard Knef",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Irene Cara",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Isabela Merced",
+"aliases": [
+"Isabela Moner",
+"Isabela Yolanda Moner",
+"Isabela Yolanda Moner Pizarro"
+],
+"links": 47
+},
+{
+"name": "Jimmy Cliff",
+"aliases": [],
+"links": 47
+},
+{
+"name": "JJ",
+"aliases": [
+"JJ Pietsch",
+"Johannes Pietsch"
+],
+"links": 47
+},
+{
+"name": "José Feliciano",
+"aliases": [
+"Jose Feliciano",
+"Jose Montserrate Feliciano Garcia",
+"José Montserrate Feliciano García"
+],
+"links": 47
+},
+{
+"name": "Keri Hilson",
+"aliases": [
+"Keri Lynn Hilson",
+"Kerí"
+],
+"links": 47
+},
+{
+"name": "Kevin Jonas",
+"aliases": [
+"Paul Kevin Jonas II"
+],
+"links": 47
+},
+{
+"name": "Kristin Chenoweth",
+"aliases": [
+"Kristi Dawn Chenoweth",
+"Kristin Dawn Chenoweth"
+],
+"links": 47
+},
+{
+"name": "Layne Staley",
+"aliases": [
+"Layne Rutherford Staley",
+"Layne Thomas Staley",
+"Llayne Staley"
+],
+"links": 47
+},
+{
+"name": "Lidia Ruslanova",
+"aliases": [
+"Lidia Andreyevna Ruslanova",
+"Lidiya Andreyevna Ruslanova"
+],
+"links": 47
+},
+{
+"name": "Linda McCartney",
+"aliases": [
+"Linda Eastman",
+"Linda Eastman McCartney",
+"Linda Louise McCartney",
+"McCartney, Linda, 1941-1998"
+],
+"links": 47
+},
+{
+"name": "Malena Ernman",
+"aliases": [
+"Sara Ernman",
+"Sara Magdalena Ernman"
+],
+"links": 47
+},
+{
+"name": "Manu Dibango",
+"aliases": [
+"Emmanuel N'Djoké Dibango",
+"Jr. Dibbs"
+],
+"links": 47
+},
+{
+"name": "Mario Lanza",
+"aliases": [
+"Alfred Arnold Cocozza",
+"Alfredo Arnold Cocozza"
+],
+"links": 47
+},
+{
+"name": "Mckenna Grace",
+"aliases": [
+"Mckenna Burge",
+"Mckenna Grace Burge"
+],
+"links": 47
+},
+{
+"name": "Melanie Brown",
+"aliases": [
+"Melanie Gulzar"
+],
+"links": 47
+},
+{
+"name": "Molly Ringwald",
+"aliases": [
+"Molly Kathleen Ringwald"
+],
+"links": 47
+},
+{
+"name": "Nick Carter",
+"aliases": [
+"Nickolas Gene Carter"
+],
+"links": 47
+},
+{
+"name": "Nick Drake",
+"aliases": [
+"Nicholas Drake",
+"Nicholas Rodney Drake"
+],
+"links": 47
+},
+{
+"name": "Nicole",
+"aliases": [
+"Nicole Augenblicke",
+"Nicole Seibert"
+],
+"links": 47
+},
+{
+"name": "Parker Posey",
+"aliases": [
+"Parker Christian Posey"
+],
+"links": 47
+},
+{
+"name": "Paulina Rubio",
+"aliases": [
+"Criolla Madonna",
+"El Huracán Mexicano",
+"La Chica Dorada",
+"Paulina Susana Rubio Dosamantes",
+"Reina del Pop Latino"
+],
+"links": 47
+},
+{
+"name": "Peter Tosh",
+"aliases": [
+"Peter McIntosh",
+"Winston Hubert McIntosh"
+],
+"links": 47
+},
+{
+"name": "Pixie Lott",
+"aliases": [
+"Victoria Louise Lott"
+],
+"links": 47
+},
+{
+"name": "Raffaella Carrà",
+"aliases": [
+"La Carrà",
+"Raffaella",
+"Raffaella Maria Roberta Pelloni"
+],
+"links": 47
+},
+{
+"name": "Roger Daltrey",
+"aliases": [
+"Roger Harry Daltrey"
+],
+"links": 47
+},
+{
+"name": "Ross Lynch",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Sandra Kim",
+"aliases": [
+"Sandra Caldarone"
+],
+"links": 47
+},
+{
+"name": "Taylor Hawkins",
+"aliases": [
+"Oliver Taylor Hawkins"
+],
+"links": 47
+},
+{
+"name": "The Edge",
+"aliases": [
+"Dave Evans",
+"David Evans"
+],
+"links": 47
+},
+{
+"name": "Tiziano Ferro",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Tom DeLonge",
+"aliases": [
+"Ava DeLonge",
+"Big Oily Men",
+"Boomer",
+"Jonas DeLonge",
+"Thomas DeLonge",
+"Thomas Matthew DeLonge",
+"Thomas Matthew Delonge Jr.",
+"Tom delong",
+"Tom Delonge Signature Guitar",
+"Tom Matthew DeLonge"
+],
+"links": 47
+},
+{
+"name": "Tom Odell",
+"aliases": [
+"Tom O'Dell"
+],
+"links": 47
+},
+{
+"name": "Traci Lords",
+"aliases": [
+"Kristie Elizabeth Nussman",
+"Nora Kuzma",
+"Traci Elizabeth Lords",
+"Tracie Lords",
+"Tracy Lords"
+],
+"links": 47
+},
+{
+"name": "Valentina Monetta",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Úrsula Corberó",
+"aliases": [
+"Úrsula Corberó Delgado"
+],
+"links": 47
+},
+{
+"name": "Andy Griffith",
+"aliases": [
+"Andy Samuel Griffith"
+],
+"links": 46
+},
+{
+"name": "Andy Lau",
+"aliases": [
+"Andy Lau Tak-wah",
+"Lau Tak Wah"
+],
+"links": 46
+},
+{
+"name": "Ann Blyth",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Anna Bergendahl",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Barry Gibb",
+"aliases": [
+"pan",
+"Sir Barry Alan Crompton Gibb",
+"Sir Barry Gibb"
+],
+"links": 46
+},
+{
+"name": "Beverly Sills",
+"aliases": [
+"Belle Miriam Silverman",
+"Belle Silverman",
+"Beverley Sills",
+"Beverly Sills Greenough"
+],
+"links": 46
+},
+{
+"name": "Bill Withers",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Byun Baek-hyun",
+"aliases": [
+"Baekhyun"
+],
+"links": 46
+},
+{
+"name": "Cab Calloway",
+"aliases": [
+"Cabell Calloway",
+"Cabell Calloway III"
+],
+"links": 46
+},
+{
+"name": "Charles Trenet",
+"aliases": [
+"Louis Charles Augustin Georges Trenet",
+"Louis-Charles-Augustin-Georges Trenet",
+"Trenet"
+],
+"links": 46
+},
+{
+"name": "Chou Tzuyu",
+"aliases": [
+"Tzuyu"
+],
+"links": 46
+},
+{
+"name": "Crispin Glover",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Daniella Monet",
+"aliases": [
+"Daniella Monet Zuvic",
+"Daniella Zuvic"
+],
+"links": 46
+},
+{
+"name": "Danny Aiello",
+"aliases": [
+"Daniel Louis Aiello Jr."
+],
+"links": 46
+},
+{
+"name": "David Cross",
+"aliases": [],
+"links": 46
+},
+{
+"name": "DJ BoBo",
+"aliases": [
+"Peter René Baumann",
+"René Baumann"
+],
+"links": 46
+},
+{
+"name": "Esma Redžepova",
+"aliases": [
+"Esma Redzepova",
+"Esma Rezepova",
+"Queen of the Gypsies"
+],
+"links": 46
+},
+{
+"name": "Fred Durst",
+"aliases": [
+"Frederick Allen Mayne III",
+"William Durst",
+"William Frederick Durst"
+],
+"links": 46
+},
+{
+"name": "Genevieve Nnaji",
+"aliases": [
+"Genevieve"
+],
+"links": 46
+},
+{
+"name": "Haifa Wehbe",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Haley Bennett",
+"aliases": [
+"Haley Katharina Bennett"
+],
+"links": 46
+},
+{
+"name": "Hozier",
+"aliases": [
+"Andrew Hozier-Byrne",
+"Andrew John Hozier-Byrne"
+],
+"links": 46
+},
+{
+"name": "Hyuna",
+"aliases": [
+"Kim Hyun-a"
+],
+"links": 46
+},
+{
+"name": "Jason Newsted",
+"aliases": [
+"Jason Curtis Newsted"
+],
+"links": 46
+},
+{
+"name": "Julia Volkova",
+"aliases": [
+"Julija Olegowna Wolkowa",
+"Yulia Olegovna Volkova",
+"Yulia Volkova",
+"Yuliya Olegovna Volkova",
+"Yuliya Volkova"
+],
+"links": 46
+},
+{
+"name": "Ken Page",
+"aliases": [
+"Kenneth Page"
+],
+"links": 46
+},
+{
+"name": "Lea Salonga",
+"aliases": [
+"Maria Lea Carmen Imutan Salonga",
+"Maria Lea Carmen Imutan Salonga-Chien"
+],
+"links": 46
+},
+{
+"name": "Machine Gun Kelly",
+"aliases": [
+"Colson Baker",
+"MGK"
+],
+"links": 46
+},
+{
+"name": "Maher Zain",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Marie Laforêt",
+"aliases": [
+"Maïtena Doumenach",
+"Maïtena Marie Brigitte Doumenach"
+],
+"links": 46
+},
+{
+"name": "Marija Naumova",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Marina Vlady",
+"aliases": [
+"Catherine Marina de Poliakoff-Baïdaroff"
+],
+"links": 46
+},
+{
+"name": "Moya Brennan",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Nathan Lane",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Park Ji-hyo",
+"aliases": [
+"Ji-hyo Park",
+"Jihyo",
+"Park Jihyo"
+],
+"links": 46
+},
+{
+"name": "Park Shin-hye",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Phil LaMarr",
+"aliases": [
+"BJ Hughes",
+"Phillip LaMarr"
+],
+"links": 46
+},
+{
+"name": "Regina Spektor",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Ri Sol-ju",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Rita Wilson",
+"aliases": [
+"Margarita Ibrahimova"
+],
+"links": 46
+},
+{
+"name": "Ritchie Valens",
+"aliases": [
+"Richard Steven Valenzuela",
+"Richard Valenzuela"
+],
+"links": 46
+},
+{
+"name": "Ronan Keating",
+"aliases": [
+"Ronan Patrick John Keating"
+],
+"links": 46
+},
+{
+"name": "Ronnie Wood",
+"aliases": [
+"Ron Wood",
+"Ronald David Wood",
+"Ronald Wood",
+"Woody"
+],
+"links": 46
+},
+{
+"name": "Sandra",
+"aliases": [
+"Sandra Ann",
+"Sandra Ann Lauer",
+"Sandra Cretu",
+"Sandra Lauer"
+],
+"links": 46
+},
+{
+"name": "Shu Qi",
+"aliases": [
+"Betty Shu",
+"Hsu Chi",
+"Kei Shu",
+"Lin Li-hui",
+"Lin Lihui",
+"Lín Lìhuì",
+"Qi Shu",
+"Shu Kei"
+],
+"links": 46
+},
+{
+"name": "Theo James",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Thomas Anders",
+"aliases": [
+"Bernd Weidung"
+],
+"links": 46
+},
+{
+"name": "Tove Lo",
+"aliases": [
+"Ebba Tove Elsa Nilsson"
+],
+"links": 46
+},
+{
+"name": "Trent Reznor",
+"aliases": [
+"Michael Trent Reznor"
+],
+"links": 46
+},
+{
+"name": "Vicky Leandros",
+"aliases": [
+"Vassiliki Papathanasiou"
+],
+"links": 46
+},
+{
+"name": "Vinícius de Moraes",
+"aliases": [
+"Marcus Vinícius da Cruz e Mello de M",
+"Marcus Vinícius de Moraes",
+"Vinicius De Moraes",
+"Vinicius de Moraes",
+"Vinicius de Morães"
+],
+"links": 46
+},
+{
+"name": "Yma Sumac",
+"aliases": [
+"Zoila Emperatriz Chavarri Castillo"
+],
+"links": 46
+},
+{
+"name": "Zucchero",
+"aliases": [
+"Aldo Fornaciari",
+"Zucchero Fornaciari",
+"Zucchero Sugar Fornaciari"
+],
+"links": 46
+},
+{
+"name": "Adrian Smith",
+"aliases": [
+"Adrian Frederick Smith"
+],
+"links": 45
+},
+{
+"name": "Alan Thicke",
+"aliases": [
+"Alan Willis Jeffrey"
+],
+"links": 45
+},
+{
+"name": "Albano Carrisi",
+"aliases": [
+"Al Bano",
+"Albano",
+"Albano Antonio Carrisi"
+],
+"links": 45
+},
+{
+"name": "Alexandra Stan",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Amy Madigan",
+"aliases": [
+"Amy Marie Madigan"
+],
+"links": 45
+},
+{
+"name": "Anna May Wong",
+"aliases": [
+"Huang Liu Shuang",
+"Huáng Liǔshuāng",
+"Lee Toy Wong",
+"Wong Liu Tsong",
+"Wong Liu-tsong"
+],
+"links": 45
+},
+{
+"name": "Anoushka Shankar",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Ariana DeBose",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Bo Diddley",
+"aliases": [
+"Ellas McDaniel",
+"Ellas Otha Bates",
+"The Originator"
+],
+"links": 45
+},
+{
+"name": "Bobby Farrell",
+"aliases": [
+"Roberto Alfonso Farrell"
+],
+"links": 45
+},
+{
+"name": "Bonnie Raitt",
+"aliases": [
+"Bonnie Lynn Raitt"
+],
+"links": 45
+},
+{
+"name": "Brent Spiner",
+"aliases": [
+"Brent Jay Mintz",
+"Brent Jay Spiner"
+],
+"links": 45
+},
+{
+"name": "Curd Jürgens",
+"aliases": [
+"Curd Juergens",
+"Curd Jurgens",
+"Curt Jurgens",
+"Curt Jürgens"
+],
+"links": 45
+},
+{
+"name": "David Kaufman",
+"aliases": [
+"David Rodney Kaufman"
+],
+"links": 45
+},
+{
+"name": "Donald O'Connor",
+"aliases": [
+"Donald David Dixon Ronald O’Connor"
+],
+"links": 45
+},
+{
+"name": "Eric Saade",
+"aliases": [
+"Eric Khaled Saade"
+],
+"links": 45
+},
+{
+"name": "Faye Wong",
+"aliases": [
+"Faye Wong Fei",
+"Shirley",
+"Shirley Wong",
+"Wang Fei",
+"Wang Jingwen",
+"Wong Fei",
+"Wong Jing-Man",
+"Wong Jing-Wen",
+"Wong Tsin-man",
+"Wong Zing Man"
+],
+"links": 45
+},
+{
+"name": "Florence Welch",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Gene Autry",
+"aliases": [
+"Orvon Gene Autry"
+],
+"links": 45
+},
+{
+"name": "Glen Campbell",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Goo Hara",
+"aliases": [
+"Goo Ha Ra",
+"Goo Ha-ra",
+"Gu Ha Ra",
+"Gu Ha-ra",
+"Gu Hara",
+"Koo Ha Ra",
+"Koo Ha-ra",
+"Koo Hara",
+"Ku Ha Ra",
+"Ku Ha-ra",
+"Ku Hara"
+],
+"links": 45
+},
+{
+"name": "Googoosh",
+"aliases": [
+"Faegheh Atashin",
+"Fayika Atashyn"
+],
+"links": 45
+},
+{
+"name": "Grace Slick",
+"aliases": [
+"Grace Barnett Slick"
+],
+"links": 45
+},
+{
+"name": "Henry Rollins",
+"aliases": [
+"Henry Garfield",
+"Henry Lawrence Garfield"
+],
+"links": 45
+},
+{
+"name": "Hikaru Utada",
+"aliases": [
+"Utada"
+],
+"links": 45
+},
+{
+"name": "Honor Blackman",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Ian Anderson",
+"aliases": [
+"Ian Scott Anderson"
+],
+"links": 45
+},
+{
+"name": "Isabelle Aubret",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Iveta Mukuchyan",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Izabella Scorupco",
+"aliases": [
+"Izabela Dorota Skorupco",
+"Izabella"
+],
+"links": 45
+},
+{
+"name": "J.J. Cale",
+"aliases": [
+"J. J.",
+"John W. Cale",
+"John Weldon Cale"
+],
+"links": 45
+},
+{
+"name": "Jacqueline Boyer",
+"aliases": [
+"Eliane Ducos",
+"Jacqueline Lucienne Éliane Ducos"
+],
+"links": 45
+},
+{
+"name": "Jake Wesley Rogers",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Jake Zyrus",
+"aliases": [
+"Charice",
+"Charice Pempengco",
+"Jack Zyrus"
+],
+"links": 45
+},
+{
+"name": "James Taylor",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Jena Malone",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Jewel",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Jim Cummings",
+"aliases": [],
+"links": 45
+},
+{
+"name": "John Mahoney",
+"aliases": [
+"Charles John Mahoney",
+"Jonathan Mahoney"
+],
+"links": 45
+},
+{
+"name": "Katey Sagal",
+"aliases": [
+"Sagal, Catherine Louise"
+],
+"links": 45
+},
+{
+"name": "Katharine McPhee",
+"aliases": [
+"Catherine Foster",
+"Catherine Hope McPhee Foster",
+"Catherine Hope McPhee-Foster",
+"Katharine Foster",
+"Katharine Hope McPhee Foster",
+"Katharine Hope McPhee-Foster",
+"Katherine Foster",
+"Katherine Hope McPhee Foster",
+"Katherine Hope McPhee-Foster"
+],
+"links": 45
+},
+{
+"name": "Kishore Kumar",
+"aliases": [
+"Abhas Kumar Ganguly",
+"Kishor Kumar"
+],
+"links": 45
+},
+{
+"name": "Lena Katina",
+"aliases": [
+"Elena Katina",
+"Elena Sergeevna Katina"
+],
+"links": 45
+},
+{
+"name": "Lin-Manuel Miranda",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Marina Diamandis",
+"aliases": [
+"Marina",
+"Marina & the Diamonds",
+"Marina and the Diamonds",
+"Marina L. Diamandis",
+"Marina Lambrini Diamandis"
+],
+"links": 45
+},
+{
+"name": "Maya Rudolph",
+"aliases": [
+"Maya Khabira Rudolph",
+"Maya Khabira Rudolph Anderson",
+"Maya Rudolph Anderson"
+],
+"links": 45
+},
+{
+"name": "Michel Teló",
+"aliases": [
+"Michel Telo"
+],
+"links": 45
+},
+{
+"name": "Miyoshi Umeki",
+"aliases": [
+"Myoshi Umeki"
+],
+"links": 45
+},
+{
+"name": "MØ",
+"aliases": [
+"Karen Marie Aagaard Ørsted Andersen",
+"Karen Marie Ørsted"
+],
+"links": 45
+},
+{
+"name": "Nichelle Nichols",
+"aliases": [
+"Grace Nichols"
+],
+"links": 45
+},
+{
+"name": "Nina Hoss",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Park Bo-gum",
+"aliases": [
+"Bo-gum Park",
+"Bogum Park",
+"Park Bogum",
+"Prince of Asia"
+],
+"links": 45
+},
+{
+"name": "Playboi Carti",
+"aliases": [
+"Baby Boi",
+"Carti",
+"Cash Carti",
+"Guapo",
+"Jordan Carter",
+"King Vamp",
+"Mr. Anti",
+"Sir Cartier",
+"Yung Carti"
+],
+"links": 45
+},
+{
+"name": "Raye",
+"aliases": [],
+"links": 45
+},
+{
+"name": "Riz Ahmed",
+"aliases": [
+"Ridwan Ahmed",
+"Riz MC",
+"Rizwan Ahmed"
+],
+"links": 45
+},
+{
+"name": "Rose Marie",
+"aliases": [
+"Baby Rose Marie",
+"Rose Marie Mazetta",
+"Rose Marie Mazzetta",
+"Rose Mazetta",
+"Rose Mazzetta"
+],
+"links": 45
+},
+{
+"name": "Serhiy Zhadan",
+"aliases": [
+"Sergey Viktorovich Zhadan",
+"Sergey Zhadan",
+"Serhii Viktorovych Zhadan",
+"Serhii Zhadan",
+"Serhiy Viktorovych Zhadan"
+],
+"links": 45
+},
+{
+"name": "Shane Dawson",
+"aliases": [
+"Shane Lee Yaw"
+],
+"links": 45
+},
+{
+"name": "Treat Williams",
+"aliases": [
+"Richard Williams"
+],
+"links": 45
+},
+{
+"name": "Tyler Posey",
+"aliases": [
+"Tyler Garcia-Posey"
+],
+"links": 45
+},
+{
+"name": "Valeria Bruni-Tedeschi",
+"aliases": [
+"Valeria Carla Federica Bruni-Tedeschi",
+"Valéria Bruni-Tedeschi"
+],
+"links": 45
+},
+{
+"name": "Zhao Wei",
+"aliases": [
+"Vicki Zhao",
+"Vicki Zhao Wei",
+"Vicky Zhao"
+],
+"links": 45
+},
+{
+"name": "Zlata Ognevich",
+"aliases": [
+"Inna Leonidivna Bordiuh"
+],
+"links": 45
+},
+{
+"name": "Adrienne Barbeau",
+"aliases": [
+"Adrienne Jo Barbeau"
+],
+"links": 44
+},
+{
+"name": "Al Jarreau",
+"aliases": [
+"Alwin Jarreau",
+"Alwin Lopez Jarreau",
+"Alwyn Lopez Jarreau"
+],
+"links": 44
+},
+{
+"name": "Alessia Cara",
+"aliases": [
+"Alessia",
+"Alessia Caracciolo"
+],
+"links": 44
+},
+{
+"name": "Alex Borstein",
+"aliases": [
+"Alexandrea Borstein"
+],
+"links": 44
+},
+{
+"name": "Alison Krauss",
+"aliases": [
+"Alison Maria Krauss",
+"Allison Krauss"
+],
+"links": 44
+},
+{
+"name": "Allu Arjun",
+"aliases": [
+"Bunny",
+"Icon star",
+"Stylish star"
+],
+"links": 44
+},
+{
+"name": "Amber Benson",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Aram Mp3",
+"aliases": [
+"Aram Sargsyan",
+"Sargsyan, Aram"
+],
+"links": 44
+},
+{
+"name": "Ariel Winter",
+"aliases": [
+"Ariel Winter Workman"
+],
+"links": 44
+},
+{
+"name": "Aya Nakamura",
+"aliases": [
+"Aya Coco Danioko",
+"Aya Danioko"
+],
+"links": 44
+},
+{
+"name": "Bernadette Peters",
+"aliases": [
+"Bernadette Lazzara"
+],
+"links": 44
+},
+{
+"name": "Burna Boy",
+"aliases": [
+"African Giant",
+"Burnaboy",
+"Oluwa Burna"
+],
+"links": 44
+},
+{
+"name": "Caetano Veloso",
+"aliases": [
+"Caetano Emanuel Viana Teles Veloso",
+"Caetano Emanuel Viana Telles Veloso"
+],
+"links": 44
+},
+{
+"name": "Captain Beefheart",
+"aliases": [
+"Beefheart Captain",
+"Bloodshot Rollin' Red",
+"Don Glen Van Vliet",
+"Don Glen Vliet",
+"Don van Vilet",
+"Don van Vliet",
+"Don Van Vliet",
+"Donald Glen van Vliet",
+"Donald Vliet"
+],
+"links": 44
+},
+{
+"name": "Chaim Topol",
+"aliases": [
+"Haim Topol",
+"Hayim Topol",
+"Topol"
+],
+"links": 44
+},
+{
+"name": "Chavela Vargas",
+"aliases": [
+"Isabel Vargas Lizano"
+],
+"links": 44
+},
+{
+"name": "China Anne McClain",
+"aliases": [
+"China McClain"
+],
+"links": 44
+},
+{
+"name": "Dan Reynolds",
+"aliases": [
+"Daniel Coulter Reynolds"
+],
+"links": 44
+},
+{
+"name": "Danielle Darrieux",
+"aliases": [
+"Danièle Darrieux"
+],
+"links": 44
+},
+{
+"name": "Deanna Durbin",
+"aliases": [
+"Edna Mae Durbin"
+],
+"links": 44
+},
+{
+"name": "Dee Bradley Baker",
+"aliases": [
+"Bradley D. Baker",
+"Dee Baker",
+"Dee Bradley Coltin Baker"
+],
+"links": 44
+},
+{
+"name": "Diahann Carroll",
+"aliases": [
+"Carol Diann Johnson"
+],
+"links": 44
+},
+{
+"name": "Divine",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Fats Waller",
+"aliases": [
+"Thomas Fats Waller"
+],
+"links": 44
+},
+{
+"name": "George Chakiris",
+"aliases": [
+"George Kerris"
+],
+"links": 44
+},
+{
+"name": "Gianni Morandi",
+"aliases": [
+"Gian Luigi Morandi"
+],
+"links": 44
+},
+{
+"name": "Gordon Lightfoot",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Gotye",
+"aliases": [
+"Wally De Backer",
+"Wouter De Backer"
+],
+"links": 44
+},
+{
+"name": "Iva Zanicchi",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Jay Chou",
+"aliases": [
+"Chou Chieh-lun",
+"President Chou",
+"Zhou Jielun"
+],
+"links": 44
+},
+{
+"name": "Jennifer Stone",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Jolene Marie Rotinsulu",
+"aliases": [
+"Jolene Marie",
+"Jolene Marie Cholock Rotinsulu",
+"Jolene Marie Cholock-Rotinsulu"
+],
+"links": 44
+},
+{
+"name": "Konstantin Khabensky",
+"aliases": [
+"Konstantin Yurievich Khabensky",
+"Konstantin Yuryevich Khabensky"
+],
+"links": 44
+},
+{
+"name": "Kristian Kostov",
+"aliases": [
+"Kris",
+"Kristián Konstantínov Kóstov"
+],
+"links": 44
+},
+{
+"name": "La Toya Jackson",
+"aliases": [
+"La Toya Yvonne Jackson",
+"LaToya Jackson",
+"Latoya Jackson"
+],
+"links": 44
+},
+{
+"name": "Lewis Capaldi",
+"aliases": [
+"Lewis Marc Capaldi"
+],
+"links": 44
+},
+{
+"name": "Mary Elizabeth Mastrantonio",
+"aliases": [],
+"links": 44
+},
+{
+"name": "María Elena Walsh",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Melanie",
+"aliases": [
+"Melanie Anne Safka-Schekeryk",
+"Melanie Safka",
+"Melanie Safka-Schekeryk"
+],
+"links": 44
+},
+{
+"name": "Omar Epps",
+"aliases": [
+"Omar Hashim Epps"
+],
+"links": 44
+},
+{
+"name": "Poli Genova",
+"aliases": [
+"Poli Plamenova Genova"
+],
+"links": 44
+},
+{
+"name": "Robyn",
+"aliases": [
+"Robin Carlsson",
+"Robyn Carlsson"
+],
+"links": 44
+},
+{
+"name": "Romina Power",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Sally Kellerman",
+"aliases": [
+"Sally Clare Kellerman",
+"Sally Kellermann"
+],
+"links": 44
+},
+{
+"name": "Sarah McLachlan",
+"aliases": [
+"Sarah Ann McLachlan"
+],
+"links": 44
+},
+{
+"name": "Sean Lennon",
+"aliases": [
+"Ono Tarō",
+"Sean Ono Lennon",
+"Sean Taro Lennon",
+"Sean Taro Ono Lennon",
+"Sean Tarō Lennon",
+"Sean Tarō Ono Lennon",
+"Seán Ono Lennon"
+],
+"links": 44
+},
+{
+"name": "Skylar Grey",
+"aliases": [
+"Holly Brook",
+"Holly Hafermann"
+],
+"links": 44
+},
+{
+"name": "Solange Knowles",
+"aliases": [
+"Solange",
+"Solange Knowles Ferguson",
+"Solange Piaget Knowles",
+"Solange Piaget Knowles Ferguson"
+],
+"links": 44
+},
+{
+"name": "Sviatoslav Vakarchuk",
+"aliases": [
+"Svyatoslav Vakarchuk"
+],
+"links": 44
+},
+{
+"name": "Taeyeon",
+"aliases": [
+"Kim Tae-yeon"
+],
+"links": 44
+},
+{
+"name": "Teddy Scholten",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Terry O'Quinn",
+"aliases": [
+"Terrance Quinn"
+],
+"links": 44
+},
+{
+"name": "Tom Morello",
+"aliases": [
+"The Nightwatchman",
+"Thomas Baptist Morello",
+"Thomas Morello"
+],
+"links": 44
+},
+{
+"name": "Yasiin Bey",
+"aliases": [
+"Black Dante",
+"Dante Beze",
+"Dante Terrell Smith",
+"El-Bey the Moor",
+"Flaco",
+"Mos Def"
+],
+"links": 44
+},
+{
+"name": "Aaron Carter",
+"aliases": [
+"Aaron Charles Carter"
+],
+"links": 43
+},
+{
+"name": "Alejandro Sanz",
+"aliases": [
+"Alejandro Sanchez Pizarro",
+"Alejandro Sánchez Pizarro"
+],
+"links": 43
+},
+{
+"name": "Aly Michalka",
+"aliases": [
+"Alyson Michalka",
+"Alyson Renae Michalka"
+],
+"links": 43
+},
+{
+"name": "André Claveau",
+"aliases": [
+"Andre Claveau"
+],
+"links": 43
+},
+{
+"name": "Anitta",
+"aliases": [
+"Larissa de Macedo Machado"
+],
+"links": 43
+},
+{
+"name": "apl.de.ap",
+"aliases": [
+"Allan Pineda",
+"Allan Pineda Lindo",
+"APL Pineda"
+],
+"links": 43
+},
+{
+"name": "Aygün Kazimova",
+"aliases": [
+"Aygün Ələsgər qızı Kazımova"
+],
+"links": 43
+},
+{
+"name": "Azealia Banks",
+"aliases": [
+"Azealia Amanda Banks",
+"Yung Rapunxel"
+],
+"links": 43
+},
+{
+"name": "Brian Molko",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Bud Luckey",
+"aliases": [
+"Bud E. Luckey",
+"Bud Everett Luckey",
+"William E. Luckey",
+"William Luckey"
+],
+"links": 43
+},
+{
+"name": "Carl Perkins",
+"aliases": [
+"Carl L. Perkins",
+"Carl Lee Perkins"
+],
+"links": 43
+},
+{
+"name": "Chico Buarque",
+"aliases": [
+"Chico Buarque de Hollanda"
+],
+"links": 43
+},
+{
+"name": "Chloe Bennet",
+"aliases": [
+"Chloe Wang",
+"Chloé Wang"
+],
+"links": 43
+},
+{
+"name": "Chubby Checker",
+"aliases": [
+"Ernest Evans"
+],
+"links": 43
+},
+{
+"name": "Colbie Caillat",
+"aliases": [
+"Coco",
+"Colbie Marie Caillat"
+],
+"links": 43
+},
+{
+"name": "Cristin Milioti",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Curtis Mayfield",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Darigha Nazarbaeva",
+"aliases": [
+"Darigha Nursultanqyzy Nazarbaeva"
+],
+"links": 43
+},
+{
+"name": "Dave Gahan",
+"aliases": [
+"David Gahan"
+],
+"links": 43
+},
+{
+"name": "Delta Goodrem",
+"aliases": [
+"Delta Lea Goodrem"
+],
+"links": 43
+},
+{
+"name": "Dinah Washington",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Don McLean",
+"aliases": [
+"Donald McLean",
+"Donald McLean III"
+],
+"links": 43
+},
+{
+"name": "Donovan",
+"aliases": [
+"Donovan Philips Leitch",
+"Donovan Phillips Leitch"
+],
+"links": 43
+},
+{
+"name": "Edward Furlong",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Elisabeth Schwarzkopf",
+"aliases": [
+"Dame Olga Maria Elisabeth Friederike Schwarzkopf"
+],
+"links": 43
+},
+{
+"name": "Elke Sommer",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Era Istrefi",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Estelle Parsons",
+"aliases": [
+"Estelle Margaret Parsons"
+],
+"links": 43
+},
+{
+"name": "Fabrizio De André",
+"aliases": [
+"Faber"
+],
+"links": 43
+},
+{
+"name": "Farhan Akhtar",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Farinelli",
+"aliases": [
+"Carlo Broschi",
+"Carlo Broschi Farinelli",
+"Farinello Broschi"
+],
+"links": 43
+},
+{
+"name": "Finneas O'Connell",
+"aliases": [
+"Finneas",
+"Finneas Baird O'Connell"
+],
+"links": 43
+},
+{
+"name": "G-Dragon",
+"aliases": [
+"GD",
+"GD of Big Bang",
+"Kwon Ji-yong"
+],
+"links": 43
+},
+{
+"name": "Garrett Hedlund",
+"aliases": [
+"Garrett John Hedlund"
+],
+"links": 43
+},
+{
+"name": "Georges Moustaki",
+"aliases": [
+"Giuseppe Mustacchi",
+"Joseph Mustacchi",
+"Yussef Mustacchi"
+],
+"links": 43
+},
+{
+"name": "Gerry Rafferty",
+"aliases": [
+"Gerald Rafferty"
+],
+"links": 43
+},
+{
+"name": "Gianna Nannini",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Gilbert Bécaud",
+"aliases": [
+"François Bécaud",
+"François Gilbert Léopold Bécaud",
+"François Silly",
+"Gilbert Becaud"
+],
+"links": 43
+},
+{
+"name": "Gina Gershon",
+"aliases": [
+"Gina L. Gershon"
+],
+"links": 43
+},
+{
+"name": "Harel Skaat",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Hera Björk",
+"aliases": [
+"Hera Björk Thorhallsdottir",
+"Hera Björk Þórhallsdóttir"
+],
+"links": 43
+},
+{
+"name": "Jack Albertson",
+"aliases": [
+"Harold Albertson"
+],
+"links": 43
+},
+{
+"name": "Jack Johnson",
+"aliases": [
+"Jack Hody Johnson"
+],
+"links": 43
+},
+{
+"name": "Jane Krakowski",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Jeff Bergman",
+"aliases": [
+"Jeff A. Bergman",
+"Jeff Allen Bergman",
+"Jeffrey A. Bergman",
+"Jeffrey Allen Bergman",
+"Jeffrey Bergman"
+],
+"links": 43
+},
+{
+"name": "Jesse Plemons",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Joe Perry",
+"aliases": [
+"Anthony Joseph Pereira",
+"Anthony Joseph Perry"
+],
+"links": 43
+},
+{
+"name": "Joel Grey",
+"aliases": [
+"Joel David Katz",
+"Joel Katz",
+"Joel Kaye"
+],
+"links": 43
+},
+{
+"name": "John Dowland",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Jonathan Davis",
+"aliases": [
+"Jonathan Howsmon Davis"
+],
+"links": 43
+},
+{
+"name": "Jonathan Groff",
+"aliases": [
+"Jonathan Drew Groff"
+],
+"links": 43
+},
+{
+"name": "Josh Gad",
+"aliases": [
+"Joshua Gad",
+"Joshua Ilan Gad"
+],
+"links": 43
+},
+{
+"name": "Julian Lennon",
+"aliases": [
+"John Charles Julian Lennon",
+"Jules Lennon",
+"Julian Charles John Lennon"
+],
+"links": 43
+},
+{
+"name": "Keith Flint",
+"aliases": [
+"Keith Charles Flint"
+],
+"links": 43
+},
+{
+"name": "Kelly Osbourne",
+"aliases": [
+"Kelly Lee Osbourne"
+],
+"links": 43
+},
+{
+"name": "Khalid",
+"aliases": [
+"Khalid Algunomabi",
+"Khalid Ali",
+"Khalid Alsadig",
+"Khalid Donnel Robinson",
+"Khalid Robinson",
+"Khalid Sudan"
+],
+"links": 43
+},
+{
+"name": "Kygo",
+"aliases": [
+"Kyrre Gørvell-Dahll"
+],
+"links": 43
+},
+{
+"name": "LeAnn Rimes",
+"aliases": [
+"LeAnn Rimes Cibrian",
+"Margaret LeAnn Rimes",
+"Margaret LeAnn Rimes Cibrian"
+],
+"links": 43
+},
+{
+"name": "Lee Byung-hun",
+"aliases": [
+"Byung Hun Lee",
+"Lee Byeong-heon"
+],
+"links": 43
+},
+{
+"name": "Liberace",
+"aliases": [
+"Lee Liberace",
+"Mr. Showmanship",
+"The Glitter Man",
+"Vladziu Valentino Liberace",
+"Walter Busterkeys",
+"Walter Liberace",
+"Wladziu Valentino Liberace"
+],
+"links": 43
+},
+{
+"name": "Lindsey Stirling",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Lola Flores",
+"aliases": [
+"Imperio de jerez",
+"La Faraona",
+"Lola De Espana"
+],
+"links": 43
+},
+{
+"name": "Lynda Carter",
+"aliases": [
+"Linda Jean Cordova Carter",
+"Linda Jean Córdova Carter",
+"Lynda Jean Cordova Carter"
+],
+"links": 43
+},
+{
+"name": "Mariza",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Maurice Gibb",
+"aliases": [
+"Maurice Ernest Gibb"
+],
+"links": 43
+},
+{
+"name": "Maurice LaMarche",
+"aliases": [
+"Maurice La Marche"
+],
+"links": 43
+},
+{
+"name": "Michael Bolton",
+"aliases": [
+"Michael Bolotin"
+],
+"links": 43
+},
+{
+"name": "Mike Phiromphorn",
+"aliases": [
+"Mike Phiromphon"
+],
+"links": 43
+},
+{
+"name": "Minatozaki Sana",
+"aliases": [
+"minatozaki",
+"Sana"
+],
+"links": 43
+},
+{
+"name": "Mýa",
+"aliases": [
+"Mýa Marie Harrison"
+],
+"links": 43
+},
+{
+"name": "Niamh Kavanagh",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Nino Manfredi",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Pat Boone",
+"aliases": [
+"Charles Boone",
+"Charles E. Boone",
+"Charles Eugene Boone",
+"Pat Eugene Boone",
+"Patrick Charles Eugene Boone"
+],
+"links": 43
+},
+{
+"name": "Percy Sledge",
+"aliases": [
+"Percy Tyrone Sledge"
+],
+"links": 43
+},
+{
+"name": "Peter Green",
+"aliases": [
+"Peter Blue",
+"Peter Greenbaum"
+],
+"links": 43
+},
+{
+"name": "Princess Stéphanie of Monaco",
+"aliases": [
+"Mystery Girl",
+"Princess Stephanie of Monaco",
+"Stephanie Marie Elisabeth Grimaldi",
+"Stéphanie Marie Elisabeth Grimaldi",
+"Stéphanie of Monaco"
+],
+"links": 43
+},
+{
+"name": "RedOne",
+"aliases": [
+"Adil Khayat",
+"Medhi Khayat",
+"Mehdi Bouamer",
+"Mehdi Bouamer Khayat",
+"Nadir Khayat",
+"Pat Devine",
+"Red One"
+],
+"links": 43
+},
+{
+"name": "Robin Thicke",
+"aliases": [
+"Robin Alan Thicke"
+],
+"links": 43
+},
+{
+"name": "Sami Yusuf",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Shaggy",
+"aliases": [
+"Orville Burrell"
+],
+"links": 43
+},
+{
+"name": "Sirindhorn, Princess Royal",
+"aliases": [
+"Angel Princess",
+"H.R.H. Maha Chakri Sirindhorn",
+"H.R.H. Princess Sirindhorn",
+"Her Royal Highness Princess Sirindhorn",
+"Princess Maha Chakri Sirindhorn",
+"Princess Sirindhorn",
+"Waen Kaew"
+],
+"links": 43
+},
+{
+"name": "Smokey Robinson",
+"aliases": [
+"William 'Smokey' Robinson, Jr.",
+"William Robinson, Jr.",
+"Wm. Robinson"
+],
+"links": 43
+},
+{
+"name": "Vakhtang Kikabidze",
+"aliases": [
+"Buba Kikabidze",
+"Vakhtang Konstantine dze Kikabidze"
+],
+"links": 43
+},
+{
+"name": "Waylon Jennings",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Xuxa",
+"aliases": [
+"Maria da Graça Meneghel",
+"Xuxa Meneghel"
+],
+"links": 43
+},
+{
+"name": "Addison Rae",
+"aliases": [
+"Addison Easterling",
+"Addison Rae Easterling"
+],
+"links": 42
+},
+{
+"name": "Al Jolson",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Anouk",
+"aliases": [
+"Anouk Schemmekes",
+"Anouk Teeuwe"
+],
+"links": 42
+},
+{
+"name": "B.o.B",
+"aliases": [
+"Bobby Ray Simmons Jr.",
+"Bobby Ray Simmons, Jr."
+],
+"links": 42
+},
+{
+"name": "Bella Poarch",
+"aliases": [
+"Denarie Bautista Taylor"
+],
+"links": 42
+},
+{
+"name": "Blake Shelton",
+"aliases": [
+"Blake Tollison Shelton"
+],
+"links": 42
+},
+{
+"name": "Buddy Guy",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Chris Isaak",
+"aliases": [
+"Christopher Joseph Isaak"
+],
+"links": 42
+},
+{
+"name": "Christine McVie",
+"aliases": [
+"Christine Anne McVie",
+"Christine Perfect",
+"Christy McVie"
+],
+"links": 42
+},
+{
+"name": "Chuck Schuldiner",
+"aliases": [
+"Charles Michael Schuldiner",
+"Evil Chuck",
+"The Godfather of Death Metal"
+],
+"links": 42
+},
+{
+"name": "Claude François",
+"aliases": [
+"Claude Francois",
+"Cloclo",
+"Kôkô"
+],
+"links": 42
+},
+{
+"name": "Coco Lee",
+"aliases": [
+"Ferren Lee",
+"Lee Man",
+"Lee Mei Lam",
+"Li Meilin",
+"Li Wen"
+],
+"links": 42
+},
+{
+"name": "Damiano David",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Danna Paola",
+"aliases": [],
+"links": 42
+},
+{
+"name": "David Archuleta",
+"aliases": [
+"David James Archuleta"
+],
+"links": 42
+},
+{
+"name": "Deryck Whibley",
+"aliases": [
+"Deryck Jason Whibley"
+],
+"links": 42
+},
+{
+"name": "Dinah Shore",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Don Henley",
+"aliases": [
+"Donald Hugh Henley"
+],
+"links": 42
+},
+{
+"name": "Dorothy Lamour",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Dr. Alban",
+"aliases": [
+"Alban Nwapa",
+"Alban Uzoma Nwapa"
+],
+"links": 42
+},
+{
+"name": "Duff McKagan",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Eldar Qasımov",
+"aliases": [
+"Eldar Gasimov"
+],
+"links": 42
+},
+{
+"name": "Eric Carmen",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Florence Foster Jenkins",
+"aliases": [
+"Narcissa Florence Foster"
+],
+"links": 42
+},
+{
+"name": "Guy Berryman",
+"aliases": [
+"Guy Rupert Berryman"
+],
+"links": 42
+},
+{
+"name": "Hiroyuki Sanada",
+"aliases": [
+"Hiroyuki Shimosawa",
+"Shimosawa Hiroyuki"
+],
+"links": 42
+},
+{
+"name": "Ice Spice",
+"aliases": [
+"Isis Naija Gaston"
+],
+"links": 42
+},
+{
+"name": "Iwan Rheon",
+"aliases": [
+"iwanito"
+],
+"links": 42
+},
+{
+"name": "Jackson Wang",
+"aliases": [
+"Jackson",
+"Wang Jia'er",
+"Wang Ka Yee",
+"Wang Ka-yee"
+],
+"links": 42
+},
+{
+"name": "Jimmy Buffett",
+"aliases": [],
+"links": 42
+},
+{
+"name": "John Cho",
+"aliases": [
+"John Yohan Cho"
+],
+"links": 42
+},
+{
+"name": "Katherine McNamara",
+"aliases": [
+"Kat McNamara",
+"Katherine Grace McNamara"
+],
+"links": 42
+},
+{
+"name": "Kristína Peláková",
+"aliases": [
+"Kristina",
+"Kristina Pelakova"
+],
+"links": 42
+},
+{
+"name": "KSI",
+"aliases": [
+"JJ",
+"JJ Olatunji",
+"KSIOlajideBT",
+"Olajide Olatunji",
+"Olajide Olayinka Williams Olatunji",
+"Olajide William Olatunji"
+],
+"links": 42
+},
+{
+"name": "Lambert Wilson",
+"aliases": [
+"Lambert Nicolas Willson"
+],
+"links": 42
+},
+{
+"name": "Laura Marano",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Lenny Bruce",
+"aliases": [
+"Leonard Alfred Schneider",
+"Leonard Schneider"
+],
+"links": 42
+},
+{
+"name": "Li Bingbing",
+"aliases": [
+"Bingbing Li"
+],
+"links": 42
+},
+{
+"name": "Lil Uzi Vert",
+"aliases": [
+"Baby Pluto",
+"Boop",
+"Leslie Chow",
+"Orenji",
+"Renji",
+"Sasuke",
+"Sealab Vertical",
+"Symere Bysil Woods",
+"Symere Woods",
+"Uzi London"
+],
+"links": 42
+},
+{
+"name": "Lolo Ferrari",
+"aliases": [
+"Eve Geneviève Aline Valois",
+"Eve Valois",
+"Lollo Ferrari",
+"Lolo Ferari",
+"Ève Valois",
+"Éve Geneviève Aline Valois"
+],
+"links": 42
+},
+{
+"name": "Lotte Lenya",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Léo Ferré",
+"aliases": [
+"Leo Ferre",
+"Leo Ferré"
+],
+"links": 42
+},
+{
+"name": "Macy Gray",
+"aliases": [
+"Natalie Renee McIntyre"
+],
+"links": 42
+},
+{
+"name": "Maite Perroni",
+"aliases": [
+"la más Perroni",
+"Mai",
+"Maite",
+"Maite Perroni Beorlegui",
+"Perroni"
+],
+"links": 42
+},
+{
+"name": "Michelle Creber",
+"aliases": [
+"Michelle Nicole Creber"
+],
+"links": 42
+},
+{
+"name": "Michelle Phillips",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Mitski",
+"aliases": [
+"Mitski Miyawaki",
+"Mitsuki Laycock",
+"Mitsuki Miyawaki"
+],
+"links": 42
+},
+{
+"name": "Namie Amuro",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Nicole Anderson",
+"aliases": [
+"Nicole Gale Anderson"
+],
+"links": 42
+},
+{
+"name": "Ornella Vanoni",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Peter Gallagher",
+"aliases": [
+"Peter Killian Gallagher"
+],
+"links": 42
+},
+{
+"name": "Peter Stormare",
+"aliases": [
+"Rolf Peter Ingvar Storm"
+],
+"links": 42
+},
+{
+"name": "Phoebe Bridgers",
+"aliases": [
+"Phoebe L. Bridgers",
+"Phoebe Lucille Bridgers"
+],
+"links": 42
+},
+{
+"name": "Phoebe Cates",
+"aliases": [
+"Phoebe Belle Cates",
+"Phoebe Belle Cates Kline",
+"Phoebe Belle Cates-Kline",
+"Phoebe Belle Katz",
+"Phoebe Cates-Kline"
+],
+"links": 42
+},
+{
+"name": "Richie Sambora",
+"aliases": [
+"Richard Stephen Sambora"
+],
+"links": 42
+},
+{
+"name": "Rory Gallagher",
+"aliases": [
+"William Rory Gallagher"
+],
+"links": 42
+},
+{
+"name": "Roy Jones Jr.",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Ryan Tedder",
+"aliases": [
+"Ryan Benjamin Tedder"
+],
+"links": 42
+},
+{
+"name": "Safura Alizadeh",
+"aliases": [
+"Safura Alizadeh Aliyeva"
+],
+"links": 42
+},
+{
+"name": "Sandra Dee",
+"aliases": [
+"Alexandra Cymboliak Zuck"
+],
+"links": 42
+},
+{
+"name": "Simone Simons",
+"aliases": [
+"Simone Johanna Maria Simons",
+"Simone Maria Simons"
+],
+"links": 42
+},
+{
+"name": "Sonny Bono",
+"aliases": [
+"Don Christy",
+"Prince Carter",
+"S. Christy",
+"Salvatore P. Bono",
+"Salvatore Phillip Bono",
+"Scott Christy"
+],
+"links": 42
+},
+{
+"name": "Sonu Nigam",
+"aliases": [
+"Lord of Chords"
+],
+"links": 42
+},
+{
+"name": "Stella Mwangi",
+"aliases": [
+"Stella Nyambura Mwangi"
+],
+"links": 42
+},
+{
+"name": "Svetlana Loboda",
+"aliases": [
+"Loboda",
+"Svitlana Loboda",
+"Svitlana Serhiivna Loboda"
+],
+"links": 42
+},
+{
+"name": "Sylvie Vartan",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Sérgio Mendes",
+"aliases": [
+"Sergio Mendes"
+],
+"links": 42
+},
+{
+"name": "Tom Araya",
+"aliases": [
+"Tomás Enrique Araya",
+"Tomás Enrique Araya Díaz"
+],
+"links": 42
+},
+{
+"name": "Tony Goldwyn",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Vanilla Ice",
+"aliases": [
+"Robert Matthew Van Winkle Rodriguez"
+],
+"links": 42
+},
+{
+"name": "Vincent Gallo",
+"aliases": [
+"V. Gallo",
+"Vince Gallo",
+"Vinnie Gallo"
+],
+"links": 42
+},
+{
+"name": "Wilhelm Müller",
+"aliases": [
+"Johann Ludwig Wilhelm Müller",
+"Wilhelm Muller"
+],
+"links": 42
+},
+{
+"name": "Young Thug",
+"aliases": [
+"King Slime",
+"Sex",
+"Spider",
+"Thugger",
+"Young Truly Humble Under God"
+],
+"links": 42
+},
+{
+"name": "Zubeen Garg",
+"aliases": [
+"Jibon Borthakur"
+],
+"links": 42
+},
+{
+"name": "Afrika Bambaataa",
+"aliases": [],
+"links": 41
+},
+{
+"name": "AJ Michalka",
+"aliases": [
+"Amanda Michalka"
+],
+"links": 41
+},
+{
+"name": "Alessandra Mussolini",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Ani DiFranco",
+"aliases": [
+"Angela DiFranco",
+"Ani Di Franco"
+],
+"links": 41
+},
+{
+"name": "Anne-Marie David",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Barry Manilow",
+"aliases": [
+"Barry Alan Pincus"
+],
+"links": 41
+},
+{
+"name": "Billy Dee Williams",
+"aliases": [
+"William December Williams Jr."
+],
+"links": 41
+},
+{
+"name": "Brenda Fassie",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Brenda Lee",
+"aliases": [
+"Brenda Lee Shacklett",
+"Brenda Mae Shacklett",
+"Brenda Mae Tarpley",
+"Brenda Shacklett",
+"Brenda Tarpley"
+],
+"links": 41
+},
+{
+"name": "Chet Atkins",
+"aliases": [
+"Chester Burton Atkins"
+],
+"links": 41
+},
+{
+"name": "Chris de Burgh",
+"aliases": [
+"Christopher John Davison"
+],
+"links": 41
+},
+{
+"name": "Claude Sautet",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Connie Britton",
+"aliases": [
+"Constance Elaine Womack"
+],
+"links": 41
+},
+{
+"name": "Dami Im",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Dana Rosemary Scallon",
+"aliases": [
+"Dana",
+"Dana Scallon"
+],
+"links": 41
+},
+{
+"name": "David Cassidy",
+"aliases": [],
+"links": 41
+},
+{
+"name": "David Foster",
+"aliases": [
+"David W. Foster",
+"David Walter Foster"
+],
+"links": 41
+},
+{
+"name": "Destiny Chukunyere",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Dino Merlin",
+"aliases": [
+"Dino Dervišhalidović",
+"Edin Dervišhalidović"
+],
+"links": 41
+},
+{
+"name": "Dmytro Bortnianskyi",
+"aliases": [
+"Dmitry Stepanovich Bortniansky",
+"Dmytro Bortniansky"
+],
+"links": 41
+},
+{
+"name": "Eddie Albert",
+"aliases": [
+"Edward Albert Heimberger"
+],
+"links": 41
+},
+{
+"name": "Eddie Cantor",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Eduard Khil",
+"aliases": [
+"Eduard Anatolyevich Khil",
+"Edward Hill"
+],
+"links": 41
+},
+{
+"name": "Elis Regina",
+"aliases": [
+"Elis Regina Carvalho Costa"
+],
+"links": 41
+},
+{
+"name": "Eric Burdon",
+"aliases": [
+"Eric Victor Burdon"
+],
+"links": 41
+},
+{
+"name": "Eva Cassidy",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Eva Rivas",
+"aliases": [
+"Valeriya Alexandrovna Reshetnikova-Tsaturyan"
+],
+"links": 41
+},
+{
+"name": "Franco Battiato",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Frankie Valli",
+"aliases": [
+"Francesco Castelluccio"
+],
+"links": 41
+},
+{
+"name": "Frida Boccara",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Ginger Baker",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Heather Morris",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Ivi Adamou",
+"aliases": [
+"Ívi Adámou"
+],
+"links": 41
+},
+{
+"name": "Jack Bruce",
+"aliases": [
+"John S. A. Bruce",
+"John Symon Asher Bruce"
+],
+"links": 41
+},
+{
+"name": "Jackson Rathbone",
+"aliases": [
+"Monroe Jackson Rathbone V"
+],
+"links": 41
+},
+{
+"name": "James Whitmore",
+"aliases": [
+"James Allen Whitmore"
+],
+"links": 41
+},
+{
+"name": "Jayma Mays",
+"aliases": [
+"Jayma Suzette Mays"
+],
+"links": 41
+},
+{
+"name": "Jello Biafra",
+"aliases": [
+"Eric Boucher",
+"Eric R. Boucher"
+],
+"links": 41
+},
+{
+"name": "Jerry Garcia",
+"aliases": [
+"Jerome John Garcia"
+],
+"links": 41
+},
+{
+"name": "Jiah Khan",
+"aliases": [
+"Nafisa Khan",
+"Nafisa Rizvi Khan"
+],
+"links": 41
+},
+{
+"name": "Jill Johnson",
+"aliases": [
+"Jill Anna Maria Johnsson"
+],
+"links": 41
+},
+{
+"name": "Jodi Benson",
+"aliases": [
+"Jodi Marie Benson",
+"Jodi Marie Marzorati-Benson",
+"Jodi Marzorati"
+],
+"links": 41
+},
+{
+"name": "Joe Zawinul",
+"aliases": [
+"Josef Erich Zawinul"
+],
+"links": 41
+},
+{
+"name": "John Corbett",
+"aliases": [
+"John Joseph Corbett",
+"John Joseph Corbett Jr."
+],
+"links": 41
+},
+{
+"name": "John Fogerty",
+"aliases": [
+"J.C. Fogerty",
+"John C. Fogerty",
+"John Cameron Fogerty"
+],
+"links": 41
+},
+{
+"name": "John Stamos",
+"aliases": [
+"John Phillip Stamos"
+],
+"links": 41
+},
+{
+"name": "Jonny Buckland",
+"aliases": [
+"Jon Buckland",
+"Jonathan Buckland"
+],
+"links": 41
+},
+{
+"name": "Julia Michaels",
+"aliases": [
+"Julia Carin Cavassos",
+"Julia Carin Cavazos",
+"Julia Cavassos"
+],
+"links": 41
+},
+{
+"name": "Kacey Musgraves",
+"aliases": [
+"Kacey Lee Musgraves"
+],
+"links": 41
+},
+{
+"name": "Keith David",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Kikki Danielsson",
+"aliases": [
+"Ann-Kristin Danielsson",
+"Annkristin Danielsson",
+"Kicki Danielsson"
+],
+"links": 41
+},
+{
+"name": "Kim Da-hyun",
+"aliases": [
+"Dahyun",
+"Dubu tofu"
+],
+"links": 41
+},
+{
+"name": "Käärijä",
+"aliases": [
+"Jere Pöyhönen"
+],
+"links": 41
+},
+{
+"name": "K’naan",
+"aliases": [
+"K.Warsame",
+"Keinan Abdi Warsame",
+"K’naan Warsame"
+],
+"links": 41
+},
+{
+"name": "Lale Andersen",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Lenka",
+"aliases": [
+"Lenka Kripac"
+],
+"links": 41
+},
+{
+"name": "LP",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Mariya Yaremchuk",
+"aliases": [
+"Mariya Nazarivna Yaremchuk"
+],
+"links": 41
+},
+{
+"name": "Matthew Morrison",
+"aliases": [
+"Matthew James Morrison"
+],
+"links": 41
+},
+{
+"name": "Merle Haggard",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Michael Landon",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Momo",
+"aliases": [
+"Hirai Momo"
+],
+"links": 41
+},
+{
+"name": "Neil Sedaka",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Nellie Melba",
+"aliases": [
+"Dame Nellie Melba",
+"Helen Porter Armstrong"
+],
+"links": 41
+},
+{
+"name": "Nicole Richie",
+"aliases": [
+"Nicole Camille Escobedo"
+],
+"links": 41
+},
+{
+"name": "Nigar Jamal",
+"aliases": [
+"Nigar Santiago de León qizi Jamal"
+],
+"links": 41
+},
+{
+"name": "Olivia Holt",
+"aliases": [
+"Olivia Hastings Holt"
+],
+"links": 41
+},
+{
+"name": "Olly Murs",
+"aliases": [
+"Oliver Stanley Murs"
+],
+"links": 41
+},
+{
+"name": "Pearl Bailey",
+"aliases": [
+"Pearl Mae Bailey"
+],
+"links": 41
+},
+{
+"name": "Peggy Lipton",
+"aliases": [
+"Margaret Anne Lipton",
+"Margaret Lipton",
+"Peggy Ann Lipton",
+"Peggy Anne Lipton",
+"Peggy Lipton Jones"
+],
+"links": 41
+},
+{
+"name": "Richard Kruspe",
+"aliases": [
+"Richard Kruspe Bernstein",
+"Richard Z. Kruspe",
+"Richard Zven Kruspe",
+"Sven Kruspe",
+"Zven Kruspe"
+],
+"links": 41
+},
+{
+"name": "Richard Marx",
+"aliases": [
+"Richard N. Marx",
+"Richard Noel Marx"
+],
+"links": 41
+},
+{
+"name": "Sabrina Salerno",
+"aliases": [
+"Sabrina"
+],
+"links": 41
+},
+{
+"name": "Salomé",
+"aliases": [
+"Maria Rosa Marco Poque",
+"Salome"
+],
+"links": 41
+},
+{
+"name": "Salvatore Adamo",
+"aliases": [
+"Adamo",
+"Eumir Adamo de Almeida",
+"Salvatore Knight Adamo",
+"Salvatore, Knight Adamo"
+],
+"links": 41
+},
+{
+"name": "Solomon Burke",
+"aliases": [
+"Solomon Vincent McDonald Burke"
+],
+"links": 41
+},
+{
+"name": "Steven Wilson",
+"aliases": [
+"Steven John Wilson",
+"Wilson Steven"
+],
+"links": 41
+},
+{
+"name": "Suho",
+"aliases": [
+"Kim Joon-myeon"
+],
+"links": 41
+},
+{
+"name": "Tamara Todevska",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Tanel Padar",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Tatyana Ali",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Teyana Taylor",
+"aliases": [
+"Teyana",
+"Teyana Me Shay Jacqueli Shumpert"
+],
+"links": 41
+},
+{
+"name": "Tony Leung",
+"aliases": [
+"Leung Chiu-wai",
+"Tony Chiu Wai Leung",
+"Tony Leung Chiu-wai"
+],
+"links": 41
+},
+{
+"name": "Tracey Ullman",
+"aliases": [
+"Tracey Ullman McKeown"
+],
+"links": 41
+},
+{
+"name": "Udit Narayan Jha",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Valeria Golino",
+"aliases": [
+"Valéria Golino"
+],
+"links": 41
+},
+{
+"name": "Victor Garber",
+"aliases": [
+"Victor Jay Garber",
+"Victor Joseph Garber"
+],
+"links": 41
+},
+{
+"name": "Yunjin Kim",
+"aliases": [
+"Kim Yoon Jin",
+"Kim Yoon-jin",
+"Kim Yun Jin",
+"Kim Yun-jin",
+"Yoon Jin Kim",
+"Yoon-jin Kim",
+"Yoonjin Kim",
+"Yun-jin Kim"
+],
+"links": 41
+},
+{
+"name": "Zarah Leander",
+"aliases": [
+"Sara Stina Hedberg"
+],
+"links": 41
+},
+{
+"name": "Agnès Jaoui",
+"aliases": [
+"Agnes Jaoui"
+],
+"links": 40
+},
+{
+"name": "Al Green",
+"aliases": [
+"Albert Greene",
+"Albert Leornes Greene",
+"Reverend Al Green"
+],
+"links": 40
+},
+{
+"name": "Alexi Laiho",
+"aliases": [
+"Aleksi Laiho",
+"Alexi Wildchild Laiho",
+"Epileps",
+"Markku Uula Aleksi Laiho"
+],
+"links": 40
+},
+{
+"name": "Ali Farka Touré",
+"aliases": [
+"Ali Farka Toure"
+],
+"links": 40
+},
+{
+"name": "Alissa White-Gluz",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Amanda Palmer",
+"aliases": [
+"Amanda MacKinnon Gaiman Palmer"
+],
+"links": 40
+},
+{
+"name": "Anastasiia Prykhodko",
+"aliases": [
+"Anastasiia Kostyantynivna Prykhodko"
+],
+"links": 40
+},
+{
+"name": "Andrei Mironov",
+"aliases": [
+"Andrei Aleksandrovich Mironov"
+],
+"links": 40
+},
+{
+"name": "Angèle",
+"aliases": [
+"Angèle Joséphine Aimée Van Laeken",
+"Angèle Van Laeken"
+],
+"links": 40
+},
+{
+"name": "Barbara Pravi",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Brendon Urie",
+"aliases": [
+"Brendon Boyd Urie"
+],
+"links": 40
+},
+{
+"name": "Buddy Rich",
+"aliases": [
+"Bernard",
+"Bernard Rich",
+"Bernard Trapps",
+"Buddy",
+"Buddy Poor",
+"Buddy Rich Band",
+"Buddy Rich Big Band",
+"Buddy Rich Orchestra",
+"Rich",
+"The Big Band Machine"
+],
+"links": 40
+},
+{
+"name": "Cailee Spaeny",
+"aliases": [],
+"links": 40
+},
+{
+"name": "CL",
+"aliases": [
+"ChaeLin",
+"Chaelin Lee",
+"Lee Chae Lin",
+"Lee Chae-lin"
+],
+"links": 40
+},
+{
+"name": "Clifton Webb",
+"aliases": [
+"Webb Parmelee Hollenbeck",
+"Webb Raum"
+],
+"links": 40
+},
+{
+"name": "Compay Segundo",
+"aliases": [
+"Francisco Repilado"
+],
+"links": 40
+},
+{
+"name": "Dave Benton",
+"aliases": [],
+"links": 40
+},
+{
+"name": "David Lee Roth",
+"aliases": [
+"Diamond Dave",
+"DLR"
+],
+"links": 40
+},
+{
+"name": "Donnie Wahlberg",
+"aliases": [
+"Donald Edmond Wahlberg, Jr."
+],
+"links": 40
+},
+{
+"name": "Dulce María",
+"aliases": [
+"Dulce Maria",
+"Dulce María Espinoza Saviñón"
+],
+"links": 40
+},
+{
+"name": "Eddie Cochran",
+"aliases": [
+"Edward Cochran",
+"Edward Ray Cochran",
+"Edward Raymond 'Eddie' Cochran",
+"Edward Raymond Cochran",
+"Ray Edward Cochran",
+"Ray Edward Cochrane"
+],
+"links": 40
+},
+{
+"name": "Eden Golan",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Eimear Quinn",
+"aliases": [
+"Eimear Mary Rose Quinn"
+],
+"links": 40
+},
+{
+"name": "Elaine Paige",
+"aliases": [
+"Elaine Jill Paige"
+],
+"links": 40
+},
+{
+"name": "Elena Gheorghe",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Emeli Sandé",
+"aliases": [
+"Adele Emely Sandé",
+"Adele Sandé"
+],
+"links": 40
+},
+{
+"name": "Emma",
+"aliases": [
+"Emma Marrone"
+],
+"links": 40
+},
+{
+"name": "George Clinton",
+"aliases": [
+"Doctor Funkenstein",
+"Dr. Funkenstein",
+"George Edward Clinton"
+],
+"links": 40
+},
+{
+"name": "George Gaynes",
+"aliases": [
+"George Jongejans"
+],
+"links": 40
+},
+{
+"name": "George Strait",
+"aliases": [
+"George Harvey Strait"
+],
+"links": 40
+},
+{
+"name": "Gregorio Allegri",
+"aliases": [
+"Allegri"
+],
+"links": 40
+},
+{
+"name": "Gulnara Karimova",
+"aliases": [
+"Gulnara Islamovna Karimova",
+"Qoshiq"
+],
+"links": 40
+},
+{
+"name": "Halle Bailey",
+"aliases": [
+"Halle",
+"Halle Lynn Bailey"
+],
+"links": 40
+},
+{
+"name": "Helen Reddy",
+"aliases": [
+"Helen Maxine Lamond Reddy",
+"Helen Maxine Reddy",
+"Helen Wald"
+],
+"links": 40
+},
+{
+"name": "Hildur Guðnadóttir",
+"aliases": [
+"Guðnadóttir Hildur",
+"Hildur Gudnadottir",
+"Hildur Gudnadóttir"
+],
+"links": 40
+},
+{
+"name": "Howlin' Wolf",
+"aliases": [
+"Chester A. Burnett",
+"Chester Arthur Burnett",
+"Chester Burnett",
+"Howling Wolf"
+],
+"links": 40
+},
+{
+"name": "Hyun Bin",
+"aliases": [
+"Tae Pyung Kim"
+],
+"links": 40
+},
+{
+"name": "James Arthur",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Jermaine Jackson",
+"aliases": [
+"Jermaine La Jaune Jackson",
+"Jermaine La Juane Jackson"
+],
+"links": 40
+},
+{
+"name": "Jess Glynne",
+"aliases": [
+"Jessica Hannah Glynne"
+],
+"links": 40
+},
+{
+"name": "Justyna Steczkowska",
+"aliases": [
+"Justyna Maria Steczkowska"
+],
+"links": 40
+},
+{
+"name": "k.d. lang",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Kaitlyn Maher",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Ken Berry",
+"aliases": [
+"Ken Ronald Berry",
+"Kenneth Berry",
+"Kenneth Ronald Berry"
+],
+"links": 40
+},
+{
+"name": "Kim Carnes",
+"aliases": [
+"Kim Carnes Ellingson"
+],
+"links": 40
+},
+{
+"name": "KT Tunstall",
+"aliases": [
+"Kate Tunstall",
+"Kate V. Tunstall",
+"Kate Victoria Tunstall",
+"Katie Tunstall"
+],
+"links": 40
+},
+{
+"name": "Kyle Gass",
+"aliases": [
+"Kage"
+],
+"links": 40
+},
+{
+"name": "Laufey",
+"aliases": [
+"Laufey Lín Bing Jónsdóttir",
+"Laufey Lín Jónsdóttir"
+],
+"links": 40
+},
+{
+"name": "Lilli Palmer",
+"aliases": [
+"Lilli Marie Peiser"
+],
+"links": 40
+},
+{
+"name": "Linda Martin",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Loïc Nottet",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Luther Vandross",
+"aliases": [
+"Luther Ronzoni Vandross",
+"Luther Ronzoni Vandross Jr.",
+"Luther Vandross Jr."
+],
+"links": 40
+},
+{
+"name": "Maria Theresa of Naples and Sicily",
+"aliases": [
+"Archduchess Maria Theresa",
+"Empress Marie Therese",
+"Empress, consort of Francis I Maria Theresa",
+"Maria Theresa of Naples và Sicily",
+"Maria Theresa of Naples-Sicily",
+"Maria Theresa of the Two Sicilies"
+],
+"links": 40
+},
+{
+"name": "MC Hammer",
+"aliases": [
+"Kirk Burrell",
+"M.C. Hammer",
+"Stanley Burrell",
+"Stanley Kirk Burrell"
+],
+"links": 40
+},
+{
+"name": "Miranda Lambert",
+"aliases": [
+"Miranda Leigh Lambert"
+],
+"links": 40
+},
+{
+"name": "Natalia Barbu",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Nina Zilli",
+"aliases": [
+"Maria Chiara Fraschetta"
+],
+"links": 40
+},
+{
+"name": "Patrick Bruel",
+"aliases": [
+"Maurice Benguigui"
+],
+"links": 40
+},
+{
+"name": "Paul Stanley",
+"aliases": [
+"Stanley Bert Eisen",
+"Stanley Eisen",
+"Stanley Harvey Eisen"
+],
+"links": 40
+},
+{
+"name": "Rade Šerbedžija",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Rain",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Ray William Johnson",
+"aliases": [
+"Ray Johnson",
+"Raymond William Johnson"
+],
+"links": 40
+},
+{
+"name": "Rick James",
+"aliases": [
+"James Ambrose Johnson",
+"James Ambrose Johnson Jr.",
+"James Johnson"
+],
+"links": 40
+},
+{
+"name": "Rita Lee",
+"aliases": [
+"Rita Lee Jones",
+"Rita Lee Jones de Carvalho"
+],
+"links": 40
+},
+{
+"name": "Rob Paulsen",
+"aliases": [
+"Robert Fredrick Paulsen",
+"Robert Paulsen"
+],
+"links": 40
+},
+{
+"name": "Robert Guillaume",
+"aliases": [
+"Robert P. Williams",
+"Robert Williams"
+],
+"links": 40
+},
+{
+"name": "Roy Rogers",
+"aliases": [
+"Leonard Frank Sly",
+"Leonard Franklin Slye",
+"Leonard Sly",
+"Leonard Slye"
+],
+"links": 40
+},
+{
+"name": "Ry Cooder",
+"aliases": [
+"Ryland Cooder",
+"Ryland Peter Cooder"
+],
+"links": 40
+},
+{
+"name": "Róisín Murphy",
+"aliases": [
+"Róisín Marie Murphy"
+],
+"links": 40
+},
+{
+"name": "Sabina Babayeva",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Samira Saïd",
+"aliases": [
+"Samira Abdel Razak Bensaïd",
+"Samira Bensaïd",
+"Samira Said"
+],
+"links": 40
+},
+{
+"name": "Sarah Connor",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Shel Silverstein",
+"aliases": [
+"Sheldon Allan Silverstein",
+"Sheldon Silverstein",
+"Uncle Shelby"
+],
+"links": 40
+},
+{
+"name": "Suzanne Somers",
+"aliases": [
+"Suzanne Marie Somers"
+],
+"links": 40
+},
+{
+"name": "Tones and I",
+"aliases": [
+"Toni Watson"
+],
+"links": 40
+},
+{
+"name": "Vanessa Carlton",
+"aliases": [
+"Vanessa Carlton McCauley",
+"Vanessa Lee Carlton"
+],
+"links": 40
+},
+{
+"name": "Vera Brezhneva",
+"aliases": [
+"Vera Galushka",
+"Vera Viktorovna Galushka",
+"Vira Halushka",
+"Vira Viktorivna Halushka"
+],
+"links": 40
+},
+{
+"name": "Vitas",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Wilson Pickett",
+"aliases": [
+"Gulielmianus Pickett",
+"Wilson Picket",
+"Wilson Pickett Jr."
+],
+"links": 40
+},
+{
+"name": "Yulia Samoylova",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Zack de la Rocha",
+"aliases": [
+"Zacarias de la Rocha",
+"Zacarias Manuel de la Rocha",
+"Zach de la Rocha"
+],
+"links": 40
+},
+{
+"name": "Ailee",
+"aliases": [
+"A.Leean",
+"Lee Amy"
+],
+"links": 39
+},
+{
+"name": "Alan Ritchson",
+"aliases": [
+"Alan Michael Ritchson"
+],
+"links": 39
+},
+{
+"name": "Alexa Demie",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Alexey Vorobyov",
+"aliases": [
+"Alex Sparrow",
+"Alexey Vladimirovich Vorobyov"
+],
+"links": 39
+},
+{
+"name": "Alyson Stoner",
+"aliases": [
+"Alyson Rae Stoner"
+],
+"links": 39
+},
+{
+"name": "Aminata Savadogo",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Angela Gheorghiu",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Anna Camp",
+"aliases": [
+"Anna Ragsdale Camp"
+],
+"links": 39
+},
+{
+"name": "Anna Vissi",
+"aliases": [
+"Anna Vishy"
+],
+"links": 39
+},
+{
+"name": "Anthony Head",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Avan Jogia",
+"aliases": [
+"Avan Tudor Jogia"
+],
+"links": 39
+},
+{
+"name": "Aysel Teymurzadeh",
+"aliases": [
+"AySel",
+"Aysel Teymurzadə"
+],
+"links": 39
+},
+{
+"name": "Barbara",
+"aliases": [
+"Andrée Olga",
+"Barbara Brodi",
+"Monique Andrée Serf"
+],
+"links": 39
+},
+{
+"name": "Big Mama Thornton",
+"aliases": [],
+"links": 39
+},
+{
+"name": "C. C. Catch",
+"aliases": [
+"C.C. Catch",
+"C.C.Catch",
+"Caroline Catherina Müller",
+"Caroline Catherine Müller"
+],
+"links": 39
+},
+{
+"name": "Camarón de la Isla",
+"aliases": [
+"Camarón",
+"El Camarón De La Isla",
+"José Monje Cruz"
+],
+"links": 39
+},
+{
+"name": "Catriona Gray",
+"aliases": [
+"Binibining Pilipinas 2018",
+"Catriona Elisa Magnayon Gray",
+"Miss Universe 2018"
+],
+"links": 39
+},
+{
+"name": "Central Cee",
+"aliases": [
+"Oakley Neil H T Caesar-Su",
+"Oakley Neil H. T. Caesar-Su"
+],
+"links": 39
+},
+{
+"name": "Cha Eun-woo",
+"aliases": [
+"Lee Dong-min"
+],
+"links": 39
+},
+{
+"name": "Chiara Mastroianni",
+"aliases": [
+"Chiara Charlotte Mastroianni"
+],
+"links": 39
+},
+{
+"name": "Chris Hadfield",
+"aliases": [
+"Chris A. Hadfield",
+"Cmdr. Hadfield",
+"Col. Chris Hadfield",
+"Commander Hadfield",
+"Hadfield"
+],
+"links": 39
+},
+{
+"name": "Chrissie Hynde",
+"aliases": [
+"Christine Elaine Hynde",
+"Christine Kerr"
+],
+"links": 39
+},
+{
+"name": "Cody Simpson",
+"aliases": [
+"Cody Robert Simpson"
+],
+"links": 39
+},
+{
+"name": "Damian Lewis",
+"aliases": [],
+"links": 39
+},
+{
+"name": "David Koechner",
+"aliases": [
+"David Michael Koechner"
+],
+"links": 39
+},
+{
+"name": "Edward Maya",
+"aliases": [
+"Eduard Marian Ilie"
+],
+"links": 39
+},
+{
+"name": "Elissa",
+"aliases": [
+"Elissar Zakaria Khoury",
+"Ilīsār Zakariyyā Khūrī"
+],
+"links": 39
+},
+{
+"name": "Feist",
+"aliases": [
+"Leslie Feist"
+],
+"links": 39
+},
+{
+"name": "FKA twigs",
+"aliases": [
+"Tahliah Barnett"
+],
+"links": 39
+},
+{
+"name": "Freema Agyeman",
+"aliases": [
+"Frema Agyeman"
+],
+"links": 39
+},
+{
+"name": "G Hannelius",
+"aliases": [
+"Genevieve Hannelius",
+"Genevieve Knight",
+"Hannelius"
+],
+"links": 39
+},
+{
+"name": "Gaitana",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Gary Numan",
+"aliases": [
+"Gary Webb"
+],
+"links": 39
+},
+{
+"name": "Gene Vincent",
+"aliases": [
+"Vincent Eugene Craddock"
+],
+"links": 39
+},
+{
+"name": "Greg Lake",
+"aliases": [
+"Gregory Lake"
+],
+"links": 39
+},
+{
+"name": "Greta Salóme Stefánsdóttir",
+"aliases": [
+"Greta Salome",
+"Greta Salome Stefansdottir",
+"Greta Salóme",
+"Gréta Salome"
+],
+"links": 39
+},
+{
+"name": "Guillaume Depardieu",
+"aliases": [
+"Guillaume Jean Maxime Antoine Depardieu"
+],
+"links": 39
+},
+{
+"name": "Hannah Waddingham",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Harry Nilsson",
+"aliases": [
+"Harry Edward Nilsson III",
+"Nilsson"
+],
+"links": 39
+},
+{
+"name": "Haylie Duff",
+"aliases": [
+"Haylie Katherine Duff",
+"Haylie Michelle Duff"
+],
+"links": 39
+},
+{
+"name": "Ibrahim Ferrer",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Ja Rule",
+"aliases": [
+"Ja",
+"Jah",
+"Jah Rule",
+"Jeffrey Atkins",
+"Jeffrey Bruce Atkins"
+],
+"links": 39
+},
+{
+"name": "Jean-Claude Pascal",
+"aliases": [
+"Jean Pascal",
+"Jean-Claude Villeminot"
+],
+"links": 39
+},
+{
+"name": "Ji Chang-wook",
+"aliases": [
+"Jee Chang-uk",
+"Jee Chang-wook",
+"Jee Chang-wuk",
+"Ji Chang Wook",
+"Ji Chang-uk",
+"Ji Chang-wuk",
+"Ji Changuk"
+],
+"links": 39
+},
+{
+"name": "Jim Sturgess",
+"aliases": [
+"James Anthony Sturgess"
+],
+"links": 39
+},
+{
+"name": "Joey Ramone",
+"aliases": [
+"Jeff Starship",
+"Jeffrey Ross Hyman",
+"Jeffry Hyman"
+],
+"links": 39
+},
+{
+"name": "Johnny Nash",
+"aliases": [
+"John Lester Nash Jr.",
+"John Lester Nash, Jr.",
+"John Nash"
+],
+"links": 39
+},
+{
+"name": "Karolina Gočeva",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Kevin Federline",
+"aliases": [
+"Kevin Earl Federline"
+],
+"links": 39
+},
+{
+"name": "Kira Kosarin",
+"aliases": [
+"Kira Kosarin Chester"
+],
+"links": 39
+},
+{
+"name": "Lee Ranaldo",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Lenny Kuhr",
+"aliases": [
+"Helena Hubertina Johanna Kuhr"
+],
+"links": 39
+},
+{
+"name": "Lesley Gore",
+"aliases": [
+"Lesley Goldstein",
+"Lesley Sue Goldstein"
+],
+"links": 39
+},
+{
+"name": "Lhasa de Sela",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Lil' Kim",
+"aliases": [
+"Kimberly Denise Jones"
+],
+"links": 39
+},
+{
+"name": "Lykke Li",
+"aliases": [
+"Li Lykke Timotej Zachrisson",
+"Lykke Zachrisson"
+],
+"links": 39
+},
+{
+"name": "M. S. Subbulakshmi",
+"aliases": [
+"Madurai Shanmukhavadivu Subbulakshmi"
+],
+"links": 39
+},
+{
+"name": "M. Shadows",
+"aliases": [
+"Matthew Charles Sanders"
+],
+"links": 39
+},
+{
+"name": "Madelaine Petsch",
+"aliases": [
+"Madelaine Grobbelaar Petsch"
+],
+"links": 39
+},
+{
+"name": "Marco Hietala",
+"aliases": [
+"Marko Hietala"
+],
+"links": 39
+},
+{
+"name": "Marie Myriam",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Mark Hoppus",
+"aliases": [
+"Fish Guts",
+"Jack Hoppus",
+"Mark Allan Hoppus",
+"Markus Allan Hoppus",
+"snddoɥ ʞɹɐɯ"
+],
+"links": 39
+},
+{
+"name": "Marko Perković",
+"aliases": [
+"Marko Perković Thompson"
+],
+"links": 39
+},
+{
+"name": "Martin Gore",
+"aliases": [
+"Martin L. Gore",
+"Martin Lee Gore"
+],
+"links": 39
+},
+{
+"name": "Mena Massoud",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Mickie James",
+"aliases": [
+"Alexis Laree",
+"Mickie Laree James",
+"Mickie Laree James-Aldis"
+],
+"links": 39
+},
+{
+"name": "Missi Pyle",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Mitchel Musso",
+"aliases": [
+"Mitchel Tate Musso"
+],
+"links": 39
+},
+{
+"name": "Nicky Byrne",
+"aliases": [
+"Nicholas Bernard James Adam Byrne"
+],
+"links": 39
+},
+{
+"name": "Nina Sublati",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Nolwenn Leroy",
+"aliases": [
+"Nolwenn Le Magueresse"
+],
+"links": 39
+},
+{
+"name": "Orlando Jones",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Paget Brewster",
+"aliases": [
+"Paget Valerie Brewster"
+],
+"links": 39
+},
+{
+"name": "Patsy Kensit",
+"aliases": [
+"Patricia Jude Frances Kensit",
+"Patricia Jude Kensit"
+],
+"links": 39
+},
+{
+"name": "Rachid Taha",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Rhona Mitra",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Robert Picardo",
+"aliases": [
+"Robert Alphonse Picardo"
+],
+"links": 39
+},
+{
+"name": "Ryu Jun-yeol",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Saara Aalto",
+"aliases": [
+"Saara Sofia Aalto"
+],
+"links": 39
+},
+{
+"name": "Sal Mineo",
+"aliases": [
+"Salvatore Mineo, Jr."
+],
+"links": 39
+},
+{
+"name": "Sam Riley",
+"aliases": [
+"Samuel Peter W. Riley"
+],
+"links": 39
+},
+{
+"name": "Sandara Park",
+"aliases": [
+"Dara",
+"Darong",
+"Krung-krung",
+"Sandy Park"
+],
+"links": 39
+},
+{
+"name": "Sergey Bezrukov",
+"aliases": [
+"Sergey Vitalyevich Bezrukov"
+],
+"links": 39
+},
+{
+"name": "Stephen Foster",
+"aliases": [
+"Stephen C. Foster",
+"Stephen Collins Foster"
+],
+"links": 39
+},
+{
+"name": "Svetlana Ceca Ražnatović",
+"aliases": [
+"Ceca",
+"Ceca Ražnatović",
+"Svetlana Ražnatović",
+"Svetlana Ražnjatović",
+"Svetlana Veličković"
+],
+"links": 39
+},
+{
+"name": "Tammy Wynette",
+"aliases": [
+"Virginia Wynette Richey"
+],
+"links": 39
+},
+{
+"name": "Tamta",
+"aliases": [
+"Tamta Goduadze"
+],
+"links": 39
+},
+{
+"name": "Tchéky Karyo",
+"aliases": [],
+"links": 39
+},
+{
+"name": "The Rev",
+"aliases": [
+"James Owen Sullivan",
+"Jimmy Sullivan",
+"Mr. Plague",
+"Rat Head"
+],
+"links": 39
+},
+{
+"name": "Thongchai McIntyre",
+"aliases": [
+"Albert Thongchai McIntyre",
+"Bird Thongchai",
+"Bird Thongchai McIntyr"
+],
+"links": 39
+},
+{
+"name": "Thurston Moore",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Tinie Tempah",
+"aliases": [
+"Patrick Chukwuemeka Okogwu",
+"Patrick Okogwu"
+],
+"links": 39
+},
+{
+"name": "Tino Insana",
+"aliases": [
+"Silvio Insana",
+"Silvio Peter Insana",
+"Tino Peter Insana"
+],
+"links": 39
+},
+{
+"name": "Umberto Tozzi",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Victoria Principal",
+"aliases": [
+"Vicki Ree Principal"
+],
+"links": 39
+},
+{
+"name": "Wayne Brady",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Yulia Savicheva",
+"aliases": [
+"Julia Savicheva",
+"Yulia Stanislavovna Savicheva"
+],
+"links": 39
+},
+{
+"name": "Zeca Pagodinho",
+"aliases": [
+"Jessé Gomes da Silva Filho"
+],
+"links": 39
+},
+{
+"name": "Amy Grant",
+"aliases": [
+"Amy Lee Grant"
+],
+"links": 38
+},
+{
+"name": "Angela Gossow",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Arletty",
+"aliases": [
+"Leonie Marie Julie Bathiat",
+"Léonie Bathiat",
+"Léonie Marie Julie Bathiat"
+],
+"links": 38
+},
+{
+"name": "Bebe Neuwirth",
+"aliases": [
+"Beatrice J. Neuwirth",
+"Beatrice Neuwirth"
+],
+"links": 38
+},
+{
+"name": "Beverly D'Angelo",
+"aliases": [
+"Beverly Heather D'Angelo"
+],
+"links": 38
+},
+{
+"name": "Big Sean",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Bill Kaulitz",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Billie Piper",
+"aliases": [
+"Billie Paul Piper",
+"Leian Paul Piper",
+"Lianne Paul Piper",
+"Lianne Piper"
+],
+"links": 38
+},
+{
+"name": "Bobby Brown",
+"aliases": [
+"Robert Barisford Bobby Brown",
+"Robert Barisford Brown"
+],
+"links": 38
+},
+{
+"name": "Chalermpol Malakham",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Chiaki Kuriyama",
+"aliases": [
+"Kuriyama Chiaki"
+],
+"links": 38
+},
+{
+"name": "Christian Cueva",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Christian Nodal",
+"aliases": [
+"Christian Jesús González Nodal"
+],
+"links": 38
+},
+{
+"name": "Common",
+"aliases": [
+"Common Sense",
+"Lonnie Corant Jaman Shuka Rashid Lynn",
+"Lonnie Lynn",
+"Lonnie R. Lynn",
+"Lonnie Rashid Lynn"
+],
+"links": 38
+},
+{
+"name": "Conan Gray",
+"aliases": [
+"Conan Lee Gray"
+],
+"links": 38
+},
+{
+"name": "David Bisbal",
+"aliases": [
+"David Bisbal Ferre"
+],
+"links": 38
+},
+{
+"name": "Dean Edwards",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Dick Powell",
+"aliases": [
+"Richard Ewing Powell"
+],
+"links": 38
+},
+{
+"name": "Dilraba Dilmurat",
+"aliases": [
+"Di Li Re Ba",
+"Dili Reba",
+"Dilireba",
+"Dilireba Dilimulati",
+"Pan Di",
+"Re Ba",
+"Xiao Di"
+],
+"links": 38
+},
+{
+"name": "Doh Kyung-soo",
+"aliases": [
+"D.O.",
+"Do Gyeongsu",
+"Do Kyung Soo"
+],
+"links": 38
+},
+{
+"name": "Doro Pesch",
+"aliases": [
+"Dorothee Pesch"
+],
+"links": 38
+},
+{
+"name": "Ed Helms",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Eileen Brennan",
+"aliases": [
+"Verla Eileen Regina Brennan"
+],
+"links": 38
+},
+{
+"name": "Emma, Lady Hamilton",
+"aliases": [
+"Amy Lyon",
+"Dame Emma Hamilton",
+"Emily Lyon",
+"Emma Hamilton",
+"Emma Lyon",
+"Lady Emma Hamilton",
+"Lady Hamilton"
+],
+"links": 38
+},
+{
+"name": "Facundo Cabral",
+"aliases": [
+"Indio Gasparino"
+],
+"links": 38
+},
+{
+"name": "Florian Schneider",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Geraldine Fitzgerald",
+"aliases": [
+"Geraldine Mary Fitzgerald"
+],
+"links": 38
+},
+{
+"name": "Gilles Binchois",
+"aliases": [
+"Binchois",
+"Gilles de Bins"
+],
+"links": 38
+},
+{
+"name": "Glen Hansard",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Gregg Allman",
+"aliases": [
+"Gregory L. Allman",
+"Gregory LeNoir Allman",
+"Gregory Lenoir Allman"
+],
+"links": 38
+},
+{
+"name": "Grey DeLisle",
+"aliases": [
+"Erin Grey Griffin",
+"Erin Grey Van Oosbree",
+"Glazed Griffin",
+"Gray DeLisle",
+"Gray DeLisle-Griffin",
+"Grey De Lisle",
+"Grey DeLisle Griffin",
+"Grey Delisle Griffin",
+"Grey Delisle-Griffin",
+"Grey DeLisle-Griffin",
+"Grey Deslisle",
+"Grey Grffin",
+"Grey Griffin",
+"Grey-DeLisle-Griffin"
+],
+"links": 38
+},
+{
+"name": "Guy Sebastian",
+"aliases": [
+"Guy Theodore Sebastian"
+],
+"links": 38
+},
+{
+"name": "Harold Arlen",
+"aliases": [
+"Harold Arluck"
+],
+"links": 38
+},
+{
+"name": "Hayley Kiyoko",
+"aliases": [
+"Hayley Alcroft",
+"Hayley Kiyoko Alcroft"
+],
+"links": 38
+},
+{
+"name": "Hide",
+"aliases": [
+"Hideto Matsumoto"
+],
+"links": 38
+},
+{
+"name": "Itziar Ituño",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Jacky Cheung",
+"aliases": [
+"Cheung Hok-yau",
+"Jacky Cheung Hok Yau",
+"Jacky Cheung Hok-yau",
+"Zhang Xueyou"
+],
+"links": 38
+},
+{
+"name": "Jake Abel",
+"aliases": [
+"Jacob Allen Abel"
+],
+"links": 38
+},
+{
+"name": "James Last",
+"aliases": [
+"Hans Last"
+],
+"links": 38
+},
+{
+"name": "James Marsters",
+"aliases": [
+"James Wesley Marsters"
+],
+"links": 38
+},
+{
+"name": "Jessica Jung",
+"aliases": [
+"Jessica",
+"Jessica Jong",
+"Jung Jessica",
+"Jung Soo Yeon",
+"Jung Soo-yeon"
+],
+"links": 38
+},
+{
+"name": "Jessica Mauboy",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Jim Nabors",
+"aliases": [
+"James Nabors",
+"James T. Nabors",
+"James Thurston Nabors",
+"Jim T. Nabors",
+"Jim Thurston Nabors"
+],
+"links": 38
+},
+{
+"name": "Joan Manuel Serrat",
+"aliases": [
+"Joan Manuel Serrat i Teresa"
+],
+"links": 38
+},
+{
+"name": "Joanna Newsom",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Johann Adolf Hasse",
+"aliases": [],
+"links": 38
+},
+{
+"name": "John Mayall",
+"aliases": [
+"John Brumwell Mayall",
+"Mayall"
+],
+"links": 38
+},
+{
+"name": "Julian Fernando Casablancas Christiansen",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Julie London",
+"aliases": [
+"Gayle Peck",
+"Nancy Gayle Peck"
+],
+"links": 38
+},
+{
+"name": "Kalomira",
+"aliases": [
+"Kalomira Sarantis",
+"Kalomoira",
+"Maria Kalomira Sarantis"
+],
+"links": 38
+},
+{
+"name": "Kathryn Grayson",
+"aliases": [
+"Kathryn Hedrick",
+"Zelma Hedrick"
+],
+"links": 38
+},
+{
+"name": "Katja Riemann",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Kerli",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Lepa Brena",
+"aliases": [
+"Brena",
+"Fahreta Jahic-Živojinovic",
+"Fahreta Jahić",
+"Fahreta Živojinović"
+],
+"links": 38
+},
+{
+"name": "Logic",
+"aliases": [
+"Bobby Hall",
+"Bobby Tarantino",
+"Psychological",
+"Robert Bryson Hall",
+"Sir Robert Bryson Hall II",
+"Young Sinatra"
+],
+"links": 38
+},
+{
+"name": "Lola Albright",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Lucas Grabeel",
+"aliases": [
+"Lucas Stephen Grabeel"
+],
+"links": 38
+},
+{
+"name": "Lucky Dube",
+"aliases": [
+"Ermelo Dube"
+],
+"links": 38
+},
+{
+"name": "Magdalena Tul",
+"aliases": [
+"Lady Tullo",
+"Magdalena Ewa Tul",
+"Sasha"
+],
+"links": 38
+},
+{
+"name": "Marc Bolan",
+"aliases": [
+"BOE",
+"Dib Cochran",
+"Mark Feld"
+],
+"links": 38
+},
+{
+"name": "Marika Rökk",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Marit Larsen",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Mary Hopkin",
+"aliases": [
+"Mary Visconti"
+],
+"links": 38
+},
+{
+"name": "Mary Martin",
+"aliases": [
+"Mary Virginia Martin"
+],
+"links": 38
+},
+{
+"name": "Matt Frewer",
+"aliases": [
+"Matthew Frewer",
+"Matthew George Frewer"
+],
+"links": 38
+},
+{
+"name": "Matt K. Miller",
+"aliases": [
+"Kermit Beechwood",
+"Matt Kermit Miller",
+"Matt Miller",
+"Matthew K. Miller",
+"Matthew Kermit Miller"
+],
+"links": 38
+},
+{
+"name": "Maynard James Keenan",
+"aliases": [
+"James Herbert Keenan",
+"Maynard Keenan",
+"MJK"
+],
+"links": 38
+},
+{
+"name": "Meaghan Jette Martin",
+"aliases": [],
+"links": 38
+},
+{
+"name": "N. T. Rama Rao Jr.",
+"aliases": [
+"Jr. NTR",
+"Junior N. T. R.",
+"Junior N.T.R.",
+"Junior NTR",
+"N.T.R.",
+"Nandamoori Tarakaramarao Jr.",
+"Nandamuri Taraka Rama Rao",
+"Nandamuri Tarakaramarao Jr.",
+"NTR Jr."
+],
+"links": 38
+},
+{
+"name": "Natalia Gordienko",
+"aliases": [],
+"links": 38
+},
+{
+"name": "NF",
+"aliases": [
+"Nate Feuerstein",
+"Nathan Feuerstein",
+"Nathan John Feuerstein",
+"ИF"
+],
+"links": 38
+},
+{
+"name": "Nicole",
+"aliases": [
+"Denisse Lillian Laval Soza"
+],
+"links": 38
+},
+{
+"name": "Pasha Parfeni",
+"aliases": [
+"Pasha Parfeny"
+],
+"links": 38
+},
+{
+"name": "Pat Carroll",
+"aliases": [
+"Patricia Ann Carroll",
+"Patricia Carroll"
+],
+"links": 38
+},
+{
+"name": "Patti LaBelle",
+"aliases": [
+"Patricia Louise Holt-Edwards",
+"Patricia Louise Holte-Edwards",
+"Patti La Belle",
+"Patti LaBell"
+],
+"links": 38
+},
+{
+"name": "Paul Landers",
+"aliases": [
+"Paul H. Landers"
+],
+"links": 38
+},
+{
+"name": "Peter Nalitch",
+"aliases": [
+"Peter Andreyevich Nalitch",
+"Petr Nalich",
+"Pyotr Andreyevich Nalich",
+"Pyotr Nalich"
+],
+"links": 38
+},
+{
+"name": "Peter Steele",
+"aliases": [
+"Pete Steele",
+"Petrus Thomas Ratajczyk",
+"The Green Man"
+],
+"links": 38
+},
+{
+"name": "Prabhu Deva",
+"aliases": [
+"Prabhudheva"
+],
+"links": 38
+},
+{
+"name": "Raven-Symoné",
+"aliases": [
+"Raven",
+"Raven Symone",
+"Raven Symoné",
+"Raven-Symoné Christina Pearman"
+],
+"links": 38
+},
+{
+"name": "Regis Philbin",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Robin Bengtsson",
+"aliases": [
+"Hans Robin Gustav Bengtsson"
+],
+"links": 38
+},
+{
+"name": "Samira Efendi",
+"aliases": [
+"Samira Azer gizi Efendiyeva",
+"Samira Efendiyeva"
+],
+"links": 38
+},
+{
+"name": "Sandrine Kiberlain",
+"aliases": [
+"Sandrine Kiberlajn"
+],
+"links": 38
+},
+{
+"name": "Sara Ramirez",
+"aliases": [
+"Sara Elena Ramírez Cocoyol"
+],
+"links": 38
+},
+{
+"name": "Severina",
+"aliases": [
+"Severina Kojić",
+"Severina Vučković"
+],
+"links": 38
+},
+{
+"name": "Shane West",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Sigrid",
+"aliases": [
+"Sigrid Raabe",
+"Sigrid Solbakk Raabe"
+],
+"links": 38
+},
+{
+"name": "Sixto Rodriguez",
+"aliases": [
+"Jesus Rodriguez",
+"Jesus Sixto Diaz Rodriguez",
+"Jesus Sixto Diaz-Rodriguez",
+"Jesús Rodríguez",
+"Rodriguez",
+"Sixto Diaz Rodriguez",
+"Sixto Díaz Rodríguez",
+"Sixto Rodriquez",
+"Sugar Man"
+],
+"links": 38
+},
+{
+"name": "Sly Stone",
+"aliases": [
+"Sylvester Stewart"
+],
+"links": 38
+},
+{
+"name": "Soluna Samay",
+"aliases": [
+"Soluna Samay Kettel"
+],
+"links": 38
+},
+{
+"name": "Sondra Locke",
+"aliases": [
+"Sandra Locke",
+"Sandra Louise Anderson",
+"Sandra Louise Smith"
+],
+"links": 38
+},
+{
+"name": "Steven Strait",
+"aliases": [],
+"links": 38
+},
+{
+"name": "T.O.P",
+"aliases": [
+"Choi Seung-hyun",
+"Tabi",
+"TOP"
+],
+"links": 38
+},
+{
+"name": "Tatsuya Nakadai",
+"aliases": [
+"Nakadai Tatsuya"
+],
+"links": 38
+},
+{
+"name": "Tito Jackson",
+"aliases": [
+"Toriano Adaryll Jackson",
+"Toriano Jackson"
+],
+"links": 38
+},
+{
+"name": "Tom Hulce",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Tommy Cash",
+"aliases": [
+"Tomas Tammemets"
+],
+"links": 38
+},
+{
+"name": "Tommy Lee",
+"aliases": [
+"T-Bone",
+"Tommy Lee Bass"
+],
+"links": 38
+},
+{
+"name": "Toni Polster",
+"aliases": [
+"Anton Polster",
+"Anton Toni Polster"
+],
+"links": 38
+},
+{
+"name": "Valérie Lemercier",
+"aliases": [
+"Valerie Lemercier"
+],
+"links": 38
+},
+{
+"name": "Victoria Georgieva",
+"aliases": [
+"Victoria",
+"Viktoriya Georgieva"
+],
+"links": 38
+},
+{
+"name": "Wolf Biermann",
+"aliases": [
+"Karl Wolf Biermann"
+],
+"links": 38
+},
+{
+"name": "Xiumin",
+"aliases": [
+"Kim Min-seok"
+],
+"links": 38
+},
+{
+"name": "Yeat",
+"aliases": [
+"Noah Olivier Smith"
+],
+"links": 38
+},
+{
+"name": "Yegor Letov",
+"aliases": [
+"Egor Letov",
+"Igor Fedorovich Letov",
+"Igor Fyodorovich Letov",
+"Igor Letov"
+],
+"links": 38
+},
+{
+"name": "Ajda Pekkan",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Alice Faye",
+"aliases": [
+"Alice Jeanne Faye"
+],
+"links": 37
+},
+{
+"name": "Alyona Lanskaya",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Amir",
+"aliases": [
+"Amir Haddad"
+],
+"links": 37
+},
+{
+"name": "Angelina Mango",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Anita Baker",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Anke Engelke",
+"aliases": [
+"Anke Christina Fischer"
+],
+"links": 37
+},
+{
+"name": "Arshad Warsi",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Asher Angel",
+"aliases": [
+"Asher Dov Angel"
+],
+"links": 37
+},
+{
+"name": "Barış Manço",
+"aliases": [
+"Mehmet Barış Manço"
+],
+"links": 37
+},
+{
+"name": "Betty Hutton",
+"aliases": [
+"Betty Thornburg",
+"Elizabeth Hutton",
+"Elizabeth June Thornburg",
+"Elizabeth Thornburg"
+],
+"links": 37
+},
+{
+"name": "Billy Corgan",
+"aliases": [
+"Billy",
+"Billy Burke",
+"Corgan",
+"Johnny Goat",
+"William Patrick Corgan"
+],
+"links": 37
+},
+{
+"name": "Blanche",
+"aliases": [
+"Ellie Blanche Delvaux",
+"Ellie Delvaux",
+"Ellie Noa Blanche Delvaux"
+],
+"links": 37
+},
+{
+"name": "Bob Seger",
+"aliases": [
+"Robert Clark Seger",
+"Robert Seger"
+],
+"links": 37
+},
+{
+"name": "Brad Paisley",
+"aliases": [
+"Brad Douglas Paisley",
+"Bradly Douglas Paisley"
+],
+"links": 37
+},
+{
+"name": "Brandon Flowers",
+"aliases": [
+"Brandon Richard Flowers"
+],
+"links": 37
+},
+{
+"name": "Can Bonomo",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Caterina Valente",
+"aliases": [
+"Caterina Germaine Maria Valente"
+],
+"links": 37
+},
+{
+"name": "Choi Min-ho",
+"aliases": [
+"Minho"
+],
+"links": 37
+},
+{
+"name": "Damian Marley",
+"aliases": [
+"Junior Gong"
+],
+"links": 37
+},
+{
+"name": "Dan Fogler",
+"aliases": [
+"Daniel Kevin Fogler"
+],
+"links": 37
+},
+{
+"name": "Duki",
+"aliases": [
+"Mauro Ezequiel Lombardo Quiroga"
+],
+"links": 37
+},
+{
+"name": "Edsilia Rombley",
+"aliases": [
+"Edsilia Francisca Rombley"
+],
+"links": 37
+},
+{
+"name": "Eleanor Tomlinson",
+"aliases": [
+"Eleanor May Tomlinson"
+],
+"links": 37
+},
+{
+"name": "Eleftheria Eleftheriou",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Emily Armstrong",
+"aliases": [
+"Emily Marcia Armstrong"
+],
+"links": 37
+},
+{
+"name": "Emilíana Torrini",
+"aliases": [
+"Emiliana Torrini"
+],
+"links": 37
+},
+{
+"name": "Enrico Macias",
+"aliases": [
+"Gaston Ghenassia"
+],
+"links": 37
+},
+{
+"name": "Erika Mann",
+"aliases": [
+"Erika Julia Hedwig Mann"
+],
+"links": 37
+},
+{
+"name": "Esperanza Spalding",
+"aliases": [
+"Esperanza Emily Spalding"
+],
+"links": 37
+},
+{
+"name": "Farid Mammadov",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Gabriela Gunčíková",
+"aliases": [
+"Gabriela Guncikova"
+],
+"links": 37
+},
+{
+"name": "Getter Jaani",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Gil Scott-Heron",
+"aliases": [
+"Gil Scott Heron",
+"Gilbert Scott-Heron"
+],
+"links": 37
+},
+{
+"name": "Gilda Radner",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Gims",
+"aliases": [
+"G.I.",
+"Gandhi Alimasi Djuna",
+"Gandhi Bilel Djuna",
+"Gandhi Djuna",
+"Le Monstre Marin",
+"Le Woubi Max",
+"Maitre Gims",
+"Maître Gims",
+"Meugiwarano",
+"Vortex",
+"Warano"
+],
+"links": 37
+},
+{
+"name": "Giulio Caccini",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Haddaway",
+"aliases": [
+"Alexander Haddaway",
+"Nestor Alexander Haddaway"
+],
+"links": 37
+},
+{
+"name": "Harvey Fierstein",
+"aliases": [
+"Harvey Forbes Fierstein"
+],
+"links": 37
+},
+{
+"name": "Hayley Westenra",
+"aliases": [
+"Hayley Dee Westenra"
+],
+"links": 37
+},
+{
+"name": "Hoagy Carmichael",
+"aliases": [
+"Howard Hoagland Carmichael"
+],
+"links": 37
+},
+{
+"name": "Hwasa",
+"aliases": [
+"Ahn Hye-jin"
+],
+"links": 37
+},
+{
+"name": "Indiana Evans",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Izhar Cohen",
+"aliases": [
+"Yizhar Cohen"
+],
+"links": 37
+},
+{
+"name": "Jaafar Jackson",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Jackie Wilson",
+"aliases": [
+"Mr. Excitement"
+],
+"links": 37
+},
+{
+"name": "James LaBrie",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Janel Parrish",
+"aliases": [
+"Janel Meilani Parrish Long"
+],
+"links": 37
+},
+{
+"name": "Jean-Jacques Goldman",
+"aliases": [
+"J. J. Goldmasn",
+"Sam Brodsky"
+],
+"links": 37
+},
+{
+"name": "Jimmy Durante",
+"aliases": [
+"James Francis Durante",
+"Schnozzola"
+],
+"links": 37
+},
+{
+"name": "John Barrowman",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Joji",
+"aliases": [
+"Filthy Frank",
+"Joji Kusunoki",
+"Joji Miller",
+"Pink Guy"
+],
+"links": 37
+},
+{
+"name": "JoJo Siwa",
+"aliases": [
+"Joelle Joanie Siwa"
+],
+"links": 37
+},
+{
+"name": "Joseph Kobzon",
+"aliases": [
+"Iosif Davidovich Kobzon"
+],
+"links": 37
+},
+{
+"name": "Judy Collins",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Juliana Pasha",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Keith Carradine",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Ken Hensley",
+"aliases": [
+"Kenneth Hensley"
+],
+"links": 37
+},
+{
+"name": "Kendall Schmidt",
+"aliases": [
+"Kendall Francis Schmidt"
+],
+"links": 37
+},
+{
+"name": "Kim Bum",
+"aliases": [
+"Kim Beom",
+"Kim Sang-beom",
+"Kim Sang-bum"
+],
+"links": 37
+},
+{
+"name": "Kim Hyun-joong",
+"aliases": [
+"Kim Hyun Joong"
+],
+"links": 37
+},
+{
+"name": "Kim Petras",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Kirk Cameron",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Koo Hye-sun",
+"aliases": [
+"Goo Hye-seon",
+"Goo Hye-sun",
+"Gu hye- seon",
+"Ku Hye-seon",
+"Ku Hye-sun"
+],
+"links": 37
+},
+{
+"name": "Kris Wu",
+"aliases": [
+"Wu Yi Fan"
+],
+"links": 37
+},
+{
+"name": "Krystal Jung",
+"aliases": [
+"Chrystal So Jung",
+"Krystal Jong"
+],
+"links": 37
+},
+{
+"name": "Kumi Koda",
+"aliases": [
+"KODA",
+"Kumi Kōda",
+"Kōda Kumi"
+],
+"links": 37
+},
+{
+"name": "Lee Joon-gi",
+"aliases": [
+"Lee Joon Gi",
+"Lee Jungi"
+],
+"links": 37
+},
+{
+"name": "Lizabeth Scott",
+"aliases": [
+"Emma Matzo",
+"Lizabeth Virginia Scott"
+],
+"links": 37
+},
+{
+"name": "Louis Prima",
+"aliases": [
+"King of the Swingers"
+],
+"links": 37
+},
+{
+"name": "Lusiana Lopilato",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Maren Morris",
+"aliases": [
+"Maren Larae Morris"
+],
+"links": 37
+},
+{
+"name": "Martin O'Malley",
+"aliases": [
+"Martin J. O'Malley",
+"Martin Joseph O'Malley"
+],
+"links": 37
+},
+{
+"name": "María Isabel López",
+"aliases": [
+"Maria Isabel",
+"Maria Isabel Lopez Rodríguez"
+],
+"links": 37
+},
+{
+"name": "Melissa Etheridge",
+"aliases": [
+"Melissa Lou Etheridge"
+],
+"links": 37
+},
+{
+"name": "Mia Martini",
+"aliases": [
+"Domenica Bertè",
+"Mimì Bertè"
+],
+"links": 37
+},
+{
+"name": "Mitzi Gaynor",
+"aliases": [
+"Francesca Marlene de Czanyi von Gerber"
+],
+"links": 37
+},
+{
+"name": "Najwa Nimri",
+"aliases": [
+"Najwa Nimri Urrutikoetxea",
+"NajwaJean"
+],
+"links": 37
+},
+{
+"name": "Natacha Atlas",
+"aliases": [
+"Natasha Atlas"
+],
+"links": 37
+},
+{
+"name": "Neneh Cherry",
+"aliases": [
+"Neneh Marianne Karlsson",
+"Neneh Marianne Karlsson Cherry"
+],
+"links": 37
+},
+{
+"name": "Nick Kroll",
+"aliases": [
+"Nicholas J. Kroll"
+],
+"links": 37
+},
+{
+"name": "Odetta",
+"aliases": [
+"Odetta Gordon",
+"Odetta Holmes"
+],
+"links": 37
+},
+{
+"name": "Paolo Nutini",
+"aliases": [
+"Paolo Giovanni Nutini"
+],
+"links": 37
+},
+{
+"name": "Passenger",
+"aliases": [
+"Michael David Rosenberg",
+"Mike Rosenberg"
+],
+"links": 37
+},
+{
+"name": "Pauline Viardot",
+"aliases": [
+"Pauline Viardot-García"
+],
+"links": 37
+},
+{
+"name": "Per Gessle",
+"aliases": [
+"Per Håkan Gessle",
+"Son of a Plumber"
+],
+"links": 37
+},
+{
+"name": "Phil Lynott",
+"aliases": [
+"Philip Lynott",
+"Philip Parris Lynott"
+],
+"links": 37
+},
+{
+"name": "Philip Selway",
+"aliases": [
+"Phil Selway"
+],
+"links": 37
+},
+{
+"name": "Phylicia Rashad",
+"aliases": [
+"Phylicia Ayers-Allen",
+"Phylicia Rashād"
+],
+"links": 37
+},
+{
+"name": "Pierre Brice",
+"aliases": [
+"Pierre Louis Baron Le Bris",
+"Pierre-Louis Le Bris"
+],
+"links": 37
+},
+{
+"name": "PinkPantheress",
+"aliases": [
+"Victoria Beverley Walker"
+],
+"links": 37
+},
+{
+"name": "Ray Walston",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Rob Thomas",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Robbie Robertson",
+"aliases": [
+"Jaime Robbie Robertson",
+"Jaime Robert Klegerman"
+],
+"links": 37
+},
+{
+"name": "Robin Stjernberg",
+"aliases": [
+"Robin James Olof Stjernberg"
+],
+"links": 37
+},
+{
+"name": "Scott Adsit",
+"aliases": [
+"Robert Scott Adsit"
+],
+"links": 37
+},
+{
+"name": "Sharon Osbourne",
+"aliases": [
+"Sharon Arden",
+"Sharon Levy",
+"Sharon Rachel Arden",
+"Sharon Rachel Levy",
+"Sharon Rachel Osbourne"
+],
+"links": 37
+},
+{
+"name": "Shirley Manson",
+"aliases": [
+"Shirley Ann Manson"
+],
+"links": 37
+},
+{
+"name": "Sooyoung",
+"aliases": [
+"Choi Soo-young",
+"Choi Sooyoung",
+"Choi Su Young",
+"Choi Su-young",
+"Choi Suyoung",
+"Soo Young",
+"Soo Young Choi",
+"Soo-young",
+"Soo-young Choi",
+"Sooyoung Choi",
+"Su Young",
+"Su Young Choi",
+"Su-young",
+"Su-young Choi",
+"Suyoung",
+"Suyoung Choi"
+],
+"links": 37
+},
+{
+"name": "Soraya Arnelas",
+"aliases": [
+"Soraya",
+"Soraya Arnelas Rubiales"
+],
+"links": 37
+},
+{
+"name": "Sterling Knight",
+"aliases": [
+"Sterling Sandmann Knight"
+],
+"links": 37
+},
+{
+"name": "Steve Winwood",
+"aliases": [
+"Stephen Lawrence Winwood",
+"Stephen Winwood"
+],
+"links": 37
+},
+{
+"name": "Suraphol Sombatcharoen",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Taio Cruz",
+"aliases": [
+"Adetayo Ayowale Onile-Ere",
+"Jacob Milan Taio Cruz",
+"Jacob Taio Cruz",
+"Tayo Onile-Ere"
+],
+"links": 37
+},
+{
+"name": "Takeshi Kaneshiro",
+"aliases": [
+"Jin Cheng-wu",
+"Jin Chengwu",
+"Jincheng Wu",
+"Kaneshiro Takeshi"
+],
+"links": 37
+},
+{
+"name": "Tako Gachechiladze",
+"aliases": [
+"Tako Gatchetchiladze",
+"Tako Gatjetjiladze",
+"Tako Gatschetschiladse"
+],
+"links": 37
+},
+{
+"name": "Tiffany Young",
+"aliases": [
+"Hwang Mi-yeong",
+"Hwang Mi-yŏng",
+"Stephanie Hwang",
+"Tiffany",
+"Tiffany Hwang"
+],
+"links": 37
+},
+{
+"name": "Tim McGraw",
+"aliases": [
+"Samuel Timothy McGraw",
+"Timothy McGraw"
+],
+"links": 37
+},
+{
+"name": "Tom Lehrer",
+"aliases": [
+"Thomas Lehrer"
+],
+"links": 37
+},
+{
+"name": "Tori Kelly",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Tyler Joseph",
+"aliases": [
+"Ty"
+],
+"links": 37
+},
+{
+"name": "Walter Pidgeon",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Zinaida Kupriyanovich",
+"aliases": [
+"ZENA",
+"Zena",
+"Zina Kupriyanovich"
+],
+"links": 37
+},
+{
+"name": "Zoe",
+"aliases": [
+"Zoe Straub",
+"Zoë",
+"Zoë Straub"
+],
+"links": 37
+},
+{
+"name": "Abbey Lincoln",
+"aliases": [
+"Anna Marie Wooldridge",
+"Anna Wooldridge"
+],
+"links": 36
+},
+{
+"name": "Ace Frehley",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Ahmed Best",
+"aliases": [
+"Jar Jar Binks' voice"
+],
+"links": 36
+},
+{
+"name": "Aija Andrejeva",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Albert Lortzing",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Aleksandr Abdulov",
+"aliases": [
+"Aleksandr Gavrilovich Abdulov"
+],
+"links": 36
+},
+{
+"name": "Alexander Ludwig",
+"aliases": [
+"Alexander Richard Ludwig"
+],
+"links": 36
+},
+{
+"name": "Alisa Freindlich",
+"aliases": [
+"Alisa Brunovna Freindlich",
+"Alisa Brunovna Freyndlikh"
+],
+"links": 36
+},
+{
+"name": "Alvaro Soler",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Amandla Stenberg",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Amber Riley",
+"aliases": [
+"RILEY"
+],
+"links": 36
+},
+{
+"name": "Andra Day",
+"aliases": [
+"Cassandra Monique Batie"
+],
+"links": 36
+},
+{
+"name": "Anna German",
+"aliases": [
+"Anna German-Tucholska",
+"Anna Wiktoria German",
+"Anna Wiktoria German-Tucholska"
+],
+"links": 36
+},
+{
+"name": "Auliʻi Cravalho",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Ayushmann Khurrana",
+"aliases": [
+"Ayushman Khurana"
+],
+"links": 36
+},
+{
+"name": "Babyface",
+"aliases": [
+"Face",
+"Kenneth Edmonds",
+"Kenny Edmonds",
+"Y Corp"
+],
+"links": 36
+},
+{
+"name": "Barbara Strozzi",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Beth Ditto",
+"aliases": [
+"Mary Beth Patterson"
+],
+"links": 36
+},
+{
+"name": "Beth Hart",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Bilal Hassani",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Bill Ward",
+"aliases": [
+"W. T. Ward",
+"William Thomas Ward"
+],
+"links": 36
+},
+{
+"name": "Bob McGrath",
+"aliases": [
+"Bob Emmet McGrath",
+"Robert Emmet McGrath",
+"Robert Emmett McGrath"
+],
+"links": 36
+},
+{
+"name": "Bobby Lee",
+"aliases": [
+"Bobby Young Lee",
+"Bobby Young Lee, Jr.",
+"Robert Lee",
+"Robert Lee, Jr.",
+"Robert Young Lee",
+"Robert Young Lee, Jr."
+],
+"links": 36
+},
+{
+"name": "Booboo Stewart",
+"aliases": [
+"Boo Boo Stewart",
+"Boo-Boo Stewart",
+"Booboo"
+],
+"links": 36
+},
+{
+"name": "Brandi Carlile",
+"aliases": [
+"Brandi M. Carlile"
+],
+"links": 36
+},
+{
+"name": "Cassie Ventura",
+"aliases": [
+"Casandra Elizabeth Ventura",
+"Casandra Elizabeth Ventura Fine",
+"Cassandra Ventura",
+"Cassie"
+],
+"links": 36
+},
+{
+"name": "Chanel Terrero",
+"aliases": [
+"Chanel",
+"Chanel Terrero Martínez"
+],
+"links": 36
+},
+{
+"name": "Chelsea Kane",
+"aliases": [
+"Chelsea Kane Staub",
+"Chelsea Staub"
+],
+"links": 36
+},
+{
+"name": "Chingiz Mustafayev",
+"aliases": [
+"Çingiz Mustafayev"
+],
+"links": 36
+},
+{
+"name": "Christina Stürmer",
+"aliases": [
+"Christina Stuermer"
+],
+"links": 36
+},
+{
+"name": "Clint Mansell",
+"aliases": [
+"Clinton Darryl Mansell"
+],
+"links": 36
+},
+{
+"name": "Corey Feldman",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Dana Gould",
+"aliases": [
+"Dana J. Gould",
+"Dana John Gould",
+"Listen to Dana Gould Songs"
+],
+"links": 36
+},
+{
+"name": "Darin Zanyar",
+"aliases": [
+"Darin"
+],
+"links": 36
+},
+{
+"name": "Darren Hayes",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Debbie Allen",
+"aliases": [
+"Deborah Allen",
+"Deborah Kaye Allen"
+],
+"links": 36
+},
+{
+"name": "Dee Dee Ramone",
+"aliases": [
+"Douglas Glen Colvin"
+],
+"links": 36
+},
+{
+"name": "Dixie D'Amelio",
+"aliases": [
+"Dixie Jane D'Amelio"
+],
+"links": 36
+},
+{
+"name": "Doechii",
+"aliases": [
+"Jaylah Ji'mya Hickmon"
+],
+"links": 36
+},
+{
+"name": "Ed Skrein",
+"aliases": [
+"Edward George Skrein",
+"Skrein"
+],
+"links": 36
+},
+{
+"name": "Eddie Fisher",
+"aliases": [
+"Edwin Fisher",
+"Edwin Jack Fisher"
+],
+"links": 36
+},
+{
+"name": "Elina Born",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Eve",
+"aliases": [
+"Eve Jeffers",
+"Eve Jihan Cooper"
+],
+"links": 36
+},
+{
+"name": "Frank Farian",
+"aliases": [
+"Franz Reuther"
+],
+"links": 36
+},
+{
+"name": "Frank Iero",
+"aliases": [
+"Frank Anthony Iero, Jr."
+],
+"links": 36
+},
+{
+"name": "Frankie Avalon",
+"aliases": [],
+"links": 36
+},
+{
+"name": "G-Eazy",
+"aliases": [
+"G Eazy",
+"Gerald Earl Gillum",
+"Gerald Gillum"
+],
+"links": 36
+},
+{
+"name": "GACKT",
+"aliases": [
+"Gackt Camui",
+"Gackt.C",
+"Gakuto Oshiro"
+],
+"links": 36
+},
+{
+"name": "Gal Costa",
+"aliases": [
+"Maria da Graça Costa"
+],
+"links": 36
+},
+{
+"name": "Garou",
+"aliases": [
+"Pierre Garand",
+"Pierre Garant"
+],
+"links": 36
+},
+{
+"name": "Gladys Knight",
+"aliases": [
+"Gladys M. Knight",
+"Gladys Maria Knight"
+],
+"links": 36
+},
+{
+"name": "Glenn Hughes",
+"aliases": [
+"Glenn William Hughes"
+],
+"links": 36
+},
+{
+"name": "H.E.R.",
+"aliases": [
+"Gabi Wilson",
+"Gabriella Sarmiento Wilson",
+"Gabriella Wilson",
+"HER"
+],
+"links": 36
+},
+{
+"name": "Harry Connick Jr.",
+"aliases": [
+"Harry Connick",
+"Joseph Harry Fowler Connick Jr."
+],
+"links": 36
+},
+{
+"name": "Hayley Mills",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Heinz Rühmann",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Howard Keel",
+"aliases": [
+"Harold Clifford Keel",
+"Harold Keel"
+],
+"links": 36
+},
+{
+"name": "Ivete Sangalo",
+"aliases": [
+"Ivete Maria Dias de Sangalo Cady",
+"Veveta"
+],
+"links": 36
+},
+{
+"name": "Izzy Stradlin",
+"aliases": [
+"Jeffrey Dean Isbell"
+],
+"links": 36
+},
+{
+"name": "James Maslow",
+"aliases": [
+"James David Maslow Burge",
+"James diamond"
+],
+"links": 36
+},
+{
+"name": "Jang Won-young",
+"aliases": [
+"Jang Wonyoung",
+"JANGWONYOUNG",
+"Wonyoung"
+],
+"links": 36
+},
+{
+"name": "Jay Sean",
+"aliases": [
+"Kamaljit Singh Jhooti"
+],
+"links": 36
+},
+{
+"name": "Jean Ferrat",
+"aliases": [
+"Jean Tenenbaum"
+],
+"links": 36
+},
+{
+"name": "Jeanette Biedermann",
+"aliases": [
+"Jean Biedermann"
+],
+"links": 36
+},
+{
+"name": "Jeanette MacDonald",
+"aliases": [
+"Jeanette Anna MacDonald"
+],
+"links": 36
+},
+{
+"name": "Jerome Flynn",
+"aliases": [
+"Jerome",
+"Jerome Patrick Flynn"
+],
+"links": 36
+},
+{
+"name": "Jessy Matador",
+"aliases": [
+"Jessy Kimbangi"
+],
+"links": 36
+},
+{
+"name": "John Newman",
+"aliases": [
+"John William Peter Newman"
+],
+"links": 36
+},
+{
+"name": "Johnny Winter",
+"aliases": [
+"John Dawson Winter III",
+"John Winter III"
+],
+"links": 36
+},
+{
+"name": "Julianne Hough",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Kate Miller-Heidke",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Kathleen Ferrier",
+"aliases": [
+"Kathleen Mary Ferrier",
+"Klever Kaff"
+],
+"links": 36
+},
+{
+"name": "Kavinsky",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Kehlani",
+"aliases": [
+"Kehlani Ashley Parrish",
+"Kehlani Parrish"
+],
+"links": 36
+},
+{
+"name": "Keith Urban",
+"aliases": [
+"Keith Lionel Urbahn",
+"Keith Lionel Urban"
+],
+"links": 36
+},
+{
+"name": "Khea",
+"aliases": [
+"Pablo Lescano"
+],
+"links": 36
+},
+{
+"name": "Khrystyna Soloviy",
+"aliases": [
+"Khrystyna Ivanivna Soloviy"
+],
+"links": 36
+},
+{
+"name": "Konstrakta",
+"aliases": [
+"Ana Ignjatović",
+"Ana Đurić"
+],
+"links": 36
+},
+{
+"name": "KRS-One",
+"aliases": [
+"Big Joe Krash",
+"Blastmaster",
+"Joe Krash",
+"Knowledge Reigns Supreme Over Nearly Everyone",
+"Kris Parker",
+"KRS",
+"KRS 1",
+"KRS One",
+"KRS-1",
+"Lawrence Krisna Parker",
+"Lawrence Parker",
+"Teacha",
+"The Blastmaster"
+],
+"links": 36
+},
+{
+"name": "Lance Bass",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Laura Benanti",
+"aliases": [
+"Laura Ilene Benanti",
+"Laura Ilene Vidnovic"
+],
+"links": 36
+},
+{
+"name": "Laura Gemser",
+"aliases": [
+"Emanuelle",
+"Laura M. Gemser",
+"Laurette Gemser",
+"Laurette M. Gemser",
+"Lora Gemzer",
+"Moira Chen"
+],
+"links": 36
+},
+{
+"name": "Lesley Ann Warren",
+"aliases": [
+"Lesley Warren"
+],
+"links": 36
+},
+{
+"name": "Lil Yachty",
+"aliases": [
+"C.V. Thomas",
+"Darnell Boat",
+"FaZe Boat",
+"Lil Boat",
+"Miles McCollum"
+],
+"links": 36
+},
+{
+"name": "Lluís Llach",
+"aliases": [
+"Lluis Llach",
+"Lluis Llach i Grande"
+],
+"links": 36
+},
+{
+"name": "Louis Farrakhan",
+"aliases": [
+"Louis Eugene Wolcott",
+"Louis Farrakhan Muhammad, Sr.",
+"Louis X"
+],
+"links": 36
+},
+{
+"name": "Luca Hänni",
+"aliases": [
+"Luca Haenni",
+"Luca Hanni",
+"Luca Häni"
+],
+"links": 36
+},
+{
+"name": "Lyudmila Petrushevskaya",
+"aliases": [
+"Liudmila Petrushevskaya",
+"Liudmila Stefanovna Petrushevskaya",
+"Ludmilla Petrushevskaya",
+"Lyudmila Stefanovna Petrushevskaya"
+],
+"links": 36
+},
+{
+"name": "Ma Rainey",
+"aliases": [
+"Gertrude P. Rainey",
+"Gertrude Pridgett",
+"Gertrude Pridgett Rainey",
+"Gertrude Rainey"
+],
+"links": 36
+},
+{
+"name": "Maia Mitchell",
+"aliases": [
+"Maia M. Mitchell",
+"Maia McCall Mitchell"
+],
+"links": 36
+},
+{
+"name": "Matt Lucas",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Megumi Hayashibara",
+"aliases": [
+"Hayashibara Megumi"
+],
+"links": 36
+},
+{
+"name": "Michael Hutchence",
+"aliases": [
+"Michael Kelland John Hutchence"
+],
+"links": 36
+},
+{
+"name": "Michelle Hunziker",
+"aliases": [
+"Michelle Yvonne Hunziker"
+],
+"links": 36
+},
+{
+"name": "Michelle Williams",
+"aliases": [
+"Tenitra Michelle Williams"
+],
+"links": 36
+},
+{
+"name": "Mika Newton",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Moisés Arias",
+"aliases": [
+"Moisés Arias Molano"
+],
+"links": 36
+},
+{
+"name": "Monika Linkytė",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Mukesh",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Nikolay Baskov",
+"aliases": [
+"Nikolai Baskov",
+"Nikolai Viktorovich Baskov",
+"Nikolay Victorovich Baskov",
+"Nikolay Viktorovich Baskov"
+],
+"links": 36
+},
+{
+"name": "Noa Kirel",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Normani",
+"aliases": [
+"Normani Kordei",
+"Normani Kordei Hamilton"
+],
+"links": 36
+},
+{
+"name": "Nyusha",
+"aliases": [
+"Anna Vladimirovna Shurochkina"
+],
+"links": 36
+},
+{
+"name": "Oksana Fedorova",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Paloma Faith",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Park Bom",
+"aliases": [
+"Bom"
+],
+"links": 36
+},
+{
+"name": "Pastora Soler",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Paula Seling",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Phil Ochs",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Pornsak Songsaeng",
+"aliases": [
+"Booonsao Prajantasen"
+],
+"links": 36
+},
+{
+"name": "Q'orianka Kilcher",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Rebbie Jackson",
+"aliases": [
+"Maureen Reillette Brown",
+"Maureen Reillette Jackson",
+"Rebbie Jackson-Brown"
+],
+"links": 36
+},
+{
+"name": "Roselyn Sánchez",
+"aliases": [
+"Roselyn Sanchez"
+],
+"links": 36
+},
+{
+"name": "Sarah Polley",
+"aliases": [
+"Sarah Ellen Polley"
+],
+"links": 36
+},
+{
+"name": "Senhit",
+"aliases": [
+"Senhit Zadik Zadik",
+"Senit"
+],
+"links": 36
+},
+{
+"name": "Shawnee Smith",
+"aliases": [
+"Shawnee Rebecca Smith"
+],
+"links": 36
+},
+{
+"name": "Sonny Chiba",
+"aliases": [
+"JJ Sonny Chiba",
+"Sadaho Maeda",
+"Shinichi Chiba"
+],
+"links": 36
+},
+{
+"name": "St. Vincent",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Stefania",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Stefanie Scott",
+"aliases": [
+"Stefanie Noelle Scott",
+"Stephanie Noelle Scott"
+],
+"links": 36
+},
+{
+"name": "Stephen Gately",
+"aliases": [
+"Stephen Patrick David Gately"
+],
+"links": 36
+},
+{
+"name": "Taj Mahal",
+"aliases": [
+"Henry Saint Clair Fredericks"
+],
+"links": 36
+},
+{
+"name": "Tanita Tikaram",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Tinashe",
+"aliases": [
+"Sweet T",
+"T",
+"Tinashe Kachingwe"
+],
+"links": 36
+},
+{
+"name": "Tito Gobbi",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Tony Randall",
+"aliases": [
+"Anthony Leonard Randall",
+"Aryeh Leonard Rosenberg"
+],
+"links": 36
+},
+{
+"name": "Tress MacNeille",
+"aliases": [
+"Teressa Claire MacNeille"
+],
+"links": 36
+},
+{
+"name": "Trini Lopez",
+"aliases": [
+"Trini López",
+"Trinidad López III"
+],
+"links": 36
+},
+{
+"name": "Vanessa Morgan",
+"aliases": [
+"Nessa",
+"Vanessa Morgan Mziray"
+],
+"links": 36
+},
+{
+"name": "Wendy",
+"aliases": [
+"Shon Seung-wan",
+"Son Seung-wan",
+"Son Seungwan",
+"Wendy Son"
+],
+"links": 36
+},
+{
+"name": "Xiao Zhan",
+"aliases": [
+"Sean Xiao",
+"zan",
+"Zhan Zhan"
+],
+"links": 36
+},
+{
+"name": "Yui",
+"aliases": [
+"Yoshioka Yui",
+"Yui Yoshioka"
+],
+"links": 36
+},
+{
+"name": "Zhou Xuan",
+"aliases": [
+"Chow Hsuan",
+"Zhōu Xuán"
+],
+"links": 36
+},
+{
+"name": "A. J. McLean",
+"aliases": [
+"AJ McLean",
+"Alexander James McLean"
+],
+"links": 35
+},
+{
+"name": "Abdelhalim Hafez",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Addys Mercedes",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Alec Benjamin",
+"aliases": [
+"Alec Shane Benjamin"
+],
+"links": 35
+},
+{
+"name": "Alexandra Shipp",
+"aliases": [
+"Alexandra Ruth Shipp",
+"přítel Lukas"
+],
+"links": 35
+},
+{
+"name": "Alia Shawkat",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Alice Babs",
+"aliases": [
+"Hildur Alice Babs Sjöblom",
+"Hildur Alice Sjöblom"
+],
+"links": 35
+},
+{
+"name": "Alicja Szemplińska",
+"aliases": [
+"Alicja Maria Szemplińska"
+],
+"links": 35
+},
+{
+"name": "Andrea Corr",
+"aliases": [
+"Andrea Jane Corr"
+],
+"links": 35
+},
+{
+"name": "Angie Stone",
+"aliases": [
+"Angela Brown",
+"Angela Laverne Brown",
+"Angie B"
+],
+"links": 35
+},
+{
+"name": "Anne Veski",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Ayra Starr",
+"aliases": [
+"Celestial Being",
+"Oyinkansola Sarah Aderibigbe",
+"Sabi girl"
+],
+"links": 35
+},
+{
+"name": "Barbara Barrie",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Barei",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Bebe",
+"aliases": [
+"Maria Nieves Rebolledo Vila"
+],
+"links": 35
+},
+{
+"name": "Ben Harper",
+"aliases": [
+"Ben C. Harper",
+"Benjamin Charles Harper"
+],
+"links": 35
+},
+{
+"name": "Björn Andrésen",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Blanco",
+"aliases": [
+"Riccardo Fabbriconi"
+],
+"links": 35
+},
+{
+"name": "Bobby Bland",
+"aliases": [
+"Robert Calvin Bland",
+"The Lion of the Blues"
+],
+"links": 35
+},
+{
+"name": "Bobby Vinton",
+"aliases": [
+"Stanley Robert Vinton"
+],
+"links": 35
+},
+{
+"name": "Boman Irani",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Bow Wow",
+"aliases": [
+"Bow Weezy",
+"Lil' Bow Wow",
+"Shad Gregory Moss",
+"Shad Moss"
+],
+"links": 35
+},
+{
+"name": "Chad Kroeger",
+"aliases": [
+"Chad Robert Kroeger",
+"Chad Robert Turton"
+],
+"links": 35
+},
+{
+"name": "Chance the Rapper",
+"aliases": [
+"Chance",
+"Chancelor Bennett",
+"Chancelor Johnathan Bennett",
+"Chano",
+"Mr. Bennett"
+],
+"links": 35
+},
+{
+"name": "Claudia Leitte",
+"aliases": [
+"Cláudia Cristina Leite Inácio Pedreira"
+],
+"links": 35
+},
+{
+"name": "Clay Aiken",
+"aliases": [
+"Clayton Holmes Aiken"
+],
+"links": 35
+},
+{
+"name": "Daler Mehndi",
+"aliases": [
+"Daler Singh"
+],
+"links": 35
+},
+{
+"name": "Daniel Tosh",
+"aliases": [
+"Daniel Dwight Tosh"
+],
+"links": 35
+},
+{
+"name": "Dee Snider",
+"aliases": [
+"Daniel Snider"
+],
+"links": 35
+},
+{
+"name": "Desi Arnaz",
+"aliases": [
+"Desi Arnaz, Sr."
+],
+"links": 35
+},
+{
+"name": "Devin Townsend",
+"aliases": [
+"Devin Garrett Townsend"
+],
+"links": 35
+},
+{
+"name": "Dilara Kazimova",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Donna Murphy",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Dulce Pontes",
+"aliases": [
+"Dulce Jose Silva Pontes",
+"Dulce José Silva Pontes"
+],
+"links": 35
+},
+{
+"name": "Duncan James",
+"aliases": [
+"Duncan Matthew James Inglis"
+],
+"links": 35
+},
+{
+"name": "Elhaida Dani",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Emppu Vuorinen",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Ethel Waters",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Fantasia Barrino",
+"aliases": [
+"Fantasia",
+"Fantasia Monique Barrino",
+"Fantasia Monique Barrino-Taylor"
+],
+"links": 35
+},
+{
+"name": "Felicia Day",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Francesca Michielin",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Gabriella Cilmi",
+"aliases": [
+"Gabriella Lucia Cilmi"
+],
+"links": 35
+},
+{
+"name": "Gailard Sartain",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Gary Barlow",
+"aliases": [],
+"links": 35
+},
+{
+"name": "George Ezra",
+"aliases": [
+"George Ezra Barnett"
+],
+"links": 35
+},
+{
+"name": "Gerry Mulligan",
+"aliases": [
+"Gerald J. Mulligan",
+"Jeru"
+],
+"links": 35
+},
+{
+"name": "Grace Moore",
+"aliases": [
+"Mary Willie Grace Moore",
+"Tennessee Nightingale"
+],
+"links": 35
+},
+{
+"name": "Greyson Chance",
+"aliases": [
+"Greyson Michael Chance"
+],
+"links": 35
+},
+{
+"name": "Grégory Lemarchal",
+"aliases": [
+"Gregory Lemarchal"
+],
+"links": 35
+},
+{
+"name": "Ha Ji-won",
+"aliases": [
+"Jeon Hae-rim"
+],
+"links": 35
+},
+{
+"name": "Haruma Miura",
+"aliases": [
+"Miura Haruma"
+],
+"links": 35
+},
+{
+"name": "Helene Weigel",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Herbert Grönemeyer",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Ivan Urgant",
+"aliases": [
+"Ivan Andreevich Urgant",
+"Ivan Andreyevich Urgant"
+],
+"links": 35
+},
+{
+"name": "Jackie Jackson",
+"aliases": [
+"Sigmund Esco Jackson"
+],
+"links": 35
+},
+{
+"name": "Jaime Lorente",
+"aliases": [
+"Jaime Lorente López"
+],
+"links": 35
+},
+{
+"name": "James Bay",
+"aliases": [
+"James Michael Bay"
+],
+"links": 35
+},
+{
+"name": "Jane Powell",
+"aliases": [
+"Suzanne Burce"
+],
+"links": 35
+},
+{
+"name": "Jasmine Guy",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Jason Kouchak",
+"aliases": [],
+"links": 35
+},
+{
+"name": "JC Gonzalez",
+"aliases": [
+"Camilo",
+"Camilo Gonzalez",
+"Gonzalez",
+"González",
+"JC",
+"Juan",
+"Juan Camilo",
+"Juan Camilo Gonzalez",
+"Juan Camilo González",
+"Juan Gonzalez"
+],
+"links": 35
+},
+{
+"name": "Jeanna Friske",
+"aliases": [
+"Jeanna Vladimirovna Friske",
+"Zhanna Vladimirovna Friske"
+],
+"links": 35
+},
+{
+"name": "Jeffree Star",
+"aliases": [
+"Jeffrey Lynn Steininger Jr",
+"Jeffrey Lynn Steininger Jr."
+],
+"links": 35
+},
+{
+"name": "Jhené Aiko",
+"aliases": [
+"Jhené",
+"Jhené Aiko Efuru Chilombo"
+],
+"links": 35
+},
+{
+"name": "Joci Pápai",
+"aliases": [
+"József Pápai"
+],
+"links": 35
+},
+{
+"name": "Joe Walsh",
+"aliases": [
+"Joseph F. Walsh",
+"Joseph Fidler Walsh"
+],
+"links": 35
+},
+{
+"name": "John Schneider",
+"aliases": [
+"John R. Schneider",
+"John Richard Schneider",
+"Jonathan Richard Schneider"
+],
+"links": 35
+},
+{
+"name": "Joost Klein",
+"aliases": [
+"Joost"
+],
+"links": 35
+},
+{
+"name": "Juan Gabriel",
+"aliases": [
+"Adán Luna",
+"Alberto Aguilera Valadez",
+"El Divo de Juárez",
+"El Noa Noa de Juan Gabriel",
+"Juan Alberto Aguilera Valadez",
+"Juanga"
+],
+"links": 35
+},
+{
+"name": "Jónsi",
+"aliases": [
+"Jon Thor Birgisson",
+"Jonsi",
+"Jón Þór Birgisson"
+],
+"links": 35
+},
+{
+"name": "Kali Uchis",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Kate Nash",
+"aliases": [
+"Kate Marie Nash"
+],
+"links": 35
+},
+{
+"name": "Katerine Duska",
+"aliases": [
+"Katerina Duska"
+],
+"links": 35
+},
+{
+"name": "Keyshia Cole",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Kim Gordon",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Kim You-jung",
+"aliases": [
+"Kim Yoo-jung",
+"KIM You Jung",
+"Kim Youjung",
+"Kim Yu-jeong",
+"You Jung KIM",
+"You-Jung KIM",
+"Youjung Kim"
+],
+"links": 35
+},
+{
+"name": "Krista Siegfrids",
+"aliases": [
+"Krista",
+"Kristin Siegfrids"
+],
+"links": 35
+},
+{
+"name": "Laura Groeseneken",
+"aliases": [
+"Sennek"
+],
+"links": 35
+},
+{
+"name": "Lauren Jauregui",
+"aliases": [
+"Lauren Michelle Jauregui Morgado"
+],
+"links": 35
+},
+{
+"name": "Lee Hyori",
+"aliases": [
+"Lee Hyo-ri"
+],
+"links": 35
+},
+{
+"name": "Lena Philipsson",
+"aliases": [
+"Lena Ph",
+"Maria Magdalena Philipsson"
+],
+"links": 35
+},
+{
+"name": "Libertad Lamarque",
+"aliases": [
+"La novia de América",
+"Libertad Lamarque Bouza"
+],
+"links": 35
+},
+{
+"name": "Lili Ivanova",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Link Wray",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Lolita Flores",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Louise Dresser",
+"aliases": [
+"Louise Josephine Kerlin"
+],
+"links": 35
+},
+{
+"name": "Lu Han",
+"aliases": [
+"LuHan"
+],
+"links": 35
+},
+{
+"name": "Luke Grimes",
+"aliases": [
+"luke",
+"Luke Timothy Grimes"
+],
+"links": 35
+},
+{
+"name": "Lyudmila Zykina",
+"aliases": [
+"Lyudmila Georgievna Zykina"
+],
+"links": 35
+},
+{
+"name": "Mabel",
+"aliases": [
+"Mabel Alabama Pearl McVey",
+"Mabel Alabama-Pearl McVey",
+"Mabel McVey"
+],
+"links": 35
+},
+{
+"name": "Mac DeMarco",
+"aliases": [
+"McBriare Samuel Lanyon DeMarco",
+"Vernor Winfield McBriare Smith IV"
+],
+"links": 35
+},
+{
+"name": "Maiara Walsh",
+"aliases": [
+"Maiara Kyilor Walsh",
+"Maiara Kylior Walsh"
+],
+"links": 35
+},
+{
+"name": "Manolo Escobar",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Maria de Medeiros",
+"aliases": [
+"Maria de Medeiros Esteves Vitorino de Almeida",
+"Maria Esteves de Medeiros Victorino de Almeida"
+],
+"links": 35
+},
+{
+"name": "Mark Salling",
+"aliases": [
+"Mark Wayne Salling"
+],
+"links": 35
+},
+{
+"name": "Matisyahu",
+"aliases": [
+"Matthew Miller",
+"Matthew Paul Miller"
+],
+"links": 35
+},
+{
+"name": "Maxim Galkin",
+"aliases": [
+"Maxim Alexandrovich Galkin"
+],
+"links": 35
+},
+{
+"name": "Melody",
+"aliases": [
+"Melodía Ruiz Gutiérrez"
+],
+"links": 35
+},
+{
+"name": "Michael Cretu",
+"aliases": [
+"Cretu",
+"Curly M.C."
+],
+"links": 35
+},
+{
+"name": "Michiel Huisman",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Miguel Bosé",
+"aliases": [
+"Miguel Dominguín Bosé"
+],
+"links": 35
+},
+{
+"name": "Mike Posner",
+"aliases": [
+"Michael Robert Henrion Posner"
+],
+"links": 35
+},
+{
+"name": "Miki Núñez",
+"aliases": [
+"Miki",
+"Miquel",
+"Núñez Pozo"
+],
+"links": 35
+},
+{
+"name": "Mira Awad",
+"aliases": [
+"Mira Anwar Awad"
+],
+"links": 35
+},
+{
+"name": "Mustafa Sandal",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Nadia Ali",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Natalie Horler",
+"aliases": [
+"Natalie Christina Horler",
+"Natalie Christina Raffelberg",
+"Natalie Christine Horler",
+"Natalie Christine Raffelberg"
+],
+"links": 35
+},
+{
+"name": "Nevena Božović",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Nina Persson",
+"aliases": [
+"Nina Elisabet Persson"
+],
+"links": 35
+},
+{
+"name": "Otto Nicolai",
+"aliases": [
+"Carl Otto Ehrenfried Nicolai",
+"Ottone Nicolai"
+],
+"links": 35
+},
+{
+"name": "Patrick Duffy",
+"aliases": [
+"Duffy, Patrick",
+"Patric Duffy",
+"Patrick G. Duffy"
+],
+"links": 35
+},
+{
+"name": "Patrick Stump",
+"aliases": [
+"Patrick Martin Stumph",
+"Patrick Vaughn Stump",
+"Patrick Vaughn Stumph"
+],
+"links": 35
+},
+{
+"name": "Phil Anselmo",
+"aliases": [
+"Anton Crowley",
+"Clovenhoof",
+"Philip Anselmo",
+"Philip H. Anselmo",
+"Philip Hansen Anselmo"
+],
+"links": 35
+},
+{
+"name": "Pita Limjaroenrat",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Ramón Gómez de la Serna",
+"aliases": [
+"Ramon Gomez de la Serna"
+],
+"links": 35
+},
+{
+"name": "Regine Velasquez",
+"aliases": [
+"Regine Velasquez Alcasid"
+],
+"links": 35
+},
+{
+"name": "Rhonda Fleming",
+"aliases": [
+"Marilyn Louis"
+],
+"links": 35
+},
+{
+"name": "Ron Moody",
+"aliases": [
+"Ronald Moodnick"
+],
+"links": 35
+},
+{
+"name": "Ruby Lin",
+"aliases": [
+"Lin Xinru",
+"Ruby Lin Xinru"
+],
+"links": 35
+},
+{
+"name": "Ruth Lorenzo",
+"aliases": [
+"RUTH",
+"Ruth Lorenzo Pascual"
+],
+"links": 35
+},
+{
+"name": "Sabah",
+"aliases": [
+"Janet Gerges Feghali"
+],
+"links": 35
+},
+{
+"name": "Samantha Barks",
+"aliases": [
+"Samantha Jane Barks"
+],
+"links": 35
+},
+{
+"name": "Sandra Bernhard",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Seo Joo-hyun",
+"aliases": [
+"Seo Ju-hyun",
+"Seohyun"
+],
+"links": 35
+},
+{
+"name": "Serhat",
+"aliases": [
+"Ahmet Serhat",
+"Ahmet Serhat Hacıpaşalıoğlu"
+],
+"links": 35
+},
+{
+"name": "Slimane",
+"aliases": [
+"Slimane Nebchi"
+],
+"links": 35
+},
+{
+"name": "Son Chaeyoung",
+"aliases": [
+"Chae"
+],
+"links": 35
+},
+{
+"name": "Sopho Nizharadze",
+"aliases": [
+"Sofia Nizharadze"
+],
+"links": 35
+},
+{
+"name": "Soulja Boy",
+"aliases": [
+"Big Draco",
+"DeAndre Cortez Way",
+"DeAndre Way",
+"Soulja",
+"Soulja Boy Tell 'Em"
+],
+"links": 35
+},
+{
+"name": "Sterling Morrison",
+"aliases": [
+"Holmes Sterling Morrison, Jr."
+],
+"links": 35
+},
+{
+"name": "Séverine",
+"aliases": [
+"Severine"
+],
+"links": 35
+},
+{
+"name": "Tab Hunter",
+"aliases": [
+"Arthur Andrew Gelien"
+],
+"links": 35
+},
+{
+"name": "Tego Calderón",
+"aliases": [
+"Tegui Calderón Rosario"
+],
+"links": 35
+},
+{
+"name": "Tila Tequila",
+"aliases": [
+"Miss Tila",
+"Thi Thien Thanh Nguyen",
+"Thien Thanh Thi Nguyen",
+"Tornado Thien"
+],
+"links": 35
+},
+{
+"name": "Tom Dice",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Victoria de los Ángeles",
+"aliases": [
+"Victoria de los Angeles",
+"Victoria De Los Angeles",
+"Victòria dels Àngels"
+],
+"links": 35
+},
+{
+"name": "Wizkid",
+"aliases": [
+"Ayodeji Ibrahim Balogun",
+"Big Wiz",
+"Lil Prinz",
+"Machala",
+"Starboy"
+],
+"links": 35
+},
+{
+"name": "Yoo Jeong-yeon",
+"aliases": [
+"Jeongyeon"
+],
+"links": 35
+},
+{
+"name": "Yuri Shevchuk",
+"aliases": [
+"Yuri Yulianovich Shevchuk",
+"Yury Shevchuk",
+"Yury Yulianovich Shevchuk"
+],
+"links": 35
+},
+{
+"name": "Zhang Zilin",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Đorđe Balašević",
+"aliases": [
+"Djordje Balasevic",
+"Dorde Balasevic"
+],
+"links": 35
 }
 ]

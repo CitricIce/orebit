@@ -55,11 +55,6 @@
 "links": 139
 },
 {
-"name": "The Rolling Stones",
-"aliases": [],
-"links": 139
-},
-{
 "name": "Metallica",
 "aliases": [],
 "links": 130
@@ -2110,7 +2105,103 @@
 "links": 40
 },
 {
+"name": "Alter Bridge",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Ateez",
+"aliases": [
+"KQ Fellaz"
+],
+"links": 39
+},
+{
+"name": "Babymetal",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Black Veil Brides",
+"aliases": [
+"BVB"
+],
+"links": 39
+},
+{
+"name": "Celtic Frost",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Cocteau Twins",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Dschinghis Khan",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Emperor",
+"aliases": [
+"W. Kaiser"
+],
+"links": 39
+},
+{
+"name": "Hurts",
+"aliases": [],
+"links": 39
+},
+{
 "name": "Kamelot",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Lady A",
+"aliases": [
+"Lady Antebellum"
+],
+"links": 39
+},
+{
+"name": "Las Ketchup",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Machine Head",
+"aliases": [],
+"links": 39
+},
+{
+"name": "maNga",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Migos",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Milli Vanilli",
+"aliases": [
+"Rob & Fab",
+"The Real Milli Vanilli"
+],
+"links": 39
+},
+{
+"name": "Mogwai",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Monsta X",
 "aliases": [],
 "links": 39
 },
@@ -2120,7 +2211,17 @@
 "links": 39
 },
 {
+"name": "Neutral Milk Hotel",
+"aliases": [],
+"links": 39
+},
+{
 "name": "OK Go",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Pendulum",
 "aliases": [],
 "links": 39
 },
@@ -2132,6 +2233,26 @@
 "links": 39
 },
 {
+"name": "Riva",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Sodom",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Spandau Ballet",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Steely Dan",
+"aliases": [],
+"links": 39
+},
+{
 "name": "Stone Temple Pilots",
 "aliases": [
 "Mighty Joe Young",
@@ -2140,8 +2261,70 @@
 "links": 39
 },
 {
+"name": "The Kooks",
+"aliases": [],
+"links": 39
+},
+{
+"name": "The Shadows",
+"aliases": [
+"Shadows"
+],
+"links": 39
+},
+{
+"name": "Therion",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Traveling Wilburys",
+"aliases": [],
+"links": 39
+},
+{
 "name": "Black Flag",
 "aliases": [],
+"links": 38
+},
+{
+"name": "Die Ärzte",
+"aliases": [],
+"links": 38
+},
+{
+"name": "EXID",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Fun",
+"aliases": [
+"fun."
+],
+"links": 38
+},
+{
+"name": "Gorgoroth",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Herreys",
+"aliases": [
+"The Herrey's"
+],
+"links": 38
+},
+{
+"name": "Hooverphonic",
+"aliases": [
+"Alex Callier, Geike Arnaert, Raymond Geerts",
+"Discophonic",
+"Geike Arnaert , Raymond Geerts ,",
+"Hoover",
+"Milk Fisk"
+],
 "links": 38
 },
 {
@@ -2150,10 +2333,69 @@
 "links": 38
 },
 {
+"name": "Killswitch Engage",
+"aliases": [
+"Killswitch",
+"KSE"
+],
+"links": 38
+},
+{
+"name": "Kinto Sol",
+"aliases": [],
+"links": 38
+},
+{
+"name": "L'Arc-en-Ciel",
+"aliases": [
+"L'Arc",
+"Laruku"
+],
+"links": 38
+},
+{
+"name": "McFly",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Misfits",
+"aliases": [
+"The Misfits"
+],
+"links": 38
+},
+{
+"name": "My Bloody Valentine",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Nu Virgos",
+"aliases": [
+"VIA Gra"
+],
+"links": 38
+},
+{
+"name": "Obituary",
+"aliases": [
+"Executioner",
+"Orbituary",
+"Xecutioner"
+],
+"links": 38
+},
+{
 "name": "Seether",
 "aliases": [
 "Saron Gas"
 ],
+"links": 38
+},
+{
+"name": "Simply Red",
+"aliases": [],
 "links": 38
 },
 {
@@ -2167,7 +2409,59 @@
 "links": 38
 },
 {
+"name": "SunStroke Project",
+"aliases": [],
+"links": 38
+},
+{
+"name": "T-ara",
+"aliases": [
+"Tiara"
+],
+"links": 38
+},
+{
 "name": "Talk Talk",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Tangerine Dream",
+"aliases": [],
+"links": 38
+},
+{
+"name": "The Human League",
+"aliases": [
+"Human League",
+"The League Unlimited Orchestra",
+"The Men"
+],
+"links": 38
+},
+{
+"name": "The Libertines",
+"aliases": [
+"Libertines"
+],
+"links": 38
+},
+{
+"name": "The Pretty Reckless",
+"aliases": [
+"Pretty Reckless"
+],
+"links": 38
+},
+{
+"name": "The Temptations",
+"aliases": [
+"Temptations"
+],
+"links": 38
+},
+{
+"name": "Trivium",
 "aliases": [],
 "links": 38
 },
@@ -2177,7 +2471,92 @@
 "links": 38
 },
 {
+"name": "Angels & Airwaves",
+"aliases": [],
+"links": 37
+},
+{
 "name": "Aria",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Asking Alexandria",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Babymonster",
+"aliases": [
+"Baby Monster",
+"Baemon",
+"BM"
+],
+"links": 37
+},
+{
+"name": "Bastille",
+"aliases": [
+"BΔSTILLE"
+],
+"links": 37
+},
+{
+"name": "Bon Iver",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Buffalo Springfield",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Can",
+"aliases": [
+"Inner Space",
+"The Can"
+],
+"links": 37
+},
+{
+"name": "Culture Club",
+"aliases": [
+"In Praise of Lemmings",
+"The Sex Gang Children"
+],
+"links": 37
+},
+{
+"name": "Finntroll",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Five Finger Death Punch",
+"aliases": [
+"5FDP",
+"FFDP"
+],
+"links": 37
+},
+{
+"name": "G-Unit",
+"aliases": [],
+"links": 37
+},
+{
+"name": "iKon",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Lostprophets",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Marduk",
 "aliases": [],
 "links": 37
 },
@@ -2189,11 +2568,119 @@
 "links": 37
 },
 {
+"name": "Pulp",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Skid Row",
+"aliases": [],
+"links": 37
+},
+{
 "name": "Smokie",
 "aliases": [
 "Smokey"
 ],
 "links": 37
+},
+{
+"name": "Soilwork",
+"aliases": [],
+"links": 37
+},
+{
+"name": "The 1975",
+"aliases": [],
+"links": 37
+},
+{
+"name": "The Cult",
+"aliases": [
+"Cult"
+],
+"links": 37
+},
+{
+"name": "The Neighbourhood",
+"aliases": [
+"NBHD",
+"NH"
+],
+"links": 37
+},
+{
+"name": "The Wanted",
+"aliases": [
+"Lads",
+"TW"
+],
+"links": 37
+},
+{
+"name": "Tristania",
+"aliases": [],
+"links": 37
+},
+{
+"name": "All Time Low",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Arkona",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Brotherhood of Man",
+"aliases": [
+"The Brotherhood of Man"
+],
+"links": 36
+},
+{
+"name": "Bucks Fizz",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Canned Heat",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Cigarettes After Sex",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Death Cab for Cutie",
+"aliases": [
+"DCFC",
+"Death Cab"
+],
+"links": 36
+},
+{
+"name": "Eiffel 65",
+"aliases": [],
+"links": 36
+},
+{
+"name": "El Sueño de Morfeo",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Enon",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Fugazi",
+"aliases": [],
+"links": 36
 },
 {
 "name": "Half Japanese",
@@ -2208,6 +2695,71 @@
 "links": 36
 },
 {
+"name": "Iced Earth",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Ladytron",
+"aliases": [],
+"links": 36
+},
+{
+"name": "M83",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Major Lazer",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Men at Work",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Minor Threat",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Of Monsters and Men",
+"aliases": [
+"OMAM"
+],
+"links": 36
+},
+{
+"name": "S.H.E",
+"aliases": [
+"S. H. E.",
+"S.H.E.",
+"SHE"
+],
+"links": 36
+},
+{
+"name": "Satyricon",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Saxon",
+"aliases": [
+"Son of a Bitch"
+],
+"links": 36
+},
+{
+"name": "Stereophonics",
+"aliases": [
+"The Stereophonics"
+],
+"links": 36
+},
+{
 "name": "Suede",
 "aliases": [
 "London Suede",
@@ -2216,7 +2768,198 @@
 "links": 36
 },
 {
+"name": "The Alan Parsons Project",
+"aliases": [],
+"links": 36
+},
+{
+"name": "The Hives",
+"aliases": [],
+"links": 36
+},
+{
+"name": "The Jimi Hendrix Experience",
+"aliases": [],
+"links": 36
+},
+{
+"name": "The Ronettes",
+"aliases": [
+"Ronettes"
+],
+"links": 36
+},
+{
+"name": "The Ting Tings",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Vampire Weekend",
+"aliases": [],
+"links": 36
+},
+{
+"name": "A Tribe Called Quest",
+"aliases": [
+"A T C Q",
+"A Tribe Called",
+"A. T. C. Q.",
+"A.T.C.Q.",
+"Actq",
+"ATCQ",
+"The Tribe Called Quest",
+"Tribe Called Quest",
+"Tribe Vibes"
+],
+"links": 35
+},
+{
+"name": "AOA",
+"aliases": [
+"A.O.A.",
+"Ace of Angels"
+],
+"links": 35
+},
+{
+"name": "Blackmore's Night",
+"aliases": [
+"Blackmores Night"
+],
+"links": 35
+},
+{
+"name": "Deicide",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Delain",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Dinosaur Jr.",
+"aliases": [
+"Dinosaur Jr",
+"Dinosaur Junior"
+],
+"links": 35
+},
+{
+"name": "Era",
+"aliases": [
+"+eRa+"
+],
+"links": 35
+},
+{
+"name": "Exodus",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Fort Minor",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Foster the People",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Gamma Ray",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Godspeed You! Black Emperor",
+"aliases": [
+"Godspeed You Black Emperor",
+"GY!BE",
+"GYBE"
+],
+"links": 35
+},
+{
+"name": "Haim",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Highlight",
+"aliases": [
+"B2ST",
+"BEAST"
+],
+"links": 35
+},
+{
+"name": "Marillion",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Mudvayne",
+"aliases": [],
+"links": 35
+},
+{
+"name": "My Dying Bride",
+"aliases": [],
+"links": 35
+},
+{
+"name": "New York Dolls",
+"aliases": [
+"The New York Dolls"
+],
+"links": 35
+},
+{
+"name": "Oomph!",
+"aliases": [],
+"links": 35
+},
+{
+"name": "P.O.D.",
+"aliases": [
+"Payable on Death",
+"POD"
+],
+"links": 35
+},
+{
+"name": "Powerwolf",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Scissor Sisters",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Slowdive",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Soft Machine",
+"aliases": [
+"Softworks"
+],
+"links": 35
+},
+{
 "name": "Staind",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Static-X",
 "aliases": [],
 "links": 35
 },
@@ -2231,13 +2974,287 @@
 "links": 35
 },
 {
+"name": "Symphony X",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Texas",
+"aliases": [],
+"links": 35
+},
+{
+"name": "The B-52's",
+"aliases": [
+"The B-52s"
+],
+"links": 35
+},
+{
 "name": "The Cars",
 "aliases": [],
 "links": 35
 },
 {
+"name": "The Chicks",
+"aliases": [
+"Dixie Chicks",
+"The Dixie Chicks"
+],
+"links": 35
+},
+{
+"name": "The Hollies",
+"aliases": [
+"Hollies"
+],
+"links": 35
+},
+{
+"name": "The xx",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Vengaboys",
+"aliases": [],
+"links": 35
+},
+{
+"name": "W.A.S.P.",
+"aliases": [],
+"links": 35
+},
+{
+"name": "2PM",
+"aliases": [
+"2 PM",
+"2:00 PM",
+"2:00PM"
+],
+"links": 34
+},
+{
+"name": "4 Non Blondes",
+"aliases": [],
+"links": 34
+},
+{
+"name": "4Minute",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Air Supply",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Alexandrov Ensemble",
+"aliases": [
+"Red Army Choir",
+"The Alexandrov Red Army Ensemble"
+],
+"links": 34
+},
+{
+"name": "America",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Amorphis",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Anti-Flag",
+"aliases": [
+"AntiFlag"
+],
+"links": 34
+},
+{
+"name": "Belle and Sebastian",
+"aliases": [
+"Belle & Sebastian"
+],
+"links": 34
+},
+{
+"name": "Blood, Sweat & Tears",
+"aliases": [
+"Blood Sweat and Tears",
+"Blood, Sweat And Tears",
+"BS&T"
+],
+"links": 34
+},
+{
+"name": "BtoB",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Buzzcocks",
+"aliases": [
+"The Buzzcocks"
+],
+"links": 34
+},
+{
+"name": "Crass",
+"aliases": [],
+"links": 34
+},
+{
+"name": "DDT",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Destruction",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Dir En Grey",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Dropkick Murphys",
+"aliases": [
+"The Dropkick Murphys"
+],
+"links": 34
+},
+{
+"name": "Fear Factory",
+"aliases": [
+"FF"
+],
+"links": 34
+},
+{
+"name": "Guano Apes",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Hatari",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Jane's Addiction",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Jimmy Eat World",
+"aliases": [
+"JEW"
+],
+"links": 34
+},
+{
+"name": "Kyuss",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Madness",
+"aliases": [
+"The Madness"
+],
+"links": 34
+},
+{
+"name": "Matchbox Twenty",
+"aliases": [
+"Matchbox 20",
+"MB20"
+],
+"links": 34
+},
+{
+"name": "Melvins",
+"aliases": [
+"Melvins 1983",
+"The Melvins"
+],
+"links": 34
+},
+{
+"name": "Mobb Deep",
+"aliases": [
+"Havoc & Prodigy",
+"Infamous Mobb Deep",
+"Poetical Prophets",
+"The Infamous Mobb Deep"
+],
+"links": 34
+},
+{
+"name": "Poison",
+"aliases": [
+"Paris"
+],
+"links": 34
+},
+{
+"name": "SISTAR",
+"aliases": [],
+"links": 34
+},
+{
+"name": "The Buggles",
+"aliases": [
+"Buggles"
+],
+"links": 34
+},
+{
+"name": "The Dubliners",
+"aliases": [
+"Dubliners"
+],
+"links": 34
+},
+{
+"name": "The Flowers of Romance",
+"aliases": [],
+"links": 34
+},
+{
+"name": "The Fray",
+"aliases": [
+"Fray"
+],
+"links": 34
+},
+{
 "name": "The Jam",
 "aliases": [],
+"links": 34
+},
+{
+"name": "The Jesus and Mary Chain",
+"aliases": [
+"Death of Joey",
+"Jesus & Mary Chain",
+"Jesus and Mary Chain",
+"The Jesus & Mary Chain",
+"The Poppy Seeds"
+],
+"links": 34
+},
+{
+"name": "The Pogues",
+"aliases": [
+"Pogue Mahone"
+],
 "links": 34
 },
 {
@@ -2246,8 +3263,181 @@
 "links": 34
 },
 {
+"name": "Ultravox",
+"aliases": [
+"Ultravox!"
+],
+"links": 34
+},
+{
+"name": "Velvet Revolver",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Wardruna",
+"aliases": [],
+"links": 34
+},
+{
+"name": "10cc",
+"aliases": [
+"10 cc"
+],
+"links": 33
+},
+{
+"name": "AFI",
+"aliases": [
+"A fire inside",
+"A Fire Inside",
+"Anthems for Insubordinates",
+"Crush Pop",
+"Despair Faction",
+"Javey",
+"Mark Stopholese",
+"Markus Stopholese",
+"Vic Chalker",
+"Victor Chalker",
+"Victor Kenyon"
+],
+"links": 33
+},
+{
+"name": "As I Lay Dying",
+"aliases": [
+"AILD"
+],
+"links": 33
+},
+{
+"name": "At the Gates",
+"aliases": [],
+"links": 33
+},
+{
+"name": "B.A.P",
+"aliases": [
+"BAP"
+],
+"links": 33
+},
+{
+"name": "Budka Suflera",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Camel",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Control Machete",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Day6",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Death Grips",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Derek and the Dominos",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Enslaved",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Faithless",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Hüsker Dü",
+"aliases": [
+"Husker Du"
+],
+"links": 33
+},
+{
+"name": "Joker Out",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Kneecap",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Malice Mizer",
+"aliases": [],
+"links": 33
+},
+{
+"name": "MC5",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Momoland",
+"aliases": [
+"MMLD"
+],
+"links": 33
+},
+{
+"name": "Múm",
+"aliases": [
+"Mum"
+],
+"links": 33
+},
+{
+"name": "Ogene",
+"aliases": [
+"Lisa, Amy & Shelley",
+"Lisa, Amy and Shelley",
+"O'G3NE",
+"OG3NE"
+],
+"links": 33
+},
+{
+"name": "Paradise Lost",
+"aliases": [],
+"links": 33
+},
+{
 "name": "Rotting Christ",
 "aliases": [],
+"links": 33
+},
+{
+"name": "Shkodra Elektronike",
+"aliases": [],
+"links": 33
+},
+{
+"name": "The Andrews Sisters",
+"aliases": [],
+"links": 33
+},
+{
+"name": "The Darkness",
+"aliases": [
+"Darkness"
+],
 "links": 33
 },
 {
@@ -2261,9 +3451,47 @@
 "links": 33
 },
 {
+"name": "The Platters",
+"aliases": [
+"Platters"
+],
+"links": 33
+},
+{
+"name": "The Quarrymen",
+"aliases": [
+"Johnny and the Moondogs",
+"The Blackjacks",
+"the Quarry Men"
+],
+"links": 33
+},
+{
+"name": "Train",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Wir sind Helden",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Years & Years",
+"aliases": [
+"Years and Years"
+],
+"links": 33
+},
+{
 "name": "Yellowcard",
 "aliases": [],
 "links": 33
+},
+{
+"name": "alt-J",
+"aliases": [],
+"links": 32
 },
 {
 "name": "Band-Maid",
@@ -2275,7 +3503,106 @@
 "links": 32
 },
 {
+"name": "Big Time Rush",
+"aliases": [
+"B.T.R",
+"BTR"
+],
+"links": 32
+},
+{
 "name": "Blind Channel",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Bzikebi",
+"aliases": [
+"Wasps"
+],
+"links": 32
+},
+{
+"name": "Cake",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Cutting Crew",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Daron Malakian and Scars on Broadway",
+"aliases": [
+"Scars On Broadway",
+"Scars on Broadway",
+"SOB"
+],
+"links": 32
+},
+{
+"name": "Dead by Sunrise",
+"aliases": [
+"Snow White Tan"
+],
+"links": 32
+},
+{
+"name": "Dreamcatcher",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Drowning Pool",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Flyleaf",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Foals",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Frankie Goes to Hollywood",
+"aliases": [
+"FGTH"
+],
+"links": 32
+},
+{
+"name": "Girl's Day",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Grand Funk Railroad",
+"aliases": [
+"GFR",
+"Grand Funk"
+],
+"links": 32
+},
+{
+"name": "Grazhdanskaya Oborona",
+"aliases": [
+"Civil Defense",
+"GrOb"
+],
+"links": 32
+},
+{
+"name": "Gym Class Heroes",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Hatebreed",
 "aliases": [],
 "links": 32
 },
@@ -2285,7 +3612,112 @@
 "links": 32
 },
 {
+"name": "KAJ",
+"aliases": [],
+"links": 32
+},
+{
+"name": "KEiiNO",
+"aliases": [],
+"links": 32
+},
+{
+"name": "LCD Soundsystem",
+"aliases": [
+"LCD Sound system"
+],
+"links": 32
+},
+{
+"name": "Leaves' Eyes",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Mandinga",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Modest Mouse",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Nick Cave and the Bad Seeds",
+"aliases": [
+"Nick Cave & the Bad Seeds"
+],
+"links": 32
+},
+{
+"name": "No Angels",
+"aliases": [],
+"links": 32
+},
+{
+"name": "One Ok Rock",
+"aliases": [
+"OOR"
+],
+"links": 32
+},
+{
+"name": "Pierce the Veil",
+"aliases": [
+"PTV/Pierce the Veil"
+],
+"links": 32
+},
+{
+"name": "Primal Scream",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Primus",
+"aliases": [
+"Primate"
+],
+"links": 32
+},
+{
 "name": "Rancid",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Scandal",
+"aliases": [
+"Nintama Scatarō",
+"Nurse Jogakuin",
+"SCAP",
+"Scashi",
+"Sukyandaru"
+],
+"links": 32
+},
+{
+"name": "Selena Gomez & the Scene",
+"aliases": [
+"Selena Gomez and the Scene",
+"The Scene",
+"Unbroken"
+],
+"links": 32
+},
+{
+"name": "Silverchair",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Six Feet Under",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Skunk Anansie",
 "aliases": [],
 "links": 32
 },
@@ -2295,12 +3727,183 @@
 "links": 32
 },
 {
+"name": "Sonny & Cher",
+"aliases": [
+"Sonny and Cher"
+],
+"links": 32
+},
+{
+"name": "Suicidal Tendencies",
+"aliases": [],
+"links": 32
+},
+{
+"name": "The All-American Rejects",
+"aliases": [],
+"links": 32
+},
+{
+"name": "The Damned",
+"aliases": [
+"Damned"
+],
+"links": 32
+},
+{
+"name": "The Flaming Lips",
+"aliases": [],
+"links": 32
+},
+{
+"name": "the GazettE",
+"aliases": [
+"GazettE"
+],
+"links": 32
+},
+{
+"name": "The National",
+"aliases": [
+"National"
+],
+"links": 32
+},
+{
+"name": "The Pointer Sisters",
+"aliases": [
+"Pointer Sisters"
+],
+"links": 32
+},
+{
+"name": "The Shins",
+"aliases": [],
+"links": 32
+},
+{
+"name": "The Specials",
+"aliases": [
+"Specials"
+],
+"links": 32
+},
+{
+"name": "The Sweet",
+"aliases": [
+"Sweet",
+"Sweetshop"
+],
+"links": 32
+},
+{
 "name": "The Warning",
 "aliases": [],
 "links": 32
 },
 {
+"name": "Tinariwen",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Two Steps from Hell",
+"aliases": [],
+"links": 32
+},
+{
+"name": "UFO",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Underworld",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Wilco",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Yellow Magic Orchestra",
+"aliases": [
+"YMO"
+],
+"links": 32
+},
+{
+"name": "Ylvis",
+"aliases": [
+"Ylvisaker",
+"Ylvisaker brothers",
+"Ylvisåker",
+"Ylvisåker brothers"
+],
+"links": 32
+},
+{
+"name": "Zdob și Zdub",
+"aliases": [
+"Zdob şi Zdub"
+],
+"links": 32
+},
+{
+"name": "After Forever",
+"aliases": [
+"Apocalypse"
+],
+"links": 31
+},
+{
 "name": "Annihilator",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Badfinger",
+"aliases": [
+"The Iveys"
+],
+"links": 31
+},
+{
+"name": "Biffy Clyro",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Boards of Canada",
+"aliases": [
+"BoC",
+"Hell Interface"
+],
+"links": 31
+},
+{
+"name": "Cage the Elephant",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Celtic Woman",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Counting Crows",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Crystal Castles",
+"aliases": [],
+"links": 31
+},
+{
+"name": "DNCE",
 "aliases": [],
 "links": 31
 },
@@ -2310,10 +3913,117 @@
 "links": 31
 },
 {
+"name": "Feminnem",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Gentle Giant",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Heaven & Hell",
+"aliases": [
+"Black Sabbath",
+"Heaven and Hell"
+],
+"links": 31
+},
+{
+"name": "Herman's Hermits",
+"aliases": [
+"Herman & the Hermits"
+],
+"links": 31
+},
+{
+"name": "Kaoma",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Kep1er",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Lacrimosa",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Lake Malawi",
+"aliases": [],
+"links": 31
+},
+{
 "name": "Midnight Oil",
 "aliases": [
 "The Oils"
 ],
+"links": 31
+},
+{
+"name": "Mott the Hoople",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Musiqq",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Nile",
+"aliases": [],
+"links": 31
+},
+{
+"name": "NU'EST",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Orchestral Manoeuvres in the Dark",
+"aliases": [
+"OMD",
+"Omd",
+"Orchestral Manœuvres in the Dark"
+],
+"links": 31
+},
+{
+"name": "Plastic Ono Band",
+"aliases": [
+"Plastic Ono Elephant's Memory Band",
+"Plastic Ono Nuclear Band",
+"Plastic U.F. Ono Band",
+"The Plastic Ono Band",
+"Yoko Ono Plastic Ono Band"
+],
+"links": 31
+},
+{
+"name": "Sade",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Ska-P",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Sly and the Family Stone",
+"aliases": [
+"Sly & The Family Stone"
+],
+"links": 31
+},
+{
+"name": "Smile",
+"aliases": [],
 "links": 31
 },
 {
@@ -2332,7 +4042,141 @@
 "links": 31
 },
 {
+"name": "Teach-In",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Television",
+"aliases": [],
+"links": 31
+},
+{
+"name": "The Knife",
+"aliases": [
+"Knife"
+],
+"links": 31
+},
+{
+"name": "The Zombies",
+"aliases": [
+"Zombies"
+],
+"links": 31
+},
+{
+"name": "Urban Symphony",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Van der Graaf Generator",
+"aliases": [
+"Van der Graaf",
+"VdGG"
+],
+"links": 31
+},
+{
+"name": "Aarzemnieki",
+"aliases": [],
+"links": 30
+},
+{
+"name": "At the Drive-In",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Aventura",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Azerbaijan State Symphony Orchestra",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Bad Company",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Bright Eyes",
+"aliases": [
+"Bright Eye"
+],
+"links": 30
+},
+{
 "name": "Chumbawamba",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Cinderella",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Crowded House",
+"aliases": [],
+"links": 30
+},
+{
+"name": "D mol",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Dave Matthews Band",
+"aliases": [
+"Dave Mathew's Band",
+"Dave Mathews Band",
+"Dave Matthew's Band",
+"DMB",
+"The Dave Mathew's Band",
+"The Dave Mathews Band",
+"The Dave Matthew's Band",
+"the Dave Matthews Band"
+],
+"links": 30
+},
+{
+"name": "Dimitri Vegas & Like Mike",
+"aliases": [
+"Dimitri Thivaios & Michael Thivaios",
+"DV&LM",
+"DVLM"
+],
+"links": 30
+},
+{
+"name": "Editors",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Entombed",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Far East Movement",
+"aliases": [
+"FEM"
+],
+"links": 30
+},
+{
+"name": "Flogging Molly",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Golden Earring",
 "aliases": [],
 "links": 30
 },
@@ -2344,7 +4188,79 @@
 "links": 30
 },
 {
+"name": "Heaven Shall Burn",
+"aliases": [],
+"links": 30
+},
+{
+"name": "I'm from Barcelona",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Katarsis",
+"aliases": [],
+"links": 30
+},
+{
 "name": "Killing Joke",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Last Pizza Slice",
+"aliases": [
+"LPS"
+],
+"links": 30
+},
+{
+"name": "Madcon",
+"aliases": [
+"Mad Conspiracy"
+],
+"links": 30
+},
+{
+"name": "Maná",
+"aliases": [
+"Mana"
+],
+"links": 30
+},
+{
+"name": "Maximum the Hormone",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Milk and Honey",
+"aliases": [
+"Gali Atari & Milk and Honey",
+"Gali Atari with Milk & Honey",
+"Milk & Honey"
+],
+"links": 30
+},
+{
+"name": "Moje 3",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Morcheeba",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Mr. Big",
+"aliases": [
+"Mr Big"
+],
+"links": 30
+},
+{
+"name": "Nevermore",
 "aliases": [],
 "links": 30
 },
@@ -2354,7 +4270,73 @@
 "links": 30
 },
 {
+"name": "Poets of the Fall",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Rat Pack",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Rouge",
+"aliases": [],
+"links": 30
+},
+{
 "name": "Sevendust",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Shinedown",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Shocking Blue",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Sinplus",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Soul Militia",
+"aliases": [
+"2XL"
+],
+"links": 30
+},
+{
+"name": "STAYC",
+"aliases": [
+"Star to a Young Culture"
+],
+"links": 30
+},
+{
+"name": "Sudden Lights",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Supergrass",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Takasa",
+"aliases": [
+"Heilsarmee"
+],
+"links": 30
+},
+{
+"name": "The Coasters",
 "aliases": [],
 "links": 30
 },
@@ -2364,5 +4346,6087 @@
 "Doobie Brothers"
 ],
 "links": 30
+},
+{
+"name": "The Kelly Family",
+"aliases": [
+"Kelly Family"
+],
+"links": 30
+},
+{
+"name": "The KLF",
+"aliases": [
+"K2 Plant Hire",
+"The JAMs",
+"The Justified Ancients of Mu Mu",
+"The Timelords"
+],
+"links": 30
+},
+{
+"name": "The Last Shadow Puppets",
+"aliases": [
+"TLSP"
+],
+"links": 30
+},
+{
+"name": "The Vamps",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Theatre of Tragedy",
+"aliases": [],
+"links": 30
+},
+{
+"name": "They Might Be Giants",
+"aliases": [
+"TMBG"
+],
+"links": 30
+},
+{
+"name": "Tiamat",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Vaya Con Dios",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Ziferblat",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Agalloch",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Animal Collective",
+"aliases": [
+"Avey Tare & Panda Bear",
+"Avey Tare and Panda Bear",
+"Avey Tare Panda Bear & Geologist",
+"Avey Tare Panda Bear and Geologist",
+"Avey Tare, Panda Bear & Geologist",
+"Avey Tare, Panda Bear and Geologist",
+"Campfire Songs"
+],
+"links": 29
+},
+{
+"name": "Aphrodite's Child",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Azúcar Moreno",
+"aliases": [
+"Azucar Moreno"
+],
+"links": 29
+},
+{
+"name": "Bad Boys Blue",
+"aliases": [
+"BBB"
+],
+"links": 29
+},
+{
+"name": "Bad Brains",
+"aliases": [
+"Mind Power"
+],
+"links": 29
+},
+{
+"name": "Beirut",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Blind Faith",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Booker T. & the M.G.'s",
+"aliases": [
+"Booker T & The MG's",
+"Booker T & the MG's",
+"Booker T. and the M.G.'s",
+"Booker T. And The M.G.'s"
+],
+"links": 29
+},
+{
+"name": "Buena Vista Social Club",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Bush",
+"aliases": [
+"Bushx"
+],
+"links": 29
+},
+{
+"name": "Carousel",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Chic",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Chvrches",
+"aliases": [
+"CHVRCHΞS"
+],
+"links": 29
+},
+{
+"name": "Citi Zēni",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Edguy",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Einstürzende Neubauten",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Empire of the Sun",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Extreme",
+"aliases": [],
+"links": 29
+},
+{
+"name": "F.T. Island",
+"aliases": [
+"Five Treasure Island"
+],
+"links": 29
+},
+{
+"name": "Five",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Hari Mata Hari",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Hawkwind",
+"aliases": [
+"Hawkwind Zoo"
+],
+"links": 29
+},
+{
+"name": "Katatonia",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Kent",
+"aliases": [],
+"links": 29
+},
+{
+"name": "KMFDM",
+"aliases": [
+"Kein Mehrheit für die Mitleid"
+],
+"links": 29
+},
+{
+"name": "Koza Mostra",
+"aliases": [],
+"links": 29
+},
+{
+"name": "La Oreja de Van Gogh",
+"aliases": [
+"LOVG"
+],
+"links": 29
+},
+{
+"name": "Let 3",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Liquid Tension Experiment",
+"aliases": [
+"LTE"
+],
+"links": 29
+},
+{
+"name": "Living Colour",
+"aliases": [],
+"links": 29
+},
+{
+"name": "London Grammar",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Lukas Graham",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Magic!",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Mando Diao",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Ministry",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Molchat Doma",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Mudhoney",
+"aliases": [],
+"links": 29
+},
+{
+"name": "O.Torvald",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Omega",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Pavement",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Rednex",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Regina",
+"aliases": [
+"Group Regina",
+"Grupa Regina"
+],
+"links": 29
+},
+{
+"name": "Royal Philharmonic Orchestra",
+"aliases": [
+"The London Royal Philharmonic",
+"The Royal Philharmonic Orchestra"
+],
+"links": 29
+},
+{
+"name": "Rudimental",
+"aliases": [],
+"links": 29
+},
+{
+"name": "S Club 7",
+"aliases": [
+"S Club"
+],
+"links": 29
+},
+{
+"name": "SASH!",
+"aliases": [],
+"links": 29
+},
+{
+"name": "SF9",
+"aliases": [
+"Sensational Feeling 9"
+],
+"links": 29
+},
+{
+"name": "Slint",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Teen Top",
+"aliases": [],
+"links": 29
+},
+{
+"name": "The 13th Floor Elevators",
+"aliases": [],
+"links": 29
+},
+{
+"name": "The Calling",
+"aliases": [],
+"links": 29
+},
+{
+"name": "The Exploited",
+"aliases": [
+"Exploited"
+],
+"links": 29
+},
+{
+"name": "The Go-Go's",
+"aliases": [
+"Go-Go's"
+],
+"links": 29
+},
+{
+"name": "The Sisters of Mercy",
+"aliases": [
+"Sisters of Mercy"
+],
+"links": 29
+},
+{
+"name": "Three 6 Mafia",
+"aliases": [
+"Three Six Mafia"
+],
+"links": 29
+},
+{
+"name": "Throbbing Gristle",
+"aliases": [
+"TG"
+],
+"links": 29
+},
+{
+"name": "Timebelle",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Volbeat",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Weather Report",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Wolfmother",
+"aliases": [],
+"links": 29
+},
+{
+"name": "2AM",
+"aliases": [
+"2 AM",
+"2:00 AM",
+"2:00AM"
+],
+"links": 28
+},
+{
+"name": "All That Remains",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Amadou & Mariam",
+"aliases": [
+"Amadou and Mariam",
+"Amadou et Mariam"
+],
+"links": 28
+},
+{
+"name": "Aquarium",
+"aliases": [
+"Akvarium"
+],
+"links": 28
+},
+{
+"name": "Bachman–Turner Overdrive",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Beady Eye",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Bijelo Dugme",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Bone Thugs-n-Harmony",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Boys Like Girls",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Candlemass",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Daughtry",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Devo",
+"aliases": [
+"DEV-O",
+"Dove",
+"The De-Evolution Band"
+],
+"links": 28
+},
+{
+"name": "Echosmith",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Escape the Fate",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Explosions in the Sky",
+"aliases": [
+"explosionsinthesky.bandcamp.com"
+],
+"links": 28
+},
+{
+"name": "Faces",
+"aliases": [
+"The Faces"
+],
+"links": 28
+},
+{
+"name": "Fine Young Cannibals",
+"aliases": [
+"FYC"
+],
+"links": 28
+},
+{
+"name": "Gang of Four",
+"aliases": [
+"Andrew Gill, Jon King, Steve Goulding, Sarah Lee"
+],
+"links": 28
+},
+{
+"name": "Genealogy",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Gerry and the Pacemakers",
+"aliases": [
+"Gerry & The Pacemakers",
+"Gerry & the Pacemakers"
+],
+"links": 28
+},
+{
+"name": "Greta Van Fleet",
+"aliases": [
+"Greta Van Fleet Band",
+"GVF"
+],
+"links": 28
+},
+{
+"name": "Haggard",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Halestorm",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Hot Chip",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Insomnium",
+"aliases": [],
+"links": 28
+},
+{
+"name": "JYJ",
+"aliases": [
+"J.Y.J.",
+"Junsu/Yuchun/Jejung"
+],
+"links": 28
+},
+{
+"name": "Korol i Shut",
+"aliases": [
+"King and Jester",
+"KiSh"
+],
+"links": 28
+},
+{
+"name": "La Bouche",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Lelek",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Leningrad",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Lord of the Lost",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Love",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Modjo",
+"aliases": [
+"Modjo Band"
+],
+"links": 28
+},
+{
+"name": "Moonsorrow",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Mountain",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Mägo de Oz",
+"aliases": [
+"Mago de Oz"
+],
+"links": 28
+},
+{
+"name": "Naviband",
+"aliases": [
+"NAVI"
+],
+"links": 28
+},
+{
+"name": "New Found Glory",
+"aliases": [
+"A New Found Glory",
+"NFG"
+],
+"links": 28
+},
+{
+"name": "Pain of Salvation",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Phoenix",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Portugal. The Man",
+"aliases": [
+"Portugal The Man"
+],
+"links": 28
+},
+{
+"name": "REO Speedwagon",
+"aliases": [
+"R.E.O. Speedwagon"
+],
+"links": 28
+},
+{
+"name": "Sentenced",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Sirenia",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Sixpence None the Richer",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Smash Mouth",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Sparks",
+"aliases": [
+"Halfnelson",
+"The Sparks"
+],
+"links": 28
+},
+{
+"name": "Steve Miller Band",
+"aliases": [
+"Steve Miller Blues Band",
+"The Steve Miller Band"
+],
+"links": 28
+},
+{
+"name": "Sublime",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Tankard",
+"aliases": [],
+"links": 28
+},
+{
+"name": "The Black Dahlia Murder",
+"aliases": [],
+"links": 28
+},
+{
+"name": "The Dave Clark Five",
+"aliases": [
+"Dave Clark & Friends",
+"Dave Clark Five",
+"The DC5"
+],
+"links": 28
+},
+{
+"name": "The Decemberists",
+"aliases": [
+"Decemberists"
+],
+"links": 28
+},
+{
+"name": "The Four Seasons",
+"aliases": [
+"The 4 Seasons"
+],
+"links": 28
+},
+{
+"name": "The Lonely Island",
+"aliases": [
+"2 Guyz",
+"Andy Samberg, Akiva Schaffer, Jorma Taccone",
+"Bing Bong Brothers",
+"Incredibad",
+"Lonely Island",
+"The Party Andersons",
+"The Style Boyz"
+],
+"links": 28
+},
+{
+"name": "The Mothers of Invention",
+"aliases": [
+"Mothers of Invention"
+],
+"links": 28
+},
+{
+"name": "The Residents",
+"aliases": [
+"Delta Nudes",
+"Residents"
+],
+"links": 28
+},
+{
+"name": "The Saturdays",
+"aliases": [
+"Saturdays"
+],
+"links": 28
+},
+{
+"name": "The Used",
+"aliases": [],
+"links": 28
+},
+{
+"name": "The Ventures",
+"aliases": [
+"The New Ventures",
+"The Versatones"
+],
+"links": 28
+},
+{
+"name": "TWiiNS",
+"aliases": [
+"Tweens",
+"Twice As Nice"
+],
+"links": 28
+},
+{
+"name": "Týr",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Vesna",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Wintersun",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Wishbone Ash",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Yazoo",
+"aliases": [
+"Yaz"
+],
+"links": 28
+},
+{
+"name": "3OH!3",
+"aliases": [
+"Three Oh! Three",
+"three oh! three"
+],
+"links": 27
+},
+{
+"name": "Akcent",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Alcazar",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Alien Ant Farm",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Amaranthe",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Basement Jaxx",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Beach House",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Berlin",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Bikini Kill",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Blessthefall",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Bronski Beat",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Circus Mircus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Converge",
+"aliases": [],
+"links": 27
+},
+{
+"name": "De La Soul",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Dead or Alive",
+"aliases": [
+"DOA",
+"International Chrysis",
+"Mike Percy",
+"Nightmares in Wax",
+"Tim Lever"
+],
+"links": 27
+},
+{
+"name": "Dissection",
+"aliases": [],
+"links": 27
+},
+{
+"name": "DoReDoS",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Elaiza",
+"aliases": [],
+"links": 27
+},
+{
+"name": "En Vogue",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Enter Shikari",
+"aliases": [
+"enter: shikari"
+],
+"links": 27
+},
+{
+"name": "Eurobandið",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Fairport Convention",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Falling in Reverse",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Fleet Foxes",
+"aliases": [
+"Fleet Foxes Band"
+],
+"links": 27
+},
+{
+"name": "Focus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Fools Garden",
+"aliases": [
+"Fool's Garden"
+],
+"links": 27
+},
+{
+"name": "Free",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Glass Animals",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Gregorian",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Gåte",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Hanson",
+"aliases": [],
+"links": 27
+},
+{
+"name": "In This Moment",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Jet",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Juli",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Karmin",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Kings of Convenience",
+"aliases": [],
+"links": 27
+},
+{
+"name": "L.A. Guns",
+"aliases": [
+"L A Guns",
+"LA Guns"
+],
+"links": 27
+},
+{
+"name": "Lady Pank",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Lifehouse",
+"aliases": [
+"Blyss"
+],
+"links": 27
+},
+{
+"name": "London Philharmonic Orchestra",
+"aliases": [
+"The London Philharmonic Orchestra"
+],
+"links": 27
+},
+{
+"name": "Lyube",
+"aliases": [
+"Lubeh"
+],
+"links": 27
+},
+{
+"name": "Madredeus",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Magma",
+"aliases": [
+"Vandertop"
+],
+"links": 27
+},
+{
+"name": "Mazzy Star",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Mindless Self Indulgence",
+"aliases": [
+"MSI"
+],
+"links": 27
+},
+{
+"name": "Mo-Do",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Mor ve Ötesi",
+"aliases": [],
+"links": 27
+},
+{
+"name": "NAPA",
+"aliases": [
+"Men On The Couch"
+],
+"links": 27
+},
+{
+"name": "Norther",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Orphaned Land",
+"aliases": [
+"Resurrection"
+],
+"links": 27
+},
+{
+"name": "Pain",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Pennywise",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Pertti Kurikan Nimipäivät",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Public Image Ltd.",
+"aliases": [
+"PiL",
+"Public Image Limited",
+"Public Image Ltd"
+],
+"links": 27
+},
+{
+"name": "Quiet Riot",
+"aliases": [],
+"links": 27
+},
+{
+"name": "R5",
+"aliases": [
+"R5 band"
+],
+"links": 27
+},
+{
+"name": "Rascal Flatts",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Social Distortion",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Soul Asylum",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Sunrise Avenue",
+"aliases": [
+"Sunrise Ave"
+],
+"links": 27
+},
+{
+"name": "SuperM",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Swans",
+"aliases": [],
+"links": 27
+},
+{
+"name": "The Dandy Warhols",
+"aliases": [
+"Dandy Warhols"
+],
+"links": 27
+},
+{
+"name": "The Raconteurs",
+"aliases": [
+"Raconteurs",
+"Saboteurs",
+"The Saboteurs"
+],
+"links": 27
+},
+{
+"name": "The Roots",
+"aliases": [
+"Black to the Future",
+"Radio Activity",
+"Roots",
+"The Fifth Dynasty",
+"The Legendary Roots Crew",
+"The Square Roots"
+],
+"links": 27
+},
+{
+"name": "The Runaways",
+"aliases": [
+"Runaways, Joan Jett and The Runaways"
+],
+"links": 27
+},
+{
+"name": "The Stranglers",
+"aliases": [
+"Stranglers"
+],
+"links": 27
+},
+{
+"name": "The Troggs",
+"aliases": [
+"The Troglodytes",
+"Troggs",
+"Troglodytes"
+],
+"links": 27
+},
+{
+"name": "Tom Petty and the Heartbreakers",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Trackshittaz",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Trio Mandili",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Two Door Cinema Club",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Underoath",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Voivod",
+"aliases": [],
+"links": 27
+},
+{
+"name": "WayV",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Ween",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Wet Wet Wet",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Wig Wam",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Wire",
+"aliases": [
+"Wir"
+],
+"links": 27
+},
+{
+"name": "Xandria",
+"aliases": [],
+"links": 27
+},
+{
+"name": "A-Teens",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Above & Beyond",
+"aliases": [
+"Above and Beyond"
+],
+"links": 26
+},
+{
+"name": "Adam and the Ants",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Airbourne",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Apollo 440",
+"aliases": [
+"Apollo Four Forty",
+"Stealth Sonic Orchestra",
+"Stealth Sonic Soul",
+"Trevor Gray,Howard Grey,Noko"
+],
+"links": 26
+},
+{
+"name": "Asia",
+"aliases": [],
+"links": 26
+},
+{
+"name": "AWS",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Ayreon",
+"aliases": [],
+"links": 26
+},
+{
+"name": "B'z",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Black Label Society",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Block B",
+"aliases": [
+"Block-B"
+],
+"links": 26
+},
+{
+"name": "Box Car Racer",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Caravan",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Cheap Trick",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Chickenfoot",
+"aliases": [],
+"links": 26
+},
+{
+"name": "CocoRosie",
+"aliases": [
+"Coco Rosie"
+],
+"links": 26
+},
+{
+"name": "Dark Funeral",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Death Angel",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Decapitated",
+"aliases": [],
+"links": 26
+},
+{
+"name": "DevilDriver",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Die Krupps",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Dorians",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Dubioza kolektiv",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Eels",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Elf",
+"aliases": [
+"Ronnie And The Red Caps",
+"Ronnie Dio And The Prophets",
+"The Electric Elves",
+"The Elves"
+],
+"links": 26
+},
+{
+"name": "Grizzly Bear",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Gyllene Tider",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Hypocrisy",
+"aliases": [],
+"links": 26
+},
+{
+"name": "In Extremo",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Insane Clown Posse",
+"aliases": [
+"ICP"
+],
+"links": 26
+},
+{
+"name": "Iriao",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Jefferson Starship",
+"aliases": [
+"Starship"
+],
+"links": 26
+},
+{
+"name": "JLS",
+"aliases": [
+"Jack lad swing",
+"Jack The Lad Swing"
+],
+"links": 26
+},
+{
+"name": "Kalafina",
+"aliases": [],
+"links": 26
+},
+{
+"name": "La Roux",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Ladaniva",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Lavina",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Leningrad Cowboys",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Mahavishnu Orchestra",
+"aliases": [
+"The Mahavishnu Orchestra"
+],
+"links": 26
+},
+{
+"name": "Malcolm Lincoln",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Mamagama",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Mano Negra",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Metal Church",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Mumiy Troll",
+"aliases": [],
+"links": 26
+},
+{
+"name": "N.E.R.D.",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Nautilus Pompilius",
+"aliases": [
+"Ali Baba and the Forty Thieves",
+"Nau",
+"Nautilus",
+"NP"
+],
+"links": 26
+},
+{
+"name": "Neu!",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Noel Gallagher's High Flying Birds",
+"aliases": [
+"High Flying Birds"
+],
+"links": 26
+},
+{
+"name": "Nouvelle Vague",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Primal Fear",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Rae Sremmurd",
+"aliases": [
+"Dem Outta ST8 Boyz"
+],
+"links": 26
+},
+{
+"name": "Razorlight",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Remember Monday",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Skinny Puppy",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Skrewdriver",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Snap!",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Super Furry Animals",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Tautumeitas",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Temple of the Dog",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Teräsbetoni",
+"aliases": [
+"Terasbetoni"
+],
+"links": 26
+},
+{
+"name": "The Black Crowes",
+"aliases": [
+"Black Crowes"
+],
+"links": 26
+},
+{
+"name": "The Black Mamba",
+"aliases": [],
+"links": 26
+},
+{
+"name": "The Breeders",
+"aliases": [
+"Breeders"
+],
+"links": 26
+},
+{
+"name": "The Busker",
+"aliases": [],
+"links": 26
+},
+{
+"name": "The Fall",
+"aliases": [
+"Fall"
+],
+"links": 26
+},
+{
+"name": "The Fratellis",
+"aliases": [],
+"links": 26
+},
+{
+"name": "The Gathering",
+"aliases": [
+"Gathering"
+],
+"links": 26
+},
+{
+"name": "The Guess Who",
+"aliases": [
+"Chad Allan & The Expressions",
+"Chad Allan and The Expressions",
+"Guess Who"
+],
+"links": 26
+},
+{
+"name": "The Lovin' Spoonful",
+"aliases": [
+"Lovin' Spoonful"
+],
+"links": 26
+},
+{
+"name": "The Searchers",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Them",
+"aliases": [
+"The Belfast Gypsies"
+],
+"links": 26
+},
+{
+"name": "Them Crooked Vultures",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Tulia",
+"aliases": [],
+"links": 26
+},
+{
+"name": "TV on the Radio",
+"aliases": [
+"Tunde Adebimpe, David Andrew Sitek, Jason Sitek"
+],
+"links": 26
+},
+{
+"name": "Ulver",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Voyager",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Wolf Alice",
+"aliases": [],
+"links": 26
+},
+{
+"name": "A Day to Remember",
+"aliases": [
+"A.D.T.R",
+"ADTR",
+"End of an Era"
+],
+"links": 25
+},
+{
+"name": "A Flock of Seagulls",
+"aliases": [
+"A Flock of Seagull's",
+"AFOS",
+"flock of seagulls",
+"Flock Of Seagulls"
+],
+"links": 25
+},
+{
+"name": "A Friend in London",
+"aliases": [
+"Aske Damm",
+"Aske Damm Bramming",
+"Calling a Friend",
+"Esben Svane",
+"Friend In London",
+"Sebastian Vinther"
+],
+"links": 25
+},
+{
+"name": "AAA",
+"aliases": [
+"Attack All Around",
+"Triple A"
+],
+"links": 25
+},
+{
+"name": "Agatha Christie",
+"aliases": [
+"Agata Kristi"
+],
+"links": 25
+},
+{
+"name": "Alphabeta",
+"aliases": [
+"Izhar Cohen & Alpha-Beta",
+"The Alpha-Beta"
+],
+"links": 25
+},
+{
+"name": "An Cafe",
+"aliases": [
+"Antic Cafe"
+],
+"links": 25
+},
+{
+"name": "Anti Social Media",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Baltimora",
+"aliases": [
+"Baltimore",
+"James McShane"
+],
+"links": 25
+},
+{
+"name": "Bay City Rollers",
+"aliases": [
+"70s Bay City Rollers",
+"Les Mckeown And The 70-s Bay City Rollers",
+"The 70-s Bay City Rollers",
+"The 70s Bay City Rollers",
+"The New Rollers",
+"The Rollers",
+"The Saxons"
+],
+"links": 25
+},
+{
+"name": "Big Star",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Blood Red Shoes",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Blue Cheer",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Blue System",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Bomfunk MC's",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Bread",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Carpathian Forest",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Cavalera Conspiracy",
+"aliases": [
+"Inflikted"
+],
+"links": 25
+},
+{
+"name": "Chevelle",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Clutch",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Compact Disco",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Country Joe and the Fish",
+"aliases": [
+"The Fish"
+],
+"links": 25
+},
+{
+"name": "Damageplan",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Deep Forest",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Diamond Head",
+"aliases": [],
+"links": 25
+},
+{
+"name": "E Street Band",
+"aliases": [
+"Bruce Springsteen & The E-Street Band"
+],
+"links": 25
+},
+{
+"name": "East 17",
+"aliases": [
+"E-17"
+],
+"links": 25
+},
+{
+"name": "El Canto del Loco",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Emigrate",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Gipsy.cz",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Girlschool",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Gossip",
+"aliases": [
+"The Gossip"
+],
+"links": 25
+},
+{
+"name": "Gotan Project",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Grave Digger",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Green River",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Groove Armada",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Groove Coverage",
+"aliases": [],
+"links": 25
+},
+{
+"name": "House of Pain",
+"aliases": [
+"Eric Schrody , Daniel O'Connor and Leor DiMant"
+],
+"links": 25
+},
+{
+"name": "Huun-Huur-Tu",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ill Niño",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Indochine",
+"aliases": [
+"Indo"
+],
+"links": 25
+},
+{
+"name": "Kataklysm",
+"aliases": [],
+"links": 25
+},
+{
+"name": "KC and the Sunshine Band",
+"aliases": [
+"KC & the Sunshine Band"
+],
+"links": 25
+},
+{
+"name": "Knife Party",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Krokus",
+"aliases": [],
+"links": 25
+},
+{
+"name": "M2M",
+"aliases": [
+"Marit & Marion"
+],
+"links": 25
+},
+{
+"name": "Mad Season",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Manfred Mann",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Martha and the Vandellas",
+"aliases": [
+"Martha Reeves & the Vandellas",
+"The Vandellas",
+"Vandellas"
+],
+"links": 25
+},
+{
+"name": "Mecano",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Metsatöll",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Michael Learns to Rock",
+"aliases": [
+"MLTR"
+],
+"links": 25
+},
+{
+"name": "Mike and the Mechanics",
+"aliases": [
+"M1ke & the Mechan1c5",
+"M1ke and the Mechan1c5",
+"Mike & The Mecanics",
+"Mike & The Mechanics",
+"Mike + The Mechanics",
+"The Mike and Mechanics"
+],
+"links": 25
+},
+{
+"name": "Molotov",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Monrose",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Morandi",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Mr. Bungle",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Mungo Jerry",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Nada Surf",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Norma John",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Onyx",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Otep",
+"aliases": [
+"OT3P"
+],
+"links": 25
+},
+{
+"name": "Rage",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ratt",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Rodrigo y Gabriela",
+"aliases": [
+"Rodrigo & Gabriela"
+],
+"links": 25
+},
+{
+"name": "Salt-N-Pepa",
+"aliases": [
+"Salt 'N Pepa",
+"Salt 'N' Pepa"
+],
+"links": 25
+},
+{
+"name": "Samael",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Silbermond",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Stereolab",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Systur",
+"aliases": [
+"Sigga, Beta & Elín",
+"Tripolia"
+],
+"links": 25
+},
+{
+"name": "Taake",
+"aliases": [
+"Thule"
+],
+"links": 25
+},
+{
+"name": "Ten Years After",
+"aliases": [],
+"links": 25
+},
+{
+"name": "The Ark",
+"aliases": [],
+"links": 25
+},
+{
+"name": "The Blues Brothers",
+"aliases": [
+"The Blues Brothers' Show Band and Revue"
+],
+"links": 25
+},
+{
+"name": "The Chordettes",
+"aliases": [
+"Chordettes"
+],
+"links": 25
+},
+{
+"name": "The Crickets",
+"aliases": [
+"Buddy Holly & The Crickets"
+],
+"links": 25
+},
+{
+"name": "The Dead Weather",
+"aliases": [],
+"links": 25
+},
+{
+"name": "The Dodos",
+"aliases": [
+"Dodos"
+],
+"links": 25
+},
+{
+"name": "The Drifters",
+"aliases": [
+"Drifters"
+],
+"links": 25
+},
+{
+"name": "The Hardkiss",
+"aliases": [],
+"links": 25
+},
+{
+"name": "The Incredible String Band",
+"aliases": [
+"Incredible String Band"
+],
+"links": 25
+},
+{
+"name": "The Kills",
+"aliases": [],
+"links": 25
+},
+{
+"name": "The Lumineers",
+"aliases": [
+"Lumineers",
+"Wesley Jeremiah"
+],
+"links": 25
+},
+{
+"name": "The Mamas",
+"aliases": [],
+"links": 25
+},
+{
+"name": "The Presidents of the United States of America",
+"aliases": [
+"Pot USA",
+"PotUSA",
+"PUSA",
+"The Presidents",
+"The Presidents of the United States",
+"The Quitters"
+],
+"links": 25
+},
+{
+"name": "The Sugarcubes",
+"aliases": [
+"Sykurmolarnir"
+],
+"links": 25
+},
+{
+"name": "The Sugarhill Gang",
+"aliases": [
+"Rapper's Delight Ft. Wonder Mike & Master Gee",
+"The Original Sugarhill Gang"
+],
+"links": 25
+},
+{
+"name": "The Tremeloes",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Three Dog Night",
+"aliases": [
+"3 dog night",
+"Redwood"
+],
+"links": 25
+},
+{
+"name": "Ugly Kid Joe",
+"aliases": [
+"Overdrive",
+"Suburban White Alcoholic Trash"
+],
+"links": 25
+},
+{
+"name": "Violent Femmes",
+"aliases": [
+"The Violent Femmes"
+],
+"links": 25
+},
+{
+"name": "VNV Nation",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Walk the Moon",
+"aliases": [],
+"links": 25
+},
+{
+"name": "We Are Domi",
+"aliases": [
+"DOMI"
+],
+"links": 25
+},
+{
+"name": "Wild Youth",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Windir",
+"aliases": [],
+"links": 25
+},
+{
+"name": "X Ambassadors",
+"aliases": [
+"Ambassadors",
+"XA"
+],
+"links": 25
+},
+{
+"name": "3JS",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Alcest",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Alestorm",
+"aliases": [
+"Battleheart"
+],
+"links": 24
+},
+{
+"name": "Anaal Nathrakh",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Architects",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Argo",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Arrested Development",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Asian Dub Foundation",
+"aliases": [
+"ADF"
+],
+"links": 24
+},
+{
+"name": "Asian Kung-Fu Generation",
+"aliases": [
+"Ajikan",
+"AKFG",
+"AKG"
+],
+"links": 24
+},
+{
+"name": "Avatar",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Black Rebel Motorcycle Club",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Bob Marley & The Wailers",
+"aliases": [
+"Bob Marley and the Wailers",
+"The Teenagers",
+"The Wailers",
+"The Wailing Rudeboys",
+"The Wailing Wailers"
+],
+"links": 24
+},
+{
+"name": "Body Count",
+"aliases": [],
+"links": 24
+},
+{
+"name": "BoomBox",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Busted",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Clawfinger",
+"aliases": [],
+"links": 24
+},
+{
+"name": "CNCO",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Commodores",
+"aliases": [
+"The Commodores"
+],
+"links": 24
+},
+{
+"name": "D'Nash",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Daughter",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Death in June",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Deathstars",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Dervish",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Descendents",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Dexys Midnight Runners",
+"aliases": [
+"Dexy's Midnight Runners",
+"the Dexy's Midnight Runners",
+"the Dexys Midnight Runners"
+],
+"links": 24
+},
+{
+"name": "Dope",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Down",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Equilibrium",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Evergrey",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Fontaines D.C.",
+"aliases": [
+"Fontaines",
+"Fontaines DC"
+],
+"links": 24
+},
+{
+"name": "Fountains of Wayne",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Funeral for a Friend",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Glay",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Gong",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Gorky Park",
+"aliases": [],
+"links": 24
+},
+{
+"name": "H.O.T.",
+"aliases": [
+"High-five Of Teenagers",
+"HOT"
+],
+"links": 24
+},
+{
+"name": "Happy Mondays",
+"aliases": [
+"The Happy Mondays"
+],
+"links": 24
+},
+{
+"name": "Hotel FM",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Isis",
+"aliases": [
+"Celestial"
+],
+"links": 24
+},
+{
+"name": "John Mayall & the Bluesbreakers",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kajagoogoo",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kaleo",
+"aliases": [],
+"links": 24
+},
+{
+"name": "KARD",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Klapa Ensemble",
+"aliases": [
+"Klapa s Mora"
+],
+"links": 24
+},
+{
+"name": "Kronos Quartet",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Level 42",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mashina Vremeni",
+"aliases": [
+"Time Machine"
+],
+"links": 24
+},
+{
+"name": "Maxïmo Park",
+"aliases": [
+"Maximo Park"
+],
+"links": 24
+},
+{
+"name": "Meat Puppets",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Metric",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Metro Station",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mew",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mr. Mister",
+"aliases": [
+"Mr Mister"
+],
+"links": 24
+},
+{
+"name": "Mr. President",
+"aliases": [
+"Satellite One"
+],
+"links": 24
+},
+{
+"name": "NCT Dream",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Nightmare",
+"aliases": [
+"naitomea"
+],
+"links": 24
+},
+{
+"name": "Ocean Colour Scene",
+"aliases": [
+"OCS"
+],
+"links": 24
+},
+{
+"name": "Odd Future",
+"aliases": [
+"Odd Future Wolf Gang Kill Them All"
+],
+"links": 24
+},
+{
+"name": "Onewe",
+"aliases": [
+"M.A.S 0094",
+"Make A Sound",
+"Make a Sound 0094",
+"MAS",
+"MAS 0094",
+"MAS0094"
+],
+"links": 24
+},
+{
+"name": "Opus",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Orbital",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Os Mutantes",
+"aliases": [],
+"links": 24
+},
+{
+"name": "PeR",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Pesnyary",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Pink Martini",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Plain White T's",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Puddle of Mudd",
+"aliases": [
+"Greg Upchurch"
+],
+"links": 24
+},
+{
+"name": "Rainbow",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Running Wild",
+"aliases": [
+"Granite Heart",
+"Rock'n Rolf"
+],
+"links": 24
+},
+{
+"name": "Savatage",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Scar Symmetry",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Screaming Trees",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Sham 69",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Showtek",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Sister Sledge",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Softengine",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Sonic Syndicate",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Steps",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Strapping Young Lad",
+"aliases": [
+"SYL"
+],
+"links": 24
+},
+{
+"name": "Technotronic",
+"aliases": [],
+"links": 24
+},
+{
+"name": "The 69 Eyes",
+"aliases": [
+"69 Eyes"
+],
+"links": 24
+},
+{
+"name": "The Agonist",
+"aliases": [
+"Agonist"
+],
+"links": 24
+},
+{
+"name": "The Boomtown Rats",
+"aliases": [],
+"links": 24
+},
+{
+"name": "The Chieftains",
+"aliases": [
+"Chieftains"
+],
+"links": 24
+},
+{
+"name": "The Dillinger Escape Plan",
+"aliases": [],
+"links": 24
+},
+{
+"name": "The Horrors",
+"aliases": [
+"Horrors"
+],
+"links": 24
+},
+{
+"name": "The Isley Brothers",
+"aliases": [
+"Isley Brothers"
+],
+"links": 24
+},
+{
+"name": "The Kingston Trio",
+"aliases": [
+"Kingston Trio"
+],
+"links": 24
+},
+{
+"name": "The Lemonheads",
+"aliases": [
+"Lemonheads"
+],
+"links": 24
+},
+{
+"name": "The Nice",
+"aliases": [
+"Emerlist Davjack",
+"Nice"
+],
+"links": 24
+},
+{
+"name": "The Osmonds",
+"aliases": [
+"Osmond Brothers",
+"Osmonds",
+"The Osmond Brothers"
+],
+"links": 24
+},
+{
+"name": "The Shin",
+"aliases": [
+"Shin"
+],
+"links": 24
+},
+{
+"name": "The Undertones",
+"aliases": [
+"Undertones"
+],
+"links": 24
+},
+{
+"name": "Toots and the Maytals",
+"aliases": [
+"The Maytals",
+"Toots & The Maytals"
+],
+"links": 24
+},
+{
+"name": "Triana Park",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Turisas",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Van Canto",
+"aliases": [],
+"links": 24
+},
+{
+"name": "White Lies",
+"aliases": [
+"Fear Of Flying"
+],
+"links": 24
+},
+{
+"name": "Why Don't We",
+"aliases": [
+"WDW"
+],
+"links": 24
+},
+{
+"name": "Yüksek Sadakat",
+"aliases": [],
+"links": 24
+},
+{
+"name": "5miinust",
+"aliases": [],
+"links": 23
+},
+{
+"name": "A Touch of Class",
+"aliases": [
+"ATC"
+],
+"links": 23
+},
+{
+"name": "ABC",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Alabama Shakes",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Alesana",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Arcturus",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Army of Lovers",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Ash Ra Tempel",
+"aliases": [
+"Ash Ra",
+"Ashra"
+],
+"links": 23
+},
+{
+"name": "Atreyu",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Babes in Toyland",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Belphegor",
+"aliases": [
+"Betrayer"
+],
+"links": 23
+},
+{
+"name": "Bi-2",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Big Brother and the Holding Company",
+"aliases": [
+"Big Brother & the Holding Company"
+],
+"links": 23
+},
+{
+"name": "Blonde Redhead",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Bloodbath",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Borknagar",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Brockhampton",
+"aliases": [
+"AliveSinceForever"
+],
+"links": 23
+},
+{
+"name": "Crash Test Dummies",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Deafheaven",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Discharge",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Draconian",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Eloy",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Elvenking",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Faust",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Feeder",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Firelight",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Flotsam and Jetsam",
+"aliases": [
+"Dredlox",
+"Flotsam & Jetsam",
+"Paradox",
+"The Dogz"
+],
+"links": 23
+},
+{
+"name": "Fusedmarc",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Gwar",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Hillsong United",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Hinder",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Inner Circle",
+"aliases": [
+"Bad Boys of Reggae",
+"The Bad Boys of Reggae",
+"The Inner Circle Band"
+],
+"links": 23
+},
+{
+"name": "Klaxons",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Kodaline",
+"aliases": [
+"21 Demands"
+],
+"links": 23
+},
+{
+"name": "Kula Shaker",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Megara",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Minus One",
+"aliases": [
+"Marianne’s Wish"
+],
+"links": 23
+},
+{
+"name": "Modern Jazz Quartet",
+"aliases": [
+"MJQ",
+"The Modern Jazz Quartet"
+],
+"links": 23
+},
+{
+"name": "Mother Love Bone",
+"aliases": [
+"Lords of the Wasteland"
+],
+"links": 23
+},
+{
+"name": "Myrath",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Nine Muses",
+"aliases": [
+"9 Muses",
+"9Muses"
+],
+"links": 23
+},
+{
+"name": "Novi fosili",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Ottawan",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Outlandish",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Outlawz",
+"aliases": [
+"Dramacydal",
+"Outlaw Immortalz",
+"Tha Outlawz",
+"The Outlawz"
+],
+"links": 23
+},
+{
+"name": "Pentangle",
+"aliases": [
+"The Pentangle"
+],
+"links": 23
+},
+{
+"name": "Pirates of the Sea",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Premiata Forneria Marconi",
+"aliases": [
+"PFM"
+],
+"links": 23
+},
+{
+"name": "Puuluup",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Quilapayún",
+"aliases": [
+"Quilapayun"
+],
+"links": 23
+},
+{
+"name": "Ram Jam",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Riverside",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Runrig",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Scooch",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Sick Puppies",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Sleater-Kinney",
+"aliases": [
+"Sleater Kinney"
+],
+"links": 23
+},
+{
+"name": "Sleeping with Sirens",
+"aliases": [
+"SWS"
+],
+"links": 23
+},
+{
+"name": "Story of the Year",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Stray Cats",
+"aliases": [
+"The Stray Cats"
+],
+"links": 23
+},
+{
+"name": "The Brian Jonestown Massacre",
+"aliases": [
+"BJM",
+"Brian Jonestown Massacre"
+],
+"links": 23
+},
+{
+"name": "The Cross",
+"aliases": [],
+"links": 23
+},
+{
+"name": "The Donnas",
+"aliases": [],
+"links": 23
+},
+{
+"name": "The Makemakes",
+"aliases": [],
+"links": 23
+},
+{
+"name": "The Move",
+"aliases": [
+"Move"
+],
+"links": 23
+},
+{
+"name": "The Orb",
+"aliases": [
+"Orb"
+],
+"links": 23
+},
+{
+"name": "The Piano Guys",
+"aliases": [
+"TPG"
+],
+"links": 23
+},
+{
+"name": "The Postal Service",
+"aliases": [],
+"links": 23
+},
+{
+"name": "The Replacements",
+"aliases": [
+"Replacements"
+],
+"links": 23
+},
+{
+"name": "The Swinging Blue Jeans",
+"aliases": [],
+"links": 23
+},
+{
+"name": "The The",
+"aliases": [],
+"links": 23
+},
+{
+"name": "The Vines",
+"aliases": [],
+"links": 23
+},
+{
+"name": "The Waterboys",
+"aliases": [],
+"links": 23
+},
+{
+"name": "The Wiggles",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Thousand Foot Krutch",
+"aliases": [
+"TFK"
+],
+"links": 23
+},
+{
+"name": "Tindersticks",
+"aliases": [],
+"links": 23
+},
+{
+"name": "TNMK",
+"aliases": [
+"Novye Doma",
+"Tanok na Maidani Kongo"
+],
+"links": 23
+},
+{
+"name": "U.D.O.",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Walk off the Earth",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Wallows",
+"aliases": [],
+"links": 23
+},
+{
+"name": "White Zombie",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Wilson Phillips",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Winger",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Yo La Tengo",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Amaral",
+"aliases": [
+"Higguj"
+],
+"links": 22
+},
+{
+"name": "Angra",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Atheist",
+"aliases": [
+"Oblivion",
+"R.A.V.A.G.E."
+],
+"links": 22
+},
+{
+"name": "Axwell Λ Ingrosso",
+"aliases": [
+"Axwell & Ingrosso",
+"Axwell and Ingrosso"
+],
+"links": 22
+},
+{
+"name": "Babyshambles",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Band Aid",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Band of Horses",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Bandidos do Cante",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Barenaked Ladies",
+"aliases": [
+"BNL"
+],
+"links": 22
+},
+{
+"name": "Bill Haley & His Comets",
+"aliases": [
+"Bill Haley and His Comets",
+"Bill Haley And His Comets",
+"Bill Haley and The Comets",
+"Bill Haley's Comets"
+],
+"links": 22
+},
+{
+"name": "Biohazard",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Black Uhuru",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Boris",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Budgie",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Cattle Decapitation",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Cobra Starship",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Corrosion of Conformity",
+"aliases": [
+"COC"
+],
+"links": 22
+},
+{
+"name": "Cosmic Gate",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Crazy Town",
+"aliases": [
+"Crazy Town X",
+"CXT"
+],
+"links": 22
+},
+{
+"name": "Cryptopsy",
+"aliases": [],
+"links": 22
+},
+{
+"name": "CSS",
+"aliases": [
+"Cansei de Ser Sexy"
+],
+"links": 22
+},
+{
+"name": "Dixie Dregs",
+"aliases": [
+"The Dregs"
+],
+"links": 22
+},
+{
+"name": "Doves",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Dying Fetus",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Edenbridge",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Eisbrecher",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Eldrine",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Electric Wizard",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Equinox",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Fates Warning",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Finger Eleven",
+"aliases": [
+"Rainbow Butt Monkeys"
+],
+"links": 22
+},
+{
+"name": "Flor-de-Lis",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Four Tops",
+"aliases": [
+"The Four Aims",
+"The Four Tops"
+],
+"links": 22
+},
+{
+"name": "Funkadelic",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Godflesh",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Golden Child",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Hanoi Rocks",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Helmet",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Hey! Say! JUMP",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Highway",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Humble Pie",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Héroes del Silencio",
+"aliases": [
+"Heroes del Silencio"
+],
+"links": 22
+},
+{
+"name": "InCulto",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Inti-Illimani",
+"aliases": [],
+"links": 22
+},
+{
+"name": "King Gizzard & The Lizard Wizard",
+"aliases": [
+"King Gizz",
+"King Gizzard"
+],
+"links": 22
+},
+{
+"name": "Les Rita Mitsouko",
+"aliases": [
+"Rita Mitsouko"
+],
+"links": 22
+},
+{
+"name": "Lighthouse X",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Live",
+"aliases": [
+"+LĪVE+",
+"LĪVE"
+],
+"links": 22
+},
+{
+"name": "Luna Sea",
+"aliases": [
+"Lunacy"
+],
+"links": 22
+},
+{
+"name": "Magazin",
+"aliases": [
+"Group Magazin",
+"Grupa Magazin"
+],
+"links": 22
+},
+{
+"name": "Magazine",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Mastercastle",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Milky Chance",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Miodio",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Moi dix Mois",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Mother Mother",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Motionless in White",
+"aliases": [
+"M.I.V."
+],
+"links": 22
+},
+{
+"name": "Neon Trees",
+"aliases": [],
+"links": 22
+},
+{
+"name": "No Use for a Name",
+"aliases": [
+"No Use",
+"NUFAN"
+],
+"links": 22
+},
+{
+"name": "Nokturnal Mortum",
+"aliases": [],
+"links": 22
+},
+{
+"name": "One Night Only",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Panik",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Paul Revere and the Raiders",
+"aliases": [
+"Paul Revere & the Raiders"
+],
+"links": 22
+},
+{
+"name": "Phish",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Piqued Jacks",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Riblja čorba",
+"aliases": [
+"Riblja corba"
+],
+"links": 22
+},
+{
+"name": "Ride",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sektor Gaza",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Septicflesh",
+"aliases": [
+"Septic Flesh"
+],
+"links": 22
+},
+{
+"name": "Shining",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Silverstein",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Skyclad",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sopor Aeternus & the Ensemble of Shadows...",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Spin Doctors",
+"aliases": [
+"The Spin Doctors"
+],
+"links": 22
+},
+{
+"name": "Stormtroopers of Death",
+"aliases": [
+"S.O.D."
+],
+"links": 22
+},
+{
+"name": "Stryper",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Suffocation",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Suicide",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Summoning",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Taking Back Sunday",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Teriyaki Boyz",
+"aliases": [],
+"links": 22
+},
+{
+"name": "The Cramps",
+"aliases": [],
+"links": 22
+},
+{
+"name": "The Distillers",
+"aliases": [
+"Distillers"
+],
+"links": 22
+},
+{
+"name": "The Dresden Dolls",
+"aliases": [],
+"links": 22
+},
+{
+"name": "The Impressions",
+"aliases": [
+"Impressions"
+],
+"links": 22
+},
+{
+"name": "The J. Geils Band",
+"aliases": [
+"J Geils Band",
+"J. Geils Band",
+"The J. Geils Blues Band"
+],
+"links": 22
+},
+{
+"name": "The Knack",
+"aliases": [
+"Berton Averre",
+"Knack"
+],
+"links": 22
+},
+{
+"name": "The Kovenant",
+"aliases": [
+"Covenant",
+"Thy Dyling Light"
+],
+"links": 22
+},
+{
+"name": "The Last Dinner Party",
+"aliases": [],
+"links": 22
+},
+{
+"name": "The Mills Brothers",
+"aliases": [
+"Mills Brothers",
+"The Four Mills Brothers",
+"The Mills Bros."
+],
+"links": 22
+},
+{
+"name": "The Psychedelic Furs",
+"aliases": [
+"Psychedelic Furs"
+],
+"links": 22
+},
+{
+"name": "The Red Jumpsuit Apparatus",
+"aliases": [
+"Red Jumpsuit Apparatus",
+"RJA",
+"RJSA"
+],
+"links": 22
+},
+{
+"name": "The Seekers",
+"aliases": [],
+"links": 22
+},
+{
+"name": "The Slits",
+"aliases": [
+"Slits"
+],
+"links": 22
+},
+{
+"name": "The Smile",
+"aliases": [],
+"links": 22
+},
+{
+"name": "The Tabernacle Choir at Temple Square",
+"aliases": [
+"Mormon Tabernacle Choir",
+"MoTab",
+"Salt Lake Mormon Tabernacle Choir",
+"Salt Lake Tabernacle Choir",
+"Tabernacle Choir",
+"The Tabernacle Choir"
+],
+"links": 22
+},
+{
+"name": "The Turtles",
+"aliases": [
+"The Crossfires",
+"The Nightriders",
+"The Tyrtles",
+"Turtles"
+],
+"links": 22
+},
+{
+"name": "Third Eye Blind",
+"aliases": [
+"3EB"
+],
+"links": 22
+},
+{
+"name": "Toy Dolls",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Turbonegro",
+"aliases": [
+"TRBNGR",
+"Turboneger"
+],
+"links": 22
+},
+{
+"name": "Twin Twin",
+"aliases": [],
+"links": 22
+},
+{
+"name": "VAL",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Vopli Vidopliassova",
+"aliases": [],
+"links": 22
+},
+{
+"name": "We the Kings",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Westside Connection",
+"aliases": [],
+"links": 22
+},
+{
+"name": "White Lion",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Whitechapel",
+"aliases": [],
+"links": 22
+},
+{
+"name": "You Me at Six",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Zebrahead",
+"aliases": [],
+"links": 22
+},
+{
+"name": "3T",
+"aliases": [],
+"links": 21
+},
+{
+"name": "808 State",
+"aliases": [],
+"links": 21
+},
+{
+"name": "a1",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Absurd",
+"aliases": [
+"In Ketten"
+],
+"links": 21
+},
+{
+"name": "Academy of St Martin in the Fields",
+"aliases": [
+"Academy of St. Martin-in-the-Fields",
+"ASMF",
+"The Academy Of St. Martin-in-the-Fields"
+],
+"links": 21
+},
+{
+"name": "Afro Celt Sound System",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Against Me!",
+"aliases": [
+"Against Me"
+],
+"links": 21
+},
+{
+"name": "Alice Nine",
+"aliases": [
+"A9"
+],
+"links": 21
+},
+{
+"name": "Alkaline Trio",
+"aliases": [
+"Ak3"
+],
+"links": 21
+},
+{
+"name": "Animals as Leaders",
+"aliases": [],
+"links": 21
+},
+{
+"name": "ANOHNI and the Johnsons",
+"aliases": [
+"Antony & The Johnsons",
+"Antony and the Johnsons"
+],
+"links": 21
+},
+{
+"name": "Antestor",
+"aliases": [
+"Crush Evil"
+],
+"links": 21
+},
+{
+"name": "Ash",
+"aliases": [],
+"links": 21
+},
+{
+"name": "August Burns Red",
+"aliases": [
+"ABR"
+],
+"links": 21
+},
+{
+"name": "Big Country",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Black Country, New Road",
+"aliases": [
+"BC,NR",
+"BCNR"
+],
+"links": 21
+},
+{
+"name": "Blind Melon",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Blutengel",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bolt Thrower",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Bombay Bicycle Club",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Butthole Surfers",
+"aliases": [
+"The Butthole Surfers"
+],
+"links": 21
+},
+{
+"name": "C+C Music Factory",
+"aliases": [
+"C & C Music Factory",
+"C + C Music Factory",
+"C and C Music Factory",
+"C&C Music Factory"
+],
+"links": 21
+},
+{
+"name": "Caesars",
+"aliases": [
+"Caesar's Palace",
+"Caesars Palace",
+"Twelve Caesars"
+],
+"links": 21
+},
+{
+"name": "Capercaillie",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Car Seat Headrest",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Caravan Palace",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Celldweller",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Chthonic",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Cinema Bizarre",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Coal Chamber",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Coldrain",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Culture Beat",
+"aliases": [],
+"links": 21
+},
+{
+"name": "DakhaBrakha",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Danzig",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Dark Moor",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Dead by April",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Despised Icon",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Devourment",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Digital Underground",
+"aliases": [
+"D-Flow",
+"D.U.",
+"Digital",
+"Tha Underground"
+],
+"links": 21
+},
+{
+"name": "Ektomorf",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Elastica",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Elbow",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Electric Callboy",
+"aliases": [
+"Eskimo Callboy"
+],
+"links": 21
+},
+{
+"name": "Embrace",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Fantômas",
+"aliases": [
+"Fantomas"
+],
+"links": 21
+},
+{
+"name": "Fecal Matter",
+"aliases": [],
+"links": 21
+},
+{
+"name": "G.R.L.",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Galneryus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Girlicious",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Grup Yorum",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hellhammer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hello Venus",
+"aliases": [
+"HELLOVENUS"
+],
+"links": 21
+},
+{
+"name": "Ich Troje",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Impaled Nazarene",
+"aliases": [],
+"links": 21
+},
+{
+"name": "IQ",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Izabo",
+"aliases": [],
+"links": 21
+},
+{
+"name": "James",
+"aliases": [
+"The James"
+],
+"links": 21
+},
+{
+"name": "Japan",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Jinjer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Kreisiraadio",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Kvelertak",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Le Tigre",
+"aliases": [
+"Tigre"
+],
+"links": 21
+},
+{
+"name": "Lindemann",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Litesound",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Little Dragon",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Los Lobos",
+"aliases": [
+"Lobos",
+"Los Lobos del Este de Los Angeles"
+],
+"links": 21
+},
+{
+"name": "Lovebugs",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Matia Bazar",
+"aliases": [
+"Matia Bazaar",
+"Matia Bazzar"
+],
+"links": 21
+},
+{
+"name": "Mayday Parade",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Mercenary",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Middle of the Road",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Millencolin",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Morphine",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Nothing but Thieves",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Nox",
+"aliases": [],
+"links": 21
+},
+{
+"name": "P1Harmony",
+"aliases": [
+"P1H"
+],
+"links": 21
+},
+{
+"name": "Parliament",
+"aliases": [
+"The Parliaments"
+],
+"links": 21
+},
+{
+"name": "Poco",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Popol Vuh",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Queen + Paul Rodgers",
+"aliases": [
+"Q+PR",
+"QPR",
+"Queen plus Paul Rodgers"
+],
+"links": 21
+},
+{
+"name": "Quicksilver Messenger Service",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Red",
+"aliases": [
+"R3D"
+],
+"links": 21
+},
+{
+"name": "Renaissance",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Revolverheld",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Seo Taiji and Boys",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Shakespears Sister",
+"aliases": [
+"Shakespear's Sister"
+],
+"links": 21
+},
+{
+"name": "Shankar–Ehsaan–Loy",
+"aliases": [
+"S-E-L",
+"Shankar Ehsaan Loy",
+"Shankar-Ehsaan-Loy"
+],
+"links": 21
+},
+{
+"name": "Shpongle",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Skyforger",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Sleep Token",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Sparklehorse",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Splean",
+"aliases": [
+"Splin"
+],
+"links": 21
+},
+{
+"name": "Squeeze",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Telex",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Texas Lightning",
+"aliases": [],
+"links": 21
+},
+{
+"name": "The Birthday Massacre",
+"aliases": [
+"Birthday Massacre",
+"Imagica"
+],
+"links": 21
+},
+{
+"name": "The Communards",
+"aliases": [
+"Communards"
+],
+"links": 21
+},
+{
+"name": "The Crystals",
+"aliases": [],
+"links": 21
+},
+{
+"name": "The Futureheads",
+"aliases": [
+"Futureheads"
+],
+"links": 21
+},
+{
+"name": "The Magnetic Fields",
+"aliases": [
+"Magnetic Fields"
+],
+"links": 21
+},
+{
+"name": "The Shaggs",
+"aliases": [],
+"links": 21
+},
+{
+"name": "The Spencer Davis Group",
+"aliases": [
+"Murgatroyd Band",
+"Spencer Davis Group",
+"The Murgatroyd Band"
+],
+"links": 21
+},
+{
+"name": "The Swingle Singers",
+"aliases": [
+"Les Swingle Singers",
+"Swingle Singers",
+"The Swingles"
+],
+"links": 21
+},
+{
+"name": "The Vaccines",
+"aliases": [
+"Vaccines"
+],
+"links": 21
+},
+{
+"name": "Transatlantic",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Téléphone",
+"aliases": [
+"Telephone"
+],
+"links": 21
+},
+{
+"name": "UVERworld",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Versailles",
+"aliases": [
+"Versailles Philharmonic Quintet"
+],
+"links": 21
+},
+{
+"name": "Victon",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Waldo's People",
+"aliases": [],
+"links": 21
+},
+{
+"name": "X",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Yelle",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Yolanda Be Cool",
+"aliases": [],
+"links": 21
+},
+{
+"name": "10,000 Maniacs",
+"aliases": [],
+"links": 20
+},
+{
+"name": "12 Stones",
+"aliases": [],
+"links": 20
+},
+{
+"name": "1TYM",
+"aliases": [
+"Once Take Your Mind",
+"One Time"
+],
+"links": 20
+},
+{
+"name": "AB6IX",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Aborted",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Absu",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Acid Bath",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Against the Current",
+"aliases": [
+"ATC"
+],
+"links": 20
+},
+{
+"name": "Alabama",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Alisa",
+"aliases": [
+"Alice"
+],
+"links": 20
+},
+{
+"name": "American Authors",
+"aliases": [
+"The Blue Pages"
+],
+"links": 20
+},
+{
+"name": "Anal Cunt",
+"aliases": [
+"A.C.",
+"AxCx"
+],
+"links": 20
+},
+{
+"name": "Anberlin",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Architecture in Helsinki",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Art of Noise",
+"aliases": [
+"The Art of Noise"
+],
+"links": 20
+},
+{
+"name": "Astral Project",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Aswad",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Athena",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Atomic Rooster",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Atoms for Peace",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Awolnation",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Barclay James Harvest",
+"aliases": [
+"BJH"
+],
+"links": 20
+},
+{
+"name": "Battle Beast",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Batushka",
+"aliases": [
+"Darkfuneral"
+],
+"links": 20
+},
+{
+"name": "Benediction",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Big Flow Music",
+"aliases": [
+"BFM"
+],
+"links": 20
+},
+{
+"name": "Black Midi",
+"aliases": [
+"Black Midi Band"
+],
+"links": 20
+},
+{
+"name": "Blackfield",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Bloodywood",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Broken Bells",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Burning Rain",
+"aliases": [],
+"links": 20
+},
+{
+"name": "BWO",
+"aliases": [
+"Bodies Without Organs"
+],
+"links": 20
+},
+{
+"name": "Cacophony",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Calexico",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Captain Jack",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Carter Family",
+"aliases": [
+"The Carter Family"
+],
+"links": 20
+},
+{
+"name": "Chimaira",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Cimorelli",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Cock Sparrer",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Cockney Rejects",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Colosseum",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Corona",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Coroner",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Crazy Horse",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Danity Kane",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Darkest Hour",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Deee-Lite",
+"aliases": [
+"Dee Lite",
+"Dee-Lite",
+"Deee Lite"
+],
+"links": 20
+},
+{
+"name": "Die Prinzen",
+"aliases": [],
+"links": 20
+},
+{
+"name": "E-Rotic",
+"aliases": [
+"E Rotic",
+"E rotic",
+"Lyane Leigh",
+"Stephen Appleton"
+],
+"links": 20
+},
+{
+"name": "Exile",
+"aliases": [
+"Hiro, Matsu, Usa, Makidai, Atsushi & Shun"
+],
+"links": 20
+},
+{
+"name": "Fishbone",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Fleshgod Apocalypse",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Freedom Call",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Garmarna",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Geese",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Geordie",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Girugamesh",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Glasvegas",
+"aliases": [],
+"links": 20
+},
+{
+"name": "God Is an Astronaut",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Grandmaster Flash and the Furious Five",
+"aliases": [
+"Grandmaster Flash & The Furious Five",
+"Grandmaster Flash & the Furious Five"
+],
+"links": 20
+},
+{
+"name": "Hard-Fi",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Hawthorne Heights",
+"aliases": [
+"A Day in the Life"
+],
+"links": 20
+},
+{
+"name": "Heaven 17",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Hot Chelle Rae",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Huey Lewis and the News",
+"aliases": [
+"Huey Lewis & the News",
+"the News"
+],
+"links": 20
+},
+{
+"name": "Ikimono-gakari",
+"aliases": [
+"Ikimonogakari"
+],
+"links": 20
+},
+{
+"name": "Immolation",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Johnny Hates Jazz",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Jon Spencer Blues Explosion",
+"aliases": [
+"The Jon Spencer Blues Explosion"
+],
+"links": 20
+},
+{
+"name": "Joy",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kaizers Orchestra",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kalmah",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kazka",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Khruangbin",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Killerpilze",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Kingdom Come",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Leprous",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Les Fatals Picards",
+"aliases": [
+"Fatals Picards"
+],
+"links": 20
+},
+{
+"name": "Less Than Jake",
+"aliases": [
+"LTJ"
+],
+"links": 20
+},
+{
+"name": "Londonbeat",
+"aliases": [
+"One voice THE SONGS OF CHAGE&ASKA"
+],
+"links": 20
+},
+{
+"name": "LSD",
+"aliases": [
+"Labrinth, Sia and Diplo"
+],
+"links": 20
+},
+{
+"name": "Lush",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lyapis Trubetskoy",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Manfred Mann's Earth Band",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Melechesh",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Men Without Hats",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Mercury Rev",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Mono",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Mucc",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Mud",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Månegarm",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nanowar of Steel",
+"aliases": [
+"Nanowar"
+],
+"links": 20
+},
+{
+"name": "Neurosis",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Next Time",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Noisia",
+"aliases": [
+"NOISIɅ"
+],
+"links": 20
+},
+{
+"name": "Omnia",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Original Dixieland Jass Band",
+"aliases": [
+"ODJB",
+"Original Dixieland Jazz Band"
+],
+"links": 20
+},
+{
+"name": "Ozric Tentacles",
+"aliases": [
+"The Ozrics"
+],
+"links": 20
+},
+{
+"name": "Peter Bjorn and John",
+"aliases": [
+"P B & J"
+],
+"links": 20
+},
+{
+"name": "Prong",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Propagandhi",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Razor",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Real McCoy",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Refused",
+"aliases": [
+"The Refused"
+],
+"links": 20
+},
+{
+"name": "Relient K",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Rites of Spring",
+"aliases": [],
+"links": 20
+},
+{
+"name": "S.E.S.",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Saint Etienne",
+"aliases": [
+"St. Etienne"
+],
+"links": 20
+},
+{
+"name": "Salim-Sulaiman",
+"aliases": [
+"Salim Merchant and Sulaiman Merchant"
+],
+"links": 20
+},
+{
+"name": "Scritti Politti",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Secondhand Serenade",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Skindred",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Slash's Snakepit",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Slot",
+"aliases": [],
+"links": 20
+},
+{
+"name": "SM Town",
+"aliases": [
+"SMTOWN"
+],
+"links": 20
+},
+{
+"name": "Snarky Puppy",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Spiritualized",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Spock's Beard",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Starship",
+"aliases": [
+"Starship featuring Mickey Thomas"
+],
+"links": 20
+},
+{
+"name": "Sólstafir",
+"aliases": [
+"Solstafir"
+],
+"links": 20
+},
+{
+"name": "Teenage Fanclub",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tesla",
+"aliases": [],
+"links": 20
+},
+{
+"name": "The 4-Skins",
+"aliases": [
+"4 Skins",
+"4-Skins",
+"The 4 Skins"
+],
+"links": 20
+},
+{
+"name": "The Afghan Whigs",
+"aliases": [
+"Afghan Whigs"
+],
+"links": 20
+},
+{
+"name": "The Bravery",
+"aliases": [
+"Bravery"
+],
+"links": 20
+},
+{
+"name": "The Flying Burrito Brothers",
+"aliases": [
+"Burrito Brothers",
+"Burrito Deluxe",
+"Flying Burrito Brothers",
+"The Burrito Brothers",
+"The Burritos",
+"The Flying Burrito Bros"
+],
+"links": 20
+},
+{
+"name": "The Gaslight Anthem",
+"aliases": [
+"TGA"
+],
+"links": 20
+},
+{
+"name": "The Haunted",
+"aliases": [
+"Haunted"
+],
+"links": 20
+},
+{
+"name": "The Manhattan Transfer",
+"aliases": [
+"Manhattan Transfer"
+],
+"links": 20
+},
+{
+"name": "The Narrative",
+"aliases": [
+"January Window",
+"Narrative",
+"Narrative band"
+],
+"links": 20
+},
+{
+"name": "The Pretty Things",
+"aliases": [
+"Pretty Things"
+],
+"links": 20
+},
+{
+"name": "The Rascals",
+"aliases": [
+"Rascals",
+"The Young Rascals",
+"Young Rascals"
+],
+"links": 20
+},
+{
+"name": "The Skatalites",
+"aliases": [
+"Skatalites",
+"The Skatalites Band"
+],
+"links": 20
+},
+{
+"name": "The Staple Singers",
+"aliases": [
+"Staple Singers",
+"The Staples Singers"
+],
+"links": 20
+},
+{
+"name": "The Wombats",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Theatres des Vampires",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Theory of a Deadman",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Thompson Twins",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Trouble",
+"aliases": [],
+"links": 20
+},
+{
+"name": "U96",
+"aliases": [
+"U 96"
+],
+"links": 20
+},
+{
+"name": "Uncle Tupelo",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Unheilig",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Unleashed",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Up10tion",
+"aliases": [],
+"links": 20
+},
+{
+"name": "US5",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Vanilla Fudge",
+"aliases": [
+"The Vanilla Fudge"
+],
+"links": 20
+},
+{
+"name": "Visage",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Warrant",
+"aliases": [],
+"links": 20
+},
+{
+"name": "We Came as Romans",
+"aliases": [
+"WCAR"
+],
+"links": 20
+},
+{
+"name": "Xasthur",
+"aliases": [],
+"links": 20
+},
+{
+"name": "XTC",
+"aliases": [
+"Dukes of Stratosphear",
+"Star Park",
+"Terry and The Lovemen",
+"The Helium Kidz"
+],
+"links": 20
+},
+{
+"name": "Adema",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Bal-Sagoth",
+"aliases": [
+"Bal Sagoth"
+],
+"links": 19
+},
+{
+"name": "Between the Buried and Me",
+"aliases": [
+"BTBAM",
+"BtBaM"
+],
+"links": 19
+},
+{
+"name": "Bow Wow Wow",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Broken Social Scene",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Coheed and Cambria",
+"aliases": [
+"CoCa",
+"Coheed",
+"Coheed & Cambria"
+],
+"links": 19
+},
+{
+"name": "Collective Soul",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Delaney & Bonnie",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Family",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Generation X",
+"aliases": [
+"Gen X"
+],
+"links": 19
+},
+{
+"name": "Idles",
+"aliases": [
+"Idles Band",
+"Idles_"
+],
+"links": 19
+},
+{
+"name": "Inspiral Carpets",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Keep of Kalessin",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Monster Magnet",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Obrint Pas",
+"aliases": [],
+"links": 19
+},
+{
+"name": "OSI",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Reamonn",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Samson",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Teapacks",
+"aliases": [
+"HaHotzaa La'Poal"
+],
+"links": 19
+},
+{
+"name": "The Easybeats",
+"aliases": [
+"Easybeats"
+],
+"links": 19
+},
+{
+"name": "The Maccabees",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Third Day",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Warpaint",
+"aliases": [],
+"links": 19
+},
+{
+"name": "All Shall Perish",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Archive",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Buck-Tick",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Cactus",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Control Denied",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Electric Six",
+"aliases": [
+"The Wildbunch"
+],
+"links": 18
+},
+{
+"name": "Indica",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Low",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Plastic Tree",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Raven",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Red Fang",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Spooky Tooth",
+"aliases": [],
+"links": 18
+},
+{
+"name": "The Firm",
+"aliases": [
+"Firm"
+],
+"links": 18
+},
+{
+"name": "The Jesus Lizard",
+"aliases": [],
+"links": 18
+},
+{
+"name": "The Raveonettes",
+"aliases": [
+"Raveonettes"
+],
+"links": 18
+},
+{
+"name": "10 Years",
+"aliases": [
+"Ten Years"
+],
+"links": 17
+},
+{
+"name": "Athlete",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Banda Bassotti",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Električni Orgazam",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Fields of the Nephilim",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Holocaust",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Magnum",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Molly Hatchet",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Poisonblack",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Soil",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Spirit",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Steeleye Span",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Vixen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Anderson Bruford Wakeman Howe",
+"aliases": [
+"ABWH"
+],
+"links": 16
+},
+{
+"name": "Battlelore",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Dr. Hook & the Medicine Show",
+"aliases": [
+"Dr Hook",
+"Dr. Hook"
+],
+"links": 16
+},
+{
+"name": "High and Mighty Color",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Isengard",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Jesu",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Los Hermanos",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nektar",
+"aliases": [],
+"links": 16
+},
+{
+"name": "New Model Army",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Oi Polloi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Saint Asonia",
+"aliases": [
+"SΔINT ΔSONIΔ"
+],
+"links": 16
+},
+{
+"name": "Saliva",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sound Horizon",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Spinal Tap",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Spiritual Beggars",
+"aliases": [],
+"links": 16
+},
+{
+"name": "The Academy Is...",
+"aliases": [
+"Academy Is..."
+],
+"links": 16
+},
+{
+"name": "The Kingsmen",
+"aliases": [
+"Kingsmen"
+],
+"links": 16
+},
+{
+"name": "The Posies",
+"aliases": [],
+"links": 16
+},
+{
+"name": "The Walkmen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bleeding Through",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Boredoms",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Die Happy",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gillan",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Heavenly",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lucifer",
+"aliases": [
+"Λucifer"
+],
+"links": 15
+},
+{
+"name": "Pendragon",
+"aliases": [
+"Zeus Pendragon"
+],
+"links": 15
+},
+{
+"name": "Rev Theory",
+"aliases": [
+"Revelation Theory"
+],
+"links": 15
+},
+{
+"name": "Rhino Bucket",
+"aliases": [
+"Deep Six Holiday"
+],
+"links": 15
+},
+{
+"name": "Rival Sons",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Strawbs",
+"aliases": [],
+"links": 15
+},
+{
+"name": "The Bouncing Souls",
+"aliases": [
+"Bouncing Souls"
+],
+"links": 15
+},
+{
+"name": "The Word Alive",
+"aliases": [
+"Word Alive"
+],
+"links": 15
+},
+{
+"name": "TNT",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Trapt",
+"aliases": [],
+"links": 15
+},
+{
+"name": "White Skull",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Young the Giant",
+"aliases": [
+"The Jakes"
+],
+"links": 15
 }
 ]

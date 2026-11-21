@@ -161,7 +161,7 @@
 "Nowrouz",
 "Spring Holiday"
 ],
-"links": 101
+"links": 102
 },
 {
 "name": "All Saints' Day",
@@ -784,6 +784,17 @@
 "links": 45
 },
 {
+"name": "Canada Day",
+"aliases": [
+"Dominion Day",
+"Fete du Canada",
+"Fête du Canada",
+"Jour de la Confederation",
+"Jour de la Confédération"
+],
+"links": 44
+},
+{
 "name": "Cinco de Mayo",
 "aliases": [
 "5 de mayo"
@@ -831,17 +842,6 @@
 "Yaldā Night"
 ],
 "links": 44
-},
-{
-"name": "Canada Day",
-"aliases": [
-"Dominion Day",
-"Fete du Canada",
-"Fête du Canada",
-"Jour de la Confederation",
-"Jour de la Confédération"
-],
-"links": 43
 },
 {
 "name": "Cosmonautics Day",
@@ -934,6 +934,14 @@
 "links": 42
 },
 {
+"name": "Buddha's birthday",
+"aliases": [
+"Buddha Jayanti",
+"Buddha Purnima"
+],
+"links": 41
+},
+{
 "name": "Reformation Day",
 "aliases": [],
 "links": 41
@@ -958,14 +966,6 @@
 "Vijaya dasami"
 ],
 "links": 41
-},
-{
-"name": "Buddha's birthday",
-"aliases": [
-"Buddha Jayanti",
-"Buddha Purnima"
-],
-"links": 40
 },
 {
 "name": "Feast of Saints Peter and Paul",
@@ -1197,6 +1197,15 @@
 "links": 36
 },
 {
+"name": "Bon Festival",
+"aliases": [
+"Bon",
+"O-bon",
+"Obon"
+],
+"links": 35
+},
+{
 "name": "Fat Thursday",
 "aliases": [
 "Carnival Thursday"
@@ -1247,15 +1256,6 @@
 "aliases": [
 "African Freedom Day",
 "African Liberation Day"
-],
-"links": 34
-},
-{
-"name": "Bon Festival",
-"aliases": [
-"Bon",
-"O-bon",
-"Obon"
 ],
 "links": 34
 },
@@ -1607,5 +1607,969 @@
 "Saint Vitus Day"
 ],
 "links": 30
+},
+{
+"name": "flag day",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Gwangbokjeol",
+"aliases": [
+"Korean Independence Day",
+"Liberation Day"
+],
+"links": 29
+},
+{
+"name": "Hogmanay",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Independence Day",
+"aliases": [
+"Finland Independence Day",
+"Finlands självständighetsdag",
+"Suomen itsenäisyyspäivä"
+],
+"links": 29
+},
+{
+"name": "Jerusalem Day",
+"aliases": [
+"Reunification of Jerusalem",
+"Yom Yerushalayim"
+],
+"links": 29
+},
+{
+"name": "Lazarus Saturday",
+"aliases": [],
+"links": 29
+},
+{
+"name": "May Day",
+"aliases": [
+"1 May",
+"Early Spring Bank holiday",
+"May 1",
+"May Day Festival"
+],
+"links": 29
+},
+{
+"name": "Children's Day",
+"aliases": [
+"Kodomo no hi"
+],
+"links": 28
+},
+{
+"name": "Eid al-Ghadir",
+"aliases": [
+"Eid al-Ghadeer"
+],
+"links": 28
+},
+{
+"name": "Great Feasts of the Orthodox Church",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Heraean Games",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Hıdırellez",
+"aliases": [
+"Hidrellez"
+],
+"links": 28
+},
+{
+"name": "Mehregan",
+"aliases": [
+"Persian Festival of Autumn"
+],
+"links": 28
+},
+{
+"name": "National Day of Catalonia",
+"aliases": [
+"Diada Nacional de Catalunya",
+"Día de Cataluña"
+],
+"links": 28
+},
+{
+"name": "Queen of Heaven",
+"aliases": [
+"Mary Queen of Heaven"
+],
+"links": 28
+},
+{
+"name": "Sabbath",
+"aliases": [
+"Shabbat"
+],
+"links": 28
+},
+{
+"name": "Setsubun",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Veterans Day",
+"aliases": [
+"Armistice Day"
+],
+"links": 28
+},
+{
+"name": "vigil",
+"aliases": [
+"eve"
+],
+"links": 28
+},
+{
+"name": "ancient Roman festival",
+"aliases": [],
+"links": 27
+},
+{
+"name": "anterior cruciate ligament",
+"aliases": [
+"ACL",
+"cranial cruciate ligament"
+],
+"links": 27
+},
+{
+"name": "Black History Month",
+"aliases": [
+"African History Month",
+"African-American History Month",
+"National African American History Month"
+],
+"links": 27
+},
+{
+"name": "Constitution Day",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Culture Day",
+"aliases": [
+"Bunka no Hi"
+],
+"links": 27
+},
+{
+"name": "Decollation of John the Baptist",
+"aliases": [
+"Beheading of John the Baptist",
+"Beheading of Saint John the Baptist",
+"Beheading of St John the Baptist",
+"Beheading of St. John the Baptist",
+"Beheading of the Baptist",
+"Beheading of the Forerunner",
+"Decollation of Saint John the Baptist",
+"Execution of John the Baptist"
+],
+"links": 27
+},
+{
+"name": "Independence of Brazil",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Karva Chauth",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Knowledge Day",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Mid Sha'ban",
+"aliases": [
+"Laylat al-Bara'ah",
+"Nisfu Syaaban",
+"Shab-e-barat"
+],
+"links": 27
+},
+{
+"name": "Nakba Day",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Thaipusam",
+"aliases": [
+"Pausha Pushya",
+"ThaiPoosam",
+"Thaipooyam"
+],
+"links": 27
+},
+{
+"name": "Unity Day",
+"aliases": [
+"Day of People’s Unity",
+"National Unity Day"
+],
+"links": 27
+},
+{
+"name": "Yuri's Night",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Ólavsøka",
+"aliases": [
+"Olafsvaka",
+"Olavsoka",
+"Olavsvoku",
+"St. Olav's Day",
+"Ólafsvaka",
+"Ólavsvøku"
+],
+"links": 27
+},
+{
+"name": "Festa della Repubblica",
+"aliases": [
+"Festa della Repubblica Italiana",
+"Italian National Day",
+"Italy Republic Day",
+"National Day",
+"Republic Day"
+],
+"links": 26
+},
+{
+"name": "Golden Week",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Guru Purnima",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Independence Day of Pakistan",
+"aliases": [
+"Independence Day"
+],
+"links": 26
+},
+{
+"name": "Kakava",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Parentalia",
+"aliases": [
+"dies parentales"
+],
+"links": 26
+},
+{
+"name": "Rosh Chodesh",
+"aliases": [
+"Rosh Hodesh"
+],
+"links": 26
+},
+{
+"name": "Workers' Memorial Day",
+"aliases": [
+"Day of Mourning",
+"International Workers' Memorial Day"
+],
+"links": 26
+},
+{
+"name": "April 24, 2011",
+"aliases": [
+"24 April 2011"
+],
+"links": 25
+},
+{
+"name": "April 8, 2012",
+"aliases": [
+"8 April 2012"
+],
+"links": 25
+},
+{
+"name": "Bihu",
+"aliases": [
+"Bhogali Bihu",
+"Bohag Bihu",
+"Kati Bihu",
+"Kongali Bihu",
+"Magh Bihu",
+"Rangali Bihu"
+],
+"links": 25
+},
+{
+"name": "Busójárás",
+"aliases": [
+"Busojaras"
+],
+"links": 25
+},
+{
+"name": "Chhath Parwa",
+"aliases": [
+"Chhath",
+"Dala Chhath",
+"Surya Sashthi"
+],
+"links": 25
+},
+{
+"name": "Christmas in Ukraine",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Floralia",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Holy Monday",
+"aliases": [],
+"links": 25
+},
+{
+"name": "moveable feast",
+"aliases": [
+"movable feast",
+"movable feasts"
+],
+"links": 25
+},
+{
+"name": "Radonitsa",
+"aliases": [
+"Day of Rejoicing"
+],
+"links": 25
+},
+{
+"name": "Second Sunday of Easter",
+"aliases": [
+"Dominica in albis",
+"first sunday after Easter",
+"Low Sunday",
+"Octave Day of Easter",
+"Quasimodo Sunday",
+"Quasimodogeniti Sunday",
+"St. Thomas Sunday",
+"Thomas Sunday",
+"White Sunday"
+],
+"links": 25
+},
+{
+"name": "Shemini Atzeret",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Solemnity",
+"aliases": [],
+"links": 25
+},
+{
+"name": "The Emperor's Birthday",
+"aliases": [
+"Emperor's Birthday",
+"Tenchō-setsu",
+"Tenchōsetsu",
+"Tennō tanjōbi"
+],
+"links": 25
+},
+{
+"name": "Whit Monday",
+"aliases": [
+"Pentecost Monday"
+],
+"links": 25
+},
+{
+"name": "Conversion of Paul the Apostle",
+"aliases": [
+"conversion of Paul",
+"conversion of Saint Paul",
+"conversion of Saul",
+"conversion of St. Paul"
+],
+"links": 24
+},
+{
+"name": "Data Privacy Day",
+"aliases": [
+"Data Privacy & Protection Day",
+"Data Protection Day"
+],
+"links": 24
+},
+{
+"name": "Day of the Sun",
+"aliases": [
+"Sun's Day"
+],
+"links": 24
+},
+{
+"name": "Double Ninth Festival",
+"aliases": [
+"Chung Yeung Festival",
+"Chōyō",
+"Sep. 9th",
+"Tết Trùng Cửu"
+],
+"links": 24
+},
+{
+"name": "Feast of the Annunciation",
+"aliases": [
+"Annunciation",
+"Annunciation Day",
+"Lady Day"
+],
+"links": 24
+},
+{
+"name": "Hanuman Jayanti",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Holy Tuesday",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Independence Day of Bangladesh",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Land Day",
+"aliases": [
+"The Land Day",
+"Yawm al-ʾArḍ"
+],
+"links": 24
+},
+{
+"name": "Marian feast days",
+"aliases": [
+"Feasts of Blessed Virgin Mary",
+"Feasts of Virgin Mary"
+],
+"links": 24
+},
+{
+"name": "National Foundation Day",
+"aliases": [
+"Kenkoku Kinen no Hi",
+"National Foundation Day of Japan"
+],
+"links": 24
+},
+{
+"name": "Nativity of St. John the Baptist",
+"aliases": [
+"Birth of John the Baptist",
+"Macau City Day",
+"Nativity of John the Baptist",
+"Nativity of Saint John the Baptist",
+"Nativity of the Forerunner",
+"St John's Day"
+],
+"links": 24
+},
+{
+"name": "Nyepi",
+"aliases": [
+"Hari Raya Nyepi",
+"Saka New Year"
+],
+"links": 24
+},
+{
+"name": "Pitru Paksha",
+"aliases": [
+"Mahalaya"
+],
+"links": 24
+},
+{
+"name": "Saint David's Day",
+"aliases": [
+"Feast of Saint David of Wales",
+"St David's Day",
+"St. David's Day"
+],
+"links": 24
+},
+{
+"name": "Swiss National Day",
+"aliases": [
+"Bundesfeiertag",
+"Festa nazionale svizzera",
+"Fete nationale suisse",
+"Fête nationale suisse"
+],
+"links": 24
+},
+{
+"name": "Carnea",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Erzya Language Day",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Galician Literature Day",
+"aliases": [
+"Día das Letras Galegas"
+],
+"links": 23
+},
+{
+"name": "Heritage Day",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Laetare",
+"aliases": [
+"Laetare Sunday",
+"mid-Lent Sunday",
+"Mothering Sunday",
+"Refreshment Sunday",
+"Rose Sunday"
+],
+"links": 23
+},
+{
+"name": "National Grandparents Day",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Parents' Day",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Three Pilgrimage Festivals",
+"aliases": [
+"Shalosh Regalim"
+],
+"links": 23
+},
+{
+"name": "UN Russian Language Day",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Waitangi Day",
+"aliases": [
+"New Zealand Day"
+],
+"links": 23
+},
+{
+"name": "Washington's Birthday",
+"aliases": [
+"George Washington's Birthday",
+"President's Day",
+"Presidents Day",
+"Presidents' Day"
+],
+"links": 23
+},
+{
+"name": "Yom HaZikaron",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Akitu",
+"aliases": [
+"Akitum"
+],
+"links": 22
+},
+{
+"name": "bank holiday",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Burns supper",
+"aliases": [
+"Burns Night",
+"Rabbie Burns Day",
+"Robbie Burns Day",
+"Robert Burns Day"
+],
+"links": 22
+},
+{
+"name": "Fast of Gedalia",
+"aliases": [],
+"links": 22
+},
+{
+"name": "January 1, 2018",
+"aliases": [
+"1 January 2018",
+"Monday, 1 January 2018"
+],
+"links": 22
+},
+{
+"name": "Lenaia",
+"aliases": [],
+"links": 22
+},
+{
+"name": "March 27, 2016",
+"aliases": [
+"27 March 2016"
+],
+"links": 22
+},
+{
+"name": "public holiday in Japan",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Thanksgiving",
+"aliases": [
+"American Thanksgiving",
+"Thanksgiving Day",
+"Turkey day"
+],
+"links": 22
+},
+{
+"name": "Tsagaan Sar",
+"aliases": [
+"Mongolian Lunar New Year",
+"White Moon"
+],
+"links": 22
+},
+{
+"name": "Tu B'Av",
+"aliases": [
+"15 B'Av",
+"Hebrew Holiday of Love",
+"Hebrew love day"
+],
+"links": 22
+},
+{
+"name": "Twelfth Night",
+"aliases": [
+"5th or 6th January",
+"Bean Feast",
+"Driekoningenfeest",
+"Epiphany Eve",
+"Kings' Eve",
+"Le roi boit",
+"The King Drinks",
+"Three Kings celebration",
+"Three wise men celebration"
+],
+"links": 22
+},
+{
+"name": "uposatha",
+"aliases": [
+"Buddhist sabbath",
+"chai-jih",
+"day of fast",
+"day of fasting",
+"fast day",
+"fasting day",
+"sabbath",
+"upavasatha",
+"zhairi"
+],
+"links": 22
+},
+{
+"name": "Alaska Day",
+"aliases": [],
+"links": 21
+},
+{
+"name": "April 12, 2009",
+"aliases": [
+"12 April 2009"
+],
+"links": 21
+},
+{
+"name": "April 16, 2017",
+"aliases": [
+"16 April 2017"
+],
+"links": 21
+},
+{
+"name": "April 20, 2014",
+"aliases": [
+"20 April 2014"
+],
+"links": 21
+},
+{
+"name": "April 4, 2010",
+"aliases": [
+"4 April 2010"
+],
+"links": 21
+},
+{
+"name": "April 5, 2015",
+"aliases": [
+"5 April 2015"
+],
+"links": 21
+},
+{
+"name": "Asalha Puja",
+"aliases": [
+"Dhammacakrā Day",
+"Dhammasekkya Akhadaw Ne",
+"Dhammasekkya Ne",
+"Esala Poya"
+],
+"links": 21
+},
+{
+"name": "Coming of Age Day",
+"aliases": [
+"Seijin no Hi"
+],
+"links": 21
+},
+{
+"name": "Dziady",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Gelede",
+"aliases": [
+"Gẹ̀lẹ̀dẹ́"
+],
+"links": 21
+},
+{
+"name": "Hari Merdeka",
+"aliases": [
+"Hari Kebangsaan Malaysia",
+"Independence Day",
+"Malaysian Independence Day"
+],
+"links": 21
+},
+{
+"name": "Kukeri",
+"aliases": [
+"kuker"
+],
+"links": 21
+},
+{
+"name": "Lemuria",
+"aliases": [
+"Lemuralia"
+],
+"links": 21
+},
+{
+"name": "March 31, 2013",
+"aliases": [
+"31 March 2013"
+],
+"links": 21
+},
+{
+"name": "public holiday in South Korea",
+"aliases": [
+"public holidays in South Korea"
+],
+"links": 21
+},
+{
+"name": "Ridván",
+"aliases": [
+"Ridvan"
+],
+"links": 21
+},
+{
+"name": "Rtveli",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Solemnity of Mary, Mother of God",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Statehood Day",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Akshaya Tritiya",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Anniversary of the liberation of Italy",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Bayram",
+"aliases": [
+"Bairam",
+"Eid"
+],
+"links": 20
+},
+{
+"name": "Day of the National Flag of Ukraine",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Defenders of Ukraine Day",
+"aliases": [
+"Defender of Ukraine Day"
+],
+"links": 20
+},
+{
+"name": "Gaecheonjeol",
+"aliases": [
+"National Foundation Day"
+],
+"links": 20
+},
+{
+"name": "Gaudete Sunday",
+"aliases": [
+"Third Advent Sunday"
+],
+"links": 20
+},
+{
+"name": "Independence Day",
+"aliases": [
+"Estonian Independence Day"
+],
+"links": 20
+},
+{
+"name": "Inventors' Day",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Malaysia Day",
+"aliases": [
+"Hari Malaysia"
+],
+"links": 20
+},
+{
+"name": "March 23, 2008",
+"aliases": [
+"23 March 2008"
+],
+"links": 20
+},
+{
+"name": "Matronalia",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Neptunalia",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Puthandu",
+"aliases": [
+"Putandu",
+"Puthuvarudam",
+"Puthuvarusham"
+],
+"links": 20
+},
+{
+"name": "Seven-S",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Shab-e-Barat",
+"aliases": [
+"Mid-Shaban"
+],
+"links": 20
+},
+{
+"name": "Siblings Day",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Victory Day",
+"aliases": [
+"30 Ağustos Zafer Bayramı"
+],
+"links": 20
 }
 ]
