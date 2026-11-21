@@ -72,7 +72,6 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "card-games": [(tree("Q142714"), 2)],
     "programming-languages": [(tree("Q9143"), 4)],
     "car-brands": [(inst("Q786820"), 4), (inst("Q10429667"), 3)],
-    "martial-arts": [(tree("Q11417"), 2)],
     "string-instruments": [(tree("Q1798603"), 2)],
     # Gods from any mythology: Greek, Roman and Norse in depth, every other
     # pantheon's well-known deities through the general "deity" item.
@@ -84,7 +83,6 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     ],
     # Anyone who held an emperor's title (Roman, Chinese, Mughal, Russian...).
     "emperors": [("?item wdt:P31 wd:Q5 ; wdt:P39/wdt:P279* wd:Q39018 .", 12)],
-    "japanese-foods": [(dishes_from("Q17", "Q234138"), 2)],
     "mexican-foods": [(dishes_from("Q96", "Q207965"), 2)],
     "candy": [(tree("Q185583"), 3), (tree("Q1361086"), 2)],
     "solar-system": [
@@ -92,24 +90,7 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
         (inst("Q2199"), 1),
         (inst("Q3559"), 6),
     ],
-    "sharks": [(taxa("Q7372"), 1)],
-    # Wikidata's "snake" item is the everyday concept, so go through the families.
-    "snakes": [
-        (
-            '?fam wdt:P225 ?fn . VALUES ?fn { "Colubridae" "Viperidae" "Elapidae" "Pythonidae" "Boidae" '
-            '"Natricidae" "Lamprophiidae" "Typhlopidae" "Leptotyphlopidae" "Homalopsidae" "Dipsadidae" } '
-            "?item wdt:P171+ ?fam ; wdt:P105 wd:Q7432 .",
-            2,
-        )
-    ],
-    "primates": [(taxa("Q7380"), 2)],
     "cetaceans": [(taxa("Q160"), 1)],
-    "birds-of-prey": [
-        (taxa("Q21736"), 3),
-        (taxa("Q25370"), 3),
-        (taxa("Q25222"), 3),
-        (taxa("Q20639356"), 2),
-    ],
     "dinosaurs": [(taxa("Q430", "Q34740") + " ?item wdt:P31 wd:Q23038290 .", 2)],
     "painters": [(people("Q1028181"), 45)],
     # Composers, minus people mainly known for pop, rock or other fields:
@@ -131,8 +112,6 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "cookies": [(tree("Q13266"), 2)],
     "salads": [(tree("Q9266"), 2)],
     "spirits": [(tree("Q154"), 8)],
-    "big-cats": [(taxa("Q25265"), 3)],
-    "rodents": [(taxa("Q10850"), 8)],
     "mythical-creatures": [(tree("Q2239243"), 15)],
     "holidays": [(tree("Q1445650"), 30)],
     "cartoon-characters": [(inst("Q15711870"), 15)],
@@ -161,13 +140,7 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "indian-foods": [(dishes_from("Q668", "Q192087"), 3)],
     "french-foods": [(dishes_from("Q142", "Q6661"), 3)],
     "spanish-foods": [(dishes_from("Q29", "Q622512"), 3)],
-    "german-foods": [(dishes_from("Q183", "Q309050"), 3)],
-    "thai-foods": [(dishes_from("Q869", "Q841984"), 3)],
-    "british-foods": [(dishes_from("Q145", "Q1060432"), 3)],
     "american-foods": [(dishes_from("Q30", "Q1352460"), 4)],
-    "middle-eastern-foods": [
-        (tree("Q746549") + " ?item wdt:P495 ?c . VALUES ?c { wd:Q822 wd:Q43 wd:Q794 wd:Q801 wd:Q858 wd:Q810 wd:Q796 }", 3)
-    ],
 }
 
 QUERY = """

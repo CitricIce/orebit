@@ -188,53 +188,6 @@ Purslane
 Sorrel
 Lotus root
 
-=== grains
-title: Grains and cereals
-prompt: Name as many grains and cereal crops as you can
---- 1
-Rice
-Wheat
-Oats | oat
-Corn | maize
-Barley
---- 2
-Rye
-Quinoa
-Millet
-Sorghum
-Buckwheat
-Couscous
-Bulgur
-Spelt
-Wild rice
-Brown rice
-Basmati
-Jasmine rice
-Semolina
-Polenta
-Bran
---- 3
-Amaranth
-Teff
-Farro
-Freekeh
-Kamut
-Triticale
-Einkorn
-Emmer
-Fonio
-Arborio
-Durum
-Chia @4
-Flax | flaxseed @4
-Hominy
-Grits
-Sushi rice
-Black rice
-Red rice
-Pearl barley
-Oatmeal
-
 === beans-legumes
 title: Beans and legumes
 prompt: Name as many beans and legumes as you can
@@ -285,73 +238,6 @@ Moth beans
 Tepary beans
 Yardlong beans
 Hyacinth beans
-
-=== potato-dishes
-title: Potato dishes
-prompt: Name as many potato dishes as you can
---- 1
-French fries | fries | chips
-Mashed potatoes | mash | mashed potato
-Baked potato | jacket potato
-Roast potatoes | roasted potatoes
-Potato salad
-Hash browns | hash brown
---- 2
-Potato chips | crisps
-Tater tots
-Wedges | potato wedges
-Scalloped potatoes
-Potatoes au gratin | au gratin | gratin
-Gratin dauphinois | dauphinoise
-Latkes | latke | potato pancakes
-Gnocchi
-Poutine
-Rosti | rösti
-Home fries
-Curly fries
-Loaded potato skins | potato skins
-Shepherd's pie
-Cottage pie
-Bubble and squeak
-Twice-baked potatoes
-Potato soup
-Patatas bravas | bravas
-Hasselback potatoes
-Croquettes | potato croquettes
-Duchess potatoes
---- 3
-Colcannon
-Champ
-Pommes Anna
-Pommes frites
-Aloo gobi
-Aloo paratha
-Samosa
-Bombay potatoes
-Vichyssoise
-Tortilla española | spanish omelette | tortilla de patatas
-Pierogi
-Knish
-Boxty
-Lyonnaise potatoes
-Aligot
-Tartiflette
-Papas arrugadas
-Pyttipanna
-Kugel
-Raclette
-Stamppot
-Hash
-Smashed potatoes
-Fondant potatoes
-Crinkle cut fries
-Waffle fries
-Shoestring fries
-Potato bread
-Chips and gravy
-Rumbledethumps
-Papa rellena
-Causa
 
 === egg-dishes
 title: Egg dishes

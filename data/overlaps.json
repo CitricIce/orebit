@@ -1,52 +1,277 @@
 {
   "_comment": "Categories in the same group are too alike to share a day (their answers overlap or they feel like the same question). A category can be in several groups. The planner never puts two categories from one group on the same day. Add every new category to the groups it overlaps.",
   "groups": {
-    "sea life": ["sharks", "cetaceans", "sea-creatures", "seafood", "polar-animals", "beach-things"],
-    "cats": ["big-cats", "cat-breeds", "pets"],
-    "dogs": ["dog-breeds", "pets"],
-    "african wildlife": ["african-animals", "big-cats", "primates", "jungle-animals"],
-    "jungle": ["jungle-animals", "primates", "snakes", "big-cats"],
-    "woodland": ["forest-animals", "rodents", "birds-of-prey"],
-    "farm and pets": ["farm-animals", "baby-animals", "animal-sounds", "pets", "rodents"],
-    "reptiles and dinosaurs": ["snakes", "dinosaurs", "australian-animals"],
-    "sweets": ["cakes", "cookies", "pies-pastries", "desserts", "candy", "ice-cream-flavors", "ice-cream-toppings"],
-    "bakery": ["breads", "cakes", "cookies", "pies-pastries"],
-    "breakfast and eggs": ["breakfast-foods", "egg-dishes", "potato-dishes"],
-    "drinks": ["soft-drinks", "juices", "spirits", "cocktails", "coffee-drinks", "teas"],
-    "cuisines": ["italian-foods", "chinese-foods", "indian-foods", "french-foods", "spanish-foods", "german-foods", "thai-foods", "british-foods", "american-foods", "middle-eastern-foods", "japanese-foods", "mexican-foods"],
-    "italian": ["italian-foods", "pasta", "pizza-toppings"],
-    "asian dishes": ["chinese-foods", "japanese-foods", "thai-foods", "indian-foods", "rice-noodle-dishes"],
-    "quick food": ["burger-toppings", "sandwiches", "fast-food", "fried-foods", "snacks", "american-foods", "potato-dishes"],
-    "meat and fish": ["meats", "seafood"],
-    "dairy": ["dairy", "cheeses", "fridge-items", "ice-cream-flavors"],
-    "seasonings": ["herbs-spices", "sauces", "burger-toppings"],
-    "produce": ["fruits", "vegetables", "nuts-seeds", "beans-legumes", "grains", "salads"],
-    "countries": ["african-countries", "americas-countries", "asian-countries", "european-countries", "world-capitals", "languages", "currencies"],
-    "cities": ["us-cities", "european-cities", "asian-cities", "world-capitals", "us-state-capitals", "landmarks", "places-in-town"],
-    "united states": ["us-states", "us-state-capitals", "us-cities", "us-presidents", "american-foods"],
-    "water and land": ["oceans-seas", "rivers", "lakes", "mountains", "islands", "landforms", "beach-things"],
-    "weather": ["weather", "natural-disasters"],
-    "plants": ["flowers", "trees"],
-    "space": ["solar-system", "constellations"],
-    "materials": ["elements", "metals", "gemstones"],
-    "body": ["body-parts", "bones"],
-    "home": ["furniture", "rooms", "house-types"],
-    "kitchen": ["appliances", "kitchen-tools", "fridge-items", "cooking-methods"],
-    "chores": ["bathroom-items", "chores", "tools"],
-    "clothes": ["clothing", "shoes", "accessories", "clothing-brands"],
-    "film stars": ["actors", "actresses"],
-    "music": ["singers", "bands", "music-genres", "instruments", "string-instruments", "composers"],
-    "sport": ["athletes", "sports", "sports-equipment", "exercises", "martial-arts"],
-    "history": ["historical-figures", "us-presidents", "emperors", "inventions", "painters"],
-    "animation": ["disney-pixar-movies", "animated-movies", "cartoon-characters", "fairy-tales"],
-    "movies": ["movie-franchises", "movie-genres", "superheroes", "villains", "sitcoms"],
-    "games": ["video-games", "game-consoles", "board-games", "card-games", "toys", "childhood-games"],
-    "childhood": ["toys", "childhood-games", "nursery-rhymes", "fairy-tales"],
-    "fantasy": ["mythical-creatures", "gods", "superpowers", "superheroes", "villains"],
-    "holidays": ["holidays", "christmas-things", "halloween-things"],
-    "vehicles": ["vehicles", "car-parts", "car-brands"],
-    "tech": ["tech-companies", "programming-languages", "game-consoles"],
-    "school": ["school-subjects", "office-supplies", "shapes", "colors", "units"],
-    "people": ["jobs", "family-members", "emotions", "hobbies"]
+    "sea life": [
+      "cetaceans",
+      "sea-creatures",
+      "seafood",
+      "beach-things"
+    ],
+    "cats": [
+      "cat-breeds",
+      "pets"
+    ],
+    "dogs": [
+      "dog-breeds",
+      "pets"
+    ],
+    "african wildlife": [
+      "african-animals",
+      "jungle-animals"
+    ],
+    "jungle": [
+      "jungle-animals",
+      "snakes"
+    ],
+    "farm and pets": [
+      "farm-animals",
+      "baby-animals",
+      "animal-sounds",
+      "pets"
+    ],
+    "reptiles and dinosaurs": [
+      "snakes",
+      "dinosaurs",
+      "australian-animals"
+    ],
+    "sweets": [
+      "cakes",
+      "cookies",
+      "pies-pastries",
+      "desserts",
+      "candy",
+      "ice-cream-flavors",
+      "ice-cream-toppings"
+    ],
+    "bakery": [
+      "breads",
+      "cakes",
+      "cookies",
+      "pies-pastries"
+    ],
+    "breakfast and eggs": [
+      "breakfast-foods",
+      "egg-dishes"
+    ],
+    "drinks": [
+      "soft-drinks",
+      "juices",
+      "spirits",
+      "cocktails",
+      "coffee-drinks",
+      "teas"
+    ],
+    "cuisines": [
+      "italian-foods",
+      "chinese-foods",
+      "indian-foods",
+      "french-foods",
+      "spanish-foods",
+      "american-foods",
+      "mexican-foods"
+    ],
+    "italian": [
+      "italian-foods",
+      "pasta",
+      "pizza-toppings"
+    ],
+    "asian dishes": [
+      "chinese-foods",
+      "indian-foods",
+      "rice-noodle-dishes"
+    ],
+    "quick food": [
+      "burger-toppings",
+      "sandwiches",
+      "fast-food",
+      "fried-foods",
+      "snacks",
+      "american-foods"
+    ],
+    "meat and fish": [
+      "meats",
+      "seafood"
+    ],
+    "dairy": [
+      "dairy",
+      "cheeses",
+      "fridge-items",
+      "ice-cream-flavors"
+    ],
+    "seasonings": [
+      "herbs-spices",
+      "sauces",
+      "burger-toppings"
+    ],
+    "produce": [
+      "fruits",
+      "vegetables",
+      "nuts-seeds",
+      "beans-legumes",
+      "salads"
+    ],
+    "countries": [
+      "african-countries",
+      "americas-countries",
+      "asian-countries",
+      "european-countries",
+      "world-capitals",
+      "languages",
+      "currencies"
+    ],
+    "cities": [
+      "us-cities",
+      "european-cities",
+      "asian-cities",
+      "world-capitals",
+      "us-state-capitals",
+      "landmarks",
+      "places-in-town"
+    ],
+    "united states": [
+      "us-states",
+      "us-state-capitals",
+      "us-cities",
+      "us-presidents",
+      "american-foods"
+    ],
+    "water and land": [
+      "oceans-seas",
+      "rivers",
+      "lakes",
+      "mountains",
+      "islands",
+      "landforms",
+      "beach-things"
+    ],
+    "weather": [
+      "weather",
+      "natural-disasters"
+    ],
+    "plants": [
+      "flowers",
+      "trees"
+    ],
+    "space": [
+      "solar-system",
+      "constellations"
+    ],
+    "materials": [
+      "elements",
+      "metals",
+      "gemstones"
+    ],
+    "body": [
+      "body-parts",
+      "bones"
+    ],
+    "home": [
+      "furniture",
+      "rooms",
+      "house-types"
+    ],
+    "kitchen": [
+      "appliances",
+      "kitchen-tools",
+      "fridge-items",
+      "cooking-methods"
+    ],
+    "chores": [
+      "bathroom-items",
+      "chores",
+      "tools"
+    ],
+    "clothes": [
+      "clothing",
+      "shoes",
+      "accessories",
+      "clothing-brands"
+    ],
+    "film stars": [
+      "actors",
+      "actresses"
+    ],
+    "music": [
+      "singers",
+      "bands",
+      "music-genres",
+      "instruments",
+      "string-instruments",
+      "composers"
+    ],
+    "sport": [
+      "athletes",
+      "sports",
+      "sports-equipment",
+      "exercises"
+    ],
+    "history": [
+      "historical-figures",
+      "us-presidents",
+      "emperors",
+      "inventions",
+      "painters"
+    ],
+    "animation": [
+      "disney-pixar-movies",
+      "animated-movies",
+      "cartoon-characters",
+      "fairy-tales"
+    ],
+    "movies": [
+      "movie-franchises",
+      "movie-genres",
+      "superheroes",
+      "villains"
+    ],
+    "games": [
+      "video-games",
+      "game-consoles",
+      "board-games",
+      "card-games",
+      "toys",
+      "childhood-games"
+    ],
+    "childhood": [
+      "toys",
+      "childhood-games",
+      "nursery-rhymes",
+      "fairy-tales"
+    ],
+    "fantasy": [
+      "mythical-creatures",
+      "gods",
+      "superpowers",
+      "superheroes",
+      "villains"
+    ],
+    "holidays": [
+      "holidays",
+      "christmas-things",
+      "halloween-things"
+    ],
+    "vehicles": [
+      "vehicles",
+      "car-parts",
+      "car-brands"
+    ],
+    "tech": [
+      "tech-companies",
+      "programming-languages",
+      "game-consoles"
+    ],
+    "school": [
+      "school-subjects",
+      "office-supplies",
+      "shapes",
+      "colors",
+      "units"
+    ],
+    "people": [
+      "jobs",
+      "family-members",
+      "emotions",
+      "hobbies"
+    ]
   }
 }
