@@ -1,0 +1,411 @@
+--- 2
+Facebook | meta | meta platforms | fb
+Google | alphabet | alphabet inc | googel
+Twitter | x | x corp | twiter
+Microsoft | microsft | micro soft | msft | ms
+Amazon | amazone | amazon.com | aws
+Samsung | samsumg | samsong
+Nvidia | nvida | nvdia | nvidea
+HP | hp inc | hewlett packard enterprise | hewlett-packard | hewlett packard
+Apple | apple inc | aple
+TikTok | tik tok
+Intel | intell
+IBM | international business machines | big blue
+WhatsApp
+Oculus
+--- 3
+Cloudflare
+Zoom | zoom video
+Qualcomm | qualcom
+TSMC | taiwan semiconductor | taiwan semiconductor manufacturing
+Compaq
+Palm | palm inc | palm pilot
+MySpace | my space
+AOL | america online
+Napster
+Netscape
+Sun Microsystems | sun micro
+Commodore
+Gateway
+Xerox
+Kodak
+Polaroid
+Microsoft Teams | teams
+Apple Music
+Steam
+Xbox
+PlayStation
+Hulu
+Disney+ | disney plus
+HBO | hbo max
+Prime Video | amazon prime
+Cash App
+Venmo
+Zelle
+Vimeo
+Telegram
+Signal
+WeChat
+Line | line corp
+Kakao | kakaotalk
+Naver
+LG | lg electronics
+Sony | sony corporation
+Hitachi
+Fujitsu
+NEC
+Sharp
+Samsung Electronics
+Tesla | tesla motors
+Rivian
+Waymo
+Cruise
+Uber | ubër
+DoorDash | door dash
+Grubhub | grub hub
+Postmates
+Gopuff
+Lyft
+Yahoo | yahoo!
+Bing
+DuckDuckGo | duck duck go
+Opera
+Brave
+Cortana
+Siri
+Alexa
+Ring
+Nest
+Roku
+TiVo
+Vizio
+TCL
+Hisense
+Foxconn | hon hai
+Verizon
+AT&T | att | at and t
+T-Mobile | tmobile | t mobile
+Sprint
+Vodafone
+Comcast
+Spectrum
+Ericsson
+Nokia | nokia corporation
+Alcatel
+Telstra
+Orange
+Deutsche Telekom
+--- 4
+OpenAI | open ai | chatgpt maker
+Anthropic
+Mistral AI | mistral
+DeepMind | google deepmind
+xAI
+Stability AI
+Hugging Face | huggingface
+Perplexity
+Cohere
+Scale AI
+Midjourney
+Character.AI | character ai
+DeepSeek
+Moonshot AI
+Zhipu AI
+Naver
+Cerebras
+Graphcore
+SambaNova
+CoreWeave
+Nebius
+ASML
+STMicroelectronics | st micro
+Infineon
+NXP
+GlobalFoundries | global foundries
+SMIC
+MediaTek
+Realtek
+Marvell
+Analog Devices
+ON Semiconductor
+Applied Materials
+Lam Research
+KLA
+Samsung Electronics
+SK Hynix | hynix
+Kioxia
+Sandisk
+Corsair
+Razer
+Alienware
+MSI
+Gigabyte
+Nzxt
+Cooler Master
+Kingston
+Crucial
+Netgear
+TP-Link
+Ubiquiti
+Juniper
+Arista
+Palo Alto Networks
+Fortinet
+CrowdStrike | crowd strike
+Zscaler
+Cloudflare
+Akamai
+Splunk
+Datadog
+New Relic
+Elastic
+MongoDB
+Confluent
+HashiCorp
+Docker
+Postgres
+Cloudera
+Teradata
+NetApp
+Pure Storage
+Nutanix
+Citrix
+Rackspace
+DigitalOcean | digital ocean
+Heroku
+Vercel
+Netlify
+Fastly
+GoDaddy | go daddy
+Namecheap
+Cloudflare
+Linode
+Alibaba Cloud
+Tencent Cloud
+Huawei Technologies
+ZTE
+Oppo
+Vivo
+Realme
+Honor
+Fairphone
+HTC
+Sony Ericsson
+Palm
+Handspring
+Psion
+Amstrad
+Sinclair
+Acorn
+Atari
+Commodore
+Apple Computer
+Dell Technologies
+Gateway 2000
+Packard Bell
+Sun Microsystems
+Silicon Graphics | sgi
+Cray
+Digital Equipment Corporation | dec
+Wang
+Novell
+Borland
+Lotus
+Corel
+WordPerfect
+Netscape
+Lycos
+AltaVista
+Ask Jeeves | ask.com
+Excite
+GeoCities
+Friendster
+Bebo
+Orkut
+Vine
+Periscope
+Google Plus | google+
+Blockbuster
+Zynga
+Groupon
+Fitbit
+Jawbone
+Pebble
+Theranos
+FTX
+WeWork
+Quibi
+Skype
+MSN
+Hotmail
+Xing
+Tumblr
+Flickr
+Snapfish
+Bumble
+Tinder
+Match Group
+Hinge
+Grindr
+Duolingo
+Coursera
+Udemy
+Khan Academy
+Chegg
+Quora
+Medium
+Substack
+Patreon
+OnlyFans
+Cameo
+Clubhouse
+Mastodon
+Bluesky
+Threads
+Truth Social
+Parler
+Rumble
+Gab
+Trump Media
+Zillow
+Redfin
+Carvana
+Opendoor
+Chewy
+Wayfair
+Overstock
+Newegg
+Best Buy
+Rakuten
+Mercado Libre | mercadolibre
+Flipkart
+Paytm
+Zomato
+Swiggy
+Ola
+Byju's | byjus
+Reliance Jio | jio
+Infosys
+HCL
+Tech Mahindra
+Cognizant
+Capgemini
+Atos
+Spotify
+Zalando
+Adyen
+Booking Holdings
+Skyscanner
+Bolt
+Delivery Hero
+Hello Fresh | hellofresh
+Nokia
+Ericsson
+Dassault Systemes | dassault
+Ubisoft
+Nexon
+NCSoft
+Krafton
+Netmarble
+Bandai Namco | namco
+Capcom
+Konami
+Square Enix
+Take-Two | take two
+Bethesda
+Blizzard
+Riot Games
+Supercell
+King
+Rovio
+Niantic
+Bungie
+Mojang
+Naughty Dog
+Rockstar Games | rockstar
+Ubisoft
+CD Projekt
+Gearbox
+Embracer
+Playtika
+Scopely
+Zynga
+Mixi
+LINE
+Nintendo
+Sony Interactive Entertainment
+Garena
+--- 5
+Cerner
+Epic Systems
+Oracle Cloud
+Magic Leap
+Rimac
+Rivos
+Tenstorrent
+Groq
+Anduril
+Neuralink
+Boring Company
+Palantir Technologies
+Wolfspeed
+Qorvo
+Skyworks
+Lattice
+Xilinx
+Altera
+Nuance
+Avaya
+Mitel
+Polycom
+Plantronics | poly
+Jabra
+Shure
+Sennheiser
+Fujifilm
+Olympus
+Ricoh
+Epson
+Brother
+Lexmark
+Kyocera
+Konica Minolta
+Casio
+Seiko
+Yamaha
+Roland
+Pioneer
+Onkyo
+JVC
+Kenwood
+Denon
+Marantz
+Harman
+Beats Electronics
+Bang & Olufsen | bang and olufsen
+Zebra Technologies
+Honeywell
+Garmin
+TomTom
+Trimble
+Cricut
+iRobot | roomba
+Ecobee
+Tile
+Wyze
+Eufy | anker
+Belkin
+Sandisk
+Elgato
+Blue Microphones
+Wacom
+GoPro
+DJI
+Insta360
+Parrot
+Oura
+Whoop
+Withings
+Misfit
+Moto
+Sidekick
