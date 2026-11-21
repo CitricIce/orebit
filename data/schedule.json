@@ -1,4 +1,11 @@
 {
-  "_comment": "Hand-pick categories for specific dates here. Any date not listed uses the automatic rotation. Example: \"2026-12-25\": [\"cakes\", \"breads\", \"cocktails\", \"candy\", \"cheeses\"]",
-  "days": {}
+  "_comment": "Pin categories to specific dates. A pinned category is held back for its date and never used on another day. A date can list 1 to 5 categories; the rest are filled automatically.",
+  "days": {
+    "2026-12-24": [
+      "christmas-things"
+    ],
+    "2027-10-31": [
+      "halloween-things"
+    ]
+  }
 }

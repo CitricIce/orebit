@@ -18,7 +18,8 @@ Mixing rules for each new day:
   (Sharks and Sea creatures, Cakes and Cookies).
 
 Hand-picked days in data/schedule.json are honored when that date is first
-planned. Run with:  npm run plan:calendar
+planned, and the categories pinned there are never used on any other day.
+A pin can list fewer than five categories; the rest are filled as usual. Run with:  npm run plan:calendar
 To throw away scheduled days from a date on and plan them again (only for
 days nobody has played yet):  npm run plan:calendar -- --rebuild-from 2026-12-01
 """
@@ -86,8 +87,13 @@ def main() -> None:
                 sys.exit(f"data/overlaps.json group '{name}' names an unknown category: {cid}")
             groups[cid].add(name)
 
+    # Categories pinned to a later date are held back until that date, so a
+    # holiday category like Christmas things lands on its holiday.
+    last_planned = start + timedelta(days=len(days) - 1)
+    held = {cid for d, ids in pins.items() if date.fromisoformat(d) > last_planned for cid in ids}
+
     rng = random.Random(SEED + len(days))
-    unused = [c for c in cats if c["id"] not in used]
+    unused = [c for c in cats if c["id"] not in used and c["id"] not in held]
     rng.shuffle(unused)
 
     # One queue per (level, family), so families can take turns.

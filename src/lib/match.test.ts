@@ -153,3 +153,16 @@ test("every saved player guess still finds its answer", async () => {
     }
   }
 });
+
+test("pinned categories only appear on their pinned date", async () => {
+  const { default: schedule } = await import("../../data/schedule.json");
+  const { addDays } = await import("./dates");
+  calendar.days.forEach((day, i) => {
+    const date = addDays(calendar.start, i);
+    for (const [pinDate, ids] of Object.entries(schedule.days as Record<string, string[]>)) {
+      for (const id of ids) {
+        if (day.includes(id)) assert.equal(date, pinDate, `${id} is pinned to ${pinDate} but scheduled on ${date}`);
+      }
+    }
+  });
+});
