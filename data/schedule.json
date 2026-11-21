@@ -1,11 +1,20 @@
 {
-  "_comment": "Pin categories to specific dates. A pinned category is held back for its date and never used on another day. A date can list 1 to 5 categories; the rest are filled automatically.",
-  "days": {
-    "2026-12-24": [
-      "christmas-things"
-    ],
-    "2027-10-31": [
-      "halloween-things"
-    ]
-  }
+ "_comment": "Pin categories to specific dates. A pinned category is held back for its date and never used on another day. A date can list 1 to 5 categories; the rest are filled automatically.",
+ "days": {
+  "2026-11-28": [
+   "indian-foods"
+  ],
+  "2026-12-07": [
+   "oceans-seas"
+  ],
+  "2026-12-24": [
+   "christmas-things"
+  ],
+  "2027-10-31": [
+   "halloween-things"
+  ]
+ },
+ "hold": [
+  "beans-legumes"
+ ]
 }

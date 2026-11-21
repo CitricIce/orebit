@@ -17,6 +17,7 @@ Mixing rules for each new day:
 - Never two categories from the same group in data/overlaps.json on one day
   (Sharks and Sea creatures, Cakes and Cookies).
 
+Categories listed under "hold" in data/schedule.json are never scheduled.
 Hand-picked days in data/schedule.json are honored when that date is first
 planned, and the categories pinned there are never used on any other day.
 A pin can list fewer than five categories; the rest are filled as usual. Run with:  npm run plan:calendar
@@ -27,6 +28,7 @@ days nobody has played yet):  npm run plan:calendar -- --rebuild-from 2026-12-01
 from __future__ import annotations
 
 import json
+import os
 import random
 import re
 import sys
@@ -44,7 +46,7 @@ DATES_TS = ROOT / "src" / "lib" / "dates.ts"
 ROUNDS_PER_DAY = 5
 EASY_PER_DAY = 4
 MAX_PER_FAMILY = 2
-SEED = 0x0EB17
+SEED = int(os.environ.get("PLAN_SEED", 0x0EB17))
 
 
 def launch_date() -> date:
@@ -78,7 +80,10 @@ def main() -> None:
         cut = date.fromisoformat(sys.argv[sys.argv.index("--rebuild-from") + 1])
         del days[max(0, (cut - start).days):]
     used = {cid for day in days for cid in day}
-    pins = json.loads(PINS.read_text(encoding="utf-8")).get("days", {}) if PINS.exists() else {}
+    schedule = json.loads(PINS.read_text(encoding="utf-8")) if PINS.exists() else {}
+    pins = schedule.get("days", {})
+    # Categories taken out of rotation for now (still in the game data).
+    on_hold = set(schedule.get("hold", []))
 
     groups: dict[str, set[str]] = defaultdict(set)
     for name, ids in json.loads(OVERLAPS.read_text(encoding="utf-8"))["groups"].items():
@@ -93,7 +98,7 @@ def main() -> None:
     held = {cid for d, ids in pins.items() if date.fromisoformat(d) > last_planned for cid in ids}
 
     rng = random.Random(SEED + len(days))
-    unused = [c for c in cats if c["id"] not in used and c["id"] not in held]
+    unused = [c for c in cats if c["id"] not in used and c["id"] not in held and c["id"] not in on_hold]
     rng.shuffle(unused)
 
     # One queue per (level, family), so families can take turns.
