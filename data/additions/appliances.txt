@@ -1,0 +1,289 @@
+# appliances additions
+--- 2
+Fridge | refrigerator | refridgerator | refrigirator | frige | icebox | fridges | refrigerators | fridge freezer
+Freezer | freezers | deep freeze | deep freezer
+Oven | ovens | wall oven | double oven | convection oven | fan oven
+Stove | stoves | cooker | hob | cooktop | stovetop | cook top | gas stove | electric stove | gas cooker | electric cooker
+Microwave | microwaves | microwave oven | micro wave | microwav | mircowave | microwae
+Dishwasher | dish washer | dishwashers | dishwaser
+Toaster | toasters | toster
+Kettle | kettles | electric kettle
+Blender | blenders | smoothie maker | liquidizer | liquidiser
+Washing machine | washer | washing machines | washer dryer | washing mashine | clothes washer
+Dryer | dryers | tumble dryer | tumble drier | clothes dryer | drier | tumble dryers
+Iron | irons | clothes iron
+Vacuum cleaner | vacuum | hoover | vacuums | hoovers | vaccum | vaccum cleaner | vacuum cleaners
+Air conditioner | ac | air con | aircon | a/c | air conditioning | air conditioners
+Heater | heaters | space heater | electric heater | fan heater
+Fan | fans | electric fan | desk fan | table fan
+Television | tv | tellie | telly | tvs | televisions | t.v.
+Hair dryer | hairdryer | blow dryer | hair drier | hair dryers | blowdryer
+Coffee maker | coffee machine | coffee makers | drip coffee maker | coffee pot | filter coffee machine | coffeemaker
+Air fryer | airfryer | air fryers | air frier
+Slow cooker | crockpot | crock pot | slow cookers
+Food processor | food processors | cuisinart
+Rice cooker | rice cookers
+Electric toothbrush | electric tooth brush | sonicare | oral b
+Speaker | speakers | bluetooth speaker
+Lamp | lamps
+Radio | radios
+Clock | clocks | alarm clock
+Computer | computers | pc
+--- 3
+Pressure cooker | instant pot | instapot | pressure cookers | multicooker | multi cooker
+Juicer | juicers | juice machine | juice extractor | orange juicer
+Espresso machine | espresso maker | espresso | expresso machine | expresso maker | cappuccino machine
+Water heater | boiler | hot water heater | hot water tank | geyser | tankless water heater | combi boiler
+Dehumidifier | dehumidifiers | de-humidifier
+Humidifier | humidifiers
+Air purifier | air cleaner | air filter | air purifiers
+Robot vacuum | roomba | robovac | robotic vacuum | robot hoover | robot vacuum cleaner
+Hair straightener | straighteners | hair straighteners | flat iron | ghd | hair flat iron
+Curling iron | curling tongs | curling wand | curler | hair curler | curling irons | hair tongs
+Electric razor | shaver | electric shaver | razor | electric razors | trimmer
+Sewing machine | sewing machines | sewing mashine | singer
+Bread maker | bread machine | breadmaker | bread makers
+Waffle maker | waffle iron | waffle makers
+Sandwich maker | sandwich toaster | sandwich press | toastie maker | jaffle iron | toasted sandwich maker | panini maker | sandwich grill
+Deep fryer | deep fat fryer | fryer | chip pan | deep frier | deepfryer
+Ice maker | ice machine | icemaker | ice makers
+Water dispenser | water cooler | water fountain
+Extractor fan | range hood | cooker hood | extractor hood | vent hood | rangehood | kitchen hood | extractor
+Garbage disposal | waste disposal | garburator | disposer | garbage disposer | insinkerator | waste disposal unit
+Trash compactor | rubbish compactor | trash compacter
+Grill | george foreman | george foreman grill | indoor grill | contact grill
+Smoke detector | smoke alarm | fire alarm | carbon monoxide detector | co detector
+Steam mop | steam cleaner | steam mops
+Carpet cleaner | carpet shampooer | rug doctor | carpet washer | carpet cleaners
+Clothes steamer | garment steamer | steamer | fabric steamer | handheld steamer | clothing steamer
+Dehydrator | food dehydrator | dehydrators
+Sous vide | sous vide cooker | immersion circulator | sous-vide | souvide
+Popcorn maker | popcorn machine | popcorn popper | popper | pop corn machine
+Ice cream maker | ice cream machine | gelato maker | icecream maker | frozen yogurt maker
+Pasta maker | pasta machine
+Soda maker | sodastream | soda stream | carbonator | seltzer maker
+Milk frother | frother | milk steamer | milk foamer
+Electric whisk | hand mixer | hand whisk | handheld mixer | egg beater | electric beater | whisk | egg whisk
+Immersion blender | stick blender | hand blender | handheld blender | wand blender | blender stick | bamix
+Coffee grinder | coffee mill | bean grinder | burr grinder | spice grinder
+Radiator | radiators | central heating | baseboard heater
+Heat pump | heat pumps | mini split | ductless mini split | split system | split ac
+Wine fridge | wine cooler | wine cellar | wine chiller | beverage cooler | beverage fridge | drinks fridge
+Chest freezer | chest freezers | upright freezer | freezer chest
+Mini fridge | minifridge | mini refrigerator | bar fridge | compact fridge | dorm fridge | under counter fridge
+Electric blanket | heated blanket | heating pad | heat pad | electric heating pad | hot water bottle | electric throw | heated throw
+Heated towel rail | towel warmer | towel radiator | heated towel warmer | towel heater
+Trouser press | pants press | clothes press | garment press | steam press
+Spin dryer | spin drier | centrifuge dryer | spin dry | clothes spinner
+Water filter | water purifier | filter jug | reverse osmosis | brita | water filtration system
+Water softener | softener | water conditioner
+Thermostat | smart thermostat | nest | nest thermostat | thermostats
+Doorbell | ring doorbell | video doorbell | door bell | smart doorbell | intercom
+Garage door opener | garage opener | automatic garage door | garage door
+Smart speaker | alexa | echo | amazon echo | google home | homepod | google nest | home speaker
+Hot plate | hotplate | burner | electric hob | hot plates | single burner | portable stove | camp stove | electric burner
+Induction hob | induction cooker | induction cooktop | induction stove | induction | ceramic hob | ceramic cooktop | glass top stove
+Hot water dispenser | instant hot water | boiling water tap | hot water urn | tea urn | water boiler | electric urn
+Baby monitor | baby cam | baby camera | nursery monitor | video monitor | monitors
+Bottle warmer | bottle sterilizer | bottle steriliser | steriliser | uv sterilizer | formula maker | baby food maker
+Egg cooker | egg poacher | egg maker | egg cookers | omelette maker
+Spiralizer | spiralizer machine | vegetable spiralizer | veggie spiralizer | veg spiralizer
+Pressure washer | power washer | jet wash | jet washer | karcher | pressure cleaner | power hose | high pressure washer
+Lawn mower | lawnmower | mower | lawn mowers | ride on mower | ride-on mower | riding mower | strimmer | weed whacker | weed eater | edger | lawn edger | string trimmer | weedwacker
+Leaf blower | leaf vacuum | garden blower | blower | leaf blowers
+Hedge trimmer | hedge cutter | hedge clippers | hedge trimmers | hedge shears
+Chainsaw | chain saw | electric chainsaw | chainsaws
+Snow blower | snow thrower | snowblower | snow plow | snow plough
+Generator | generators | backup generator | power generator | standby generator | portable generator
+Sump pump | sump | water pump | well pump | pump | sewage pump | pond pump | garden pump
+Steam cooker | steamer basket | food steamer | electric steamer | vegetable steamer | bamboo steamer | rice steamer | dumpling steamer
+--- 4
+Ceiling fan | ceiling fans
+Electric fireplace | electric fire | gas fire | gas fireplace
+Wood stove | log burner | wood burner | pellet stove
+Patio heater | outdoor heater
+Infrared heater | halogen heater | quartz heater
+Evaporative cooler | swamp cooler | air cooler
+Portable air conditioner | portable ac | window ac | window air conditioner
+Oscillating fan | bladeless fan
+Aroma diffuser | essential oil diffuser | oil diffuser
+Plug-in air freshener | air freshener
+Cordless vacuum | stick vacuum | dyson | upright vacuum | canister vacuum | cylinder vacuum
+Handheld vacuum | dustbuster | dust buster | hand vac
+Wet dry vacuum | shop vac | shopvac | wet vac
+Robot mop | braava | robot mower | robot lawn mower
+Floor scrubber | floor polisher | floor buffer
+Rotisserie | rotisserie oven
+Raclette grill | raclette
+Fondue set | fondue pot | electric fondue
+Crepe maker | crepe machine | pancake maker
+Electric griddle | griddle | electric skillet | electric frying pan
+Electric wok
+Donut maker | doughnut maker | donut machine
+Pie maker
+Pizza oven | pizza maker
+Cotton candy machine | candy floss machine
+Slushie machine | slush machine | slushy maker
+Snow cone machine | shaved ice machine
+Chocolate fountain
+Meat grinder | mincer | meat mincer
+Meat slicer | deli slicer | food slicer
+Sausage stuffer | sausage maker
+Hot dog roller | hot dog maker
+Can opener | electric can opener
+Electric knife
+Knife sharpener | electric knife sharpener
+Salad spinner
+Chopper | mini chopper | electric chopper
+Plate warmer | warming drawer | food warmer
+Bain marie | chafing dish | buffet warmer
+Cheese maker
+Soy milk maker | soymilk maker | nut milk maker
+Kombucha maker | beer maker | home brewing kit
+Electric smoker | smoker
+Pellet grill
+Barbecue | bbq | gas grill | charcoal grill | electric barbecue
+Turkey fryer
+Cool box | cooler | portable fridge | camping fridge
+Ironing board
+Clothes airer | drying rack | clothes horse
+Mangle | wringer
+Top loader | top loading washer
+Front loader | front loading washer
+Portable washer | mini washer
+Travel iron | travel steamer
+Lint remover | lint shaver | fabric shaver | bobble remover
+Lint roller
+Hand dryer | electric hand dryer
+Soap dispenser | automatic soap dispenser
+Bidet | electric bidet | smart toilet | heated toilet seat
+Electric shower | power shower
+Furnace | gas furnace | oil furnace
+Hot tub | jacuzzi
+Sauna | infrared sauna
+Water flosser | waterpik
+Epilator
+Nose trimmer | ear trimmer
+Facial steamer | face steamer
+Facial cleansing brush | clarisonic | foreo
+Massager | massage gun
+Massage chair
+Foot spa | foot bath | foot massager
+Hair dryer brush
+Hooded dryer | hood dryer | salon dryer
+Hair rollers
+Sound bar | soundbar
+Home theater | home theatre | surround sound
+Stereo | hifi | hi-fi
+Record player | turntable | gramophone
+CD player
+DVD player | blu-ray player
+VCR | video recorder
+Cassette player | tape player | walkman
+Boombox | ghetto blaster
+Jukebox
+Amplifier | amp
+Smart TV | oled tv | led tv | lcd tv | plasma tv | flat screen | flatscreen
+Set top box | cable box | satellite dish
+Roku | chromecast | fire stick | firestick | apple tv | streaming device
+Games console | game console | video game console | playstation | xbox | nintendo | nintendo switch | wii | ps5 | ps4
+Pinball machine | arcade machine
+Telephone | landline | cordless phone | phone
+Answering machine | answerphone
+Laptop | laptops
+Printer | printers
+Scanner
+Photocopier | copier
+Router | wifi router
+Phone charger | charger
+Night light | nightlight
+Light bulb | lightbulb
+Lava lamp
+Floor lamp | standard lamp
+Desk lamp | table lamp
+Fairy lights | string lights
+Security camera | cctv
+Burglar alarm | alarm system
+Smart lock
+Air quality monitor
+Mosquito zapper | bug zapper | insect killer | fly zapper
+Electric fly swatter
+Pool pump
+Pool cleaner | robot pool cleaner
+Aquarium filter | fish tank filter
+Aquarium heater | fish tank heater
+Sprinkler system | automatic sprinkler
+Automatic pet feeder | pet feeder
+Pet fountain | cat fountain
+Self cleaning litter box | litter robot
+Egg incubator | incubator
+Vacuum sealer | food sealer | foodsaver
+Pressure canner | canner
+Tortilla press | tortilla maker
+Roti maker | chapati maker
+Idli maker | idli steamer
+Wet grinder
+Mixer grinder | mixie
+Hot pot | electric hot pot
+Gooseneck kettle | smart kettle | travel kettle
+Aga | rayburn
+Range cooker
+Combination oven | combi oven
+Salamander grill
+Steam generator iron | steam station
+Heat press | t-shirt press
+Cricut | cutting machine
+Embroidery machine
+Overlocker | serger
+Knitting machine
+--- 5
+Fruit dryer | jerky maker
+Rice grinder
+Electric teapot
+Tea maker | tea machine
+Lassi maker
+Ramen cooker | noodle cooker
+Pasta cooker
+Warming oven
+Speed oven
+Over the range microwave
+Charbroiler
+Ionizer | ioniser
+HEPA purifier
+Radon detector
+Gas leak detector
+Water leak detector
+Ultrasonic pest repeller | pest repeller
+Electric mousetrap
+Moisture absorber
+Pool heater
+Pool filter
+Fountain pump
+Hydroponic system
+Grow light | grow lamp
+Heat mat | seedling heat mat
+Propagator | electric propagator
+Greenhouse heater
+Pet clippers
+Pet dryer | dog dryer
+Heated pet bed
+Electric fence charger
+Cat flap | electric pet door
+Egg turner
+Flatwork ironer | ironer
+Rotary iron
+Label maker | dymo
+Die cut machine | die cutter | sizzix
+Thread cutter
+Spinning wheel
+Dress form | tailors dummy
+Kimchi fridge | kimchi refrigerator
+Electric lunch box | lunch warmer
+Paraffin heater | kerosene heater
+Electric hot water tank
+Air dryer | jet dryer
+Tongue cleaner
+Teeth whitener
+Ipl device | laser hair removal
+Wax heater | wax warmer
+Vacuum pack machine

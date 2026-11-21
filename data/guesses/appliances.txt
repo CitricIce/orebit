@@ -1,0 +1,62 @@
+fridge
+refrigerator
+refrigirator
+freezer
+oven
+stove
+cooker
+hob
+microwave
+microwav
+dishwasher
+toaster
+kettle
+blender
+food processor
+stand mixer
+air fryer
+slow cooker
+crock pot
+rice cooker
+coffee maker
+espresso machine
+juicer
+waffle maker
+sandwich press
+bread maker
+ice maker
+deep fryer
+popcorn maker
+sous vide
+dehydrator
+washing machine
+washer
+dryer
+tumble dryer
+iron
+steamer
+vacuum
+hoover
+robot vacuum
+steam mop
+carpet cleaner
+air conditioner
+ac
+heater
+space heater
+ceiling fan
+dehumidifier
+humidifier
+air purifier
+hair dryer
+hair straightener
+curling iron
+electric toothbrush
+shaver
+tv
+speaker
+water heater
+garbage disposal
+sewing machine
+tv's => Television
+nespresso

@@ -1,0 +1,66 @@
+pens
+pencils
+erasers
+rubber
+ruler
+scissors
+stapler
+staples
+sticky notes
+post its
+postit notes
+highlighters
+markers
+sharpie
+crayons
+colouring pencils
+colored pencils
+paper clips
+paperclips
+binder clips
+rubber bands
+elastic bands
+push pins
+thumbtacks
+drawing pins
+hole punch
+hole puncher
+tape
+sellotape
+scotch tape
+glue stick
+pritt stick
+notebook
+notebooks
+exercise book
+binders
+folders
+envelopes
+index cards
+graph paper
+backpack
+rucksack
+pencil case
+lunch box
+calculater
+protractor
+compass
+set square
+laptop
+printer
+usb stick
+headphones
+mouse
+whiteboard
+chalkboard
+blackboard
+globe
+white-out
+tippex
+tipp-ex
+biro
+clipboard
+blu tack
+paint brush
+sissors
+stappler => Stapler
