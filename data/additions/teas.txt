@@ -1,0 +1,161 @@
+--- 2
+Green Tea | greentea | japanese green tea | chinese green tea
+Black Tea | blacktea
+Chamomile | camomile | chamomile tea | camomile tea | chammomile | chamomille | camomille
+Earl Grey | earl gray | earl grey tea | earl gery | earlgrey | earlgray | erl grey
+Peppermint | peppermint tea | pepermint | pepermint tea | pepper mint tea
+English Breakfast | english breakfast tea | breakfast tea | english brekfast | english breakfest
+Iced Tea | ice tea | iced teas | lipton iced tea | peach tea | peach iced tea | lemon iced tea
+Sweet Tea | southern sweet tea | sweet iced tea
+Herbal Tea | herbal infusion | tisane | tisanes | herbal teas | herb tea
+Fruit Tea | berry tea | forest fruit tea | mixed berry tea | apple tea | strawberry tea | raspberry tea | blueberry tea | pomegranate tea | passion fruit tea | cranberry tea | blackcurrant tea
+Bubble Tea | pearl milk tea | bubble teas | bobba | bobba tea | bubbletea | tapioca tea | pearl tea | boba milk tea | taiwanese bubble tea
+Chai | masala tea | spiced tea | indian tea | indian chai | chai tea | masala chaay | spiced chai | cutting chai | karak chai | kadak chai
+Chai Latte | chai lattes | chia latte | starbucks chai | iced chai | vanilla chai | iced chai latte
+Ginger Tea | ginger root tea | fresh ginger tea | adrak chai | ginger honey tea | honey ginger tea
+Lemon Tea | black tea with lemon | tea with lemon | hot lemon tea | lemon honey tea | honey lemon tea
+Matcha | matcha tea | matcha green tea | maccha | macha | ceremonial matcha | usucha
+Matcha Latte | matcha lattes | green tea latte | iced matcha latte | iced matcha | matcha milk | starbucks matcha | strawberry matcha | matcha oat latte
+Yerba Mate | yerba maté | mate tea | maté | yerba | yerbe mate | yerba matte | mate cocido | terere | tereré | chimarrao | chimarrão
+Jasmine | jasmine tea | jasmin tea | jasmine green tea | jasmine pearl | jasmine pearls | jasmine pearl tea | jasmin
+Oolong | oolong tea | wulong | wu long | oolang | ulong | oolong tee | woolong
+Darjeeling | darjeeling tea | darjeling | darjiling | darjeeling black | darjelling
+Assam | assam tea | assam black tea | assam black | assem | assamese tea
+Ceylon | ceylon tea | sri lankan tea | sri lanka tea | ceylon black | ceylon black tea | ceylon orange pekoe
+Rooibos | red bush | rooibos tea | rooibus | roibos | roobios | rooibos redbush | redbush | red bush tea | redbush tea | red bush rooibos | roybos | rooibos red tea | african red tea | south african red tea
+Hibiscus | hibiscus tea | hibiscus flower tea | karkade | karkadé | agua de jamaica | roselle tea | bissap | zobo | sobolo | flor de jamaica | hibiscus infusion | red hibiscus tea | hibiscus herbal tea | hibiscus iced tea
+Lapsang Souchong | lapsang | lapsang tea | lapsang souchang | lapsang suchong | smoky tea | smoked tea | lapsang souchong tea | lapsong souchong | lapsang soochong
+Sencha | sencha tea | sencha green tea | japanese sencha | senchas | sencah | sensha
+Gyokuro | gyokuro tea | gyokuro green tea | jade dew | jade dew tea | gyokura | gyokoro
+Genmaicha | genmai cha | genmaicha tea | brown rice tea | popcorn tea | japanese brown rice tea | genmai | genmaicha green tea | brown rice green tea | genmaichia | genmai tea
+Dragon Well | longjing | long jing | lung ching | longjing tea | dragonwell | dragon well tea | dragon well green tea | dragonwell tea | xi hu longjing | west lake longjing | lung ching tea | lungching | lung jing
+Tieguanyin | iron goddess | tie guan yin | tieguanyin tea | ti kuan yin | tikuanyin | iron goddess of mercy | tie kuan yin | tiguanyin | tie guanyin | iron goddess oolong | anxi tieguanyin | tieguanyin oolong | tie guan yin oolong
+Pu-erh | pu erh | puer | pu'er | puerh | pu-erh tea | pu erh tea | puer tea | pu'erh | pu'er tea | pu'erh tea | pu-er | pu er | puerh tea | pu-erh tuocha | tuocha | bing cha | ripe pu-erh | raw pu-erh | shu pu-erh | sheng pu-erh | shou pu erh | sheng pu erh | shu puerh | sheng puerh | aged pu-erh | vintage pu-erh | hei cha | heicha
+Yellow Tea | huangcha | huang cha | chinese yellow tea
+
+--- 3
+Chai | masala chai
+Thai Tea | thai iced tea | thai milk tea | cha yen | cha yen thai | thai ice tea | thai tea iced | thai tea latte | cha thai
+Lady Grey | lady gray | lady grey tea
+Irish Breakfast | irish breakfast tea | irish brekfast
+Turmeric Tea | golden milk | turmeric latte | golden milk latte | haldi doodh | turmeric milk | turmeric ginger tea
+Lemon Balm | lemon balm tea | melissa tea | melissa
+Spearmint | spearmint tea | spear mint tea | spearmint herbal tea
+Rose Tea | rose petal tea | rose bud tea | rosebud tea | rose black tea | rose congou | rose green tea
+Lavender Tea | lavender | lavendar tea | lavender herbal tea | lavender chamomile tea
+Barley Tea | mugicha | mai cha | boricha | barley | roasted barley tea | bori cha | hordeum tea | barley infusion
+Rosehip | rose hip | rosehip tea | rose hip tea | rosehips | rose hips | rosehip hibiscus tea
+Elderflower | elderflower tea | elder flower tea | elderflowers | elderflower infusion
+Lemongrass Tea | lemongrass | lemon grass tea | lemon grass | lemongrass ginger tea
+Dandelion Tea | dandelion | dandelion root tea | dandelion root | dandelion coffee
+Nettle Tea | nettle | stinging nettle tea | nettles | nettle leaf tea
+Fennel Tea | fennel | fennel seed tea | fennel seeds tea | fennel infusion
+Sage Tea | sage | sage herbal tea | sage leaf tea
+Licorice Tea | licorice | liquorice tea | liquorice | licorice root tea | liquorice root tea | lakritz tea | licorice root | liquorice root
+Ginseng Tea | ginseng | korean ginseng tea | red ginseng tea | ginseng herbal tea | american ginseng tea | insam cha | ginseng root tea
+Cinnamon Tea | cinnamon | cinnamon bark tea | cinnamon stick tea | cinnamon spice tea | cinnamon herbal tea | ceylon cinnamon tea
+Chrysanthemum | chrysanthemum tea | chrysanthemum flower tea | chrysanthemum flowers | juhua | ju hua | chrysanthemum infusion | gukhwa cha | kiku cha
+Cold Brew Tea | cold brewed tea | cold brew iced tea | cold steeped tea | cold infused tea | cold brew green tea | cold brewed green tea
+Sleepytime | sleepytime tea | sleepy time tea | bedtime tea | sleep tea
+Throat Coat | throat coat tea | sore throat tea
+Tulsi | tulsi tea | holy basil | holy basil tea | tulsi holy basil | basil tea | krishna tulsi | rama tulsi | vana tulsi
+Gunpowder | gunpowder tea | gunpowder green tea | gunpowder green
+Russian Caravan | russian caravan tea | caravan tea | russian tea
+London Fog | earl grey latte | london fog latte | london fog tea latte | london fog tea
+Hong Kong Milk Tea | hk milk tea | hong kong style milk tea | silk stocking tea | pantyhose milk tea | nai cha
+Teh Tarik | teh tarek | pulled tea | malaysian milk tea
+Butter Tea | po cha | bocha | tibetan butter tea | yak butter tea | su you cha | gur gur cha
+Noon Chai | kashmiri chai | pink tea | pink chai | gulabi chai | sheer chai | kashmiri pink tea
+
+--- 4
+Earl Grey Cream | earl grey creme | creme earl grey | french earl grey
+Turkish Tea | cay | çay | turkish cay | rize tea | turkish apple tea | elma cayi
+Persian Tea | chai irani | iranian tea | persian chai | saffron tea
+Cardamom Tea | elaichi chai | cardamom chai | green cardamom tea
+Kashmiri Kahwa | kahwa tea | kehwa | qahwa
+Arabic Tea | arabic chai | shay | shai bil nana | karak tea | gulf chai
+Taro Milk Tea | taro bubble tea | taro boba | taro tea | taro latte
+Cheese Foam Tea | cheese foam | milk cap tea | cream cap tea | sea salt cream tea
+Oolong Milk Tea | oolong latte | roasted milk tea
+Pumpkin Spice Chai | pumpkin spice tea | pumpkin chai
+Apple Cinnamon Tea | spiced apple tea | cinnamon apple tea | apple spice tea
+Orange Spice Tea | orange spice | orange clove tea | constant comment
+Mulled Tea | spiced mulled tea | christmas tea | winter spice tea
+Clove Tea | cloves tea
+Cinnamon Tea | cinnamon | cinnamon bark tea
+Lychee Tea | lychee black tea | lychee green tea | lychee oolong
+Peach Oolong | peach oolong tea
+Winter Melon Tea | wintermelon tea | winter melon milk tea
+Honey Citron Tea | yuja cha | citron tea | korean citron tea
+Jujube Tea | daechu cha | red date tea | jujube date tea | red dates tea | hong zao cha
+Omija Tea | schisandra tea | omija cha | five flavor tea | five flavour tea
+Ginger Jujube Tea | saenggang cha | korean ginger tea | ginger tea korean
+Quince Tea | quince | maesil cha | plum tea | umeboshi tea | ume tea | ume kombu cha | kobucha
+Job's Tears Tea | yulmu cha | coix seed tea | job's tears | adlay tea
+Buckwheat Tea | dalian kuqiao | kuqiao cha | tartary buckwheat tea
+Roasted Corn Tea | corn silk tea
+Mulberry Tea | mulberry leaf tea | white mulberry tea | sangye cha | sang ye cha
+Goji Tea | goji berry tea | wolfberry tea | goji
+Eight Treasure Tea | babao cha | ba bao cha | eight treasures tea | eight treasures | 8 treasures tea | babaocha
+Kudzu Tea | kudzu | ge gen cha | pueraria tea
+Monk Fruit Tea | luo han guo tea | luohanguo tea | luo han guo | lo han guo
+Cassia Tea | cassia seed tea | jue ming zi | juemingzi tea
+Pandan Tea | pandan | pandan leaf tea
+Butterfly Pea Tea | butterfly pea flower tea | blue pea tea | clitoria tea | anchan tea | blue butterfly pea | blue matcha
+Moringa Tea | moringa | moringa leaf tea | drumstick leaf tea
+Ashwagandha Tea | ashwagandha
+Neem Tea | neem leaf tea
+Guava Leaf Tea | guava tea | guava leaf
+Soursop Tea | graviola tea | soursop leaf tea
+Cerasee Tea | cerasee | bitter melon tea | karela tea | cerasee bush tea | bush tea | jamaican bush tea
+Mint Green Tea | moroccan green tea | gunpowder mint tea | mint gunpowder
+Tea Latte | latte tea
+Dirty Chai | chai espresso | chai with espresso
+Thai Green Tea | thai green milk tea | cha yen green | thai milk green tea | green thai tea
+Thai Lemon Tea | cha manao | cha manow | thai iced lemon tea
+Vietnamese Lotus Tea | lotus tea | tra sen | trà sen | lotus flower tea | lotus leaf tea | lotus seed tea | lotus
+Vietnamese Artichoke Tea | artichoke tea | tra atiso | trà atiso | atiso tea
+Trà Đá | tra da | iced tea vietnam | vietnamese iced tea | tra da vietnam | trà đá vietnam | tra da chanh | tra chanh | trà chanh | lemon tea vietnamese
+Taiwanese Oolong | taiwan oolong | formosa oolong | formosa tea | formosa
+Alishan Oolong | alishan tea | alishan high mountain oolong | ali shan oolong | alishan oolong tea
+Lishan Oolong | lishan | lishan tea | lishan high mountain tea | dayuling | dayuling tea | da yu ling
+Dong Ding Oolong | dong ding tea | dongding oolong | frozen summit oolong | frozen summit
+Baozhong | pouchong | paochung | bao zhong | wenshan baozhong | pouchong tea
+Da Hong Pao Tea | big red robe | da hong pao tea | big red robe tea | da hong pao oolong
+Wuyi Rock Tea | rock tea | wuyi tea | yancha | yan cha | wuyi yancha | rock oolong | wuyi oolong
+Fenghuang Dancong | dancong tea | phoenix oolong | phoenix tea | phoenix single bush | feng huang dan cong | dan cong oolong | honey orchid | mi lan xiang | milan xiang | duck shit oolong | ya shi xiang
+Jin Jun Mei Tea | golden eyebrow | golden eyebrows | jin jun mei tea
+Golden Monkey Tea | golden monkey black | fujian golden monkey | jin hou | jin hou tea
+Silver Needle Tea | bai hao yin zhen | baihao yinzhen | yin zhen | white silver needle
+White Peony Tea | bai mu dan tea | pai mu tan | white peony white tea
+Shou Mei Tea | shou mei tea | longevity eyebrow | gong mei tea | tribute eyebrow
+Moonlight White | yue guang bai | moonlight beauty | yueguangbai | yue guang mei ren | yueguang bai | moonlight white tea
+Mao Feng | mao feng tea | maofeng | yellow mountain fur peak | yellow mountain tea
+Bi Luo Chun Tea | pi lo chun | pi lo chun tea | green snail spring | green snail spring tea | snail spring | snail spring tea | spiral spring green | dongting biluochun
+Taiping Houkui Tea | houkui | hou kui | monkey king | monkey king tea | monkey king green tea
+Lu An Gua Pian Tea | liu an gua pian | melon seed tea | melon seed | melon seed green tea | guapian | gua pian | lu an melon seed
+Gunpowder Tea Pearl | pinhead gunpowder | pinhead | temple of heaven
+Keemun Tea | keemun black tea | qimen tea | qimen black | qimen hong cha | keemun mao feng | keemun congou | keemun mao feng tea | english breakfast keemun
+Dian Hong Tea | yunnan gold | yunnan golden | yunnan golden tips | yunnan black tea | yunnan black | yunnan tea | dianhong tea | dian hong gold | golden bud | golden tips | dian hong cha | yunnan gold tea
+Nilgiri Tea | nilgiri black | nilgiri tea black | blue mountain tea | nilgiri blue mountain | nilgiri frost | frost tea | nilgiri winter tea
+Kangra Tea | kangra black | kangra green | himachal tea | himachal black tea | himachal green tea | palampur tea | kangra valley tea
+Darjeeling First Flush | first flush darjeeling | first flush | spring darjeeling | darjeeling spring | darjeeling spring flush | first flush tea | darjeeling first flush tea | darjeeling 1st flush | 1st flush | first flush green | ff darjeeling | darjeeling ff | darjeeling ftgfop1 | ftgfop1 | ftgfop | tgfop | gfop | fop | op | bop | bopf | fannings tea | dust tea | broken orange pekoe | bop tea | flowery orange pekoe | tippy golden flowery orange pekoe
+Second Flush Darjeeling | muscatel | muscatel darjeeling | second flush tea | darjeeling second flush | summer darjeeling | darjeeling summer | darjeeling 2nd flush | muscatel tea | darjeeling muscatel | autumn flush | autumnal flush | darjeeling autumnal | darjeeling autumn | autumn darjeeling | darjeeling autumnal flush | third flush | rain flush | monsoon flush | monsoon darjeeling | darjeeling monsoon
+Nuwara Eliya Tea | nuwara eliya ceylon | nuwara eliya black | ceylon nuwara eliya | nuwara | nuwara eliya orange pekoe | nuwara eliya op | nuwara eliya pekoe
+Dimbula Tea | dimbula ceylon | dimbula black | ceylon dimbula | dimbula pekoe | dimbula op | dimbula orange pekoe | dimbula tea ceylon
+Uva Tea | uva ceylon | uva highlands | uva black | ceylon uva | uva pekoe | uva op | uva orange pekoe | uva tea ceylon
+Kandy Tea | kandy ceylon | kandy black | ceylon kandy | kandy pekoe | kandy op | kandy orange pekoe | kandy tea ceylon
+Ruhuna Tea | ruhuna ceylon | ruhuna black | ceylon ruhuna | ruhuna pekoe | ruhuna op | ruhuna orange pekoe | ruhuna tea ceylon
+Kenyan Tea | kenya tea | kenyan black tea | kenya black tea | kenyan breakfast | kenya breakfast | kenyan chai | kenya chai | kericho tea | kericho | kenyan ctc | ctc kenya | cut tear curl
+Malawi Tea | malawian tea | satemwa | satemwa tea | thyolo | mulanje tea | mulanje | zomba tea | zomba
+Rwandan Tea | rwanda tea | rwanda black tea | rwandan black tea | rwanda ctc | rwandan ctc
+Japanese Black Tea | wakoucha | wakocha | wa kocha | japanese red tea | benifuuki | benifuki | benifuuki tea | benifuuki black tea | benifuuki black
+Kabusecha | kabuse cha | kabusecha tea | kabuse sencha | kabusecha green tea | kabuse
+Fukamushi Sencha | deep steamed sencha | deep steamed green tea | fukamushicha | fukamushi cha | fukamushi tea | fukamushi sencha tea
+Shincha Tea | new tea | first flush sencha | first flush japanese | first picked tea | shincha sencha | shincha green tea
+Tamaryokucha Tea | guricha | guri cha | kamairicha | kamairi cha | kamairicha tea | pan fired sencha | pan fired green tea | kamairicha green tea
+Konacha Tea | sushi tea | agari | agari tea | sushi shop tea | sushi green tea
+Mecha Tea | mecha | mecha green tea | mecha sencha | bud tea | japanese bud tea
+Tencha Tea | tencha leaves | tencha green tea
+Kukicha Tea | twig tea | karigane | kukicha twig tea | bocha japanese | japanese twig tea | stem tea | stalk tea | bocha stem tea | three year twig tea | three year tea | 3 year twig tea | 3 year tea | kukicha roasted | roasted kukicha | kukicha roast
+

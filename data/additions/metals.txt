@@ -1,0 +1,276 @@
+--- 2
+Aluminium | aluminum | aluminim | alluminum | aluminium foil | tin foil
+Gold | golld | 24k gold
+Silver | silva | sliver
+Iron | irn | iron metal
+Copper | coper | copperr
+Steel | steal
+Bronze | bronz
+Tin | tinn
+Lead | led | lead metal
+Zinc | zink
+Nickel | nikel | nickle
+Platinum | platnum | platinim | platinium
+Titanium | titanum | titainium | titanim
+Brass | brasss
+Chrome | crome | chrom
+Mercury | quicksilver | mercery
+Lithium | lithum | litium
+Magnesium | magnisium | magnesim | magnesuim
+Cobalt | cobolt | cobalt metal
+Tungsten | tungston | tungstan | wolfram
+Uranium | uranum | uraneum
+Plutonium | plutonim | plutonuim
+Sodium | sodum
+Potassium | potasium | potassuim
+Calcium | calcum | calcim
+Cast iron | castiron | cast-iron
+Stainless steel | stainless | stainles steel | stainlesssteel
+Pewter | pewtor
+Sterling silver | sterling | sterling sliver
+White gold | whitegold
+Rose gold | pink gold | rosegold | red gold
+Palladium | paladium | palladim
+Solder | soldier | soldering metal
+Wrought iron | wroughtiron | wrought-iron
+Pig iron | pigiron
+Manganese | manganes | magnese
+Cadmium | cadmum
+Radium | radum
+--- 3
+Beryllium | berylium | berilium
+Gallium | galium
+Germanium | germainum | germanum
+Zirconium | zirconum | zircanium
+Barium | barum
+Strontium | stronium | strontum
+Rubidium | rubidum
+Caesium | cesium | ceasium
+Francium | fransium
+Thorium | thorum
+Bismuth | bismouth | bismuth metal
+Antimony | antimoney | antimonie
+Vanadium | vandium | vanadum
+Molybdenum | molybdenium | molybdinum | moly
+Iridium | iridum | irridium
+Osmium | osmum
+Rhodium | rodium | rhodum
+Ruthenium | rutheneum | ruthenum
+Cadmium
+Indium | indum
+Thallium | thalium | thalleum
+Niobium | columbium | niobum
+Tantalum | tantalium | tantulum
+Hafnium | hafnum
+Rhenium | rhenum
+Scandium | scandum
+Yttrium | ytrium | yttrum
+Lanthanum | lanthanium | lanthnum
+Cerium | ceriom | serium
+Neodymium | neodimium | neodynium | neodymum
+Samarium | samarum
+Europium | europum
+Gadolinium | gadolinum | gadolineum
+Terbium | terbum
+Dysprosium | dysprosum | disprosium
+Holmium | holmum
+Erbium | erbum
+Thulium | thulum
+Ytterbium | yterbium | ytterbum
+Lutetium | lutecium | lutetum
+Praseodymium | praseodimium | praseodymum
+Promethium | prometheum | promethum
+Actinium | actinum
+Protactinium | protactinum
+Neptunium | neptunum
+Americium | americum
+Curium | curum
+Berkelium | berkelum
+Californium | californum
+Polonium | polonum | polonuim
+Duralumin | dural | duraluminum
+Brass
+Electrum | electrium
+Nitinol | nitenol
+Invar | invar steel
+Nichrome | nichrom | nicrome
+Babbitt | babbit | babbitt metal
+Gunmetal | gun metal | red brass
+Damascus steel | damask steel
+Galvanized steel | galvanised steel | galvanized | galvanised | galvanized iron
+Carbon steel | carbon-steel | mild steel
+Tool steel | toolsteel
+High-speed steel | hss | high speed steel
+Inconel | incanel
+Monel | monell
+Alnico | alnico magnet
+Constantan | constantin
+Zamak | zamac | mazak
+Bell metal | bellmetal
+Nordic gold | nordic
+Billon | bilon
+Orichalcum | orichalcum | oreichalcum
+Mithril | mithral
+Adamantium | adamantine
+Vibranium | vibranum
+Pot metal | potmetal
+Type metal | printer's metal
+Britannia metal | britannia | britannia silver
+Cupronickel | cupro nickel | cupro-nickel | copper nickel | cupro-nickel
+Nickel silver | german silver | alpacca | alpaca
+Phosphor bronze | phosphor-bronze
+Aluminium bronze | aluminum bronze
+Beryllium copper | becu | beryllium-copper
+Bronze alloy
+Cobalt chrome | cobalt chromium | vitallium | cobalt-chrome
+Spring steel | springsteel
+Maraging steel | maraging
+Weathering steel | corten | cor-ten | corten steel
+Surgical steel | surgical stainless | 316l | 316 steel
+Wootz steel | wootz | ulfberht
+Hastelloy | hastalloy
+Stellite | stelite
+Waspaloy | waspalloy
+Rene 41 | rene 41
+Magnox | magnox
+Zircaloy | zircalloy
+Ferrosilicon | ferro silicon
+Ferrochrome | ferro chrome
+Spiegeleisen | spiegel iron | spiegel
+Bessemer steel | bessemer
+Blister steel
+Shear steel | shear
+Crucible steel
+Meteoric iron | meteorite iron | star metal
+Chromoly | chrome moly | chromoly steel | cro-mo | cromoly | chrome-moly
+Titanium alloy | ti-6al-4v | grade 5 titanium
+Silver | fine silver | argentium | argentium silver
+Coin silver | coin sliver
+Gold leaf | gold foil
+Yellow gold
+Green gold | green gold
+Black gold | black gold
+Pinchbeck | pinchbeck
+Tumbaga | tumbaga
+Shakudo | shakudo
+Shibuichi | shibuichi
+Mokume-gane | mokume gane | mokume
+Corinthian bronze | corinthian brass
+Ormolu | ormolu
+Tombac | tombak | tombac
+Prince's metal | princes metal
+Muntz metal | muntz
+Gilding metal | gilding
+Naval brass | admiralty brass
+Arsenical bronze | arsenical copper
+Speculum metal | speculum
+Fusible alloy | woods metal | rose's metal | field's metal
+Galinstan | galinstan
+Sodium-potassium | nak | nak alloy
+Amalgam | amalgam | dental amalgam
+Terne | terne | terneplate
+Tinplate | tin plate | tin-plate
+Wrought aluminium | 6061 | 6061 aluminum | 7075 | 7075 aluminum | 6061 aluminium
+Cast aluminium | cast aluminum
+Cast steel
+Forged steel | forged iron
+Malleable iron | malleable cast iron
+Ductile iron | nodular iron | spheroidal graphite iron
+Grey iron | gray iron | grey cast iron
+White cast iron
+Sponge iron | direct reduced iron | dri
+Bog iron | bog ore
+Reduced iron
+Stainless 304 | 304 stainless | 304 steel | 18/8 | 18/10
+--- 4
+Seaborgium | seaborgium
+Darmstadtium | darmstadtium
+Copernicium | copernicium
+Flerovium | flerovium
+Livermorium | livermorium
+Nihonium | nihonium
+Moscovium | moscovium
+Tennessine | tennessine
+Rutherfordium | rutherfordium
+Dubnium | dubnium
+Bohrium | bohrium
+Hassium | hassium
+Meitnerium | meitnerium
+Roentgenium | roentgenium | röntgenium
+Einsteinium | einsteinium
+Fermium | fermium
+Mendelevium | mendelevium
+Nobelium | nobelium
+Lawrencium | lawrencium
+Technetium | technetium
+Aluminum alloy | aluminium alloy
+Alloy steel | alloy
+Copper alloy
+Zinc alloy
+Lead-tin | lead tin
+Silver solder | brazing alloy | braze | brazing rod
+Pewter alloy
+Bearing metal | bearing alloy
+White metal | white metal
+Anti-friction metal
+Chilled iron
+Tungsten carbide | carbide | tungsten-carbide
+Cemented carbide | cermet
+Stellite
+Titanium nitride | tin coating
+Zinc plate | zinc plating
+Chrome plate | chrome plating | chromium plating
+Nickel plate | nickel plating
+Brushed steel | brushed nickel | brushed aluminium
+Depleted uranium | du
+Superalloy | super alloy | superalloys
+Metallic glass | amorphous metal
+Shape memory alloy | sma | memory metal
+Mu-metal | mu metal | mumetal | permalloy
+Kovar | kovar
+Elinvar | elinvar
+Platinoid | platinoid
+Manganin | manganin
+Nickel-iron | nife
+Ni-Cd | nicad | nickel cadmium
+Samarium-cobalt | smco | samarium cobalt
+Neodymium magnet | ndfeb | neodymium iron boron | neo magnet
+Ticonium | ticonium
+Chromel | chromel
+Alumel | alumel
+Dowmetal | elektron | elektron alloy
+Zinc-aluminium | zinc aluminium
+Lead-free solder | lead free solder
+Roman gold | roman gold
+Hepatizon | hepatizon
+Shakudō
+Colored gold | coloured gold
+Tri-color gold | tri-colour gold | tricolor gold
+Platinum-iridium | platinum iridium | pt-ir
+Palladium white gold
+Vermeil | vermeil | gold vermeil | silver gilt
+Gold plate | gold plated | gold plating | rolled gold
+Silver plate | silver plated | epns | plated silver
+Oroide | oroide
+Similor | similor
+Paktong
+Tutenag | tutenag | tutenag
+Argentan | argentan
+Chinese silver | chinese silver
+Cupal
+Bidri | bidri
+Panchaloha | panchaloha | panchaloga | five metals
+Bell bronze
+Gong bronze | gong metal
+Wrought copper
+Blister copper
+Oxygen-free copper | ofhc | oxygen free copper
+Electrolytic copper | etp copper
+Copper-tungsten | copper tungsten
+Tungsten steel | tungsten alloy
+Heavy alloy | tungsten heavy alloy | whα
+Nickel-titanium
+Vanadium steel
+Manganese steel | hadfield steel | hadfield
+Silicon steel | electrical steel | transformer steel
+Damascene | damascene

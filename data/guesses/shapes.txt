@@ -1,0 +1,59 @@
+circle
+square
+triangle
+rectangle
+oval
+star
+heart
+diamond
+pentagon
+hexagon
+octagon
+heptagon
+nonagon
+decagon
+rhombus
+rhombous
+trapezoid
+trapazoid
+trapezium
+parallelogram
+paralelogram
+kite
+crescent
+semicircle
+ellipse
+sphere
+cube
+cone
+cylinder
+cilinder
+pyramid
+prism
+cuboid
+arrow
+cross
+spiral
+quadrilateral
+polygon
+pentegon
+octogon
+hexagone
+dodecagon
+icosahedron
+tetrahedron
+dodecahedron
+octahedron
+torus
+donut
+hemisphere
+isosceles triangle
+scalene
+equilateral triangle
+right angle triangle
+teardrop
+lightning bolt
+shamrock
+infinity
+squircle
+mobius strip

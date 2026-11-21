@@ -1,0 +1,251 @@
+--- 2
+Circle | circles | circel | cirlce
+Square | squares | squar
+Triangle | triangles | trianlge | triangel | triange
+Rectangle | rectangles | rectangel | rectange | rectagle
+Star | stars | five-pointed star | 5 pointed star
+Heart | hearts
+Oval | ovals | ovel
+Diamond | diamonds | diamon
+Pentagon | pentagons | pentegon | pentagone | pentigon | pentagen | pentagan | pentogon
+Hexagon | hexagons | hexagone | hexigon | hexagan | hexogon | hexagen | hexgon
+Octagon | octagons | octogon | octagone | octigon | octagen | octegon | octogan
+Heptagon | heptagons | septagon | heptogon | heptagone | hepatgon | heptegon
+Nonagon | nonagons | enneagon | nonogon | nonagone | nonegon
+Decagon | decagons | decogon | decagone | dekagon
+Rhombus | rhombuses | rhombi | rhombous | rombus | rhombas | rhomus | rhumbus
+Trapezoid | trapezium | trapezoids | trapazoid | trapezoyd | trapazium | trapeziod | trapazoyd | trapeze | trapizoid | trapizium | trapesoid
+Parallelogram | parallelograms | paralelogram | parallelagram | parralelogram | paralellogram | paralelagram | parrallelogram | parallelogramm | parelelogram
+Kite | kites | kite shape
+Crescent | crescents | crescent moon | cresent | cressent
+Semicircle | semi-circle | semi circle | half circle | halfcircle | semicirle
+Ellipse | ellipses | elipse | ellipce | eliptical
+Sphere | spheres | spear | sfere | ball | globe
+Cube | cubes | cubic | cubed | dice
+Cone | cones | cone shape | coan
+Cylinder | cylinders | cilinder | cylender | cylindar | cylindre | cylinder shape | cilynder | silinder | cylindr
+Pyramid | pyramids | piramid | pyrimid | pyramide | pyramyd | pyrmid
+Prism | prisms | primsm | prizm | prysm
+Cuboid | cuboids | rectangular prism | cuboid shape | cubiod | rectangular box | box | cuboide
+Arrow | arrows | arrowhead | arow
+Cross | crosses | plus | plus sign | crucifix | crss
+Spiral | spirals | spirale | spriral | spyral | swirl
+Quadrilateral | quadrilaterals | quadrilatral | quadralateral | quadrelateral | quadrilatrial | four-sided | quad
+Polygon | polygons | poligon | polygan | polygone | polygonn
+Right triangle | right-angled triangle | right angle triangle | right angled triangle | right-angle triangle | right triangle shape | rightangled triangle | right triangel | rt triangle | right trianlge
+Equilateral triangle | equilateral | equilateral triangles | equalateral triangle | equilatrial triangle | equalateral | equilatral triangle
+Isosceles triangle | isosceles | isoceles triangle | isoceles | isosoles triangle | issoceles triangle | isosceles triangles | issosceles | isocelese
+Scalene triangle | scalene | scaline triangle | scaleen triangle | scalene triangles | scalen triangle
+Octahedron | octahedrons | octahedra | octahedral | octohedron | octahedran | octahedren | octahedrom
+Tetrahedron | tetrahedra | tetrahedrons | tetrahedral | tetrahedran | tetrahedren | tetrahydron | tetrahedral shape | tetrahydrin
+Dodecahedron | dodecahedra | dodecahedrons | dodecahedral | dodecahedran | dodecahedren | dodecohedron | dodecahydron | dodechedron
+Icosahedron | icosahedra | icosahedrons | icosahedral | icosohedron | icosahedran | icosahedren | isosahedron | icosahydron | icosohedron
+Torus | donut | tori | torus shape | doughnut | donut shape | torous | toroid | bagel | donuts | doughnuts
+Hemisphere | hemispheres | half sphere | hemispere | hemishpere | hemi sphere | hemisfere | half-sphere | hemispheric
+Ring | rings | annulus ring | loop
+Line | lines | straight line | liner | line segment
+Point | points | dot | dots
+Zigzag | zig zag | zig-zag | zigzags | zagzig | zig zags | zig zag line | ziggurat zigzag
+Wave | waves | wavy line | wavy | squiggle | squiggly line | squiggly
+Pentagram | pentagrams | pentacle | pentagram star | pentogram | pentegram | pentagramm
+Hexagram | star of david | hexagrams | hexigram | hexagramm | hexagram star | star of david shape | david star | magen david
+Lightning bolt | lightning | bolt | lightning bolts | lightening bolt | lightening | flash | thunderbolt
+Teardrop | tear drop | teardrops | tear-drop | water drop | droplet | raindrop | rain drop | tear
+Shamrock | shamrocks | clover | four-leaf clover | four leaf clover | three-leaf clover | trefoil clover | clover leaf | cloverleaf
+Lemniscate | infinity symbol | infinity sign | figure eight | figure 8 | figure-eight | sideways eight | sideways 8 | infinty | inifinity
+Moon | moons | half moon | full moon | new moon | quarter moon
+Cloud | clouds | cloud shape
+--- 3
+Hendecagon | undecagon | hendecagons | 11-gon | eleven-gon | hendecagone | endecagon | 11 sided shape | hendekagon
+Dodecagon | dodecagons | 12-gon | twelve-gon | dodecagone | dodekagon | dodecogon | twelve sided shape | 12 sided shape
+Tridecagon | triskaidecagon | 13-gon | thirteen-gon | tridecagons | tridekagon
+Tetradecagon | 14-gon | tetrakaidecagon | fourteen-gon
+Pentadecagon | 15-gon | pentakaidecagon | fifteen-gon
+Hexadecagon | 16-gon | hexakaidecagon | sixteen-gon
+Heptadecagon | 17-gon | heptakaidecagon
+Octadecagon | 18-gon | octakaidecagon
+Enneadecagon | 19-gon | nonadecagon
+Icosagon | 20-gon | icosagons | icosogon | isosagon | twenty-gon
+Chiliagon | 1000-gon | chiliagons | chiliogon
+Myriagon | 10000-gon
+Megagon | 1000000-gon
+Apeirogon | apeirogons | infinite-gon
+Octagram | octagrams | eight-pointed star | 8 pointed star | octogram
+Heptagram | heptagrams | seven-pointed star | septagram | 7 pointed star | heptogram
+Enneagram | enneagrams | nine-pointed star | 9 pointed star
+Decagram | decagrams | ten-pointed star
+Dodecagram | dodecagrams | twelve-pointed star
+Trefoil | trefoils | trefoil knot | three-leaf shape
+Quatrefoil | quatrefoils | quatrafoil | quatrefoile | four-leaf shape
+Cinquefoil | cinquefoils | five-leaf shape
+Lune | lunes | lunule
+Annulus | annuli | annulus shape | flat ring
+Sector | sectors | pie slice | circular sector | pie wedge | wedge
+Segment | segments | circular segment
+Chord | chords
+Arc | arcs | arch | arcus
+Lens | lenses | lens shape | lenticular
+Vesica piscis | vesica | mandorla | almond shape | vesica pisces | vesica picis
+Squircle | squircles | squarcle | squirkle
+Reuleaux triangle | reuleaux | reuleaux triangles | rouleaux triangle | constant width triangle
+Deltoid | deltoids | deltoid curve | tricuspoid | deltoid shape | deltoid kite
+Astroid | astroids | asteroid curve | astroid curve
+Cardioid | cardioids | cardiod | cardioid curve | cardiod curve | heart curve
+Parabola | parabolas | parabolic | parabolla | paraboloa | paraboler | parabolae
+Hyperbola | hyperbolas | hyperbolic | hyperbolae | hyperbolla | hyberbola
+Helix | helices | helixes | helical | double helix | corkscrew | helix shape | heleix
+Möbius strip | mobius strip | mobius | mobius band | möbius band | moebius strip | mobius loop | moebius band | möbius loop | mobias strip | mobeus strip
+Klein bottle | klein bottles | kleins bottle | klein-bottle | klien bottle | klein
+Frustum | frustums | frusta | frustrum | frustem | truncated cone | truncated pyramid | frustun
+Ellipsoid | ellipsoids | ellipsoidal | elipsoid | oval 3d | ellipsoyd
+Paraboloid | paraboloids | paraboloidal | paraboloyd | paraboliod
+Hyperboloid | hyperboloids | hyperboloidal | hyperboliod
+Spheroid | spheroids | oblate spheroid | prolate spheroid | oblate | prolate | spheriod
+Rhombohedron | rhombohedra | rhombohedrons | rhombohedral | rhomboidal | rombohedron | rhombohedran
+Parallelepiped | parallelepipeds | parallelepipedon | parallelopiped | parallelipiped | paralelepiped | parallelipipedon | parallelopipedon
+Polyhedron | polyhedra | polyhedrons | polyhedral | polihedron | polyhedren | polyhedran | polyhydron | polihedra
+Platonic solid | platonic solids | platonic | platonic polyhedron | platonic shapes | plantonic solid
+Tesseract | tesseracts | hypercube | 4d cube | tessaract | tesseract shape | tessarect | 8-cell | four dimensional cube | 4-cube
+Fractal | fractals | fractile | fractul | fraktal | fractal shape
+Koch snowflake | koch curve | koch | snowflake curve | koch snow flake | koch snowflakes | von koch snowflake
+Sierpinski triangle | sierpinski gasket | sierpinski | sierpinski carpet | sierpinski sieve | sierpinsky triangle | serpinski triangle | sierpinksi triangle
+Golden spiral | golden ratio spiral | logarithmic spiral | spiral of fibonacci | golden rectangle | phi spiral | fibonacci | nautilus spiral
+--- 4
+Cuboctahedron | cuboctahedra
+Rhombic dodecahedron
+Truncated icosahedron | buckyball | soccer ball shape
+Geodesic dome
+Triangular prism | triangle prism
+Hexagonal prism
+Pentagonal prism
+Square pyramid | square based pyramid
+Triangular pyramid
+Pentagonal pyramid
+Hexagonal pyramid
+Bipyramid | dipyramid
+Antiprism
+Heart shape | heart-shaped
+Chevron
+Shield
+Lozenge
+Dome
+Snowflake
+Dart | concave kite
+Acute triangle
+Obtuse triangle
+Cycloid
+Catenary
+Archimedean spiral
+Fibonacci spiral
+Fleur-de-lis | fleur de lis
+Yin yang | yin-yang
+Hourglass
+Spade
+Egg | ovoid
+Bean | kidney shape
+Stadium | obround | capsule shape
+Gear | cog
+Dumbbell shape
+Sine wave | sinusoid
+Square wave
+Sawtooth wave
+Spirograph
+Mandelbrot set | mandelbrot
+Julia set
+Menger sponge
+Gabriel's horn
+Pseudosphere
+Oloid
+Sphericon
+Superellipse
+Hypersphere | 3-sphere
+Pentachoron | 5-cell
+Simplex
+Polytope
+Tangram
+Tessellation | tiling | tesselation
+Hexagonal tiling | honeycomb
+Penrose tiling
+Voronoi diagram | voronoi
+Menger cube
+Cantor set
+Dragon curve
+Hilbert curve
+Barnsley fern
+Lorenz attractor
+Limacon | limaçon
+Cassini oval
+Nephroid
+Witch of Agnesi
+Folium of Descartes | folium
+Conchoid
+Cissoid
+Clothoid | euler spiral | cornu spiral
+Tractrix
+Hypotrochoid
+Epicycloid
+Hypocycloid
+Epitrochoid
+Rose curve | rhodonea
+Lissajous curve | lissajous
+Arbelos
+Borromean rings
+Trinity knot | triquetra
+Triskelion | triskele
+Speech bubble
+Check mark | checkmark | tick
+Banana shape
+Barrel
+Bicone
+Steinmetz solid | bicylinder
+Helicoid
+Hyperbolic paraboloid | saddle shape | pringle shape
+Torus knot
+Genus | double torus
+Boy's surface
+Real projective plane
+Cross-cap | crosscap
+Obelisk
+Ziggurat
+Step pyramid
+Trapezohedron
+Archimedean solid
+Johnson solid
+Catalan solid
+Kepler-Poinsot solid
+Snub cube
+Rhombicuboctahedron
+Icosidodecahedron
+Truncated octahedron
+Truncated cube
+Truncated tetrahedron
+Truncated dodecahedron
+Stellated octahedron | stella octangula
+Great dodecahedron
+Small stellated dodecahedron
+Disdyakis dodecahedron
+Gyroelongated square bipyramid
+--- 5
+Hendecagram
+Gnomon
+Pentomino
+Tetromino
+Polyomino
+Reuleaux polygon | reuleaux shape
+Mobius ring
+Bipyramid shape
+Spherical cap
+Spherical wedge
+Rhomboid
+Oblong
+Sphericon solid
+Disdyakis triacontahedron
+Rhombic triacontahedron
+Pentakis dodecahedron
+Triakis icosahedron
+Tetrakis hexahedron
+Deltoidal icositetrahedron
+Gyrobifastigium
+Elongated pyramid
+Pappus chain
+Steiner chain

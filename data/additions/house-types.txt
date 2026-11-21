@@ -1,0 +1,364 @@
+--- 2
+Apartment | flat | apartments | apt | appartment | apartement
+House | houses | home | family home
+Bungalow | bungalo | bungelow
+Cottage | cottages | cotage
+Mansion | mansions | manson
+Skyscraper | skyscrapers | sky scraper | skyscaper
+Cabin | log cabin | cabins
+Condo | condominium | condos | condomium
+Townhouse | townhome | town house | townhouses | town home
+Terraced house | row house | terrace house | terraced | terrace | row home | terraced home
+Semi-detached | semi detached | semi | semi-detached house | semidetached | twin home | twin house
+Detached house | detached | detached home
+Manufactured home | trailer home | static caravan | trailer park home
+Motorhome | camper | rv | campervan | camper van | recreational vehicle
+Penthouse | pent house
+Studio | studio apartment | studio flat | efficiency
+Duplex | duplex house
+Villa | villas
+Castle | castles | casle
+Palace | palaces
+Igloo | igloos
+Tent | tents
+Hut | huts
+Teepee | tipi | tepee | teepees | tee pee
+Yurt | yurts | gher
+Treehouse | tree house | treehouses
+Houseboat | house boat | houseboats
+Tiny house | tiny home | tiny houses
+Ranch | ranch home | rancher
+Chalet | chalets | shalay
+Hotel | hotels | hotle
+Motel | motels
+Hostel | hostels
+Hospital | hospitals | hopsital
+School | schools
+Church | churches
+Mosque | mosques | masjid
+Temple | temples
+Synagogue | synagogues | synagog | shul
+Cathedral | cathedrals | catheral
+Museum | museums
+Library | libraries | libary | librarey
+Stadium | stadiums | stadia
+Airport | airports | airport terminal
+Lighthouse | lighthouses | light house
+Windmill | windmills | wind mill
+Fort | fortress | forts | fortification
+Prison | jail | prisons | penitentiary
+Bunker | bunkers | bomb shelter
+Barn | barns
+Shed | sheds | garden shed
+Office | office building | offices | office block
+Factory | factories | mill | plant | manufacturing plant
+Warehouse | warehouses | ware house
+Chateau | château | chateaux
+Skyscraper
+Tower block | high-rise | high rise | highrise | apartment block | block of flats
+Garage | garages | carport
+Shack | shacks | shanty | hovel
+Wigwam | wigwams
+Lodge | lodges | ski lodge | hunting lodge
+Farmhouse | farm house | farm | homestead
+Manor | manor house | manors
+Bed and breakfast | b&b | bnb | b and b | guest house | guesthouse
+Dormitory | dorm | dorms | halls of residence
+Greenhouse | green house | glasshouse | hothouse
+Stable | stables | stall
+Mud hut | mud house | cob house
+--- 3
+Palazzo | palace italian
+Hacienda | haciendas
+Dacha | dachas
+Riad | riads
+Trullo | trulli
+Hobbit house | hobbit hole | hobbit home
+Geodesic dome | dome | dome home | dome house
+A-frame | a frame | a-frame house | aframe
+Cape Cod | cape cod house | cape
+Colonial | colonial house | colonial home
+Victorian | victorian house | victorian home
+Georgian | georgian house | georgian home
+Tudor | tudor house | tudor home
+Craftsman | craftsman house | craftsman bungalow
+Split-level | split level | split-level house | split level house
+Brownstone | brownstones | brown stone
+Shotgun house | shotgun | shotgun home
+Saltbox | salt box | saltbox house
+Maisonette | maisonettes | maisonet
+Mews house | mews | mews cottage
+Coach house | carriage house | coachhouse
+Gatehouse | gate house | gate lodge
+Almshouse | alms house | almshouses
+Council house | council flat | council housing | public housing | housing project | projects | housing estate
+Tenement | tenements | tenement building | tenement house
+Bothy | bothies
+Abbey | abbeys
+Monastery | monasteries | priory | friary
+Convent | convents | nunnery
+Rectory | rectories | manse
+Granny flat | granny annexe | annex | in-law suite | mother-in-law suite
+Container home | shipping container home | container house | shipping container
+Stilt house | stilt home | palafitte | house on stilts
+Earthship | earth ship | earthships
+Pueblo | pueblos | pueblo house
+Hogan | hogans
+Sod house | soddy | sod home | turf house
+Longhouse | long house | longhouses
+Roundhouse | round house | roundhouses
+Croft | crofts
+Country house | country home | country estate
+Stately home | stately homes | stately house
+Estate | estates | country seat
+Plantation house | plantation | plantation home
+Schloss | schlösser | schlosser
+Quinzhee | snow shelter | snow house
+Pod | pod home | capsule hotel | pod hotel
+Minka | minkas
+Machiya | machiyas | townhouse japanese
+Hanok | hanoks
+Siheyuan | courtyard house
+Izba | izbas
+Adobe house | adobe home
+Pagoda | pagodas
+Gazebo | gazebo | gazebos
+Summerhouse | summer house | summerhouses
+Lean-to | lean to
+Log house
+Mission house | spanish mission | mission
+Prairie house | prairie style | prairie school
+Mid-century modern | mid century modern | midcentury | mid-century
+Ranch style | ranch-style
+Cottage core
+Bungalow court | bungalow court
+Fisherman's cottage | fishermans cottage | fisherman's house
+Gingerbread house | gingerbread
+Doll house | dollhouse | doll's house
+Cave dwelling | cave house | cave home | troglodyte | troglodyte dwelling | cave
+Tower
+Keep | keeps | donjon
+Citadel | citadels
+Chateau | château
+Hall | manor hall | great hall
+Folly | follies
+Retreat | retreats
+Ashram | ashrams
+Gurdwara | gurdwaras | sikh temple
+Pagoda
+Stupa | stupas
+Shrine | shrines | shinto shrine
+Basilica | basilicas
+Chapel
+Minaret | minarets
+Mausoleum | mausoleums | tomb
+Crypt | crypts
+Cemetery | graveyard | cemetary
+Theater | theatre | theatres | theaters | playhouse
+Cinema | cinemas | movie theater | movie theatre | picture house
+Opera house | opera | opera houses
+Concert hall | concert halls | auditorium
+Gym | gymnasium | gyms | fitness center | leisure centre
+Arena | coliseum | colosseum | amphitheatre | amphitheater
+Mall | shopping mall | shopping center | shopping centre | shopping centre
+Shop | store | shops | stores | boutique
+Supermarket | supermarkets | grocery store | grocery
+Restaurant | restaurants | diner | café | bistro
+Pub | pubs | bar | tavern
+Bank | banks | bank building
+Post office | post offices
+Town hall | city hall | town halls | council chambers
+Courthouse | court house | courthouses | court
+Police station | police stations | precinct | cop shop
+Fire station | fire stations | firehouse | fire house
+Embassy | embassies | consulate
+Parliament | parliament building | capitol | senate house | congress
+Train station | railway station | railroad station | station | depot | subway station
+Bus station | bus terminal | bus depot
+Power station | power plant | power stations | nuclear plant
+Observatory | observatories | planetarium
+Laboratory | lab | labs | laboratories
+University | universities | college | campus
+Kindergarten | nursery | preschool | daycare | day care
+Clinic | clinics | surgery | health centre | doctor's office
+Nursing home | care home | retirement home | old folks home | assisted living | rest home
+Orphanage | orphanages | children's home
+Bakery | bakeries | butcher | butchers
+Brewery | breweries | distillery | winery | vineyard
+Silo | silos | grain silo | grain elevator
+Granary | granaries | grain store
+Dovecote | dovecot | pigeon loft | pigeon house
+Hen house | chicken coop | henhouse | chicken house
+Pigsty | pig sty | pig pen
+Cowshed | cow shed | byre | milking parlour
+Oast house | oast | oasthouse
+Smokehouse | smoke house
+Outhouse | outhouse | privy | latrine | toilet block
+Boathouse | boat shed
+Hangar | hangars | aircraft hangar
+Dock | docks | dockyard | shipyard
+Pier | piers
+Cabana | cabanas | beach hut | beach cabin
+Lakehouse | lake house | lake cabin | lake home
+Cabin cruiser
+Bivouac | bivouac
+Hermitage
+Ger
+Palapa | palapas
+Chickee | chickees
+Wattle and daub | wattle hut
+Pit house | pithouse
+Wickiup | wickiups
+Lodge
+--- 4
+Skyscraper
+Chawl | chawls
+Favela | favelas | slum | shantytown | shanty town | barrio
+Kampung house | kampung | rumah adat
+Rondavel | rondavels | rondaval
+Kraal | kraals
+Banda | bandas
+Mudbrick house | mud brick | mudbrick
+Palafito | palafitos
+Casa | casa
+Cortijo | cortijos
+Masia | masias
+Finca | fincas
+Pazo | pazos
+Quinta | quintas
+Chalet | swiss chalet
+Stave church | stave | stavkirke
+Rorbu | rorbuer
+Sauna | saunas | sauna house
+Cottage garden
+Gîte | gite | gites
+Mas | mas provencal
+Bastide | bastides
+Pied-à-terre | pied a terre | pied-a-terre
+Hôtel particulier | hotel particulier
+Mansard | mansard house | mansard roof
+Haveli | havelis
+Bangla | bangla | banglo
+Chhatri | chhatris
+Palace hotel
+Kasbah | kasbahs | casbah
+Ksar | ksour | ksar
+Tulou | tulou | hakka roundhouse
+Diaolou | diaolou
+Yaodong | yaodong | cave dwelling chinese
+Hutong | hutongs
+Gassho-zukuri | gassho zukuri | gassho-zukuri house
+Ryokan | ryokans
+Tatami house
+Kominka | kominka
+Bale | bale | bale hut
+Honai | honai
+Tongkonan | tongkonan
+Rumah gadang | rumah gadang
+Maloca | maloca
+Tukul | tukul
+Hogan
+Tupik | tupik | tupiq
+Barabara | barabara
+Chum | chum
+Balagan | balagan
+Iglu
+Wickiup
+Ramada | ramada
+Jacal | jacal
+Casita
+Palace | royal palace
+Alcázar | alcazar | alcazars
+Alhambra
+Kremlin | kremlin
+Bailey | motte and bailey | motte-and-bailey
+Martello tower | martello | martello towers
+Peel tower | pele tower | pele
+Broch | brochs
+Crannog | crannogs
+Fogou | fogou
+Dun | dun
+Hill fort | hillfort | hill forts
+Pillbox | pill box | pillboxes
+Blockhouse | block house
+Redoubt | redoubts
+Bastion | bastion
+Barracks | barrack | army barracks
+Armoury | armory | arsenal
+Garrison | garrisons
+Gaol | gaol
+Dungeon | dungeons | oubliette
+Bridewell | bridewell
+Workhouse | workhouses | poorhouse | poor house
+Asylum | asylums | madhouse | mental hospital
+Sanatorium | sanitarium | sanatoria
+Leper colony | leprosarium
+Hospice | hospices
+Spa | spas | bathhouse | bath house | baths | hammam | thermae
+Folly tower
+Belvedere | belvederes
+Orangery | orangeries | conservatory | conservatories
+Pergola | pergolas
+Summer palace
+Pavilion
+Tea house | teahouse | tea houses
+Kiosk | kiosks | booth
+Stand | grandstand
+Skybox
+Beach house
+Nissen hut | nissen | quonset hut | quonset
+Portakabin | portacabin | porta cabin | portable classroom | portable
+Prefab | prefab house | prefabricated house | prefab home | prefabricated home | kit house
+Modular home | modular house | modular
+Bivvy
+Lean-to shelter
+Hide | bird hide | hides | blind | duck blind
+Crofthouse | croft house | blackhouse | black house | whitehouse
+Cruck house | cruck | cruck cottage
+Wealden hall house | hall house | hallhouse | hall house | wealden house
+Timber-framed house | timber frame | half-timbered | half timbered | timber framed | half-timbered house
+Thatched cottage | thatched | thatched house | thatched roof cottage
+Dutch colonial | dutch colonial house
+Spanish colonial | spanish colonial house
+Federal style | federal | federal house
+Italianate | italianate house
+Second Empire | second empire house | second empire
+Queen Anne | queen anne house | queen anne style
+Gothic Revival | gothic revival house | carpenter gothic
+Art Deco | art deco building | art deco house
+Brutalist | brutalist building | brutalism
+Postmodern
+Bauhaus | bauhaus building
+Foursquare | american foursquare | four square
+Bungalow
+Dogtrot house | dogtrot | dog trot
+Creole cottage | creole house | creole
+Cracker house | cracker | florida cracker
+Camelback house | camelback
+Raised ranch | raised ranch
+Cottage
+Walk-up | walk up | walkup | walk-up apartment
+Garden apartment
+Loft | loft apartment | lofts | loft conversion
+Co-op | co-op apartment | housing cooperative | cooperative
+Bedsit
+Flatshare
+Tower house | tower houses
+Cohousing | co-housing
+Commune | communes | kibbutz
+Boarding house | boardinghouse | rooming house | lodging house | boarding home
+Single room occupancy | sro
+Halfway house
+Shelter | homeless shelter | shelters
+Refuge | refuge hut | mountain hut | alpine hut
+Bivouac hut
+Roadhouse | road house
+Truck stop
+Ski chalet
+Cottage orné | cottage orne
+Folly house
+Hermit's cell | hermit cell
+Anchorite cell | anchorhold
+Hobbit
+Burrow | burrows | den | warren
+Nest
