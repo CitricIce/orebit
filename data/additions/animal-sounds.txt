@@ -75,7 +75,7 @@ Nicker | nickering | nickers | nickered
 Whicker | whickering | whickers | whickered
 Snicker | snickering | snickers | snickered
 Peep | peeping | peeps | peeped | peep peep
---- 2
+--- 4
 Meep | meeps | meeping | meep meep
 Eek eek | eek-eek | ee ee
 Buzz buzz | bzzzz | bzz bzz | buzzbuzz

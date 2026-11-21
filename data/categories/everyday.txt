@@ -1339,66 +1339,55 @@ Snort
 Grunt
 Squeal
 Bray | hee-haw
-Bellow
-Low
-Yelp
-Whimper
-Whine
-Yip
-Chatter
+Bellow @3
+Low @4
+Yelp @3
+Whimper @3
+Whine @3
+Yip @3
+Chatter @3
 Screech
 Squawk
-Cackle
-Gaggle
-Tweet tweet
-Cheep
-Warble
-Whistle
-Hum
-Chirrup
-Bow-wow | bow wow
-Arf
-Ruff
-Woof woof
-Mew
+Cackle @3
+Tweet tweet @4
+Cheep @3
+Warble @4
+Whistle @4
+Hum @4
+Chirrup @4
+Bow-wow | bow wow @3
+Arf @3
+Ruff @3
+Woof woof @4
+Mew @3
 Hiss
-Rattle
-Click
-Snarl
-Yowl
-Caterwaul
-Bugle
+Rattle @4
+Click @4
+Snarl @3
+Yowl @4
+Caterwaul @4
+Bugle @4
 --- 3
-Bell
 Belling
 Rut
 Troat
 Grumble
-Gibber
 Gobble gobble
 Quack quack
 Neigh neigh
 Nicker
 Whicker
 Snicker
-Blare
-Clack
-Gabble
-Babble
 Pipe
 Peep
 Trill
 Twitter
 Drum
 Boom
-Call
-Song
-Cry
 Wail
 Shriek
 Scream
 Bellow
-Moan
 Groan
 Huff
 Chuff
@@ -1411,7 +1400,6 @@ Cuckoo
 Tu-whit tu-whoo | twit twoo
 Kookaburra laugh
 Laugh
-Giggle
 
 === places-in-town
 title: Places in a town

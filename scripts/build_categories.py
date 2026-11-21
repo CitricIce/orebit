@@ -15,6 +15,7 @@ Needs:     pip install wordfreq
 from __future__ import annotations
 
 import json
+import math
 import re
 import sys
 import unicodedata
@@ -40,9 +41,12 @@ STARCORES: dict[str, str] = (
     else {}
 )
 
-# Share of answers in each tier, most familiar first. Must sum to 1.
-# Share of the non-Stone answers in Iron, Cobalt, Gold and Crystal.
-DEEPER_SHARES = [0.15, 0.20, 0.25, 0.40]
+# Share of the non-Stone answers in Iron, Cobalt and Gold (Crystal gets the
+# rest), capped so a huge list doesn't push its middle tiers into obscure
+# answers. With the caps every category's Gold holds about the same kind of
+# answer whether the list has 100 entries or 1,500.
+DEEPER_SHARES = [0.15, 0.20, 0.25]
+DEEPER_CAPS = [20, 30, 50]
 STARCORE_TIER = 6
 PHRASE_PENALTY = 0.6
 STOPWORDS = {"the", "of", "and", "de", "la", "di", "du", "le"}
@@ -162,6 +166,7 @@ BANNED = {
     "mexican-foods": re.compile(r"^(wrap|calavera|sugar skull)$", re.I),
     "american-foods": re.compile(r"^(mars|extra)$", re.I),
     "composers": re.compile(r"^(elton john)$", re.I),
+    "car-brands": re.compile(r"^(stellantis\b.*|groupe psa|elbo|.*\bgroup)$", re.I),
     "sports": re.compile(r"^(battle rap|e-?sports? video game)$", re.I),
     "video-games": re.compile(r"\b(dlc|expansion pack|soundtrack|demo|beta|season pass|bundle|collection)\b", re.I),
     "fruits": re.compile(
@@ -175,6 +180,14 @@ BANNED = {
         r"^(bowed string instrument|violin family|guitars for type|soil|blackbird|kent|jew'?s harp)$", re.I
     ),
 }
+# Company-name endings. A Wikidata item like "Suzuki Motor Corporation" folds
+# into the existing answer "Suzuki" instead of becoming its own answer.
+CORPORATE = re.compile(
+    r"\s+(motor (company|corporation|co\.?)|motors?( corporation| company| limited)?|group|limited|ltd\.?"
+    r"|corporation|company|automobiles?|north america|industrial|professional|sport|cars?|inc\.?)$",
+    re.I,
+)
+CORPORATE_CATS = {"car-brands", "tech-companies", "fashion-brands", "fast-food"}
 MAX_NEW_WORDS = 4
 MAX_NEW_CHARS = 32
 
@@ -259,7 +272,11 @@ def merge_wikidata(cid: str, title: str, rows: list[dict]) -> int:
         names = [name, *extra]
         keys = [key(n) for n in names]
         hit = next((owner[k] for k in keys if k in strong), None)
+        if hit is None and cid in CORPORATE_CATS:
+            base = key(CORPORATE.sub("", name))
+            hit = owner.get(base) if base in strong and base != key(name) else None
         if hit is not None:
+            rows[hit]["links"] = max(rows[hit].get("links", 0), item["links"])
             for n, k in zip(names, keys):
                 if usable(k):
                     rows[hit]["aliases"].append(n)
@@ -268,7 +285,7 @@ def merge_wikidata(cid: str, title: str, rows: list[dict]) -> int:
         if not usable(key(name)):
             continue
         idx = len(rows)
-        row = {"name": name, "aliases": [], "override": wikidata_tier(item["links"])}
+        row = {"name": name, "aliases": [], "override": wikidata_tier(item["links"]), "links": item["links"]}
         rows.append(row)
         owner[key(name)] = idx
         strong.add(key(name))
@@ -417,25 +434,31 @@ def build_category(raw: dict) -> dict:
 
     for row in rows:
         row["zipf"] = familiarity(row["name"], row["aliases"])
+        # How many Wikipedia languages cover it, on the same rough scale as
+        # word frequency (10 -> 2.6, 30 -> 3.7, 100 -> 5, 300 -> 6.2). Much better
+        # than word frequency for people and titles.
+        links = row.get("links", 0)
+        # Prefer it whenever Wikidata knows the answer: word frequency
+        # overrates brands that are also common words (Line, Orange, Sea).
+        row["pop"] = 2.5 * math.log10(links + 1) if links else row["zipf"]
 
     # Most familiar first. Ties go to the shorter name.
     # Stone is exactly the hand-written "--- 1" list: the answers almost
     # everyone thinks of. Everything else is ranked from most to least likely
     # (hand tier first, then how common the name is) and split by
-    # DEEPER_SHARES, so Crystal, the deep cuts, is always the biggest tier.
+    # DEEPER_SHARES and DEEPER_CAPS, so Crystal, the deep cuts, is always the biggest tier.
     stone = [r for r in rows if r["override"] == 1]
     rest = sorted(
         (r for r in rows if r["override"] != 1),
-        key=lambda r: (r["override"] or 3, -r["zipf"], len(r["name"])),
+        key=lambda r: (r["override"] or 3, -r["pop"], len(r["name"])),
     )
     tiers: dict[int, int] = {id(r): 1 for r in stone}
-    bounds, acc = [], 0.0
-    for share in DEEPER_SHARES:
-        acc += share
+    bounds, acc = [], 0
+    for share, cap in zip(DEEPER_SHARES, DEEPER_CAPS):
+        acc += min(cap, round(share * len(rest)))
         bounds.append(acc)
     for i, row in enumerate(rest):
-        pct = (i + 0.5) / len(rest)
-        tiers[id(row)] = next(t for t, b in enumerate(bounds, 2) if pct <= b + 1e-9)
+        tiers[id(row)] = next((t for t, b in enumerate(bounds, 2) if i < b), 5)
 
     starcore_name = STARCORES.get(cid) or raw["meta"].get("starcore")
     if starcore_name:
