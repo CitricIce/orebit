@@ -30,6 +30,16 @@ How answer lists are built:
   deep cut that at least a few players will actually find. Set it with the
   `starcore:` line.
 
+## Open-ended categories
+
+Categories with a huge real-world set (games, people, places, species,
+titles) need a Wikidata source in `scripts/fetch_wikidata.py` before they're
+expanded or added, with a cutoff loose enough to keep fair answers (roughly
+10-35 Wikipedia languages for big sets). Fetch it, spot-check for junk, add
+filters in `BANNED` in `scripts/build_categories.py` where needed, and only
+then fill nicknames, typos and gaps by hand. A monthly scheduled refresh
+re-fetches every source.
+
 ## Format
 
 ```
