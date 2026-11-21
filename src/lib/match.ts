@@ -82,6 +82,8 @@ export function editDistance(a: string, b: string, max: number): number {
 export interface Matchable {
   name: string;
   aliases: string[];
+  /** Rarity tier (1 = most common). Breaks typo ties toward the likelier answer. */
+  tier?: number;
 }
 
 export interface AnswerIndex<T extends Matchable> {
@@ -165,7 +167,12 @@ function closest<T extends Matchable>(index: AnswerIndex<T>, keys: string[]): T 
       }
     }
   }
-  return winners.size === 1 ? [...winners][0] : null;
+  if (winners.size <= 1) return winners.size ? [...winners][0] : null;
+  // A typo equally close to two answers most likely means the more common
+  // one ("mangp" is Mango, not an obscure fruit). Only a tie on that too is
+  // rejected.
+  const ranked = [...winners].sort((a, b) => (a.tier ?? 99) - (b.tier ?? 99));
+  return (ranked[0].tier ?? 99) < (ranked[1].tier ?? 99) ? ranked[0] : null;
 }
 
 

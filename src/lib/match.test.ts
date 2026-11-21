@@ -166,3 +166,16 @@ test("pinned categories only appear on their pinned date", async () => {
     }
   });
 });
+
+test("a typo tied between two answers goes to the more common one", () => {
+  const index = buildIndex([
+    { name: "Mango", aliases: [], tier: 1 },
+    { name: "Manga", aliases: [], tier: 5 },
+  ]);
+  assert.equal(findAnswer(index, "mangp")?.name, "Mango");
+  const even = buildIndex([
+    { name: "Mango", aliases: [], tier: 2 },
+    { name: "Manga", aliases: [], tier: 2 },
+  ]);
+  assert.equal(findAnswer(even, "mangp"), null);
+});
