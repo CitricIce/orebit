@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Orebit · the daily mission";
+export const alt = "Orebit · the daily mine";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
