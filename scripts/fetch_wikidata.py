@@ -126,7 +126,13 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "actors": [(people("Q33999") + " ?item wdt:P21 wd:Q6581097 .", 35)],
     "actresses": [(people("Q33999") + " ?item wdt:P21 wd:Q6581072 .", 30)],
     "bands": [(inst("Q215380"), 20), (inst("Q5741069"), 15)],
-    "us-cities": [(inst("Q1093829"), 40)],
+    # Only cities over 100,000 people (current population, preferred value).
+    "us-cities": [(
+        "VALUES ?kind { wd:Q1093829 wd:Q515 wd:Q1549591 wd:Q3301053 wd:Q15127012 wd:Q2264924 }"
+        " ?item wdt:P31/wdt:P279? ?kind ; wdt:P17 wd:Q30 ; wdt:P1082 ?pop . FILTER(?pop >= 100000)"
+        " FILTER NOT EXISTS { ?item p:P1082 ?ps . ?ps wikibase:rank wikibase:PreferredRank ; ps:P1082 ?p2 . FILTER(?p2 < 100000) }",
+        1,
+    )],
     "european-cities": [("?item wdt:P31 wd:Q1549591 ; wdt:P17/wdt:P30 wd:Q46 .", 20)],
     "asian-cities": [("?item wdt:P31 wd:Q1549591 ; wdt:P17/wdt:P30 wd:Q48 .", 20)],
     "islands": [(inst("Q23442"), 20)],
@@ -165,6 +171,12 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
         (inst("Q570116"), 40),  # tourist attractions
     ],
     "sports": [(inst("Q31629"), 25)],  # types of sport (not events)
+    "birds": [(taxa("Q5113"), 30)],
+    "boys-names": [(inst("Q12308941"), 15)],
+    "girls-names": [(inst("Q11879590"), 15)],
+    "tv-shows": [(inst("Q5398426"), 30), (inst("Q581714"), 25)],
+    "christmas-movies": [("?item wdt:P136 wd:Q28026639 .", 3)],
+    "christmas-songs": [("?item wdt:P136 wd:Q1443316 ; wdt:P31/wdt:P279* wd:Q7366 .", 3)],
 }
 
 QUERY = """

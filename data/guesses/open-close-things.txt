@@ -1,0 +1,31 @@
+door
+window
+book
+box
+eyes
+mouth
+drawer
+umbrella
+gate
+jar
+garage door
+car door
+trunk
+cabinet
+fridge
+oven
+dishwasher
+laptop
+flip phone
+suitcase
+zip
+curtains
+blinds
+lid
+bottle
+envelope
+folder
+notebook
+flower
+clam
+scissors

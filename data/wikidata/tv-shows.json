@@ -1,0 +1,3036 @@
+[
+{
+"name": "Game of Thrones",
+"aliases": [
+"GOT"
+],
+"links": 139
+},
+{
+"name": "Liv and Maddie",
+"aliases": [
+"Liv & Maddie",
+"Liv & Maddie: Cali Style",
+"Liv and Maddie: Cali Style"
+],
+"links": 118
+},
+{
+"name": "The Big Bang Theory",
+"aliases": [],
+"links": 113
+},
+{
+"name": "Friends",
+"aliases": [],
+"links": 110
+},
+{
+"name": "Squid Game",
+"aliases": [
+"Ojing-eo geim",
+"Ojingeo Geim",
+"Round Six"
+],
+"links": 110
+},
+{
+"name": "Teletubbies",
+"aliases": [
+"The Teletubbies"
+],
+"links": 107
+},
+{
+"name": "Breaking Bad",
+"aliases": [
+"BB",
+"BrBa"
+],
+"links": 102
+},
+{
+"name": "Doctor Who",
+"aliases": [
+"Dr Who",
+"Dr. Who"
+],
+"links": 100
+},
+{
+"name": "House M.D.",
+"aliases": [
+"Dr. House",
+"House"
+],
+"links": 92
+},
+{
+"name": "Sesame Street",
+"aliases": [],
+"links": 92
+},
+{
+"name": "Lost",
+"aliases": [
+"Lost - The Full Story",
+"Lost The Full Story",
+"Lost: The Full Story"
+],
+"links": 90
+},
+{
+"name": "The X-Files",
+"aliases": [
+"The X Files",
+"X Files",
+"X-Files"
+],
+"links": 90
+},
+{
+"name": "How I Met Your Mother",
+"aliases": [
+"HIMYM"
+],
+"links": 89
+},
+{
+"name": "Prison Break",
+"aliases": [],
+"links": 89
+},
+{
+"name": "The Walking Dead",
+"aliases": [],
+"links": 86
+},
+{
+"name": "The Office",
+"aliases": [
+"Flor cabrera"
+],
+"links": 84
+},
+{
+"name": "Mr. Bean",
+"aliases": [
+"Mister Bean",
+"Mr Bean"
+],
+"links": 83
+},
+{
+"name": "Xena: Warrior Princess",
+"aliases": [],
+"links": 82
+},
+{
+"name": "Stranger Things",
+"aliases": [
+"ST"
+],
+"links": 78
+},
+{
+"name": "Grey's Anatomy",
+"aliases": [],
+"links": 77
+},
+{
+"name": "Desperate Housewives",
+"aliases": [
+"Desperate Housewife"
+],
+"links": 76
+},
+{
+"name": "Sherlock",
+"aliases": [],
+"links": 76
+},
+{
+"name": "Supernatural",
+"aliases": [
+"SPN"
+],
+"links": 76
+},
+{
+"name": "Money Heist",
+"aliases": [
+"La casa de papel"
+],
+"links": 75
+},
+{
+"name": "The Sopranos",
+"aliases": [],
+"links": 75
+},
+{
+"name": "The Vampire Diaries",
+"aliases": [
+"Vampire Diaries"
+],
+"links": 72
+},
+{
+"name": "Hannah Montana",
+"aliases": [
+"Hannah Montana Forever"
+],
+"links": 69
+},
+{
+"name": "Heroes",
+"aliases": [],
+"links": 69
+},
+{
+"name": "Dexter",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Glee",
+"aliases": [],
+"links": 68
+},
+{
+"name": "Sex and the City",
+"aliases": [
+"SATC"
+],
+"links": 67
+},
+{
+"name": "Victorious",
+"aliases": [],
+"links": 66
+},
+{
+"name": "Black Mirror",
+"aliases": [],
+"links": 65
+},
+{
+"name": "Two and a Half Men",
+"aliases": [
+"TAAHM"
+],
+"links": 65
+},
+{
+"name": "American Horror Story",
+"aliases": [
+"AHS"
+],
+"links": 64
+},
+{
+"name": "Peaky Blinders",
+"aliases": [],
+"links": 64
+},
+{
+"name": "Criminal Minds",
+"aliases": [
+"Criminal Minds: Evolution"
+],
+"links": 63
+},
+{
+"name": "iCarly",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Modern Family",
+"aliases": [],
+"links": 63
+},
+{
+"name": "Smallville",
+"aliases": [],
+"links": 63
+},
+{
+"name": "The Last of Us",
+"aliases": [
+"Last of Us",
+"LoU",
+"TLoU"
+],
+"links": 62
+},
+{
+"name": "Charmed",
+"aliases": [],
+"links": 61
+},
+{
+"name": "CSI: Crime Scene Investigation",
+"aliases": [
+"CSI",
+"CSI: Las Vegas",
+"CSI: LV"
+],
+"links": 61
+},
+{
+"name": "Stargate SG-1",
+"aliases": [
+"SG-1",
+"SG1",
+"Stargate SG 1",
+"Stargate SG1"
+],
+"links": 61
+},
+{
+"name": "Twin Peaks",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Wednesday",
+"aliases": [],
+"links": 61
+},
+{
+"name": "Buffy the Vampire Slayer",
+"aliases": [
+"BtVS",
+"Btvs",
+"Buffy"
+],
+"links": 60
+},
+{
+"name": "House of the Dragon",
+"aliases": [],
+"links": 60
+},
+{
+"name": "NCIS",
+"aliases": [
+"Navy NCIS",
+"NCIS: Naval Criminal Investigative Service"
+],
+"links": 59
+},
+{
+"name": "The Mentalist",
+"aliases": [
+"Mentalist"
+],
+"links": 59
+},
+{
+"name": "Better Call Saul",
+"aliases": [
+"BCS"
+],
+"links": 58
+},
+{
+"name": "Crash Landing on You",
+"aliases": [
+"Crash Landing of Love",
+"Love's Crash Landing",
+"Sa-rang-eui bul-shi-chak"
+],
+"links": 58
+},
+{
+"name": "Gossip Girl",
+"aliases": [],
+"links": 58
+},
+{
+"name": "Saturday Night Live",
+"aliases": [
+"NBC's Saturday Night",
+"Saturday Night"
+],
+"links": 58
+},
+{
+"name": "Arrow",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Brooklyn Nine-Nine",
+"aliases": [
+"B99",
+"Brooklyn 9-9",
+"Brooklyn 99"
+],
+"links": 57
+},
+{
+"name": "ER",
+"aliases": [
+"Emergency Room"
+],
+"links": 57
+},
+{
+"name": "House of Cards",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Monk",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Seinfeld",
+"aliases": [],
+"links": 57
+},
+{
+"name": "Sex Education",
+"aliases": [],
+"links": 57
+},
+{
+"name": "The Crown",
+"aliases": [],
+"links": 57
+},
+{
+"name": "The Penthouse: War in Life",
+"aliases": [
+"Penthouse",
+"The Penthouse"
+],
+"links": 57
+},
+{
+"name": "True Beauty",
+"aliases": [
+"Yeosin gangnim",
+"Yeosin gangrim",
+"Yeosin-gangnim",
+"Yeosingangnim",
+"Yeosingangrim"
+],
+"links": 57
+},
+{
+"name": "Scrubs",
+"aliases": [],
+"links": 56
+},
+{
+"name": "Star Trek: The Next Generation",
+"aliases": [
+"Next Generation",
+"Star Trek The Next Generation",
+"Star Trek: Next Generation",
+"Star Trek: TNG",
+"STTNG",
+"The Next Generation",
+"TNG"
+],
+"links": 56
+},
+{
+"name": "Star Trek: The Original Series",
+"aliases": [
+"ST: TOS",
+"Star Trek",
+"Star Trek TOS",
+"Star Trek: TOS",
+"Those Old Scientists",
+"TOS"
+],
+"links": 56
+},
+{
+"name": "Suits",
+"aliases": [
+"A Legal Mind"
+],
+"links": 56
+},
+{
+"name": "Westworld",
+"aliases": [
+"West World"
+],
+"links": 56
+},
+{
+"name": "Gilmore Girls",
+"aliases": [
+"The Gilmore Girls"
+],
+"links": 55
+},
+{
+"name": "Guardian: The Lonely and Great God",
+"aliases": [
+"Goblin",
+"Goblin: The Lonely and Shining God",
+"Sseul-sseul-ha-go cha-ran-ha-sin-do-ggae-bi",
+"The Lonely Shining Goblin"
+],
+"links": 55
+},
+{
+"name": "Magnificent Century",
+"aliases": [
+"The Magnificent Century"
+],
+"links": 55
+},
+{
+"name": "Terra e paixão",
+"aliases": [
+"Land of Desire"
+],
+"links": 55
+},
+{
+"name": "The Mandalorian",
+"aliases": [
+"Mandalorian"
+],
+"links": 55
+},
+{
+"name": "Castle",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Downton Abbey",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Servant of the People",
+"aliases": [
+"Servant of the Nation",
+"Sluga naroda",
+"Sluga narodu",
+"Sluha Narodu",
+"The servant of the people"
+],
+"links": 54
+},
+{
+"name": "The Flash",
+"aliases": [
+"Flash"
+],
+"links": 54
+},
+{
+"name": "Vikings",
+"aliases": [],
+"links": 54
+},
+{
+"name": "Wizards of Waverly Place",
+"aliases": [
+"Waverly Place",
+"Wizard of Waverly Place",
+"Wizards of Waverly Places",
+"WOWP"
+],
+"links": 54
+},
+{
+"name": "Bones",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Descendants of the Sun",
+"aliases": [
+"Tae-yang-eui hoo-ye"
+],
+"links": 53
+},
+{
+"name": "It's Okay to Not Be Okay",
+"aliases": [
+"Psycho But It's Okay"
+],
+"links": 53
+},
+{
+"name": "Loki",
+"aliases": [],
+"links": 53
+},
+{
+"name": "Merlin",
+"aliases": [
+"The Adventures of Merlin"
+],
+"links": 53
+},
+{
+"name": "Pretty Little Liars",
+"aliases": [],
+"links": 53
+},
+{
+"name": "That '70s Show",
+"aliases": [
+"70s Show",
+"That 70s Show",
+"That Seventies Show"
+],
+"links": 53
+},
+{
+"name": "WandaVision",
+"aliases": [],
+"links": 53
+},
+{
+"name": "ALF",
+"aliases": [],
+"links": 52
+},
+{
+"name": "El Chavo del 8",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Fringe",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Mad Men",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Mr. Robot",
+"aliases": [
+"Mr Robot"
+],
+"links": 52
+},
+{
+"name": "MythBusters",
+"aliases": [
+"Myth buster",
+"Myth busters",
+"Mythbuster",
+"Mythbusters Jr."
+],
+"links": 52
+},
+{
+"name": "Narcos",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Riverdale",
+"aliases": [],
+"links": 52
+},
+{
+"name": "Star Trek: Voyager",
+"aliases": [
+"VOY",
+"Voyager"
+],
+"links": 52
+},
+{
+"name": "13 Reasons Why",
+"aliases": [
+"Th1rteen R3asons Why",
+"Thirteen Reasons Why"
+],
+"links": 51
+},
+{
+"name": "Barney & Friends",
+"aliases": [
+"Barney"
+],
+"links": 51
+},
+{
+"name": "Blackadder",
+"aliases": [],
+"links": 51
+},
+{
+"name": "The 100",
+"aliases": [
+"The Hundred"
+],
+"links": 51
+},
+{
+"name": "Totally Spies!",
+"aliases": [],
+"links": 51
+},
+{
+"name": "True Blood",
+"aliases": [],
+"links": 51
+},
+{
+"name": "American Idol",
+"aliases": [
+"American Idol: The Search for a Superstar"
+],
+"links": 50
+},
+{
+"name": "Beverly Hills, 90210",
+"aliases": [
+"Beverly Hills 90210"
+],
+"links": 50
+},
+{
+"name": "Boys Over Flowers",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Carrossel",
+"aliases": [],
+"links": 50
+},
+{
+"name": "CSI: NY",
+"aliases": [
+"Crime Scene Investigation: New York",
+"CSI:New York"
+],
+"links": 50
+},
+{
+"name": "Daredevil",
+"aliases": [
+"Marvel's Daredevil"
+],
+"links": 50
+},
+{
+"name": "Once Upon a Time",
+"aliases": [
+"OUAT"
+],
+"links": 50
+},
+{
+"name": "One Tree Hill",
+"aliases": [],
+"links": 50
+},
+{
+"name": "The Boys",
+"aliases": [],
+"links": 50
+},
+{
+"name": "The Witcher",
+"aliases": [],
+"links": 50
+},
+{
+"name": "Babylon 5",
+"aliases": [
+"Babylon Five"
+],
+"links": 49
+},
+{
+"name": "Enfermeras",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Mr. Queen",
+"aliases": [
+"Cheolinwanghoo",
+"No Touch Princess",
+"Queen Cheorin"
+],
+"links": 49
+},
+{
+"name": "Teen Wolf",
+"aliases": [],
+"links": 49
+},
+{
+"name": "The Wire",
+"aliases": [],
+"links": 49
+},
+{
+"name": "True Detective",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Vincenzo",
+"aliases": [
+"Binsenjo"
+],
+"links": 49
+},
+{
+"name": "Young Sheldon",
+"aliases": [],
+"links": 49
+},
+{
+"name": "Columbo",
+"aliases": [
+"Lieutenant Columbo"
+],
+"links": 48
+},
+{
+"name": "CSI: Miami",
+"aliases": [
+"Crime Scene Investigation: Miami",
+"CSI Miami"
+],
+"links": 48
+},
+{
+"name": "Malcolm in the Middle",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Married... with Children",
+"aliases": [
+"Married… with Children"
+],
+"links": 48
+},
+{
+"name": "Shameless",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Snowdrop",
+"aliases": [],
+"links": 48
+},
+{
+"name": "Star Trek: Deep Space Nine",
+"aliases": [
+"Deep Space 9",
+"Deep Space Nine",
+"DS9",
+"ST: DS9",
+"Star Trek: Deep Space 9"
+],
+"links": 48
+},
+{
+"name": "The O.C.",
+"aliases": [
+"OC",
+"OC California"
+],
+"links": 48
+},
+{
+"name": "Will & Grace",
+"aliases": [
+"Will and Grace"
+],
+"links": 48
+},
+{
+"name": "WWE SmackDown",
+"aliases": [
+"SmackDown!",
+"WWE Friday Night SmackDown",
+"WWE Friday Night SmackDown Live",
+"WWE SmackDown Live"
+],
+"links": 48
+},
+{
+"name": "Agents of S.H.I.E.L.D.",
+"aliases": [
+"Agents of SHIELD",
+"Marvel's Agents of S.H.I.E.L.D.",
+"Marvel's Agents of SHIELD"
+],
+"links": 47
+},
+{
+"name": "Euphoria",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Gotham",
+"aliases": [],
+"links": 47
+},
+{
+"name": "MacGyver",
+"aliases": [
+"Mac Gyver",
+"Mc Gyver",
+"McGyver"
+],
+"links": 47
+},
+{
+"name": "Orange Is the New Black",
+"aliases": [
+"OITNB"
+],
+"links": 47
+},
+{
+"name": "Papás por conveniencia",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Sons of Anarchy",
+"aliases": [],
+"links": 47
+},
+{
+"name": "The Blacklist",
+"aliases": [
+"Black List",
+"Blacklist",
+"The Black List"
+],
+"links": 47
+},
+{
+"name": "The West Wing",
+"aliases": [
+"West Wing"
+],
+"links": 47
+},
+{
+"name": "Top Gear",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Baywatch",
+"aliases": [
+"Baywatch Hawaii"
+],
+"links": 46
+},
+{
+"name": "Dark",
+"aliases": [
+"The Secrets of Winden"
+],
+"links": 46
+},
+{
+"name": "Frasier",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Star Trek: Enterprise",
+"aliases": [
+"Enterprise",
+"STE"
+],
+"links": 46
+},
+{
+"name": "Stargate Atlantis",
+"aliases": [
+"SGA"
+],
+"links": 46
+},
+{
+"name": "The Falcon and the Winter Soldier",
+"aliases": [
+"Captain America and the Winter Soldier",
+"Falcon & Winter Soldier",
+"TFatWS"
+],
+"links": 46
+},
+{
+"name": "Californication",
+"aliases": [],
+"links": 45
+},
+{
+"name": "The Handmaid's Tale",
+"aliases": [
+"Handmaid's Tale",
+"Handmaids Tale"
+],
+"links": 45
+},
+{
+"name": "The Lord of the Rings: The Rings of Power",
+"aliases": [
+"Lord of the Rings: Rings of Power",
+"Lord of the Rings: The Rings of Power",
+"LOTR: TROP",
+"Rings of Power",
+"The Rings of Power",
+"TROP"
+],
+"links": 45
+},
+{
+"name": "The Suite Life of Zack & Cody",
+"aliases": [],
+"links": 45
+},
+{
+"name": "WWE Raw",
+"aliases": [
+"Monday Night RAW",
+"Monday Night Raw",
+"RAW",
+"RAW Is WAR",
+"RAW SuperShow",
+"WWE Monday Night Raw",
+"WWE Monday Night RAW",
+"WWE Monday Night RAW Is WAR",
+"WWE Raw is War"
+],
+"links": 45
+},
+{
+"name": "You",
+"aliases": [],
+"links": 45
+},
+{
+"name": "All of Us Are Dead",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Ally McBeal",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Battlestar Galactica",
+"aliases": [
+"BSG"
+],
+"links": 44
+},
+{
+"name": "Chuck",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Fargo",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Hotel del Luna",
+"aliases": [
+"Hotel delluna"
+],
+"links": 44
+},
+{
+"name": "LazyTown",
+"aliases": [
+"Latibær",
+"Lazy Town"
+],
+"links": 44
+},
+{
+"name": "Legends of Tomorrow",
+"aliases": [
+"DC's Legends of Tomorrow"
+],
+"links": 44
+},
+{
+"name": "Marimar",
+"aliases": [],
+"links": 44
+},
+{
+"name": "NCIS: Los Angeles",
+"aliases": [],
+"links": 44
+},
+{
+"name": "New Girl",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Skins",
+"aliases": [],
+"links": 44
+},
+{
+"name": "Supergirl",
+"aliases": [],
+"links": 44
+},
+{
+"name": "2 Broke Girls",
+"aliases": [
+"Two Broke Girls"
+],
+"links": 43
+},
+{
+"name": "Agatha Christie's Poirot",
+"aliases": [
+"Poirot"
+],
+"links": 43
+},
+{
+"name": "Boardwalk Empire",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Dallas",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Ghost Whisperer",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Jessie",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Law & Order",
+"aliases": [
+"L&O",
+"Law and Order"
+],
+"links": 43
+},
+{
+"name": "Lucifer",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Monty Python's Flying Circus",
+"aliases": [
+"Monty Python"
+],
+"links": 43
+},
+{
+"name": "Moon Knight",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Person of Interest",
+"aliases": [
+"P.O.I."
+],
+"links": 43
+},
+{
+"name": "Rome",
+"aliases": [
+"Roma"
+],
+"links": 43
+},
+{
+"name": "Rubí",
+"aliases": [
+"Rubi"
+],
+"links": 43
+},
+{
+"name": "She-Hulk: Attorney at Law",
+"aliases": [
+"She-Hulk"
+],
+"links": 43
+},
+{
+"name": "Start-Up",
+"aliases": [
+"Seutateueob"
+],
+"links": 43
+},
+{
+"name": "Succession",
+"aliases": [],
+"links": 43
+},
+{
+"name": "The Heirs",
+"aliases": [
+"Sangsogjadeul",
+"The Inheritors"
+],
+"links": 43
+},
+{
+"name": "The Muppet Show",
+"aliases": [],
+"links": 43
+},
+{
+"name": "The Pacific",
+"aliases": [
+"Pacific"
+],
+"links": 43
+},
+{
+"name": "The World of the Married",
+"aliases": [],
+"links": 43
+},
+{
+"name": "Zoboomafoo",
+"aliases": [
+"Zoboomafoo with the Kratt Brothers"
+],
+"links": 43
+},
+{
+"name": "Alias",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Angel",
+"aliases": [
+"Angel the Series",
+"AtS"
+],
+"links": 42
+},
+{
+"name": "Cheers",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Everybody Loves Raymond",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Hawaii Five-0",
+"aliases": [
+"Hawaii 5-0",
+"Hawaii Five-O",
+"Hawaii Five-Oh"
+],
+"links": 42
+},
+{
+"name": "Hawkeye",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Heated Rivalry",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Lie to Me",
+"aliases": [],
+"links": 42
+},
+{
+"name": "My Love from the Star",
+"aliases": [
+"Byeol-e-seo on geu-dae",
+"Byeoreseo on Geudae",
+"Man from the Stars",
+"My Love from Another Star",
+"You Who Came From the Stars"
+],
+"links": 42
+},
+{
+"name": "Nip/Tuck",
+"aliases": [],
+"links": 42
+},
+{
+"name": "Six Feet Under",
+"aliases": [],
+"links": 42
+},
+{
+"name": "The A-Team",
+"aliases": [
+"A-Team"
+],
+"links": 42
+},
+{
+"name": "The Good Doctor",
+"aliases": [],
+"links": 42
+},
+{
+"name": "The Good Wife",
+"aliases": [
+"Good Wife"
+],
+"links": 42
+},
+{
+"name": "The Office",
+"aliases": [],
+"links": 42
+},
+{
+"name": "The Suite Life on Deck",
+"aliases": [],
+"links": 42
+},
+{
+"name": "The Tudors",
+"aliases": [],
+"links": 42
+},
+{
+"name": "30 Rock",
+"aliases": [
+"30Rock",
+"Thirty Rock"
+],
+"links": 41
+},
+{
+"name": "Community",
+"aliases": [
+"Francisco milan"
+],
+"links": 41
+},
+{
+"name": "Elementary",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Emily in Paris",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Firefly",
+"aliases": [
+"Firefly: The Series",
+"Joss Whedon's Firefly"
+],
+"links": 41
+},
+{
+"name": "Homeland",
+"aliases": [],
+"links": 41
+},
+{
+"name": "How to Get Away with Murder",
+"aliases": [
+"HTGAWM"
+],
+"links": 41
+},
+{
+"name": "Moon Lovers: Scarlet Heart Ryeo",
+"aliases": [
+"Dalui Yeonin - Bobogyungsim Ryeo",
+"Moon Lovers – Scarlet Heart Goryeo",
+"Scarlet Heart: Ryeo"
+],
+"links": 41
+},
+{
+"name": "Shake It Up",
+"aliases": [
+"Shake It Up!"
+],
+"links": 41
+},
+{
+"name": "Skam",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Star Trek: Discovery",
+"aliases": [
+"DIS",
+"Discovery",
+"DSC",
+"ST: DSC"
+],
+"links": 41
+},
+{
+"name": "The Originals",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Torchwood",
+"aliases": [],
+"links": 41
+},
+{
+"name": "Charlie's Angels",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Coronation Street",
+"aliases": [
+"Corrie"
+],
+"links": 40
+},
+{
+"name": "Cosmos: A Spacetime Odyssey",
+"aliases": [
+"A Spacetime Odyssey",
+"Cosmos",
+"Spacetime Odyssey"
+],
+"links": 40
+},
+{
+"name": "Fawlty Towers",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Hannibal",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Jessica Jones",
+"aliases": [
+"A.K.A. Jessica Jones",
+"Marvel's Jessica Jones"
+],
+"links": 40
+},
+{
+"name": "Knight Rider",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Law & Order: Special Victims Unit",
+"aliases": [
+"Law & Order: SVU",
+"Law and Order: Special Victims Unit",
+"Law and Order: SVU",
+"Special Victims Unit",
+"SVU"
+],
+"links": 40
+},
+{
+"name": "Mi corazón es tuyo",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Miami Vice",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Outlander",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Ozark",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Parks and Recreation",
+"aliases": [
+"Parks & Recreation",
+"Parks and Rec"
+],
+"links": 40
+},
+{
+"name": "Queer as Folk",
+"aliases": [],
+"links": 40
+},
+{
+"name": "Sam & Cat",
+"aliases": [
+"Sam and Cat"
+],
+"links": 40
+},
+{
+"name": "Secret Invasion",
+"aliases": [],
+"links": 40
+},
+{
+"name": "The Bold and the Beautiful",
+"aliases": [
+"B&B"
+],
+"links": 40
+},
+{
+"name": "The Good Place",
+"aliases": [
+"Good Place",
+"Untitled Schur Project"
+],
+"links": 40
+},
+{
+"name": "Under the Dome",
+"aliases": [],
+"links": 40
+},
+{
+"name": "60 Minutes",
+"aliases": [
+"CBS News 60 Minutes"
+],
+"links": 39
+},
+{
+"name": "Agent Carter",
+"aliases": [
+"Marvel's Agent Carter"
+],
+"links": 39
+},
+{
+"name": "Dawson's Creek",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Diriliş: Ertuğrul",
+"aliases": [
+"Resurrection: Ertuğrul",
+"The Revival: Ertugrul"
+],
+"links": 39
+},
+{
+"name": "Good Luck Charlie",
+"aliases": [],
+"links": 39
+},
+{
+"name": "H₂O: Just Add Water",
+"aliases": [
+"H2O",
+"H2O - Just Add Water",
+"H2O: Just Add Water",
+"H₂O"
+],
+"links": 39
+},
+{
+"name": "Inspector Rex",
+"aliases": [
+"Il commissario Rex",
+"Kommissar Rex"
+],
+"links": 39
+},
+{
+"name": "Iron Fist",
+"aliases": [
+"Marvel's Iron Fist"
+],
+"links": 39
+},
+{
+"name": "Keeping Up with the Kardashians",
+"aliases": [
+"KUWTK"
+],
+"links": 39
+},
+{
+"name": "Mindhunter",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Ms. Marvel",
+"aliases": [
+"Ms Marvel"
+],
+"links": 39
+},
+{
+"name": "My Name Is Earl",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Peacemaker",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Psych",
+"aliases": [],
+"links": 39
+},
+{
+"name": "Sonny with a Chance",
+"aliases": [],
+"links": 39
+},
+{
+"name": "The L Word",
+"aliases": [],
+"links": 39
+},
+{
+"name": "The Twilight Zone",
+"aliases": [
+"original Twilight Zone",
+"The Twilight Zone original series",
+"Twilight Zone"
+],
+"links": 39
+},
+{
+"name": "The White Lotus",
+"aliases": [],
+"links": 39
+},
+{
+"name": "7th Heaven",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Andor",
+"aliases": [
+"Andor: A Star Wars Story",
+"Star Wars: Andor"
+],
+"links": 38
+},
+{
+"name": "Big Little Lies",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Bridgerton",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Cold Case",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Cosmos: A Personal Voyage",
+"aliases": [
+"A Personal Voyage",
+"Cosmos",
+"Personal Voyage",
+"The Lives of the Stars"
+],
+"links": 38
+},
+{
+"name": "Fallout",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Helga y Flora",
+"aliases": [],
+"links": 38
+},
+{
+"name": "O Clone",
+"aliases": [
+"The Clone"
+],
+"links": 38
+},
+{
+"name": "Obi-Wan Kenobi",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Roseanne",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Seventeen Moments of Spring",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Terminator: The Sarah Connor Chronicles",
+"aliases": [],
+"links": 38
+},
+{
+"name": "The Americans",
+"aliases": [],
+"links": 38
+},
+{
+"name": "The Cosby Show",
+"aliases": [],
+"links": 38
+},
+{
+"name": "The IT Crowd",
+"aliases": [],
+"links": 38
+},
+{
+"name": "The Umbrella Academy",
+"aliases": [
+"TUA",
+"Umbrella Academy"
+],
+"links": 38
+},
+{
+"name": "Veep",
+"aliases": [],
+"links": 38
+},
+{
+"name": "White Collar",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Without a Trace",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Batwoman",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Curb Your Enthusiasm",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Dae Jang Geum",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Elite",
+"aliases": [
+"ELITƎ",
+"Élite",
+"ÉLITƎ"
+],
+"links": 37
+},
+{
+"name": "Entourage",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Fear the Walking Dead",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Full House",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Kyle XY",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Little House on the Prairie",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Man vs. Wild",
+"aliases": [
+"Born Survivor: Bear Grylls",
+"Ultimate Survival"
+],
+"links": 37
+},
+{
+"name": "Mi camino es amarte",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Murder, She Wrote",
+"aliases": [
+"Jessica Fletcher"
+],
+"links": 37
+},
+{
+"name": "Sabrina the Teenage Witch",
+"aliases": [],
+"links": 37
+},
+{
+"name": "The Golden Girls",
+"aliases": [
+"Golden Girls"
+],
+"links": 37
+},
+{
+"name": "The Little Mole",
+"aliases": [
+"Mole"
+],
+"links": 37
+},
+{
+"name": "The Nanny",
+"aliases": [
+"Nanny"
+],
+"links": 37
+},
+{
+"name": "The Orville",
+"aliases": [
+"Orville",
+"The Orville: New Horizons"
+],
+"links": 37
+},
+{
+"name": "This Is Us",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Ugly Betty",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Weeds",
+"aliases": [],
+"links": 37
+},
+{
+"name": "Yo soy Betty, la fea",
+"aliases": [
+"Betty, la fea",
+"Betty, la Fea",
+"Ugly Betty"
+],
+"links": 37
+},
+{
+"name": "3rd Rock from the Sun",
+"aliases": [
+"3rd Rock"
+],
+"links": 36
+},
+{
+"name": "Altered Carbon",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Austin & Ally",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Boston Legal",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Carinha de Anjo",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Chicago Fire",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Dynasty",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Fleabag",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Grimm",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Heartstopper",
+"aliases": [],
+"links": 36
+},
+{
+"name": "I Love Lucy",
+"aliases": [],
+"links": 36
+},
+{
+"name": "JAG",
+"aliases": [
+"Judge Advocate General"
+],
+"links": 36
+},
+{
+"name": "Joey",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Luke Cage",
+"aliases": [
+"Marvel's Luke Cage"
+],
+"links": 36
+},
+{
+"name": "María la del Barrio",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Midsomer Murders",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Only Murders in the Building",
+"aliases": [
+"OMITB",
+"Only Murders in London"
+],
+"links": 36
+},
+{
+"name": "Pluribus",
+"aliases": [
+"PLUR1BUS",
+"Saticoy",
+"Wycaro",
+"Wycaro 339"
+],
+"links": 36
+},
+{
+"name": "Quantico",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Sense8",
+"aliases": [
+"Sense 8",
+"Sense Eight"
+],
+"links": 36
+},
+{
+"name": "Severance",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Shōgun",
+"aliases": [
+"Shogun"
+],
+"links": 36
+},
+{
+"name": "The Book of Boba Fett",
+"aliases": [],
+"links": 36
+},
+{
+"name": "The Fresh Prince of Bel-Air",
+"aliases": [
+"Fresh Prince of Bel Air",
+"Fresh Prince of Bel-Air",
+"The Fresh Prince of Bel Air"
+],
+"links": 36
+},
+{
+"name": "The Legend of the Blue Sea",
+"aliases": [
+"Pooreun Badaui Junsul"
+],
+"links": 36
+},
+{
+"name": "V",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Walker, Texas Ranger",
+"aliases": [],
+"links": 36
+},
+{
+"name": "Yes Minister",
+"aliases": [
+"Yes, Minister"
+],
+"links": 36
+},
+{
+"name": "A Knight of the Seven Kingdoms",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Alarm for Cobra 11 – The Highway Police",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Big Time Rush",
+"aliases": [
+"BTR",
+"btr"
+],
+"links": 35
+},
+{
+"name": "Blindspot",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Chilling Adventures of Sabrina",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Cobra Kai",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Dr. Romantic",
+"aliases": [
+"Nangman doctor Kim Sa-bu",
+"Nangmandakteo Kimsaboo",
+"Romantic Doctor Kim",
+"Romantic Doctor, Teacher Kim"
+],
+"links": 35
+},
+{
+"name": "Harry Potter",
+"aliases": [
+"Harry Potter and the Philosopher's Stone"
+],
+"links": 35
+},
+{
+"name": "It's Always Sunny in Philadelphia",
+"aliases": [
+"Always Sunny",
+"Always Sunny in Philadelphia",
+"IASIP",
+"Sunny"
+],
+"links": 35
+},
+{
+"name": "Jane the Virgin",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Jericho",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Legacies",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Numbers",
+"aliases": [
+"NUMB3RS"
+],
+"links": 35
+},
+{
+"name": "Revenge",
+"aliases": [
+"reven8e"
+],
+"links": 35
+},
+{
+"name": "Scandal",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Sol Nascente",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Stargate Universe",
+"aliases": [
+"SGU"
+],
+"links": 35
+},
+{
+"name": "That's So Raven",
+"aliases": [],
+"links": 35
+},
+{
+"name": "The King: Eternal Monarch",
+"aliases": [
+"The King: Monarch of Eternity",
+"The King: Youngwonui Gunjoo"
+],
+"links": 35
+},
+{
+"name": "The Sandman",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Veronica Mars",
+"aliases": [],
+"links": 35
+},
+{
+"name": "What's Wrong with Secretary Kim",
+"aliases": [
+"Why Secretary Kim"
+],
+"links": 35
+},
+{
+"name": "Yellowstone",
+"aliases": [],
+"links": 35
+},
+{
+"name": "'Allo 'Allo!",
+"aliases": [],
+"links": 34
+},
+{
+"name": "3 Body Problem",
+"aliases": [],
+"links": 34
+},
+{
+"name": "A.N.T. Farm",
+"aliases": [
+"ANT Farm",
+"Ant Farm"
+],
+"links": 34
+},
+{
+"name": "American Crime Story",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Andromeda",
+"aliases": [
+"Gene Roddenberry's Andromeda"
+],
+"links": 34
+},
+{
+"name": "Batman",
+"aliases": [
+"Batman '66",
+"Batman 1966",
+"Batman 66"
+],
+"links": 34
+},
+{
+"name": "Bonanza",
+"aliases": [
+"Ponderosa"
+],
+"links": 34
+},
+{
+"name": "Brothers & Sisters",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Dark Angel",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Days of Our Lives",
+"aliases": [
+"Days",
+"DOOL"
+],
+"links": 34
+},
+{
+"name": "EastEnders",
+"aliases": [
+"amy . jessicaking 05"
+],
+"links": 34
+},
+{
+"name": "Jackass",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Lizzie McGuire",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Medium",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Mi amor sin tiempo",
+"aliases": [],
+"links": 34
+},
+{
+"name": "NCIS: New Orleans",
+"aliases": [],
+"links": 34
+},
+{
+"name": "One Piece",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Shadowhunters",
+"aliases": [
+"Shadowhunters: The Mortal Instruments"
+],
+"links": 34
+},
+{
+"name": "Silicon Valley",
+"aliases": [
+"HBO: Silicon Valley"
+],
+"links": 34
+},
+{
+"name": "Ted Lasso",
+"aliases": [],
+"links": 34
+},
+{
+"name": "The Borgias",
+"aliases": [],
+"links": 34
+},
+{
+"name": "The Expanse",
+"aliases": [],
+"links": 34
+},
+{
+"name": "The Punisher",
+"aliases": [
+"Marvel's The Punisher"
+],
+"links": 34
+},
+{
+"name": "The Tonight Show",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Violetta",
+"aliases": [],
+"links": 34
+},
+{
+"name": "Alice in Borderland",
+"aliases": [
+"Imawa no Kuni no Arisu"
+],
+"links": 33
+},
+{
+"name": "Aşk-ı Memnu",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Banshee",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Bates Motel",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Black Sails",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Blue Bloods",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Echo",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Endless Love",
+"aliases": [
+"Kara Sevda"
+],
+"links": 33
+},
+{
+"name": "Ezel",
+"aliases": [],
+"links": 33
+},
+{
+"name": "His Dark Materials",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Home and Away",
+"aliases": [
+"H & A",
+"H&A"
+],
+"links": 33
+},
+{
+"name": "I'm Not a Robot",
+"aliases": [
+"Robosi Aniya",
+"Roboti Aniya"
+],
+"links": 33
+},
+{
+"name": "Ironheart",
+"aliases": [],
+"links": 33
+},
+{
+"name": "It: Welcome to Derry",
+"aliases": [
+"Welcome to Derry",
+"Welcome to Derry: From the World of It"
+],
+"links": 33
+},
+{
+"name": "Jonas",
+"aliases": [
+"Jonas L.A."
+],
+"links": 33
+},
+{
+"name": "Jumong",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Killing Eve",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Marco Polo",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Mayday",
+"aliases": [
+"ACI",
+"Air Crash Investigation",
+"Air Disasters",
+"Air Emergency",
+"Mayday: Air Disaster"
+],
+"links": 33
+},
+{
+"name": "Misfits",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Mission: Impossible",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Moonlighting",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Oh My Ghostess",
+"aliases": [
+"Oh My Ghost"
+],
+"links": 33
+},
+{
+"name": "Producer",
+"aliases": [
+"Peurodyusa",
+"The Producers"
+],
+"links": 33
+},
+{
+"name": "Rosalinda",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Running Man",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Spin City",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Star Trek: Picard",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Terra Nova",
+"aliases": [],
+"links": 33
+},
+{
+"name": "The 4400",
+"aliases": [],
+"links": 33
+},
+{
+"name": "The Man in the High Castle",
+"aliases": [
+"Man in the High Castle"
+],
+"links": 33
+},
+{
+"name": "The Newsroom",
+"aliases": [],
+"links": 33
+},
+{
+"name": "The Penguin",
+"aliases": [],
+"links": 33
+},
+{
+"name": "The Thundermans",
+"aliases": [
+"Thundermans"
+],
+"links": 33
+},
+{
+"name": "W",
+"aliases": [
+"Two Worlds",
+"W - Du gaeui segye",
+"W - Two Worlds"
+],
+"links": 33
+},
+{
+"name": "Agatha All Along",
+"aliases": [
+"Agatha: Coven of Chaos",
+"Agatha: Darkhold Diaries",
+"Agatha: House of Harkness",
+"Agatha: The Lying Witch with Great Wardrobe"
+],
+"links": 32
+},
+{
+"name": "Ahsoka",
+"aliases": [
+"Star Wars: Ahsoka"
+],
+"links": 32
+},
+{
+"name": "Avatar: The Last Airbender",
+"aliases": [
+"Avatar: The Legend of Aang"
+],
+"links": 32
+},
+{
+"name": "Bewitched",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Britain's Got Talent",
+"aliases": [
+"BGT",
+"Britain's Got Talent The Ultimate Magician"
+],
+"links": 32
+},
+{
+"name": "Everybody Hates Chris",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Farscape",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Girls",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Good Morning America",
+"aliases": [
+"GMA"
+],
+"links": 32
+},
+{
+"name": "Henry Danger",
+"aliases": [],
+"links": 32
+},
+{
+"name": "La usurpadora",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Late Show with David Letterman",
+"aliases": [
+"The Late Show with David Letterman"
+],
+"links": 32
+},
+{
+"name": "Little Britain",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Magnum, P.I.",
+"aliases": [
+"Magnum",
+"Magnum P.I.",
+"Magnum PI"
+],
+"links": 32
+},
+{
+"name": "Medcezir",
+"aliases": [
+"The O.C."
+],
+"links": 32
+},
+{
+"name": "Neighbours",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Nikita",
+"aliases": [],
+"links": 32
+},
+{
+"name": "NYPD Blue",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Oz",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Pat & Mat",
+"aliases": [
+"Pat a Mat"
+],
+"links": 32
+},
+{
+"name": "Pride and Prejudice",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Superstore",
+"aliases": [],
+"links": 32
+},
+{
+"name": "The Daily Show",
+"aliases": [
+"A Daily Show with Jon Stewart",
+"TDS",
+"The Daily Show Mondays with Jon Stewart",
+"The Daily Show with Jon Stewart",
+"The Daily Show with Trevor Noah"
+],
+"links": 32
+},
+{
+"name": "The Defenders",
+"aliases": [
+"Marvel's The Defenders",
+"Marvel’s The Defenders"
+],
+"links": 32
+},
+{
+"name": "The Oprah Winfrey Show",
+"aliases": [
+"Oprah",
+"Oprah Winfrey Show"
+],
+"links": 32
+},
+{
+"name": "The Rookie",
+"aliases": [
+"Rookie"
+],
+"links": 32
+},
+{
+"name": "The Shield",
+"aliases": [],
+"links": 32
+},
+{
+"name": "The Strain",
+"aliases": [],
+"links": 32
+},
+{
+"name": "All in the Family",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Amor real",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Atlanta",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Avenida Brasil",
+"aliases": [
+"Brazil Avenue"
+],
+"links": 31
+},
+{
+"name": "Bananas In Pyjamas",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Billions",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Burn Notice",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Daredevil: Born Again",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Drake & Josh",
+"aliases": [
+"Drake and Josh"
+],
+"links": 31
+},
+{
+"name": "Girl Meets World",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Gunsmoke",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Kuruluş: Osman",
+"aliases": [
+"Establishment: Osman",
+"The Ottoman"
+],
+"links": 31
+},
+{
+"name": "Mom",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Muhteşem Yüzyıl: Kösem",
+"aliases": [
+"Magnificent Century: Kösem",
+"The Magnificent Century: Kosem"
+],
+"links": 31
+},
+{
+"name": "Orphan Black",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Private Practice",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Reign",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Roswell",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Scream Queens",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Spartacus",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Superman & Lois",
+"aliases": [
+"Superman and Lois"
+],
+"links": 31
+},
+{
+"name": "The Apprentice",
+"aliases": [
+"The Apprentice USA"
+],
+"links": 31
+},
+{
+"name": "The Grand Tour",
+"aliases": [
+"Chump Productions",
+"Gear Knobs",
+"W. Chump and Sons"
+],
+"links": 31
+},
+{
+"name": "The Last Ship",
+"aliases": [],
+"links": 31
+},
+{
+"name": "The Young Pope",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Warehouse 13",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Atypical",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Cougar Town",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Don't Mess with an Angel",
+"aliases": [
+"Cuidado con el Ángel"
+],
+"links": 30
+},
+{
+"name": "Eurovision Young Musicians",
+"aliases": [
+"EYM"
+],
+"links": 30
+},
+{
+"name": "From",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Happy Days",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Legion",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Lost in Space",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Lupin",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Mad About You",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Meet the Press",
+"aliases": [
+"Meet the Press with Chuck Todd",
+"Meet the Press with Kristen Welker"
+],
+"links": 30
+},
+{
+"name": "Never Have I Ever",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Normal People",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Pasión de Gavilanes",
+"aliases": [
+"Pasion de Gavilanes"
+],
+"links": 30
+},
+{
+"name": "Penny Dreadful",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Planet Earth",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Reply 1988",
+"aliases": [
+"Eung-dab-ha-ra 1988"
+],
+"links": 30
+},
+{
+"name": "Snowpiercer",
+"aliases": [],
+"links": 30
+},
+{
+"name": "The Acolyte",
+"aliases": [
+"Star Wars: The Acolyte"
+],
+"links": 30
+},
+{
+"name": "The King of Queens",
+"aliases": [],
+"links": 30
+},
+{
+"name": "The Marvelous Mrs. Maisel",
+"aliases": [
+"Marvelous Mrs. Maisel"
+],
+"links": 30
+},
+{
+"name": "The Young and the Restless",
+"aliases": [
+"Y&R"
+],
+"links": 30
+},
+{
+"name": "Watchmen",
+"aliases": [],
+"links": 30
+},
+{
+"name": "WWE NXT",
+"aliases": [
+"NXT",
+"NXT 2.0",
+"WWE NXT 2.0"
+],
+"links": 30
+},
+{
+"name": "Young Royals",
+"aliases": [],
+"links": 30
+}
+]

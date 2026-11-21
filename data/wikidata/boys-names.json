@@ -1,0 +1,963 @@
+[
+{
+"name": "Pythagoras",
+"aliases": [
+"Pythagoras from Samos",
+"Pythagoras of Samos",
+"Samian Sage"
+],
+"links": 212
+},
+{
+"name": "Daniel",
+"aliases": [],
+"links": 33
+},
+{
+"name": "Robert",
+"aliases": [],
+"links": 32
+},
+{
+"name": "Adolf",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Albert",
+"aliases": [],
+"links": 31
+},
+{
+"name": "Alexander",
+"aliases": [],
+"links": 31
+},
+{
+"name": "John",
+"aliases": [],
+"links": 30
+},
+{
+"name": "David",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Hugo",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Gabriel",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Muhammad",
+"aliases": [
+"Mohamed",
+"Mohammad"
+],
+"links": 27
+},
+{
+"name": "Abdullah",
+"aliases": [
+"'Abdullah",
+"Abdallah",
+"Abdollah"
+],
+"links": 26
+},
+{
+"name": "Ali",
+"aliases": [
+"'Ali",
+"Aly",
+"Alī",
+"ʿAli",
+"ʿAlī"
+],
+"links": 26
+},
+{
+"name": "Arthur",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ivan",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Johannes",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Peter",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Simon",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Adam",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Emil",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Jan",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kevin",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Samuel",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Abd al-Rahman",
+"aliases": [
+"Abdourahamane"
+],
+"links": 23
+},
+{
+"name": "Bogdan",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Emanuel",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Gerhard",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Ishana",
+"aliases": [
+"Īśāna"
+],
+"links": 23
+},
+{
+"name": "Joseph",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Leonard",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Mario",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Ronald",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Thomas",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Axel",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Benjamin",
+"aliases": [
+"Benjamin given name"
+],
+"links": 22
+},
+{
+"name": "Boris",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Christopher",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Gustav",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kasimir",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Tobias",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Vincent",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Andreas",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Edward",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Erik",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Filip",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hassan",
+"aliases": [
+"Hasan",
+"Hasin",
+"Ḥasan"
+],
+"links": 21
+},
+{
+"name": "Herbert",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Karim",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Norbert",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Omar",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Richard",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Roman",
+"aliases": [
+"Róman"
+],
+"links": 21
+},
+{
+"name": "William",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ahmad",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Charles",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ernst",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Harald",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ibrahim",
+"aliases": [
+"ʾIbrāhīm"
+],
+"links": 20
+},
+{
+"name": "Karl",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nathan",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Otto",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Paul",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Roger",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Roland",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Abel",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Amenhotep",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Hans",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Rudolf",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Sven",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Alfons",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Alois",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Andrew",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Antonio",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Arnold",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Bernhard",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Brian",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Edmund",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Elias",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ikshvaku",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ivo",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Knut",
+"aliases": [
+"Knútr",
+"Nuutti"
+],
+"links": 18
+},
+{
+"name": "Leon",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mark",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mustafa",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Pedro",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Prithu",
+"aliases": [
+"Prithi",
+"Prithu Vainya"
+],
+"links": 18
+},
+{
+"name": "René",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Stefan",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Wolfgang",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Zlatan",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Āstīka",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Abd al-Qadir",
+"aliases": [
+"Abdelgadir",
+"Abdelkader",
+"Abdul Qadir",
+"Abdulkader",
+"Abdulkadir",
+"Abdulqadir",
+"Abdülkadir",
+"ʿAbd al-Qādir"
+],
+"links": 17
+},
+{
+"name": "Adrian",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Alan",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Armin",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Attila",
+"aliases": [],
+"links": 17
+},
+{
+"name": "August",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ernest",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Helmut",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Igor",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Joachim",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Johann",
+"aliases": [],
+"links": 17
+},
+{
+"name": "José",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kamil",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kirill",
+"aliases": [
+"Kyril",
+"Kyrill"
+],
+"links": 17
+},
+{
+"name": "Lars",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Leopold",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Milan",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Oliver",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Pierre",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Vladislav",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Werner",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Zoltán",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Adil",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Aleksey",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Alfred",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Anders",
+"aliases": [],
+"links": 16
+},
+{
+"name": "André",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Artur",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bakasura",
+"aliases": [
+"Baka"
+],
+"links": 16
+},
+{
+"name": "Ben",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bernard",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Christian",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Diego",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Edvin",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Einar",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Erhard",
+"aliases": [],
+"links": 16
+},
+{
+"name": "François",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Friedrich",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Georg",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Herman",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Hubert",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ivar",
+"aliases": [],
+"links": 16
+},
+{
+"name": "James",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Josef",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Leo",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Liam",
+"aliases": [
+"Liam Cleland"
+],
+"links": 16
+},
+{
+"name": "Oleg",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Samir",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Simeon",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Stephen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Suleiman",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Tim",
+"aliases": [],
+"links": 16
+},
+{
+"name": "'Abd al-Majid",
+"aliases": [
+"'Abd al-Mayid",
+"'Abdulmecid",
+"'Abdülmecid",
+"Abd al-Madshid",
+"Abd al-Majeed",
+"Abd al-Majid",
+"Abd al-Mayid",
+"Abd el-Majid",
+"Abd ul-Mecid",
+"Abd ül-Mecid",
+"Abd-ul-Medzhit",
+"Abdel Meguid",
+"Abdelmadjid",
+"Abdelmageed",
+"Abdelmajid",
+"Abdol Majid",
+"Abdoul Madjid",
+"Abdul Madzhid",
+"Abdul Majeed",
+"Abdul Majid",
+"Abdul Medjid",
+"Abdul Medzhid",
+"Abdul Mejid",
+"Abdul Meyid",
+"Abdul-Medjid",
+"Abdul-Medzsid",
+"Abdul-Mejid",
+"Abdulmadshid",
+"Abdulmajid",
+"Abdulmayid",
+"Abdulmecid",
+"Abdülmecid"
+],
+"links": 15
+},
+{
+"name": "Abd al-Aziz",
+"aliases": [
+"'Abd al-Aziz",
+"Abdalaziz",
+"Abdel-Aziz",
+"Abdelaziz",
+"AbdelAziz",
+"Abdul Aziz",
+"Abdul-Aziz",
+"Abdulazeez",
+"AbdulAziz",
+"Abed al-Aziz"
+],
+"links": 15
+},
+{
+"name": "Abraham",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Abu Bakr",
+"aliases": [
+"Abu Bakar",
+"Abubakr"
+],
+"links": 15
+},
+{
+"name": "András",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Anton",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Danilo",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Eduard",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Edwin",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Egon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ferenc",
+"aliases": [
+"Ferencz"
+],
+"links": 15
+},
+{
+"name": "Fernando",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Francesco",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Frank",
+"aliases": [],
+"links": 15
+},
+{
+"name": "George",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Henri",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Johan",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Juan",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Konrad",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kurt",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Manuel",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ragnar",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ronaldo",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Uthman",
+"aliases": [
+"ʿUthmān"
+],
+"links": 15
+},
+{
+"name": "Viktor",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Vladimir",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Wilhelm",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Xavier",
+"aliases": [
+"Xavi"
+],
+"links": 15
+}
+]

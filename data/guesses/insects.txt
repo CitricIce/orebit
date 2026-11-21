@@ -1,0 +1,37 @@
+ant
+bee
+butterfly
+fly
+mosquito
+spider
+ladybug
+beetle
+cockroach
+caterpillar
+grasshopper
+worm
+wasp
+dragonfly
+cricket
+moth
+centipede
+millipede
+snail
+slug
+flea
+tick
+termite
+earwig
+firefly
+bumblebee
+hornet
+praying mantis
+scorpion
+cicada
+aphid
+bed bug
+tarantula
+earthworm
+leech
+maggot
+lady bird

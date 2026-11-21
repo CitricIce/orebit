@@ -1,0 +1,884 @@
+[
+{
+"name": "Khatun",
+"aliases": [
+"consort",
+"hatun",
+"kadin",
+"khaness",
+"khatan",
+"khātūn",
+"queen",
+"queen consort"
+],
+"links": 39
+},
+{
+"name": "Anna",
+"aliases": [],
+"links": 35
+},
+{
+"name": "Laura",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Maria",
+"aliases": [],
+"links": 29
+},
+{
+"name": "Barbara",
+"aliases": [],
+"links": 28
+},
+{
+"name": "Amanda",
+"aliases": [],
+"links": 27
+},
+{
+"name": "Diana",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Linda",
+"aliases": [],
+"links": 26
+},
+{
+"name": "Olga",
+"aliases": [],
+"links": 25
+},
+{
+"name": "Ada",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Angela",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Elena",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Olivia",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Agnes",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Aida",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Alina",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Eva",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Jessica",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Sandra",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Shailaputri",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Alice",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Anita",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Aurora",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Helena",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Ingrid",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lina",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Marina",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Melissa",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Vera",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Elvira",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Emma",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Nina",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Paula",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Petra",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Rita",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Sara",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Chloe",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Dagmar",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lena",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Magdalena",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Megan",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Miriam",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nora",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tamara",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Vārāhī",
+"aliases": [
+"Arighnī",
+"Daṇḍanāthā",
+"Mahāsenā",
+"Pañcāmī",
+"Potriṇī",
+"Samayasaṅketā",
+"Samayeśvarī",
+"Saṅketā",
+"Vārtālī",
+"Ājñā Cakreśvarī",
+"Śivā"
+],
+"links": 20
+},
+{
+"name": "Abigail",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Anastasia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Angelina",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Astrid",
+"aliases": [
+"Ástríðr"
+],
+"links": 19
+},
+{
+"name": "Brahmani",
+"aliases": [
+"Brahmi"
+],
+"links": 19
+},
+{
+"name": "Leila",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lucia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Mahagauri",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Marta",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Silvia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Ahinoam",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Amy",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Belinda",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Carmen",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Hildegard",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Irene",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Irma",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Martina",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mia",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Milena",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Natalia",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Pamela",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ratri",
+"aliases": [
+"Rātrī"
+],
+"links": 18
+},
+{
+"name": "Teresa",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Varuni",
+"aliases": [],
+"links": 18
+},
+{
+"name": "A'isha",
+"aliases": [
+"Aisha",
+"Aixa"
+],
+"links": 17
+},
+{
+"name": "Adela",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Adriana",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Alexandra",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Amira",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Angelika",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Anne",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Christina",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Clara",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Dana",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Doris",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Eleanor",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ella",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Fatima",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Hilda",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ida",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ingeborg",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Iris",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Karen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Margaret",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Martha",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Monika",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Panchakanya",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Patricia",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Regina",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Vanessa",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Zoe",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Alicia",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Alma",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bella",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Berta",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Charlotte",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Debora",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Dolores",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Eleonora",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Erika",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Heidi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ilona",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Jadwiga",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Jane",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Jennifer",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lea",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Louise",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lucy",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Margit",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Matilda",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Mina",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Miranda",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nancy",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nemain",
+"aliases": [
+"Neamhain",
+"Neamhan",
+"Neman",
+"Nemane"
+],
+"links": 16
+},
+{
+"name": "Sabrina",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Salma",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Samantha",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sigrid",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Stella",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Stephanie",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Valentina",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Vināyakī",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Amalia",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ana",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Annika",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Aurelia",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Brenda",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Claudia",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dorothea",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Emilia",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Erin",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Erna",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Esther",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Evelyn",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Fiona",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Flora",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Frida",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gina",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Greta",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Hanna",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Helga",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jana",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Joanna",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Johanna",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Julia",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Julie",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Katja",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Mahadevi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Margot",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Marianna",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Mercedes",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Nadia",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Nicole",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Padmāvatī",
+"aliases": [
+"Alāmelū Mangā",
+"Śrī Padmāvati Amāvāru"
+],
+"links": 15
+},
+{
+"name": "Rosa",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sophia",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sophie",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Svetlana",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Tanja",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ursula",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Yogamāyā",
+"aliases": [
+"Ekānaṃśā",
+"Mahāmāyā",
+"Vindhyavāsinī"
+],
+"links": 15
+},
+{
+"name": "Zita",
+"aliases": [],
+"links": 15
+}
+]

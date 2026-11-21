@@ -1,0 +1,32 @@
+car
+bike
+truck
+skateboard
+wheelchair
+train
+motorcycle
+roller skates
+wagon
+shopping cart
+stroller
+scooter
+suitcase
+tractor
+van
+taxi
+ambulance
+fire truck
+jeep
+limo
+tank
+bulldozer
+dump truck
+tricycle
+unicycle
+moped
+segway
+rollerblades
+go kart
+lawn mower
+wheelbarrow
+office chair

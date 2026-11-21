@@ -1,0 +1,33 @@
+shirt
+remote
+phone
+elevator
+calculator
+keyboard
+coat
+microwave
+doorbell
+controller
+pants
+cardigan
+blouse
+vest
+dress
+pajamas
+overalls
+blazer
+washing machine
+oven
+toaster
+blender
+coffee maker
+kettle
+radio
+tv
+watch
+camera
+mouse
+laptop
+arcade game
+vending machine
+atm

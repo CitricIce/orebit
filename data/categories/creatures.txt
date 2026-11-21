@@ -1,0 +1,607 @@
+# Birds and insects. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== birds
+title: Birds
+prompt: Name as many birds as you can
+starcore: Kookaburra
+--- 1
+Eagle
+Owl
+Parrot
+Penguin
+Duck
+Chicken | hen | rooster
+Crow
+Robin
+Sparrow
+Pigeon | dove
+Swan
+Hawk
+Flamingo
+--- 2
+Seagull | gull
+Goose | geese
+Turkey
+Ostrich
+Peacock | peafowl
+Pelican
+Woodpecker
+Hummingbird
+Blue Jay | bluejay | jay
+Cardinal
+Falcon
+Vulture
+Raven
+Stork
+Heron
+Toucan
+Cockatoo
+Budgie | budgerigar | parakeet
+Canary
+Finch
+Bluebird
+Blackbird
+Magpie
+Starling
+Swallow
+Kingfisher
+Condor
+Crane
+Kiwi
+Emu
+Albatross
+Puffin
+Cuckoo
+Nightingale
+Pheasant
+Quail
+Partridge
+Bald Eagle
+Golden Eagle
+Barn Owl
+Snowy Owl
+Macaw
+Lovebird
+Mockingbird
+Oriole
+Wren
+Dodo
+Chickadee
+Blue Tit | tit
+Thrush
+Lark | skylark
+Nuthatch
+Cormorant
+Sandpiper
+Kookaburra
+--- 3
+Auk
+Bittern
+Bobolink
+Bunting
+Buzzard
+Caracara
+Cassowary
+Coot
+Curlew
+Dipper
+Dunnock
+Egret
+Fantail
+Gannet
+Goldfinch
+Grebe
+Grouse
+Guinea Fowl | guineafowl
+Harrier
+Hoopoe
+Ibis
+Jackdaw
+Kestrel
+Kite | red kite
+Kittiwake
+Lapwing | peewit
+Loon
+Mallard
+Merlin
+Mynah | myna | mynah bird
+Osprey
+Oystercatcher
+Petrel
+Pipit
+Plover
+Ptarmigan
+Redstart
+Rhea
+Roadrunner
+Rook
+Sanderling
+Shrike
+Siskin
+Snipe
+Spoonbill
+Swift
+Tern
+Tanager
+Teal
+Tragopan
+Trogon
+Turtle Dove
+Vireo
+Warbler
+Waxwing
+Whimbrel
+Woodcock
+Wood Pigeon | woodpigeon
+Yellowhammer
+Black Swan
+Canada Goose
+Mute Swan
+Snow Goose
+Emperor Penguin
+King Penguin
+Little Penguin | fairy penguin
+Humboldt Penguin
+Great Horned Owl
+Tawny Owl
+Barred Owl
+Burrowing Owl
+Peregrine Falcon | peregrine
+Red-tailed Hawk | red tailed hawk
+Sparrowhawk
+Goshawk
+Bird of Paradise
+Lyrebird
+Bowerbird
+Whippoorwill
+Nightjar
+Bluethroat
+Chaffinch
+Greenfinch
+Bullfinch
+Hawfinch
+Linnet
+Redpoll
+Reed Warbler
+Blackcap
+Chiffchaff
+Whitethroat
+Goldcrest
+Treecreeper
+Long-tailed Tit | long tailed tit
+Great Tit
+Coal Tit
+Cockatiel
+African Grey | african grey parrot
+Rainbow Lorikeet | lorikeet
+Galah
+Kea
+Kakapo
+Takahe
+Tui
+Pukeko
+Weka
+Moa
+Great Auk
+--- 4
+Anhinga
+Avocet
+Babbler
+Barbet
+Bee-eater | bee eater
+Bellbird
+Booby | blue-footed booby | blue footed booby
+Brambling
+Brolga
+Bustard
+Chough
+Crossbill
+Dotterel
+Dowitcher
+Drongo
+Dunlin
+Eider
+Fieldfare
+Firecrest
+Flycatcher
+Francolin
+Frigatebird | frigate bird
+Frogmouth
+Fulmar
+Gadwall
+Gallinule
+Godwit
+Greenshank
+Hornbill
+Jacana
+Junco
+Kingbird
+Knot
+Limpkin
+Mandarin Duck
+Martin
+Monal
+Motmot
+Murre
+Nighthawk
+Noddy
+Nutcracker
+Ouzel
+Ovenbird
+Oxpecker
+Pintail
+Pochard
+Prion
+Quetzal
+Redwing
+Reedling
+Ruff
+Sandgrouse
+Scaup
+Scoter
+Secretarybird | secretary bird
+Shearwater
+Shelduck
+Shoveler
+Skimmer
+Skua
+Smew
+Sora
+Stilt
+Stint
+Stonechat
+Sunbird
+Surfbird
+Tattler
+Thrasher
+Titmouse
+Towhee
+Treeswift
+Turnstone
+Twite
+Veery
+Wagtail
+Wheatear
+Whinchat
+Whydah
+Wigeon | widgeon
+Willet
+Wryneck
+Zebra Finch
+Shoebill
+Hamerkop
+Marabou Stork | marabou
+Jabiru
+Roseate Spoonbill
+Scarlet Ibis
+Sandhill Crane
+Whooping Crane
+Demoiselle Crane
+Crowned Crane
+Harpy Eagle
+California Condor
+Turkey Vulture
+Lammergeier | bearded vulture
+Griffon Vulture
+Kakariki
+Hoatzin
+Cock-of-the-rock
+Resplendent Quetzal
+Jacamar
+Puffbird
+Potoo
+Oilbird
+Tinamou
+Curassow
+Guan
+Chachalaca
+Seriema
+Screamer
+Magellanic Penguin
+Adelie Penguin | adélie penguin
+Chinstrap Penguin
+Gentoo Penguin
+Rockhopper Penguin
+Macaroni Penguin
+Royal Penguin
+Galapagos Penguin
+African Penguin
+Yellow-eyed Penguin
+Fiordland Penguin
+--- 5
+Apapane
+Auklet
+Bulbul
+Capercaillie
+Catbird
+Chukar
+Corncrake
+Crake
+Currawong
+Dollarbird
+Fairywren | fairy wren
+Grosbeak
+Guillemot
+Honeycreeper
+Honeyeater
+Honeyguide
+Iiwi
+Kagu
+Killdeer
+Koel
+Mousebird
+Nene
+Palila
+Phalarope
+Pitta
+Pratincole
+Rifleman
+Sapsucker
+Saddleback
+Shama
+Silvereye
+Sugarbird
+Tailorbird
+Thornbill
+Tropicbird
+Weaver
+Weaverbird
+Whistler
+Woodswallow
+Yellowlegs
+Yellowthroat
+
+
+=== insects
+title: Insects and bugs
+prompt: Name as many insects and bugs as you can (spiders, worms and other creepy-crawlies count too)
+starcore: Praying Mantis
+--- 1
+Ant
+Bee
+Butterfly
+Fly
+Mosquito
+Spider
+Ladybug | ladybird | lady bug
+Beetle
+Cockroach | roach
+Caterpillar
+Grasshopper
+Worm
+Wasp
+--- 2
+Dragonfly
+Cricket
+Moth
+Centipede
+Millipede
+Snail
+Slug
+Flea
+Tick
+Louse | lice
+Termite
+Earwig
+Firefly | lightning bug
+Bumblebee | bumble bee
+Honeybee | honey bee
+Hornet
+Fruit Fly
+Housefly | house fly
+Gnat
+Maggot
+Scorpion
+Praying Mantis | mantis
+Stick Insect | walking stick
+Locust
+Cicada
+Aphid
+Bedbug | bed bug
+Dung Beetle
+Stag Beetle
+Daddy Longlegs | daddy long legs | crane fly
+Tarantula
+Black Widow
+Earthworm
+Leech
+Woodlouse | pill bug | roly poly | rolly polly
+Mealworm
+Silverfish
+Weevil
+Horsefly
+Deer Fly
+Yellowjacket | yellow jacket
+Carpenter Ant
+Fire Ant
+Army Ant
+Leafcutter Ant
+Monarch Butterfly | monarch
+Swallowtail
+Cabbage White
+Water Strider | pond skater
+Midge
+Sandfly | sand fly
+Black Fly | blackfly
+Lacewing
+Mayfly
+Stonefly
+Katydid
+Cockchafer | june bug | may bug
+Scarab
+Rhinoceros Beetle
+Hercules Beetle
+Goliath Beetle
+Click Beetle
+Ground Beetle
+Tiger Beetle
+Bark Beetle
+Longhorn Beetle
+Jewel Beetle
+Colorado Beetle
+Boll Weevil
+Flour Beetle
+Carpet Beetle
+--- 3
+Assassin Bug
+Backswimmer
+Bagworm
+Bombardier Beetle
+Bristletail
+Cecropia Moth
+Chigger
+Clothes Moth
+Codling Moth
+Cutworm
+Damselfly
+Death's-head Hawkmoth | deaths head hawkmoth
+Diving Beetle
+Dobsonfly
+Fig Wasp
+Flesh Fly
+Froghopper
+Gypsy Moth
+Hawk Moth | hawkmoth
+Hover Fly | hoverfly
+Ichneumon Wasp
+Jumping Spider
+Lanternfly | spotted lanternfly
+Leafhopper
+Leaf Insect
+Luna Moth
+Mason Bee
+Mole Cricket
+Orb Weaver
+Owlfly
+Paper Wasp
+Robber Fly
+Rove Beetle
+Sawfly
+Scale Insect
+Shield Bug | stink bug
+Silkworm
+Sphinx Moth
+Spittlebug
+Springtail
+Squash Bug
+Stable Fly
+Sweat Bee
+Tsetse Fly
+Tussock Moth
+Velvet Ant
+Water Beetle
+Water Boatman
+Wolf Spider
+Hobo Spider
+Brown Recluse | recluse
+Huntsman Spider | huntsman
+Redback Spider | redback
+Funnel-web Spider | funnel web
+Trapdoor Spider
+Garden Spider
+House Spider
+Crab Spider
+Harvestman
+Camel Spider
+Whip Scorpion
+Pseudoscorpion
+Mite
+Dust Mite
+Spider Mite
+Roundworm
+Tapeworm
+Flatworm
+Hookworm
+Pinworm
+Ringworm
+Nematode
+Bloodworm
+Glowworm
+Inchworm
+Armyworm
+Cabbage Looper
+Hornworm | tomato hornworm
+Woolly Bear
+Bollworm
+Wireworm
+--- 4
+Antlion
+Bee Fly
+Blister Beetle
+Boxelder Bug
+Bot Fly
+Caddisfly
+Cactus Moth
+Cankerworm
+Carpenter Bee
+Chinch Bug
+Cinnabar Moth
+Cuckoo Wasp
+Darkling Beetle
+Digger Wasp
+Drywood Termite
+Dung Fly
+Emperor Moth
+Fungus Gnat
+Giant Weta | weta
+Gall Wasp
+Grain Weevil
+Harlequin Ladybird
+Harvester Ant
+Honeypot Ant
+Horntail
+Hornet Moth
+Jerusalem Cricket
+Lappet Moth
+Leafminer
+Leafroller
+Mud Dauber
+Net-winged Beetle
+Oil Beetle
+Orchid Bee
+Peppered Moth
+Potter Wasp
+Rice Weevil
+Sac Spider
+Scarab Beetle
+Screwworm
+Scorpionfly
+Snakefly
+Soldier Beetle
+Soldier Fly
+Spanish Fly
+Thrips
+Treehopper
+Underwing
+Vinegar Fly
+Water Flea
+Water Scorpion
+Webspinner
+Whitefly
+Wood Wasp
+Yucca Moth
+Zebra Spider
+--- 5
+Acorn Weevil
+Apple Maggot
+Batman Beetle
+Bess Beetle
+Burying Beetle
+Cave Weta
+Cellar Spider
+Cicada Killer
+Clearwing Moth
+Darner
+Death Watch Beetle | deathwatch beetle
+Emerald Ash Borer
+Fishfly
+Flea Beetle
+Goat Moth
+Leopard Moth
+Lichen Moth
+Plume Moth
+Raspy Cricket
+Rhinoceros Cockroach
+Splendid Beetle
+Tiger Moth
+Tortoise Beetle

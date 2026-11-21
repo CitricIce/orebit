@@ -1,0 +1,1495 @@
+# Names, describing words, greetings and rhymes. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== boys-names
+title: Boys' names
+prompt: Name as many boys' names as you can
+starcore: Barnaby
+--- 1
+James | jim
+John
+Michael | micheal
+David
+Daniel
+Tom | tommy
+Jack
+Mark
+Peter
+Chris
+Matthew | mathew
+Adam
+--- 2
+William | will | bill | billy
+Robert | rob | bob | bobby
+Joseph | joe
+Thomas
+Charles | charlie | charley
+Christopher | cristopher
+Andrew | andy
+Anthony | tony
+Paul
+Steven | stephen | steve
+Kevin
+Brian | bryan
+George
+Edward | ed | eddie
+Richard | rick | dick | rich
+Henry | harry
+Samuel | sam
+Benjamin | ben
+Alexander | alex
+Nicholas | nick | nicolas
+Ryan
+Luke
+Joshua | josh
+Ethan
+Noah
+Liam
+Oliver
+Jacob
+Mason
+Logan
+Lucas
+Jayden
+Aiden
+Dylan
+Tyler
+Jason
+Justin
+Eric | erik
+Timothy | tim
+Patrick
+Jeremy
+Scott
+Gary
+Larry
+Jeff | jeffrey | geoffrey
+--- 3
+Aaron
+Austin
+Brandon
+Carlos
+Caleb
+Cameron
+Connor
+Dean
+Dennis
+Derek
+Donald | don
+Douglas | doug
+Dustin
+Elijah
+Evan
+Frank | frankie
+Gabriel
+Gregory | greg
+Hunter
+Ian
+Isaac
+Ivan
+Jake
+Jesse
+Jonathan | jon | jonny | johnny
+Jordan
+Jose
+Juan
+Kyle
+Lee
+Leo
+Louis | lewis
+Marcus
+Martin
+Max
+Nathan | nate | nathaniel
+Neil
+Oscar
+Owen
+Philip | phillip | phil
+Raymond | ray
+Ronald | ron | ronnie
+Russell
+Sean | shaun | shawn
+Simon
+Stuart | stewart
+Theodore | theo | ted | teddy
+Victor
+Vincent
+Walter
+Wayne
+Zachary | zach | zack
+Harrison
+Mike
+Dave
+Joey
+Danny
+Matt
+Jimmy
+--- 4
+Albert
+Alan | allan | allen
+Alfred | alfie
+Andre
+Anderson
+Archie
+Arthur
+Barry
+Blake
+Bradley | brad
+Bruce
+Bryce
+Carter
+Cecil
+Clark
+Clayton
+Cody
+Colin
+Craig
+Curtis
+Dale
+Darren
+Dexter
+Dominic
+Dwayne
+Edgar
+Edmund
+Elliot | elliott
+Emmanuel
+Felix
+Finn
+Fred | frederick | freddie
+Gavin
+Gordon
+Graham | graeme
+Grant
+Hugo
+Hugh
+Jackson
+Jasper
+Jay
+Joel
+Julian
+Keith
+Kenneth | ken | kenny
+Kurt
+Lance
+Landon
+Leonard | leon | lenny
+Levi
+Lincoln
+Lloyd
+Malcolm
+Marvin
+Maurice
+Miles
+Mitchell | mitch
+Mohammed | muhammad | mohamed
+Nelson
+Noel
+Norman
+Oswald
+Otis
+Pedro
+Quentin
+Ralph
+Randy
+Reggie
+Reid
+Rex
+Rodney
+Roger
+Roland
+Roy
+Rufus
+Ryder
+Sebastian
+Sergio
+Shane
+Spencer
+Stanley
+Tobias | toby
+Todd
+Trevor
+Troy
+Tristan
+Tyrone
+Vernon
+Wesley
+Wyatt
+Xavier
+Zane
+Ashton
+Asher
+Beau
+Callum
+Declan
+Ewan
+Hamish
+Rory
+Angus
+Fraser
+Jamie
+Ollie
+--- 5
+Abel
+Abraham | abe
+Adrian
+Alistair | alasdair
+Ambrose
+Amos
+Atticus
+Barnaby
+Basil
+Bernard
+Bertie
+Boris
+Brendan
+Brutus
+Cedric
+Chad
+Chester
+Clifford
+Clint
+Cornelius
+Cyrus
+Damian | damien
+Darius
+Desmond
+Dmitri | dmitry
+Duncan
+Dwight
+Egbert
+Ernest
+Eugene
+Ezekiel
+Ezra
+Fergus
+Floyd
+Francis
+Gideon
+Gilbert
+Gus | augustus | august
+Harold
+Herbert
+Homer
+Horace
+Howard
+Humphrey
+Ignatius
+Ivor
+Jerome
+Jethro
+Kai
+Kieran
+Lawrence | laurence
+Linus
+Lionel
+Lucian
+Magnus
+Marshall
+Merlin
+Milo
+Montgomery
+Morris
+Murray
+Nigel
+Orlando
+Orson
+Osborne
+Percy
+Phineas
+Reuben
+Rudolph | rudy
+Rupert
+Seamus
+Silas
+Solomon
+Stefan
+Sylvester
+Thaddeus
+Thor
+Titus
+Ulysses
+Walt
+Wilbur
+Winston
+Zeke
+Zion
+Angelo
+Antonio
+Giovanni
+Luca
+Marco
+Mario
+Pablo
+Miguel
+Diego
+Hans
+Klaus
+Lars
+Sven
+Olaf
+Pierre
+Jean
+Luc
+Andres
+Jorge
+Ahmed
+Ali
+Omar
+Hassan
+Raj
+Ravi
+Arjun
+Wei
+Hiroshi
+Kenji
+Yuki
+Takeshi
+
+=== girls-names
+title: Girls' names
+prompt: Name as many girls' names as you can
+starcore: Philippa
+--- 1
+Mary
+Emma
+Sarah | sara
+Emily | emilie
+Jessica | jess
+Sophie | sophia
+Olivia
+Anna
+Lisa
+Jennifer | jen | jenny
+Elizabeth | liz | lizzie | beth
+Katie | kate | katy | kathy
+Amy
+Lucy
+Charlotte
+--- 2
+Jane
+Laura
+Rachel
+Rebecca | becky
+Hannah
+Megan
+Alice
+Grace
+Chloe
+Ella
+Isabella | isabel | isabelle
+Ava
+Mia
+Amelia
+Abigail | abby
+Madison
+Hailey
+Samantha | sam
+Ashley
+Amanda
+Nicole
+Stephanie
+Michelle
+Melissa
+Jessie
+Natalie
+Victoria | vicky | tori
+Ruby
+Lily | lilly
+Daisy
+Rose
+Eleanor
+Zoe | zoey
+Molly
+Holly
+Poppy
+Evie
+Isla
+Freya
+Lauren
+Hayley
+Kelly
+Lola
+Maria
+Sofia
+Julia
+--- 3
+Alexandra | alexa
+Alexis
+Alyssa
+Andrea
+Angela
+Anne | ann | annie
+Barbara
+Brittany
+Brooke
+Caroline
+Catherine | katherine | kathryn | cathy
+Cassandra
+Claire | clare
+Courtney
+Danielle
+Deborah | debbie
+Diana
+Donna
+Elena
+Erin
+Eva
+Fiona
+Gemma
+Georgia
+Gina
+Hazel
+Heather
+Helen
+Ivy
+Jasmine
+Joanna | joanne | jo
+Julie
+Karen
+Kayla
+Kimberly | kim
+Leah
+Linda
+Lydia
+Madeline | madeleine | maddie
+Margaret | maggie | meg
+Martha
+Maya
+Nancy
+Naomi
+Nora
+Paige
+Pamela | pam
+Patricia | trish | patty
+Paula
+Penelope | penny
+Rachael
+Rihanna
+Riley
+Ruth
+Sandra
+Scarlett
+Sharon
+Sienna
+Susan | sue | susie
+Tanya
+Tiffany
+Tina
+Vanessa
+Violet
+Wendy
+Zara
+Betty
+Carol
+Dorothy
+Judy
+Peggy
+Sally
+Shirley
+Cindy
+Debra
+Kathleen
+Lindsay | lindsey
+Lori
+Tracy
+Tammy
+--- 4
+Adele
+Agatha
+Alana
+Alison | allison
+Amber
+Amelie
+Angelina
+Ariana
+Audrey
+Aurora
+Autumn
+Beatrice | bea
+Bella
+Bridget
+Camila
+Carla
+Carmen
+Cecilia
+Celeste
+Chelsea
+Clara
+Cora
+Daphne
+Delilah
+Eden
+Edith
+Eileen
+Elsa
+Esme
+Esther
+Eve
+Faith
+Florence | flo
+Gabriella
+Gloria
+Harriet
+Hope
+Imogen
+Iris
+Jade
+Jenna
+Joy
+Josephine | josie
+Juliet
+June
+Kara
+Kylie
+Lara
+Leila | layla | leyla
+Lena
+Leonie
+Lillian
+Lorna
+Louise | lou
+Lucia
+Mabel
+Mackenzie
+Maeve
+Marie
+Marilyn
+Matilda | tilly
+Maud
+Melanie
+Mila
+Miranda
+Nadia
+Natasha
+Nina
+Noelle
+Olive
+Ophelia
+Pearl
+Phoebe
+Piper
+Priscilla
+Quinn
+Rita
+Roxanne
+Sabrina
+Savannah
+Selena
+Serena
+Shelby
+Simone
+Stella
+Summer
+Sylvia
+Tabitha
+Tessa
+Thea
+Trinity
+Willow
+Winnie
+Yasmin
+Zelda
+Bethany
+Cheryl
+Denise
+Gail
+Jackie
+Janet
+Jill
+Joan
+Joyce
+Karla
+Kerry
+Leslie
+Lynn
+Marcia
+Monica
+Rosie
+Shannon
+Tara
+Terri
+--- 5
+Aaliyah
+Adelaide
+Agnes
+Aisha
+Albertina
+Alma
+Ambrosia
+Anastasia
+Antonia
+Arabella
+Beryl
+Blanche
+Bonnie
+Bronwyn
+Calista
+Cordelia
+Cressida
+Dahlia
+Dolores
+Edna
+Elinor
+Eloise
+Enid
+Ethel
+Eugenie
+Felicity
+Fenella
+Fern
+Fleur
+Francesca
+Frida
+Gertrude | gertie
+Gwendolyn | gwen
+Hermione
+Hilda
+Ines
+Ingrid
+Isadora
+Isolde
+Jocelyn
+Juniper
+Kaitlyn
+Lavinia
+Lettice
+Lorelei
+Lucille
+Luna
+Magdalena
+Marigold
+Mavis
+Mildred
+Minerva
+Morgan
+Nell
+Octavia
+Odette
+Olympia
+Pandora
+Petra
+Philippa
+Primrose
+Prudence
+Rowena
+Sage
+Seraphina
+Sigrid
+Tallulah
+Theodora
+Una
+Ursula
+Vera
+Verity
+Viola
+Vivian
+Wilhelmina
+Winifred
+Yvonne
+Zinnia
+Giulia
+Chiara
+Greta
+Helga
+Anya
+Olga
+Natalia
+Svetlana
+Fatima
+Priya
+Anjali
+Mei
+Yuki
+Sakura
+
+
+=== describe-person
+title: Words to describe a person
+prompt: Name as many words to describe a person as you can (personality or looks)
+starcore: Magnanimous
+--- 1
+Kind
+Funny | hilarious
+Tall
+Short
+Shy
+Smart | clever | intelligent
+Nice
+Friendly
+Beautiful
+Handsome
+Happy
+Sad
+Angry
+Brave
+Lazy
+--- 2
+Pretty
+Ugly
+Fat
+Thin | skinny
+Strong
+Weak
+Rude
+Mean
+Honest
+Generous
+Selfish
+Polite
+Loud
+Quiet
+Creative
+Cute
+Old
+Young
+Tired
+Hardworking | hard working
+Confident
+Caring
+Loyal
+Patient
+Smelly
+Bald
+Big
+Small
+Little
+Rich
+Poor
+Crazy
+Silly
+Stupid | dumb
+Boring
+Interesting
+Sweet
+Lovely
+Gorgeous
+Attractive
+Slim
+Chubby
+Athletic
+Fit
+Muscular
+Stylish
+Messy
+Tidy
+Neat
+Clumsy
+Weird
+Strange
+Cool
+Cheerful
+Grumpy
+Moody
+Jealous
+Proud
+Humble
+Calm
+Anxious
+Nervous
+Worried
+Excited
+Bored
+Lonely
+Curious
+Careful
+Careless
+Funny looking
+--- 3
+Adventurous
+Affectionate
+Aggressive
+Ambitious
+Annoying
+Arrogant
+Bossy
+Bright
+Charming
+Clean
+Cruel
+Dishonest
+Dull
+Easygoing | easy going | laid back | laid-back
+Elegant
+Energetic
+Faithful
+Fearless
+Fierce
+Forgetful
+Gentle
+Gifted
+Gloomy
+Good looking | good-looking
+Greedy
+Hairy
+Helpful
+Hot
+Humorous
+Impatient
+Independent
+Innocent
+Kind-hearted | kind hearted | kindhearted
+Lively
+Mature
+Modest
+Naughty
+Obedient
+Optimistic
+Outgoing
+Pessimistic
+Petite
+Playful
+Pleasant
+Popular
+Reliable
+Responsible
+Sensible
+Sensitive
+Serious
+Sincere
+Skilled
+Sleepy
+Sociable
+Stubborn
+Talented
+Talkative
+Thoughtful
+Thoughtless
+Tough
+Trustworthy
+Unhappy
+Wise
+Witty
+Wonderful
+Nosy
+Chatty
+Cheeky
+Childish
+Lovable
+Warm
+Cold
+Sporty
+Blonde
+Brunette
+Ginger
+Curly
+Freckled
+Stocky
+Lanky
+Wrinkly
+Plain
+Pale
+Tanned
+Bearded
+--- 4
+Abrasive
+Absent-minded | absent minded
+Agreeable
+Amiable
+Articulate
+Boisterous
+Brash
+Bubbly
+Candid
+Cautious
+Charismatic
+Cunning
+Cynical
+Decisive
+Diligent
+Disciplined
+Dramatic
+Eccentric
+Empathetic
+Enthusiastic
+Fickle
+Flamboyant
+Foolish
+Frugal
+Gullible
+Gregarious
+Haughty
+Hostile
+Immature
+Impulsive
+Insecure
+Introverted
+Extroverted
+Irritable
+Jolly
+Judgmental
+Knowledgeable
+Manipulative
+Meticulous
+Miserly
+Narcissistic
+Observant
+Open-minded | open minded
+Passionate
+Persistent
+Pushy
+Quirky
+Rebellious
+Reserved
+Resourceful
+Ruthless
+Sarcastic
+Selfless
+Shallow
+Sly
+Smug
+Snobby
+Spoiled
+Spontaneous
+Stingy
+Sullen
+Supportive
+Tactful
+Timid
+Unreliable
+Vain
+Vivacious
+Wacky
+Whiny
+Zany
+Petty
+Plump
+Scruffy
+Slender
+Bony
+Burly
+Dainty
+Frail
+Gaunt
+Rugged
+Scrawny
+Sturdy
+Svelte
+Tiny
+Towering
+Voluptuous
+Wiry
+--- 5
+Affable
+Altruistic
+Benevolent
+Blithe
+Capricious
+Compassionate
+Conscientious
+Courteous
+Dauntless
+Debonair
+Eloquent
+Erudite
+Fastidious
+Garrulous
+Gracious
+Ingenious
+Irascible
+Jovial
+Loquacious
+Magnanimous
+Mercurial
+Munificent
+Obstinate
+Pensive
+Perceptive
+Placid
+Pompous
+Prudent
+Querulous
+Quixotic
+Reticent
+Sagacious
+Sanguine
+Serene
+Stoic
+Taciturn
+Tenacious
+Temperamental
+Vindictive
+Whimsical
+Zealous
+Gangly
+Comely
+Statuesque
+Swarthy
+Portly
+Rotund
+Corpulent
+Lithe
+Willowy
+Dapper
+Gawky
+
+
+=== ways-to-say-hello
+title: Ways to say hello
+prompt: Name as many ways to say hello as you can (any language, slang included)
+starcore: Kia ora
+--- 1
+Hello | hullo | hallo
+Hi
+Hey
+Hola
+Bonjour
+Howdy
+Yo
+Aloha
+Ciao
+What's up | whats up | wassup | sup
+Good morning
+--- 2
+Hiya
+G'day | gday | good day
+Namaste
+Konnichiwa
+Ni hao | nihao
+Salut
+Guten Tag
+Buongiorno
+Heya
+Greetings
+Hello there
+Hey there
+Hi there
+Shalom
+Salaam
+Good afternoon
+Good evening
+How are you
+How do you do
+Annyeong | annyeonghaseyo
+Privet
+Olá | ola
+Oi
+Ahoy
+Heyo
+Hey you
+Hey man
+Hey dude
+Sup dude
+--- 3
+Bonsoir
+Buenos dias
+Buenas tardes
+Buenas noches
+Buenas
+Hej
+Hei
+Ahoj
+Merhaba
+Jambo
+Habari
+Sawubona
+Kia ora
+Yassou | yia sou | yasou
+Kalimera
+Dzien dobry
+Szia
+Marhaba
+As-salamu alaikum | assalamu alaikum | salam alaikum | salaam alaikum
+Xin chao
+Sawasdee | sawadee | sawasdee krap
+Salutations
+Welcome
+Wotcha | wotcher
+Alright | alright mate | all right
+Ey up | eyup
+Whaddup | wazzup | whassup
+What's good | whats good
+What's happening
+How's it going | hows it going
+How's things
+How are things
+How goes it
+Top of the morning
+Hail
+Yo yo
+Hey buddy
+Hey mate
+--- 4
+Salve
+Servus
+Moin
+Gruss Gott
+Dia duit
+Mingalaba
+Vanakkam
+Sat Sri Akal
+Halo
+Kumusta
+Apa kabar
+Selamat pagi
+Selamat siang
+Bula
+Talofa
+Malo e lelei
+Nǐ hǎo
+Zdravstvuyte | zdravstvuite
+Dobry den
+Dobar dan
+Dobrý den
+Zdravo
+Bok
+Cześć | czesc
+Hei hei
+Moi
+Terve
+Tere
+Sveiki
+Labas
+Sveikas
+God dag
+God morgen
+Goddag
+Godmorgen
+Guten Morgen
+Guten Abend
+Bom dia
+Boa tarde
+Boa noite
+Buon pomeriggio
+Buona sera
+Buonasera
+Bonne journée
+Allo
+Allô
+Coucou
+Salam
+Selam
+Sabaidee
+Chao
+Jambo bwana
+Hujambo
+Yebo
+Molo
+Dumela
+Sanibonani
+Akwaba
+Ndeewo
+Sannu
+Ahlan
+Ahlan wa sahlan
+Sabah al khair
+Namaskar
+Namaskaram
+Pranam
+Sat sri akaal
+Assalamualaikum
+Dobroye utro
+Dobryy den
+Shalom aleichem
+Shalom aleikhem
+Aloha kakahiaka
+Kamusta
+Magandang umaga
+Mabuhay
+Selamat datang
+Zao an
+Konbanwa
+Ohayo | ohayou | ohayo gozaimasu
+Moshi moshi
+Yeoboseyo
+Sawadee ka
+Xin chào
+--- 5
+Howdy do
+Howdy partner
+Howdy doody
+Well hello
+Well hi
+Halloo
+Heyyy
+Hellooo
+Hiii
+Ello
+'Ello
+'Allo 'allo
+Greetings earthling
+Hey hey
+Hey hey hey
+Aloha kakou
+Tansi
+Boozhoo
+Shi-ma
+Ya'at'eeh | yaateeh
+Osiyo
+Haere mai
+Tena koe
+Tenā koe
+Talofa lava
+Fakaalofa atu
+Ia orana
+Kaoha
+Moni
+
+
+=== rhymes-cat
+title: Words that rhyme with "cat"
+prompt: Name as many words as you can that rhyme with "cat"
+starcore: Rheostat
+--- 1
+Bat
+Hat
+Rat
+Mat
+Fat
+Sat
+Flat
+That
+Chat
+Pat
+--- 2
+Splat
+Brat
+Gnat
+Spat
+Scat
+Vat
+Slat
+Sprat
+Combat
+Wombat
+Habitat
+Acrobat
+Diplomat
+Democrat
+Format
+Doormat | door mat
+Placemat | place mat
+Thermostat
+Aristocrat
+Bureaucrat
+Cravat
+Matt
+Nat
+Stat
+At
+Tat
+Tomcat
+Copycat
+Wildcat
+Bobcat
+Polecat
+Tophat | top hat
+Hardhat | hard hat
+Chitchat | chit-chat | chit chat
+Tit for tat | tit-for-tat
+Brickbat | brick bat
+Fat cat
+Hellcat
+--- 3
+Muskrat
+Hepcat
+Nonfat | non-fat
+Begat
+Autocrat
+Technocrat
+Plutocrat
+Ratatat | rat-a-tat | rat a tat
+Pit-a-pat | pit a pat
+At-bat | at bat
+Landsat
+Kat
+Ziggurat
+Bearcat
+Alleycat | alley cat
+Scaredy cat | scaredy-cat
+Fraidy cat
+Sunhat | sun hat
+Packrat | pack rat
+Gym rat | gymrat
+Mall rat | mallrat
+Backchat | back chat
+--- 4
+Photostat
+Aerostat
+Cryostat
+Humidistat
+Gyrostat
+Hydrostat
+Meritocrat
+Theocrat
+Kleptocrat
+Gerontocrat
+--- 5
+Rheostat
+Thalassocrat
+
+
+=== rhymes-day
+title: Words that rhyme with "day"
+prompt: Name as many words as you can that rhyme with "day"
+starcore: Chevrolet
+--- 1
+Say
+Way
+May
+Play
+Stay
+Pay
+Gray | grey
+Bay
+Clay
+Hay
+--- 2
+Jay
+Lay
+Ray
+Pray
+Tray
+Spray
+Sway
+Stray
+Slay
+Fray
+Bray
+Gay
+Nay
+Neigh
+Weigh
+Sleigh
+Prey
+They
+Whey
+Obey
+Okay | ok | o.k.
+Hooray | hurray | hoorah
+Today
+Away
+Delay
+Decay
+Display
+Betray
+Convey
+Survey
+Allay
+Array
+Astray
+Hey
+Yay
+Yea
+Mayday | may day
+Birthday
+Holiday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+Yesterday
+Everyday | every day
+Someday | some day
+Weekday
+Payday
+Heyday
+Workday
+Midday
+Doomsday
+Anyway
+Halfway
+Doorway
+Highway
+Subway
+Runway
+Hallway
+Pathway
+Driveway
+Hideaway
+Getaway
+Runaway
+Faraway
+Giveaway
+Takeaway
+Castaway
+Breakaway
+Stowaway
+Underway
+Always
+Dismay
+Replay
+Repay
+Relay
+Portray
+Essay
+Mislay
+Inlay
+Airplay
+Roleplay | role play
+Cosplay
+Stingray | sting ray
+Mainstay
+Sashay
+Disobey
+Disarray
+Overstay
+Prepay
+Underpay
+--- 3
+Ballet
+Bouquet
+Buffet
+Cafe
+Cabaret
+Cliche
+Fiance
+Fiancee
+Sachet
+Soiree
+Valet
+Puree
+Filet | fillet
+Croquet
+Chalet
+Matinee
+Toupee
+Risque
+Saute
+Souffle
+Sorbet
+Parfait
+Cabernet
+Beret
+Bidet
+Duvet
+Gourmet
+Ricochet
+Entree
+Passe
+Blase
+Attache
+Protege
+--- 4
+Chevrolet
+Foyer
+Negligee
+Beignet
+Cachet
+Cassoulet
+Chardonnay
+Dossier
+Quay
+Kay
+Fay
+Mae
+Bombay
+Cathay
+Monterey
+Calais
+Ole
+Bae
+Splay
+Melee
+Plie
+Roue
+Monet
+Manet
+Crochet
+--- 5
+Faberge
+Pinochet
+Pince-nez
+

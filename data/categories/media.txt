@@ -1,0 +1,1393 @@
+# TV shows, apps and websites, stores. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== tv-shows
+title: TV shows
+prompt: Name as many TV shows as you can
+starcore: Deadwood
+--- 1
+Friends
+The Simpsons | simpsons
+Game of Thrones | got
+Breaking Bad
+Stranger Things
+The Office | office
+Seinfeld
+Family Guy
+SpongeBob SquarePants | spongebob
+Grey's Anatomy | greys anatomy
+The Walking Dead | walking dead
+--- 2
+Pokemon
+Doctor Who
+South Park
+Big Bang Theory | the big bang theory
+How I Met Your Mother | himym
+Modern Family
+The Sopranos | sopranos
+The Wire
+Lost
+Dexter
+House | house md
+Supernatural
+Parks and Recreation | parks and rec
+Brooklyn Nine-Nine | brooklyn 99 | brooklyn nine nine
+Black Mirror
+The Crown | crown
+Sherlock
+Downton Abbey
+Peaky Blinders
+Money Heist | la casa de papel
+Squid Game
+Wednesday
+The Mandalorian | mandalorian
+Succession
+Ted Lasso
+Euphoria
+Bridgerton
+The Last of Us | last of us
+Suits
+Narcos
+Ozark
+Vikings
+Westworld
+Arrested Development
+Scrubs
+Frasier
+Cheers
+Married with Children
+The Fresh Prince of Bel-Air | fresh prince | fresh prince of bel air
+Full House
+Gilmore Girls
+Pretty Little Liars
+Gossip Girl
+The Vampire Diaries | vampire diaries
+Riverdale
+One Tree Hill
+Glee
+Desperate Housewives
+Sex and the City
+Criminal Minds
+NCIS
+CSI
+Law and Order | law & order
+Bluey
+Peppa Pig
+Paw Patrol
+Dora the Explorer | dora
+Sesame Street
+Rick and Morty
+Adventure Time
+Avatar The Last Airbender | avatar
+Naruto
+Dragon Ball Z | dragonball z | dbz
+One Piece
+The Masked Singer
+American Idol
+Survivor
+The Bachelor
+Love Island
+Big Brother
+The Voice
+Dancing with the Stars
+Strictly Come Dancing | strictly
+Britain's Got Talent | britains got talent
+America's Got Talent | americas got talent
+X Factor | the x factor
+MasterChef | master chef
+Top Gear
+The Great British Bake Off | bake off | great british bake off
+Jeopardy
+Wheel of Fortune
+The Price Is Right | price is right
+Saturday Night Live | snl
+The Tonight Show
+Jimmy Kimmel Live
+Late Night with Seth Meyers
+The Daily Show | daily show
+--- 3
+24
+Alias
+Arrow
+The Flash | flash
+Smallville
+Buffy the Vampire Slayer | buffy
+Angel
+Charmed
+Friday Night Lights
+Heroes
+Prison Break
+The X-Files | x files | the x files
+Twin Peaks
+Mad Men
+Boardwalk Empire
+Homeland
+House of Cards
+The Handmaid's Tale | handmaids tale
+Orange Is the New Black | oitnb
+Better Call Saul
+Fargo
+True Detective
+Mindhunter
+The Witcher | witcher
+Outlander
+The Boys
+Loki
+WandaVision
+Andor
+House of the Dragon
+The Rings of Power
+The Bear
+Only Murders in the Building
+Abbott Elementary
+Schitt's Creek | schitts creek
+Fleabag
+Derry Girls
+Extras
+Gavin and Stacey
+Blackadder
+Fawlty Towers
+Only Fools and Horses
+Father Ted
+The IT Crowd | it crowd
+Peep Show
+The Inbetweeners | inbetweeners
+Skins
+Misfits
+Luther
+Line of Duty
+Broadchurch
+Midsomer Murders
+Poirot
+Miss Marple
+Coronation Street | corrie
+EastEnders
+Emmerdale
+Neighbours
+Home and Away
+Days of Our Lives
+General Hospital
+The Bold and the Beautiful
+Young and the Restless
+Dallas
+Dynasty
+Knight Rider
+The A-Team | a-team | a team
+Baywatch
+Miami Vice
+Magnum PI | magnum p.i.
+MacGyver
+Star Trek
+Star Trek The Next Generation | the next generation | tng
+Battlestar Galactica
+Stargate SG-1 | stargate
+Firefly
+The Twilight Zone | twilight zone
+Happy Days
+M*A*S*H | mash
+The Brady Bunch | brady bunch
+I Love Lucy
+The Golden Girls | golden girls
+Three's Company | threes company
+Everybody Loves Raymond
+The King of Queens | king of queens
+Two and a Half Men
+Mom
+That '70s Show | that 70s show
+Malcolm in the Middle
+Everybody Hates Chris
+Sabrina the Teenage Witch
+Boy Meets World
+Saved by the Bell
+Hannah Montana
+Wizards of Waverly Place
+iCarly
+Victorious
+Drake and Josh
+Zoey 101
+Lizzie McGuire
+The Suite Life of Zack and Cody | suite life of zack and cody
+That's So Raven | thats so raven
+Phineas and Ferb
+Gravity Falls
+Kim Possible
+Teen Titans
+Teenage Mutant Ninja Turtles | tmnt
+Scooby-Doo | scooby doo
+Looney Tunes
+Tom and Jerry
+Futurama
+King of the Hill
+American Dad
+Bob's Burgers | bobs burgers
+Archer
+BoJack Horseman | bojack
+Daria
+Beavis and Butt-Head | beavis and butthead
+Hey Arnold
+Rugrats
+Arthur
+Clifford the Big Red Dog
+Teletubbies
+Barney and Friends | barney
+Thomas the Tank Engine | thomas and friends
+Blue's Clues
+Bob the Builder
+Fireman Sam
+Mister Rogers' Neighborhood | mister rogers | mr rogers
+Fraggle Rock
+The Muppet Show | muppet show
+Planet Earth
+Cosmos
+Mythbusters
+Jackass
+Impractical Jokers
+Queer Eye
+Keeping Up with the Kardashians | kardashians
+The Real Housewives | real housewives
+Jersey Shore
+The Apprentice
+Shark Tank
+Dragons' Den | dragons den
+Who Wants to Be a Millionaire | millionaire
+Family Feud
+Deal or No Deal
+The Weakest Link | weakest link
+Countdown
+Pointless
+Mastermind
+Taskmaster
+Have I Got News for You | hignfy
+QI
+Would I Lie to You
+--- 4
+Deadwood
+The Shield
+Oz
+Six Feet Under
+Rome
+Band of Brothers
+The Pacific
+Chernobyl
+Mare of Easttown
+Yellowstone
+Billions
+Silicon Valley
+Veep
+Curb Your Enthusiasm | curb
+Entourage
+Weeds
+Nurse Jackie
+Californication
+Shameless
+Dead to Me
+Russian Doll
+Maid
+Sex Education
+Elite
+Dark
+Lupin
+Emily in Paris
+Virgin River
+Cobra Kai
+Outer Banks
+Never Have I Ever
+The Umbrella Academy | umbrella academy
+Lucifer
+Locke and Key
+Sweet Tooth
+Shadow and Bone
+Arcane
+Love Death and Robots | love death + robots
+Castlevania
+The Expanse | expanse
+Foundation
+Severance
+Silo
+Fallout
+Shogun
+Reacher
+Jack Ryan
+Slow Horses
+Ted
+Hacks
+Barry
+Atlanta
+Insecure
+Master of None
+Girls
+Louie
+Community
+30 Rock
+The Good Place | good place
+New Girl
+Happy Endings
+Raising Hope
+Parenthood
+This Is Us
+Chicago Fire
+Chicago PD
+Chicago Med
+Station 19
+ER
+Scandal
+Revenge
+Nashville
+Empire
+Power
+Rizzoli and Isles
+Bones
+Castle
+Monk
+Psych
+Burn Notice
+White Collar
+Elementary
+The Mentalist
+Blue Bloods
+Hawaii Five-0 | hawaii five 0
+Cold Case
+Without a Trace
+The Closer
+Quantico
+Blindspot
+Fringe
+Person of Interest
+Revolution
+Terra Nova
+Eureka
+Warehouse 13
+Sleepy Hollow
+Grimm
+Once Upon a Time
+Merlin
+Teen Wolf
+True Blood
+The Originals
+Legacies
+Shadowhunters
+Roswell
+Dawson's Creek | dawsons creek
+Beverly Hills 90210 | 90210
+Melrose Place
+The O.C. | the oc
+Veronica Mars
+Degrassi
+Freaks and Geeks
+My So-Called Life
+The Wonder Years
+Growing Pains
+Family Ties
+Who's the Boss | whos the boss
+Diff'rent Strokes | different strokes
+The Cosby Show | cosby show
+A Different World
+Martin
+Living Single
+Moesha
+Sister Sister
+The Jeffersons | jeffersons
+Good Times
+Sanford and Son
+All in the Family
+Taxi
+Night Court
+Newhart
+Roseanne
+Murphy Brown
+Will and Grace
+Ellen
+Spin City
+Mad About You
+Just Shoot Me
+NewsRadio
+3rd Rock from the Sun
+Becker
+--- 5
+Hill Street Blues
+St. Elsewhere
+Thirtysomething
+Northern Exposure
+Picket Fences
+Homicide Life on the Street
+NYPD Blue
+Carnivale
+Hell on Wheels
+Justified
+Banshee
+Rectify
+The Leftovers
+Halt and Catch Fire
+Counterpart
+Penny Dreadful
+Hannibal
+Bates Motel
+American Horror Story
+Dark Matter
+Orphan Black
+Continuum
+Utopia
+Spooks
+Life on Mars
+Ashes to Ashes
+Doctor Foster
+Happy Valley
+Bodyguard
+Killing Eve
+The Night Manager
+Normal People
+I May Destroy You
+Ugly Betty
+Pushing Daisies
+Dead Like Me
+Wonderfalls
+Moonlighting
+Remington Steele
+Hart to Hart
+Charlie's Angels | charlies angels
+The Love Boat
+Fantasy Island
+Quantum Leap
+Lost in Space
+Land of the Giants
+The Prisoner
+The Avengers
+The Saint
+The Persuaders
+Thunderbirds
+Captain Scarlet
+Stingray
+The Goodies
+Monty Python's Flying Circus | monty python
+The Two Ronnies
+Dad's Army | dads army
+Are You Being Served
+Porridge
+Open All Hours
+Last of the Summer Wine
+Keeping Up Appearances
+Yes Minister
+One Foot in the Grave
+Red Dwarf
+The Young Ones
+Bottom
+Spitting Image
+Brass Eye
+The Day Today
+I'm Alan Partridge | alan partridge
+The Thick of It
+Black Books
+Spaced
+Green Wing
+Benidorm
+Mrs Brown's Boys | mrs browns boys
+Outnumbered
+Miranda
+Citizen Khan
+
+
+=== apps-websites
+title: Apps and websites
+prompt: Name as many apps and websites as you can
+starcore: Pinterest
+--- 1
+Google
+YouTube
+Facebook
+Instagram
+Amazon
+Twitter | x
+TikTok
+Netflix
+Wikipedia
+WhatsApp
+Snapchat
+Spotify
+--- 2
+Reddit
+Gmail
+Zoom
+Uber
+Airbnb
+eBay
+Pinterest
+LinkedIn
+Twitch
+Discord
+Telegram
+Skype
+Yahoo
+Bing
+Microsoft Teams | teams
+Slack
+Dropbox
+PayPal
+Venmo
+Tinder
+Bumble
+Hinge
+Disney+ | disney plus
+Hulu
+HBO Max | max
+Amazon Prime | prime video
+Apple Music
+Google Maps | maps
+Google Docs
+Google Drive
+Google Chrome | chrome
+Safari
+Firefox
+Waze
+Duolingo
+Candy Crush
+Roblox
+Minecraft
+Fortnite
+Pokemon Go
+Angry Birds
+Temple Run
+Flappy Bird
+Wordle
+Shazam
+Etsy
+Craigslist
+Facebook Messenger | messenger
+Threads
+Tumblr
+Vine
+Flickr
+MySpace
+iMessage
+FaceTime
+Calculator
+Camera
+Weather
+Clock
+Photos
+Settings
+App Store
+Google Play
+Siri
+Alexa
+ChatGPT
+Instagram Reels
+Cash App
+Zelle
+DoorDash
+Uber Eats
+Grubhub
+Lyft
+Yelp
+TripAdvisor
+Booking.com | booking
+Expedia
+Trivago
+Kayak
+Google Translate | translate
+Google Photos
+Google Calendar
+Google Earth
+Google Meet
+Google Classroom
+Canva
+Notion
+Evernote
+Trello
+Asana
+Microsoft Word | word
+Microsoft Excel | excel
+PowerPoint
+Outlook
+OneDrive
+iCloud
+Snapchat Stories
+BeReal
+Clubhouse
+Quora
+Medium
+WordPress
+Wix
+Squarespace
+Shopify
+Alibaba
+AliExpress
+Temu
+Shein
+Wish
+Poshmark
+Depop
+Vinted
+Gumtree
+Zillow
+Redfin
+Rightmove
+Indeed
+Glassdoor
+Coursera
+Khan Academy
+Udemy
+Quizlet
+Kahoot
+IMDb
+Rotten Tomatoes
+Goodreads
+Audible
+Kindle
+SoundCloud
+Bandcamp
+Deezer
+Tidal
+YouTube Music
+Strava
+Fitbit
+MyFitnessPal
+Headspace
+Calm
+Peloton
+Citymapper
+Google Pay
+Apple Pay
+Samsung Pay
+Revolut
+Monzo
+Wise
+Coinbase
+Robinhood
+Binance
+--- 3
+Hotmail
+AOL
+Ask Jeeves | ask.com | ask
+DuckDuckGo
+Baidu
+Yandex
+WeChat
+Weibo
+Line
+Viber
+Signal
+Kik
+Omegle
+Periscope
+Vimeo
+Dailymotion
+Pornhub
+Imgur
+9GAG
+Giphy
+Tenor
+Buzzfeed
+Huffington Post | huffpost
+CNN
+BBC
+Crunchyroll
+Funimation
+Peacock
+Paramount+ | paramount plus
+Apple TV | apple tv+
+Tubi
+Pluto TV
+Roku
+Plex
+Kodi
+Napster
+LimeWire
+Kazaa
+Steam
+Epic Games
+Origin
+Battle.net
+Xbox Live
+PlayStation Network | psn
+Nintendo eShop
+Itch.io
+Among Us
+Clash of Clans
+Clash Royale
+Subway Surfers
+Fruit Ninja
+Cut the Rope
+Plants vs Zombies
+Words with Friends
+Farmville
+Genshin Impact
+Call of Duty Mobile
+PUBG
+Brawl Stars
+Wattpad
+Archive of Our Own | ao3
+Letterboxd
+Untappd
+Foursquare
+Meetup
+Eventbrite
+Ticketmaster
+StubHub
+SeatGeek
+OpenTable
+Resy
+Instacart
+Postmates
+Deliveroo
+Just Eat
+Gopuff
+Zocdoc
+WebMD
+Mayo Clinic
+Ancestry
+23andMe
+Genius
+Wolfram Alpha
+Stack Overflow
+GitHub
+GitLab
+Figma
+Adobe Photoshop | photoshop
+Adobe Illustrator | illustrator
+Lightroom
+Premiere Pro
+Final Cut Pro
+iMovie
+GarageBand
+CapCut
+InShot
+VSCO
+Snapseed
+Facetune
+Lensa
+Remini
+Prisma
+Likee
+Triller
+Dubsmash
+Musical.ly | musically
+Houseparty
+Marco Polo
+Cameo
+Patreon
+OnlyFans
+Kickstarter
+GoFundMe
+Indiegogo
+OfferUp
+Mercari
+Facebook Marketplace | marketplace
+Nextdoor
+Truth Social
+Parler
+Gab
+Mastodon
+Bluesky
+Substack
+Linktree
+--- 4
+Lycos
+AltaVista
+Excite
+GeoCities
+Friendster
+Bebo
+Orkut
+Digg
+Delicious
+StumbleUpon
+Netscape
+Internet Explorer
+Opera
+Brave
+Vivaldi
+Tor
+Edge
+Winamp
+ICQ
+MSN Messenger | msn
+AIM | aol instant messenger
+Yahoo Messenger
+Xanga
+LiveJournal
+Blogger
+Flipboard
+Feedly
+Pocket
+Instapaper
+Zapier
+IFTTT
+OneNote
+Todoist
+Obsidian
+Airtable
+Monday.com | monday
+Basecamp
+Jira
+Confluence
+Zendesk
+Intercom
+Mailchimp
+Constant Contact
+SurveyMonkey
+Typeform
+Google Forms
+Calendly
+DocuSign
+Box
+WeTransfer
+Mega
+Webex
+GoToMeeting
+Hangouts
+Google Duo
+Google Allo
+Google Wave
+Google Plus | google+
+Google Buzz
+Meerkat
+Yik Yak
+Whisper
+Ello
+Fitocracy
+Zwift
+Komoot
+AllTrails
+Citizen
+Life360
+Find My
+Tile
+Ingress
+Geocaching
+Babbel
+Rosetta Stone
+Memrise
+Busuu
+Mondly
+Anki
+Brainly
+Photomath
+Chegg
+Course Hero
+Grammarly
+Turnitin
+Wikihow
+Snopes
+Urban Dictionary
+Merriam-Webster | merriam webster
+Dictionary.com
+Thesaurus.com
+--- 5
+Neopets
+Club Penguin
+Habbo Hotel | habbo
+Runescape
+Webkinz
+Poptropica
+Miniclip
+Newgrounds
+Kongregate
+Armor Games
+Addicting Games
+Cool Math Games
+Funbrain
+Pogo
+Gaia Online
+Second Life
+Stardoll
+Moshi Monsters
+Bin Weevils
+Lingo
+Slither.io
+Agar.io
+Wordscapes
+Gardenscapes
+Homescapes
+Township
+Hay Day
+Boom Beach
+Doodle Jump
+Jetpack Joyride
+Crossy Road
+Alto's Adventure
+Monument Valley
+Threes
+2048
+Draw Something
+Trivia Crack
+QuizUp
+HQ Trivia
+Pou
+Talking Tom
+My Talking Tom
+Tamagotchi
+Bitmoji
+Memoji
+Boomerang
+Hyperlapse
+Yfrog
+Posterous
+Bloglovin
+Hootsuite
+Buffer
+Sprout Social
+Planoly
+Piktochart
+Prezi
+SlideShare
+Scribd
+Issuu
+Yumpu
+Archive.org | internet archive | wayback machine
+Project Gutenberg
+Wikiquote
+Wiktionary
+Wikimedia
+Gimkit
+Blooket
+Seesaw
+ClassDojo
+Edmodo
+Google Sites
+Weebly
+Tripod
+Angelfire
+
+
+=== stores-shops
+title: Stores and shops
+prompt: Name as many stores or shops as you can (retail chains and store brands)
+starcore: Trader Joe's
+--- 1
+Target
+Walmart | wal-mart | wal mart
+Amazon
+IKEA
+Costco
+Zara
+H&M | h and m
+Walgreens
+Best Buy
+Home Depot
+Apple Store | apple
+--- 2
+Gap
+Next
+Ross
+Nike
+Adidas
+CVS
+Kroger
+Walmart Supercenter
+Sam's Club | sams club
+Aldi
+Lidl
+Tesco
+Sainsbury's | sainsburys
+Asda
+Morrisons
+Waitrose
+Marks & Spencer | marks and spencer | m&s | marks and sparks
+Boots
+Argos
+Primark
+John Lewis
+Debenhams
+Currys
+B&Q
+Wilko | wilkinson
+Superdrug
+Poundland
+WHSmith | wh smith
+Waterstones
+Greggs
+Whole Foods
+Trader Joe's | trader joes
+Safeway
+Publix
+Albertsons
+Wegmans
+Meijer
+H-E-B | heb
+Food Lion
+Stop & Shop | stop and shop
+Kohl's | kohls
+Macy's | macys
+Nordstrom
+JCPenney | jc penney | j c penney | penneys
+Sears
+Kmart
+Dollar General
+Dollar Tree
+Family Dollar
+Big Lots
+TJ Maxx | tjmaxx | tj max
+Marshalls
+Burlington
+Old Navy
+Banana Republic
+American Eagle
+Abercrombie & Fitch | abercrombie
+Hollister
+Forever 21
+Uniqlo
+Urban Outfitters
+Anthropologie
+Free People
+Victoria's Secret | victorias secret
+Bath & Body Works | bath and body works
+Sephora
+Ulta
+Lowe's | lowes
+Ace Hardware
+Menards
+Staples
+Office Depot
+Barnes & Noble | barnes and noble
+Books-A-Million
+GameStop
+Toys R Us
+Michaels
+Hobby Lobby
+Joann
+PetSmart
+Petco
+Bed Bath & Beyond | bed bath and beyond
+Pottery Barn
+Crate & Barrel | crate and barrel
+Williams Sonoma
+Container Store
+HomeGoods
+At Home
+Wayfair
+Overstock
+Foot Locker
+Finish Line
+Dick's Sporting Goods | dicks sporting goods
+Under Armour
+Lululemon
+Gymshark
+Sports Direct
+JD Sports | jd
+Footlocker
+Skechers
+Payless
+DSW
+Famous Footwear
+Journeys
+Claire's | claires
+Build-A-Bear | build a bear
+Hot Topic
+Spencer's | spencers
+Five Below
+Dollarama
+Tuesday Morning
+Bass Pro Shops | bass pro
+Cabela's | cabelas
+REI
+7-Eleven | seven eleven | 7 eleven
+Circle K
+Wawa
+Sheetz
+Cumberland Farms
+Casey's | caseys
+--- 3
+Puma
+Spar
+Liberty
+Gucci
+Louis Vuitton
+Prada
+Chanel
+Rolex
+Cartier
+Burberry
+Versace
+Dior
+Hermes
+Armani
+Levi's | levis
+Lacoste
+Ralph Lauren
+Tommy Hilfiger
+Calvin Klein
+Hugo Boss
+Pandora
+Swarovski
+Ted Baker
+Diesel
+Guess
+Giant
+Burton
+Cos
+Habitat
+Evans
+Blacks
+Office
+Game
+Rite Aid
+Duane Reade
+Woolworths
+Woolies
+Coles
+Harvey Norman
+Kathmandu
+Bunnings
+Big W
+Myer
+David Jones
+Dunnes
+Dunnes Stores
+SuperValu
+Centra
+Londis
+Co-op | coop | cooperative
+Iceland
+Farmfoods
+Booths
+Budgens
+Costcutter
+Nisa
+One Stop
+McColl's | mccolls
+Wickes
+Homebase
+Screwfix
+Toolstation
+Dunelm
+Heal's
+Laura Ashley
+Oak Furnitureland
+DFS
+SCS
+Furniture Village
+Bensons for Beds
+Harrods
+Selfridges
+Harvey Nichols
+Fortnum & Mason | fortnum and mason
+House of Fraser
+Fenwick
+Topshop
+Topman
+Miss Selfridge
+Dorothy Perkins
+Wallis
+River Island
+New Look
+Peacocks
+Matalan
+TK Maxx | tkmaxx
+Mountain Warehouse
+Millets
+Cotswold Outdoor
+Halfords
+Evans Cycles
+Ernest Jones
+H Samuel | h. samuel
+Tiffany & Co | tiffany | tiffany and co | tiffanys
+Zales
+Kay Jewelers | kay
+Jared
+Accessorize
+Monsoon
+Karen Millen
+Reiss
+Superdry
+Jack Wills
+Fat Face
+White Stuff
+Joules
+Boden
+Hobbs
+LK Bennett
+Whistles
+French Connection
+Mango
+Bershka
+Pull & Bear | pull and bear
+Stradivarius
+Massimo Dutti
+Arket
+Monki
+& Other Stories | and other stories
+Benetton
+Esprit
+Desigual
+Zalando
+ASOS
+Boohoo
+PrettyLittleThing | pretty little thing | plt
+Missguided
+Fashion Nova
+Shein
+Cotton On
+Rebel Sport
+Fry's | frys
+Ralphs
+Vons
+Smith's Food
+Fred Meyer
+QFC
+Harris Teeter
+Piggly Wiggly
+Winn-Dixie | winn dixie
+Hy-Vee | hyvee | hy vee
+Giant Eagle
+ShopRite
+Price Chopper
+Save-A-Lot | save a lot
+Sprouts
+Fresh Market
+Natural Grocers
+BJ's | bjs
+Sam's
+Smart & Final | smart and final
+Grocery Outlet
+WinCo
+Raley's | raleys
+Stater Bros
+--- 4
+Radio Shack | radioshack
+Circuit City
+Blockbuster
+Hollywood Video
+Borders
+Tower Records
+HMV
+Virgin Megastore
+BHS
+C&A
+Littlewoods
+Allders
+MFI
+Comet
+Dixons
+PC World
+Maplin
+Carphone Warehouse
+Electronics Boutique
+EB Games
+Babbage's | babbages
+Software Etc
+CompUSA
+Micro Center
+Fry's Electronics
+Conn's | conns
+hhgregg
+Pacific Sales
+Brookstone
+Sharper Image
+Restoration Hardware | rh
+Z Gallerie
+Bombay Company
+Cost Plus World Market | world market
+Kirkland's | kirklands
+Garden Ridge
+Ollie's | ollies
+Burlington Coat Factory
+Century 21
+Loehmann's | loehmanns
+Filene's Basement | filenes basement
+Lord & Taylor | lord and taylor
+Saks Fifth Avenue | saks
+Neiman Marcus
+Bloomingdale's | bloomingdales
+Barneys
+Bergdorf Goodman | bergdorf
+Dillard's | dillards
+Belk
+Boscov's | boscovs
+Bon-Ton | bon ton
+Stein Mart
+Gordmans
+Von Maur
+Carson's | carsons
+Younkers
+Mervyn's | mervyns
+Caldor
+Bradlees
+Zayre
+Woolco
+Jamesway
+Rose's | roses
+Gimbels
+Marshall Field's | marshall fields
+Wanamaker's | wanamakers
+FAO Schwarz
+KB Toys
+Kay-Bee Toys | kay bee toys
+Learning Express
+Zany Brainy
+Imaginarium
+Lakeshore Learning
+Party City
+Spirit Halloween | spirit
+Yankee Candle
+Lush
+The Body Shop | body shop
+Crabtree & Evelyn
+L'Occitane | loccitane
+Aveda
+Kiehl's | kiehls
+Bare Minerals
+Sally Beauty
+GNC
+Vitamin Shoppe
+Vitamin World
+Holland & Barrett | holland and barrett
+Whole Earth
+Planet Organic
+--- 5
+Dunham's
+Gander Mountain
+Sportsman's Warehouse | sportsmans warehouse
+Academy Sports | academy
+Modell's | modells
+Champs
+Eastbay
+Hibbett
+Shoe Carnival
+Rack Room
+Payless ShoeSource
+Stride Rite
+Naturalizer
+Clarks
+Dr. Martens | doc martens | dr martens
+Kurt Geiger
+Schuh
+Russell & Bromley
+Barratts
+Shoe Zone
+Brantano
+Pied a Terre
+Carvela
+Aldo
+Steve Madden
+Nine West
+Charles & Keith
+Zumiez
+Tilly's | tillys
+PacSun
+Wet Seal
+Rue21
+Charlotte Russe
+Delia's | delias
+Aeropostale
+The Limited
+Lane Bryant
+Torrid
+Ann Taylor
+LOFT
+J.Crew | j crew
+Madewell
+Talbots
+Chico's | chicos
+White House Black Market
+Eddie Bauer
+LL Bean | l.l.bean
+Lands' End | lands end
+Patagonia
+The North Face | north face
+Orvis
+Brooks Brothers
+Men's Wearhouse | mens wearhouse
+Jos. A. Bank | jos a bank
+Casual Male
+Destination XL
+Stage Stores
+Gordmans Stores

@@ -1,0 +1,30 @@
+doctor
+nurses
+beds
+stethoscope
+wheelchair
+needle
+syringes
+x-ray
+ambulance
+surgeon
+stretcher
+crutches
+bandages
+thermometer
+iv drip
+scalpel
+masks
+gloves
+scrubs
+waiting room
+pharmacy
+cafeteria
+heart monitor
+defibrilator
+ventilator
+mri
+gown
+pills
+cast
+sling

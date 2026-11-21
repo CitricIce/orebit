@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import json
 import math
+import os
 import re
 import sys
 import unicodedata
@@ -188,6 +189,11 @@ CORPORATE = re.compile(
     re.I,
 )
 CORPORATE_CATS = {"car-brands", "tech-companies", "fashion-brands", "fast-food"}
+# Categories whose Wikidata query is the rule: hand answers must match it.
+# The set lists hand answers to keep anyway (Wikidata misses them).
+WIKIDATA_ONLY: dict[str, set[str]] = {
+    "us-cities": {"Los Angeles", "San Antonio", "Jacksonville", "Tampa", "Tacoma", "Ontario"},
+}
 MAX_NEW_WORDS = 4
 MAX_NEW_CHARS = 32
 
@@ -427,6 +433,13 @@ def build_category(raw: dict) -> dict:
             owner.setdefault(k, row["name"])
 
     added = merge_wikidata(cid, raw["meta"]["title"], rows)
+    if cid in WIKIDATA_ONLY and (WIKIDATA_DIR / f"{cid}.json").exists():
+        # The Wikidata query enforces a rule (U.S. cities: over 100,000
+        # people), so hand-written answers it doesn't confirm are dropped.
+        dropped = [r["name"] for r in rows if "links" not in r and r["name"] not in WIKIDATA_ONLY[cid]]
+        rows = [r for r in rows if "links" in r or r["name"] in WIKIDATA_ONLY[cid]]
+        if dropped and os.environ.get("SHOW_DROPPED"):
+            print(f"  {cid}: dropped {len(dropped)}: {', '.join(dropped)}")
     rows = merge_head_word_twins(rows, raw["meta"]["title"])
     if added:
         print(f"  {cid}: +{added} answers from Wikidata")
@@ -454,8 +467,11 @@ def build_category(raw: dict) -> dict:
     )
     tiers: dict[int, int] = {id(r): 1 for r in stone}
     bounds, acc = [], 0
+    # Bigger lists get somewhat bigger middle tiers (up to double at 600+
+    # answers), so Crystal stays genuinely deep in huge lists too.
+    scale = min(2.0, max(1.0, math.sqrt(len(rest) / 150)))
     for share, cap in zip(DEEPER_SHARES, DEEPER_CAPS):
-        acc += min(cap, round(share * len(rest)))
+        acc += min(round(cap * scale), round(share * len(rest)))
         bounds.append(acc)
     for i, row in enumerate(rest):
         tiers[id(row)] = next((t for t, b in enumerate(bounds, 2) if i < b), 5)

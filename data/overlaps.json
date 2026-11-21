@@ -272,6 +272,165 @@
       "family-members",
       "emotions",
       "hobbies"
+    ],
+    "colors of things": [
+      "things-red",
+      "things-green",
+      "things-yellow",
+      "colors"
+    ],
+    "temperature": [
+      "cold-things",
+      "hot-things",
+      "winter-things",
+      "weather",
+      "things-that-melt"
+    ],
+    "flying": [
+      "things-that-fly",
+      "birds",
+      "sky-things",
+      "insects",
+      "solar-system"
+    ],
+    "sky": [
+      "sky-things",
+      "weather",
+      "solar-system",
+      "constellations"
+    ],
+    "wheels": [
+      "things-with-wheels",
+      "vehicles",
+      "car-parts",
+      "fast-things"
+    ],
+    "christmas": [
+      "christmas-things",
+      "christmas-movies",
+      "christmas-songs",
+      "winter-things"
+    ],
+    "names": [
+      "boys-names",
+      "girls-names",
+      "family-members"
+    ],
+    "rhymes": [
+      "rhymes-cat",
+      "rhymes-day"
+    ],
+    "travel": [
+      "airport-things",
+      "packing-list",
+      "hotel-things",
+      "camping-gear"
+    ],
+    "parties": [
+      "birthday-party",
+      "wedding-things",
+      "fair-carnival",
+      "holidays",
+      "childhood-games"
+    ],
+    "looks": [
+      "hairstyles",
+      "makeup-beauty",
+      "accessories",
+      "describe-person",
+      "clothing"
+    ],
+    "screens": [
+      "things-with-screens",
+      "apps-websites",
+      "tech-companies",
+      "things-with-buttons",
+      "game-consoles"
+    ],
+    "shops": [
+      "stores-shops",
+      "fast-food",
+      "clothing-brands"
+    ],
+    "home rooms": [
+      "bedroom-things",
+      "rooms",
+      "furniture",
+      "bathroom-items",
+      "open-close-things"
+    ],
+    "outdoors": [
+      "garden-things",
+      "park-things",
+      "camping-gear",
+      "flowers",
+      "trees"
+    ],
+    "food out": [
+      "restaurant-things",
+      "fast-food",
+      "hotel-things"
+    ],
+    "school 2": [
+      "classroom-things",
+      "office-supplies",
+      "school-subjects"
+    ],
+    "money": [
+      "wallet-purse-things",
+      "currencies"
+    ],
+    "bugs": [
+      "insects",
+      "jungle-animals",
+      "forest-animals",
+      "pets"
+    ],
+    "birds": [
+      "birds",
+      "farm-animals",
+      "baby-animals",
+      "animal-sounds"
+    ],
+    "screen titles": [
+      "tv-shows",
+      "christmas-movies",
+      "movie-franchises",
+      "cartoon-characters",
+      "movie-genres"
+    ],
+    "music moves": [
+      "dances",
+      "music-genres",
+      "christmas-songs"
+    ],
+    "materials 2": [
+      "wooden-things",
+      "trees",
+      "tools",
+      "furniture"
+    ],
+    "tall and fast": [
+      "tall-things",
+      "fast-things",
+      "things-with-legs",
+      "landmarks"
+    ],
+    "senses": [
+      "good-smells",
+      "loud-things",
+      "soft-things",
+      "sharp-things",
+      "herbs-spices"
+    ],
+    "hospital": [
+      "hospital-things",
+      "jobs",
+      "body-parts"
+    ],
+    "greetings": [
+      "ways-to-say-hello",
+      "languages"
     ]
   }
 }

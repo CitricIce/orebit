@@ -1,0 +1,2461 @@
+# Things defined by a feature: legs, speed, smell, noise, sharpness, buttons, screens, melting, opening, height. Tiers: 1 = almost everyone names it, 5 = deep cut.
+
+=== things-with-legs
+title: Things with legs
+prompt: Name as many things with legs as you can
+starcore: Pool table
+--- 1
+Chair | chairs
+Dog | dogs
+Table | tables
+Cat | cats
+Human | humans | person | people | man | woman
+Horse | horses
+Spider | spiders
+Bed | beds
+Cow | cows
+Desk | desks
+--- 2
+Sofa | couch | settee
+Bird | birds
+Chicken | chickens
+Elephant | elephants
+Lion | lions
+Tiger | tigers
+Insect | insects | bug | bugs
+Ant | ants
+Frog | frogs
+Pig | pigs
+Sheep
+Goat | goats
+Deer
+Giraffe | giraffes
+Stool | stools
+Bench | benches
+Piano | pianos
+Tripod | tripods
+Ladder | ladders
+Crab | crabs
+Lizard | lizards
+Duck | ducks
+Rabbit | rabbits | bunny
+Monkey | monkeys
+Bear | bears
+Wolf | wolves
+Kangaroo | kangaroos
+Camel | camels
+Ostrich | ostriches | ostrichs
+Dinosaur | dinosaurs
+Pants | trousers | jeans | pair of pants
+--- 3
+Bookshelf | bookcase | shelf
+Dresser | chest of drawers
+Armchair | armchairs
+Coffee table
+Dining table
+Nightstand | bedside table
+Sideboard
+Wardrobe
+Cabinet | cabinets
+Barstool | bar stool
+Rocking chair
+Highchair | high chair
+Cot | crib
+Easel
+Music stand
+Ironing board
+Stepladder | step ladder
+Sawhorse
+Mouse | mice
+Rat | rats
+Squirrel | squirrels
+Beetle | beetles
+Cockroach | cockroaches | roach
+Fly | flies
+Bee | bees
+Wasp | wasps
+Grasshopper | grasshoppers
+Cricket | crickets
+Centipede | centipedes
+Millipede | millipedes
+Scorpion | scorpions
+Lobster | lobsters
+Turtle | turtles | tortoise
+Crocodile | crocodiles | croc
+Alligator | alligators | gator
+Zebra | zebras
+Donkey | donkeys
+Hippo | hippos | hippopotamus
+Rhino | rhinos | rhinoceros
+Leopard | leopards
+Cheetah | cheetahs
+Gorilla | gorillas
+Chimpanzee | chimp | chimps
+Kitten | kittens
+Puppy | puppies
+Lamb | lambs
+Foal | foals
+Calf | calves
+Chick | chicks
+Turkey | turkeys
+Goose | geese
+Penguin | penguins
+Flamingo | flamingos
+Robot | robots
+Barbie | doll | dolls
+Action figure
+Mannequin
+Skeleton | skeletons
+Statue | statues
+Gazebo
+Pool table | billiard table | snooker table
+Foosball table | table football
+Picnic table
+Workbench
+Piano stool
+Footstool | foot stool | ottoman
+Chaise longue | chaise lounge
+Deck chair
+Folding chair
+Camping chair
+Lawn chair
+Bathtub | clawfoot tub | bath
+--- 4
+Lectern
+Podium
+Barbecue | bbq | grill
+Wheelbarrow
+Stroller | pram
+Walker | zimmer frame
+Coat rack | coat stand
+Clothes horse
+Plant stand
+Cauldron
+Hat stand
+Drum kit | drum stand
+Harp
+Cello
+Double bass
+Grand piano
+Spinet
+Harpsichord
+Armoire
+Vanity | vanity table
+Dressing table
+Console table
+Side table | end table
+Writing desk
+Rolltop desk
+Drafting table
+Card table
+Trestle table
+Gateleg table
+Stag | stags
+Moose | elk
+Bison | buffalo
+Llama | llamas
+Alpaca | alpacas
+Cougar | puma | mountain lion
+Hyena | hyenas
+Meerkat | meerkats
+Hedgehog | hedgehogs
+Raccoon | raccoons
+Possum | opossum
+Badger | badgers
+Otter | otters
+Beaver | beavers
+Gecko | geckos
+Iguana | iguanas
+Salamander | salamanders
+Newt | newts
+Toad | toads
+Tarantula | tarantulas
+Mantis | praying mantis
+Ladybug | ladybird
+Caterpillar | caterpillars
+Mite | mites
+Tick | ticks
+Flea | fleas
+Louse | lice
+Crayfish | crawfish
+Shrimp | prawn
+Pigeon | pigeons
+Eagle | eagles
+Owl | owls
+Crow | crows
+Emu | emus
+Peacock | peacocks
+Swan | swans
+Dragon | dragons
+Centaur | centaurs
+Unicorn | unicorns
+Stilts
+Pegasus
+--- 5
+Davenport
+Settle
+Tallboy | highboy
+Lowboy
+Credenza
+Pedestal table
+Tilt-top table
+Camp bed | cot bed
+Four-poster bed | four poster
+Daybed
+Tabouret
+Milking stool
+Bar cart
+Tea trolley
+Nesting tables
+Telephone table
+Tuffet
+Daddy longlegs | harvestman | crane fly
+Stick insect | walking stick
+Katydid
+Cicada | cicadas
+Earwig | earwigs
+Silverfish
+Pangolin | pangolins
+Tapir | tapirs
+Okapi
+Aardvark | aardvarks
+Armadillo | armadillos
+Sloth | sloths
+Komodo dragon
+Platypus
+Echidna
+Quokka
+Wombat | wombats
+Tasmanian devil
+Capybara | capybaras
+
+=== fast-things
+title: Things that are fast
+prompt: Name as many things that are fast as you can
+starcore: Peregrine falcon
+--- 1
+Cheetah | cheetahs
+Race car | racecar | racing car | f1 car | formula 1 car
+Rocket | rockets
+Jet | jets | jet plane
+Bullet | bullets
+Lightning
+Sports car | sportscar
+Ferrari | ferraris
+Usain Bolt | bolt
+Train | trains
+--- 2
+Lamborghini | lambo
+Airplane | plane | aeroplane
+Fighter jet
+Speedboat
+Motorcycle | motorbike
+Racehorse | race horse
+Horse | horses
+Sound | speed of sound
+Light | speed of light
+Falcon | falcons
+Sonic the Hedgehog | sonic
+The Flash | flash
+Superman
+Greyhound | greyhounds
+Hare | hares
+Roadrunner | road runner
+Porsche | porsches
+Bugatti
+McLaren
+Tesla
+Formula 1
+Sprinter | sprinters
+Bike | bicycle | racing bike
+Rollercoaster | roller coaster
+Hurricane | hurricanes
+Tornado | tornadoes | tornados
+Wind
+Missile | missiles
+Arrow | arrows
+Bird | birds
+Eagle | eagles
+Antelope | antelopes
+Gazelle | gazelles
+Lion | lions
+Leopard | leopards
+Ostrich | ostriches
+Dolphin | dolphins
+Shark | sharks
+Space shuttle | shuttle
+Meteor | meteors | shooting star
+Comet | comets
+Cannonball
+Speed skater | speed skating
+Skier | skiers | downhill skier
+Snowmobile | snowmobiles
+Jet ski | jetski
+Dragster | drag racer
+Go-kart | go kart | kart
+--- 3
+Concorde
+Supersonic jet
+Hypersonic
+Pronghorn
+Springbok
+Wildebeest
+Zebra
+Kangaroo
+Quarter horse
+Thoroughbred
+Mustang
+Swift | swifts
+Hummingbird | hummingbirds
+Hawk | hawks
+Swordfish
+Sailfish
+Marlin
+Tuna
+Barracuda
+Tiger | tigers
+Wolf | wolves
+Jaguar
+Cougar | puma | mountain lion
+Fox | foxes
+Dog | dogs
+Hyena
+Whippet
+Salukis | saluki
+Koenigsegg
+Pagani
+Aston Martin
+Maserati
+Corvette | chevrolet corvette
+Mustang car | ford mustang
+Dodge Viper | viper
+Dodge Challenger | challenger
+Nissan GT-R | gtr | godzilla
+Ducati
+Kawasaki Ninja | ninja
+Suzuki Hayabusa | hayabusa
+Harley | harley davidson
+Superbike
+Powerboat
+Hydroplane
+Catamaran
+Hovercraft
+Bobsled | bobsleigh
+Luge
+Sled | sledge
+Skateboard
+Rocket ship | spaceship
+Space probe
+Apollo | apollo rocket
+Saturn V
+Falcon 9
+SR-71 | blackbird | sr71
+F-16
+F-22
+MiG | mig 29
+Eurofighter
+Typhoon
+Spitfire
+Drone | drones
+Shinkansen | bullet train
+TGV
+Maglev
+Eurostar
+Express train | express
+Carl Lewis
+Michael Johnson
+Fast bowler
+Fastball | fast ball
+Slap shot
+Speedy Gonzales | speedy
+Lightning McQueen | mcqueen
+Thunder
+Blink | eye blink
+Camera shutter | shutter
+Flash photography
+Whip crack
+Snake strike | striking snake
+Frog tongue
+Chameleon tongue
+Mantis shrimp
+Dragonfly | dragonflies
+Fly | flies
+Housefly
+Cockroach
+Tiger beetle
+Kestrel
+Albatross
+Frigatebird
+Goshawk
+Merlin
+Gyrfalcon
+Cape hare
+Jackrabbit | jack rabbit
+Coyote
+Dingo
+Bison
+Moose
+Brown hare
+--- 4
+Peregrine falcon | peregrine | peregrine hawk
+Golden eagle
+Spine-tailed swift | needletail
+Horned lizard
+Cape buffalo
+Black marlin
+Wahoo
+Bonito
+Mako shark | mako
+Orca | killer whale
+Pilot whale
+Sei whale
+Dall's porpoise
+Stoat
+Weasel
+Ermine
+Mongoose
+Black mamba | mamba
+Basilisk
+Six-lined racerunner | racerunner
+Spur-winged goose
+Red kangaroo
+Emu
+Rhea
+Cassowary
+Roadster
+Hypercar
+Supercar | supercars
+Muscle car
+Hot rod
+Drift car
+Rally car
+Le Mans car
+Indy car | indycar
+Nascar | stock car
+Top Fuel dragster
+Thrust SSC
+Bloodhound
+Rocket car
+Bluebird
+Lightning bolt
+Ball lightning
+Warp speed | warp drive
+Hyperspace
+Ludicrous speed
+Mach 1
+Mach 10
+Escape velocity
+Orbital velocity
+Solar wind
+Cosmic ray
+Gamma ray burst
+Pulsar
+Quasar
+Parker Solar Probe | parker probe
+Voyager | voyager 1
+New Horizons
+Ballistic missile | icbm
+Cruise missile
+Torpedo | torpedoes
+Rifle bullet
+High speed rail
+Hyperloop
+--- 5
+Hennessey Venom | venom gt
+Rimac Nevera | rimac
+SSC Tuatara | tuatara
+Chiron | bugatti chiron
+Veyron | bugatti veyron
+Agera | koenigsegg agera
+
+=== good-smells
+title: Things that smell good
+prompt: Name as many things that smell good as you can
+starcore: Petrichor
+--- 1
+Flowers | flower
+Rose | roses
+Perfume | perfumes
+Coffee
+Bread | fresh bread
+Cookies | cookie | baking cookies
+Pizza
+Bacon
+Vanilla
+Lavender
+--- 2
+Fresh-cut grass | cut grass | freshly cut grass | grass
+Rain | after rain
+Cake | baking cake
+Pie | apple pie
+Chocolate
+Cinnamon
+Popcorn
+Barbecue | bbq | grill | grilled meat
+Fresh laundry | clean laundry | laundry | clean clothes
+Soap | soaps
+Shampoo
+Candle | candles | scented candle
+Pine | pine tree | pine trees
+Christmas tree
+Jasmine
+Lilac
+Mint | mints
+Lily | lilies
+Orange | oranges
+Lemon | lemons
+Strawberry | strawberries
+Peach | peaches
+Citrus
+Coconut
+Honey
+Cologne | aftershave
+Baby powder | talcum powder | talc
+Baby | babies | new baby
+Ocean | sea | sea breeze | beach | sea air
+Campfire | bonfire | wood smoke
+Roast chicken | roast dinner | roast
+Steak | grilled steak
+Sausages | sausage
+Fresh fruit
+Bakery
+Cinnamon rolls | cinnamon roll
+Waffles | waffle
+Pancakes | pancake
+Toast
+Butter | melting butter
+Spices | spice
+Incense
+Sandalwood
+Cedar | cedar wood
+Wood | fresh wood | sawdust
+New car | new car smell
+Book | books | old books | new books
+Fresh air
+Spring
+Detergent | washing powder | fabric softener | softener
+Lotion | body lotion | hand cream
+Sunscreen | suncream | sun cream | sun lotion
+--- 3
+Sunflower | sunflowers
+Tulip | tulips
+Daffodil | daffodils
+Hyacinth | hyacinths
+Gardenia
+Freesia
+Honeysuckle
+Magnolia
+Orchid | orchids
+Peony | peonies
+Violet | violets
+Lily of the valley
+Carnation | carnations
+Lavender fields
+Sweet pea | sweet peas
+Frangipani | plumeria
+Lemongrass
+Eucalyptus
+Rosemary
+Basil
+Thyme
+Oregano
+Sage
+Fresh herbs | herbs
+Parsley
+Cilantro | coriander
+Dill
+Tea | green tea
+Earl Grey | bergamot
+Chai
+Ground coffee | coffee beans | coffee grounds
+Espresso
+Latte
+Mulled wine
+Cider | apple cider
+Whiskey | whisky
+Cookies baking | baked cookies | baked goods
+Muffins | muffin
+Brownies | brownie
+Donuts | doughnuts | donut | doughnut
+Croissant | croissants
+Fresh pasta | pasta sauce | tomato sauce
+Curry
+Cumin
+Cardamom
+Cloves | clove
+Nutmeg
+Ginger
+Gingerbread
+Caramel
+Toffee
+Fudge
+Marshmallow | toasted marshmallows
+Cotton candy | candy floss
+Candy | sweets
+Banana | bananas
+Apple | apples
+Pear | pears
+Grape | grapes
+Watermelon
+Mango | mangoes | mangos
+Pineapple
+Cherry | cherries
+Blueberry | blueberries
+Raspberry | raspberries
+Blackberry | blackberries
+Lime | limes
+Grapefruit
+Tangerine | mandarin
+Passionfruit | passion fruit
+Melon | cantaloupe
+Orange peel
+Lemon zest | zest
+Hay | fresh hay
+Wet earth | damp earth | soil | earth | fresh soil
+Forest | woodland
+Meadow
+Garden | gardens
+Pine needles
+Leaves | autumn leaves | fall leaves
+Snow | fresh snow
+Sea salt
+Seaside
+Clean sheets | fresh sheets | bed sheets
+Fresh towels | clean towels | towels
+Dryer sheets | dryer sheet
+Bubble bath | bath bomb | bath salts
+Body wash | shower gel
+Deodorant
+Hair spray
+Conditioner
+Hairdresser | hair salon
+Spa
+Massage oil
+Essential oils | essential oil
+Potpourri
+Air freshener | febreze
+Room spray
+Car air freshener
+Leather | new leather
+New shoes
+New clothes
+Crayons | crayon
+Pencil shavings | sharpened pencil
+Fresh paint
+Paper | new paper
+Ink
+Cut wood
+Matches | struck match
+Fireplace | log fire | wood fire
+Chimney smoke
+Pipe tobacco | tobacco
+Cigar | cigars
+--- 4
+Petrichor
+Musk
+Amber
+Patchouli
+Oud
+Ylang ylang
+Jasmine tea
+Neroli
+Bergamot oil
+Tonka bean
+Vetiver
+Myrrh
+Frankincense
+Sage smudge | smudge stick | white sage
+Palo santo
+Camphor
+Cherry blossom | cherry blossoms | sakura
+Wisteria
+Hydrangea
+Lotus
+Geranium
+Orange blossom
+Elderflower
+Linden | lime blossom
+Mimosa
+Wild garlic | ramsons
+Sourdough
+Baguette
+Naan
+Tortilla
+Sizzling fajitas | fajitas
+Frying bacon
+Sunday roast
+Thanksgiving dinner | turkey roasting | turkey
+Christmas dinner | christmas
+Pumpkin pie | pumpkin spice | pumpkin
+Apple crumble | crumble
+Cinnamon sticks
+Spiced cider
+Maple syrup | maple
+Sugar cookies
+Gingerbread house
+Candy cane
+Peppermint
+Spearmint
+Wintergreen
+Menthol
+Eucalyptus oil
+Tea tree
+Rooibos
+Shea butter
+Coconut oil
+Almond | almonds
+Almond extract
+Pistachio
+Hazelnut
+Walnut
+Roasted chestnuts | chestnuts
+Coffee shop | cafe | coffee house
+Barbecue smoke
+Charcoal
+Smoked meat | smoked salmon
+Hot dogs | hot dog
+Burgers | burger | hamburger
+Fries | french fries | chips
+Fried chicken
+Fried food | frying oil
+Funnel cake
+Candy store | sweet shop
+Ice cream | ice cream parlor
+Ice cream cone | waffle cone
+Tomato vine | tomato plant
+Tomatoes | tomato
+Cucumber
+Lemonade
+Fresh juice | orange juice
+Smoothie
+Vanilla extract
+Vanilla bean
+Sugar | brown sugar
+Cotton | fresh cotton
+Linen | linen spray
+Tide | tide detergent
+Dove soap | dove
+Old Spice
+Axe | axe body spray
+Chanel No. 5 | chanel
+Dior
+Calvin Klein | ck one
+Johnson's baby powder
+Vicks | vapor rub
+Vaseline | petroleum jelly
+Nivea
+Play-Doh | playdoh | play doh
+Sharpie | markers | marker
+New book smell
+Old library | library
+Bookstore | bookshop
+Cedar chest
+Redwoods | redwood
+Cypress
+Juniper
+Fir | fir tree
+Sequoia
+Cherry wood
+Applewood
+Hickory
+Mesquite
+Oak | oak barrel
+Vineyard
+Orchard | apple orchard
+Lavender farm
+Rose garden
+Herb garden
+Greenhouse
+Flower shop | florist
+Bouquet | bouquets
+Wedding flowers
+Corsage
+Lei | leis
+Perfume counter
+--- 5
+Ambergris
+Civet
+Labdanum
+Benzoin
+Orris | orris root | iris
+Osmanthus
+Champaca
+Tuberose
+Narcissus
+Heliotrope
+Cassis
+Black currant | blackcurrant
+Fig leaf | fig | figs
+Green tea leaves
+Tobacco leaf
+Agarwood
+Rain on hot pavement | hot pavement rain
+Rain on dry earth
+Freshly tilled soil | tilled soil
+Fresh hay bales
+Haystack
+New-mown hay | mown hay
+Dried lavender
+Dried roses
+Rose water | rosewater
+Orange water
+Turkish delight
+Baklava
+Cardamom coffee
+Masala chai
+Garam masala
+Saffron
+Cinnamon bark
+Star anise | anise | aniseed
+Liquorice | licorice
+Fennel
+Caraway
+Vanilla pod
+Peppermint oil
+Lemon balm
+Lemon verbena
+Pelargonium
+Scented geranium
+Sweet william
+Night-blooming jasmine | night blooming jasmine
+Moonflower
+
+=== loud-things
+title: Things that are loud
+prompt: Name as many things that are loud as you can
+starcore: Foghorn
+--- 1
+Thunder
+Siren | sirens
+Fireworks | firework
+Jet | jet engine | jets
+Concert | concerts
+Alarm | alarms
+Fire alarm
+Drum | drums
+Explosion | explosions
+Train | trains
+--- 2
+Lawnmower | lawn mower
+Chainsaw | chain saw
+Vacuum cleaner | vacuum | hoover
+Car horn | horn | honking | car horns
+Motorcycle | motorbike | motorbikes
+Airplane | plane | aeroplane
+Helicopter | helicopters
+Rocket | rockets | rocket launch
+Gun | gunshot | gunshots | gunfire
+Cannon | cannons
+Bomb | bombs
+Construction site | construction
+Jackhammer | pneumatic drill | power drill | drill
+Blender | blenders
+Hair dryer | hairdryer | blow dryer
+Leaf blower
+Garbage truck | bin lorry | rubbish truck | dustbin lorry
+Fire truck | fire engine
+Ambulance
+Police car
+Car alarm
+Alarm clock
+Smoke detector | smoke alarm
+Doorbell
+Bell | bells | church bell | church bells
+Whistle | whistles
+Trumpet | trumpets
+Trombone
+Saxophone
+Electric guitar
+Speakers | speaker | loudspeaker | megaphone
+Stadium | football stadium | sports stadium
+Crowd | crowds | audience
+Baby crying | crying baby | baby | babies
+Scream | screaming | screams
+Yelling | shouting | shout | yell
+Lion roar | lion | lions | roar
+Dog barking | dog | dogs | barking
+Rooster | roosters | cock | crowing
+Parrot | parrots
+Rock band | band | heavy metal | metal
+Nightclub | club | disco
+Party | parties
+Applause | clapping
+Thunderstorm | storm
+Waterfall | waterfalls
+Volcano | volcanoes | volcano eruption | eruption
+Earthquake | earthquakes
+Fighter jet
+Race car | racing car | formula 1
+Tractor
+Truck | trucks | lorry
+Subway | subway train | metro | underground
+Radio | radios
+TV | television
+Boom box | boombox
+Amplifier | amp
+Microphone feedback | feedback
+Air horn | airhorn
+Cymbals | cymbal
+Snare drum
+Bagpipes | bagpipe
+Kids | children | toddlers | children playing
+Playground | recess
+Cafeteria | school cafeteria | lunchroom
+--- 3
+Gong
+Bass drum
+Kettle drum | timpani
+Tuba
+French horn
+Bugle
+Organ | church organ | pipe organ
+Orchestra
+Marching band
+Vuvuzela
+Rattle | rattles
+Cowbell
+Tambourine
+Maracas
+Triangle
+Klaxon
+Buzzer | buzzers
+Bullhorn
+Town crier
+Auctioneer
+Referee whistle
+Sports fans | football fans
+Soccer match | football match
+Baseball game
+Basketball game | basketball arena
+Hockey game
+Boxing match
+Wrestling | wrestling match
+Monster truck | monster trucks
+Demolition derby
+Drag racing
+NASCAR | nascar race
+Motorbike race | motocross
+Dirt bike | dirt bikes
+Go-kart | go karts | go kart
+Quad bike | atv
+Snowmobile | snowmobiles
+Jet ski | jet skis
+Speedboat | motorboat
+Outboard motor
+Generator | generators
+Air compressor | compressor
+Pressure washer | power washer
+Angle grinder | grinder
+Circular saw | table saw
+Sander | belt sander
+Nail gun
+Wood chipper | chipper
+Bulldozer
+Excavator | digger
+Cement mixer | concrete mixer
+Crane
+Pile driver
+Wrecking ball | demolition
+Dump truck
+Steamroller | road roller
+Lawn trimmer | weed whacker | strimmer | weed eater
+Hedge trimmer
+Garbage disposal | waste disposal
+Washing machine
+Dishwasher
+Air conditioner | aircon | a/c
+Fan | fans
+Extractor fan
+Fax machine
+Dial-up modem | dial up
+Cash register
+Slot machine | slot machines
+Arcade | arcades
+Pinball
+Casino
+Bingo hall
+Fairground
+Roller coaster | rollercoaster
+Carousel
+Amusement park
+Pub | bar | bars
+Stock exchange | trading floor
+Bus | buses
+Tram | trams | streetcar
+Highway | freeway | motorway
+Traffic | traffic jam | rush hour
+Taxi | taxis | cab
+Choir | choirs
+Karaoke
+Subwoofer
+Dubstep
+Techno
+Death metal
+Punk | punk rock
+AC/DC | acdc
+Metallica
+Motorhead
+Sonic boom
+Saturn V
+Missile | missiles
+Artillery
+Machine gun
+Shotgun
+Rifle
+Pistol
+Grenade | grenades
+Dynamite | tnt
+Land mine
+Landslide
+Avalanche
+Tornado | tornadoes
+Hurricane
+Tsunami | tidal wave
+Meteor | meteorite
+Asteroid
+Big Bang
+Supernova
+Krakatoa
+Thunderclap | thunderclaps
+Lightning strike | lightning
+Hail | hailstorm
+Heavy rain | downpour
+Wind | gale | strong wind
+Waves | crashing waves
+Niagara Falls | niagara
+--- 4
+Howler monkey | howler monkeys
+Blue whale
+Sperm whale
+Elephant | elephants | elephant trumpet
+Hippo | hippos
+Tiger | tigers
+Wolf | wolves | wolf howl | howling
+Coyote | coyotes
+Bullfrog | bullfrogs | frog | frogs
+Cicada | cicadas
+Cricket | crickets
+Cockatoo | cockatoos
+Macaw | macaws
+Kookaburra | kookaburras
+Peacock | peacocks
+Loon | loons
+Goose | geese
+Crow | crows
+Seagull | seagulls | gulls
+Donkey | donkeys | bray
+Cow | cows | mooing
+Pig | pigs | squealing pig
+Mosquito | mosquitos | mosquitoes
+Bagpipe band | pipe band
+Steam engine | steam train | steam locomotive
+Steam whistle
+Train whistle
+Ship horn | ship's horn
+Tugboat | tug
+Cruise ship
+Ice cream truck
+Freight train | cargo train
+Shunting yard
+Rail yard
+Level crossing
+Air raid siren
+Tornado siren
+Tsunami siren
+Civil defense siren
+Panic alarm | panic button
+Burglar alarm | intruder alarm | security alarm
+Bank alarm
+School bell
+Last orders bell
+Boxing bell | boxing ring bell
+Bell tower
+Big Ben
+Liberty Bell
+Hand bell | handbell
+Sleigh bells | jingle bells
+Doorknocker
+Hammer | hammers
+Anvil
+Blacksmith | forge
+Factory | factories
+Mill | sawmill
+Foundry
+Steel mill
+Shipyard
+Mine | mining
+Blasting | blast
+Oil rig
+Wind turbine
+Power plant
+Substation | transformer
+Power lines | power line | electricity pylon | pylon
+Ski lift
+Cable car
+Escalator
+Elevator | lift
+Wheelie bin
+Shopping cart | trolley
+Skateboard | skateboards
+Roller skates | rollerblades
+Banging pots | pots and pans | pans | saucepans
+Slamming door | door slam
+Stomping | stomp
+Tap dancing | tap dancer
+Stampede
+Cheerleaders | cheerleading
+Parade | parades
+Carnival | carnivals | mardi gras
+Rave | raves
+Festival | festivals | music festival
+Airshow | air show
+--- 5
+Foghorn | fog horn
+Cannon fire | cannon salute
+Twenty-one gun salute | gun salute
+1812 Overture | 1812
+Carmina Burana | o fortuna
+Thunderstruck
+Back in Black
+Smoke on the Water
+Steam calliope | calliope
+Hurdy-gurdy
+Alphorn
+Didgeridoo
+Shofar
+Conch shell | conch
+Carnyx
+Cuckoo clock
+Grandfather clock | grandfather clock chime | longcase clock
+Pneumatic hammer
+Jake brake | engine brake
+Air brake
+Hovercraft engine
+Turbine | turbines
+Gas turbine
+Turbofan
+Afterburner
+Rocket engine
+Ramjet
+Scramjet
+Tambora
+Mount St. Helens | mount saint helens | st helens
+Vesuvius | mount vesuvius
+
+=== sharp-things
+title: Things that are sharp
+prompt: Name as many things that are sharp as you can
+starcore: Obsidian
+--- 1
+Knife | knives
+Needle | needles
+Razor | razors
+Scissors
+Sword | swords
+Pin | pins
+Thorn | thorns
+Cactus | cacti | cactuses
+Axe | axes
+Glass shard | broken glass | glass | shard | shards
+--- 2
+Blade | blades
+Dagger | daggers
+Spear | spears
+Arrow | arrows
+Arrowhead
+Nail | nails
+Tack | thumbtack | thumbtacks | drawing pin
+Staple | staples
+Fork | forks
+Scalpel | scalpels
+Saw | saws
+Chainsaw
+Machete | machetes
+Hatchet
+Knife blade
+Kitchen knife | chef's knife | chefs knife
+Steak knife
+Pocket knife | penknife | swiss army knife
+Samurai sword | katana
+Barbed wire | razor wire
+Fang | fangs
+Tooth | teeth
+Claw | claws
+Talon | talons
+Shark teeth | shark tooth
+Porcupine | porcupines
+Hedgehog | hedgehogs
+Rose thorn | rose thorns
+Rose | roses
+Holly | holly leaves
+Thistle | thistles
+Pineapple
+Icicle | icicles
+Syringe | syringes
+Pencil | pencils | sharpened pencil
+Pen nib
+Sewing needle
+Safety pin
+Fishhook | fish hook | hook | hooks
+Spike | spikes
+Stake | stakes
+Lance | lances
+Pitchfork | pitchforks
+Trident
+Harpoon
+Bayonet
+Cleaver
+Sickle
+Scythe
+Shears
+Razor blade
+Box cutter | utility knife | stanley knife
+Spur | spurs
+Horn | horns
+Beak
+Stinger | stingers
+--- 3
+Stiletto | stilettos | stiletto heel
+Paper cutter | guillotine
+Grater | cheese grater
+Peeler | vegetable peeler
+Can opener | tin opener
+Letter opener
+Ice pick
+Awl
+Chisel | chisels
+Hand saw
+Hacksaw
+Jigsaw
+Bandsaw
+Circular saw
+Pruning shears | secateurs | pruners
+Sheep shears
+Clippers | nail clippers | hair clippers
+Tweezers
+Broach | brooch
+Safety razor
+Straight razor | cutthroat razor | cut-throat razor
+Shaving razor
+Crampons | crampon
+Ice axe
+Pickaxe | pickaxe | pick axe | pick
+Adze
+Tomahawk
+Battle axe | battleaxe
+Broadsword
+Rapier
+Saber | sabre
+Cutlass
+Scimitar
+Claymore
+Foil
+Epee | épée
+Halberd
+Pike
+Javelin
+Dart | darts
+Throwing star | shuriken | ninja star
+Throwing knife
+Kunai
+Caltrops | caltrop
+Bear trap
+Mousetrap | mouse trap
+Spike strip
+Cactus needle | cactus spines | spines
+Quill | quills
+Bristle | bristles
+Nettle | nettles | stinging nettle
+Bramble | brambles | blackberry bush
+Gorse
+Hawthorn
+Blackthorn
+Bougainvillea
+Agave
+Aloe | aloe vera
+Yucca
+Sea urchin | sea urchins | urchin
+Stingray | stingrays
+Swordfish
+Sawfish
+Narwhal | narwhal tusk
+Tusk | tusks | ivory
+Rhino horn
+Antlers | antler
+Stag | stag horns
+Bull horns
+Unicorn horn
+Shark | sharks
+Piranha | piranhas
+Barracuda
+Crocodile | crocodiles
+Alligator
+Eagle | eagles
+Hawk | hawks
+Owl | owls
+Tiger | tigers
+Lion | lions
+Wasp | wasps
+Bee | bees
+Scorpion | scorpions
+Mosquito | mosquitos | mosquitoes
+Spider fangs
+Snake fangs | snake teeth
+Vampire fangs | vampire teeth
+--- 4
+Obsidian
+Flint | flints | flint stone
+Razor clam | razor shell
+Crag
+Stalactite | stalactites
+Stalagmite | stalagmites
+Ice shard
+Sharps | sharps bin
+Pointy hat | witch hat | wizard hat
+Spire | spires
+Steeple | steeples
+Knitting needle | knitting needles
+Embroidery needle
+Upholstery needle
+Darning needle
+Bodkin
+Awl tool
+Skewer | skewers | kebab skewer
+Toothpick | toothpicks | cocktail stick
+Corkscrew
+Wine key | waiter's friend
+Boning knife
+Paring knife
+Bread knife | serrated knife
+Butcher knife | butcher's knife
+Carving knife
+Cheese knife
+Butter knife
+Oyster knife | shucking knife
+Fillet knife
+Santoku
+Nakiri
+Hunting knife
+Bowie knife
+Combat knife
+Survival knife
+Jackknife | jack knife | folding knife
+Switchblade | flick knife
+Balisong | butterfly knife
+Karambit
+Kukri | khukuri
+Cutter | cutters
+Wire cutters | wire cutter
+Bolt cutters | bolt cutter
+Cheese slicer
+Egg slicer
+Pizza cutter
+Cookie cutter
+Meat slicer | deli slicer
+Food processor blade | processor blade
+Blender blade | blender blades
+Lawnmower | lawn mower | mower blades
+Fork tines | tines | tine
+Garden fork
+Grass blade | blade of grass | blades of grass
+Sawgrass
+Pampas grass
+Sheet metal
+Metal shavings | metal filings | filings
+Splinter | splinters
+Sliver
+Thorn bush
+Rose bush
+Briar | briars
+--- 5
+Damascus steel
+Wootz
+Tanto
+Wakizashi
+Naginata
+Yari
+Sai | sais
+Nunchaku
+Kris | keris
+Falchion
+Flamberge
+Estoc
+Misericorde
+Poniard
+Main-gauche | main gauche
+Dirk
+Skean dhu | sgian dubh
+Kirpan
+Khanda
+Tulwar
+Shamshir
+Yataghan
+Spetum
+Glaive
+Bardiche
+Poleaxe | pollaxe
+Lochaber axe
+Voulge
+Guisarme
+Partisan
+Ranseur
+Bill | billhook | bill hook
+Fleam
+Lancet
+Trocar
+Bone saw
+Amputation saw
+Hypodermic | hypodermic needle
+Acupuncture needle | acupuncture needles
+Tattoo needle
+
+=== things-with-buttons
+title: Things with buttons
+prompt: Name as many things with buttons as you can
+starcore: Pinball machine
+--- 1
+Shirt | shirts
+Remote control | remote | tv remote | remote controls
+Phone | phones | cell phone | mobile phone | mobile | smartphone | iphone
+Elevator | elevators | lift | lifts
+Calculator | calculators
+Keyboard | keyboards
+Coat | coats | jacket | jackets
+Microwave | microwaves
+Doorbell | doorbells
+Video game controller | controller | game controller | gamepad
+--- 2
+Pants | trousers | jeans
+Cardigan | cardigans
+Blouse | blouses
+Vest | vests
+Dress | dresses
+Polo shirt | polo
+Pajamas | pyjamas | pjs
+Overalls | dungarees
+Suit | suits
+Blazer | blazers
+Washing machine | washer
+Dishwasher
+Oven | ovens | stove | cooker
+Toaster
+Blender
+Coffee machine | coffee maker | coffee makers | espresso machine
+Kettle
+Fridge | refrigerator
+Air conditioner | aircon | ac
+Radio | radios
+Stereo | hi-fi | hifi
+Television | tv | tvs
+Alarm clock | clock radio
+Watch | watches
+Camera | cameras
+Mouse | computer mouse
+Laptop | laptops
+Computer | computers | pc
+Tablet | ipad
+Printer | printers
+Arcade machine | arcade game | arcade games | arcade
+Pinball machine | pinball
+Slot machine | slot machines
+Typewriter | typewriters
+Vending machine | vending machines
+ATM | cash machine | cashpoint
+Cash register | till
+Payment terminal | card reader
+Telephone | landline | landlines
+Intercom
+Walkie talkie | walkie-talkie
+Microphone | mic
+Mixing desk | soundboard
+Piano keyboard | synthesizer | synth
+Doll | dolls | teddy bear | teddy | teddy bears
+Jukebox
+Microwave oven
+Light switch | switch | switches
+Fire alarm
+Dashboard | car dashboard
+Calculator watch
+Flashlight | torch
+Hair dryer | hairdryer
+Electric toothbrush
+Razor | electric razor | shaver
+Thermostat
+Game console | console | consoles | playstation | xbox
+Nintendo Switch | switch console
+Game Boy | gameboy
+Pager
+Boombox | boom box
+--- 3
+Pea coat | peacoat
+Trench coat
+Raincoat
+Denim jacket | jean jacket
+Bomber jacket
+Lab coat
+Chef coat | chef's jacket
+Jumpsuit
+Romper
+Onesie | onesies
+Bodysuit
+Henley
+Flannel | flannel shirt
+Hawaiian shirt
+Dress shirt | button-down | button down | button up shirt | button-up
+Fly | flies | trouser fly
+Snap | snaps | press stud | popper | poppers
+Buttonhole | buttonholes
+Speakerphone
+Conference phone
+Answering machine
+Fax machine | fax
+Photocopier | copier | copy machine | xerox
+Scanner
+Kitchen scale
+Slow cooker | crock pot | crockpot
+Rice cooker
+Pressure cooker | instant pot
+Air fryer
+Food processor
+Mixer | stand mixer
+Juicer
+Bread maker
+Waffle maker
+Sandwich maker | toastie maker
+Popcorn maker
+Ice cream maker
+Dryer | tumble dryer | clothes dryer
+Vacuum | vacuum cleaner | hoover
+Robot vacuum | roomba
+Iron | irons
+Sewing machine
+Garage door opener | garage remote
+Car key | car keys | key fob | fob
+Alarm keypad | keypad | alarm panel | security panel
+Door lock | smart lock | digital lock | combination lock
+Safe | safes
+Parking meter | pay machine | parking machine
+Ticket machine | ticket vending machine
+Voting machine
+Slot car controller
+Joystick | joysticks
+Arcade cabinet
+Steering wheel controller
+Guitar pedal | effects pedal | pedal
+Drum machine
+Sampler
+Amp | amplifier | guitar amp
+Turntable | record player
+CD player
+Cassette player | tape deck | walkman
+MP3 player | ipod
+Headphones | earphones | earbuds
+Bluetooth speaker | speaker | speakers
+Soundbar
+Projector
+DVD player | blu-ray player | bluray player
+Set-top box | cable box | satellite box
+Smart TV
+Monitor | computer monitor
+Trackpad | touchpad
+Webcam
+Drone controller | drone remote
+RC car | remote control car
+CB radio | ham radio
+Baby monitor
+Smoke detector
+Doorbell camera | ring doorbell
+Ceiling fan
+E-reader | kindle | ereader
+Digital camera | camcorder | video camera
+Polaroid | instant camera
+Action camera | gopro
+Smart watch | apple watch | fitbit
+Digital watch | g-shock | casio
+Stopwatch
+Timer | kitchen timer
+Metronome
+Tuner | guitar tuner
+Hearing aid | hearing aids
+Insulin pump
+Blood pressure monitor | blood pressure cuff
+Treadmill | treadmills
+Exercise bike | spin bike | stationary bike
+Elliptical
+Rowing machine
+Massage chair
+Recliner | lazy boy | la-z-boy
+Adjustable bed
+Hospital bed
+Dentist chair
+Barber chair
+Car seat | car seats
+Seat belt | seatbelt | seat belts
+Window winder | power windows | car window
+Car radio | car stereo | head unit
+Sat nav | gps | satnav
+Cockpit | airplane cockpit | plane cockpit | flight deck
+Lighting desk | light board
+--- 4
+Toy piano
+Karaoke machine
+Electronic keyboard
+Electric piano
+Sampler keyboard
+Flip phone | flip phones | clamshell phone
+Rotary phone
+Payphone | pay phone | phone booth | phone box
+Nokia | nokia 3310
+Tamagotchi | tamagotchis | tamagotchi toy
+Furby
+Speak and Spell | speak & spell
+Simon | simon game
+Etch A Sketch | etch-a-sketch
+Bop It | bop-it
+Tickle Me Elmo
+Talking doll
+Waistcoat | waistcoats
+Button badge | button badges | pin badge | badge | badges
+Pin button | pinback button
+Campaign button | campaign buttons
+Belly button | belly buttons | navel
+Panic button
+Snooze button
+Elevator panel | lift panel | elevator button
+Crosswalk | pedestrian crossing | crosswalk signal | pelican crossing | traffic light button
+Ticket kiosk | kiosk | self checkout | self-checkout | self service
+Gas pump | petrol pump | fuel pump
+EV charger | charger | charging station
+Car wash
+Drive-through speaker | drive thru
+Electric blanket | blanket control | heated blanket
+Sous vide | sous vide machine
+Soda machine | soda fountain | fountain machine | fountain
+Slushie machine | slush machine
+Candy machine | gumball machine | sweet machine
+Claw machine | crane game | claw game
+Photo booth | photobooth
+
+=== things-with-screens
+title: Things with a screen
+prompt: Name as many things with a screen as you can
+starcore: Fitbit
+--- 1
+Phone | phones | cell phone | mobile phone | mobile | smartphone | iphone
+Television | tv | tvs | telly
+Computer | computers | pc
+Laptop | laptops
+Tablet | tablets | ipad
+Smartwatch | smart watch | smartwatches
+Monitor | monitors | computer monitor
+Cinema | movie theater | movie theatre | cinema screen
+Game console | console | consoles
+ATM | cash machine | cashpoint
+--- 2
+Desktop computer | desktop
+Kindle | e-reader | ereader
+Handheld console | game boy | gameboy | nintendo ds | ds
+Steam Deck
+PlayStation | playstation | ps5
+Xbox
+Projector | projector screen
+Camera | cameras | digital camera
+Dashcam | dash cam
+Car dashboard | dashboard | car display | infotainment
+Sat nav | gps | satnav | gps device
+Calculator | calculators
+Digital watch | watch
+Fitbit | fitness tracker
+Microwave | microwaves
+Oven | ovens
+Fridge | smart fridge | refrigerator
+Washing machine | washer
+Alarm clock | digital clock | clock
+Radio | digital radio
+Stereo | car stereo
+Handheld game | tamagotchi
+Arcade machine | arcade | arcade game
+Slot machine | slot machines
+Vending machine | vending machines
+Karaoke machine
+Treadmill | treadmills
+Elevator | lift | elevators
+Intercom
+Photo booth
+Cockpit | flight deck | airplane cockpit
+Flight simulator | simulator
+Sonar
+Radar | radar screen
+Teleprompter | autocue
+Pinball machine | pinball
+Self-checkout | self checkout | checkout
+Cash register | till
+Card reader | payment terminal | card machine
+Parking meter | pay machine
+Ticket machine
+Airport departures board | departures board | flight board | departure board | arrivals board
+Scoreboard | scoreboards
+Billboard | digital billboard | digital billboards
+Jumbotron | big screen
+Smart speaker | echo show
+Doorbell camera | video doorbell | ring doorbell
+Baby monitor
+Thermometer | digital thermometer
+Blood pressure monitor
+Glucose meter | glucometer
+Electric meter | smart meter
+Printer | printers
+Voting machine
+Telephone | landline
+Cordless phone
+Flip phone
+Headset | vr headset | vr | oculus
+MP3 player | ipod
+Portable DVD player
+DVD player
+Smart TV
+--- 3
+Smart glasses | google glass
+Digital photo frame | photo frame
+Digital signage | digital sign | digital signs
+Menu board | drive-through menu | drive thru menu
+Barcode scanner | handheld scanner
+Pos system | point of sale
+Bus stop display | bus stop board | bus shelter
+Gas pump | petrol pump | fuel pump
+EV charger | charging station
+Car | cars | tesla
+Airplane seat | seatback screen | in-flight entertainment | plane seat
+Elliptical
+Rowing machine
+Smart home hub | home hub | google home hub | nest hub
+Streaming stick | fire stick | firestick | chromecast
+Apple TV
+Roku
+Blu-ray player | bluray player
+Set-top box | cable box | satellite box | tv box
+VCR | video recorder
+Security camera monitor | cctv monitor | cctv | security monitor
+Camcorder | video camera
+Action camera | gopro
+Polaroid camera | instant camera
+Drone | drones
+Ultrasound | ultrasound machine
+MRI machine | mri | ct scanner | scanner machine
+Mission control
+Air traffic control
+Touchscreen | touch screen
+E-ink display
+Coffee machine | coffee maker | espresso machine
+LeapPad | leappad | kids tablet
+VTech | v.smile
+Game Boy Advance
+PSP | playstation portable
+PS Vita | vita
+Nintendo 3DS | 3ds
+Nintendo Switch | switch
+Wii U | wii u gamepad
+Gameboy Color
+Atari Lynx | lynx
+Sega Game Gear | game gear
+Palm Pilot | palm | pda
+Blackberry | blackberries
+Sidekick
+Pocket calculator
+Graphing calculator | graphing calculators
+Casio watch | casio
+G-Shock
+Garmin | garmin watch
+Apple Watch
+Samsung Galaxy | galaxy
+Pixel | google pixel
+Chromebook | chromebooks
+MacBook | macbook air | macbook pro
+iMac
+Surface | microsoft surface
+Netbook
+Notebook computer | notebook
+Phablet
+Foldable phone | galaxy fold
+--- 4
+Slide projector
+Overhead projector
+Billboard screen | times square
+Las Vegas Sphere | the sphere | sphere
+Drive-in | drive-in cinema | drive-in theater | drive in
+IMAX | imax screen
+Planetarium
+Fish finder | fishfinder
+Bike computer | cycle computer
+HUD | head-up display | heads up display
+Thermal camera | thermal imager
+Night vision | night vision goggles
+Pedometer
+Speed camera display | speed sign | speed sign radar | radar speed sign
+Variable message sign | electronic road sign | motorway sign
+Airport scanner | body scanner
+Baggage scanner
+Check-in kiosk | check in kiosk
+School smartboard | smartboard | interactive whiteboard
+Interactive display
+Stock ticker | ticker | stock ticker board | trading screen
+Bloomberg terminal | bloomberg
+News ticker
+
+=== things-that-melt
+title: Things that melt
+prompt: Name as many things that melt as you can
+starcore: Solder
+--- 1
+Ice | ice cubes | ice cube
+Snow | snowfall
+Ice cream | icecream
+Chocolate
+Butter
+Cheese
+Candle | candles | candle wax
+Popsicle | popsicles | ice pop | lolly
+Iceberg | icebergs
+Glacier | glaciers
+--- 2
+Marshmallow | marshmallows
+Candy | sweets | candies
+Gummy bears | gummy bear | gummies
+Crayon | crayons
+Plastic
+Lava | magma
+Metal | metals
+Steel
+Iron
+Gold
+Silver
+Copper
+Aluminum | aluminium
+Lead
+Tin
+Glass
+Sugar
+Caramel
+Fudge
+Toffee
+Ice pack | ice packs
+Icicle | icicles
+Frozen yogurt | froyo | frozen yoghurt
+Gelato
+Sorbet
+Sherbet
+Ice sculpture | ice sculptures
+Snowflake | snowflakes
+Sno cone | snow cone
+Slushie | slushies | slush | slushy
+Lard
+Margarine
+Coconut oil
+Fat | fats
+Tallow
+Wax | beeswax
+Soap | soap bar
+Gelatin | jello | jelly
+Lollipop | lollipops
+Hard candy
+Chewing gum | gum
+Brie | brie cheese
+Mozzarella
+Cheddar
+Fondue
+Nacho cheese
+Grilled cheese
+S'mores | smores
+Hot chocolate bomb | hot chocolate bombs
+Fondant
+Frosting | icing
+Whipped cream | cream
+Cheesecake
+Snowman | snowmen
+--- 3
+Butterscotch
+Nougat
+Chocolate chips | choc chips | chocolate chip
+Chocolate bar | chocolate bars
+Hershey's kiss | hershey kiss | kisses
+M&Ms | m&m | mms | smarties
+White chocolate
+Dark chocolate
+Milk chocolate
+Truffle | truffles
+Ganache
+Mint chocolate
+Chocolate fountain | chocolate fondue
+Cookie dough
+Brownie
+Candy bar | candy bars
+Candy canes | candy cane
+Jelly beans | jelly bean
+Skittles
+Starburst
+Taffy | salt water taffy
+Peeps
+Cotton candy | candy floss
+Gumdrops | gumdrop
+Jelly babies | jelly baby
+Wine gums
+Sugar cubes | sugar cube
+Honey
+Maple syrup
+Syrup | golden syrup
+Molasses | treacle
+Ghee
+Shortening | crisco
+Dripping
+Bacon fat
+Bacon grease | grease
+Ice cream cone | ice cream cones
+Ice cream sundae | sundae
+Ice cream bar | ice cream bars
+Ice cream sandwich
+Milkshake | shake
+Frozen dessert
+Frozen custard
+Lollies | ice lollies
+Freezer pops | freezies
+Fudgesicle
+Dippin' Dots | dippin dots
+Ice block | ice blocks | block of ice
+Dry ice
+Wax candle | taper candle | tea light | tealight | tea lights
+Wax seal | sealing wax
+Wax crayon
+Paraffin
+Paraffin wax
+Lipstick
+Lip balm | chapstick
+Vaseline | petroleum jelly
+Deodorant stick
+Glue stick
+Hot glue | hot glue gun | glue gun
+Hot melt glue | glue
+Solder | soldering
+Gold bar | gold bars
+Silver bar
+Rock candy
+Stained glass
+Fiberglass | fibreglass
+Styrofoam | polystyrene
+Plastic wrap | cling film | saran wrap
+Plastic utensils | plastic cutlery | plastic fork | plastic spoon
+Tupperware | plastic container | plastic containers
+Birthday candle | birthday candles
+Oil pastel | oil pastels
+--- 4
+Resin
+Epoxy
+Amber
+Tar | pitch | bitumen
+Rosin
+Lanolin
+Shea butter
+Spermaceti
+Carnauba | carnauba wax
+Spring thaw | thaw
+Frozen waterfall | ice waterfall
+Ice cave | ice caves
+Ice hotel
+Ice palace
+Igloo | igloos
+Ice castle
+Snow sculpture
+Snow globe
+
+=== open-close-things
+title: Things that open and close
+prompt: Name as many things that open and close as you can
+starcore: Sluice gate
+--- 1
+Door | doors
+Window | windows
+Book | books
+Box | boxes
+Eyes | eye | eyelids | eyelid
+Mouth | lips
+Drawer | drawers
+Umbrella | umbrellas
+Gate | gates
+Jar | jars
+--- 2
+Garage door
+Car door
+Car trunk | trunk | boot | car boot
+Car hood | bonnet
+Cabinet | cabinets | cupboard | cupboards
+Fridge | refrigerator | freezer
+Oven | ovens
+Dishwasher
+Washing machine | washer
+Microwave | microwaves
+Laptop | laptops
+Phone | flip phone | clamshell
+Suitcase | suitcases
+Bag | bags | handbag | purse
+Curtains | curtain | drapes
+Blinds | blind | window blinds
+Shutters | shutter
+Lid | lids
+Bottle | bottles
+Can | cans | tin
+Envelope | envelopes
+Folder | folders
+Notebook | notebooks
+Magazine | magazines
+Scissors
+Pliers
+Clothespin | clothes peg | peg | pegs | clothes pin
+Stapler
+Hole punch
+Trapdoor | trap door
+Hatch | hatches
+Bus doors | bus door
+Train doors | train door
+Airplane door | plane door
+Sliding door | sliding doors | patio door
+Revolving door | revolving doors
+Automatic door | automatic doors
+Swinging door | saloon doors | saloon door
+Screen door
+Front door
+Back door
+Drawbridge | drawbridge
+Bin | trash can | rubbish bin | dustbin | garbage can | wheelie bin
+Mailbox | letterbox | post box
+Lunchbox | lunch box
+Toolbox
+Briefcase
+Locker | lockers
+Wardrobe | closet
+Shed | shed door
+Barn door
+Stable door
+Cage | cages | birdcage
+Sunroof | moonroof
+Convertible | convertible roof
+Roof | retractable roof
+Skylight | skylights
+Tent | tents | tent flap
+Camera shutter | camera
+Venus flytrap | flytrap | venus fly trap
+Zipper | zip | zips
+Faucet | tap | taps | faucets
+Lock | locks
+Valve | valves
+Flower | flowers | petals | tulip | tulips | daisy | daisies
+Clam | clams | oyster | oysters | mussel | mussels
+Hand | hands | fist
+Treasure chest | chest | chests
+Safe | safes
+Wallet | wallets
+Backpack | rucksack | backpacks
+Elevator | lift | elevators
+Folding chair | folding chairs
+Deck chair | deckchair
+Stroller | pram | pushchair | buggy
+Crib | cot
+Binoculars
+Telescope
+Pen | click pen | clicky pen | retractable pen
+Glasses | spectacles | eyeglasses | specs
+Sunglasses | shades | sunglass
+Fan | folding fan | hand fan
+Bottle opener
+Cork | corks
+Cap | bottle cap | screw cap
+Plug | plugs
+Pot lid | saucepan lid | pan lid
+Teapot
+Thermos | flask
+Awning | awnings
+Parasol
+Canopy
+Sofa bed | futon | sofabed
+Pop-up tent | popup tent
+Fire hydrant | hydrant
+Clasp | clasps | buckle | buckles
+Button | buttons
+Hose nozzle | nozzle
+Lunchbag | lunch bag
+Music box | jewelry box | jewellery box
+Cat flap | dog flap | pet door | doggy door
+Coffin | casket
+Piano | piano lid
+Turtle | tortoise
+Mouse trap | mousetrap
+Pea pod | peapod
+Jaw | jaws
+Beak | beaks
+Wings | wing
+Lungs | lung
+Heart valve | heart
+Pupil | pupils
+Bridge | opening bridge
+--- 3
+Door knob | doorknob | door handle | handle
+Deadbolt | bolt
+Latch | latches
+Hinge | hinges
+Padlock | padlocks
+Chain lock
+Gate latch
+Cat door
+Letter flap | letter box flap
+Mail slot
+Bin lid
+Trash lid | garbage lid
+Jar lid | jam jar
+Pill bottle | pill box | pillbox | medicine bottle
+Medicine cabinet
+Vending machine flap
+Ticket gate | turnstile | turnstiles
+Barrier | barriers | boom gate | boom barrier
+Toll barrier | toll gate | tollbooth
+Level crossing | railroad crossing | crossing gates
+Garage gate
+Driveway gate
+Cattle grid gate
+Farm gate
+Field gate
+Kissing gate
+Lych gate | lychgate
+Portcullis
+Castle gate | castle gates
+City gate | city gates
+Dock gate
+Canal lock | lock gate | lock gates
+Sluice gate | sluice | floodgate | flood gate | floodgates
+Dam gate | dam gates | dam
+Thames Barrier
+Tower Bridge | tower bridge
+Bascule bridge | lift bridge | swing bridge
+Drawbridge gate
+Elevator door
+Escalator comb
+Subway gate
+Fire door | fire doors
+Emergency exit | exit door
+Vault door | bank vault | vault
+Airlock | air lock
+Bulkhead | bulkhead door
+Submarine hatch | submarine door
+Spaceship door | spaceship doors | pod bay doors | pod bay door
+Cargo door | cargo ramp | ramp
+Cargo hatch
+Loading bay door | loading dock door
+Warehouse door | roller door | roller shutter | rolling door
+Shop shutters | shop shutter
+Shop door | shop doors
+Store door
+Car window
+Glove box | glove compartment | glovebox
+Tailgate | liftgate
+Porthole
+Roller blind | roller blinds
+Stage curtain | theatre curtain | theater curtain
+Shower curtain
+Cupboard door | cupboard doors
+Bread bin | bread box
+Cookie jar
+Waffle iron | waffle maker
+Sandwich maker | toastie maker | panini press | sandwich press
+Grill | george foreman
+Clamshell grill
+Garden tap | outdoor tap | outside tap
+Stopcock
+Zip lock | ziplock | zip lock bag | ziploc | ziplock bag
+Nutcracker
+Binder | ring binder | binders
+Pen | click pen | clicky pen | retractable pen
+Finger | fingers | thumb | thumbs
+Butterfly wings | butterfly | butterflies
+Sea anemone | anemone | anemones
+Pill bug | roly poly | woodlouse | wood louse
+--- 5
+Sluice gate | sluice | floodgate | floodgates
+Bascule bridge | lift bridge | swing bridge
+Portcullis
+Airlock | air lock
+Dumbwaiter
+Trapdoor spider
+Cryptex
+Bellows
+Accordion | accordions | concertina
+Triptych | altarpiece
+Folding screen | shoji | room divider
+Murphy bed | wall bed
+Pill bug | roly poly | woodlouse
+Venus flytrap | flytrap
+Jack in the box | jack-in-the-box
+Matryoshka | nesting dolls | russian doll
+Hatbox | hat box
+Sally port
+Oubliette
+Wicket gate | wicket
+Postern
+
+=== tall-things
+title: Things that are tall
+prompt: Name as many things that are tall as you can
+starcore: Tokyo Skytree
+--- 1
+Giraffe | giraffes
+Skyscraper | skyscrapers
+Tree | trees
+Eiffel Tower | eiffel
+Mountain | mountains
+Building | buildings
+Basketball player | basketball players
+Statue of Liberty
+Tower | towers
+Mount Everest | everest
+--- 2
+Redwood | redwoods | sequoia | giant sequoia
+Pine tree | pine
+Palm tree | palm | palm trees
+Oak | oak tree
+Elephant | elephants
+Ladder | ladders
+Lamp post | lamppost | street lamp | streetlight
+Flagpole | flag pole
+Giant | giants
+Burj Khalifa | burj
+Empire State Building | empire state
+Space Needle
+Big Ben | elizabeth tower
+CN Tower
+Taipei 101
+Shanghai Tower
+Willis Tower | sears tower
+One World Trade Center | freedom tower | world trade center
+Petronas Towers | petronas
+Tokyo Skytree | skytree
+Tokyo Tower
+Washington Monument
+Leaning Tower of Pisa | leaning tower | tower of pisa
+Great Pyramid | pyramid | pyramids | pyramid of giza
+Church steeple | steeple | spire
+Cathedral | cathedrals
+Lighthouse | lighthouses
+Windmill | windmills
+Wind turbine | wind turbines
+Crane | cranes | construction crane
+Radio tower | radio mast | mast
+Cell tower | phone mast
+Telephone pole | utility pole | power pole
+Pylon | pylons | electricity pylon
+Chimney | chimneys | smokestack
+Mount Kilimanjaro | kilimanjaro
+K2
+Matterhorn
+Mount Fuji | fuji
+Denali
+Mont Blanc
+Alps
+Himalayas
+Rocky Mountains | rockies
+Volcano | volcanoes
+Cliff | cliffs
+Waterfall | waterfalls
+Dinosaur | dinosaurs
+Brachiosaurus
+T. rex | t rex | tyrannosaurus | tyrannosaurus rex
+Ostrich | ostriches
+Crane bird
+Heron | herons
+Flamingo | flamingos
+Horse | horses
+Moose
+Camel | camels
+Volleyball player
+Shaquille O'Neal | shaq
+Yao Ming
+Michael Jordan
+LeBron James | lebron
+Robert Wadlow
+Sultan Kosen
+Andre the Giant
+Goliath
+Paul Bunyan
+BFG | the bfg
+Hagrid
+Gandalf
+Sasquatch | bigfoot
+King Kong
+Godzilla
+Hulk
+Optimus Prime
+Bookshelf | bookcase
+Sunflower | sunflowers
+Corn | maize | cornstalk
+Bamboo
+Sugar cane | sugarcane
+Cactus | saguaro | saguaro cactus
+Hollyhock | hollyhocks
+Pillar | pillars | column | columns
+Obelisk
+Monument | monuments
+Totem pole | totem poles
+Minaret | minarets
+Pagoda | pagodas
+Silo | silos | grain silo
+Grain elevator
+Cooling tower | cooling towers
+Ferris wheel | london eye
+Roller coaster | rollercoaster
+--- 3
+Gateway Arch | st louis arch | the arch | arch
+Chrysler Building | chrysler
+Flatiron Building | flatiron
+Woolworth Building
+Trump Tower
+Hearst Tower
+Transamerica Pyramid
+Gherkin | the gherkin | 30 st mary axe
+Shard | the shard
+Walkie Talkie | walkie-talkie building
+Cheesegrater | the cheesegrater
+Canary Wharf
+Lotte World Tower
+Ping An Finance Centre | ping an
+Abraj Al-Bait | makkah clock tower | mecca clock tower | clock tower
+Jeddah Tower | kingdom tower
+Merdeka 118
+Guangzhou Tower | canton tower
+Oriental Pearl Tower | oriental pearl
+Ostankino Tower | ostankino
+Berlin TV Tower | fernsehturm | tv tower
+Sky Tower
+Stratosphere Tower | stratosphere
+Sydney Tower | sydney tower eye
+Blackpool Tower
+Tower of London
+Colossus of Rhodes | colossus
+Lighthouse of Alexandria | pharos
+Hanging Gardens
+Ziggurat | ziggurats
+Duomo | cathedral dome
+Sagrada Familia
+Cologne Cathedral | cologne
+Ulm Minster | ulm cathedral
+Lincoln Cathedral
+Washington National Cathedral
+Basilica
+Mosque | mosques
+Temple | temples
+Statue of Unity
+Spring Temple Buddha
+Motherland Calls
+Mount Rushmore | rushmore
+Statue | statues
+Mount McKinley | mckinley
+Aconcagua
+Kangchenjunga
+Lhotse
+Makalu
+Cho Oyu
+Annapurna
+Mount Elbrus | elbrus
+Mount Vinson | vinson
+Mauna Kea
+Mount Olympus | olympus
+Mount Etna | etna
+Mount Vesuvius | vesuvius
+Mount Rainier | rainier
+Half Dome
+El Capitan
+Devils Tower | devil's tower
+Ayers Rock | uluru
+Table Mountain
+Sugarloaf Mountain | sugarloaf
+Giant redwood
+Hyperion | hyperion tree
+General Sherman | general sherman tree
+Douglas fir | douglas firs
+Eucalyptus | gum tree | gum trees
+Mountain ash
+Cedar | cedars | cedar tree
+Cypress
+Poplar | poplars
+Birch | birch tree | birches
+Elm | elms
+Beech | beech tree
+Maple | maple tree
+Willow | willow tree
+Spruce
+Fir | fir tree | fir trees
+Baobab | baobabs
+Banyan | banyan tree
+Coconut tree | coconut palm | coconut trees
+Date palm
+Kapok
+Teak
+Mahogany
+Sequoia tree
+Bamboo stalks | bamboo forest
+Delphinium | delphiniums
+Foxglove | foxgloves
+Lupin | lupins | lupine | lupines
+Gladiolus | gladioli | gladiolas
+Titan arum | corpse flower
+Okapi
+Gerenuk
+Emu | emus
+Cassowary
+Rhea
+Sandhill crane
+Stork | storks
+Great blue heron
+Egret | egrets
+Ibis
+Pelican
+Whooping crane
+Marabou stork
+Elk | elks | wapiti
+Deer | stag
+Llama | llamas
+Alpaca
+Bull | bulls
+Clydesdale | clydesdales | shire horse | shire horses | shire | percheron
+Great Dane | great danes
+Irish Wolfhound | wolfhound
+Mastiff
+Saint Bernard | st bernard
+Borzoi
+Greyhound
+Afghan hound
+Newfoundland
+Bernese Mountain Dog | bernese
+Doberman
+Goal post | goalpost | goalposts | goal posts
+Billboard | billboards
+Scaffold | scaffolding
+Stack | stacks
+Pile | piles
+Tower block | tower blocks | high rise | high-rise | highrise | apartment block
+Wedding cake | tiered cake | tiered wedding cake
+Champagne tower
+--- 4
+Nelson's Column | nelsons column
+Trajan's Column
+Bell tower | bell towers | belfry
+Watchtower | watch tower | guard tower
+Tower of Babel
+Rapunzel's tower | rapunzel tower
+Space elevator
+Yggdrasil | world tree
+Major Oak
+Jenga tower | jenga
+--- 5
+Petronas Twin Towers
+Hoover Tower
+Giralda
+Campanile
+Barad-dur | barad dur | dark tower
+Orthanc
+Pando
+Methuselah

@@ -40,7 +40,6 @@ milwakee
 indianopolis
 louisvile
 chatanooga
-brooklyn
 queens
 the bronx
 staten island
@@ -48,15 +47,10 @@ manhattan
 hollywood
 honolulu
 anchorage
-juneau
 san juan
-albany ny => Albany
-carson city
 virginia beach
-atlantic city
 yonkers
 santa ana
-key west
 boise
 jackson hole => Jackson
 las vegas nevada
