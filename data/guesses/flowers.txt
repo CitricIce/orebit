@@ -1,0 +1,70 @@
+rose
+roses
+tulips
+daisies
+sunflower
+lily
+orchid
+daffodil => Daffodil
+narcissus => Daffodil
+chrysanthemum
+crysanthemum
+mum
+mums
+peony
+peonie
+lily of the valley
+forget me not
+forget-me-not
+sweet pea
+baby's breath
+babys breath
+gypsophila
+hydrangea
+hydrangia
+bougainvillea
+bouganvillea
+buganvilla
+carnation
+lavender
+marigold
+violet
+pansy
+poppy
+dandelion
+lotus
+iris
+jasmine
+hibiscus
+magnolia
+lilac
+geranium
+petunia
+snowdrop
+bluebell
+crocus
+hyacinth
+cherry blossom
+sakura
+gladiolus
+gladiola
+foxglove
+snapdragon
+wisteria
+camellia
+rhododendron
+azalea
+gardenia
+begonia
+dahlia
+zinnia
+freesia
+anemone
+ranunculus
+protea
+frangipani
+plumeria
+lupine
+bird of paradise
+poinsettia
+cosmos

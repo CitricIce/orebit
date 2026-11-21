@@ -1,0 +1,383 @@
+--- 2
+Chrysanthemum | crysanthemum | chrysanthemums | chrysanthemun
+Peony | peonie | peonies | paeony
+Hydrangea | hydrangia | hydrangeas | hortensia
+Bougainvillea | bougainvillia | bougainvilla | bouganvillea | buganvilla
+Rose | roses
+Tulip | tulips
+Daisy | daisies
+Sunflower | sunflowers
+Lily | lilies
+Orchid | orchids
+Daffodil | daffodils | daffodill
+Lily of the valley | lily-of-the-valley
+Forget-me-not | forget me not | forgetmenot
+Sweet pea | sweetpea | sweet peas
+Gypsophila | baby's breath | babys breath | baby breath
+Carnation | carnations
+Lavender | lavendar
+Marigold | marigolds
+Violet | violets
+Pansy | pansies
+Poppy | poppies
+Dandelion | dandelions
+Lotus | lotus flower
+Iris | irises
+Jasmine | jasmin | jessamine
+Hibiscus | hibiscuss
+Magnolia | magnolias
+Lilac | lilacs
+Geranium | geraniums
+Petunia | petunias
+Snowdrop | snowdrops
+Bluebell | bluebells
+Crocus | crocuses
+Hyacinth | hyacinths | hyacinthe
+--- 3
+Rhododendron | rhodedendron | rhododendrun
+Camellia | camelia
+Azalea | azaleas
+Gardenia | gardenias
+Begonia | begonias
+Dahlia | dahlias
+Gladiolus | gladiola | gladioli
+Snapdragon | antirrhinum
+Foxglove | digitalis
+Honeysuckle | honeysuckles
+Wisteria | wistaria
+Lupin | lupine | lupins
+Bird of paradise | bird of paradise flower | strelitzia
+Calla lily | calla | arum lily
+Cherry blossom | sakura | cherry blossoms
+Apple blossom
+Orange blossom
+Plum blossom | ume
+Water lily | waterlily
+Daylily | day lily | hemerocallis
+Cornflower | bachelor's button | bachelors button
+Poinsettia | poinsetta | poinsettias
+Zinnia | zinnias
+Freesia | freesias
+Anemone | windflower | anenome
+Ranunculus | ranunculas
+Cosmos | cosmea
+Nasturtium | nasturtiums
+Fuchsia | fuschia
+Delphinium | delphiniums
+Larkspur | larkspurs
+Hollyhock | hollyhocks
+Sweet William | sweet williams
+Black-eyed Susan | black eyed susan | rudbeckia
+Coneflower | echinacea | purple coneflower
+Aster | asters | michaelmas daisy
+Stock | matthiola
+Amaryllis | amarylis
+Agapanthus | african lily | lily of the nile
+Allium | alliums | ornamental onion
+Alstroemeria | peruvian lily | alstromeria
+Anthurium | flamingo flower | anthuriums
+Clematis | clematis vine
+Cyclamen | cyclamens
+Primrose | primula | primroses
+Tiger lily | tigerlily
+Sweet alyssum | alyssum
+Impatiens | busy lizzie | impatience
+Gerbera | gerbera daisy | gerber daisy
+Tuberose | tuberoses
+Edelweiss | edelwiess
+Jonquil | jonquils
+Daffodil | narcissi | narcisus
+Bleeding heart | dicentra
+Columbine | aquilegia
+Oleander | oleanders
+Yarrow | achillea
+Phlox | phlox flower
+Salvia | sage flower
+Verbena | vervain
+Lobelia | lobelias
+Statice | sea lavender | limonium
+Wallflower | erysimum
+Evening primrose
+Queen Anne's lace | queen annes lace | wild carrot
+Chamomile | camomile
+Calendula | pot marigold
+Hawthorn | may blossom
+Red poppy | corn poppy | field poppy | remembrance poppy
+California poppy | golden poppy
+Lady's slipper | ladys slipper | lady slipper
+Moth orchid | phalaenopsis
+Cattleya
+Cymbidium
+Dendrobium
+Vanda
+Oncidium
+Ghost orchid
+Pitcher plant
+Venus flytrap
+Sundew
+Passionflower | passion flower | passionfruit flower
+Birds of paradise
+Hellebore | christmas rose | lenten rose
+Heather | erica | heath
+Heliotrope
+Gazania | treasure flower
+Protea | king protea
+Frangipani | plumeria
+Jacaranda
+Scabiosa | pincushion flower
+Lisianthus | eustoma | lisanthus
+--- 4
+Bellflower | campanula | canterbury bells
+Harebell | scottish bluebell
+Cowslip
+Oxlip
+Celandine | lesser celandine
+Wood anemone
+Speedwell | veronica
+Red campion
+Ragged robin
+Meadowsweet
+Foxtail lily | eremurus
+Fritillary | snake's head fritillary | snakes head fritillary
+Checkered lily | checkered fritillary
+Crown imperial
+Grape hyacinth | muscari
+Squill | scilla
+Glory of the snow | chionodoxa
+Winter aconite | aconite
+Monkshood | wolfsbane | aconitum
+Globeflower | trollius
+Kingcup | marsh marigold
+Cranesbill | hardy geranium
+Pelargonium
+Penstemon | beardtongue
+Astilbe | false spirea
+Astrantia | masterwort
+Bergamot | bee balm | monarda
+Catmint | nepeta
+Catnip
+Coreopsis | tickseed
+Gaillardia | blanket flower
+Helenium | sneezeweed
+Hosta
+Kniphofia | red hot poker | torch lily
+Liatris | blazing star | gayfeather
+Lythrum | purple loosestrife | loosestrife
+Lysimachia | creeping jenny
+Lamb's ear | lambs ear
+Sedum | stonecrop
+Sempervivum | houseleek | hens and chicks
+Sea holly | eryngium
+Teasel
+Thrift | sea thrift | armeria
+Valerian
+Verbascum | mullein
+Viola | violas | heartsease | johnny jump up
+Wild rose | dog rose | briar rose
+Tea rose
+Climbing rose
+Damask rose
+Yellow rose
+Tudor rose
+Abutilon | flowering maple
+Bottlebrush | callistemon
+Buddleia | butterfly bush | buddleja
+Ceanothus | california lilac
+Chaenomeles | flowering quince | japonica
+Choisya | mexican orange blossom
+Cistus | rock rose
+Forsythia | golden bells
+Kolkwitzia | beauty bush
+Laburnum | golden chain
+Mock orange | philadelphus
+Potentilla | cinquefoil
+Pyracantha | firethorn
+Rose of Sharon | althea | hibiscus syriacus
+Spirea | spiraea
+Weigela
+Witch hazel | hamamelis
+Viburnum | snowball bush
+Daphne
+Crape myrtle | crepe myrtle | crape myrtle tree
+Redbud
+Mountain laurel
+Royal poinciana | flamboyant | flame tree
+Ixora | jungle geranium
+Heliconia | lobster claw | lobster-claw
+Ginger lily | hedychium | butterfly ginger
+Torch ginger
+Hibiscus rosa-sinensis | china rose
+Allamanda | golden trumpet
+Plumbago | leadwort
+Bauhinia | orchid tree
+Angel's trumpet | angels trumpet | brugmansia | datura
+Canna | canna lily
+Ixia
+Gloriosa | flame lily | glory lily
+Hoya
+Stephanotis | madagascar jasmine
+Tiare | tahitian gardenia
+Ylang-ylang | ylang ylang
+Champa
+Zephyranthes | rain lily
+Crinum
+Nerine
+Amaryllis belladonna | naked lady
+Colchicum | autumn crocus
+Bearded iris
+Siberian iris
+Japanese iris
+Dutch iris
+Flag iris | yellow flag
+Camassia | camas
+Snowflake | leucojum
+Trumpet vine | campsis
+Moonflower | moon flower
+Four o'clock | four oclock | marvel of peru
+Cleome | spider flower
+Celosia | cockscomb
+Amaranthus | love-lies-bleeding | love lies bleeding
+Globe amaranth
+Strawflower | everlasting
+Nigella | love-in-a-mist | love in a mist
+Candytuft | iberis
+Aubretia | aubrieta
+Bellis | english daisy
+Ox-eye daisy | oxeye daisy | marguerite
+Shasta daisy
+African daisy | osteospermum | cape daisy
+Godetia | clarkia | farewell to spring
+Linaria | toadflax
+Lunaria | honesty | money plant
+Mallow | malva
+Fireweed
+Indian paintbrush | paintbrush
+Sego lily
+Shooting star | dodecatheon
+Trout lily
+Jack-in-the-pulpit | jack in the pulpit
+Bloodroot
+Dutchman's breeches | dutchmans breeches
+Spring beauty
+Hepatica
+Pasqueflower | pasque flower
+Pulsatilla
+Alpine gentian
+Soldanella
+Saxifrage
+Primula auricula | auricula
+Lady's mantle | ladys mantle | alchemilla
+Feverfew
+Bird's-foot trefoil | birds foot trefoil
+Red clover
+White clover
+Bugle | ajuga
+Gorse | furze
+Broom | scotch broom
+Elderflower | elder flower
+Lime blossom | linden blossom
+--- 5
+Titan arum | amorphophallus
+Kadupul | kadupul flower
+Queen of the Night | night blooming cereus | epiphyllum
+Dracula orchid | monkey orchid
+Bee orchid
+Pyramidal orchid
+Early purple orchid
+Bog orchid
+Jewel orchid
+Slipper orchid | paphiopedilum
+Bletilla
+Spathoglottis
+Neofinetia
+Phragmipedium
+Miltonia | pansy orchid
+Brassia | spider orchid
+Zygopetalum
+Epidendrum
+Lycaste
+Masdevallia
+Himalayan blue poppy | blue poppy | meconopsis
+Welsh poppy
+Iceland poppy
+Opium poppy
+Oriental poppy
+Tree peony
+Itoh peony
+Herbaceous peony
+Banksia
+Waratah
+Kangaroo paw | anigozanthos
+Bottlebrush grevillea | grevillea
+Wattle | acacia blossom
+Sturt's desert pea | sturts desert pea | desert pea
+Flannel flower
+Geraldton wax | waxflower
+Leucospermum | pincushion protea
+Leucadendron
+Clivia | bush lily
+Gloxinia | sinningia
+African violet | saintpaulia
+Streptocarpus | cape primrose
+Kalanchoe | flaming katy
+Christmas cactus | holiday cactus | schlumbergera
+Easter cactus
+Rex begonia
+Tuberous begonia
+Wax begonia
+Elatior begonia
+Calceolaria | slipper flower | pocketbook plant
+Cineraria | pericallis
+Polyanthus
+Mimulus | monkey flower | monkeyflower
+Nemesia
+Diascia
+Mesembryanthemum | ice plant
+Portulaca | moss rose | purslane
+Lantana
+Browallia
+Salpiglossis
+Schizanthus | poor man's orchid
+Ageratum | floss flower
+Brachyscome
+Bacopa | sutera
+Scaevola | fan flower
+Verbena bonariensis
+Echium | viper's bugloss | vipers bugloss
+Borage
+Comfrey
+Lungwort | pulmonaria
+Anchusa | alkanet
+Brunnera
+Cynoglossum | hound's tongue
+Phacelia
+Nemophila | baby blue eyes
+Eschscholzia
+Lavatera | tree mallow
+Chinese lantern | physalis
+Watsonia
+Sparaxis
+Tritonia
+Babiana
+Lachenalia | cape cowslip
+Ornithogalum | star of bethlehem
+Eucomis | pineapple lily
+Galtonia | summer hyacinth
+Erythronium | dog's tooth violet | dogs tooth violet
+Puschkinia
+Narcissus poeticus | pheasant's eye | pheasants eye
+Paperwhite | paperwhites | paper white
+Poet's narcissus | poets narcissus
+Sprekelia | aztec lily
+Eucharis | amazon lily
+Hymenocallis | spider lily | peruvian daffodil
+Lycoris | red spider lily | surprise lily | resurrection lily
+Lords and ladies | cuckoo pint | cuckoo-pint
+Calla palustris
+Skunk cabbage
+Dieffenbachia flower
+Oakleaf hydrangea
+Climbing hydrangea
+Lacecap hydrangea
+Mophead hydrangea
+Hydrangea arborescens | annabelle

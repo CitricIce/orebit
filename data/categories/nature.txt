@@ -9,7 +9,7 @@ Tulip
 Daisy
 Sunflower
 Lily
-Daffodil
+Daffodil | narcissus | narcissi
 Orchid
 --- 2
 Carnation
@@ -99,7 +99,6 @@ Gypsophila | baby's breath
 Hellebore
 Heliotrope
 Jonquil
-Narcissus
 Oleander
 Phlox
 Salvia
