@@ -18,6 +18,18 @@ The build enforces part of this: every category needs at least 5 answers in
 the Stone tier (`--- 1`), the ones almost everyone thinks of. If an honest
 Stone tier has fewer than 5, the category is too hard. Drop it.
 
+## Method
+
+We follow Krillion's published method (krillion.io/faq):
+
+- Answer lists combine several sources (hand-written lists, Wikidata, other
+  references) that are merged and cleaned.
+- Rarity comes from how often a name turns up in everyday text. Where that
+  fails (people, brands, titles), place answers by judgment.
+- The Starcore is hand-picked for fun, not just rarity: the most satisfying
+  deep cut that at least a few players will actually find. Set it with the
+  `starcore:` line.
+
 ## Format
 
 ```

@@ -15,3 +15,9 @@ Every category must pass one test: could most people name about 5 answers in
 easy only if nearly anyone can name 10 or more, otherwise medium. Any argument
 for medium means medium. Each day has at most 1 medium. Full rules in
 `data/categories/README.md`.
+
+Follow Krillion's published method (krillion.io/faq) for answer lists:
+combine several sources and clean them, rate rarity by how often a name
+turns up in everyday text, use judgment where that fails (people, brands,
+titles), and hand-pick each Starcore for fun: the most satisfying deep cut
+that at least a few players will actually find.
