@@ -1,0 +1,193 @@
+--- 2
+Dog | dogs | puppy | doggy | canine
+Cat | cats | kitten | kitty | feline
+Hamster | hamsters | hampster | hampsters | hamsters
+Rabbit | rabbits | bunnies | bunny rabbit
+Guinea pig | guinea pigs | cavy | cavies | guineapig | guinie pig
+Parrot | parrots | parot
+Budgie | budgies | budgerigar | budgerigars | parakeet | parakeets | budgy
+Gerbil | gerbils | gerbal | gerbals | gerble
+Chinchilla | chinchillas | chinchila | chinchila
+Ferret | ferrets
+Hedgehog | hedgehogs | hedge hog | hedgehogs
+Goldfish | gold fish
+Turtle | turtles | terrapin | terrapins
+Tortoise | tortoises
+Snake | snakes
+Lizard | lizards
+Bearded dragon | bearded dragons | beardie | beardies
+Gecko | geckos | leopard geckos
+Cockatiel | cockatiels | cockateel
+Canary | canaries
+Betta fish | bettas | betta fish
+Horse | horses
+Chicken | chickens | hen | hens
+Duck | ducks
+--- 3
+Rat | rats | pet rat | fancy rat
+Mouse | mouse | mice | mices
+Degu | degus
+Sugar glider | sugar gliders | sugarglider
+Corn snake | corn snakes
+Ball python | royal python | ball pythons
+Axolotl | axolotls | axolotyl | axolotle
+Frog | frogs
+Tree frog | tree frogs | treefrog
+Dart frog | poison dart frog | dart frogs
+Tarantula | tarantulas
+Hermit crab | hermit crabs
+Stick insect | stick insects | stick bug | walking stick | phasmid
+Snail | snails
+Sea monkeys | sea monkey | brine shrimp
+Ant farm | ant farms
+Finch | finches
+Lovebird | lovebirds | love bird | love birds
+Cockatoo | cockatoos
+Macaw | macaws
+Conure | conures
+African grey | african gray | african grey parrot | african gray parrot
+Pig | pigs | mini pig | miniature pig | micro pig | teacup pig | potbellied pig
+Goat | goats | pygmy goat | pygmy goats | dwarf goat
+Pony | ponies
+Guppy | guppies
+Koi | koi fish | koi carp
+Tetra | tetras | neon tetra | neon tetras
+Angelfish | angel fish | angelfish
+Clownfish | clown fish | nemo
+Molly | mollies | molly fish
+Platy | platies | platy fish
+Pleco | plecos | plecostomus | pleco fish
+Iguana | iguanas
+Chameleon | chameleons
+Parrotlet | parrotlets
+Cichlid | cichlids
+Swordtail | swordtails | sword tail
+Barb | barbs | tiger barb
+Gourami | gouramis | gourami fish
+Hamster | syrian hamster | golden hamster
+Dwarf hamster | dwarf hamsters | russian dwarf hamster | roborovski hamster | roborovski | winter white hamster | campbells hamster | chinese hamster
+--- 4
+Quaker parrot | monk parakeet | quaker parakeet
+Zebra finch | zebra finches
+Society finch | society finches | bengalese finch
+Eclectus | eclectus parrot
+Amazon parrot | amazon | amazon parrots
+Pionus | pionus parrot
+Senegal parrot | senegal
+Caique | caiques
+Cockatiel | cockatiels
+Rosella | rosellas
+Ringneck | ringneck parakeet | indian ringneck | ring necked parakeet
+Pacman frog | pac man frog | horned frog | pacman frogs
+Whites tree frog | white's tree frog | green tree frog
+Crested gecko | crested geckos | crestie | cresties
+Leopard tortoise | sulcata | sulcata tortoise | russian tortoise | hermann's tortoise | red footed tortoise
+Red-eared slider | red eared slider | slider turtle | slider | box turtle | painted turtle | musk turtle | map turtle
+King snake | kingsnake | king snakes | california kingsnake
+Milk snake | milksnake | milk snakes
+Boa | boa constrictor | boas | rosy boa | red tail boa
+Garter snake | garter snakes | garden snake
+Hognose snake | hognose | hognose snakes | hog nose snake
+Rat snake | rat snakes
+Blue tongue skink | blue-tongued skink | bluetongue skink | blue tongue lizard
+Skink | skinks
+Uromastyx | spiny tailed lizard
+Anole | anoles
+Water dragon | water dragons | chinese water dragon
+Monitor lizard | monitor | savannah monitor
+Tegu | tegus
+Salamander | salamanders
+Newt | newts | fire belly newt
+Toad | toads
+Fire-bellied toad | fire bellied toad
+Discus | discus fish
+Oscar | oscar fish
+Arowana | arowanas
+Danio | danios | zebra danio | zebrafish | zebra fish
+Rasbora | rasboras | harlequin rasbora
+Corydoras | cory | cories | cory catfish | catfish
+Loach | loaches | clown loach | kuhli loach
+Rainbowfish | rainbow fish
+Cherry shrimp | red cherry shrimp | ghost shrimp
+Crayfish | crawfish | crayfishes
+Seahorse | seahorses | sea horse
+Jellyfish | jelly fish | moon jelly
+Tang | blue tang | yellow tang
+Mandarin fish | mandarin dragonet
+Millipede | millipedes | giant millipede
+Praying mantis | mantis | mantises
+Scorpion | scorpions | emperor scorpion
+Cricket | crickets
+Cockroach | cockroaches | hissing cockroach | madagascar hissing cockroach
+Beetle | beetles | rhinoceros beetle
+Silkworm | silkworms
+Butterfly | butterflies | butterfly kit
+Mealworm | mealworms
+Fennec fox | fennec | fennec foxes
+Skunk | skunks | pet skunk
+Raccoon | raccoons
+Capybara | capybaras | capybarra
+Kinkajou | kinkajous
+Wallaby | wallabies
+Monkey | monkeys | marmoset | capuchin monkey | squirrel monkey
+Llama | llamas
+Alpaca | alpacas
+Donkey | donkeys
+Cow | cows | mini cow | miniature cow | bull
+Sheep | lamb | lambs
+Turkey | turkeys
+Goose | geese
+Quail | quails
+Peacock | peacocks | peafowl | peahen
+Dove | doves
+Pigeon | pigeons | homing pigeon
+Owl | owls
+Hawk | hawks
+Falcon | falcons
+Starling | starlings
+Mynah | myna | mynah bird | myna bird | mynas
+Sloth | sloths
+Prairie dog | prairie dogs
+Squirrel | squirrels | flying squirrel | chipmunk | chipmunks
+Fancy mouse | fancy mice
+--- 5
+Axolotl | mexican walking fish
+Tarantula | pet tarantula
+Pygmy hedgehog | african pygmy hedgehog
+Tenrec | tenrecs | lesser hedgehog tenrec
+Jerboa | jerboas
+Pacu | pacus
+Stingray | freshwater stingray
+Bichir | bichirs
+Dwarf frog | african dwarf frog | aquatic frog | clawed frog | african clawed frog
+Horned lizard | horny toad
+Leaf-tailed gecko | day gecko | tokay gecko | tokay
+Bush baby | bushbaby | galago
+Genet | genets
+Coati | coatis | coatimundi
+Serval | servals
+Bobcat | bobcats
+Lynx | lynxes
+Ocelot | ocelots
+Lion | lions
+Fox | foxes | red fox | arctic fox
+Kakariki | kakarikis
+Hyacinth macaw | blue and gold macaw | scarlet macaw
+Sun conure | green cheek conure | jenday conure
+Lorikeet | lorikeets
+Toucan | toucans
+Pheasant | pheasants
+Bantam | bantams | bantam chicken
+Rooster | roosters | cockerel
+Swan | swans
+Emu | emus
+Ostrich | ostriches
+Gila monster | gila
+Tiger salamander | tiger salamanders
+Vampire crab | rainbow crab | thai micro crab
+Mantis shrimp | mantis shrimps
+Snail | mystery snail | apple snail | nerite snail | giant african land snail | garden snail
+Leaf insect | leaf insects
+Isopod | isopods | woodlouse | woodlice | pill bug | roly poly
+Ladybird | ladybirds | ladybug | ladybugs
+Caterpillar | caterpillars
