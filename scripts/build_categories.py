@@ -31,6 +31,14 @@ OUT_FILE = ROOT / "src" / "data" / "categories.json"
 # Extra answers for a category, one file per category id, in the same
 # "--- N" tier format as the category files (no header lines needed).
 ADDITIONS_DIR = ROOT / "data" / "additions"
+# Hand-picked Starcore per category id: a niche but findable deep cut.
+# Overrides any `starcore:` header and the automatic pick.
+STARCORE_FILE = ROOT / "data" / "starcores.json"
+STARCORES: dict[str, str] = (
+    {k: v for k, v in json.loads(STARCORE_FILE.read_text(encoding="utf-8")).items() if not k.startswith("_")}
+    if STARCORE_FILE.exists()
+    else {}
+)
 
 # Share of answers in each tier, most familiar first. Must sum to 1.
 # Share of the non-Stone answers in Iron, Cobalt, Gold and Crystal.
@@ -423,7 +431,7 @@ def build_category(raw: dict) -> dict:
         pct = (i + 0.5) / len(rest)
         tiers[id(row)] = next(t for t, b in enumerate(bounds, 2) if pct <= b + 1e-9)
 
-    starcore_name = raw["meta"].get("starcore")
+    starcore_name = STARCORES.get(cid) or raw["meta"].get("starcore")
     if starcore_name:
         sk = strip_plural(normalize(starcore_name))
         star = next(
