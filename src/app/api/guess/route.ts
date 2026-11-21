@@ -1,4 +1,6 @@
+import { after } from "next/server";
 import { isPlayable } from "@/lib/dates";
+import { logMiss } from "@/lib/server/misses";
 import { categoriesForDate, matchGuess } from "@/lib/server/catalog";
 import type { GuessRequest, GuessResponse } from "@/lib/api-types";
 
@@ -29,6 +31,10 @@ export async function POST(req: Request) {
   }
 
   const hit = matchGuess(cat, guess);
+  if (!hit) {
+    // Record it after responding, so the player never waits on it.
+    after(() => logMiss(date, cat.id, guess).catch(() => {}));
+  }
   const res: GuessResponse = hit ? { result: "hit", name: hit.name, tier: hit.tier } : { result: "miss" };
   return Response.json(res);
 }
