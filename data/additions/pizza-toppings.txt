@@ -44,6 +44,7 @@ Ricotta | ricotta cheese | ricotta dollops | ricota
 Fresh Mozzarella | mozzarella di bufala | buffalo mozzarella | bufala | fresh mozz | mozzarella fresca | fior di latte | fresh mozzarella balls | bocconcini
 Cheddar | cheddar cheese | shredded cheddar | sharp cheddar | cheddar blend | chedder
 --- 3
+Peas | green peas | garden peas | petit pois | petits pois | pea
 Hot Honey | honey drizzle hot | mike's hot honey | spicy honey | hot honey drizzle | swicy honey
 Honey | honey drizzle | drizzle of honey
 Balsamic Glaze | balsamic | balsamic vinegar | balsamic drizzle | balsamic reduction | balsamic crema
@@ -192,7 +193,6 @@ Jamon Serrano | serrano ham | jamon | jamón | iberico ham
 Smoked Mackerel | mackerel | smoked fish | kipper
 Bok Choy | pak choi | bok choi
 Bean Sprouts | beansprouts | alfalfa sprouts | microgreens
-Beans | black beans | kidney beans | baked beans | refried beans | pinto beans | cannellini beans
 Chili Con Carne | chilli con carne | chilli | chili
 Hash Brown Cheesy | cheesy hash browns
 Cranberry Sauce | cranberry | cranberry relish
