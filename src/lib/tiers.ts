@@ -33,10 +33,10 @@ export interface Rank {
 /** Daily ranks by total meters drilled across all rounds. */
 export const RANKS: Rank[] = [
   { min: 0, title: "Surface Scraper" },
-  { min: 500, title: "Prospector" },
-  { min: 900, title: "Driller" },
-  { min: 1400, title: "Core Breaker" },
-  { min: 2000, title: "Starcore Hunter" },
+  { min: 600, title: "Prospector" },
+  { min: 1100, title: "Driller" },
+  { min: 1700, title: "Core Breaker" },
+  { min: 2500, title: "Starcore Hunter" },
 ];
 
 export function rankFor(depth: number): Rank {
