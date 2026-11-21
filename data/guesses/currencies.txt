@@ -1,0 +1,60 @@
+dollar
+us dollar
+usd
+euro
+pound
+british pound
+pound sterling
+quid
+yen
+japanese yen
+rupee
+ruppee
+rubel
+ruble
+rouble
+frank
+yaun
+yuan
+renminbi
+peso
+mexican peso
+real
+won
+rand
+bitcoin
+ethereum
+dogecoin
+litecoin
+tether
+solana
+xrp
+cent
+penny
+pence
+buck
+kopek
+centavo
+paisa
+deutsche mark
+deutschmark
+french franc
+lira
+peseta
+drachma
+guilder
+escudo
+schilling
+markka
+punt
+denarius
+doubloon
+ducat
+florin
+guinea
+shilling
+farthing
+sovereign
+thaler
+groat
+pieces of eight

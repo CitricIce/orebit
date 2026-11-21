@@ -1,0 +1,270 @@
+# world-capitals additions: alternate/old names, misspellings, territory and former capitals.
+--- 2
+Washington, D.C. | washington dc | washington | washington d.c. | dc | washinton
+New Delhi | delhi | nuevo delhi | new dehli
+Beijing | peking | beiging | bejing | beijin
+Kyiv | kiev | kyev
+Canberra | canbera | canberra australia | cannberra | canbarra
+Ottawa | ottowa | otawa | ottawah
+Copenhagen | copenhagan | kobenhavn | københavn | copenhagon
+Bucharest | bucarest | bucharesti | bukarest | bucuresti
+Moscow | moskva | moskow
+Brasília | brasilia | brazilia
+Bogotá | bogota | bogata
+Reykjavik | reykjavík | reykavik | reykjavic
+Asunción | asuncion | asuncion paraguay
+Rome | roma
+Athens | athina | athen
+Vienna | wien | vienne
+Lisbon | lisboa
+Prague | praha
+Warsaw | warszawa | warsaw poland
+Brussels | bruxelles | brussel | brusells
+Havana | la habana | habana
+Mexico City | mexico | ciudad de mexico | mexico df | cdmx
+Seoul | soul
+Bangkok | krung thep
+Cairo | al qahira | kairo
+Hanoi | ha noi
+Tehran | teheran | tehren
+Stockholm | stokholm | stockolm
+Helsinki | helsingfors | helsinky
+Dublin | baile atha cliath | dublin ireland
+Oslo | olso | oslow
+Berlin | berlino
+Madrid | madird | madrid spain
+London | londres
+Paris | paree
+Tokyo | tokio | toyko | tokya
+--- 3
+Islamabad | islambad | islamabad pakistan | islamibad
+Kathmandu | katmandu | kathmanu | kathamandu
+Budapest | budapesht | buda pest
+Tbilisi | tiflis | tbilsi | tblisi
+Ulaanbaatar | ulan bator | ulaan baatar | ulanbator | ulaanbator | ulan baator
+Ouagadougou | ouaga | wagadugu | wagadougou | ouagadogou | ouagadugu | ouagodougou
+Naypyidaw | nay pyi taw | naypyitaw | nay pyi daw | naypyidaw myanmar | napyidaw
+Astana | nur-sultan | nur sultan | akmola | tselinograd | nursultan
+Kuala Lumpur | kl | kualalumpur | kuala lampur
+Amsterdam | amsterdam netherlands | amsterdamn
+Bern | berne | bern switzerland
+Abu Dhabi | abudhabi
+Addis Ababa | addis abeba | adis ababa | addis abbaba
+Riyadh | riyad | ryadh | riyahd
+Baghdad | bagdad | baghdhad
+Damascus | damasco | damascas | dimashq
+Kabul | cabul | kabal
+Nairobi | nairobbi | nairoby
+Lima | lima peru
+Santiago | santiago chile
+Caracas | caraccas | caracus
+Quito | quito ecuador
+Montevideo | montivideo | montevidio
+Buenos Aires | bs as | buenos aries | buenos airs
+Jerusalem | yerushalayim | al quds | jeruselem | jerusalam
+Taipei | taibei | taipeh | taipai
+Ankara | angora | ankora
+Jakarta | djakarta | jakarata
+Manila | manilla | manila philippines
+Singapore | singapura | singapor
+Wellington | welington | wellington new zealand
+Pyongyang | pyongang | pyeongyang | pyongyong
+Colombo | colombo sri lanka
+Kingston | kingston jamaica
+Panama City | panama | ciudad de panama
+Tripoli | tarabulus | tripolli
+Pretoria | tshwane | pretorea
+Dhaka | dacca | daka
+Doha | doha qatar
+Muscat | masqat | muskat
+Vatican City | vatican | the vatican | rome vatican
+Nicosia | lefkosia | lefkosa | nikosia
+Yerevan | erevan | yereven
+Baku | baku azerbaijan
+Tashkent | toshkent | tashkint
+Minsk | minsk belarus
+Chisinau | kishinev | chishinau | chisinau moldova
+Vilnius | vilna | vilnus
+Riga | riga latvia
+Tallinn | talinn | tallin
+Zagreb | zagrab
+Ljubljana | lubiana | ljubljna | lubliana
+Sarajevo | sarejevo | saravejo
+Skopje | skoplje | skopia
+Tirana | tiranë | tirane albania | tirrana
+Sofia | sofya | sofia bulgaria
+Belgrade | beograd | belgrad
+Podgorica | titograd | podgoritsa
+Bratislava | pressburg | pozsony
+Valletta | la valette | valleta | vallette
+Luxembourg City | luxembourg | luxemburg
+Monaco | monaco-ville | monaco city
+Andorra la Vella | andorra | andorra la vela
+San Marino | san marino city | city of san marino
+Vaduz | vaduz liechtenstein
+Hamilton | hamilton bermuda
+Nuuk | godthab | godthaab
+--- 4
+Bandar Seri Begawan | bandar | bsb | bandar seri begwan
+Port-au-Prince | port au prince | port o prince
+Port of Spain | port-of-spain | port of spane
+Santo Domingo | santo domingo dominican republic
+San José | san jose | san jose costa rica
+San Salvador | san salvador el salvador
+Guatemala City | guatemala | ciudad de guatemala
+Tegucigalpa | tegus | tegucigalpa honduras
+Managua | managua nicaragua
+Belmopan | belmopan belize
+Nassau | nassau bahamas
+Bridgetown | bridgetown barbados
+Castries | castries st lucia
+Kingstown | kingstown st vincent
+St. George's | st georges | saint georges | saint george's | st george's
+St. John's | st johns | saint johns | saint john's
+Roseau | roseau dominica
+Basseterre | basse-terre st kitts
+Georgetown | georgetown guyana
+Paramaribo | paramaribo suriname
+La Paz | la paz bolivia
+Sucre | sucre bolivia
+Tunis | tunis tunisia
+Algiers | alger | algiers algeria | el djazair
+Rabat | rabat morocco
+Khartoum | khartum | kartoum | khartoom
+Juba | juba south sudan
+Asmara | asmera | asmera eritrea
+Djibouti City | djibouti | djibouti town
+Mogadishu | mogadiscio | muqdisho | mogadisho
+Kampala | kampala uganda
+Kigali | kigali rwanda
+Bujumbura | bujumbura burundi
+Gitega | gitega burundi
+Dodoma | dodoma tanzania
+Maputo | lourenco marques | lourenço marques | maputo mozambique
+Antananarivo | tana | tananarive | antananarivo madagascar | antanarivo
+Moroni | moroni comoros
+Victoria | victoria seychelles
+Port Louis | port louis mauritius | portlouis
+Lilongwe | lilongwe malawi
+Lusaka | lusaka zambia
+Harare | salisbury | harare zimbabwe
+Gaborone | gaberone | gaborone botswana | gabarone
+Windhoek | windhuk | windhoek namibia
+Maseru | maseru lesotho
+Mbabane | mbabane eswatini | mbabane swaziland
+Lobamba | lobamba eswatini
+Luanda | luanda angola
+Kinshasa | leopoldville | léopoldville | kinshasa congo
+Brazzaville | brazaville | brazzaville congo | brazavile
+Libreville | libreville gabon
+Malabo | santa isabel | malabo equatorial guinea
+Yaoundé | yaounde | yaounde cameroon | yaunde
+N'Djamena | ndjamena | n djamena | fort-lamy | njamena
+Bangui | bangui car
+São Tomé | sao tome | são tomé and príncipe
+Abuja | abuja nigeria
+Niamey | niamey niger
+Bamako | bamako mali
+Nouakchott | nouakchott mauritania | nouakchot
+Dakar | dakar senegal
+Banjul | bathurst | banjul gambia
+Bissau | bissau guinea-bissau
+Conakry | conakry guinea
+Freetown | freetown sierra leone
+Monrovia | monrovia liberia
+Yamoussoukro | yamoussoukro ivory coast | yamasoukro | yamassoukro
+Accra | akra | accra ghana
+Lomé | lome | lome togo
+Porto-Novo | porto novo | portonovo
+Praia | praia cape verde
+Ashgabat | ashkhabad | ashgabad | ashkabad
+Bishkek | frunze | bishkek kyrgyzstan | bishkik
+Dushanbe | dushanbe tajikistan | stalinabad
+Thimphu | thimpu | thimphu bhutan | timphu
+Malé | male | male maldives
+Vientiane | viangchan | vientian | vientienne
+Phnom Penh | phnom pen | pnom penh | phnompenh
+Dili | dilli | dili east timor
+Suva | suva fiji
+Apia | apia samoa
+Nuku'alofa | nukualofa | nuku alofa
+Port Vila | port vila vanuatu | portvila
+Honiara | honiara solomon islands
+Port Moresby | port moresbi | portmoresby
+Tarawa | south tarawa | bairiki
+Funafuti | funafuti tuvalu
+Majuro | majuro marshall islands
+Palikir | palikir micronesia
+Yaren | yaren nauru
+Ngerulmud | melekeok | ngerulmud palau
+Sri Jayawardenepura Kotte | kotte | sri jayewardenepura kotte | sri jayawardenapura kotte
+Pristina | prishtina | priština | pristhina
+Amman | amman jordan | aman
+Beirut | beyrouth | bayrut | beirut lebanon
+Manama | manama bahrain
+Kuwait City | kuwait | al kuwait
+Sanaa | sana'a | sanaa yemen | sana
+Aden | aden yemen
+Tel Aviv | tel aviv-yafo | tel aviv yafo
+Ramallah | ramallah palestine
+Gaza | gaza city
+Hargeisa | hargeysa | hargeisa somaliland
+Tiraspol | tiraspol transnistria
+Sukhumi | sukhum | sokhumi
+Tskhinvali | tskhinval | tskhinvali south ossetia
+Stepanakert | khankendi | xankendi
+Edinburgh | edinburgh scotland | edinborough | edinburg
+Cardiff | caerdydd | cardif
+Belfast | beal feirste | belfest
+Douglas | douglas isle of man
+Stanley | port stanley | stanley falklands
+Gibraltar | gibralter | gibraltor
+St Helier | saint helier | st. helier
+St Peter Port | saint peter port | st. peter port
+Road Town | roadtown | road town bvi
+The Valley | the valley anguilla | valley
+Cockburn Town | grand turk | cockburn town turks
+Philipsburg | philipsburg sint maarten | phillipsburg
+Willemstad | willemstad curacao | willemstad curaçao
+Oranjestad | oranjestad aruba
+Charlotte Amalie | charlotte amalie usvi | charlotte amalia
+San Juan | san juan puerto rico
+Hagåtña | hagatna | agana | agana guam
+Saipan | garapan | saipan northern mariana islands
+Pago Pago | pago pago american samoa | pango pango
+Nouméa | noumea | noumea new caledonia
+Papeete | papeete tahiti | papeete french polynesia
+Avarua | avarua cook islands
+Alofi | alofi niue
+Tórshavn | torshavn | thorshavn
+Adamstown | adamstown pitcairn
+Laayoune | el aaiun | laayoune western sahara | el-aaiun | aaiun
+Plymouth | plymouth montserrat
+--- 5
+Cayenne | cayenne french guiana
+Fort-de-France | fort de france
+Basse-Terre | basse terre | basseterre guadeloupe
+Mamoudzou | mamoudzou mayotte
+Saint-Denis | saint denis | st denis | st-denis
+Mata-Utu | mata utu | matautu
+Marigot | marigot saint martin
+Gustavia | gustavia saint barthelemy | gustavia st barts
+Saint-Pierre | saint pierre | st pierre
+Longyearbyen | longyearbyen svalbard
+Kralendijk | kralendijk bonaire
+The Hague | den haag | the hague netherlands | s-gravenhage | hague
+Bloemfontein | bloemfontein south africa | mangaung
+Cape Town | capetown | cape town south africa
+Putrajaya | putrajaya malaysia
+Jamestown | jamestown saint helena
+Flying Fish Cove | flying fish cove christmas island
+Grytviken | grytviken south georgia
+Edinburgh of the Seven Seas | tristan da cunha capital
+Brades | little bay | brades montserrat
+Mandalay | mandalay myanmar
+Zomba | zomba malawi
+Cotonou | cotonou benin
+Kaunas | kaunas lithuania
+Cetinje | cetinje montenegro
+Nara | nara japan
+Xi'an | xian | chang'an | changan

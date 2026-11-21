@@ -1,0 +1,111 @@
+# rooms additions
+--- 2
+Kitchen | kitchen area
+Bedroom | bedrooms | bed room | bedroon | kids bedroom | children's bedroom | second bedroom | bunk room
+Bathroom | bath room | bathrooms | bathroon | washroom | family bathroom | main bathroom | upstairs bathroom | guest bathroom | hall bathroom
+Living room | lounge | living | livingroom | lounge room
+Dining room | dining | diningroom | dining area | dinning room
+Garage | garages
+Attic | loft | attick | loft space | roof space
+Basement | cellar | basment
+Hallway | hall | hallways | corridor | passage | passageway | hall way
+Office | study | home office | work room | workroom
+Closet | walk-in closet | wardrobe | walk in closet | walk-in wardrobe | dressing room | linen closet | airing cupboard | coat closet | storage room | storeroom | store room
+Laundry room | utility room | laundry | laundry area
+Porch | front porch | back porch | screened porch | sun porch
+Garden | yard | backyard | back garden | front garden | front yard | back yard | lawn | courtyard
+Pantry | walk-in pantry
+Playroom | play room | kids room | children's room | kids' room
+Nursery | baby room | baby's room
+Guest room | spare room | guest bedroom | spare bedroom | guestroom
+Den | tv room | television room
+Family room
+Conservatory | sunroom | sun room | garden room | orangery
+Balcony | balconies
+Patio | patios
+Deck | decking | back deck
+Staircase | stairs | stairway | staircases | stair | stairwell
+Landing | upstairs landing | stair landing
+Toilet | restroom | loo | wc | toilets | lavatory | lav | bog | john | water closet | rest room | commode | downstairs toilet | downstairs loo | ladies room
+Shower room | wet room | shower | wetroom
+Ensuite | en suite | ensuite bathroom | en-suite | master bathroom
+Master bedroom | main bedroom | primary bedroom | master suite | master | primary suite | parents room
+Game room | games room | gameroom | gaming room | arcade room
+Home gym | gym | workout room | exercise room | fitness room
+Home theater | cinema room | home theatre | media room | movie room | theater room | theatre room | cinema
+Mudroom | mud room
+Foyer | entryway | entrance hall | entrance | front hall | entry | front entrance | lobby | entry hall | entry way
+Driveway | drive | parking space
+Shed | garden shed | tool shed | storage shed | outbuilding | potting shed | woodshed
+Roof | rooftop | roof terrace | roof deck | roof garden | roof top
+Kitchenette
+Library | home library | book room | reading room
+Wine cellar | wine room | wine store | wine storage
+Utility
+Swimming pool | pool | indoor pool | plunge pool | hot tub | jacuzzi | spa | sauna | steam room
+Fireplace | hearth | chimney | chimney breast | mantelpiece
+--- 3
+Parlor | parlour | front parlour | front parlor
+Drawing room | drawing-room
+Sitting room | sitting-room | day room | dayroom
+Front room | formal living room | formal lounge
+Reception room | reception
+Snug | tv snug
+Box room | boxroom
+Scullery | back kitchen | wash house | washhouse
+Larder
+Boot room
+Cloakroom | coat room | cloak room | coatroom
+Powder room | guest toilet | guest wc | guest loo
+Half bath | half bathroom | half-bath
+Breakfast nook | nook | breakfast room | breakfast area | morning room | dinette | kitchen diner | kitchen-diner | eat-in kitchen
+Butler's pantry | butlers pantry | butler pantry | servery
+Solarium
+Atrium | inner courtyard | winter garden
+Gallery | picture gallery | art gallery | long gallery
+Mezzanine | mezzanine floor | split level
+Crawl space | crawlspace | under stairs | understairs | under the stairs | cupboard under the stairs | under stairs cupboard
+Panic room
+Safe room | saferoom | secure room | vault | strongroom | strong room
+Bomb shelter | air raid shelter | fallout shelter | storm shelter | anderson shelter | storm cellar | tornado shelter
+Workshop | work shop | garage workshop | woodshop | wood shop | hobby room | tool room | makerspace
+Studio | art studio | artist's studio | home studio | recording studio | music studio | yoga studio | garden studio | garden office
+Craft room | crafts room | craft space | scrapbooking room | art room | crafting room
+Sewing room | sewing space | sewing nook
+Music room | piano room | band room | practice room | rehearsal room | listening room
+Billiard room | pool room | snooker room | billiards room | pool table room | ping pong room | bowling alley
+Ballroom | ball room | dance hall | great hall | banquet hall | banqueting hall | state room | assembly room | salon
+Servants' quarters | servants quarters | servant's quarters | servants' hall | servants hall | maid's room | maids room | staff quarters | below stairs
+Granny flat | annex | annexe | granny annex | in-law suite | in law suite | mother-in-law suite | in-law apartment | coach house | carriage house | guest suite
+Guest house | guesthouse | guest-house | casita | gatehouse | gate house | lodge
+Pool house | poolhouse | pool-house | changing room | bathhouse | bath house | boathouse | boat house | beach hut | pavilion | pool cabana | cabana
+Carport | car port | car-port | covered parking
+Veranda | verandah | wraparound porch | wrap-around porch | stoop | front stoop | front steps | portico | loggia | colonnade
+Terrace | terraces | garden terrace | sun terrace | sun deck | sundeck
+Lanai | enclosed porch | florida room | glassed-in porch | sleeping porch
+Gazebo | gazebos | garden gazebo | belvedere | folly | pergola | arbour | arbor | summerhouse | summer house | tea house | teahouse | bandstand
+Greenhouse | green house | glasshouse | glass house | hothouse | hot house | polytunnel | cold frame | orangery greenhouse | plant room | palm house | vinery | fernery
+Treehouse | tree house | tree-house | tree fort | treefort | tree hut
+Rumpus room | rumpus | toy room | toyroom | play den | kids den
+Man cave | mancave | man-cave
+She shed | she-shed | sheshed
+Boiler room | boiler cupboard | boiler closet | heating room | mechanical room | utility closet | utility cupboard
+Furnace room | furnace | coal cellar | coal hole | coal shed | coal store | woodstore | wood store | log store | log shed
+Vestibule | airlock | air lock | storm porch | inner porch | entrance lobby | arctic entry
+Antechamber | ante-chamber | anteroom | ante room | waiting room | green room | greenroom
+--- 4
+Outdoor kitchen | summer kitchen | bbq area | barbecue area | grill area | alfresco | alfresco area | al fresco | fire pit | firepit | outdoor dining area
+Linen cupboard | linen closet cupboard | linen room | linen press | hot press | hotpress | towel cupboard | broom cupboard | broom closet | janitor's closet | cleaning cupboard | cleaning closet | mop closet
+Drying room | drying cupboard | drying closet | wellie room | welly room | shoe cupboard | shoe closet
+Boudoir | bedchamber | bed chamber | owner's suite | owners suite | principal bedroom | principal suite | master retreat | primary retreat
+Tea room | tearoom | coffee nook | coffee bar | home bar | basement bar | wet bar | bar room | cocktail room | taproom | tap room | speakeasy | cigar room | smoking room | smoke room | humidor
+Chapel | private chapel | house chapel | home chapel | prayer room | meditation room | yoga room | zen room | quiet room | reading nook | reading corner | puja room | pooja room | oratory
+Observatory | home observatory | telescope room | tower room | turret room | turret | cupola | widow's walk | widows walk | belvedere tower
+Garret | attic room | attic bedroom | attic conversion | loft conversion | loft room | mansard | dormer | dormer room | eaves cupboard | eaves storage | loft storage
+Winter room | all-season room | all season room | four-season room | four season room | three-season room | sun lounge | sunlounge
+Withdrawing room | with-drawing room | withdrawing-room | saloon | great chamber | presence chamber | privy chamber | garderobe | muniment room
+Root cellar | cold cellar | cold room | cold storage | ice house | icehouse | spring house | springhouse | milk house | milkhouse | dairy | game larder | hanging room
+--- 5
+Trophy room | gun room | gunroom | armoury | armory | map room | globe room | archive room | records room | curiosity room | cabinet of curiosities | museum room | collection room | display room | showroom | memorabilia room
+Still room | stillroom | china pantry | china room | silver room | silver pantry | flower room | flower arranging room | pastry room | plate room | brew house | brewhouse | home brewery
+Minstrels' gallery | minstrels gallery | minstrel gallery | great room | long room | breakfast parlour | breakfast parlor | gun cupboard | gun safe

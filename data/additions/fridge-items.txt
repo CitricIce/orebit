@@ -1,0 +1,198 @@
+# fridge-items additions
+--- 2
+Milk | whole milk | skim milk | semi-skimmed | almond milk | oat milk | soy milk | milk carton
+Eggs | egg carton | dozen eggs
+Butter | unsalted butter | salted butter
+Cheese | cheddar | cheese slices | sliced cheese | mozzarella | parmesan | brie | swiss cheese | cheese block
+Juice | OJ | apple juice | carton of juice
+Yogurt | yoghurt | yogurts | yoghurts | greek yogurt
+Ketchup | catsup | tomato sauce | tomato ketchup | heinz
+Mayonnaise | mayo | miracle whip
+Mustard | dijon | dijon mustard | yellow mustard
+Jam | strawberry jam | preserves
+Pickles | gherkins | dill pickles | cornichons
+Salad | bagged salad | salad leaves | mixed greens
+Tomatoes | tomato | cherry tomatoes
+Peppers | pepper | bell peppers | capsicum
+Apples | apple
+Oranges | orange
+Bananas | banana
+Grapes | grape
+Raspberries | raspberry
+Melon | watermelon | cantaloupe
+Broccoli
+Spinach | baby spinach
+Onions | onion | spring onions | scallions | green onions
+Mushrooms | mushroom
+Cabbage
+Corn | sweetcorn | corn on the cob
+Avocado | avocados
+Hot dogs | hotdogs | hot dog | frankfurters | wieners
+Sausages | sausage | bangers
+Chicken | chicken breast | chicken thighs | raw chicken | roast chicken | chicken wings
+Steak | steaks
+Pork | pork chops
+Deli meat | lunch meat | luncheon meat | sandwich meat
+Cream | double cream | single cream | whipping cream | heavy cream | whipped cream
+Cottage cheese
+Hummus | houmous
+Soda | coke | pepsi | cola | fizzy drink | pop | coca cola | coca-cola | sprite | fanta | dr pepper | soft drinks
+Beer | beers | lager | ale | cider | bud light | budweiser | heineken | six pack
+Wine | white wine | red wine | rose | rosé | bottle of wine | prosecco | champagne
+Water | bottled water | water jug | water bottle | sparkling water | seltzer
+Iced tea | ice tea | lemonade | sweet tea
+Chocolate | chocolate bar | chocolate bars
+Pudding | pudding cups | rice pudding | chocolate pudding
+Jelly | jello | gelatin
+Cake | birthday cake | leftover cake
+Pizza | pizza slices | cold pizza
+Soup | leftover soup
+Dressing | salad dressing | ranch | ranch dressing | vinaigrette | caesar dressing | thousand island
+Hot sauce | tabasco | sriracha | franks | chilli sauce | chili sauce
+Soy sauce | soya sauce | teriyaki | teriyaki sauce
+Barbecue sauce | bbq sauce | barbeque sauce | brown sauce
+Maple syrup | syrup
+Bread | loaf | sliced bread | rolls | bagels | bagel
+Tortillas | tortilla | wraps | flour tortillas
+Leftovers | left overs | leftover | leftover food | leftover dinner | tupperware | doggy bag
+Ice cream | icecream
+Ham | sliced ham | gammon
+Ice | ice cubes | ice tray | ice packs | ice pack
+Lettuce | iceberg | romaine | iceberg lettuce
+Cucumber | cucumbers
+Carrots | carrot | baby carrots
+Celery
+Lemons | lemon
+Limes | lime
+Beef | mince | minced meat | ground beef | roast beef
+Bacon | rashers
+Margarine | flora | spread | vegetable spread | country crock
+Philadelphia | philly | philadelphia cream cheese
+Cream cheese | creamcheese
+Sour cream | soured cream
+Peanut butter | pb | jif | skippy | nutella | chocolate spread
+Guacamole | guac
+Salsa | pico de gallo
+Dip | dips | french onion dip | tzatziki
+Tofu | bean curd | tempeh
+Coleslaw | slaw | cole slaw
+Takeaway | takeout | take out | take away | chinese takeaway | chinese takeout | leftover takeaway | leftover chinese | leftover takeout | leftover curry
+Baby food | baby formula | formula | baby milk | breast milk | baby bottles
+Medicine | medication | insulin | antibiotics | eye drops | meds | vaccines
+Fish | salmon | cod | tuna | fresh fish | fish fingers | raw fish | trout | haddock
+Berries | mixed berries | berrys
+--- 3
+Salami | pepperoni | cured meat | cured meats
+Turkey | turkey slices | sliced turkey | turkey breast
+Mascarpone
+Ricotta
+Feta | feta cheese | goat cheese | goats cheese | blue cheese | stilton | gouda | edam | gruyere | camembert
+Cheese strings | string cheese | babybel | laughing cow | dairylea | kraft singles | american cheese
+Grated cheese | shredded cheese
+Potato salad | egg salad | pasta salad | tuna salad | chicken salad | macaroni salad
+Salad cream
+Worcestershire sauce | worcester sauce | lea and perrins | hp sauce | a1 sauce
+Tartar sauce | tartare sauce | cocktail sauce
+Pasta sauce | marinara | alfredo | alfredo sauce | bolognese sauce | jar of sauce
+Tomato paste | tomato puree | tomato purée | curry paste | curry sauce
+Vinegar | balsamic vinegar | balsamic
+Lemon juice | lime juice
+Cranberry sauce | apple sauce | applesauce | mint sauce
+Pickled onions | pickled beetroot | pickled eggs | pickled jalapenos | pickled ginger | pickled herring
+Kimchi | kimchee
+Sauerkraut
+Miso | miso paste
+Tahini
+Pesto | basil pesto
+Capers
+Anchovies | anchovy
+Horseradish | horseradish sauce | wasabi
+Chutney | mango chutney | branston | branston pickle | piccalilli
+Relish | pickle relish | sweet relish
+Marmalade | orange marmalade
+Lemon curd
+Clotted cream
+Crème fraîche | creme fraiche | creme fresh
+Buttermilk
+Kefir
+Ghee
+Lard
+Pastry | puff pastry | filo | shortcrust | filo pastry | phyllo
+Dough | pizza dough | cookie dough | bread dough | pillsbury | crescent rolls | biscuit dough | cinnamon rolls
+Fresh pasta | ravioli | tortellini | fresh noodles
+Gnocchi
+Smoked salmon | lox | gravlax
+Prawns | shrimp | shrimps | crab | crab sticks | mussels | scallops | seafood | smoked mackerel | mackerel | kippers
+Pâté | pate | liver pate | liverwurst
+Cold cuts | cold meats | cooked meats
+Pastrami | corned beef | mortadella | bologna | spam
+Chorizo | pancetta | parma ham | serrano ham
+Prosciutto
+Charcuterie | cheese board
+Antipasti | antipasto
+Sun-dried tomatoes | sundried tomatoes | sun dried tomatoes
+Artichokes | artichoke hearts
+Jalapeños | jalapenos | jalapeno | chillies | chilli | chili | chilis
+Fresh herbs | herbs | parsley | basil | coriander | cilantro | mint | chives | dill
+Ginger | ginger root | fresh ginger
+Garlic paste | garlic | minced garlic | ginger paste
+Stock | broth | stock pot | bone broth
+Gravy
+Custard | custard pot
+Trifle
+Cheesecake
+Mousse | chocolate mousse | panna cotta | tiramisu | eclairs | profiteroles
+Pie | apple pie | pumpkin pie | quiche | flan
+Leftover pizza
+Meal prep | meal prepped | lunch boxes | prepared meals
+Sandwich | sandwiches | packed lunch
+Lunch | lunchbox | lunch box
+Energy drinks | red bull | monster | gatorade | lucozade | sports drinks
+Kombucha
+Smoothies | smoothie | milkshake | protein shake
+Root beer | ginger ale | tonic water | tonic | soda water | club soda
+Coffee creamer | creamer | half and half | iced coffee | cold brew
+Cookies | biscuits | brownies | muffins
+Drinking yogurt | yakult | actimel | lassi | ayran
+Skyr | quark | fromage frais | petit filous | muller corner | activia | chobani
+Baked beans | open tin | opened can
+Cooked rice | leftover rice | leftover pasta | cooked pasta | mashed potato | leftover chicken
+Hard boiled eggs | boiled eggs | boiled egg | hardboiled eggs | egg whites | liquid egg | egg yolk
+Radishes | radish | beetroot | beets | turnip | parsnip | leeks | leek | courgette | zucchini | aubergine | eggplant
+Cauliflower | brussels sprouts | sprouts | kale | asparagus | green beans | peas | bok choy | pak choi
+Pears | pear | peaches | peach | plums | plum | cherries | cherry | nectarines | apricots | kiwi | mango | pineapple | pomegranate | figs
+Grapefruit | clementines | clementine | satsumas | satsuma | tangerines | mandarins
+Blackberries | blackberry | cranberries | rhubarb
+Bean sprouts | beansprouts | seaweed | nori | edamame | vegan cheese | plant milk
+Veggie burgers | quorn | vegetarian sausages | beyond meat | burgers | burger patties
+Meatballs | sausage rolls | pork pie | scotch eggs | scotch egg | pasties | pasty | black pudding
+Sardines | herring
+Oyster sauce | hoisin | hoisin sauce | fish sauce | sweet chilli sauce | plum sauce | gochujang | sambal | harissa | chilli oil | chili oil | mirin
+Cheese sauce | queso | white sauce | bechamel | béchamel
+Pancake batter | batter | pancakes | waffles | crumpets | pizza base
+Fruit salad | cut fruit | fruit cup | fruit pots | cut melon
+Nuts | walnuts | almonds | pecans | pistachios | flax seeds | chia seeds | yeast | fresh yeast
+Vitamins | probiotics | supplements | fish oil | antihistamines | calpol | baby pouches
+Lipstick | makeup | perfume | skincare | face mask | sheet masks
+Film | camera film
+Honey | golden syrup | agave | marzipan | icing | frosting | biscoff | cookie butter
+--- 4
+Quince paste | membrillo | fig jam | lingonberry jam | mint jelly | pepper jelly | chilli jam | onion jam | onion marmalade | cranberry jelly | redcurrant jelly
+Aioli | garlic mayo | chipotle mayo | sriracha mayo | burger sauce | peri peri sauce | chimichurri | romesco | tapenade | baba ganoush | raita | green goddess
+Duck fat | goose fat | dripping | bacon fat | bacon grease | schmaltz | tallow
+Duck | duck breast | goose | pheasant | venison | rabbit | lamb | lamb chops | lamb mince | ground turkey | chicken livers | liver | oxtail | pork belly | pork ribs | spare ribs | lamb shanks | brisket | ribs
+Rotisserie chicken | chicken drumsticks | chicken nuggets | nuggets | chicken tenders | fried chicken | kfc | fish and chips | leftover chips | burrito | tacos | kebab | doner kebab | falafel | spring rolls | dumplings | dim sum
+Lasagne | lasagna | casserole | stew | chilli con carne | shepherd's pie | cottage pie | mac and cheese | macaroni cheese | spaghetti bolognese | roast dinner | thanksgiving leftovers | christmas leftovers | turkey leftovers | stuffing
+Cake batter | canned biscuits | puff pastry sheet | sourdough starter | scoby | kefir grains
+Wholegrain mustard | english mustard | honey mustard | tomato juice | v8 | vegetable juice | grapefruit juice | pineapple juice | prune juice | coconut water | coconut milk | evaporated milk | condensed milk | goat milk | goats milk | lactose free milk | chocolate milk | strawberry milk | oatly | alpro
+Sorbet | ice lollies | popsicles | frozen yoghurt | pavlova | meringue | swiss roll | yule log | key lime pie | banoffee pie | lemon meringue | custard tart | fruit tart | creme brulee | crème brûlée | jelly pots | eton mess
+Insulin pens | glucagon | epipen | injections | ozempic | ivf drugs | liquid antibiotics | amoxicillin | eye ointment | suppositories | contact lens solution | melatonin | prescription
+Wedding cake top | christmas cake | fruit cake | christmas pudding | mince pies | stollen | panettone | hot cross buns | easter eggs | marshmallows | fudge | caramel | haribo | gummy bears | kit kat | snickers | cadbury | dairy milk | truffles
+Sparkling wine | cava | pinot grigio | sauvignon blanc | chardonnay | riesling | craft beer | ipa | stout | guinness | corona | stella artois | carlsberg | pimms | hard seltzer | white claw | smirnoff ice | wine cooler | cocktails | sangria | mulled wine | aperol | aperol spritz | limoncello | sake
+Mountain dew | 7up | lilt | tango | irn bru | vimto | ribena | squash | cordial | capri sun | juice boxes | kool aid | vitamin water | fresca | schweppes | canada dry | perrier | san pellegrino | evian | fiji water | la croix
+Hellmann's | hellmanns | kewpie | dukes | boursin | primula | cathedral city | lurpak | kerrygold | anchor butter | bertolli | benecol
+Cholula | tapatio | tapatío | valentina | texas pete | crystal hot sauce | huy fong
+--- 5
+Gentleman's relish | patum peperium | marmite | vegemite | bovril | oxo | bouillon | bisto gravy | gravy granules
+Ketchup sachets | sauce sachets | duck sauce | takeaway sauces | sauce packets
+Bear claw | pain au chocolat | croissant | croissants | danish pastry | cinnamon bun | doughnuts | donuts | krispy kreme | pop tarts | toaster strudel | strudel | turnovers | apple turnover

@@ -1,0 +1,357 @@
+--- 2
+Ukulele | ukelele | ukalele | uke | ukulelee | ukeleli
+Xylophone | zylophone | xylaphone | xylophones | xylofon | xylophon
+Saxophone | saxaphone | sax | saxophones | saxofone | saxophon | saxaphon | saxiphone
+Clarinet | clarinette | clarinets | clarnet | clarinett | clarinete
+Tambourine | tamborine | tambourines | tamberine | tambrine | tamborin
+Glockenspiel | glockenspeil | glockenspeal | glocenspiel | glockenspiels | glokenspiel
+Harmonica | harmonika | harmonicas | mouth organ | blues harp | harmonic | harmoniker
+Accordion | accordian | accordions | acordion | accordeon | squeezebox | squeeze box
+Cello | chello | cellos | celo | violoncello | cellp
+Violin | violen | violins | violine | voilin | violn | violinn
+Didgeridoo | didjeridu | didgeridu | didjeridoo | didgeridoos | didjeridoo | digeridoo | didgeridoe | didgeridu
+Bagpipes | bagpipe | bag pipes | bag pipe | pipes | highland pipes | bagpipez
+Drums | drum | drum kit | drum set | drumkit | drumset | drum kits | drum sets | drumms | kit
+Keyboard | keys | keyboards | electric keyboard | keybord
+Synthesizer | synth | synthesiser | synths | synthesizers | synthesisers | synthesiser keyboard
+Electric guitar | electric guitars | elec guitar | electric gutiar | e guitar | electric guitare
+Electric bass guitar | electric bass | bass gutiar | bass guitare
+Guitar | guitars | gutiar | guiter | gitar | guitarr | guitare | guittar
+Piano | pianos | piana | pianno | peano
+Trumpet | trumpets | trumpit | trumpt | trupet | trumphet | trumpert
+Trombone | trombones | trombon | tromone | trambone | tromboen
+Flute | flutes | floot | flut | flutte
+Harp | harps | harpe
+Banjo | banjos | bango | banjoe
+Mandolin | mandolins | mandoline | mandelin | mandalin
+French horn | french horns | horns | frenchhorn | french hornn
+Tuba | tubas | tubba
+Oboe | oboes | oboa | obo
+Bassoon | bassoons | basoon | bassoone | bason
+Triangle | triangles | triangel
+Cymbals | cymbal | symbols | cymbles | simbals | cymbels | symbal | symbol
+Harpsichord | harpsicord | harpsichords | harpsicord | harpsichorde
+Bongos | bongo | bongo drums | bongo drum
+Congas | conga | conga drums | conga drum
+Maracas | maraca | marakas | maraccas | marracas
+Castanets | castanet | castinets | castanetes
+Recorder | recorders | descant recorder | treble recorder
+Organ | organs | church organ | organn
+Viola | violas | violla
+Double bass | double basses | upright bass | doublebass | string bass | bass fiddle | stand-up bass | standup bass
+Snare drum | snare | snare drums | snares
+Bass drum | bass drums | kick
+Kick drum | kickdrum | kick drums
+Steel drum | steel drums | steelpan | steel pan | steel pans | steelband | steeldrum
+Pan pipes | panpipes | pan flute | pan pipe | panflute | panpipe | pan flutes
+Tin whistle | penny whistle | tin whistles | pennywhistle | irish whistle | whistle flute
+Bugle | bugles | buggle
+Timpani | timpany | timpanis | kettledrums | kettle drums | tympani | tympany | timpanni
+Cowbell | cowbells | cow bell | cow bells
+Gong | gongs | gongg
+Vibraphone | vibraphones | vibes | vibraphon | vibaphone | vibraphone
+Marimba | marimbas | marimbah
+Euphonium | euphoniums | eufonium | euphonuim | euphonim
+Piccolo | piccolos | picolo | piccollo
+Kazoo | kazoos | kazzoo
+Sitar | sitars | sittar | citar
+Tabla | tablas | tabala | tablah
+Djembe | djembes | jembe | djimbe | jambe | djembay | jembay
+Theremin | theremins | thereman | therimin | thermin
+Lyre | lyres | liar lyre
+Lute | lutes | loot
+Ocarina | ocarinas | occarina | okarina | ocerina
+Cajon | cajons | cajón | cahon | cajone | kahon
+Melodica | melodicas | melodika | melodian | melodion
+Cornet | cornets | cornett | cornnet
+Flugelhorn | flugelhorns | flugal horn | flugle horn | flugel horn | fluegelhorn | flugelhorne
+Sousaphone | sousaphones | sousophone | susaphone | sousafone | sousaphon
+Hi-hat | hi hat | hihat | hi-hats | high hat | hi hats | hihats
+Tom-tom drum | tom tom | tom toms | tom drum | toms | tom
+Crash cymbal | crash | crash cymbals | ride cymbal | ride | splash cymbal
+Wood block | woodblock | wood blocks | woodblocks | temple block | temple blocks
+Chimes | wind chimes | windchimes | chime | wind chime
+Bells | bell | handbells | hand bell | handbell
+Rainstick | rain stick | rainsticks | rain sticks
+Shaker | shakers | egg shaker | egg shakers
+Whistle | whistles | wistle | whistel
+Music box | musicbox | music boxes
+Harmonium | harmoniums | harmonuim | harmonim
+Concertina | concertinas | concertina accordion | concertena
+Zither | zithers | zyther | zitar
+Hurdy-gurdy | hurdy gurdy | hurdygurdy | hurdy-gurdies | hurdy gurdie | hurdy gurdies
+Dulcimer | dulcimers | dulcamer | dulcimore | mountain dulcimer
+Tubular bell | tubular bells | tubularbells
+Bass clarinet | bass clarinets | bassclarinet
+Cor anglais | english horn | cor anglais horn | corr anglais
+Contrabassoon | contrabassoons | double bassoon | contra bassoon | contrabasoon
+Alto saxophone | alto sax | alto saxaphone | alto saxophones | alto saxofone
+Tenor saxophone | tenor sax | tenor saxaphone | tenor saxophones
+Soprano saxophone | soprano sax | soprano saxaphone | soprano saxophones
+Baritone saxophone | bari sax | baritone sax | bari saxophone | baritone saxaphone
+Acoustic guitar | acoustic | acoustic guitars | acoustic gutiar | acoustic guiter
+Classical guitar | classical guitars | spanish guitar | nylon guitar | nylon string guitar | classic guitar
+Steel guitar | steel guitars | lap steel | lap steel guitar | slide guitar | hawaiian guitar
+Pedal steel guitar | pedal steel | pedal steel guitars
+Grand piano | grand pianos | baby grand | baby grand piano | concert grand
+Upright piano | upright pianos | upright | vertical piano
+Electric piano | electric pianos | e-piano | e piano | epiano
+Digital piano | digital pianos | stage piano | digital keyboard
+Hammond organ | hammond | b3 | hammond b3 | hammond organs
+Rhodes piano | rhodes | fender rhodes | rhodes pianos | wurlitzer | wurlitzer electric piano
+Drum machine | drum machines | beat machine | beatbox | drum computer
+Sampler | samplers | sampling keyboard | mpc
+Talk box | talkbox | talking box
+Vocoder | vocoders
+Mellotron | mellotrons | mellatron
+Jaw harp | jews harp | jew's harp | jaws harp | jawharp | mouth harp | jews' harp | jew harp | jaw's harp
+Mbira | mbiras | finger piano | kalimba piano | mbeera
+Kalimba | kalimbas | kalamba | kalimbah
+Musical saw | singing saw | saw | musical saws | handsaw
+Spoons | spoon | playing spoons | rhythm bones
+Washboard | washboards | wash board | scrubbing board
+Fiddle | fiddles | fidle
+Bodhrán | bodhran | bodran | bodhrans | bodrhan | bohdran | bodhrain | irish drum | bodhrán drum
+Uilleann pipes | uillean pipes | irish pipes | union pipes | uileann pipes | uilleann | uillean | ilean pipes | elbow pipes
+Great Highland bagpipe | highland bagpipes | highland bagpipe | scottish bagpipes | scottish pipes | great highland bagpipes
+Alphorn | alpenhorn | alp horn | alphorns | alpine horn | alpen horn
+Vuvuzela | vuvuzelas | vuvezela | vuvuzella | vuvuzela horn
+Shofar | shofars | shophar | shofar horn | rams horn | ram's horn
+Conch | conch shell | conch horn | conch shells | conk shell | conk
+Stradivarius | strad | stradivari | stradivarius violin
+Autoharp | autoharps | auto harp | autoharpe
+Shamisen | shamisens | samisen | shamisan | shimasen
+Koto | kotos | japanese harp | koto harp
+Shakuhachi | shakuhachis | shakuhatchi | shakahachi | shakuhachi flute
+Erhu | erhus | erhoo | er hu | chinese violin | erhu violin
+Guzheng | guzhengs | gu zheng | chinese zither | guzhang
+Pipa | pipas | chinese lute | pi pa
+Sheng | shengs | chinese mouth organ | chinese sheng
+Dizi | dizis | chinese flute | di zi | bamboo flute
+Ney | neys | nay | ney flute | turkish ney | nai
+Oud | ouds | ud | arabic lute | oude
+Qanun | kanun | qanoun | kanoon | qanuns | kanun zither
+Darbuka | darbouka | doumbek | doumbeck | dumbek | goblet drum | derbake | darabukka | darabuka | derbouka | dumbeg
+Bouzouki | bouzoukis | buzuki | bazouki | bouzouky | bouzoukee | boozouki | bouzouk
+Balalaika | balalaikas | balalyka | balalika | balalaika guitar | ballalaika
+Charango | charangos | charanga | charrango
+Bandoneon | bandoneón | bandonion | bandoneons | bandonean
+Berimbau | berimbaus | berimbao | birimbau | berimbo
+Cuíca | cuica | cuicas | friction drum | cuika
+Pandeiro | pandeiros | brazilian tambourine | pandero | pandeira
+Surdo | surdos | surdo drum
+Guiro | güiro | guiros | guido | gourd scraper | guirro
+Cabasa | cabasas | cabassa | afuche | cabaza
+Claves | clave | clavs | clavé | claves sticks | clavis
+Agogo | agogo bells | agogô | agogo bell | agogos | agoge
+Timbales | timbale | timbal | timbales drums | timbalis
+Udu | udu drum | udus | udu pot
+Talking drum | talking drums | tama | dundun | dun dun | dundun drum
+Balafon | balafons | balophone | balafone | balaphone | balofon
+Kora | koras | african harp | kora harp
+Taiko | taiko drum | taiko drums | taikos | wadaiko | japanese drum | japanese drums
+Hang drum | handpan | hang | hand pan | hangdrum | handpans
+Singing bowl | singing bowls | tibetan bowl | tibetan singing bowl | tibetan bowls | crystal bowl | crystal bowls
+Anvil | anvils | anvile
+Ratchet | ratchets | rachet | noisemaker | football rattle | rattle
+Slide whistle | slide whistles | swanee whistle | swanee | swannee whistle | slidewhistle | slide whistel | piston flute
+Celesta | celeste | celestas | celestes | celeste piano
+Tuning fork | tuning forks | tuningfork
+Chapman Stick | chapman stick | the stick | stick bass
+Ondes Martenot | ondes | ondes martenots | ondes martinot
+Stylophone | stylophones | stylofone | stilophone
+Laser harp | laser harps | laserharp
+Hardanger fiddle | hardingfele | hardanger | norwegian fiddle | hardanger violin
+Nyckelharpa | nyckelharpor | keyed fiddle | nykelharpa | nyckelharpa fiddle
+Crumhorn | crumhorns | krummhorn | krumhorn | crumhorne
+Sackbut | sackbuts | sacbut | sackbutt
+Serpent | serpents | serpant | serpente
+Ophicleide | ophicleides | ophiclide | ofiklide
+Theorbo | theorbos | theorbe | theorbo lute
+Sarangi | sarangis | sarangee | sarengi | sarang
+Sarod | sarods | sarode | sarrod
+Santoor | santoors | santour | santoori
+Tanpura | tambura | tampura | tanpuras | tamboura | tamburas | tambora
+Shehnai | shehnais | shehnai pipe | shahnai | shenai
+Dhol | dhols | dhol drum | dhol drums | dohl
+Dholak | dholaks | dholki | dholak drum
+Mridangam | mridanga | mridangams | mridang | mrdangam
+Veena | vina | veenas | vinas | saraswati veena
+Duduk | duduks | armenian duduk | doudouk | duduk flute
+Bansuri | bansuris | indian flute | bansri | bansuri flute
+Zurna | zurnas | surna | zorna | zurla
+Kantele | kanteles | kantele harp | finnish kantele | kantelet
+Cimbalom | cimbaloms | cymbalom | cimbalon | cymbalon | czimbalom | tsymbaly
+Domra | domras | domra lute
+Gusli | guslis | gusle | gusli harp | guslee
+Morin khuur | morin khoor | horsehead fiddle | horse head fiddle | matouqin | morin khur
+Vihuela | vihuelas | vihuella | vihuela guitar
+Cavaquinho | cavaquinhos | cavaquino | cavaquinio
+Bağlama | baglama | saz | bağlama saz | baghlama | turkish saz | saz lute
+Cittern | citterns | cister | citern
+Psaltery | psalteries | psaltery harp | psalterie
+Glass harmonica | glass armonica | armonica | glass harmonicas | harmonica glass
+Glass harp | glass harps | wine glasses | wine glass | singing glasses
+Aeolian harp | wind harp | eolian harp | aeolian harps | aeolean harp
+Celtic harp | irish harp | celtic harps | clarsach | lever harp | folk harp
+Basset horn | basset horns | bassett horn | basset
+Alto clarinet | alto clarinets
+Piccolo trumpet | piccolo trumpets | picolo trumpet
+Wagner tuba | wagner tubas | wagnertuba
+Mellophone | mellophones | mellophon | melophone | mellaphone
+Baritone horn | baritone horns | baritone | bariton horn | baritone brass
+Tenor horn | tenor horns | alto horn | althorn | e flat horn
+Post horn | posthorn | post horns | coach horn | posthorns
+Carillon | carillons | carilon | carrilon | carillion
+Calliope | calliopes | calliopy | steam organ | steam calliope | calliape
+Barrel organ | barrel organs | hand organ | street organ | organ grinder | hurdy gurdy organ | barrelorgan
+Player piano | player pianos | pianola | pianolas | self-playing piano | autopiano | player-piano
+Prepared piano | prepared pianos
+Cat organ | cat organs | katzenklavier
+Bullroarer | bull roarer | bullroarers | bull-roarer | turndun
+Whip | whips | slapstick | slap stick | whip crack
+Vibraslap | vibra slap | vibraslaps | vibra-slap
+Crotales | crotale | antique cymbals | crotals
+Metallophone | metallophones | metalophone | metal xylophone
+Lithophone | lithophones | rock xylophone | stone xylophone
+Otamatone | otamatones | otomatone | otamaton
+Clavinet | clavinets | clavinette | clavinete
+Moog synthesizer | moog | moog synth | moog synthesiser | minimoog synth | moogs
+Minimoog | mini moog | minimoog model d | mini-moog
+Yamaha DX7 | dx7 | yamaha dx 7 | dx-7
+Roland TR-808 | tr-808 | 808 | tr808 | roland 808 | tr 808
+Roland TR-909 | tr-909 | 909 | tr909 | roland 909 | tr 909
+Fairlight CMI | fairlight | fairlight synth
+Synclavier | synclavier synth | synclavier ii
+Trautonium | trautoniums | trautoniuum
+Telharmonium | telharmoniums | teleharmonium | thaddeus cahill
+Orchestrion | orchestrions | orchestrian | orchestrian machine
+Pedal keyboard | pedalboard keyboard | organ pedals | bass pedals | moog taurus pedals | pedal board keyboard
+Keytar | keytars | keyboard guitar | keytarr | keyboard-guitar | guitar keyboard
+Banjolele | banjo ukulele | banjo-ukulele | banjolele banjo | banjuke
+Dobro | dobros | resonator guitar | resonator | resonator guitars | dobro guitar | reso guitar
+Fender Stratocaster | stratocaster | strat | fender strat | stratocasters | fender stratocasters | stratocastor
+Fender Telecaster | telecaster | tele | fender tele | telecasters | fender telecasters | telecastor
+Gibson Les Paul | les paul | gibson lespaul | les pauls | lespaul | gibson les pauls
+Gibson SG | sg guitar | gibson sg guitar | the sg | sg
+Gibson Flying V | flying v | flying v guitar | flyingv | gibson flyingv
+Gibson Explorer | explorer guitar | gibson explorer guitar | explorer
+Fender Precision Bass | precision bass | p bass | fender p bass | p-bass | pbass | fender precision
+Fender Jazz Bass | jazz bass | j bass | fender j bass | jbass | j-bass | fender jazz
+Fender Jazzmaster | jazzmaster | fender jazz master | jazz master
+Fender Mustang | mustang guitar | fender mustang guitar | mustang
+Gibson ES-335 | es-335 | es335 | gibson es 335 | es 335
+Gibson Firebird | firebird guitar | firebird | gibson fire bird
+12-string guitar | twelve string guitar | 12 string guitar | 12 string | twelve-string guitar | twelve string | 12-string | 12string
+Baritone guitar | baritone guitars | bariton guitar
+Acoustic bass guitar | acoustic bass guitars | bass acoustic guitar
+Acoustic-electric guitar | electro acoustic guitar | electro-acoustic guitar | electric acoustic guitar | electro acoustic | electric-acoustic guitar
+Semi-acoustic guitar | semi acoustic guitar | semi-hollow guitar | hollow body guitar | semi hollow guitar | hollowbody guitar | archtop guitar | archtop | semi-acoustic
+Portuguese guitar | guitarra portuguesa | portugese guitar | portuguese guitars
+Flamenco guitar | flamenco guitars | flamenco | flamingo guitar
+Electric violin | electric violins | electric fiddle | electric violen
+Electric drum | electric drums | electronic drums | electronic drum kit | electric drum kit | e-drums | e drums | electric drum set | electronic drum set | edrums | drum pad | drum pads | electronic drum | electro drums
+Electronic organ | electronic organs | electric organ | electric organs | digital organ | home organ | electronic orgen
+Electronic keyboard | electronic keyboards | casio keyboard | casio | yamaha keyboard | midi keyboard | midi controller | portable keyboard | casio keys | yamaha keys
+Oboe d'amore | oboe damore | oboe d amore
+Pochette | pochettes | kit violin | dancing master's violin | pocket violin
+Stroh violin | stroh violins | horn violin | stroh viol
+Chalumeau | chalumeaux | chalumeaus | chalumo
+Tromba marina | tromba marinas | marine trumpet | nun's fiddle | nuns fiddle | trumpet marine
+Tamburica | tamburitza | tambura tamburica | tamburitsa | tamburicas | tamburicha
+Langeleik | langeleiks | langeleikar | langleik
+Txalaparta | txalapartas | txalaparta drum
+Angklung | angklungs | angklung bamboo | angklong | angkalung
+Suona | suonas | suona horn | chinese oboe | chinese horn | suo na
+Xiao | xiaos | chinese vertical flute | xiao flute | hsiao
+Ruan | ruans | chinese guitar | chinese banjo | ruan lute | juan
+Yangqin | yangqins | yang qin | chinese dulcimer | yang ching | dulcimer chinese
+Sanxian | sanxians | san xian | chinese three string lute
+Janggu | janggo | changgo | janggu drum | korean hourglass drum | jang-gu | changgu
+Kayagum | gayageum zither | kayageum
+Biwa | biwas | japanese lute | biwa lute | biwah
+Shō | sho | japanese mouth organ | sho organ | shoh
+Hichiriki | hichirikis | japanese oboe | hichiriki oboe | hichirichi
+Tsuzumi | tsuzumis | japanese hand drum | otsuzumi | kotsuzumi | tsutsumi
+Sanshin | sanshins | okinawan shamisen | sanshin lute | santhin | sanxin
+Haegeum | haegeums | haegum | korean fiddle | hae geum | haegeum fiddle
+Daegeum | daegeums | taegum | korean flute | tae-gum | daegum
+Đàn bầu | dan bau | dan bao | vietnamese monochord | đàn bầu monochord | dan bau monochord | monochord guitar
+Đàn tranh | dan tranh | dan-tranh | vietnamese zither | đàn tranh zither
+Sapeh | sape | sapeh lute | sape lute | sapeh guitar
+Gamelan | gamelan orchestra | gamelan gong | gamelan gongs | gamelon | gamlan | gamalan
+Saron | saron gamelan | saron instrument
+Kulintang | kulintangs | kolintang | kulintang gongs | kolintan
+Rebab | rebabs | rabab | rebab fiddle | rebeb | rabob
+Rubab | rubabs | robab | rabab lute | rubab lute | robab lute
+Setar | setars | sehtar | setar lute | sitar persian | persian setar
+Tar | tars | tar lute | tar persian | persian tar | tar guitar | tar drum
+Kamancheh | kamancha | kamanche | kemenche persian | persian kamancheh | kamanchei | kamancheh fiddle
+Daf | daf drum | dafs | def | def drum | persian tambourine | persian frame drum
+Dayereh | dayere | doyra | dayra | dayreh | doira | dayerah | dayerah
+Naqareh | naqara | naqqara | nagara | naqarat | naqqarah | nagara drum | naqarah
+Karnay | karna | karnai | karnai horn | karna horn
+Tulum | tulum bagpipe | tulums | turkish bagpipe | tulum pipe | tulum pipes | tulumm
+Hulusi | hulusis | cucurbit flute | gourd flute | hulusi flute | chinese gourd flute | hulusi gourd
+Khene | khaen | khene mouth organ | khaen mouth organ | kaen | laos khene | qeej | khene organ
+Pungi | pungis | snake charmer flute | snake charmer's flute | snake charmer pipe | been | snake charmer | pungi flute | snake flute
+Esraj | esrajs | israj | esraj fiddle | esraj lute
+Ektara | ektaras | ektar | ektara one string | gopi yantra | one string instrument | ektara string
+Kanjira | kanjiras | kanjeera | kanjira drum | kanjeera drum | kanjira tambourine
+Ghatam | ghatams | ghatam pot | ghatam drum | clay pot drum | ghatam clay pot | indian pot drum | matka drum
+Ghungroo | ghungroos | ghungru | ghungrus | ghungharu | ankle bells | ghunghroo | anklet bells | ghungru bells | ghunghru | payal
+Damaru | damarus | damru | damaru drum | damroo | shiva drum | damarus drum | damaroo
+Nadaswaram | nadaswarams | nadhaswaram | nagaswaram | nadaswara | nagasvaram | nadasvaram | nadaswaram pipe | nagaswara | nathaswaram
+Shankha | shankhas | shankh | shankha shell | indian conch | shankha conch | shank | sankh | shanka | shankha horn
+Tumbi | tumbis | toombi | tumbi one string | tumbi string | tumbi lute | tumbi punjabi
+Alghoza | alghozas | algoza | alghoza flute | double flute | algoza flute | alghoza pipe | alghoza flutes | satara
+Surbahar | bass sitar | surbahar sitar | sur bahar
+Rudra veena | rudra veena instrument | been veena | rudra vena | rudraveena | rudra wina | rudra veena string | rudraveena instrument | rudra veena sitar
+--- 3
+Washtub bass | washtub | wash tub bass | tub bass | gutbucket | gut bucket | washtub bass instrument | tubbass | washtubb | wash tub | washtubs bass | washtub basses
+Steel tongue drum | tongue drum | tank drum | tongue drums | steel tongue | tonguedrum | steel tongue drums
+Bass trombone | bass trombones | bass tromb | bass trombon | bass tromboone
+Alto flute | alto flutes | altoflute
+Bass flute | bass flutes | bassflute | bass floot
+Contrabass clarinet | contrabass clarinets | contra bass clarinet | contrabass clarnet | contrabassclarinet
+Contrabass flute | contrabass flutes | contrabassflute | contra bass flute
+Soprano recorder | descant | soprano recorders
+Alto recorder | alto recorders | altorecorder | alto record
+Tenor recorder | tenor recorders | tenorrecorder
+Bass recorder | bass recorders | bassrecorder
+Piano accordion | piano accordions | accordion piano | piano accordian
+Button accordion | button accordions | melodeon | melodeons | melodeon accordion | button accordian | button box | box accordion
+Diatonic button accordion | diatonic accordion | diatonic accordions | diatonic accordian | diatonic button accordions | diatonicaccordion | diatonic box
+Tenor banjo | tenor banjos | irish banjo | tenor banjoe | tenorbanjo
+Five-string banjo | 5 string banjo | five string banjo | 5-string banjo | five-string banjos | 5 string banjoes | fivestring banjo | five stringed banjo
+Bluegrass banjo | bluegrass banjos | clawhammer banjo | clawhammer | bluegrass banjoes | bluegrass banjoe | banjo bluegrass
+Plectrum banjo | plectrum banjos | plectrumbanjo | plectrum banjoe
+Soprano ukulele | soprano ukuleles | soprano uke | sopranoukulele | soprano ukelele
+Tenor ukulele | tenor ukuleles | tenor uke | tenorukulele | tenor ukelele
+Baritone ukulele | baritone ukuleles | baritone uke | bari uke | baritoneukulele | baritone ukelele
+Concert ukulele | concert ukuleles | concert uke | concertukulele | concert ukelele
+Bass ukulele | bass ukuleles | bass uke | u-bass | ubass | bassukulele | bass ukelele
+Cavaco | cavacos | cavaco instrument
+Mandocello | mandocellos | mandocello instrument | mandocelo | mandocelloo
+Mandola | mandolas | mandolla | mandola instrument | mandolaa | mandolaa | tenor mandola
+Archlute | archlutes | arch lute | archluts | arch-lute | archluteinstrument
+Lyra | lyras | lyra instrument | greek lyra | cretan lyra | lyra lyre | lyrra
+Kithara | kitharas | kithara lyre | cithara | citharas | kitara lyre | greek kithara | kithara instrument
+Aulos | auloi | auloses | aulos pipes | greek aulos | greek pipes | aulos instrument | double aulos | aulos flute
+Sistrum | sistra | sistrums | egyptian sistrum | sistrum rattle | egyptian rattle | sistrum instrument | sistrums rattle
+Bendir | bendirs | bendir drum | bendir frame drum | bendeer | bendirr | bendir instrument | bendr | benidr
+Beatboxing | beat boxing | beat-boxing | human beatbox | vocal percussion | beatbox vocal | beatboxer
+
+--- 4
+Finger cymbals | zills | zill | finger cymbal
+Bell tree | belltree | mark tree
+Floor tom | floor toms
+Tingsha | tibetan bells | tingshas
+Shekere | shekeres | sekere
+Caxixi | caxixis
+Frame drum | frame drums
+Slit drum | slit drums | log drum
+Rototom | rototoms | roto tom
+Hand clap | handclaps | hand claps
+--- 5
+Ghungroo | ghungroos | ghungru

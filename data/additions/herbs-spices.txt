@@ -1,0 +1,172 @@
+--- 2
+Cumin | cummin | cumen | comino | ground cumin | cumim | cumon
+Turmeric | tumeric | tumaric | turmaric | termeric | turmerick
+Oregano | oregeno | oreganno | oregeno | greek oregano | dried oregano | oreganoe
+Cinnamon | cinammon | cinnamin | cinamon | cinnamen | cinnamon stick | cinnamon sticks | cinnimon | cinnemon | ground cinnamon
+Rosemary | rosemery | rosmary | rosemarry | rosamary | rosemarie
+Basil | basel | basill | fresh basil | sweet basil | genovese basil | bazil
+Parsley | parsely | parlsey | persley | flat leaf parsley | italian parsley | curly parsley | flat-leaf parsley
+Cilantro | corriander | coriender | coriander leaf | cilentro | cilantero | silantro
+Nutmeg | nutmegg | nutmug | nutmeg powder | nut meg | ground nutmeg
+Cardamom | cardamon | cardamum | cardimom | cardamom pods | cardomom | cardamom pod | cardemom
+Thyme | thime | fresh thyme | english thyme | tyme
+Garlic | garlick | minced garlic | garlic cloves | garlic granules
+Pepper | peper | ground pepper | cracked pepper | ground black pepper | cracked black pepper | pepa | peppercorns black
+Cayenne | cayanne | cayenne powder | cayene | cayenne chili | cayyenne
+Saffron | safron | saffron threads spice | saffon
+Fennel | fenel | fennel seeds | fennell
+Tarragon | taragon | tarragon leaves | taragan
+Marjoram | marjorum | sweet marjoram | marjarom
+Allspice | all spice | all-spice | pimento berries | allspice berries
+Star Anise | staranise | star anis | star aniseed | whole star anise
+Bay Leaf | bayleaf | bay leafs | bay laurel | bay leaves dried | laurel leaf | laurel
+Mustard | mustard seeds | yellow mustard seed | brown mustard seed | mustard flour
+Chives | chive | fresh chives | chive onion
+Ginger | ground ginger root | fresh ginger | ginger powder dried | ginjer
+Paprika | sweet paprika | hot paprika | hungarian paprika | paprica | paprka | spanish paprika
+Smoked Paprika | smoked paprika powder | pimenton | spanish smoked paprika | pimenton dulce
+Chili Flakes | chilli flakes | chile flakes | pepper flakes | chili flake | crushed chili flakes | dried chili flakes | crushed chilli
+Chili Powder | chilli powder spice | chile powder spice | chilli
+Curry Powder | curry | madras curry powder | curry spice | yellow curry powder | cury powder
+Garam Masala | garum masala | garam masalla | garam marsala | gharam masala
+Italian Seasoning | italian herbs | italian spice | italian seasoning blend
+Pumpkin Spice | pumpkin pie seasoning | pumpkin spice seasoning | pumpkin pie spices | pumpkin spice blend
+Cajun Seasoning | cajun | cajun spices | cajun blend | cajun seasoning blend
+Jerk Seasoning | jerk | jamaican jerk | jerk rub | jerk spices
+Five Spice | 5 spice | chinese 5 spice | chinese five-spice | five spice powder | chinese five spice powder
+Za'atar | zatar | zaatar spice | zahtar | zaater
+Herbes de Provence | herbs de provence | provence herbs | herbes de provance | herbs of provence | herbes de provences
+Ras el Hanout | ras al hanout | ras el hanut | rasel hanout | raz el hanout
+Sumac | sumak | sumach spice | sumac spice
+Togarashi | togorashi | japanese chili | japanese pepper blend | tougarashi
+Berbere | berebere | berberi | barbere
+Dukkah | dukka | dukkha | dukah | duqa
+Baharat | baharat spice | baharat blend | bahārāt
+Chipotle | chipotle powder | chipotle pepper | chipotle chili | chipotles | chipotle chile
+Ancho | ancho chili | ancho chile | ancho powder | ancho pepper | ancho chilli
+Sichuan Pepper | szechuan peppercorns | sichuan peppercorns | szechwan pepper | szechuan peppercorn | sichuan pepper corn
+Old Bay | old bay spice | oldbay
+Peppercorn | peppercorns | whole peppercorns | mixed peppercorns | pepper corns | pepper corn
+Mint | fresh mint | mint leaves | garden mint
+Vanilla | vanilla bean | vanilla extract | vanilla beans | vanila | vanilla pod | vanillia
+Dill | dill weed | fresh dill | dill seed | dil
+Sage | fresh sage | common sage | rubbed sage | ground sage
+Lemongrass | lemon grass | lemongrass stalk | lemon-grass
+Salt | sodium | salts | rock salt | plain salt
+Sea Salt | sea-salt | flaky sea salt | coarse sea salt | fine sea salt
+Coriander Seed | coriander seeds | ground coriander | corriander seed | corriander seeds | coriander powder | whole coriander
+Cloves | whole cloves | ground cloves | clove spice | cloavs | cloves ground
+Poultry Seasoning | poultry spice | chicken seasoning | poultry herbs | poultry seasonings
+Mixed Herbs | mixed herb | dried mixed herbs | mixed dried herbs | herb mix | herb blend | mixed herbs blend
+--- 3
+Taco Seasoning | taco spice | taco mix | taco seasoning mix | taco spices
+Curry Leaves | curry leaf | curry leaves fresh | karipatta | kari leaves | curry plant leaf
+Kaffir Lime Leaves | kaffir lime | kaffir lime leaf | makrut lime leaves | makrut lime leaf | lime leaf | kaffir leaves | kaffir
+Fenugreek | fenugreek seeds | fenugreek seed | methi seeds | fenigreek | fenugreek spice | fenegreek | fenugreak
+Caraway | caraway seeds spice | caraway seed | carraway | carroway | caraway seeds
+Poppy Seed | poppy seeds | poppyseed | poppyseeds | poppy
+Sesame | sesame seeds | sesame seed spice | toasted sesame | sesame seeds toasted | sesame sead
+Celery Seed | celery seeds | celery seed spice
+Cumin Seed | cumin seeds | whole cumin | jeera | zeera | cumin seeds whole
+Nigella | nigella seeds | nigella seed | black onion seed | nigella sativa seed
+Tamarind | tamarind paste | tamarind pulp | tamerind | tamarid
+Horseradish | horse radish | horseradish root | horserdish | horseraddish
+Wasabi | wasabi powder | wasabi paste | japanese horseradish | wasabe
+Chicory | chicory root | chickory
+Juniper | juniper berry spice | juniper berries spice | junipers
+Lemon Pepper | lemon peppa | lemon pepper spice
+Garlic Salt | garlic salts | garlic and salt
+Onion Powder | powdered onion | onion granules | ground onion | dried onion powder
+Celery Salt | celery salts | salt celery
+Seasoned salt | season salt | seasoning salt | lawrys seasoned salt | seasonall
+Kosher Salt | kosher salts | coarse salt | kosher sea salt | coarse kosher salt
+Himalayan Salt | himalayan pink salt | pink himalayan | himalayan rock salt | himalayan sea salt
+Fleur de sel | fleur de sell | fleur de sal
+Maldon sea salt | maldon | maldon salt | maldon flakes
+Montreal steak seasoning | montreal seasoning | montreal spice | steak seasoning
+Creole Seasoning | creole spice | creole | creole spices | tony chachere's | tony chacheres
+Everything Bagel Seasoning | everything bagel spice | everything but the bagel | everything seasoning | bagel seasoning
+Adobo Seasoning | adobo | goya adobo | adobo spice
+Chili pepper | red chili | red chilli | chiles | chillies | chilies | hot pepper spice | chili peppers | chilli pepper | chilli peppers | red chile
+Bird's Eye Chili | thai chili | thai chilli | thai chiles | thai chili pepper | birds eye chilli | birdseye chili | bird eye chilli
+Habanero | habanero peppers | habaneros | habenero | habanera
+Jalapeño | jalapeno | jalapenos | jalapeño peppers | jalepeno | jalapeno peppers | halapeno
+Ghost Pepper | ghost peppers | ghost chilli | bhut jolokia pepper | ghost chile | ghostpepper
+Carolina Reaper | reaper | carolina reaper pepper | carolina reapers
+Scotch Bonnet | scotch bonnet pepper | scotch bonnets | scotch bonnet chili | scotch bonnet chile
+Serrano | serrano pepper | serrano chili | serranos | serrano chile | serano
+Cinnamon sugar | cinnamon and sugar | cinnamon-sugar mix
+Lemon zest | lemon rind | lemon peel zest | grated lemon zest | zest lemon
+Onion Salt | onion salts | salt onion
+Apple Pie Spice | apple pie seasoning | apple spice | apple pie spices
+Lime Zest | lime peel | lime rind | grated lime zest | zest lime
+Orange Zest | orange peel | orange rind | grated orange zest | dried orange peel
+Chimichurri | chimichurri seasoning | chimichurri herbs | chimichuri
+Tajín | tajin | tajin seasoning | tajin clasico
+Greek Seasoning | greek spice | greek herbs | greek spice blend
+Pepperoncino | pepperoncini spice | italian chili flakes | peperoncini
+Ground Ginger | ginger ground | dried ginger | dry ginger | ginger dried
+--- 4
+Lemon Thyme | lemon-thyme | thyme lemon
+Aji Amarillo | ají amarillo | amarillo chili | aji amarillo pepper | yellow aji | aji amarillo paste
+Chilli Crisp | crispy chili | crunchy chili | chili crunch
+Cassia Cinnamon | cassia bark | chinese cinnamon | saigon cinnamon | vietnamese cinnamon | cinnamon cassia
+Dried Chilies | dried chiles | dried chillies | dried chili peppers | dried red chilies | whole dried chilies
+Nori Flakes | aonori | green laver | seaweed flakes
+Chili Lime Seasoning | chile lime | chili lime | chile limon | chile limón | lime chili
+Pepper Mix | mixed pepper | four pepper blend | pepper blend | pepper medley
+Salt Flakes | salt flake | flaky salt | flaked salt | sea salt flakes
+Garlic Pepper | garlic and pepper | garlic pepper seasoning
+Ranch Seasoning | ranch spice | ranch powder | ranch mix | ranch dressing mix
+Steak Rub | bbq rub | barbecue rub | dry rub | rub | meat rub
+Parsley Root | hamburg parsley | root parsley | turnip rooted parsley
+Piquin | piquin chile | piquín | chile piquin | chile pequin
+Pimiento | pimento | pimiento pepper | pimentos | pimientos
+Pepperberry | pepper berry | tasmanian pepperberry
+Spicebush | spice bush | lindera benzoin | wild allspice
+Sassafras | sassafras root | sassafras leaves | sassafras bark
+Rosebuds | rose buds | dried rosebuds | rosebud
+Rosewater | rose water | rosewater essence
+Orange Blossom | orange blossom water | orange flower water
+Lemon Basil | basil lemon | lemon basil herb
+Cinnamon Basil | basil cinnamon | cinnamon basil herb
+Purple Basil | red basil | dark opal basil | basil purple
+Chat Masala Spice | chaat masala spice | chat masala spice
+Panch Puran | five spice bengali | bengali five spice | panch pooran | panchpuran
+Madras Curry | madras curry spice | madras spice
+Thai Curry Paste | curry paste | red curry paste | green curry paste | thai red curry paste
+--- 5
+Ground Elder | goutweed | bishop's weed | aegopodium podagraria
+Ginger Mint | mentha gracilis | scotch spearmint
+Coriander Root | cilantro root | coriander roots | cilantro roots
+Mitsuba Herb | japanese parsley
+Perilla Leaf | perilla leaves | korean perilla | kkaennip | sesame leaf | oba leaf
+Cuban Oregano | indian borage | spanish thyme | mexican mint | coleus amboinicus
+Greek Mountain Tea | sideritis | ironwort | mountain tea
+Lemon Ironbark | lemon scented ironbark
+Native Pepperleaf | pepperleaf | cinnamon myrtle
+Bush Basil | greek basil | fine leaf basil | bush basil dwarf
+Nutmeg Flower | love in a mist | nigella damascena
+Epazote Herb | wormseed | mexican tea | jesuit tea | epasote
+Avocado Leaf | avocado leaves | hoja de aguacate
+Pepper Dulse | pepper dulce | dulse flakes | dulse
+Chilcostle | chilcosle | chilcostle chile
+Chile Costeno | costeño | costeno chile | costeño amarillo
+Chile de Arbol Powder | arbol powder | chile arbol powder
+Piment Doux | doux des landes | landes pepper
+Hungarian Wax | hungarian wax pepper | hot wax pepper
+Garlic Mustard | alliaria petiolata | jack by the hedge | hedge garlic
+Sweet Woodruff | galium odoratum | waldmeister
+Sweet Annie | sweet wormwood | artemisia annua
+Vietnamese Mint | persicaria odorata | laksa leaf | daun kesum | kesum
+Long Coriander Leaf | culantro leaf | ngo gai | sawleaf herb
+Shiso Leaf | green shiso | red shiso | ao shiso | akajiso | aojiso
+Indian Gooseberry | amla | amalaki | emblica | gooseberry spice
+Ceylon Cardamom | malabar cardamom | mysore cardamom
+Brazilian Pepper | schinus terebinthifolius | rose pepper | baies roses | pink pepper berries
+Peruvian Pepper | peruvian peppertree | schinus molle | molle
+Orris | iris root | orris powder | iris germanica
+Kala Zeera | kala zira | black zeera
+Wild Fennel | foeniculum vulgare wild | sicilian fennel | finocchio selvatico
+Pomegranate Seed Powder | anardana powder | dried pomegranate | pomegranate powder
+Dried Mango Powder | mango powder spice | dry mango powder

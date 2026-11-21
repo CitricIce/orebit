@@ -1,0 +1,278 @@
+# currencies additions
+--- 2
+Dollar | dollars | usd | us dollar | us dollars | american dollar | us dollar bill | doller | dolar | dollor
+Euro | euros | eur | european euro | eu currency | eurro | uro
+Pound | pounds | british pound | pound sterling | sterling | gbp | uk pound | pound stirling | british pounds | english pound | pond | gb pound | quid
+Yen | japanese yen | yens | jpy | japan yen | jen | yan
+Peso | pesos | mexican peso | pezo | pesso
+Rupee | rupees | indian rupee | inr | ruppee | rupie | rupe | rupy
+Real | reais | brazilian real | reals | brl | reall
+Won | south korean won | korean won | wons | krw | wan
+Yuan | chinese yuan | renminbi | rmb | cny | yaun | yuen | yuans | juan
+Franc | francs | chf | frank | franck | frankc
+Ruble | rubles | russian ruble | rouble | roubles | russian rouble | rubel | rubble | roubel | ruble russia
+Cent | cents | us cent | sent
+Penny | pennies | pence | penney | peny | p | english penny
+Buck | bucks | bux
+Nickel | nickels | nickle | nikel | five cents | 5 cents
+Dime | dimes | dyme | ten cents | 10 cents
+Quarter | quarters | quarter dollar | twenty five cents | 25 cents
+Bitcoin | btc | bit coin | bitcoins | bitcoin currency
+Canadian dollar | cad | canadian dollars | canada dollar | loonie | looney | toonie | cdn dollar
+Australian dollar | aud | australian dollars | aussie dollar | australia dollar | aus dollar
+Deutsche Mark | deutschmark | deutsche marks | german mark | dm | d-mark | dmark | deutchmark | mark | marks | deutsche mark germany | german marks
+Ethereum | eth | ether | etherium | ethereum coin
+Dogecoin | doge | dogecoin crypto | dogecoin currency
+Rand | south african rand | zar | rands | south africa rand
+--- 3
+French franc | french francs | franc francais | franc français | france franc | french frank
+Austrian schilling | schilling | schillings | austria schilling
+Finnish markka | markka | markkaa | finnish mark | finland markka | markkas
+Irish punt | punt | irish pound | punts | ireland punt
+Litecoin | ltc | lite coin | litecoin crypto
+Tether | usdt | tether usd | tether coin
+Solana | sol coin | solana crypto | solana sol
+Ripple | xrp | ripple xrp | ripple coin
+Cardano | ada | cardano coin
+Binance Coin | bnb | binance | binance coin bnb
+Pieces of eight | piece of eight | pieces of 8 | piece of 8 | pieces of eight spanish
+Shilling | shillings | british shilling | bob | shilling uk | schilling uk | shiling
+Sovereign | sovereigns | gold sovereign
+Guinea | guineas | gold guinea | guinea coin
+Farthing | farthings | farthin | farthing coin | farthings uk
+Florin | florins | british florin | two shilling coin
+Groat | groats | groat coin
+Ducat | ducats | venetian ducat | gold ducat | dukat
+Doubloon | doubloons | doubloon coin | dubloon | dubloons | spanish doubloon
+Denarius | denarii | roman denarius | denarious | denari
+Thaler | thalers | taler | tallers | maria theresa thaler | talers | taller
+Kopek | kopeks | kopeck | kopecks | kopecs | copeck | kopeika | copec | kopeyka | kopiyka
+Centavo | centavos | sentavo | centavo coin
+Paisa | paise | pice | paisas | paisha
+Sen | japanese sen | sen coin
+Pfennig | pfennigs | pfenning | pfenig | pfennige | german pfennig
+Centime | centimes | centimes france | centimo
+Peseta | spanish pesetas
+Lira | liras | turkish lira | italian liras | lire turkish | turkish liras | try | lyra | liraa
+Rupiah | indonesian rupiah | rupiahs | rupia | idr | rupiyah
+Baht | thai baht | bahts | baat | bhat | thb | bart
+Ringgit | malaysian ringgit | ringgits | myr | ringit | ringet
+Dinar | dinars | iraqi dinar | kuwaiti dinar | serbian dinar | jordanian dinar | libyan dinar | algerian dinar | bahraini dinar | tunisian dinar | dinnar
+Dirham | dirhams | uae dirham | emirati dirham | moroccan dirham | aed | durham | dirrham | dirhem
+Krone | kroner | danish krone | norwegian krone | krones | kronor | kroner norway | krown
+Krona | swedish krona | icelandic krona | kronur | kronas | icelandic króna | sek | swedish kronor
+Zloty | polish zloty | zlotys | zlote | złoty | zloti | zlotych | pln | zlotty
+Forint | hungarian forint | forints | huf | forrint
+Koruna | czech koruna | korun | korunas | czk | koruny
+Shekel | israeli shekel | shekels | new shekel | ils | sheqel | shekle | sheckel | shequel
+Hryvnia | ukrainian hryvnia | hryvnias | hryvnya | grivna | grivnia | hryvna | uah | hrivna | hryvnja
+Lev | bulgarian lev | leva | levs | bgn | lef
+Leu | romanian leu | lei | moldovan leu | leus | ron
+Kuna | croatian kuna | kunas | kune | hrk | croatia kuna
+Dong | vietnamese dong | dongs | vnd | vietnam dong
+Riel | cambodian riel | riels | khr
+Kip | lao kip | laotian kip | kips | laos kip | lak
+Kyat | burmese kyat | myanmar kyat | kyats | mmk | kiat | chat
+Taka | bangladeshi taka | takas | bdt
+Afghani | afghanis | afghan afghani | afn | afgani
+Naira | nigerian naira | nairas | ngn | niara
+Cedi | ghanaian cedi | cedis | ghs | ghana cedi
+Birr | ethiopian birr | birrs | etb
+Kwacha | zambian kwacha | malawian kwacha | kwachas | kwatcha
+Kwanza | angolan kwanza | kwanzas | aoa
+Metical | mozambican metical | meticais | metical mozambique | mzn
+Pula | botswana pula | pulas | bwp
+Dalasi | gambian dalasi | dalasis
+Leone | sierra leonean leone | leones | sierra leone leone
+Lilangeni | emalangeni | swazi lilangeni | swazi lilangeni | eswatini lilangeni
+Loti | lesotho loti | maloti
+Ariary | malagasy ariary | ariarys
+Ouguiya | mauritanian ouguiya | ouguiyas
+Nakfa | eritrean nakfa | nakfas
+Quetzal | guatemalan quetzal | quetzals | quetzales | quetzel | gtq
+Lempira | honduran lempira | lempiras | hnl
+Colón | colon | costa rican colon | colones | salvadoran colon | colons
+Córdoba | cordoba | nicaraguan cordoba | cordobas
+Balboa | panamanian balboa | balboas | pab
+Gourde | haitian gourde | gourdes | gourd
+Boliviano | bolivian boliviano | bolivianos | bob bolivia
+Guaraní | guarani | paraguayan guarani | guaranies
+Sol | peruvian sol | soles | nuevo sol | sols | pen
+Bolívar | bolivar | venezuelan bolivar | bolivares | bolivars | bolivar fuerte
+Dram | armenian dram | drams | amd | drahm
+Lari | georgian lari | laris | gel
+Manat | azerbaijani manat | turkmen manat | manats | azn | manats
+Tenge | kazakhstani tenge | kazakh tenge | tenges | kzt | tengue
+Som | kyrgyz som | uzbek som | soms | uzbekistani som | kyrgyzstani som | som uzbekistan | sum
+Somoni | tajikistani somoni | somonis | tajik somoni
+Tugrik | mongolian tugrik | tögrög | tugrug | tugriks | togrog | tugrik mongolia | tögrög
+Ngultrum | bhutanese ngultrum | ngultrums
+Rufiyaa | maldivian rufiyaa | rufiyaas | rufiya
+Pataca | macanese pataca | patacas | macau pataca
+Pa'anga | tongan pa'anga | paanga | pa anga | paʻanga
+Tala | samoan tala | talas
+Vatu | vanuatu vatu | vatus
+Kina | papua new guinean kina | kinas | png kina
+Toea | toea png
+Hong Kong dollar | hkd | hk dollar | hongkong dollar | hk dollars
+Singapore dollar | sgd | singapore dollars | sing dollar
+New Zealand dollar | nzd | kiwi dollar | nz dollar | new zealand dollars | new zealand dollar | kiwi
+New Taiwan dollar | taiwan dollar
+Egyptian pound | egp | egyptian pounds | egypt pound
+Lebanese pound | lebanese lira | lbp | lebanese pounds
+Syrian pound | syp | syrian lira | syrian pounds
+CFA franc | cfa | franc cfa | cfa francs | west african franc | central african franc
+Guilder | guilders | netherlands antillean florin | guldens
+
+Riyal | riyals | rial | rials | saudi riyal | saudi rial | qatari riyal | omani rial | iranian rial | yemeni rial | royal | ryal
+Half crown | half-crown | halfcrown | half crowns
+Sixpence | tanner | tanners | six pence
+Threepenny bit | thruppence | threepence | thrupenny bit | three pence
+Ha'penny | halfpenny | ha penny | hapenny | half penny | halfpence
+Krugerrand | krugerrands | kruger rand | krugerand
+Greenback | greenbacks | green back
+Wampum | wampum beads | wampum shells
+Cowrie | cowrie shell | cowries | cowrie shells | cowry
+Half dollar | half dollars | fifty cents | 50 cents
+Silver dollar | silver dollars | morgan dollar | peace dollar
+Dollar coin | sacagawea | dollar coins
+Dollar bill | dollar bills | banknote | banknotes
+--- 4
+Sestertius | sesterces | sestertii | sesterce | sesterius | sestertium
+Aureus | aurei | roman aureus
+Solidus | solidi | byzantine solidus | bezant | besant
+Obol | obols | obolus | oboloi
+Tetradrachm | tetradrachms | tetradrachma
+Stater | staters | gold stater
+Mina | minas
+Talent | talents | ancient talent
+Denier | deniers | french denier
+Livre | livres | french livre | livre tournois
+Écu | ecu | ecus | european currency unit | écus
+Sou | sous | french sou
+Louis d'or | louis dor | louis d or
+Reichsmark | reichsmarks | reich mark | reichmark | reichs mark
+Ostmark | east german mark | ostmarks
+Pengő | pengo | hungarian pengo
+Tolar | slovenian tolar | tolars | tolarji
+Kroon | estonian kroon | kroons | krooni
+Lats | latvian lats | lati | latvia lats
+Litas | lithuanian litas | litai | litu
+Cypriot pound | cyprus pound
+Maltese lira | maltese lire | malta lira
+Yugoslav dinar | yugoslavian dinar
+Soviet ruble | soviet rouble | ussr ruble
+Assignat | assignats | french assignat
+Continental | continental dollar | continentals
+Confederate dollar | confederate money | confederate dollars
+Maravedi | maravedis | maravedí
+Conto | contos
+Scudo | scudi | italian scudo
+Zecchino | zecchini | sequin | sequins
+Rigsdaler | danish rigsdaler | rigsdalers
+Riksdaler | swedish riksdaler | riksdalers
+Skilling | skillings | danish skilling
+Öre | ore | øre | oren
+Groschen | groschens | grosz | groszy | groschen germany
+Kreuzer | kreuzers | kreutzer
+Heller | hellers | haler | halers | haléř
+Rappen | rappe
+Stuiver | stuivers | stuyver
+Noble | nobles | gold noble
+Angel | angels | gold angel
+Crown | half crown coin | crown coin
+Mite | mites | widow's mite | widows mite
+Large cent | large cents | indian head cent | indian head penny
+Wheat penny | wheat pennies | lincoln cent | lincoln penny
+Half cent | half cents
+Two-cent piece | two cent piece | two cents
+Three-cent piece | three cent piece | three cents
+Tael | taels | chinese tael | liang
+Piastre | piastres | piaster | piasters
+Para | paras
+Kurus | kuruş | kurush
+Tical | ticals | thai tical
+Satang | satangs
+Anna | annas
+Mohur | gold mohur | mohurs
+Pagoda | star pagoda
+Lakh | lakhs | lac | lacs | crore | crores
+Paisa | paise | pice | paisas | poisha
+Sen | sens | japanese sen | indonesian sen | malaysian sen
+Jiao | jiaos | mao | maos
+Fen | fens | chinese fen
+Jeon | chon | north korean chon
+Pya | pyas
+Ngwee | ngwee zambia
+Thebe | thebe botswana
+Pesewa | pesewas
+Kobo | kobos
+Butut | bututs
+Toea | toeas
+Stotinka | stotinki
+Bani | ban
+Fillér | filler | fillers
+Tiyn | tiyin | tyiyn
+Tetri | tetris
+Fils | filses
+Halala | halalas | halalah
+Baisa | baisas | baiza
+Millime | millimes
+Lipa | lipe
+Qindarka | qindarkë | qindarke
+Lepton | lepta
+Eyrir | aurar
+Penni | pennia
+Lek | leku | leke | lekë
+Rupiya | rupiyas
+Pound Scots | scottish pound | scots pound
+--- 5
+Hyperpyron | hyperpyra | hyperperon
+Tremissis | tremisses | tremis
+Siliqua | siliquae
+Quadrans | quadrantes
+Dupondius | dupondii
+Follis | folles
+Antoninianus | antoniniani
+Argenteus | argentei
+Victoriatus | victoriati
+Quinarius | quinarii
+Sextans | sextantes
+Aes rude | aes rudes
+Aes grave | aes graves
+Aes signatum | aes signata
+Cistophorus | cistophori
+Basilikon | basilikon coin
+Stavraton | stavrata
+Miliaresion | miliaresia
+Nomisma | nomismata | histamenon
+Daric | darics | persian daric
+Siglos | sigloi
+Mithqal | miskal | mithqals
+Gigliato | gigliati
+Carlino | carlini
+Tari | tarì
+Doppia | doppie
+Grosso | grossi | venetian grosso
+Soldo | soldi
+Baiocco | baiocchi
+Quattrino | quattrini
+Liard | liards
+Denga | dengas | dengi
+Altyn | altyns
+Chervonets | chervontsi | chervonetz
+Poltina | poltinnik
+Kerenka | kerensky ruble | kerensky rouble
+Karbovanets | karbovantsiv
+Cupon | moldovan cupon
+Talonas | talonai
+Rublis | latvian rublis
+Rai stone | rai stones | yap stone | stone money
+Knife money | knife coins | spade money
+Sycee | yuanbao | silver ingot
+Ryō | ryo | koban | oban
+Fanam | fanams
+Fals | fulus
+Akçe | akce | akche | asper
+Sultani | altin | altın
+Spesmilo | spesmilos
