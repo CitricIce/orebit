@@ -1,0 +1,938 @@
+--- 2
+Hip hop | hip-hop | hiphop | hip hop music
+R&B | rnb | r and b | rhythm and blues | r&b music
+Rock and roll | rock n roll | rock 'n' roll | rock & roll | rock and roll music | rocknroll
+Punk | punk music
+Reggaeton | regueton | reggaetón
+K-pop | kpop | korean pop
+Drum and bass | drum n bass | dnb | drum & bass | d&b
+Indie rock | indie rock music
+Alternative rock | alt rock | alt-rock | alternative rock music
+Folk | folk music
+Country | country music
+Rap | rap music
+Gospel | gospel music
+Latin | latin music
+Classical | classical music
+Opera | opera music
+--- 3
+Electropop | electro pop | electro-pop
+Dance-pop | dance pop
+Eurodance | euro dance
+Britpop | brit pop
+Funk | funk music
+Americana | americana music
+Honky-tonk | honky tonk
+Outlaw country | outlaw
+Country rock | country-rock
+Pop rock | pop-rock
+Folk rock | folk-rock
+Blues rock | blues-rock
+Delta blues | delta blues music
+Chicago blues | chicago blues music
+Jump blues | jump blues music
+Gangsta rap | gangster rap | gangsta | gangster
+Conscious hip hop | conscious rap
+Mumble rap | mumble
+Old school hip hop | old school rap | oldschool hip hop
+Southern hip hop | dirty south | southern rap
+East Coast hip hop | east coast rap
+West Coast hip hop | west coast rap
+Power pop | power-pop
+Blue-eyed soul | blue eyed soul
+Philly soul | philadelphia soul
+Psychedelic soul | psych soul
+Contemporary R&B | contemporary rnb | modern r&b | modern rnb
+New jack swing | new jack
+Folk punk | folk-punk
+Street punk | street-punk
+Oi! | oi | oi punk
+Hardcore punk | hardcore-punk
+Anarcho-punk | anarcho punk | anarchopunk
+Skate punk | skate-punk
+Riot grrrl | riot grrl | riot girl
+Garage rock | garage-rock
+Surf rock | surf music | surf-rock
+Glam metal | hair metal | hair band | glam-metal
+Power metal | power-metal
+Symphonic metal | symphonic-metal
+Folk metal | folk-metal
+Gothic metal | goth metal
+Grindcore | grind core | grind
+Screamo | screamo music
+Post-hardcore | post hardcore
+Pop-punk | poppunk
+Midwest emo | midwest-emo
+Art rock | art-rock
+Prog rock | progressive rock music
+Krautrock | kraut rock
+Space rock | space-rock
+Acid rock | acid-rock
+Southern rock | southern-rock
+Yacht rock | yacht-rock | soft rock yacht
+Classic rock | classic-rock
+Indie pop | indie-pop
+Chamber pop | chamber-pop | baroque pop
+Folk pop | folk-pop
+Adult contemporary | ac | easy listening
+Lounge | lounge music
+Vocal jazz | vocal-jazz
+Hard bop | hard-bop
+Latin jazz | latin-jazz
+Gypsy jazz | gypsy-jazz | jazz manouche
+Bluegrass gospel | gospel bluegrass
+Southern gospel | southern-gospel
+Contemporary Christian | ccm | christian music | christian pop | contemporary christian music
+Christian rock | christian-rock
+Spiritual | spirituals | negro spirituals
+Hymns | hymn | church music | hymnal
+Gregorian chant | chant | plainchant | plainsong
+Gospel choir | gospel-choir
+Christmas carols | carols | christmas songs | christmas
+Children's music | kids music | nursery rhymes | kids songs
+Lullaby | lullabies
+Video game music | game music | chiptune music | vgm
+Chiptune | 8-bit | 8 bit | chip music
+Anime music | anime songs | anison | anime
+Musical | musicals | musical theater | musical theatre music
+Cabaret | cabaret music
+Alt-country | alt country | alternative country
+Western swing | western-swing
+Old-time | old time music | old-time music | hillbilly | hillbilly music
+Anti-folk | antifolk | anti folk
+Freak folk | freak-folk | weird folk
+Neofolk | neo-folk | apocalyptic folk
+Celtic folk | irish folk | irish music | scottish folk | scottish music
+Celtic punk | celtic-punk
+Sea shanties | shanties | shanty | sea shanty music
+Singer-songwriter | singer songwriter | singersongwriter
+Protest music | protest songs | protest song
+Spoken word | spokenword | poetry | slam poetry
+Country blues | country-blues
+Boogie-woogie | boogie woogie | boogie-woogie piano
+Girl group | girl groups | girl group pop
+Boy band pop | boy band | boyband
+Neo soul | neosoul | neo-soul music
+Italo disco | italo-disco | italo
+Hi-NRG | hi nrg | high energy | hi energy
+Nu-disco | nu disco | nudisco
+Deep house | deep-house
+Tech house | tech-house
+Progressive house | prog house | progressive-house
+Electro house | electro-house
+Minimal | minimal techno | minimal-techno | minimal house
+Detroit techno | detroit-techno
+Hardstyle | hard style | hard-style
+Psytrance | psy trance | psychedelic trance | psy-trance | psy
+Dubstep | brostep
+Future bass | future-bass
+Trap EDM | edm trap | trap music edm | festival trap
+Big beat | big-beat
+Trip-hop | triphop
+Downtempo | down tempo | downbeat
+Chillout | chill out | chill-out | chill | chillout music
+Lofi hip hop | lo-fi hip hop | lofi hip-hop | lofi beats | lo-fi beats
+Lo-fi | lo fi | lo-fi
+Ambient | ambient techno | dark ambient
+New age | new-age | newage
+Drone | drone music
+Noise | noise music | harsh noise
+Experimental | experimental music
+Avant-garde | avant garde | avantgarde | avant-garde music
+Synthwave | retrowave | outrun | retro wave
+Vaporwave | vapor wave | vapourwave | future funk
+Hyperpop | hyper pop | hyper-pop
+Phonk | drift phonk | memphis phonk
+Cloud rap | cloud-rap
+Drill | uk drill | chicago drill | drill rap
+Trap soul | trap-soul | trapsoul
+Afrobeat | afro beat | fela kuti music
+Afrobeats | afro beats | naija pop | nigerian pop
+Highlife | high life
+Amapiano | piano | log drum
+Kwaito | kwaito-house
+Rai | raï | rai music
+Gnawa | gnawa music
+Dancehall | ragga | raggamuffin
+Reggae fusion | reggae-fusion
+Roots reggae | roots-reggae | roots
+Dub | dub music | dub reggae
+Lovers rock | lovers-rock
+Rocksteady | rock steady | rock-steady
+Ska | traditional ska | jamaican ska
+Soca | soca music | chutney soca | power soca
+Calypso | kaiso
+Steelpan | steel band | steelband | steel drum music | pan
+Zouk | zouk music | kompa zouk
+Bachata | dominican bachata
+Merengue | merengue típico | merengue tipico
+Salsa | salsa dura
+Mambo | mambo music
+Rumba | rumba music | cuban rumba
+Bolero | bolero music
+Latin pop | pop latino | pop en español | latin-pop
+Latin rock | rock en español | rock latino | rock en espanol
+Dembow | dembow music
+Cumbia | cumbia villera
+Mariachi | ranchera | rancheras
+Corrido | corridos | narcocorrido | narcocorridos
+Regional Mexican | regional mexicano | música regional mexicana | regional mexican music
+Tejano | tex-mex | texmex | tex mex | conjunto
+Bossa nova | bossanova | bossa
+Samba | samba de roda | samba-enredo | samba enredo
+Pagode | pagode music
+Forró | forro | forró music
+Sertanejo | sertanejo music | sertanejo universitário
+Fado | fado portugues
+Flamenco | cante jondo | cante flamenco
+Chanson | chanson française | french chanson | french music | french pop
+Schlager | schlager music | german schlager
+Polka | polka music | polka-music
+Waltz | waltz music | viennese waltz
+Yodel | yodeling music | jodeln
+Eurobeat | euro beat | super eurobeat
+Rebetiko | rembetiko | rebetika | rembetika
+Klezmer | klezmer-music | yiddish music
+Arabic pop | arab pop | arabic music | arab music
+Dabke | dabke music | debke
+Turkish folk | turkish music | türkü | turku
+Persian classical | persian music | iranian music | persian traditional music
+Bollywood | bollywood music | bollywood songs | hindi film music | bollywood pop
+Hindustani classical | hindustani | north indian classical | hindustani music
+Carnatic | carnatic music | south indian classical | carnatic classical
+Bhangra | punjabi pop | punjabi music | bhangra pop
+Qawwali | qawwali music
+Visual kei | visual-kei | vkei | v-kei
+Enka | japanese ballad
+Idol pop | idol music | japanese idol | idol | idol group music
+Vocaloid | vocaloid music | vocaloid songs | hatsune miku music
+C-pop | cpop | c pop | chinese pop
+Mandopop | mando pop | mandarin pop
+Cantopop | canto pop | cantonese pop | hong kong pop | hk pop
+Peking opera | beijing opera | chinese opera | jingju
+Dangdut | dangdut music | koplo | dangdut koplo
+Gamelan | javanese gamelan | balinese gamelan | gamelan-music
+Hawaiian music | hawaiian | slack-key | slack key | ukulele music
+Native American music | native american | powwow | pow wow | native american flute | indigenous music
+Celtic | celtic music | gaelic music
+Irish traditional | irish trad | irish folk music
+Scottish pipe music | bagpipe music | pipe band | bagpipes | highland pipes
+Gothic rock | goth rock | gothic-rock | goth-rock
+Deathrock | death rock | death-rock
+Darkwave | dark wave | cold wave | coldwave
+Industrial | industrial-music | industrial dance
+Synth-pop | synthpop | synth pop | synth-pop-music
+New romantic | new romantics | new-romantic
+No wave | no-wave | nowave
+Madchester | baggy | madchester music
+Shoegaze | shoegazing | shoegaze-pop | blue gaze | nu-gaze | nu gaze
+Dream pop | dream-pop | dreampop
+Post-rock | post rock | postrock
+Math rock | math-rock | mathrock
+Emo | emo-rock | emo rock | emo revival
+Hardcore | hardcore music | hardcore rock | hc punk
+Metalcore | metal core | metal-core
+Deathcore | death core | death-core
+Nu metal | nu-metal | numetal | nü metal | nu-metal rock
+Thrash | thrash music
+Death metal | death-metal | deathmetal
+Black metal | black-metal | blackmetal
+Doom metal | doom-metal | doom | traditional doom
+Stoner rock | stoner-rock | desert rock | desert-rock
+Glam rock | glam | glitter rock | glam-rock
+Hard rock | hard-rock | hardrock
+Bedroom pop | bedroom-pop | bedroom pop | dorm pop
+Indietronica | indie electronic | indie-tronica | indie electronica
+Chillwave | chill wave | glo-fi | glo fi
+Grime | grime-music | uk grime | eskibeat | eski
+UK garage | ukg | uk-garage | garage house | 2-step garage | 2 step garage
+Britpop | brit-pop | cool britannia
+Northern soul | northern-soul | northern soul scene
+Pub rock | pub-rock | pub rock music
+Pop punk | pop punk rock | easycore pop punk
+Post-punk | post punk | postpunk
+Pop | popular music | pop songs | top 40 | top-40 | chart music | pop hits | mainstream pop
+Synthpop | synth-pop
+Dark pop | dark-pop | darkpop
+Art pop | art-pop | artpop
+Alt-pop | alt pop | alternative pop
+Reggae | jamaican music | jamaican reggae | reggae-music
+Latin ballad | balada | balada romántica | latin ballads | romantic ballad | romantic ballads
+Soft rock | soft-rock | soft rock ballads
+Jazz fusion | fusion | jazz-fusion
+Bebop | be-bop | be bop
+Cool jazz | west coast jazz | cool-jazz
+Free jazz | avant-garde jazz | avant jazz | free-jazz
+Smooth jazz | smooth-jazz | contemporary instrumental
+Soul jazz | soul-jazz
+Acid jazz | acid-jazz
+Dixieland | dixie | dixie jazz | dixieland jazz
+Big band | big-band | big band jazz
+Swing | swing era | jazz swing | swing-music
+Electro swing | electro-swing | electroswing
+Ragtime | rag | ragtime piano | rag-time
+Baroque | baroque era | baroque-music
+Romantic classical | romantic era music | romantic music classical | romantic-era
+Contemporary classical | modern classical | contemporary-classical | new classical
+Opera | operatic | grand opera | opera seria
+Operetta | operettas | light opera
+Choral | choir music | choral-music | choirs
+Madrigal | madrigals | madrigal music
+Oratorio | oratorios
+Chamber music classical | string quartet | string quartets | chamber ensemble
+Soundtracks | movie music | film scores | movie score | movie scores | movie themes
+Easy listening music | easy listening pop
+Funk rock | funk-rock
+P-Funk | p funk | pfunk | parliament funk
+Go-go | go go | gogo | go-go music | dc go-go
+Miami bass | miami-bass | booty bass | booty music
+Jersey club | jersey-club | jersey club music
+Boom bap | boom-bap | boombap
+Emo rap | emo-rap | emo trap | sad rap | sad-rap
+Horrorcore | horror rap | horrorcore-rap | horror-core
+--- 4
+Electro | electro music
+Europop | euro pop
+Punk rap | punk-rap
+Chopped and screwed | chopped & screwed | screwed and chopped
+Rap rock | rap-rock
+Rap metal | rap-metal
+Pop soul | pop-soul
+Soul | soul-music
+Southern soul | southern-soul
+Alternative R&B | alt r&b | alt rnb | alternative rnb
+Disco funk | disco-funk
+Boogie | boogie funk
+Electro funk | electro-funk
+Techno-pop | techno pop
+Heavy rock | heavy-rock
+Speed metal | speed-metal
+Melodic death metal | melodeath | melodic death
+Progressive metal | prog metal | progressive-metal
+Groove metal | groove-metal
+Industrial metal | industrial-metal
+Viking metal | viking-metal
+Pirate metal | pirate-metal
+Alternative metal | alt metal | alt-metal
+Funk metal | funk-metal
+Post-metal | post metal
+Easycore | easy core
+Emo pop | emo-pop
+Heartland rock | heartland-rock
+Roots rock | roots-rock
+Arena rock | arena-rock
+AOR | adult-oriented rock | adult oriented rock
+Indie folk | indie-folk
+Jangle pop | jangle-pop
+Noise pop | noise-pop
+Sunshine pop | sunshine-pop
+Bubblegum pop | bubblegum | bubble gum | bubblegum music
+Teen pop | teen-pop
+Exotica | exotica music
+Muzak | elevator music
+Easy listening jazz | easy jazz
+Traditional pop | vocal pop | crooner
+Modal jazz | modal-jazz
+Afro-Cuban jazz | afro cuban jazz
+Swing jazz
+Jump jazz | jazz jump
+Jazz rock | jazz-rock
+Jazz funk | jazz-funk
+Jazz rap | jazz-rap
+New Orleans jazz | trad jazz | traditional jazz
+Contemporary jazz | contemporary-jazz
+Nu jazz | nu-jazz
+Jazz blues | jazz-blues
+Christian hip hop | christian rap
+Black gospel | black-gospel
+Praise and worship | worship music | worship
+Sacred music | religious music
+Qawwali | sufi music
+Nasheed | nasheeds
+Bhajan | bhajans | kirtan
+Holiday music | holiday songs
+Torch song | torch songs
+Tin Pan Alley | tin pan alley music
+Rockabilly revival | psychobilly
+Psychobilly music | psychobilly-rock
+Country pop | country-pop
+Bro-country | bro country
+Texas country | red dirt | red dirt country
+Neotraditional country | neo-traditional country
+Nashville sound | nashville
+Bakersfield sound | bakersfield
+Countrypolitan | country-politan
+Cowboy music | western music | cowboy songs | country western | country and western | western
+Appalachian folk | appalachian music | appalachian
+Mountain music | mountain-music
+Newgrass | new grass
+Traditional folk | traditional music | trad
+Contemporary folk | modern folk
+Folk revival | folk-revival
+Celtic rock | celtic-rock
+English folk | english-folk | british folk
+Skiffle | skiffle-music
+Talking blues | talking-blues
+Piedmont blues | piedmont-blues
+Texas blues | texas-blues
+Memphis blues | memphis-blues
+Acoustic blues | acoustic-blues
+Electric blues music | chicago electric blues
+Jug band | jug-band | jug band music
+Stride piano | stride
+Barrelhouse | barrel house
+Chicago soul | chicago-soul
+Deep soul | deep-soul
+Soulful house | soul house
+Quiet storm | slow jam | slow jams
+Hip house | hip-house
+Dance rock | dance-rock
+Dance-punk | dance punk
+Dance-rock revival | new rave | nu rave | nu-rave
+Electroclash | electro clash | electro-clash
+Euro disco | eurodisco | euro-disco
+Disco house | disco-house
+Funky house | funky-house
+French house | french-house | french touch | filter house
+Chicago house | chicago-house | acid house
+Acid house music
+Tropical house | tropical-house | trop house
+Future house | future-house
+Big room | big room house | big-room
+Bass house | bass-house
+Afro house | afro-house
+Latin house | latin-house
+Ghetto house | ghetto-house
+Jackin house | jackin' house | jackin
+Acid techno | acid-techno | acid
+Hard techno | hard-techno
+Dub techno | dub-techno
+Industrial techno | industrial-techno
+Hardcore techno | gabber | gabba | happy hardcore
+Happy hardcore music | happycore
+Hard dance | hard-dance
+Goa trance | goa | goa-trance
+Progressive trance | progressive-trance
+Uplifting trance | uplifting-trance
+Vocal trance | vocal-trance
+Tech trance | tech-trance
+Eurotrance | euro trance | euro-trance
+Dream trance | dream-trance
+Riddim | riddim dubstep
+Moombahton | moombahcore
+Glitch hop | glitch-hop | glitch
+Wonky | wonky hip hop
+Chillstep | chill-step
+Liquid drum and bass | liquid dnb | liquid funk | liquid drum & bass
+Neurofunk | neuro funk | neuro
+Jump-up | jump up | jumpup
+Darkstep | dark step
+Drumstep | drum step
+Jungle | ragga jungle
+Breakbeat hardcore | breakbeat-hardcore
+Breaks | breakbeat music | breaks music | nu skool breaks
+Chillhop | chill hop | chill-hop
+Space music | space-music
+Minimalism | minimalist music | minimal music
+Musique concrète | musique concrete
+Microhouse | micro house | click house
+Dreamwave | dream wave
+Mallsoft | mall soft
+Slushwave | slush wave
+Hypnagogic pop | hypnagogic
+Witch house | witch-house | witchhouse
+Seapunk | sea punk
+PC Music | pc-music
+Digicore | digi core
+Glitchcore | glitch core
+Nightcore | night core
+Brazilian phonk | funk phonk
+Brooklyn drill | ny drill | new york drill
+Trap metal | trap-metal
+Rage | rage rap | rage music
+Plugg | pluggnb
+Sample drill | sample-drill
+Afroswing | afro swing
+Afro-fusion | afrofusion | afro fusion
+Afro pop | afropop | afro-pop
+Jùjú | juju music
+Fuji | fuji music
+Apala | apala music
+Makossa | makossa music
+Bikutsi | bikutsi music
+Soukous | congolese rumba | rumba congolaise | lingala
+Ndombolo | ndombolo music
+Mbalax | sabar
+Coupé-décalé | coupe decale | coupé décalé
+Zouglou | zouglou music
+Kuduro | kuduro music
+Semba | semba music
+Kizomba | zouk love
+Gqom | durban gqom
+Mbaqanga | mbaqanga music
+Isicathamiya | isicathamiya music | ladysmith black mambazo
+Maskandi | maskandi music
+Marabi | marabi music
+Township jive | jive
+Afrikaans music | boeremusiek | boeremuziek
+Kwela | kwela music
+Benga | benga music
+Taarab | taarab music
+Bongo Flava | bongo flava music | bongo
+Genge | genge music
+Gengetone | gengetone music
+Chimurenga | chimurenga music
+Sungura | sungura music
+Chaabi | chaabi music | shaabi
+Mahraganat | mahraganat music
+Andalusian classical | andalusian music | andalusi
+Desert blues | tuareg blues | desert-blues | tishoumaren
+Griot music | griot | griots
+Morna | morna music
+Funaná | funana
+Batuque | batuque music
+Palm-wine | palm wine | palm wine music
+Hiplife | hiplife music
+Azonto | azonto music
+Gospel afrobeats | african gospel
+Ska punk | ska-punk | skapunk
+Two Tone | 2 tone | 2-tone | two-tone
+Third wave ska | third-wave ska
+Mento | mento music
+Chutney | chutney music
+Kompa | compas | konpa
+Rara | rara music
+Mizik rasin | roots music haiti
+Son cubano | son | son cubano music
+Son montuno | son-montuno
+Cha-cha-chá | cha cha | cha cha cha | chachacha
+Guaracha | guaracha music
+Danzón | danzon
+Timba | timba music
+Trova | trova cubana | nueva trova
+Cubaton | cubatón
+Latin hip hop | latin rap | latin trap
+Latin trap music | trap latino | trap en español
+Perreo | perreo music
+Urbano | urbano latino | latin urban | música urbana
+Moombahton | moombah
+Cumbia sonidera | sonidera
+Vallenato | vallenato music
+Champeta | champeta music
+Porro | porro music
+Currulao | currulao music
+Joropo | joropo music
+Huayno | huayno music | huaynos
+Chicha | chicha music | psychedelic cumbia | peruvian cumbia
+Marinera | marinera music
+Música criolla | musica criolla | peruvian criolla
+Andean music | andean folk | pan flute music | panpipe music | andean
+Nueva canción | nueva cancion
+Zamba | zamba music
+Chacarera | chacarera music
+Chamamé | chamame
+Milonga | milonga music
+Tango nuevo | nuevo tango | nuevo-tango
+Cuarteto | cuarteto music
+Cumbia argentina | cumbia pop
+Rock nacional | rock nacional argentino
+Candombe | candombe music
+Murga | murga music
+Ranchera music | canción ranchera
+Banda | banda music | banda sinaloense | tambora
+Norteño | norteña | conjunto norteño | norteno
+Corridos tumbados | corrido tumbado | tumbados
+Grupera | grupera music
+Tropical | tropical music | música tropical
+Sonidero | sonidero music
+Duranguense | duranguense music | technobanda
+Huapango | huapango music | son huasteco
+Son jarocho | jarocho | son-jarocho
+Jarabe | jarabe tapatío
+Choro | chorinho | choro music
+MPB | música popular brasileira | musica popular brasileira
+Tropicália | tropicalia | tropicalismo
+Baião | baiao
+Axé | axe | axé music
+Frevo | frevo music
+Maracatu | maracatu music
+Capoeira music | capoeira
+Brazilian funk | funk carioca | baile funk | favela funk
+Funk brasileiro | funk paulista
+Brega | brega music | tecnobrega | brega funk
+Lambada | lambada music
+Carimbó | carimbo
+Flamenco pop | nuevo flamenco | rumba flamenca
+Rumba catalana | catalan rumba
+Sevillanas | sevillana
+Copla | copla music | copla española
+Jota | jota music
+Pasodoble | paso doble | pasodoble music
+Zarzuela | zarzuela music
+Canzone napoletana | neapolitan song | neapolitan music
+Italo pop | italian pop | italian music | canzone italiana
+Tarantella | tarantella music
+Musette | bal musette | accordion music | musette music
+Yé-yé | ye-ye | yeye
+Volksmusik | volkmusik | german folk music | volkstümliche musik
+Neue Deutsche Welle | ndw | new german wave
+Oompah | oom-pah | oompah music | umpah
+Alpine folk | alpine music | alphorn music
+Kraut rock | krautrock music
+Neue Deutsche Härte | ndh | neue deutsche harte
+German hip hop | deutschrap | deutsch rap | german rap
+French hip hop | rap français | french rap | rap francais
+UK hip hop | british hip hop | uk rap | british rap
+Spanish hip hop | rap español | spanish rap
+Italian hip hop | rap italiano | italian rap
+Russian hip hop | russian rap | russian pop | russian rock
+Italodance | italo dance
+Hands up | handsup | hands-up
+Trance | trance-music
+Vocal house | vocal-house
+Dutch house | dutch-house | dirty dutch
+Hardbass | hard bass
+Russian chanson | blatnaya pesnya | blatnaya
+Estrada | russian estrada
+Bard music | avtorskaya pesnya | author song | russian bard
+Romani music | gypsy music | gypsy | romani | balkan gypsy brass | roma music
+Balkan brass | balkan brass band | brass band music | brass band
+Balkan folk | balkan music | balkan
+Turbo-folk | turbofolk | turbo folk
+Manele | manele music
+Chalga | chalga music | pop-folk | pop folk
+Laïko | laiko | laika | greek laiko
+Entechno | entekhno | éntekhno
+Greek folk | dimotiko | greek music
+Hasidic music | chassidic music | hasidic pop | jewish music
+Mizrahi | mizrahi music | musiqa mizrahit
+Israeli folk | israeli music | hebrew music
+Khaleeji | khaliji | khaleeji music
+Arabesque | arabesk | arabesk music
+Turkish classical | ottoman classical music | ottoman music | mehter
+Anatolian rock | anadolu rock | turkish psychedelic
+Persian pop | iranian pop | tehrangeles pop
+Maqam | maqam music | arabic maqam | maqamat
+Mugham | mugham music | azerbaijani mugham
+Ashik | ashik music | ashugh
+Filmi | filmi music | hindi pop | indian film music
+Indian classical | indian classical music | raga | ragas | indian music
+Ghazal | ghazals | ghazal music
+Thumri | thumri music
+Dhrupad | dhrupad music
+Khyal | khayal | khyal music
+Sufi | sufi rock | sufi music rock
+Giddha | giddha music
+Garba | garba music | dandiya | garba dandiya
+Lavani | lavani music
+Baul | baul music | baul songs
+Rabindra Sangeet | rabindrasangeet | tagore songs | rabindra sangit
+Kollywood | tamil film music | tamil music | kollywood music | tamil pop
+Tollywood | telugu film music | telugu music | tollywood music
+Mollywood | malayalam music | malayalam film music
+Indian pop | indipop | indi-pop | indie pop india
+Desi hip hop | indian hip hop | gully rap | indian rap | desi rap
+Pakistani pop | pakistani music | lollywood music
+Nepali folk | nepali music | lok geet
+Sinhala music | sri lankan music | baila
+Baila music | baila-music
+Bangladeshi music | bengali music | bangla music | bangla pop
+J-pop | jpop | j pop | japanese pop
+J-rock | jrock | j rock | japanese rock
+Kayōkyoku | kayokyoku | kayo | kayo kyoku
+City pop | citypop | japanese city pop
+Shibuya-kei | shibuya kei
+Japanese hip hop | j-rap | jrap | japanese rap
+Japanese folk | min'yō | minyo | japanese traditional | japanese traditional music
+Gagaku | gagaku music | japanese court music
+Japanese noise | japanoise
+Japanese metal | j-metal
+Eurobeat Japan | para para | parapara
+Trot | korean trot | k-trot | trot music
+K-pop | k pop | k-pop idol | korean pop music
+K-rock | krock | korean rock | k rock
+K-hip hop | khiphop | korean hip hop | korean rap | k-rap
+K-R&B | korean r&b | krnb | k-rnb
+K-indie | korean indie | kindie
+Pansori | pansori music
+Korean traditional | gugak | korean folk
+Korean ballad | k-ballad | kballad
+Chinese rock | c-rock | crock | chinese rock music
+Chinese hip hop | c-rap | chinese rap | crap
+Chinese folk | chinese traditional | chinese traditional music | chinese music
+Cantonese opera | yueju
+Taiwanese pop | t-pop | tpop | taiwan pop
+Thai pop | t-pop thai | thai music | luk thung | lukthung
+Mor lam | molam | mor-lam
+Thai rock | phleng phuea chiwit | songs for life
+Vietnamese pop | v-pop | vpop | v pop
+Nhạc vàng | nhac vang | vietnamese bolero
+Cải lương | cai luong | vietnamese opera
+Indonesian pop | i-pop | ipop | indo pop | indonesian music
+Kroncong | keroncong | kroncong music
+Malay pop | malaysian music | malay music | m-pop | mpop
+Joget | joget music
+Filipino pop | opm | original pilipino music | p-pop | ppop | pinoy pop | pinoy rock
+Kundiman | kundiman music
+Harana | harana music
+Kulintang | kulintang music
+Mongolian throat singing | khoomei | tuvan throat singing | khoomii | overtone singing
+Throat singing | overtone | tuvan
+Tibetan chant | tibetan music | tibetan
+Central Asian folk | uzbek music | kazakh music
+Polynesian music | polynesian | maori music | māori music | pacific islander music
+Aboriginal music | didgeridoo music | indigenous australian music | didgeridoo
+Inuit throat singing | katajjaq
+Sean-nós | sean nos | sean-nos singing
+Welsh folk | welsh music | eisteddfod music
+Nordic folk | scandinavian folk | scandinavian music | swedish folk | nordic music
+Joik | yoik | sami joik | sámi joik
+Finnish metal | finnish music | iskelmä | finnish iskelma
+Dansband | dansband music | dansbands
+Norwegian black metal | nsbm | norwegian metal
+Swedish pop | scandipop | scandi pop | swedish music
+Hardingfele | hardanger fiddle | hardanger fiddle music
+Dark cabaret | dark-cabaret
+Gothic | goth music | gothic music
+Industrial rock | industrial-rock
+Aggrotech | aggro-tech | aggro tech
+Futurepop | future pop | future-pop
+Electronic body music | ebm music
+Neue Welle | neue-welle
+New wave | new-wave | newwave
+Post-punk revival | garage rock revival | indie sleaze
+Jangle rock | jangle | jangly guitar
+C86 | c86 music | twee pop | twee | tweepop
+Slowcore | slow core | sadcore | sad-core
+Lo-fi indie | lo-fi rock | lofi rock | lofi indie
+Emocore | emo core
+Screamo | skramz
+Djent | djent metal
+Rap metal | rapcore | rap core
+Crossover thrash | crossover | crossover metal
+Brutal death metal | brutal death | brutal-death | slam death metal | slam
+Technical death metal | tech death | technical death | tech-death
+Old school death metal | osdm | oldschool death metal
+Symphonic black metal | symphonic black
+Atmospheric black metal | atmospheric black | atmospheric-black | cascadian black metal
+Depressive black metal | dsbm | suicidal black metal | depressive black
+Blackgaze | black gaze | blackened shoegaze
+War metal | war-metal | bestial black metal | blackened death metal
+Funeral doom | funeral-doom | funeral doom metal
+Drone metal | drone-metal
+Stoner metal | stoner-metal | stoner doom
+Sludge | sludge music
+Post-metal | post-metal-music | atmospheric sludge
+NWOBHM | new wave of british heavy metal | british heavy metal
+Neoclassical metal | neoclassical | shred | shred metal
+Blues metal | blues-metal
+Gothic doom | doom-death | death doom | death-doom
+Folk rock | folk-rock-music
+Electric folk | electric-folk
+Chamber folk | chamber-folk
+Indie folk | indie folk rock | stomp and holler | stomp-and-holler
+Sadcore music | sad-core-music
+Folktronica | folk-tronica | folk electronica
+Post-dubstep | post dubstep | post-dub
+UK bass | uk-bass | bass music | bass | bass house music
+UK funky | funky | uk-funky
+Speed garage | speed-garage
+Bassline | bassline house | niche | 4x4 garage | 4x4
+Sublow | sublow music
+Road rap | road-rap | uk road rap
+UK street soul | street soul | uk soul | british soul
+Brit pop rock | british rock | british invasion | british invasion music
+British blues | british-blues | uk blues
+Beat music | merseybeat | mersey beat | merseybeat music | beat
+Skiffle revival | skiffle revival music
+Oi music | street rock
+Anarcho punk music | crust punk | crust | d-beat | dbeat | crust-punk
+Crossover punk | thrashcore | thrash core | fastcore
+Horror punk | horror-punk | horrorpunk
+Gypsy punk | gypsy-punk | gypsy punk music | balkan punk
+Cowpunk | cow punk | country punk | punk country
+Punk blues | punk-blues | garage punk | garage-punk
+Protopunk | proto-punk | proto punk
+Baroque pop music
+Sophisti-pop | sophistipop | sophisti pop
+Experimental pop | experimental-pop | avant-pop | avant pop
+Indie dance | indie-dance
+Reggae rock | reggae-rock
+Reggaeton | reggaeton-music | reggaeton romantico | romantic reggaeton
+Dancehall pop | dancehall-pop | tropical pop
+Afro-Latin | afro latin | afro-latin music
+Afro-Cuban | afro cuban | afro cuban music
+Afro-Brazilian | afro brazilian | afro brazilian music
+Afrobeat music | afrobeat-music
+Easy rock | easy-rock | light rock | lite rock
+Lounge jazz | lounge-jazz
+Jazz | jazz music | jazzy
+Bossa jazz | bossa-jazz
+Neo-swing | neo swing | swing revival | neoswing
+Boogie rock | boogie-rock
+Classical | classic music | orchestral music | symphonic music | classical-music
+Renaissance music | renaissance | renaissance-music
+Medieval music | medieval | middle ages music | medieval-music
+Classical period | classical era | classical-period | viennese classical
+Neoclassical darkwave | neoclassical dark wave
+Impressionist music | impressionism | impressionist
+Minimalist classical | minimalism classical | steve reich style
+Serialism | twelve-tone | twelve tone | 12 tone
+Atonal | atonal music | atonality
+Electroacoustic | electro-acoustic | electroacoustic music
+Opera buffa | comic opera | opéra comique | opera comique
+Bel canto | belcanto
+Art song | lieder | lied | art songs
+Sacred choral | cathedral music | church choir
+A cappella | acapella | a capella | acappella | a-cappella
+Barbershop | barbershop quartet | barbershop harmony
+Motet | motets
+Cantata | cantatas
+Military music | military band music | military band
+Smooth soul | smooth-soul
+Smooth R&B | smooth rnb | smooth r and b | smooth-rnb
+90s R&B | 90s rnb | nineties r&b
+Funk soul | funk-soul | soul funk | soul-funk
+Afro funk | afro-funk | afrofunk
+Bounce | new orleans bounce | bounce music | sissy bounce
+Freestyle | freestyle music | latin freestyle | freestyle-dance
+Ghettotech | ghetto tech | detroit ghettotech
+Juke | juke-music | chicago juke
+Footwork | footwork-music | chicago footwork
+Baltimore club | baltimore-club | b-more club
+Philly club | philly-club | philly club music
+Reggae dancehall | reggae-dancehall
+Gangsta funk | gangsta-funk
+G-funk | g funk | gangsta funk music | gfunk
+Hardcore hip hop | hardcore rap | hardcore-hip-hop | hardcore hip-hop
+Alternative hip hop | alt hip hop | alt-hip-hop | alternative rap | alt rap
+Experimental hip hop | experimental-hip-hop | abstract hip hop | abstract hip-hop | abstract rap
+Instrumental hip hop | instrumental-hip-hop | hip hop instrumentals | rap instrumentals | beat tape
+Nerdcore | nerdcore hip hop | geek rap | nerd rap
+Christian rap music | gospel rap | gospel-rap
+Political hip hop | political rap | political-hip-hop
+Crunk | crunk-music | crunk&b | crunk and b
+Snap | snap music | snap-music
+Hyphy | hyphy-music
+Memphis rap | memphis-rap | memphis hip hop
+Atlanta hip hop | atlanta rap | atl hip hop | atlanta trap
+Houston rap | houston hip hop | houston-rap
+Chicano rap | chicano-rap | chicano hip hop | latin gangsta rap
+Gangsta rap | gangsta-rap | gangster-rap | gangsta rap music
+--- 5
+Zydeco | zydeco-music | louisiana zydeco
+Cajun | cajun-music | cajun fiddle
+Swamp pop | swamp-pop
+Swamp blues | swamp-blues | swamp rock
+Tex-Mex music | tex-mex-music
+Conjunto music | conjunto-music
+Tejano pop | tejano-pop
+Gospel blues | gospel-blues
+Gospel soul | gospel-soul
+Vocal house gospel | gospel house
+Gospel house music
+Sacred steel | pedal steel gospel
+Shape note | shape-note | sacred harp | shape note singing
+Bluegrass | bluegrass-music | progressive bluegrass | bluegrass-pop
+Old-time | old time | oldtime | oldtime music
+Hokum | hokum blues | hokum-music
+Texas swing | texas-swing
+Country gospel | country-gospel
+Country soul | country-soul
+Country folk | country-folk
+Country boogie | country-boogie
+Cosmic American music | cosmic american | cosmic country
+Gothic country | gothic-country | southern gothic | gothic americana
+Lubbock sound | lubbock-sound
+Outlaw country | outlaw-country
+Contemporary country | modern country | new country | contemporary-country
+Hick hop | hick-hop | hickhop | country rap | country-rap | hillbilly hip hop
+Redneck rock | redneck-rock
+Slack-key guitar | slack-key-guitar | ki ho'alu
+Lap steel music | steel guitar music | steel guitar
+Jawaiian | jawaiian music | island reggae
+Hawaiian rock | hawaiian-rock
+Tahitian music | tahitian | tahitian drumming
+Sega | séga | sega music | seggae | mauritian music
+Maloya | maloya music | reunion music
+Salegy | salegy music | malagasy music | madagascar music
+Soukous guitar | congolese guitar | african guitar
+Highlife jazz | african jazz | african-jazz
+Mbube | mbube music
+Gqom beats | gqom-beats
+Afro house | afro-house-music
+3-step | three-step | 3 step
+Kwassa kwassa | kwassa-kwassa | kwassa | kwassa kwassa music
+Rhumba | rhumba music | rhumba-music
+Kapuka | kapuka music
+Ethiopian jazz | ethio-jazz | ethio jazz | ethiopian music
+Eskista | ethiopian traditional music | ethiopian folk
+Somali music | somali-music | somali folk
+Sudanese music | sudanese-music | haqiba | haqibah
+Nubian music | nubian-music | nubian folk
+Egyptian pop | egyptian-pop | egyptian music | shaabi music
+Lebanese pop | lebanese-pop | lebanese music
+Iraqi maqam | iraqi-maqam
+Saudi music | saudi-music
+Kurdish music | kurdish-music | kurdish folk | dengbêj | dengbej
+Armenian music | armenian-music | armenian folk | duduk music | duduk
+Georgian polyphony | georgian-polyphony | georgian folk | georgian music
+Azerbaijani music | azerbaijani-music
+Uzbek pop | uzbek-pop | o'zbek pop
+Kazakh pop | kazakh-pop | k-pop kazakh | qazaq pop | qazpop
+Tajik music | tajik-music | shashmaqom
+Afghan music | afghan-music | afghan folk | afghani music
+Pashto music | pashto-music | pashto folk
+Baluchi music | baluchi-music | balochi music
+Punjabi folk | punjabi-folk | punjabi folk music
+Sindhi music | sindhi-music | sindhi folk
+Kashmiri music | kashmiri-music | kashmiri folk | sufiana kalam
+Rajasthani folk | rajasthani-folk | rajasthani music | rajasthani folk music
+Bhojpuri music | bhojpuri-music | bhojpuri folk | bhojpuri
+Assamese music | assamese-music | bihu | bihu music
+Odissi music | odissi-music
+Kannada music | kannada-music | sandalwood music | kannada film music
+Marathi music | marathi-music | marathi film music | natya sangeet
+Gujarati music | gujarati-music | gujarati folk | gujarati film music
+Bengali folk | bengali-folk | bangla folk | folk bangla
+Indian rock | indian-rock | indian metal | indian indie
+Indian fusion | indian-fusion | raga rock | raga-rock
+Indo-jazz | indo jazz | indo-jazz music
+Bhangra rock | bhangra-rock | bhangra fusion
+Bhangra beats | bhangra-beats | desi beats | desi pop
+Chutney soca music
+Tassa | tassa drumming | tassa music
+Anime theme songs | anime-theme-songs | anime openings | anime opening songs
+Gregorian chants | gregorian chants | monastic chant
+Byzantine chant | byzantine-chant | byzantine music | eastern orthodox chant | orthodox chant
+Znamenny chant | znamenny | russian orthodox chant | russian chant
+Ambrosian chant | ambrosian | ambrosian-chant
+Anglican chant | anglican-chant | anglican music
+Taizé | taize | taizé chant | taize chant
+Christian metal | christian-metal | white metal | unblack metal | unblack
+Christian punk | christian-punk
+Christian hardcore | christian-hardcore
+Christian alternative | christian-alternative | christian alt
+Christian country | christian-country | country gospel music
+Christian pop music | cch | cch music
+Jewish liturgical | jewish-liturgical | cantorial | hazzanut | cantorial music | synagogue music
+Israeli rock | israeli-rock | israeli pop | israeli-pop
+Hebrew pop | hebrew-pop
+Sufi | sufi devotional
+Islamic music | islamic-music | islamic songs | islamic chants | quran recitation | quranic recitation | tilawat
+Qasida | qasida music | qasidah
+Sikh kirtan | sikh-kirtan | gurbani | gurbani kirtan | shabad kirtan | shabad
+Hindu devotional | hindu-devotional | devotional music | devotional songs | bhakti music | bhakti
+Buddhist chant | buddhist-chant | buddhist music | tibetan buddhist chant | sutra chanting | om chanting
+Shinto music | shinto-music | kagura
+Vedic chant | vedic-chant | vedic chanting | mantras | mantra music
+Yoruba music | yoruba-music | yoruba traditional music
+Igbo highlife | igbo-highlife | igbo music
+Afro-Caribbean | afro caribbean | afro-caribbean music
+Santería music | santeria music | santería | santeria | lukumi
+Voodoo music | voodoo-music | vodou music | vodou drumming
+Candomblé | candomble | candomblé music
+Zimbabwean music | zimbabwean | shona music | mbira | mbira music
+Djembe | djembe drumming | djembe music | west african drumming
+
+
