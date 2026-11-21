@@ -1,0 +1,422 @@
+# fruits additions
+--- 2
+Apple | apples
+Banana | bananas | bannana | banannas | bananna
+Orange | oranges
+Strawberry | strawberries | strawbery | strawberrys | strawberie
+Grape | grapes | red grape | green grape | red grapes | green grapes | concord | black grape | white grape
+Pear | pears
+Peach | peaches
+Mango | mangos | mangoe
+Pineapple | pinapple | pineaple | pineapples | pinneapple
+Watermelon | water melon | watermelons | watermellon
+Cherry | cherries | cherrys
+Lemon | lemons
+Blueberry | blueberries | blue berry | blueberrys | blue berries
+Raspberry | rasberry | raspberrys | rasperry | razzberry
+Blackberry | blackberries | black berry | blackberrys
+Plum | plums
+Apricot | apricots
+Lime | limes
+Grapefruit | grapefruits | grape fruit | pink grapefruit
+Coconut | coconuts
+Papaya | papayas | pawpaw fruit
+Cantaloupe | canteloupe | cantaloup | rockmelon | rock melon | cantelope | canteloup | cantaloupes
+Honeydew | honey dew | honeydew melon | honeydews
+Melon | melons
+Pomegranate | pommegranate | pomegranite | pomegranates | pomagranate | pommegranite | pomgranate
+Fig | figs
+Nectarine | nectarines
+Tangerine | tangarine | tangerines | tangerene
+Clementine | clementines | clemantine | clementime
+Mandarin | mandarins | mandarine
+Cranberry | cranberries | cran berry
+Avocado | avocados | avacado | avocadoe | avocato
+Tomato | tomatoes | tomatos | tomatoe
+Kiwi | kiwis | kiwi fruit | kiwifruits | kiwii
+Passion fruit | passionfruit | passion fruits | passionfruits
+Guava | guavas | gauva
+Lychee | lychees | litchis | lichi | lichee
+Dragon fruit | dragonfruit | dragon fruits | pitahaya
+Starfruit | star fruit | star fruits | carambolas
+Persimmon | persimmons | persimon | sharon fruit
+Quince | quinces
+Gooseberry | gooseberries | goose berry
+Currant | currants | blackcurrants | redcurrants | black currant | red currant | currents
+Raisin | raisins | raisen | raisons
+Prune | prunes
+Date | dates | date fruit
+Granny Smith | granny smith apple | granny smiths | granny smith apples
+Gala | gala apple | gala apples
+Fuji
+Honeycrisp | honey crisp | honeycrisp apple | honey crisp apple
+Pink Lady | pink lady apple | cripps pink apple
+Red Delicious | red delicious apple | red apple | red apples
+Golden Delicious | golden delicious apple | yellow apple | golden apple
+Green Apple | green apples
+--- 3
+Kumquat | kumquats | cumquat | kumquat fruit | cumquats
+Jackfruit | jack fruit | jackfruits
+Durian | durians | durien
+Rambutan | rambutans
+Mangosteen | mangosteens | mangostein
+Longan | longans | dragon eye
+Elderberry | elderberries | elder berry
+Mulberry | mulberries | mulbery
+Boysenberry | boysenberries | boysen berry
+Loganberry | loganberries
+Huckleberry | huckleberries | huckle berry
+Cloudberry | cloudberries | cloud berry
+Lingonberry | lingonberries | lingon berry | lingenberry | cowberry
+Olive | olives
+Plantain | plantains | plantin
+Tamarind | tamarinds | tamarin
+Feijoa | feijoas | fejoa | fejoia
+Pawpaw | paw paw | pawpaws
+Ugli fruit | ugli fruit | uglifruit
+Yuzu | yuzu fruit
+Pomelo | pomelos | pummelo | pommelo | pamelo | shaddock fruit
+Blood orange | blood oranges | bloodorange
+Satsuma | satsumas | satsuma orange | satsuma mandarin
+Medlar | medlars
+Sloe | sloes | sloe berry | blackthorn berry
+Damson | damsons | damson plum
+Greengage | greengages | green gage | gage
+Breadfruit | bread fruit | breadfruits
+Soursop | sour sop | graviola | soursops
+Cherimoya | cherimoyas | chirimoya | cherimola | custard apples
+Acai | acai berry | açai | acai berries | assai
+Goji berry | goji berries | gojis | goji berrys
+Physalis | cape gooseberries | cape gooseberry | ground cherry | ground cherries | golden berry | goldenberry | inca berry | husk cherry
+Salak | salacca | salak fruit
+Ackee | akee | ackee fruit
+Loquat | loquats | japanese plum | biwa
+Jabuticaba | jaboticaba | brazilian grape tree
+Marionberry | marionberries
+Juniper berry | juniper berries
+Kiwano | kiwanos | african horned cucumber
+Sapodilla | sapodillas | sapota | chikoo | chiku
+Miracle fruit | miracle berry
+Bilberry | bilberries | whortleberry | whortleberries
+Crab apple | crabapple | crab apples | crabapples
+Starfruit | carombola
+Bartlett pear | bartlett | bartletts | bartlett pears
+Bosc pear | bosc | bosc pears | beurre bosc
+Anjou pear | anjou | anjou pears | d anjou pear
+Asian pear | asian pears | nashi | nashi pear
+Tangelo | tangelos | minneola | minneola tangelo
+Key lime | key limes | key lime fruit | mexican lime
+Meyer lemon | meyer lemons | meyers lemon
+Seedless grape | seedless grapes
+Cara cara orange | cara cara | cara cara oranges
+Navel orange | navel | navel oranges | navels
+Valencia orange | valencia | valencia oranges
+Bergamot | bergamot orange | bergamot fruit
+Cherry tomato | cherry tomatoes
+Persian lime | tahiti lime | bearss lime
+Papaw | pawpaw fruit tree
+Tamarillo | tree tomato | tamarillos | tomarillo | tree tomatoes
+Sugar apple | sugar apples | sweetsop | sweet sop | annona
+Mamey | mamey sapote | mamey fruit
+Black sapote | chocolate pudding fruit
+Calamansi | calamondin | kalamansi | calamansi lime | calamansies
+--- 4
+Casaba melon | casaba | casaba melons
+Galia melon | galia melons
+Crenshaw melon | crenshaw | crenshaw melons
+Persian melon | persian melons
+Canary melon | canary melons | juan canary melon | canary
+Charentais melon | charentais | charentais melons | french melon
+Piel de sapo | santa claus melon fruit
+Bitter melon | bitter melons | bitter gourd | bitter gourds | karela | balsam pear
+Muskmelon | musk melon | muskmelons
+Honeydew melon fruit | green melon
+Seedless watermelon | seedless watermelons
+Yellow watermelon | yellow watermelons
+Sugar baby watermelon | sugar baby
+Mirabelle | mirabelles | mirabelle plum | mirabelle plums
+Pluot | pluots | plumcot | plumcots | aprium | apriums
+Cherry plum | myrobalan | cherry plums
+Victoria plum | victoria plums
+Santa Rosa plum | santa rosa
+Italian plum | italian plums | prune plum
+Sour cherry | sour cherries | morello | morello cherry | tart cherry | tart cherries | montmorency
+Bing cherry | bing cherries | bing
+Rainier cherry | rainier cherries | rainier
+Maraschino cherry | maraschino cherries | maraschino
+Donut peach | doughnut peach | saturn peach | flat peach | donut peaches
+White peach | white peaches
+Yellow peach | yellow peaches
+Cling peach | clingstone peach
+Salmonberry | salmonberries | salmon berry
+Thimbleberry | thimbleberries
+Dewberry | dewberries | dew berry
+Tayberry | tayberries
+Wineberry | wineberries | wine berry
+Whitecurrant | white currants | whitecurrant fruit
+Jostaberry | jostaberries | josta
+Aronia | aronia berry | chokeberry | chokeberries | black chokeberry
+Sea buckthorn | seabuckthorn | sea buckthorn berry | sea buckthorn berries
+Saskatoon | saskatoon berry | saskatoon berries | serviceberry | juneberry | june berry | shadbush
+Black raspberry | black raspberries | blackcap
+Golden raspberry | yellow raspberry | golden raspberries
+Arctic bramble | arctic raspberry
+Bramble | brambles fruit | blackberry bramble
+Muscadine | muscadines | muscadine grape | scuppernong
+Champagne grape | champagne grapes | zante currant | zante grape
+Cotton candy grape | cotton candy grapes
+Chardonnay | chardonnay grape
+Merlot | merlot grape
+Cabernet Sauvignon | cabernet | cabernet grape | cab sauv
+Pinot Noir | pinot noir grape | pinot
+Sauvignon Blanc | sauvignon blanc grape
+Concord grape
+Thompson seedless | thompson seedless grape | thompson grape
+Sultana | sultanas | golden raisin | golden raisins | golden raisen
+Dried apricot | dried apricots
+Dried fig | dried figs
+Dried date | dried dates
+Dried cranberry | dried cranberries | craisins | craisin
+Dried mango | dried mangos | dried mangoes
+Dried banana | dried bananas
+Dried cherry | dried cherries
+Dried plum | dried plums
+Dried apple | dried apples | apple chips
+Medjool date | medjool dates | medjools
+Deglet Noor date | deglet noor dates
+Mission fig | mission figs | black mission fig
+Brown Turkey fig | brown turkey
+Calimyrna fig | calimyrna | smyrna fig | smyrna figs
+Kadota fig | kadota
+Prickly pear fruit | prickly pears | cactus fruit | cactus fruits | nopal fruit | tuna fruit
+Passion fruit purple | purple passion fruit | granadilla | grenadilla | maracuja | maracuya | yellow passion fruit | giant granadilla
+Banana passion fruit | banana passionfruit fruit | curuba fruit
+Rose apple | rose apples | water apple | wax apple | jambu | java apple | wax jambu | makopa | chomphu
+Malay apple | malay apples | mountain apple | otaheite apple
+Jujube | jujubes | chinese date | red date | red dates | chinese red date | ziziphus | jujube fruit
+Indian jujube | ber | ber fruit | indian plum | ber plum
+Langsat | lanzones | lansium | longkong | duku
+Santol | sandoricum | cotton fruit | santol fruit
+Mamoncillo | genip | genips | quenepa | spanish lime | limoncillo | guinep | ackee guinep
+Pulasan | pulasan fruit
+Marang | marang fruit | terap | johey oak
+Cempedak | chempedak | champedak
+Noni | noni fruit | indian mulberry | great morinda | cheese fruit
+Bilimbi | bilimbi fruit | cucumber tree | tree sorrel | belimbing
+Sugar plum | sugarplum
+Wood apple | woodapple | elephant apple | bael | bael fruit | bel fruit | kaith
+Custard apple fruit | bullock's heart | bullocks heart | bullock heart | ox heart
+Atemoya | atemoyas | atemoya fruit
+Ilama | ilama fruit | annona diversifolia
+Sweetsop fruit | sharifa
+Cashew apple | cashew fruit | cashew apples | cajú | caju
+Mamey colorado | red mamey
+Canistel | eggfruit | egg fruit | yellow sapote | yellow sapote fruit
+White sapote | white sapote fruit | casimiroa | matasano
+Soursop fruit | guanabana fruit | soursop graviola
+Abiu | abiu fruit | caimito | star apple | star apples | cainito | caimito fruit
+Lucuma | lucumo | lúcuma | lucuma fruit
+Jocote | jocotes | hog plum | red mombin | purple mombin | ciruela | ciruela fruit | spanish plum
+Yellow plum | yellow mombin | ambarella | june plum | golden apple fruit
+Pitanga | surinam cherry | brazilian cherry | cayenne cherry | pitangas | eugenia
+Barbados cherry | acerola | acerola cherry | west indian cherry | acerolas
+Camu camu | camu-camu | camu berry
+Cupuacu | cupuaçu | cupuacu fruit
+Guarana | guaraná | guarana fruit | guarana berry
+Pequi | pequi fruit | souari nut
+Brazil cherry | grumichama | grumichama fruit
+Murta | uni | chilean guava | murtilla | ugni | strawberry myrtle
+Tumbo | tumbo fruit
+Naranjilla | lulo | lulo fruit | quito orange | naranjillas
+Pepino | pepino melon | pepino dulce | melon pear | sweet cucumber
+Cape gooseberry fruit | uchuva | uvilla | aguaymanto | poha berry
+Pomegranate seeds | pomegranate seed | pomegranate arils | arils
+Longan fruit | lungan | longyan | lengkeng | lamyai
+Ice cream bean | inga | guama | ice-cream bean | inga edulis
+Monstera | monstera fruit | monstera deliciosa | swiss cheese fruit | ceriman | delicious monster
+Jaboticaba fruit | brazilian grape
+Karonda | karonda fruit | carissa | natal plum | bengal currant
+Amla | amla fruit | indian gooseberry | emblica | amalaki | amlaki | nelli
+Phalsa | phalsa fruit | falsa | grewia asiatica
+Kokum | kokum fruit | garcinia indica | goa butter tree | bhirand
+Mahua | mahua fruit | madhuca | mohwa
+Jamun | jambul | java plum | black plum | jambolan | jambolan plum | jamun fruit | duhat | black jamun
+Tendu | tendu fruit | tendu | indian ebony fruit
+Chikoo fruit | sapota fruit | naseberry | nispero | níspero | sapodilla plum
+Bignay | bignay fruit | chinese laurel | salamander fruit
+Ataulfo mango | ataulfo | honey mango | champagne mango | manila mango | manila mangoes
+Kent mango | kent mangoes | tommy atkins | tommy atkins mango | haden mango | keitt mango | keitt | francis mango
+Green mango | green mangoes | raw mango | raw mangoes | unripe mango | mango green
+Lady finger banana | ladyfinger banana | lady finger bananas | sugar banana | finger banana | baby banana | baby bananas | apple banana | niño banana | nino banana
+Red banana | red bananas | red dacca banana | red dacca
+Cavendish banana | cavendish | cavendish bananas
+Gros Michel banana | gros michel | big mike | big mike banana
+Blue java banana | ice cream banana | blue java | hawaiian banana
+Pineapple guava | guavasteen
+Strawberry guava | strawberry guavas | cattley guava | cattley | chinese guava | purple guava
+Lemon guava | yellow strawberry guava
+Red guava | pink guava | pink guavas | red guavas
+White guava | white guavas
+Pickled plum | umeboshi plum | ume | japanese apricot | ume plum | chinese plum | mei
+Japanese quince | chaenomeles | flowering quince | maule's quince | japonica fruit
+Chinese quince | chinese quince fruit
+Maypop | maypops | passiflora incarnata | wild passion fruit
+Pawpaw tree | american pawpaw | indiana banana | hoosier banana | michigan banana | poor man's banana | poor mans banana | prairie banana
+American persimmon | american persimmons | common persimmon | wild persimmon
+Fuyu persimmon | fuyu | fuyu persimmons | fuyus
+Hachiya persimmon | hachiya | hachiya persimmons | hachiyas
+Sharon fruit persimmon | israeli persimmon
+Black persimmon | chocolate persimmon | black sapote persimmon
+Chinese gooseberry | yang tao | yangtao
+Golden kiwi | gold kiwi | golden kiwifruit | yellow kiwi | zespri gold | sungold | sun gold kiwi
+Kiwi berry | kiwiberry | kiwiberries | baby kiwi | cocktail kiwi | grape kiwi | hardy kiwi | arctic kiwi
+Rangpur | rangpur lime | lemandarin | rangpur lemon | mandarin lime
+Lemon Eureka | eureka lemon | lisbon lemon
+Finger lime | finger limes | caviar lime | australian finger lime | citrus caviar
+Sweet lime | sweet limes | mosambi | mosambi orange | sweet lemon | sweet lemons | mausambi
+Sweet orange | sweet oranges
+Seville orange | seville oranges | bitter orange | sour orange | bigarade | marmalade orange | bitter oranges
+Jaffa orange | jaffa oranges | jaffa | shamouti | shamouti orange
+Temple orange | temple oranges | royal mandarin
+Mikan | mikans | mikan orange | unshu mikan | unshu orange | japanese mandarin | mikan fruit | satsuma mikan
+Tangor | tangors | murcott | honey murcott | honey tangerine | ortanique | ortaniques | temple tangor
+Cutie | cuties | cuties orange | halo | halos | halo mandarin | cutie mandarin | easy peeler | easy peelers | easy peeler orange | easy-peeler
+Honeybell | honeybell orange | honeybell tangelo | honeybells
+Dancy tangerine | dancy | tangerines dancy
+Murcott tangerine | sunburst tangerine | sunburst
+Pixie tangerine | pixie | pixie mandarin
+Ponkan | ponkan mandarin | ponkan orange | chinese honey orange | ponkans
+Shiranui | sumo orange | sumo citrus | sumo mandarin | dekopon orange | hallabong orange | hallabong | shiranui orange
+Clementine mandarin | clementine oranges | clementine orange
+Tangelo orange | mineola | mineola tangelo | mineola orange | mineolas
+Chinotto | chinotto orange | myrtle-leaved orange | chinotto fruit
+Citron | citrons | etrog | etrogs | esrog | cedrat | buddha's hand | buddhas hand | buddha hand | fingered citron | citron fruit
+Shaddock | shaddocks | pomelo fruit | pomello | pommello | jabong | jabon | chinese grapefruit | pummelo fruit
+Kaffir lime | makrut | kaffir limes | makrut limes
+Yuzu lemon | yuja | yuja fruit | yuzu citrus
+Sudachi | sudachi lime | sudachi fruit
+Kabosu | kabosu citrus | kabosu fruit | kabosu lime
+Calamondin orange | calamondin fruit | musk lime | panama orange | philippine lime
+Kinnow | kinnow orange | kinnow mandarin | kinow
+Nagpur orange | nagpur mandarin | nagpur santra | santra
+Dalandan | dalanghita | dalandan orange | philippine orange
+Shatkora | satkara | shatkora fruit | hatkora | citrus macroptera
+Citrus medica | citrus medica fruit
+Lemonade fruit | lemonade berry | sugar bush fruit
+Bitter lemon | bitter lemons
+Eureka lemon fruit | eureka | lisbon
+Ponderosa lemon | ponderosa | american wonder lemon
+Variegated pink lemon | pink lemon | pink lemons | pink variegated lemon
+Sicilian lemon | sicilian lemons | amalfi lemon | amalfi lemons | femminello | sorrento lemon | sfusato | sfusato amalfitano | limone di sorrento
+Rough lemon | rough lemons | jambhiri | jatti khatti
+Persimmon fruit | persimmon fruits | kaki fruit
+Cherry laurel | cherry laurel fruit | prunus laurocerasus
+Choke cherry | chokecherry | chokecherries | choke cherries
+Pin cherry | pin cherries | fire cherry | wild red cherry
+Wild cherry | wild cherries | gean | mazzard | sweet cherry | sweet cherries | black cherry | black cherries | bird cherry | cherry tree fruit
+Beach plum | beach plums
+Chickasaw plum | wild plum | wild plums | american plum | american wild plum | sand plum
+Sand cherry | sand cherries | western sand cherry
+Nanking cherry | nanking cherries | bush cherry | manchu cherry | mongolian cherry | chinese bush cherry
+Apple pear
+Pear apple | pearapple
+Seckel pear | seckel | seckel pears | sugar pear
+Forelle pear | forelle | forelle pears
+Comice pear | comice pears | doyenne du comice
+Concorde pear fruit | concord pear
+Williams pear | williams pears | williams bon chretien | williams
+Red Anjou | red anjou pear | red d'anjou | red d'anjou pear
+Starkrimson pear | starkrimson | red pear
+Rocha pear | rocha | pera rocha
+Packham pear | packham | packham's triumph | packhams triumph | packhams
+Nashi fruit | japanese pear | chinese pear | oriental pear | korean pear | shinko pear | hosui pear | hosui | shinko | nijisseiki | 20th century pear | twentieth century pear | ya pear | snow pear | fragrant pear | korla pear | korla fragrant pear | shingo pear | shingo
+Mcintosh apple | mcintosh | macintosh | macintosh apple | mac apple
+Braeburn apple | braeburns | braeburn apples
+Jazz apple | jazz apples | jazz
+Envy apple | envy | envy apples
+Cosmic Crisp | cosmic crisp apple | cosmic crisp apples
+Ambrosia apple | ambrosia | ambrosia apples
+Empire apple | empire | empire apples
+Cortland apple | cortlands | cortland apples
+Jonagold apple | jonagolds | jonagold apples
+Jonathan apple | jonathans | jonathan apples
+Rome apple | rome | rome apples | rome beauty | rome beauty apple | red rome
+Winesap | winesap apple | winesap apples
+Pippin | pippin apple | pippins | newtown pippin
+Cox's Orange Pippin | cox's pippin | cox apple | cox's orange pippin apple | coxes
+Bramley | bramley apple | bramleys | bramley's seedling | bramley seedling | bramley apples | cooking apple | cooking apples | cooker | cookers | eating apple | eating apples | dessert apple | dessert apples
+Cripps Red | cripps red apple | sundowner | sundowner apple
+Pacific Rose | pacific rose apple | pacific rose apples
+Pink Pearl | pink pearl apple | pink pearl apples
+Opal apple | opal | opal apples | opals
+Kanzi apple | kanzi apples | kanzis
+Jonamac | jonamac apple
+Fuji apple
+Gravenstein apple | gravensteins | gravenstein apples
+Spartan apple | spartans | spartan apples
+Liberty apple | liberty | liberty apples
+Idared apple | idared apples | idareds
+Elstar apple | elstar apples | elstars
+Discovery apple | discovery apples | discoveries
+Egremont Russet | egremont | egremont russet apple | russet | russets | russet apple | russet apples | golden russet | golden russets | roxbury russet | roxbury | roxbury russets | russeted apples
+Lady apple | lady apples | api | api apple | api etoile | christmas apple | pomme d'api | pomme dapi | api apples
+Arkansas Black | arkansas black apple | arkansas blacks | black apple
+Stayman | stayman apple | stayman winesap | staymans | stayman apples
+Baldwin | baldwin apple | baldwins | baldwin apples | woodpecker apple
+Rhode Island Greening | rhode island greening apple | greening | greening apple | greenings | ri greening
+Wolf River | wolf river apple | wolf river apples
+Wealthy | wealthy apple | wealthy apples
+Macoun | macoun apple | macouns | macoun apples
+Paula Red | paula red apple | paula reds | paula red apples
+Zestar | zestar apple | zestars | zestar apples
+SweeTango | sweetango | sweetango apple | sweetango apples | sweet tango | sweet tango apple
+Pazazz | pazazz apple | pazazz apples
+Ruby Frost | ruby frost apple | ruby frost apples
+Autumn Crisp | autumn crisp apple | autumn crisp apples
+Evercrisp | evercrisp apple | evercrisp apples
+Crimson Crisp | crimson crisp apple | crimson crisp apples
+Snapdragon | snapdragon apple | snapdragon apples
+RubyFrost | rubyfrost | rubyfrost apple
+Lodi | lodi apple | lodi apples
+Yellow Transparent | yellow transparent apple | yellow transparent apples | transparent | transparent apple
+Smitten | smitten apple | smitten apples
+Mutsu apple | mutsu apples | crispin apple | crispin apples | crispin
+Honeygold | honeygold apple | honeygold apples
+Golden Supreme | golden supreme apple | golden supreme apples
+Red Rome Beauty | red rome beauty | red rome beauty apple
+Gold Rush | gold rush apple | gold rush apples | goldrush | goldrush apple
+Fiesta apple | fiesta | fiesta apples | red pippin
+Sweet Sixteen | sweet sixteen apple | sweet sixteen apples
+Pinova | pinova apple | pinova apples | pinata | pinata apple | pinata apples | sonata | sonata apple
+Rubinette | rubinette apple | rubinette apples
+Rubens | rubens apple | rubens apples
+Santana | santana apple | santana apples
+--- 5
+Rollinia | biriba | wild sweetsop
+Umbu | imbu | brazilian plum
+Wampee | wampi | huangpi
+Mayhaw | mayhaws
+Hawthorn berry | hawthorn berries | haw berries | hawthorn
+Rowan berry | rowan berries | rowanberry | rowan
+Rose hip | rose hips | rosehip | rosehips
+Barberry | barberries
+Tomatillo | tomatillos
+Jelly palm | pindo palm
+Peach palm | pejibaye
+Kei apple | kei apples
+Governor's plum | governors plum
+Ketembilla | ceylon gooseberry
+Otaheite gooseberry | star gooseberry
+Rambai | rambeh
+Quandong | quandongs | desert peach
+Davidson plum | davidsons plum
+Lilly pilly | riberry | riberries
+Muntries | muntry | emu apple
+Illawarra plum
+Kakadu plum | gubinge
+Bush tomato | desert raisin
+Bullace | bullaces
+Sea grape | sea grapes
+Hottentot fig | pigface
+Mamoncillo | quenepa | guinep
+Date plum | lotus persimmon

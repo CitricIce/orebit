@@ -162,6 +162,10 @@ BANNED = {
     "mexican-foods": re.compile(r"^(wrap|calavera|sugar skull)$", re.I),
     "american-foods": re.compile(r"^(mars|extra)$", re.I),
     "composers": re.compile(r"^(elton john)$", re.I),
+    "fruits": re.compile(
+        r"wikidata|^malus |^prunus |^citrus |^fruit of |'|^(walnut|almond|cashew|peanut|chestnut|hazelnut|pecan|pistachio|macadamia)$",
+        re.I,
+    ),
     "salads": re.compile(
         r"^(ajvar|relish|pickle relish|onion jam|fried cauliflower|rhyming recipe|baba ghanoush|vinegret)$", re.I
     ),
