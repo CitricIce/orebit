@@ -27,8 +27,8 @@ How answer lists are built:
 - Rarity comes from how often a name turns up in everyday text. Where that
   fails (people, brands, titles), place answers by judgment.
 - The Starcore is hand-picked for fun, not just rarity: the most satisfying
-  deep cut that at least a few players will actually find. Set it with the
-  `starcore:` line.
+  deep cut that a fair share of players (roughly 5 to 10 in a hundred) will
+  actually find. Set it in `data/starcores.json` or with the `starcore:` line.
 
 ## Open-ended categories
 

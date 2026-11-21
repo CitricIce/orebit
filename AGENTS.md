@@ -20,7 +20,7 @@ Build answer lists this way:
 combine several sources and clean them, rate rarity by how often a name
 turns up in everyday text, use judgment where that fails (people, brands,
 titles), and hand-pick each Starcore for fun: the most satisfying deep cut
-that at least a few players will actually find.
+that roughly 5 to 10 players in a hundred will actually find.
 
 Before expanding or adding any open-ended category (games, people, places,
 species, titles), give it a Wikidata source in `scripts/fetch_wikidata.py`
