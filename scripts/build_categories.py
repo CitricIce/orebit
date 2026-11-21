@@ -3,7 +3,7 @@
 
 Tiers come from the source files: answers are listed under "--- 1" to
 "--- 5" headings, sorted by how likely a player is to think of them (a
-manual pass, the way Krillion curates rarity). Categories without headings
+manual pass). Categories without headings
 fall back to automatic tiers: each answer gets a familiarity score from the
 `wordfreq` library, answers are ranked inside the category and split by
 percentile. One answer per category becomes the Starcore.

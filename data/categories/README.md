@@ -20,7 +20,7 @@ Stone tier has fewer than 5, the category is too hard. Drop it.
 
 ## Method
 
-We follow Krillion's published method (krillion.io/faq):
+How answer lists are built:
 
 - Answer lists combine several sources (hand-written lists, Wikidata, other
   references) that are merged and cleaned.
