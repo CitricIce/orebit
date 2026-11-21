@@ -26,6 +26,6 @@ export async function GET(_req: NextRequest, ctx: RouteContext<"/api/day/[date]"
     })),
   };
   return Response.json(body, {
-    headers: { "Cache-Control": "public, max-age=300, s-maxage=3600" },
+    headers: { "Cache-Control": "public, max-age=0, s-maxage=3600, must-revalidate" },
   });
 }
