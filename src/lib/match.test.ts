@@ -72,7 +72,7 @@ test("numbers, filler words and extra words are forgiven", () => {
   assert.equal(normalize("Henry IV, Part 1"), normalize("henry 4 part one"));
 });
 
-test("short words need to be exact, and ties are rejected", () => {
+test("short words need to be exact", () => {
   assert.equal(find("mal"), null);
   assert.equal(find("kali"), null);
   assert.equal(find("dog"), null);
@@ -174,8 +174,8 @@ test("a typo tied between two answers goes to the more common one", () => {
   ]);
   assert.equal(findAnswer(index, "mangp")?.name, "Mango");
   const even = buildIndex([
-    { name: "Mango", aliases: [], tier: 2 },
-    { name: "Manga", aliases: [], tier: 2 },
+    { name: "Mango", aliases: [], tier: 2, familiarity: 4.5 },
+    { name: "Manga", aliases: [], tier: 2, familiarity: 3.1 },
   ]);
-  assert.equal(findAnswer(even, "mangp"), null);
+  assert.equal(findAnswer(even, "mangp")?.name, "Mango");
 });

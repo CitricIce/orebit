@@ -84,6 +84,8 @@ export interface Matchable {
   aliases: string[];
   /** Rarity tier (1 = most common). Breaks typo ties toward the likelier answer. */
   tier?: number;
+  /** How often the name turns up in everyday text. The next tie-breaker. */
+  familiarity?: number;
 }
 
 export interface AnswerIndex<T extends Matchable> {
@@ -168,11 +170,16 @@ function closest<T extends Matchable>(index: AnswerIndex<T>, keys: string[]): T 
     }
   }
   if (winners.size <= 1) return winners.size ? [...winners][0] : null;
-  // A typo equally close to two answers most likely means the more common
-  // one ("mangp" is Mango, not an obscure fruit). Only a tie on that too is
-  // rejected.
-  const ranked = [...winners].sort((a, b) => (a.tier ?? 99) - (b.tier ?? 99));
-  return (ranked[0].tier ?? 99) < (ranked[1].tier ?? 99) ? ranked[0] : null;
+  // A typo equally close to several answers goes to the likeliest one: the
+  // more common tier, then the more familiar name, then the shorter name.
+  // A close typo always counts for something.
+  return [...winners].sort(
+    (a, b) =>
+      (a.tier ?? 99) - (b.tier ?? 99) ||
+      (b.familiarity ?? 0) - (a.familiarity ?? 0) ||
+      a.name.length - b.name.length ||
+      a.name.localeCompare(b.name),
+  )[0];
 }
 
 
