@@ -1,7 +1,7 @@
 "use client";
 
 import { addDays, localToday } from "../dates";
-import { ROUND_SECONDS, TIERS, type TierId } from "../tiers";
+import { bonusMs, ROUND_SECONDS, TIERS, type TierId } from "../tiers";
 
 export interface FoundOre {
   name: string;
@@ -124,7 +124,7 @@ const GRACE_MS = 3000;
 export function settleExpiredRound(record: DayRecord, titles: Record<string, string>, ids: string[]): DayRecord {
   const a = record.active;
   if (!a) return record;
-  if (Date.now() - a.startedAt < ROUND_SECONDS * 1000 + GRACE_MS) return record;
+  if (Date.now() - a.startedAt < ROUND_SECONDS * 1000 + bonusMs(a.found) + GRACE_MS) return record;
   const id = ids[a.index];
   const rounds = [...record.rounds];
   rounds[a.index] = { id, title: titles[id] ?? id, found: a.found, depth: depthOf(a.found) };

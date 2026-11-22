@@ -30,7 +30,7 @@ export default function DrillShaft({
 
   const sparks = useMemo(() => {
     if (!lastHit) return [];
-    const n = lastHit.tier >= 5 ? 18 : 10;
+    const n = lastHit.tier === 6 ? 32 : lastHit.tier >= 5 ? 18 : 10;
     return Array.from({ length: n }, (_, i) => {
       const a = (Math.PI * 2 * i) / n + ((lastHit.id * 37) % 10) / 10;
       const r = 40 + ((i * 53 + lastHit.id * 17) % 50);

@@ -46,7 +46,11 @@ const NOTES: Record<TierId, number[]> = {
 export const sfx = {
   hit(tier: TierId) {
     NOTES[tier].forEach((f, i) => tone(f, i * 0.06, 0.18 + (tier >= 5 ? 0.15 : 0), tier >= 4 ? "triangle" : "square", 0.06));
-    if (tier === 6) tone(80, 0, 0.6, "sine", 0.12, 40);
+    if (tier === 6) {
+      tone(80, 0, 0.6, "sine", 0.12, 40);
+      // A bright sparkle run after the chord.
+      [1568, 1760, 2093, 2349, 2637, 3136].forEach((f, i) => tone(f, 0.42 + i * 0.05, 0.22, "triangle", 0.035));
+    }
   },
   miss() {
     tone(140, 0, 0.12, "sawtooth", 0.04, 90);

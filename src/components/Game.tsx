@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import type { DayResponse, GuessResponse } from "@/lib/api-types";
 import { formatShortDate, LAUNCH_DATE, localToday } from "@/lib/dates";
-import { formatMeters, rankFor, ROUND_SECONDS, TIERS, type TierId } from "@/lib/tiers";
+import { bonusMs, formatMeters, rankFor, ROUND_SECONDS, TIERS, type TierId } from "@/lib/tiers";
 import {
   depthOf,
   loadDay,
@@ -48,6 +48,9 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   const [input, setInput] = useState("");
   const [feedback, setFeedback] = useState<Feedback | null>(null);
   const [lastHit, setLastHit] = useState<{ id: number; tier: TierId } | null>(null);
+  // "+3s" pop on the timer, and the big Starcore celebration.
+  const [timeBonus, setTimeBonus] = useState<{ id: number; secs: number } | null>(null);
+  const [starcoreHit, setStarcoreHit] = useState<{ id: number; name: string } | null>(null);
   const [revealIdx, setRevealIdx] = useState(0);
   const [arriving, setArriving] = useState(false);
   const [armed, setArmed] = useState(false);
@@ -162,6 +165,8 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       foundRef.current = [];
       seenRef.current = new Set();
       setFound([]);
+      setTimeBonus(null);
+      setStarcoreHit(null);
       setFeedback(null);
       setInput("");
       endingRef.current = false;
@@ -218,7 +223,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
     inputRef.current?.focus();
     let lastSecond = -1;
     const tick = () => {
-      const left = Math.max(0, startedAtRef.current + ROUND_MS - Date.now());
+      const left = Math.max(0, startedAtRef.current + ROUND_MS + bonusMs(foundRef.current) - Date.now());
       setTimeLeft(left);
       const sec = Math.ceil(left / 1000);
       if (sec !== lastSecond && sec <= 5 && sec > 0) sfx.tick(sec <= 3);
@@ -237,8 +242,10 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
     const guess = input.trim();
     if (!guess || phase !== "drilling") return;
     setInput("");
+    // Keep the keyboard up on phones: focus stays in the box after every guess.
+    inputRef.current?.focus();
     const submittedAt = Date.now();
-    if (submittedAt > startedAtRef.current + ROUND_MS) return;
+    if (submittedAt > startedAtRef.current + ROUND_MS + bonusMs(foundRef.current)) return;
 
     pendingRef.current++;
     try {
@@ -261,7 +268,9 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
         setLastHit({ id: ++feedbackId.current, tier: data.tier });
         const t = TIERS[data.tier];
         const corrected = normalize(guess) !== normalize(data.name) ? ` (${data.name})` : "";
-        say({ kind: "hit", tier: data.tier, text: `+${t.depth} m ${t.name}${corrected}` });
+        say({ kind: "hit", tier: data.tier, text: `+${t.depth} m ${t.name}${t.bonus ? ` · +${t.bonus}s` : ""}${corrected}` });
+        if (t.bonus) setTimeBonus({ id: feedbackId.current, secs: t.bonus });
+        if (data.tier === 6) setStarcoreHit({ id: feedbackId.current, name: data.name });
         sfx.hit(data.tier);
         const rec = recordRef.current!;
         if (rec.active) persist({ ...rec, active: { ...rec.active, found: foundRef.current } });
@@ -482,10 +491,18 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
 
     if ((p === "drilling" || p === "settling") && r) {
       const secs = Math.ceil(timeLeft / 1000);
-      const pct = timeLeft / ROUND_MS;
+      const pct = Math.min(1, timeLeft / ROUND_MS);
       return (
         <section className={s.play}>
           <DrillShaft depth={depth} drilling={p === "drilling"} lastHit={lastHit} heat={1 - pct} />
+          {starcoreHit && (
+            <div key={starcoreHit.id} className={s.starcoreBurst} role="status">
+              <span className={s.starcoreRing} aria-hidden="true" />
+              <span className={s.starcoreRing} aria-hidden="true" />
+              <span className={s.starcoreLabel}>Starcore!</span>
+              <span className={s.starcoreName}>{starcoreHit.name}</span>
+            </div>
+          )}
           <div className={s.console}>
             <header className={s.hud}>
               <div>
@@ -503,6 +520,11 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
             <div className={s.timer} data-urgent={secs <= 5} role="timer" aria-label={`${secs} seconds left`}>
               <div className={s.timerFill} style={{ transform: `scaleX(${pct})` }} />
               <span className={s.timerText}>{p === "settling" ? "Cooling down" : `${secs}s`}</span>
+              {timeBonus && p === "drilling" && (
+                <span key={timeBonus.id} className={s.timeBonus} aria-hidden="true">
+                  +{timeBonus.secs}s
+                </span>
+              )}
             </div>
 
             <form onSubmit={submit} className={s.inputRow}>
@@ -521,7 +543,13 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
                 maxLength={80}
                 disabled={p !== "drilling"}
               />
-              <button className={s.drillBtn} type="submit" disabled={p !== "drilling"}>
+              <button
+                className={s.drillBtn}
+                type="submit"
+                disabled={p !== "drilling"}
+                // Tapping the button would steal focus and close the phone keyboard.
+                onPointerDown={(e) => e.preventDefault()}
+              >
                 Drill
               </button>
             </form>

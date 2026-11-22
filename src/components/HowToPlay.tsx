@@ -30,7 +30,7 @@ const STEPS = [
   },
   {
     title: `${ROUND_SECONDS} seconds each`,
-    text: "Type an answer, press Enter, keep going.",
+    text: "Type an answer, press Enter, keep going. Gold, Crystal and Starcore finds add time.",
     icon: (
       <svg viewBox="0 0 40 40" aria-hidden="true">
         <circle cx="20" cy="22" r="13" fill="none" stroke="#ffb547" strokeWidth="3" />
@@ -142,7 +142,9 @@ export default function HowToPlay() {
       <div key={tier} className={s.tierCard} style={{ "--c": t.color } as React.CSSProperties} aria-live="polite">
         <div className={s.tierTop}>
           <span className={s.tierName}>{t.name}</span>
-          <span className={s.tierDepth}>+{t.depth} m</span>
+          <span className={s.tierDepth}>
+            +{t.depth} m{t.bonus ? ` · +${t.bonus}s` : ""}
+          </span>
         </div>
         <p className={s.tierBlurb}>{t.blurb}</p>
         <div className={s.meter}>

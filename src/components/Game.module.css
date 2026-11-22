@@ -1115,3 +1115,138 @@
     animation: none;
   }
 }
+
+/* "+3s" when a rare find adds time. */
+.timeBonus {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  translate: 0 -50%;
+  font-family: var(--mono);
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--t5);
+  text-shadow: 0 0 10px color-mix(in srgb, var(--t5) 70%, transparent);
+  animation: timeBonusPop 1.4s ease-out forwards;
+  pointer-events: none;
+}
+
+@keyframes timeBonusPop {
+  0% {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  15% {
+    opacity: 1;
+    transform: scale(1.25);
+  }
+  30% {
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+}
+
+/* Starcore celebration: a pink flash with rings and the answer's name. */
+.starcoreBurst {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 4px;
+  pointer-events: none;
+  background: radial-gradient(circle at 50% 45%, color-mix(in srgb, var(--t6) 38%, transparent), transparent 60%);
+  animation: starcoreFade 2.4s ease-out forwards;
+}
+
+.starcoreRing {
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  width: 120px;
+  height: 120px;
+  margin: -60px 0 0 -60px;
+  border-radius: 50%;
+  border: 3px solid var(--t6);
+  box-shadow: 0 0 30px var(--t6);
+  animation: starcoreRing 1.6s ease-out forwards;
+}
+
+.starcoreRing + .starcoreRing {
+  animation-delay: 0.25s;
+}
+
+.starcoreLabel {
+  font-size: clamp(40px, 9vw, 84px);
+  font-weight: 750;
+  letter-spacing: -0.02em;
+  color: #fff;
+  text-shadow: 0 0 24px var(--t6), 0 0 60px var(--t6);
+  animation: starcorePop 2.4s ease-out forwards;
+}
+
+.starcoreName {
+  font-family: var(--mono);
+  font-size: clamp(15px, 2.6vw, 20px);
+  color: #ffd6f4;
+  text-shadow: 0 0 12px var(--t6);
+  animation: starcorePop 2.4s ease-out 0.1s both;
+}
+
+@keyframes starcoreFade {
+  0%,
+  70% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes starcoreRing {
+  0% {
+    opacity: 1;
+    transform: scale(0.2);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(5);
+  }
+}
+
+@keyframes starcorePop {
+  0% {
+    opacity: 0;
+    transform: scale(0.4);
+  }
+  14% {
+    opacity: 1;
+    transform: scale(1.12);
+  }
+  24% {
+    transform: scale(1);
+  }
+  75% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.04);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .timeBonus,
+  .starcoreRing {
+    animation: none;
+    opacity: 0;
+  }
+  .starcoreLabel,
+  .starcoreName {
+    animation: starcoreFade 2.4s linear forwards;
+  }
+}
