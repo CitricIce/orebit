@@ -214,6 +214,8 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
     // Only the player's own finds show between rounds. The full answer lists
     // stay hidden until the mission report.
     setRevealIdx(roundIdx);
+    setStarcoreHit(null);
+    setTimeBonus(null);
     setPhase("reveal");
   }, [day, roundIdx, persist]);
 
@@ -495,7 +497,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       return (
         <section className={s.play}>
           <DrillShaft depth={depth} drilling={p === "drilling"} lastHit={lastHit} heat={1 - pct} />
-          {starcoreHit && (
+          {starcoreHit && p === phase && phase === "drilling" && (
             <div key={starcoreHit.id} className={s.starcoreBurst} role="status">
               <span className={s.starcoreRing} aria-hidden="true" />
               <span className={s.starcoreRing} aria-hidden="true" />
