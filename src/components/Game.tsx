@@ -61,6 +61,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   const recordRef = useRef<DayRecord | null>(null);
   const foundRef = useRef<FoundOre[]>([]);
   const startedAtRef = useRef(0);
+  const peakLeftRef = useRef(0);
   const pendingRef = useRef(0);
   const seenRef = useRef(new Set<string>());
   const feedbackId = useRef(0);
@@ -186,6 +187,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   const beginDrilling = useCallback(() => {
     const now = Date.now();
       startedAtRef.current = now;
+      peakLeftRef.current = ROUND_MS;
       foundRef.current = [];
       seenRef.current = new Set();
       setFound([]);
@@ -226,7 +228,13 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
     const rec = recordRef.current!;
     const r = day.rounds[roundIdx];
     const rounds = [...rec.rounds];
-    rounds[roundIdx] = { id: r.id, title: r.title, found: foundRef.current, depth: depthOf(foundRef.current) };
+    rounds[roundIdx] = {
+      id: r.id,
+      title: r.title,
+      found: foundRef.current,
+      depth: depthOf(foundRef.current),
+      peakSecs: Math.floor(peakLeftRef.current / 1000),
+    };
     const isLast = roundIdx === day.rounds.length - 1;
     if (isLast) {
       alldle.complete(mode, day.number);
@@ -303,7 +311,11 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
         const t = TIERS[data.tier];
         const corrected = normalize(guess) !== normalize(data.name) ? ` (${data.name})` : "";
         say({ kind: "hit", tier: data.tier, text: `+${t.depth} m ${t.name}${t.bonus ? ` · +${t.bonus}s` : ""}${corrected}` });
-        if (t.bonus) setTimeBonus({ id: feedbackId.current, secs: t.bonus });
+        if (t.bonus) {
+          setTimeBonus({ id: feedbackId.current, secs: t.bonus });
+          const left = startedAtRef.current + ROUND_MS + bonusMs(foundRef.current) - Date.now();
+          peakLeftRef.current = Math.max(peakLeftRef.current, left);
+        }
         if (data.tier === 6) setStarcoreHit({ id: feedbackId.current, name: data.name });
         sfx.hit(data.tier);
         const rec = recordRef.current!;

@@ -10,6 +10,7 @@ interface Found {
 interface Round {
   found: Found[];
   depth: number;
+  peakSecs?: number;
 }
 export interface PlayedDay {
   date: string;
@@ -42,6 +43,7 @@ export interface Facts {
   noStoneRounds: number;
   shares: number;
   midnightFinishes: number;
+  bestPeakSecs: number;
 }
 
 const roundDepth = (r: Round) => r.found.reduce((sum, o) => sum + TIERS[o.tier].depth, 0);
@@ -63,6 +65,7 @@ export function factsFrom(days: PlayedDay[], shares = 0): Facts {
     noStoneRounds: 0,
     shares,
     midnightFinishes: 0,
+    bestPeakSecs: 0,
   };
   for (const d of done) {
     // Finished the new daily by 12:05:59 AM, right after it unlocks at midnight.
@@ -75,6 +78,7 @@ export function factsFrom(days: PlayedDay[], shares = 0): Facts {
     let starcores = 0;
     rounds.forEach((r) => {
       f.mostInRound = Math.max(f.mostInRound, r.found.length);
+      f.bestPeakSecs = Math.max(f.bestPeakSecs, r.peakSecs ?? 0);
       f.totalOres += r.found.length;
       const tiers = new Set(r.found.map((o) => o.tier));
       if ([1, 2, 3, 4, 5].every((t) => tiers.has(t as TierId))) f.fullSpectrumRounds++;
@@ -128,6 +132,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   a("ores-500", "Ore Baron", "Mine 500 ores in total.", 500, (f) => f.totalOres),
   a("ores-2000", "Mining Magnate", "Mine 2,000 ores in total.", 2000, (f) => f.totalOres),
   a("archive-5", "Time Traveler", "Finish 5 surveys from the archive.", 5, (f) => f.archiveSurveys),
+  a("overtime", "Overtime", "Get the clock up to a full minute with time bonuses.", 60, (f) => f.bestPeakSecs),
   a("midnight", "Night Shift", "Finish the daily by 12:05 AM, right after it unlocks at midnight.", 1, (f) => f.midnightFinishes),
   a("share-1", "Show and Tell", "Share your result.", 1, (f) => f.shares),
   a("share-10", "Mission Control", "Share your result on 10 different days.", 10, (f) => f.shares),

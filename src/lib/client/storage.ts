@@ -13,6 +13,8 @@ export interface RoundResult {
   title: string;
   found: FoundOre[];
   depth: number;
+  /** Most seconds left on the clock at any point (bonuses can push it past 45). */
+  peakSecs?: number;
 }
 
 export interface ActiveRound {

@@ -32,6 +32,10 @@ test("achievements unlock from saved runs", () => {
     ]).midnightFinishes,
     2,
   );
+  assert.equal(
+    factsFrom([{ date: "2026-11-28", playedOn: "2026-11-28", completed: true, rounds: [{ found: [], depth: 0, peakSecs: 61 }] }]).bestPeakSecs,
+    61,
+  );
   const unlocked = new Set(achievementStates(days).filter((a) => a.unlocked).map((a) => a.achievement.id));
   for (const id of ["first-survey", "streak-3", "starcore-1", "starcore-double", "full-spectrum", "round-20", "empty-shaft", "no-stone"]) {
     assert.ok(unlocked.has(id), `${id} should be unlocked`);
