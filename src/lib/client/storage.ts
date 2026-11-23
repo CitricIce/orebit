@@ -34,6 +34,7 @@ export interface DayRecord {
 const DAYS_KEY = "orebit:v8:days";
 const SOUND_KEY = "orebit:v1:sound";
 const ACHIEVEMENTS_KEY = "orebit:v1:achievements-seen";
+const SHARES_KEY = "orebit:v1:shares";
 
 function read<T>(key: string, fallback: T): T {
   try {
@@ -137,6 +138,17 @@ export function totalDepth(record: DayRecord): number {
 
 export function soundEnabled(): boolean {
   return read<boolean>(SOUND_KEY, true);
+}
+
+/** How many times the player has shared a result card. */
+export function shareCount(): number {
+  return read<number>(SHARES_KEY, 0);
+}
+
+export function recordShare(): number {
+  const n = shareCount() + 1;
+  write(SHARES_KEY, n);
+  return n;
 }
 
 /** Achievements the player has already been told about. */

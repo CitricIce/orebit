@@ -6,7 +6,7 @@ import type { DayResponse, RevealResponse } from "@/lib/api-types";
 import { formatLongDate } from "@/lib/dates";
 import { formatMeters, ores, rankFor, RANKS, TIERS, type TierId } from "@/lib/tiers";
 import { achievementStates } from "@/lib/achievements";
-import { computeStats, markAchievementsSeen, seenAchievements, totalDepth, type DayRecord } from "@/lib/client/storage";
+import { computeStats, markAchievementsSeen, recordShare, seenAchievements, shareCount, totalDepth, type DayRecord } from "@/lib/client/storage";
 import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
 import { shareImage } from "@/lib/client/share";
@@ -46,9 +46,15 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
   // Achievements unlocked since the player last saw this screen. The "seen"
   // list is read once, so the banner stays up after they're marked seen.
   const seenAtOpen = useMemo(() => (mounted ? seenAchievements() : null), [mounted]);
+  // Bumped after each share so share achievements unlock right away.
+  const [shares, setShares] = useState<number | null>(null);
+  const shareTotal = shares ?? (mounted ? shareCount() : 0);
   const newAchievements = useMemo(
-    () => (seenAtOpen ? achievementStates(Object.values(days)).filter((a) => a.unlocked && !seenAtOpen.has(a.achievement.id)) : []),
-    [seenAtOpen, days],
+    () =>
+      seenAtOpen
+        ? achievementStates(Object.values(days), shareTotal).filter((a) => a.unlocked && !seenAtOpen.has(a.achievement.id))
+        : [],
+    [seenAtOpen, days, shareTotal],
   );
   useEffect(() => {
     if (newAchievements.length) markAchievementsSeen(newAchievements.map((a) => a.achievement.id));
@@ -100,6 +106,7 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
     try {
       if (navigator.canShare?.({ files: [file] })) {
         await navigator.share({ files: [file], text: `Orebit #${day.number} · ${data.url}` });
+        setShares(recordShare());
         return;
       }
     } catch (err) {
@@ -113,6 +120,7 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
     a.click();
     setTimeout(() => URL.revokeObjectURL(url), 1000);
     flash("Card saved");
+    setShares(recordShare());
   };
 
   const allFound = record.rounds.flatMap((r) => r?.found ?? []);

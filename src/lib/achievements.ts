@@ -39,11 +39,12 @@ export interface Facts {
   fullSpectrumRounds: number;
   emptyRounds: number;
   noStoneRounds: number;
+  shares: number;
 }
 
 const roundDepth = (r: Round) => r.found.reduce((sum, o) => sum + TIERS[o.tier].depth, 0);
 
-export function factsFrom(days: PlayedDay[]): Facts {
+export function factsFrom(days: PlayedDay[], shares = 0): Facts {
   const done = days.filter((d) => d.completed);
   const tier: Record<TierId, number> = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0 };
   const f: Facts = {
@@ -58,6 +59,7 @@ export function factsFrom(days: PlayedDay[]): Facts {
     fullSpectrumRounds: 0,
     emptyRounds: 0,
     noStoneRounds: 0,
+    shares,
   };
   for (const d of done) {
     const rounds = d.rounds.filter((r): r is Round => Boolean(r));
@@ -118,6 +120,8 @@ export const ACHIEVEMENTS: Achievement[] = [
   a("ores-500", "Ore Baron", "Mine 500 ores in total.", 500, (f) => f.totalOres),
   a("ores-2000", "Mining Magnate", "Mine 2,000 ores in total.", 2000, (f) => f.totalOres),
   a("archive-5", "Time Traveler", "Finish 5 surveys from the archive.", 5, (f) => f.archiveSurveys),
+  a("share-1", "Show and Tell", "Share your result.", 1, (f) => f.shares),
+  a("share-10", "Mission Control", "Share your result 10 times.", 10, (f) => f.shares),
 ];
 
 export interface AchievementState {
@@ -126,8 +130,8 @@ export interface AchievementState {
   unlocked: boolean;
 }
 
-export function achievementStates(days: PlayedDay[]): AchievementState[] {
-  const facts = factsFrom(days);
+export function achievementStates(days: PlayedDay[], shares = 0): AchievementState[] {
+  const facts = factsFrom(days, shares);
   return ACHIEVEMENTS.map((achievement) => {
     const value = Math.min(achievement.goal, achievement.progress(facts));
     return { achievement, value, unlocked: value >= achievement.goal };

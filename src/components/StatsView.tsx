@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useMemo } from "react";
 import { achievementStates } from "@/lib/achievements";
-import { computeStats } from "@/lib/client/storage";
+import { computeStats, shareCount } from "@/lib/client/storage";
 import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
 import { formatShortDate } from "@/lib/dates";
@@ -14,7 +14,7 @@ export default function StatsView() {
   const mounted = useMounted();
   const days = useDays();
   const stats = useMemo(() => (mounted ? computeStats(days) : null), [mounted, days]);
-  const achievements = useMemo(() => achievementStates(Object.values(days)), [days]);
+  const achievements = useMemo(() => achievementStates(Object.values(days), mounted ? shareCount() : 0), [days, mounted]);
   if (!stats) return null;
 
   if (stats.played === 0) {
