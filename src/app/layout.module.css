@@ -19,6 +19,16 @@
   }
 }
 
+.footerRight {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.footerRight img {
+  display: block;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .main > * {
     animation: none;
@@ -34,6 +44,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  align-items: center;
   gap: 8px;
   font-size: 13px;
   color: var(--faint);

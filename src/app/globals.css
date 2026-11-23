@@ -89,7 +89,7 @@ button {
 }
 
 /* The game screens fill the window, so the footer is left off there. */
-body:has([data-game]) > footer {
+body:has(main [data-game]) > footer {
   display: none;
 }
 
