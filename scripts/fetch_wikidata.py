@@ -82,7 +82,7 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
         ("?item wdt:P31/wdt:P279* wd:Q178885 .", 12),
     ],
     # Anyone who held an emperor's title (Roman, Chinese, Mughal, Russian...).
-    "emperors": [("?item wdt:P31 wd:Q5 ; wdt:P39/wdt:P279* wd:Q39018 .", 12)],
+    "emperors": [("?item wdt:P31 wd:Q5 ; wdt:P39/wdt:P279* wd:Q39018 .", 6)],
     "mexican-foods": [(dishes_from("Q96", "Q207965"), 2)],
     "candy": [(tree("Q185583"), 3), (tree("Q1361086"), 2)],
     "solar-system": [
@@ -107,21 +107,21 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     ],
     # Added for the second wave of categories.
     "desserts": [(tree("Q182940"), 3)],
-    "fruits": [(tree("Q3314483"), 8)],
-    "vegetables": [(tree("Q11004"), 5)],
+    "fruits": [(tree("Q3314483"), 4)],
+    "vegetables": [(tree("Q11004"), 3)],
     "cookies": [(tree("Q13266"), 2)],
     "salads": [(tree("Q9266"), 2)],
-    "spirits": [(tree("Q154"), 8)],
+    "spirits": [(tree("Q154"), 4)],
     "mythical-creatures": [(tree("Q2239243"), 8)],
-    "holidays": [(tree("Q1445650"), 20)],
+    "holidays": [(tree("Q1445650"), 10)],
     "cartoon-characters": [(inst("Q15711870"), 4)],
     "video-games": [(inst("Q7889"), 8)],
-    "game-consoles": [(tree("Q8076"), 10)],
+    "game-consoles": [(tree("Q8076"), 5)],
     "movie-franchises": [(inst("Q24856"), 6)],
     "disney-pixar-movies": [
         ("?item wdt:P31 wd:Q11424 ; wdt:P272 ?studio . VALUES ?studio { wd:Q191224 wd:Q127552 }", 5)
     ],
-    "instruments": [(tree("Q34379"), 15)],
+    "instruments": [(tree("Q34379"), 8)],
     "singers": [(people("Q177220") + " FILTER EXISTS { { ?item wdt:P264 ?label } UNION { ?song wdt:P175 ?item } }", 20)],
     # Split by birth era: one query over every actor times out.
     "actors": [
@@ -148,7 +148,7 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "lakes": [(inst("Q23397"), 8)],
     "rivers": [(inst("Q4022"), 10)],
     "mountains": [(inst("Q8502"), 8)],
-    "currencies": [(inst("Q8142"), 10)],
+    "currencies": [(inst("Q8142"), 5)],
     "fast-food": [(tree("Q1751429"), 5)],
     "italian-foods": [(dishes_from("Q38", "Q192786"), 3)],
     "chinese-foods": [(dishes_from("Q148", "Q27477249"), 3)],
@@ -165,29 +165,38 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     # Famous people who died before 1960, one occupation at a time (a single
     # query over every person times out).
     "historical-figures": [
-        (people("Q116") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # monarch
-        (people("Q82955") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # politician
-        (people("Q189290") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # military officer
-        (people("Q11900058") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # explorer
-        (people("Q901") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # scientist
-        (people("Q4964182") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # philosopher
-        (people("Q36180") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # writer
-        (people("Q1423891") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # religious leader
-        (people("Q205375") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # inventor
-        (people("Q3242115") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 80),  # revolutionary
+        (people("Q116") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # monarch
+        (people("Q82955") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # politician
+        (people("Q189290") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # military officer
+        (people("Q11900058") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # explorer
+        (people("Q901") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # scientist
+        (people("Q4964182") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # philosopher
+        (people("Q36180") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # writer
+        (people("Q1423891") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # religious leader
+        (people("Q205375") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # inventor
+        (people("Q3242115") + " ?item wdt:P570 ?died . FILTER(YEAR(?died) < 1960)", 40),  # revolutionary
     ],
-    "languages": [(inst("Q1288568"), 25)],
+    "languages": [(inst("Q1288568"), 12)],
     "sandwiches": [(tree("Q28803"), 3)],
     "soups": [(tree("Q41415"), 3)],
     "landmarks": [
         ("?item wdt:P1435 wd:Q9259 .", 20),  # UNESCO World Heritage Sites
         (inst("Q570116"), 20),  # tourist attractions
     ],
-    "sports": [(inst("Q31629"), 25)],  # types of sport (not events)
+    "sports": [(inst("Q31629"), 12)],  # types of sport (not events)
     "birds": [(taxa("Q5113"), 15)],
     "boys-names": [(inst("Q12308941"), 15)],
     "girls-names": [(inst("Q11879590"), 15)],
     "tv-shows": [(inst("Q5398426"), 15), (inst("Q581714"), 12)],
+    "apps-websites": [(inst("Q35127"), 30), (inst("Q620615"), 10), (inst("Q3220391"), 5)],
+    "stores-shops": [(inst("Q507619"), 6), (inst("Q18043413"), 5), (inst("Q2549179"), 5)],
+    # Insect families, genera and species with a common name, a few levels
+    # under Insecta (an unbounded taxon walk times out).
+    "insects": [(
+        "?item wdt:P171/wdt:P171?/wdt:P171?/wdt:P171?/wdt:P171?/wdt:P171? wd:Q1390 ;"
+        " wdt:P105 ?rank . VALUES ?rank { wd:Q7432 wd:Q34740 wd:Q35409 wd:Q36602 }",
+        30,
+    )],
     "christmas-movies": [("?item wdt:P136 wd:Q28026639 .", 3)],
     "christmas-songs": [("?item wdt:P136 wd:Q1443316 ; wdt:P31/wdt:P279* wd:Q7366 .", 3)],
 }

@@ -150,6 +150,8 @@ def phrase_score(text: str) -> float:
 
 WIKIDATA_DIR = ROOT / "data" / "wikidata"
 PEOPLE = {"painters", "composers"}
+# People categories where Wikidata's occupation labels are loose.
+LOOSE_OCCUPATIONS = PEOPLE | {"actors", "actresses", "singers", "athletes", "historical-figures", "bands"}
 # Official labels that nobody types.
 ORIGIN_LABELS = re.compile(r"\s+\b(PDO|PGI|PAT|DOP|IGP|TSG|AOC|AOP|DOC|DOCG|DO|STG)\b\.?$")
 # Entries that slip into a class but aren't what the category means.
@@ -171,6 +173,15 @@ BANNED = {
     "indian-foods": re.compile(r"^(fish and chips|fish sauce)$", re.I),
     "movie-franchises": re.compile(r"\d{4}$|^(the philosophers|arya|svaty)$", re.I),
     "european-cities": re.compile(r"\bdistrict$", re.I),
+    "actors": re.compile(
+        r"^(donald trump|rabindranath tagore|salvador dal[ií]|walt disney|benito mussolini|alfred hitchcock|john lennon|pel[eé]"
+        r"|bob dylan|louis armstrong|diego maradona|eminem|steven spielberg|ingmar bergman|bertolt brecht|jim morrison"
+        r"|sergei eisenstein|stephen king|justin trudeau|david beckham|richard dawkins|george lucas|valery leontiev"
+        r"|vladimir mayakovsky|jean cocteau|james cameron|zlatan ibrahimovi[cć]|johnny cash|fernando alonso|wole soyinka"
+        r"|martin scorsese|prince|yukio mishima|mike tyson|roman polanski|frank zappa|dario fo|david lynch|charles bukowski"
+        r"|steve wozniak|francis ford coppola|peter jackson|george harrison|seamus heaney)$",
+        re.I,
+    ),
     "car-brands": re.compile(r"^(stellantis\b.*|groupe psa|elbo|.*\bgroup)$", re.I),
     "sports": re.compile(r"^(battle rap|e-?sports? video game)$", re.I),
     "video-games": re.compile(r"\b(dlc|expansion pack|soundtrack|demo|beta|season pass|bundle|collection)\b", re.I),
@@ -193,7 +204,7 @@ CORPORATE = re.compile(
     r"|corporation|company|automobiles?|north america|industrial|professional|sport|cars?|inc\.?)$",
     re.I,
 )
-CORPORATE_CATS = {"car-brands", "tech-companies", "fashion-brands", "fast-food"}
+CORPORATE_CATS = {"car-brands", "tech-companies", "fashion-brands", "fast-food", "stores-shops", "apps-websites"}
 # Categories whose Wikidata query is the rule: hand answers must match it.
 # The set lists hand answers to keep anyway (Wikidata misses them).
 WIKIDATA_ONLY: dict[str, set[str]] = {
@@ -484,6 +495,10 @@ def build_category(raw: dict) -> dict:
         bounds.append(acc)
     for i, row in enumerate(rest):
         tiers[id(row)] = next((t for t, b in enumerate(bounds, 2) if i < b), 5)
+        # For people, Wikidata's occupation labels are loose (a cameo makes
+        # you an "actor"), so names only Wikidata knows stay in Crystal.
+        if cid in LOOSE_OCCUPATIONS and row.get("wd_only"):
+            tiers[id(row)] = 5
 
     starcore_name = STARCORES.get(cid) or raw["meta"].get("starcore")
     if starcore_name:
