@@ -37,6 +37,7 @@ const DAYS_KEY = "orebit:v8:days";
 const SOUND_KEY = "orebit:v1:sound";
 const ACHIEVEMENTS_KEY = "orebit:v1:achievements-seen";
 const SHARES_KEY = "orebit:v1:shares";
+const SHARE_DAYS_KEY = "orebit:v1:share-days";
 
 function read<T>(key: string, fallback: T): T {
   try {
@@ -143,14 +144,24 @@ export function soundEnabled(): boolean {
 }
 
 /** How many times the player has shared a result card. */
+/** Local dates on which the player shared a result. */
+function shareDays(): string[] {
+  const days = read<string[]>(SHARE_DAYS_KEY, []);
+  // Shares saved before dates were tracked count as one day.
+  if (!days.length && read<number>(SHARES_KEY, 0) > 0) return ["earlier"];
+  return days;
+}
+
+/** How many different days the player has shared a result on. */
 export function shareCount(): number {
-  return read<number>(SHARES_KEY, 0);
+  return shareDays().length;
 }
 
 export function recordShare(): number {
-  const n = shareCount() + 1;
-  write(SHARES_KEY, n);
-  return n;
+  const days = new Set(shareDays());
+  days.add(localToday());
+  write(SHARE_DAYS_KEY, [...days]);
+  return days.size;
 }
 
 /** Achievements the player has already been told about. */

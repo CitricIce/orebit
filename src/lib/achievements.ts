@@ -130,7 +130,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   a("archive-5", "Time Traveler", "Finish 5 surveys from the archive.", 5, (f) => f.archiveSurveys),
   a("midnight", "Night Shift", "Finish the daily by 12:05 AM, right after it unlocks at midnight.", 1, (f) => f.midnightFinishes),
   a("share-1", "Show and Tell", "Share your result.", 1, (f) => f.shares),
-  a("share-10", "Mission Control", "Share your result 10 times.", 10, (f) => f.shares),
+  a("share-10", "Mission Control", "Share your result on 10 different days.", 10, (f) => f.shares),
 ];
 
 export interface AchievementState {
