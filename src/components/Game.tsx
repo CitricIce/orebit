@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import type { DayResponse, GuessResponse } from "@/lib/api-types";
 import { formatShortDate, LAUNCH_DATE, localToday } from "@/lib/dates";
+import { alldle } from "@/lib/client/alldle";
 import { bonusMs, formatMeters, rankFor, ROUND_SECONDS, TIERS, type TierId } from "@/lib/tiers";
 import {
   depthOf,
@@ -143,6 +144,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   useEffect(() => () => primerRef.current?.remove(), []);
 
   const liftOff = () => {
+    alldle.start(mode);
     setArmed(false);
     setPhase("launch");
     sfx.launch();
@@ -226,6 +228,11 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
     const rounds = [...rec.rounds];
     rounds[roundIdx] = { id: r.id, title: r.title, found: foundRef.current, depth: depthOf(foundRef.current) };
     const isLast = roundIdx === day.rounds.length - 1;
+    if (isLast) {
+      alldle.complete(mode, day.number);
+      const total = rounds.reduce((sum, x) => sum + (x?.depth ?? 0), 0);
+      alldle.track("survey_finished", { mode, depth: total, rank: rankFor(total).title });
+    }
     persist({
       ...rec,
       rounds,
@@ -239,7 +246,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
     setStarcoreHit(null);
     setTimeBonus(null);
     setPhase("reveal");
-  }, [day, roundIdx, persist]);
+  }, [day, roundIdx, persist, mode]);
 
   // Round clock.
   useEffect(() => {
@@ -411,7 +418,10 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
                 aria-expanded={howOpen}
                 aria-controls="how-to-play"
                 onClick={() => {
-                  if (!howOpen) setHowOpens((n) => n + 1);
+                  if (!howOpen) {
+                    setHowOpens((n) => n + 1);
+                    alldle.track("rules_opened");
+                  }
                   setHowOpen(!howOpen);
                 }}
               >

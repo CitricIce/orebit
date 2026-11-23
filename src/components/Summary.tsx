@@ -9,6 +9,7 @@ import { achievementStates } from "@/lib/achievements";
 import { computeStats, markAchievementsSeen, recordShare, seenAchievements, shareCount, totalDepth, type DayRecord } from "@/lib/client/storage";
 import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
+import { alldle } from "@/lib/client/alldle";
 import { shareImage } from "@/lib/client/share";
 import AchievementToasts from "./AchievementToasts";
 import RevealList from "./RevealList";
@@ -107,6 +108,7 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
       if (navigator.canShare?.({ files: [file] })) {
         await navigator.share({ files: [file], text: `Orebit #${day.number} · ${data.url}` });
         setShares(recordShare());
+        alldle.track("result_shared", { how: "share_sheet" });
         return;
       }
     } catch (err) {
@@ -121,6 +123,7 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
     setTimeout(() => URL.revokeObjectURL(url), 1000);
     flash("Card saved");
     setShares(recordShare());
+    alldle.track("result_shared", { how: "download" });
   };
 
   const allFound = record.rounds.flatMap((r) => r?.found ?? []);

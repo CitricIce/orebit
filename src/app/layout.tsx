@@ -1,5 +1,6 @@
 import { Suspense } from "react";
 import type { Metadata, Viewport } from "next";
+import Script from "next/script";
 import "@fontsource-variable/space-grotesk";
 import "@fontsource-variable/jetbrains-mono";
 import "./globals.css";
@@ -42,6 +43,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <span>Orebit</span>
           <span>New asteroids every day at local midnight.</span>
         </footer>
+        {/* Alldle SDK, pinned so an update on their side can't break the game. */}
+        <Script src="https://www.alldle.net/sdk/0.3.6/sdk.js" data-game="orebit" strategy="afterInteractive" />
       </body>
     </html>
   );
