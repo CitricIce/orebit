@@ -715,11 +715,27 @@
   text-underline-offset: 3px;
 }
 
+.answersHead {
+  margin-top: 36px;
+}
+
+.answersTitle {
+  margin: 0;
+  font-size: 22px;
+  letter-spacing: -0.01em;
+}
+
+.answersHint {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
 .tabs {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 8px;
-  margin-top: 32px;
+  margin-top: 14px;
 }
 
 .tab {
@@ -735,9 +751,74 @@
   cursor: pointer;
 }
 
+.tab:hover {
+  border-color: var(--line-strong);
+  background: var(--panel-hover);
+}
+
 .tab[aria-selected="true"] {
   border-color: var(--accent);
-  background: rgb(255 181 71 / 0.08);
+  background: rgb(255 181 71 / 0.12);
+  box-shadow: 0 0 0 1px var(--accent) inset;
+}
+
+.tabNum {
+  display: inline-grid;
+  place-items: center;
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border-radius: 50%;
+  font-family: var(--mono);
+  font-size: 11px;
+  vertical-align: 2px;
+  color: var(--muted);
+  border: 1px solid var(--line-strong);
+}
+
+.tab[aria-selected="true"] .tabNum {
+  color: #1d1006;
+  border-color: transparent;
+  background: var(--accent);
+}
+
+.tabPager {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.pagerBtn {
+  max-width: 42%;
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--ink);
+  font: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+
+.pagerBtn:hover:not(:disabled) {
+  border-color: var(--accent);
+}
+
+.pagerBtn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.pagerPos {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--muted);
 }
 
 .tabTitle {

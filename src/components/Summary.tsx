@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type { DayResponse, RevealResponse } from "@/lib/api-types";
 import { formatLongDate } from "@/lib/dates";
 import { formatMeters, ores, rankFor, RANKS, TIERS, type TierId } from "@/lib/tiers";
@@ -55,6 +55,12 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
   }, [newAchievements]);
   const [copied, setCopied] = useState<string | null>(null);
   const [tab, setTab] = useState(0);
+  const answersRef = useRef<HTMLDivElement>(null);
+  // From the pager at the bottom, jump back up to the newly chosen list.
+  const pageTo = (i: number) => {
+    setTab(i);
+    answersRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
   const [reveals, setReveals] = useState<Record<number, RevealResponse>>({});
 
   useEffect(() => {
@@ -175,7 +181,11 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
         </div>
       </div>
 
-      <div className={s.tabs} role="tablist">
+      <div className={s.answersHead} ref={answersRef}>
+        <h2 className={s.answersTitle}>Every answer</h2>
+        <p className={s.answersHint}>Pick an asteroid to see all of its answers.</p>
+      </div>
+      <div className={s.tabs} role="tablist" aria-label="Asteroids">
         {day.rounds.map((r, i) => {
           const res = record.rounds[i];
           return (
@@ -186,7 +196,10 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
               className={s.tab}
               onClick={() => setTab(i)}
             >
-              <span className={s.tabTitle}>{r.title}</span>
+              <span className={s.tabTitle}>
+                <span className={s.tabNum}>{i + 1}</span>
+                {r.title}
+              </span>
               <span className={s.tabMeta}>
                 {ores(res?.found.length ?? 0)} · {formatMeters(res?.depth ?? 0)}
               </span>
@@ -195,6 +208,17 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
         })}
       </div>
       <RevealList answers={reveals[tab]?.answers ?? null} found={record.rounds[tab]?.found ?? []} />
+      <div className={s.tabPager}>
+        <button className={s.pagerBtn} onClick={() => pageTo(tab - 1)} disabled={tab === 0}>
+          {tab > 0 ? <>&lsaquo; {day.rounds[tab - 1].title}</> : <>&lsaquo;</>}
+        </button>
+        <span className={s.pagerPos}>
+          {tab + 1} of {day.rounds.length}
+        </span>
+        <button className={s.pagerBtn} onClick={() => pageTo(tab + 1)} disabled={tab === day.rounds.length - 1}>
+          {tab < day.rounds.length - 1 ? <>{day.rounds[tab + 1].title} &rsaquo;</> : <>&rsaquo;</>}
+        </button>
+      </div>
 
       {newAchievements.length > 0 && (
         <div className={s.achievementsNew} role="status">
