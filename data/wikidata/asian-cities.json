@@ -70,7 +70,7 @@
 "Yanking",
 "Zhongdu"
 ],
-"links": 306
+"links": 307
 },
 {
 "name": "Hong Kong",
@@ -276,7 +276,7 @@
 "Pearl of the Orient",
 "Queen City of the Pacific and others"
 ],
-"links": 208
+"links": 209
 },
 {
 "name": "Karachi",
@@ -383,7 +383,7 @@
 "Tel-Aviv Yafo",
 "TLV"
 ],
-"links": 191
+"links": 192
 },
 {
 "name": "Ashgabat",
@@ -433,7 +433,7 @@
 "Lwow",
 "Lwów"
 ],
-"links": 177
+"links": 178
 },
 {
 "name": "Vientiane",
@@ -723,6 +723,34 @@
 "links": 144
 },
 {
+"name": "Isfahan",
+"aliases": [
+"Aspadāna",
+"Culture City Of Iran",
+"Hispahan",
+"IFN",
+"Isfahān",
+"Ispahân",
+"Ispahān",
+"Sepahan",
+"Spahan",
+"Spahān"
+],
+"links": 143
+},
+{
+"name": "Nanjing",
+"aliases": [
+"Jiangning",
+"Kiang-ning",
+"Kiangning",
+"Nan Jing",
+"Nan-king",
+"Nankin"
+],
+"links": 143
+},
+{
 "name": "Xi'an",
 "aliases": [
 "Chang-ngan",
@@ -757,34 +785,6 @@
 "Xi’an, China"
 ],
 "links": 143
-},
-{
-"name": "Isfahan",
-"aliases": [
-"Aspadāna",
-"Culture City Of Iran",
-"Hispahan",
-"IFN",
-"Isfahān",
-"Ispahân",
-"Ispahān",
-"Sepahan",
-"Spahan",
-"Spahān"
-],
-"links": 142
-},
-{
-"name": "Nanjing",
-"aliases": [
-"Jiangning",
-"Kiang-ning",
-"Kiangning",
-"Nan Jing",
-"Nan-king",
-"Nankin"
-],
-"links": 142
 },
 {
 "name": "Agra",
@@ -865,21 +865,21 @@
 "links": 136
 },
 {
-"name": "Perm",
-"aliases": [
-"Molotov",
-"Molotow"
-],
-"links": 135
-},
-{
 "name": "Haifa",
 "aliases": [
 "Hayfa",
 "Hefa",
 "H̱aifa"
 ],
-"links": 134
+"links": 135
+},
+{
+"name": "Perm",
+"aliases": [
+"Molotov",
+"Molotow"
+],
+"links": 135
 },
 {
 "name": "Kobe",
@@ -1564,6 +1564,15 @@
 "links": 103
 },
 {
+"name": "Ganja",
+"aliases": [
+"Elisabethpol",
+"Ganca",
+"Kirovabad"
+],
+"links": 102
+},
+{
 "name": "Tula",
 "aliases": [
 "Tula, Russia"
@@ -1595,15 +1604,6 @@
 "Amid",
 "Diarbekir",
 "Mint of Amid"
-],
-"links": 101
-},
-{
-"name": "Ganja",
-"aliases": [
-"Elisabethpol",
-"Ganca",
-"Kirovabad"
 ],
 "links": 101
 },
@@ -1999,6 +1999,11 @@
 "links": 93
 },
 {
+"name": "Nanning",
+"aliases": [],
+"links": 93
+},
+{
 "name": "Taiyuan",
 "aliases": [
 "Bing",
@@ -2071,11 +2076,6 @@
 "Mazar-e-Sharif",
 "Mazari-Sharif"
 ],
-"links": 92
-},
-{
-"name": "Nanning",
-"aliases": [],
 "links": 92
 },
 {
@@ -2308,6 +2308,14 @@
 "links": 88
 },
 {
+"name": "Latakia",
+"aliases": [
+"Latakiyah",
+"Lattaki"
+],
+"links": 88
+},
+{
 "name": "Luoyang",
 "aliases": [
 "Jingluo",
@@ -2364,14 +2372,6 @@
 {
 "name": "Imphal",
 "aliases": [],
-"links": 87
-},
-{
-"name": "Latakia",
-"aliases": [
-"Latakiyah",
-"Lattaki"
-],
 "links": 87
 },
 {
@@ -4115,15 +4115,6 @@
 "links": 65
 },
 {
-"name": "Thrissur",
-"aliases": [
-"Thrichur",
-"Thrissivaperur",
-"Thrissur, Kerala"
-],
-"links": 65
-},
-{
 "name": "Anshan",
 "aliases": [],
 "links": 64
@@ -4189,6 +4180,15 @@
 "links": 64
 },
 {
+"name": "Thrissur",
+"aliases": [
+"Thrichur",
+"Thrissivaperur",
+"Thrissur, Kerala"
+],
+"links": 64
+},
+{
 "name": "Tsu",
 "aliases": [
 "Tu"
@@ -4204,6 +4204,11 @@
 "Yentai",
 "Zhifu"
 ],
+"links": 64
+},
+{
+"name": "Zhongshan",
+"aliases": [],
 "links": 64
 },
 {
@@ -4389,11 +4394,6 @@
 "Yangchou",
 "Yangchow"
 ],
-"links": 63
-},
-{
-"name": "Zhongshan",
-"aliases": [],
 "links": 63
 },
 {
@@ -5692,6 +5692,11 @@
 "links": 52
 },
 {
+"name": "Bergama",
+"aliases": [],
+"links": 52
+},
+{
 "name": "Biratnagar",
 "aliases": [
 "Gograha"
@@ -5868,11 +5873,6 @@
 "aliases": [
 "Akisima"
 ],
-"links": 51
-},
-{
-"name": "Bergama",
-"aliases": [],
 "links": 51
 },
 {
@@ -6112,6 +6112,11 @@
 "links": 50
 },
 {
+"name": "Durgapur",
+"aliases": [],
+"links": 50
+},
+{
 "name": "Faizabad",
 "aliases": [],
 "links": 50
@@ -6178,6 +6183,13 @@
 {
 "name": "Kuwana",
 "aliases": [],
+"links": 50
+},
+{
+"name": "Ma'anshan",
+"aliases": [
+"Maanshan"
+],
 "links": 50
 },
 {
@@ -6262,11 +6274,6 @@
 },
 {
 "name": "Cangzhou",
-"aliases": [],
-"links": 49
-},
-{
-"name": "Durgapur",
 "aliases": [],
 "links": 49
 },
@@ -6380,13 +6387,6 @@
 "links": 49
 },
 {
-"name": "Ma'anshan",
-"aliases": [
-"Maanshan"
-],
-"links": 49
-},
-{
 "name": "Matsusaka",
 "aliases": [
 "Matusaka"
@@ -6474,6 +6474,13 @@
 {
 "name": "Baoji",
 "aliases": [],
+"links": 48
+},
+{
+"name": "Bardhaman",
+"aliases": [
+"Burdwan"
+],
 "links": 48
 },
 {
@@ -6600,6 +6607,15 @@
 "links": 48
 },
 {
+"name": "Taguig",
+"aliases": [
+"City of Taguig",
+"Taguig City",
+"Taguig, Metro Manila"
+],
+"links": 48
+},
+{
 "name": "Taizhou",
 "aliases": [],
 "links": 48
@@ -6641,13 +6657,6 @@
 {
 "name": "Anshun",
 "aliases": [],
-"links": 47
-},
-{
-"name": "Bardhaman",
-"aliases": [
-"Burdwan"
-],
 "links": 47
 },
 {
@@ -6807,15 +6816,6 @@
 "links": 47
 },
 {
-"name": "Taguig",
-"aliases": [
-"City of Taguig",
-"Taguig City",
-"Taguig, Metro Manila"
-],
-"links": 47
-},
-{
 "name": "Tsuchiura",
 "aliases": [],
 "links": 47
@@ -6943,6 +6943,16 @@
 },
 {
 "name": "Misato",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Nagahama",
+"aliases": [],
+"links": 46
+},
+{
+"name": "Nanchong",
 "aliases": [],
 "links": 46
 },
@@ -7212,16 +7222,6 @@
 "links": 45
 },
 {
-"name": "Nagahama",
-"aliases": [],
-"links": 45
-},
-{
-"name": "Nanchong",
-"aliases": [],
-"links": 45
-},
-{
 "name": "Qujing",
 "aliases": [
 "Kütsing"
@@ -7253,6 +7253,13 @@
 "name": "Tochigi",
 "aliases": [
 "Totigi"
+],
+"links": 45
+},
+{
+"name": "Tulkarm",
+"aliases": [
+"Tulkarem"
 ],
 "links": 45
 },
@@ -7521,13 +7528,6 @@
 "name": "Tondabayashi",
 "aliases": [
 "Tondabayasi"
-],
-"links": 44
-},
-{
-"name": "Tulkarm",
-"aliases": [
-"Tulkarem"
 ],
 "links": 44
 },
@@ -8044,6 +8044,13 @@
 "links": 41
 },
 {
+"name": "Huangshan",
+"aliases": [
+"Huangshan City"
+],
+"links": 41
+},
+{
 "name": "Hyesan",
 "aliases": [
 "Hyesan City",
@@ -8159,6 +8166,11 @@
 "links": 41
 },
 {
+"name": "Tongliao",
+"aliases": [],
+"links": 41
+},
+{
 "name": "Urasoe",
 "aliases": [],
 "links": 41
@@ -8217,13 +8229,6 @@
 "links": 40
 },
 {
-"name": "Huangshan",
-"aliases": [
-"Huangshan City"
-],
-"links": 40
-},
-{
 "name": "Iksan",
 "aliases": [],
 "links": 40
@@ -8258,6 +8263,16 @@
 {
 "name": "Malayer",
 "aliases": [],
+"links": 40
+},
+{
+"name": "Malda",
+"aliases": [
+"Ingraj Bazar",
+"Malda Town",
+"Maldah",
+"Maldaha"
+],
 "links": 40
 },
 {
@@ -8311,11 +8326,6 @@
 },
 {
 "name": "Tieling",
-"aliases": [],
-"links": 40
-},
-{
-"name": "Tongliao",
 "aliases": [],
 "links": 40
 },
@@ -8398,16 +8408,6 @@
 {
 "name": "Lincang",
 "aliases": [],
-"links": 39
-},
-{
-"name": "Malda",
-"aliases": [
-"Ingraj Bazar",
-"Malda Town",
-"Maldah",
-"Maldaha"
-],
 "links": 39
 },
 {
@@ -8532,6 +8532,13 @@
 "links": 38
 },
 {
+"name": "Mahabubnagar",
+"aliases": [
+"Mahbūbnagar"
+],
+"links": 38
+},
+{
 "name": "Mandsaur",
 "aliases": [],
 "links": 38
@@ -8637,13 +8644,6 @@
 "links": 37
 },
 {
-"name": "Mahabubnagar",
-"aliases": [
-"Mahbūbnagar"
-],
-"links": 37
-},
-{
 "name": "Marivan",
 "aliases": [],
 "links": 37
@@ -8701,6 +8701,11 @@
 "aliases": [
 "Baranagore"
 ],
+"links": 36
+},
+{
+"name": "Bhatpara",
+"aliases": [],
 "links": 36
 },
 {
@@ -8792,11 +8797,6 @@
 "aliases": [
 "Bid"
 ],
-"links": 35
-},
-{
-"name": "Bhatpara",
-"aliases": [],
 "links": 35
 },
 {
@@ -9081,6 +9081,11 @@
 "links": 31
 },
 {
+"name": "Panihati",
+"aliases": [],
+"links": 31
+},
+{
 "name": "Bhimdatta",
 "aliases": [
 "Mahendranagar"
@@ -9105,11 +9110,6 @@
 "Manpo City",
 "Manpo-si"
 ],
-"links": 30
-},
-{
-"name": "Panihati",
-"aliases": [],
 "links": 30
 },
 {
@@ -9183,6 +9183,15 @@
 "links": 29
 },
 {
+"name": "Tokchon",
+"aliases": [
+"Tokchon City",
+"Tokchon-si",
+"Tŏkch'ŏn"
+],
+"links": 29
+},
+{
 "name": "Uluberia",
 "aliases": [
 "Uluberiya"
@@ -9249,6 +9258,13 @@
 "links": 28
 },
 {
+"name": "Rajpur Sonarpur",
+"aliases": [
+"Sonarpur"
+],
+"links": 28
+},
+{
 "name": "Ruili",
 "aliases": [
 "Ruili Shi"
@@ -9260,15 +9276,6 @@
 "aliases": [
 "Samjiyon-si",
 "Samjiyŏn"
-],
-"links": 28
-},
-{
-"name": "Tokchon",
-"aliases": [
-"Tokchon City",
-"Tokchon-si",
-"Tŏkch'ŏn"
 ],
 "links": 28
 },
@@ -9316,13 +9323,6 @@
 "links": 27
 },
 {
-"name": "Rajpur Sonarpur",
-"aliases": [
-"Sonarpur"
-],
-"links": 27
-},
-{
 "name": "Ruzhou",
 "aliases": [],
 "links": 27
@@ -9336,6 +9336,11 @@
 "name": "Wenling",
 "aliases": [],
 "links": 27
+},
+{
+"name": "Bally",
+"aliases": [],
+"links": 26
 },
 {
 "name": "Bansberia",
@@ -9419,11 +9424,6 @@
 },
 {
 "name": "Baidyabati",
-"aliases": [],
-"links": 25
-},
-{
-"name": "Bally",
 "aliases": [],
 "links": 25
 },
@@ -9613,5 +9613,142 @@
 "name": "Tando Allahyar",
 "aliases": [],
 "links": 20
+},
+{
+"name": "Al-Kharj",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Bhadreswar",
+"aliases": [
+"Bhadreshwar"
+],
+"links": 19
+},
+{
+"name": "Handwara",
+"aliases": [
+"Handwoar"
+],
+"links": 19
+},
+{
+"name": "Sa Đéc",
+"aliases": [
+"City of Sa Dec",
+"Sa Dec",
+"Sa Dec City",
+"Sadec",
+"Sadec City",
+"Thành Phố Sa Đéc"
+],
+"links": 19
+},
+{
+"name": "Al-Hajar al-Aswad",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ashokenagar Kalyangarh",
+"aliases": [
+"Ashoknagar"
+],
+"links": 18
+},
+{
+"name": "North Barrackpore",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Chakdaha",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Garulia",
+"aliases": [
+"Garuliya"
+],
+"links": 16
+},
+{
+"name": "Karaköprü",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Old Malda",
+"aliases": [
+"Old Maldah",
+"Old Maldaha"
+],
+"links": 16
+},
+{
+"name": "Süleymanpaşa",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Kandhkot",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Al-Thuqbah",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Narsingdi",
+"aliases": [],
+"links": 14
+},
+{
+"name": "New Barrackpore",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Al Hawiyah",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Artuklu",
+"aliases": [
+"Artuklu, Mardin"
+],
+"links": 13
+},
+{
+"name": "Bukit Merah",
+"aliases": [
+"Bt Merah"
+],
+"links": 13
+},
+{
+"name": "Surif",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Merkezefendi",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dabgram",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Dankuni",
+"aliases": [],
+"links": 10
 }
 ]

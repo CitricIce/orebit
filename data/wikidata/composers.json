@@ -73,7 +73,7 @@
 {
 "name": "Frédéric Chopin",
 "aliases": [],
-"links": 200
+"links": 201
 },
 {
 "name": "Pyotr Ilyich Tchaikovsky",
@@ -89,7 +89,7 @@
 "Tschaikowski",
 "Tschaikowsky"
 ],
-"links": 192
+"links": 193
 },
 {
 "name": "Giuseppe Verdi",
@@ -97,14 +97,14 @@
 "Giuseppe Fortunino Francesco Verdi",
 "Verdi"
 ],
-"links": 180
+"links": 181
 },
 {
 "name": "Franz Schubert",
 "aliases": [
 "Schubert"
 ],
-"links": 174
+"links": 175
 },
 {
 "name": "Antonio Vivaldi",
@@ -113,7 +113,7 @@
 "Antonio Luciano Vivaldi",
 "Antonio Vivarudi"
 ],
-"links": 169
+"links": 170
 },
 {
 "name": "Heinrich Heine",
@@ -138,7 +138,7 @@
 "Jgor Strawinsky",
 "Stravinsky"
 ],
-"links": 168
+"links": 169
 },
 {
 "name": "George Frideric Handel",
@@ -150,7 +150,7 @@
 "Handel",
 "Händel"
 ],
-"links": 162
+"links": 163
 },
 {
 "name": "Johannes Brahms",
@@ -159,7 +159,7 @@
 "J. Brahms",
 "Marks, G. W."
 ],
-"links": 162
+"links": 163
 },
 {
 "name": "Joseph Haydn",
@@ -167,14 +167,14 @@
 "Franciscus Joseph Haydn",
 "Franciscus Josephus Haydn"
 ],
-"links": 159
+"links": 160
 },
 {
 "name": "Gustav Mahler",
 "aliases": [
 "Gustave Mahler"
 ],
-"links": 153
+"links": 154
 },
 {
 "name": "Antonín Dvořák",
@@ -183,7 +183,7 @@
 "Antonín Dvorák",
 "Dvořák"
 ],
-"links": 152
+"links": 153
 },
 {
 "name": "Sappho",
@@ -192,7 +192,7 @@
 "Sapho",
 "Sapphus"
 ],
-"links": 150
+"links": 151
 },
 {
 "name": "Giacomo Puccini",
@@ -200,19 +200,19 @@
 "Giaccomo Puccini",
 "Puccini"
 ],
-"links": 147
-},
-{
-"name": "Boris Pasternak",
-"aliases": [
-"Boris Leonidovich Pasternak"
-],
-"links": 144
+"links": 148
 },
 {
 "name": "Satyajit Ray",
 "aliases": [
 "Manik Da"
+],
+"links": 145
+},
+{
+"name": "Boris Pasternak",
+"aliases": [
+"Boris Leonidovich Pasternak"
 ],
 "links": 144
 },
@@ -287,11 +287,6 @@
 "links": 132
 },
 {
-"name": "Robert Schumann",
-"aliases": [],
-"links": 131
-},
-{
 "name": "Zhu Xi",
 "aliases": [
 "Cangzhou Bingsou",
@@ -354,6 +349,11 @@
 "Zhuzi",
 "Ziyang"
 ],
+"links": 132
+},
+{
+"name": "Robert Schumann",
+"aliases": [],
 "links": 131
 },
 {
@@ -396,6 +396,14 @@
 "links": 122
 },
 {
+"name": "Giovanni Pierluigi da Palestrina",
+"aliases": [
+"Giovanni da Palestrina",
+"Giovanni Pierluigi de Palestrina"
+],
+"links": 119
+},
+{
 "name": "Elton John",
 "aliases": [
 "Ann Orson",
@@ -408,14 +416,6 @@
 "Tripe"
 ],
 "links": 118
-},
-{
-"name": "Giovanni Pierluigi da Palestrina",
-"aliases": [
-"Giovanni da Palestrina",
-"Giovanni Pierluigi de Palestrina"
-],
-"links": 117
 },
 {
 "name": "Hildegard of Bingen",
@@ -805,6 +805,15 @@
 "links": 83
 },
 {
+"name": "Clara Schumann",
+"aliases": [
+"Clara Josephine Schumann",
+"Clara Wieck",
+"Clara Wieck Schumann"
+],
+"links": 83
+},
+{
 "name": "Agnetha Fältskog",
 "aliases": [
 "Agnetha Faltskog",
@@ -819,15 +828,6 @@
 "Christoph Willibald",
 "Christoph Willibald Gluck",
 "Christoph Willibald Gluck, Ritter von"
-],
-"links": 82
-},
-{
-"name": "Clara Schumann",
-"aliases": [
-"Clara Josephine Schumann",
-"Clara Wieck",
-"Clara Wieck Schumann"
 ],
 "links": 82
 },
@@ -1012,6 +1012,11 @@
 "Telemann"
 ],
 "links": 75
+},
+{
+"name": "Antonio Salieri",
+"aliases": [],
+"links": 74
 },
 {
 "name": "Ronnie James Dio",
@@ -1405,6 +1410,16 @@
 "links": 61
 },
 {
+"name": "Giacomo Meyerbeer",
+"aliases": [
+"Jakob Liebmann Beer",
+"Jakob Meyer Beer",
+"Meyer Beer",
+"Meyerbeer"
+],
+"links": 61
+},
+{
 "name": "Gustav Holst",
 "aliases": [
 "Gustav Theodore Holst",
@@ -1530,16 +1545,6 @@
 "aliases": [
 "Georges Gurdjieff Ivanovitch",
 "Georges Ivanovitch Gurdjieff"
-],
-"links": 60
-},
-{
-"name": "Giacomo Meyerbeer",
-"aliases": [
-"Jakob Liebmann Beer",
-"Jakob Meyer Beer",
-"Meyer Beer",
-"Meyerbeer"
 ],
 "links": 60
 },
@@ -1748,6 +1753,16 @@
 "links": 57
 },
 {
+"name": "Hryhorii Skovoroda",
+"aliases": [
+"Gregory Skovoroda",
+"Grigorij Savvich Skovoroda",
+"Hryhoriy Skovoroda",
+"Hryhoriĭ Skovoroda"
+],
+"links": 57
+},
+{
 "name": "Giuseppe Tartini",
 "aliases": [],
 "links": 56
@@ -1762,16 +1777,6 @@
 {
 "name": "György Ligeti",
 "aliases": [],
-"links": 56
-},
-{
-"name": "Hryhorii Skovoroda",
-"aliases": [
-"Gregory Skovoroda",
-"Grigorij Savvich Skovoroda",
-"Hryhoriy Skovoroda",
-"Hryhoriĭ Skovoroda"
-],
 "links": 56
 },
 {
@@ -1993,6 +1998,7 @@
 {
 "name": "Charles Maurras",
 "aliases": [
+"Carles Maurras",
 "Le Martégal",
 "Le Maître de Martigues",
 "Léon Rameau",
@@ -2628,8 +2634,8 @@
 "aliases": [
 "Marcus Vinícius da Cruz e Mello de M",
 "Marcus Vinícius de Moraes",
-"Vinicius De Moraes",
 "Vinicius de Moraes",
+"Vinicius De Moraes",
 "Vinicius de Morães"
 ],
 "links": 46
@@ -2878,8 +2884,8 @@
 {
 "name": "Philippe II, Duke of Orléans",
 "aliases": [
-"Philippe d' Orleans",
 "Philippe D' Orleans",
+"Philippe d' Orleans",
 "Philippe d'Orleans",
 "Philippe d'Orléans",
 "Philippe II",
@@ -3036,6 +3042,16 @@
 "Thibault De Champagne",
 "Thibault IV, Roi De Navarre",
 "Thibaut IV-I, King of Navarre"
+],
+"links": 43
+},
+{
+"name": "Thomas Beecham",
+"aliases": [
+"H. C. Thomas",
+"Reverend H. C. Thomas",
+"Sir Thomas Beecham, 2nd Baronet",
+"Thomas Beecham, 2nd Baronet"
 ],
 "links": 43
 },
@@ -4396,6 +4412,13 @@
 "links": 34
 },
 {
+"name": "Djivan Gasparyan",
+"aliases": [
+"Gasparyan, Djivan"
+],
+"links": 34
+},
+{
 "name": "Don Airey",
 "aliases": [
 "Donald Smith Airey"
@@ -4663,13 +4686,6 @@
 "name": "Dimitri Mitropoulos",
 "aliases": [
 "Dimitris Mitropoulos"
-],
-"links": 33
-},
-{
-"name": "Djivan Gasparyan",
-"aliases": [
-"Gasparyan, Djivan"
 ],
 "links": 33
 },
@@ -8000,6 +8016,15 @@
 "links": 25
 },
 {
+"name": "Clem Burke",
+"aliases": [
+"Clement A. Bozewski",
+"Clement Burke",
+"Elvis Ramone"
+],
+"links": 25
+},
+{
 "name": "David Byron",
 "aliases": [
 "David Garrick"
@@ -8083,6 +8108,13 @@
 {
 "name": "Giovanni Legrenzi",
 "aliases": [],
+"links": 25
+},
+{
+"name": "Gregory Isaacs",
+"aliases": [
+"Gregory Anthony Isaacs"
+],
 "links": 25
 },
 {
@@ -8355,5 +8387,12906 @@
 "name": "Étienne Méhul",
 "aliases": [],
 "links": 25
+},
+{
+"name": "Ahmet Adnan Saygun",
+"aliases": [
+"Achmed Adnan Saigun"
+],
+"links": 24
+},
+{
+"name": "Alexandre Guilmant",
+"aliases": [
+"Alex Guilmant",
+"Felix Alexandre Guilmant",
+"Félix-Alexandre Guilmant"
+],
+"links": 24
+},
+{
+"name": "Alexandre Tansman",
+"aliases": [
+"Alexander Tansman"
+],
+"links": 24
+},
+{
+"name": "Alexei Lvov",
+"aliases": [
+"Alexei Fedorowitsch Lvov",
+"Alexei Fyodorovich Lvov",
+"Alexey Lvov",
+"Alexis von Lwoff"
+],
+"links": 24
+},
+{
+"name": "Alexis Weissenberg",
+"aliases": [
+"Alexis Sigismund Weissenberg"
+],
+"links": 24
+},
+{
+"name": "Alfred Einstein",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Antonio Bazzini",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Aníbal Troilo",
+"aliases": [
+"Anibal Troilo",
+"Pichuco"
+],
+"links": 24
+},
+{
+"name": "Arkady Luxemburg",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Benjamin Orr",
+"aliases": [
+"Ben Orr",
+"Benjamin Orzechowski"
+],
+"links": 24
+},
+{
+"name": "Benny Moré",
+"aliases": [
+"Benny More",
+"Beny Moré",
+"Bení Moré"
+],
+"links": 24
+},
+{
+"name": "Bernhard Crusell",
+"aliases": [
+"Bernhard Henrik Crusell"
+],
+"links": 24
+},
+{
+"name": "Camille d'Hostun, duc de Tallard",
+"aliases": [
+"Comte de Tallard",
+"Count Tallard",
+"Marshal Count Tallard"
+],
+"links": 24
+},
+{
+"name": "Carlo Rainaldi",
+"aliases": [
+"Eques C. Rainaldus"
+],
+"links": 24
+},
+{
+"name": "Cathy Berberian",
+"aliases": [
+"Catherine Anahid Berberian",
+"Catherine Berberian"
+],
+"links": 24
+},
+{
+"name": "Chiquinha Gonzaga",
+"aliases": [
+"Francisca Edwiges Neves",
+"Francisca Edwiges Neves Chiquinha Gonzaga"
+],
+"links": 24
+},
+{
+"name": "Christoph Friedrich Nicolai",
+"aliases": [
+"Friedrich Nicolai"
+],
+"links": 24
+},
+{
+"name": "Ciprian Porumbescu",
+"aliases": [
+"Ciprian"
+],
+"links": 24
+},
+{
+"name": "Conon de Béthune",
+"aliases": [
+"Conon de Bethune"
+],
+"links": 24
+},
+{
+"name": "Dave Holland",
+"aliases": [
+"David Holland"
+],
+"links": 24
+},
+{
+"name": "Didier Lockwood",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Dimitry of Rostov",
+"aliases": [
+"Danylo Tuptalo",
+"Dymytrii Rostovskyi",
+"Dymytrii Tuptalo"
+],
+"links": 24
+},
+{
+"name": "Domenico Bartolucci",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Edison Denisov",
+"aliases": [
+"Edison Vasilievich Denisov",
+"Edison Vasilyevich Denisov"
+],
+"links": 24
+},
+{
+"name": "Eduard Tubin",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Ernest Guiraud",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Ernst Fuchs",
+"aliases": [
+"Ėrnst Fuks"
+],
+"links": 24
+},
+{
+"name": "Erwin Schulhoff",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Fats Navarro",
+"aliases": [
+"Theodore Navarro"
+],
+"links": 24
+},
+{
+"name": "Fou Ts'ong",
+"aliases": [
+"Fu Cong"
+],
+"links": 24
+},
+{
+"name": "Francesco Maria Veracini",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Frank Bridge",
+"aliases": [
+"Francis Bridge"
+],
+"links": 24
+},
+{
+"name": "Franz Abt",
+"aliases": [
+"Franz Wilhelm Abt"
+],
+"links": 24
+},
+{
+"name": "Franz Lachner",
+"aliases": [
+"Franz Paul Lachner"
+],
+"links": 24
+},
+{
+"name": "Freddie Aguilar",
+"aliases": [
+"Ferdinand Pascual Aguilar",
+"Ka Freddie Aguilar"
+],
+"links": 24
+},
+{
+"name": "Friedrich Gulda",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Friedrich Wilhelm Bülow von Dennewitz",
+"aliases": [
+"Friedrich Wilhelm Baron von Bülow",
+"Friedrich Wilhelm, Baron von Bülow"
+],
+"links": 24
+},
+{
+"name": "Gabriel Pierné",
+"aliases": [
+"Gabriel Pierne",
+"Pierne"
+],
+"links": 24
+},
+{
+"name": "Georg Christoph Wagenseil",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Giuseppe Acerbi",
+"aliases": [
+"Acerbi"
+],
+"links": 24
+},
+{
+"name": "Giuseppe Sarti",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Gottfried von Einem",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Gunther Schuller",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Géza Csáth",
+"aliases": [
+"Geza Csath",
+"Jozsef Brenner",
+"József Brenner"
+],
+"links": 24
+},
+{
+"name": "Hank Mobley",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Hans Tausen",
+"aliases": [
+"Bishop in Ribe Hans Tausen"
+],
+"links": 24
+},
+{
+"name": "Helmut Lachenmann",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Henri Rabaud",
+"aliases": [
+"Henri Benjamin Rabaud"
+],
+"links": 24
+},
+{
+"name": "Herbie Mann",
+"aliases": [
+"Herbert J. Solomon",
+"Herbert Solomon"
+],
+"links": 24
+},
+{
+"name": "Isabella Colbran",
+"aliases": [
+"Isabel Colbran",
+"Isabella Angela Colbran"
+],
+"links": 24
+},
+{
+"name": "Jan A. P. Kaczmarek",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Jerry Herman",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Johann Christoph Pepusch",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Johann David Heinichen",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Johann Gottlieb Naumann",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Johann Nikolaus Forkel",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Johann van Beethoven",
+"aliases": [
+"Johan van Beethoven"
+],
+"links": 24
+},
+{
+"name": "Johannes Ciconia",
+"aliases": [],
+"links": 24
+},
+{
+"name": "John Corigliano",
+"aliases": [],
+"links": 24
+},
+{
+"name": "John Ireland",
+"aliases": [
+"John Nicholson Ireland",
+"Turlay Royce"
+],
+"links": 24
+},
+{
+"name": "John Patitucci",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Johnnie Ray",
+"aliases": [
+"John Alvin Ray"
+],
+"links": 24
+},
+{
+"name": "Josef Suk",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Josef Tal",
+"aliases": [
+"Josef Grünthal",
+"Joseph Grünthal",
+"Joseph Tal",
+"Yosef Tal"
+],
+"links": 24
+},
+{
+"name": "Jules Perrot",
+"aliases": [
+"Jules-Joseph Perrot"
+],
+"links": 24
+},
+{
+"name": "Jussi Adler-Olsen",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Jāzeps Vītols",
+"aliases": [
+"Joseph Wihtol"
+],
+"links": 24
+},
+{
+"name": "Kenny Dorham",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kid Ory",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Kurt Atterberg",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Larry Graham",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Louis VIII, Landgrave of Hesse-Darmstadt",
+"aliases": [
+"Ludwig VIII"
+],
+"links": 24
+},
+{
+"name": "Louise Bertin",
+"aliases": [
+"Louise-Angélique Bertin"
+],
+"links": 24
+},
+{
+"name": "Marie-Claire Alain",
+"aliases": [
+"Marie-Claire Geneviève Alain"
+],
+"links": 24
+},
+{
+"name": "Mark Snow",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Mel Collins",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Nerses IV the Gracious",
+"aliases": [
+"Nerses Shnorhali",
+"Nerses the Gracious",
+"Nersês Snorhali",
+"Saint Nerses Shnorhali",
+"Saint Nersēs Shnorhali"
+],
+"links": 24
+},
+{
+"name": "Nicola Piovani",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Nicolas-Charles Bochsa",
+"aliases": [
+"Robert-Nicholas-Charles Bochsa"
+],
+"links": 24
+},
+{
+"name": "Oskar Merikanto",
+"aliases": [
+"Frans Oskar Mattson",
+"Frans Oskar Merikanto",
+"Oskar Mattson"
+],
+"links": 24
+},
+{
+"name": "Paul Chambers",
+"aliases": [
+"Paul Laurence Chambers Jr"
+],
+"links": 24
+},
+{
+"name": "Phil Woods",
+"aliases": [
+"Philip Wells Woods"
+],
+"links": 24
+},
+{
+"name": "Reinhard Keiser",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Rezső Seress",
+"aliases": [
+"Rezso Seress",
+"Rezsö Seress"
+],
+"links": 24
+},
+{
+"name": "Shirley Walker",
+"aliases": [
+"Shirley Anne Walker"
+],
+"links": 24
+},
+{
+"name": "Sigfrid Karg-Elert",
+"aliases": [],
+"links": 24
+},
+{
+"name": "Thomas Dolby",
+"aliases": [
+"Booker T. Boffin",
+"Thomas Morgan Robertson",
+"Thomas Robertson"
+],
+"links": 24
+},
+{
+"name": "Tommaso Traetta",
+"aliases": [
+"Tommaso Michele Francesco Saverio Traetta",
+"Tommaso Trajetta"
+],
+"links": 24
+},
+{
+"name": "Tommy Flanagan",
+"aliases": [
+"Tommy Lee Flanagan"
+],
+"links": 24
+},
+{
+"name": "Tony Allen",
+"aliases": [
+"Tony Oladipo Allen"
+],
+"links": 24
+},
+{
+"name": "Vasily Solovyov-Sedoi",
+"aliases": [
+"Golowjew Sedoi",
+"Vasily Pavlovich Solovyov-Sedoi"
+],
+"links": 24
+},
+{
+"name": "Volodymyr Ivasyuk",
+"aliases": [
+"Volodymyr Mykhailovych Ivasyuk"
+],
+"links": 24
+},
+{
+"name": "Walter De Maria",
+"aliases": [
+"Walter Joseph De Maria"
+],
+"links": 24
+},
+{
+"name": "Wilfred Jackson",
+"aliases": [
+"Wilfred Emmons Jackson",
+"Wilfred Jaxon"
+],
+"links": 24
+},
+{
+"name": "Yevgeny Svetlanov",
+"aliases": [
+"Yevgeny Fyodorovich Svetlanov"
+],
+"links": 24
+},
+{
+"name": "Âşık Veysel",
+"aliases": [
+"Aşık Veysel"
+],
+"links": 24
+},
+{
+"name": "Adolf von Henselt",
+"aliases": [
+"Adolf Henselt",
+"Georg Martin Adolf von Henselt"
+],
+"links": 23
+},
+{
+"name": "Agathe Backer Grøndahl",
+"aliases": [
+"Agathe Ursula Backer"
+],
+"links": 23
+},
+{
+"name": "Agostino Steffani",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Alan Hovhaness",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Alberto Savinio",
+"aliases": [
+"Alberto Savinio De Chirico",
+"Andrea De Chirico",
+"Andrea de Chirico"
+],
+"links": 23
+},
+{
+"name": "Alexander Serov",
+"aliases": [
+"Alexander Nikolayevich Serov"
+],
+"links": 23
+},
+{
+"name": "Alfredo Zitarrosa",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Andreas Vollenweider",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Antal Dorati",
+"aliases": [
+"Antal Deutsch"
+],
+"links": 23
+},
+{
+"name": "Antoine-François Marmontel",
+"aliases": [
+"Antoine François Marmontel",
+"Antoine Marmontel"
+],
+"links": 23
+},
+{
+"name": "Antonio Cesti",
+"aliases": [
+"M. A. Chesti",
+"Marc' Antonio Cesti",
+"Marcantonio Cesti",
+"Pietro Antonio Cesti",
+"Pietro Cesti"
+],
+"links": 23
+},
+{
+"name": "Armando Trovajoli",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Art Pepper",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Augusta Holmès",
+"aliases": [
+"Augusta Holmes",
+"Augusta Mary Anne Holmès",
+"Hermann Zenta"
+],
+"links": 23
+},
+{
+"name": "Brian Ferneyhough",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Bálint Bakfark",
+"aliases": [
+"Balint Bakfark",
+"Valenti Greff",
+"Valentí Graew",
+"Valentí Greff"
+],
+"links": 23
+},
+{
+"name": "Carl Millöcker",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Cedar Walton",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Charles Dutoit",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Christopher Franke",
+"aliases": [
+"Chris Franke"
+],
+"links": 23
+},
+{
+"name": "Domenico Zipoli",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Donald Richie",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Egon Wellesz",
+"aliases": [
+"Egon Joseph Wellesz",
+"Jenö Wellesz"
+],
+"links": 23
+},
+{
+"name": "Elfrida Andrée",
+"aliases": [
+"Elfrida Andree"
+],
+"links": 23
+},
+{
+"name": "Emilio de' Cavalieri",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Emmy Destinn",
+"aliases": [
+"Ema Destinnova",
+"Ema Destinnová",
+"Emilie Pavlína Věnceslava Kittlová",
+"Emma Destinn"
+],
+"links": 23
+},
+{
+"name": "Eugen Doga",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Eugen Suchoň",
+"aliases": [
+"Eugen Suchon"
+],
+"links": 23
+},
+{
+"name": "Federico Mompou",
+"aliases": [
+"Frederic Mompou Dencausse",
+"Frederico Mompou"
+],
+"links": 23
+},
+{
+"name": "Francisco Guerrero",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Frederick Loewe",
+"aliases": [
+"Friedrich Löwe"
+],
+"links": 23
+},
+{
+"name": "Friedrich Wieck",
+"aliases": [
+"Johann Gottlob Friedrich Wieck"
+],
+"links": 23
+},
+{
+"name": "Geoffrey Oryema",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Georg Muffat",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Giovanni Sgambati",
+"aliases": [
+"Giovanni Sgambatti"
+],
+"links": 23
+},
+{
+"name": "Goffredo Petrassi",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Hal Hartley",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Heino Eller",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Heinrich Schenker",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Heinrich Sutermeister",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Heinz Holliger",
+"aliases": [
+"Heinz Robert Holliger"
+],
+"links": 23
+},
+{
+"name": "Hermann Scherchen",
+"aliases": [
+"Hermann Carl Julius Scherchen"
+],
+"links": 23
+},
+{
+"name": "Igor Markevitch",
+"aliases": [
+"Igor Borisovich Markevitch"
+],
+"links": 23
+},
+{
+"name": "Irma Thomas",
+"aliases": [
+"Irma Lee"
+],
+"links": 23
+},
+{
+"name": "J. Gade",
+"aliases": [
+"Jacob Thune Hansen Gade"
+],
+"links": 23
+},
+{
+"name": "Jack Teagarden",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Jean-Luc Ponty",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Jimmy Hart",
+"aliases": [
+"James Ray Hart"
+],
+"links": 23
+},
+{
+"name": "Joel Goldsmith",
+"aliases": [
+"Joel King Goldsmith"
+],
+"links": 23
+},
+{
+"name": "Johann Baptist Vanhal",
+"aliases": [
+"Johann Baptist Wanhal",
+"Vanhal"
+],
+"links": 23
+},
+{
+"name": "Johann Friedrich Reichardt",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Johann Simon Mayr",
+"aliases": [
+"Giovanni Simone Mayr"
+],
+"links": 23
+},
+{
+"name": "John Kander",
+"aliases": [],
+"links": 23
+},
+{
+"name": "John Rutter",
+"aliases": [
+"John Milford Rutter"
+],
+"links": 23
+},
+{
+"name": "Josef Bohuslav Foerster",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Joseph Bodin de Boismortier",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Joseph Canteloube",
+"aliases": [
+"Marie Joseph Canteloube",
+"Marie Joseph Canteloube de Malaret",
+"Marie-Joseph Canteloube de Malaret"
+],
+"links": 23
+},
+{
+"name": "King Sunny Adé",
+"aliases": [
+"Chief Sunday Adeniyi Adegeye.",
+"King Sunny Ade",
+"Sunday Adeniyi"
+],
+"links": 23
+},
+{
+"name": "Koichi Sugiyama",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Leroy Carr",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lloyd Price",
+"aliases": [
+"Mr. Personality"
+],
+"links": 23
+},
+{
+"name": "Lou Donaldson",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Lukas Foss",
+"aliases": [
+"Lukas Fuchs"
+],
+"links": 23
+},
+{
+"name": "Magnus Lindberg",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Maria Teresa Agnesi Pinottini",
+"aliases": [
+"Maria Teresa Agnesi",
+"Maria Theresa Agnesi"
+],
+"links": 23
+},
+{
+"name": "Michael Tilson Thomas",
+"aliases": [
+"MTT"
+],
+"links": 23
+},
+{
+"name": "Moondog",
+"aliases": [
+"Moondog And His Honking Geese",
+"Viking of 6th Avenue"
+],
+"links": 23
+},
+{
+"name": "Móric Esterházy",
+"aliases": [
+"Count Moritz Esterhazy",
+"Moric Esterhazy",
+"Moric Esterhazy de Galantha",
+"Móric Esterházy de Galantha"
+],
+"links": 23
+},
+{
+"name": "Neidhart von Reuental",
+"aliases": [
+"Neidhart von Reuental / Nîthart von Riuwental"
+],
+"links": 23
+},
+{
+"name": "Niccolò Antonio Zingarelli",
+"aliases": [
+"Niccolo Antonio Zingarelli"
+],
+"links": 23
+},
+{
+"name": "Oliver Nelson",
+"aliases": [
+"Oliver E. Nelson"
+],
+"links": 23
+},
+{
+"name": "Osvaldo Pugliese",
+"aliases": [
+"Osvaldo Pedro Pugliese"
+],
+"links": 23
+},
+{
+"name": "Otakar Ševčík",
+"aliases": [
+"Otakar Sevcik",
+"Otokar Sevcik"
+],
+"links": 23
+},
+{
+"name": "Paquito D'Rivera",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Paul Ben-Haim",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Paul Lincke",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Pavel Haas",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Peter Brötzmann",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Peter Deunov",
+"aliases": [
+"Peter Dunoff",
+"Peter Dunov"
+],
+"links": 23
+},
+{
+"name": "Peter Pears",
+"aliases": [
+"Sir Peter Neville Luard Pears"
+],
+"links": 23
+},
+{
+"name": "Richard Rodney Bennett",
+"aliases": [
+"Richard Bennett",
+"Sir Richard Rodney Bennett"
+],
+"links": 23
+},
+{
+"name": "Robert Fuchs",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Robert Planquette",
+"aliases": [
+"Jean Robert Julien Planquette",
+"Jean Robert Planquette",
+"Jean-Robert Planquette"
+],
+"links": 23
+},
+{
+"name": "Rubén González",
+"aliases": [
+"Ruben Gonzalez",
+"Ruben Gonzáles"
+],
+"links": 23
+},
+{
+"name": "Régis Wargnier",
+"aliases": [
+"Regis Wargnier"
+],
+"links": 23
+},
+{
+"name": "Sachin Dev Burman",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Tannhäuser",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Thoinot Arbeau",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Théodore Dubois",
+"aliases": [
+"Clément-François Théodore Dubois",
+"Theodore Dubois"
+],
+"links": 23
+},
+{
+"name": "Vagif Mustafazadeh",
+"aliases": [
+"Vagif Mustafa Zadeh",
+"Vagif Mustafa-Zade",
+"Vagif Mustafa-Zadeh",
+"Vagif Mustafazade"
+],
+"links": 23
+},
+{
+"name": "Valery Khalilov",
+"aliases": [
+"Valery Mikhaylovich Khalilov"
+],
+"links": 23
+},
+{
+"name": "Vatroslav Lisinski",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Wage Rudolf Soepratman",
+"aliases": [
+"Soepratman",
+"W. R. Soepratman",
+"W.R. Soepratman",
+"W.R. Supratman",
+"W.R.Soepratman",
+"Wage Roedolf Soepratman",
+"Wage Rudolf Supratman",
+"WR Soepratman",
+"WR Supratman"
+],
+"links": 23
+},
+{
+"name": "Walter Piston",
+"aliases": [
+"Walter Hamor Piston",
+"Walter Hamor Piston Jr"
+],
+"links": 23
+},
+{
+"name": "Willibald Alexis",
+"aliases": [
+"Georg Wilhelm Hein... Haering",
+"Wilhelm Häring"
+],
+"links": 23
+},
+{
+"name": "Woody Shaw",
+"aliases": [
+"Woody Herman Shaw II"
+],
+"links": 23
+},
+{
+"name": "Yevhen Stankovych",
+"aliases": [
+"Eugene Stankovych",
+"Yevhen Fedorovych Stankovych"
+],
+"links": 23
+},
+{
+"name": "Zoltán Kocsis",
+"aliases": [
+"Zoltan Kocsis"
+],
+"links": 23
+},
+{
+"name": "Ğazı II Giray",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Aimeric de Peguilhan",
+"aliases": [
+"Aimeric de Peguillan",
+"Aimeric de Pegulhan",
+"Aimeric de Pégulhan",
+"Aimery de Peguilhan"
+],
+"links": 22
+},
+{
+"name": "Airto Moreira",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Albéric Magnard",
+"aliases": [
+"Alberic Magnard",
+"Lucien Denis Gabriel Albéric Magnard"
+],
+"links": 22
+},
+{
+"name": "Alexander Siloti",
+"aliases": [
+"Aleksandr Il'ich Ziloti",
+"Aleksandr Ilich Ziloti",
+"Aleksandr Ziloti",
+"Alexander Ilyich Siloti",
+"Alexander Ziloti",
+"Siloti"
+],
+"links": 22
+},
+{
+"name": "Alf Prøysen",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Anacaona",
+"aliases": [
+"Anacoana"
+],
+"links": 22
+},
+{
+"name": "Andrei Eshpai",
+"aliases": [
+"Andrei Yakovlevich Eshpai",
+"Andrej Jakovlevič Ėšpaj",
+"Andrey Yakovlevich Eshpay"
+],
+"links": 22
+},
+{
+"name": "Andrey Petrov",
+"aliases": [
+"Andrey Pavlovich Petrov"
+],
+"links": 22
+},
+{
+"name": "Anthony van Hoboken",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Antonio de Cabezahueca",
+"aliases": [
+"Antonio de Cabezon"
+],
+"links": 22
+},
+{
+"name": "Arif Malikov",
+"aliases": [
+"Arif Melikov"
+],
+"links": 22
+},
+{
+"name": "Artur Kapp",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Barthold Heinrich Brockes",
+"aliases": [
+"Brockes"
+],
+"links": 22
+},
+{
+"name": "Carl Michael Ziehrer",
+"aliases": [
+"C. M. Ziehrer",
+"Karl Michael Ziehrer"
+],
+"links": 22
+},
+{
+"name": "Charles Lloyd",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Charles Tournemire",
+"aliases": [
+"Charles Arnold Tournemire",
+"Charles Arnould Tournemire"
+],
+"links": 22
+},
+{
+"name": "Charles Wuorinen",
+"aliases": [
+"Charles Peter Wuorinen"
+],
+"links": 22
+},
+{
+"name": "Christoph Graupner",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Cristóbal de Morales",
+"aliases": [
+"Mohamed de Cristo"
+],
+"links": 22
+},
+{
+"name": "Damo Suzuki",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Dan McCafferty",
+"aliases": [
+"William Daniel McCafferty"
+],
+"links": 22
+},
+{
+"name": "Dorothy Masuka",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Duchess Elisabeth Sophie of Mecklenburg",
+"aliases": [
+"Elizabeth Sophie von Mecklenburg-Güstrow"
+],
+"links": 22
+},
+{
+"name": "Eduard Künneke",
+"aliases": [
+"Eduard Kunneke",
+"Eduard Künnecke"
+],
+"links": 22
+},
+{
+"name": "Edvard Mirzoyan",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Eleni Karaindrou",
+"aliases": [
+"Karaindrou Eleni"
+],
+"links": 22
+},
+{
+"name": "Felix Mottl",
+"aliases": [
+"Felix Josef von Mottl"
+],
+"links": 22
+},
+{
+"name": "Frank Churchill",
+"aliases": [
+"Frank E. Churchill"
+],
+"links": 22
+},
+{
+"name": "Franz Xaver Richter",
+"aliases": [
+"Franz",
+"Xaver Richter"
+],
+"links": 22
+},
+{
+"name": "Friedrich Silcher",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Garrick Ohlsson",
+"aliases": [
+"Garrick Olof Ohlsson"
+],
+"links": 22
+},
+{
+"name": "Gary Peacock",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Georg Ratzinger",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Glen A. Larson",
+"aliases": [
+"Glen Albert Larson",
+"Glen Larson"
+],
+"links": 22
+},
+{
+"name": "Granville Bantock",
+"aliases": [
+"Sir Granville Bantock",
+"Sir Granville Ransome Bantock"
+],
+"links": 22
+},
+{
+"name": "Guillaume Lekeu",
+"aliases": [
+"Jean Joseph Nicolas Guillaume Lekeu"
+],
+"links": 22
+},
+{
+"name": "Hans Krása",
+"aliases": [
+"Hans Krasa",
+"Jan Krása"
+],
+"links": 22
+},
+{
+"name": "Hemanta Mukhopadhyay",
+"aliases": [
+"Hemant Kumar",
+"Hemant Kumar Mukherjee",
+"Hemant Kumar Mukhopadhyay",
+"Hemant Mukherjee",
+"Hemant Mukhopadhyay",
+"Hemanta Kumar",
+"Hemanta Kumar Mukherjee",
+"Hemanta Kumar Mukhopadhyay",
+"Hemanta Mukherjee"
+],
+"links": 22
+},
+{
+"name": "Howard Hanson",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Jimmy Heath",
+"aliases": [
+"James Edward Heath",
+"Jimmy Edward Heath"
+],
+"links": 22
+},
+{
+"name": "Jo Jones",
+"aliases": [
+"Jonathan Jones",
+"Papa Jo Jones"
+],
+"links": 22
+},
+{
+"name": "Johann Andreas Stein",
+"aliases": [
+"Johannes Andreas Stein",
+"Johannes Georg Andreas Stein"
+],
+"links": 22
+},
+{
+"name": "Johann von Rist",
+"aliases": [
+"Johann Rist"
+],
+"links": 22
+},
+{
+"name": "Johnny Griffin",
+"aliases": [
+"John Arnold Griffin"
+],
+"links": 22
+},
+{
+"name": "Johnny Mandel",
+"aliases": [
+"John Alfred",
+"John Alfred Mandel",
+"John Mandel"
+],
+"links": 22
+},
+{
+"name": "Joseph Marx",
+"aliases": [
+"Joseph Rupert Rudolf Marx"
+],
+"links": 22
+},
+{
+"name": "Josip Runjanin",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Jule Styne",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Kai Winding",
+"aliases": [
+"Kai Chresten Winding"
+],
+"links": 22
+},
+{
+"name": "Karol Lipiński",
+"aliases": [
+"Carl Lipinski",
+"Karol Jósef Lipiński"
+],
+"links": 22
+},
+{
+"name": "Kenny Drew",
+"aliases": [
+"Kenneth Sidney Drew"
+],
+"links": 22
+},
+{
+"name": "Ketil Bjørnstad",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Klaus Doldinger",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Klaus Huber",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Laurel Aitken",
+"aliases": [
+"Lorenzo Aitken"
+],
+"links": 22
+},
+{
+"name": "Levko Revutsky",
+"aliases": [
+"Lev Revutsky",
+"Lev Revutskyi",
+"Levko Revutskyi"
+],
+"links": 22
+},
+{
+"name": "Leó Weiner",
+"aliases": [
+"Leo Weiner"
+],
+"links": 22
+},
+{
+"name": "Lili Kraus",
+"aliases": [
+"Lili Kraus Mandel"
+],
+"links": 22
+},
+{
+"name": "Linton Kwesi Johnson",
+"aliases": [
+"Linton Johnson",
+"LKJ"
+],
+"links": 22
+},
+{
+"name": "Louis Moreau Gottschalk",
+"aliases": [
+"Gottschalk",
+"L. M. Gottschalk",
+"Louis Gottschalk"
+],
+"links": 22
+},
+{
+"name": "Lovro von Matačić",
+"aliases": [
+"Lovro Von Matacic"
+],
+"links": 22
+},
+{
+"name": "Luigi Denza",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Lyle Mays",
+"aliases": [
+"Lyle D. Mays",
+"Lyle David Mays"
+],
+"links": 22
+},
+{
+"name": "Manuel Ponce",
+"aliases": [
+"Manuel Maria Ponce",
+"Manuel María Ponce"
+],
+"links": 22
+},
+{
+"name": "Maurice Emmanuel",
+"aliases": [
+"Marie François Maurice Emmanuel"
+],
+"links": 22
+},
+{
+"name": "Michael Maier",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Mieczysław Weinberg",
+"aliases": [
+"Moisei Weinberg",
+"Moisey Samuilovich Vaynberg"
+],
+"links": 22
+},
+{
+"name": "Mike Watt",
+"aliases": [
+"Michael David Watt"
+],
+"links": 22
+},
+{
+"name": "Moritz Hauptmann",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Myung-whun Chung",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Nat Adderley",
+"aliases": [
+"Nathaniel Adderley"
+],
+"links": 22
+},
+{
+"name": "Nicolas Slonimsky",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Nikolai Tcherepnin",
+"aliases": [
+"Nikolai Nikolayevich Tcherepnin"
+],
+"links": 22
+},
+{
+"name": "Näcip Cihanof",
+"aliases": [
+"Nasib Gajasowitsch Schiganow"
+],
+"links": 22
+},
+{
+"name": "Orazio Vecchi",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Oscar Pettiford",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Oskar Nedbal",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Otto Jahn",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Paul Dessau",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Percy Faith",
+"aliases": [
+"Peter Mars"
+],
+"links": 22
+},
+{
+"name": "Peter Erskine",
+"aliases": [
+"Peter Clark Erskine"
+],
+"links": 22
+},
+{
+"name": "Pierre Gaveaux",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Prince August, Duke of Dalarna",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Princess Charlotte Frederica of Prussia",
+"aliases": [
+"Princess Charlotte of Prussia"
+],
+"links": 22
+},
+{
+"name": "Randy Brecker",
+"aliases": [
+"Randal Edward"
+],
+"links": 22
+},
+{
+"name": "René Jacobs",
+"aliases": [
+"R. Jacobs"
+],
+"links": 22
+},
+{
+"name": "Robert Casadesus",
+"aliases": [
+"Robert Marcel Casadesus"
+],
+"links": 22
+},
+{
+"name": "Roger Sessions",
+"aliases": [
+"Roger H. Sessions",
+"Roger Huntington Sessions"
+],
+"links": 22
+},
+{
+"name": "Roman Vlad",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Rudolf Tobias",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Rudy Van Gelder",
+"aliases": [
+"Rudolph Van Gelder"
+],
+"links": 22
+},
+{
+"name": "Rued Langgaard",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Salvatore Sciarrino",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sheb Wooley",
+"aliases": [
+"Ben Colder",
+"Shelby Fredrick Wooley"
+],
+"links": 22
+},
+{
+"name": "Shneur Zalman of Liadi",
+"aliases": [
+"Alter Rebbe",
+"Baal HaTanya",
+"Baal HaTanya Vehashulchan Aruch",
+"Rabbi Shneur Zalman Baruchovitch",
+"Rabbi Shneur Zalman of Liadi",
+"Shneur Zalman of Liady"
+],
+"links": 22
+},
+{
+"name": "Sigmund Romberg",
+"aliases": [
+"Siegmund Rosenberg"
+],
+"links": 22
+},
+{
+"name": "Silvestre Revueltas",
+"aliases": [
+"Silvestre Revueltas Sánchez"
+],
+"links": 22
+},
+{
+"name": "Stephen Heller",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Thad Jones",
+"aliases": [
+"Thaddeus Joseph Jones"
+],
+"links": 22
+},
+{
+"name": "Tom Harrell",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Tomaso Antonio Vitali",
+"aliases": [
+"Tommaso Antonio Vitali"
+],
+"links": 22
+},
+{
+"name": "Trevor Jones",
+"aliases": [
+"Trevor Alfred Charles Jones"
+],
+"links": 22
+},
+{
+"name": "Tsarevich Ivan Ivanovich of Russia",
+"aliases": [
+"Ivan Ivanovich",
+"Tsarevich Ivan Ivanovich"
+],
+"links": 22
+},
+{
+"name": "Vano Muradeli",
+"aliases": [
+"Vano Ilyich Muradeli",
+"Vano Mouradeli"
+],
+"links": 22
+},
+{
+"name": "Victor Herbert",
+"aliases": [
+"Victor August Herbert"
+],
+"links": 22
+},
+{
+"name": "Vissarion Shebalin",
+"aliases": [
+"Vissarion Yakovlevich Shebalin"
+],
+"links": 22
+},
+{
+"name": "Wim Mertens",
+"aliases": [
+"Soft Verdict"
+],
+"links": 22
+},
+{
+"name": "Wolfgang Schmieder",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Zdeněk Nejedlý",
+"aliases": [
+"Zdenek Nejedly"
+],
+"links": 22
+},
+{
+"name": "Adriaan Daniel Fokker",
+"aliases": [
+"A.D. Fokker",
+"Adriaan Daniël Fokker",
+"Adriaan Fokker"
+],
+"links": 21
+},
+{
+"name": "Alexander Moyzes",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Alla Rakha",
+"aliases": [
+"Ustad Allarakha Quresh"
+],
+"links": 21
+},
+{
+"name": "Andy Fraser",
+"aliases": [
+"Andrew McIan Fraser"
+],
+"links": 21
+},
+{
+"name": "Antoine Houdar de La Motte",
+"aliases": [
+"Antoine Houdart de la Motte",
+"Antoine Houdart de La Motte",
+"Houdar de la Motte"
+],
+"links": 21
+},
+{
+"name": "Antoni Radziwiłł",
+"aliases": [
+"Anton Heinrich, Prince Radziwill",
+"Anton Henryk, prince Radzivil",
+"Antoni Henryk Radziwiłł",
+"Antoni Henryk, prince Radziwill",
+"Prince Anton Heinrich Radziwill"
+],
+"links": 21
+},
+{
+"name": "Arthur Benjamin",
+"aliases": [
+"Arthur Leslie Benjamin"
+],
+"links": 21
+},
+{
+"name": "Azalaïs de Porcairagues",
+"aliases": [
+"Azalais de Porcairages"
+],
+"links": 21
+},
+{
+"name": "Barbara Thompson",
+"aliases": [
+"Barbara Gracey Thompson"
+],
+"links": 21
+},
+{
+"name": "Bernd Alois Zimmermann",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Billy Taylor",
+"aliases": [
+"William Taylor",
+"William Taylor Jr."
+],
+"links": 21
+},
+{
+"name": "Blondel de Nesle",
+"aliases": [
+"Blondel"
+],
+"links": 21
+},
+{
+"name": "Boris Blacher",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Buddy DeFranco",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Carl Tausig",
+"aliases": [
+"Karl Tausig"
+],
+"links": 21
+},
+{
+"name": "Carlos de Seixas",
+"aliases": [
+"Jose Antonio Carlos de Seixas",
+"José António Carlos de Seixas"
+],
+"links": 21
+},
+{
+"name": "Charles Lecocq",
+"aliases": [
+"Alexandre Charles Lecocq"
+],
+"links": 21
+},
+{
+"name": "Chris Barber",
+"aliases": [
+"Donald Barber",
+"Donald Christopher Barber"
+],
+"links": 21
+},
+{
+"name": "Christopher Smart",
+"aliases": [
+"Ebenezer Pentweazle",
+"Mary Midnight",
+"Mrs Mary Midnight"
+],
+"links": 21
+},
+{
+"name": "Claude Goudimel",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Cyril Scott",
+"aliases": [
+"Cyril Meir Scott"
+],
+"links": 21
+},
+{
+"name": "Damião de Góis",
+"aliases": [
+"Damião de Goes"
+],
+"links": 21
+},
+{
+"name": "David Diamond",
+"aliases": [
+"David Leo Diamond"
+],
+"links": 21
+},
+{
+"name": "David Newman",
+"aliases": [
+"Dave Newman"
+],
+"links": 21
+},
+{
+"name": "Dennis Brown",
+"aliases": [
+"Dennis Emmanuel Brown",
+"The Crown Prince of Reggae"
+],
+"links": 21
+},
+{
+"name": "Domenico Dragonetti",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Dorothy Fields",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Eberhard Weber",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Eddie Jobson",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Edmund Rubbra",
+"aliases": [
+"Edmund Duncan Rubbra"
+],
+"links": 21
+},
+{
+"name": "Erkki Melartin",
+"aliases": [
+"Erik Melartin"
+],
+"links": 21
+},
+{
+"name": "Ester Mägi",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Fela Sowande",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ferde Grofé",
+"aliases": [
+"Ferde Grofe"
+],
+"links": 21
+},
+{
+"name": "Ferdinand Hérold",
+"aliases": [
+"Ferdinand Herold",
+"Louis Joseph F. Herold",
+"Louis Joseph Ferdinand Herold",
+"Louis Joseph Ferdinand Hérold"
+],
+"links": 21
+},
+{
+"name": "Florence Price",
+"aliases": [
+"Florence B. Price",
+"Florence B. Price Smith",
+"Florence Bea Price",
+"Florence Beatrice Price",
+"Florence Beatrice Smith",
+"Florence Smith"
+],
+"links": 21
+},
+{
+"name": "Francesco Feo",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Franchinus Gaffurius",
+"aliases": [
+"Franchino Gaffurio",
+"Franchinus Gafurius"
+],
+"links": 21
+},
+{
+"name": "Francis Hopkinson",
+"aliases": [
+"Peter Grievious"
+],
+"links": 21
+},
+{
+"name": "Franz Doppler",
+"aliases": [
+"Albert Franz Doppler"
+],
+"links": 21
+},
+{
+"name": "Frederic Rzewski",
+"aliases": [
+"Frederic Anthony Rzewski",
+"Frederick Rzewski"
+],
+"links": 21
+},
+{
+"name": "Friedrich Burgmüller",
+"aliases": [
+"Johann Friedrich Franz Burgmüller"
+],
+"links": 21
+},
+{
+"name": "Friedrich Wilhelm Zachow",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Georg Joseph Vogler",
+"aliases": [
+"Abbé Vogler"
+],
+"links": 21
+},
+{
+"name": "Giacomo Antonio Perti",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Gina Bachauer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Giovanni Battista Casti",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Gottfried van Swieten",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Hank Ballard",
+"aliases": [
+"Henry Ballard"
+],
+"links": 21
+},
+{
+"name": "Harald Sæverud",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Havergal Brian",
+"aliases": [
+"William"
+],
+"links": 21
+},
+{
+"name": "Heinrich Wilhelm Ernst",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Helmuth Rilling",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Henri Dès",
+"aliases": [
+"Henri Des"
+],
+"links": 21
+},
+{
+"name": "Henrik Lund",
+"aliases": [
+"Henning Jakob Henrik Lund",
+"Indaleeraq"
+],
+"links": 21
+},
+{
+"name": "Hnat Khotkevych",
+"aliases": [
+"Gnat Galajda",
+"Gnat Hotkevic",
+"Gnat Khotkevich",
+"Gnat Martinovic Hotkevic",
+"Hnat Halaida",
+"Hnat Martynovych Khotkevych"
+],
+"links": 21
+},
+{
+"name": "Humayun Ahmed",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ian McLagan",
+"aliases": [
+"Ian Patrick McLagan"
+],
+"links": 21
+},
+{
+"name": "Idea Vilariño",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ignaz Brüll",
+"aliases": [
+"Ignatz Brüll"
+],
+"links": 21
+},
+{
+"name": "Isabella Leonarda",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ismail Marzuki",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Italo Montemezzi",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Jacques Hotteterre le Romain",
+"aliases": [
+"Jacques Hotteterre",
+"Jacques Martin"
+],
+"links": 21
+},
+{
+"name": "Jan Blahoslav",
+"aliases": [
+"John Blahoslav"
+],
+"links": 21
+},
+{
+"name": "Jaromír Weinberger",
+"aliases": [
+"Jaromir Weinberger"
+],
+"links": 21
+},
+{
+"name": "Jean Martinon",
+"aliases": [
+"Jean Francisque-Étienne Martinon"
+],
+"links": 21
+},
+{
+"name": "Jeanne Demessieux",
+"aliases": [
+"Jeanne Marie Madeleine Demessieux",
+"Jeanne Marie-Madeleine Demessieux"
+],
+"links": 21
+},
+{
+"name": "Jimmy Giuffre",
+"aliases": [
+"James Peter Giuffre",
+"Jimmy Giuffré",
+"Jimmy Guiffre"
+],
+"links": 21
+},
+{
+"name": "Jimmy Van Heusen",
+"aliases": [
+"Ada Kurtz",
+"Arthur Williams",
+"Edward Chester Babcock",
+"James Van Heusen",
+"Kurt Adams"
+],
+"links": 21
+},
+{
+"name": "Joe Sample",
+"aliases": [
+"Joseph Leslie Sample"
+],
+"links": 21
+},
+{
+"name": "Johan Helmich Roman",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Johan Peter Emilius Hartmann",
+"aliases": [
+"J.P.E. Hartmann"
+],
+"links": 21
+},
+{
+"name": "Johann Baptist Cramer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Johann Friedrich Agricola",
+"aliases": [
+"Flavio Anicio Olibrio"
+],
+"links": 21
+},
+{
+"name": "Johann Friedrich Fasch",
+"aliases": [
+"Johannes Friedrich Fasch"
+],
+"links": 21
+},
+{
+"name": "Johann Heinrich Schmelzer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Johann Ludwig Bach",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Johann Schobert",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Jools Holland",
+"aliases": [
+"Jools Miles Holland",
+"Julian Miles Holland"
+],
+"links": 21
+},
+{
+"name": "Joseph Böhm",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Joseph the Hymnographer",
+"aliases": [
+"Joseph of the Studium"
+],
+"links": 21
+},
+{
+"name": "Julio Jaramillo",
+"aliases": [
+"Julio Alfredo Jaramillo Laurido"
+],
+"links": 21
+},
+{
+"name": "Jörg Demus",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Jānis Cimze",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Karel Ančerl",
+"aliases": [
+"Karel Ancerl",
+"Karel Antscherl"
+],
+"links": 21
+},
+{
+"name": "Karol Kurpiński",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Knut Nystedt",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Korla Awgust Kocor",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Kārlis Baumanis",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Leo Ornstein",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Leslie Bricusse",
+"aliases": [
+"Leslie Charles Bricusse"
+],
+"links": 21
+},
+{
+"name": "Lester Bowie",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Léon Boëllmann",
+"aliases": [
+"Boellmann",
+"Leon Boellmann"
+],
+"links": 21
+},
+{
+"name": "Manolis Kalomiris",
+"aliases": [
+"Manolis Kalomoiris"
+],
+"links": 21
+},
+{
+"name": "Manu Katché",
+"aliases": [
+"Emmanuel Katché",
+"Katché",
+"Manu Katche"
+],
+"links": 21
+},
+{
+"name": "Manuel García",
+"aliases": [
+"Manuel del Pópulo Vicente Rodriguez García",
+"Manuel Garcia",
+"Manuel Garcia the Senior",
+"Manuel García the Senior"
+],
+"links": 21
+},
+{
+"name": "Marian McPartland",
+"aliases": [
+"Margaret Marian McPartland",
+"Margaret Marian Turner"
+],
+"links": 21
+},
+{
+"name": "Markos Vamvakaris",
+"aliases": [
+"Markos"
+],
+"links": 21
+},
+{
+"name": "Mauro Maur",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Miguel Gustavo",
+"aliases": [
+"Miguel Gustavo Werneck de Sousa Martins"
+],
+"links": 21
+},
+{
+"name": "Mike Garson",
+"aliases": [
+"Michael David Garson"
+],
+"links": 21
+},
+{
+"name": "Mikhail Gnesin",
+"aliases": [
+"Michael Fabionovitch Gniessin",
+"Mikhail Fabianovich Gnesin",
+"Mikhail Fabianovich Gnessin"
+],
+"links": 21
+},
+{
+"name": "Mykhailo Verbytskyi",
+"aliases": [
+"Mikhail Mikhaylovich Verbitsky",
+"Mikhail Verbitsky",
+"Mychajlo M. Verbycʹkyj",
+"Mychajlo Werbytskyj",
+"Mykhailo Mykhailovych Verbytskyi"
+],
+"links": 21
+},
+{
+"name": "Nannette Streicher",
+"aliases": [
+"Nannette Stein",
+"Nannette Streicher née Stein"
+],
+"links": 21
+},
+{
+"name": "Napoleon Orda",
+"aliases": [
+"Napoleon Mateusz Tadeusz Orda"
+],
+"links": 21
+},
+{
+"name": "Nicolas Isouard",
+"aliases": [
+"Niccolò Isonard",
+"Nicolò Isouard"
+],
+"links": 21
+},
+{
+"name": "Niels-Henning Ørsted Pedersen",
+"aliases": [
+"Niels-Henning Orsted Pedersen"
+],
+"links": 21
+},
+{
+"name": "Nikolaus I, Prince Esterházy",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Nikos Skalkottas",
+"aliases": [
+"Nikolaus Skalkottas",
+"Nikos Skalkotas"
+],
+"links": 21
+},
+{
+"name": "Nina Grieg",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Pepper Adams",
+"aliases": [
+"Park Frederick Adams III"
+],
+"links": 21
+},
+{
+"name": "Peter H. Gilmore",
+"aliases": [
+"Peter Gilmore",
+"Peter H Gilmore",
+"Peter Howard Gilmore"
+],
+"links": 21
+},
+{
+"name": "Petr Eben",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Philipp Nicolai",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Pierre Baillot",
+"aliases": [
+"Pierre Marie François de Sales Baillot"
+],
+"links": 21
+},
+{
+"name": "Pietro Filippo Scarlatti",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Prabhat Rainjan Sarkar",
+"aliases": [
+"Anandamurti",
+"Baba",
+"baba baba",
+"Prabhat Ranjan Sarkar",
+"Shrii Shrii Anandamurti",
+"shrii shrri"
+],
+"links": 21
+},
+{
+"name": "Prince Albert of Prussia",
+"aliases": [
+"Albrecht"
+],
+"links": 21
+},
+{
+"name": "Prince Louis Ferdinand of Prussia",
+"aliases": [
+"Louis Ferdinand",
+"Prince Louis Ferdinand"
+],
+"links": 21
+},
+{
+"name": "Prince Ludwig Ferdinand of Bavaria",
+"aliases": [
+"Ludwig Ferdinand"
+],
+"links": 21
+},
+{
+"name": "Princess Therese of Saxe-Altenburg",
+"aliases": [
+"Theresa of Saxe-Altenburg",
+"Therese von Sachsen-Altenburg"
+],
+"links": 21
+},
+{
+"name": "Randy Edelman",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Remo Giazotto",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Riccardo Drigo",
+"aliases": [
+"Riccardo Eugenio Drigo"
+],
+"links": 21
+},
+{
+"name": "Richard Addinsell",
+"aliases": [
+"Richard Stewart Addinsell"
+],
+"links": 21
+},
+{
+"name": "Ron Geesin",
+"aliases": [
+"Ronald Frederick Geesin"
+],
+"links": 21
+},
+{
+"name": "Ruperto Chapí",
+"aliases": [
+"Ruperto Chapi"
+],
+"links": 21
+},
+{
+"name": "Sakutarō Hagiwara",
+"aliases": [
+"Sakutaro Hagiwara",
+"Sakutarou Hagiwara"
+],
+"links": 21
+},
+{
+"name": "Samuel Arnold",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Sara Sadıyqova",
+"aliases": [
+"Sara Sadiqova"
+],
+"links": 21
+},
+{
+"name": "Scott Bradley",
+"aliases": [
+"Walter Scott Bradley"
+],
+"links": 21
+},
+{
+"name": "Sebastián Iradier",
+"aliases": [
+"Sebastian Iradier",
+"Sebastián Yradier"
+],
+"links": 21
+},
+{
+"name": "Sergei Lyapunov",
+"aliases": [
+"Liapunov",
+"Sergei Mikhailovich Lyapunov",
+"Sergey Lyapunov",
+"Sergey Mikhailovich Lyapunov"
+],
+"links": 21
+},
+{
+"name": "Simon Sechter",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Siobhan Fahey",
+"aliases": [
+"Siobhan Maire Deirdre Fahey",
+"Siobhan Maire Fahey"
+],
+"links": 21
+},
+{
+"name": "Sonny Boy Williamson I",
+"aliases": [
+"John Lee Williamson",
+"Sonny Boy Williamson"
+],
+"links": 21
+},
+{
+"name": "Stanley Myers",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Stanley Turrentine",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Stefano Landi",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tatiana Nikolayeva",
+"aliases": [
+"Tatiana Petrovna Nikolayeva",
+"Tatyana Nikolayeva",
+"Tatyana Petrovna Nikolayeva"
+],
+"links": 21
+},
+{
+"name": "Temistocle Solera",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Thomas Weelkes",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Thorbjørn Egner",
+"aliases": [
+"Thorbjoern Egner"
+],
+"links": 21
+},
+{
+"name": "Tigran Chukhajian",
+"aliases": [
+"Dikran Tchouhadjian",
+"Tigran Gevorki Chukhajian",
+"Tigran Tchoukhajian"
+],
+"links": 21
+},
+{
+"name": "Toivo Kuula",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Tomás Bretón",
+"aliases": [
+"Tomas Breton",
+"Tomás Bretón i Hernández"
+],
+"links": 21
+},
+{
+"name": "Vasily Agapkin",
+"aliases": [
+"Vasily Ivanovich Agapkin"
+],
+"links": 21
+},
+{
+"name": "Vernon Duke",
+"aliases": [
+"Vladimir Dukelsky"
+],
+"links": 21
+},
+{
+"name": "Vicente Martín y Soler",
+"aliases": [
+"Vicente Martin y Soler"
+],
+"links": 21
+},
+{
+"name": "Vinnie Colaiuta",
+"aliases": [
+"Vincent Peter Colaiuta"
+],
+"links": 21
+},
+{
+"name": "Walter Gieseking",
+"aliases": [
+"Walter Wilhelm Gieseking"
+],
+"links": 21
+},
+{
+"name": "Werner Egk",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Wilhelm Friedrich Ernst Bach",
+"aliases": [
+"Wilhelm Bach",
+"William Bach"
+],
+"links": 21
+},
+{
+"name": "Wilhelm Stenhammar",
+"aliases": [
+"Carl Wilhelm Eugen Stenhammar",
+"Stenhammar"
+],
+"links": 21
+},
+{
+"name": "Wojciech Żywny",
+"aliases": [
+"Adalbert Żywny",
+"Vojtěch Živný",
+"Wojciech Zywny"
+],
+"links": 21
+},
+{
+"name": "Yehuda Ashlag",
+"aliases": [
+"Baal Ha-Sulam",
+"Yehuda Leib Ha-Levi Ashlag"
+],
+"links": 21
+},
+{
+"name": "Yip Harburg",
+"aliases": [
+"E. Y. Harburg",
+"Edgar Yipsel Harburg",
+"Isidore Hochberg"
+],
+"links": 21
+},
+{
+"name": "Yuri Shaporin",
+"aliases": [
+"Yuri Alexandrovich Shaporin"
+],
+"links": 21
+},
+{
+"name": "Adalbert Gyrowetz",
+"aliases": [
+"Adalbert Mathias Gyrowetz",
+"Adalbert Matthias Gyrowetz"
+],
+"links": 20
+},
+{
+"name": "Adolf Wölfli",
+"aliases": [
+"Adolf Woelfli",
+"Adolf Wolfli",
+"Adolph Wölfli"
+],
+"links": 20
+},
+{
+"name": "Adolphe d'Ennery",
+"aliases": [
+"Adolphe d’Ennery"
+],
+"links": 20
+},
+{
+"name": "Al Foster",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Albert Ketèlbey",
+"aliases": [
+"Albert Ketelbey",
+"Albert William Ketelbey",
+"Albert William Ketèlbey"
+],
+"links": 20
+},
+{
+"name": "Aleksander Goldenweiser",
+"aliases": [
+"Alexander Borisovich Goldenweiser"
+],
+"links": 20
+},
+{
+"name": "Aleksandr Gauk",
+"aliases": [
+"Aleksandr Vassilievich Gauk",
+"Alexander Vassilievich Gauk"
+],
+"links": 20
+},
+{
+"name": "Alexander Tcherepnin",
+"aliases": [
+"Aleksandr Nikolayevich Cherepnin",
+"Aleksandr Tcherepnin",
+"Alexander Nikolayevich Tcherepnin"
+],
+"links": 20
+},
+{
+"name": "Alfred Bruneau",
+"aliases": [
+"Louis-Charles-Bonaventure-Alfred Brunea"
+],
+"links": 20
+},
+{
+"name": "Alfred Pringsheim",
+"aliases": [
+"Alfred Israel Pringsheim"
+],
+"links": 20
+},
+{
+"name": "Allan Pettersson",
+"aliases": [
+"Gustaf Allan Pettersson"
+],
+"links": 20
+},
+{
+"name": "Amjad Ali Khan",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Andrei Mureșanu",
+"aliases": [
+"Andrei Mureşan"
+],
+"links": 20
+},
+{
+"name": "Anthony Braxton",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Anton Martin Slomšek",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Aribert Reimann",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Armando Peraza",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Arturo Márquez",
+"aliases": [
+"Arturo Marquez",
+"Arturo Marquez Navarro",
+"Arturo Márquez Navarro"
+],
+"links": 20
+},
+{
+"name": "Benjamin Godard",
+"aliases": [
+"Benjamin Louis Paul Godard",
+"Benjamin-Luis-Paul Godard"
+],
+"links": 20
+},
+{
+"name": "Biff Byford",
+"aliases": [
+"Peter Byford",
+"Peter Rodney Byford"
+],
+"links": 20
+},
+{
+"name": "Birger Sjöberg",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Bob Brookmeyer",
+"aliases": [
+"Robert Brookmeyer"
+],
+"links": 20
+},
+{
+"name": "Bobby Timmons",
+"aliases": [
+"Bobby",
+"Robert Henry",
+"Timmons"
+],
+"links": 20
+},
+{
+"name": "Béla Fleck",
+"aliases": [
+"Bela Fleck",
+"Béla Anton Leoš Fleck"
+],
+"links": 20
+},
+{
+"name": "Calixa Lavallée",
+"aliases": [
+"Calixa Lavallee"
+],
+"links": 20
+},
+{
+"name": "Carl Flesch",
+"aliases": [
+"Flesch Karoly",
+"Flesch Károly"
+],
+"links": 20
+},
+{
+"name": "Carl Fredrik Fallén",
+"aliases": [
+"Carl Fredrik Fallen",
+"Carolo Frederico Fallén",
+"Fallen",
+"Fallén"
+],
+"links": 20
+},
+{
+"name": "Charlie Mariano",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Conlon Nancarrow",
+"aliases": [
+"Samuel Conlon Nancarrow"
+],
+"links": 20
+},
+{
+"name": "Constant Lambert",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Count Hieronymus von Colloredo",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Curtis Fuller",
+"aliases": [
+"Curtis DuBois Fuller"
+],
+"links": 20
+},
+{
+"name": "Daphne Oram",
+"aliases": [
+"Daphne Blake Oram"
+],
+"links": 20
+},
+{
+"name": "Dennis Brain",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Dick Hyman",
+"aliases": [
+"Richard Hyman"
+],
+"links": 20
+},
+{
+"name": "Dmitri Prigov",
+"aliases": [
+"Dmitri Aleksandrovich Prigov",
+"Dmitrij Aleksandrovič Prigov",
+"Dmitrij Prigow",
+"Dmitry Prigov"
+],
+"links": 20
+},
+{
+"name": "Doc Pomus",
+"aliases": [
+"Jerome S. Felder"
+],
+"links": 20
+},
+{
+"name": "Domenico Gabrielli",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Duke Peter of Oldenburg",
+"aliases": [
+"Duke Constantine Frederick Peter of Oldenburg",
+"Konstantin Friedrich Peter Georgievich",
+"Prince Pyotr of Oldenburg"
+],
+"links": 20
+},
+{
+"name": "Eduard Nápravník",
+"aliases": [
+"Eduard Napravnik"
+],
+"links": 20
+},
+{
+"name": "Eino Tamberg",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Emil von Reznicek",
+"aliases": [
+"Emil Nikolaus Joseph von Reznicek"
+],
+"links": 20
+},
+{
+"name": "Emil von Sauer",
+"aliases": [
+"Emil Georg Conrad von Sauer",
+"Emil Sauer"
+],
+"links": 20
+},
+{
+"name": "Emma Smith",
+"aliases": [
+"Emma Hale Smith",
+"Emma Hale Smith Bidamon"
+],
+"links": 20
+},
+{
+"name": "Enrico Toselli",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Erkki-Sven Tüür",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ernst Toch",
+"aliases": [
+"Ernest Toch"
+],
+"links": 20
+},
+{
+"name": "Eubie Blake",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Fartein Valen",
+"aliases": [
+"Olav Fartein Valen"
+],
+"links": 20
+},
+{
+"name": "Felix Mikhailovich Blumenfeld",
+"aliases": [
+"Felix Blumenfeld"
+],
+"links": 20
+},
+{
+"name": "Ferdinand David",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Fontella Bass",
+"aliases": [
+"Fontella Marie Bass"
+],
+"links": 20
+},
+{
+"name": "František Brixi",
+"aliases": [
+"Frantisek Brixi",
+"Frantisek Xaver Brixi",
+"Franz Brixi"
+],
+"links": 20
+},
+{
+"name": "François Devienne",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Friedrich Cerha",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Friedrich Kiel",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Galina Ustvolskaya",
+"aliases": [
+"Galina Ivanovna Ustvolskaya",
+"Galina Ustvolskaïa"
+],
+"links": 20
+},
+{
+"name": "George Alexander Macfarren",
+"aliases": [
+"G. A. MacFarren",
+"Sir George Alexander Macfarren"
+],
+"links": 20
+},
+{
+"name": "George Onslow",
+"aliases": [],
+"links": 20
+},
+{
+"name": "George Russell",
+"aliases": [
+"George Allan Russell",
+"George Allen Russell"
+],
+"links": 20
+},
+{
+"name": "Gerald Wilson",
+"aliases": [
+"Gerald Stanley Wilson"
+],
+"links": 20
+},
+{
+"name": "Giora Feidman",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Gladys Bentley",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Guiraut de Bornelh",
+"aliases": [
+"Giraut de Borneil"
+],
+"links": 20
+},
+{
+"name": "Gus Kahn",
+"aliases": [
+"Gilbert Keyes",
+"Gus Kohn",
+"Kahn"
+],
+"links": 20
+},
+{
+"name": "Hans Christian Lumbye",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Heinrich Scheidemann",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Herman Rarebell",
+"aliases": [
+"Herman ze German",
+"Hermann Erbel",
+"Hermann Josef Erbel"
+],
+"links": 20
+},
+{
+"name": "Hermann Goetz",
+"aliases": [
+"Hermann Gotz",
+"Hermann Gustav Goetz"
+],
+"links": 20
+},
+{
+"name": "Hermann Levi",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Hugh Hopper",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ignaz Schuppanzigh",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ini Kamoze",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ivan Larionov",
+"aliases": [
+"Ivan Petrovich Larionov"
+],
+"links": 20
+},
+{
+"name": "Jacob van Eyck",
+"aliases": [
+"Jacob Jan Van Eyck"
+],
+"links": 20
+},
+{
+"name": "Jaki Liebezeit",
+"aliases": [],
+"links": 20
+},
+{
+"name": "James MacMillan",
+"aliases": [],
+"links": 20
+},
+{
+"name": "James Moody",
+"aliases": [],
+"links": 20
+},
+{
+"name": "James Pierpont",
+"aliases": [
+"J. Pierpont",
+"James Lord Pierpont"
+],
+"links": 20
+},
+{
+"name": "James Scott",
+"aliases": [
+"James Sylvester Scott"
+],
+"links": 20
+},
+{
+"name": "Jayachamarajendra Wadiyar",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Jean Guillou",
+"aliases": [
+"Jean Victor Arthur Guillou"
+],
+"links": 20
+},
+{
+"name": "Jean-Delphin Alard",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Jean-Joseph de Mondonville",
+"aliases": [
+"Jean Joseph Cassanea De Mondonville",
+"Jean-Joseph Cassanéa de Mondonville"
+],
+"links": 20
+},
+{
+"name": "Jerry Bock",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Jimmy Carl Black",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Johan Agrell",
+"aliases": [
+"Johan Joachim Agrell"
+],
+"links": 20
+},
+{
+"name": "Johann Adolf Scheibe",
+"aliases": [
+"Johann Adolph Scheibe"
+],
+"links": 20
+},
+{
+"name": "Johann Ludwig Krebs",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Johann Walter",
+"aliases": [
+"Johann Walther"
+],
+"links": 20
+},
+{
+"name": "Josef Hellmesberger",
+"aliases": [
+"Joseph Hellmesberger",
+"Joseph Hellmesberger d. J.",
+"Joseph Hellmesberger, Jr.",
+"Pepi Hellmesberger"
+],
+"links": 20
+},
+{
+"name": "Joseph Jongen",
+"aliases": [
+"Joseph Marie Alphonse Nicolas Jongen"
+],
+"links": 20
+},
+{
+"name": "Joseph Lamb",
+"aliases": [
+"Joseph Francis Lamb"
+],
+"links": 20
+},
+{
+"name": "Joseph Weigl",
+"aliases": [
+"Joseph Weigl der Ältere"
+],
+"links": 20
+},
+{
+"name": "Josipina Turnograjska",
+"aliases": [
+"Josipina Toman"
+],
+"links": 20
+},
+{
+"name": "Julius Reubke",
+"aliases": [
+"Friedrich Julius Reubke"
+],
+"links": 20
+},
+{
+"name": "Juventino Rosas",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Ján Cikker",
+"aliases": [
+"Jan Cikker"
+],
+"links": 20
+},
+{
+"name": "Karl Wilhelm Ramler",
+"aliases": [
+"C. W. Ramler",
+"Carl Wilhelm Ramler"
+],
+"links": 20
+},
+{
+"name": "Lalon",
+"aliases": [
+"Lalon Fakir",
+"Lalon Fokir",
+"Lalon Saint",
+"Lalon Shah",
+"Lalon Shah,",
+"Mahatma Lalon"
+],
+"links": 20
+},
+{
+"name": "Leo Fall",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Leonard Rosenman",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Leonard Slatkin",
+"aliases": [
+"Leonard Edward Slatkin"
+],
+"links": 20
+},
+{
+"name": "Leopold Koželuch",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Lil Hardin Armstrong",
+"aliases": [
+"Lil Hardin-Armstrong",
+"Lillian Hardin Armstrong",
+"Lillian Hardin-Armstrong"
+],
+"links": 20
+},
+{
+"name": "Louie Bellson",
+"aliases": [
+"Louis Bellson"
+],
+"links": 20
+},
+{
+"name": "Louis Couperin",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Louise Farrenc",
+"aliases": [
+"Jeanne-Louise Farrenc"
+],
+"links": 20
+},
+{
+"name": "Ludwig Thuille",
+"aliases": [
+"Ludwig Wilhelm Andreas Maria Thuille"
+],
+"links": 20
+},
+{
+"name": "Luis de Pablo",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Luzzasco Luzzaschi",
+"aliases": [
+"Luzzaschi"
+],
+"links": 20
+},
+{
+"name": "Masaaki Suzuki",
+"aliases": [
+"Suzuki"
+],
+"links": 20
+},
+{
+"name": "Meliton Balanchivadze",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Mikel Koliqi",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Mirko Petrović-Njegoš",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Morton Gould",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Muslim Magomayev",
+"aliases": [
+"Abdulmuslim Muhammad oghlu Magomayev",
+"Magomayev, Muslim"
+],
+"links": 20
+},
+{
+"name": "Naushad",
+"aliases": [
+"Naushad Ali"
+],
+"links": 20
+},
+{
+"name": "Necil Kazım Akses",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Nikolai Zverev",
+"aliases": [
+"Nikolai Sergeyevich Zverev",
+"Nikolai Sverev",
+"Nikolai Zveref"
+],
+"links": 20
+},
+{
+"name": "Oliver Knussen",
+"aliases": [
+"Stuart Oliver Knussen"
+],
+"links": 20
+},
+{
+"name": "Oskar Kolberg",
+"aliases": [
+"Henryk Oskar Kolberg"
+],
+"links": 20
+},
+{
+"name": "Oskar Sala",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Patrick Moraz",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Paul Motian",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Paul Sacher",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Pauline Oliveros",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Peter Baltes",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Peter Benoit",
+"aliases": [
+"Peter Benoît",
+"Peter Leonard Leopold Benoit"
+],
+"links": 20
+},
+{
+"name": "Peter Schickele",
+"aliases": [
+"Johann Peter Schickele",
+"P. D. Q. Bach"
+],
+"links": 20
+},
+{
+"name": "Philip, Prince of Eulenburg",
+"aliases": [
+"Philipp",
+"Philipp Fürst zu Eulenburg-Hertefeld"
+],
+"links": 20
+},
+{
+"name": "Philippe Sarde",
+"aliases": [
+"Philippe Saada"
+],
+"links": 20
+},
+{
+"name": "Pierre Beauchamp",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Pierre Rode",
+"aliases": [
+"Jacques Pierre Joseph Rode"
+],
+"links": 20
+},
+{
+"name": "Pixinguinha",
+"aliases": [
+"Alfredo da Rocha Vianna Junior",
+"Alfredo Vianna"
+],
+"links": 20
+},
+{
+"name": "Princess Sophie of Schönburg-Waldenburg",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Rabih Abou-Khalil",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Randy Weston",
+"aliases": [
+"Randolph Weston"
+],
+"links": 20
+},
+{
+"name": "Ray Bryant",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Rbi Menachem Mendel Schneersohn",
+"aliases": [
+"Menachem Mendel Schneersohn",
+"Tzemach Tzedek"
+],
+"links": 20
+},
+{
+"name": "Riccardo Broschi",
+"aliases": [
+"Riccardo Brosca"
+],
+"links": 20
+},
+{
+"name": "Richard Barbieri",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Richard Boyle, 3rd Earl of Burlington",
+"aliases": [
+"Earl of Burlington Richard Boyle",
+"Richard Boyle",
+"Richard Boyle Burlington Earl of",
+"Richard Boyle, Earl of Burlington",
+"Richard, 3rd Earl of Burlington Boyle",
+"Richard, Earl of Burlington Boyle"
+],
+"links": 20
+},
+{
+"name": "Robert Kajanus",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Robert Russell Bennett",
+"aliases": [
+"Russell Bennett"
+],
+"links": 20
+},
+{
+"name": "Roger Pontare",
+"aliases": [
+"Fred Roger Pontare",
+"Roger Johansson"
+],
+"links": 20
+},
+{
+"name": "Selim Palmgren",
+"aliases": [
+"Selim Gustaf Adolf Palmgren"
+],
+"links": 20
+},
+{
+"name": "Sergei Bortkiewicz",
+"aliases": [
+"Sergei Eduardovich Bortkiewicz",
+"Sergej Eduardovič Bortkevič"
+],
+"links": 20
+},
+{
+"name": "Sergei Vasilenko",
+"aliases": [
+"Sergei Nikiforovich Vasilenko"
+],
+"links": 20
+},
+{
+"name": "Simón Díaz",
+"aliases": [
+"Simón Díaz Márquez",
+"Simón Narciso Díaz Márquez"
+],
+"links": 20
+},
+{
+"name": "Sordello de Mantoue",
+"aliases": [
+"Sordello of Goito"
+],
+"links": 20
+},
+{
+"name": "Susana Baca",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Susanna Amatuni",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Sylvester",
+"aliases": [
+"Sylvester James",
+"Sylvester James Jr.",
+"Sylvester James, Jr."
+],
+"links": 20
+},
+{
+"name": "Søren Kragh-Jacobsen",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tadd Dameron",
+"aliases": [
+"Tadley Ewing Dameron"
+],
+"links": 20
+},
+{
+"name": "Tadeusz Baird",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tapan Sinha",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Tofig Guliyev",
+"aliases": [
+"Tofig Alakbar oglu Guliyev",
+"Tofik Guliyev",
+"Tofik Gulyef",
+"Tofik Kuliev",
+"Tofik Kuliyev",
+"Tofiq Guliyev",
+"Tofiq Qualiyev",
+"Tofiq Quliyev",
+"Tovfik Guliev",
+"Tovfik Guliyev"
+],
+"links": 20
+},
+{
+"name": "Tomasz Stańko",
+"aliases": [
+"Tomasz Stanko"
+],
+"links": 20
+},
+{
+"name": "Victor Schertzinger",
+"aliases": [
+"Víctor L. Schertzinger"
+],
+"links": 20
+},
+{
+"name": "Vincent Youmans",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Vjenceslav Novak",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Volodymyr Melnykov",
+"aliases": [
+"Melnikov Vladimir",
+"Vladimir Melnikov"
+],
+"links": 20
+},
+{
+"name": "Vítězslava Kaprálová",
+"aliases": [
+"Vitezslava Kapralova"
+],
+"links": 20
+},
+{
+"name": "Walter Susskind",
+"aliases": [
+"Jan Walter Susskind",
+"Süsskind, Hanuš Walter",
+"Süsskind, Walter",
+"Walter Süsskind"
+],
+"links": 20
+},
+{
+"name": "Wilhelm Peterson-Berger",
+"aliases": [
+"Wilhelm Olof Peterson-Berger"
+],
+"links": 20
+},
+{
+"name": "William Bolcom",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Wolfgang Hildesheimer",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Yvonne Loriod",
+"aliases": [
+"Yvonne Louise Georgette Loriod-Messiaen",
+"Yvonne Louise-Georgette Loriod-Messiaen"
+],
+"links": 20
+},
+{
+"name": "Zacharie Astruc",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Aarre Merikanto",
+"aliases": [
+"Aare Merikanto",
+"Aare merikanto"
+],
+"links": 19
+},
+{
+"name": "Adam of Saint Victor",
+"aliases": [
+"Adam de Saint-Victor",
+"Adam of St. Victor",
+"Adamus Sancti Victoris"
+],
+"links": 19
+},
+{
+"name": "Adolf Busch",
+"aliases": [
+"Adolf Georg Wilhelm Busch"
+],
+"links": 19
+},
+{
+"name": "Adolf Fredrik Lindblad",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Adolf Wiklund",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Adolph Deutsch",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Akira Ifukube",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Alberto Franchetti",
+"aliases": [
+"Baron Alberto Franchetti",
+"Barone Alberto Franchetti"
+],
+"links": 19
+},
+{
+"name": "Alberto Nepomuceno",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Alexander Courage",
+"aliases": [
+"Alexander Mair Courage Jr.",
+"Sandy Courage"
+],
+"links": 19
+},
+{
+"name": "Alf Clausen",
+"aliases": [
+"Alf Faye Heiberg Clausen",
+"Alf H. Clausen"
+],
+"links": 19
+},
+{
+"name": "Alfrēds Kalniņš",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Alice Tegnér",
+"aliases": [
+"Alice Charlotta Tegnér",
+"Alice Tegner"
+],
+"links": 19
+},
+{
+"name": "Anand Bakshi",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Andreas Werckmeister",
+"aliases": [
+"Werckmeister",
+"Werkmeister"
+],
+"links": 19
+},
+{
+"name": "André Caplet",
+"aliases": [
+"Andre Caplet"
+],
+"links": 19
+},
+{
+"name": "André Gedalge",
+"aliases": [
+"Andre Gedalge"
+],
+"links": 19
+},
+{
+"name": "Anouar Brahem",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Antoine Brumel",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Anton Pann",
+"aliases": [
+"Anton Pantoleon",
+"Anton Petrovici",
+"eon-Petroveanu"
+],
+"links": 19
+},
+{
+"name": "Antonio Bertali",
+"aliases": [
+"Bartali, Antonio",
+"Barthali, Antonio",
+"Bertaldi, Antonio",
+"Bertalli, Antonio",
+"Berthali, Antonio"
+],
+"links": 19
+},
+{
+"name": "Antón García Abril",
+"aliases": [
+"Anton Garcia Abril"
+],
+"links": 19
+},
+{
+"name": "Arne Bendiksen",
+"aliases": [
+"Arne Bendixen"
+],
+"links": 19
+},
+{
+"name": "Arthur Saint-Léon",
+"aliases": [
+"Arthur Saint-Leon"
+],
+"links": 19
+},
+{
+"name": "August Wilhelm Ambros",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Auguste Franchomme",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Baby Dodds",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Billy Vaughn",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Blue Mitchell",
+"aliases": [
+"Richard Allen Mitchell"
+],
+"links": 19
+},
+{
+"name": "Bobby Hutcherson",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Brad Fiedel",
+"aliases": [
+"Brad Ira Fiedel",
+"Bradley Ira Fiedel"
+],
+"links": 19
+},
+{
+"name": "Bruce Broughton",
+"aliases": [
+"Bruce Harold Broughton"
+],
+"links": 19
+},
+{
+"name": "Cachao",
+"aliases": [
+"Israel López",
+"Israel López Valdés"
+],
+"links": 19
+},
+{
+"name": "Carl Dahlhaus",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Carl W. Stalling",
+"aliases": [
+"Arch B. Fritz",
+"Carl Stalling"
+],
+"links": 19
+},
+{
+"name": "Carlo Rustichelli",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Carmen Linares",
+"aliases": [
+"Carmen Pacheco Rodríguez"
+],
+"links": 19
+},
+{
+"name": "Charles Avison",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Charlie Barnet",
+"aliases": [
+"Charles Daly Barnet"
+],
+"links": 19
+},
+{
+"name": "Christian Cannabich",
+"aliases": [
+"Johann Christian Innocenz Bonaventura Cannabich"
+],
+"links": 19
+},
+{
+"name": "Christian Gottfried Körner",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Christian Zacharias",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Chulabhorn, Princess Srisavangavadhana",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Claude Le Jeune",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Claudin de Sermisy",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Cristóbal Halffter",
+"aliases": [
+"Cristobal Halffter"
+],
+"links": 19
+},
+{
+"name": "Cyrillus Kreek",
+"aliases": [],
+"links": 19
+},
+{
+"name": "David Cross",
+"aliases": [
+"David Francis Cross"
+],
+"links": 19
+},
+{
+"name": "David Raksin",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Dennis Russell Davies",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Der von Kürenberg",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Dietmar von Aist",
+"aliases": [
+"Dietmar Von Eist"
+],
+"links": 19
+},
+{
+"name": "Dobri Hristov",
+"aliases": [
+"Dobri Christov"
+],
+"links": 19
+},
+{
+"name": "Don Davis",
+"aliases": [
+"Donald Romain Davis"
+],
+"links": 19
+},
+{
+"name": "Duke Eugen of Württemberg",
+"aliases": [
+"Herzog Eugen von Württemberg",
+"Prinz von Württemberg Eugen"
+],
+"links": 19
+},
+{
+"name": "Eddie Palmieri",
+"aliases": [
+"Eddie Palmieri, Sr."
+],
+"links": 19
+},
+{
+"name": "Efrem Zimbalist",
+"aliases": [
+"Efrem Zimbalist Sr."
+],
+"links": 19
+},
+{
+"name": "Egidio Duni",
+"aliases": [
+"Egidio Romualdo Duni"
+],
+"links": 19
+},
+{
+"name": "Emil Paur",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Emilio Arrieta",
+"aliases": [
+"Juan Pascual Antonio Arrieta Corera",
+"Pascual Emilio Arrieta",
+"Pascual Juan Emilio Arrieta Corera"
+],
+"links": 19
+},
+{
+"name": "Enrique Morente",
+"aliases": [
+"Enrique Morente Cotelo"
+],
+"links": 19
+},
+{
+"name": "Errico Petrella",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Federico Moreno Torroba",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Felisberto Hernández",
+"aliases": [
+"Felisberto",
+"Felisberto Hernandez",
+"Hernandez",
+"Hernández"
+],
+"links": 19
+},
+{
+"name": "Felix Draeseke",
+"aliases": [
+"Felix August Bernhard Draeseke"
+],
+"links": 19
+},
+{
+"name": "Ferenc Farkas",
+"aliases": [
+"Farkas Ferenc"
+],
+"links": 19
+},
+{
+"name": "Francesca Lebrun",
+"aliases": [
+"Franziska Dorothea Danzi"
+],
+"links": 19
+},
+{
+"name": "Francesco Araja",
+"aliases": [
+"Francesco Domenico Araja"
+],
+"links": 19
+},
+{
+"name": "Francesco Canova da Milano",
+"aliases": [
+"Francesco da Milano"
+],
+"links": 19
+},
+{
+"name": "Francisco Asenjo Barbieri",
+"aliases": [
+"Francisco de Asís Esteban Asenjo Barbieri"
+],
+"links": 19
+},
+{
+"name": "Franco Faccio",
+"aliases": [
+"Francesco Antonio, detto Franco Faccio"
+],
+"links": 19
+},
+{
+"name": "Franghiz Ali-Zadeh",
+"aliases": [
+"Firəngiz Əlizadə"
+],
+"links": 19
+},
+{
+"name": "Frantisek Skraup",
+"aliases": [
+"František Jan Škroup"
+],
+"links": 19
+},
+{
+"name": "François Habeneck",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Friedrich Wilhelm Marpurg",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Gaetano Pugnani",
+"aliases": [
+"Giulio Gaetano Pugnani",
+"Pugnani"
+],
+"links": 19
+},
+{
+"name": "Garsende",
+"aliases": [
+"Garsenda Countess of Provence",
+"Garsenda II",
+"Garsenda II of Sabran",
+"Garsenda of Forcalquier",
+"Garsenda of Provence",
+"Garsenda of Sabran",
+"Garsenda, Countess of Forcalquier"
+],
+"links": 19
+},
+{
+"name": "Gary Lux",
+"aliases": [
+"Gerhard Lux"
+],
+"links": 19
+},
+{
+"name": "Gary Wright",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Gavin Bryars",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Georg Nikolaus von Nissen",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Ghazaros Aghayan",
+"aliases": [
+"Agayan, Gazaros",
+"Aghayan, Ghazaros",
+"Gazaros Agayan"
+],
+"links": 19
+},
+{
+"name": "Giacinto Scelsi",
+"aliases": [
+"Giacinto Francesco Maria Scelsi"
+],
+"links": 19
+},
+{
+"name": "Giovanni Animuccia",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Giovanni Artusi",
+"aliases": [
+"Giovanni Maria Artusi"
+],
+"links": 19
+},
+{
+"name": "Giovanni Capurro",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Giuseppe Martucci",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Giuseppe Sammartini",
+"aliases": [
+"Giuseppe Baldassare Sammartini",
+"Giuseppe Baldassarre Sammartini"
+],
+"links": 19
+},
+{
+"name": "Gottfried Heinrich Stölzel",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Graeme Revell",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Gérard Grisey",
+"aliases": [
+"Gerard Grisey"
+],
+"links": 19
+},
+{
+"name": "Günter Wand",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Halfdan Kjerulf",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Harry Carney",
+"aliases": [
+"Harry Howell Carney"
+],
+"links": 19
+},
+{
+"name": "Henk Badings",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Henri Herz",
+"aliases": [
+"Heinrich Herz"
+],
+"links": 19
+},
+{
+"name": "Henri Sauguet",
+"aliases": [
+"Henri-Pierre Poupard",
+"Henri-Pierre Sauguet-Poupard",
+"Henry Sauguet"
+],
+"links": 19
+},
+{
+"name": "Henry Bishop",
+"aliases": [
+"Henry Rowley Bishop",
+"Sir Henry Rowley Bishop"
+],
+"links": 19
+},
+{
+"name": "Hirokazu Tanaka",
+"aliases": [
+"Chip Tanaka"
+],
+"links": 19
+},
+{
+"name": "István Kertész",
+"aliases": [
+"Istvan Kertesz"
+],
+"links": 19
+},
+{
+"name": "Ivan Fischer",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Jacques-Nicolas Lemmens",
+"aliases": [
+"Jaak Nikolas Lemmens"
+],
+"links": 19
+},
+{
+"name": "Jakob Balde",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Jakob Lorber",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Jakub Jan Ryba",
+"aliases": [
+"Jakub Šimon Jan Ryba"
+],
+"links": 19
+},
+{
+"name": "Jean Langlais",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Jean-Féry Rebel",
+"aliases": [
+"Jean-Fery Rebel"
+],
+"links": 19
+},
+{
+"name": "Joe Arroyo",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Johann Gottfried Bernhard Bach",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Johann Gottlieb Goldberg",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Johann Gottlieb Graun",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Johann Melchior Molter",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Johann Michael Bach I",
+"aliases": [
+"Johann Michael Bach"
+],
+"links": 19
+},
+{
+"name": "Johann Peter Salomon",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Johann Rosenmüller",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Johann von Herbeck",
+"aliases": [
+"Johann Herbeck",
+"Johann Ritter von Herbeck"
+],
+"links": 19
+},
+{
+"name": "Johanna Kinkel",
+"aliases": [
+"Johanna Mathieux",
+"Mockel"
+],
+"links": 19
+},
+{
+"name": "John Koukouzeles",
+"aliases": [
+"Iōannēs Koukouzelēs",
+"Joannes Koukouzelis",
+"John Koukouzelis Papadopoulos",
+"John Kukuzelis"
+],
+"links": 19
+},
+{
+"name": "John Stainer",
+"aliases": [
+"Sir John Stainer"
+],
+"links": 19
+},
+{
+"name": "José María Ventura Casas",
+"aliases": [
+"Josep Maria Ventura i Casas",
+"Pep Ventura"
+],
+"links": 19
+},
+{
+"name": "Jovdat Hajiyev",
+"aliases": [
+"Ahmad Jovdat Ismayil oglu Hajiyev",
+"Cövdät Hacıyev",
+"Dževdet Gadžiev",
+"Jȯvdăt Ḣajyi̐ev"
+],
+"links": 19
+},
+{
+"name": "Judith Weir",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Julius Benedict",
+"aliases": [
+"Sir Julius Benedict"
+],
+"links": 19
+},
+{
+"name": "Julius Klengel",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Julius Röntgen",
+"aliases": [
+"Julius Engelbert Röntgen",
+"Julius Rontgen"
+],
+"links": 19
+},
+{
+"name": "Jón Leifs",
+"aliases": [
+"Jon Leifs"
+],
+"links": 19
+},
+{
+"name": "Karl-Birger Blomdahl",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Konrad von Würzburg",
+"aliases": [
+"Konrad von Wurzburg"
+],
+"links": 19
+},
+{
+"name": "Leigh Harline",
+"aliases": [
+"Leigh Adrian Harline"
+],
+"links": 19
+},
+{
+"name": "Lennie Tristano",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Leopold Hofmann",
+"aliases": [
+"Leopold Hoffmann"
+],
+"links": 19
+},
+{
+"name": "Lepo Sumera",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lev Oborin",
+"aliases": [
+"Lev Nikolayevich Oborin"
+],
+"links": 19
+},
+{
+"name": "Lionel Tertis",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Ljubica Marić",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lorenzo Perosi",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Lou Harrison",
+"aliases": [
+"Lou Silver Harrison"
+],
+"links": 19
+},
+{
+"name": "Louis Diémer",
+"aliases": [
+"Louis Diemer"
+],
+"links": 19
+},
+{
+"name": "Louis Théodore Gouvy",
+"aliases": [
+"Louis Theodore Gouvy",
+"Théodore Gouvy"
+],
+"links": 19
+},
+{
+"name": "Lowell Mason",
+"aliases": [
+"Dr Lowell Mason"
+],
+"links": 19
+},
+{
+"name": "Luigi Rossi",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Marc'Antonio Ingegneri",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Marcello Abbado",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Maria Wodzińska",
+"aliases": [
+"Maria Orpiszewska"
+],
+"links": 19
+},
+{
+"name": "Mark King",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Mart Saar",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Martial Solal",
+"aliases": [
+"Martial Saoul Cohen-Solal",
+"Martial Solal Dodecaband"
+],
+"links": 19
+},
+{
+"name": "Martín Codax",
+"aliases": [
+"Martin Codax"
+],
+"links": 19
+},
+{
+"name": "Matthew Locke",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Matthias Weckmann",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Max von Schillings",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Meredith Willson",
+"aliases": [
+"Robert Meredith Reiniger Willson",
+"Robert Meredith Willson",
+"Robert Reiniger Meredith Willson"
+],
+"links": 19
+},
+{
+"name": "Michał Kazimierz Ogiński",
+"aliases": [
+"M. Oginsky",
+"Michael Kasimir Ogineski",
+"Michael Kasimir Oginéski",
+"Michael Oginski",
+"Michael von Oginski",
+"Michail Kazimierz Ogineski",
+"Michail Kazimierz Oginéski",
+"Michail Kazimierz, prins Oginski",
+"Michal Kazimierz Oginski",
+"Michał K. Oginéski",
+"Michał Kazimierz Oginski",
+"Michał Kazimierz Oginéski",
+"Michał Kazimierz, Prince Ogiński",
+"Michel Oginski",
+"Michel Ogiński",
+"Ogiński, Michał Kazimierz",
+"Prince Michal Kazimierz Oginski",
+"Prince Michał Kazimierz Ogiński"
+],
+"links": 19
+},
+{
+"name": "Michel Blavet",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Mick Karn",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Mike Ratledge",
+"aliases": [
+"Michael Roland Ratledge"
+],
+"links": 19
+},
+{
+"name": "Modest Tchaikovsky",
+"aliases": [
+"Modest Ilyich Tchaikovsky"
+],
+"links": 19
+},
+{
+"name": "Monty Norman",
+"aliases": [
+"Monty Noserovitch"
+],
+"links": 19
+},
+{
+"name": "Moriz Rosenthal",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Neşet Ertaş",
+"aliases": [
+"Neset Ertas"
+],
+"links": 19
+},
+{
+"name": "Nicola Vicentino",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Nicolas de Grigny",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Nicolas Gombert",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Nigel Olsson",
+"aliases": [
+"Ollie Olsson"
+],
+"links": 19
+},
+{
+"name": "Norman Dello Joio",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Otar Taktakishvili",
+"aliases": [
+"Otar Vasilisdze Taktakishvili"
+],
+"links": 19
+},
+{
+"name": "Pascal Dusapin",
+"aliases": [
+"Pascal Georges Dusapin"
+],
+"links": 19
+},
+{
+"name": "Patty Smyth",
+"aliases": [
+"Patricia Smyth"
+],
+"links": 19
+},
+{
+"name": "Pavel Vranický",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Peire Cardenal",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Peter Warlock",
+"aliases": [
+"Philip Arnold Heseltine",
+"Philip Hesseltine"
+],
+"links": 19
+},
+{
+"name": "Pierre Attaingnant",
+"aliases": [
+"Pierre Attaignant"
+],
+"links": 19
+},
+{
+"name": "Princess Maria Amalie of Saxony",
+"aliases": [
+"A. Serena",
+"Amalie Herter",
+"Amalie Marie Friederike Auguste",
+"Amalie, Prinzessin von Sachsen",
+"Princess Amalie of Saxony",
+"Princess of Saxony Amalie"
+],
+"links": 19
+},
+{
+"name": "Purandara Dasa",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Red Mitchell",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Richard Heuberger",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Rika Zaraï",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Robert Volkmann",
+"aliases": [
+"Friedrich Robert Volkmann"
+],
+"links": 19
+},
+{
+"name": "Roy Bittan",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Roy Harris",
+"aliases": [
+"Roy Ellsworth Harris"
+],
+"links": 19
+},
+{
+"name": "Shahram Nazeri",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Shelly Manne",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Shunsuke Kikuchi",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Shura Cherkassky",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Siegmund von Hausegger",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Sigismondo d' India",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Sinn Sisamouth",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Sonny Clark",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Sonny Fortune",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Sophie Menter",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Steve Lacy",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Sveinbjörn Sveinbjörnsson",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Theodor Kullak",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Thomas Linley",
+"aliases": [
+"English Mozart",
+"Thomas Linley the younger"
+],
+"links": 19
+},
+{
+"name": "Tielman Susato",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Toshio Hosokawa",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Ulrich von Liechtenstein",
+"aliases": [
+"Ulrich von Lichtenstein"
+],
+"links": 19
+},
+{
+"name": "Vagn Holmboe",
+"aliases": [
+"Vagn Gylding Holmboe"
+],
+"links": 19
+},
+{
+"name": "Vani Jairam",
+"aliases": [
+"Vani Jayaram"
+],
+"links": 19
+},
+{
+"name": "Vasyl Barvinsky",
+"aliases": [
+"Vasyl Oleksandrovych Barvinsky",
+"Vasyl' Oleksandrovych Barvyns'ky"
+],
+"links": 19
+},
+{
+"name": "Victor de Sabata",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Victor Massé",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Vilayat Khan",
+"aliases": [
+"Vilāyat Khan"
+],
+"links": 19
+},
+{
+"name": "Vittorio Gui",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Vladimir Martynov",
+"aliases": [
+"Vladimir Ivanovich Martynov"
+],
+"links": 19
+},
+{
+"name": "Václav Tomášek",
+"aliases": [
+"Vaclav Tomasek",
+"Václav Jan Tomášek",
+"Wenzel Johann Tumaschek",
+"Wenzel Tomascheck"
+],
+"links": 19
+},
+{
+"name": "Wanda Wiłkomirska",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Wenzel Müller",
+"aliases": [
+"Wenceslao Müller"
+],
+"links": 19
+},
+{
+"name": "Willem Kes",
+"aliases": [],
+"links": 19
+},
+{
+"name": "William Lawes",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Xaver Scharwenka",
+"aliases": [
+"Franz Xaver Scharwenka",
+"Theophil Franz Xaver Scharwenka"
+],
+"links": 19
+},
+{
+"name": "Yellowman",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Édouard Schuré",
+"aliases": [
+"Edouard Schure",
+"Eduard Schure",
+"Eduard Schuré",
+"Schure"
+],
+"links": 19
+},
+{
+"name": "Éliane Radigue",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Abd al-Qadir al-Maraghi",
+"aliases": [
+"'Abd al-Qadir al-Maraghi ibn Ghaybi",
+"Abd al-Kadir ibn Ghajbi al-Hafiz al-Maraghi",
+"ʿAbd-al-Qadir Marāḡaʾī",
+"ʿAbd-al-Qāder Marāḡaʾī"
+],
+"links": 18
+},
+{
+"name": "Abraham Zevi Idelsohn",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Adolf Bernhard Marx",
+"aliases": [
+"A. B. Marx",
+"Friedrich Heinrich Adolf Bernhard Marx"
+],
+"links": 18
+},
+{
+"name": "Adrien-François Servais",
+"aliases": [
+"Adrien François Servais"
+],
+"links": 18
+},
+{
+"name": "Afrasiab Badalbeyli",
+"aliases": [
+"Afrasiyab Badal bey oghlu Badalbeyli",
+"Afrasiyab Badal oglu Badalbeyli"
+],
+"links": 18
+},
+{
+"name": "Alan Bush",
+"aliases": [
+"Alan Dudley Bush"
+],
+"links": 18
+},
+{
+"name": "Albert Ammons",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Albert Coates",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Albrecht Haushofer",
+"aliases": [
+"Albrecht Georg Haushofer"
+],
+"links": 18
+},
+{
+"name": "Alessandro Rolla",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Alessandro Striggio",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Alexander Dreyschock",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Alexander Goehr",
+"aliases": [
+"Peter Alexander Goehr",
+"Prof. Alexander Goehr",
+"Sandy Goehr"
+],
+"links": 18
+},
+{
+"name": "Alexander Koshetz",
+"aliases": [
+"Alex. Koshetz",
+"Oleksander Koshyts",
+"Oleksander Koshyt︠s︡ʹ",
+"Oleksandr Košic"
+],
+"links": 18
+},
+{
+"name": "Alexandre Levy",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Alphonso Johnson",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Andrew Hill",
+"aliases": [
+"Andrew Hille"
+],
+"links": 18
+},
+{
+"name": "Angus MacLise",
+"aliases": [
+"Angus William MacLise"
+],
+"links": 18
+},
+{
+"name": "Antoine Duhamel",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Antoine Forqueray",
+"aliases": [
+"Forqueray"
+],
+"links": 18
+},
+{
+"name": "Anton Schindler",
+"aliases": [
+"Anton Felix Schindler"
+],
+"links": 18
+},
+{
+"name": "Anton Stamitz",
+"aliases": [
+"Johann Anton Stamitz"
+],
+"links": 18
+},
+{
+"name": "Anton Walter",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Antonio Rosetti",
+"aliases": [
+"A. Rosetti",
+"Anton Rosetti",
+"Anton Rösler",
+"Antonio Rösler",
+"Antonín Rosetti",
+"Antonín Rössler-Rosetti",
+"F. A. Rosetti",
+"F. Rosetti",
+"Francesco Antonio Rosetti",
+"Francesco Antonio Rossetti",
+"Frantishek Antonin Resler Roseti",
+"Frantishek Antonin Resler-Roseti",
+"František Antonín Rosetti",
+"František Antonín Rössler",
+"Franz Anton Roessler",
+"Franz Anton Rosetti",
+"Franz Anton Rosety",
+"Franz Anton Rösler",
+"Franz Anton Rösler-Rosetti"
+],
+"links": 18
+},
+{
+"name": "Arthur De Greef",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Arthur Fiedler",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Attilio Ariosti",
+"aliases": [
+"Attilio Malachia Ariosti",
+"Attilius Ariosti"
+],
+"links": 18
+},
+{
+"name": "Aulis Sallinen",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Barney Bigard",
+"aliases": [
+"Albany Leon Bigard",
+"Leon A. Bigard"
+],
+"links": 18
+},
+{
+"name": "Barry Harris",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Bella Davidovich",
+"aliases": [
+"Bella Mikhaylovna Davidovich"
+],
+"links": 18
+},
+{
+"name": "Boris Alexandrovich Alexandrov",
+"aliases": [
+"Boris A. Aleksandrov",
+"Boris Alexandrov"
+],
+"links": 18
+},
+{
+"name": "Buddhadeb Dasgupta",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Cerverí de Girona",
+"aliases": [
+"Cerveri de Girona"
+],
+"links": 18
+},
+{
+"name": "Cesare Pugni",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Charles Rosen",
+"aliases": [
+"Charles Welles Rosen",
+"Rosen, Charles"
+],
+"links": 18
+},
+{
+"name": "Christoph Demantius",
+"aliases": [
+"Johann Christoph Demantius"
+],
+"links": 18
+},
+{
+"name": "Christoph Ernst Friedrich Weyse",
+"aliases": [
+"C. E. F. Weyse",
+"Severus S."
+],
+"links": 18
+},
+{
+"name": "Claude Balbastre",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Claudio Scimone",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Clifford Jordan",
+"aliases": [
+"Clifford Laconia Jordan"
+],
+"links": 18
+},
+{
+"name": "Cláudio Santoro",
+"aliases": [
+"Claudio Santoro",
+"Cláudio Franco de Sá Santoro"
+],
+"links": 18
+},
+{
+"name": "Constantine, Prince of Hohenzollern-Hechingen",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Cornelius Gurlitt",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Dan Barker",
+"aliases": [],
+"links": 18
+},
+{
+"name": "David Del Tredici",
+"aliases": [
+"David Walter Del Tredici"
+],
+"links": 18
+},
+{
+"name": "David Murray",
+"aliases": [
+"David Keith Murray"
+],
+"links": 18
+},
+{
+"name": "David Rizzio",
+"aliases": [
+"David Riccio"
+],
+"links": 18
+},
+{
+"name": "Davorin Jenko",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Dimitri Arakishvili",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Dmitri Smirnov",
+"aliases": [
+"D. Smirnov-Sadovsky",
+"Dmitri Nikolaevich Smirnov",
+"Dmitry Nikolayevich Smirnov"
+],
+"links": 18
+},
+{
+"name": "Donald Tovey",
+"aliases": [
+"Sir Donald Francis Tovey"
+],
+"links": 18
+},
+{
+"name": "Duško Gojković",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ed Thigpen",
+"aliases": [
+"Edmund Leonard Thigpen"
+],
+"links": 18
+},
+{
+"name": "Edwin Hawkins",
+"aliases": [
+"Edwin Haw kins",
+"Edwin Hawkins Singers",
+"Edwin Reuben Hawkins"
+],
+"links": 18
+},
+{
+"name": "Einar Englund",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Eleonore Juliane of Brandenburg-Ansbach",
+"aliases": [
+"Eleonore Juliane von Brandenburg-Ansbach"
+],
+"links": 18
+},
+{
+"name": "Elizabeth Craven",
+"aliases": [
+"Baroness Craven",
+"Elizabeth Craven, Baroness Craven",
+"Elizabeth, Margravine of Anspach",
+"Lady Elizabeth Berkeley",
+"Margravine of Anspach"
+],
+"links": 18
+},
+{
+"name": "Elza İbrahimova",
+"aliases": [
+"Elza Imameddin qizi Ibrahimova"
+],
+"links": 18
+},
+{
+"name": "Enrique Fernández Arbós",
+"aliases": [
+"Enrique Fernandez Arbos"
+],
+"links": 18
+},
+{
+"name": "Ernesto De Curtis",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Errol Brown",
+"aliases": [
+"Errol Ainsworth Glenstor Brown"
+],
+"links": 18
+},
+{
+"name": "Florian Leopold Gassmann",
+"aliases": [
+"Florian Gassmann",
+"Florian Gaßmann",
+"Floriano Gassmann",
+"Leopold Gassman",
+"Leopold Gassmann",
+"Leopold Gaßmann"
+],
+"links": 18
+},
+{
+"name": "Francesco Bianchi",
+"aliases": [
+"Giuseppe Francesco Bianchi"
+],
+"links": 18
+},
+{
+"name": "Franck Pourcel",
+"aliases": [
+"Frank Pourcel"
+],
+"links": 18
+},
+{
+"name": "Franco Donatoni",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Franz Krommer",
+"aliases": [
+"František Krommer",
+"František Vincenc Kramář",
+"František Vincenc Kramář - Krommer"
+],
+"links": 18
+},
+{
+"name": "François Sudre",
+"aliases": [
+"Jean-François Sudre"
+],
+"links": 18
+},
+{
+"name": "François-Auguste Gevaert",
+"aliases": [
+"François Auguste Gevaert"
+],
+"links": 18
+},
+{
+"name": "Fred Ebb",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Frederick Schiller Faust",
+"aliases": [
+"David Manning",
+"Evan Evans",
+"Frederick Faust",
+"Frederick Frost",
+"George Challis",
+"George Evans",
+"George Owen Baxter",
+"John Frederick",
+"Max Brand",
+"Peter Morland",
+"Peter Ward"
+],
+"links": 18
+},
+{
+"name": "Gaucelm Faidit",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Gavriil Popov",
+"aliases": [
+"Gavriil Nikolayevich Popov"
+],
+"links": 18
+},
+{
+"name": "Georg Friedrich Haas",
+"aliases": [],
+"links": 18
+},
+{
+"name": "George Bruns",
+"aliases": [
+"George Edward Bruns"
+],
+"links": 18
+},
+{
+"name": "George Perle",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Gino Vannelli",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Giovanni Battista Bassani",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Giovanni D'Anzi",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Guy Ropartz",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Hans Huber",
+"aliases": [
+"Acid Warrior",
+"Atlon Inc.",
+"Colone",
+"Dicabor",
+"Gnork",
+"Leid",
+"Pumpgun Pro",
+"Ra-Patera",
+"Robert Babicz",
+"Sontec",
+"The Dusk",
+"Twirl"
+],
+"links": 18
+},
+{
+"name": "Hans Rott",
+"aliases": [
+"Johann Nepomuk Karl Maria Rott"
+],
+"links": 18
+},
+{
+"name": "Hans von Koessler",
+"aliases": [
+"Hans Koessler",
+"Kößler"
+],
+"links": 18
+},
+{
+"name": "Hans Zender",
+"aliases": [
+"Johannes Wolfgang Zender"
+],
+"links": 18
+},
+{
+"name": "Heinrich Bach",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Henri Cohen",
+"aliases": [
+"Carlo Coen",
+"Henry Cohen"
+],
+"links": 18
+},
+{
+"name": "Henri Tomasi",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Henry Aldrich",
+"aliases": [
+"Aldrich"
+],
+"links": 18
+},
+{
+"name": "Henry Carey",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Henry I, Count of Anhalt",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Herbert Stothart",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Herwarth Walden",
+"aliases": [
+"Georg Levin",
+"Georg Lewin",
+"Herwarth Georg Lewin Walden"
+],
+"links": 18
+},
+{
+"name": "Horatio Parker",
+"aliases": [
+"H. W. Parker",
+"H.W. Parker",
+"Horatio W. Parker",
+"Horatio William Parker"
+],
+"links": 18
+},
+{
+"name": "Hossein Alizadeh",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Humphrey Searle",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ira D. Sankey",
+"aliases": [
+"Ira David Sankey",
+"Ira Sankey"
+],
+"links": 18
+},
+{
+"name": "Irving Caesar",
+"aliases": [
+"Isidor Keiser"
+],
+"links": 18
+},
+{
+"name": "Issay Dobrowen",
+"aliases": [
+"Issay Aleksandrovich Dobroven",
+"Issay Alexandrovich Dobrowen"
+],
+"links": 18
+},
+{
+"name": "Ivan Mládek",
+"aliases": [
+"Ivan Mladek"
+],
+"links": 18
+},
+{
+"name": "Jan Johansson",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Jan Kalivoda",
+"aliases": [
+"Jan Křtitel Václav Kalivodus",
+"Johann Wenzel Kalliwoda"
+],
+"links": 18
+},
+{
+"name": "Jan Václav Voříšek",
+"aliases": [
+"Jan Vaclav Vorisek"
+],
+"links": 18
+},
+{
+"name": "Jean-Henri d'Anglebert",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Jimmy McHugh",
+"aliases": [
+"James Francis McHugh",
+"Jimmy Mc Hugh"
+],
+"links": 18
+},
+{
+"name": "Johann Kaspar Kerll",
+"aliases": [
+"Johann Caspar Kerll",
+"Johann Kaspar Kerrl"
+],
+"links": 18
+},
+{
+"name": "Johann Nepomuk David",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Johann Theile",
+"aliases": [],
+"links": 18
+},
+{
+"name": "John Ogdon",
+"aliases": [
+"John Andrew Howard Ogdon"
+],
+"links": 18
+},
+{
+"name": "John Stafford Smith",
+"aliases": [],
+"links": 18
+},
+{
+"name": "John Wilbye",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Joseph Hellmesberger",
+"aliases": [
+"Josef Hellmesberger",
+"Josef Hellmesberger sen.",
+"Josef Hellmesberger, Sr.",
+"Joseph Hellmesberger sen.",
+"Joseph Hellmesberger senior"
+],
+"links": 18
+},
+{
+"name": "Joseph Keilberth",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Juan Bautista Cabanilles",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Juhan Aavik",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Julian Fontana",
+"aliases": [],
+"links": 18
+},
+{
+"name": "János Esterházy",
+"aliases": [
+"Janos Esterhazy"
+],
+"links": 18
+},
+{
+"name": "Kalevi Aho",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Kamran Aziz",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Karen Khachaturian",
+"aliases": [
+"Karen Surenovich Khachaturian",
+"Khachaturian, Karen Surenovich"
+],
+"links": 18
+},
+{
+"name": "Karl Davydov",
+"aliases": [
+"Carl Davidoff",
+"Karl Yulievich Davydov"
+],
+"links": 18
+},
+{
+"name": "Kenny Barron",
+"aliases": [
+"Kenneth Barron"
+],
+"links": 18
+},
+{
+"name": "Kōsaku Yamada",
+"aliases": [
+"Kosaku Yamada",
+"Yamada Kosaku"
+],
+"links": 18
+},
+{
+"name": "Lasse Mårtenson",
+"aliases": [
+"Lars Anders Fredrik Mårtenson",
+"Lars Mårtenson",
+"Lasse Martenson"
+],
+"links": 18
+},
+{
+"name": "Leevi Madetoja",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Lennox Berkeley",
+"aliases": [
+"Lennox Randal Francis Berkeley",
+"Sir Lennox Berkeley",
+"Sir Lennox Randal Francis Berkeley"
+],
+"links": 18
+},
+{
+"name": "Lev Knipper",
+"aliases": [
+"Lev Konstantinovich Knipper"
+],
+"links": 18
+},
+{
+"name": "Louis Niedermeyer",
+"aliases": [
+"Abraham Louis Niedermeyer"
+],
+"links": 18
+},
+{
+"name": "Loyset Compère",
+"aliases": [
+"Loyset Compere"
+],
+"links": 18
+},
+{
+"name": "Lucky Thompson",
+"aliases": [
+"Eli Thompson"
+],
+"links": 18
+},
+{
+"name": "Luise Gottsched",
+"aliases": [
+"Louise Gottsched",
+"Luise Adelgunda Victoria Gottsched",
+"Luise Adelgunde Victorie Gottsched",
+"Luise Adelgunde Victorie Kulmus Gottsched"
+],
+"links": 18
+},
+{
+"name": "Machito",
+"aliases": [
+"Francisco Raúl Gutiérrez Grillo"
+],
+"links": 18
+},
+{
+"name": "Malcolm Williamson",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mantovani",
+"aliases": [
+"Michael Trevor",
+"Paul Lambrecht",
+"Paul Remy",
+"Tulio Trapani"
+],
+"links": 18
+},
+{
+"name": "Marcia Ball",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Margaret Cousins",
+"aliases": [
+"Margaret Elizabeth Cousins"
+],
+"links": 18
+},
+{
+"name": "Marianna Martines",
+"aliases": [
+"Ana Catalina Martínez",
+"Mariana Martinez",
+"Marianne Martinez",
+"Marianne von Martínez"
+],
+"links": 18
+},
+{
+"name": "Martin Wegelius",
+"aliases": [],
+"links": 18
+},
+{
+"name": "María Grever",
+"aliases": [
+"Maria Grever"
+],
+"links": 18
+},
+{
+"name": "Mercer Ellington",
+"aliases": [
+"Mercer Kennedy Ellington"
+],
+"links": 18
+},
+{
+"name": "Mesomedes",
+"aliases": [
+"Mesomedes of Crete"
+],
+"links": 18
+},
+{
+"name": "Michel Camilo",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Michel Colombier",
+"aliases": [
+"Michael Dove",
+"Michel Jean Pierre Colombier"
+],
+"links": 18
+},
+{
+"name": "Michel Corrette",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mickey Hart",
+"aliases": [
+"Michael Steven Hartman"
+],
+"links": 18
+},
+{
+"name": "Mikhail Matyushin",
+"aliases": [
+"M. Matiouchine",
+"M. V. Matiushin",
+"Michael Vasil'evic Matjusin",
+"Michael Vasilyevich Matyushin",
+"Michail Matjuschin",
+"Michail Matjušin",
+"Michail Vasil'evič Matjušin",
+"Michail Wasilewitsch Matjuschin",
+"Michel Matiouchine",
+"Michel Vassilievitch Matiouchine",
+"Michel Vassiliévitch Matiouchine",
+"Mikhail Matiushin",
+"Mikhail Vasil'yevich Matyushin",
+"Mikhail Vasilevich Matyushin",
+"Mikhail Vasilievich Matyushin",
+"Mikhaïl Vassilliévitch Matiouchine",
+"Mikhaïl Vassilliévitch Matiushin"
+],
+"links": 18
+},
+{
+"name": "Mohammad-Reza Lotfi",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Monsieur de Sainte-Colombe",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mordechai Gebirtig",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Mozart Camargo Guarnieri",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Napoléon Henri Reber",
+"aliases": [
+"Henri Reber",
+"Napoleon Henri Reber"
+],
+"links": 18
+},
+{
+"name": "Nikita Bogoslovsky",
+"aliases": [
+"Nikita Vladimirovich Bogoslovsky"
+],
+"links": 18
+},
+{
+"name": "Nikolaos Mantzaros",
+"aliases": [
+"Nikolaos Chalikiopoulos Mantzaros"
+],
+"links": 18
+},
+{
+"name": "Norbert Burgmüller",
+"aliases": [
+"August Joseph Norbert Burgmüller"
+],
+"links": 18
+},
+{
+"name": "Osmo Vänskä",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Othmar Schoeck",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Paul Kammerer",
+"aliases": [
+"Paul Peter Rudolf Kammerer"
+],
+"links": 18
+},
+{
+"name": "Paul Kletzki",
+"aliases": [
+"Paweł Klecki"
+],
+"links": 18
+},
+{
+"name": "Paul Vidal",
+"aliases": [
+"Paul Antonin Vidal"
+],
+"links": 18
+},
+{
+"name": "Paul Winter",
+"aliases": [
+"Paul Theodore Winter, Jr."
+],
+"links": 18
+},
+{
+"name": "Paulo de Carvalho",
+"aliases": [
+"Manuel Paulo de Carvalho Costa"
+],
+"links": 18
+},
+{
+"name": "Philippe de Monte",
+"aliases": [
+"Filip de Monte",
+"Philipp de Mons",
+"Philippus de Monte"
+],
+"links": 18
+},
+{
+"name": "Philips of Marnix, Lord of Saint-Aldegonde",
+"aliases": [
+"Filips van Marnix",
+"Philips van Marnix van Sint Aldegonde",
+"Philips van Marnix van St. Aldegonde",
+"Philips van Marnix, Baron of Saint-Aldegonde"
+],
+"links": 18
+},
+{
+"name": "Pierre Bastien",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Pierre Dupont",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Pierre-Alexandre Monsigny",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Pyotr Leshchenko",
+"aliases": [
+"Pyotr Konstantinovich Leshchenko"
+],
+"links": 18
+},
+{
+"name": "Rafael Frühbeck de Burgos",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ralph Benatzky",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ray Barretto",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Renzo Rossellini",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Ricard Viñes",
+"aliases": [
+"Ricardo Viñes",
+"Ricardo Viñes y Roda"
+],
+"links": 18
+},
+{
+"name": "Ricardo Macaco",
+"aliases": [
+"Héctor Eduardo Reglero Montaner"
+],
+"links": 18
+},
+{
+"name": "Richard Galliano",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Robert Levin",
+"aliases": [
+"Robert D. Levin",
+"Robert David Levin"
+],
+"links": 18
+},
+{
+"name": "Roberto Gerhard",
+"aliases": [
+"Robert Gerhard i Ottenwaelder"
+],
+"links": 18
+},
+{
+"name": "Rudolf Firkušný",
+"aliases": [
+"Rudolf Firkusny"
+],
+"links": 18
+},
+{
+"name": "Rudolf Friml",
+"aliases": [
+"Charles Rudolf Friml"
+],
+"links": 18
+},
+{
+"name": "Salomon Jadassohn",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Sergei Slonimsky",
+"aliases": [
+"Sergei Mikhailovich Slonimsky",
+"Sergey Mikhaylovich Slonimsky"
+],
+"links": 18
+},
+{
+"name": "Sigismund von Neukomm",
+"aliases": [
+"Sigismond Neukomm",
+"Sigismund Ritter von Neukomm"
+],
+"links": 18
+},
+{
+"name": "Stanisław Skrowaczewski",
+"aliases": [
+"Stanislaw Skrowaczewski"
+],
+"links": 18
+},
+{
+"name": "Steve Roach",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Sylvester Levay",
+"aliases": [
+"Lévay Szilveszter"
+],
+"links": 18
+},
+{
+"name": "Tania Maria",
+"aliases": [
+"Tania Maria Correa Reis"
+],
+"links": 18
+},
+{
+"name": "Theodore Hook",
+"aliases": [
+"Theodore Edward Hook"
+],
+"links": 18
+},
+{
+"name": "Toshi Ichiyanagi",
+"aliases": [
+"Ichiyanagi Toshi",
+"Toshi Ishiyanagi"
+],
+"links": 18
+},
+{
+"name": "Trilok Gurtu",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Uri Caine",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Valentino Fioravanti",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Valeri Brainin",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Vedran Smailović",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Vilém Blodek",
+"aliases": [
+"Vilem Blodek",
+"Vilém František Plodek"
+],
+"links": 18
+},
+{
+"name": "Vincent Lübeck",
+"aliases": [
+"Vincent Luebeck"
+],
+"links": 18
+},
+{
+"name": "Vinjamuri Anasuya Devi",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Vittoria Aleotti",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Vyacheslav Ovchinnikov",
+"aliases": [
+"Vyacheslav Aleksandrovich Ovchinnikov"
+],
+"links": 18
+},
+{
+"name": "Wacław of Szamotuły",
+"aliases": [
+"Venceslaus Samotulinus",
+"Wacław Szamotulski",
+"Wacław Z Szamotuł",
+"Wenzel Szamotulozyk"
+],
+"links": 18
+},
+{
+"name": "William Schuman",
+"aliases": [
+"William Howard Schuman"
+],
+"links": 18
+},
+{
+"name": "Xavier Montsalvatge",
+"aliases": [
+"Xavier Montsalvatge Bassols",
+"Xavier Montsalvatge i Bassols"
+],
+"links": 18
+},
+{
+"name": "Xian Xinghai",
+"aliases": [
+"Sinn Sing Hoi"
+],
+"links": 18
+},
+{
+"name": "Zequinha de Abreu",
+"aliases": [
+"José Gomes de Abreu",
+"Zequinha Abreu"
+],
+"links": 18
+},
+{
+"name": "Émile Étienne Guimet",
+"aliases": [
+"Emile Etienne Guimet",
+"Emile Guimet",
+"Guimet",
+"Émile Guimet"
+],
+"links": 18
+},
+{
+"name": "Östen Warnerbring",
+"aliases": [
+"Östen Jan Warnerbring"
+],
+"links": 18
+},
+{
+"name": "Şivan Perwer",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Adolphe Nourrit",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Al Atkins",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Albert Lavignac",
+"aliases": [
+"Alexandre Jean Albert Lavignac",
+"Alexandre Lavignac"
+],
+"links": 17
+},
+{
+"name": "Alessandro Grandi",
+"aliases": [
+"Alessandro de Grandi"
+],
+"links": 17
+},
+{
+"name": "Alexander Mosolov",
+"aliases": [
+"Aleksandr Mosolov",
+"Aleksandr Vasilyevich Mosolov",
+"Alexander Mossolov",
+"Alexander Vasilyevich Mosolov",
+"Alexandr Mosolov"
+],
+"links": 17
+},
+{
+"name": "Alexandre Guy Pingré",
+"aliases": [
+"Abbé Pingré",
+"Alexander G. Pingraeus",
+"Alexander Gui Pingré",
+"Alexander Guy L'Abbé de Pingre",
+"Alexandre G. Pingré",
+"Alexandre Gui Pingré",
+"Alexandre Guy Pingre",
+"Alexandre-Gui Pingré",
+"Alexandre-Guy Pingré"
+],
+"links": 17
+},
+{
+"name": "Alfred Lefébure-Wély",
+"aliases": [
+"Lefebure-Wely",
+"Lefébure-Wély",
+"Louis J.A. Lefébure-Wely",
+"Louis James Alfred Lefebure-Wely",
+"Louis James Alfred Lefébure-Wély"
+],
+"links": 17
+},
+{
+"name": "Alfredo Piatti",
+"aliases": [
+"Alfredo Carlo Piatti",
+"Carlo Alfredo Piatti"
+],
+"links": 17
+},
+{
+"name": "Alla Bayanova",
+"aliases": [
+"Alla Nikolayevna Bayanova"
+],
+"links": 17
+},
+{
+"name": "Allauddin Khan",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Alois Löser",
+"aliases": [
+"Brother Alois",
+"Hermano Alois"
+],
+"links": 17
+},
+{
+"name": "Andre Kostelanetz",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Andrea Falconieri",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Andreas Hammerschmidt",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Antonio Maria Abbatini",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Antonín Vranický",
+"aliases": [
+"Antonin Vranicky"
+],
+"links": 17
+},
+{
+"name": "Aref Qazvini",
+"aliases": [
+"Abolqassem Aref Qazvini"
+],
+"links": 17
+},
+{
+"name": "Armand Amar",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Armas Järnefelt",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Armas Launis",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Arnold Mendelssohn",
+"aliases": [
+"Arnold Ludwig Mendelssohn"
+],
+"links": 17
+},
+{
+"name": "Artur Lemba",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Arturo Rodas",
+"aliases": [],
+"links": 17
+},
+{
+"name": "August Enna",
+"aliases": [
+"August Emil Enna"
+],
+"links": 17
+},
+{
+"name": "Avet Terterian",
+"aliases": [
+"Avet Terteryan"
+],
+"links": 17
+},
+{
+"name": "Balys Dvarionas",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Barry Mann",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Bartolomeo Tromboncino",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Baude Cordier",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Benny Andersen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Bernie Worrell",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Betsy Jolas",
+"aliases": [
+"Elizabeth Jolas"
+],
+"links": 17
+},
+{
+"name": "Bill Dixon",
+"aliases": [
+"William Dixon",
+"William Robert Dixon"
+],
+"links": 17
+},
+{
+"name": "Billy Hart",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Bohuslav Matěj Černohorský",
+"aliases": [
+"Bohuslav Matej Cernohorsky"
+],
+"links": 17
+},
+{
+"name": "Boris Papandopulo",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Boris Tishchenko",
+"aliases": [
+"Boris Ivanovich Tishchenko"
+],
+"links": 17
+},
+{
+"name": "Bronisław Kaper",
+"aliases": [
+"Benjamin Kapper",
+"Bronislau Kaper",
+"Edward Kane"
+],
+"links": 17
+},
+{
+"name": "Bronius Kutavičius",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Bud Shank",
+"aliases": [
+"Clifford Shank",
+"Clifford Shank, Jr."
+],
+"links": 17
+},
+{
+"name": "Byron Janis",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Camille Erlanger",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Carl Friedrich Christian Fasch",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Carl Schuricht",
+"aliases": [
+"Carl Adolph Schuricht"
+],
+"links": 17
+},
+{
+"name": "Carlos Páez Vilaró",
+"aliases": [
+"Carlos Paez Vilee",
+"Carlos Paez Villaro",
+"Carlos Paez Villaró",
+"Carlos Paez-Vilaro"
+],
+"links": 17
+},
+{
+"name": "Carlotta Ferrari",
+"aliases": [
+"Carlotta Ferrari da Lodi"
+],
+"links": 17
+},
+{
+"name": "Cemal Reşit Rey",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Cercamon",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Charles Dancla",
+"aliases": [
+"J. B. C. Dancla",
+"Jean Baptiste Charles Dancla"
+],
+"links": 17
+},
+{
+"name": "Charles Tomlinson Griffes",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Cheikh Lô",
+"aliases": [
+"Cheikh Lo"
+],
+"links": 17
+},
+{
+"name": "Christian Lindberg",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Christian Wolff",
+"aliases": [
+"Christian G. Wolff",
+"Christian George Wolff"
+],
+"links": 17
+},
+{
+"name": "Clarence Williams",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Clifton Chenier",
+"aliases": [
+"Cliston Chanier",
+"King of the South",
+"King of Zydeco"
+],
+"links": 17
+},
+{
+"name": "Daniel Alomía Robles",
+"aliases": [
+"Daniel Robles"
+],
+"links": 17
+},
+{
+"name": "Daniel Gottlob Türk",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Daniel Steibelt",
+"aliases": [
+"Daniel Gottlieb Steibelt"
+],
+"links": 17
+},
+{
+"name": "Dave Greenfield",
+"aliases": [],
+"links": 17
+},
+{
+"name": "David Grisman",
+"aliases": [
+"Dawg"
+],
+"links": 17
+},
+{
+"name": "Debbie Cameron",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Dee Palmer",
+"aliases": [
+"David Palmer",
+"Dee Palmer née David Gerald Palmer"
+],
+"links": 17
+},
+{
+"name": "Diego Ortiz",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Diomedes Díaz",
+"aliases": [
+"Diomedes Díaz Maestre y filósofo"
+],
+"links": 17
+},
+{
+"name": "Dominick Argento",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Déodat de Séverac",
+"aliases": [
+"Deodat de Severac",
+"Marie-Joseph-Alexander Déodat de Severac"
+],
+"links": 17
+},
+{
+"name": "Désirée Artôt",
+"aliases": [
+"Desiree Artot"
+],
+"links": 17
+},
+{
+"name": "Edward German",
+"aliases": [
+"Edward German Jones",
+"Sir Edward German"
+],
+"links": 17
+},
+{
+"name": "Eleazar de Carvalho",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Elena Firsova",
+"aliases": [
+"Elena Olegovna Firsova"
+],
+"links": 17
+},
+{
+"name": "Elisabeth Lutyens",
+"aliases": [
+"Agnes Elisabeth Lutyens"
+],
+"links": 17
+},
+{
+"name": "Ella Adayevskaya",
+"aliases": [
+"Ella Adajewsky",
+"Ella Georgievna Adaevskaja",
+"Ella Georgiyevna Adayevskaya",
+"Ella von Schultz",
+"Jella Georgievna Adaevskaja"
+],
+"links": 17
+},
+{
+"name": "Elmer Diktonius",
+"aliases": [
+"Elmer Rafael Diktonius"
+],
+"links": 17
+},
+{
+"name": "Emil Młynarski",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Emma Albani",
+"aliases": [
+"Dame Emma Albani",
+"Marie Emma LaJeunesse Albani",
+"Marie Louise Emma Cecile Lajeunesse",
+"Mme. Albani"
+],
+"links": 17
+},
+{
+"name": "Emīls Dārziņš",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Enrico Rava",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Erkki Aaltonen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ernest Gold",
+"aliases": [
+"Ernst Sigmund Gold",
+"Ernst Sigmund Goldner"
+],
+"links": 17
+},
+{
+"name": "Ernest Reyer",
+"aliases": [
+"Ernest Rey",
+"Louis Étienne Ernest Rey dit Reyer",
+"Rey, Ernest"
+],
+"links": 17
+},
+{
+"name": "Ernst Ludwig Gerber",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Eugene Aynsley Goossens",
+"aliases": [
+"Eugene Goossens",
+"Sir Eugene Aynsley Goossens",
+"Sir Eugene Goossens"
+],
+"links": 17
+},
+{
+"name": "Eugène Gigout",
+"aliases": [
+"Eugene Gigout"
+],
+"links": 17
+},
+{
+"name": "Federico Chueca",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Felice Anerio",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ferdinand Leitner",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ferhat Mehenni",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Filippo Marchetti",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Folquet de Marseille",
+"aliases": [
+"Foulques de Massilia",
+"Foulques de Toulouse",
+"Fulk of Toulouse"
+],
+"links": 17
+},
+{
+"name": "Francesco Manfredini",
+"aliases": [
+"Francesco Onofrio Manfredini"
+],
+"links": 17
+},
+{
+"name": "Francesco Morlacchi",
+"aliases": [
+"Francesco Giuseppe Baldassare Morlacchi"
+],
+"links": 17
+},
+{
+"name": "Francesco Provenzale",
+"aliases": [
+"Francesco Antonio Provenzale"
+],
+"links": 17
+},
+{
+"name": "Francisco Acuña de Figueroa",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Franco Ferrara",
+"aliases": [
+"Francesco Ferrara"
+],
+"links": 17
+},
+{
+"name": "Frank Foster",
+"aliases": [
+"Frank B. Foster",
+"Frank Benjamin Foster",
+"Frank Benjamin Foster III",
+"Frank Foster III"
+],
+"links": 17
+},
+{
+"name": "Franz Anton Hoffmeister",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Franz Wüllner",
+"aliases": [],
+"links": 17
+},
+{
+"name": "François Francoeur",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Frederick Septimus Kelly",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Friedrich Gernsheim",
+"aliases": [
+"Frederick Gernsheim"
+],
+"links": 17
+},
+{
+"name": "Fumio Hayasaka",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Félicien Menu de Ménil",
+"aliases": [
+"Felicien Menu de Menil",
+"Félicien de Ménil"
+],
+"links": 17
+},
+{
+"name": "Gary Bertini",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Gautier de Coincy",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Georg Neumark",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Georg Schnéevoigt",
+"aliases": [
+"Georg Lennart Schneevoigt",
+"Georg Lennart Schnéevoigt",
+"Georg Schneevoigt"
+],
+"links": 17
+},
+{
+"name": "George Butterworth",
+"aliases": [
+"George Sainton Kaye Butterworth"
+],
+"links": 17
+},
+{
+"name": "George Whitefield Chadwick",
+"aliases": [
+"G. W. Chadwick",
+"George Chadwick",
+"George W. Chadwick",
+"George Whitfield Chadwick"
+],
+"links": 17
+},
+{
+"name": "Gerald Finzi",
+"aliases": [
+"Gerald Raphael Finzi"
+],
+"links": 17
+},
+{
+"name": "Ghulam Mustafa Khan",
+"aliases": [
+"Ustad Ghulam Mustafa Khan"
+],
+"links": 17
+},
+{
+"name": "Giaches de Wert",
+"aliases": [
+"Jaches de Wert"
+],
+"links": 17
+},
+{
+"name": "Gilbert Duprez",
+"aliases": [
+"Gilbert-Louis Duprez"
+],
+"links": 17
+},
+{
+"name": "Giovanni Battista Vitali",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Giovanni de' Bardi",
+"aliases": [
+"Giovanni de Bardi di Vernio",
+"Giovanni de', conte di Vernio Bardi",
+"Giovanni Maria, dei conti di Vernio Bardi",
+"Johannes Bardius"
+],
+"links": 17
+},
+{
+"name": "Giovanni Maria Nanino",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Girolamo Diruta",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Giuseppe Donizetti",
+"aliases": [
+"Donizetti Pasha"
+],
+"links": 17
+},
+{
+"name": "Giuseppe Gazzaniga",
+"aliases": [
+"Giuseppe Gazaniga"
+],
+"links": 17
+},
+{
+"name": "Gregório de Matos",
+"aliases": [
+"Boca do Inferno",
+"Gregorio de Matos"
+],
+"links": 17
+},
+{
+"name": "Guilhem de Cabestany",
+"aliases": [
+"Guillem de Cabestany"
+],
+"links": 17
+},
+{
+"name": "Guiraut Riquier",
+"aliases": [
+"Giraut Riquier"
+],
+"links": 17
+},
+{
+"name": "Gustav Ernesaks",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Gustav Lange",
+"aliases": [],
+"links": 17
+},
+{
+"name": "H. C. Robbins Landon",
+"aliases": [
+"Howard Chandler Robbins Landon"
+],
+"links": 17
+},
+{
+"name": "Halina Czerny-Stefańska",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Hamilton Harty",
+"aliases": [
+"Sir Hamilton Harty",
+"Sir Herbert Hamilton Harty"
+],
+"links": 17
+},
+{
+"name": "Hanne Darboven",
+"aliases": [
+"Hannah Darboven"
+],
+"links": 17
+},
+{
+"name": "Hans Abrahamsen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Hans Gál",
+"aliases": [
+"Hans Gal"
+],
+"links": 17
+},
+{
+"name": "Harald Kloser",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Heinrich Albert",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Helmut Walcha",
+"aliases": [
+"Arthur Emil Helmut Walcha"
+],
+"links": 17
+},
+{
+"name": "Henri Pousseur",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Henri-Montan Berton",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Henry Lawes",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Henry Litolff",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Howard McGhee",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Hugo Distler",
+"aliases": [
+"August Hugo Distler"
+],
+"links": 17
+},
+{
+"name": "Hugo Montenegro",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ibrahim ibn al-Mahdi",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ignaz Friedman",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ignaz von Seyfried",
+"aliases": [
+"Ignaz Joseph Ritter von Seyfried"
+],
+"links": 17
+},
+{
+"name": "Jackie McLean",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jagjit Kaur",
+"aliases": [
+"Jagjeet Kaur"
+],
+"links": 17
+},
+{
+"name": "Jaki Byard",
+"aliases": [
+"John A. Byard"
+],
+"links": 17
+},
+{
+"name": "Javier Navarrete",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jean-François Dandrieu",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jean-Joseph Mouret",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jenő Zádor",
+"aliases": [
+"Eugene Zador",
+"Eugene Zádor",
+"Jenő Zucker"
+],
+"links": 17
+},
+{
+"name": "Jerry Allison",
+"aliases": [
+"Jerry Ivan Allison"
+],
+"links": 17
+},
+{
+"name": "Jim Capaldi",
+"aliases": [
+"Nicola James Capaldi"
+],
+"links": 17
+},
+{
+"name": "Joey Baron",
+"aliases": [
+"Bernard Joseph Baron"
+],
+"links": 17
+},
+{
+"name": "Johann Caspar Ferdinand Fischer",
+"aliases": [
+"J. C. F. Fischer",
+"J.C.F. Fischer",
+"JCF Fischer",
+"Johann Kaspar Ferdinand Fischer"
+],
+"links": 17
+},
+{
+"name": "Johann Hieronymus Kapsberger",
+"aliases": [
+"Giovanni Girolamo Kapsperger"
+],
+"links": 17
+},
+{
+"name": "Johann Jacob Bach",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Johann Joseph Abert",
+"aliases": [
+"Jan Josef Abert"
+],
+"links": 17
+},
+{
+"name": "Johann Michael Vogl",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Johann Nicolaus Bach",
+"aliases": [
+"Johann Nikolaus Bach"
+],
+"links": 17
+},
+{
+"name": "Johann Schop",
+"aliases": [
+"Johann Schopp"
+],
+"links": 17
+},
+{
+"name": "John Adolphus I of Saxe-Weissenfels",
+"aliases": [],
+"links": 17
+},
+{
+"name": "John Cooper Clarke",
+"aliases": [
+"John Clarke"
+],
+"links": 17
+},
+{
+"name": "John Knowles Paine",
+"aliases": [
+"John K. Paine",
+"John Paine"
+],
+"links": 17
+},
+{
+"name": "John Stanley",
+"aliases": [
+"Charles John Stanley"
+],
+"links": 17
+},
+{
+"name": "John Tchicai",
+"aliases": [
+"John Martin Tchicai"
+],
+"links": 17
+},
+{
+"name": "Johnnie Johnson",
+"aliases": [
+"Johnnie Clyde Johnson",
+"Johnnie Clyde Johnson, Sr."
+],
+"links": 17
+},
+{
+"name": "Joonas Kokkonen",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jorma Panula",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Josef Kohler",
+"aliases": [
+"J. von Kohler"
+],
+"links": 17
+},
+{
+"name": "José Luis Perales",
+"aliases": [
+"Jose Luis Perales"
+],
+"links": 17
+},
+{
+"name": "José Vianna da Motta",
+"aliases": [
+"José Viana da Mota, Jose Vianna da Motta"
+],
+"links": 17
+},
+{
+"name": "Juan d'Arienzo",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Juliana of Liège",
+"aliases": [
+"Juliana of Liege"
+],
+"links": 17
+},
+{
+"name": "Jürgen Marcus",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jānis Ivanovs",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Karol Mikuli",
+"aliases": [
+"Mikuli, Karol"
+],
+"links": 17
+},
+{
+"name": "Kenny Wheeler",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Klaus Egge",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Konstantin Igumnov",
+"aliases": [
+"Konstantin Nikolayevich Igumnov"
+],
+"links": 17
+},
+{
+"name": "Kornél Ábrányi",
+"aliases": [
+"Kornel Abranyi"
+],
+"links": 17
+},
+{
+"name": "Krzysztof Meyer",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lasse Holm",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Leland Sklar",
+"aliases": [
+"Lee Sklar",
+"Leland Bruce Sklar"
+],
+"links": 17
+},
+{
+"name": "Lennie Niehaus",
+"aliases": [
+"Leonard Niehaus"
+],
+"links": 17
+},
+{
+"name": "Leon Schiller",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Lewis Nkosi",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Liana Isakadze",
+"aliases": [
+"Liana Issakadze",
+"Liyana Isakadze"
+],
+"links": 17
+},
+{
+"name": "Louis Adam",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Louis Bourgeois",
+"aliases": [
+"Loys Bourgeois"
+],
+"links": 17
+},
+{
+"name": "Ludomir Różycki",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Luis de Milán",
+"aliases": [
+"Luis de Milan",
+"Luis de Milán or Lluís del Milà",
+"Luis Milan",
+"Luys Milán"
+],
+"links": 17
+},
+{
+"name": "Luis de Narváez",
+"aliases": [
+"Luis de Narvaez"
+],
+"links": 17
+},
+{
+"name": "Luís de Freitas Branco",
+"aliases": [
+"Luis de Freitas Branco"
+],
+"links": 17
+},
+{
+"name": "Madan Mohan",
+"aliases": [
+"Madan Mohan Kohli"
+],
+"links": 17
+},
+{
+"name": "Mal Waldron",
+"aliases": [
+"Malcolm Earl Waldron"
+],
+"links": 17
+},
+{
+"name": "Marcel Moyse",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Marco da Gagliano",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Marco Uccellini",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Marcos Portugal",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Marika Gombitová",
+"aliases": [
+"Marika Gombitova"
+],
+"links": 17
+},
+{
+"name": "Marilyn Mazur",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Mark Tornillo",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Mateo Flecha",
+"aliases": [
+"Mateo Flecha El Viejo"
+],
+"links": 17
+},
+{
+"name": "Maximilian Steinberg",
+"aliases": [
+"Maximilian Osseyevich Steinberg"
+],
+"links": 17
+},
+{
+"name": "Melba Liston",
+"aliases": [
+"Melba Doretta Liston"
+],
+"links": 17
+},
+{
+"name": "Melchior Vulpius",
+"aliases": [
+"Melchior Fuchs"
+],
+"links": 17
+},
+{
+"name": "Michael McClure",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Mike Kelley",
+"aliases": [
+"Michael Kelley",
+"Mike Kelly"
+],
+"links": 17
+},
+{
+"name": "Mikhail Gutseriyev",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Mohammed Zahur Khayyam",
+"aliases": [
+"Khayyam"
+],
+"links": 17
+},
+{
+"name": "Muhal Richard Abrams",
+"aliases": [
+"Richard Louis Abrams"
+],
+"links": 17
+},
+{
+"name": "Nicola Fago",
+"aliases": [
+"Francesco Nicola Fago"
+],
+"links": 17
+},
+{
+"name": "Nicola Francesco Haym",
+"aliases": [
+"Nicola Giuseppe Aimo",
+"Nicolas François Haym",
+"Nikolaus Franz Haym"
+],
+"links": 17
+},
+{
+"name": "Nicolas Dalayrac",
+"aliases": [
+"Nicolas Alayrac",
+"Nicolas d'Alayrac"
+],
+"links": 17
+},
+{
+"name": "Nicolas Schöffer",
+"aliases": [
+"Nicholas Schoeffer",
+"Nicholas Schoffer",
+"Nicholas Schöffer",
+"Nicolas Schoeffer",
+"Schoffer"
+],
+"links": 17
+},
+{
+"name": "Nikolai Golovanov",
+"aliases": [
+"Nikolai Semyonovich Golovanov",
+"Nikolay Semyonovich Golovanov"
+],
+"links": 17
+},
+{
+"name": "Nikolai Zaremba",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Niyazi",
+"aliases": [
+"Maestro Niyazi",
+"Niyazi Hacibeyov",
+"Niyazi Taghizade-Hajibeyov",
+"Niyazi Zulfigar oghlu Taghizade-Hajibeyov",
+"Niyazi Zulfugar oghlu Taghizade Hajibeyov"
+],
+"links": 17
+},
+{
+"name": "Nurit Hirsh",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Oliver Lake",
+"aliases": [
+"Oliver Eugene Lake"
+],
+"links": 17
+},
+{
+"name": "Paul Bekker",
+"aliases": [
+"Max Paul Eugen Bekker",
+"Paul Eugen Max Bekker"
+],
+"links": 17
+},
+{
+"name": "Paul Le Flem",
+"aliases": [
+"Marie-Paul Achille Auguste Le Flem"
+],
+"links": 17
+},
+{
+"name": "Paul Paray",
+"aliases": [
+"Paul Marie-Adolphe Charles Paray"
+],
+"links": 17
+},
+{
+"name": "Peter von Winter",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Phil Mogg",
+"aliases": [
+"Phillip John Mogg"
+],
+"links": 17
+},
+{
+"name": "Philippe Lafontaine",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Pierre Pincemaille",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Pietro Canonica",
+"aliases": [
+"Pedro Canonica"
+],
+"links": 17
+},
+{
+"name": "Pietro Raimondi",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Pino Donaggio",
+"aliases": [
+"Giuseppe Donaggio"
+],
+"links": 17
+},
+{
+"name": "Pál Kadosa",
+"aliases": [
+"Pal Kadosa",
+"Pä l Kadosa"
+],
+"links": 17
+},
+{
+"name": "Ray Ventura",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Raymond Benson",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Raymond Leppard",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Robert Ashley",
+"aliases": [
+"Robert Reynolds Ashley"
+],
+"links": 17
+},
+{
+"name": "Robert Franz",
+"aliases": [
+"Robert Franz Julius Knauth",
+"Robert Knauth"
+],
+"links": 17
+},
+{
+"name": "Robert Hausmann",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ruth Crawford Seeger",
+"aliases": [
+"Ruth Crawford"
+],
+"links": 17
+},
+{
+"name": "Salamone Rossi",
+"aliases": [
+"Salomone Rossi"
+],
+"links": 17
+},
+{
+"name": "Sam Jones",
+"aliases": [
+"Samuel Jones"
+],
+"links": 17
+},
+{
+"name": "Samuil Feinberg",
+"aliases": [
+"Samuel Feinberg",
+"Samuil Yevgenyevich Feinberg",
+"Samuil Yevgenyevich Feynberg"
+],
+"links": 17
+},
+{
+"name": "Shubha Mudgal",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Sigiswald Kuijken",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Simeon ten Holt",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Slide Hampton",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Stanislav Binički",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Stephen Warbeck",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Stuff Smith",
+"aliases": [
+"Hezekiah Leroy G. Smith",
+"Hezekiah Leroy Gordon Smith"
+],
+"links": 17
+},
+{
+"name": "Sándor Veress",
+"aliases": [
+"Sandor Veress"
+],
+"links": 17
+},
+{
+"name": "Tarquinia Molza",
+"aliases": [
+"Tarquinia Molsa"
+],
+"links": 17
+},
+{
+"name": "Thanos Mikroutsikos",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Thomas A. Dorsey",
+"aliases": [
+"Georgia Tom",
+"Memphis Mose",
+"Thomas Andrew Dorsey",
+"Thomas Dorsey"
+],
+"links": 17
+},
+{
+"name": "Thomas Ravenscroft",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Tor Aulin",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Ture Rangström",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Udo Zimmermann",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Vasily Andreyev",
+"aliases": [
+"V. V. Andreev",
+"V.V. Andreev",
+"Vasilij Vasil'evič Andreev",
+"Vasiliĭ Vasilʹevich Andreev",
+"Vasily Vasilievich Andreyev",
+"Vassily Andreyev"
+],
+"links": 17
+},
+{
+"name": "Victoria Spivey",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Walter Braunfels",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Walter Donaldson",
+"aliases": [
+"Donaldson",
+"Walter Donoldson"
+],
+"links": 17
+},
+{
+"name": "Wilfried",
+"aliases": [
+"Wilfried Scheutz"
+],
+"links": 17
+},
+{
+"name": "William Alwyn",
+"aliases": [],
+"links": 17
+},
+{
+"name": "William Grant Still",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Wojciech Bobowski",
+"aliases": [
+"Ali Ufki Bey"
+],
+"links": 17
+},
+{
+"name": "Wolfgang Hohlbein",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Władysław Żeleński",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Yakov Zak",
+"aliases": [
+"Yakov Izrailevich Zak"
+],
+"links": 17
+},
+{
+"name": "Yasushi Akutagawa",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Zagir Ismagilov",
+"aliases": [
+"Zagir Garipovich Ismagilov",
+"Zahir İsmäğilev",
+"Zahir Ğarif ulı İsmäğilev"
+],
+"links": 17
+},
+{
+"name": "Zbigniew Namysłowski",
+"aliases": [
+"Zbigniew Jacek Namysłowski"
+],
+"links": 17
+},
+{
+"name": "Zdeněk Mácal",
+"aliases": [
+"Zdenek Macal"
+],
+"links": 17
+},
+{
+"name": "Zygmunt Noskowski",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Édouard Deldevez",
+"aliases": [
+"Edouard Deldevez"
+],
+"links": 17
+},
+{
+"name": "Abraham J. Twerski",
+"aliases": [
+"Abraham Joshua Heshel Twerski",
+"Abraham Twerski",
+"Rabbi Dr. Abraham J. Twerski"
+],
+"links": 16
+},
+{
+"name": "Adenes Le Roi",
+"aliases": [
+"Adenet le Roi"
+],
+"links": 16
+},
+{
+"name": "Adolf Jensen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Agostino Agazzari",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Al Cohn",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Albert Mangelsdorff",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Alberto Williams",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Alcione",
+"aliases": [
+"Alcione Dias Nazareth",
+"Alcione Marrom",
+"Marrom"
+],
+"links": 16
+},
+{
+"name": "Aleksander Michałowski",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Alexander Arkhangelsky",
+"aliases": [
+"Alexander Andreyevich Arkhangelsky"
+],
+"links": 16
+},
+{
+"name": "Alexander Goedicke",
+"aliases": [
+"Alexander Fyodorovich Gedike",
+"Alexander Fyodorovich Goedicke",
+"Alexander Gedike"
+],
+"links": 16
+},
+{
+"name": "Alexander Mackenzie",
+"aliases": [
+"Sir Alexander Campbell Mackenzie"
+],
+"links": 16
+},
+{
+"name": "Alphons Czibulka",
+"aliases": [
+"Czibulka Alfonz"
+],
+"links": 16
+},
+{
+"name": "Alphons Diepenbrock",
+"aliases": [
+"Alphonsus Johannes Maria Diepenbrock"
+],
+"links": 16
+},
+{
+"name": "Andor Földes",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Andrejs Jurjāns",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Andrew Eldritch",
+"aliases": [],
+"links": 16
+},
+{
+"name": "André Cardinal Destouches",
+"aliases": [
+"Andre Cardinal Destouches"
+],
+"links": 16
+},
+{
+"name": "Annibale Padovano",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Anton Coppola",
+"aliases": [
+"Antonio Coppola",
+"Antonio Francesco Coppola"
+],
+"links": 16
+},
+{
+"name": "Antonio Maria Bononcini",
+"aliases": [
+"Antonio Bononcini"
+],
+"links": 16
+},
+{
+"name": "Arne Nordheim",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Artemy Vedel",
+"aliases": [
+"Artem Vedelsky",
+"Artem Vedelskyi",
+"Artemii Vedel",
+"Artemii Vedelsky",
+"Artemii Vedelskyi",
+"Artemy Lukyanovich Vedel"
+],
+"links": 16
+},
+{
+"name": "Arto Tunçboyacıyan",
+"aliases": [
+"Arto Tuncboyaciyan",
+"Arto Tunçboyaciyan"
+],
+"links": 16
+},
+{
+"name": "Barry Cooper",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bernard Parmegiani",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bernhard Romberg",
+"aliases": [
+"Bernhard Heinrich Romberg"
+],
+"links": 16
+},
+{
+"name": "Billy May",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Blagoje Bersa",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bob Azzam",
+"aliases": [
+"George Wadie Azzam"
+],
+"links": 16
+},
+{
+"name": "Buck Clayton",
+"aliases": [
+"Wilbur Clayton",
+"Wilbur Dorsey Clayton"
+],
+"links": 16
+},
+{
+"name": "Carita Holmström",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Carlo Coccia",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Carlo Francesco Pollarolo",
+"aliases": [
+"Carlo Pollaroli"
+],
+"links": 16
+},
+{
+"name": "Carlos di Sarli",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Catterino Cavos",
+"aliases": [
+"Catterino Albertovich Cavos"
+],
+"links": 16
+},
+{
+"name": "Cecil Frances Alexander",
+"aliases": [
+"Cecil Frances Humphreys",
+"Fanny Alexander"
+],
+"links": 16
+},
+{
+"name": "Cecilia Seghizzi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Charles Jennens",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Cheo Feliciano",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Chico Freeman",
+"aliases": [
+"Earl Lavon Freeman Jr."
+],
+"links": 16
+},
+{
+"name": "Chou Wen-chung",
+"aliases": [
+"Chou, Wên-chung"
+],
+"links": 16
+},
+{
+"name": "Christoph Wolff",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Claude Vivier",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Clifford Curzon",
+"aliases": [
+"Sir Clifford Michael Curzon"
+],
+"links": 16
+},
+{
+"name": "Cy Coleman",
+"aliases": [
+"Seymour Kaufman"
+],
+"links": 16
+},
+{
+"name": "Cyprien Katsaris",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Dang Thai Son",
+"aliases": [
+"Đặng Thái Sơn"
+],
+"links": 16
+},
+{
+"name": "Danny Federici",
+"aliases": [
+"Daniel Paul Federici"
+],
+"links": 16
+},
+{
+"name": "Dario Castello",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Dave Stewart",
+"aliases": [],
+"links": 16
+},
+{
+"name": "David Tudor",
+"aliases": [
+"David Eugene Tudor"
+],
+"links": 16
+},
+{
+"name": "Dominic Frontiere",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Don Letts",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Don Preston",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Doug Ingle",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Duarte Lobo",
+"aliases": [
+"Eduardus Lupus"
+],
+"links": 16
+},
+{
+"name": "Dušan Šestić",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Earl Bostic",
+"aliases": [
+"Eugene Earl Bostic"
+],
+"links": 16
+},
+{
+"name": "Earl Wild",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Eddie Harris",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Edmond de Coussemaker",
+"aliases": [
+"Charles Edmond Henri de Coussemaker"
+],
+"links": 16
+},
+{
+"name": "Eduard Lassen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Eduard Steuermann",
+"aliases": [
+"Edward Steuermann"
+],
+"links": 16
+},
+{
+"name": "Elena Gnesina",
+"aliases": [
+"Elena Fabianovna Gnesina"
+],
+"links": 16
+},
+{
+"name": "Elizabeth Maconchy",
+"aliases": [
+"Dame Elizabeth Maconchy",
+"Dame Elizabeth Violet Maconchy LeFanu",
+"Elizabeth Violet Maconchy"
+],
+"links": 16
+},
+{
+"name": "Emanuele d'Astorga",
+"aliases": [
+"Astorga",
+"Baron Emanuele Astorga",
+"Emanuele, baron d'Astorga"
+],
+"links": 16
+},
+{
+"name": "Emil Hartmann",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Emil Ábrányi",
+"aliases": [
+"Emil Abranyi"
+],
+"links": 16
+},
+{
+"name": "Emilie Mayer",
+"aliases": [
+"Emilie Luise Friderica Mayer"
+],
+"links": 16
+},
+{
+"name": "Engelbert Zaschka",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Enn Vetemaa",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ercole Bernabei",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ernesto Nazareth",
+"aliases": [
+"Ernesto Júlio de Nazareth",
+"Ernesto Júlio de Nazaré",
+"Ernesto Nazaré"
+],
+"links": 16
+},
+{
+"name": "Fabre d'Olivet",
+"aliases": [
+"Antoine Fabre d’Olivet"
+],
+"links": 16
+},
+{
+"name": "Fei Yu-ching",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Felice Giardini",
+"aliases": [
+"Felice de Giardini"
+],
+"links": 16
+},
+{
+"name": "Ferdinand Laub",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ferdinando Bertoni",
+"aliases": [
+"Ferdinando Gasparo Bertoni"
+],
+"links": 16
+},
+{
+"name": "Francesco Antonio Bonporti",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Francesco Antonio Vallotti",
+"aliases": [
+"Vallotti"
+],
+"links": 16
+},
+{
+"name": "Francisco Mignone",
+"aliases": [
+"Francisco Paulo Mignone"
+],
+"links": 16
+},
+{
+"name": "Frankie Carle",
+"aliases": [],
+"links": 16
+},
+{
+"name": "František Ondříček",
+"aliases": [
+"Frantisek Ondricek"
+],
+"links": 16
+},
+{
+"name": "Franz Brendel",
+"aliases": [
+"Karl Franz Brendel"
+],
+"links": 16
+},
+{
+"name": "Franz Tunder",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Frigyes Hidas",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Fritz Stiedry",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Frédéric François",
+"aliases": [
+"Francesco Barracato"
+],
+"links": 16
+},
+{
+"name": "Félicien-César David",
+"aliases": [
+"Felicien-Cesar David"
+],
+"links": 16
+},
+{
+"name": "Gaspar Cassadó",
+"aliases": [
+"Gaspar Cassado"
+],
+"links": 16
+},
+{
+"name": "Geirr Tveitt",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Gennaro Manna",
+"aliases": [],
+"links": 16
+},
+{
+"name": "George Adams",
+"aliases": [],
+"links": 16
+},
+{
+"name": "George Gruntz",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Georges Garvarentz",
+"aliases": [
+"Georges Diran Garvarentz"
+],
+"links": 16
+},
+{
+"name": "Gerardo Matos Rodríguez",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Gioseffo Guami",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Giovanni Battista Somis",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Giovanni Francesco Anerio",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Giovanni Giacomo Gastoldi",
+"aliases": [
+"Giacomo Gastoldi"
+],
+"links": 16
+},
+{
+"name": "Giovanni Maria Bononcini",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Gottfried August Homilius",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Govert Bidloo",
+"aliases": [
+"G. Bidloo"
+],
+"links": 16
+},
+{
+"name": "Guiomar Novaes",
+"aliases": [
+"Guiomar Novaës"
+],
+"links": 16
+},
+{
+"name": "Gunnar Wennerberg",
+"aliases": [],
+"links": 16
+},
+{
+"name": "György Sándor",
+"aliases": [
+"Gyorgy Sandor"
+],
+"links": 16
+},
+{
+"name": "Hans Schmidt-Isserstedt",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Heinrich von Herzogenberg",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Hilding Rosenberg",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Horacio Guarany",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Hugo Becker",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ignacy Feliks Dobrzyński",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ikue Mori",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ilse Weber",
+"aliases": [
+"Ilsa Weberová",
+"Ilse Weberová"
+],
+"links": 16
+},
+{
+"name": "Imants Kalniņš",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Imogen Holst",
+"aliases": [
+"Imogen Clare Holst"
+],
+"links": 16
+},
+{
+"name": "Isaac Schwartz",
+"aliases": [
+"Isaac Iosifovich Schwartz"
+],
+"links": 16
+},
+{
+"name": "Isang Yun",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ivan Wyschnegradsky",
+"aliases": [
+"Ivan Alexandrovich Wyschnegradsky"
+],
+"links": 16
+},
+{
+"name": "Jacob Senleches",
+"aliases": [
+"Jacob de Senleches",
+"Jacob Senlechos",
+"Jacopinus Selesses",
+"Jaquemin de Senleches"
+],
+"links": 16
+},
+{
+"name": "Jacques Féréol Mazas",
+"aliases": [
+"Jacques Fereol Mazas"
+],
+"links": 16
+},
+{
+"name": "James McBride",
+"aliases": [
+"James Mc Bride"
+],
+"links": 16
+},
+{
+"name": "Jamie Muir",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Jay Livingston",
+"aliases": [
+"Jacob Harold Levison"
+],
+"links": 16
+},
+{
+"name": "Jean Gilbert",
+"aliases": [
+"Jean Gillibert"
+],
+"links": 16
+},
+{
+"name": "Jean-Baptiste Arban",
+"aliases": [
+"Arban",
+"J-B Arban",
+"J. B. Arban",
+"J.-B. Arban",
+"Joseph Jean-Baptiste Laurent Arban"
+],
+"links": 16
+},
+{
+"name": "Jean-Nicolas Bouilly",
+"aliases": [
+"Jean Nicolas Bouilly"
+],
+"links": 16
+},
+{
+"name": "Jean-Paul-Égide Martini",
+"aliases": [
+"Jean-Paul-Egide Martini",
+"Johann Paul Aegidius Martin",
+"Johann Paul Aegidius Schwarzendorf",
+"Martini Il Tedesco"
+],
+"links": 16
+},
+{
+"name": "Jerry Jeff Walker",
+"aliases": [
+"Gypsy Songman",
+"Ronald Clyde Crosby"
+],
+"links": 16
+},
+{
+"name": "Jerzy Maksymiuk",
+"aliases": [
+"Jerzy Jan Maksymiuk"
+],
+"links": 16
+},
+{
+"name": "Jimmie Lunceford",
+"aliases": [
+"James Melvin Lunceford",
+"Jimmie"
+],
+"links": 16
+},
+{
+"name": "Jimmy Yancey",
+"aliases": [
+"James Edward Yancey",
+"James Yancey",
+"Yancey, James Edward, 1898-1951",
+"Yancey, Jim, 1898-1951",
+"Yancey, Papa Jimmy, 1898-1951"
+],
+"links": 16
+},
+{
+"name": "Johann Abraham Peter Schulz",
+"aliases": [
+"J. A. P. Schulz"
+],
+"links": 16
+},
+{
+"name": "Johann Ernst Bach",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Johann Krieger",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Johann Paul von Westhoff",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Johann Rudolf Zumsteeg",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Johannes von Geissel",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Johnny Green",
+"aliases": [
+"John Green",
+"John W. Green",
+"John Waldo Green",
+"Johnnie Green",
+"Jonny Green"
+],
+"links": 16
+},
+{
+"name": "Josef Labor",
+"aliases": [
+"Josef Paul Labor"
+],
+"links": 16
+},
+{
+"name": "Josef Matthias Hauer",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Joseph Leopold Eybler",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Joseph Wölfl",
+"aliases": [
+"Joseph Johann Baptist Woelfl",
+"Joseph Woelffl",
+"Joseph Wolf"
+],
+"links": 16
+},
+{
+"name": "José Padilla",
+"aliases": [
+"Maestro Padilla"
+],
+"links": 16
+},
+{
+"name": "Juan Tizol",
+"aliases": [
+"Juan Tizol Martínez"
+],
+"links": 16
+},
+{
+"name": "Julius Epstein",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Julius Rietz",
+"aliases": [
+"August Wilhelm Julius Rietz"
+],
+"links": 16
+},
+{
+"name": "Junior Parker",
+"aliases": [
+"Herman Parker",
+"Little Junior Parker"
+],
+"links": 16
+},
+{
+"name": "Ján Levoslav Bella",
+"aliases": [
+"Jan Levoslav Bella"
+],
+"links": 16
+},
+{
+"name": "János Bihari",
+"aliases": [
+"Janos Bihari",
+"Ján Biháry"
+],
+"links": 16
+},
+{
+"name": "Józef Wieniawski",
+"aliases": [
+"J. Wieniawski",
+"Joseph Wieniawski",
+"Jozef Wieniawski"
+],
+"links": 16
+},
+{
+"name": "Karel Husa",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Karl Doppler",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Karl Klindworth",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Karl Straube",
+"aliases": [
+"Carl Straube",
+"Montgomery Rufus Carl Siegfried Straube",
+"Montgomery Rufus Karl Siegfried Straube"
+],
+"links": 16
+},
+{
+"name": "Karol Rathaus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Kenny Ball",
+"aliases": [
+"Kenneth Ball"
+],
+"links": 16
+},
+{
+"name": "Khayyam Mirzazade",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Kiko Argüello",
+"aliases": [
+"Kiko Arguello"
+],
+"links": 16
+},
+{
+"name": "Knud Jeppesen",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Knudage Riisager",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Krešimir Baranović",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Kurt Thomas",
+"aliases": [
+"Kurt Georg Hugo Thomas"
+],
+"links": 16
+},
+{
+"name": "Lalgudi Jayaraman",
+"aliases": [
+"Lalgudi Gopala Iyer Jayaraman"
+],
+"links": 16
+},
+{
+"name": "Lamberto Gardelli",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Larry Young",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Leo Blech",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Leo Robin",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Leonel Power",
+"aliases": [
+"Leonellus",
+"Lionel Power"
+],
+"links": 16
+},
+{
+"name": "Leopold August Abel",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Les Brown",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Les McCann",
+"aliases": [
+"Leslie Coleman McCann"
+],
+"links": 16
+},
+{
+"name": "Lew Soloff",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lionel Newman",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lodovico Grossi da Viadana",
+"aliases": [
+"Lodovico Grossi",
+"Lodovico Viadana"
+],
+"links": 16
+},
+{
+"name": "Lorenz Christoph Mizler",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Louis Aubert",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Luigi Arditi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Luigi Mancinelli",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Luigi Ricci",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Lynn Hauldren",
+"aliases": [
+"Elmer Lynn Hauldren"
+],
+"links": 16
+},
+{
+"name": "László Lajtha",
+"aliases": [
+"Laszlo Lajtha"
+],
+"links": 16
+},
+{
+"name": "Maddalena Laura Sirmen",
+"aliases": [
+"Maddalena Laura Lombardini",
+"Maddalena Laura Lombardini Sirmen"
+],
+"links": 16
+},
+{
+"name": "Magnus Brostrup Landstad",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Marcel Khalife",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Maria de Ventadorn",
+"aliases": [
+"Maria de Ventedorn"
+],
+"links": 16
+},
+{
+"name": "Marie Jaëll",
+"aliases": [
+"Marie Jaëll Trautmann"
+],
+"links": 16
+},
+{
+"name": "Martin Crimp",
+"aliases": [
+"Martin Andrew Crimp"
+],
+"links": 16
+},
+{
+"name": "Maryanne Amacher",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Mathilde Marchesi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Matthew Fisher",
+"aliases": [
+"Matthew Charles Fisher"
+],
+"links": 16
+},
+{
+"name": "Maurice Greene",
+"aliases": [
+"Greene",
+"Maurice Green"
+],
+"links": 16
+},
+{
+"name": "Meade Lux Lewis",
+"aliases": [
+"Anderson Meade Lewis",
+"Meade Anderson Lewis",
+"Meade Lewis"
+],
+"links": 16
+},
+{
+"name": "Michele Carafa",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Mike Brant",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Misha Mengelberg",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Morten Lauridsen",
+"aliases": [
+"Morten Johannes Lauridsen"
+],
+"links": 16
+},
+{
+"name": "Muretus",
+"aliases": [
+"Marc Antoine Muret"
+],
+"links": 16
+},
+{
+"name": "Nancy Storace",
+"aliases": [
+"Ann Selina Storace",
+"Anna Selina Storace"
+],
+"links": 16
+},
+{
+"name": "Nicola Logroscino",
+"aliases": [
+"Nicola Bonifacio Logroscino"
+],
+"links": 16
+},
+{
+"name": "Nicola Vaccai",
+"aliases": [
+"Nicola Vaccaj"
+],
+"links": 16
+},
+{
+"name": "Nikolai Roslavets",
+"aliases": [
+"Nikolai Andreevich Roslavets",
+"Nikolai Andreyevich Roslavets",
+"Nikolai Roslavetz"
+],
+"links": 16
+},
+{
+"name": "Nikolaus II, Prince Esterházy",
+"aliases": [
+"Nicholas Prinz Esterhazy von Galantha",
+"Nikolaus Eszterházy von Galántha"
+],
+"links": 16
+},
+{
+"name": "Nikolay Diletsky",
+"aliases": [
+"Mykola Dyletsky",
+"Mykola Dyletskyi",
+"Nikolai Diletsky",
+"Pavlovyč Dylec'kyj"
+],
+"links": 16
+},
+{
+"name": "Nikos Xilouris",
+"aliases": [
+"Psaronikos",
+"Xylouris Nikos"
+],
+"links": 16
+},
+{
+"name": "Nina Cassian",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Nora Orlandi",
+"aliases": [
+"Joan Christian"
+],
+"links": 16
+},
+{
+"name": "O. P. Nayyar",
+"aliases": [
+"O P Nayyar",
+"Omkar Prasad Nayyar"
+],
+"links": 16
+},
+{
+"name": "Ole Paus",
+"aliases": [
+"Ole Christian Paus"
+],
+"links": 16
+},
+{
+"name": "Oliver Wallace",
+"aliases": [
+"Oliver S. Wallace",
+"Ollie Wallace"
+],
+"links": 16
+},
+{
+"name": "Osip Kozlovsky",
+"aliases": [
+"Osip Antonovich Kozlovsky"
+],
+"links": 16
+},
+{
+"name": "Oskar Danon",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Otis Taylor",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Paul Creston",
+"aliases": [
+"Giuseppe Guttoveggio"
+],
+"links": 16
+},
+{
+"name": "Paul Horn",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Paul I, Prince Esterházy",
+"aliases": [
+"Pál, 1.Fürst Esterházy de Galántha"
+],
+"links": 16
+},
+{
+"name": "Paul Taffanel",
+"aliases": [
+"Claude-Paul Taffanel",
+"Claudio Paolo Taffanel"
+],
+"links": 16
+},
+{
+"name": "Paulo Leminski",
+"aliases": [
+"Leminski",
+"Paulo Leminski Filho"
+],
+"links": 16
+},
+{
+"name": "Peire d'Auvergne",
+"aliases": [
+"Peire D'Alvernhe"
+],
+"links": 16
+},
+{
+"name": "Peter Dodds McCormick",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Peter Sculthorpe",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Petrus de Cruce",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Philip the Chancellor",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Pierre Gaviniès",
+"aliases": [
+"Pierre Gavinies"
+],
+"links": 16
+},
+{
+"name": "Pietro Alessandro Guglielmi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Poul Ruders",
+"aliases": [
+"P. Ruders",
+"Ruders, Poul"
+],
+"links": 16
+},
+{
+"name": "Raimbaut d'Aurenga",
+"aliases": [
+"Raimbaut d'Aurenja",
+"Rainbout d'Aurenga",
+"Rambautz d'Aurenga"
+],
+"links": 16
+},
+{
+"name": "Randall Thompson",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Rashied Ali",
+"aliases": [
+"Robert Patterson"
+],
+"links": 16
+},
+{
+"name": "Ravindra Jain",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ray Cooper",
+"aliases": [
+"Raymond Cooper"
+],
+"links": 16
+},
+{
+"name": "Resurrección María de Azkue",
+"aliases": [
+"Resurreccion Maria de Azkue",
+"Resurrección María de Azkue Aberasturi"
+],
+"links": 16
+},
+{
+"name": "Richard Dybeck",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Roger Désormière",
+"aliases": [
+"Roger Desormiere"
+],
+"links": 16
+},
+{
+"name": "Rolf Liebermann",
+"aliases": [],
+"links": 16
+},
+{
+"name": "S. P. Somtow",
+"aliases": [
+"S.P. Somtow",
+"Somtow Papinian Sucharitkul",
+"Somtow Sucharitkul"
+],
+"links": 16
+},
+{
+"name": "Sam Rivers",
+"aliases": [
+"Samuel Carthorne Rivers"
+],
+"links": 16
+},
+{
+"name": "Samuel Adler",
+"aliases": [
+"Sam Adler",
+"Samuel Hans Adler"
+],
+"links": 16
+},
+{
+"name": "Samuel Maykapar",
+"aliases": [
+"Samuel Moiseyevich Maykapar"
+],
+"links": 16
+},
+{
+"name": "Sethus Calvisius",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Shafiga Akhundova",
+"aliases": [
+"Shafiga Gulam Akhundova"
+],
+"links": 16
+},
+{
+"name": "Sima Bina",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Sophia Dussek",
+"aliases": [
+"Corri",
+"Sophia Corri-Dussek",
+"Sophia Giustina Corri",
+"Sophia Giustina Dussek"
+],
+"links": 16
+},
+{
+"name": "Sophie Gay",
+"aliases": [
+"Madame Gay",
+"Marie Francoise Sophie Gay",
+"Marie Françoise Sophie Gay",
+"Marie Gay",
+"Marie Sophie Gay"
+],
+"links": 16
+},
+{
+"name": "Spencer Williams",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Stelvio Cipriani",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Stevan Hristić",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Steve Coleman",
+"aliases": [
+"Steven Douglas Coleman"
+],
+"links": 16
+},
+{
+"name": "Steve Kuhn",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Steve Swallow",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Syama Sastri",
+"aliases": [
+"Shyama Shastri"
+],
+"links": 16
+},
+{
+"name": "Sándor Végh",
+"aliases": [
+"Sandor Vegh"
+],
+"links": 16
+},
+{
+"name": "Tarquinio Merula",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Taufiq Ismail",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Ted Curson",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Thomas Crecquillon",
+"aliases": [
+"Thomas Carchillion",
+"Thomas Crequillon",
+"Thomas Cricquillon",
+"Thomas Krequilon"
+],
+"links": 16
+},
+{
+"name": "Thomas d'Urfey",
+"aliases": [
+"Mr. D’Urfey",
+"T. D’Urfey",
+"Thomas Durfey",
+"Thomas D’Urfey"
+],
+"links": 16
+},
+{
+"name": "Thomas Tomkins",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Tibor Serly",
+"aliases": [
+"Serly Tibor"
+],
+"links": 16
+},
+{
+"name": "Tony Conrad",
+"aliases": [
+"Anthony Schmaltz Conrad",
+"Anthony Schmalz Conrad"
+],
+"links": 16
+},
+{
+"name": "Tony Scott",
+"aliases": [
+"Anthony Sciacca"
+],
+"links": 16
+},
+{
+"name": "Toshiro Mayuzumi",
+"aliases": [
+"Toshiro Mayazumi",
+"Toshiroh Mayazumi",
+"Toshirō Mayuzumi"
+],
+"links": 16
+},
+{
+"name": "Trinh Cong Son",
+"aliases": [
+"Trịnh Công Sơn"
+],
+"links": 16
+},
+{
+"name": "Unico Wilhelm van Wassenaer",
+"aliases": [
+"Count van Wassenaar-Obdam",
+"Unico Wilhelm Graf van Wassenaer",
+"Unico Wilhelm van Wassenaer Obdam"
+],
+"links": 16
+},
+{
+"name": "Upendra Kishore Ray Choudhury",
+"aliases": [
+"L. Upendraki'sora Majumdar",
+"Upendraki'sora Rāya",
+"Upendraki'sora Rāya Caudhurī",
+"Upendrakishore Roy Chowdhury",
+"Upendrakishore Roychoudhury",
+"Upendrakisor Raychaudhuri",
+"Upendrokishore Ray Chowdhury"
+],
+"links": 16
+},
+{
+"name": "Valborg Aulin",
+"aliases": [
+"Laura Valborg Aulin"
+],
+"links": 16
+},
+{
+"name": "Vasilis Karras",
+"aliases": [
+"The Lord of the Night",
+"Vasilis Kesoglidis"
+],
+"links": 16
+},
+{
+"name": "Vince Guaraldi",
+"aliases": [
+"Vincent Anthony Guaraldi"
+],
+"links": 16
+},
+{
+"name": "Vincent Persichetti",
+"aliases": [
+"Vincent Ludwig Persichetti"
+],
+"links": 16
+},
+{
+"name": "Vincent Wallace",
+"aliases": [
+"William Vincent Wallace"
+],
+"links": 16
+},
+{
+"name": "Vladimír Godár",
+"aliases": [
+"Vladimir Godar"
+],
+"links": 16
+},
+{
+"name": "Willem Pijper",
+"aliases": [
+"Pijper",
+"Willem Frederik Johannes Pijper"
+],
+"links": 16
+},
+{
+"name": "William Croft",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Willy Russell",
+"aliases": [
+"William Russell"
+],
+"links": 16
+},
+{
+"name": "Witold Maliszewski",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Yan Pascal Tortelier",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Yevgeny Krylatov",
+"aliases": [
+"Eugene Krylatov",
+"Evgeniy Krylatov",
+"Evgeniĭ Krylatov",
+"Krylatov, Evgeniy",
+"Krylatov, Yevgeny",
+"Yevgeniy Krylatov",
+"Yevgeniy Pavlovich Krylatov",
+"Yevgeny Pavlovich Krylatov"
+],
+"links": 16
+},
+{
+"name": "Yevsevii Mandychesvky",
+"aliases": [
+"Eusebius Mandychevsky",
+"Eusebius Mandyczewski",
+"Yevsevii Mandychevskyi"
+],
+"links": 16
+},
+{
+"name": "Adam Krieger",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Adam Michna z Otradovic",
+"aliases": [
+"Adam Václav Michna z Otradovic"
+],
+"links": 15
+},
+{
+"name": "Adolph Brodsky",
+"aliases": [
+"Adolf Davidovich Brodsky",
+"Adolph Davidovich Brodsky"
+],
+"links": 15
+},
+{
+"name": "Airas Nunes",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Alan Rubin",
+"aliases": [
+"Alan Perry Rubin",
+"Mr. Fabulous"
+],
+"links": 15
+},
+{
+"name": "Albert Louis Wolff",
+"aliases": [
+"Albert Wolff"
+],
+"links": 15
+},
+{
+"name": "Aldo Ceccato",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Aldo Clementi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Alessandro Longo",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Alex Acuña",
+"aliases": [
+"Alejandro Acuña",
+"Alejandro N. Acuña",
+"Alejandro Neciosup Acuña",
+"Alex Acuna"
+],
+"links": 15
+},
+{
+"name": "Alexander Melik-Pashayev",
+"aliases": [
+"Aleksandr Š. Melik-Pašaev",
+"Aleksandr Šamilʹevič Melik-Pašaev",
+"Melik-Pashayev, Alexander"
+],
+"links": 15
+},
+{
+"name": "Alexey Rybnikov",
+"aliases": [
+"Alexey Lvovich Rybnikov"
+],
+"links": 15
+},
+{
+"name": "Alfred Grünfeld",
+"aliases": [
+"Alfred Grunfeld"
+],
+"links": 15
+},
+{
+"name": "Alfredo Keil",
+"aliases": [
+"Alfred Keil",
+"Alfredo Cristiano Keil"
+],
+"links": 15
+},
+{
+"name": "Allan Cunningham",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Alvin Lucier",
+"aliases": [
+"Alvin Augustus Lucier Jr."
+],
+"links": 15
+},
+{
+"name": "Amadeu Vives i Roig",
+"aliases": [
+"Amadeo Vives",
+"Amadeu Vives"
+],
+"links": 15
+},
+{
+"name": "Amanda Röntgen-Maier",
+"aliases": [
+"Amanda Maier",
+"Carolina Amanda Erika Maier-Röntgen"
+],
+"links": 15
+},
+{
+"name": "Andria Balanchivadze",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Anne Linnet",
+"aliases": [
+"Anne Kristine Kjær Linnet",
+"Anne Kristine Linnet"
+],
+"links": 15
+},
+{
+"name": "Annette Peacock",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Anselm Hüttenbrenner",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Antonio Bernacchi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Antonio Draghi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Arik Brauer",
+"aliases": [
+"Erich Brauer"
+],
+"links": 15
+},
+{
+"name": "Armen Tigranyan",
+"aliases": [
+"Armen Tigrani Tigranian",
+"Tigranian, Armen Tigrani"
+],
+"links": 15
+},
+{
+"name": "Arnolt Schlick",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Arthur Friedheim",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Asaf Zeynally",
+"aliases": [
+"Asaf Zeynalabdin oglu Zeynally",
+"Asaf Zeynalli",
+"Asef Zeynali"
+],
+"links": 15
+},
+{
+"name": "Asger Hamerik",
+"aliases": [],
+"links": 15
+},
+{
+"name": "August Wilhelmj",
+"aliases": [
+"August Emil Daniel Ferdinand Wilhelmj",
+"August Wilhelmy"
+],
+"links": 15
+},
+{
+"name": "Beatrice Ohanessian",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bennie Moten",
+"aliases": [
+"Benjamin Moten",
+"Benjamine Moten"
+],
+"links": 15
+},
+{
+"name": "Bill Evans",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Billy Goldenberg",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Bobby Ellsworth",
+"aliases": [
+"Bobby Blitz Ellsworth",
+"Robert Ellsworth"
+],
+"links": 15
+},
+{
+"name": "Booker Ervin",
+"aliases": [
+"Booker Telleferro Ervin II"
+],
+"links": 15
+},
+{
+"name": "Booker Little",
+"aliases": [
+"Booker Little, Jr."
+],
+"links": 15
+},
+{
+"name": "Bruno Nicolai",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Buster Williams",
+"aliases": [
+"Charles Anthony Williams, Jr.",
+"Mchezaji"
+],
+"links": 15
+},
+{
+"name": "Cal Tjader",
+"aliases": [
+"Callen Radcliffe Tjader, Jr."
+],
+"links": 15
+},
+{
+"name": "Carl Ruggles",
+"aliases": [
+"Carl Sprague Ruggles",
+"Charles Sprague Ruggles",
+"Ruggles"
+],
+"links": 15
+},
+{
+"name": "Carl Teike",
+"aliases": [
+"Carl Albert Hermann Teike"
+],
+"links": 15
+},
+{
+"name": "Carlisle Floyd",
+"aliases": [
+"Carlisle S Floyd",
+"Carlisle S. Floyd",
+"Carlisle Sessions Floyd"
+],
+"links": 15
+},
+{
+"name": "Carlo Farina",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Carlo Pedrotti",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Carlos Guastavino",
+"aliases": [
+"Carlos Vicente Guastavino"
+],
+"links": 15
+},
+{
+"name": "Caterina Assandra",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Charles Bordes",
+"aliases": [
+"Anne-Marie Charles Bordes-Bonjean",
+"Charles Marie Anne Bordes"
+],
+"links": 15
+},
+{
+"name": "Charles Hallé",
+"aliases": [
+"Charles Halle",
+"Karl Halle",
+"Sir Charles Halle",
+"Sir Charles Hallé"
+],
+"links": 15
+},
+{
+"name": "Charles-Louis Hanon",
+"aliases": [
+"C. L. Hanon",
+"Charles L. Hanon",
+"Charles Lehuis Hanon"
+],
+"links": 15
+},
+{
+"name": "Charles-Simon Catel",
+"aliases": [
+"Charles Simon Catel"
+],
+"links": 15
+},
+{
+"name": "Charlotte Moorman",
+"aliases": [
+"Madeline Charlotte Moorman"
+],
+"links": 15
+},
+{
+"name": "Chen Yi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Chiara Margarita Cozzolani",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Christian Duguay",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Christian Heinrich Rinck",
+"aliases": [
+"Johann Christian Heinrich Rinck"
+],
+"links": 15
+},
+{
+"name": "Christian Vander",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Christopher Tye",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Claude Nobs",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Claude Thornhill",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Colin McPhee",
+"aliases": [
+"Colin Carhart McPhee"
+],
+"links": 15
+},
+{
+"name": "Conrad Paumann",
+"aliases": [
+"Konrad Paumann"
+],
+"links": 15
+},
+{
+"name": "Cootie Williams",
+"aliases": [
+"Charles Cootie Williams"
+],
+"links": 15
+},
+{
+"name": "Costanzo Porta",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Daniel Purcell",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dave Liebman",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dave Sinclair",
+"aliases": [],
+"links": 15
+},
+{
+"name": "David Darling",
+"aliases": [],
+"links": 15
+},
+{
+"name": "David Lang",
+"aliases": [
+"David A. Lang"
+],
+"links": 15
+},
+{
+"name": "Deryck Cooke",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Dewey Redman",
+"aliases": [
+"Walter Dewey Redman"
+],
+"links": 15
+},
+{
+"name": "Diran Alexanian",
+"aliases": [
+"Alexanian, Diran"
+],
+"links": 15
+},
+{
+"name": "Domenico Sarro",
+"aliases": [
+"Domenico Natale Sarri",
+"Domenico Natale Sarro",
+"Domenico Sarri"
+],
+"links": 15
+},
+{
+"name": "Don Redman",
+"aliases": [
+"Donald Matthew Redman"
+],
+"links": 15
+},
+{
+"name": "Earle Brown",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ede Reményi",
+"aliases": [
+"Ede Remenyi",
+"Edouard Remenyi",
+"Eduard Remenyi",
+"Eduard Reményi"
+],
+"links": 15
+},
+{
+"name": "Edmond de la Fontaine",
+"aliases": [
+"Dicks"
+],
+"links": 15
+},
+{
+"name": "Ellen Taaffe Zwilich",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Emahoy Tsegué-Maryam Guèbrou",
+"aliases": [
+"Emahoy Tsege Mariam Gebru",
+"Emahoy Tsegue Maryam Guebrou",
+"Tsegué-Maryam Guèbrou",
+"Yewubdar Guebrou",
+"Yèwèbdar Guèbrou"
+],
+"links": 15
+},
+{
+"name": "Enrico Mainardi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Enrico Pieranunzi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Erland von Koch",
+"aliases": [
+"Sigurd Christian Jag Erland Vogt von Koch"
+],
+"links": 15
+},
+{
+"name": "Ernst Mielck",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ernst von Schuch",
+"aliases": [
+"Ernst Edler von Schuch"
+],
+"links": 15
+},
+{
+"name": "Ernst Wilhelm Wolf",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ervin Nyiregyházi",
+"aliases": [
+"Ervin Nyiregyhazi",
+"Ervin Nyíregyházi"
+],
+"links": 15
+},
+{
+"name": "Eugene Istomin",
+"aliases": [
+"Eugene George Istomin"
+],
+"links": 15
+},
+{
+"name": "Eugène Bozza",
+"aliases": [
+"Eugene Bozza"
+],
+"links": 15
+},
+{
+"name": "Eyvind Alnæs",
+"aliases": [],
+"links": 15
+},
+{
+"name": "F.L.Æ. Kunzen",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Faraj Garayev",
+"aliases": [
+"Faraj Gara oghlu Garayev",
+"Faraj Gara oglu Garayev"
+],
+"links": 15
+},
+{
+"name": "Francesco Balilla Pratella",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Francesco Mancini",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Frank Wess",
+"aliases": [
+"Frank Wellington Wess"
+],
+"links": 15
+},
+{
+"name": "František Xaver Dušek",
+"aliases": [
+"Frantisek Xaver Dusek"
+],
+"links": 15
+},
+{
+"name": "Franz von Vecsey",
+"aliases": [
+"Ferenc Vecsey"
+],
+"links": 15
+},
+{
+"name": "François Benoist",
+"aliases": [
+"Françoise Benoist"
+],
+"links": 15
+},
+{
+"name": "François de Roubaix",
+"aliases": [
+"Cisco El Rubio"
+],
+"links": 15
+},
+{
+"name": "Fred Wesley",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Frederic Hymen Cowen",
+"aliases": [
+"Frederic Cowen",
+"Frederic H. Cowen",
+"Frederick Cowen",
+"Frederick H. Cowen",
+"Sir Frederic Hymen Cowen"
+],
+"links": 15
+},
+{
+"name": "Frederick Stock",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Friedrich Grützmacher",
+"aliases": [
+"Friedrich Grützmacher sen."
+],
+"links": 15
+},
+{
+"name": "Friedrich Schneider",
+"aliases": [
+"Johann Christian Friedrich Schneider"
+],
+"links": 15
+},
+{
+"name": "Gace Brulé",
+"aliases": [
+"Gace Brule"
+],
+"links": 15
+},
+{
+"name": "Gaetano Braga",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gaetano Greco",
+"aliases": [
+"Gaetano Grieco"
+],
+"links": 15
+},
+{
+"name": "Galt MacDermot",
+"aliases": [
+"Arthur Terence Galt MacDermot"
+],
+"links": 15
+},
+{
+"name": "Gaziza Zhubanova",
+"aliases": [
+"Gaziza Akhemetovna Zhubanova",
+"Gaziza Akhmetkyzy Zhubanova",
+"Gaziza Akhmetovna Zhubanova"
+],
+"links": 15
+},
+{
+"name": "Georg Riedel",
+"aliases": [],
+"links": 15
+},
+{
+"name": "George Frederick Root",
+"aliases": [
+"G. Friedrich Wurzel",
+"Geo. F. Root",
+"George F. Root",
+"George Root"
+],
+"links": 15
+},
+{
+"name": "George Georgescu",
+"aliases": [],
+"links": 15
+},
+{
+"name": "George Henschel",
+"aliases": [
+"Sir Isidor George Henschel"
+],
+"links": 15
+},
+{
+"name": "George Rochberg",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Georgi Atanasov",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Georgie Fame",
+"aliases": [
+"Clive Powell",
+"Georgie Fortune"
+],
+"links": 15
+},
+{
+"name": "Georgy Catoire",
+"aliases": [
+"G. Catoire",
+"Georgy Lvovich Catoire"
+],
+"links": 15
+},
+{
+"name": "Gianandrea Gavazzeni",
+"aliases": [
+"Gian Andrea Gavazzeni"
+],
+"links": 15
+},
+{
+"name": "Giovanni Alberto Ristori",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Giovanni Bassano",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Giovanni Benedetto Platti",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Giovanni Croce",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Giovanni de Macque",
+"aliases": [
+"Jan van Macque"
+],
+"links": 15
+},
+{
+"name": "Giulio Ricordi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Giuni Russo",
+"aliases": [
+"Giuseppa Romeo",
+"Giusy Romeo",
+"Junie Russo"
+],
+"links": 15
+},
+{
+"name": "Giuseppe Giordani",
+"aliases": [
+"Giuseppe Tommaso Giovanni Giordani"
+],
+"links": 15
+},
+{
+"name": "Giuseppe Valentini",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gottfried Finger",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gottfried Heinrich Bach",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gottlieb Muffat",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Grigoraș Dinicu",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Grzegorz Ciechowski",
+"aliases": [
+"Grzegorz Z Ciechowa",
+"Grzegorz Zbigniew Ciechowski",
+"Obywatel G.C."
+],
+"links": 15
+},
+{
+"name": "Gustav Merkel",
+"aliases": [
+"Gustav Adolf Merkel"
+],
+"links": 15
+},
+{
+"name": "Gustave Nadaud",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Géza Zichy",
+"aliases": [
+"Geza Zichy"
+],
+"links": 15
+},
+{
+"name": "Günther Ramin",
+"aliases": [
+"Guenther Ramin",
+"Gunther Ramin"
+],
+"links": 15
+},
+{
+"name": "Hampartsoum Limondjian",
+"aliases": [
+"Baba Hamparsum",
+"Hambardzum Limondjian"
+],
+"links": 15
+},
+{
+"name": "Hans Bronsart von Schellendorff",
+"aliases": [
+"Hans Bronsart Von Schellendorf",
+"Hans Bronsart von Schellendorf"
+],
+"links": 15
+},
+{
+"name": "Hans Georg Nägeli",
+"aliases": [
+"Hans Georg Naegeli"
+],
+"links": 15
+},
+{
+"name": "Hans Vonk",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Heinrich Frauenlob",
+"aliases": [
+"Frauenlob",
+"Heinrich von Meissen",
+"Henry of Meissen"
+],
+"links": 15
+},
+{
+"name": "Hendrik Andriessen",
+"aliases": [
+"Hendrik Franciscus Andriessen"
+],
+"links": 15
+},
+{
+"name": "Henri Büsser",
+"aliases": [
+"Henri-Paul Büsser"
+],
+"links": 15
+},
+{
+"name": "Henry Grimes",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Herman Severin Lovenskjold",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Hubert Léonard",
+"aliases": [
+"Hubert Leonard",
+"Hubert Leonhard"
+],
+"links": 15
+},
+{
+"name": "Hélène de Montgeroult",
+"aliases": [
+"Helene de Montgeroult",
+"Hélène-Antoinette-Marie de Nervo de Montgeroult",
+"Marquise Hélène de Montgeroult"
+],
+"links": 15
+},
+{
+"name": "Ian Carr",
+"aliases": [
+"Ian Henry Randell Carr"
+],
+"links": 15
+},
+{
+"name": "Ian McCulloch",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Idris Muhammad",
+"aliases": [
+"Leo Morris",
+"Leo Swift Morris",
+"Leopald Morris"
+],
+"links": 15
+},
+{
+"name": "Ignaz Holzbauer",
+"aliases": [
+"Ignaz Jakob Holzbauer"
+],
+"links": 15
+},
+{
+"name": "Ilkka Kuusisto",
+"aliases": [
+"Ilkka Taneli Kuusisto"
+],
+"links": 15
+},
+{
+"name": "Illinois Jacquet",
+"aliases": [
+"Illinois Baptiste Jacquet",
+"Jean Baptiste Jacquet",
+"Jean-Baptiste Illinois Jacquet"
+],
+"links": 15
+},
+{
+"name": "Ilmari Hannikainen",
+"aliases": [
+"Toivo Ilmari Hannikainen"
+],
+"links": 15
+},
+{
+"name": "Isham Jones",
+"aliases": [],
+"links": 15
+},
+{
+"name": "István Thomán",
+"aliases": [
+"Istvan Thoman"
+],
+"links": 15
+},
+{
+"name": "Ivor Gurney",
+"aliases": [
+"Ivor Bertie Gurney"
+],
+"links": 15
+},
+{
+"name": "Iwan Müller",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jaan Rääts",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jack Delano",
+"aliases": [
+"Jack Ovcharov",
+"Jacob Ovcharov",
+"Joaquin",
+"Joaquín"
+],
+"links": 15
+},
+{
+"name": "Jacob Regnart",
+"aliases": [
+"Jacques Regnart",
+"Jakob Regnart"
+],
+"links": 15
+},
+{
+"name": "Jacopo Corsi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jakob Adlung",
+"aliases": [
+"Jacob Adlung"
+],
+"links": 15
+},
+{
+"name": "James Reese Europe",
+"aliases": [
+"Europe",
+"James Europe",
+"James R. Europe",
+"James R. Europe, Sr.",
+"James Reese Europe, Sr.",
+"Jim Europe",
+"Lieut. Jim Europe"
+],
+"links": 15
+},
+{
+"name": "Jan Křesadlo",
+"aliases": [
+"Jan Kresadlo"
+],
+"links": 15
+},
+{
+"name": "Jan Novák",
+"aliases": [
+"Jan Novak"
+],
+"links": 15
+},
+{
+"name": "Jaroslav Křička",
+"aliases": [
+"Jaroslav Kricka"
+],
+"links": 15
+},
+{
+"name": "Jascha Horenstein",
+"aliases": [
+"Iacha Horenstein"
+],
+"links": 15
+},
+{
+"name": "Jay McShann",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jean Barraqué",
+"aliases": [
+"Jean Barraque"
+],
+"links": 15
+},
+{
+"name": "Jean Molinet",
+"aliases": [
+"Jehan Molinet"
+],
+"links": 15
+},
+{
+"name": "Jean Mouton",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jean-Baptiste Faure",
+"aliases": [
+"J. Faure"
+],
+"links": 15
+},
+{
+"name": "Jean-Baptiste Krumpholz",
+"aliases": [
+"Jan Křtitel",
+"Jean-Baptiste Krumpholtz",
+"Johann Baptist"
+],
+"links": 15
+},
+{
+"name": "Jean-Jacques Perrey",
+"aliases": [
+"Monsieur Ondioline",
+"Mr.Ondioline",
+"Pat Prilly"
+],
+"links": 15
+},
+{
+"name": "Jean-Louis Duport",
+"aliases": [
+"J. L. Duport"
+],
+"links": 15
+},
+{
+"name": "Jean-Yves Daniel-Lesur",
+"aliases": [
+"Daniel-Lesur"
+],
+"links": 15
+},
+{
+"name": "Jehan de Lescurel",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jerome Richardson",
+"aliases": [
+"Jerome C. Richardson"
+],
+"links": 15
+},
+{
+"name": "Joanna Bruzdowicz",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Johann Anton André",
+"aliases": [
+"Johann Anton Andre"
+],
+"links": 15
+},
+{
+"name": "Johann Baptist Schenk",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Johann Heinrich Buttstett",
+"aliases": [
+"Johann Heinrich Buttstedt",
+"Johann Heinrich Buttstädt"
+],
+"links": 15
+},
+{
+"name": "Johann Philipp Krieger",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Johann Rudolph Ahle",
+"aliases": [
+"Johann Rudolf Ahle",
+"Johann Rudolph"
+],
+"links": 15
+},
+{
+"name": "Johannes Bach",
+"aliases": [
+"Johann Bach"
+],
+"links": 15
+},
+{
+"name": "Johannes Eccard",
+"aliases": [],
+"links": 15
+},
+{
+"name": "John Cooper",
+"aliases": [
+"Giovanni Coprario",
+"John Coperario",
+"John Cowper"
+],
+"links": 15
+},
+{
+"name": "John Eccles",
+"aliases": [],
+"links": 15
+},
+{
+"name": "John Foxx",
+"aliases": [
+"Dennis Leigh"
+],
+"links": 15
+},
+{
+"name": "John Francis Wade",
+"aliases": [],
+"links": 15
+},
+{
+"name": "John Goss",
+"aliases": [
+"Sir John Goss"
+],
+"links": 15
+},
+{
+"name": "John Lomax",
+"aliases": [
+"John A. Lomax",
+"John Avery Lomax"
+],
+"links": 15
+},
+{
+"name": "John Pentland Mahaffy",
+"aliases": [
+"J. P. Mahaffy",
+"Sir John Pentland Mahaffy"
+],
+"links": 15
+},
+{
+"name": "John Surman",
+"aliases": [
+"John D. Surman",
+"John Douglas Surman"
+],
+"links": 15
+},
+{
+"name": "Josef Bayer",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Joseph Achron",
+"aliases": [
+"Joseph Isidor Achron",
+"Joseph Yulyevich Achron"
+],
+"links": 15
+},
+{
+"name": "Joseph Haas",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Josephine Lang",
+"aliases": [
+"Josephine Caroline Lang"
+],
+"links": 15
+},
+{
+"name": "José Cid",
+"aliases": [
+"Jose Cid"
+],
+"links": 15
+},
+{
+"name": "João Domingos Bomtempo",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Julia Wolfe",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Julian Scriabin",
+"aliases": [
+"Julian Aleksandrovich Scriabin",
+"Julian Alexandrovich Scriabin",
+"Yulian Aleksandrovich Skryabin"
+],
+"links": 15
+},
+{
+"name": "Jānis Mediņš",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kanaka Dasa",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Karel Kovařovic",
+"aliases": [
+"Karel Kovarovic"
+],
+"links": 15
+},
+{
+"name": "Karl Heinrich Barth",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Karl Münchinger",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Kevin Kiner",
+"aliases": [
+"Kevin David Kiner"
+],
+"links": 15
+},
+{
+"name": "Khosrow Sinai",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Konstantin Orbelyan",
+"aliases": [
+"Konstantin Aghaparoni Orbelyan"
+],
+"links": 15
+},
+{
+"name": "Lazare Lévy",
+"aliases": [
+"Lazare Levy"
+],
+"links": 15
+},
+{
+"name": "Leo Smit",
+"aliases": [
+"Leopold Smit"
+],
+"links": 15
+},
+{
+"name": "Leopold Damrosch",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lia Vissi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lord Berners",
+"aliases": [
+"Baron Berners Gerald Hugh Tyrwhitt-Wilson",
+"Baron Gerald Hugh Tyrwhitt-Wilson Berners",
+"Gerald Berners",
+"Gerald Hugh Tyrwhitt-Wilson Berners",
+"Gerald Hugh Tyrwhitt-Wilson Berners Baron",
+"Gerald Hugh Tyrwhitt-Wilson, Baron Berners",
+"Gerald Tyrwhitt-Wilson, 14th Baron Berners",
+"Lord Gerald Berners"
+],
+"links": 15
+},
+{
+"name": "Luc Ferrari",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ludvig Norman",
+"aliases": [
+"Fredrik Wilhelm Ludvig Norman"
+],
+"links": 15
+},
+{
+"name": "Ludvig Schytte",
+"aliases": [
+"Ludvig Theodor Schytte"
+],
+"links": 15
+},
+{
+"name": "Ludwig Abeille",
+"aliases": [
+"Johann Christian Ludwig Abeille"
+],
+"links": 15
+},
+{
+"name": "Ludwig Berger",
+"aliases": [
+"Carl Ludwig Heinrich Berger"
+],
+"links": 15
+},
+{
+"name": "Ludwig Nohl",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ludwig von Brenner",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Lyudmila Lyadova",
+"aliases": [
+"Lyudmila Alekseevna Lyadova",
+"Lyudmila Alexeyevna Lyadova",
+"Lyudmila Alexseyevna Lyadova"
+],
+"links": 15
+},
+{
+"name": "Mack Gordon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Mad Professor",
+"aliases": [
+"Neil Fraser"
+],
+"links": 15
+},
+{
+"name": "Maitreyi Devi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Manuel Cardoso",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Marc Blitzstein",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Marc Dorcel",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Marco Enrico Bossi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Margaret Bonds",
+"aliases": [
+"Margaret Allison Bonds",
+"Margaret Richardson"
+],
+"links": 15
+},
+{
+"name": "Maria Howell",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Marie Bigot",
+"aliases": [
+"Anne Marie Cathérine Bigot de Morogues",
+"Marie Kiéné Bigot de Morogues"
+],
+"links": 15
+},
+{
+"name": "Marie Pleyel",
+"aliases": [
+"Maria Felicite Pleyel"
+],
+"links": 15
+},
+{
+"name": "Mariza Koch",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Mary Rodgers",
+"aliases": [
+"Mary Rodgers Guettel"
+],
+"links": 15
+},
+{
+"name": "Maurice Martenot",
+"aliases": [
+"Maurice Louis Eugène Martenot"
+],
+"links": 15
+},
+{
+"name": "Max Fiedler",
+"aliases": [
+"August Max Fiedler"
+],
+"links": 15
+},
+{
+"name": "Melchior Franck",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Menachem Avidom",
+"aliases": [
+"Menahem Avidom"
+],
+"links": 15
+},
+{
+"name": "Michael Hayes",
+"aliases": [
+"Dok Hendrix",
+"Michael P.S. Hayes",
+"Michael PS Hayes",
+"Michael Purely Sexy Hayes",
+"Michael Seitz",
+"Purely Sexy"
+],
+"links": 15
+},
+{
+"name": "Michael Rose",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Michael Shrieve",
+"aliases": [
+"Mike Shrieve"
+],
+"links": 15
+},
+{
+"name": "Michel Lambert",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Michel Portal",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Miklos von Konkoly-Thege",
+"aliases": [
+"Miklós Konkoly Thege",
+"Miklós Konkoly-Thege"
+],
+"links": 15
+},
+{
+"name": "Mitch Ryder",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Morton Subotnick",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Mykola Markevych",
+"aliases": [
+"Nikolai Markevich"
+],
+"links": 15
+},
+{
+"name": "Mátyás Seiber",
+"aliases": [
+"Matyas Seiber"
+],
+"links": 15
+},
+{
+"name": "Na Castelloza",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Nelson Ned",
+"aliases": [
+"Nelson Ned d'Ávila Pinto"
+],
+"links": 15
+},
+{
+"name": "Nick Glennie-Smith",
+"aliases": [
+"Nickolas Glennie-Smith"
+],
+"links": 15
+},
+{
+"name": "Nicolas Grenon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Niels Viggo Bentzon",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Nikhil Banerjee",
+"aliases": [
+"Pandit Nikhil Ranjan Banerjee"
+],
+"links": 15
+},
+{
+"name": "Noble Sissle",
+"aliases": [
+"Noble Lee Sissle"
+],
+"links": 15
+},
+{
+"name": "Nobuhiko Obayashi",
+"aliases": [
+"Nobuhiko Ōbayashi"
+],
+"links": 15
+},
+{
+"name": "Ohad Naharin",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ole Olsen",
+"aliases": [
+"Lloyd Ole Olsen"
+],
+"links": 15
+},
+{
+"name": "Oleg Karavaychuk",
+"aliases": [
+"Oleg Nikolayevich Karavaichuk"
+],
+"links": 15
+},
+{
+"name": "Oscar Benton",
+"aliases": [
+"Ferdinand van Eif"
+],
+"links": 15
+},
+{
+"name": "Oskar Rieding",
+"aliases": [
+"Oscar Rieding"
+],
+"links": 15
+},
+{
+"name": "Ossip Gabrilowitsch",
+"aliases": [
+"Ossip Salomonovich Gabrilowitsch"
+],
+"links": 15
+},
+{
+"name": "Osvaldas Balakauskas",
+"aliases": [
+"Osvaldas Jonas Balakauskas"
+],
+"links": 15
+},
+{
+"name": "Oswald Kabasta",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Otto Goldschmidt",
+"aliases": [
+"Otto Moritz David Goldschmidt"
+],
+"links": 15
+},
+{
+"name": "Otto Olsson",
+"aliases": [
+"Otto Emanuel Olsson"
+],
+"links": 15
+},
+{
+"name": "Ozzie Nelson",
+"aliases": [
+"Oswald George Nelson"
+],
+"links": 15
+},
+{
+"name": "Pankaj Mullick",
+"aliases": [
+"Pankaj Kumar Mullick"
+],
+"links": 15
+},
+{
+"name": "Paul Gilson",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Paul Juon",
+"aliases": [
+"Pavel Yuon"
+],
+"links": 15
+},
+{
+"name": "Paul Smith",
+"aliases": [
+"Paul J. Smith"
+],
+"links": 15
+},
+{
+"name": "Pavel Josef Vejvanovský",
+"aliases": [
+"Pavel Josef Vejvanovsky"
+],
+"links": 15
+},
+{
+"name": "Pedro Iturralde",
+"aliases": [
+"Pedro Iturralde Ochoa"
+],
+"links": 15
+},
+{
+"name": "Peter Arnold Heise",
+"aliases": [
+"Peter Heise"
+],
+"links": 15
+},
+{
+"name": "Peter Bardens",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Peter Konjovic",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Peter Raabe",
+"aliases": [
+"Peter Raab"
+],
+"links": 15
+},
+{
+"name": "Pham Duy",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Philip Jarnach",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Philipp Scharwenka",
+"aliases": [
+"Ludwig Philipp Scharwenka"
+],
+"links": 15
+},
+{
+"name": "Pietro Aron",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Princess Marie Elisabeth of Saxe-Meiningen",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Qigang Chen",
+"aliases": [
+"Qi Gang Chen"
+],
+"links": 15
+},
+{
+"name": "R. Murray Schafer",
+"aliases": [
+"Murray Shafer",
+"Raymond Murray Schafer"
+],
+"links": 15
+},
+{
+"name": "Radka Toneff",
+"aliases": [
+"Ellen Radka Toneff"
+],
+"links": 15
+},
+{
+"name": "Rafael Hernández Marín",
+"aliases": [
+"Canchola Rafael Hernandez",
+"El Jibarito",
+"Rafael Canchola Hernandez",
+"Rafael Hernandez Canchola",
+"Rafael Hernández"
+],
+"links": 15
+},
+{
+"name": "Rajesh Roshan",
+"aliases": [
+"Rajesh Roshan Lal Nagrath"
+],
+"links": 15
+},
+{
+"name": "Ralph Burns",
+"aliases": [
+"Ralph Jose P. Burns"
+],
+"links": 15
+},
+{
+"name": "Ramprasad Sen",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ramón Carnicer",
+"aliases": [
+"Ramón Carnicer i Batlle"
+],
+"links": 15
+},
+{
+"name": "Raoul de Pugno",
+"aliases": [
+"Stéphane Raoul Pugno"
+],
+"links": 15
+},
+{
+"name": "Raoul Koczalski",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Raphael Ravenscroft",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Rauf Hajiyev",
+"aliases": [
+"Rauf Soltan oghlu Hajiyev",
+"Rauf Soltan oglu Hajiyev"
+],
+"links": 15
+},
+{
+"name": "Raymond Lefèvre",
+"aliases": [
+"Raymond Lefevre"
+],
+"links": 15
+},
+{
+"name": "Red Norvo",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Reinbert de Leeuw",
+"aliases": [
+"R. de Leeuw"
+],
+"links": 15
+},
+{
+"name": "René Clemencic",
+"aliases": [
+"Rene Clemencic",
+"René Clemenčič"
+],
+"links": 15
+},
+{
+"name": "Rex Stewart",
+"aliases": [
+"Rex William Stewart"
+],
+"links": 15
+},
+{
+"name": "Rich Mullins",
+"aliases": [
+"Richard Mullins"
+],
+"links": 15
+},
+{
+"name": "Richard Hageman",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Richard Tucker",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Richard Wetz",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Rigoberto López Pérez",
+"aliases": [
+"Pascual Rigoberto López Pérez"
+],
+"links": 15
+},
+{
+"name": "Rob Hubbard",
+"aliases": [
+"John York"
+],
+"links": 15
+},
+{
+"name": "Robert Cambert",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Roger Chapman",
+"aliases": [
+"Chappo"
+],
+"links": 15
+},
+{
+"name": "Roger O'Donnell",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Roland Hanna",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Roswell Rudd",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Roza Tamarkina",
+"aliases": [
+"Rosa Tamarkina"
+],
+"links": 15
+},
+{
+"name": "Sahakdukht",
+"aliases": [
+"Sahaduxt",
+"Sahakduk",
+"Sahakdukht of Siunik",
+"Sahakdukht Siunetsi",
+"Sahakduxt",
+"Sihaktoukht"
+],
+"links": 15
+},
+{
+"name": "Samuel Capricornus",
+"aliases": [
+"Samuel Friedrich Capricornus"
+],
+"links": 15
+},
+{
+"name": "Sebastian Klonowic",
+"aliases": [
+"Acernus",
+"Sebastian Fabian Klonowic"
+],
+"links": 15
+},
+{
+"name": "Sebestyén Tinódi Lantos",
+"aliases": [
+"Sebestyen Tinodi Lantos"
+],
+"links": 15
+},
+{
+"name": "Sem Dresden",
+"aliases": [
+"Samuel Dresden"
+],
+"links": 15
+},
+{
+"name": "Shamshi Kaldayakov",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Simon Preston",
+"aliases": [
+"Simon John Preston"
+],
+"links": 15
+},
+{
+"name": "Soltan Hajibeyov",
+"aliases": [
+"Soltan Ismayil oghlu Hajibeyov",
+"Soltan Ismayil ogli Hajibeyov",
+"Soltan İsmayıl oğlu Gadžibekov",
+"Soltan İsmayıl oğlu Hacıbäyov",
+"Sultan Gadzhibekov"
+],
+"links": 15
+},
+{
+"name": "Sonny Greer",
+"aliases": [
+"William A. Greer"
+],
+"links": 15
+},
+{
+"name": "Stefan Wolpe",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Sylvano Bussotti",
+"aliases": [
+"Silvano Bussotti"
+],
+"links": 15
+},
+{
+"name": "Sándor Szokolay",
+"aliases": [
+"Sandor Szokolay"
+],
+"links": 15
+},
+{
+"name": "Teodoro Cottrau",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Thea Musgrave",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Thomas Attwood",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Thomas Linley",
+"aliases": [
+"Thomas Linley the elder"
+],
+"links": 15
+},
+{
+"name": "Thorvald Aagaard",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Tibors de Sarenom",
+"aliases": [
+"Thiburge de Montpellier, Princesse d'Orange",
+"Tibors"
+],
+"links": 15
+},
+{
+"name": "Tina Brooks",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Tony Marshall",
+"aliases": [
+"Herbert Anton Bloeth",
+"Herbert Anton Hilger"
+],
+"links": 15
+},
+{
+"name": "Tuotilo",
+"aliases": [
+"Tutilone"
+],
+"links": 15
+},
+{
+"name": "Tymko Padura",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Ulvi Cemal Erkin",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Uuno Klami",
+"aliases": [
+"Uuno Kalervo Klami"
+],
+"links": 15
+},
+{
+"name": "Valery Kipelov",
+"aliases": [
+"Valery Aleksandrovich Kipelov",
+"Valery Alexandrovich Kipelov"
+],
+"links": 15
+},
+{
+"name": "Van Alexander",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Veli Mukhatov",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Vic Firth",
+"aliases": [
+"Everett Firth"
+],
+"links": 15
+},
+{
+"name": "Vinko Globokar",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Văn Cao",
+"aliases": [
+"Nguyễn Văn Cao"
+],
+"links": 15
+},
+{
+"name": "Walter Damrosch",
+"aliases": [
+"Walter Johannes Damrosch"
+],
+"links": 15
+},
+{
+"name": "Wilhelm Taubert",
+"aliases": [
+"Carl Gottfried Wilhelm Taubert"
+],
+"links": 15
+},
+{
+"name": "William Axt",
+"aliases": [],
+"links": 15
+},
+{
+"name": "William Plomer",
+"aliases": [
+"William Charles Franklyn Plomer"
+],
+"links": 15
+},
+{
+"name": "William Steinberg",
+"aliases": [
+"Hans Wilhelm Steinberg"
+],
+"links": 15
+},
+{
+"name": "Woldemar Bargiel",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Wolfgang Puschnig",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Xavier Leroux",
+"aliases": [],
+"links": 15
+},
+{
+"name": "York Bowen",
+"aliases": [
+"Edwin York Bowen"
+],
+"links": 15
+},
+{
+"name": "Yves Nat",
+"aliases": [
+"Yves Philippe Avit Nat"
+],
+"links": 15
+},
+{
+"name": "Ödön Mihalovich",
+"aliases": [
+"Odoen Mihalovich",
+"Odon mihalovich",
+"Odon Mihalovich"
+],
+"links": 15
 }
 ]

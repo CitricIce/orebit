@@ -545,5 +545,617 @@
 "name": "The Karate Kid",
 "aliases": [],
 "links": 12
+},
+{
+"name": "De Gaulle",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Ju-On",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kino-Pravda",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Maze Runner",
+"aliases": [
+"The Maze Runner"
+],
+"links": 11
+},
+{
+"name": "Otoko wa Tsurai yo",
+"aliases": [
+"It's Tough Being a Man"
+],
+"links": 11
+},
+{
+"name": "Plandemic",
+"aliases": [],
+"links": 11
+},
+{
+"name": "The Expendables",
+"aliases": [],
+"links": 11
+},
+{
+"name": "The Game of Death",
+"aliases": [],
+"links": 11
+},
+{
+"name": "The Hangover",
+"aliases": [],
+"links": 11
+},
+{
+"name": "The Life of Larry and Larry & Steve",
+"aliases": [
+"Life of Larry and Larry & Steve"
+],
+"links": 11
+},
+{
+"name": "The Transporter",
+"aliases": [],
+"links": 11
+},
+{
+"name": "The Twisted Childhood Universe",
+"aliases": [
+"Poohniverse",
+"Twisted Childhood Universe"
+],
+"links": 11
+},
+{
+"name": "Up Series",
+"aliases": [
+"Up"
+],
+"links": 11
+},
+{
+"name": "Death Wish",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Knives Out",
+"aliases": [
+"Benoit Blanc film series",
+"Benoit Blanc Mysteries",
+"Knives Out film series"
+],
+"links": 10
+},
+{
+"name": "Taxi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "The Amityville Horror",
+"aliases": [],
+"links": 10
+},
+{
+"name": "The Battle of Chile",
+"aliases": [
+"Battle of Chile",
+"La batalla de Chile"
+],
+"links": 10
+},
+{
+"name": "The gendarme",
+"aliases": [
+"Gendarme"
+],
+"links": 10
+},
+{
+"name": "The Hire",
+"aliases": [
+"The Escape",
+"the hire:Star"
+],
+"links": 10
+},
+{
+"name": "The Naked Gun",
+"aliases": [
+"Naked Gun"
+],
+"links": 10
+},
+{
+"name": "The Smurfs in film",
+"aliases": [],
+"links": 10
+},
+{
+"name": "X",
+"aliases": [
+"XXX"
+],
+"links": 10
+},
+{
+"name": "Bad Boys",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Daicon III and IV Opening Animations",
+"aliases": [
+"Daicon Film",
+"Daicon films",
+"Daicon Opening Animations"
+],
+"links": 9
+},
+{
+"name": "Descendants",
+"aliases": [
+"Disney's Descendants"
+],
+"links": 9
+},
+{
+"name": "Dog Star Man",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Fifty Shades",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Investigation Held by ZnaToKi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Johan Falk",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sharknado",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sonic the Hedgehog",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Star Wreck",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Taken",
+"aliases": [
+"Taken series"
+],
+"links": 9
+},
+{
+"name": "A Quiet Place",
+"aliases": [
+"AQP",
+"Quiet Place"
+],
+"links": 8
+},
+{
+"name": "After",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Censored Eleven",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Critters",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Dhoom",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Foolish Years",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Has Fallen",
+"aliases": [
+"Fallen"
+],
+"links": 8
+},
+{
+"name": "Hellraiser",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Johnny English",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Leprechaun",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lokesh Cinematic Universe",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Men in Black",
+"aliases": [
+"MIB"
+],
+"links": 8
+},
+{
+"name": "Olsen Gang",
+"aliases": [
+"Olsenbanden"
+],
+"links": 8
+},
+{
+"name": "Teenage Mutant Ninja Turtles in film",
+"aliases": [
+"TMNT in film"
+],
+"links": 8
+},
+{
+"name": "The Atheism Tapes",
+"aliases": [
+"Atheism Tapes"
+],
+"links": 8
+},
+{
+"name": "The Hazards of Helen",
+"aliases": [
+"Hazards of Helen"
+],
+"links": 8
+},
+{
+"name": "The March of Time",
+"aliases": [
+"March of Time"
+],
+"links": 8
+},
+{
+"name": "The Scarlet Runner",
+"aliases": [
+"Scarlet Runner"
+],
+"links": 8
+},
+{
+"name": "View Askewniverse",
+"aliases": [],
+"links": 8
+},
+{
+"name": "YRF Spy Universe",
+"aliases": [
+"Spy Universe"
+],
+"links": 8
+},
+{
+"name": "28 Days Later",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bayside Shakedown",
+"aliases": [
+"Odoru Daisōsasen"
+],
+"links": 7
+},
+{
+"name": "Beverly Hills Cop",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Black Emanuelle",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bridget Jones",
+"aliases": [],
+"links": 7
+},
+{
+"name": "CKY",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hot Wheels: AcceleRacers",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Jönssonligan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "King Naresuan",
+"aliases": [
+"The Legend of King Naresuan"
+],
+"links": 7
+},
+{
+"name": "Living Dead",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Red Riding",
+"aliases": [
+"Red Riding Trilogy"
+],
+"links": 7
+},
+{
+"name": "Schulmädchen-Report",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sherlock Holmes",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sniper",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Space Jam",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Step Up",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The Beatles: A Four-Film Cinematic Event",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The Blues",
+"aliases": [
+"Blues",
+"Martin Scorsese Presents The Blues"
+],
+"links": 7
+},
+{
+"name": "The Cremaster Cycle pentalogy",
+"aliases": [],
+"links": 7
+},
+{
+"name": "The Three Mesquiteers",
+"aliases": [
+"Three Mesquiteers"
+],
+"links": 7
+},
+{
+"name": "Westinghouse Works, 1904",
+"aliases": [
+"Westinghouse Works 1904"
+],
+"links": 7
+},
+{
+"name": "Whispering Corridors",
+"aliases": [],
+"links": 7
+},
+{
+"name": "A Cinderella Story",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Anaconda",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Aurora Teagarden Mysteries",
+"aliases": [
+"Aurora Teagarden",
+"Aurora Teagarden Mystery"
+],
+"links": 6
+},
+{
+"name": "Baahubali",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Beethoven",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Blockade",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Breaking Dawn",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cube",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Death Race",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dooly the Little Dinosaur",
+"aliases": [
+"Dooley and his Friends"
+],
+"links": 6
+},
+{
+"name": "Fridericus Rex",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hostel",
+"aliases": [],
+"links": 6
+},
+{
+"name": "I Know What You Did Last Summer",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Inspector Dupin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ip Man",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lemmy Caution",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Let There Be Light",
+"aliases": [],
+"links": 6
+},
+{
+"name": "National Treasure",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Once Upon a Time in China",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Persona 3 The Movie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Police Story",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Robert Langdon",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Six Moral Tales hexalogy",
+"aliases": [],
+"links": 6
+},
+{
+"name": "The Children of Golzow",
+"aliases": [
+"Children of Golzow"
+],
+"links": 6
+},
+{
+"name": "The Inner and Outer World of Shah Rukh Khan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "The Philosophers",
+"aliases": [],
+"links": 6
+},
+{
+"name": "The Tulse Luper Suitcases",
+"aliases": [
+"Tulse Luper Suitcases"
+],
+"links": 6
+},
+{
+"name": "Wile E. Coyote and the Road Runner",
+"aliases": [
+"Coyote and Roadrunner",
+"Roadrunner and Coyote",
+"The Roadrunner and Wile E. Coyote"
+],
+"links": 6
+},
+{
+"name": "Winnetou",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Young and Dangerous",
+"aliases": [],
+"links": 6
 }
 ]

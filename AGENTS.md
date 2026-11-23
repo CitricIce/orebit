@@ -24,8 +24,9 @@ that roughly 5 to 10 players in a hundred will actually find.
 
 Before expanding or adding any open-ended category (games, people, places,
 species, titles), give it a Wikidata source in `scripts/fetch_wikidata.py`
-with a cutoff loose enough to keep fair answers (roughly 10-35 Wikipedia
-languages for big sets), fetch it, and spot-check the results for junk. Only
+with a cutoff loose enough to keep fair answers (roughly 8-20 Wikipedia
+languages for big sets, 1-5 for brands and things; the long tail is what lets
+every fair answer count, and ranking keeps obscure ones in Crystal), fetch it, and spot-check the results for junk. Only
 then use helpers for nicknames, typos and what Wikidata lacks. A thin list for
 an open-ended category is a bug.
 

@@ -659,7 +659,6 @@
 {
 "name": "Ahsoka Tano",
 "aliases": [
-"Ahsoka",
 "Ashla",
 "Fulcrum",
 "Snips"
@@ -1089,6 +1088,15 @@
 "links": 32
 },
 {
+"name": "Woody",
+"aliases": [
+"Sheriff Woody",
+"Sheriff Woody Pride",
+"Woody Pride"
+],
+"links": 32
+},
+{
 "name": "Alfred Pennyworth",
 "aliases": [
 "Alfred Beagle",
@@ -1121,15 +1129,6 @@
 "name": "Nightcrawler",
 "aliases": [
 "Kurt Wagner"
-],
-"links": 31
-},
-{
-"name": "Woody",
-"aliases": [
-"Sheriff Woody",
-"Sheriff Woody Pride",
-"Woody Pride"
 ],
 "links": 31
 },
@@ -1398,6 +1397,13 @@
 "links": 28
 },
 {
+"name": "Jasmine",
+"aliases": [
+"Princess Jasmine"
+],
+"links": 28
+},
+{
 "name": "Marvin the Martian",
 "aliases": [
 "Marvin"
@@ -1462,13 +1468,6 @@
 {
 "name": "Foghorn Leghorn",
 "aliases": [],
-"links": 27
-},
-{
-"name": "Jasmine",
-"aliases": [
-"Princess Jasmine"
-],
 "links": 27
 },
 {
@@ -1698,6 +1697,17 @@
 "links": 25
 },
 {
+"name": "Beast Boy",
+"aliases": [
+"Changeling",
+"Gar Logan",
+"Garfield Logan",
+"Garfield Mark Logan",
+"Garro"
+],
+"links": 25
+},
+{
 "name": "Cable",
 "aliases": [
 "Nathan Christopher Charles Summers",
@@ -1845,13 +1855,13 @@
 "links": 24
 },
 {
-"name": "Beast Boy",
+"name": "Anna",
 "aliases": [
-"Changeling",
-"Gar Logan",
-"Garfield Logan",
-"Garfield Mark Logan",
-"Garro"
+"Anna of Arendelle",
+"Princess Anna",
+"Princess Anna of Arendelle",
+"Queen Anna",
+"Queen Anna of Arendelle"
 ],
 "links": 24
 },
@@ -1975,17 +1985,6 @@
 "name": "Admiral Ackbar",
 "aliases": [
 "Gial Ackbar"
-],
-"links": 23
-},
-{
-"name": "Anna",
-"aliases": [
-"Anna of Arendelle",
-"Princess Anna",
-"Princess Anna of Arendelle",
-"Queen Anna",
-"Queen Anna of Arendelle"
 ],
 "links": 23
 },
@@ -2540,8 +2539,8 @@
 "name": "Br'er Rabbit",
 "aliases": [
 "Bre'r Rabbit",
-"brer Rabbit",
 "Brer Rabbit",
+"brer Rabbit",
 "Bre’r Rabbit",
 "Brother Rabbit",
 "Bruh Rabbit",
@@ -2642,6 +2641,11 @@
 "links": 19
 },
 {
+"name": "Mulan",
+"aliases": [],
+"links": 19
+},
+{
 "name": "Noddy",
 "aliases": [],
 "links": 19
@@ -2665,6 +2669,14 @@
 "Daughter of Darkness",
 "Daughter of Trigon",
 "Rachel Roth"
+],
+"links": 19
+},
+{
+"name": "The Homelander",
+"aliases": [
+"Homelander",
+"John Gillman"
 ],
 "links": 19
 },
@@ -2759,11 +2771,6 @@
 "links": 18
 },
 {
-"name": "Mulan",
-"aliases": [],
-"links": 18
-},
-{
 "name": "Office Assistant",
 "aliases": [
 "Clippy",
@@ -2834,14 +2841,6 @@
 {
 "name": "Splinter",
 "aliases": [],
-"links": 18
-},
-{
-"name": "The Homelander",
-"aliases": [
-"Homelander",
-"John Gillman"
-],
 "links": 18
 },
 {
@@ -3228,7 +3227,8 @@
 {
 "name": "Silver Sable",
 "aliases": [
-"Silver Sablinova"
+"Silver Sablinova",
+"Silvija Sablinova"
 ],
 "links": 16
 },
@@ -3255,6 +3255,11 @@
 },
 {
 "name": "Ultra Magnus",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Unicron",
 "aliases": [],
 "links": 16
 },
@@ -3558,11 +3563,6 @@
 "aliases": [
 "Aztar"
 ],
-"links": 15
-},
-{
-"name": "Unicron",
-"aliases": [],
 "links": 15
 },
 {
@@ -5943,5 +5943,3527 @@
 "name": "Winston Zeddemore",
 "aliases": [],
 "links": 8
+},
+{
+"name": "Alice",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Amethyst",
+"aliases": [
+"Amaya",
+"Amethyst, Princess of Gemworld",
+"Amy Winston"
+],
+"links": 7
+},
+{
+"name": "Antiope",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Aurra Sing",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Barney Rubble",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Beavis",
+"aliases": [
+"Cornholio"
+],
+"links": 7
+},
+{
+"name": "Bebe Stevens",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Beth Smith",
+"aliases": [
+"Beth Sanchez",
+"Bethany Sanchez",
+"Bethany Smith"
+],
+"links": 7
+},
+{
+"name": "Bette Kane",
+"aliases": [
+"Bat-Girl",
+"Batgirl",
+"Betty Kane",
+"Elizabeth Kane",
+"Flamebird",
+"Hawkfire",
+"Mary Elizabeth Kane"
+],
+"links": 7
+},
+{
+"name": "Big Bad Wolf",
+"aliases": [
+"The Big Bad Wolf",
+"Zeke Midas Wolf"
+],
+"links": 7
+},
+{
+"name": "Big Barda",
+"aliases": [
+"Barda",
+"Barda Free"
+],
+"links": 7
+},
+{
+"name": "Bimbo",
+"aliases": [
+"Fitz"
+],
+"links": 7
+},
+{
+"name": "Blue Devil",
+"aliases": [
+"Daniel Cassidy",
+"Daniel Patrick Cassidy"
+],
+"links": 7
+},
+{
+"name": "Brainiac 5",
+"aliases": [
+"B-5",
+"Brainiac 5.1",
+"Brainy",
+"Querl Dox"
+],
+"links": 7
+},
+{
+"name": "Buddy",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Bébé Lilly",
+"aliases": [
+"Bebe Lilly"
+],
+"links": 7
+},
+{
+"name": "Caramon Majere",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Carol Ferris",
+"aliases": [
+"Star Sapphire"
+],
+"links": 7
+},
+{
+"name": "Cat Grant",
+"aliases": [
+"Catherine Jane Grant"
+],
+"links": 7
+},
+{
+"name": "Cheshire",
+"aliases": [
+"Jade Nguyen"
+],
+"links": 7
+},
+{
+"name": "Clancy Bouvier",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cobra Commander",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cornelia Hale",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Cranky Kong",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Daniel LaRusso",
+"aliases": [
+"Daniel-san"
+],
+"links": 7
+},
+{
+"name": "Daria Morgendorffer",
+"aliases": [],
+"links": 7
+},
+{
+"name": "David North",
+"aliases": [
+"Agent Zero",
+"Christoph Nord",
+"Maverick"
+],
+"links": 7
+},
+{
+"name": "Desaad",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Destiny",
+"aliases": [
+"Irene Adler"
+],
+"links": 7
+},
+{
+"name": "Doctor Light",
+"aliases": [
+"Arthur Light"
+],
+"links": 7
+},
+{
+"name": "Dr. Drakken",
+"aliases": [
+"Drew Theodore P. Lipsky"
+],
+"links": 7
+},
+{
+"name": "Duck Dodgers",
+"aliases": [
+"Duck Edgar Dumas Aloysius Eoghain Dodgers"
+],
+"links": 7
+},
+{
+"name": "Faora",
+"aliases": [
+"Faora Hu-Ul",
+"Faora Ul",
+"Zaora"
+],
+"links": 7
+},
+{
+"name": "Floronic Man",
+"aliases": [
+"Dr. Jason Woodrue",
+"Floro",
+"Plant Master"
+],
+"links": 7
+},
+{
+"name": "George Jetson",
+"aliases": [],
+"links": 7
+},
+{
+"name": "George Stacy",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hank Henshaw",
+"aliases": [
+"Henry Henshaw",
+"The Cyborg"
+],
+"links": 7
+},
+{
+"name": "Hector Hammond",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Hector the Bulldog",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Highfather",
+"aliases": [
+"Izaya",
+"Izaya the Inheritor"
+],
+"links": 7
+},
+{
+"name": "Hordak",
+"aliases": [
+"Hec-Tor Kur"
+],
+"links": 7
+},
+{
+"name": "Hugo Simpson",
+"aliases": [
+"Hugo",
+"Hugo Simpson II"
+],
+"links": 7
+},
+{
+"name": "Ice",
+"aliases": [
+"Tora Olafsdotter"
+],
+"links": 7
+},
+{
+"name": "Jericho",
+"aliases": [
+"Joseph W. Wilson",
+"Joseph William Wilson"
+],
+"links": 7
+},
+{
+"name": "Jerry Smith",
+"aliases": [
+"Gerald Smith",
+"Jerry"
+],
+"links": 7
+},
+{
+"name": "Jimmy Volmer",
+"aliases": [
+"Fastpass",
+"Jimmy Valmer",
+"The Bard"
+],
+"links": 7
+},
+{
+"name": "Jinx",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Julius the Cat",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Karabas Barabas",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Kendra Saunders",
+"aliases": [
+"Hawkgirl",
+"Kendra Munoz-Saunders",
+"Lady Blackhawk"
+],
+"links": 7
+},
+{
+"name": "Kevin Sydney",
+"aliases": [
+"Changeling",
+"Kevin Sidney",
+"Morph"
+],
+"links": 7
+},
+{
+"name": "Kuvira",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lady Tremaine",
+"aliases": [
+"the Wicked Stepmother",
+"Wicked Stepmother"
+],
+"links": 7
+},
+{
+"name": "Larfleeze",
+"aliases": [
+"Agent Orange"
+],
+"links": 7
+},
+{
+"name": "Liane Cartman",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lilo Pelekai",
+"aliases": [
+"Lilo"
+],
+"links": 7
+},
+{
+"name": "Lincoln Loud",
+"aliases": [
+"Lincoln Albert Loud"
+],
+"links": 7
+},
+{
+"name": "Little Hiawatha",
+"aliases": [
+"Hiawatha"
+],
+"links": 7
+},
+{
+"name": "Liz Sherman",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lucy Lane",
+"aliases": [
+"Superwoman"
+],
+"links": 7
+},
+{
+"name": "Malvina",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Martha Kent",
+"aliases": [
+"Ma Kent",
+"Mary Kent",
+"Sarah Kent"
+],
+"links": 7
+},
+{
+"name": "Mechani-Kong",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Metron",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mister Terrific",
+"aliases": [
+"Michael Holt",
+"Mr. Terrific II"
+],
+"links": 7
+},
+{
+"name": "Miyamoto Usagi",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mogo",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mr. Hankey",
+"aliases": [
+"Christmas Poo"
+],
+"links": 7
+},
+{
+"name": "Oppo Rancisis",
+"aliases": [],
+"links": 7
+},
+{
+"name": "P.J. Pete",
+"aliases": [
+"P.J.",
+"Pete Junior",
+"Peter Pete Jr.",
+"Peter Pete Junior",
+"PJ"
+],
+"links": 7
+},
+{
+"name": "Proteus",
+"aliases": [
+"Kevin MacTaggert",
+"Mutant X"
+],
+"links": 7
+},
+{
+"name": "Ranger Smith",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Robotman",
+"aliases": [
+"Cliff Steele"
+],
+"links": 7
+},
+{
+"name": "Rocky and Mugsy",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Rumcajs",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Russel Hobbs",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Savage Dragon",
+"aliases": [
+"The Savage Dragon"
+],
+"links": 7
+},
+{
+"name": "Selene",
+"aliases": [
+"Black Priestess",
+"Black Queen",
+"Selene Gallio"
+],
+"links": 7
+},
+{
+"name": "Sgt. Rock",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Static",
+"aliases": [
+"Virgil Hawkins",
+"Virgil Ovid Hawkins"
+],
+"links": 7
+},
+{
+"name": "Swee'Pea",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Sylvester Junior",
+"aliases": [
+"Sylvester J. Pussycat",
+"Sylvester J. Pussycat Jr.",
+"Sylvester J. Pussycat, Jr.",
+"Sylvester Jr.",
+"Sylvester, Jr."
+],
+"links": 7
+},
+{
+"name": "Ted Kord",
+"aliases": [
+"Blue Beetle",
+"Theodore Stephen Kord"
+],
+"links": 7
+},
+{
+"name": "The Road Runner",
+"aliases": [
+"Accelleratii Incredibus",
+"Road Runner"
+],
+"links": 7
+},
+{
+"name": "Thundercracker",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tick",
+"aliases": [
+"The Tick"
+],
+"links": 7
+},
+{
+"name": "Timmy Turner",
+"aliases": [
+"Cleft the Boy Chin Wonder",
+"Timothy Tiberius Turner"
+],
+"links": 7
+},
+{
+"name": "Tinker Bell",
+"aliases": [
+"Tinkerbell"
+],
+"links": 7
+},
+{
+"name": "Tobias Whale",
+"aliases": [
+"Great White Whale"
+],
+"links": 7
+},
+{
+"name": "Tomar-Re",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Towelie",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Trigon",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Tweek Tweak",
+"aliases": [
+"Outlaw Tweek",
+"Tweek",
+"Tweek William Tweak",
+"Wonder Tweek"
+],
+"links": 7
+},
+{
+"name": "Vanessa Fisk",
+"aliases": [
+"Vanessa Marianna"
+],
+"links": 7
+},
+{
+"name": "Üter Zörker",
+"aliases": [
+"Uter",
+"Uter Zorker"
+],
+"links": 7
+},
+{
+"name": "Abra Kadabra",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Alex",
+"aliases": [
+"Alakay",
+"Alex the lion"
+],
+"links": 6
+},
+{
+"name": "ALF",
+"aliases": [
+"Gordon Shumway"
+],
+"links": 6
+},
+{
+"name": "Aracuan Bird",
+"aliases": [
+"Ari Bird",
+"Beckett",
+"Clown of the Jungle",
+"The Aracuan Bird",
+"the crazy Aracuan Bird"
+],
+"links": 6
+},
+{
+"name": "Arisia Rrab",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Baby Huey",
+"aliases": [
+"Baby Huey the Baby Giant",
+"Huey Duck"
+],
+"links": 6
+},
+{
+"name": "Barriss Offee",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Battle Cat",
+"aliases": [
+"Battlecat",
+"Cringer"
+],
+"links": 6
+},
+{
+"name": "Br'er Bear",
+"aliases": [
+"Brer Bear"
+],
+"links": 6
+},
+{
+"name": "Br'er Fox",
+"aliases": [
+"Brer Fox"
+],
+"links": 6
+},
+{
+"name": "Bucky Bug",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Butt-Head",
+"aliases": [
+"Butt Head",
+"Butthead"
+],
+"links": 6
+},
+{
+"name": "Buzz Buzzard",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Caliban",
+"aliases": [
+"Death",
+"Hellhound",
+"Hound",
+"Pestilence"
+],
+"links": 6
+},
+{
+"name": "Charlie Morningstar",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cletus Kasady",
+"aliases": [
+"Carnage",
+"Dark Carnage"
+],
+"links": 6
+},
+{
+"name": "Cogsworth",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cool Cat",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Copperhead",
+"aliases": [
+"Nathan Prince"
+],
+"links": 6
+},
+{
+"name": "Corsair",
+"aliases": [
+"Christopher Summers",
+"Major Christopher Summers"
+],
+"links": 6
+},
+{
+"name": "Diego",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Doctor Destiny",
+"aliases": [
+"John Dee",
+"John Deegan"
+],
+"links": 6
+},
+{
+"name": "Donald Pierce",
+"aliases": [
+"White Bishop",
+"White King"
+],
+"links": 6
+},
+{
+"name": "Dormouse",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dory",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Drederick Tatum",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Dudley Do-Right",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Elasti-Girl",
+"aliases": [
+"Elasti-Woman",
+"Rita Farr Dayton"
+],
+"links": 6
+},
+{
+"name": "Emperor Zurg",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eva Kant",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eve Teschmacher",
+"aliases": [
+"Eve",
+"Lex Luthor's Girlfriend"
+],
+"links": 6
+},
+{
+"name": "Farmer Al Falfa",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Fenton Crackshell",
+"aliases": [
+"Fenton Crackshell-Cabrera",
+"Gizmoduck"
+],
+"links": 6
+},
+{
+"name": "Flying Dutchman",
+"aliases": [
+"The Flying Dutchman"
+],
+"links": 6
+},
+{
+"name": "Francine Smith",
+"aliases": [
+"Francine Lee Smith"
+],
+"links": 6
+},
+{
+"name": "Frankenstein",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Garnet",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Garth Ranzz",
+"aliases": [
+"Lightning Lad",
+"Live Wire"
+],
+"links": 6
+},
+{
+"name": "Gogeta",
+"aliases": [
+"Gokuga",
+"Veku",
+"Vekugo"
+],
+"links": 6
+},
+{
+"name": "Graggle Simpson",
+"aliases": [
+"Graggle Gregory Simpson",
+"Gregory Simpson",
+"Gumbly Simpson",
+"Nan-j min",
+"Weird Matt",
+"Yakyū min",
+"Yakyū no onĪchan",
+"Yellow Matt"
+],
+"links": 6
+},
+{
+"name": "Guardian",
+"aliases": [
+"Jim Harper"
+],
+"links": 6
+},
+{
+"name": "Gwen Stacy",
+"aliases": [
+"Spider-Gwen",
+"Spider-Woman"
+],
+"links": 6
+},
+{
+"name": "Hamato Yoshi",
+"aliases": [
+"Master Yoshi"
+],
+"links": 6
+},
+{
+"name": "Harbinger",
+"aliases": [
+"Lyla Michaels"
+],
+"links": 6
+},
+{
+"name": "Hawkman",
+"aliases": [
+"Katar Hol"
+],
+"links": 6
+},
+{
+"name": "Hayley Smith",
+"aliases": [
+"Hayley Dreamsmasher Smith-Fischer"
+],
+"links": 6
+},
+{
+"name": "Ichabod Crane",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Imhotep",
+"aliases": [
+"Neo-Pharaoh",
+"The Mummy"
+],
+"links": 6
+},
+{
+"name": "Imperiex",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Inori Aizawa",
+"aliases": [
+"Internet Explorer-tan"
+],
+"links": 6
+},
+{
+"name": "Jimbo Kern",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Johnny Quick",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Joy",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kat Nipp",
+"aliases": [],
+"links": 6
+},
+{
+"name": "King Vegeta",
+"aliases": [
+"Bejīta Sansei",
+"Bejīta Ō",
+"Vegeta III",
+"Vegeta Sansei",
+"Vegeta the Third"
+],
+"links": 6
+},
+{
+"name": "Kintaro",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kyoshi",
+"aliases": [
+"Avatar Kyoshi"
+],
+"links": 6
+},
+{
+"name": "Lambo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Leech",
+"aliases": [
+"Jimmy"
+],
+"links": 6
+},
+{
+"name": "Leslie Thompkins",
+"aliases": [
+"Doctor Leslie Thompkins",
+"Dr. Leslie Thompkins",
+"Leslie Maurin Thompkins"
+],
+"links": 6
+},
+{
+"name": "Ling Bouvier",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Little Audrey",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Livewire",
+"aliases": [
+"Leslie Willis"
+],
+"links": 6
+},
+{
+"name": "Lobster Johnson",
+"aliases": [
+"The Lobster"
+],
+"links": 6
+},
+{
+"name": "Loretta Brown",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lori Lemaris",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Lumière",
+"aliases": [
+"Lumiere"
+],
+"links": 6
+},
+{
+"name": "Lurleen Lumpkin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Madame Rouge",
+"aliases": [
+"Laura De Mille"
+],
+"links": 6
+},
+{
+"name": "Madame Xanadu",
+"aliases": [
+"Nimue Inwudu"
+],
+"links": 6
+},
+{
+"name": "Maggie Sawyer",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Marvin Marsh",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Matroskin the Cat",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Maxie Zeus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Maxima",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mercy Graves",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Microchip",
+"aliases": [
+"David Lieberman",
+"David Linus Lieberman",
+"Micro"
+],
+"links": 6
+},
+{
+"name": "Mirabel Madrigal",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Momo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mr. Miyagi",
+"aliases": [
+"Hideo Miyagi",
+"Keisuke Miyagi",
+"Miyagi Yakuga",
+"Nariyoshi Miyagi"
+],
+"links": 6
+},
+{
+"name": "Mrs. Potts",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mushu",
+"aliases": [],
+"links": 6
+},
+{
+"name": "OMAC",
+"aliases": [
+"Buddy Blank"
+],
+"links": 6
+},
+{
+"name": "Omega Supreme",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Pearl",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Penelope Pussycat",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Plastique",
+"aliases": [
+"Bette Sans Souci"
+],
+"links": 6
+},
+{
+"name": "Poochie",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Professor Hamilton",
+"aliases": [
+"Emil Hamilton"
+],
+"links": 6
+},
+{
+"name": "Rabbi Hyman Krustofski",
+"aliases": [
+"Hyman Krustofsky",
+"Rabbi Krustofsky"
+],
+"links": 6
+},
+{
+"name": "Rex",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Richard Fisk",
+"aliases": [
+"Blood Rose",
+"Supreme Hydra",
+"The Rose",
+"The Schemer"
+],
+"links": 6
+},
+{
+"name": "Robert April",
+"aliases": [
+"Admiral Robert April"
+],
+"links": 6
+},
+{
+"name": "Rocky the Flying Squirrel",
+"aliases": [
+"Rocket J. Squirrel",
+"Rocket Squirrel",
+"Rocky",
+"Rocky Squirrel"
+],
+"links": 6
+},
+{
+"name": "Sarabi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sauron",
+"aliases": [
+"Karl Lykos"
+],
+"links": 6
+},
+{
+"name": "Savage Opress",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shade",
+"aliases": [
+"Dicky",
+"Immortal Wielder of Shadows",
+"Louie",
+"Mr. Black",
+"Richard Swift"
+],
+"links": 6
+},
+{
+"name": "Sharon Marsh",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sheila Broflovski",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Shelley Marsh",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sid",
+"aliases": [
+"Sid the Sloth"
+],
+"links": 6
+},
+{
+"name": "Skywarp",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Slinky Dog",
+"aliases": [
+"Slinky"
+],
+"links": 6
+},
+{
+"name": "Sofia Falcone",
+"aliases": [
+"Sofia Falcone Gigante",
+"Sofia Gigante",
+"The Hangman"
+],
+"links": 6
+},
+{
+"name": "Sportsmaster",
+"aliases": [
+"Lawrence Crock"
+],
+"links": 6
+},
+{
+"name": "Spyke",
+"aliases": [
+"Evan Daniels",
+"Spike"
+],
+"links": 6
+},
+{
+"name": "Stan Smith",
+"aliases": [
+"Stanford Leonard Smith",
+"The American Dad"
+],
+"links": 6
+},
+{
+"name": "Stay Puft Marshmallow Man",
+"aliases": [
+"Marshmallow Man",
+"Stay Puft"
+],
+"links": 6
+},
+{
+"name": "Steve Smith",
+"aliases": [
+"Steven Anita Smith"
+],
+"links": 6
+},
+{
+"name": "Steven Universe",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Sturm Brightblade",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Suki",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tanis Half-Elven",
+"aliases": [],
+"links": 6
+},
+{
+"name": "The Calculator",
+"aliases": [
+"Calculator",
+"Noah Kuttler"
+],
+"links": 6
+},
+{
+"name": "Ty Lee",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ursa",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Warlord",
+"aliases": [
+"Travis Morgan"
+],
+"links": 6
+},
+{
+"name": "Witch Hazel",
+"aliases": [
+"Hazel the Witch"
+],
+"links": 6
+},
+{
+"name": "Yen Sid",
+"aliases": [
+"The Sorcerer"
+],
+"links": 6
+},
+{
+"name": "Zatara",
+"aliases": [
+"Giovanni Zatara",
+"John Zatara"
+],
+"links": 6
+},
+{
+"name": "Abbie Simpson",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Abraham Whistler",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Agent K",
+"aliases": [
+"Kay",
+"Kevin Brown"
+],
+"links": 5
+},
+{
+"name": "Alastor",
+"aliases": [
+"Alastor The Radio Demon",
+"The Radio Demon"
+],
+"links": 5
+},
+{
+"name": "Amon",
+"aliases": [
+"Noatak"
+],
+"links": 5
+},
+{
+"name": "Anya",
+"aliases": [
+"Anastasia Nikolaevna",
+"Grand Duchess Anastasia Nikolaevna"
+],
+"links": 5
+},
+{
+"name": "Aqualad",
+"aliases": [
+"Aquaman",
+"Jackson Hyde",
+"Kaldur",
+"Kaldur'ahm",
+"Waterboy"
+],
+"links": 5
+},
+{
+"name": "Arclight",
+"aliases": [
+"Philippa Sontag"
+],
+"links": 5
+},
+{
+"name": "Atom",
+"aliases": [
+"Ryan Choi"
+],
+"links": 5
+},
+{
+"name": "Bamm-Bamm Rubble",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Barnyard Dawg",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Barry Allen",
+"aliases": [
+"Bartholomew Henry Allen",
+"Flash"
+],
+"links": 5
+},
+{
+"name": "Batman of Zur-En-Arrh",
+"aliases": [
+"Tlano"
+],
+"links": 5
+},
+{
+"name": "Beans",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Betty Rubble",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Black Noir",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Black Spider",
+"aliases": [
+"Derrick Coe",
+"Eric Needham",
+"Johnny LaMonica"
+],
+"links": 5
+},
+{
+"name": "Blossom",
+"aliases": [
+"Blossom Utonium",
+"Liberty Belle"
+],
+"links": 5
+},
+{
+"name": "BoJack Horseman",
+"aliases": [
+"BoJack F. Horseman"
+],
+"links": 5
+},
+{
+"name": "Bruno Madrigal",
+"aliases": [
+"Bruno"
+],
+"links": 5
+},
+{
+"name": "Bucky O'Hare",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Bullwinkle J. Moose",
+"aliases": [
+"Bullwinkle"
+],
+"links": 5
+},
+{
+"name": "Captain Hook",
+"aliases": [
+"Captain James Hook"
+],
+"links": 5
+},
+{
+"name": "Captain Planet",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Captain Qwark",
+"aliases": [
+"Copernicus L. Qwark"
+],
+"links": 5
+},
+{
+"name": "Carter Pewterschmidt",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cecil Terwilliger",
+"aliases": [
+"Cecil Underdunk Terwilliger"
+],
+"links": 5
+},
+{
+"name": "Cecil Turtle",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Claude Frollo",
+"aliases": [
+"Frollo"
+],
+"links": 5
+},
+{
+"name": "Cluemaster",
+"aliases": [
+"Arthur Brown"
+],
+"links": 5
+},
+{
+"name": "Clyde Donovan",
+"aliases": [
+"Clyde James Donovan"
+],
+"links": 5
+},
+{
+"name": "Crazy Cat Lady",
+"aliases": [
+"Eleanor Abernathy"
+],
+"links": 5
+},
+{
+"name": "Crispus Allen",
+"aliases": [
+"Spectre"
+],
+"links": 5
+},
+{
+"name": "Cubert J. Farnsworth",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Cupid",
+"aliases": [
+"Carrie Cutter"
+],
+"links": 5
+},
+{
+"name": "Detective Chimp",
+"aliases": [
+"Bobo T. Chimpanzee"
+],
+"links": 5
+},
+{
+"name": "Dr. Livesey",
+"aliases": [
+"Doctor Livesey"
+],
+"links": 5
+},
+{
+"name": "Duke",
+"aliases": [
+"Conrad S. Hauser"
+],
+"links": 5
+},
+{
+"name": "Eeth Koth",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Electrocutioner",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Elpidio Valdés",
+"aliases": [
+"Elpidio Valdes"
+],
+"links": 5
+},
+{
+"name": "Emmet Brickowski",
+"aliases": [
+"The Chosen One",
+"The Special"
+],
+"links": 5
+},
+{
+"name": "Flint Fireforge",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Foxy",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Francis Griffin",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Galinha Pintadinha",
+"aliases": [
+"Lottie Dottie Chicken"
+],
+"links": 5
+},
+{
+"name": "George Taylor",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gerald Broflovski",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gladys Gurney",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Glory Grant",
+"aliases": [
+"Gloria Grant"
+],
+"links": 5
+},
+{
+"name": "Goofy Gophers",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Gosalyn Mallard",
+"aliases": [
+"Gosalyn Waddlemeyer-Mallard"
+],
+"links": 5
+},
+{
+"name": "Grand Inquisitor",
+"aliases": [
+"The Grand Inquisitor"
+],
+"links": 5
+},
+{
+"name": "Guardian",
+"aliases": [
+"James Hudson",
+"James MacDonald Hudson",
+"Jamie Hudson",
+"Mac Hudson",
+"The Antiguard",
+"Vindicator",
+"Weapon Alpha"
+],
+"links": 5
+},
+{
+"name": "Hades",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hank Hill",
+"aliases": [
+"Hank Rutherford Hill"
+],
+"links": 5
+},
+{
+"name": "Hawkman",
+"aliases": [
+"Carter Hall"
+],
+"links": 5
+},
+{
+"name": "Hercules",
+"aliases": [
+"Heracles",
+"Herakles"
+],
+"links": 5
+},
+{
+"name": "Hippety Hopper",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hound",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hughie Campbell",
+"aliases": [
+"Wee Hughie"
+],
+"links": 5
+},
+{
+"name": "Jason Macendale",
+"aliases": [
+"Hobgoblin",
+"Jack O'Lantern",
+"Jason Philip Macendale Jr."
+],
+"links": 5
+},
+{
+"name": "Jesus",
+"aliases": [
+"Jesus Christ"
+],
+"links": 5
+},
+{
+"name": "Judy Hopps",
+"aliases": [
+"Officer Hopps"
+],
+"links": 5
+},
+{
+"name": "Kanjar Ro",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Klaus Heissler",
+"aliases": [
+"Klaus",
+"Klaus Heisler"
+],
+"links": 5
+},
+{
+"name": "Larry the Lobster",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Laurana Kanan",
+"aliases": [
+"Lauralanthalasa Kanan",
+"Laurana"
+],
+"links": 5
+},
+{
+"name": "Lightray",
+"aliases": [
+"Solis"
+],
+"links": 5
+},
+{
+"name": "Lilandra Neramani",
+"aliases": [
+"Lilandra",
+"Majestrix Lilandra"
+],
+"links": 5
+},
+{
+"name": "Linda Park",
+"aliases": [
+"Linda Park-West"
+],
+"links": 5
+},
+{
+"name": "Lotso",
+"aliases": [
+"Lots-O'-Huggin' Bear"
+],
+"links": 5
+},
+{
+"name": "Mai",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Manchester Black",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Manjula Nahasapeemapetilon",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Manny",
+"aliases": [
+"Alias Irving",
+"El Mencho",
+"Manfred",
+"Menchus Primigenius"
+],
+"links": 5
+},
+{
+"name": "Mariko Yashida",
+"aliases": [
+"Scarlet Samurai"
+],
+"links": 5
+},
+{
+"name": "Miss Prissy",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mister Mind",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mister Terrific",
+"aliases": [
+"Terry Sloane"
+],
+"links": 5
+},
+{
+"name": "Moonlight Mask",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Mrs. Potato Head",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Nailoong",
+"aliases": [
+"Milk Dragon",
+"Nai Long",
+"Nailong"
+],
+"links": 5
+},
+{
+"name": "Nightshade",
+"aliases": [
+"Eve Eden"
+],
+"links": 5
+},
+{
+"name": "Nuidis Vulko",
+"aliases": [
+"Vulko"
+],
+"links": 5
+},
+{
+"name": "Orko",
+"aliases": [
+"Gorpo"
+],
+"links": 5
+},
+{
+"name": "Paladine",
+"aliases": [
+"Fizban"
+],
+"links": 5
+},
+{
+"name": "Paula Brooks",
+"aliases": [
+"Huntress",
+"Tigress"
+],
+"links": 5
+},
+{
+"name": "Pebbles Flintstone",
+"aliases": [
+"Pebbles Flintstone-Rubble"
+],
+"links": 5
+},
+{
+"name": "Penelope Pitstop",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Perceptor",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Plopper",
+"aliases": [
+"Harry Plopper",
+"Spider Pig",
+"Spider-Pig",
+"SpiderPig"
+],
+"links": 5
+},
+{
+"name": "Postman Pechkin",
+"aliases": [
+"Igor Pechkin",
+"Pechkin"
+],
+"links": 5
+},
+{
+"name": "Pow Wow Smith",
+"aliases": [
+"Ohiyesa Smith"
+],
+"links": 5
+},
+{
+"name": "Prankster",
+"aliases": [
+"Oswald Hubert Loomis",
+"Oswald Loomis"
+],
+"links": 5
+},
+{
+"name": "Professor Ratigan",
+"aliases": [
+"Ratigan"
+],
+"links": 5
+},
+{
+"name": "Rag Doll",
+"aliases": [
+"Peter Merkel"
+],
+"links": 5
+},
+{
+"name": "Riverwind",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Roku",
+"aliases": [
+"Avatar Roku"
+],
+"links": 5
+},
+{
+"name": "Roulette",
+"aliases": [
+"Roulette/Veronica Sinclair",
+"Veronica Sinclair"
+],
+"links": 5
+},
+{
+"name": "Rufus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Sarah Essen",
+"aliases": [
+"Sarah Essen Gordon",
+"Sarah Essen-Gordon"
+],
+"links": 5
+},
+{
+"name": "Satan",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Scooby Dum",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Scott Tenorman",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Shayera Hol",
+"aliases": [
+"Hawkgirl",
+"Hawkwoman",
+"Shayera Thal"
+],
+"links": 5
+},
+{
+"name": "Silver St. Cloud",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Slam Bradley",
+"aliases": [
+"Samuel Emerson Bradley"
+],
+"links": 5
+},
+{
+"name": "Sniffles",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Snowball II",
+"aliases": [
+"Snowball 2"
+],
+"links": 5
+},
+{
+"name": "Storm Shadow",
+"aliases": [
+"Thomas S. Arashikage"
+],
+"links": 5
+},
+{
+"name": "Strong Guy",
+"aliases": [
+"Guido Carosella"
+],
+"links": 5
+},
+{
+"name": "Summer Smith",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Superboy",
+"aliases": [
+"Clark Kent",
+"Kal-El",
+"The Boy of Steel"
+],
+"links": 5
+},
+{
+"name": "Sven",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Takhisis",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tasslehoff Burrfoot",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Teela",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Thomas Kalmaku",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Time Trapper",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tom Manning",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tom Tucker",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tommy Pickles",
+"aliases": [
+"Thomas Malcolm Pickles",
+"Thomas Pickles",
+"Tommy",
+"Tommy Malcolm Pickles"
+],
+"links": 5
+},
+{
+"name": "Uncle Marvel",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Uncle Styopa",
+"aliases": [
+"Dyadya Stepa"
+],
+"links": 5
+},
+{
+"name": "Violator",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Waverider",
+"aliases": [
+"Matthew Ryder"
+],
+"links": 5
+},
+{
+"name": "Wendell Borton",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Yukio",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zazu",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Zeus",
+"aliases": [
+"Jupiter"
+],
+"links": 5
+},
+{
+"name": "Zor-El",
+"aliases": [
+"Cyborg Superman",
+"Zor-L"
+],
+"links": 5
+},
+{
+"name": "Abby Holland",
+"aliases": [
+"Abby Arcane",
+"Abigail Arcane"
+],
+"links": 4
+},
+{
+"name": "Abu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Agent J",
+"aliases": [
+"J",
+"James Darrell Edwards III",
+"Jay"
+],
+"links": 4
+},
+{
+"name": "Amanda Sefton",
+"aliases": [
+"Daytripper",
+"Jimaine Szardos",
+"Magik"
+],
+"links": 4
+},
+{
+"name": "Amelia Voght",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Amethyst",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Angelica Pickles",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Arella",
+"aliases": [
+"Angela Azarath",
+"Angela Roth"
+],
+"links": 4
+},
+{
+"name": "Argent",
+"aliases": [
+"Antonia Moretti",
+"Toni Monetti"
+],
+"links": 4
+},
+{
+"name": "Artemis of Bana-Mighdall",
+"aliases": [
+"Artemis",
+"Artemis Grace",
+"Requiem",
+"Shim'Tar",
+"Wonder Woman"
+],
+"links": 4
+},
+{
+"name": "Artie Ziff",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Babbit and Catstello",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Baroness",
+"aliases": [
+"Anastasia Cisarovna",
+"The Baroness"
+],
+"links": 4
+},
+{
+"name": "Beaky Buzzard",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Beast Man",
+"aliases": [
+"Beastman"
+],
+"links": 4
+},
+{
+"name": "Bekka",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bernadeth",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bernice Hibbert",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bleez",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bobby Hill",
+"aliases": [
+"Robert Jeffrey Hill"
+],
+"links": 4
+},
+{
+"name": "Bonnie Swanson",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Boodikka",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Bouncing Boy",
+"aliases": [
+"Charles Foster Taine"
+],
+"links": 4
+},
+{
+"name": "Br'er Rabbit",
+"aliases": [
+"Brer Rabbit"
+],
+"links": 4
+},
+{
+"name": "Bruno Mannheim",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Butch the Bulldog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Caitlyn",
+"aliases": [
+"Caitlyn Kiramman",
+"The Sheriff of Piltover"
+],
+"links": 4
+},
+{
+"name": "Catra",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Charlie Dog",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Cindy Bear",
+"aliases": [
+"Cindy"
+],
+"links": 4
+},
+{
+"name": "Commander Bly",
+"aliases": [
+"Bly",
+"CC-5052"
+],
+"links": 4
+},
+{
+"name": "Commander Gree",
+"aliases": [
+"CC-1004",
+"Gree"
+],
+"links": 4
+},
+{
+"name": "Computo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Constance Harm",
+"aliases": [
+"Judge Constance Harm"
+],
+"links": 4
+},
+{
+"name": "Cosmic Boy",
+"aliases": [
+"Polestar",
+"Rokk Krinn",
+"Time Trapper"
+],
+"links": 4
+},
+{
+"name": "Crimson Avenger",
+"aliases": [
+"Lee Walter Travis"
+],
+"links": 4
+},
+{
+"name": "Cuphead",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Danny Phantom",
+"aliases": [
+"Daniel Fenton",
+"Daniel W. Fenton",
+"Daniel William Fenton",
+"Danny Fenton"
+],
+"links": 4
+},
+{
+"name": "Darkwing Duck",
+"aliases": [
+"Drake Mallard"
+],
+"links": 4
+},
+{
+"name": "David Xanatos",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Demona",
+"aliases": [
+"Dominique Destine"
+],
+"links": 4
+},
+{
+"name": "Derek Powers",
+"aliases": [
+"Blight"
+],
+"links": 4
+},
+{
+"name": "Dewey Largo",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Diana Prince",
+"aliases": [
+"Wonder Woman"
+],
+"links": 4
+},
+{
+"name": "Dino",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Doctor Light",
+"aliases": [
+"Kimiyo Hoshi"
+],
+"links": 4
+},
+{
+"name": "Doctor Psycho",
+"aliases": [
+"Edgar Cizko"
+],
+"links": 4
+},
+{
+"name": "Dolphin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Donna Tubbs-Brown",
+"aliases": [
+"Don",
+"Donna Lou Retton Tubbs Brown",
+"Donna Tubbs"
+],
+"links": 4
+},
+{
+"name": "Dora Márquez",
+"aliases": [
+"Dora",
+"Dora Marquez",
+"Dora Panfilia López Márquez",
+"Dora the Explorer",
+"Dora the explorer"
+],
+"links": 4
+},
+{
+"name": "Dragon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Dubbilex",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Duff Killigan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Evil-Lyn",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ferro Lad",
+"aliases": [
+"Andrew Nolan"
+],
+"links": 4
+},
+{
+"name": "Flik",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Frank Grimes Junior",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gandy Goose",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ganthet",
+"aliases": [],
+"links": 4
+},
+{
+"name": "General Immortus",
+"aliases": [
+"The Baron"
+],
+"links": 4
+},
+{
+"name": "Gentleman Ghost",
+"aliases": [
+"James Craddock"
+],
+"links": 4
+},
+{
+"name": "Geo-Force",
+"aliases": [
+"Brion Markov",
+"Prince Brion Markov"
+],
+"links": 4
+},
+{
+"name": "Gia",
+"aliases": [
+"Gia the Jaguar"
+],
+"links": 4
+},
+{
+"name": "Gillian B. Loeb",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gim Allon",
+"aliases": [
+"Colossal Boy",
+"Leviathan",
+"Micro Lad"
+],
+"links": 4
+},
+{
+"name": "Giselle",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Gloria",
+"aliases": [
+"Gloria the Hippopotamus"
+],
+"links": 4
+},
+{
+"name": "Goldmoon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Goliath",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Graydon Creed",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Grifter",
+"aliases": [
+"Cole Cash"
+],
+"links": 4
+},
+{
+"name": "Guran",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hana Makihatayama",
+"aliases": [
+"Hana-chan"
+],
+"links": 4
+},
+{
+"name": "Harold SquarePants",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hath-Set",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hay Lin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Helga Pataki",
+"aliases": [
+"Helga G. Pataki",
+"Helga Geraldine Pataki"
+],
+"links": 4
+},
+{
+"name": "Henry Gyrich",
+"aliases": [
+"Henry Peter Gyrich"
+],
+"links": 4
+},
+{
+"name": "Herman Hermann",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Hiccup",
+"aliases": [
+"Hiccup Horrendous Haddock III"
+],
+"links": 4
+},
+{
+"name": "Hijitus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Holly Dolly",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Holly Robinson",
+"aliases": [
+"Catherine Ann Turley",
+"Catwoman"
+],
+"links": 4
+},
+{
+"name": "Ibac",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Icon",
+"aliases": [
+"Arnus",
+"Augustus Freeman"
+],
+"links": 4
+},
+{
+"name": "Inki",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Irma Lair",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Jackson Storm",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Janine Melnitz",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Jet",
+"aliases": [
+"Celia Windward"
+],
+"links": 4
+},
+{
+"name": "Jocasta Nu",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Karate Kid",
+"aliases": [
+"Val Armorr"
+],
+"links": 4
+},
+{
+"name": "Katma Tui",
+"aliases": [
+"Green Lantern",
+"Katma Tui Stewart"
+],
+"links": 4
+},
+{
+"name": "Kent Nelson",
+"aliases": [
+"Doctor Fate",
+"Fate"
+],
+"links": 4
+},
+{
+"name": "King Julien XIII",
+"aliases": [
+"Julien",
+"King Julien"
+],
+"links": 4
+},
+{
+"name": "King Randor",
+"aliases": [
+"Randor"
+],
+"links": 4
+},
+{
+"name": "Kole",
+"aliases": [
+"Kole Weathers"
+],
+"links": 4
+},
+{
+"name": "Kopa",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kowalski",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Kronk Pepikrankenitz",
+"aliases": [
+"Kronk"
+],
+"links": 4
+},
+{
+"name": "Lagoon Boy",
+"aliases": [
+"La'gaan"
+],
+"links": 4
+},
+{
+"name": "Laira",
+"aliases": [
+"Laira Omoto"
+],
+"links": 4
+},
+{
+"name": "Lashina",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Lloyd Garmadon",
+"aliases": [
+"Lloyd Montgomery Garmadon"
+],
+"links": 4
+},
+{
+"name": "Luigi Risotto",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Luornu Durgo",
+"aliases": [
+"Duo Damsel",
+"Duplicate Damsel",
+"Duplicate Girl",
+"Triad",
+"Triplicate Girl",
+"Una"
+],
+"links": 4
+},
+{
+"name": "Luxo Jr.",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Ma'alefa'ak",
+"aliases": [
+"Ma'alefa'ak J'onnz",
+"Malefic"
+],
+"links": 4
+},
+{
+"name": "Magilla Gorilla",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mammoth",
+"aliases": [
+"Baran Flinders"
+],
+"links": 4
+},
+{
+"name": "Man-At-Arms",
+"aliases": [
+"Duncan"
+],
+"links": 4
+},
+{
+"name": "Marc Antony and Pussyfoot",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Margaret SquarePants",
+"aliases": [
+"Claire SquarePants"
+],
+"links": 4
+},
+{
+"name": "Marty",
+"aliases": [
+"Marty the Zebra"
+],
+"links": 4
+},
+{
+"name": "Maui",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Melissa Duck",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Messala",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mickey McFinnigan",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mister Peabody",
+"aliases": [
+"Mr. Peabody",
+"Peabody"
+],
+"links": 4
+},
+{
+"name": "Moon Girl",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mordru",
+"aliases": [
+"Mordru the Merciless",
+"Wrynn"
+],
+"links": 4
+},
+{
+"name": "Mort Goldman",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mozenrath",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Mr. Potato Head",
+"aliases": [
+"Sr. Potato"
+],
+"links": 4
+},
+{
+"name": "Mr. Slave",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Natasha Irons",
+"aliases": [
+"Starlight",
+"Steel",
+"Vaporlock"
+],
+"links": 4
+},
+{
+"name": "Nick Wilde",
+"aliases": [
+"Nicholas P. Wilde",
+"Nicholas Wilde"
+],
+"links": 4
+},
+{
+"name": "Nitara",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Nora Fries",
+"aliases": [
+"Lazara"
+],
+"links": 4
+},
+{
+"name": "Pat Dugan",
+"aliases": [
+"S.T.R.I.P.E.",
+"Stripesy"
+],
+"links": 4
+},
+{
+"name": "Peggy Hill",
+"aliases": [
+"Margaret Josephine Hill",
+"Margaret Josephine Platter"
+],
+"links": 4
+},
+{
+"name": "Per Degaton",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Peter Pan",
+"aliases": [
+"Peter Pan by Disney"
+],
+"links": 4
+},
+{
+"name": "Phantom Girl",
+"aliases": [
+"Apparition",
+"Linnya Wazzo",
+"Tinya Wazzo"
+],
+"links": 4
+},
+{
+"name": "Pinocchio",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Pooch the Pup",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Prince Charming",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Prince Eric",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Princess Aura",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Princess Sally Acorn",
+"aliases": [
+"Sally Acorn"
+],
+"links": 4
+},
+{
+"name": "Professor Ivo",
+"aliases": [
+"Anthony Ives"
+],
+"links": 4
+},
+{
+"name": "Psycho-Pirate",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Psylocke",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Queen Marlena",
+"aliases": [
+"Marlena"
+],
+"links": 4
+},
+{
+"name": "Queen of Fables",
+"aliases": [
+"Tsaritsa"
+],
+"links": 4
+},
+{
+"name": "Quick Draw McGraw",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rallo Tubbs",
+"aliases": [
+"Montclair Tubbs",
+"Rallo"
+],
+"links": 4
+},
+{
+"name": "Ram-Man",
+"aliases": [
+"Krass"
+],
+"links": 4
+},
+{
+"name": "Randall Boggs",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Red Hot Riding Hood",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Red Star",
+"aliases": [
+"Leonid Kovar",
+"Starfire"
+],
+"links": 4
+},
+{
+"name": "Reiko",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Rich Texan",
+"aliases": [
+"Richard Texan",
+"Senator Shady Bird Johnson",
+"The Rich Texan"
+],
+"links": 4
+},
+{
+"name": "Richard Dragon",
+"aliases": [
+"Ricardo Diaz, Jr",
+"Richard Drakunovski"
+],
+"links": 4
+},
+{
+"name": "Rick Hunter",
+"aliases": [
+"Richard A. Hunter"
+],
+"links": 4
+},
+{
+"name": "Rick O'Connell",
+"aliases": [
+"Richard O'Connell",
+"Richard O’Connell"
+],
+"links": 4
+},
+{
+"name": "Roadblock",
+"aliases": [
+"Marvin F. Hinton"
+],
+"links": 4
+},
+{
+"name": "Rocko",
+"aliases": [
+"Rockefeller Coinsworth Wallaby",
+"Rocko Rama",
+"Rocko Stretchbrain",
+"Rocko the Wallaby",
+"Rocko Wallaby"
+],
+"links": 4
+},
+{
+"name": "Roderick Kingsley",
+"aliases": [
+"Hobgoblin"
+],
+"links": 4
+},
+{
+"name": "Roger Meyers Jr.",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Saddam Hussein",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sarah Wiggum",
+"aliases": [
+"Sarah Kanickee",
+"Sarah Kanneke"
+],
+"links": 4
+},
+{
+"name": "Scandal Savage",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Scarlett",
+"aliases": [
+"Shana M. O'Hara"
+],
+"links": 4
+},
+{
+"name": "Scruffy",
+"aliases": [
+"Scruffy Scruffington"
+],
+"links": 4
+},
+{
+"name": "Shingo Aoi",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Skids",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Skipper",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Snarl",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Sorceress of Castle Grayskull",
+"aliases": [
+"Eldress",
+"Teela",
+"Teela Na",
+"The Goddess",
+"The Sorceress"
+],
+"links": 4
+},
+{
+"name": "Starlight Glimmer",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Stevonnie",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Stromboli",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tala",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Talzin",
+"aliases": [
+"Mother Talzin"
+],
+"links": 4
+},
+{
+"name": "Taranee Cook",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tika Waylan",
+"aliases": [
+"Tika Waylan Majere"
+],
+"links": 4
+},
+{
+"name": "Todd Chavez",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Toucan Sam",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Traci Thirteen",
+"aliases": [
+"Girl 13",
+"Traci 13"
+],
+"links": 4
+},
+{
+"name": "Trypticon",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Tyroc",
+"aliases": [
+"Troy Stewart"
+],
+"links": 4
+},
+{
+"name": "Vicky",
+"aliases": [
+"Icky Vicky",
+"Vicky the Babysitter"
+],
+"links": 4
+},
+{
+"name": "Vilgax",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Vinny Griffin",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Virman Vundabar",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Vitani",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Volcana",
+"aliases": [
+"Claire Selton"
+],
+"links": 4
+},
+{
+"name": "Wade",
+"aliases": [
+"Wade Load"
+],
+"links": 4
+},
+{
+"name": "Walter Hardy",
+"aliases": [
+"John Hardesky"
+],
+"links": 4
+},
+{
+"name": "Wendy the Good Little Witch",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Will Magnus",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Willie the Giant",
+"aliases": [],
+"links": 4
+},
+{
+"name": "Yzma",
+"aliases": [
+"Principal Amzy"
+],
+"links": 4
+},
+{
+"name": "Zundamon",
+"aliases": [],
+"links": 4
 }
 ]

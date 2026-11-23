@@ -169,6 +169,8 @@ BANNED = {
     "composers": re.compile(r"^(elton john)$", re.I),
     "vegetables": re.compile(r"^(camellia sinensis|melon|watermelon)$", re.I),
     "indian-foods": re.compile(r"^(fish and chips|fish sauce)$", re.I),
+    "movie-franchises": re.compile(r"\d{4}$|^(the philosophers|arya|svaty)$", re.I),
+    "european-cities": re.compile(r"\bdistrict$", re.I),
     "car-brands": re.compile(r"^(stellantis\b.*|groupe psa|elbo|.*\bgroup)$", re.I),
     "sports": re.compile(r"^(battle rap|e-?sports? video game)$", re.I),
     "video-games": re.compile(r"\b(dlc|expansion pack|soundtrack|demo|beta|season pass|bundle|collection)\b", re.I),
@@ -186,7 +188,8 @@ BANNED = {
 # Company-name endings. A Wikidata item like "Suzuki Motor Corporation" folds
 # into the existing answer "Suzuki" instead of becoming its own answer.
 CORPORATE = re.compile(
-    r"\s+(motor (company|corporation|co\.?)|motors?( corporation| company| limited)?|group|limited|ltd\.?"
+    r"\s+(motor (company|corporation|co\.?|carriage company|works)|automobile company|carriage company|aviation"
+    r"|motors?( corporation| company| limited)?|group|limited|ltd\.?"
     r"|corporation|company|automobiles?|north america|industrial|professional|sport|cars?|inc\.?)$",
     re.I,
 )
@@ -227,9 +230,9 @@ def tidy_wikidata(cid: str, item: dict) -> tuple[str, list[str]] | None:
 def wikidata_tier(links: int) -> int:
     """Tier for an answer only Wikidata knows about, by how many Wikipedia
     language editions cover it. The famous ones are already hand-sorted."""
+    # Never above tier 4: an answer no hand list or helper confirmed shouldn't
+    # outrank ones that were (Lauren Bacall is a "singer" in Wikidata).
     if links >= 30:
-        return 3
-    if links >= 10:
         return 4
     return 5
 
@@ -293,7 +296,7 @@ def merge_wikidata(cid: str, title: str, rows: list[dict]) -> int:
         if not usable(key(name)):
             continue
         idx = len(rows)
-        row = {"name": name, "aliases": [], "override": wikidata_tier(item["links"]), "links": item["links"]}
+        row = {"name": name, "aliases": [], "override": wikidata_tier(item["links"]), "links": item["links"], "wd_only": True}
         rows.append(row)
         owner[key(name)] = idx
         strong.add(key(name))
@@ -465,15 +468,19 @@ def build_category(raw: dict) -> dict:
     stone = [r for r in rows if r["override"] == 1]
     rest = sorted(
         (r for r in rows if r["override"] != 1),
-        key=lambda r: (r["override"] or 3, -r["pop"], len(r["name"])),
+        # Within a tier, answers a hand list or helper confirmed come first.
+        key=lambda r: (r["override"] or 3, bool(r.get("wd_only")), -r["pop"], len(r["name"])),
     )
     tiers: dict[int, int] = {id(r): 1 for r in stone}
     bounds, acc = [], 0
-    # Bigger lists get somewhat bigger middle tiers (up to double at 600+
-    # answers), so Crystal stays genuinely deep in huge lists too.
-    scale = min(2.0, max(1.0, math.sqrt(len(rest) / 150)))
-    for share, cap in zip(DEEPER_SHARES, DEEPER_CAPS):
-        acc += min(round(cap * scale), round(share * len(rest)))
+    # Bigger lists get somewhat bigger middle tiers (Iron and Cobalt up to
+    # double at 600+ answers), so Crystal stays genuinely deep in huge lists too.
+    # Gold may grow further (up to 3x, about 150 answers) so well-known names
+    # in huge lists (Studebaker, Packard) are Gold, not Crystal.
+    scale = max(1.0, math.sqrt(len(rest) / 150))
+    for i, (share, cap) in enumerate(zip(DEEPER_SHARES, DEEPER_CAPS)):
+        tier_scale = min(3.0 if i == 2 else 2.0, scale)
+        acc += min(round(cap * tier_scale), round(share * len(rest)))
         bounds.append(acc)
     for i, row in enumerate(rest):
         tiers[id(row)] = next((t for t, b in enumerate(bounds, 2) if i < b), 5)

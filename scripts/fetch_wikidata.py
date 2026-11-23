@@ -68,10 +68,10 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "pasta": [(tree("Q178"), 1)],
     "herbs-spices": [(tree("Q42527"), 1), (tree("Q207123"), 2)],
     "gemstones": [(tree("Q83437"), 1)],
-    "board-games": [(inst("Q131436"), 5)],
+    "board-games": [(inst("Q131436"), 2)],
     "card-games": [(tree("Q142714"), 2)],
     "programming-languages": [(tree("Q9143"), 4)],
-    "car-brands": [(inst("Q786820"), 4), (inst("Q10429667"), 3)],
+    "car-brands": [(inst("Q786820"), 1), (inst("Q10429667"), 1)],
     "string-instruments": [(tree("Q1798603"), 2)],
     # Gods from any mythology: Greek, Roman and Norse in depth, every other
     # pantheon's well-known deities through the general "deity" item.
@@ -92,7 +92,7 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     ],
     "cetaceans": [(taxa("Q160"), 1)],
     "dinosaurs": [(taxa("Q430", "Q34740") + " ?item wdt:P31 wd:Q23038290 .", 2)],
-    "painters": [(people("Q1028181"), 25)],
+    "painters": [(people("Q1028181"), 15)],
     # Composers, minus people mainly known for pop, rock or other fields:
     # singer-songwriters, rappers, actors, guitarists, comedians, record
     # producers, footballers and monarchs.
@@ -102,7 +102,7 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
             + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1960)"
             + " FILTER NOT EXISTS { ?item wdt:P106 ?other . VALUES ?other {"
             + " wd:Q488205 wd:Q2252262 wd:Q33999 wd:Q855091 wd:Q245068 wd:Q183945 wd:Q116 wd:Q937857 } }",
-            25,
+            15,
         )
     ],
     # Added for the second wave of categories.
@@ -112,20 +112,29 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "cookies": [(tree("Q13266"), 2)],
     "salads": [(tree("Q9266"), 2)],
     "spirits": [(tree("Q154"), 8)],
-    "mythical-creatures": [(tree("Q2239243"), 15)],
+    "mythical-creatures": [(tree("Q2239243"), 8)],
     "holidays": [(tree("Q1445650"), 20)],
-    "cartoon-characters": [(inst("Q15711870"), 8)],
-    "video-games": [(inst("Q7889"), 15)],
+    "cartoon-characters": [(inst("Q15711870"), 4)],
+    "video-games": [(inst("Q7889"), 8)],
     "game-consoles": [(tree("Q8076"), 10)],
-    "movie-franchises": [(inst("Q24856"), 12)],
+    "movie-franchises": [(inst("Q24856"), 6)],
     "disney-pixar-movies": [
         ("?item wdt:P31 wd:Q11424 ; wdt:P272 ?studio . VALUES ?studio { wd:Q191224 wd:Q127552 }", 5)
     ],
     "instruments": [(tree("Q34379"), 15)],
-    "singers": [(people("Q177220"), 35)],
-    "actors": [(people("Q33999") + " ?item wdt:P21 wd:Q6581097 .", 35)],
-    "actresses": [(people("Q33999") + " ?item wdt:P21 wd:Q6581072 .", 30)],
-    "bands": [(inst("Q215380"), 20), (inst("Q5741069"), 15)],
+    "singers": [(people("Q177220") + " FILTER EXISTS { { ?item wdt:P264 ?label } UNION { ?song wdt:P175 ?item } }", 20)],
+    # Split by birth era: one query over every actor times out.
+    "actors": [
+        (people("Q33999") + " ?item wdt:P21 wd:Q6581097 . FILTER EXISTS { ?credit wdt:P161 ?item }" + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1940)", 20),
+        (people("Q33999") + " ?item wdt:P21 wd:Q6581097 . FILTER EXISTS { ?credit wdt:P161 ?item }" + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1940 && YEAR(?born) < 1970)", 20),
+        (people("Q33999") + " ?item wdt:P21 wd:Q6581097 . FILTER EXISTS { ?credit wdt:P161 ?item }" + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1970)", 20),
+    ],
+    "actresses": [
+        (people("Q33999") + " ?item wdt:P21 wd:Q6581072 . FILTER EXISTS { ?credit wdt:P161 ?item }" + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1940)", 18),
+        (people("Q33999") + " ?item wdt:P21 wd:Q6581072 . FILTER EXISTS { ?credit wdt:P161 ?item }" + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1940 && YEAR(?born) < 1970)", 18),
+        (people("Q33999") + " ?item wdt:P21 wd:Q6581072 . FILTER EXISTS { ?credit wdt:P161 ?item }" + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1970)", 18),
+    ],
+    "bands": [(inst("Q215380"), 10), (inst("Q5741069"), 8)],
     # Only cities over 100,000 people (current population, preferred value).
     "us-cities": [(
         "VALUES ?kind { wd:Q1093829 wd:Q515 wd:Q1549591 wd:Q3301053 wd:Q15127012 wd:Q2264924 }"
@@ -133,12 +142,12 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
         " FILTER NOT EXISTS { ?item p:P1082 ?ps . ?ps wikibase:rank wikibase:PreferredRank ; ps:P1082 ?p2 . FILTER(?p2 < 100000) }",
         1,
     )],
-    "european-cities": [("?item wdt:P31 wd:Q1549591 ; wdt:P17/wdt:P30 wd:Q46 .", 20)],
-    "asian-cities": [("?item wdt:P31 wd:Q1549591 ; wdt:P17/wdt:P30 wd:Q48 .", 20)],
-    "islands": [(inst("Q23442"), 20)],
-    "lakes": [(inst("Q23397"), 15)],
-    "rivers": [(inst("Q4022"), 20)],
-    "mountains": [(inst("Q8502"), 15)],
+    "european-cities": [("?item wdt:P31 wd:Q1549591 ; wdt:P17/wdt:P30 wd:Q46 .", 10)],
+    "asian-cities": [("?item wdt:P31 wd:Q1549591 ; wdt:P17/wdt:P30 wd:Q48 .", 10)],
+    "islands": [(inst("Q23442"), 12)],
+    "lakes": [(inst("Q23397"), 8)],
+    "rivers": [(inst("Q4022"), 10)],
+    "mountains": [(inst("Q8502"), 8)],
     "currencies": [(inst("Q8142"), 10)],
     "fast-food": [(tree("Q1751429"), 5)],
     "italian-foods": [(dishes_from("Q38", "Q192786"), 3)],
@@ -148,7 +157,11 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "spanish-foods": [(dishes_from("Q29", "Q622512"), 3)],
     "american-foods": [(dishes_from("Q30", "Q1352460"), 4)],
     # Sources for open-ended categories that had none.
-    "athletes": [("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279* wd:Q2066131 .", 60)],
+    "athletes": [
+        ("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279* wd:Q2066131 ." + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1940)", 35),
+        ("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279* wd:Q2066131 ." + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1940 && YEAR(?born) < 1970)", 35),
+        ("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279* wd:Q2066131 ." + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1970)", 35),
+    ],
     # Famous people who died before 1960, one occupation at a time (a single
     # query over every person times out).
     "historical-figures": [
@@ -167,14 +180,14 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "sandwiches": [(tree("Q28803"), 3)],
     "soups": [(tree("Q41415"), 3)],
     "landmarks": [
-        ("?item wdt:P1435 wd:Q9259 .", 40),  # UNESCO World Heritage Sites
-        (inst("Q570116"), 40),  # tourist attractions
+        ("?item wdt:P1435 wd:Q9259 .", 20),  # UNESCO World Heritage Sites
+        (inst("Q570116"), 20),  # tourist attractions
     ],
     "sports": [(inst("Q31629"), 25)],  # types of sport (not events)
-    "birds": [(taxa("Q5113"), 30)],
+    "birds": [(taxa("Q5113"), 15)],
     "boys-names": [(inst("Q12308941"), 15)],
     "girls-names": [(inst("Q11879590"), 15)],
-    "tv-shows": [(inst("Q5398426"), 30), (inst("Q581714"), 25)],
+    "tv-shows": [(inst("Q5398426"), 15), (inst("Q581714"), 12)],
     "christmas-movies": [("?item wdt:P136 wd:Q28026639 .", 3)],
     "christmas-songs": [("?item wdt:P136 wd:Q1443316 ; wdt:P31/wdt:P279* wd:Q7366 .", 3)],
 }
@@ -242,6 +255,10 @@ def fetch(cid: str) -> list[dict]:
                 continue
             alts = [clean(a) for a in b.get("alts", {}).get("value", "").split("\u001f") if a]
             sci = clean(b["sci"]["value"]) if "sci" in b else None
+            # No English name, only the Latin binomial ("Mimus longicaudatus"):
+            # nobody would type it. Single-word genera (dinosaurs) are kept.
+            if sci and " " in label and sci.lower() == label.lower():
+                continue
             names = [n for n in [*alts, sci] if n and n.lower() != label.lower()]
             entry = items.setdefault(qid, {"name": label, "aliases": [], "links": int(b["links"]["value"])})
             entry["aliases"] = sorted(set(entry["aliases"]) | set(names), key=str.lower)
