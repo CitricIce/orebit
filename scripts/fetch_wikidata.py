@@ -158,9 +158,9 @@ SOURCES: dict[str, list[tuple[str, int]]] = {
     "american-foods": [(dishes_from("Q30", "Q1352460"), 4)],
     # Sources for open-ended categories that had none.
     "athletes": [
-        ("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279* wd:Q2066131 ." + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1940)", 35),
-        ("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279* wd:Q2066131 ." + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1940 && YEAR(?born) < 1970)", 35),
-        ("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279* wd:Q2066131 ." + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1970)", 35),
+        ("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279? wd:Q2066131 ." + " ?item wdt:P569 ?born . FILTER(YEAR(?born) < 1940)", 35),
+        ("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279? wd:Q2066131 ." + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1940 && YEAR(?born) < 1970)", 35),
+        ("?item wdt:P31 wd:Q5 ; wdt:P106/wdt:P279? wd:Q2066131 ." + " ?item wdt:P569 ?born . FILTER(YEAR(?born) >= 1970)", 35),
     ],
     # Famous people who died before 1960, one occupation at a time (a single
     # query over every person times out).
