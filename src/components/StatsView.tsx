@@ -111,7 +111,7 @@ export default function StatsView() {
 function Achievements({ states }: { states: ReturnType<typeof achievementStates> }) {
   const unlocked = states.filter((a) => a.unlocked).length;
   return (
-    <div className={s.panel} id="achievements">
+    <div className={`${s.panel} ${s.achievementsPanel}`} id="achievements">
       <h2 className={s.h2}>
         Achievements <span className={s.muted}>{unlocked} / {states.length}</span>
       </h2>

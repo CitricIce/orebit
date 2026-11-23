@@ -422,3 +422,7 @@
     grid-template-columns: 1fr;
   }
 }
+
+.achievementsPanel {
+  margin-top: 10px;
+}
