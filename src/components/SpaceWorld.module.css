@@ -282,10 +282,13 @@
   transition: bottom 1.8s cubic-bezier(0.45, 0, 0.25, 1), rotate 1.2s ease;
 }
 
-/* Feet sit 32px above the element's bottom, so this puts them at 74vh. */
+/* Feet sit 32px above the element's bottom, so this puts them at 74vh from
+   the top, where the asteroid's surface is. Measured from the top (100% minus
+   74vh) because on phones vh is the screen height with the address bar
+   hidden, while the scene's bottom edge moves with the bar. */
 .rocket[data-s="descent"],
 .rocket[data-s="landed"] {
-  bottom: calc(26vh - 32px);
+  bottom: calc(100% - 74vh - 32px);
   /* Stand square to the rock's surface, which slopes at the landing spot. */
   rotate: var(--tilt, 0deg);
 }
@@ -712,7 +715,7 @@
   }
   .rocket[data-s="descent"],
   .rocket[data-s="landed"] {
-    bottom: calc(26vh - 26px);
+    bottom: calc(100% - 74vh - 26px);
   }
   .smoke,
   .dust,

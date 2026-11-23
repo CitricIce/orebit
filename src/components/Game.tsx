@@ -121,6 +121,27 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   const reducedMotion = () =>
     typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
+  // Phones only open the keyboard from a tap, and drilling starts on a timer.
+  // So on the tap that starts the flight, focus a hidden box to bring the
+  // keyboard up; when drilling starts, focus moves to the real box and the
+  // keyboard stays.
+  const primerRef = useRef<HTMLInputElement | null>(null);
+  const primeKeyboard = () => {
+    if (!window.matchMedia("(pointer: coarse)").matches) return;
+    let el = primerRef.current;
+    if (!el) {
+      el = document.createElement("input");
+      el.setAttribute("aria-hidden", "true");
+      el.tabIndex = -1;
+      el.autocomplete = "off";
+      Object.assign(el.style, { position: "fixed", top: "0", left: "0", width: "1px", height: "1px", opacity: "0", fontSize: "16px", pointerEvents: "none" });
+      document.body.appendChild(el);
+      primerRef.current = el;
+    }
+    el.focus({ preventScroll: true });
+  };
+  useEffect(() => () => primerRef.current?.remove(), []);
+
   const liftOff = () => {
     setArmed(false);
     setPhase("launch");
@@ -148,6 +169,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
 
   // Launch, then warp to the asteroid, then count down. Tapping skips ahead.
   const skipScene = () => {
+    primeKeyboard();
     if (phase === "launch") flyToAsteroid();
     else if (phase === "approach") startCountdown();
   };
@@ -223,6 +245,8 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
   useEffect(() => {
     if (phase !== "drilling") return;
     inputRef.current?.focus();
+    primerRef.current?.remove();
+    primerRef.current = null;
     let lastSecond = -1;
     const tick = () => {
       const left = Math.max(0, startedAtRef.current + ROUND_MS + bonusMs(foundRef.current) - Date.now());
@@ -414,7 +438,11 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
           {/* Sits on the ground under the launch pad. Hover primes the engines. */}
           <button
             className={s.liftBtn}
-            onClick={first ? liftOff : flyToAsteroid}
+            onClick={() => {
+              primeKeyboard();
+              if (first) liftOff();
+              else flyToAsteroid();
+            }}
             onPointerEnter={() => setArmed(true)}
             onPointerLeave={() => setArmed(false)}
             onFocus={() => setArmed(true)}
