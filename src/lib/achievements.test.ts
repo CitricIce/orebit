@@ -13,8 +13,7 @@ test("achievements unlock from saved runs", () => {
     { date: "2026-11-24", completed: false, rounds: [round(Array(40).fill(6))] },
   ];
   const f = factsFrom(days);
-  assert.equal(f.surveys, 4);
-  assert.equal(f.archiveSurveys, 1);
+  assert.equal(f.surveys, 3, "archive replays don't count");
   assert.equal(f.bestStreak, 3);
   assert.equal(f.mostStarcoresInDay, 2);
   assert.equal(f.fullSpectrumRounds, 1);

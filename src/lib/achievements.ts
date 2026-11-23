@@ -31,7 +31,6 @@ export interface Achievement {
 
 export interface Facts {
   surveys: number;
-  archiveSurveys: number;
   bestStreak: number;
   bestDay: number;
   mostInRound: number;
@@ -49,11 +48,11 @@ export interface Facts {
 const roundDepth = (r: Round) => r.found.reduce((sum, o) => sum + TIERS[o.tier].depth, 0);
 
 export function factsFrom(days: PlayedDay[], shares = 0): Facts {
-  const done = days.filter((d) => d.completed);
+  // Archive replays don't count, only dailies played on their own day.
+  const done = days.filter((d) => d.completed && (!d.playedOn || d.playedOn === d.date));
   const tier: Record<TierId, number> = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0 };
   const f: Facts = {
     surveys: done.length,
-    archiveSurveys: done.filter((d) => d.playedOn && d.playedOn !== d.date).length,
     bestStreak: 0,
     bestDay: 0,
     mostInRound: 0,
@@ -131,7 +130,6 @@ export const ACHIEVEMENTS: Achievement[] = [
   a("starcore-double", "Double Core", "Find 2 Starcores in one survey.", 2, (f) => f.mostStarcoresInDay),
   a("ores-500", "Ore Baron", "Mine 500 ores in total.", 500, (f) => f.totalOres),
   a("ores-2000", "Mining Magnate", "Mine 2,000 ores in total.", 2000, (f) => f.totalOres),
-  a("archive-5", "Time Traveler", "Finish 5 surveys from the archive.", 5, (f) => f.archiveSurveys),
   a("overtime", "Overtime", "Get the clock up to a full minute with time bonuses.", 60, (f) => f.bestPeakSecs),
   a("midnight", "Night Shift", "Finish the daily by 12:05 AM, right after it unlocks at midnight.", 1, (f) => f.midnightFinishes),
   a("share-1", "Show and Tell", "Share your result.", 1, (f) => f.shares),

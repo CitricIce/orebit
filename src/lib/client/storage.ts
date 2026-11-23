@@ -194,8 +194,9 @@ export interface Stats {
 }
 
 export function computeStats(all: Record<string, DayRecord> = loadAllDays(), today = localToday()): Stats {
+  // Archive replays don't count toward stats, only dailies played on their day.
   const done = Object.values(all)
-    .filter((d) => d.completed)
+    .filter((d) => d.completed && (!d.playedOn || d.playedOn === d.date))
     .sort((a, b) => a.date.localeCompare(b.date));
 
   const tierTotals: Record<TierId, number> = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0 };

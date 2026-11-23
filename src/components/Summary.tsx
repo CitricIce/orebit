@@ -107,7 +107,7 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
     try {
       if (navigator.canShare?.({ files: [file] })) {
         await navigator.share({ files: [file], text: `Orebit #${day.number} · ${data.url}` });
-        setShares(recordShare());
+        if (mode === "daily") setShares(recordShare());
         alldle.track("result_shared", { how: "share_sheet" });
         return;
       }
@@ -122,7 +122,7 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
     a.click();
     setTimeout(() => URL.revokeObjectURL(url), 1000);
     flash("Card saved");
-    setShares(recordShare());
+    if (mode === "daily") setShares(recordShare());
     alldle.track("result_shared", { how: "download" });
   };
 
@@ -183,7 +183,7 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
           </>
         ) : (
           <div>
-            <span className={s.statLabel}>Archive runs don&apos;t count toward your streak.</span>
+            <span className={s.statLabel}>Archive runs don&apos;t count toward your stats, streak or achievements.</span>
           </div>
         )}
         <div className={s.metaLinks}>
