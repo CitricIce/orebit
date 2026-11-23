@@ -19,6 +19,15 @@
   }
 }
 
+.footerLeft {
+  display: inline-flex;
+  gap: 16px;
+}
+
+.footerLeft a {
+  color: var(--muted);
+}
+
 .footerRight {
   display: inline-flex;
   align-items: center;

@@ -464,3 +464,39 @@
   border-radius: 6px;
   background: var(--accent);
 }
+
+.about {
+  max-width: 680px;
+}
+
+.about .h2 {
+  margin-top: 36px;
+}
+
+.h3 {
+  font-size: 16px;
+  margin: 18px 0 4px;
+}
+
+.aboutList {
+  margin: 0;
+  padding-left: 20px;
+  display: grid;
+  gap: 8px;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.aboutList strong {
+  color: var(--ink);
+}
+
+.aboutText {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.aboutText a {
+  color: var(--accent);
+}
