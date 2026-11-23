@@ -58,3 +58,6 @@ sears
 xiaomi
 royal enfield
 stanley steamer => Stanley
+kawasaki
+koenig => Koenig-Specials
+lotius => Lotus

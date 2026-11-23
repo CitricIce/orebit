@@ -61,3 +61,9 @@ Western Sahara | sahrawi | sahrawi arab democratic republic | spanish sahara
 
 # From player misses and feedback, Nov 21-22
 Comoros | camaros
+
+# From player misses, Nov 22 (redo of the nightly run)
+Equatorial Guinea | equatorial
+Zimbabwe | zimbab
+Guinea | ginnuea
+Burundi | brudni

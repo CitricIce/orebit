@@ -239,3 +239,32 @@ Blu-ray | blu ray | bluray
 Timer | tiemr | kitchen timer
 Engine | motor
 Water bottle | water bote
+
+# From player misses, Nov 22 (redo of the nightly run)
+--- 4
+Fire | control of fire
+Chair
+Door
+Sword
+Ship
+Truck
+Shoe | shoes
+Armor | armour
+Fireworks | firework
+Steel
+Brick | bricks
+Axe
+Bow and arrow | bows | bow
+Ink
+Pillow
+Sink
+Fan | electric fan
+Clothing | clothes
+Sofa | couch
+Tin can | can
+--- 5
+Garbage truck
+Macintosh | mac computer
+Cigarette | cigarettes | cig
+Morphine
+Compost

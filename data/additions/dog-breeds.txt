@@ -412,3 +412,8 @@ Dachshund | daushand | dausxhand | dashund
 Chihuahua | chiwa | chiwawa
 Rottweiler | rotwei | rottie | rotty
 Schnauzer | miniature znautser
+
+# From player misses, Nov 22 (redo of the nightly run)
+--- 5
+Aspin | askal | asong pinoy
+Dachshund | hotdog | hot dog | dogshund

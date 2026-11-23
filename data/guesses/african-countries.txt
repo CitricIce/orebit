@@ -60,3 +60,5 @@ guinea bissau
 western sahara
 nigera => Nigeria
 camaros => Comoros
+equatorial => Equatorial Guinea
+zimbab => Zimbabwe

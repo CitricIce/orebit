@@ -325,3 +325,11 @@ Siddeley
 Stanley | stanley steamer
 Sterling
 Yenko
+
+# From player misses, Nov 22 (redo of the nightly run)
+--- 4
+Kawasaki
+--- 5
+Koenig-Specials | koenig specials | koenig
+Gunther Werks | gunther wrrks
+Lotus | lotius

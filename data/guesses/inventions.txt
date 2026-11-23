@@ -61,3 +61,11 @@ blu ray => Blu-ray
 timer
 missile
 spaceship
+fire => Fire
+chair
+sword
+fireworks
+bricks => Brick
+clothes => Clothing
+can => Tin can
+macintosh

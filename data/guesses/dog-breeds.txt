@@ -62,3 +62,5 @@ irish doodle => Irish Doodle
 daushand => Dachshund
 chiwa => Chihuahua
 rotwei => Rottweiler
+hotdog => Dachshund
+askal => Aspin
