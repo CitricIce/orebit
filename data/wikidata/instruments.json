@@ -918,8 +918,8 @@
 {
 "name": "kithara",
 "aliases": [
-"Cithara",
-"cithara"
+"cithara",
+"Cithara"
 ],
 "links": 45
 },
@@ -2319,8 +2319,8 @@
 "name": "shankha",
 "aliases": [
 "Dung-Dkar",
-"śankh",
-"Śankh"
+"Śankh",
+"śankh"
 ],
 "links": 26
 },
@@ -2477,6 +2477,14 @@
 "links": 25
 },
 {
+"name": "Hardanger fiddle",
+"aliases": [
+"Harding fiddle",
+"hardingfele"
+],
+"links": 25
+},
+{
 "name": "Helmholtz resonance",
 "aliases": [
 "Helmholtz resonator"
@@ -2590,14 +2598,6 @@
 {
 "name": "grand piano",
 "aliases": [],
-"links": 24
-},
-{
-"name": "Hardanger fiddle",
-"aliases": [
-"Harding fiddle",
-"hardingfele"
-],
 "links": 24
 },
 {
@@ -3543,6 +3543,11 @@
 "links": 18
 },
 {
+"name": "Baroque guitar",
+"aliases": [],
+"links": 18
+},
+{
 "name": "blowing horn",
 "aliases": [
 "horn",
@@ -3776,11 +3781,6 @@
 "aliases": [
 "barbitos"
 ],
-"links": 17
-},
-{
-"name": "Baroque guitar",
-"aliases": [],
 "links": 17
 },
 {
@@ -4107,6 +4107,11 @@
 },
 {
 "name": "Menat",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Panchajanya",
 "aliases": [],
 "links": 16
 },
@@ -4635,5 +4640,3788 @@
 "willow bark flute"
 ],
 "links": 15
+},
+{
+"name": "Akai MPC",
+"aliases": [
+"MIDI Production Center",
+"Music Production Center",
+"Music Production Controller"
+],
+"links": 14
+},
+{
+"name": "bass trumpet",
+"aliases": [],
+"links": 14
+},
+{
+"name": "batá drum",
+"aliases": [],
+"links": 14
+},
+{
+"name": "bedug",
+"aliases": [],
+"links": 14
+},
+{
+"name": "begena",
+"aliases": [
+"beguena",
+"bèguèna"
+],
+"links": 14
+},
+{
+"name": "claviorgan",
+"aliases": [
+"claviorganum"
+],
+"links": 14
+},
+{
+"name": "dramyin",
+"aliases": [
+"dramnyen",
+"dranyen",
+"sgra-snyan",
+"zhamunie"
+],
+"links": 14
+},
+{
+"name": "electret microphone",
+"aliases": [
+"electret condenser microphone"
+],
+"links": 14
+},
+{
+"name": "EMS VCS 3",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Euler's disk",
+"aliases": [],
+"links": 14
+},
+{
+"name": "gaohu",
+"aliases": [
+"yuehu"
+],
+"links": 14
+},
+{
+"name": "ghaychak",
+"aliases": [
+"gheychak",
+"ghichak",
+"gidzhak",
+"gijak"
+],
+"links": 14
+},
+{
+"name": "ghijak",
+"aliases": [
+"aijieke",
+"ghichak",
+"ghijek",
+"gidzhak",
+"jizihake"
+],
+"links": 14
+},
+{
+"name": "Google Pixel Buds",
+"aliases": [
+"Google Earbuds",
+"Pixel Buds",
+"Pixel Earbuds"
+],
+"links": 14
+},
+{
+"name": "guitalele",
+"aliases": [],
+"links": 14
+},
+{
+"name": "iPod Hi-Fi",
+"aliases": [
+"Apple iPod Hi-Fi"
+],
+"links": 14
+},
+{
+"name": "kakaki",
+"aliases": [
+"malakat",
+"mäläkät"
+],
+"links": 14
+},
+{
+"name": "kanklės",
+"aliases": [
+"kankles"
+],
+"links": 14
+},
+{
+"name": "kendang",
+"aliases": [
+"Kendhang"
+],
+"links": 14
+},
+{
+"name": "krar",
+"aliases": [],
+"links": 14
+},
+{
+"name": "lamellophone",
+"aliases": [
+"lamellaphone",
+"plucked idiophone"
+],
+"links": 14
+},
+{
+"name": "lap steel guitar",
+"aliases": [
+"Hawaiian guitar"
+],
+"links": 14
+},
+{
+"name": "Leslie speaker",
+"aliases": [
+"Leslie"
+],
+"links": 14
+},
+{
+"name": "lituus",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Mingun Bell",
+"aliases": [],
+"links": 14
+},
+{
+"name": "pakhavaj",
+"aliases": [
+"mridang"
+],
+"links": 14
+},
+{
+"name": "reco-reco",
+"aliases": [
+"caracaxá",
+"raspador"
+],
+"links": 14
+},
+{
+"name": "Reguilete",
+"aliases": [
+"Madera"
+],
+"links": 14
+},
+{
+"name": "santoor",
+"aliases": [],
+"links": 14
+},
+{
+"name": "se",
+"aliases": [
+"25-string zither",
+"che",
+"Chinese zither",
+"chè",
+"guitar",
+"guse",
+"ku se",
+"ku-se",
+"se zither",
+"zither"
+],
+"links": 14
+},
+{
+"name": "seven-string guitar",
+"aliases": [],
+"links": 14
+},
+{
+"name": "sorna",
+"aliases": [
+"sarnā",
+"sornā",
+"sornāy",
+"surna",
+"zurna"
+],
+"links": 14
+},
+{
+"name": "square piano",
+"aliases": [],
+"links": 14
+},
+{
+"name": "suling",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Suzuki Omnichord",
+"aliases": [],
+"links": 14
+},
+{
+"name": "swarmandal",
+"aliases": [
+"Indian harp",
+"surmandal"
+],
+"links": 14
+},
+{
+"name": "thavil",
+"aliases": [
+"tavil"
+],
+"links": 14
+},
+{
+"name": "timple",
+"aliases": [],
+"links": 14
+},
+{
+"name": "tonkori",
+"aliases": [],
+"links": 14
+},
+{
+"name": "TuxGuitar",
+"aliases": [],
+"links": 14
+},
+{
+"name": "xaphoon",
+"aliases": [
+"bamboo sax"
+],
+"links": 14
+},
+{
+"name": "analog synthesizer",
+"aliases": [
+"analogue synthesizer"
+],
+"links": 13
+},
+{
+"name": "barbat",
+"aliases": [],
+"links": 13
+},
+{
+"name": "bawu",
+"aliases": [
+"ba wu"
+],
+"links": 13
+},
+{
+"name": "bazooka",
+"aliases": [],
+"links": 13
+},
+{
+"name": "bones",
+"aliases": [
+"rhythm bones"
+],
+"links": 13
+},
+{
+"name": "bulbul tarang",
+"aliases": [
+"bulbultarang"
+],
+"links": 13
+},
+{
+"name": "button accordion",
+"aliases": [
+"box",
+"button box",
+"button-key accordion",
+"squeezebox"
+],
+"links": 13
+},
+{
+"name": "Byzantine lyra",
+"aliases": [
+"lira"
+],
+"links": 13
+},
+{
+"name": "Chenda",
+"aliases": [
+"cenda",
+"ceṇḍa",
+"ceṇḍe"
+],
+"links": 13
+},
+{
+"name": "continuum",
+"aliases": [
+"continuum fingerboard",
+"Haken continuum"
+],
+"links": 13
+},
+{
+"name": "course",
+"aliases": [],
+"links": 13
+},
+{
+"name": "crotalum",
+"aliases": [
+"crotala"
+],
+"links": 13
+},
+{
+"name": "daegeum",
+"aliases": [
+"chŏ",
+"chŏttae",
+"daegum",
+"daegŭm",
+"taegum",
+"taegŭm"
+],
+"links": 13
+},
+{
+"name": "daxophone",
+"aliases": [],
+"links": 13
+},
+{
+"name": "electrodynamic loudspeaker",
+"aliases": [
+"speaker driver"
+],
+"links": 13
+},
+{
+"name": "Fender Mustang Bass",
+"aliases": [],
+"links": 13
+},
+{
+"name": "floor tom",
+"aliases": [
+"low tom"
+],
+"links": 13
+},
+{
+"name": "fretless bass",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Fuzz",
+"aliases": [
+"Fuzzbox"
+],
+"links": 13
+},
+{
+"name": "Gibson Thunderbird",
+"aliases": [],
+"links": 13
+},
+{
+"name": "gottan",
+"aliases": [],
+"links": 13
+},
+{
+"name": "haegeum",
+"aliases": [
+"haegum"
+],
+"links": 13
+},
+{
+"name": "horn loudspeaker",
+"aliases": [],
+"links": 13
+},
+{
+"name": "hum",
+"aliases": [
+"humming"
+],
+"links": 13
+},
+{
+"name": "Il Cannone Guarnerius",
+"aliases": [],
+"links": 13
+},
+{
+"name": "imzad",
+"aliases": [
+"amzad",
+"anzad",
+"anzhad",
+"imzhad",
+"inzad",
+"rabāba"
+],
+"links": 13
+},
+{
+"name": "jazz guitar",
+"aliases": [
+"guitar jazz"
+],
+"links": 13
+},
+{
+"name": "kannel",
+"aliases": [],
+"links": 13
+},
+{
+"name": "khol",
+"aliases": [
+"mrdanga",
+"mridanga"
+],
+"links": 13
+},
+{
+"name": "kokyū",
+"aliases": [
+"kokyu",
+"kūchō"
+],
+"links": 13
+},
+{
+"name": "konghou",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Korg M1",
+"aliases": [],
+"links": 13
+},
+{
+"name": "krakebs",
+"aliases": [
+"garagab",
+"krakeb",
+"qarāqib",
+"qraqeb"
+],
+"links": 13
+},
+{
+"name": "lira da braccio",
+"aliases": [
+"lira da spalla",
+"lira di sette corde",
+"lira moderna"
+],
+"links": 13
+},
+{
+"name": "mechanical musical instrument",
+"aliases": [
+"automatic instrument",
+"automatic musical instrument",
+"automatofone",
+"mechanical instrument"
+],
+"links": 13
+},
+{
+"name": "Megpoid",
+"aliases": [
+"Gumi"
+],
+"links": 13
+},
+{
+"name": "musette de cour",
+"aliases": [
+"baroque musette",
+"cornemuse",
+"musette"
+],
+"links": 13
+},
+{
+"name": "Nagoya harp",
+"aliases": [
+"taisho-goto",
+"taishōgoto",
+"Tashogoto"
+],
+"links": 13
+},
+{
+"name": "natural horn",
+"aliases": [
+"end-blown horns",
+"end-blown labrosones with curved or folded tubes"
+],
+"links": 13
+},
+{
+"name": "ngoni",
+"aliases": [
+"n'goni",
+"nkoni"
+],
+"links": 13
+},
+{
+"name": "Novachord",
+"aliases": [],
+"links": 13
+},
+{
+"name": "pedal piano",
+"aliases": [
+"piano-pédalier",
+"pédalier"
+],
+"links": 13
+},
+{
+"name": "piccolo oboe",
+"aliases": [
+"musette",
+"Musette",
+"musette pipe",
+"oboe musette",
+"piccoloboe"
+],
+"links": 13
+},
+{
+"name": "pitch shift",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Plasma speaker",
+"aliases": [
+"Ionophone"
+],
+"links": 13
+},
+{
+"name": "pommer",
+"aliases": [
+"bombard"
+],
+"links": 13
+},
+{
+"name": "rattleback",
+"aliases": [
+"anagyre",
+"ARK",
+"Bizzaro Swirl",
+"celt",
+"Celtic stone",
+"rattlerock",
+"rebellious celt",
+"Robinson Reverser",
+"Space Pet",
+"Space Toy",
+"spin bar",
+"wobble stone",
+"wobblestone"
+],
+"links": 13
+},
+{
+"name": "ride cymbal",
+"aliases": [],
+"links": 13
+},
+{
+"name": "riq",
+"aliases": [
+"daff",
+"doff al-zinjāri",
+"duff",
+"mriqq",
+"rik",
+"rikk",
+"riqq",
+"tar"
+],
+"links": 13
+},
+{
+"name": "roof knocking",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Sabar",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Saraswati vina",
+"aliases": [
+"Sarasvatī vīṇa"
+],
+"links": 13
+},
+{
+"name": "Sequential Circuits Prophet-5",
+"aliases": [],
+"links": 13
+},
+{
+"name": "soprillo",
+"aliases": [
+"piccolo saxophone",
+"sopranissimo saxophone"
+],
+"links": 13
+},
+{
+"name": "swell",
+"aliases": [
+"swell box"
+],
+"links": 13
+},
+{
+"name": "tabor",
+"aliases": [
+"tabret",
+"Tambour De Provence",
+"tambourin"
+],
+"links": 13
+},
+{
+"name": "Technics SL-1200",
+"aliases": [
+"Technics SL-1210"
+],
+"links": 13
+},
+{
+"name": "tonbak",
+"aliases": [
+"dombak",
+"donbak",
+"tombak",
+"zarb"
+],
+"links": 13
+},
+{
+"name": "viola da braccio",
+"aliases": [],
+"links": 13
+},
+{
+"name": "viola organista",
+"aliases": [],
+"links": 13
+},
+{
+"name": "voice",
+"aliases": [
+"singing voice",
+"voc",
+"vocals"
+],
+"links": 13
+},
+{
+"name": "warning shot",
+"aliases": [
+"aim to miss"
+],
+"links": 13
+},
+{
+"name": "Warr Guitar",
+"aliases": [],
+"links": 13
+},
+{
+"name": "washboard",
+"aliases": [
+"rubboard"
+],
+"links": 13
+},
+{
+"name": "Welte-Mignon",
+"aliases": [
+"Mignon",
+"Welte-Mignon reproducing piano"
+],
+"links": 13
+},
+{
+"name": "Wurlitzer Electric Piano",
+"aliases": [
+"Wurlitzer 112",
+"Wurlitzer 200A",
+"Wurlitzer EP-200A",
+"Wurly"
+],
+"links": 13
+},
+{
+"name": "Adufe",
+"aliases": [],
+"links": 12
+},
+{
+"name": "ARP 2600",
+"aliases": [],
+"links": 12
+},
+{
+"name": "ashiko",
+"aliases": [],
+"links": 12
+},
+{
+"name": "baglamas",
+"aliases": [
+"baglamadaki"
+],
+"links": 12
+},
+{
+"name": "biniou",
+"aliases": [
+"binioù"
+],
+"links": 12
+},
+{
+"name": "bleep censor",
+"aliases": [],
+"links": 12
+},
+{
+"name": "byzaanchy",
+"aliases": [],
+"links": 12
+},
+{
+"name": "chimta",
+"aliases": [],
+"links": 12
+},
+{
+"name": "citole",
+"aliases": [
+"cedra",
+"cetera",
+"cetola",
+"cetula",
+"chytara",
+"cistola",
+"cistole",
+"citera",
+"cithar",
+"citola",
+"citula",
+"cuitole",
+"cythera",
+"cythol",
+"cytiole",
+"cytolys",
+"gytolle",
+"sitole",
+"sytholle",
+"sytole",
+"zitol"
+],
+"links": 12
+},
+{
+"name": "clavicytherium",
+"aliases": [
+"cembalo verticale",
+"clavecin vertical"
+],
+"links": 12
+},
+{
+"name": "DJ mixer",
+"aliases": [],
+"links": 12
+},
+{
+"name": "ektara",
+"aliases": [
+"ektar"
+],
+"links": 12
+},
+{
+"name": "European baritone",
+"aliases": [
+"baritone",
+"baritone horn",
+"flicorno tenore",
+"tenorhorn"
+],
+"links": 12
+},
+{
+"name": "evil laughter",
+"aliases": [
+"bwuahaha",
+"maniacal laughter",
+"manic laughter",
+"muahaha",
+"mwahaha"
+],
+"links": 12
+},
+{
+"name": "Fender Esquire",
+"aliases": [],
+"links": 12
+},
+{
+"name": "folk instrument",
+"aliases": [
+"folk music instrument",
+"folk musical instrument",
+"traditional musical instrument"
+],
+"links": 12
+},
+{
+"name": "geomungo",
+"aliases": [
+"hyeongeum",
+"komungo"
+],
+"links": 12
+},
+{
+"name": "guitarrón",
+"aliases": [
+"guitarrón mexicano"
+],
+"links": 12
+},
+{
+"name": "gunshot",
+"aliases": [
+"discharging a gun",
+"firing a gun",
+"gun discharge",
+"gun firing",
+"gun shooting",
+"gunfire",
+"gunshots",
+"shooting a gun",
+"shot by gun"
+],
+"links": 12
+},
+{
+"name": "igil",
+"aliases": [
+"horsehead fiddle",
+"İGİL"
+],
+"links": 12
+},
+{
+"name": "Kacapi",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Korg MS-20",
+"aliases": [],
+"links": 12
+},
+{
+"name": "launeddas",
+"aliases": [
+"Sardinian triple clarinet",
+"Sardinian triple pipe"
+],
+"links": 12
+},
+{
+"name": "Linn LM-1",
+"aliases": [],
+"links": 12
+},
+{
+"name": "mark tree",
+"aliases": [
+"bar chimes",
+"chimes"
+],
+"links": 12
+},
+{
+"name": "Mauser MG 213",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Native American flute",
+"aliases": [
+"courting flute",
+"Grandfather's flute",
+"Indian flute",
+"love flute",
+"Native American courting flute",
+"Native American love flute",
+"Native American style flute",
+"North American flute",
+"Plains flute",
+"Plains Indian courting flute"
+],
+"links": 12
+},
+{
+"name": "natural trumpet",
+"aliases": [
+"natural labrosone"
+],
+"links": 12
+},
+{
+"name": "nose flute",
+"aliases": [],
+"links": 12
+},
+{
+"name": "P-90",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Paraguayan harp",
+"aliases": [],
+"links": 12
+},
+{
+"name": "piri",
+"aliases": [
+"hyangp'iri",
+"p'iri"
+],
+"links": 12
+},
+{
+"name": "pocket trumpet",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Polyphon",
+"aliases": [],
+"links": 12
+},
+{
+"name": "psalmodicon",
+"aliases": [
+"psalmodikon"
+],
+"links": 12
+},
+{
+"name": "qanbūs",
+"aliases": [
+"gabbus",
+"gambus",
+"qanbus"
+],
+"links": 12
+},
+{
+"name": "ReBirth RB-338",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Rickenbacker Electro A-22",
+"aliases": [
+"Fry-Pan",
+"Frying pan"
+],
+"links": 12
+},
+{
+"name": "Saron",
+"aliases": [
+"Javanese saron"
+],
+"links": 12
+},
+{
+"name": "Serinette",
+"aliases": [],
+"links": 12
+},
+{
+"name": "simsimiyya",
+"aliases": [
+"semsemiah",
+"sinsimia",
+"sinsimiyya"
+],
+"links": 12
+},
+{
+"name": "sopranino saxophone",
+"aliases": [
+"sopranino sax"
+],
+"links": 12
+},
+{
+"name": "steel tongue drum",
+"aliases": [
+"hank drum",
+"tank drum"
+],
+"links": 12
+},
+{
+"name": "suka",
+"aliases": [
+"Bilgoraj Suka",
+"Bilgoray Suka"
+],
+"links": 12
+},
+{
+"name": "Swedish bagpipes",
+"aliases": [
+"säckpipa"
+],
+"links": 12
+},
+{
+"name": "tenor drum",
+"aliases": [],
+"links": 12
+},
+{
+"name": "triple harp",
+"aliases": [
+"Welsh harp"
+],
+"links": 12
+},
+{
+"name": "tsuur",
+"aliases": [],
+"links": 12
+},
+{
+"name": "viola pomposa",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Wii Speak",
+"aliases": [],
+"links": 12
+},
+{
+"name": "yatga",
+"aliases": [
+"Mongolian zither",
+"yataga",
+"yatug",
+"yatuga",
+"yatuġ-a"
+],
+"links": 12
+},
+{
+"name": "arghul",
+"aliases": [
+"arghool",
+"arghoul",
+"argol",
+"argul",
+"arqul",
+"yarghul"
+],
+"links": 11
+},
+{
+"name": "bajo sexto",
+"aliases": [],
+"links": 11
+},
+{
+"name": "bandola",
+"aliases": [],
+"links": 11
+},
+{
+"name": "basset clarinet",
+"aliases": [],
+"links": 11
+},
+{
+"name": "beater",
+"aliases": [
+"clapper",
+"Kolotushka",
+"Matraca",
+"Torokhkatalo"
+],
+"links": 11
+},
+{
+"name": "Beyblade",
+"aliases": [
+"BeyWarriors"
+],
+"links": 11
+},
+{
+"name": "bladder fiddle",
+"aliases": [],
+"links": 11
+},
+{
+"name": "bronze drum",
+"aliases": [
+"gyongdoeng",
+"gyongdoengz",
+"nyen",
+"nyenz",
+"zongdoeng",
+"zongdoengz"
+],
+"links": 11
+},
+{
+"name": "bugle",
+"aliases": [
+"Clarion_"
+],
+"links": 11
+},
+{
+"name": "Caxirola",
+"aliases": [],
+"links": 11
+},
+{
+"name": "chonguri",
+"aliases": [],
+"links": 11
+},
+{
+"name": "cigar box guitar",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Clicker",
+"aliases": [
+"cricket"
+],
+"links": 11
+},
+{
+"name": "Cutaway",
+"aliases": [],
+"links": 11
+},
+{
+"name": "danso",
+"aliases": [
+"tanso"
+],
+"links": 11
+},
+{
+"name": "diddley bow",
+"aliases": [],
+"links": 11
+},
+{
+"name": "dotara",
+"aliases": [],
+"links": 11
+},
+{
+"name": "effects pedal",
+"aliases": [
+"effect pedal",
+"stompbox"
+],
+"links": 11
+},
+{
+"name": "electrostatic loudspeaker",
+"aliases": [],
+"links": 11
+},
+{
+"name": "English guitar",
+"aliases": [],
+"links": 11
+},
+{
+"name": "FastTracker 2",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Fender Cyclone",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Fender Duo-Sonic",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Fender Starcaster",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Fender Swinger",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Gambang",
+"aliases": [
+"Javanese gambang"
+],
+"links": 11
+},
+{
+"name": "gangsa",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Gibson EB-3",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Gibson Moderne",
+"aliases": [
+"Gibson Modern"
+],
+"links": 11
+},
+{
+"name": "goje",
+"aliases": [],
+"links": 11
+},
+{
+"name": "harp guitar",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Impulse Tracker",
+"aliases": [],
+"links": 11
+},
+{
+"name": "J-Alert",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kabosy",
+"aliases": [],
+"links": 11
+},
+{
+"name": "laúd",
+"aliases": [
+"laud"
+],
+"links": 11
+},
+{
+"name": "liuqin",
+"aliases": [],
+"links": 11
+},
+{
+"name": "mandora",
+"aliases": [
+"calichon",
+"colascione",
+"gallichon",
+"gallichone"
+],
+"links": 11
+},
+{
+"name": "MIDI controller",
+"aliases": [],
+"links": 11
+},
+{
+"name": "MIDI keyboard",
+"aliases": [
+"Midiboard"
+],
+"links": 11
+},
+{
+"name": "mizhavu",
+"aliases": [],
+"links": 11
+},
+{
+"name": "multi-neck guitar",
+"aliases": [
+"double neck guitar"
+],
+"links": 11
+},
+{
+"name": "noise-cancelling headphones",
+"aliases": [],
+"links": 11
+},
+{
+"name": "organ manual",
+"aliases": [
+"manual"
+],
+"links": 11
+},
+{
+"name": "pandura",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Pummerin",
+"aliases": [],
+"links": 11
+},
+{
+"name": "pyrophone",
+"aliases": [
+"explosion organ",
+"fire calliope",
+"fire organ"
+],
+"links": 11
+},
+{
+"name": "rackett",
+"aliases": [
+"sausage bassoon"
+],
+"links": 11
+},
+{
+"name": "rebana",
+"aliases": [
+"rammana",
+"Rebana Ubi drum"
+],
+"links": 11
+},
+{
+"name": "Red Color",
+"aliases": [
+"Tzeva Adom"
+],
+"links": 11
+},
+{
+"name": "Renoise",
+"aliases": [],
+"links": 11
+},
+{
+"name": "ribbon microphone",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Rickenbacker 4001",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Roland D-50",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Russian guitar",
+"aliases": [
+"open G tuned seven-string guitar"
+],
+"links": 11
+},
+{
+"name": "salpinx",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Shure SM58",
+"aliases": [
+"SM58"
+],
+"links": 11
+},
+{
+"name": "shvi",
+"aliases": [],
+"links": 11
+},
+{
+"name": "slide whistle",
+"aliases": [
+"bird warble",
+"jazz flute",
+"lotos flute",
+"lotus flute",
+"piston flute",
+"song whistle",
+"swannee whistle"
+],
+"links": 11
+},
+{
+"name": "svirel",
+"aliases": [],
+"links": 11
+},
+{
+"name": "talharpa",
+"aliases": [
+"hiiu kannel"
+],
+"links": 11
+},
+{
+"name": "tarka",
+"aliases": [
+"anata",
+"tarca",
+"tharka",
+"tharqa"
+],
+"links": 11
+},
+{
+"name": "Teetotum",
+"aliases": [],
+"links": 11
+},
+{
+"name": "teponaztli",
+"aliases": [
+"quiringua",
+"tepenahuasqui",
+"teponagua",
+"teponahuaztli",
+"teponaxtle",
+"tinco",
+"tunkul"
+],
+"links": 11
+},
+{
+"name": "theatre organ",
+"aliases": [
+"cinema organ",
+"theater organ"
+],
+"links": 11
+},
+{
+"name": "toy piano",
+"aliases": [
+"kinderklavier"
+],
+"links": 11
+},
+{
+"name": "Treshchotka",
+"aliases": [],
+"links": 11
+},
+{
+"name": "trikiti",
+"aliases": [
+"trikitixa"
+],
+"links": 11
+},
+{
+"name": "tubax",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tutek",
+"aliases": [
+"dilli kaval"
+],
+"links": 11
+},
+{
+"name": "tympanum",
+"aliases": [],
+"links": 11
+},
+{
+"name": "vichitra veena",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Yamaha CS-80",
+"aliases": [],
+"links": 11
+},
+{
+"name": "çeng",
+"aliases": [],
+"links": 11
+},
+{
+"name": "đàn môi",
+"aliases": [
+"dan moi"
+],
+"links": 11
+},
+{
+"name": "đàn tranh",
+"aliases": [
+"dan tranh"
+],
+"links": 11
+},
+{
+"name": "Đông Sơn drum",
+"aliases": [
+"Dong Son drum"
+],
+"links": 11
+},
+{
+"name": "Šargija",
+"aliases": [
+"sharki"
+],
+"links": 11
+},
+{
+"name": "Akan Drum",
+"aliases": [],
+"links": 10
+},
+{
+"name": "angélique",
+"aliases": [
+"angel lute",
+"angelica",
+"angelique"
+],
+"links": 10
+},
+{
+"name": "ardin",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Barjansky Stradivarius",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Baroque flute",
+"aliases": [
+"traverso"
+],
+"links": 10
+},
+{
+"name": "baroque trumpet",
+"aliases": [],
+"links": 10
+},
+{
+"name": "basolia",
+"aliases": [
+"bas",
+"basetlia"
+],
+"links": 10
+},
+{
+"name": "bass trombone",
+"aliases": [],
+"links": 10
+},
+{
+"name": "basso profondo",
+"aliases": [
+"basso profundo",
+"deep bass",
+"low bass"
+],
+"links": 10
+},
+{
+"name": "Bell of King Seongdeok",
+"aliases": [
+"Bell of Bongdeoksa Temple",
+"Divine Bell of King Seongdeok the Great",
+"Emille Bell",
+"Sacred Bell of King Seongdeok the Great"
+],
+"links": 10
+},
+{
+"name": "bonang",
+"aliases": [
+"bonang barung",
+"bonang panerus"
+],
+"links": 10
+},
+{
+"name": "bow harp",
+"aliases": [],
+"links": 10
+},
+{
+"name": "bucium",
+"aliases": [],
+"links": 10
+},
+{
+"name": "buzzer",
+"aliases": [
+"button whirligig",
+"button-on-a-string",
+"buzz disc",
+"buzz toy",
+"toy buzzer"
+],
+"links": 10
+},
+{
+"name": "C melody saxophone",
+"aliases": [
+"C tenor",
+"C-sax"
+],
+"links": 10
+},
+{
+"name": "chang",
+"aliases": [],
+"links": 10
+},
+{
+"name": "chitarra battente",
+"aliases": [],
+"links": 10
+},
+{
+"name": "choghur",
+"aliases": [
+"chaghyr",
+"chagur",
+"chonguri",
+"chugur",
+"chungur",
+"chunguri"
+],
+"links": 10
+},
+{
+"name": "chuniri",
+"aliases": [
+"chianuri"
+],
+"links": 10
+},
+{
+"name": "clapper",
+"aliases": [
+"clappers"
+],
+"links": 10
+},
+{
+"name": "clash cymbals",
+"aliases": [
+"orchestral cymbals"
+],
+"links": 10
+},
+{
+"name": "clavioline",
+"aliases": [],
+"links": 10
+},
+{
+"name": "contrabass saxophone",
+"aliases": [],
+"links": 10
+},
+{
+"name": "dilrupa",
+"aliases": [],
+"links": 10
+},
+{
+"name": "dunun",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Duport Stradivarius",
+"aliases": [],
+"links": 10
+},
+{
+"name": "EBow",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Elathalam",
+"aliases": [
+"Ilathalam"
+],
+"links": 10
+},
+{
+"name": "epinette des Vosges",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Epiphone Casino",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Fender Bass VI",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Fender Bronco",
+"aliases": [],
+"links": 10
+},
+{
+"name": "flabiol",
+"aliases": [
+"flaviol"
+],
+"links": 10
+},
+{
+"name": "Frankenstrat",
+"aliases": [
+"Frankenstein"
+],
+"links": 10
+},
+{
+"name": "fūrin",
+"aliases": [
+"Fuurin"
+],
+"links": 10
+},
+{
+"name": "Game call",
+"aliases": [],
+"links": 10
+},
+{
+"name": "ganzá",
+"aliases": [
+"chocalho",
+"ganza",
+"sekseki",
+"siksak"
+],
+"links": 10
+},
+{
+"name": "Gibson ES-150",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Gibson ES-175",
+"aliases": [
+"Gibson ES-175D"
+],
+"links": 10
+},
+{
+"name": "gottuvadhyam",
+"aliases": [
+"chitraveena",
+"gottuvadyam",
+"mahanataka vina"
+],
+"links": 10
+},
+{
+"name": "Great Bell of Dhammazedi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "guacharaca",
+"aliases": [
+"guacharaquero'"
+],
+"links": 10
+},
+{
+"name": "handpan",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Hawaiian guitar",
+"aliases": [
+"Acoustic lap steel guitar"
+],
+"links": 10
+},
+{
+"name": "horn",
+"aliases": [
+"horn family"
+],
+"links": 10
+},
+{
+"name": "hummel",
+"aliases": [
+"humle",
+"langharpe",
+"noardske balke",
+"noordsche balk",
+"scheitholt"
+],
+"links": 10
+},
+{
+"name": "Hydrogen",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Ibanez Tube Screamer",
+"aliases": [
+"Tube Screamer"
+],
+"links": 10
+},
+{
+"name": "idakka",
+"aliases": [
+"Edakka",
+"eḍakkya",
+"iṭekka"
+],
+"links": 10
+},
+{
+"name": "inanga",
+"aliases": [
+"ikivuvu",
+"indimbagazo",
+"langa",
+"lulanga",
+"nanga"
+],
+"links": 10
+},
+{
+"name": "Irish bouzouki",
+"aliases": [
+"bouzouki irlandese",
+"irsk bouzouki"
+],
+"links": 10
+},
+{
+"name": "Jankó keyboard",
+"aliases": [
+"Janko keyboard"
+],
+"links": 10
+},
+{
+"name": "jarana jarocha",
+"aliases": [],
+"links": 10
+},
+{
+"name": "kkwaenggwari",
+"aliases": [
+"ggaenggwari"
+],
+"links": 10
+},
+{
+"name": "Kontra",
+"aliases": [],
+"links": 10
+},
+{
+"name": "langspil",
+"aliases": [],
+"links": 10
+},
+{
+"name": "laser microphone",
+"aliases": [],
+"links": 10
+},
+{
+"name": "lavalier microphone",
+"aliases": [
+"clip mike",
+"lav"
+],
+"links": 10
+},
+{
+"name": "Maria Gloriosa",
+"aliases": [],
+"links": 10
+},
+{
+"name": "marímbula",
+"aliases": [
+"marimba",
+"marimbol",
+"rhumba box"
+],
+"links": 10
+},
+{
+"name": "Messiah Stradivarius",
+"aliases": [
+"Le Messie"
+],
+"links": 10
+},
+{
+"name": "Mexican vihuela",
+"aliases": [],
+"links": 10
+},
+{
+"name": "mizwad",
+"aliases": [
+"mezoued",
+"mizwid"
+],
+"links": 10
+},
+{
+"name": "modular synthesizer",
+"aliases": [
+"modular"
+],
+"links": 10
+},
+{
+"name": "Moscow Kremlin",
+"aliases": [
+"Moscow Kremlin Egg",
+"Uspenski Cathedral Egg"
+],
+"links": 10
+},
+{
+"name": "Music Man StingRay",
+"aliases": [],
+"links": 10
+},
+{
+"name": "musical clock",
+"aliases": [
+"flute-clock"
+],
+"links": 10
+},
+{
+"name": "ngoma",
+"aliases": [
+"engoma",
+"ingoma",
+"ng'oma",
+"ngoma drum"
+],
+"links": 10
+},
+{
+"name": "Northumbrian smallpipes",
+"aliases": [
+"Northumbrian pipes"
+],
+"links": 10
+},
+{
+"name": "pedal harp",
+"aliases": [
+"concert harp",
+"double-pedal harp"
+],
+"links": 10
+},
+{
+"name": "Petersglocke",
+"aliases": [],
+"links": 10
+},
+{
+"name": "piano wire",
+"aliases": [
+"Piano wire, music wire"
+],
+"links": 10
+},
+{
+"name": "piezoelectric speaker",
+"aliases": [
+"piezoelectric loudspeaker"
+],
+"links": 10
+},
+{
+"name": "pinkillu",
+"aliases": [
+"pinkillo",
+"pinkuyllu",
+"pinqullu"
+],
+"links": 10
+},
+{
+"name": "Psalterium",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Reactable",
+"aliases": [],
+"links": 10
+},
+{
+"name": "repinique",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Roland Juno-106",
+"aliases": [],
+"links": 10
+},
+{
+"name": "saluang",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Sasando",
+"aliases": [
+"sesando"
+],
+"links": 10
+},
+{
+"name": "shinobue",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shure SM57",
+"aliases": [],
+"links": 10
+},
+{
+"name": "sintir",
+"aliases": [
+"gambri",
+"gembre",
+"gembri",
+"gembré",
+"gimbri",
+"guembri",
+"guimbri",
+"gumbri",
+"gunibrī",
+"hajhouj",
+"hajouj",
+"hejhouj",
+"ḥajhūj"
+],
+"links": 10
+},
+{
+"name": "slide trumpet",
+"aliases": [
+"flat trumpet"
+],
+"links": 10
+},
+{
+"name": "sopila",
+"aliases": [],
+"links": 10
+},
+{
+"name": "steam whistle",
+"aliases": [],
+"links": 10
+},
+{
+"name": "sursingar",
+"aliases": [
+"sursiṅgār",
+"surśrngār"
+],
+"links": 10
+},
+{
+"name": "sybyzgy",
+"aliases": [
+"sybyzǵy"
+],
+"links": 10
+},
+{
+"name": "tambura",
+"aliases": [
+"Balkan tamburası",
+"balkharina",
+"baylama",
+"boularina",
+"boulgarya",
+"bugaria",
+"Bulgarian tambura",
+"dranka",
+"drunka",
+"tanbour boulghari"
+],
+"links": 10
+},
+{
+"name": "Tamil bell",
+"aliases": [],
+"links": 10
+},
+{
+"name": "taus",
+"aliases": [
+"Taūs",
+"taūs"
+],
+"links": 10
+},
+{
+"name": "ten-string guitar",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tenori-on",
+"aliases": [],
+"links": 10
+},
+{
+"name": "three-hole pipe",
+"aliases": [
+"flute à trois trous",
+"shepherd's pipe",
+"tabor pipe"
+],
+"links": 10
+},
+{
+"name": "tiple",
+"aliases": [],
+"links": 10
+},
+{
+"name": "trutruka",
+"aliases": [],
+"links": 10
+},
+{
+"name": "txistu",
+"aliases": [
+"chistu"
+],
+"links": 10
+},
+{
+"name": "xalam",
+"aliases": [],
+"links": 10
+},
+{
+"name": "21-gun salute",
+"aliases": [],
+"links": 9
+},
+{
+"name": "75/27 Cannon Model 1911",
+"aliases": [
+"Gun, Towed, 75 mm, Model 1911",
+"Model 11 Cannon",
+"Model 1911 Cannon"
+],
+"links": 9
+},
+{
+"name": "adırna",
+"aliases": [
+"adirna",
+"adyrna"
+],
+"links": 9
+},
+{
+"name": "air horn",
+"aliases": [
+"fog signal",
+"tyfon"
+],
+"links": 9
+},
+{
+"name": "altar bell",
+"aliases": [
+"handbell",
+"mass bell",
+"sacring-bell",
+"sacryn bell",
+"saints' bell",
+"saints’ bell",
+"sance-bell",
+"sanctus bell"
+],
+"links": 9
+},
+{
+"name": "analog modeling synthesizer",
+"aliases": [],
+"links": 9
+},
+{
+"name": "anandalahari",
+"aliases": [
+"ananda lahari",
+"gubgubi",
+"khamak"
+],
+"links": 9
+},
+{
+"name": "Ankeruhr",
+"aliases": [],
+"links": 9
+},
+{
+"name": "ANS synthesizer",
+"aliases": [],
+"links": 9
+},
+{
+"name": "archtop guitar",
+"aliases": [],
+"links": 9
+},
+{
+"name": "ARP String Ensemble",
+"aliases": [
+"ARP Solina String Ensemble",
+"Solina",
+"Solina String Ensemble"
+],
+"links": 9
+},
+{
+"name": "Azerbaijani musical instrument",
+"aliases": [
+"Azerbaijani musical instruments"
+],
+"links": 9
+},
+{
+"name": "bachi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Balangiga bells",
+"aliases": [],
+"links": 9
+},
+{
+"name": "bamboo flute",
+"aliases": [],
+"links": 9
+},
+{
+"name": "bandora",
+"aliases": [
+"bandore",
+"pandora"
+],
+"links": 9
+},
+{
+"name": "baritenor",
+"aliases": [
+"high baritone",
+"low tenor"
+],
+"links": 9
+},
+{
+"name": "bass oboe",
+"aliases": [
+"baritone oboe"
+],
+"links": 9
+},
+{
+"name": "Bass pedals",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Beigoma",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Bell of Chersonesos",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Blackie",
+"aliases": [],
+"links": 9
+},
+{
+"name": "boha",
+"aliases": [],
+"links": 9
+},
+{
+"name": "bone flute",
+"aliases": [
+"kapau-yetpë",
+"Paleolithic flute",
+"waxkanii-pootaatiikanushal",
+"yópeque"
+],
+"links": 9
+},
+{
+"name": "buk",
+"aliases": [
+"puk"
+],
+"links": 9
+},
+{
+"name": "buzuq",
+"aliases": [
+"bouzouk",
+"bozuq"
+],
+"links": 9
+},
+{
+"name": "Cakewalk Sonar",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Casio VL-1",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Chamberlin",
+"aliases": [],
+"links": 9
+},
+{
+"name": "chapey",
+"aliases": [
+"Chapei",
+"chapei dong veng"
+],
+"links": 9
+},
+{
+"name": "chitarrone",
+"aliases": [],
+"links": 9
+},
+{
+"name": "clarinette d'amour",
+"aliases": [
+"clarinet d'amore",
+"clarinet d'amour"
+],
+"links": 9
+},
+{
+"name": "Clavinova",
+"aliases": [],
+"links": 9
+},
+{
+"name": "contrabass clarinet",
+"aliases": [
+"B-flat contrabass clarinet",
+"contra-bass clarinet",
+"double bass clarinet",
+"pedal clarinet"
+],
+"links": 9
+},
+{
+"name": "cornamuse",
+"aliases": [],
+"links": 9
+},
+{
+"name": "electric double bass",
+"aliases": [
+"electric upright bass"
+],
+"links": 9
+},
+{
+"name": "erke",
+"aliases": [
+"coroneta",
+"erque",
+"quepa"
+],
+"links": 9
+},
+{
+"name": "EWI",
+"aliases": [
+"Electronic Wind Instrument"
+],
+"links": 9
+},
+{
+"name": "Fender Coronado",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Fender Musicmaster",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Fender Telecaster Bass",
+"aliases": [
+"Tele Bass"
+],
+"links": 9
+},
+{
+"name": "fluier",
+"aliases": [],
+"links": 9
+},
+{
+"name": "full-range speaker",
+"aliases": [
+"Fullrange"
+],
+"links": 9
+},
+{
+"name": "Gackpoid",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Galician gaita",
+"aliases": [
+"Gaita galega",
+"Gaita gallega"
+],
+"links": 9
+},
+{
+"name": "Gaming top",
+"aliases": [
+"Bambaram",
+"Bongaralu Aata",
+"Bongaram",
+"Buguri",
+"Lattu",
+"Pambaram"
+],
+"links": 9
+},
+{
+"name": "Ghumot",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Gibson Marauder",
+"aliases": [],
+"links": 9
+},
+{
+"name": "groove machine",
+"aliases": [],
+"links": 9
+},
+{
+"name": "guitar synthesizer",
+"aliases": [],
+"links": 9
+},
+{
+"name": "gyaling",
+"aliases": [
+"gya ling",
+"gya-ling",
+"jah-lin",
+"jah-ling",
+"jahlin",
+"jahling",
+"rgya gling",
+"rgya-gling"
+],
+"links": 9
+},
+{
+"name": "harpejji",
+"aliases": [],
+"links": 9
+},
+{
+"name": "headless tambourine",
+"aliases": [
+"Brazilian tambourine",
+"jingle ring"
+],
+"links": 9
+},
+{
+"name": "hne",
+"aliases": [
+"hnè"
+],
+"links": 9
+},
+{
+"name": "Jackson Kelly",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Jackson Rhoads",
+"aliases": [],
+"links": 9
+},
+{
+"name": "jawbone",
+"aliases": [],
+"links": 9
+},
+{
+"name": "kashaka",
+"aliases": [
+"Asalato"
+],
+"links": 9
+},
+{
+"name": "kemençe of the Black Sea",
+"aliases": [
+"Karadeniz kemençesi",
+"kemenche",
+"kemenche of the Black Sea",
+"kemençe",
+"Laz kemençesi",
+"Pontic kemenche",
+"Pontic lyra"
+],
+"links": 9
+},
+{
+"name": "Kombu",
+"aliases": [
+"Kumbu"
+],
+"links": 9
+},
+{
+"name": "Lady Blunt Stradivarius",
+"aliases": [],
+"links": 9
+},
+{
+"name": "laouto",
+"aliases": [],
+"links": 9
+},
+{
+"name": "LinnDrum",
+"aliases": [],
+"links": 9
+},
+{
+"name": "lirone",
+"aliases": [
+"lira da gamba"
+],
+"links": 9
+},
+{
+"name": "low whistle",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lucille",
+"aliases": [],
+"links": 9
+},
+{
+"name": "luthéal",
+"aliases": [
+"lutheal"
+],
+"links": 9
+},
+{
+"name": "magnetic cartridge",
+"aliases": [
+"phono cartridge",
+"phonograph cartridge",
+"pickup"
+],
+"links": 9
+},
+{
+"name": "mijwiz",
+"aliases": [
+"matbudj",
+"mizwidj"
+],
+"links": 9
+},
+{
+"name": "mizmar",
+"aliases": [
+"mazāmīr",
+"mizmār",
+"sa’īdī mizmār"
+],
+"links": 9
+},
+{
+"name": "Nafir",
+"aliases": [
+"Nafīr",
+"nefir"
+],
+"links": 9
+},
+{
+"name": "nail violin",
+"aliases": [],
+"links": 9
+},
+{
+"name": "octave effect",
+"aliases": [
+"octave device",
+"octave divider",
+"octave multiplier",
+"octave pedal",
+"octaver"
+],
+"links": 9
+},
+{
+"name": "octoban",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Optigan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "orpharion",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Panharmonicon",
+"aliases": [],
+"links": 9
+},
+{
+"name": "rasgueado",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Roland MT-32",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Roland SH-101",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sambuca",
+"aliases": [],
+"links": 9
+},
+{
+"name": "sarronca",
+"aliases": [
+"furruco",
+"ronca",
+"runcho",
+"zambomba"
+],
+"links": 9
+},
+{
+"name": "Servais Stradivarius",
+"aliases": [],
+"links": 9
+},
+{
+"name": "silent piano",
+"aliases": [],
+"links": 9
+},
+{
+"name": "sopilka",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sosso Bala",
+"aliases": [],
+"links": 9
+},
+{
+"name": "splash cymbal",
+"aliases": [],
+"links": 9
+},
+{
+"name": "sympathetic string",
+"aliases": [
+"resonance string"
+],
+"links": 9
+},
+{
+"name": "taal",
+"aliases": [
+"madjira",
+"manjeera"
+],
+"links": 9
+},
+{
+"name": "taepyeongso",
+"aliases": [
+"hojeok",
+"hojok",
+"hojŏk",
+"nallari",
+"saenap",
+"swaenap",
+"tʻaepʻyŏngso"
+],
+"links": 9
+},
+{
+"name": "tanbūra",
+"aliases": [],
+"links": 9
+},
+{
+"name": "tenor guitar",
+"aliases": [
+"four-string guitar"
+],
+"links": 9
+},
+{
+"name": "thunder sheet",
+"aliases": [
+"thunder machine"
+],
+"links": 9
+},
+{
+"name": "timbau",
+"aliases": [
+"Timbal"
+],
+"links": 9
+},
+{
+"name": "torban",
+"aliases": [],
+"links": 9
+},
+{
+"name": "tovshuur",
+"aliases": [
+"tobshuur",
+"topshur"
+],
+"links": 9
+},
+{
+"name": "traditional Japanese musical instrument",
+"aliases": [
+"Japanese musical instrument"
+],
+"links": 9
+},
+{
+"name": "tsampouna",
+"aliases": [
+"Tsambouna"
+],
+"links": 9
+},
+{
+"name": "unintentional discharge",
+"aliases": [
+"accidental discharge",
+"accidental gunshot",
+"accidental shooting",
+"discharged unintentionally",
+"negligent discharge",
+"shot accidentally",
+"unintended discharge",
+"unintentional firing",
+"unintentional shooting",
+"unintentionally discharged"
+],
+"links": 9
+},
+{
+"name": "viol family",
+"aliases": [
+"gamba",
+"gamba family",
+"viola da gamba",
+"viols"
+],
+"links": 9
+},
+{
+"name": "violino piccolo",
+"aliases": [
+"diskangeige",
+"piccolo violin",
+"quartgeige",
+"terzgeige",
+"treble violin",
+"violino alla francese"
+],
+"links": 9
+},
+{
+"name": "wah-wah pedal",
+"aliases": [
+"wah pedal"
+],
+"links": 9
+},
+{
+"name": "washtub bass",
+"aliases": [
+"gutbucket"
+],
+"links": 9
+},
+{
+"name": "whirligig",
+"aliases": [
+"pin wheel"
+],
+"links": 9
+},
+{
+"name": "yamatogoto",
+"aliases": [
+"Azuma-goto",
+"azumagoto",
+"Jamato-Koto",
+"Wa-gong",
+"wagon",
+"Yamato-goto"
+],
+"links": 9
+},
+{
+"name": "ütőgardon",
+"aliases": [
+"gardon",
+"gardony",
+"hit-gardon",
+"tekenyőgardon",
+"ütősgardony"
+],
+"links": 9
+},
+{
+"name": "đàn nhị",
+"aliases": [
+"dan nhi"
+],
+"links": 9
+},
+{
+"name": "Apkhyarta",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Aztec death whistle",
+"aliases": [
+"ehecachichtli"
+],
+"links": 8
+},
+{
+"name": "BandLab",
+"aliases": [],
+"links": 8
+},
+{
+"name": "banjo uke",
+"aliases": [
+"banjo ukulele",
+"banjolele",
+"banjouke",
+"banjulele",
+"ukulele banjo"
+],
+"links": 8
+},
+{
+"name": "Bell of Sangwonsa",
+"aliases": [],
+"links": 8
+},
+{
+"name": "bianqing",
+"aliases": [
+"biên khánh",
+"biānqìng",
+"p'yŏn'gyŏng",
+"pyeongyeong"
+],
+"links": 8
+},
+{
+"name": "Big Muff",
+"aliases": [
+"Electro-Harmonix Big Muff"
+],
+"links": 8
+},
+{
+"name": "birch trumpet",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Bitwig Studio",
+"aliases": [
+"Bitwig"
+],
+"links": 8
+},
+{
+"name": "bowed clavier",
+"aliases": [
+"bogenklavier",
+"Geigenwerk",
+"wheel harp"
+],
+"links": 8
+},
+{
+"name": "Bridge of Nations Bell",
+"aliases": [],
+"links": 8
+},
+{
+"name": "buisine",
+"aliases": [
+"anafil",
+"añafil",
+"bazuin",
+"busine",
+"buysine",
+"buzine"
+],
+"links": 8
+},
+{
+"name": "bukkehorn",
+"aliases": [
+"billy goat horn",
+"buckhorn",
+"goat’s horn"
+],
+"links": 8
+},
+{
+"name": "cello da spalla",
+"aliases": [
+"viola da spalla",
+"violoncello da spalla"
+],
+"links": 8
+},
+{
+"name": "chakhe",
+"aliases": [
+"jakhe",
+"krapeu",
+"takhe",
+"čhakhē"
+],
+"links": 8
+},
+{
+"name": "chanza",
+"aliases": [
+"chanz",
+"chanzy",
+"shaanza"
+],
+"links": 8
+},
+{
+"name": "chengila",
+"aliases": [
+"cennala"
+],
+"links": 8
+},
+{
+"name": "China cymbal",
+"aliases": [],
+"links": 8
+},
+{
+"name": "chocalho",
+"aliases": [
+"chocolo"
+],
+"links": 8
+},
+{
+"name": "chopi timbila",
+"aliases": [
+"mbila",
+"thumb pianos",
+"timbila"
+],
+"links": 8
+},
+{
+"name": "chromatic button accordion",
+"aliases": [
+"chromatic accordion"
+],
+"links": 8
+},
+{
+"name": "colascione",
+"aliases": [],
+"links": 8
+},
+{
+"name": "darbuka",
+"aliases": [
+"chalice drum",
+"darbek",
+"goblet-shaped drum"
+],
+"links": 8
+},
+{
+"name": "deep contralto",
+"aliases": [],
+"links": 8
+},
+{
+"name": "doshpuluur",
+"aliases": [
+"Doshpulduur"
+],
+"links": 8
+},
+{
+"name": "dozaleh",
+"aliases": [
+"Dozale",
+"ghoshmeh",
+"koshnay",
+"qoʻshnay"
+],
+"links": 8
+},
+{
+"name": "dynamic microphone",
+"aliases": [],
+"links": 8
+},
+{
+"name": "egg shaker",
+"aliases": [
+"ganzá"
+],
+"links": 8
+},
+{
+"name": "eight-string guitar",
+"aliases": [
+"8-string",
+"8-string guitar"
+],
+"links": 8
+},
+{
+"name": "Electone",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Electric cello",
+"aliases": [],
+"links": 8
+},
+{
+"name": "electric organ",
+"aliases": [
+"electronic organ"
+],
+"links": 8
+},
+{
+"name": "erxian",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Fender Bullet",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Fender Jaguar Bass",
+"aliases": [],
+"links": 8
+},
+{
+"name": "flûte d'amour",
+"aliases": [
+"flute d'amour",
+"tenor flute"
+],
+"links": 8
+},
+{
+"name": "fou",
+"aliases": [],
+"links": 8
+},
+{
+"name": "free reed aerophone",
+"aliases": [
+"free reeds"
+],
+"links": 8
+},
+{
+"name": "Freedom Bell",
+"aliases": [],
+"links": 8
+},
+{
+"name": "fretless guitar",
+"aliases": [],
+"links": 8
+},
+{
+"name": "fretless instrument",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gaita asturiana",
+"aliases": [],
+"links": 8
+},
+{
+"name": "gehu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "gemshorn",
+"aliases": [
+"corno di camoscio",
+"flûte en corne",
+"gemscorno",
+"ĉamkorno"
+],
+"links": 8
+},
+{
+"name": "Gibson L-5",
+"aliases": [],
+"links": 8
+},
+{
+"name": "gralla",
+"aliases": [],
+"links": 8
+},
+{
+"name": "güira",
+"aliases": [
+"guira",
+"sexoooooo"
+],
+"links": 8
+},
+{
+"name": "Heldentenor",
+"aliases": [
+"dramatic tenor",
+"heavy dramatic tenor",
+"heroic tenor",
+"low tenor"
+],
+"links": 8
+},
+{
+"name": "hornpipe",
+"aliases": [],
+"links": 8
+},
+{
+"name": "hyperbass flute",
+"aliases": [
+"hyper bass flute"
+],
+"links": 8
+},
+{
+"name": "Höfner 500/1",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Indian harmonium",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Jackson Soloist",
+"aliases": [],
+"links": 8
+},
+{
+"name": "jetigen",
+"aliases": [
+"dzhetigan",
+"zhetygen"
+],
+"links": 8
+},
+{
+"name": "Karatalas",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kebero",
+"aliases": [],
+"links": 8
+},
+{
+"name": "keyed trumpet",
+"aliases": [],
+"links": 8
+},
+{
+"name": "klopotec",
+"aliases": [
+"klapotetz"
+],
+"links": 8
+},
+{
+"name": "Korean Bell of Friendship",
+"aliases": [
+"Korean Bell and Belfry of Friendship",
+"Korean Friendship Bell"
+],
+"links": 8
+},
+{
+"name": "Kpanlogo",
+"aliases": [
+"kpanlogo dance"
+],
+"links": 8
+},
+{
+"name": "kèn bầu",
+"aliases": [
+"ken bau"
+],
+"links": 8
+},
+{
+"name": "kōauau",
+"aliases": [
+"koauau",
+"kooauau"
+],
+"links": 8
+},
+{
+"name": "laser turntable",
+"aliases": [
+"optical turntable"
+],
+"links": 8
+},
+{
+"name": "ligature",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Loudspeakers in mosques",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Luo Tianyi",
+"aliases": [
+"Luo Thien Yi",
+"Luo Thien-Yi",
+"Luo Thienyi",
+"Luo Tian Yi"
+],
+"links": 8
+},
+{
+"name": "lute guitar",
+"aliases": [
+"decacorde",
+"German lute"
+],
+"links": 8
+},
+{
+"name": "Madhalam",
+"aliases": [],
+"links": 8
+},
+{
+"name": "mandolin-banjo",
+"aliases": [
+"banjoline"
+],
+"links": 8
+},
+{
+"name": "Mohan veena",
+"aliases": [],
+"links": 8
+},
+{
+"name": "music workstation",
+"aliases": [
+"audio workstation",
+"workstation"
+],
+"links": 8
+},
+{
+"name": "nohkan",
+"aliases": [
+"nokan",
+"nôkan",
+"nō-flute",
+"nō-kan",
+"nōkan"
+],
+"links": 8
+},
+{
+"name": "Nével",
+"aliases": [
+"nebel",
+"nevel"
+],
+"links": 8
+},
+{
+"name": "paixiao",
+"aliases": [],
+"links": 8
+},
+{
+"name": "pathéphone",
+"aliases": [
+"pathephone"
+],
+"links": 8
+},
+{
+"name": "percussion brush",
+"aliases": [
+"drum brush"
+],
+"links": 8
+},
+{
+"name": "phin",
+"aliases": [],
+"links": 8
+},
+{
+"name": "piffero",
+"aliases": [
+"fife",
+"piffaro"
+],
+"links": 8
+},
+{
+"name": "Polymoog",
+"aliases": [],
+"links": 8
+},
+{
+"name": "PPG Wave",
+"aliases": [],
+"links": 8
+},
+{
+"name": "ProTracker",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rathaus-Glockenspiel",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rauschpfeife",
+"aliases": [
+"wind-cap instrument"
+],
+"links": 8
+},
+{
+"name": "requinto guitar",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Rickenbacker 325",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Roland JP-8000",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Royal Drummers of Burundi",
+"aliases": [
+"Drummers from Burundi",
+"The Drummers Of Burundi",
+"The Royal Burundi Drummers"
+],
+"links": 8
+},
+{
+"name": "ryūteki",
+"aliases": [
+"ryuteki"
+],
+"links": 8
+},
+{
+"name": "salamuri",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Samsung Galaxy Buds Live",
+"aliases": [
+"Buds Live",
+"Galaxy Buds Live"
+],
+"links": 8
+},
+{
+"name": "Sapeh",
+"aliases": [
+"Sampe",
+"Sampeh",
+"Sampek",
+"Sampeq",
+"Sape"
+],
+"links": 8
+},
+{
+"name": "Scream Tracker",
+"aliases": [],
+"links": 8
+},
+{
+"name": "shruti box",
+"aliases": [
+"sruti box",
+"surpeti"
+],
+"links": 8
+},
+{
+"name": "smart doorbell",
+"aliases": [
+"smart video doorbell"
+],
+"links": 8
+},
+{
+"name": "sound module",
+"aliases": [],
+"links": 8
+},
+{
+"name": "sound truck",
+"aliases": [],
+"links": 8
+},
+{
+"name": "spinto",
+"aliases": [],
+"links": 8
+},
+{
+"name": "squeezebox",
+"aliases": [
+"Harmonia",
+"squeeze box",
+"squeeze-box"
+],
+"links": 8
+},
+{
+"name": "suspended cymbal",
+"aliases": [],
+"links": 8
+},
+{
+"name": "SynthAxe",
+"aliases": [],
+"links": 8
+},
+{
+"name": "tabla",
+"aliases": [
+"tbilat"
+],
+"links": 8
+},
+{
+"name": "tamborim",
+"aliases": [],
+"links": 8
+},
+{
+"name": "tan-tan",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Timila",
+"aliases": [],
+"links": 8
+},
+{
+"name": "tingsha",
+"aliases": [
+"Tibetan tingsha"
+],
+"links": 8
+},
+{
+"name": "torupill",
+"aliases": [
+"kitsepill",
+"kotepill",
+"lootspill"
+],
+"links": 8
+},
+{
+"name": "Trinity College Harp",
+"aliases": [
+"Brian Boru's Harp"
+],
+"links": 8
+},
+{
+"name": "Ultimate Soundtracker",
+"aliases": [],
+"links": 8
+},
+{
+"name": "UPIC",
+"aliases": [
+"Unité Polyagogique Informatique CEMAMu"
+],
+"links": 8
+},
+{
+"name": "viola profonda",
+"aliases": [],
+"links": 8
+},
+{
+"name": "violoncello piccolo",
+"aliases": [
+"piccolo cello"
+],
+"links": 8
+},
+{
+"name": "Yaybahar",
+"aliases": [],
+"links": 8
+},
+{
+"name": "zabumba",
+"aliases": [],
+"links": 8
+},
+{
+"name": "zhonghu",
+"aliases": [],
+"links": 8
 }
 ]

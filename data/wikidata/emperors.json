@@ -13,7 +13,7 @@
 "the Corsican Napolean",
 "The Little Corporal"
 ],
-"links": 288
+"links": 289
 },
 {
 "name": "Augustus",
@@ -72,7 +72,7 @@
 "Zhao Zheng",
 "Çin Shi Huangdi"
 ],
-"links": 198
+"links": 199
 },
 {
 "name": "Naruhito",
@@ -121,7 +121,7 @@
 "Samrat Ashok",
 "The Great Ashoka"
 ],
-"links": 178
+"links": 179
 },
 {
 "name": "Marcus Aurelius",
@@ -167,7 +167,7 @@
 "Saint Constantine",
 "Trachala"
 ],
-"links": 159
+"links": 160
 },
 {
 "name": "Hirohito",
@@ -213,7 +213,7 @@
 "Nero Claudius Drusus Germanicus",
 "Nero Claudius Drusus Germanicus Caesar"
 ],
-"links": 137
+"links": 138
 },
 {
 "name": "Nicholas II of Russia",
@@ -1482,11 +1482,45 @@
 "links": 67
 },
 {
+"name": "Charles VII, Holy Roman Emperor",
+"aliases": [
+"Carolus Albertus",
+"Carolus VII",
+"Charles Albert",
+"Charles VII",
+"Elector of Bavaria Charles Albert",
+"Elector of Bavaria Karl Albrecht",
+"empereur germanique Charles VII",
+"Emperor of Germany Karl VI",
+"Holy Roman Emperor Charles VII",
+"Holy Roman Emperor Charles VII Albert",
+"Holy Roman Emperor Karl VII",
+"imperatore del Sacro romano impero Karl VII",
+"Kaiser Karl VII. Heiliges Römisches Reich",
+"Karl Albrecht",
+"Karl VII",
+"Karl VII."
+],
+"links": 66
+},
+{
 "name": "Frederick III, Holy Roman Emperor",
 "aliases": [
 "Frederick III",
 "Frederick the Peaceful",
 "King Frederick IV of Germany"
+],
+"links": 66
+},
+{
+"name": "Henry II, Holy Roman Emperor",
+"aliases": [
+"Heinrich II, Holy Roman Emperor",
+"Henricus II",
+"Henry II",
+"Holy Roman Emperor Heinrich II",
+"Holy Roman Emperor Henry II",
+"Saint Henry"
 ],
 "links": 66
 },
@@ -1529,28 +1563,6 @@
 "links": 65
 },
 {
-"name": "Charles VII, Holy Roman Emperor",
-"aliases": [
-"Carolus Albertus",
-"Carolus VII",
-"Charles Albert",
-"Charles VII",
-"Elector of Bavaria Charles Albert",
-"Elector of Bavaria Karl Albrecht",
-"empereur germanique Charles VII",
-"Emperor of Germany Karl VI",
-"Holy Roman Emperor Charles VII",
-"Holy Roman Emperor Charles VII Albert",
-"Holy Roman Emperor Karl VII",
-"imperatore del Sacro romano impero Karl VII",
-"Kaiser Karl VII. Heiliges Römisches Reich",
-"Karl Albrecht",
-"Karl VII",
-"Karl VII."
-],
-"links": 65
-},
-{
 "name": "Ferdinand III, Holy Roman Emperor",
 "aliases": [
 "Ferdinand III"
@@ -1572,18 +1584,6 @@
 "Maximianus",
 "Maximinus",
 "Valerius Maximus Galerius"
-],
-"links": 65
-},
-{
-"name": "Henry II, Holy Roman Emperor",
-"aliases": [
-"Heinrich II, Holy Roman Emperor",
-"Henricus II",
-"Henry II",
-"Holy Roman Emperor Heinrich II",
-"Holy Roman Emperor Henry II",
-"Saint Henry"
 ],
 "links": 65
 },
@@ -1701,6 +1701,15 @@
 "links": 65
 },
 {
+"name": "Theodora",
+"aliases": [
+"Empress Theodora",
+"Empress Theodora of Byzantium",
+"Teodora, Imperatrice di Bisanzio"
+],
+"links": 65
+},
+{
 "name": "Zeno",
 "aliases": [
 "Caesar Zeno Augustus",
@@ -1772,15 +1781,6 @@
 "Marcus Claudius Tacitus",
 "Marcus Claudius Tacitus Gothicus Maximus",
 "Marcus Claudius Tacitus Pius Felix Augustus"
-],
-"links": 64
-},
-{
-"name": "Theodora",
-"aliases": [
-"Empress Theodora",
-"Empress Theodora of Byzantium",
-"Teodora, Imperatrice di Bisanzio"
 ],
 "links": 64
 },
@@ -1932,6 +1932,16 @@
 "links": 61
 },
 {
+"name": "Jean-Jacques Dessalines",
+"aliases": [
+"Dessalines，Jean-Jacques",
+"Jacques I",
+"Jacques I of Haiti",
+"Jean Jacques Dessalines"
+],
+"links": 61
+},
+{
 "name": "Leo VI the Wise",
 "aliases": [
 "Emperor Leo VI",
@@ -2007,16 +2017,6 @@
 "Emperor Guangxu",
 "Emperor Kuang-hsü",
 "Kuang-hsü Emperor"
-],
-"links": 60
-},
-{
-"name": "Jean-Jacques Dessalines",
-"aliases": [
-"Dessalines，Jean-Jacques",
-"Jacques I",
-"Jacques I of Haiti",
-"Jean Jacques Dessalines"
 ],
 "links": 60
 },
@@ -3485,6 +3485,11 @@
 "links": 42
 },
 {
+"name": "Ardashir III",
+"aliases": [],
+"links": 41
+},
+{
 "name": "Emperor Norton",
 "aliases": [
 "Emperor Norton I",
@@ -3523,11 +3528,6 @@
 "name": "Vetranio",
 "aliases": [],
 "links": 41
-},
-{
-"name": "Ardashir III",
-"aliases": [],
-"links": 40
 },
 {
 "name": "Bahram III",
@@ -3942,6 +3942,16 @@
 "links": 37
 },
 {
+"name": "Genshō",
+"aliases": [
+"Empress Genshō",
+"Gensho",
+"Genshou",
+"Genshō-tennō"
+],
+"links": 37
+},
+{
 "name": "Hormizd III",
 "aliases": [],
 "links": 37
@@ -4002,6 +4012,16 @@
 "aliases": [
 "Emperor Sakuramachi",
 "Sakuramachi-tennō"
+],
+"links": 37
+},
+{
+"name": "Shōmu",
+"aliases": [
+"Emperor Shōmu",
+"Shomu",
+"Shoumu",
+"Shōmu-tennō"
 ],
 "links": 37
 },
@@ -4129,16 +4149,6 @@
 "links": 36
 },
 {
-"name": "Genshō",
-"aliases": [
-"Empress Genshō",
-"Gensho",
-"Genshou",
-"Genshō-tennō"
-],
-"links": 36
-},
-{
 "name": "Go-Nara",
 "aliases": [
 "Emperor Go-Nara",
@@ -4212,16 +4222,6 @@
 {
 "name": "Seinei",
 "aliases": [],
-"links": 36
-},
-{
-"name": "Shōmu",
-"aliases": [
-"Emperor Shōmu",
-"Shomu",
-"Shoumu",
-"Shōmu-tennō"
-],
 "links": 36
 },
 {
@@ -5285,6 +5285,14 @@
 "links": 30
 },
 {
+"name": "John IV of Trebizond",
+"aliases": [
+"Ioannes IV Comnenos, Emperor of Trebizond",
+"John IV Megas Komnenos"
+],
+"links": 30
+},
+{
 "name": "Junnin",
 "aliases": [
 "Awaji Haitai",
@@ -5553,14 +5561,6 @@
 "links": 29
 },
 {
-"name": "John IV of Trebizond",
-"aliases": [
-"Ioannes IV Comnenos, Emperor of Trebizond",
-"John IV Megas Komnenos"
-],
-"links": 29
-},
-{
 "name": "Konstantin Tih",
 "aliases": [
 "Constantino Asen Tech"
@@ -5604,6 +5604,11 @@
 "Theodora Komnene",
 "Theodora Komnenos"
 ],
+"links": 29
+},
+{
+"name": "Theophano",
+"aliases": [],
 "links": 29
 },
 {
@@ -5881,8 +5886,8 @@
 "aliases": [
 "Chongguang",
 "Li Congjia",
-"Li houzhu",
 "Li Houzhu",
+"Li houzhu",
 "Zhongfeng yinzhe",
 "Zhongfengbailian jushi",
 "Zhongshanyinshi",
@@ -6610,6 +6615,28 @@
 "links": 22
 },
 {
+"name": "Emperor Min of Jin",
+"aliases": [
+"Jin Mindi",
+"Min Di",
+"Sima Ye",
+"Yanqi"
+],
+"links": 22
+},
+{
+"name": "Emperor Ming of Jin",
+"aliases": [
+"Daoji",
+"Jin Mingdi",
+"Ming Di",
+"Sima Shao",
+"Su Zong",
+"Suzu"
+],
+"links": 22
+},
+{
 "name": "Emperor Muzong of Liao",
 "aliases": [
 "Liao Muzong",
@@ -6743,28 +6770,6 @@
 "links": 21
 },
 {
-"name": "Emperor Min of Jin",
-"aliases": [
-"Jin Mindi",
-"Min Di",
-"Sima Ye",
-"Yanqi"
-],
-"links": 21
-},
-{
-"name": "Emperor Ming of Jin",
-"aliases": [
-"Daoji",
-"Jin Mingdi",
-"Ming Di",
-"Sima Shao",
-"Su Zong",
-"Suzu"
-],
-"links": 21
-},
-{
 "name": "Emperor Shengzong of Liao",
 "aliases": [
 "Sheng Zong",
@@ -6871,6 +6876,14 @@
 {
 "name": "Smilets of Bulgaria",
 "aliases": [],
+"links": 21
+},
+{
+"name": "Theophano Martiniake",
+"aliases": [
+"Saint Theophano",
+"Theophano"
+],
 "links": 21
 },
 {
@@ -7114,6 +7127,14 @@
 {
 "name": "Constantine",
 "aliases": [],
+"links": 18
+},
+{
+"name": "Cornelia Supera",
+"aliases": [
+"Gaia Cornelia Supera",
+"Gaia Cornelia Supera Augusta"
+],
 "links": 18
 },
 {
@@ -8533,5 +8554,955 @@
 "name": "Yuwen Huaji",
 "aliases": [],
 "links": 12
+},
+{
+"name": "Aelianus",
+"aliases": [],
+"links": 11
+},
+{
+"name": "An Qingxu",
+"aliases": [
+"An Renzhi"
+],
+"links": 11
+},
+{
+"name": "Daughter of Emperor Xiaoming of Northern Wei",
+"aliases": [
+"Empress Yuan"
+],
+"links": 11
+},
+{
+"name": "Duan Ye",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Emperor Fei of Northern Qi",
+"aliases": [
+"Gao Yin"
+],
+"links": 11
+},
+{
+"name": "Emperor Jing of Liang",
+"aliases": [
+"Xiao Fangzhi"
+],
+"links": 11
+},
+{
+"name": "Emperor Xuan of Western Liang",
+"aliases": [
+"Lisun",
+"Xiao Cha",
+"Xiao Qie",
+"Xuan Di",
+"Zhong Zong"
+],
+"links": 11
+},
+{
+"name": "Feng Ba",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Feng Hong",
+"aliases": [
+"Wentong"
+],
+"links": 11
+},
+{
+"name": "Francesco Soderini",
+"aliases": [
+"Francesco di Tommaso Soderini"
+],
+"links": 11
+},
+{
+"name": "Huan Xuan",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Juqu Mujian",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kapilendradeva",
+"aliases": [
+"Suryavanshi",
+"Suryavanshi Khandayat"
+],
+"links": 11
+},
+{
+"name": "Krishna I",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Le Long Dinh",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Li Qi",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Liu Xi",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Lê Chiêu Thống",
+"aliases": [
+"Li Weiqi",
+"Lê Duy Khiêm"
+],
+"links": 11
+},
+{
+"name": "Lê Hiến Tông",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Lê Trung Tông",
+"aliases": [
+"Le Trung Tong"
+],
+"links": 11
+},
+{
+"name": "Murong Bao",
+"aliases": [
+"Daoyou",
+"Huimin Di"
+],
+"links": 11
+},
+{
+"name": "Murong Chao",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Murong Hong",
+"aliases": [
+"Mo Yung Wang"
+],
+"links": 11
+},
+{
+"name": "Murong Sheng",
+"aliases": [
+"Daoyun",
+"Zhaowu Di"
+],
+"links": 11
+},
+{
+"name": "Tiberius",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tufa Rutan",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Tufa Wugu",
+"aliases": [
+"Nan Liang liezu",
+"Nan Liang wuwang",
+"Wuwei wang",
+"Wuwei wuwang",
+"Xipoing wang"
+],
+"links": 11
+},
+{
+"name": "Wang Jipeng",
+"aliases": [
+"Kangzong",
+"Wang Chang"
+],
+"links": 11
+},
+{
+"name": "Wang Yanxi",
+"aliases": [
+"Wang Xi"
+],
+"links": 11
+},
+{
+"name": "Xiao Yuanming",
+"aliases": [
+"Xiao Ming"
+],
+"links": 11
+},
+{
+"name": "Yang Longyan",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Yang Wo",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Yelü Zhilugu",
+"aliases": [
+"Yēlǜ Zhílǔgǔ"
+],
+"links": 11
+},
+{
+"name": "Yuan Ye",
+"aliases": [
+"Prince of Changguang"
+],
+"links": 11
+},
+{
+"name": "Basil Onomagoulos",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Fu Chong",
+"aliases": [
+"Po Shung",
+"Po Sung"
+],
+"links": 10
+},
+{
+"name": "Li Ban",
+"aliases": [
+"Ban Li"
+],
+"links": 10
+},
+{
+"name": "Li Shi",
+"aliases": [
+"Marquess of Guiyi",
+"Ziren"
+],
+"links": 10
+},
+{
+"name": "Li Shou",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Liu Chang",
+"aliases": [
+"Houzhu",
+"Last Emperor",
+"Last Emperor of the Southern Han",
+"Liu Ch'ang",
+"Liu Chi-hsing",
+"Liu Jixing",
+"Nan Han Houzhu",
+"Nanhan Houzhu"
+],
+"links": 10
+},
+{
+"name": "Liu Cheng",
+"aliases": [
+"Chung-tsung",
+"Emperor Chung-tsung",
+"Emperor Zhongzong",
+"Liu Ch'eng",
+"Liu Ch'êng",
+"Liu Hongxi",
+"Liu Hung-hsi",
+"Nan Han Zhongzong",
+"Nanhan Zhongzong",
+"Zhong Ancestor",
+"Zhongzong"
+],
+"links": 10
+},
+{
+"name": "Lê Hy Tông",
+"aliases": [
+"Le Hy Tong"
+],
+"links": 10
+},
+{
+"name": "Lê Nghi Dân",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Michael Asen IV of Bulgaria",
+"aliases": [
+"Michail Asen"
+],
+"links": 10
+},
+{
+"name": "Ming Yuzhen",
+"aliases": [
+"Mingyanzi",
+"Minxiazi",
+"Minyanzi",
+"Minyuzhen",
+"Minzhen",
+"Taizu",
+"Wenwuzhishenghuangdi"
+],
+"links": 10
+},
+{
+"name": "Murong Xi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Nguyễn Quang Toản",
+"aliases": [
+"Cảnh Thịnh"
+],
+"links": 10
+},
+{
+"name": "Nikephoros",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Qifu Gangui",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Qifu Mumo",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Queen Bamba of Lahore",
+"aliases": [
+"Bamba Müller"
+],
+"links": 10
+},
+{
+"name": "Rajendra Chola II",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Seku Amadu",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Shi Chaoyi",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Tufa Lilugu",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Victorinus Junior",
+"aliases": [
+"Victorinus Minor"
+],
+"links": 10
+},
+{
+"name": "Virarajendra Chola",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Wang Yan",
+"aliases": [
+"Houzhu",
+"Huayuan",
+"Wang Zongyan"
+],
+"links": 10
+},
+{
+"name": "Wang Yanjun",
+"aliases": [
+"Wang Lin"
+],
+"links": 10
+},
+{
+"name": "Yang Tong",
+"aliases": [
+"Emperor Gong",
+"Lord Huangtai",
+"Prince of Yue",
+"Renjin",
+"Yang Dong"
+],
+"links": 10
+},
+{
+"name": "Yao Hong",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Zhu Yougui",
+"aliases": [
+"Prince of Ying"
+],
+"links": 10
+},
+{
+"name": "Dhruva Dharavarsha",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Duan Sui",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Emperor Jing of Western Liang",
+"aliases": [
+"Wenwen",
+"Xiao Cong"
+],
+"links": 9
+},
+{
+"name": "Emperor Ming of Western Liang",
+"aliases": [
+"Renyuan",
+"Xiao Kui"
+],
+"links": 9
+},
+{
+"name": "Gongsun Shu",
+"aliases": [
+"Shu Gongsun"
+],
+"links": 9
+},
+{
+"name": "Li Xin",
+"aliases": [
+"Hou Zhu"
+],
+"links": 9
+},
+{
+"name": "Liu Fen",
+"aliases": [
+"Emperor Shang",
+"Liu Hongdu",
+"Liu Hung-tu",
+"Nan Han Shangdi",
+"Nanhan Shangdi",
+"Shang Emperor"
+],
+"links": 9
+},
+{
+"name": "Liu Jiyuan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Liu Wuzhou",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lê Dụ Tông",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lê Thần Tông",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lê Túc Tông",
+"aliases": [
+"Le Tuc Tong"
+],
+"links": 9
+},
+{
+"name": "Lê Uy Mục",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lü Long",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lü Shao",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Lü Zuan",
+"aliases": [
+"Emperor Ling of Liang"
+],
+"links": 9
+},
+{
+"name": "Murong Chong",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Murong Yao",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Murong Yi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Mạc Thái Tông",
+"aliases": [
+"Mạc Đăng Doanh"
+],
+"links": 9
+},
+{
+"name": "Mạc Tuyên Tông",
+"aliases": [
+"Mạc Phúc Nguyên"
+],
+"links": 9
+},
+{
+"name": "Qifu Chipan",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Salomon II",
+"aliases": [
+"Solomon II",
+"Solomon II of Ethiopia"
+],
+"links": 9
+},
+{
+"name": "Wang Yanzheng",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Xiao Zhuang",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Xu Shouhui",
+"aliases": [
+"Tianwan",
+"Zhenyi"
+],
+"links": 9
+},
+{
+"name": "Xue Ju",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Yang Hao",
+"aliases": [
+"Prince of Qin"
+],
+"links": 9
+},
+{
+"name": "Zhang Bangchang",
+"aliases": [
+"Zineng"
+],
+"links": 9
+},
+{
+"name": "Duong Nhat Le",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Gao Shengtai",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Han Lin’er",
+"aliases": [
+"Han Liner",
+"Liliner",
+"Xiaomingwang"
+],
+"links": 8
+},
+{
+"name": "Ivan Asen IV of Bulgaria",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ivan Asen V of Bulgaria",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lan Han",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Le Chieu Tong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Li Gui",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Li Xun",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Liang Shidu",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Liu Jun",
+"aliases": [
+"Liu Chengjun"
+],
+"links": 8
+},
+{
+"name": "Lê Chân Tông",
+"aliases": [
+"Le Chan Tong"
+],
+"links": 8
+},
+{
+"name": "Lê Cung Hoàng",
+"aliases": [
+"Le Cung Hoang"
+],
+"links": 8
+},
+{
+"name": "Lê Duy Phường",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lê Hiển Tông",
+"aliases": [
+"Canh Hung"
+],
+"links": 8
+},
+{
+"name": "Lê Huyền Tông",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Lê Kính Tông",
+"aliases": [
+"Le Kinh Tong"
+],
+"links": 8
+},
+{
+"name": "Lê Tương Dực",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mai Thuc Loan",
+"aliases": [
+"Mai Thúc Loan"
+],
+"links": 8
+},
+{
+"name": "Murong Yong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Murong Zhong",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Mạc Hiến Tông",
+"aliases": [
+"Mạc Phúc Hải"
+],
+"links": 8
+},
+{
+"name": "Mạc Mậu Hợp",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Na'od",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Ngô Xương Ngập",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Wu Shifan",
+"aliases": [
+"Wú Shìfán"
+],
+"links": 8
+},
+{
+"name": "Xiao Ji",
+"aliases": [
+"Emperor Wuling of Liang",
+"Liang Wuling wang",
+"Prince of Wuling"
+],
+"links": 8
+},
+{
+"name": "Govinda II",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Iitoyo Iide empress",
+"aliases": [
+"Empress Tsunuzashi",
+"Iitoyoao no himemiko"
+],
+"links": 7
+},
+{
+"name": "Li Yu",
+"aliases": [
+"Li You"
+],
+"links": 7
+},
+{
+"name": "Li Zitong",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lin Shihong",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Liu Ji'en",
+"aliases": [
+"Xue Ji'en"
+],
+"links": 7
+},
+{
+"name": "Lê Anh Tông",
+"aliases": [
+"Le Anh Tong"
+],
+"links": 7
+},
+{
+"name": "Lê Gia Tông",
+"aliases": [
+"Le Gia Tong"
+],
+"links": 7
+},
+{
+"name": "Lê Thuần Tông",
+"aliases": [
+"Li Weihu"
+],
+"links": 7
+},
+{
+"name": "Lê Thế Tông",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Lê Trung Tông",
+"aliases": [
+"Le Trung Tong"
+],
+"links": 7
+},
+{
+"name": "Lê Ý Tông",
+"aliases": [
+"Li Weiyi"
+],
+"links": 7
+},
+{
+"name": "Martinus",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mayurasharma",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ming Sheng",
+"aliases": [
+"guiyihou",
+"Myeong Seung"
+],
+"links": 7
+},
+{
+"name": "Mạc Toàn",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Shaka Kushan",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Xiao Xian",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Zhao Fu",
+"aliases": [
+"Yuanyi"
+],
+"links": 7
+},
+{
+"name": "Zhu Can",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Zhu Ci",
+"aliases": [
+"Zhu Zi"
+],
+"links": 7
+},
+{
+"name": "Zhu Wenjin",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Chen Li",
+"aliases": [
+"Chen Wang",
+"King Chen"
+],
+"links": 6
+},
+{
+"name": "Fu Gongshi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Fu Liang",
+"aliases": [
+"Jiyou"
+],
+"links": 6
+},
+{
+"name": "Gao Yanzong",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hau Ly Nam De",
+"aliases": [
+"Hậu Lý Nam Đế"
+],
+"links": 6
+},
+{
+"name": "Mạc Kính Cung",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Trieu Viet Vuong",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Xiao Baoyin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Yelü Chun",
+"aliases": [
+"Yelu Chun",
+"Yelv Chun"
+],
+"links": 6
 }
 ]

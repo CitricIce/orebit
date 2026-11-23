@@ -1,0 +1,95 @@
+[
+{
+"name": "beetle",
+"aliases": [
+"beetles",
+"Coleoptera",
+"coleopteran",
+"coleopterans"
+],
+"links": 133
+},
+{
+"name": "flea",
+"aliases": [
+"fleas",
+"Siphonaptera"
+],
+"links": 126
+},
+{
+"name": "mantis",
+"aliases": [
+"mantises",
+"Mantodea",
+"praying mantises"
+],
+"links": 109
+},
+{
+"name": "earwig",
+"aliases": [
+"Dermaptera",
+"earwigs",
+"the earwigs"
+],
+"links": 89
+},
+{
+"name": "mayfly",
+"aliases": [
+"Ephemeroptera",
+"mayflies",
+"the mayflies"
+],
+"links": 84
+},
+{
+"name": "silverfish",
+"aliases": [
+"Lepisma saccharina",
+"Lepisma saccharinum"
+],
+"links": 71
+},
+{
+"name": "thrips",
+"aliases": [
+"thrip",
+"Thysanoptera"
+],
+"links": 67
+},
+{
+"name": "Psocoptera",
+"aliases": [],
+"links": 55
+},
+{
+"name": "snakefly",
+"aliases": [
+"Raphidioptera",
+"snakeflies",
+"the snakefly family"
+],
+"links": 55
+},
+{
+"name": "Thysanura",
+"aliases": [],
+"links": 38
+},
+{
+"name": "Zygentoma",
+"aliases": [],
+"links": 36
+},
+{
+"name": "firebrat",
+"aliases": [
+"Firebrats",
+"Thermobia domestica"
+],
+"links": 30
+}
+]

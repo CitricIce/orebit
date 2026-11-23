@@ -1,0 +1,2481 @@
+[
+{
+"name": "Lidl",
+"aliases": [
+"Lidl Dienstleistung GmbH & Co. KG"
+],
+"links": 58
+},
+{
+"name": "Aldi",
+"aliases": [
+"Aldi Stores"
+],
+"links": 56
+},
+{
+"name": "Tesco",
+"aliases": [
+"Tesco PLC"
+],
+"links": 56
+},
+{
+"name": "Levi Strauss & Co.",
+"aliases": [
+"incode",
+"Levi Strauss",
+"Levi Strauss & Co",
+"Levi Strauss & Company",
+"Levi's",
+"LS&CO",
+"LS&Co."
+],
+"links": 51
+},
+{
+"name": "Carrefour",
+"aliases": [],
+"links": 47
+},
+{
+"name": "Target Corporation",
+"aliases": [
+"Taj-jay",
+"Tar-zhay",
+"Target",
+"Target Store"
+],
+"links": 40
+},
+{
+"name": "Marks & Spencer",
+"aliases": [
+"M&S",
+"Marks & Sparks",
+"Marks & Spencer plc",
+"Marks and Spencer",
+"Marks And Spencer P.l.c."
+],
+"links": 39
+},
+{
+"name": "Auchan",
+"aliases": [
+"Groupe Auchan"
+],
+"links": 37
+},
+{
+"name": "Spar",
+"aliases": [],
+"links": 37
+},
+{
+"name": "GameStop",
+"aliases": [
+"Babbage's"
+],
+"links": 35
+},
+{
+"name": "Sainsbury's",
+"aliases": [
+"J Sainsbury plc",
+"Sainsburys"
+],
+"links": 35
+},
+{
+"name": "Best Buy",
+"aliases": [
+"Best Buy Co.",
+"Best Buy Co. Inc.",
+"Best Buy Co., Inc.",
+"Sound of Music"
+],
+"links": 32
+},
+{
+"name": "Pull&Bear",
+"aliases": [
+"Pull & Bear",
+"Pull and Bear",
+"PullAndBear",
+"pullandbear.com"
+],
+"links": 32
+},
+{
+"name": "Crocs, Inc.",
+"aliases": [
+"Croc shoes",
+"Crocs",
+"Crocs Inc",
+"Crocs shoes"
+],
+"links": 31
+},
+{
+"name": "Edeka",
+"aliases": [],
+"links": 30
+},
+{
+"name": "Macy's",
+"aliases": [
+"Macys",
+"Macy’s",
+"R. H. Macy and Company"
+],
+"links": 30
+},
+{
+"name": "The Body Shop",
+"aliases": [
+"Body Shop"
+],
+"links": 30
+},
+{
+"name": "Asda",
+"aliases": [
+"ASDA Group",
+"ASDA Group plc",
+"ASDA Living",
+"Asda Living",
+"ASDA Smart Price",
+"Asda Stores Limited",
+"Asda Stores Ltd.",
+"ASDA Superstore",
+"ASDA Wal-Mart Supercentre",
+"Asda Walmart",
+"George",
+"George at Asda",
+"Smart Price"
+],
+"links": 29
+},
+{
+"name": "Selfridges",
+"aliases": [
+"Selfridges & Co.",
+"Selfridges Retail Ltd."
+],
+"links": 29
+},
+{
+"name": "Kroger",
+"aliases": [
+"Kroger Co.",
+"Kroger Grocery and Baking",
+"The Kroger Co."
+],
+"links": 28
+},
+{
+"name": "Patagonia, Inc.",
+"aliases": [
+"Patagonia"
+],
+"links": 27
+},
+{
+"name": "Staples Inc.",
+"aliases": [
+"Staples"
+],
+"links": 27
+},
+{
+"name": "Quiksilver",
+"aliases": [
+"Quiksilver Inc",
+"Quiksilver, Inc."
+],
+"links": 26
+},
+{
+"name": "Biedronka",
+"aliases": [
+"biedronka.pl"
+],
+"links": 25
+},
+{
+"name": "Debenhams PLC",
+"aliases": [
+"Debenhams department store"
+],
+"links": 25
+},
+{
+"name": "Mercadona",
+"aliases": [
+"Mercadona SA"
+],
+"links": 25
+},
+{
+"name": "Ahold Delhaize",
+"aliases": [
+"Ahold Delhaize N.V.",
+"Koninklijke Ahold Delhaize",
+"Koninklijke Ahold Delhaize N.V.",
+"Royal Ahold Delhaize"
+],
+"links": 24
+},
+{
+"name": "Verizon",
+"aliases": [
+"Cellco Partnership",
+"Verizon mobile network",
+"Verizon Wireless"
+],
+"links": 24
+},
+{
+"name": "Intersport",
+"aliases": [
+"IIC-Intersport International Corporation GmbH"
+],
+"links": 23
+},
+{
+"name": "Kmart",
+"aliases": [
+"K Mart",
+"K-Mart",
+"K-Mart Corporation"
+],
+"links": 23
+},
+{
+"name": "Magnit",
+"aliases": [
+"PJSC Magnit",
+"Public Joint Stock Company Magnit"
+],
+"links": 23
+},
+{
+"name": "Albert Heijn",
+"aliases": [
+"AH",
+"Albert Heijn B.V."
+],
+"links": 22
+},
+{
+"name": "Bloomingdale's",
+"aliases": [
+"Bloomingdales"
+],
+"links": 22
+},
+{
+"name": "Office Depot",
+"aliases": [
+"Office Depot, Inc.",
+"Officedepot"
+],
+"links": 22
+},
+{
+"name": "Safeway",
+"aliases": [
+"Safeway Inc."
+],
+"links": 22
+},
+{
+"name": "Coop Cooperative",
+"aliases": [
+"Coop",
+"Coop Genossenschaft",
+"Coop Società Cooperativa",
+"Coop Société Coopérative"
+],
+"links": 21
+},
+{
+"name": "HMV Retail Ltd.",
+"aliases": [
+"HMV Group"
+],
+"links": 21
+},
+{
+"name": "ICA AB",
+"aliases": [
+"ICA",
+"ICA Gruppen",
+"ICA Handlarna AB",
+"ICA Maxi"
+],
+"links": 21
+},
+{
+"name": "J. C. Penney",
+"aliases": [
+"J. C. Penney Co., Inc.",
+"J. C. Penney Company Inc.",
+"J. C. Penney Company, Inc.",
+"J.C. Penney",
+"J.C. Penney Co.",
+"JCP",
+"JCPenney",
+"Penney's",
+"Penny Co."
+],
+"links": 21
+},
+{
+"name": "Morrisons",
+"aliases": [
+"Wm Morrison Supermarkets",
+"Wm Morrison Supermarkets plc"
+],
+"links": 21
+},
+{
+"name": "New Yorker",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Triumph International",
+"aliases": [
+"Triumph"
+],
+"links": 21
+},
+{
+"name": "Dia",
+"aliases": [
+"Dia Market",
+"Dia supermercados",
+"Distribuidora Internacional de Alimentación"
+],
+"links": 20
+},
+{
+"name": "Miniso",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Oniverse",
+"aliases": [
+"Calzedonia Group"
+],
+"links": 20
+},
+{
+"name": "Penny",
+"aliases": [
+"Penny Market",
+"Penny supermarket",
+"Penny."
+],
+"links": 20
+},
+{
+"name": "Pepco",
+"aliases": [
+"PEPCO Poland sp. z o.o"
+],
+"links": 20
+},
+{
+"name": "Publix",
+"aliases": [
+"Publix Super Markets Inc."
+],
+"links": 20
+},
+{
+"name": "Berlitz Corporation",
+"aliases": [],
+"links": 19
+},
+{
+"name": "dm-drogerie markt",
+"aliases": [
+"dm",
+"Drogerie markt"
+],
+"links": 19
+},
+{
+"name": "E.Leclerc",
+"aliases": [
+"Leclerc"
+],
+"links": 19
+},
+{
+"name": "John Lewis",
+"aliases": [
+"John Lewis plc"
+],
+"links": 19
+},
+{
+"name": "Lush",
+"aliases": [
+"Lush Cosmetics Ltd.",
+"Lush Ltd."
+],
+"links": 19
+},
+{
+"name": "Maxima Grupė, UAB",
+"aliases": [],
+"links": 19
+},
+{
+"name": "Repco",
+"aliases": [],
+"links": 19
+},
+{
+"name": "REWE Group",
+"aliases": [
+"REWE"
+],
+"links": 19
+},
+{
+"name": "Trader Joe's",
+"aliases": [],
+"links": 19
+},
+{
+"name": "WHSmith",
+"aliases": [
+"Smith's",
+"W H Smith",
+"W. H. Smith",
+"W. H. Smith & Son",
+"WH Smith",
+"WHS",
+"WHSmith plc"
+],
+"links": 19
+},
+{
+"name": "Amazon Go",
+"aliases": [
+"AmazonGo"
+],
+"links": 18
+},
+{
+"name": "Dollar Tree",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Kohl's",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Takashimaya",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Jumbo",
+"aliases": [],
+"links": 17
+},
+{
+"name": "On AG",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Printemps",
+"aliases": [
+"Magasins du Printemps"
+],
+"links": 17
+},
+{
+"name": "Sam's Club",
+"aliases": [
+"Sam's",
+"Sam's West, Inc.",
+"Sams",
+"Sams Club"
+],
+"links": 17
+},
+{
+"name": "ATB-Market",
+"aliases": [
+"ATB"
+],
+"links": 16
+},
+{
+"name": "Dollarama",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Don Quijote",
+"aliases": [
+"Don Don Donki",
+"Don Quijote Co., Ltd.",
+"Donki"
+],
+"links": 16
+},
+{
+"name": "Intermarché",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Mein Real",
+"aliases": [
+"Real Germany",
+"Real Hypermarket",
+"Real Supermarket"
+],
+"links": 16
+},
+{
+"name": "Mitsukoshi",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Bed Bath & Beyond Inc.",
+"aliases": [
+"20230930-DK-Butterfly-1, Inc.",
+"Bed 'n Bath",
+"Bed Bath",
+"Bed Bath & Beyond"
+],
+"links": 15
+},
+{
+"name": "Iceland",
+"aliases": [
+"Iceland Foods",
+"Iceland Foods Ltd",
+"Iceland Grocery",
+"Iceland LTD",
+"Iceland ltd",
+"Iceland Supermarket"
+],
+"links": 15
+},
+{
+"name": "Intimissimi",
+"aliases": [
+"Intimissimi S.p.A",
+"Intimissimi SpA"
+],
+"links": 15
+},
+{
+"name": "Lotte Department Store",
+"aliases": [
+"Lotte"
+],
+"links": 15
+},
+{
+"name": "Mercator",
+"aliases": [
+"Poslovni Sistem Mercator"
+],
+"links": 15
+},
+{
+"name": "REWE",
+"aliases": [
+"REWE Markt GmbH"
+],
+"links": 15
+},
+{
+"name": "Ross Dress for Less",
+"aliases": [
+"Ross Stores",
+"Ross Stores Inc."
+],
+"links": 15
+},
+{
+"name": "Ulta Beauty",
+"aliases": [
+"Ulta",
+"Ulta Beauty Inc."
+],
+"links": 15
+},
+{
+"name": "Waitrose & Partners",
+"aliases": [
+"little Waitrose"
+],
+"links": 15
+},
+{
+"name": "Zara Home",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Coles Supermarkets",
+"aliases": [
+"Coles"
+],
+"links": 14
+},
+{
+"name": "Dino Polska",
+"aliases": [],
+"links": 14
+},
+{
+"name": "emart",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Euronics",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Loblaw Companies",
+"aliases": [
+"Loblaw Companies Limited"
+],
+"links": 14
+},
+{
+"name": "Migros Ticaret",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Mothercare",
+"aliases": [
+"Mothercare plc",
+"Mothercare UK Limited"
+],
+"links": 14
+},
+{
+"name": "Netto Marken-Discount",
+"aliases": [
+"Netto"
+],
+"links": 14
+},
+{
+"name": "Pingo Doce",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Big C",
+"aliases": [
+"BigC Extra"
+],
+"links": 13
+},
+{
+"name": "Central Group",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Conad",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Coop Norge SA",
+"aliases": [
+"CNSA",
+"coopnorge"
+],
+"links": 13
+},
+{
+"name": "Daimaru",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Dollar General",
+"aliases": [
+"DolGenCorp",
+"Dollar General Corporation",
+"Dollar General Store"
+],
+"links": 13
+},
+{
+"name": "Great Atlantic & Pacific Tea Company",
+"aliases": [
+"A&P",
+"The Great Atlantic & Pacific Tea"
+],
+"links": 13
+},
+{
+"name": "Isetan",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mere",
+"aliases": [
+"Svetofor"
+],
+"links": 13
+},
+{
+"name": "Mexx",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Monoprix",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Sogo",
+"aliases": [],
+"links": 13
+},
+{
+"name": "The Co-operative Group",
+"aliases": [
+"Co-op",
+"Co-op Group",
+"Co-operative Group Limited",
+"The Group"
+],
+"links": 13
+},
+{
+"name": "Albertsons",
+"aliases": [
+"Albertson's"
+],
+"links": 12
+},
+{
+"name": "Animate",
+"aliases": [],
+"links": 12
+},
+{
+"name": "BIM",
+"aliases": [
+"BİM",
+"United Markets"
+],
+"links": 12
+},
+{
+"name": "De Bijenkorf",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Food Lion",
+"aliases": [
+"Food Lion LLC"
+],
+"links": 12
+},
+{
+"name": "Galeries Lafayette",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Hudson's Bay",
+"aliases": [
+"Hudson's Bay Company",
+"The Bay"
+],
+"links": 12
+},
+{
+"name": "Jumbo",
+"aliases": [
+"Jumbo S.A."
+],
+"links": 12
+},
+{
+"name": "Meijer",
+"aliases": [
+"Meijer Inc."
+],
+"links": 12
+},
+{
+"name": "Nitori",
+"aliases": [
+"Home Fashion Nitori",
+"Nitori Co., Ltd",
+"Nitori Co., Ltd."
+],
+"links": 12
+},
+{
+"name": "Normal",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Rinascente",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Rite Aid",
+"aliases": [
+"Rite Aid Corporation"
+],
+"links": 12
+},
+{
+"name": "Saturn",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Schlecker",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Selver",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Søstrene Grene",
+"aliases": [
+"Sostrene Grene"
+],
+"links": 12
+},
+{
+"name": "Woolworths Supermarkets",
+"aliases": [
+"Woolies",
+"Woolworths"
+],
+"links": 12
+},
+{
+"name": "Asprey",
+"aliases": [
+"Asprey & Garrard Limited",
+"Asprey and Garrard Limited",
+"Asprey International Limited"
+],
+"links": 11
+},
+{
+"name": "CBA",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Continente",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dillard's",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Dixy",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Furla",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Globus",
+"aliases": [
+"Globus Baumarkt",
+"Globus Holding",
+"Globus Holding GmbH & Co. KG"
+],
+"links": 11
+},
+{
+"name": "H Mart",
+"aliases": [
+"H-Mart",
+"HMart",
+"Super H Mart"
+],
+"links": 11
+},
+{
+"name": "H-E-B",
+"aliases": [
+"H-E-B Grocery Stores",
+"justicia para papayita"
+],
+"links": 11
+},
+{
+"name": "Harvey Nichols",
+"aliases": [
+"Harvey Nichols Group plc"
+],
+"links": 11
+},
+{
+"name": "Hipercor",
+"aliases": [],
+"links": 11
+},
+{
+"name": "House of Fraser",
+"aliases": [
+"House of Fraser Ltd."
+],
+"links": 11
+},
+{
+"name": "Hunkemöller",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Kaufhof",
+"aliases": [
+"Lust for Life"
+],
+"links": 11
+},
+{
+"name": "Lenta",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Lord & Taylor",
+"aliases": [
+"Lord and Taylor"
+],
+"links": 11
+},
+{
+"name": "Lotte Mart",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Netto",
+"aliases": [],
+"links": 11
+},
+{
+"name": "River Island",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Sanborns",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Yodobashi Camera",
+"aliases": [
+"Yodobashi"
+],
+"links": 11
+},
+{
+"name": "Åhléns",
+"aliases": [],
+"links": 11
+},
+{
+"name": "Bilka",
+"aliases": [
+"BILKA LAVPRISVAREHUS A/S"
+],
+"links": 10
+},
+{
+"name": "Champion",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Detskiy Mir",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Eataly",
+"aliases": [],
+"links": 10
+},
+{
+"name": "FAO Schwarz",
+"aliases": [
+"F A O Schwarz",
+"F.A.O. Schwarz"
+],
+"links": 10
+},
+{
+"name": "Froiz",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Globus",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Goodwill Industries",
+"aliases": [
+"Goodwill",
+"goodwill",
+"Goodwill Industries International",
+"Goodwill Industries International, Inc."
+],
+"links": 10
+},
+{
+"name": "Géant",
+"aliases": [
+"Geant"
+],
+"links": 10
+},
+{
+"name": "Marathon Sports",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Marui",
+"aliases": [
+"MARUI CO., LTD."
+],
+"links": 10
+},
+{
+"name": "Matsuya",
+"aliases": [
+"Matsuya Co.",
+"MATSUYA CO.,LTD."
+],
+"links": 10
+},
+{
+"name": "Matsuzakaya",
+"aliases": [
+"Matsuzakaya Co., Ltd."
+],
+"links": 10
+},
+{
+"name": "Microsoft Store",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Myer",
+"aliases": [
+"MYER HOLDINGS LIMITED"
+],
+"links": 10
+},
+{
+"name": "NKD",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Pilersuisoq",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Seiyu Group",
+"aliases": [],
+"links": 10
+},
+{
+"name": "T.J. Maxx",
+"aliases": [
+"TJ Maxx"
+],
+"links": 10
+},
+{
+"name": "Virgin Megastores",
+"aliases": [],
+"links": 10
+},
+{
+"name": "Wellcome",
+"aliases": [],
+"links": 10
+},
+{
+"name": "XXXLutz",
+"aliases": [],
+"links": 10
+},
+{
+"name": "British Home Stores",
+"aliases": [
+"BHS"
+],
+"links": 9
+},
+{
+"name": "Carrefour Market",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Claire's",
+"aliases": [
+"Claire's Accessories",
+"Claire's Boutique",
+"Claire's Boutiques"
+],
+"links": 9
+},
+{
+"name": "Colruyt",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Coop",
+"aliases": [
+"Coop Nederlandse",
+"Coop Netherlands",
+"Coop NL"
+],
+"links": 9
+},
+{
+"name": "Coop",
+"aliases": [],
+"links": 9
+},
+{
+"name": "David Jones Limited",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Defense Commissary Agency",
+"aliases": [
+"DeCA",
+"United States Defense Commissary Agency"
+],
+"links": 9
+},
+{
+"name": "Elkjøp",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Esselunga",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Game Digital plc",
+"aliases": [
+"Game",
+"GAME",
+"Game Digital",
+"The Game Group plc"
+],
+"links": 9
+},
+{
+"name": "Giant Hypermarket",
+"aliases": [
+"Giant"
+],
+"links": 9
+},
+{
+"name": "HEMA",
+"aliases": [
+"Hema B.V.",
+"Hema BV",
+"Hollandse Eenheidsprijzen Maatschappij"
+],
+"links": 9
+},
+{
+"name": "Homeplus",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Hot Topic",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Karstadt",
+"aliases": [
+"Karstadt Warenhaus GmbH"
+],
+"links": 9
+},
+{
+"name": "Liverpool",
+"aliases": [
+"El Puerto de Liverpool"
+],
+"links": 9
+},
+{
+"name": "Love's Travel Stops & Country Stores",
+"aliases": [
+"Love's",
+"Love's Travel Stops"
+],
+"links": 9
+},
+{
+"name": "M.video",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Match",
+"aliases": [
+"Smatch",
+"Supermarché Match"
+],
+"links": 9
+},
+{
+"name": "Mulberry",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Parco",
+"aliases": [
+"PARCO CO., LTD."
+],
+"links": 9
+},
+{
+"name": "Perekryostok",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Pisiffik",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Plus Supermarket",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Ryder",
+"aliases": [
+"Ryder System, Inc."
+],
+"links": 9
+},
+{
+"name": "Sarinah",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Sprouts Farmers Market",
+"aliases": [
+"Sprouts Farmers Market, Inc."
+],
+"links": 9
+},
+{
+"name": "Venchi",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Wako",
+"aliases": [],
+"links": 9
+},
+{
+"name": "Yamada Denki",
+"aliases": [
+"YAMADA-DENKI Co.,Ltd."
+],
+"links": 9
+},
+{
+"name": "Biltema",
+"aliases": [],
+"links": 8
+},
+{
+"name": "BJ's Wholesale Club",
+"aliases": [
+"BJ's"
+],
+"links": 8
+},
+{
+"name": "Bónus",
+"aliases": [
+"Bonus"
+],
+"links": 8
+},
+{
+"name": "Dirk",
+"aliases": [
+"Dirk van den Broek"
+],
+"links": 8
+},
+{
+"name": "Eaton's",
+"aliases": [],
+"links": 8
+},
+{
+"name": "El Palacio de Hierro",
+"aliases": [
+"Palacio de Hierro"
+],
+"links": 8
+},
+{
+"name": "Euromaster",
+"aliases": [
+"ATS Euromaster"
+],
+"links": 8
+},
+{
+"name": "FedEx Office",
+"aliases": [
+"FedEx Kinko's",
+"FedEx Office Print & Ship Services Inc."
+],
+"links": 8
+},
+{
+"name": "Fiorucci",
+"aliases": [
+"Fiorucci Holdings Limited"
+],
+"links": 8
+},
+{
+"name": "Hy-Vee",
+"aliases": [
+"Hy-Vee, Inc."
+],
+"links": 8
+},
+{
+"name": "K-way",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Kintetsu Department Store",
+"aliases": [
+"Kintetsu Department Store Co., Ltd."
+],
+"links": 8
+},
+{
+"name": "Kipling",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Leader Price",
+"aliases": [
+"Société S.A. Leader Price Holding"
+],
+"links": 8
+},
+{
+"name": "Livraria Bertrand",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Magasin du Nord",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Marshalls",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Metro",
+"aliases": [
+"Metro Inc."
+],
+"links": 8
+},
+{
+"name": "Minipreço",
+"aliases": [],
+"links": 8
+},
+{
+"name": "OfficeMax",
+"aliases": [
+"Office Max"
+],
+"links": 8
+},
+{
+"name": "oodji",
+"aliases": [
+"OGGI"
+],
+"links": 8
+},
+{
+"name": "Phone House",
+"aliases": [
+"The Phone house"
+],
+"links": 8
+},
+{
+"name": "Pokémon Center",
+"aliases": [
+"Pokemon Centre"
+],
+"links": 8
+},
+{
+"name": "Pottery Barn",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Pressbyrån",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Reserved",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sheng Siong",
+"aliases": [
+"Sheng Siong Group Limited"
+],
+"links": 8
+},
+{
+"name": "Shufersal Ltd.",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Sobeys",
+"aliases": [
+"Sobeys Inc."
+],
+"links": 8
+},
+{
+"name": "Stokrotka",
+"aliases": [],
+"links": 8
+},
+{
+"name": "SuperValu",
+"aliases": [
+"SuperValu, Inc."
+],
+"links": 8
+},
+{
+"name": "Tous les Jours",
+"aliases": [
+"TLJ"
+],
+"links": 8
+},
+{
+"name": "Wegmans",
+"aliases": [
+"Wegmans Food Market"
+],
+"links": 8
+},
+{
+"name": "Zeeman",
+"aliases": [],
+"links": 8
+},
+{
+"name": "Alepa",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Araz Supermarket",
+"aliases": [
+"Araz Market"
+],
+"links": 7
+},
+{
+"name": "Bass Pro Shops",
+"aliases": [
+"Bass Pro",
+"Bassproshops",
+"BPS",
+"BPS Direct, LLC"
+],
+"links": 7
+},
+{
+"name": "Bunnings Group",
+"aliases": [
+"Bunnings",
+"BUNNINGS GROUP LIMITED",
+"Bunnings Trade Centre",
+"Bunnings Warehouse"
+],
+"links": 7
+},
+{
+"name": "Coppel",
+"aliases": [
+"Coppel stores"
+],
+"links": 7
+},
+{
+"name": "Franprix",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Gina Tricot",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Grup Bon Preu",
+"aliases": [
+"Bon Preu",
+"Bon Preu, S.A.U.",
+"Supermercado Orangutan"
+],
+"links": 7
+},
+{
+"name": "Hands",
+"aliases": [
+"HANDS INC.",
+"Tokyu Hands",
+"TOKYU HANDS INC."
+],
+"links": 7
+},
+{
+"name": "Hobby Lobby",
+"aliases": [
+"Hobby Lobby Creative Centers",
+"Hobby Lobby Stores, Inc."
+],
+"links": 7
+},
+{
+"name": "Irma",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Ito-Yokado",
+"aliases": [
+"Ito Yokado"
+],
+"links": 7
+},
+{
+"name": "JUSCO",
+"aliases": [
+"Japan United Stores Company"
+],
+"links": 7
+},
+{
+"name": "Kathmandu",
+"aliases": [
+"KATHMANDU HOLDINGS LIMITED"
+],
+"links": 7
+},
+{
+"name": "Kwik Save",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mannings",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Matahari Department Store",
+"aliases": [
+"LPPF",
+"MATAHARI",
+"Matahari Department Store Tbk"
+],
+"links": 7
+},
+{
+"name": "MEGA Family Shopping Centre",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Mega Image",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Monsoon Accessorize",
+"aliases": [
+"Accessorize",
+"Monsoon Accessorize Ltd."
+],
+"links": 7
+},
+{
+"name": "Munich",
+"aliases": [
+"Munich Sports"
+],
+"links": 7
+},
+{
+"name": "NAPA",
+"aliases": [
+"NAPA Auto Parts",
+"National Automotive Parts Association"
+],
+"links": 7
+},
+{
+"name": "NBA Store",
+"aliases": [
+"The NBA Store"
+],
+"links": 7
+},
+{
+"name": "Nine West",
+"aliases": [
+"9 West"
+],
+"links": 7
+},
+{
+"name": "Profi",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Pyaterochka",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Seibu Department Stores",
+"aliases": [
+"SEIBU"
+],
+"links": 7
+},
+{
+"name": "SM Supermalls",
+"aliases": [
+"Shoe Mart",
+"SM",
+"SM Malls"
+],
+"links": 7
+},
+{
+"name": "Sport Chek",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Springfield",
+"aliases": [],
+"links": 7
+},
+{
+"name": "T&T Supermarket",
+"aliases": [
+"Osaka Supermarket",
+"T & T Supermarket"
+],
+"links": 7
+},
+{
+"name": "Tang Frères",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Topman",
+"aliases": [],
+"links": 7
+},
+{
+"name": "Uchumi Supermarkets",
+"aliases": [],
+"links": 7
+},
+{
+"name": "United Rentals",
+"aliases": [
+"United Rentals, Inc"
+],
+"links": 7
+},
+{
+"name": "Winn-Dixie",
+"aliases": [],
+"links": 7
+},
+{
+"name": "99 Cents Only Stores",
+"aliases": [
+"99 Cents Only Store",
+"Bargain Wholesale",
+"The 99 Store"
+],
+"links": 6
+},
+{
+"name": "99 Ranch Market",
+"aliases": [
+"Ranch 99",
+"Tawa Supermarket Inc."
+],
+"links": 6
+},
+{
+"name": "ABC Stores",
+"aliases": [
+"ABC Store"
+],
+"links": 6
+},
+{
+"name": "Acme Markets",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ardis",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Azbuka Vkusa",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Bic Camera",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Big W",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Big Y World Class Market",
+"aliases": [
+"Big Y Foods, Inc."
+],
+"links": 6
+},
+{
+"name": "Cabela's",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cactus",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Chemist Warehouse",
+"aliases": [
+"Chemist Warehouse Group"
+],
+"links": 6
+},
+{
+"name": "Chicco",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Coin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Coop Hungary",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Cropp",
+"aliases": [],
+"links": 6
+},
+{
+"name": "DFS",
+"aliases": [
+"DFS FURNITURE HOLDINGS plc",
+"DFS Furniture PLC",
+"Direct Furnishing Supplies"
+],
+"links": 6
+},
+{
+"name": "DinoSol",
+"aliases": [
+"DinoSol Supermercados SL",
+"HiperDino",
+"HiperDino Express",
+"SuperDino"
+],
+"links": 6
+},
+{
+"name": "Ediya Coffee",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Escom",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Eurospin",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Fix Price",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Fresh & Easy",
+"aliases": [
+"Fresh & Easy Neighborhood Market"
+],
+"links": 6
+},
+{
+"name": "Galerías Preciados",
+"aliases": [
+"Galerias Preciados"
+],
+"links": 6
+},
+{
+"name": "Gimbels",
+"aliases": [
+"Gimbel Brothers",
+"Gimbel's"
+],
+"links": 6
+},
+{
+"name": "Grocery Outlet",
+"aliases": [
+"Grocery Outlet Holding Corp."
+],
+"links": 6
+},
+{
+"name": "Grom",
+"aliases": [
+"Grom gelato"
+],
+"links": 6
+},
+{
+"name": "Hankyu Department Store",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Hanshin Department Store",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Havan",
+"aliases": [],
+"links": 6
+},
+{
+"name": "IGA",
+"aliases": [
+"Independent Grocers",
+"Independent Grocers of Australia",
+"Metcash",
+"Metcash Food & Grocery Pty Ltd"
+],
+"links": 6
+},
+{
+"name": "Ingles",
+"aliases": [
+"Ingles Markets"
+],
+"links": 6
+},
+{
+"name": "Jewel-Osco",
+"aliases": [
+"Jewel Osco",
+"Jewel Osco Supermarket",
+"jewel supermarket"
+],
+"links": 6
+},
+{
+"name": "K-Supermarket",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Karusel",
+"aliases": [],
+"links": 6
+},
+{
+"name": "King Soopers",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kontakt.az",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kopeyka",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Kvickly",
+"aliases": [],
+"links": 6
+},
+{
+"name": "L.L.Bean",
+"aliases": [
+"L L bean",
+"L. L. Bean",
+"L.L. Bean",
+"LL Bean"
+],
+"links": 6
+},
+{
+"name": "La Maison Simons",
+"aliases": [
+"Maison Simons",
+"Simons"
+],
+"links": 6
+},
+{
+"name": "Lancel",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Maison de Bonneterie",
+"aliases": [
+"Firma Maison de Bonneterie",
+"Maison de Bonnetterie"
+],
+"links": 6
+},
+{
+"name": "Meny",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Michaels",
+"aliases": [
+"Michael's",
+"Michaels Stores",
+"Michaels Stores, Inc."
+],
+"links": 6
+},
+{
+"name": "Micro Center",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Mix Markt",
+"aliases": [],
+"links": 6
+},
+{
+"name": "MR.DIY",
+"aliases": [
+"MR D.I.Y. Group Berhad",
+"Mr D.I.Y. Group Berhad",
+"Mr D.I.Y. Group Bhd.",
+"Mr DIY"
+],
+"links": 6
+},
+{
+"name": "Netto",
+"aliases": [
+"Comptoir des Marchands",
+"Netto France"
+],
+"links": 6
+},
+{
+"name": "Omar Effendi",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Piggly Wiggly",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Ralphs",
+"aliases": [
+"Ralphs Grocery",
+"Ralphs Grocery Company",
+"Ralphs Marketplace"
+],
+"links": 6
+},
+{
+"name": "Relay",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Save-A-Lot",
+"aliases": [
+"Save A Lot"
+],
+"links": 6
+},
+{
+"name": "Silpo",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Stop & Shop",
+"aliases": [
+"Stop & Shop Supermarket Company",
+"Stop and Shop",
+"Stop&Shop"
+],
+"links": 6
+},
+{
+"name": "Sunglass Hut",
+"aliases": [
+"Sunglass Hut International",
+"The Sunglass Hut"
+],
+"links": 6
+},
+{
+"name": "Superdrug",
+"aliases": [
+"Super drug",
+"Superdrug Stores",
+"Superdrug Stores PLC"
+],
+"links": 6
+},
+{
+"name": "Target Canada",
+"aliases": [],
+"links": 6
+},
+{
+"name": "TCBY",
+"aliases": [
+"The Country's Best Yogurt"
+],
+"links": 6
+},
+{
+"name": "Ter Meulen",
+"aliases": [],
+"links": 6
+},
+{
+"name": "The Athlete's Foot",
+"aliases": [],
+"links": 6
+},
+{
+"name": "Tiv Taam Holdings 1 Ltd",
+"aliases": [
+"Tiv Taam",
+"Tiv Tam"
+],
+"links": 6
+},
+{
+"name": "Tokyu Department Store",
+"aliases": [
+"TOKYU"
+],
+"links": 6
+},
+{
+"name": "Tous",
+"aliases": [
+"Tous Designer House",
+"Tous Jewelry"
+],
+"links": 6
+},
+{
+"name": "TravelCenters of America",
+"aliases": [
+"Petro Stopping Centers",
+"TA"
+],
+"links": 6
+},
+{
+"name": "TWG Tea",
+"aliases": [
+"The Wellbeing Group"
+],
+"links": 6
+},
+{
+"name": "Walmart Canada",
+"aliases": [
+"Walmart"
+],
+"links": 6
+},
+{
+"name": "Wanamaker’s",
+"aliases": [
+"John Wanamaker and Co.",
+"John Wanamaker Department Store",
+"John Wanamaker Store"
+],
+"links": 6
+},
+{
+"name": "759 Store",
+"aliases": [],
+"links": 5
+},
+{
+"name": "A101",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Abraham & Straus",
+"aliases": [
+"Abraham and Straus"
+],
+"links": 5
+},
+{
+"name": "Aibė",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Anttila",
+"aliases": [
+"Anttila Oy",
+"Tukoanttila Oy"
+],
+"links": 5
+},
+{
+"name": "Bennet",
+"aliases": [],
+"links": 5
+},
+{
+"name": "C1000",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Dean & DeLuca",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Fakta",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Farmfoods",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Food Basics",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Føtex",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Grand Frais",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Hecht's",
+"aliases": [
+"Hecht Bros.",
+"Hecht Brothers",
+"Hecht Company",
+"The Hecht Company"
+],
+"links": 5
+},
+{
+"name": "Hofer KG",
+"aliases": [
+"Hofer"
+],
+"links": 5
+},
+{
+"name": "IGA",
+"aliases": [
+"Independent Grocers Alliance",
+"Independent Grocers Alliance of America"
+],
+"links": 5
+},
+{
+"name": "IKI",
+"aliases": [
+"Palink"
+],
+"links": 5
+},
+{
+"name": "Jiuguang Department Store",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Jumbo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "King Kullen",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Kipa",
+"aliases": [
+"Tesco Kipa"
+],
+"links": 5
+},
+{
+"name": "Lojas Riachuelo",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Market Basket",
+"aliases": [
+"DeMoulas Market Basket",
+"DeMoulas Super Markets"
+],
+"links": 5
+},
+{
+"name": "Maxima LT",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Natural Grocers",
+"aliases": [
+"Natural Grocers by Vitamin Cottage",
+"Vitamin Cottage Inc",
+"Vitamin Cottage Natural Grocers"
+],
+"links": 5
+},
+{
+"name": "Nettorama",
+"aliases": [],
+"links": 5
+},
+{
+"name": "No Frills",
+"aliases": [
+"nofrills"
+],
+"links": 5
+},
+{
+"name": "París",
+"aliases": [
+"Almacenes Paris",
+"Almacenes París"
+],
+"links": 5
+},
+{
+"name": "Sale",
+"aliases": [],
+"links": 5
+},
+{
+"name": "SpartanNash",
+"aliases": [
+"Spartan Stores"
+],
+"links": 5
+},
+{
+"name": "Suburbia",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Super C",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Target Australia",
+"aliases": [
+"Lindsay's",
+"Lindsay's Target"
+],
+"links": 5
+},
+{
+"name": "The Fresh Market",
+"aliases": [
+"Fresh Market"
+],
+"links": 5
+},
+{
+"name": "Tobu Department Store",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Tottus",
+"aliases": [],
+"links": 5
+},
+{
+"name": "VkusVill",
+"aliases": [],
+"links": 5
+},
+{
+"name": "Weis Markets",
+"aliases": [],
+"links": 5
+}
+]

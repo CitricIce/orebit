@@ -45,7 +45,7 @@
 "Arabian language",
 "Arabic language"
 ],
-"links": 310
+"links": 311
 },
 {
 "name": "Italian",
@@ -110,7 +110,7 @@
 "Ivrit",
 "Iwrit"
 ],
-"links": 262
+"links": 263
 },
 {
 "name": "Swedish",
@@ -1344,8 +1344,8 @@
 "Dari language",
 "Eastern Farsi",
 "Eastern Persian",
-"fa-AF",
 "fa-af",
+"fa-AF",
 "fa_AF"
 ],
 "links": 101
@@ -2261,8 +2261,8 @@
 {
 "name": "Tahitian",
 "aliases": [
-"reo Tahiti",
 "reo tahiti",
+"reo Tahiti",
 "Tahitian language"
 ],
 "links": 77
@@ -2544,8 +2544,8 @@
 "Vod language",
 "Vodian",
 "Vodian language",
-"Vot",
 "vot",
+"Vot",
 "Vot language",
 "Vote",
 "Vote language",
@@ -4358,6 +4358,15 @@
 "links": 38
 },
 {
+"name": "Ludic",
+"aliases": [
+"Ludian",
+"Ludian language",
+"Ludic language"
+],
+"links": 38
+},
+{
 "name": "Moghol",
 "aliases": [
 "Moghol language",
@@ -4504,15 +4513,6 @@
 "Lepcha Róng",
 "Róng",
 "Róngring"
-],
-"links": 37
-},
-{
-"name": "Ludic",
-"aliases": [
-"Ludian",
-"Ludian language",
-"Ludic language"
 ],
 "links": 37
 },
@@ -6325,6 +6325,21 @@
 "links": 26
 },
 {
+"name": "Michif",
+"aliases": [
+"French Cree language",
+"Mechif language",
+"Metchif language",
+"Metif language",
+"Michif language",
+"Michif-Cree language",
+"Mitchif language",
+"Métchif language",
+"Métif language"
+],
+"links": 26
+},
+{
 "name": "Pohnpeian",
 "aliases": [
 "Pohnpeian language",
@@ -6546,6 +6561,16 @@
 "links": 25
 },
 {
+"name": "Kangeanic",
+"aliases": [
+"Kangean",
+"Kangean language",
+"Kangeanese",
+"Kangeanese language"
+],
+"links": 25
+},
+{
 "name": "Kannauji",
 "aliases": [
 "Kanauji",
@@ -6594,21 +6619,6 @@
 "name": "Mewari",
 "aliases": [
 "Mewari language"
-],
-"links": 25
-},
-{
-"name": "Michif",
-"aliases": [
-"French Cree language",
-"Mechif language",
-"Metchif language",
-"Metif language",
-"Michif language",
-"Michif-Cree language",
-"Mitchif language",
-"Métchif language",
-"Métif language"
 ],
 "links": 25
 },
@@ -6734,5 +6744,10165 @@
 "name": "Yemeni Arabic",
 "aliases": [],
 "links": 25
+},
+{
+"name": "Anus",
+"aliases": [
+"Anus language",
+"Koru",
+"Korurnus"
+],
+"links": 24
+},
+{
+"name": "Botlikh",
+"aliases": [
+"Botlikh language"
+],
+"links": 24
+},
+{
+"name": "Dyirbal",
+"aliases": [
+"Dyirbal language",
+"Jirrbal",
+"Jirubal"
+],
+"links": 24
+},
+{
+"name": "Eastern Yugur",
+"aliases": [
+"East Yugur",
+"Eastern Yugur language",
+"Shira Yughur"
+],
+"links": 24
+},
+{
+"name": "Hunzib",
+"aliases": [
+"Hunzib language"
+],
+"links": 24
+},
+{
+"name": "Jarawa",
+"aliases": [
+"Jarawa language"
+],
+"links": 24
+},
+{
+"name": "Judæo-Italian",
+"aliases": [
+"Giudeo-Italiano",
+"Italkian",
+"Judaeo-Italian",
+"Judeo-Italian",
+"Judeo-Italian language varieties",
+"Judæo-Italian languages"
+],
+"links": 24
+},
+{
+"name": "Khwarshi",
+"aliases": [
+"Inkhokvari",
+"Inkhokvari language",
+"Khvarsh",
+"Khvarsh language",
+"Khvarshi",
+"Khvarshi language",
+"Khvarshi-Inkhoqwari",
+"Khvarshi-Inkhoqwari language",
+"Khvarshin",
+"Khvarshin language",
+"Khwarshi language",
+"Khwarshi-Inkhoqwari",
+"Khwarshi-Inkhoqwari language",
+"Xvarshi",
+"Xvarshi language",
+"Xvarshik",
+"Xvarshik language"
+],
+"links": 24
+},
+{
+"name": "Korku",
+"aliases": [
+"Korku language"
+],
+"links": 24
+},
+{
+"name": "Kosraean",
+"aliases": [
+"Kosraean language",
+"Kusaiean",
+"Kusaiean language"
+],
+"links": 24
+},
+{
+"name": "Kryts",
+"aliases": [
+"Kryts language"
+],
+"links": 24
+},
+{
+"name": "Lisu",
+"aliases": [
+"Lisu language"
+],
+"links": 24
+},
+{
+"name": "Lokono",
+"aliases": [
+"Arawak",
+"Arawak language"
+],
+"links": 24
+},
+{
+"name": "Luba-Katanga",
+"aliases": [
+"Kiluba",
+"Luba-Katanga language",
+"Luba-Shaba"
+],
+"links": 24
+},
+{
+"name": "Mangareva",
+"aliases": [
+"Mangareva language",
+"Mangarevan language"
+],
+"links": 24
+},
+{
+"name": "Marquesan",
+"aliases": [
+"Marquesan language"
+],
+"links": 24
+},
+{
+"name": "Motu",
+"aliases": [
+"Motu language"
+],
+"links": 24
+},
+{
+"name": "Namfau",
+"aliases": [
+"Anal",
+"Anāl",
+"Anāl language",
+"Namfau language"
+],
+"links": 24
+},
+{
+"name": "Nigerian Pidgin",
+"aliases": [
+"Naija pidgin",
+"Naijá",
+"NPE",
+"Pidgin",
+"Pijin",
+"Vernacular"
+],
+"links": 24
+},
+{
+"name": "Nuer",
+"aliases": [
+"Nuer language"
+],
+"links": 24
+},
+{
+"name": "Nukuoro",
+"aliases": [
+"Nukuoro language"
+],
+"links": 24
+},
+{
+"name": "Omani Arabic",
+"aliases": [
+"Omani Hadari Arabic"
+],
+"links": 24
+},
+{
+"name": "Putonghua",
+"aliases": [
+"Chinese",
+"Mandarin"
+],
+"links": 24
+},
+{
+"name": "Q’anjob’al",
+"aliases": [
+"Kanjobal",
+"Q'anjob'al",
+"Q’anjob’al language"
+],
+"links": 24
+},
+{
+"name": "Sonsorolese",
+"aliases": [
+"Sonsorol",
+"Sonsorolese language"
+],
+"links": 24
+},
+{
+"name": "Tiwi",
+"aliases": [
+"Tiwi language"
+],
+"links": 24
+},
+{
+"name": "Tsat",
+"aliases": [
+"Tsat language"
+],
+"links": 24
+},
+{
+"name": "Uab Meto",
+"aliases": [
+"Dawan",
+"Dawan language",
+"Uab Meto language"
+],
+"links": 24
+},
+{
+"name": "Wolayttattuwa",
+"aliases": [
+"Wolaita language",
+"Wolaitta language",
+"Wolaytta language"
+],
+"links": 24
+},
+{
+"name": "Yidgha",
+"aliases": [
+"ydg",
+"Yidgha language"
+],
+"links": 24
+},
+{
+"name": "Önge",
+"aliases": [
+"Önge language"
+],
+"links": 24
+},
+{
+"name": "Abinomn",
+"aliases": [
+"Abinomn language",
+"Avinomen",
+"Baso",
+"Foya"
+],
+"links": 23
+},
+{
+"name": "Ahtna",
+"aliases": [
+"Ahtena",
+"Ahtena language",
+"Ahtna language",
+"Copper River language",
+"Mednovskiy language"
+],
+"links": 23
+},
+{
+"name": "Algonquin",
+"aliases": [
+"Algonkin",
+"Algonkin language",
+"Algonquin language",
+"alq",
+"Anicinabemowin",
+"Anicinabemowin language",
+"Anicinàbemowin",
+"Anicinàbemowin language"
+],
+"links": 23
+},
+{
+"name": "Argobba",
+"aliases": [
+"Argobba language"
+],
+"links": 23
+},
+{
+"name": "Awjila",
+"aliases": [
+"Awjila language",
+"Awjilah",
+"Awjilah-Foqaha"
+],
+"links": 23
+},
+{
+"name": "Ayapa Zoque",
+"aliases": [
+"Ayapaneco",
+"Tabasco Zoque"
+],
+"links": 23
+},
+{
+"name": "Bashkardi",
+"aliases": [
+"Bashkardi language"
+],
+"links": 23
+},
+{
+"name": "Berta",
+"aliases": [
+"Berta language",
+"Wetawit language"
+],
+"links": 23
+},
+{
+"name": "Bezhta",
+"aliases": [
+"Bechitin",
+"Bechitin language",
+"Bejila",
+"Bejila language",
+"Bexita",
+"Bexita language",
+"Bezheta",
+"Bezheta language",
+"Bezhita",
+"Bezhita language",
+"Bezhta language",
+"Bezhti",
+"Bezhti language",
+"Kapuch",
+"Kapuch language",
+"Kapucha",
+"Kapucha language",
+"Kapuchin",
+"Kapuchin language",
+"Kupuca",
+"Kupuca language"
+],
+"links": 23
+},
+{
+"name": "Bouyei",
+"aliases": [
+"Bouyei language"
+],
+"links": 23
+},
+{
+"name": "Caribbean Hindustani",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Chamalal",
+"aliases": [
+"Chamalal language"
+],
+"links": 23
+},
+{
+"name": "Chinook Jargon",
+"aliases": [
+"chinook lelang",
+"chinook wawa",
+"chinuk wawa",
+"chn",
+"lelang",
+"wawa"
+],
+"links": 23
+},
+{
+"name": "Chuj",
+"aliases": [
+"Chuj language"
+],
+"links": 23
+},
+{
+"name": "Ch’orti’",
+"aliases": [
+"Ch'orti'",
+"Chorti",
+"Chortí",
+"Ch’orti’ language"
+],
+"links": 23
+},
+{
+"name": "Dameli",
+"aliases": [
+"Dameli language"
+],
+"links": 23
+},
+{
+"name": "Fante",
+"aliases": [
+"Fante dialect",
+"Fanti"
+],
+"links": 23
+},
+{
+"name": "Farefare",
+"aliases": [
+"Frafra",
+"Frafra language",
+"Gurene"
+],
+"links": 23
+},
+{
+"name": "Futunan",
+"aliases": [
+"East Futunan",
+"East-Futunan",
+"Faka futuna",
+"Fakafutuna",
+"Futunan language",
+"Futunian"
+],
+"links": 23
+},
+{
+"name": "Gallurese",
+"aliases": [
+"Gallurese Corsican",
+"Gallurese dialect",
+"Gallurese Sardinian"
+],
+"links": 23
+},
+{
+"name": "Halbi",
+"aliases": [
+"Halabi",
+"Halbi language"
+],
+"links": 23
+},
+{
+"name": "Harari",
+"aliases": [
+"Harari language"
+],
+"links": 23
+},
+{
+"name": "Hunsrik",
+"aliases": [
+"Hunsrückisch",
+"Katharinensisch",
+"Riograndenser Hunsrickisch",
+"Riograndenser Hunsruckisch",
+"Riograndenser Hunsrückisch"
+],
+"links": 23
+},
+{
+"name": "Igala",
+"aliases": [
+"Igala language"
+],
+"links": 23
+},
+{
+"name": "Judeo-Moroccan",
+"aliases": [
+"Judeo-Moroccan Arabic"
+],
+"links": 23
+},
+{
+"name": "Kamba",
+"aliases": [
+"Kamba language",
+"Kekamba language",
+"Kikamba language"
+],
+"links": 23
+},
+{
+"name": "Karbi",
+"aliases": [
+"Karbi language"
+],
+"links": 23
+},
+{
+"name": "Louisiana Creole",
+"aliases": [
+"fransé",
+"fransé kasé",
+"gomo",
+"kouri-vini",
+"kréyòl la Lwizyàn",
+"kréyòl Lwizyàn",
+"Louisianian Creole"
+],
+"links": 23
+},
+{
+"name": "Makonde",
+"aliases": [
+"Chimakonde",
+"Kimakonde",
+"Makonde language"
+],
+"links": 23
+},
+{
+"name": "Malvi",
+"aliases": [
+"Malvi language"
+],
+"links": 23
+},
+{
+"name": "Mam",
+"aliases": [
+"Mam language",
+"Tacaneco"
+],
+"links": 23
+},
+{
+"name": "Mandailing Batak",
+"aliases": [
+"btm",
+"Mandailiang",
+"Mandailiang language",
+"Mandailing language",
+"Saro Mandailing"
+],
+"links": 23
+},
+{
+"name": "Manding",
+"aliases": [
+"Manding languages",
+"Mandingo",
+"nko",
+"nqo"
+],
+"links": 23
+},
+{
+"name": "Monguor",
+"aliases": [
+"Monguor language",
+"Tu",
+"Tu language"
+],
+"links": 23
+},
+{
+"name": "Musi",
+"aliases": [
+"Musi Malay"
+],
+"links": 23
+},
+{
+"name": "Nimadi",
+"aliases": [
+"Nimadi language"
+],
+"links": 23
+},
+{
+"name": "Nǁng",
+"aliases": [
+"N/u",
+"Nǀuu",
+"Nǁng language"
+],
+"links": 23
+},
+{
+"name": "Pijin",
+"aliases": [
+"Pijin language",
+"pis",
+"Solomon Islands Pidgin",
+"Solomon Islands Pidgin English",
+"Solomon Islands Pijin",
+"Solomon Pijin"
+],
+"links": 23
+},
+{
+"name": "Plains Indian Sign Language",
+"aliases": [
+"Hand Talk",
+"PISL",
+"Plains Sign Language",
+"Plains Sign Talk"
+],
+"links": 23
+},
+{
+"name": "Páez",
+"aliases": [
+"Nasa Yuwe",
+"Paes",
+"Paez",
+"Paez language",
+"Páez language"
+],
+"links": 23
+},
+{
+"name": "Sauria Paharia",
+"aliases": [
+"Malto",
+"Malto language"
+],
+"links": 23
+},
+{
+"name": "Spanish Sign Language",
+"aliases": [
+"LSE",
+"SSL"
+],
+"links": 23
+},
+{
+"name": "Torwali",
+"aliases": [
+"Torwali language"
+],
+"links": 23
+},
+{
+"name": "Tundra Yukaghir",
+"aliases": [
+"Northern Yukaghir",
+"Tundra Yukaghir language",
+"ykg"
+],
+"links": 23
+},
+{
+"name": "Waigali",
+"aliases": [
+"Nuristani Kalasha language",
+"Waigali language"
+],
+"links": 23
+},
+{
+"name": "Waorani",
+"aliases": [
+"Auca",
+"Auishiri",
+"Auka",
+"Aushiri",
+"Huao",
+"Huaorani",
+"Sabela",
+"Ssabela",
+"Wao",
+"Wao Terero",
+"Waorani language"
+],
+"links": 23
+},
+{
+"name": "Yaghan",
+"aliases": [
+"Háusi Kúta",
+"Iakan",
+"Jagan",
+"Yagankuta",
+"Yaghan language",
+"Yagán",
+"Yahgan",
+"Yahgan language",
+"Yamana",
+"Yágankuta",
+"Yámana"
+],
+"links": 23
+},
+{
+"name": "Yazgulyam",
+"aliases": [
+"Yazghulami",
+"Yazgulyam language"
+],
+"links": 23
+},
+{
+"name": "Yuchi",
+"aliases": [
+"Euchee",
+"Tsoyaha",
+"Yuchi language"
+],
+"links": 23
+},
+{
+"name": "Zande",
+"aliases": [
+"Zande language"
+],
+"links": 23
+},
+{
+"name": "!Kung",
+"aliases": [
+"!Xun",
+"Ju",
+"Ju-Kung",
+"Northern Khoisan"
+],
+"links": 22
+},
+{
+"name": "Abau",
+"aliases": [
+"Abau language"
+],
+"links": 22
+},
+{
+"name": "Algerian Saharan Arabic",
+"aliases": [
+"Saharan Arabic"
+],
+"links": 22
+},
+{
+"name": "Apalaí",
+"aliases": [
+"Apalai",
+"Apalai language",
+"Apalaí language"
+],
+"links": 22
+},
+{
+"name": "Arapaho",
+"aliases": [
+"Arapaho language",
+"Arapahoe",
+"arp"
+],
+"links": 22
+},
+{
+"name": "Bagvalal",
+"aliases": [
+"Bagvalal language"
+],
+"links": 22
+},
+{
+"name": "Bonan",
+"aliases": [
+"Bao'an",
+"Bonan language",
+"Gansu Bonan",
+"Ma ni skad ci",
+"Manikacha"
+],
+"links": 22
+},
+{
+"name": "Car",
+"aliases": [
+"Car language",
+"Car Nicobarese"
+],
+"links": 22
+},
+{
+"name": "Colonia Tovar",
+"aliases": [
+"Colonia Tovar dialect",
+"Colonia Tovar German"
+],
+"links": 22
+},
+{
+"name": "Dhundari",
+"aliases": [
+"Dhundari language",
+"Dhundhari",
+"Jaipuri"
+],
+"links": 22
+},
+{
+"name": "Finnish Kalo",
+"aliases": [
+"Finnish Kalo language",
+"Finnish Romani",
+"Finnish Romani language",
+"Kalo",
+"Kalo Finnish Romani",
+"Kalo language",
+"Kàlo",
+"Kàlo language",
+"rmf"
+],
+"links": 22
+},
+{
+"name": "Gun",
+"aliases": [
+"Egun",
+"Goun",
+"Gu",
+"Gun language",
+"Gun-Alada",
+"Gun-gbe",
+"Gungbe",
+"guw"
+],
+"links": 22
+},
+{
+"name": "Hixkaryana",
+"aliases": [
+"Hixkaryana language",
+"Hixkaryána"
+],
+"links": 22
+},
+{
+"name": "Kallawaya",
+"aliases": [
+"Callahuaya",
+"Callawalla",
+"Kallawaya language"
+],
+"links": 22
+},
+{
+"name": "Kavalan",
+"aliases": [
+"ckv",
+"Kavalan language"
+],
+"links": 22
+},
+{
+"name": "Kelantan-Pattani Malay",
+"aliases": [
+"Kelantan Malay",
+"Kelantan-Pattani-Terengganu Malay",
+"Kelantanese Malay",
+"Pattani",
+"Pattani Malay",
+"Yawi"
+],
+"links": 22
+},
+{
+"name": "Kharia",
+"aliases": [
+"Kharia language"
+],
+"links": 22
+},
+{
+"name": "Kpelle",
+"aliases": [
+"Kpelle language"
+],
+"links": 22
+},
+{
+"name": "Lomavren",
+"aliases": [
+"Lomavren language"
+],
+"links": 22
+},
+{
+"name": "Min Zhong",
+"aliases": [
+"Central Min",
+"Min Zhong Chinese",
+"Min Zhong kineski"
+],
+"links": 22
+},
+{
+"name": "Naukan Yupik",
+"aliases": [
+"Naukan Yupik language"
+],
+"links": 22
+},
+{
+"name": "Rotuman",
+"aliases": [
+"Rotuman language"
+],
+"links": 22
+},
+{
+"name": "Shoshoni",
+"aliases": [
+"Shoshoni language"
+],
+"links": 22
+},
+{
+"name": "Simalungun Batak",
+"aliases": [
+"Batak Simalungun language",
+"bts",
+"Simalungun",
+"Simalungun language",
+"Simelungan",
+"Simelungan language"
+],
+"links": 22
+},
+{
+"name": "Sudanese Arabic",
+"aliases": [],
+"links": 22
+},
+{
+"name": "Sumbawa",
+"aliases": [
+"Samawa",
+"Sumbawa language"
+],
+"links": 22
+},
+{
+"name": "Tregami",
+"aliases": [
+"Tregami language"
+],
+"links": 22
+},
+{
+"name": "Ulithian",
+"aliases": [
+"Ulithian language"
+],
+"links": 22
+},
+{
+"name": "Upper Saxon",
+"aliases": [
+"sxu",
+"Upper Saxon German"
+],
+"links": 22
+},
+{
+"name": "Vlax Romani",
+"aliases": [
+"Vlax Romani language"
+],
+"links": 22
+},
+{
+"name": "Warlpiri",
+"aliases": [
+"Warlpiri language"
+],
+"links": 22
+},
+{
+"name": "Westphalian",
+"aliases": [
+"wep",
+"Westfalish",
+"Westfälisch",
+"Westphalian dialects",
+"Westphalian language"
+],
+"links": 22
+},
+{
+"name": "Abidji",
+"aliases": [
+"Abidji language"
+],
+"links": 21
+},
+{
+"name": "Abé",
+"aliases": [
+"Abbay",
+"Abbey",
+"Abè"
+],
+"links": 21
+},
+{
+"name": "Achang",
+"aliases": [
+"Achang language",
+"Longchuan Achang"
+],
+"links": 21
+},
+{
+"name": "Annobonese Creole",
+"aliases": [
+"Annobonese",
+"Annobonese language",
+"Fa d'Ambu"
+],
+"links": 21
+},
+{
+"name": "Anufo",
+"aliases": [
+"Anufo language",
+"Anufɔ",
+"Chakosi",
+"Chakosi language"
+],
+"links": 21
+},
+{
+"name": "Anyin",
+"aliases": [
+"Agni language",
+"Agny language",
+"Anyi language",
+"Anyin language"
+],
+"links": 21
+},
+{
+"name": "Bahrani Arabic",
+"aliases": [
+"abh",
+"abv",
+"Baharna Arabic"
+],
+"links": 21
+},
+{
+"name": "Blin",
+"aliases": [
+"Bilen",
+"Bilin",
+"Blin language",
+"byn"
+],
+"links": 21
+},
+{
+"name": "Bribri",
+"aliases": [
+"Bri Bri",
+"Bri-bri",
+"Bribri language",
+"Bribri-wak",
+"Bribriwak"
+],
+"links": 21
+},
+{
+"name": "Dhofari Arabic",
+"aliases": [],
+"links": 21
+},
+{
+"name": "East Frisian Low Saxon",
+"aliases": [
+"Eastern Frisian"
+],
+"links": 21
+},
+{
+"name": "Ebira",
+"aliases": [
+"Ebira language"
+],
+"links": 21
+},
+{
+"name": "Finnish Sign Language",
+"aliases": [
+"Suomalainen Viittomakieli"
+],
+"links": 21
+},
+{
+"name": "Gawar-Bati",
+"aliases": [
+"Gawar-Bati language"
+],
+"links": 21
+},
+{
+"name": "Gawri",
+"aliases": [
+"Bashkarik",
+"Bashkarīk",
+"Garwi",
+"Garwi language",
+"Gawri language",
+"Kalam Kohistani",
+"Kalami",
+"Kalami language"
+],
+"links": 21
+},
+{
+"name": "Guugu Yimithirr",
+"aliases": [
+"Guguyimidjir",
+"Guugu Yimidhirr"
+],
+"links": 21
+},
+{
+"name": "Hawaiian Pidgin",
+"aliases": [
+"Hawai'i Creole English",
+"Hawai'i Pidgin",
+"Hawaian Creole English",
+"Hawaiian creole English",
+"Hawaiian Pidgin English",
+"HCE",
+"Pidgin",
+"ōlelo paʻi ʻai"
+],
+"links": 21
+},
+{
+"name": "Huichol",
+"aliases": [
+"Huichol language"
+],
+"links": 21
+},
+{
+"name": "Icelandic Sign Language",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Itza’",
+"aliases": [
+"Itza",
+"Itza'",
+"Itzaj",
+"Itza’ language",
+"Itzá"
+],
+"links": 21
+},
+{
+"name": "Ixil",
+"aliases": [
+"Ixil language"
+],
+"links": 21
+},
+{
+"name": "Kanakanavu",
+"aliases": [
+"Kanakanabu",
+"Kanakanabu language",
+"Kanakanavu language",
+"xnb"
+],
+"links": 21
+},
+{
+"name": "Kapingamarangi",
+"aliases": [
+"Kapingamarangi language"
+],
+"links": 21
+},
+{
+"name": "Karata-Tukita",
+"aliases": [
+"Karata",
+"Karata language",
+"Karata-Tukita language"
+],
+"links": 21
+},
+{
+"name": "Korean Sign Language",
+"aliases": [
+"KSL"
+],
+"links": 21
+},
+{
+"name": "Kuvi",
+"aliases": [
+"Kuvi language",
+"Kuwi"
+],
+"links": 21
+},
+{
+"name": "Lacandon",
+"aliases": [
+"Lacandon language"
+],
+"links": 21
+},
+{
+"name": "Macanese",
+"aliases": [
+"Dóci Língu di Macau",
+"Macaense",
+"Macanese language",
+"Macanese Patois",
+"Macao Creole Portuguese",
+"Macau Creole Portuguese",
+"Makista",
+"Patuá"
+],
+"links": 21
+},
+{
+"name": "Mara",
+"aliases": [
+"Lakher",
+"Mara language",
+"Mara reih",
+"Tlosai language"
+],
+"links": 21
+},
+{
+"name": "Mopan Maya",
+"aliases": [
+"Mopan Maya language",
+"Mopán Maya"
+],
+"links": 21
+},
+{
+"name": "Mura",
+"aliases": [
+"Bhũrai-ada",
+"Bohuarai-arasé",
+"Mura language"
+],
+"links": 21
+},
+{
+"name": "Mòcheno",
+"aliases": [
+"Mocheno",
+"Mocheno language",
+"Mòcheno language",
+"Mócheno"
+],
+"links": 21
+},
+{
+"name": "Nafusi",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Najdi Arabic",
+"aliases": [],
+"links": 21
+},
+{
+"name": "Ngaju",
+"aliases": [
+"Dayak Ngaju"
+],
+"links": 21
+},
+{
+"name": "Nuxálk",
+"aliases": [
+"Bella Coola",
+"Nuxalk language",
+"Nuxálk language"
+],
+"links": 21
+},
+{
+"name": "N’Ko",
+"aliases": [
+"NKo",
+"NKo language",
+"N’Ko language"
+],
+"links": 21
+},
+{
+"name": "Palula",
+"aliases": [
+"Palula language",
+"Phalura"
+],
+"links": 21
+},
+{
+"name": "Rapa",
+"aliases": [
+"Rapa language",
+"ray"
+],
+"links": 21
+},
+{
+"name": "Sakizaya",
+"aliases": [
+"Sakizaya language",
+"Sakizayan"
+],
+"links": 21
+},
+{
+"name": "Seneca",
+"aliases": [
+"Seneca language"
+],
+"links": 21
+},
+{
+"name": "Shehri",
+"aliases": [
+"Ehkili",
+"Jibbali language",
+"Jibbāli",
+"Shehri language"
+],
+"links": 21
+},
+{
+"name": "Sora",
+"aliases": [
+"Sabar language",
+"Sabara language",
+"Saonras language",
+"Saora language",
+"Saura language",
+"Savara language",
+"Sawaria language",
+"Shabari language",
+"Sora language",
+"Swara language"
+],
+"links": 21
+},
+{
+"name": "Sourashtra",
+"aliases": [
+"Saurashtra language",
+"Sourashtra language",
+"Sourashtras languagae"
+],
+"links": 21
+},
+{
+"name": "Teenek",
+"aliases": [
+"Huastec language",
+"Téenek",
+"tének"
+],
+"links": 21
+},
+{
+"name": "Tem",
+"aliases": [
+"Cotocoli",
+"Kotokoli",
+"Tem language",
+"Tém"
+],
+"links": 21
+},
+{
+"name": "Temne",
+"aliases": [
+"Temne language",
+"Timne"
+],
+"links": 21
+},
+{
+"name": "Thao",
+"aliases": [
+"ssf",
+"Thao language",
+"Thaw a lalawa"
+],
+"links": 21
+},
+{
+"name": "Tindi",
+"aliases": [
+"Tindi language"
+],
+"links": 21
+},
+{
+"name": "Tyap",
+"aliases": [
+"Attakar",
+"Cacaat",
+"Fantswam",
+"Gworok",
+"Kacecere",
+"Kafanchan",
+"Kagoro",
+"Katab",
+"Katab language",
+"Kataf",
+"Morwa",
+"Sholio",
+"Sholyio",
+"Takad",
+"Tuku",
+"Tyap language",
+"Tyecarak",
+"Tyuku"
+],
+"links": 21
+},
+{
+"name": "Tz’utujil",
+"aliases": [
+"Tz'utujil",
+"Tzutujil language,",
+"Tz’utujil language"
+],
+"links": 21
+},
+{
+"name": "Wasi-wari",
+"aliases": [
+"Prasun language",
+"Prasuni",
+"Vasi-vari",
+"Wasi-wari language",
+"Wasi-weri"
+],
+"links": 21
+},
+{
+"name": "Woleaian",
+"aliases": [
+"Woleaian language"
+],
+"links": 21
+},
+{
+"name": "Yenish",
+"aliases": [
+"yec",
+"Yeniche",
+"Yeniche language",
+"Yenish language"
+],
+"links": 21
+},
+{
+"name": "Yuracaré",
+"aliases": [
+"Yuracar",
+"Yuracare",
+"Yuracare language",
+"Yuracaré language",
+"Yurakar",
+"Yurakare",
+"Yurakaré",
+"Yurucare",
+"Yurujuré",
+"Yurújare"
+],
+"links": 21
+},
+{
+"name": "Adamorobe Sign Language",
+"aliases": [
+"AdaSL",
+"Mumu kasa"
+],
+"links": 20
+},
+{
+"name": "Aimaq",
+"aliases": [
+"Aimaq dialect",
+"Aimaq language",
+"Aimaqi"
+],
+"links": 20
+},
+{
+"name": "Air Tamajeq",
+"aliases": [
+"Air Tamajeq language",
+"Tayart Tamajeq"
+],
+"links": 20
+},
+{
+"name": "Akha",
+"aliases": [
+"Akha language"
+],
+"links": 20
+},
+{
+"name": "Angkola",
+"aliases": [
+"Anakola",
+"Anakola Batak",
+"Anakola language",
+"Angkola Batak",
+"Angkola language"
+],
+"links": 20
+},
+{
+"name": "Ao",
+"aliases": [
+"Ao language"
+],
+"links": 20
+},
+{
+"name": "Araki",
+"aliases": [
+"Araki language"
+],
+"links": 20
+},
+{
+"name": "Araona",
+"aliases": [
+"Araona language"
+],
+"links": 20
+},
+{
+"name": "Awakatek",
+"aliases": [
+"Aguacateco",
+"Awakatek language"
+],
+"links": 20
+},
+{
+"name": "Awngi",
+"aliases": [
+"Awngi language"
+],
+"links": 20
+},
+{
+"name": "Balkan Romani",
+"aliases": [
+"Balkan Romani language"
+],
+"links": 20
+},
+{
+"name": "Bamum",
+"aliases": [
+"Bamoun language",
+"Bamum language",
+"Bamun",
+"Bamun language",
+"Shü Pamom"
+],
+"links": 20
+},
+{
+"name": "Bathari",
+"aliases": [
+"Bathari language",
+"Baṭḥari"
+],
+"links": 20
+},
+{
+"name": "Bissa",
+"aliases": [
+"Bisa",
+"Bissa language",
+"Bissagiella"
+],
+"links": 20
+},
+{
+"name": "Dahalik",
+"aliases": [
+"Dahaalik",
+"Dahalik language",
+"Dahlak",
+"dlk"
+],
+"links": 20
+},
+{
+"name": "Dahalo",
+"aliases": [
+"Dahalo language"
+],
+"links": 20
+},
+{
+"name": "Dairi Batak",
+"aliases": [
+"btd",
+"Dairi language"
+],
+"links": 20
+},
+{
+"name": "Duala",
+"aliases": [
+"Diwala language",
+"Douala language",
+"dua",
+"Duala language",
+"Dualla language",
+"Dwala language",
+"Dwela language"
+],
+"links": 20
+},
+{
+"name": "Ewondo",
+"aliases": [
+"Ewondo language"
+],
+"links": 20
+},
+{
+"name": "Fanagalo",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Forro Creole",
+"aliases": [
+"Crioulo santomense",
+"Forro",
+"Forro language",
+"Santome",
+"Sãotomense"
+],
+"links": 20
+},
+{
+"name": "Ghomara",
+"aliases": [
+"Ghomara language"
+],
+"links": 20
+},
+{
+"name": "Ghotuo",
+"aliases": [
+"Ghotuo language",
+"Otuo",
+"Otwa"
+],
+"links": 20
+},
+{
+"name": "Gullah",
+"aliases": [
+"Geechee",
+"gul",
+"Gullah language",
+"Sea Island Creole English"
+],
+"links": 20
+},
+{
+"name": "Hadiyya",
+"aliases": [
+"Hadiyya language"
+],
+"links": 20
+},
+{
+"name": "Harsusi",
+"aliases": [
+"Harsusi language"
+],
+"links": 20
+},
+{
+"name": "Huilliche",
+"aliases": [
+"Huilliche language"
+],
+"links": 20
+},
+{
+"name": "Ibanag",
+"aliases": [
+"Ibanag language",
+"Ibanak",
+"Ybanag"
+],
+"links": 20
+},
+{
+"name": "Irula",
+"aliases": [
+"Irula language",
+"Iruliga"
+],
+"links": 20
+},
+{
+"name": "Jarai",
+"aliases": [
+"Jarai language"
+],
+"links": 20
+},
+{
+"name": "Jju",
+"aliases": [
+"Jju language",
+"Kaje language"
+],
+"links": 20
+},
+{
+"name": "Kalanga",
+"aliases": [
+"Ikalanga",
+"Kalanga language",
+"TjiKalanga"
+],
+"links": 20
+},
+{
+"name": "Kanembu",
+"aliases": [
+"Kanembu language"
+],
+"links": 20
+},
+{
+"name": "Kawésqar",
+"aliases": [
+"alc",
+"Kawesqar language",
+"Kawésqar language",
+"Qawasqar"
+],
+"links": 20
+},
+{
+"name": "Kutenai",
+"aliases": [
+"Kootenai",
+"Kootenay",
+"Ksanka",
+"Ktunaxa",
+"Kutenai language"
+],
+"links": 20
+},
+{
+"name": "Kuy",
+"aliases": [
+"Kuay",
+"Kuy language"
+],
+"links": 20
+},
+{
+"name": "Laal",
+"aliases": [
+"Laal language"
+],
+"links": 20
+},
+{
+"name": "Maba",
+"aliases": [
+"Bura Mabang",
+"Maba language",
+"Maban",
+"Mabang"
+],
+"links": 20
+},
+{
+"name": "Muong",
+"aliases": [
+"Muong language"
+],
+"links": 20
+},
+{
+"name": "Nafaanra",
+"aliases": [
+"Nafaara",
+"Nafaara language",
+"Nafana",
+"Nafanan"
+],
+"links": 20
+},
+{
+"name": "Nawat",
+"aliases": [
+"Nicarao",
+"Náhuat",
+"Pipil",
+"Pipil language"
+],
+"links": 20
+},
+{
+"name": "Northern Altai",
+"aliases": [
+"Northern Altai language",
+"Northern Altai languages",
+"Northern Altay"
+],
+"links": 20
+},
+{
+"name": "Nupe",
+"aliases": [
+"Nupe language",
+"Nupe-Nupe-Tako"
+],
+"links": 20
+},
+{
+"name": "O'odham",
+"aliases": [
+"Akimel O'odham",
+"O'odham language",
+"ood",
+"Oʼodham language",
+"Papago",
+"Papago-Pima",
+"Pima",
+"Tohono O'odham"
+],
+"links": 20
+},
+{
+"name": "Obolo",
+"aliases": [
+"Andoni"
+],
+"links": 20
+},
+{
+"name": "Ollari",
+"aliases": [
+"Ollari language",
+"Pottangi Ollar Gadaba language",
+"Salur Ollar Gadaba language"
+],
+"links": 20
+},
+{
+"name": "Oroqen",
+"aliases": [
+"Oroqen language"
+],
+"links": 20
+},
+{
+"name": "Pemon",
+"aliases": [
+"aoc",
+"Pemon language"
+],
+"links": 20
+},
+{
+"name": "Polari",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Rushani",
+"aliases": [
+"Badakhshani",
+"Roshani",
+"Rushani language",
+"Rushani-Khufi"
+],
+"links": 20
+},
+{
+"name": "Sa'idi Arabic",
+"aliases": [
+"Upper Egyptian Arabic"
+],
+"links": 20
+},
+{
+"name": "Saaroa",
+"aliases": [
+"Lha'alua",
+"Saaroa language",
+"sxr"
+],
+"links": 20
+},
+{
+"name": "Sakapultek",
+"aliases": [
+"Sacapulteco",
+"Sakapultek language"
+],
+"links": 20
+},
+{
+"name": "Semai",
+"aliases": [
+"sea",
+"Semai language"
+],
+"links": 20
+},
+{
+"name": "Sipakapa",
+"aliases": [
+"Sipacapense",
+"Sipakapa language"
+],
+"links": 20
+},
+{
+"name": "Sokna",
+"aliases": [
+"Amazigh Sokna language",
+"Sawknah",
+"Sokna language"
+],
+"links": 20
+},
+{
+"name": "South African Sign Language",
+"aliases": [
+"SASL"
+],
+"links": 20
+},
+{
+"name": "Southern Yukaghir",
+"aliases": [
+"Forest Yukagir language",
+"Southern Yukaghir language"
+],
+"links": 20
+},
+{
+"name": "Tai Dam",
+"aliases": [
+"Black Tai",
+"Tai Dam language"
+],
+"links": 20
+},
+{
+"name": "Teda",
+"aliases": [
+"Teda language",
+"Tedaga"
+],
+"links": 20
+},
+{
+"name": "Western Neo-Aramaic",
+"aliases": [
+"Siryon",
+"Square Aramaic Alphabet"
+],
+"links": 20
+},
+{
+"name": "written Chinese language",
+"aliases": [
+"Chinese"
+],
+"links": 20
+},
+{
+"name": "Afade",
+"aliases": [
+"Afade language",
+"Afaɗə"
+],
+"links": 19
+},
+{
+"name": "Akateko",
+"aliases": [
+"Akateko language",
+"Western Kanjobal"
+],
+"links": 19
+},
+{
+"name": "Ambonese",
+"aliases": [
+"abs",
+"Ambonese creole",
+"Ambonese creole language",
+"Ambonese language"
+],
+"links": 19
+},
+{
+"name": "Babuza",
+"aliases": [
+"Babuza language",
+"bzg"
+],
+"links": 19
+},
+{
+"name": "Bedawi Arabic",
+"aliases": [
+"Eastern Egyptian Bedawi Arabic",
+"Northwest Arabian Arabic"
+],
+"links": 19
+},
+{
+"name": "Bole",
+"aliases": [
+"Bole language"
+],
+"links": 19
+},
+{
+"name": "Brunei Malay",
+"aliases": [
+"Bruneian Malay"
+],
+"links": 19
+},
+{
+"name": "Chickasaw",
+"aliases": [
+"Chickasaw language"
+],
+"links": 19
+},
+{
+"name": "Chokwe",
+"aliases": [
+"Chokwe language"
+],
+"links": 19
+},
+{
+"name": "Chontal Maya",
+"aliases": [
+"Acalan",
+"Chontal Maya language",
+"Tabasco Chontal",
+"Yoko ochoco"
+],
+"links": 19
+},
+{
+"name": "Dakota",
+"aliases": [
+"Dakota language"
+],
+"links": 19
+},
+{
+"name": "Dargin",
+"aliases": [
+"Dargic",
+"Dargic languages",
+"Dargin languages",
+"Dargwa",
+"Dargwa languages",
+"Dargwic",
+"Dargwic languages"
+],
+"links": 19
+},
+{
+"name": "Dazaga-kara",
+"aliases": [
+"Daza-kara",
+"Dazaga language"
+],
+"links": 19
+},
+{
+"name": "Fataluku",
+"aliases": [
+"Fataluku language"
+],
+"links": 19
+},
+{
+"name": "Hupa",
+"aliases": [
+"Hoopa-Chilula",
+"Hupa language"
+],
+"links": 19
+},
+{
+"name": "Hän",
+"aliases": [
+"Han",
+"Han language",
+"Hän language"
+],
+"links": 19
+},
+{
+"name": "Indus Kohistani",
+"aliases": [
+"Abasin Kohistani",
+"Maiya language",
+"Maiyã"
+],
+"links": 19
+},
+{
+"name": "Iraqw",
+"aliases": [
+"Iraqw language"
+],
+"links": 19
+},
+{
+"name": "Iu Mien",
+"aliases": [
+"Iu Mien language"
+],
+"links": 19
+},
+{
+"name": "Jakaltek",
+"aliases": [
+"Jakaltek language",
+"Jakalteko",
+"Popti'"
+],
+"links": 19
+},
+{
+"name": "Jamaican English",
+"aliases": [
+"Jamaican Standard English"
+],
+"links": 19
+},
+{
+"name": "Jambi Malay",
+"aliases": [
+"Djambi language",
+"Jambi Malay language",
+"jax"
+],
+"links": 19
+},
+{
+"name": "Kam",
+"aliases": [
+"Kam language"
+],
+"links": 19
+},
+{
+"name": "Karo Batak",
+"aliases": [
+"btx",
+"Karo language"
+],
+"links": 19
+},
+{
+"name": "Khortha",
+"aliases": [
+"Eastern Magahi",
+"Khortha dialect",
+"Khortha language"
+],
+"links": 19
+},
+{
+"name": "Kudmali",
+"aliases": [
+"Kudmali language",
+"Kudmi",
+"Kurmali",
+"kyw"
+],
+"links": 19
+},
+{
+"name": "Kwasio",
+"aliases": [
+"Kwasio language"
+],
+"links": 19
+},
+{
+"name": "Lahu",
+"aliases": [
+"Lahu language"
+],
+"links": 19
+},
+{
+"name": "Lunda",
+"aliases": [
+"Lunda language"
+],
+"links": 19
+},
+{
+"name": "Ma'anyan",
+"aliases": [
+"Ma'anyan language",
+"Maanjan",
+"Maanyak Dayak",
+"Maanyan",
+"Maʼanyan",
+"Maʼanyan language",
+"mhy"
+],
+"links": 19
+},
+{
+"name": "Makasae",
+"aliases": [
+"Makasae language",
+"Makasai"
+],
+"links": 19
+},
+{
+"name": "Manado",
+"aliases": [
+"Manado Malay"
+],
+"links": 19
+},
+{
+"name": "Mikasuki",
+"aliases": [
+"Hitchiti-Mikasuki language",
+"Miccosukee language",
+"Mikasuki language"
+],
+"links": 19
+},
+{
+"name": "Moken",
+"aliases": [
+"Moken language"
+],
+"links": 19
+},
+{
+"name": "Niuafo'ou",
+"aliases": [
+"Niuafo'ou language"
+],
+"links": 19
+},
+{
+"name": "Ona",
+"aliases": [
+"Ona language",
+"Selk'nam",
+"Shelknam"
+],
+"links": 19
+},
+{
+"name": "Pa'O",
+"aliases": [
+"blk",
+"Pa'O language",
+"Pa'O people"
+],
+"links": 19
+},
+{
+"name": "Pitjantjatjara",
+"aliases": [
+"Pitjantjatjara dialect",
+"Pitjantjatjara language",
+"pjt"
+],
+"links": 19
+},
+{
+"name": "Portuguese Sign Language",
+"aliases": [
+"LGP"
+],
+"links": 19
+},
+{
+"name": "Ronga",
+"aliases": [
+"Ronga language"
+],
+"links": 19
+},
+{
+"name": "Runyankole",
+"aliases": [
+"Nkole",
+"Nkore language",
+"Nyankole",
+"Nyankore",
+"Orunyankole",
+"Orunyankore",
+"Runyankore"
+],
+"links": 19
+},
+{
+"name": "Russian Sign Language",
+"aliases": [
+"RSL",
+"Russkii Zhestovyi Yazyk",
+"Russkij Žestovyj Âzyk"
+],
+"links": 19
+},
+{
+"name": "Sangsari",
+"aliases": [
+"Sangisari",
+"Sangsari language"
+],
+"links": 19
+},
+{
+"name": "Semnani",
+"aliases": [
+"Semnani language",
+"Semnani-Biyabuneki"
+],
+"links": 19
+},
+{
+"name": "Senhaja de Srair",
+"aliases": [
+"Senhaja De Srair language"
+],
+"links": 19
+},
+{
+"name": "Slavomolisano",
+"aliases": [
+"Molise Croatian",
+"Molise Slavic",
+"Slavomolisano dialect"
+],
+"links": 19
+},
+{
+"name": "Southern Thai",
+"aliases": [
+"sou",
+"Southern Thai language"
+],
+"links": 19
+},
+{
+"name": "Surigaonon",
+"aliases": [
+"Surigaonon language"
+],
+"links": 19
+},
+{
+"name": "Surjapuri",
+"aliases": [
+"Surjapuri language"
+],
+"links": 19
+},
+{
+"name": "Tamahaq",
+"aliases": [
+"Tahaggart Tamahaq",
+"Tamahaq language"
+],
+"links": 19
+},
+{
+"name": "Tehuelche",
+"aliases": [
+"Tehuelche language"
+],
+"links": 19
+},
+{
+"name": "Uspantek",
+"aliases": [
+"Uspanteco",
+"Uspanteko"
+],
+"links": 19
+},
+{
+"name": "War",
+"aliases": [
+"Jaintian War language",
+"Sylheti Oor language",
+"War language",
+"War-Jaintia"
+],
+"links": 19
+},
+{
+"name": "West Uvean",
+"aliases": [
+"Fagauvea",
+"West Uvean language"
+],
+"links": 19
+},
+{
+"name": "Zaghawa",
+"aliases": [
+"Bera",
+"Beria",
+"Zaghawa language"
+],
+"links": 19
+},
+{
+"name": "Abaknon",
+"aliases": [
+"Abaknon language",
+"Inabaknon"
+],
+"links": 18
+},
+{
+"name": "Alas",
+"aliases": [
+"Alas Batak",
+"Alas language",
+"Batak Alas"
+],
+"links": 18
+},
+{
+"name": "Alur",
+"aliases": [
+"Alur dialect"
+],
+"links": 18
+},
+{
+"name": "Ambala",
+"aliases": [
+"Ambala Ayta",
+"Ambala language"
+],
+"links": 18
+},
+{
+"name": "Anuta",
+"aliases": [
+"Anuta language"
+],
+"links": 18
+},
+{
+"name": "Austral",
+"aliases": [
+"Austral language",
+"aut",
+"Reo Tuha'a pae"
+],
+"links": 18
+},
+{
+"name": "Bagirmi",
+"aliases": [
+"Bagirmi language"
+],
+"links": 18
+},
+{
+"name": "Bari",
+"aliases": [
+"Bari language",
+"Barian",
+"Barian language",
+"Beri language",
+"Karo",
+"Karo language",
+"Kutuk",
+"Kutuk language"
+],
+"links": 18
+},
+{
+"name": "Bariba",
+"aliases": [
+"Baatonum",
+"Bariba language"
+],
+"links": 18
+},
+{
+"name": "Brazilian Sign Language",
+"aliases": [
+"Brazilian Cities Sign Language",
+"LGB",
+"Libras",
+"LSB",
+"LSCB"
+],
+"links": 18
+},
+{
+"name": "Bube",
+"aliases": [
+"Bube language",
+"Bubi",
+"Bubi language"
+],
+"links": 18
+},
+{
+"name": "Bura",
+"aliases": [
+"Bura language",
+"Bura-Pabir"
+],
+"links": 18
+},
+{
+"name": "Busa",
+"aliases": [
+"Busa language",
+"Odiai"
+],
+"links": 18
+},
+{
+"name": "Bésɨro",
+"aliases": [
+"Besïro",
+"Chiquitano",
+"Tarapecosi"
+],
+"links": 18
+},
+{
+"name": "Caddo",
+"aliases": [
+"Caddo language"
+],
+"links": 18
+},
+{
+"name": "Cayuga",
+"aliases": [
+"Cayuga language"
+],
+"links": 18
+},
+{
+"name": "Dagaare",
+"aliases": [
+"Dagaare language",
+"Dagara",
+"Southern Dagaare"
+],
+"links": 18
+},
+{
+"name": "Delaware",
+"aliases": [
+"Delaware languages",
+"Lenape",
+"Lenape languages"
+],
+"links": 18
+},
+{
+"name": "Duruwa",
+"aliases": [
+"Duruwa language",
+"Parji"
+],
+"links": 18
+},
+{
+"name": "Erromintxela",
+"aliases": [
+"Erromintxela language"
+],
+"links": 18
+},
+{
+"name": "Ese Ejja",
+"aliases": [
+"Ese Ejja language",
+"Ese'jja language"
+],
+"links": 18
+},
+{
+"name": "Gawwada",
+"aliases": [
+"Ale language",
+"Gawwada language"
+],
+"links": 18
+},
+{
+"name": "Ghadamès",
+"aliases": [
+"Ghadames",
+"Ghadames language",
+"Ghadamès language"
+],
+"links": 18
+},
+{
+"name": "Hakha–Chin",
+"aliases": [
+"Haka Chin",
+"Hakha Chin language",
+"Hakha-Chin",
+"Hakha-Chin language"
+],
+"links": 18
+},
+{
+"name": "Itonama",
+"aliases": [
+"Itonama language",
+"Sihni Pandara"
+],
+"links": 18
+},
+{
+"name": "Jaqaru",
+"aliases": [
+"Jaqaru language"
+],
+"links": 18
+},
+{
+"name": "Juba Arabic",
+"aliases": [
+"Arabi Juba",
+"Pidgin Arabic",
+"Southern Sudan Arabic",
+"Sudanese Creole Arabic"
+],
+"links": 18
+},
+{
+"name": "Kaingang",
+"aliases": [
+"Kaingang language"
+],
+"links": 18
+},
+{
+"name": "Kasem",
+"aliases": [
+"Kasem language",
+"Kasena",
+"Kasena language",
+"Kassem",
+"Kassem language",
+"Kassena",
+"Kassena language",
+"xsm"
+],
+"links": 18
+},
+{
+"name": "Khmu",
+"aliases": [
+"Khmu language"
+],
+"links": 18
+},
+{
+"name": "Kota",
+"aliases": [
+"Kota language"
+],
+"links": 18
+},
+{
+"name": "Kunama",
+"aliases": [
+"Kunama language"
+],
+"links": 18
+},
+{
+"name": "Lushootseed",
+"aliases": [
+"Lushootseed language",
+"Puget Salish",
+"Puget Sound Salish",
+"Skagit-Nisqually"
+],
+"links": 18
+},
+{
+"name": "Masbateño",
+"aliases": [
+"Masbatenyo",
+"Masbateño language"
+],
+"links": 18
+},
+{
+"name": "Massa",
+"aliases": [
+"Masana",
+"Massa language"
+],
+"links": 18
+},
+{
+"name": "Mulgi",
+"aliases": [
+"Mulgi dialect",
+"Mulgi language"
+],
+"links": 18
+},
+{
+"name": "Munsee",
+"aliases": [
+"Munsee language",
+"umu"
+],
+"links": 18
+},
+{
+"name": "Pazeh-Kaxabu",
+"aliases": [
+"Kaxabu-Pazeh",
+"Pazeh",
+"Pazih",
+"pzh"
+],
+"links": 18
+},
+{
+"name": "Poqomam",
+"aliases": [
+"Poqomam language"
+],
+"links": 18
+},
+{
+"name": "Purik",
+"aliases": [
+"Burig",
+"Purgi language",
+"PurigSkad",
+"Purik-Sham-Nubra",
+"Purki"
+],
+"links": 18
+},
+{
+"name": "Satawalese",
+"aliases": [
+"Satawalese language"
+],
+"links": 18
+},
+{
+"name": "Selti",
+"aliases": [
+"Selti language",
+"Silt'e",
+"Silt'e language",
+"Siltʼe",
+"Siltʼe language"
+],
+"links": 18
+},
+{
+"name": "Serbisk",
+"aliases": [
+"Manuš",
+"Sintitikes"
+],
+"links": 18
+},
+{
+"name": "She",
+"aliases": [
+"She language"
+],
+"links": 18
+},
+{
+"name": "Soga",
+"aliases": [
+"JE.16",
+"Lusoga language",
+"Soga language",
+"soga1422",
+"xog"
+],
+"links": 18
+},
+{
+"name": "Tahoua",
+"aliases": [
+"Tawallammat Tamajaq",
+"Tawellemmet",
+"Tawəlləmmət"
+],
+"links": 18
+},
+{
+"name": "Tasawaq",
+"aliases": [
+"Tasawaq language"
+],
+"links": 18
+},
+{
+"name": "Tektitek",
+"aliases": [
+"Tektitek language",
+"Tektiteko, Tectiteco, Teco"
+],
+"links": 18
+},
+{
+"name": "Ticuna",
+"aliases": [
+"Ticuna language",
+"Tikuna"
+],
+"links": 18
+},
+{
+"name": "Tsamai",
+"aliases": [
+"Tsamai language"
+],
+"links": 18
+},
+{
+"name": "Turkish Sign Language",
+"aliases": [
+"TID",
+"TİD"
+],
+"links": 18
+},
+{
+"name": "Urak Lawoi’",
+"aliases": [
+"Urak Lawoi'",
+"Urak Lawoi’ language"
+],
+"links": 18
+},
+{
+"name": "Vedda",
+"aliases": [
+"Vedda language",
+"Veddah"
+],
+"links": 18
+},
+{
+"name": "Western Apache",
+"aliases": [
+"Western Apache language"
+],
+"links": 18
+},
+{
+"name": "Yele",
+"aliases": [
+"Yele language",
+"Yélî Dnye"
+],
+"links": 18
+},
+{
+"name": "'Are'are",
+"aliases": [
+"'Are'are language"
+],
+"links": 17
+},
+{
+"name": "Abua",
+"aliases": [
+"Abua language"
+],
+"links": 17
+},
+{
+"name": "Aikanã",
+"aliases": [
+"Aikanã language",
+"Corumbiara",
+"Huari",
+"Kolumbiara",
+"Tubarão",
+"Uari",
+"Wari"
+],
+"links": 17
+},
+{
+"name": "Alumu",
+"aliases": [
+"Alumu language",
+"Alumu-Tesu"
+],
+"links": 17
+},
+{
+"name": "Amdang",
+"aliases": [
+"Amdang language",
+"Biltine language"
+],
+"links": 17
+},
+{
+"name": "Angolar",
+"aliases": [
+"Angolar language"
+],
+"links": 17
+},
+{
+"name": "Argentine Sign Language",
+"aliases": [
+"Argentinean Sign Language",
+"LSA"
+],
+"links": 17
+},
+{
+"name": "Arrernte",
+"aliases": [
+"Arrernte language",
+"Upper Arrernte language"
+],
+"links": 17
+},
+{
+"name": "Badeshi",
+"aliases": [
+"Badeshi language"
+],
+"links": 17
+},
+{
+"name": "Bantik",
+"aliases": [
+"Bantik language"
+],
+"links": 17
+},
+{
+"name": "Bartangi",
+"aliases": [
+"Bartangi language",
+"Bartangi-Roshorvi language"
+],
+"links": 17
+},
+{
+"name": "Bassari",
+"aliases": [
+"Bassari language",
+"Bassari-Tanda",
+"Oniyan"
+],
+"links": 17
+},
+{
+"name": "Belizean Creole",
+"aliases": [
+"Belize Kriol English",
+"Belizean Kriol"
+],
+"links": 17
+},
+{
+"name": "Berom",
+"aliases": [
+"Berom language"
+],
+"links": 17
+},
+{
+"name": "Bijago",
+"aliases": [
+"Bidyogo",
+"Bijago language"
+],
+"links": 17
+},
+{
+"name": "Catalan Sign Language",
+"aliases": [
+"Catalonian Sign Language",
+"LSC"
+],
+"links": 17
+},
+{
+"name": "Chamicuro",
+"aliases": [
+"Chamicuro language"
+],
+"links": 17
+},
+{
+"name": "Chibarwe",
+"aliases": [
+"Mabarwe",
+"Manyika Chibarwe language"
+],
+"links": 17
+},
+{
+"name": "Crow",
+"aliases": [
+"Apsaalooke",
+"Apsáalooke aliláau",
+"Crow language"
+],
+"links": 17
+},
+{
+"name": "Dhatki",
+"aliases": [
+"Dhati language",
+"Dhatki language",
+"Dhatti language",
+"Thari language"
+],
+"links": 17
+},
+{
+"name": "Esan",
+"aliases": [
+"Esan language"
+],
+"links": 17
+},
+{
+"name": "Guambiano",
+"aliases": [
+"Guambiano language",
+"Namoi Wam",
+"Namtrik"
+],
+"links": 17
+},
+{
+"name": "Guyanese Creole",
+"aliases": [
+"Creolese",
+"Guyanese Creole English"
+],
+"links": 17
+},
+{
+"name": "Hutterite German",
+"aliases": [
+"Hutterisch",
+"Tirolean"
+],
+"links": 17
+},
+{
+"name": "Idoma",
+"aliases": [
+"Idoma language"
+],
+"links": 17
+},
+{
+"name": "Innu-aimun",
+"aliases": [
+"Innu",
+"Innu language",
+"Innu-aimun language",
+"Moe",
+"Montagnais",
+"Montagnais language"
+],
+"links": 17
+},
+{
+"name": "Iowa–Otoe–Missouria",
+"aliases": [
+"Báxoje-Jíwere-Nyútʼachi",
+"Chiwere",
+"Chiwere language",
+"Iowa language",
+"Iowa-Oto language",
+"Iowa-Otoe-Missouria",
+"Iowa-Otoe-Missouria language",
+"Ioway language"
+],
+"links": 17
+},
+{
+"name": "Ivatan",
+"aliases": [
+"Ivatan language"
+],
+"links": 17
+},
+{
+"name": "Izon",
+"aliases": [
+"Izon language"
+],
+"links": 17
+},
+{
+"name": "Jalaa",
+"aliases": [
+"Cen Tuum",
+"Centuum",
+"Centúúm",
+"Jalaa language"
+],
+"links": 17
+},
+{
+"name": "Judeo-Iraqi Arabic",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Judeo-Tripolitanian Arabic",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Karuk",
+"aliases": [
+"Ararahih'uripih",
+"Araráhih",
+"Karok",
+"Karuk language"
+],
+"links": 17
+},
+{
+"name": "Kikai",
+"aliases": [
+"Kikai language"
+],
+"links": 17
+},
+{
+"name": "Kinnauri",
+"aliases": [
+"Kinnauri language"
+],
+"links": 17
+},
+{
+"name": "Kiowa",
+"aliases": [
+"Kiowa language"
+],
+"links": 17
+},
+{
+"name": "Kristang",
+"aliases": [
+"Cristan",
+"Cristão",
+"Kristang language",
+"Linggu Mai",
+"Malaccan Creole Portuguese",
+"mcm",
+"Papia",
+"Papia Kristang",
+"Portugis",
+"Portugues di Melaka"
+],
+"links": 17
+},
+{
+"name": "Kuot",
+"aliases": [
+"Kuot language",
+"Panaras",
+"Panaris"
+],
+"links": 17
+},
+{
+"name": "Kwangali",
+"aliases": [
+"Kwangali language",
+"Kwangari language"
+],
+"links": 17
+},
+{
+"name": "Libido",
+"aliases": [
+"Libido language",
+"Mareqo"
+],
+"links": 17
+},
+{
+"name": "Luhya",
+"aliases": [
+"Luhia",
+"Luhya language",
+"Luyia",
+"Oluluyia"
+],
+"links": 17
+},
+{
+"name": "Maore",
+"aliases": [
+"Mahorais",
+"Mahoran",
+"Mahoran dialect",
+"Maore Comorian",
+"Maore dialect",
+"Shimaore"
+],
+"links": 17
+},
+{
+"name": "Mazatecan",
+"aliases": [
+"Mazatec",
+"Mazatec Huautla",
+"Mazatecan languages"
+],
+"links": 17
+},
+{
+"name": "Mokilese",
+"aliases": [
+"Mokilese language",
+"Mwoakilloan"
+],
+"links": 17
+},
+{
+"name": "Mozabite",
+"aliases": [
+"Tumzabt"
+],
+"links": 17
+},
+{
+"name": "North Mesopotamian Arabic",
+"aliases": [
+"Maslawi",
+"Maslawi Arabic",
+"Maslawi dialect",
+"Moslawi",
+"Moslawi Arabic",
+"Moslawi dialect",
+"Mosul Arabic"
+],
+"links": 17
+},
+{
+"name": "Nyamwezi",
+"aliases": [
+"Nyamwezi language"
+],
+"links": 17
+},
+{
+"name": "Osing",
+"aliases": [
+"Osing language",
+"Using",
+"Using Javanese",
+"Using language"
+],
+"links": 17
+},
+{
+"name": "Palenquero",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Parya",
+"aliases": [
+"Parya language",
+"Tajuzbeki"
+],
+"links": 17
+},
+{
+"name": "Pengo",
+"aliases": [
+"Pengo language"
+],
+"links": 17
+},
+{
+"name": "Petjo",
+"aliases": [
+"Peco' Creole",
+"Pecok",
+"Petjo language",
+"Petjok"
+],
+"links": 17
+},
+{
+"name": "Poqomchi'",
+"aliases": [
+"Pokomchi language",
+"Pokomchí language",
+"Poqomchi' language"
+],
+"links": 17
+},
+{
+"name": "Principense",
+"aliases": [
+"Principense language"
+],
+"links": 17
+},
+{
+"name": "Pukapukan",
+"aliases": [
+"Pukapuka",
+"Pukapukan language"
+],
+"links": 17
+},
+{
+"name": "Pulaar",
+"aliases": [
+"Pulaar language"
+],
+"links": 17
+},
+{
+"name": "Puluwatese",
+"aliases": [
+"Puluwat"
+],
+"links": 17
+},
+{
+"name": "Rade",
+"aliases": [
+"Ede language",
+"Rade language",
+"Rhade language"
+],
+"links": 17
+},
+{
+"name": "Scandoromani",
+"aliases": [
+"Scandoromani language",
+"Tattare language"
+],
+"links": 17
+},
+{
+"name": "Shenwa",
+"aliases": [
+"Chenoua",
+"Shenwa language",
+"Western Algerian Berber language"
+],
+"links": 17
+},
+{
+"name": "Shihhi Arabic",
+"aliases": [
+"Shehhi Arabic"
+],
+"links": 17
+},
+{
+"name": "Shompen",
+"aliases": [
+"Shom Peng",
+"Shompen language"
+],
+"links": 17
+},
+{
+"name": "Sui",
+"aliases": [
+"Sui language",
+"Suī"
+],
+"links": 17
+},
+{
+"name": "Swedish Sign Language",
+"aliases": [
+"SSL",
+"STS",
+"Svenskt Teckenspråk"
+],
+"links": 17
+},
+{
+"name": "Tayap",
+"aliases": [
+"Gapun",
+"Taiap",
+"Taiap language",
+"Tayap language",
+"Tayap mer"
+],
+"links": 17
+},
+{
+"name": "Tojolab'al",
+"aliases": [
+"Tojolab'al language",
+"Tojolabal"
+],
+"links": 17
+},
+{
+"name": "Tolai",
+"aliases": [
+"ksd",
+"Kuanua",
+"Tinata Tuna",
+"Tolai language"
+],
+"links": 17
+},
+{
+"name": "Toraja-Sa’dan",
+"aliases": [
+"Toraja-Sa'dan",
+"Toraja-Sa’dan language"
+],
+"links": 17
+},
+{
+"name": "Tsachila",
+"aliases": [
+"Colorado",
+"Tsachila language",
+"Tsafiki"
+],
+"links": 17
+},
+{
+"name": "Tutong",
+"aliases": [
+"Tutong language"
+],
+"links": 17
+},
+{
+"name": "Tweants",
+"aliases": [
+"Twents"
+],
+"links": 17
+},
+{
+"name": "Tày",
+"aliases": [
+"Tay",
+"Tho"
+],
+"links": 17
+},
+{
+"name": "Ushoji",
+"aliases": [
+"Ushoji language",
+"Ushojo"
+],
+"links": 17
+},
+{
+"name": "Wagdi",
+"aliases": [
+"Wagdi language"
+],
+"links": 17
+},
+{
+"name": "Yagua",
+"aliases": [
+"Yagua language"
+],
+"links": 17
+},
+{
+"name": "Yakan",
+"aliases": [
+"Yakan language"
+],
+"links": 17
+},
+{
+"name": "Yalë",
+"aliases": [
+"Yale",
+"Yalë language"
+],
+"links": 17
+},
+{
+"name": "Yokuts",
+"aliases": [
+"Mariposa",
+"Yokuts language",
+"Yokutsan"
+],
+"links": 17
+},
+{
+"name": "Yoron",
+"aliases": [
+"Yoron language",
+"Yoron-Ryukyuan"
+],
+"links": 17
+},
+{
+"name": "Abellen",
+"aliases": [
+"Abellen Ayta",
+"Abellen language",
+"Ayta Abenlen"
+],
+"links": 16
+},
+{
+"name": "Abui",
+"aliases": [
+"Abui language"
+],
+"links": 16
+},
+{
+"name": "Achawa",
+"aliases": [
+"Achagua",
+"Achawa language"
+],
+"links": 16
+},
+{
+"name": "Aguaruna",
+"aliases": [
+"Aguaruna language"
+],
+"links": 16
+},
+{
+"name": "Ajië",
+"aliases": [
+"Ajie",
+"Ajië language"
+],
+"links": 16
+},
+{
+"name": "Angami",
+"aliases": [
+"Angami language",
+"Angami Naga"
+],
+"links": 16
+},
+{
+"name": "Anêm",
+"aliases": [
+"Anem",
+"Anem language",
+"Anêm language"
+],
+"links": 16
+},
+{
+"name": "Arikara",
+"aliases": [
+"Arikara language"
+],
+"links": 16
+},
+{
+"name": "Arta",
+"aliases": [
+"Arta language",
+"atz"
+],
+"links": 16
+},
+{
+"name": "Asa",
+"aliases": [
+"Aasax",
+"Aasáx",
+"Asa language"
+],
+"links": 16
+},
+{
+"name": "Avatime",
+"aliases": [
+"Afatime",
+"Avatime language",
+"Sia",
+"Sideme"
+],
+"links": 16
+},
+{
+"name": "Ayoreo",
+"aliases": [
+"Ayoreo language"
+],
+"links": 16
+},
+{
+"name": "Baduy",
+"aliases": [
+"Badui",
+"Badui language",
+"Baduy language"
+],
+"links": 16
+},
+{
+"name": "Bahau",
+"aliases": [
+"Bahau language",
+"Bahau Mahakam"
+],
+"links": 16
+},
+{
+"name": "Bangka",
+"aliases": [
+"Bangka language",
+"Bangka Malay",
+"Bangkanese"
+],
+"links": 16
+},
+{
+"name": "Bateri",
+"aliases": [
+"Bateri language"
+],
+"links": 16
+},
+{
+"name": "Belait",
+"aliases": [
+"Belait language"
+],
+"links": 16
+},
+{
+"name": "Bengkulu",
+"aliases": [
+"Bencoolen",
+"Bengkulan",
+"Bengkulu language"
+],
+"links": 16
+},
+{
+"name": "Bora",
+"aliases": [
+"Bora language"
+],
+"links": 16
+},
+{
+"name": "Bulu",
+"aliases": [
+"Bulu language"
+],
+"links": 16
+},
+{
+"name": "Burji",
+"aliases": [
+"Bhumji",
+"Burji language"
+],
+"links": 16
+},
+{
+"name": "Bushi",
+"aliases": [
+"buc",
+"Bushi language",
+"Kibosy",
+"Kibushi",
+"Shibushi"
+],
+"links": 16
+},
+{
+"name": "Carpathian Romani",
+"aliases": [
+"Central Romani",
+"rmc",
+"Romungro Romani"
+],
+"links": 16
+},
+{
+"name": "Cocama",
+"aliases": [
+"Cocama language",
+"Cocama-Cocamilla"
+],
+"links": 16
+},
+{
+"name": "Cofán",
+"aliases": [
+"A’ingae",
+"Cofan",
+"Cofan language",
+"Cofán language",
+"Kofán"
+],
+"links": 16
+},
+{
+"name": "Daasanach",
+"aliases": [
+"Daasanach language"
+],
+"links": 16
+},
+{
+"name": "Dendi",
+"aliases": [
+"Dendi language"
+],
+"links": 16
+},
+{
+"name": "Dhimal",
+"aliases": [
+"Dhimal language"
+],
+"links": 16
+},
+{
+"name": "Dobrujan Tatar",
+"aliases": [
+"Dobruja Tatar",
+"Romanian Tatar",
+"Tatar language spoken in Romania",
+"Tatarşa"
+],
+"links": 16
+},
+{
+"name": "Drehu",
+"aliases": [
+"Dehu",
+"Drehu language"
+],
+"links": 16
+},
+{
+"name": "Eastern Bolivian Guaraní",
+"aliases": [
+"Eastern Bolivian Guarani",
+"Tapiete"
+],
+"links": 16
+},
+{
+"name": "Efutu",
+"aliases": [
+"Awutu",
+"Efutu language"
+],
+"links": 16
+},
+{
+"name": "Embu",
+"aliases": [
+"Embu language",
+"Kiembu"
+],
+"links": 16
+},
+{
+"name": "Enggano",
+"aliases": [
+"Enggan language",
+"Enggano language"
+],
+"links": 16
+},
+{
+"name": "Forest Nenets",
+"aliases": [
+"Forest Nenets language"
+],
+"links": 16
+},
+{
+"name": "Gedeo",
+"aliases": [
+"Gedeo language"
+],
+"links": 16
+},
+{
+"name": "Gonja",
+"aliases": [
+"Gonja language"
+],
+"links": 16
+},
+{
+"name": "Gros Ventre",
+"aliases": [
+"A'ani",
+"A'aninin",
+"ats",
+"Atsina",
+"Gros Ventre language"
+],
+"links": 16
+},
+{
+"name": "Guaymí",
+"aliases": [
+"Guaymi language",
+"Guaymí language",
+"Ngäbere"
+],
+"links": 16
+},
+{
+"name": "Gumuz",
+"aliases": [
+"B'ega",
+"Gumuz language"
+],
+"links": 16
+},
+{
+"name": "Hobyót",
+"aliases": [
+"Habyot",
+"Hewbyót",
+"Hobi",
+"Hobyot",
+"Hobyot language",
+"Hobyót language",
+"Weyheybyot"
+],
+"links": 16
+},
+{
+"name": "Ida'an",
+"aliases": [
+"Bedaro language",
+"Ida'an language",
+"Idahan"
+],
+"links": 16
+},
+{
+"name": "Inuvialuktun",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Judeo-Tunisian Arabic",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Judeo-Yemeni Arabic",
+"aliases": [],
+"links": 16
+},
+{
+"name": "Kadazandusun",
+"aliases": [
+"Central Dusun",
+"dtp",
+"Dusun Bundu-Liwan language",
+"Kadazan Dusun",
+"Kadazan-Dusun",
+"Kadazandusun language"
+],
+"links": 16
+},
+{
+"name": "Kambaata",
+"aliases": [
+"Kambaata language"
+],
+"links": 16
+},
+{
+"name": "Kaska",
+"aliases": [
+"Danezāgé'",
+"Kaska language"
+],
+"links": 16
+},
+{
+"name": "Khams Tibetan",
+"aliases": [
+"Khams Tibetan language",
+"khg"
+],
+"links": 16
+},
+{
+"name": "Khün",
+"aliases": [
+"Khün language"
+],
+"links": 16
+},
+{
+"name": "Konda",
+"aliases": [
+"Konda language",
+"Konda-Dora"
+],
+"links": 16
+},
+{
+"name": "Koya",
+"aliases": [
+"Koya language"
+],
+"links": 16
+},
+{
+"name": "Koyra Chiini",
+"aliases": [
+"Koyra Chiini language",
+"Koyra Chiini Songhay",
+"Western Songhay"
+],
+"links": 16
+},
+{
+"name": "Lavukaleve",
+"aliases": [
+"Lavukaleve language"
+],
+"links": 16
+},
+{
+"name": "Logba",
+"aliases": [
+"Logba language"
+],
+"links": 16
+},
+{
+"name": "Lun Bawang",
+"aliases": [
+"Adang",
+"Lun Bawang language",
+"Lundayeh",
+"Putoh"
+],
+"links": 16
+},
+{
+"name": "Mampruli",
+"aliases": [
+"Mampelle",
+"Mamprusi"
+],
+"links": 16
+},
+{
+"name": "Mariveleño",
+"aliases": [
+"Bataan Ayta",
+"Magbukun Ayta",
+"Mariveleño language"
+],
+"links": 16
+},
+{
+"name": "Meru",
+"aliases": [
+"Kimeru",
+"Meru language"
+],
+"links": 16
+},
+{
+"name": "Mescalero-Chiricahua",
+"aliases": [
+"Chiricahua language",
+"Mescalero language",
+"Mescalero-Chiricahua Apache",
+"Mescalero-Chiricahua Apache language",
+"Mescalero-Chiricahua language"
+],
+"links": 16
+},
+{
+"name": "Miami-Illinois",
+"aliases": [
+"Illinois",
+"Miami",
+"Miami language",
+"Miami-Illinois language",
+"Myaamia"
+],
+"links": 16
+},
+{
+"name": "Movima",
+"aliases": [
+"Movima language",
+"Mowi:maj"
+],
+"links": 16
+},
+{
+"name": "Mru",
+"aliases": [
+"Mro language",
+"Mru language"
+],
+"links": 16
+},
+{
+"name": "Myene",
+"aliases": [
+"Myene language"
+],
+"links": 16
+},
+{
+"name": "Nara",
+"aliases": [
+"Nara language"
+],
+"links": 16
+},
+{
+"name": "Ngas",
+"aliases": [
+"Angas language",
+"Ngas language"
+],
+"links": 16
+},
+{
+"name": "Nung",
+"aliases": [
+"Anong",
+"Nung language"
+],
+"links": 16
+},
+{
+"name": "Nuu-chah-nulth",
+"aliases": [
+"Nuu-chah-nulth language",
+"Nuuchahnulth"
+],
+"links": 16
+},
+{
+"name": "Osage",
+"aliases": [
+"osa",
+"Osage language"
+],
+"links": 16
+},
+{
+"name": "Pingelapese",
+"aliases": [
+"Pingelapese language"
+],
+"links": 16
+},
+{
+"name": "Pnar",
+"aliases": [
+"Jaintia language",
+"Jaintia Puri Nor Language",
+"Jaintian language",
+"Jaintian Nor language",
+"Khasic",
+"Khasic languages",
+"languages of Sylhet",
+"Nor",
+"Pnar language",
+"Sylheti aboriginal language",
+"Sylheti languages",
+"Sylheti Nor Language"
+],
+"links": 16
+},
+{
+"name": "Rinconada Bikol",
+"aliases": [
+"bto",
+"Rinconada",
+"Rinconada Bikol language"
+],
+"links": 16
+},
+{
+"name": "Sac-Fox-Kickapoo",
+"aliases": [
+"Fox language",
+"Meskwaki",
+"Meskwaki-Kickapoo",
+"Meskwaki-Sauk-Kickapoo",
+"Mesquakie",
+"Mesquakie language",
+"Mesquakie-Kickapoo",
+"Mesquakie-Sauk-Kickapoo",
+"Sac and Fox and Kickapoo",
+"Sauk-Fox"
+],
+"links": 16
+},
+{
+"name": "Sambal",
+"aliases": [
+"Sambal language",
+"Sambali",
+"Zambal language"
+],
+"links": 16
+},
+{
+"name": "Sanglechi",
+"aliases": [
+"Dargi",
+"Sanglechi language",
+"Sanglich"
+],
+"links": 16
+},
+{
+"name": "Saramaccan",
+"aliases": [
+"Saamáka",
+"Saramaccan language"
+],
+"links": 16
+},
+{
+"name": "Sekele",
+"aliases": [
+"!O!ung language",
+"Northern Ju",
+"Northwestern !Kung",
+"Sekele language",
+"Vasekela Bushman language",
+"Vasekele",
+"ǃʼOǃKung"
+],
+"links": 16
+},
+{
+"name": "Shabaki",
+"aliases": [
+"Shabak"
+],
+"links": 16
+},
+{
+"name": "Sirionó",
+"aliases": [
+"Siriono",
+"Siriono language",
+"Sirionó language",
+"srq"
+],
+"links": 16
+},
+{
+"name": "Slavey",
+"aliases": [
+"Slave",
+"Slave language",
+"Slavey language",
+"Slavé language"
+],
+"links": 16
+},
+{
+"name": "Southern Uzbek",
+"aliases": [
+"Afghan Uzbek",
+"Afghan Uzbek language",
+"Southern Uzbek language",
+"uzs"
+],
+"links": 16
+},
+{
+"name": "Stellingwarfs",
+"aliases": [
+"Stellingwerfs"
+],
+"links": 16
+},
+{
+"name": "Taiwanese Sign Language",
+"aliases": [
+"Taiwan Sign Language",
+"TSL"
+],
+"links": 16
+},
+{
+"name": "Taʽizzi-Adeni Arabic",
+"aliases": [
+"Southern Yemeni Arabic",
+"Ta'izzi-Adeni Arabic",
+"Taizzi-Adeni Arabic"
+],
+"links": 16
+},
+{
+"name": "Terêna",
+"aliases": [
+"Terêna language"
+],
+"links": 16
+},
+{
+"name": "Tolaki",
+"aliases": [
+"Tolaki language"
+],
+"links": 16
+},
+{
+"name": "Toto",
+"aliases": [
+"Toto language"
+],
+"links": 16
+},
+{
+"name": "Urhobo",
+"aliases": [
+"Urhobo language"
+],
+"links": 16
+},
+{
+"name": "Wargli",
+"aliases": [
+"Tagargrent",
+"Wargli language"
+],
+"links": 16
+},
+{
+"name": "Wayana",
+"aliases": [
+"Wayana language"
+],
+"links": 16
+},
+{
+"name": "Wolio",
+"aliases": [
+"Wolio language"
+],
+"links": 16
+},
+{
+"name": "Xamtanga",
+"aliases": [
+"Agawinya language",
+"Khamtanga language",
+"Xamtanga language"
+],
+"links": 16
+},
+{
+"name": "Yaqui",
+"aliases": [
+"Hiaki",
+"yaq",
+"Yaqui language",
+"Yoem Noki",
+"Yoeme"
+],
+"links": 16
+},
+{
+"name": "Zoroastrian Dari",
+"aliases": [
+"Behdināni",
+"Dari language",
+"Gabri",
+"Gabri language",
+"Gabrōni",
+"Gavrŭni",
+"Zoroastrian Dari language"
+],
+"links": 16
+},
+{
+"name": "A'Tong",
+"aliases": [
+"A'Tong language",
+"Atong"
+],
+"links": 15
+},
+{
+"name": "Abon",
+"aliases": [
+"Abon language"
+],
+"links": 15
+},
+{
+"name": "Abun",
+"aliases": [
+"Abun language",
+"Anden",
+"Karon Pantai",
+"Manif",
+"Yimbun"
+],
+"links": 15
+},
+{
+"name": "Aché",
+"aliases": [
+"Ache",
+"Ache language",
+"Aché language"
+],
+"links": 15
+},
+{
+"name": "Adjukru",
+"aliases": [
+"Adioukrou",
+"Adiukru",
+"Adjukru language",
+"Adyukru"
+],
+"links": 15
+},
+{
+"name": "Adnyamathanha",
+"aliases": [
+"Adnyamathanha language",
+"yura ngarwala"
+],
+"links": 15
+},
+{
+"name": "Aer",
+"aliases": [
+"Aer language"
+],
+"links": 15
+},
+{
+"name": "Afro-Seminole Creole",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Aiton",
+"aliases": [
+"Aiton language",
+"Tai Aiton language"
+],
+"links": 15
+},
+{
+"name": "Alaba-K’abeena",
+"aliases": [
+"Alaaba language",
+"Alaba-K’abeena language",
+"Allaaba language",
+"Halaba language",
+"Wanbasana"
+],
+"links": 15
+},
+{
+"name": "Allar",
+"aliases": [
+"Allar language",
+"Chatan"
+],
+"links": 15
+},
+{
+"name": "Andoque",
+"aliases": [
+"Andoque language"
+],
+"links": 15
+},
+{
+"name": "Arhuaco",
+"aliases": [
+"Arhuaco language",
+"Ikʉ"
+],
+"links": 15
+},
+{
+"name": "Asháninka",
+"aliases": [
+"Ashaninka",
+"Ashaninka language",
+"Asháninka language"
+],
+"links": 15
+},
+{
+"name": "Assiniboine",
+"aliases": [
+"Assiniboin",
+"Assiniboine language"
+],
+"links": 15
+},
+{
+"name": "Asumboa",
+"aliases": [
+"Asumboa language"
+],
+"links": 15
+},
+{
+"name": "Awa Pit",
+"aliases": [
+"Awa Pit language",
+"Awa-Cuaiquer",
+"Quaiquer"
+],
+"links": 15
+},
+{
+"name": "Bankon",
+"aliases": [
+"Bankon language"
+],
+"links": 15
+},
+{
+"name": "Bantawa",
+"aliases": [
+"An Yüng",
+"Bantaba",
+"Bantawa Dum",
+"Bantawa language",
+"Bantawa Yong",
+"Bantawa Yüng",
+"Bontawa",
+"Kirawa Yüng"
+],
+"links": 15
+},
+{
+"name": "Bantoanon",
+"aliases": [
+"Asi language",
+"Bantoanon language",
+"Calatravanhon language",
+"Odionganon language",
+"Sibalenhon language",
+"Simaranhon language"
+],
+"links": 15
+},
+{
+"name": "Bassa",
+"aliases": [
+"Bassa language"
+],
+"links": 15
+},
+{
+"name": "Bench",
+"aliases": [
+"Bench language"
+],
+"links": 15
+},
+{
+"name": "Bhadrawahi",
+"aliases": [
+"Bhadarvahi",
+"Bhadarwahi",
+"Bhaderwahi",
+"Bhadravahi",
+"Bhadrawahi language",
+"Bharervahi"
+],
+"links": 15
+},
+{
+"name": "Bilua",
+"aliases": [
+"Bilua language",
+"Mbilua"
+],
+"links": 15
+},
+{
+"name": "Bintulu",
+"aliases": [
+"Bintulu language"
+],
+"links": 15
+},
+{
+"name": "Bolinao",
+"aliases": [
+"Bolinao language"
+],
+"links": 15
+},
+{
+"name": "Bumthang",
+"aliases": [
+"Bumthang language",
+"Bumthangkha"
+],
+"links": 15
+},
+{
+"name": "Bunak",
+"aliases": [
+"Bunak language"
+],
+"links": 15
+},
+{
+"name": "Bussa",
+"aliases": [
+"Bussa language"
+],
+"links": 15
+},
+{
+"name": "Camsá",
+"aliases": [
+"Camsa",
+"Camsa language",
+"Camsá language",
+"Kamsá",
+"Kamsá language",
+"Kamëntšá",
+"Kamëntšá language"
+],
+"links": 15
+},
+{
+"name": "Candoshi-Shapra",
+"aliases": [
+"Candoshi",
+"Candoshi-Shapra language",
+"Candoxi",
+"Kandoshi",
+"Kandozi-Chapra",
+"Murato"
+],
+"links": 15
+},
+{
+"name": "Cheq Wong",
+"aliases": [
+"Cheq Wong language",
+"Chewong"
+],
+"links": 15
+},
+{
+"name": "Chipaya",
+"aliases": [
+"Chipaya language"
+],
+"links": 15
+},
+{
+"name": "Chut",
+"aliases": [
+"Chut language",
+"Sach"
+],
+"links": 15
+},
+{
+"name": "Culina",
+"aliases": [
+"Culina language",
+"Kulina"
+],
+"links": 15
+},
+{
+"name": "Dan",
+"aliases": [
+"Da",
+"Dan language",
+"Gio",
+"Gio-Dan",
+"Gyo",
+"Yacouba",
+"Yakubasa",
+"Yaoba"
+],
+"links": 15
+},
+{
+"name": "Derung",
+"aliases": [
+"Derung language",
+"Drung",
+"Dulong",
+"Rawang",
+"Trung"
+],
+"links": 15
+},
+{
+"name": "Duano’",
+"aliases": [
+"Duano",
+"Duano’ language"
+],
+"links": 15
+},
+{
+"name": "Duri",
+"aliases": [
+"Duri language"
+],
+"links": 15
+},
+{
+"name": "E",
+"aliases": [
+"E language",
+"Wuse"
+],
+"links": 15
+},
+{
+"name": "Ekpeye",
+"aliases": [
+"Ekpeye language"
+],
+"links": 15
+},
+{
+"name": "En",
+"aliases": [
+"En language",
+"Nung Ven"
+],
+"links": 15
+},
+{
+"name": "Enga",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Gourmanchéma",
+"aliases": [
+"Gourmanchema",
+"Gourmanchema language",
+"Gourmanchéma language"
+],
+"links": 15
+},
+{
+"name": "Guro",
+"aliases": [
+"Gouro",
+"Guro language",
+"Kwendre",
+"Kweni",
+"Kwéndré",
+"Lo"
+],
+"links": 15
+},
+{
+"name": "Gusii",
+"aliases": [
+"Ekegusii",
+"Gusii language",
+"Kisii"
+],
+"links": 15
+},
+{
+"name": "Hehe",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Hiw",
+"aliases": [
+"Hiw language"
+],
+"links": 15
+},
+{
+"name": "Hmar",
+"aliases": [
+"Hmar language"
+],
+"links": 15
+},
+{
+"name": "Iaai",
+"aliases": [
+"Iaai language"
+],
+"links": 15
+},
+{
+"name": "Iquito",
+"aliases": [
+"Amacacore",
+"Hamacore",
+"Ikito",
+"Iquita",
+"Iquito language",
+"Puca-Uma",
+"Quiturran"
+],
+"links": 15
+},
+{
+"name": "Iranian Persian",
+"aliases": [
+"Fârsi-ye Irâni",
+"Iranian dialect",
+"Iranian language",
+"Western Farsi",
+"Western Persian"
+],
+"links": 15
+},
+{
+"name": "Irish Sign Language",
+"aliases": [
+"ISL"
+],
+"links": 15
+},
+{
+"name": "Jicarilla",
+"aliases": [
+"Jicarilla Apache",
+"Jicarilla language"
+],
+"links": 15
+},
+{
+"name": "Kafa",
+"aliases": [
+"Kafa language",
+"Kaffa language",
+"Kefa language"
+],
+"links": 15
+},
+{
+"name": "Kalkoti",
+"aliases": [
+"Kalkoti language"
+],
+"links": 15
+},
+{
+"name": "Kanayatn",
+"aliases": [
+"Kanayatn Dayak",
+"Kanayatn language",
+"Kendayan",
+"Kendayan language"
+],
+"links": 15
+},
+{
+"name": "Kedah-Perak-Perlis-Penang Malay",
+"aliases": [
+"Kedah Malay"
+],
+"links": 15
+},
+{
+"name": "Kelabit",
+"aliases": [
+"Apo Duat",
+"Kalabit",
+"Kelabit language",
+"Kerabit"
+],
+"links": 15
+},
+{
+"name": "Kickapoo",
+"aliases": [
+"Kickapoo language"
+],
+"links": 15
+},
+{
+"name": "Kiga",
+"aliases": [
+"Chiga",
+"Kiga language"
+],
+"links": 15
+},
+{
+"name": "Koyraboro Senni",
+"aliases": [
+"Koyraboro Senni Songhai",
+"ses"
+],
+"links": 15
+},
+{
+"name": "Koyukon",
+"aliases": [
+"koy",
+"Koyukon language"
+],
+"links": 15
+},
+{
+"name": "Kposo",
+"aliases": [
+"Ikposo",
+"Kposo language"
+],
+"links": 15
+},
+{
+"name": "Lafofa",
+"aliases": [
+"Lafofa languages",
+"Tegem–Amira"
+],
+"links": 15
+},
+{
+"name": "Lasgerdi",
+"aliases": [
+"Lasgerdi language"
+],
+"links": 15
+},
+{
+"name": "Lishán Didán",
+"aliases": [
+"Jewish Neo-Aramaic dialect of Urmia",
+"Lishan Didan"
+],
+"links": 15
+},
+{
+"name": "Loma",
+"aliases": [
+"Loma language"
+],
+"links": 15
+},
+{
+"name": "Mandan",
+"aliases": [
+"Mandan language"
+],
+"links": 15
+},
+{
+"name": "Mang",
+"aliases": [
+"Mang language"
+],
+"links": 15
+},
+{
+"name": "Masalit",
+"aliases": [
+"Kanaa Massara",
+"Masalit language"
+],
+"links": 15
+},
+{
+"name": "Mazahua",
+"aliases": [
+"Mazahua language"
+],
+"links": 15
+},
+{
+"name": "Minyanka",
+"aliases": [
+"Mamara Senoufo",
+"Minyanka language"
+],
+"links": 15
+},
+{
+"name": "Mocho’",
+"aliases": [
+"Mocho",
+"Mochoʼ",
+"Mocho’ language"
+],
+"links": 15
+},
+{
+"name": "Mongo",
+"aliases": [
+"Lomongo",
+"Mongo language",
+"Mongo-Nkundu"
+],
+"links": 15
+},
+{
+"name": "Mono",
+"aliases": [
+"Mono language"
+],
+"links": 15
+},
+{
+"name": "Mortlockese",
+"aliases": [
+"Mortlockese language"
+],
+"links": 15
+},
+{
+"name": "Mpur",
+"aliases": [
+"Amberbaken",
+"Amberbaken language",
+"Dekwambre",
+"Ekware",
+"Kebar",
+"Mpur language"
+],
+"links": 15
+},
+{
+"name": "Murui Huitoto",
+"aliases": [
+"Murui Huitoto language"
+],
+"links": 15
+},
+{
+"name": "Ngambay",
+"aliases": [
+"Gamba",
+"Gambaye",
+"Gamblai",
+"Mbai",
+"Mbay",
+"Mbaye",
+"Ngambai",
+"Ngambay language",
+"Sara",
+"Sara Ngambai"
+],
+"links": 15
+},
+{
+"name": "Ntcham",
+"aliases": [
+"Basari",
+"Ntcham language"
+],
+"links": 15
+},
+{
+"name": "Omagua",
+"aliases": [
+"Omagua language"
+],
+"links": 15
+},
+{
+"name": "Ong Be",
+"aliases": [
+"Lingao",
+"Ong Be language"
+],
+"links": 15
+},
+{
+"name": "Oorlams",
+"aliases": [
+"Oorlams Creole"
+],
+"links": 15
+},
+{
+"name": "Orang Seletar",
+"aliases": [
+"Orang Seletar language"
+],
+"links": 15
+},
+{
+"name": "Pamona",
+"aliases": [
+"Pamona language",
+"Poso language"
+],
+"links": 15
+},
+{
+"name": "Peninsular Arabic",
+"aliases": [
+"Arabian Peninsula Arabic",
+"Southern Arabic"
+],
+"links": 15
+},
+{
+"name": "Qimant",
+"aliases": [
+"Qimant language"
+],
+"links": 15
+},
+{
+"name": "Rama",
+"aliases": [
+"Rama language, Rma"
+],
+"links": 15
+},
+{
+"name": "Savosavo",
+"aliases": [
+"Savosavo language"
+],
+"links": 15
+},
+{
+"name": "Shabo",
+"aliases": [
+"Chabu",
+"Mikeyir",
+"Shabo language"
+],
+"links": 15
+},
+{
+"name": "Shumashti",
+"aliases": [
+"Shumashti language"
+],
+"links": 15
+},
+{
+"name": "Sikule",
+"aliases": [
+"Sigulai language",
+"Sikhule language",
+"Sikule language"
+],
+"links": 15
+},
+{
+"name": "Simeulue",
+"aliases": [
+"Simalur language",
+"Simeulue language",
+"Simolol language"
+],
+"links": 15
+},
+{
+"name": "Sorkhei",
+"aliases": [
+"Sorkhei-Aftari"
+],
+"links": 15
+},
+{
+"name": "South Azerbaijani",
+"aliases": [
+"azb",
+"Azerbaijani Turkish",
+"Azeri Turkish",
+"South Azerbaijani language",
+"Turki",
+"Turkic"
+],
+"links": 15
+},
+{
+"name": "Tagish",
+"aliases": [
+"Tagish language",
+"Tāgizi Dene",
+"Tā̀gish"
+],
+"links": 15
+},
+{
+"name": "Tai Dón",
+"aliases": [
+"Tai Blanc",
+"Tai Kao",
+"Tai Lai",
+"Thái Tráng",
+"Táy Khao",
+"White Tai"
+],
+"links": 15
+},
+{
+"name": "Tammari",
+"aliases": [
+"Ditammari",
+"Tammari language"
+],
+"links": 15
+},
+{
+"name": "Tareeno",
+"aliases": [
+"Chalgari",
+"Tarino",
+"Tarīno",
+"Tsalgari",
+"Vanechi",
+"Wanechi",
+"Waneci dialect",
+"Wanetsi",
+"Waṇetsi"
+],
+"links": 15
+},
+{
+"name": "Taushiro",
+"aliases": [
+"Pinche",
+"Pinchi",
+"Taushiro language"
+],
+"links": 15
+},
+{
+"name": "Tayo",
+"aliases": [
+"Tayo language"
+],
+"links": 15
+},
+{
+"name": "Temuan",
+"aliases": [
+"Temuan language"
+],
+"links": 15
+},
+{
+"name": "Teribe",
+"aliases": [
+"Teribe language"
+],
+"links": 15
+},
+{
+"name": "Ternate",
+"aliases": [
+"Ternate language"
+],
+"links": 15
+},
+{
+"name": "Teso",
+"aliases": [
+"Ateso",
+"Teso language"
+],
+"links": 15
+},
+{
+"name": "Toba Qom",
+"aliases": [
+"Qom language",
+"Toba",
+"Toba Qom language"
+],
+"links": 15
+},
+{
+"name": "Tocodede",
+"aliases": [
+"Tocod",
+"Tocodede language",
+"Tukudede"
+],
+"links": 15
+},
+{
+"name": "Torres Strait Creole",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Trumai",
+"aliases": [
+"Ho Kod Ke",
+"Tramalhy",
+"Trumai language"
+],
+"links": 15
+},
+{
+"name": "Turkana",
+"aliases": [
+"Turkana language"
+],
+"links": 15
+},
+{
+"name": "Tuscarora",
+"aliases": [
+"Skarò˙rə̨ˀ",
+"Tuscarora language"
+],
+"links": 15
+},
+{
+"name": "Uru",
+"aliases": [
+"Uru language"
+],
+"links": 15
+},
+{
+"name": "Waiwai",
+"aliases": [
+"Waiwai language"
+],
+"links": 15
+},
+{
+"name": "Wali",
+"aliases": [
+"Waale",
+"Waali language",
+"Wala",
+"Wala language",
+"Wali language"
+],
+"links": 15
+},
+{
+"name": "Winnebago",
+"aliases": [
+"Ho-Chunk",
+"Winnebago language"
+],
+"links": 15
+},
+{
+"name": "Yalunka",
+"aliases": [
+"Yalunka language"
+],
+"links": 15
+},
+{
+"name": "Abelam",
+"aliases": [
+"Abelam language",
+"Ambulas"
+],
+"links": 14
+},
+{
+"name": "Abure",
+"aliases": [
+"Abure language"
+],
+"links": 14
+},
+{
+"name": "Acheron",
+"aliases": [
+"Acheron language"
+],
+"links": 14
+},
+{
+"name": "Achuar",
+"aliases": [
+"Jivaro",
+"Maina",
+"Shiwiar",
+"Shiwiar language"
+],
+"links": 14
+},
+{
+"name": "Aguna",
+"aliases": [
+"Awuna"
+],
+"links": 14
+},
+{
+"name": "Ahanta",
+"aliases": [
+"Ahanta language"
+],
+"links": 14
+},
+{
+"name": "Aka",
+"aliases": [
+"Aka language",
+"Yaka"
+],
+"links": 14
+},
+{
+"name": "Akawaio",
+"aliases": [
+"Akawaio language"
+],
+"links": 14
+},
+{
+"name": "Amdo Tibetan",
+"aliases": [
+"adx",
+"Amdo Tibetan language"
+],
+"links": 14
+},
+{
+"name": "Anaang",
+"aliases": [
+"Anaang language"
+],
+"links": 14
+},
+{
+"name": "Angloromani",
+"aliases": [
+"Angloromani language"
+],
+"links": 14
+},
+{
+"name": "Anii",
+"aliases": [
+"Anii language",
+"Basila"
+],
+"links": 14
+},
+{
+"name": "Antiguan and Barbudan Creole",
+"aliases": [
+"Antigua and Barbuda Creole English",
+"Leeward Caribbean Creole",
+"Leeward Caribbean Creole English",
+"Raw back"
+],
+"links": 14
+},
+{
+"name": "Arabela",
+"aliases": [
+"Arabela language"
+],
+"links": 14
+},
+{
+"name": "Aranadan",
+"aliases": [
+"Aranadan language",
+"Eranadan",
+"Eranadan language",
+"Malappuram Bhasha",
+"Mapla Bhasha",
+"Ēṟanāṭan"
+],
+"links": 14
+},
+{
+"name": "Ari",
+"aliases": [
+"Ari language"
+],
+"links": 14
+},
+{
+"name": "Atsam",
+"aliases": [
+"Atsam language",
+"Cawai",
+"Tsam"
+],
+"links": 14
+},
+{
+"name": "Bade",
+"aliases": [
+"Bade language"
+],
+"links": 14
+},
+{
+"name": "Bakati’",
+"aliases": [
+"Bakati’ language",
+"Bekati'",
+"Riuk Bekati'"
+],
+"links": 14
+},
+{
+"name": "Bakumpai",
+"aliases": [
+"Bakumpai language"
+],
+"links": 14
+},
+{
+"name": "Bangala",
+"aliases": [
+"Bangala language"
+],
+"links": 14
+},
+{
+"name": "Banggainese",
+"aliases": [
+"Banggai"
+],
+"links": 14
+},
+{
+"name": "Bangime",
+"aliases": [
+"Bangime language"
+],
+"links": 14
+},
+{
+"name": "Bena",
+"aliases": [
+"Bena language"
+],
+"links": 14
+},
+{
+"name": "Benga",
+"aliases": [
+"Benga language"
+],
+"links": 14
+},
+{
+"name": "Biatah",
+"aliases": [
+"Biatah Bidayuh",
+"Biatah language"
+],
+"links": 14
+},
+{
+"name": "Bonda",
+"aliases": [
+"Bonda language",
+"Bondo",
+"Remo",
+"Remosam"
+],
+"links": 14
+},
+{
+"name": "Bonggi",
+"aliases": [
+"Bonggi language"
+],
+"links": 14
+},
+{
+"name": "Bontoc",
+"aliases": [
+"Bontok"
+],
+"links": 14
+},
+{
+"name": "Boruca",
+"aliases": [
+"Boruca language",
+"Bronka"
+],
+"links": 14
+},
+{
+"name": "Brokskat",
+"aliases": [
+"Brokpa",
+"Brokskat language"
+],
+"links": 14
+},
+{
+"name": "Brunei Bisaya",
+"aliases": [
+"Brunei Bisaya language"
+],
+"links": 14
+},
+{
+"name": "Bungku",
+"aliases": [
+"Bungku language"
+],
+"links": 14
+},
+{
+"name": "Cabécar",
+"aliases": [
+"Cabecar",
+"Cabécar language"
+],
+"links": 14
+},
+{
+"name": "Chayahuita",
+"aliases": [
+"Balsapuertino",
+"Cahuapa",
+"Chawi",
+"Chayabita",
+"Chayahuita language",
+"Chayawita",
+"Chayhuita",
+"Kanpunan",
+"Paranapura",
+"Shawi",
+"Shayabit",
+"Tshaahui"
+],
+"links": 14
+},
+{
+"name": "Chilean Sign Language",
+"aliases": [
+"LSCh"
+],
+"links": 14
+},
+{
+"name": "Chuwabu",
+"aliases": [
+"Chuabo",
+"Chuwabo",
+"Chuwabu language",
+"Cuwabo",
+"Etxuwabo"
+],
+"links": 14
+},
+{
+"name": "Cipu",
+"aliases": [
+"Cipu language",
+"Western Acipa"
+],
+"links": 14
+},
+{
+"name": "Cuyonon",
+"aliases": [
+"Cuyonon language"
+],
+"links": 14
+},
+{
+"name": "Dawoodi",
+"aliases": [
+"Domaa language",
+"Domaaki",
+"Domaaki language",
+"Domaá language",
+"Dumaki language"
+],
+"links": 14
+},
+{
+"name": "Deg Xinag",
+"aliases": [
+"Deg Xinag language",
+"Degexit'an"
+],
+"links": 14
+},
+{
+"name": "Deni",
+"aliases": [
+"Dani",
+"Deni language",
+"Dení"
+],
+"links": 14
+},
+{
+"name": "Dimasa",
+"aliases": [
+"Dimasa language"
+],
+"links": 14
+},
+{
+"name": "Dirasha",
+"aliases": [
+"Dirasha language"
+],
+"links": 14
+},
+{
+"name": "Dumi",
+"aliases": [
+"Dumi language"
+],
+"links": 14
+},
+{
+"name": "Ekari",
+"aliases": [
+"Ekagi language",
+"Ekari language",
+"Mee language"
+],
+"links": 14
+},
+{
+"name": "Esimbi",
+"aliases": [
+"Aage",
+"Age",
+"Bogue",
+"Esimbi language",
+"Isimbi",
+"Mburugam",
+"Simpi"
+],
+"links": 14
+},
+{
+"name": "Gciriku",
+"aliases": [
+"Diriku",
+"Gciriku language"
+],
+"links": 14
+},
+{
+"name": "Gogo",
+"aliases": [
+"Gogo language"
+],
+"links": 14
+},
+{
+"name": "Gwandara",
+"aliases": [
+"Gwandara language",
+"Kwandara language"
+],
+"links": 14
+},
+{
+"name": "Hadauti",
+"aliases": [
+"Hadothi",
+"Hadoti",
+"Harauti",
+"Haroti"
+],
+"links": 14
+},
+{
+"name": "Hadhrami Arabic",
+"aliases": [
+"Hadrami Arabic"
+],
+"links": 14
+},
+{
+"name": "Hamer",
+"aliases": [
+"Hamer language",
+"Hamer-Banna"
+],
+"links": 14
+},
+{
+"name": "Hlai",
+"aliases": [
+"Hlai language"
+],
+"links": 14
+},
+{
+"name": "Holikachuk",
+"aliases": [
+"Holikachuk language"
+],
+"links": 14
+},
+{
+"name": "Huarijio",
+"aliases": [
+"Guaraijio",
+"Huarijio language",
+"Varijio",
+"Warihio"
+],
+"links": 14
+},
+{
+"name": "Hértevin",
+"aliases": [
+"Hertevin",
+"Hertevin language",
+"Hértevin language"
+],
+"links": 14
+},
+{
+"name": "Ik",
+"aliases": [
+"Icetot",
+"Icietot",
+"Ngulak",
+"Teuso",
+"Teuth"
+],
+"links": 14
+},
+{
+"name": "Inga",
+"aliases": [
+"Inga Kichwa",
+"Inga Language"
+],
+"links": 14
+},
+{
+"name": "Iñapari",
+"aliases": [
+"Iñapari language"
+],
+"links": 14
+},
+{
+"name": "Jamamadí",
+"aliases": [
+"Canamanti",
+"Jamamadi",
+"Kanamanti",
+"Kapana",
+"Kapaná",
+"Madi",
+"Madí",
+"Yamadi",
+"Yamamadi",
+"Yamamadí",
+"Yamamandi"
+],
+"links": 14
+},
+{
+"name": "Juǀʼhoansi",
+"aliases": [
+"Ju/'hoan",
+"Jul'hoan",
+"Juǀ'hoan",
+"Juǀʼhoan"
+],
+"links": 14
+},
+{
+"name": "Kalau Lagau Ya",
+"aliases": [
+"Kala Lagaw Ya",
+"Kalaw Lagaw Ya"
+],
+"links": 14
+},
+{
+"name": "Kamayo",
+"aliases": [
+"Kamayo language",
+"Kinadi language",
+"Mandaya language"
+],
+"links": 14
+},
+{
+"name": "Kemak",
+"aliases": [
+"Ema",
+"Kemak language"
+],
+"links": 14
+},
+{
+"name": "Kensiu",
+"aliases": [
+"Kensiu language"
+],
+"links": 14
+},
+{
+"name": "Khwe",
+"aliases": [
+"Khoe",
+"Khoe language",
+"Khwe language",
+"Khwedam language",
+"Kxoe",
+"Kxoe language",
+"xuu"
+],
+"links": 14
+},
+{
+"name": "Kintaq",
+"aliases": [
+"Kintaq language"
+],
+"links": 14
+},
+{
+"name": "Kogui",
+"aliases": [
+"kauguiañ",
+"Kogui language"
+],
+"links": 14
+},
+{
+"name": "Konso",
+"aliases": [
+"Khonso",
+"Konso language"
+],
+"links": 14
+},
+{
+"name": "Korana",
+"aliases": [
+"Cape Khoe",
+"Khoemana",
+"Kora",
+"Korana language"
+],
+"links": 14
+},
+{
+"name": "Kusaal",
+"aliases": [
+"Kusaal language"
+],
+"links": 14
+},
+{
+"name": "Lamba",
+"aliases": [
+"Lamba language"
+],
+"links": 14
+},
+{
+"name": "Lipan",
+"aliases": [
+"Lipan Apache",
+"Lipan language"
+],
+"links": 14
+},
+{
+"name": "Lomwe",
+"aliases": [
+"ELomwe",
+"Lomwe language"
+],
+"links": 14
+},
+{
+"name": "Lucumí",
+"aliases": [
+"Lucumi",
+"Lucumi language"
+],
+"links": 14
+},
+{
+"name": "Luvale",
+"aliases": [
+"Luvale language"
+],
+"links": 14
+},
+{
+"name": "Maay-Maay language",
+"aliases": [
+"Mai-Mai language"
+],
+"links": 14
+},
+{
+"name": "Mafa",
+"aliases": [
+"Mafa language"
+],
+"links": 14
+},
+{
+"name": "Malecite-Passamaquoddy",
+"aliases": [
+"Malecite-Passamaquoddy language",
+"Maliseet–Passamaquoddy",
+"Peskotomuhkati-Wolastoqey",
+"pqm",
+"skicinuwatuwewakon",
+"skicinuwi-latuwewakon",
+"Wolastoqey",
+"Wəlastəkwey"
+],
+"links": 14
+},
+{
+"name": "Maltese Sign Language",
+"aliases": [
+"LSM"
+],
+"links": 14
+},
+{
+"name": "Mamanwa",
+"aliases": [
+"Mamanwa language"
+],
+"links": 14
+},
+{
+"name": "Mambai",
+"aliases": [
+"Mambae",
+"Mambai language",
+"Manbae"
+],
+"links": 14
+},
+{
+"name": "Manda",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Mankanya",
+"aliases": [
+"Mankanya language"
+],
+"links": 14
+},
+{
+"name": "Maria",
+"aliases": [
+"Abujmaria",
+"Abujmaria language",
+"Madiya",
+"Madiya language",
+"Maria language"
+],
+"links": 14
+},
+{
+"name": "Mbukushu",
+"aliases": [
+"Thimbukushu language"
+],
+"links": 14
+},
+{
+"name": "Melpa",
+"aliases": [
+"Meldpa",
+"Meldpa language",
+"Melpa language"
+],
+"links": 14
+},
+{
+"name": "Meriam",
+"aliases": [
+"Able Able",
+"Meriam language",
+"Meriam Mir",
+"Miriam-Mir",
+"Mœyam",
+"Mœyamau Ya"
+],
+"links": 14
+},
+{
+"name": "Mewati",
+"aliases": [
+"Mewati language"
+],
+"links": 14
+},
+{
+"name": "Molbog",
+"aliases": [
+"Molbog language"
+],
+"links": 14
+},
+{
+"name": "Moloko",
+"aliases": [
+"Moloko language"
+],
+"links": 14
+},
+{
+"name": "Mwani",
+"aliases": [
+"KiMwani",
+"Mwani language"
+],
+"links": 14
+},
+{
+"name": "Naiki",
+"aliases": [
+"Southeastern Kolami"
+],
+"links": 14
+},
+{
+"name": "Namonuito",
+"aliases": [
+"Namonuito language"
+],
+"links": 14
+},
+{
+"name": "Ngizim",
+"aliases": [
+"Ngizim language"
+],
+"links": 14
+},
+{
+"name": "Northern Zaza",
+"aliases": [
+"Kirmancki",
+"Kirmanjki",
+"So-bê",
+"Zonê ma"
+],
+"links": 14
+},
+{
+"name": "Nubi",
+"aliases": [
+"Ki-Nubi",
+"Nubi Arabic"
+],
+"links": 14
+},
+{
+"name": "Nyoro",
+"aliases": [
+"Nyoro language"
+],
+"links": 14
+},
+{
+"name": "Oksapmin",
+"aliases": [
+"Oksapmin language"
+],
+"links": 14
+},
+{
+"name": "Onondaga",
+"aliases": [
+"Onondaga language"
+],
+"links": 14
+},
+{
+"name": "Pa-Hng",
+"aliases": [
+"Baheng",
+"Pa-Hng language"
+],
+"links": 14
+},
+{
+"name": "Palikúr",
+"aliases": [
+"Palikur",
+"Palikur language",
+"Palikúr language"
+],
+"links": 14
+},
+{
+"name": "Paniya",
+"aliases": [
+"Paniya language"
+],
+"links": 14
+},
+{
+"name": "Parkari Koli",
+"aliases": [
+"Parkari Koli language",
+"Parkari language"
+],
+"links": 14
+},
+{
+"name": "Pará Arára",
+"aliases": [
+"Para Arara",
+"Para Arara language",
+"Pará Arára language"
+],
+"links": 14
+},
+{
+"name": "Pawnee",
+"aliases": [
+"Pawnee language"
+],
+"links": 14
+},
+{
+"name": "Pichinglis",
+"aliases": [
+"Equatorial Guinea Pidgin",
+"Fernandino",
+"Fernando Po Creole English",
+"Pichi"
+],
+"links": 14
+},
+{
+"name": "Porome",
+"aliases": [
+"Kibiri",
+"Kibiri-Porome language",
+"Porome language"
+],
+"links": 14
+},
+{
+"name": "Potawatomi",
+"aliases": [
+"Bodéwadmimwen,",
+"Potawatomi language",
+"Pottawatomie"
+],
+"links": 14
+},
+{
+"name": "Raga",
+"aliases": [
+"Hano",
+"Raga language"
+],
+"links": 14
+},
+{
+"name": "Rendille",
+"aliases": [
+"Rendille language"
+],
+"links": 14
+},
+{
+"name": "Rwanda-Rundi",
+"aliases": [
+"Rwanda-Rundi language"
+],
+"links": 14
+},
+{
+"name": "Saek",
+"aliases": [
+"Saek language"
+],
+"links": 14
+},
+{
+"name": "Saint Lucian Creole",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Savi",
+"aliases": [
+"Savi language"
+],
+"links": 14
+},
+{
+"name": "Sedang",
+"aliases": [
+"Sedang language"
+],
+"links": 14
+},
+{
+"name": "Selayar",
+"aliases": [
+"Selayar language"
+],
+"links": 14
+},
+{
+"name": "Shilluk",
+"aliases": [
+"Shilluk language"
+],
+"links": 14
+},
+{
+"name": "Shipibo-Conibo",
+"aliases": [
+"Shipibo-Konibo"
+],
+"links": 14
+},
+{
+"name": "Siwu",
+"aliases": [
+"Siwu language"
+],
+"links": 14
+},
+{
+"name": "Soddo",
+"aliases": [
+"Aymälläl language",
+"Kistane",
+"Soddo Gurage",
+"Soddo language"
+],
+"links": 14
+},
+{
+"name": "Sumi",
+"aliases": [
+"Sema",
+"Sumi Naga"
+],
+"links": 14
+},
+{
+"name": "Sunwar",
+"aliases": [
+"jenticha",
+"Kiranti-Kõits",
+"Koinch",
+"Koincha",
+"Kõits Lo",
+"Mukhiya",
+"Sunuvār",
+"sunuwar",
+"Sunwar language",
+"tikamuli"
+],
+"links": 14
+},
+{
+"name": "Tacana",
+"aliases": [
+"Tacana language"
+],
+"links": 14
+},
+{
+"name": "Takuu",
+"aliases": [
+"Takuu language"
+],
+"links": 14
+},
+{
+"name": "Tapieté",
+"aliases": [
+"Tapiete",
+"Tapiete dialect",
+"Tapieté dialect"
+],
+"links": 14
+},
+{
+"name": "Tariana",
+"aliases": [
+"Tariana language",
+"Tariano"
+],
+"links": 14
+},
+{
+"name": "Temiar",
+"aliases": [
+"Temiar language"
+],
+"links": 14
+},
+{
+"name": "Ten'edn",
+"aliases": [
+"Maniq language",
+"Mos language",
+"tnz",
+"Tonga"
+],
+"links": 14
+},
+{
+"name": "Tetserret",
+"aliases": [
+"Tetserret language"
+],
+"links": 14
+},
+{
+"name": "Tidikelt",
+"aliases": [
+"Tidikelt language",
+"Tidikelt Tamazight"
+],
+"links": 14
+},
+{
+"name": "Tokunoshima",
+"aliases": [
+"Toku-no-Shima language",
+"Tokunoshima language"
+],
+"links": 14
+},
+{
+"name": "Tontemboan",
+"aliases": [
+"Tontemboan language"
+],
+"links": 14
+},
+{
+"name": "Tugurt",
+"aliases": [
+"Amazigh Tugurt language",
+"Oued Righ",
+"Oued-Righ Berber",
+"Temacine Tamazight",
+"Tugurt language"
+],
+"links": 14
+},
+{
+"name": "Tunica",
+"aliases": [
+"Luhchi Yoroni",
+"Tonica",
+"Tunica language",
+"Yuron"
+],
+"links": 14
+},
+{
+"name": "Wandala",
+"aliases": [
+"Wandala language"
+],
+"links": 14
+},
+{
+"name": "Wapishana",
+"aliases": [
+"Wapishana language"
+],
+"links": 14
+},
+{
+"name": "Waxiang Chinese",
+"aliases": [
+"Waxianghua"
+],
+"links": 14
+},
+{
+"name": "Welsh Romani",
+"aliases": [
+"Welsh Romani language",
+"Welsh-Romani",
+"Welsh-Romani language"
+],
+"links": 14
+},
+{
+"name": "Wyandot",
+"aliases": [
+"Wyandot language"
+],
+"links": 14
+},
+{
+"name": "Xârâcùù",
+"aliases": [
+"Xaracuu",
+"Xaracuu language"
+],
+"links": 14
+},
+{
+"name": "Yankunytjatjara",
+"aliases": [
+"Yankuntjatjara language",
+"Yankunytjatjara language"
+],
+"links": 14
+},
+{
+"name": "Yaruro",
+"aliases": [
+"Pume",
+"Pumé",
+"Yaruro language"
+],
+"links": 14
+},
+{
+"name": "Ye'kuana",
+"aliases": [
+"Maquiritari",
+"Ye'kuana language",
+"Yekuana"
+],
+"links": 14
+},
+{
+"name": "Yine",
+"aliases": [
+"Piro language"
+],
+"links": 14
+},
+{
+"name": "Yolmo",
+"aliases": [
+"Helambu Sherpa",
+"Helambu Sherpa language",
+"Hyolmo language",
+"Lamjung-Melamchi Yolmo language",
+"Yolmo language"
+],
+"links": 14
+},
+{
+"name": "Yukpa",
+"aliases": [
+"Yuco",
+"Yukpa language"
+],
+"links": 14
+},
+{
+"name": "Zaiwa",
+"aliases": [
+"Aci",
+"Aji",
+"Atshi",
+"Atsi",
+"Atsi-Maru",
+"Atzi",
+"Azi",
+"Szi",
+"Tsaiva",
+"Tsaiwa",
+"Xiaoshanhua"
+],
+"links": 14
+},
+{
+"name": "Äiwoo",
+"aliases": [
+"Ayiwo",
+"Äiwoo language"
+],
+"links": 14
+},
+{
+"name": "Adonara",
+"aliases": [
+"Adonara language"
+],
+"links": 13
+},
+{
+"name": "Adzera",
+"aliases": [
+"adz",
+"Adzera language",
+"azr"
+],
+"links": 13
+},
+{
+"name": "Agariya",
+"aliases": [
+"Agaria",
+"Agariya language",
+"Agharia",
+"Agoria"
+],
+"links": 13
+},
+{
+"name": "Agutaynen",
+"aliases": [
+"Agutaynen language"
+],
+"links": 13
+},
+{
+"name": "Alorese",
+"aliases": [
+"Alorese language"
+],
+"links": 13
+},
+{
+"name": "Amal",
+"aliases": [
+"Amal language"
+],
+"links": 13
+},
+{
+"name": "Arutani",
+"aliases": [
+"Arutani language"
+],
+"links": 13
+},
+{
+"name": "Ashtiani",
+"aliases": [
+"Ashtiani language"
+],
+"links": 13
+},
+{
+"name": "Badyara",
+"aliases": [
+"Badyara language"
+],
+"links": 13
+},
+{
+"name": "Bah-Biau Punan",
+"aliases": [
+"Bah-Biau Punan language",
+"Punan Bah-Biau"
+],
+"links": 13
+},
+{
+"name": "Bahing",
+"aliases": [
+"Bahing language"
+],
+"links": 13
+},
+{
+"name": "Baima",
+"aliases": [
+"Baima language"
+],
+"links": 13
+},
+{
+"name": "Baiso",
+"aliases": [
+"Baiso language",
+"Bayso language"
+],
+"links": 13
+},
+{
+"name": "Baka",
+"aliases": [
+"Baka language",
+"Bakaka language",
+"Bibaya language",
+"bkc",
+"Kaa language"
+],
+"links": 13
+},
+{
+"name": "Baltic Romani",
+"aliases": [
+"Baltic Romani language"
+],
+"links": 13
+},
+{
+"name": "Bandi",
+"aliases": [
+"Bandi language"
+],
+"links": 13
+},
+{
+"name": "Barí",
+"aliases": [
+"Bari",
+"Bari language",
+"Barí language"
+],
+"links": 13
+},
+{
+"name": "Basap",
+"aliases": [
+"Basap language"
+],
+"links": 13
+},
+{
+"name": "Basketo",
+"aliases": [
+"Basketo language"
+],
+"links": 13
+},
+{
+"name": "Batek",
+"aliases": [
+"Batek language"
+],
+"links": 13
+},
+{
+"name": "Biafada",
+"aliases": [
+"Biafada language"
+],
+"links": 13
+},
+{
+"name": "Bikya",
+"aliases": [
+"Bikya language"
+],
+"links": 13
+},
+{
+"name": "Birhor",
+"aliases": [
+"Birhor language"
+],
+"links": 13
+},
+{
+"name": "Bit",
+"aliases": [
+"Bit language",
+"Buxinhua"
+],
+"links": 13
+},
+{
+"name": "Bonggo",
+"aliases": [
+"Bonggo language"
+],
+"links": 13
+},
+{
+"name": "Bongo",
+"aliases": [
+"Bongo language"
+],
+"links": 13
+},
+{
+"name": "Bowili",
+"aliases": [
+"Bowili language",
+"Tuwuli"
+],
+"links": 13
+},
+{
+"name": "Brokkat",
+"aliases": [
+"Brokkat language"
+],
+"links": 13
+},
+{
+"name": "Budong-Budong",
+"aliases": [
+"Budong-Budong language",
+"Tangkou"
+],
+"links": 13
+},
+{
+"name": "Buglere",
+"aliases": [
+"Buglere language"
+],
+"links": 13
+},
+{
+"name": "Buhid",
+"aliases": [
+"Buhid language"
+],
+"links": 13
+},
+{
+"name": "Burmeso",
+"aliases": [
+"Burmeso language",
+"Taurap"
+],
+"links": 13
+},
+{
+"name": "Burunge",
+"aliases": [
+"Burunge language"
+],
+"links": 13
+},
+{
+"name": "Busuu",
+"aliases": [
+"Busuu language"
+],
+"links": 13
+},
+{
+"name": "Cavineña",
+"aliases": [
+"Cavineña language"
+],
+"links": 13
+},
+{
+"name": "Chaura",
+"aliases": [
+"Chaura language",
+"Chowra",
+"Sanenyo"
+],
+"links": 13
+},
+{
+"name": "Chepang",
+"aliases": [
+"Chepang language"
+],
+"links": 13
+},
+{
+"name": "Chopi",
+"aliases": [
+"Chopi language"
+],
+"links": 13
+},
+{
+"name": "Cèmuhî",
+"aliases": [
+"Camuhi",
+"Camuki",
+"Cemuhi",
+"Cemuhi language",
+"Cemuhî",
+"Cèmuhî language"
+],
+"links": 13
+},
+{
+"name": "Daba",
+"aliases": [
+"Daba language"
+],
+"links": 13
+},
+{
+"name": "Defaka",
+"aliases": [
+"Defaka language"
+],
+"links": 13
+},
+{
+"name": "Dena'ina",
+"aliases": [
+"Dena'ina language",
+"Tanaina",
+"Tanaina language"
+],
+"links": 13
+},
+{
+"name": "Deyah",
+"aliases": [
+"Deyah language",
+"dun",
+"Dusun Deyah"
+],
+"links": 13
+},
+{
+"name": "Dhanwar Rai",
+"aliases": [
+"Danwar",
+"Danwar language",
+"Dhanwar",
+"Dhanwar Rai language"
+],
+"links": 13
+},
+{
+"name": "Dizin",
+"aliases": [
+"Dizin language"
+],
+"links": 13
+},
+{
+"name": "Dusun Malang",
+"aliases": [
+"duq",
+"Dusun Malang language"
+],
+"links": 13
+},
+{
+"name": "Dusun Witu",
+"aliases": [
+"Dusun Witu language",
+"duw",
+"Witu"
+],
+"links": 13
+},
+{
+"name": "Ekajuk",
+"aliases": [
+"Akajo",
+"Akajuk",
+"Ekajuk language",
+"Kajuk",
+"Kajuk language"
+],
+"links": 13
+},
+{
+"name": "El Molo",
+"aliases": [
+"Dehes language",
+"El Molo language",
+"Elmolo language",
+"Fura-Pawa language",
+"Ldes language"
+],
+"links": 13
+},
+{
+"name": "Embaloh",
+"aliases": [
+"Embaloh language",
+"Maloh"
+],
+"links": 13
+},
+{
+"name": "Galoli",
+"aliases": [
+"Galolen",
+"Galoli language",
+"Galoli-Talur"
+],
+"links": 13
+},
+{
+"name": "Gataq",
+"aliases": [
+"Didayi",
+"Gata'",
+"Gataq language",
+"Gta'"
+],
+"links": 13
+},
+{
+"name": "Gbaya",
+"aliases": [
+"Baja languages",
+"Gbaya language family",
+"Gbaya languages",
+"Gbaya macrolanguage",
+"Gbea languages",
+"Gbeya languages"
+],
+"links": 13
+},
+{
+"name": "Goaria",
+"aliases": [
+"Goaria language"
+],
+"links": 13
+},
+{
+"name": "Gola",
+"aliases": [
+"Gola language"
+],
+"links": 13
+},
+{
+"name": "Guahibo",
+"aliases": [
+"Guahibo language"
+],
+"links": 13
+},
+{
+"name": "Guniyandi",
+"aliases": [
+"Gooniyandi",
+"Guniyandi language"
+],
+"links": 13
+},
+{
+"name": "Gyalrong",
+"aliases": [
+"East Gyalrongic",
+"Jiarong",
+"Jiarong languages",
+"rGyalrong",
+"Rgyalrong languages"
+],
+"links": 13
+},
+{
+"name": "Habun",
+"aliases": [
+"Habu",
+"Habun language"
+],
+"links": 13
+},
+{
+"name": "Hajong",
+"aliases": [
+"Hajong language"
+],
+"links": 13
+},
+{
+"name": "Halkomelem",
+"aliases": [
+"Halkomelem language",
+"Halq̓eméylem",
+"Hul̓q̓umín̓um̓",
+"hən̓q̓əmin̓əm̓"
+],
+"links": 13
+},
+{
+"name": "Hanunó'o",
+"aliases": [
+"Hanunoo",
+"Hanunoo language",
+"Hanunuo",
+"Hanunóo"
+],
+"links": 13
+},
+{
+"name": "Hulaulá",
+"aliases": [
+"Hulaula",
+"Hulaula language",
+"Hulaulá language"
+],
+"links": 13
+},
+{
+"name": "Ika",
+"aliases": [
+"Ika language"
+],
+"links": 13
+},
+{
+"name": "Inor",
+"aliases": [
+"Ennemor",
+"Inor language"
+],
+"links": 13
+},
+{
+"name": "Isoko",
+"aliases": [
+"Isoko language"
+],
+"links": 13
+},
+{
+"name": "Israeli Sign Language",
+"aliases": [
+"ISL",
+"isr",
+"Shassi"
+],
+"links": 13
+},
+{
+"name": "Itsekiri",
+"aliases": [
+"Isekiri",
+"Itsekiri language"
+],
+"links": 13
+},
+{
+"name": "Ixcatec",
+"aliases": [
+"Ixcatec language",
+"Xjuani",
+"Xwja"
+],
+"links": 13
+},
+{
+"name": "Jah Hut",
+"aliases": [
+"Jah Hut language"
+],
+"links": 13
+},
+{
+"name": "Jahai",
+"aliases": [
+"Jahai language",
+"Jehai language"
+],
+"links": 13
+},
+{
+"name": "Jakun",
+"aliases": [
+"Jakun language"
+],
+"links": 13
+},
+{
+"name": "Javindo",
+"aliases": [
+"Javindo language",
+"Krontjong"
+],
+"links": 13
+},
+{
+"name": "Kalenjin",
+"aliases": [
+"Kalenjin language",
+"Kalenjin languages"
+],
+"links": 13
+},
+{
+"name": "Kambera",
+"aliases": [
+"Kambera language",
+"Sumba"
+],
+"links": 13
+},
+{
+"name": "Kangjia",
+"aliases": [
+"Kangjia language"
+],
+"links": 13
+},
+{
+"name": "Kannada Kurumba",
+"aliases": [
+"Jennu Kurumba",
+"Kurumba language"
+],
+"links": 13
+},
+{
+"name": "Karai-karai",
+"aliases": [
+"Karaikarai",
+"Karekare",
+"Karekare language",
+"Kerekere",
+"Kerrikerri"
+],
+"links": 13
+},
+{
+"name": "Karajá",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Kebu",
+"aliases": [
+"Akebu",
+"Kebu language"
+],
+"links": 13
+},
+{
+"name": "Khamti",
+"aliases": [
+"Hkamti",
+"Khamti language",
+"Khamti Shan",
+"Khandi Shan",
+"Lik-Tai script",
+"Tai Khamti"
+],
+"links": 13
+},
+{
+"name": "Khufi",
+"aliases": [
+"Khufi language"
+],
+"links": 13
+},
+{
+"name": "Kishtwari",
+"aliases": [
+"Kishtwari language"
+],
+"links": 13
+},
+{
+"name": "Koch",
+"aliases": [
+"Koch language"
+],
+"links": 13
+},
+{
+"name": "Kol",
+"aliases": [
+"Kol language"
+],
+"links": 13
+},
+{
+"name": "Kom",
+"aliases": [
+"Bamekon language",
+"Bikom language",
+"bkm",
+"Ekom language",
+"Etang language",
+"Kom language",
+"Nkom language"
+],
+"links": 13
+},
+{
+"name": "Komo",
+"aliases": [
+"Komo language"
+],
+"links": 13
+},
+{
+"name": "Korandje",
+"aliases": [
+"Korandje language",
+"Kwaranje"
+],
+"links": 13
+},
+{
+"name": "Kriol",
+"aliases": [
+"Australian Kriol",
+"Australian Kriol language"
+],
+"links": 13
+},
+{
+"name": "Kwakʼwala",
+"aliases": [
+"Kwak'wala",
+"Kwakiutl",
+"Kwakwala",
+"Kwak̓wala"
+],
+"links": 13
+},
+{
+"name": "Lamaholot",
+"aliases": [
+"Lamaholot language",
+"Solor"
+],
+"links": 13
+},
+{
+"name": "Lanoh",
+"aliases": [
+"Lanoh language"
+],
+"links": 13
+},
+{
+"name": "Lio",
+"aliases": [
+"Li'o language"
+],
+"links": 13
+},
+{
+"name": "Lobi",
+"aliases": [
+"Lobi language"
+],
+"links": 13
+},
+{
+"name": "Lotha",
+"aliases": [
+"Lotha language",
+"Lotha Naga"
+],
+"links": 13
+},
+{
+"name": "Macushi",
+"aliases": [
+"Macushi language"
+],
+"links": 13
+},
+{
+"name": "Mag-indi",
+"aliases": [
+"Mag-Indi Ayta",
+"Mag-indi language"
+],
+"links": 13
+},
+{
+"name": "Mandeali",
+"aliases": [
+"Mandeali language"
+],
+"links": 13
+},
+{
+"name": "Manggarai",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Mano",
+"aliases": [
+"Mano language"
+],
+"links": 13
+},
+{
+"name": "Margi",
+"aliases": [
+"Marghi Central",
+"Margi language"
+],
+"links": 13
+},
+{
+"name": "Massep",
+"aliases": [
+"Massep language"
+],
+"links": 13
+},
+{
+"name": "Mav̋ea",
+"aliases": [
+"Mafea",
+"Mavea",
+"Mavea language",
+"Mav̋ea language"
+],
+"links": 13
+},
+{
+"name": "Mocoví",
+"aliases": [
+"Mocovi",
+"Mocovi language",
+"Mocoví language",
+"Moqoit"
+],
+"links": 13
+},
+{
+"name": "Mongolian Sign Language",
+"aliases": [
+"MSL"
+],
+"links": 13
+},
+{
+"name": "Mongondow",
+"aliases": [
+"Bolaang Mongondow language",
+"Mongondow language"
+],
+"links": 13
+},
+{
+"name": "Morori",
+"aliases": [
+"Marori language",
+"Moaraeri language",
+"Morori language"
+],
+"links": 13
+},
+{
+"name": "Mualang",
+"aliases": [
+"Mualang language"
+],
+"links": 13
+},
+{
+"name": "Muna",
+"aliases": [
+"Muna language"
+],
+"links": 13
+},
+{
+"name": "Mursi",
+"aliases": [
+"Mursi language"
+],
+"links": 13
+},
+{
+"name": "Mwotlap",
+"aliases": [
+"Motlav",
+"Mwotlap language"
+],
+"links": 13
+},
+{
+"name": "Namuyi",
+"aliases": [
+"Namouyieg",
+"Namuzi"
+],
+"links": 13
+},
+{
+"name": "Narom",
+"aliases": [
+"Narom language"
+],
+"links": 13
+},
+{
+"name": "Nasal",
+"aliases": [
+"Nasal language"
+],
+"links": 13
+},
+{
+"name": "Naskapi",
+"aliases": [
+"Naskapi language",
+"nsk"
+],
+"links": 13
+},
+{
+"name": "Nayini",
+"aliases": [
+"Nayini language"
+],
+"links": 13
+},
+{
+"name": "Noongar",
+"aliases": [
+"Noonga",
+"Noongah",
+"Noongar language",
+"Noongyar",
+"Nyggngah",
+"Nygoonah",
+"Nyoogar",
+"Nyoonga",
+"nys",
+"Nyunga",
+"Nyungah",
+"Nyungak",
+"Nyungar",
+"Nyungar language"
+],
+"links": 13
+},
+{
+"name": "Nung",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Nyah Kur",
+"aliases": [
+"Nyah Kur language",
+"Nyahkur"
+],
+"links": 13
+},
+{
+"name": "Nyakyusa",
+"aliases": [
+"IkyaNgonde",
+"Kyangonde",
+"Nyakyusa language",
+"Nyakyusa-Ngonde"
+],
+"links": 13
+},
+{
+"name": "Okinoerabu",
+"aliases": [
+"Oki-No-Erabu",
+"Oki-no-Erabu language",
+"Okinoerabu language"
+],
+"links": 13
+},
+{
+"name": "Oneida",
+"aliases": [
+"Oneida language"
+],
+"links": 13
+},
+{
+"name": "Paicî",
+"aliases": [
+"Paici",
+"Paici language",
+"Paicî language"
+],
+"links": 13
+},
+{
+"name": "Paku",
+"aliases": [
+"Bakau",
+"Paku language",
+"pku"
+],
+"links": 13
+},
+{
+"name": "Panare",
+"aliases": [
+"E'ñapa Woromaipu",
+"Panare language"
+],
+"links": 13
+},
+{
+"name": "Pele-Ata",
+"aliases": [
+"Ata",
+"Ata language",
+"Pele-Ata language"
+],
+"links": 13
+},
+{
+"name": "Penrhyn",
+"aliases": [
+"Mangarongaro",
+"Penrhyn language",
+"Penrhynese",
+"pnh",
+"Tongareva",
+"Tongareva language"
+],
+"links": 13
+},
+{
+"name": "Pintupi",
+"aliases": [
+"Pintupi language",
+"Pintupi-Luritja"
+],
+"links": 13
+},
+{
+"name": "Plains Cree",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Qabiao",
+"aliases": [
+"Laqua",
+"Pubiao-Qabiao",
+"Qabiao language"
+],
+"links": 13
+},
+{
+"name": "Rabha",
+"aliases": [
+"Rabha language"
+],
+"links": 13
+},
+{
+"name": "Rangi",
+"aliases": [
+"lag",
+"Langi",
+"Rangi language"
+],
+"links": 13
+},
+{
+"name": "Red Gelao",
+"aliases": [
+"Red Gelao language"
+],
+"links": 13
+},
+{
+"name": "Resígaro",
+"aliases": [
+"Resigaro",
+"Resigaro language",
+"Resígaro language"
+],
+"links": 13
+},
+{
+"name": "Sa'ban",
+"aliases": [
+"Sa'ban language"
+],
+"links": 13
+},
+{
+"name": "Sambalpuri",
+"aliases": [
+"Kosali language",
+"Koshali",
+"Kosli",
+"Sambalpuri language",
+"spv"
+],
+"links": 13
+},
+{
+"name": "Sebat Bet Gurage",
+"aliases": [
+"Sebat Bet Gurage language"
+],
+"links": 13
+},
+{
+"name": "Semelai",
+"aliases": [
+"Semelai language"
+],
+"links": 13
+},
+{
+"name": "Shuar",
+"aliases": [
+"Shuar language"
+],
+"links": 13
+},
+{
+"name": "Shö",
+"aliases": [
+"Asho Chin language",
+"Asho language",
+"Shö language"
+],
+"links": 13
+},
+{
+"name": "Sivandi",
+"aliases": [
+"Sivandi language"
+],
+"links": 13
+},
+{
+"name": "Soo language",
+"aliases": [
+"So",
+"Soo"
+],
+"links": 13
+},
+{
+"name": "South Oran and Figuig Berber",
+"aliases": [
+"Figuig"
+],
+"links": 13
+},
+{
+"name": "Sulka",
+"aliases": [
+"Sulka language"
+],
+"links": 13
+},
+{
+"name": "Suri",
+"aliases": [
+"Suri language",
+"Tirma-Chai language",
+"Tirmaga-Chai Suri"
+],
+"links": 13
+},
+{
+"name": "Tae’",
+"aliases": [
+"Tae'",
+"Tae’ language"
+],
+"links": 13
+},
+{
+"name": "Taita",
+"aliases": [
+"Taita language"
+],
+"links": 13
+},
+{
+"name": "Tanema",
+"aliases": [
+"Tanema language"
+],
+"links": 13
+},
+{
+"name": "Tangale",
+"aliases": [
+"Tangale language"
+],
+"links": 13
+},
+{
+"name": "Tangkhul",
+"aliases": [
+"Tangkhul language",
+"Tangkhul Naga"
+],
+"links": 13
+},
+{
+"name": "Tboli",
+"aliases": [
+"T'boli",
+"Tagabili",
+"Tboli language"
+],
+"links": 13
+},
+{
+"name": "Thai Sign Language",
+"aliases": [
+"Modern Standard Thai Sign Language",
+"MSTSL",
+"TSL"
+],
+"links": 13
+},
+{
+"name": "Thakali",
+"aliases": [
+"Thakali language"
+],
+"links": 13
+},
+{
+"name": "Thavung",
+"aliases": [
+"Aheu"
+],
+"links": 13
+},
+{
+"name": "Tikopia",
+"aliases": [
+"Tikopia language"
+],
+"links": 13
+},
+{
+"name": "Timbisha",
+"aliases": [
+"Panamint",
+"Timbisha language"
+],
+"links": 13
+},
+{
+"name": "Tobelo",
+"aliases": [
+"tlb",
+"Tobelo language"
+],
+"links": 13
+},
+{
+"name": "Tombulu",
+"aliases": [
+"Tombulu language"
+],
+"links": 13
+},
+{
+"name": "Tonsea",
+"aliases": [
+"Tonsea language"
+],
+"links": 13
+},
+{
+"name": "Touo",
+"aliases": [
+"Touo language"
+],
+"links": 13
+},
+{
+"name": "Tundra Nenets",
+"aliases": [
+"Tundra Nenets language"
+],
+"links": 13
+},
+{
+"name": "Vaeakau-Taumako",
+"aliases": [
+"Pileni",
+"Vaeakau-Taumako language"
+],
+"links": 13
+},
+{
+"name": "Vagla",
+"aliases": [
+"Vagla language"
+],
+"links": 13
+},
+{
+"name": "Vitu",
+"aliases": [
+"Vittu",
+"Vitu language"
+],
+"links": 13
+},
+{
+"name": "Wagiman",
+"aliases": [
+"Wageman",
+"Wagiman language"
+],
+"links": 13
+},
+{
+"name": "Walmajarri",
+"aliases": [
+"Walmajarri language"
+],
+"links": 13
+},
+{
+"name": "Wichí Lhamtés Nocten",
+"aliases": [
+"Wichi Lhamtes Nocten"
+],
+"links": 13
+},
+{
+"name": "Wounaan",
+"aliases": [
+"Woun Meu",
+"Wounaan language"
+],
+"links": 13
+},
+{
+"name": "Yedina",
+"aliases": [
+"Buduma",
+"Yedina language"
+],
+"links": 13
+},
+{
+"name": "Yimas",
+"aliases": [
+"Yimas language"
+],
+"links": 13
+},
+{
+"name": "Yoke",
+"aliases": [
+"Pauwi",
+"Pauwi language",
+"Yoke language"
+],
+"links": 13
+},
+{
+"name": "Zumaya",
+"aliases": [
+"Zumaya language"
+],
+"links": 13
+},
+{
+"name": "ǂ’Amkoe",
+"aliases": [
+"ǂHoan",
+"ǂHua",
+"ǂHû",
+"ǂHûân",
+"ǂHȍã"
+],
+"links": 13
+},
+{
+"name": "Abaga",
+"aliases": [
+"Abaga language",
+"Wagama"
+],
+"links": 12
+},
+{
+"name": "Abai Sungai",
+"aliases": [
+"Abai Sungai language"
+],
+"links": 12
+},
+{
+"name": "Adara",
+"aliases": [
+"Ada",
+"Adara language",
+"Ajiya",
+"Eda",
+"Ekhwa",
+"Eneje",
+"Enezhe",
+"Iku"
+],
+"links": 12
+},
+{
+"name": "Adi",
+"aliases": [
+"Abor language",
+"Adi language"
+],
+"links": 12
+},
+{
+"name": "Afra",
+"aliases": [
+"Afra language",
+"Usku"
+],
+"links": 12
+},
+{
+"name": "Aghem",
+"aliases": [
+"Aghem language",
+"Wum",
+"Yum"
+],
+"links": 12
+},
+{
+"name": "Agoi",
+"aliases": [
+"Agoi language"
+],
+"links": 12
+},
+{
+"name": "Ahan",
+"aliases": [
+"Ahan language",
+"Àhàn"
+],
+"links": 12
+},
+{
+"name": "Aimol",
+"aliases": [
+"Aimol language"
+],
+"links": 12
+},
+{
+"name": "Aja",
+"aliases": [
+"Aja language"
+],
+"links": 12
+},
+{
+"name": "Akpes",
+"aliases": [
+"Akpes language"
+],
+"links": 12
+},
+{
+"name": "Akum",
+"aliases": [
+"Akum language"
+],
+"links": 12
+},
+{
+"name": "Akurio",
+"aliases": [
+"Akurio language",
+"Akuriyo",
+"Akuriyó"
+],
+"links": 12
+},
+{
+"name": "Alago",
+"aliases": [
+"Alago language",
+"Idoma Nokwu",
+"Idoma Nokwu language"
+],
+"links": 12
+},
+{
+"name": "Alagwa",
+"aliases": [
+"Alagwa language"
+],
+"links": 12
+},
+{
+"name": "Alamblak",
+"aliases": [
+"Alamblak language"
+],
+"links": 12
+},
+{
+"name": "Alekano",
+"aliases": [
+"Alekano language"
+],
+"links": 12
+},
+{
+"name": "Amahuaca",
+"aliases": [
+"Amahuaca language"
+],
+"links": 12
+},
+{
+"name": "Amarakaeri",
+"aliases": [
+"Amarakaeri language"
+],
+"links": 12
+},
+{
+"name": "Amazonic Spanish",
+"aliases": [
+"Amazonian Spanish",
+"Charapa Spanish",
+"Jungle Spanish",
+"Loreto-Ucayali Spanish",
+"Peruvian Amazonian Spanish"
+],
+"links": 12
+},
+{
+"name": "Ambelau",
+"aliases": [
+"Ambelau language",
+"Amblau"
+],
+"links": 12
+},
+{
+"name": "Ampanang",
+"aliases": [
+"Ampanang language"
+],
+"links": 12
+},
+{
+"name": "Anambé",
+"aliases": [
+"Anambe",
+"Anambe language",
+"Anambé language",
+"Anambé of Cairarí"
+],
+"links": 12
+},
+{
+"name": "Andio",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Anindilyakwa",
+"aliases": [
+"Anindilyakwa language",
+"Enindhilyagwa language"
+],
+"links": 12
+},
+{
+"name": "Apatani",
+"aliases": [
+"Apatani language"
+],
+"links": 12
+},
+{
+"name": "Apurinã",
+"aliases": [
+"Apurinã language"
+],
+"links": 12
+},
+{
+"name": "Aralle-Tabulahan",
+"aliases": [
+"Aralle-Tabulahan language"
+],
+"links": 12
+},
+{
+"name": "Arbore",
+"aliases": [
+"Arbore language"
+],
+"links": 12
+},
+{
+"name": "Ashéninka",
+"aliases": [
+"Asheninka Pajonal",
+"Ashéninca",
+"Ashéninga",
+"Ashéninka Pajonal",
+"Pajonal Asheninka",
+"Pajonal Ashéninka"
+],
+"links": 12
+},
+{
+"name": "Asur",
+"aliases": [
+"Asur language",
+"Asuri"
+],
+"links": 12
+},
+{
+"name": "Attié",
+"aliases": [
+"Attie",
+"Attie language",
+"Attié language"
+],
+"links": 12
+},
+{
+"name": "Avikam",
+"aliases": [
+"Avikam language"
+],
+"links": 12
+},
+{
+"name": "Aweer",
+"aliases": [
+"Aweer language",
+"Boni language"
+],
+"links": 12
+},
+{
+"name": "Babatana",
+"aliases": [
+"Babatana language"
+],
+"links": 12
+},
+{
+"name": "Babine-Witsuwit'en",
+"aliases": [
+"Babeen",
+"Babeen language",
+"Babine",
+"Babine Carrier",
+"Babine Carrier language",
+"Babine language",
+"Babine-Hagwilgate",
+"Babine-Hagwilgate language",
+"Babine-Wet'suwet'en",
+"Babine-Wet'suwet'en language",
+"Babine-Witsuwit'en language",
+"Bulkley Valley Lakes District language",
+"Nadot'en",
+"Nadot'en language",
+"Nadot'en-Wet'suwet'en",
+"Nadot'en-Wet'suwet'en language",
+"Nat'ooten",
+"Nat'ooten language",
+"Nedut'en",
+"Nedut'en language",
+"North Carrier",
+"North Carrier language",
+"Northern Carrier",
+"Northern Carrier language",
+"Northwestern Carrier",
+"Northwestern Carrier language",
+"Nâte-ote-tain",
+"Nâte-ote-tain language",
+"Western Carrier",
+"Western Carrier language",
+"Witsuwit'en-Babine",
+"Witsuwit'en-Babine language"
+],
+"links": 12
+},
+{
+"name": "Bambam",
+"aliases": [
+"Bambam language"
+],
+"links": 12
+},
+{
+"name": "Bambassi",
+"aliases": [
+"Bambassi language"
+],
+"links": 12
+},
+{
+"name": "Bangi",
+"aliases": [
+"Bangi language",
+"Bobangi"
+],
+"links": 12
+},
+{
+"name": "Barakai",
+"aliases": [
+"Barakai language",
+"Workai"
+],
+"links": 12
+},
+{
+"name": "Baram",
+"aliases": [
+"Baraamu",
+"Baram language"
+],
+"links": 12
+},
+{
+"name": "Barese",
+"aliases": [
+"Barese Neapolitan",
+"Bari dialect"
+],
+"links": 12
+},
+{
+"name": "Barzani Jewish Neo-Aramaic",
+"aliases": [
+"Central Jewish Neo-Aramaic"
+],
+"links": 12
+},
+{
+"name": "Bawm",
+"aliases": [
+"Bawm Chin",
+"Bawm language"
+],
+"links": 12
+},
+{
+"name": "Bayot",
+"aliases": [
+"Bayot language"
+],
+"links": 12
+},
+{
+"name": "Bellari",
+"aliases": [
+"Belari",
+"Bellari language"
+],
+"links": 12
+},
+{
+"name": "Bisu",
+"aliases": [
+"Bisu language"
+],
+"links": 12
+},
+{
+"name": "Boga",
+"aliases": [
+"Boga language"
+],
+"links": 12
+},
+{
+"name": "Boko",
+"aliases": [
+"Boko language",
+"Boo"
+],
+"links": 12
+},
+{
+"name": "Bukar Sadong",
+"aliases": [
+"Bidayuh Bukar-Sadong",
+"Bukar Sadong language",
+"Bukar-Sadong Bidayuh",
+"Bukar-Sadung Bidayuh"
+],
+"links": 12
+},
+{
+"name": "Bukitan",
+"aliases": [
+"Bukitan language"
+],
+"links": 12
+},
+{
+"name": "Buru",
+"aliases": [
+"Buru language"
+],
+"links": 12
+},
+{
+"name": "Butuanon",
+"aliases": [
+"Butuanon language"
+],
+"links": 12
+},
+{
+"name": "Carijona",
+"aliases": [
+"Carijona language"
+],
+"links": 12
+},
+{
+"name": "Cashinahua",
+"aliases": [
+"Kashinawa",
+"Kaxinawa",
+"Kaxinawá"
+],
+"links": 12
+},
+{
+"name": "Cha'palaa",
+"aliases": [
+"Cayapa",
+"Cayapa language",
+"Chachi"
+],
+"links": 12
+},
+{
+"name": "Chakali",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Chamling",
+"aliases": [
+"Camling language"
+],
+"links": 12
+},
+{
+"name": "Chenchu",
+"aliases": [
+"Chenchu language"
+],
+"links": 12
+},
+{
+"name": "Cherepon",
+"aliases": [
+"Cherepon language",
+"Chiripon",
+"Chiripong",
+"Kyerepong",
+"Okere"
+],
+"links": 12
+},
+{
+"name": "Chilcotin",
+"aliases": [
+"Chilcotin language",
+"clc",
+"Tsilhqot’in",
+"Tsilhqut’in",
+"Tzilkotin"
+],
+"links": 12
+},
+{
+"name": "Chilisso",
+"aliases": [
+"Chilisso language"
+],
+"links": 12
+},
+{
+"name": "Chimane",
+"aliases": [
+"Chimane language",
+"Mosetén",
+"Tsimane",
+"Tsimane'",
+"Tsimané",
+"Tsinsimik",
+"Tsunsi'ĉan"
+],
+"links": 12
+},
+{
+"name": "Chimila",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Chocho",
+"aliases": [
+"Chocho language",
+"Chocholtec",
+"Chocholteco Chochotec",
+"Chochon",
+"Chochotec",
+"Ngigua"
+],
+"links": 12
+},
+{
+"name": "Chru",
+"aliases": [
+"Chru language"
+],
+"links": 12
+},
+{
+"name": "Cibak",
+"aliases": [
+"Cibak language"
+],
+"links": 12
+},
+{
+"name": "Cocopah",
+"aliases": [
+"coc",
+"Cocopa",
+"Cocopah language"
+],
+"links": 12
+},
+{
+"name": "Cubeo",
+"aliases": [
+"Cubeo language"
+],
+"links": 12
+},
+{
+"name": "Curripaco",
+"aliases": [
+"Baniwa of Içana",
+"Curripaco language",
+"Ipeka-Tapuia-Curripako",
+"Kurripako"
+],
+"links": 12
+},
+{
+"name": "Cusco Quechua",
+"aliases": [
+"Cuzco Quechua",
+"quz"
+],
+"links": 12
+},
+{
+"name": "Czech Sign Language",
+"aliases": [
+"ČZJ"
+],
+"links": 12
+},
+{
+"name": "Degema",
+"aliases": [
+"Degema language",
+"Dẹgẹma"
+],
+"links": 12
+},
+{
+"name": "Dehwari",
+"aliases": [
+"Dehwari language"
+],
+"links": 12
+},
+{
+"name": "Dengebu",
+"aliases": [
+"Dagik",
+"Dengebu language"
+],
+"links": 12
+},
+{
+"name": "Deori",
+"aliases": [
+"Deori language"
+],
+"links": 12
+},
+{
+"name": "Dera",
+"aliases": [
+"Dera language"
+],
+"links": 12
+},
+{
+"name": "Drèents",
+"aliases": [
+"Dreents",
+"Drents",
+"Drentse dialect",
+"drt",
+"Dréents dialects"
+],
+"links": 12
+},
+{
+"name": "Eastern Pwo",
+"aliases": [
+"Eastern Pwo Karen",
+"Eastern Pwo language",
+"kjp",
+"Pwo Eastern Karen"
+],
+"links": 12
+},
+{
+"name": "Ebrié",
+"aliases": [
+"Ebrie",
+"Ebrie language",
+"Ebrié language"
+],
+"links": 12
+},
+{
+"name": "Elseng",
+"aliases": [
+"Elseng language"
+],
+"links": 12
+},
+{
+"name": "Eton",
+"aliases": [
+"Eton language",
+"Ìtón"
+],
+"links": 12
+},
+{
+"name": "Futuna-Aniwa",
+"aliases": [
+"Futuna-Aniwa language",
+"West Futunan"
+],
+"links": 12
+},
+{
+"name": "Fwe",
+"aliases": [
+"Fwe language"
+],
+"links": 12
+},
+{
+"name": "Gayle",
+"aliases": [
+"Gail",
+"Gayle language"
+],
+"links": 12
+},
+{
+"name": "Globasa",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Goemai",
+"aliases": [
+"Goemai language"
+],
+"links": 12
+},
+{
+"name": "Gorowa",
+"aliases": [
+"Gorowa language"
+],
+"links": 12
+},
+{
+"name": "Gowro",
+"aliases": [
+"Gowro language"
+],
+"links": 12
+},
+{
+"name": "Gude",
+"aliases": [
+"Gude language"
+],
+"links": 12
+},
+{
+"name": "Gutob",
+"aliases": [
+"Bodo Gadaba",
+"Gutob language"
+],
+"links": 12
+},
+{
+"name": "Ha",
+"aliases": [
+"Ha language",
+"Kiha",
+"Kiha language"
+],
+"links": 12
+},
+{
+"name": "Haisla",
+"aliases": [
+"Haisla language"
+],
+"links": 12
+},
+{
+"name": "Haroi",
+"aliases": [
+"Haroi language"
+],
+"links": 12
+},
+{
+"name": "Hawu",
+"aliases": [
+"Havunese",
+"Hawu language",
+"Sabu",
+"Savu",
+"Savunese",
+"Sawu",
+"Sawunese"
+],
+"links": 12
+},
+{
+"name": "Haya",
+"aliases": [
+"Haya language"
+],
+"links": 12
+},
+{
+"name": "Hidatsa",
+"aliases": [
+"Hidatsa language"
+],
+"links": 12
+},
+{
+"name": "Hina",
+"aliases": [
+"Hina language",
+"Mina"
+],
+"links": 12
+},
+{
+"name": "Hmongic",
+"aliases": [
+"Hmongic languages",
+"Miao"
+],
+"links": 12
+},
+{
+"name": "Honduran Sign Language",
+"aliases": [
+"Honduras Sign Language",
+"LESHO"
+],
+"links": 12
+},
+{
+"name": "Huambisa",
+"aliases": [
+"Huambisa language",
+"Wampis language"
+],
+"links": 12
+},
+{
+"name": "I'saka",
+"aliases": [
+"I'saka language",
+"Krisa"
+],
+"links": 12
+},
+{
+"name": "Iatmül",
+"aliases": [
+"Iatmul",
+"Iatmül language"
+],
+"links": 12
+},
+{
+"name": "Ibatag",
+"aliases": [
+"Batan",
+"Batan language",
+"Batanes",
+"Batanes language",
+"Batanic of Palawan",
+"Ibanag-Ibatag",
+"Ibatag language",
+"Ibatan",
+"Ibatan language",
+"Palawan Batanes",
+"Palawan Batanic",
+"Palawan Tagbanwa",
+"Ybanag-Ybatag",
+"Ybatag",
+"Ybatag language",
+"Ybatan",
+"Ybatan language"
+],
+"links": 12
+},
+{
+"name": "Ifè",
+"aliases": [
+"Ede Ife",
+"Ife",
+"Ife language",
+"Ifè language",
+"Ifɛ",
+"Ifɛ̀",
+"Èdè Ifɛ̀"
+],
+"links": 12
+},
+{
+"name": "Ikwerre",
+"aliases": [
+"Ikwere",
+"Ikwerre language"
+],
+"links": 12
+},
+{
+"name": "Indo-Pakistani Sign Language",
+"aliases": [
+"IPSL"
+],
+"links": 12
+},
+{
+"name": "Iwaidja",
+"aliases": [
+"Iwaidja language"
+],
+"links": 12
+},
+{
+"name": "Jola-Fonyi",
+"aliases": [
+"Jola",
+"Jola-Fonyi language"
+],
+"links": 12
+},
+{
+"name": "Juang",
+"aliases": [
+"Juang language",
+"Juanga"
+],
+"links": 12
+},
+{
+"name": "Kagayanen",
+"aliases": [
+"Kagayanen language"
+],
+"links": 12
+},
+{
+"name": "Kako",
+"aliases": [
+"Kako language",
+"kkj"
+],
+"links": 12
+},
+{
+"name": "Kalabari",
+"aliases": [
+"Kalabari language"
+],
+"links": 12
+},
+{
+"name": "Kar",
+"aliases": [
+"Eastern Karaboro",
+"Kar language"
+],
+"links": 12
+},
+{
+"name": "Karkar",
+"aliases": [
+"Karkar language",
+"Karkar-Yuri"
+],
+"links": 12
+},
+{
+"name": "Kashuyana",
+"aliases": [
+"Kaxuiâna language",
+"Sikiana",
+"Sikiana language"
+],
+"links": 12
+},
+{
+"name": "Kassonke",
+"aliases": [
+"Kassonke language",
+"Xaasonga language",
+"Xaasongaxango"
+],
+"links": 12
+},
+{
+"name": "Kata Kolok",
+"aliases": [
+"Bali Sign Language",
+"Balinese Sign Language",
+"Bengkala Sign Language"
+],
+"links": 12
+},
+{
+"name": "Katu",
+"aliases": [
+"Katu language",
+"Western Katu"
+],
+"links": 12
+},
+{
+"name": "Kehu",
+"aliases": [
+"Kehu language"
+],
+"links": 12
+},
+{
+"name": "Kenyan Sign Language",
+"aliases": [
+"KSL",
+"LAK"
+],
+"links": 12
+},
+{
+"name": "Kenyang",
+"aliases": [
+"Nyang language"
+],
+"links": 12
+},
+{
+"name": "Kenzi",
+"aliases": [
+"Kenzi language",
+"Mattokki"
+],
+"links": 12
+},
+{
+"name": "Kera",
+"aliases": [
+"Kera language"
+],
+"links": 12
+},
+{
+"name": "Kiliwa",
+"aliases": [
+"Kiliwa language"
+],
+"links": 12
+},
+{
+"name": "Koalib",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Koasati",
+"aliases": [
+"Coushatta",
+"Koasati language"
+],
+"links": 12
+},
+{
+"name": "Kobiana",
+"aliases": [
+"Kobiana language"
+],
+"links": 12
+},
+{
+"name": "Kogo",
+"aliases": [
+"Bakoko",
+"Kogo language"
+],
+"links": 12
+},
+{
+"name": "Kohin",
+"aliases": [
+"Kohin language"
+],
+"links": 12
+},
+{
+"name": "Koho",
+"aliases": [
+"Koho language"
+],
+"links": 12
+},
+{
+"name": "Kokota",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Konkomba",
+"aliases": [
+"Konkomba language",
+"Likpakpaaln",
+"Likpakpaanl"
+],
+"links": 12
+},
+{
+"name": "Koroshi",
+"aliases": [
+"Koroshi dialect"
+],
+"links": 12
+},
+{
+"name": "Korwa",
+"aliases": [
+"Korwa language"
+],
+"links": 12
+},
+{
+"name": "Kubu",
+"aliases": [
+"Anak Dalam",
+"Anak Dalam language",
+"Anak Rimba",
+"Anak Rimba language",
+"Kubu language",
+"Rimba",
+"Rimba language",
+"Rimbo",
+"Rimbo language"
+],
+"links": 12
+},
+{
+"name": "Kuijau",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Kulisusu",
+"aliases": [
+"Kulisusu language"
+],
+"links": 12
+},
+{
+"name": "Kuman",
+"aliases": [
+"Chimbu language",
+"Kuman language",
+"Kuman New Guinea language",
+"Simbu language"
+],
+"links": 12
+},
+{
+"name": "Kuria",
+"aliases": [
+"Kuria language"
+],
+"links": 12
+},
+{
+"name": "Kuuk Thaayorre",
+"aliases": [
+"Thayore"
+],
+"links": 12
+},
+{
+"name": "Kwara'ae",
+"aliases": [
+"Kwara'ae language",
+"kwf"
+],
+"links": 12
+},
+{
+"name": "Kyode",
+"aliases": [
+"Chode",
+"Gikyode",
+"Kyode language"
+],
+"links": 12
+},
+{
+"name": "Lachi",
+"aliases": [
+"Lachi language"
+],
+"links": 12
+},
+{
+"name": "Lakkja",
+"aliases": [
+"Lakkia",
+"Lakkja language"
+],
+"links": 12
+},
+{
+"name": "Lani",
+"aliases": [
+"Lani language",
+"Western Dani language"
+],
+"links": 12
+},
+{
+"name": "Larteh",
+"aliases": [
+"Larteh language"
+],
+"links": 12
+},
+{
+"name": "Lawangan",
+"aliases": [
+"Lawangan language"
+],
+"links": 12
+},
+{
+"name": "Lelemi",
+"aliases": [
+"Lefana",
+"Lelemi language"
+],
+"links": 12
+},
+{
+"name": "Lemerig",
+"aliases": [
+"Lemerig language"
+],
+"links": 12
+},
+{
+"name": "Lemolang",
+"aliases": [
+"Lemolang language"
+],
+"links": 12
+},
+{
+"name": "Likpe",
+"aliases": [
+"Sekpele"
+],
+"links": 12
+},
+{
+"name": "Lishanid Noshan",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Lomaiviti",
+"aliases": [
+"Lomaiviti language"
+],
+"links": 12
+},
+{
+"name": "Lotud",
+"aliases": [
+"Lotud language"
+],
+"links": 12
+},
+{
+"name": "Lotuko",
+"aliases": [
+"Lotuko language"
+],
+"links": 12
+},
+{
+"name": "Luhu",
+"aliases": [
+"Luhu language"
+],
+"links": 12
+},
+{
+"name": "Mahasu Pahari",
+"aliases": [
+"Mahasu Pahari language",
+"Mahasui",
+"Mahasuvi"
+],
+"links": 12
+},
+{
+"name": "Maiwa",
+"aliases": [
+"Maiwa language"
+],
+"links": 12
+},
+{
+"name": "Majhi",
+"aliases": [
+"Majhi language"
+],
+"links": 12
+},
+{
+"name": "Makah",
+"aliases": [
+"Makah language"
+],
+"links": 12
+},
+{
+"name": "Maléku",
+"aliases": [
+"Guatuso",
+"Guetar",
+"Maleku",
+"Maleku Jaika",
+"Maleku language",
+"Maléku Jaíka",
+"Maléku language",
+"Watuso-Weta",
+"Watuso-Wéta"
+],
+"links": 12
+},
+{
+"name": "Mandjak",
+"aliases": [
+"Mandjak language"
+],
+"links": 12
+},
+{
+"name": "Mapia",
+"aliases": [
+"Mapia language",
+"Mapian"
+],
+"links": 12
+},
+{
+"name": "Marba",
+"aliases": [
+"Azumeina",
+"Azumeina language",
+"Marba language"
+],
+"links": 12
+},
+{
+"name": "Mawayana",
+"aliases": [
+"Mahuayana",
+"Mapidian",
+"Mapidjan",
+"Mawakwa"
+],
+"links": 12
+},
+{
+"name": "Medny Aleut",
+"aliases": [
+"Copper Island Aleut",
+"Copper Island Creole",
+"Medny Aleut language",
+"Mednyj Aleut"
+],
+"links": 12
+},
+{
+"name": "Medumba",
+"aliases": [
+"Medumba language",
+"Médúmba"
+],
+"links": 12
+},
+{
+"name": "Mehinaku",
+"aliases": [
+"Mehinaku language",
+"Mehináku",
+"Meinaku"
+],
+"links": 12
+},
+{
+"name": "Miju",
+"aliases": [
+"Geman Deng",
+"Miju language",
+"Miju-Mishmi"
+],
+"links": 12
+},
+{
+"name": "Miriwoong",
+"aliases": [
+"Miriuwung",
+"Miriwoong language",
+"Miriwung",
+"Mirriuwong"
+],
+"links": 12
+},
+{
+"name": "Mishing",
+"aliases": [
+"Mishing language",
+"Mising-Padam-Miri-Minyong language"
+],
+"links": 12
+},
+{
+"name": "Miya",
+"aliases": [
+"Miya language"
+],
+"links": 12
+},
+{
+"name": "Mokole",
+"aliases": [
+"Mokole language"
+],
+"links": 12
+},
+{
+"name": "Mori Atas",
+"aliases": [
+"Mori Atas language"
+],
+"links": 12
+},
+{
+"name": "Moronene",
+"aliases": [
+"Moronene language"
+],
+"links": 12
+},
+{
+"name": "Mpade",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Murle",
+"aliases": [
+"Murle language"
+],
+"links": 12
+},
+{
+"name": "Musey",
+"aliases": [
+"Musey language"
+],
+"links": 12
+},
+{
+"name": "Mẽbêngôkre",
+"aliases": [
+"Kayapó",
+"Mẽbêngôkre language",
+"Xikrin"
+],
+"links": 12
+},
+{
+"name": "Nafsan",
+"aliases": [
+"South Efate language"
+],
+"links": 12
+},
+{
+"name": "Nalu",
+"aliases": [
+"Nalu language"
+],
+"links": 12
+},
+{
+"name": "Nambya",
+"aliases": [
+"Nambya language"
+],
+"links": 12
+},
+{
+"name": "Nande",
+"aliases": [
+"Nande language"
+],
+"links": 12
+},
+{
+"name": "Nangalami",
+"aliases": [
+"Grangali",
+"Nangalami language",
+"Ningalami"
+],
+"links": 12
+},
+{
+"name": "Nawdm",
+"aliases": [
+"Losso",
+"Losso language",
+"Nawdum"
+],
+"links": 12
+},
+{
+"name": "Nengone",
+"aliases": [
+"nen",
+"Nengone language"
+],
+"links": 12
+},
+{
+"name": "Neyo",
+"aliases": [
+"Neyo language"
+],
+"links": 12
+},
+{
+"name": "Nez Perce",
+"aliases": [
+"Nez Perce language",
+"Nez Percé",
+"Niimi'ipuutímt",
+"Niimiipuutímt",
+"Nimiipuutímt",
+"Nimipuutímt"
+],
+"links": 12
+},
+{
+"name": "Ngadha",
+"aliases": [
+"Badjava language",
+"Bajawa language",
+"Nad'a language",
+"Nga'da language",
+"Ngad'a",
+"Ngada",
+"Ngadha language",
+"Rokka language"
+],
+"links": 12
+},
+{
+"name": "Ngiemboon",
+"aliases": [
+"Bamileke-Ngiemboon",
+"Bamileke-Ngyemboon",
+"Ngiemboon language"
+],
+"links": 12
+},
+{
+"name": "Nunggubuyu",
+"aliases": [
+"Nunggubuyu language"
+],
+"links": 12
+},
+{
+"name": "Nyungwe",
+"aliases": [
+"Nyungwe language"
+],
+"links": 12
+},
+{
+"name": "Okolod",
+"aliases": [
+"Okolod language"
+],
+"links": 12
+},
+{
+"name": "Omaha–Ponca",
+"aliases": [
+"oma",
+"Omaha-Ponca",
+"Omaha–Ponca language"
+],
+"links": 12
+},
+{
+"name": "Ontong Java",
+"aliases": [
+"Ontong Java language"
+],
+"links": 12
+},
+{
+"name": "Pacoh",
+"aliases": [
+"Pacoh language"
+],
+"links": 12
+},
+{
+"name": "Padoe",
+"aliases": [
+"Padoe language"
+],
+"links": 12
+},
+{
+"name": "Paumarí",
+"aliases": [
+"Paumari",
+"Paumari language",
+"Paumarí language",
+"Purupuru language"
+],
+"links": 12
+},
+{
+"name": "Paunaka",
+"aliases": [
+"Pauna",
+"Pauna language",
+"Paunaca",
+"Paunaca language",
+"Paunaka language"
+],
+"links": 12
+},
+{
+"name": "Pekal",
+"aliases": [
+"Pekal language"
+],
+"links": 12
+},
+{
+"name": "Peve",
+"aliases": [
+"Lame",
+"Lamé",
+"Peve language",
+"Pévé"
+],
+"links": 12
+},
+{
+"name": "Phuan",
+"aliases": [
+"Phuan language"
+],
+"links": 12
+},
+{
+"name": "Piapoco",
+"aliases": [
+"Piapoco language"
+],
+"links": 12
+},
+{
+"name": "Ponosakan",
+"aliases": [
+"Ponosakan language"
+],
+"links": 12
+},
+{
+"name": "Puinave",
+"aliases": [
+"Guaipunabi",
+"Puinave language",
+"Puinavé",
+"Waipunavi",
+"Wanse",
+"Wãnsöhöt",
+"Wã́nsöjöt"
+],
+"links": 12
+},
+{
+"name": "Puma",
+"aliases": [
+"Puma language"
+],
+"links": 12
+},
+{
+"name": "Rakahanga-Manihiki",
+"aliases": [
+"Rakahanga-Manihiki language",
+"rkh"
+],
+"links": 12
+},
+{
+"name": "Rawang",
+"aliases": [
+"Rawang language"
+],
+"links": 12
+},
+{
+"name": "Ron",
+"aliases": [
+"Ron language"
+],
+"links": 12
+},
+{
+"name": "S'gaw Karen",
+"aliases": [
+"Karen"
+],
+"links": 12
+},
+{
+"name": "Sabüm",
+"aliases": [
+"Sabüm language"
+],
+"links": 12
+},
+{
+"name": "Samburu",
+"aliases": [
+"Samburu language"
+],
+"links": 12
+},
+{
+"name": "Sangirese",
+"aliases": [
+"Sangi",
+"Sangih",
+"Sangihe",
+"Sangihé",
+"Sangir",
+"Sangir language"
+],
+"links": 12
+},
+{
+"name": "Sansi",
+"aliases": [
+"Bhilki",
+"Sansi language",
+"Sansiboli"
+],
+"links": 12
+},
+{
+"name": "Santrokofi",
+"aliases": [
+"Santrokofi language",
+"Selee"
+],
+"links": 12
+},
+{
+"name": "Sekani",
+"aliases": [
+"Sekani language"
+],
+"links": 12
+},
+{
+"name": "Siamou",
+"aliases": [
+"Seme language",
+"Siamou language"
+],
+"links": 12
+},
+{
+"name": "Sinauna",
+"aliases": [
+"Remontado Agta",
+"Remontado Dumagat",
+"Sinauna language"
+],
+"links": 12
+},
+{
+"name": "Skou",
+"aliases": [
+"Sekol language",
+"Sekou language",
+"Sko language",
+"Skou language",
+"Skouw language",
+"Skow language",
+"Sukou language",
+"Sukow language",
+"Te Mawo language",
+"Tumawo",
+"Tumawo language"
+],
+"links": 12
+},
+{
+"name": "Somrai",
+"aliases": [
+"Somrai language"
+],
+"links": 12
+},
+{
+"name": "Squamish",
+"aliases": [
+"Squamish language"
+],
+"links": 12
+},
+{
+"name": "Suyá",
+"aliases": [
+"Suya",
+"Suya language",
+"Suyá language"
+],
+"links": 12
+},
+{
+"name": "Tadaksahak",
+"aliases": [
+"Daoussahak",
+"Dausahaq",
+"Dawsahak",
+"Tadaksahak language"
+],
+"links": 12
+},
+{
+"name": "Tewa",
+"aliases": [
+"Tewa language"
+],
+"links": 12
+},
+{
+"name": "Tewa",
+"aliases": [
+"Rio Grande Tewa",
+"tew",
+"Tewa language"
+],
+"links": 12
+},
+{
+"name": "Tinigua",
+"aliases": [
+"Tinigua language"
+],
+"links": 12
+},
+{
+"name": "Tirahi",
+"aliases": [
+"Tirahi language"
+],
+"links": 12
+},
+{
+"name": "Tiriyó",
+"aliases": [
+"tareno",
+"tarëno",
+"Tiriyo",
+"Tiriyo language",
+"Tiriyó language",
+"Trio",
+"Trió"
+],
+"links": 12
+},
+{
+"name": "Tondano",
+"aliases": [
+"bahasa tondano",
+"Tondano language",
+"Toudano",
+"Toundano"
+],
+"links": 12
+},
+{
+"name": "Tonga",
+"aliases": [
+"Chitonga",
+"Malawi Tonga",
+"Malawian Tonga",
+"Tonga language"
+],
+"links": 12
+},
+{
+"name": "Tonsawang",
+"aliases": [
+"Tonsawang language"
+],
+"links": 12
+},
+{
+"name": "Tsuutʼina",
+"aliases": [
+"Blitze",
+"Sarcee",
+"Sarcee language",
+"Sarsi",
+"Sarsi language",
+"srs",
+"Tsuu T'ina language",
+"Tsuut'ina language",
+"Tsuut’ina language"
+],
+"links": 12
+},
+{
+"name": "Tucano",
+"aliases": [
+"Tucano language",
+"Tukano language"
+],
+"links": 12
+},
+{
+"name": "Tuki",
+"aliases": [
+"bag",
+"Ki",
+"Ki language",
+"Tuki language"
+],
+"links": 12
+},
+{
+"name": "Tunjung",
+"aliases": [
+"Tunjung language"
+],
+"links": 12
+},
+{
+"name": "Turi",
+"aliases": [
+"Turi language"
+],
+"links": 12
+},
+{
+"name": "Tutchone",
+"aliases": [
+"Tutchone language"
+],
+"links": 12
+},
+{
+"name": "U",
+"aliases": [
+"P'uman",
+"Pouma",
+"U language"
+],
+"links": 12
+},
+{
+"name": "Ubang",
+"aliases": [
+"Ubang language"
+],
+"links": 12
+},
+{
+"name": "Ulumanda’",
+"aliases": [
+"Ulumanda'",
+"Ulumanda’ language"
+],
+"links": 12
+},
+{
+"name": "Upper Kuskokwim",
+"aliases": [
+"Upper Kuskokwim language"
+],
+"links": 12
+},
+{
+"name": "Ura",
+"aliases": [
+"Ura language"
+],
+"links": 12
+},
+{
+"name": "Urarina",
+"aliases": [
+"Itucale",
+"Kachá",
+"Urarina language"
+],
+"links": 12
+},
+{
+"name": "Vafsi",
+"aliases": [
+"Vafsi language"
+],
+"links": 12
+},
+{
+"name": "Waioli",
+"aliases": [
+"Waioli language"
+],
+"links": 12
+},
+{
+"name": "Wamey",
+"aliases": [
+"Wamey language"
+],
+"links": 12
+},
+{
+"name": "Wano",
+"aliases": [
+"Waano",
+"Waano language",
+"Wano language"
+],
+"links": 12
+},
+{
+"name": "Warekena",
+"aliases": [
+"Baniva de Guainía",
+"Baniva de Maroa",
+"Guarequena",
+"Warekena language"
+],
+"links": 12
+},
+{
+"name": "Warji",
+"aliases": [
+"Warji language"
+],
+"links": 12
+},
+{
+"name": "Western Fijian",
+"aliases": [
+"Western Fijian language"
+],
+"links": 12
+},
+{
+"name": "Wiwa",
+"aliases": [
+"Dʉmʉna",
+"Guamaca language",
+"Malayo",
+"Wiwa language"
+],
+"links": 12
+},
+{
+"name": "Wutun",
+"aliases": [
+"Wutun language",
+"Wutunhua"
+],
+"links": 12
+},
+{
+"name": "Xavante",
+"aliases": [
+"Xavante language",
+"Xavánte language"
+],
+"links": 12
+},
+{
+"name": "Yaaku",
+"aliases": [
+"Yaaku language"
+],
+"links": 12
+},
+{
+"name": "Yaminawa",
+"aliases": [
+"Yaminawa language"
+],
+"links": 12
+},
+{
+"name": "Yanesha'",
+"aliases": [
+"Amoesha",
+"Amuesha",
+"Amuesha language"
+],
+"links": 12
+},
+{
+"name": "Yekhee",
+"aliases": [
+"Afenmai",
+"Etsako",
+"Yekhee language"
+],
+"links": 12
+},
+{
+"name": "Zangskari",
+"aliases": [
+"Zangskari dialect",
+"Zangskari language"
+],
+"links": 12
+},
+{
+"name": "Zazao",
+"aliases": [
+"Zazao language"
+],
+"links": 12
+},
+{
+"name": "Zialo",
+"aliases": [
+"Zialo language"
+],
+"links": 12
+},
+{
+"name": "Zo",
+"aliases": [
+"Jou",
+"Yo",
+"Yos",
+"Zohâm",
+"Zome",
+"Zomi",
+"Zou",
+"Zou Chin",
+"Zou language"
+],
+"links": 12
 }
 ]

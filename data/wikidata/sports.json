@@ -66,7 +66,7 @@
 "sport of athletics",
 "track and field"
 ],
-"links": 160
+"links": 161
 },
 {
 "name": "golf",
@@ -894,6 +894,11 @@
 "links": 42
 },
 {
+"name": "boccia",
+"aliases": [],
+"links": 42
+},
+{
 "name": "goalball",
 "aliases": [],
 "links": 42
@@ -905,11 +910,6 @@
 "Kyokushin karate"
 ],
 "links": 42
-},
-{
-"name": "boccia",
-"aliases": [],
-"links": 41
 },
 {
 "name": "dodgeball",
@@ -943,8 +943,8 @@
 "name": "BASE jumping",
 "aliases": [
 "B.A.S.E. jumping",
-"BASE Jump",
 "base jump",
+"BASE Jump",
 "BASE jump"
 ],
 "links": 39
@@ -955,7 +955,7 @@
 "japanese archery",
 "kyudo"
 ],
-"links": 38
+"links": 39
 },
 {
 "name": "Mesoamerican ballgame",
@@ -1245,15 +1245,15 @@
 "links": 29
 },
 {
-"name": "flag football",
-"aliases": [],
-"links": 28
-},
-{
 "name": "ssireum",
 "aliases": [
 "Korean wrestling"
 ],
+"links": 29
+},
+{
+"name": "flag football",
+"aliases": [],
 "links": 28
 },
 {
@@ -1401,5 +1401,860 @@
 "speedsolving"
 ],
 "links": 25
+},
+{
+"name": "aquathlon",
+"aliases": [],
+"links": 24
+},
+{
+"name": "artistic roller skating",
+"aliases": [
+"roller figure skating"
+],
+"links": 24
+},
+{
+"name": "crossminton",
+"aliases": [
+"Speed-Badminton",
+"speedminton"
+],
+"links": 24
+},
+{
+"name": "glima",
+"aliases": [],
+"links": 24
+},
+{
+"name": "quadball",
+"aliases": [
+"muggle quidditch",
+"quidditch"
+],
+"links": 24
+},
+{
+"name": "street football",
+"aliases": [],
+"links": 24
+},
+{
+"name": "underwater rugby",
+"aliases": [],
+"links": 24
+},
+{
+"name": "wheelchair fencing",
+"aliases": [
+"parafencing"
+],
+"links": 24
+},
+{
+"name": "indoor hockey",
+"aliases": [],
+"links": 23
+},
+{
+"name": "jianzi",
+"aliases": [
+"Featherball",
+"featherball",
+"foot shuttlecock",
+"lyanga",
+"Shuttlecock",
+"shuttlecock",
+"shuttlecock kicking"
+],
+"links": 23
+},
+{
+"name": "Novuss",
+"aliases": [],
+"links": 23
+},
+{
+"name": "Para athletics",
+"aliases": [
+"disability athletics",
+"disabled track and field",
+"Para-athletics",
+"Paralympic athletics"
+],
+"links": 23
+},
+{
+"name": "sack race",
+"aliases": [
+"sack racing"
+],
+"links": 23
+},
+{
+"name": "footvolley",
+"aliases": [],
+"links": 22
+},
+{
+"name": "horseball",
+"aliases": [],
+"links": 22
+},
+{
+"name": "inline speed skating",
+"aliases": [
+"roller speed skating"
+],
+"links": 22
+},
+{
+"name": "rally raid",
+"aliases": [
+"cross-country rallying",
+"rally raid racing"
+],
+"links": 22
+},
+{
+"name": "blind soccer",
+"aliases": [
+"blind football",
+"football 5-a-side"
+],
+"links": 21
+},
+{
+"name": "bossaball",
+"aliases": [],
+"links": 21
+},
+{
+"name": "indoor soccer",
+"aliases": [],
+"links": 21
+},
+{
+"name": "mountain bike trials",
+"aliases": [],
+"links": 21
+},
+{
+"name": "mountain running",
+"aliases": [
+"hill running"
+],
+"links": 21
+},
+{
+"name": "rounders",
+"aliases": [],
+"links": 21
+},
+{
+"name": "icestock sport",
+"aliases": [
+"Bavarian curling",
+"Eisstock",
+"Ice stock"
+],
+"links": 20
+},
+{
+"name": "individual sport",
+"aliases": [
+"individual sports"
+],
+"links": 20
+},
+{
+"name": "Japanese martial arts",
+"aliases": [
+"martial arts in Japan"
+],
+"links": 20
+},
+{
+"name": "land sailing",
+"aliases": [
+"land yacht",
+"landsailing",
+"sail wagon",
+"sand yacht",
+"wagons powered by the wind",
+"wind wagon"
+],
+"links": 20
+},
+{
+"name": "military patrol",
+"aliases": [
+"military ski patrol"
+],
+"links": 20
+},
+{
+"name": "powerboating",
+"aliases": [
+"motorboating"
+],
+"links": 20
+},
+{
+"name": "sim racing",
+"aliases": [],
+"links": 20
+},
+{
+"name": "Slamball",
+"aliases": [],
+"links": 20
+},
+{
+"name": "soft tennis",
+"aliases": [],
+"links": 20
+},
+{
+"name": "speed skiing",
+"aliases": [],
+"links": 20
+},
+{
+"name": "table hockey",
+"aliases": [
+"board hockey",
+"bubble hockey",
+"rod hockey game",
+"stick hockey",
+"table hockey game",
+"table ice hockey"
+],
+"links": 20
+},
+{
+"name": "Tricking",
+"aliases": [
+"Las artes marciales engañan",
+"Martial Arts Tricking",
+"Martial arts tricking"
+],
+"links": 20
+},
+{
+"name": "acrobatic rock'n'roll",
+"aliases": [
+"acrobatic rock and roll",
+"rock 'n' roll",
+"rock and roll",
+"rock'n'roll"
+],
+"links": 19
+},
+{
+"name": "Chilean rodeo",
+"aliases": [],
+"links": 19
+},
+{
+"name": "drone racing",
+"aliases": [
+"FPV drone racing",
+"FPV racing",
+"rotorcross"
+],
+"links": 19
+},
+{
+"name": "equitation",
+"aliases": [
+"horse riding position",
+"horse riding posture"
+],
+"links": 19
+},
+{
+"name": "indoor cycling",
+"aliases": [
+"spinning"
+],
+"links": 19
+},
+{
+"name": "ancient pentathlon",
+"aliases": [
+"ancient Greek pentathlon",
+"ancient Olympic pentathlon",
+"pentathlon"
+],
+"links": 18
+},
+{
+"name": "CP football",
+"aliases": [
+"7-a-side football",
+"cerebral palsy football",
+"cerebral Palsy Football 7-a-side",
+"football 7-a-side",
+"paralympic football",
+"seven-a-side football"
+],
+"links": 18
+},
+{
+"name": "Gaelic games",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Para cycling",
+"aliases": [
+"handbiking",
+"Para-cycling",
+"Paracycling"
+],
+"links": 18
+},
+{
+"name": "Para triathlon",
+"aliases": [
+"Para-triathlon",
+"Paratriathlon"
+],
+"links": 18
+},
+{
+"name": "pentathlon",
+"aliases": [],
+"links": 18
+},
+{
+"name": "ringette",
+"aliases": [],
+"links": 18
+},
+{
+"name": "roque",
+"aliases": [],
+"links": 18
+},
+{
+"name": "Schwingen",
+"aliases": [
+"lutte Suisse",
+"Swiss wrestling"
+],
+"links": 18
+},
+{
+"name": "sled dog racing",
+"aliases": [
+"dog sled racing",
+"dogsled racing",
+"sled dog sport"
+],
+"links": 18
+},
+{
+"name": "snow volleyball",
+"aliases": [],
+"links": 18
+},
+{
+"name": "tamburello",
+"aliases": [],
+"links": 18
+},
+{
+"name": "touch",
+"aliases": [
+"touch football",
+"Touch rugby"
+],
+"links": 18
+},
+{
+"name": "Bare-knuckle boxing",
+"aliases": [],
+"links": 17
+},
+{
+"name": "free solo climbing",
+"aliases": [
+"free solo",
+"free soloing"
+],
+"links": 17
+},
+{
+"name": "Frisian handball",
+"aliases": [
+"kaatsen"
+],
+"links": 17
+},
+{
+"name": "individual pursuit",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Jūkendō",
+"aliases": [
+"Jukendo"
+],
+"links": 17
+},
+{
+"name": "kayaking",
+"aliases": [],
+"links": 17
+},
+{
+"name": "Kiiking",
+"aliases": [],
+"links": 17
+},
+{
+"name": "racketlon",
+"aliases": [],
+"links": 17
+},
+{
+"name": "ski orienteering",
+"aliases": [
+"ski-orienteering"
+],
+"links": 17
+},
+{
+"name": "skijoring",
+"aliases": [
+"ski-joring"
+],
+"links": 17
+},
+{
+"name": "beach tennis",
+"aliases": [],
+"links": 16
+},
+{
+"name": "cliff jumping",
+"aliases": [
+"cliff diving",
+"high diving"
+],
+"links": 16
+},
+{
+"name": "full contact karate",
+"aliases": [
+"full-contact karate"
+],
+"links": 16
+},
+{
+"name": "jereed",
+"aliases": [
+"jerid",
+"jerreed",
+"jerrid"
+],
+"links": 16
+},
+{
+"name": "Kin-Ball",
+"aliases": [
+"kinball"
+],
+"links": 16
+},
+{
+"name": "paddle tennis",
+"aliases": [
+"POP tennis"
+],
+"links": 16
+},
+{
+"name": "Para judo",
+"aliases": [
+"Paralympic judo",
+"visually impaired judo"
+],
+"links": 16
+},
+{
+"name": "Wheelchair dancesport",
+"aliases": [
+"para dance sport"
+],
+"links": 16
+},
+{
+"name": "arena football",
+"aliases": [
+"indoor football"
+],
+"links": 15
+},
+{
+"name": "canne de combat",
+"aliases": [],
+"links": 15
+},
+{
+"name": "gateball",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Jugger",
+"aliases": [],
+"links": 15
+},
+{
+"name": "mallakhamb",
+"aliases": [
+"mallakhamba"
+],
+"links": 15
+},
+{
+"name": "Namur stilt jousting",
+"aliases": [
+"Namur stilt walkers"
+],
+"links": 15
+},
+{
+"name": "pacu jawi",
+"aliases": [],
+"links": 15
+},
+{
+"name": "Para alpine skiing",
+"aliases": [
+"adaptive skiing",
+"Para-alpine skiing",
+"Paralympic alpine skiing"
+],
+"links": 15
+},
+{
+"name": "para badminton",
+"aliases": [
+"para-badminton",
+"parabadminton"
+],
+"links": 15
+},
+{
+"name": "Para biathlon",
+"aliases": [
+"Paralympic biathlon"
+],
+"links": 15
+},
+{
+"name": "para table tennis",
+"aliases": [],
+"links": 15
+},
+{
+"name": "parasailing",
+"aliases": [],
+"links": 15
+},
+{
+"name": "recreational diving",
+"aliases": [
+"sport diving"
+],
+"links": 15
+},
+{
+"name": "skyrunning",
+"aliases": [],
+"links": 15
+},
+{
+"name": "swamp football",
+"aliases": [],
+"links": 15
+},
+{
+"name": "water basketball",
+"aliases": [],
+"links": 15
+},
+{
+"name": "casting",
+"aliases": [],
+"links": 14
+},
+{
+"name": "cycle polo",
+"aliases": [
+"Bicycle polo"
+],
+"links": 14
+},
+{
+"name": "English billiards",
+"aliases": [],
+"links": 14
+},
+{
+"name": "Gaelic handball",
+"aliases": [
+"Irish handball"
+],
+"links": 14
+},
+{
+"name": "grass skiing",
+"aliases": [],
+"links": 14
+},
+{
+"name": "life saving as a sport",
+"aliases": [
+"Lifesaving",
+"lifesaving as a sport"
+],
+"links": 14
+},
+{
+"name": "military pentathlon",
+"aliases": [],
+"links": 14
+},
+{
+"name": "summer biathlon",
+"aliases": [
+"Cross biathlon",
+"roller biathlon"
+],
+"links": 14
+},
+{
+"name": "truck racing",
+"aliases": [],
+"links": 14
+},
+{
+"name": "belt wrestling",
+"aliases": [],
+"links": 13
+},
+{
+"name": "big wall climbing",
+"aliases": [
+"big-wall climbing",
+"bigwall climbing",
+"multi-pitch climbing"
+],
+"links": 13
+},
+{
+"name": "Finch sport",
+"aliases": [],
+"links": 13
+},
+{
+"name": "five-a-side football",
+"aliases": [
+"5 a side",
+"5-a-side",
+"football five"
+],
+"links": 13
+},
+{
+"name": "ice sailing",
+"aliases": [
+"ice yachting",
+"icesailing",
+"iceyachting"
+],
+"links": 13
+},
+{
+"name": "Jeu de mail",
+"aliases": [
+"Pell-mell"
+],
+"links": 13
+},
+{
+"name": "Para equestrian",
+"aliases": [
+"equestrian Para sport",
+"Para equestrian sport"
+],
+"links": 13
+},
+{
+"name": "Para swimming",
+"aliases": [
+"Paralympic swimming"
+],
+"links": 13
+},
+{
+"name": "real tennis",
+"aliases": [
+"court tennis",
+"royal tennis",
+"tennis"
+],
+"links": 13
+},
+{
+"name": "shuffleboard",
+"aliases": [],
+"links": 13
+},
+{
+"name": "sjoelen",
+"aliases": [
+"billard hollandais",
+"Dutch billiards",
+"Dutch shuffleboard",
+"sjoelbak",
+"sjoelsport"
+],
+"links": 13
+},
+{
+"name": "Taidō",
+"aliases": [],
+"links": 13
+},
+{
+"name": "tank biathlon",
+"aliases": [],
+"links": 13
+},
+{
+"name": "trail orienteering",
+"aliases": [],
+"links": 13
+},
+{
+"name": "walking football",
+"aliases": [],
+"links": 13
+},
+{
+"name": "Western riding",
+"aliases": [],
+"links": 13
+},
+{
+"name": "wildwater canoeing",
+"aliases": [
+"wildwater",
+"wildwater kayaking"
+],
+"links": 13
+},
+{
+"name": "aid climbing",
+"aliases": [
+"aid-climbing"
+],
+"links": 12
+},
+{
+"name": "amateur wrestling",
+"aliases": [],
+"links": 12
+},
+{
+"name": "animal sports",
+"aliases": [
+"animal sport"
+],
+"links": 12
+},
+{
+"name": "ballooning",
+"aliases": [],
+"links": 12
+},
+{
+"name": "Bubble bump football",
+"aliases": [
+"Bubble Football",
+"Zorb football"
+],
+"links": 12
+},
+{
+"name": "Chuiwan",
+"aliases": [
+"Chui wan"
+],
+"links": 12
+},
+{
+"name": "memory sport",
+"aliases": [
+"sport mnemonics"
+],
+"links": 12
+},
+{
+"name": "Para canoe",
+"aliases": [
+"Para canoeing",
+"Paracanoe",
+"Paracanoeing"
+],
+"links": 12
+},
+{
+"name": "Para cross-country skiing",
+"aliases": [
+"Paralympic cross-country skiing"
+],
+"links": 12
+},
+{
+"name": "Para powerlifting",
+"aliases": [
+"Paralympic powerlifting"
+],
+"links": 12
+},
+{
+"name": "para taekwondo",
+"aliases": [],
+"links": 12
+},
+{
+"name": "radiosport",
+"aliases": [],
+"links": 12
+},
+{
+"name": "riverboarding",
+"aliases": [
+"Hydrospeed"
+],
+"links": 12
+},
+{
+"name": "running discipline of track",
+"aliases": [
+"running",
+"running as a sport",
+"running event"
+],
+"links": 12
 }
 ]
