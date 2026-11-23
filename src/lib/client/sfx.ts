@@ -52,6 +52,12 @@ export const sfx = {
       [1568, 1760, 2093, 2349, 2637, 3136].forEach((f, i) => tone(f, 0.42 + i * 0.05, 0.22, "triangle", 0.035));
     }
   },
+  /** Achievement unlocked: a bright two-step chime with a soft shimmer. */
+  achievement() {
+    [784, 1175, 1568].forEach((f, i) => tone(f, i * 0.09, 0.32, "triangle", 0.07));
+    tone(2349, 0.3, 0.45, "sine", 0.035);
+    tone(3136, 0.36, 0.4, "sine", 0.025);
+  },
   miss() {
     tone(140, 0, 0.12, "sawtooth", 0.04, 90);
   },

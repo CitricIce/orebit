@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
 import type { Achievement } from "@/lib/achievements";
+import { sfx } from "@/lib/client/sfx";
 import s from "./AchievementToasts.module.css";
 
 const SHOW_MS = 3000;
@@ -14,6 +15,7 @@ export default function AchievementToasts({ items }: { items: Achievement[] }) {
 
   useEffect(() => {
     if (!current) return;
+    sfx.achievement();
     const t = setTimeout(() => setIndex((i) => i + 1), SHOW_MS);
     return () => clearTimeout(t);
   }, [current]);
