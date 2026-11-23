@@ -1,6 +1,6 @@
 "use client";
 
-import { ores, rankFor, TIERS, type TierId } from "../tiers";
+import { ores, rankFor, type TierId } from "../tiers";
 import type { RoundResult } from "./storage";
 
 export interface ShareData {
@@ -9,29 +9,6 @@ export interface ShareData {
   total: number;
   rounds: RoundResult[];
   url: string;
-}
-
-function bestTier(r: RoundResult): TierId | 0 {
-  return r.found.reduce<TierId | 0>((m, o) => (o.tier > m ? o.tier : m), 0);
-}
-
-/** One bar per tier found, so friends can compare without spoilers. */
-function bar(r: RoundResult): string {
-  const counts = [1, 2, 3, 4, 5, 6].map((t) => r.found.filter((o) => o.tier === t).length);
-  const glyphs = ["·", "▪", "▫", "◆", "◇", "✶"];
-  return counts.map((c, i) => (c ? glyphs[i].repeat(Math.min(c, 6)) : "")).join("") || "—";
-}
-
-export function shareText(d: ShareData): string {
-  const lines = [`Orebit #${d.number} · ${d.total.toLocaleString("en-US")} m · ${rankFor(d.total).title}`];
-  d.rounds.forEach((r, i) => {
-    const bt = bestTier(r);
-    const best = bt === 6 ? "STARCORE" : bt ? TIERS[bt].name : "nothing";
-    lines.push(`${i + 1}. ${r.title}: ${ores(r.found.length)}, ${r.depth} m, best ${best}`);
-    lines.push(`   ${bar(r)}`);
-  });
-  lines.push(d.url);
-  return lines.join("\n");
 }
 
 const COLORS: Record<TierId, string> = {
@@ -102,7 +79,8 @@ export async function shareImage(d: ShareData): Promise<Blob | null> {
     const y = 322 + i * rowH + (roomy ? 28 : 20);
     g.fillStyle = "#f3eefc";
     g.font = `600 ${roomy ? 32 : 24}px ${sans}`;
-    g.fillText(r.title, 64, y);
+    // "Asteroid 1", never the category: the card mustn't spoil the day.
+    g.fillText(`Asteroid ${i + 1}`, 64, y);
     g.fillStyle = "#b9b0cc";
     g.font = `500 ${roomy ? 26 : 19}px ${mono}`;
     g.fillText(`${ores(r.found.length)} · ${r.depth} m`, 64, y + (roomy ? 36 : 25));
@@ -128,6 +106,12 @@ export async function shareImage(d: ShareData): Promise<Blob | null> {
       if (o.tier === 6) g.restore();
     });
   });
+
+  g.fillStyle = "#b9b0cc";
+  g.font = `500 26px ${mono}`;
+  g.textAlign = "right";
+  g.fillText(d.url.replace(/^https?:\/\//, ""), W - 56, H - 44);
+  g.textAlign = "left";
 
   return new Promise((resolve) => c.toBlob((b) => resolve(b), "image/png"));
 }

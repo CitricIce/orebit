@@ -9,7 +9,7 @@ import { achievementStates } from "@/lib/achievements";
 import { computeStats, markAchievementsSeen, seenAchievements, totalDepth, type DayRecord } from "@/lib/client/storage";
 import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
-import { shareImage, shareText } from "@/lib/client/share";
+import { shareImage } from "@/lib/client/share";
 import AchievementToasts from "./AchievementToasts";
 import RevealList from "./RevealList";
 import s from "./Game.module.css";
@@ -84,31 +84,21 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
     setTimeout(() => setCopied(null), 2200);
   };
 
-  const copyText = async () => {
-    const text = shareText(shareData());
-    try {
-      if (navigator.share && window.matchMedia("(pointer: coarse)").matches) {
-        await navigator.share({ text });
-        return;
-      }
-      await navigator.clipboard.writeText(text);
-      flash("Result copied");
-    } catch {
-      flash("Couldn't copy. Long-press to select instead.");
-    }
-  };
-
-  const saveImage = async () => {
-    const blob = await shareImage(shareData());
+  // Share the result card (no category names, so no spoilers). Where the
+  // device can't share files, download it instead.
+  const share = async () => {
+    const data = shareData();
+    const blob = await shareImage(data);
     if (!blob) return flash("Couldn't draw the card.");
     const file = new File([blob], `orebit-${day.number}.png`, { type: "image/png" });
     try {
       if (navigator.canShare?.({ files: [file] })) {
-        await navigator.share({ files: [file], text: `Orebit #${day.number}` });
+        await navigator.share({ files: [file], text: `Orebit #${day.number} · ${data.url}` });
         return;
       }
-    } catch {
-      // Fall through to download.
+    } catch (err) {
+      if (err instanceof DOMException && err.name === "AbortError") return;
+      // Otherwise fall through to download.
     }
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
@@ -154,11 +144,8 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
       </div>
 
       <div className={s.shareRow}>
-        <button className={s.primaryBtn} onClick={copyText}>
+        <button className={s.primaryBtn} onClick={share}>
           Share result
-        </button>
-        <button className={s.secondaryBtn} onClick={saveImage}>
-          Save result card
         </button>
       </div>
       <p className={s.toast} aria-live="polite">
