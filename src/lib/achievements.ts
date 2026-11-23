@@ -33,11 +33,12 @@ export interface Facts {
   bestStreak: number;
   bestDay: number;
   mostInRound: number;
-  bestFinalRound: number;
   tier: Record<TierId, number>;
   totalOres: number;
   mostStarcoresInDay: number;
   fullSpectrumRounds: number;
+  emptyRounds: number;
+  noStoneRounds: number;
 }
 
 const roundDepth = (r: Round) => r.found.reduce((sum, o) => sum + TIERS[o.tier].depth, 0);
@@ -51,11 +52,12 @@ export function factsFrom(days: PlayedDay[]): Facts {
     bestStreak: 0,
     bestDay: 0,
     mostInRound: 0,
-    bestFinalRound: 0,
     tier,
     totalOres: 0,
     mostStarcoresInDay: 0,
     fullSpectrumRounds: 0,
+    emptyRounds: 0,
+    noStoneRounds: 0,
   };
   for (const d of done) {
     const rounds = d.rounds.filter((r): r is Round => Boolean(r));
@@ -66,13 +68,13 @@ export function factsFrom(days: PlayedDay[]): Facts {
       f.totalOres += r.found.length;
       const tiers = new Set(r.found.map((o) => o.tier));
       if ([1, 2, 3, 4, 5].every((t) => tiers.has(t as TierId))) f.fullSpectrumRounds++;
+      if (r.found.length === 0) f.emptyRounds++;
+      if (r.found.length >= 5 && !tiers.has(1)) f.noStoneRounds++;
       for (const o of r.found) {
         tier[o.tier]++;
         if (o.tier === 6) starcores++;
       }
     });
-    const last = d.rounds[d.rounds.length - 1];
-    if (last) f.bestFinalRound = Math.max(f.bestFinalRound, roundDepth(last));
     f.mostStarcoresInDay = Math.max(f.mostStarcoresInDay, starcores);
   }
   // Streaks count dailies played on their own day only.
@@ -98,19 +100,20 @@ export const ACHIEVEMENTS: Achievement[] = [
   a("streak-3", "Warming Up", "Play the daily 3 days in a row.", 3, (f) => f.bestStreak),
   a("streak-7", "Week in Orbit", "Play the daily 7 days in a row.", 7, (f) => f.bestStreak),
   a("streak-30", "Month Underground", "Play the daily 30 days in a row.", 30, (f) => f.bestStreak),
-  a("rank-prospector", "Prospector", `Drill ${rankMin("Prospector")} m in one survey.`, rankMin("Prospector"), (f) => f.bestDay),
+  a("rank-prospector", "Prospector", `Drill ${rankMin("Prospector").toLocaleString("en-US")} m in one survey.`, rankMin("Prospector"), (f) => f.bestDay),
   a("rank-driller", "Driller", `Drill ${rankMin("Driller").toLocaleString("en-US")} m in one survey.`, rankMin("Driller"), (f) => f.bestDay),
   a("rank-core-breaker", "Core Breaker", `Drill ${rankMin("Core Breaker").toLocaleString("en-US")} m in one survey.`, rankMin("Core Breaker"), (f) => f.bestDay),
   a("rank-starcore-hunter", "Starcore Hunter", `Drill ${rankMin("Starcore Hunter").toLocaleString("en-US")} m in one survey.`, rankMin("Starcore Hunter"), (f) => f.bestDay),
-  a("round-10", "Quick Hands", "Find 10 ores on one asteroid.", 10, (f) => f.mostInRound),
-  a("round-20", "Machine Drill", "Find 20 ores on one asteroid.", 20, (f) => f.mostInRound),
-  a("round-30", "Unstoppable", "Find 30 ores on one asteroid.", 30, (f) => f.mostInRound),
-  a("final-400", "Far Side", "Drill 400 m on the last (hardest) asteroid of a day.", 400, (f) => f.bestFinalRound),
+  a("round-20", "Quick Hands", "Find 20 ores on one asteroid.", 20, (f) => f.mostInRound),
+  a("round-30", "Machine Drill", "Find 30 ores on one asteroid.", 30, (f) => f.mostInRound),
+  a("round-40", "Unstoppable", "Find 40 ores on one asteroid.", 40, (f) => f.mostInRound),
   a("full-spectrum", "Full Spectrum", "Find Stone, Iron, Cobalt, Gold and Crystal on one asteroid.", 1, (f) => f.fullSpectrumRounds),
-  a("crystal-1", "Deep Cut", "Find a Crystal.", 1, (f) => f.tier[5]),
-  a("crystal-25", "Crystal Collector", "Find 25 Crystals.", 25, (f) => f.tier[5]),
+  a("no-stone", "No Stone Unturned", "Find at least 5 ores on one asteroid without a single Stone.", 1, (f) => f.noStoneRounds),
+  a("empty-shaft", "Dry Hole", "Drill 0 m on an asteroid.", 1, (f) => f.emptyRounds),
+  a("crystal-50", "Crystal Collector", "Find 50 Crystals.", 50, (f) => f.tier[5]),
   a("starcore-1", "Starcore!", "Find a Starcore.", 1, (f) => f.tier[6]),
   a("starcore-5", "Legend Hunter", "Find 5 Starcores.", 5, (f) => f.tier[6]),
+  a("starcore-15", "Core Collector", "Find 15 Starcores.", 15, (f) => f.tier[6]),
   a("starcore-double", "Double Core", "Find 2 Starcores in one survey.", 2, (f) => f.mostStarcoresInDay),
   a("ores-500", "Ore Baron", "Mine 500 ores in total.", 500, (f) => f.totalOres),
   a("ores-2000", "Mining Magnate", "Mine 2,000 ores in total.", 2000, (f) => f.totalOres),
