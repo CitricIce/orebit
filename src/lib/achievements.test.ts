@@ -14,6 +14,7 @@ test("achievements unlock from saved runs", () => {
   ];
   const f = factsFrom(days);
   assert.equal(f.surveys, 3, "archive replays don't count");
+  assert.equal(f.archiveSurveys, 1, "except for Time Traveler");
   assert.equal(f.bestStreak, 3);
   assert.equal(f.mostStarcoresInDay, 2);
   assert.equal(f.fullSpectrumRounds, 1);

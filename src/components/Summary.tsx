@@ -183,7 +183,7 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
           </>
         ) : (
           <div>
-            <span className={s.statLabel}>Archive runs don&apos;t count toward your stats, streak or achievements.</span>
+            <span className={s.statLabel}>Archive runs count toward Time Traveler, but not your stats, streak or other achievements.</span>
           </div>
         )}
         <div className={s.metaLinks}>

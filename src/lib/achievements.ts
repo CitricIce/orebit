@@ -31,6 +31,7 @@ export interface Achievement {
 
 export interface Facts {
   surveys: number;
+  archiveSurveys: number;
   bestStreak: number;
   bestDay: number;
   mostInRound: number;
@@ -50,9 +51,12 @@ const roundDepth = (r: Round) => r.found.reduce((sum, o) => sum + TIERS[o.tier].
 export function factsFrom(days: PlayedDay[], shares = 0): Facts {
   // Archive replays don't count, only dailies played on their own day.
   const done = days.filter((d) => d.completed && (!d.playedOn || d.playedOn === d.date));
+  // The one exception: Time Traveler counts archive replays.
+  const archiveSurveys = days.filter((d) => d.completed && d.playedOn && d.playedOn !== d.date).length;
   const tier: Record<TierId, number> = { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0 };
   const f: Facts = {
     surveys: done.length,
+    archiveSurveys,
     bestStreak: 0,
     bestDay: 0,
     mostInRound: 0,
@@ -132,6 +136,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   a("ores-2000", "Mining Magnate", "Mine 2,000 ores in total.", 2000, (f) => f.totalOres),
   a("overtime", "Overtime", "Get the clock up to a full minute with time bonuses.", 60, (f) => f.bestPeakSecs),
   a("midnight", "Night Shift", "Finish the daily by 12:05 AM, right after it unlocks at midnight.", 1, (f) => f.midnightFinishes),
+  a("archive-5", "Time Traveler", "Finish 5 surveys from the archive.", 5, (f) => f.archiveSurveys),
   a("share-1", "Show and Tell", "Share your result.", 1, (f) => f.shares),
   a("share-10", "Mission Control", "Share your result on 10 different days.", 10, (f) => f.shares),
 ];
