@@ -22,13 +22,15 @@ test("achievements unlock from saved runs", () => {
   assert.equal(f.emptyRounds, 1);
   assert.equal(f.noStoneRounds, 1);
   const midnight = new Date(2026, 10, 25, 0, 4).getTime();
-  const late = new Date(2026, 10, 26, 0, 7).getTime();
+  const late = new Date(2026, 10, 26, 0, 6).getTime();
+  const edge = new Date(2026, 10, 27, 0, 5, 59).getTime();
   assert.equal(
     factsFrom([
       { date: "2026-11-25", playedOn: "2026-11-25", finishedAt: midnight, completed: true, rounds: [] },
       { date: "2026-11-26", playedOn: "2026-11-26", finishedAt: late, completed: true, rounds: [] },
+      { date: "2026-11-27", playedOn: "2026-11-27", finishedAt: edge, completed: true, rounds: [] },
     ]).midnightFinishes,
-    1,
+    2,
   );
   const unlocked = new Set(achievementStates(days).filter((a) => a.unlocked).map((a) => a.achievement.id));
   for (const id of ["first-survey", "streak-3", "starcore-1", "starcore-double", "full-spectrum", "round-20", "empty-shaft", "no-stone"]) {
