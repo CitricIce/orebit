@@ -289,3 +289,39 @@ Carlsson | carlsson cars
 Techart | techart cars
 Ultima | ultima sports
 Westfield | westfield cars
+
+# Gaps found comparing against another game's list, Nov 23
+--- 4
+Xiaomi | xiaomi auto
+DS | ds automobiles
+Iveco
+Hino | hino motors
+Royal Enfield
+Ghia
+Factory Five | factory five racing
+Callaway | callaway cars
+Roush | roush performance
+Brabham
+Gordon Murray Automotive | gordon murray | gma
+Moke | mini moke
+--- 5
+Sears | sears motor buggy
+BSA
+Continental | continental motors
+Duryea | duryea motor wagon
+Essex
+Foose | foose design
+Fordson
+Graham-Paige | graham paige
+Henry J
+Maxwell
+Meyers Manx | manx | dune buggy manx
+Oakland
+Peel | peel p50
+Piaggio
+Puch
+REO | reo motor car
+Siddeley
+Stanley | stanley steamer
+Sterling
+Yenko

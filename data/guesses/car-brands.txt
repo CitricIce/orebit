@@ -54,3 +54,7 @@ pagani
 mclaren
 holden
 lada
+sears
+xiaomi
+royal enfield
+stanley steamer => Stanley
