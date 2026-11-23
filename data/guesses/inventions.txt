@@ -54,3 +54,10 @@ piano
 motorcycle
 lightbulb => Light bulb
 televsion => Television
+vending machine => Vending machine
+cd player => CD player
+ekg => Electrocardiogram
+blu ray => Blu-ray
+timer
+missile
+spaceship

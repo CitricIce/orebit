@@ -59,3 +59,4 @@ comoros
 guinea bissau
 western sahara
 nigera => Nigeria
+camaros => Comoros

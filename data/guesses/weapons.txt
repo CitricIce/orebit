@@ -57,3 +57,7 @@ shuriken
 war hammer
 battleaxe
 nukes
+pickaxe
+pickake => Pickaxe
+blade
+m40

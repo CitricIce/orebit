@@ -525,3 +525,11 @@ FAMAS
 Tavor
 Kusanagi
 Durendal
+
+# From player misses and feedback, Nov 21-22
+--- 3
+Pickaxe | pick axe | pickake | pick
+--- 4
+Blade
+--- 5
+M40 | m40 rifle

@@ -292,3 +292,9 @@ Ring Dings
 Butterscotch Krimpet | krimpets | tastykake krimpets
 Kandy Kakes
 Pingüinos
+
+# From player misses and feedback, Nov 21-22
+--- 4
+Chocolate Truffle Cake | truffle | truffle cake
+Biscoff cake | biscoff | lotus biscoff cake
+Fruitcake | fruit

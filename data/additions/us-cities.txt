@@ -333,3 +333,7 @@ Springfield | springfield il | springfield ma | springfield mo
 Charleston | charleston sc | charleston wv
 --- 5
 Brick
+
+# From player misses and feedback, Nov 21-22
+Arlington | arligonton
+Hialeah | hiela | hieala

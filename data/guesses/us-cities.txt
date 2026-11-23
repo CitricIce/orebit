@@ -54,3 +54,5 @@ santa ana
 boise
 jackson hole => Jackson
 las vegas nevada
+arligonton => Arlington
+hiela => Hialeah

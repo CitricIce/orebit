@@ -46,3 +46,6 @@ devils food cake
 mud cake
 rainbow cake
 oreo cake
+truffle => Chocolate Truffle Cake
+biscoff => Biscoff cake
+fruit => Fruitcake

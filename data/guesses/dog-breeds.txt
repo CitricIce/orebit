@@ -58,3 +58,7 @@ border colie
 saluki
 bichon frise
 cane corso
+irish doodle => Irish Doodle
+daushand => Dachshund
+chiwa => Chihuahua
+rotwei => Rottweiler
