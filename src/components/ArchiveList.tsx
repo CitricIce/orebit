@@ -23,7 +23,7 @@ export default function ArchiveList() {
       <p className={s.kicker}>Survey archive</p>
       <h1 className={s.h1}>Every asteroid, every day.</h1>
       <p className={s.lede}>
-        Missed a day? Replay any past survey. Archive runs count toward your stats, not your streak.
+        Missed a day? Replay any past survey. Archive runs don&apos;t count toward your stats or streak, only the Time Traveler achievement.
         {dates.length > 0 && ` You've finished ${played} of ${dates.length}.`}
       </p>
       <ul className={s.archive}>
