@@ -14,6 +14,7 @@ interface Round {
 export interface PlayedDay {
   date: string;
   playedOn?: string;
+  finishedAt?: number;
   completed: boolean;
   rounds: (Round | null | undefined)[];
 }
@@ -40,6 +41,7 @@ export interface Facts {
   emptyRounds: number;
   noStoneRounds: number;
   shares: number;
+  midnightFinishes: number;
 }
 
 const roundDepth = (r: Round) => r.found.reduce((sum, o) => sum + TIERS[o.tier].depth, 0);
@@ -60,8 +62,14 @@ export function factsFrom(days: PlayedDay[], shares = 0): Facts {
     emptyRounds: 0,
     noStoneRounds: 0,
     shares,
+    midnightFinishes: 0,
   };
   for (const d of done) {
+    // Finished the new daily within 5 minutes of it unlocking at midnight.
+    if (d.finishedAt && d.playedOn === d.date) {
+      const t = new Date(d.finishedAt);
+      if (t.getHours() === 0 && t.getMinutes() < 5) f.midnightFinishes++;
+    }
     const rounds = d.rounds.filter((r): r is Round => Boolean(r));
     f.bestDay = Math.max(f.bestDay, rounds.reduce((sum, r) => sum + roundDepth(r), 0));
     let starcores = 0;
@@ -120,6 +128,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   a("ores-500", "Ore Baron", "Mine 500 ores in total.", 500, (f) => f.totalOres),
   a("ores-2000", "Mining Magnate", "Mine 2,000 ores in total.", 2000, (f) => f.totalOres),
   a("archive-5", "Time Traveler", "Finish 5 surveys from the archive.", 5, (f) => f.archiveSurveys),
+  a("midnight", "Night Shift", "Finish the daily within 5 minutes of midnight, when it unlocks.", 1, (f) => f.midnightFinishes),
   a("share-1", "Show and Tell", "Share your result.", 1, (f) => f.shares),
   a("share-10", "Mission Control", "Share your result 10 times.", 10, (f) => f.shares),
 ];

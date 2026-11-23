@@ -25,6 +25,8 @@ export interface DayRecord {
   date: string;
   /** Local date the player finished the run (archive plays differ from date). */
   playedOn?: string;
+  /** When the last asteroid ended (ms since epoch). */
+  finishedAt?: number;
   rounds: RoundResult[];
   active?: ActiveRound;
   completed: boolean;

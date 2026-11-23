@@ -239,6 +239,7 @@ export default function Game({ date, mode }: { date: string; mode: "daily" | "ar
       active: undefined,
       completed: isLast,
       playedOn: isLast ? localToday() : rec.playedOn,
+      finishedAt: isLast ? Date.now() : rec.finishedAt,
     });
     // Only the player's own finds show between rounds. The full answer lists
     // stay hidden until the mission report.
