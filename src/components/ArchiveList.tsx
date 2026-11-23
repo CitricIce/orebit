@@ -24,8 +24,17 @@ export default function ArchiveList() {
       <h1 className={s.h1}>Every asteroid, every day.</h1>
       <p className={s.lede}>
         Missed a day? Replay any past survey. Archive runs don&apos;t count toward your stats or streak, only the Time Traveler achievement.
-        {dates.length > 0 && ` You've finished ${played} of ${dates.length}.`}
       </p>
+      {dates.length > 0 && (
+        <div className={s.archiveProgress}>
+          <span className={s.archiveProgressText}>
+            <strong>{played}</strong> of {dates.length} finished
+          </span>
+          <span className={s.archiveProgressTrack} aria-hidden="true">
+            <span style={{ width: `${(played / dates.length) * 100}%` }} />
+          </span>
+        </div>
+      )}
       <ul className={s.archive}>
         {dates.map((d) => {
           const rec = days[d];
