@@ -71,7 +71,7 @@ export function factsFrom(days: PlayedDay[], shares = 0): Facts {
       const tiers = new Set(r.found.map((o) => o.tier));
       if ([1, 2, 3, 4, 5].every((t) => tiers.has(t as TierId))) f.fullSpectrumRounds++;
       if (r.found.length === 0) f.emptyRounds++;
-      if (r.found.length >= 5 && !tiers.has(1)) f.noStoneRounds++;
+      if (r.found.length >= 10 && !tiers.has(1)) f.noStoneRounds++;
       for (const o of r.found) {
         tier[o.tier]++;
         if (o.tier === 6) starcores++;
@@ -110,7 +110,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   a("round-30", "Machine Drill", "Find 30 ores on one asteroid.", 30, (f) => f.mostInRound),
   a("round-40", "Unstoppable", "Find 40 ores on one asteroid.", 40, (f) => f.mostInRound),
   a("full-spectrum", "Full Spectrum", "Find Stone, Iron, Cobalt, Gold and Crystal on one asteroid.", 1, (f) => f.fullSpectrumRounds),
-  a("no-stone", "No Stone Unturned", "Find at least 5 ores on one asteroid without a single Stone.", 1, (f) => f.noStoneRounds),
+  a("no-stone", "No Stone Unturned", "Find at least 10 ores on one asteroid without a single Stone.", 1, (f) => f.noStoneRounds),
   a("empty-shaft", "Dry Hole", "Drill 0 m on an asteroid.", 1, (f) => f.emptyRounds),
   a("crystal-50", "Crystal Collector", "Find 50 Crystals.", 50, (f) => f.tier[5]),
   a("starcore-1", "Starcore!", "Find a Starcore.", 1, (f) => f.tier[6]),
