@@ -10,6 +10,7 @@ import { computeStats, markAchievementsSeen, seenAchievements, totalDepth, type 
 import { useDays } from "@/lib/client/useDays";
 import { useMounted } from "@/lib/client/useMounted";
 import { shareImage, shareText } from "@/lib/client/share";
+import AchievementToasts from "./AchievementToasts";
 import RevealList from "./RevealList";
 import s from "./Game.module.css";
 
@@ -142,23 +143,6 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
         )}
       </div>
 
-      {newAchievements.length > 0 && (
-        <div className={s.achievementsNew} role="status">
-          <p className={s.achievementsKicker}>Achievement{newAchievements.length > 1 ? "s" : ""} unlocked</p>
-          <ul>
-            {newAchievements.map(({ achievement }) => (
-              <li key={achievement.id}>
-                <strong>{achievement.title}</strong>
-                <span>{achievement.description}</span>
-              </li>
-            ))}
-          </ul>
-          <Link href="/stats#achievements" className={s.achievementsLink}>
-            See all achievements
-          </Link>
-        </div>
-      )}
-
       <div className={s.tally}>
         {tierTally.map(({ t, n }) => (
           <div key={t} className={s.tallyItem} data-zero={n === 0} style={{ "--c": TIERS[t].color } as React.CSSProperties}>
@@ -224,6 +208,24 @@ export default function Summary({ day, record, mode }: { day: DayResponse; recor
         })}
       </div>
       <RevealList answers={reveals[tab]?.answers ?? null} found={record.rounds[tab]?.found ?? []} />
+
+      {newAchievements.length > 0 && (
+        <div className={s.achievementsNew} role="status">
+          <p className={s.achievementsKicker}>Achievement{newAchievements.length > 1 ? "s" : ""} unlocked</p>
+          <ul>
+            {newAchievements.map(({ achievement }) => (
+              <li key={achievement.id}>
+                <strong>{achievement.title}</strong>
+                <span>{achievement.description}</span>
+              </li>
+            ))}
+          </ul>
+          <Link href="/stats#achievements" className={s.achievementsLink}>
+            See all achievements
+          </Link>
+        </div>
+      )}
+      <AchievementToasts items={newAchievements.map((a) => a.achievement)} />
     </section>
   );
 }

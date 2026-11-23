@@ -1057,8 +1057,7 @@
 
 /* Newly unlocked achievements on the mission report. */
 .achievementsNew {
-  margin: 18px auto 0;
-  max-width: 560px;
+  margin: 28px 0 0;
   padding: 14px 18px;
   border-radius: 14px;
   border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
