@@ -182,3 +182,33 @@ Sweet potato | yam | yams | kumara
 Napa cabbage | napa | chinese leaf | wombok | wong bok | chinese cabbage
 Crosne | chinese artichoke | chorogi | stachys
 Kohlrabi | kohl rabi | german turnip | turnip cabbage
+--- 2
+Pepper | paprika
+Garlic | ajo
+Parsnip | pastinak
+Carrot | karott
+Cucumber | gurke
+Cauliflower | colifloour
+Celery | cellury | celari
+Beetroot | rootbeet | root beet
+Asparagus | asparges
+Squash | squas
+Iceberg lettuce | iceberg
+Green beans | beans
+--- 3
+Lentils | lentil
+Luffa | thori
+Bitter melon | ampalaya
+Pattypan squash | pattison
+Fiddlehead fern | fern
+Ají amarillo | amarillo
+--- 4
+Basil
+Dill
+--- 5
+Yacón | yacon
+Maca
+Mashua
+Arracacha
+Komatsuna
+Earthnut pea
