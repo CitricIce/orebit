@@ -83,3 +83,12 @@ Ball lightning | ball of lightning | balllightning | ball lighting | ball-lightn
 Ice jam | ice jam flood | ice jams | river ice jam | icejam | ice dam | ice damming
 Mega drought | megadrought | mega-drought | long drought | decades-long drought | extended drought | multi-year drought
 Medicane | mediterranean hurricane | mediterranean cyclone | medicanes | tropical-like cyclone | mediterranean tropical-like cyclone | medicain
+--- 2
+Wildfire | fire
+Heatwave | heat
+Ice storm | sleet
+Hurricane | uracan | huracan
+Cloudburst | rain
+Pandemic | virus
+--- 3
+Acid rain

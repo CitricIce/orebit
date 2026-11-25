@@ -50,3 +50,10 @@ blackout
 derecho
 lava
 famin => Famine
+fire
+heat
+sleet
+uracan
+rain
+virus
+acid rain
