@@ -424,3 +424,8 @@ Karri
 Coolibah | coolabah
 Spindle tree
 Buckthorn
+--- 2
+Apple tree | applewood
+--- 4
+Conifer | coniferous | connifer | coniferous tree
+Deciduous tree | deciduous

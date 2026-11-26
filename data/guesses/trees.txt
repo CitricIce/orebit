@@ -58,3 +58,7 @@ beach tree => Beech
 sweet gum => Sweetgum
 tulip tree
 crab apple => Crabapple
+applewood
+coniferous
+connifer
+deciduous

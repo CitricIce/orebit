@@ -64,3 +64,15 @@ Arctic Wolf | wolf | wolves | arctic wolves
 Moose | elk
 Musk Ox
 Air Conditioning | aircon | air con | air conditioner unit
+--- 2
+Sea | seawater | sea water
+--- 3
+Autumn | fall
+Rain | cold rain
+Fan | electric fan | ceiling fan
+Minnesota
+Jupiter
+Coolant | antifreeze
+--- 5
+Superfluid | superfluid helium
+Dry Valleys | dry valley | mcmurdo dry valleys
