@@ -48,3 +48,12 @@ Fire Poker | fire iron
 Log Burner | wood burner | wood burning stove | wood-burning stove | multi fuel stove | pot-bellied stove
 Chimney Pot | hot flue | flue | smoke
 Hot Chocolate Bomb | hot choc
+--- 2
+Frying Pan | pan
+Lava | lava rock | lavarock
+--- 3
+Pot | cooking pot
+Hot milk | hotmilk | warm milk
+Lamp | desk lamp
+--- 5
+Quasar | ton 618

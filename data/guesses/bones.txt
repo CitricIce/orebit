@@ -52,3 +52,9 @@ humerous => Humerus
 sternam => Sternum
 clavical => Collarbone
 atlas
+craneo
+cubito
+wrist
+knee
+shoulder
+head

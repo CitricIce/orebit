@@ -491,3 +491,13 @@ Wheelchair curling | wheelchair curling
 Chessboxing | chess boxing | chessboxing
 Blind football | five a side blind
 Torball | torball
+--- 2
+Cycling | bike | biking | ciclism
+Motor racing | f2
+Sprint | 200m | 400m | 100m
+Paddleboarding | padelsurf | paddle surf
+--- 3
+Long-distance running | long distance running | distance running
+Jousting
+--- 5
+Hobby horsing | hobbyhorsing | hobby horse

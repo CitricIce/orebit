@@ -83,3 +83,9 @@ Trochanter | greater trochanter | lesser trochanter | trochanters | trocanter | 
 Condyle | femoral condyle | condyles | condyl | mandibular condyle
 Malleolus | medial malleolus | lateral malleolus | ankle knob | malleoulus | malleoli
 Glenoid Cavity | glenoid | glenoid fossa | glenoid socket
+--- 2
+Skull | craneo | cráneo | head
+Ulna | cubito | cúbito
+Carpals | wrist | wrist bones
+Kneecap | knee
+Shoulder Blade | shoulder

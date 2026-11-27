@@ -111,3 +111,10 @@ Sea Stack | sea arch | natural arch | headland | promontory
 Bioluminescence | glowing waves | bioluminescent plankton | plankton | algal bloom
 Kelp Forest | kelp bed | kelp beds | giant kelp | bladderwrack | bladder wrack | sea lettuce | dulse | nori | wakame | laver | carrageen | irish moss
 Binoculars | telescope | spyglass | bird watching | birdwatching
+--- 2
+Sandcastle | castles
+Paddle Ball | rackets | beach rackets
+--- 3
+Inflatable | float | floating platform | inflatable raft
+--- 4
+Sea salt | seasalt

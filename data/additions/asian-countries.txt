@@ -54,3 +54,5 @@ Hong Kong | hongkong | hk
 Macau | macao
 Cyprus | cypress | kypros
 --- 5
+--- 2
+Jordan | jordania
