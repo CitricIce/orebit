@@ -145,3 +145,9 @@ Russian White | russian white cat | russian black | russian tabby | russian tabb
 Mohave Spotted | mohave spotted | mohave | mohave cat
 Karakul | karakul cat | karakul breed
 Oriental Spotted Tabby | oriental spotted | oriental tabby | oriental spotted tabby cat
+--- 2
+Sphynx | hairless | hairless cat
+Russian Blue | russian
+American Shorthair | american short
+Cornish Rex | rex
+Moggy | indie | indie cat | street | street cat

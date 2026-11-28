@@ -57,3 +57,6 @@ anise seed
 aniseed => Anise Seed
 pomegranate seeds
 pinon => Pine Nut
+canola
+cress
+watercress
